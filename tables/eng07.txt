@@ -4,9 +4,9 @@
   
 
 
-## England 2006/07
+== England 2006/07
 
-
+<!-- start pre -->
 Premiership
 
 Final Table:
@@ -4267,10 +4267,11 @@ Salisbury City          1-0 Braintree Town
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Dinant Abbink
 
@@ -4283,6 +4284,6 @@ Author: Ian King
 Last updated: 22 Aug 2008
 
 
-**(C) Copyright Ian King and RSSSF 2006/08**
+(C) Copyright Ian King and RSSSF 2006/08
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

@@ -4,9 +4,9 @@
   
 
 
-## England 1999/2000
+== England 1999/2000
 
-
+<!-- start pre -->
 
 Premiership
 
@@ -5077,11 +5077,11 @@ Final Table:
 
 ‹list of league cup winners, see page engleagcuphist›.
 
-
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Scorer information thanks to Marcos Cabaleiro Pérez
 
@@ -5098,6 +5098,6 @@ Andreas Exenberger
 Last updated: 15 Apr 2001
 
 
-**(C) Copyright Ken Butler, Stephen Mulrine, Andreas Exenberger and RSSSF 1999/2001**
+(C) Copyright Ken Butler, Stephen Mulrine, Andreas Exenberger and RSSSF 1999/2001
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

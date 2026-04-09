@@ -4,9 +4,9 @@
   
 
 
-## England 1996/97
+== England 1996/97
 
-
+<!-- start pre -->
 
 Premiership
 
@@ -1371,10 +1371,11 @@ Buxton......................44  5 12 27  33:86  27
 
 ‹list of league cup winners, see page engleagcuphist›.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Malcolm Hodgson and Roberto Di Maggio
 the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -1386,6 +1387,6 @@ Malcolm Hodgson and Roberto Di Maggio
 Last updated: 15 Sep 2016
 
 
-**(C) Copyright Malcolm Hodgson, Roberto Di Maggio and RSSSF 1999/2016**
+(C) Copyright Malcolm Hodgson, Roberto Di Maggio and RSSSF 1999/2016
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

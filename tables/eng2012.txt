@@ -4,20 +4,22 @@
   
 
 
-## England 2011/12
+== England 2011/12
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Premiership, see §premier›
 ‹Cup Tournaments, see §cups›
 ‹Championship, see §champ›
 ‹Division 1, see §first›
 ‹Division 2, see §second›
 ‹Conference, see §conf›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Premiership  ‹§premier›
+==== Premiership  ‹§premier›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Manchester City         38  28  5  5  93-29  89  Champions
@@ -42,15 +44,16 @@ Final Table:
 19.Blackburn Rovers        38   8  7 23  48-78  31  Relegated
 20.Wolverhampton Wanderers 38   5 10 23  40-82  25  Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Cup Tournaments  ‹§cups›
+==== Cup Tournaments  ‹§cups›
 
-
+<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-**FA Cup  ‹§facup›**
+FA Cup  ‹§facup›
 
 Round 1
 [Nov 11]
@@ -261,7 +264,7 @@ Tottenham Hotspur       1-5 Chelsea
 Final [May 5, London]
 Chelsea                 2-1 Liverpool
 
-**League Cup  ‹§leaguecup›**
+League Cup  ‹§leaguecup›
 
 Preliminary Round [Jul 29]
 Crawley Town            3-2 AFC Wimbledon
@@ -395,15 +398,16 @@ Liverpool               2-2 Manchester City
 
 Final [Feb 26, London]
 Cardiff City            2-2 Liverpool               [aet, 2-3 pen]
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Championship  ‹§champ›
+==== Championship  ‹§champ›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-**Regular Stage  ‹§2reg›**
+Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -437,7 +441,7 @@ Final Table:
 
 NB: Portsmouth 10 points deducted for entering administration
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -457,15 +461,16 @@ Final [May 19]
 West Ham      2-1 Blackpool
 
 NB: West Ham United promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 1  ‹§first›
+==== Division 1  ‹§first›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-**Regular Stage  ‹§3reg›**
+Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -497,7 +502,7 @@ Final Table:
 23.Exeter City             46  10 12 24  46-75  42  Relegated
 24.Rochdale                46   8 14 24  47-81  38  Relegated
 
-**Promotion Playoff  ‹§3prom›**
+Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -517,15 +522,16 @@ Final [May 26]
 Sheffield U   0-0 Huddersfield  [aet, 7-8 pen]
 
 NB: Huddersfield Town promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 2  ‹§second›
+==== Division 2  ‹§second›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-**Regular Stage  ‹§4reg›**
+Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -559,7 +565,7 @@ Final Table:
 
 NB: Port Vale 10 points deducted for entering administration
 
-**Promotion Playoff  ‹§4prom›**
+Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -579,15 +585,16 @@ Final [May 27]
 Cheltenham    0-2 Crewe
 
 NB: Crewe Alexandra promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Conference  ‹§conf›
+==== Conference  ‹§conf›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-**Regular Stage  ‹§5reg›**
+Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -624,7 +631,7 @@ NB: Darlington 10 points deducted for entering administration; they were relegat
     Kettering Town 3 points deducted for failing to pay creditors; they were relegated 2
       levels at the end of the season.
 
-**Promotion Playoff  ‹§5prom›**
+Promotion Playoff  ‹§5prom›
 
 Semifinals
 
@@ -643,6 +650,7 @@ York          2-1 Luton
 
 NB: York City promoted
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -665,9 +673,10 @@ NB: York City promoted
 ‹list of league cup winners, see page engleagcuphist›.
 
 ‹list of league trophy winners, see page engassmembcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind for corrections
 
@@ -680,6 +689,6 @@ Author: Karel Stokkermans
 Last updated: 28 Jan 2021
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2013/21**
+(C) Copyright Karel Stokkermans and RSSSF 2013/21
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

@@ -4,20 +4,22 @@
   
 
 
-## England 2009/10
+== England 2009/10
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Premiership, see §premier›
 ‹Cup Tournaments, see §cups›
 ‹Championship, see §champ›
 ‹Division 1, see §first›
 ‹Division 2, see §second›
 ‹Conference, see §conf›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Premiership  ‹§premier›
+==== Premiership  ‹§premier›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Chelsea                 38  27  5  6 103-32  86  Champions
@@ -757,15 +759,16 @@ Final Table:
 20.Portsmouth              38   7  7 24  34-66  19  [-9]  Relegated
 
 NB: Portsmouth 9 points deducted for financial reasons
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Cup Tournaments  ‹§cups›
+==== Cup Tournaments  ‹§cups›
 
-
+<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup› | ‹Football League Trophy, see §assmemb›
 
-**FA Cup  ‹§facup›**
+FA Cup  ‹§facup›
 
 Fourth Qualifying Round
 [Oct 24]
@@ -1038,7 +1041,7 @@ Tottenham Hotspur          0-2 Portsmouth                 [aet]
 Final [May 15, Wembley]
 Chelsea                    1-0 Portsmouth
 
-**League Cup  ‹§leaguecup›**
+League Cup  ‹§leaguecup›
 
 Round 1
 [Aug 10]
@@ -1213,7 +1216,7 @@ Man Utd: Kuszczak, Evra, Vidic, Rafael Da Silva (Neville 66), Evans,
          (Rooney 42), Berbatov.
 
 
-**Football League Trophy  ‹§assmemb›**
+Football League Trophy  ‹§assmemb›
 
 Northern Section
 
@@ -1328,15 +1331,16 @@ Southampton   3-1 Milton Keynes
 
 Overall Final [Mar 28, Wembley]
 Carlisle      1-4 Southampton
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Championship  ‹§champ›
+==== Championship  ‹§champ›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-**Regular Stage  ‹§2reg›**
+Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -2146,7 +2150,7 @@ Final Table:
 
 NB: Crystal Palace 10 points deducted for financial reasons
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -2166,15 +2170,16 @@ Final [May 22]
 Blackpool     3-2 Cardiff
 
 NB: Blackpool promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 1  ‹§first›
+==== Division 1  ‹§first›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-**Regular Stage  ‹§3reg›**
+Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -2975,7 +2980,7 @@ Final Table:
 
 NB: Southampton 10 points deducted for financial reasons
 
-**Promotion Playoff  ‹§3prom›**
+Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -2995,15 +3000,16 @@ Final [May 29]
 Millwall      1-0 Swindon
 
 NB: Millwall promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 2  ‹§second›
+==== Division 2  ‹§second›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-**Regular Stage  ‹§4reg›**
+Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -3788,7 +3794,7 @@ Final Table:
 23.Grimsby Town            46   9 17 20  45-71  44  Relegated
 24.Darlington              46   8  6 32  33-87  30  Relegated
 
-**Promotion Playoff  ‹§4prom›**
+Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -3808,15 +3814,16 @@ Final [May 30]
 Rotherham     2-3 Dagenham & R
 
 NB: Dagenham & Redbridge promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Conference  ‹§conf›
+==== Conference  ‹§conf›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-**Regular Stage  ‹§5reg›**
+Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -4655,7 +4662,7 @@ NB: Chester City 25 points deducted for financial reasons; they
     Gateshead 1 point deducted for abandonment round 8
 
 
-**Promotion Playoff  ‹§5prom›**
+Promotion Playoff  ‹§5prom›
 
 Semifinals
 
@@ -4672,6 +4679,7 @@ Oxford        3-1 York
 
 NB: Oxford promoted
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -4694,9 +4702,10 @@ NB: Oxford promoted
 ‹list of league cup winners, see page engleagcuphist›.
 
 ‹list of league trophy winners, see page engassmembcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind, Ian Kay and Giorgio Abraini for corrections
 
@@ -4709,6 +4718,6 @@ Author: Ian King
 Last updated: 23 Dec 2020
 
 
-**(C) Copyright Ian King and RSSSF 2009/20**
+(C) Copyright Ian King and RSSSF 2009/20
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

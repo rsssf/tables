@@ -4,9 +4,9 @@
   
 
 
-## England 2005/06
+== England 2005/06
 
-
+<!-- start pre -->
 Premiership
 
 Final Table:
@@ -4135,10 +4135,11 @@ Halifax Town            2-3 Hereford                [aet]
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Daniel Dalence, Gurgen Mahari
 and Ian King for the
@@ -4152,7 +4153,7 @@ and Ian King
 Last updated: 18 May 2007
 
 
-**(C) Copyright Daniel Dalence, Gurgen Mahari,
-Ian King and RSSSF 2005/07**
+(C) Copyright Daniel Dalence, Gurgen Mahari,
+Ian King and RSSSF 2005/07
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

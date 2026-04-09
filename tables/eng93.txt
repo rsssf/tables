@@ -4,9 +4,9 @@
   
 
 
-## England 1992/93
+== England 1992/93
 
-
+<!-- start pre -->
 
 Premiership
 
@@ -34,7 +34,7 @@ Pos Team                  P   W   D   L   F   A  GD Pts
  21 Middlesbrough        42  11  11  20  54  75 -21  44
  22 Nottingham Forest    42  10  10  22  41  62 -21  40
 
-<u>15 August 1992</u>
+15 August 1992
 Arsenal                     2    Norwich City                4
   Bould, Campbell                  Robins 2, Phillips, Fox
 Chelsea                     1    Oldham Athletic             1
@@ -54,21 +54,21 @@ Sheffield United            2    Manchester United           1
 Southampton                 0    Tottenham Hotspur           0
 
 
-<u>16 August 1992</u>
+16 August 1992
 Nottingham Forest           1    Liverpool                   0
   Sheringham
 
-<u>17 August 1992</u>
+17 August 1992
 Manchester City             1    Queens Park Rangers         1
   White                            Sinton
 
-<u>18 August 1992</u>
+18 August 1992
 Blackburn Rovers            1    Arsenal                     0
   Shearer
 Wimbledon                   0    Ipswich Town                1
                                    Johnson
 
-<u>19 August 1992</u>
+19 August 1992
 Aston Villa                 1    Leeds United                1
   Atkinson                         Speed
 Liverpool                   2    Sheffield United            1
@@ -88,7 +88,7 @@ Sheffield Wednesday         2    Nottingham Forest           0
 Tottenham Hotspur           0    Coventry City               2
                                    Williams 2
 
-<u>22 August 1992</u>
+22 August 1992
 Aston Villa                 1    Southampton                 1
   Atkinson                         Adams
 Blackburn Rovers            1    Manchester City             0
@@ -110,15 +110,15 @@ Tottenham Hotspur           2    Crystal Palace              2
 Wimbledon                   1    Coventry City               2
   Holdsworth                       Gynn, Rosario
 
-<u>23 August 1992</u>
+23 August 1992
 Liverpool                   0    Arsenal                     2
                                    Limpar, Wright
 
-<u>24 August 1992</u>
+24 August 1992
 Southampton                 0    Manchester United           1
                                    Dublin
 
-<u>25 August 1992</u>
+25 August 1992
 Crystal Palace              1    Sheffield Wednesday         1
   Young                            Williams
 Everton                     1    Aston Villa                 0
@@ -130,7 +130,7 @@ Leeds United                5    Tottenham Hotspur           0
 Sheffield United            2    Wimbledon                   2
   Beesley, Hodges                  Barton, Holdsworth
 
-<u>26 August 1992</u>
+26 August 1992
 Arsenal                     2    Oldham Athletic             0
   Winterburn, Wright
 Chelsea                     0    Blackburn Rovers            0
@@ -140,7 +140,7 @@ Coventry City               0    Queens Park Rangers         1
 Manchester City             3    Norwich City                1
   White 2, McMahon                 Megson
 
-<u>29 August 1992</u>
+29 August 1992
 Arsenal                     2    Sheffield Wednesday         1
   Parlour, Merson                  Hirst
 Chelsea                     1    Queens Park Rangers         0
@@ -162,15 +162,15 @@ Sheffield United            0    Aston Villa                 2
 Southampton                 2    Middlesbrough               1
   Le Tissier, Banger               Wilkinson
 
-<u>30 August 1992</u>
+30 August 1992
 Ipswich Town                1    Tottenham Hotspur           1
   Wark                             Cundy
 
-<u>31 August 1992</u>
+31 August 1992
 Norwich City                3    Nottingham Forest           1
   Crook, Power, Phillips           Clough
 
-<u>01 September 1992</u>
+01 September 1992
 Liverpool                   1    Southampton                 1
   Wright                           Dixon
 Middlesbrough               2    Ipswich Town                2
@@ -180,7 +180,7 @@ Oldham Athletic             2    Leeds United                2
 Wimbledon                   0    Manchester City             1
                                    White
 
-<u>02 September 1992</u>
+02 September 1992
 Aston Villa                 1    Chelsea                     3
   Richardson                       Fleck, Newton, Wise
 Manchester United           1    Crystal Palace              0
@@ -192,7 +192,7 @@ Sheffield Wednesday         1    Coventry City               2
 Tottenham Hotspur           2    Sheffield United            0
   Sheringham, Durie
 
-<u>05 September 1992</u>
+05 September 1992
 Aston Villa                 3    Crystal Palace              0
   Yorke, Staunton, Froggatt
 Blackburn Rovers            4    Nottingham Forest           1
@@ -214,11 +214,11 @@ Tottenham Hotspur           2    Everton                     1
 Wimbledon                   3    Arsenal                     2
   Sanchez, Fashanu, Earle          Wright 2
 
-<u>06 September 1992</u>
+06 September 1992
 Manchester United           2    Leeds United                0
   Kanchelskis, Bruce
 
-<u>12 September 1992</u>
+12 September 1992
 Arsenal                     0    Blackburn Rovers            1
                                    Newell
 Chelsea                     2    Norwich City                3
@@ -238,19 +238,19 @@ Sheffield United            1    Liverpool                   0
 Southampton                 1    Queens Park Rangers         2
   Le Tissier                       Sinton, Channing
 
-<u>13 September 1992</u>
+13 September 1992
 Leeds United                1    Aston Villa                 1
   Hodge                            Parker
 
-<u>14 September 1992</u>
+14 September 1992
 Coventry City               1    Tottenham Hotspur           0
   Williams
 
-<u>15 September 1992</u>
+15 September 1992
 Blackburn Rovers            2    Everton                     3
   Shearer 2                        Cottee 2, Ebbrell
 
-<u>19 September 1992</u>
+19 September 1992
 Aston Villa                 4    Liverpool                   2
   Saunders 2, Atkinson, Parker     Walters, Rosenthal
 Everton                     0    Crystal Palace              2
@@ -270,15 +270,15 @@ Tottenham Hotspur           1    Manchester United           1
 Wimbledon                   1    Blackburn Rovers            1
   Ardley                           Shearer
 
-<u>20 September 1992</u>
+20 September 1992
 Manchester City             0    Chelsea                     1
                                    Harford
 
-<u>21 September 1992</u>
+21 September 1992
 Nottingham Forest           1    Coventry City               1
   Clough                           Rosario
 
-<u>26 September 1992</u>
+26 September 1992
 Blackburn Rovers            2    Oldham Athletic             0
   Shearer, Ripley
 Chelsea                     0    Nottingham Forest           0
@@ -298,15 +298,15 @@ Manchester United           0    Queens Park Rangers         0
 Middlesbrough               2    Aston Villa                 3
   Slaven, og                       Saunders 2, Atkinson
 
-<u>27 September 1992</u>
+27 September 1992
 Sheffield Wednesday         2    Tottenham Hotspur           0
   Bright, Anderson
 
-<u>28 September 1992</u>
+28 September 1992
 Arsenal                     1    Manchester City             0
   Wright
 
-<u>03 October 1992</u>
+03 October 1992
 Arsenal                     2    Chelsea                     1
   Merson, Wright                   Wise
 Blackburn Rovers            7    Norwich City                1
@@ -328,11 +328,11 @@ Sheffield United            2    Southampton                 0
 Wimbledon                   2    Aston Villa                 3
   Newhouse, Clarke                 Saunders 2, Atkinson
 
-<u>04 October 1992</u>
+04 October 1992
 Oldham Athletic             1    Everton                     0
   Jobson
 
-<u>17 October 1992</u>
+17 October 1992
 Chelsea                     2    Ipswich Town                1
   Hall, Harford                    Whitton
 Crystal Palace              0    Manchester City             0
@@ -352,18 +352,18 @@ Southampton                 2    Wimbledon                   2
 Tottenham Hotspur           2    Middlesbrough               2
   Sheringham, Barmby               Mustoe, Wilkinson
 
-<u>18 October 1992</u>
+18 October 1992
 Manchester United           2    Liverpool                   2
   Hughes 2                         Hutchinson, Rush
 
-<u>19 October 1992</u>
+19 October 1992
 Aston Villa                 0    Blackburn Rovers            0
 
-<u>21 October 1992</u>
+21 October 1992
 Nottingham Forest           1    Middlesbrough               0
   Black
 
-<u>24 October 1992</u>
+24 October 1992
 Arsenal                     2    Everton                     0
   Wright, Limpar
 Blackburn Rovers            0    Manchester United           0
@@ -383,13 +383,13 @@ Queens Park Rangers         2    Leeds United                1
 Sheffield United            0    Nottingham Forest           0
 
 
-<u>25 October 1992</u>
+25 October 1992
 Liverpool                   4    Norwich City                1
   Thomas, Hutchinson, Burrows, WaltButterworth
 Wimbledon                   1    Tottenham Hotspur           1
   Gibson                           Barmby
 
-<u>31 October 1992</u>
+31 October 1992
 Chelsea                     1    Sheffield United            2
   Townsend                         Littlejohn, Deane
 Everton                     1    Manchester City             3
@@ -409,15 +409,15 @@ Southampton                 1    Oldham Athletic             0
 Tottenham Hotspur           2    Liverpool                   0
   Nayim, Ruddock
 
-<u>01 November 1992</u>
+01 November 1992
 Aston Villa                 2    Queens Park Rangers         0
   Saunders, Atkinson
 
-<u>02 November 1992</u>
+02 November 1992
 Crystal Palace              1    Arsenal                     2
   McGoldrick                       Merson, Wright
 
-<u>07 November 1992</u>
+07 November 1992
 Arsenal                     3    Coventry City               0
   Smith, Wright, Campbell
 Aston Villa                 1    Manchester United           0
@@ -437,13 +437,13 @@ Nottingham Forest           0    Everton                     1
 Wimbledon                   0    Queens Park Rangers         2
                                    Allen, Wilkins
 
-<u>08 November 1992</u>
+08 November 1992
 Sheffield United            1    Sheffield Wednesday         1
   Littlejohn                       Hirst
 Oldham Athletic             2    Norwich City                3
   Sharp, Marshall                  Robins 3
 
-<u>21 November 1992</u>
+21 November 1992
 Coventry City               2    Manchester City             3
   Quinn 2                          Sheron, Quinn, Curle
 Crystal Palace              1    Nottingham Forest           1
@@ -462,15 +462,15 @@ Sheffield Wednesday         1    Ipswich Town                1
   (Thompson og)                    Kiwomya
 Tottenham Hotspur           0    Aston Villa                 0
 
-<u>22 November 1992</u>
+22 November 1992
 Southampton                 1    Blackburn Rovers            1
   Le Tissier                       Moran
 
-<u>23 November 1992</u>
+23 November 1992
 Queens Park Rangers         0    Liverpool                   1
                                    Rosenthal
 
-<u>28 November 1992</u>
+28 November 1992
 Arsenal                     0    Manchester United           1
                                    Hughes
 Aston Villa                 2    Norwich City                3
@@ -492,11 +492,11 @@ Sheffield United            1    Coventry City               1
 Wimbledon                   1    Sheffield Wednesday         1
   Jones                            Bart-Williams
 
-<u>29 November 1992</u>
+29 November 1992
 Chelsea                     1    Leeds United                0
   Townsend
 
-<u>05 December 1992</u>
+05 December 1992
 Coventry City               2    Ipswich Town                2
   Gallacher, Quinn                 Kiwomya, Whitton
 Crystal Palace              2    Sheffield United            0
@@ -518,14 +518,14 @@ Tottenham Hotspur           1    Chelsea                     2
 Manchester United           2    Manchester City             1
   Ince, Hughes                     Quinn
 
-<u>07 December 1992</u>
+07 December 1992
 Everton                     2    Liverpool                   1
   Johnston, Beardsley              Wright
 
-<u>11 December 1992</u>
+11 December 1992
 Middlesbrough               0    Chelsea                     0
 
-<u>12 December 1992</u>
+12 December 1992
 Aston Villa                 2    Nottingham Forest           1
   Regis, McGrath                   Keane
 Ipswich Town                3    Manchester City             1
@@ -545,11 +545,11 @@ Tottenham Hotspur           1    Arsenal                     0
 Wimbledon                   5    Oldham Athletic             2
   Ardley 2, Holdsworth 2, Clarke   Brennan, Milligan
 
-<u>13 December 1992</u>
+13 December 1992
 Liverpool                   2    Blackburn Rovers            1
   Walters 2                        Shearer
 
-<u>19 December 1992</u>
+19 December 1992
 Arsenal                     1    Middlesbrough               1
   Wright                           og
 Blackburn Rovers            1    Sheffield United            0
@@ -567,17 +567,17 @@ Oldham Athletic             2    Tottenham Hotspur           1
 Sheffield Wednesday         1    Queens Park Rangers         0
   Bright
 
-<u>20 December 1992</u>
+20 December 1992
 Crystal Palace              1    Leeds United                0
   Thorn
 Nottingham Forest           1    Wimbledon                   1
   Clough                           Clarke
 
-<u>21 December 1992</u>
+21 December 1992
 Norwich City                0    Ipswich Town                2
                                    Kiwomya, Thompson
 
-<u>26 December 1992</u>
+26 December 1992
 Arsenal                     0    Ipswich Town                0
 
 Blackburn Rovers            3    Leeds United                1
@@ -597,7 +597,7 @@ Norwich City                0    Tottenham Hotspur           0
 Sheffield Wednesday         3    Manchester United           3
   Hirst, Bright, Sheridan          McClair 2, Cantona
 
-<u>28 December 1992</u>
+28 December 1992
 Aston Villa                 1    Arsenal                     0
   Saunders
 Ipswich Town                2    Blackburn Rovers            1
@@ -619,7 +619,7 @@ Tottenham Hotspur           2    Nottingham Forest           1
 Wimbledon                   0    Chelsea                     0
 
 
-<u>09 January 1993</u>
+09 January 1993
 Arsenal                     1    Sheffield United            1
   Hillier                          Littlejohn
 Blackburn Rovers            0    Wimbledon                   0
@@ -641,11 +641,11 @@ Manchester United           4    Tottenham Hotspur           1
 Middlesbrough               0    Queens Park Rangers         1
                                    Ferdinand
 
-<u>10 January 1993</u>
+10 January 1993
 Sheffield Wednesday         1    Norwich City                0
   Worthington
 
-<u>16 January 1993</u>
+16 January 1993
 Everton                     2    Leeds United                0
   Cottee 2
 Manchester City             0    Arsenal                     1
@@ -665,19 +665,19 @@ Tottenham Hotspur           0    Sheffield Wednesday         2
 Wimbledon                   2    Liverpool                   0
   Fashanu. Cotterill
 
-<u>17 January 1993</u>
+17 January 1993
 Aston Villa                 5    Middlesbrough               1
   Parker, McGrath, Yorke, Saunders,Hignett
 
-<u>18 January 1993</u>
+18 January 1993
 Queens Park Rangers         1    Manchester United           3
   Allen                            Ince, Giggs, Kanchelskis
 
-<u>23 January 1993</u>
+23 January 1993
 Coventry City               3    Oldham Athletic             0
   Gallacher 2, Ndlovu
 
-<u>26 January 1993</u>
+26 January 1993
 Blackburn Rovers            2    Coventry City               5
   Newell, Hendry                   (Hendry og), Hurst, Williams, Quinn 2
 Middlesbrough               2    Southampton                 1
@@ -687,7 +687,7 @@ Oldham Athletic             0    Manchester City             1
 Wimbledon                   1    Everton                     3
   Fashanu                          Cottee 2, Snodin
 
-<u>27 January 1993</u>
+27 January 1993
 Aston Villa                 3    Sheffield United            1
   McGrath Saunders, Richardson     Deane
 Manchester United           2    Nottingham Forest           0
@@ -699,7 +699,7 @@ Queens Park Rangers         1    Chelsea                     1
 Tottenham Hotspur           0    Ipswich Town                2
                                    Yallop, Guentchev
 
-<u>30 January 1993</u>
+30 January 1993
 Chelsea                     0    Sheffield Wednesday         2
                                    Warhusrt, Harkes
 Coventry City               0    Wimbledon                   2
@@ -721,15 +721,15 @@ Sheffield United            1    Queens Park Rangers         2
 Southampton                 2    Aston Villa                 0
   Banger, Dowie
 
-<u>31 January 1993</u>
+31 January 1993
 Arsenal                     0    Liverpool                   1
                                    Barnes
 
-<u>02 February 1993</u>
+02 February 1993
 Blackburn Rovers            1    Crystal Palace              2
   Wegerle                          Armstrong, Rodger
 
-<u>06 February 1993</u>
+06 February 1993
 Aston Villa                 2    Ipswich Town                0
   Yorke, Saunders
 Liverpool                   0    Nottingham Forest           0
@@ -747,21 +747,21 @@ Sheffield Wednesday         3    Everton                     1
 Wimbledon                   1    Leeds United                0
   Holdsworth
 
-<u>07 February 1993</u>
+07 February 1993
 Tottenham Hotspur           4    Southampton                 2
   Sheringham 2, Barmby, Anderton   Dowie, Hall
 
-<u>08 February 1993</u>
+08 February 1993
 Leeds United                0    Manchester United           0
 
 Ipswich Town                1    Queens Park Rangers         1
   Thompson                         White
 
-<u>09 February 1993</u>
+09 February 1993
 Sheffield United            2    Middlesbrough               0
   Carr, Deane
 
-<u>10 February 1993</u>
+10 February 1993
 Arsenal                     0    Wimbledon                   1
                                    Holdsworth
 Chelsea                     0    Liverpool                   0
@@ -773,7 +773,7 @@ Everton                     1    Tottenham Hotspur           2
 Southampton                 3    Norwich City                0
   Hall, Adams, Banger
 
-<u>13 February 1993</u>
+13 February 1993
 Chelsea                     0    Aston Villa                 1
                                    Houghton
 Leeds United                2    Oldham Athletic             0
@@ -781,7 +781,7 @@ Leeds United                2    Oldham Athletic             0
 Southampton                 2    Liverpool                   1
   Maddison, Banger                 Hutchinson
 
-<u>20 February 1993</u>
+20 February 1993
 Aston Villa                 2    Everton                     1
   Cox, Barrett                     Beardsley
 Liverpool                   0    Ipswich Town                0
@@ -803,25 +803,25 @@ Tottenham Hotspur           4    Leeds United                0
 Wimbledon                   2    Sheffield United            0
   Fashanu, Dobbs
 
-<u>21 February 1993</u>
+21 February 1993
 Blackburn Rovers            2    Chelsea                     0
   Newell 2
 
-<u>22 February 1993</u>
+22 February 1993
 Sheffield United            2    Oldham Athletic             0
   Gannon, Littlejohn
 
-<u>23 February 1993</u>
+23 February 1993
 Manchester City             1    Sheffield Wednesday         2
   Quinn                            Anderson, Warhurst
 
-<u>24 February 1993</u>
+24 February 1993
 Arsenal                     0    Leeds United                0
 
 Nottingham Forest           1    Queens Park Rangers         0
   Crosby
 
-<u>27 February 1993</u>
+27 February 1993
 Aston Villa                 1    Wimbledon                   0
   Yorke
 Crystal Palace              0    Coventry City               0
@@ -841,21 +841,21 @@ Southampton                 3    Sheffield United            2
 Tottenham Hotspur           3    Queens Park Rangers         2
   Sheringham, Anderton             Peacock, White
 
-<u>28 February 1993</u>
+28 February 1993
 Norwich City                0    Blackburn Rovers            0
 
 
-<u>01 March 1993</u>
+01 March 1993
 Chelsea                     1    Arsenal                     0
   Stuart
 
-<u>02 March 1993</u>
+02 March 1993
 Ipswich Town                0    Middlesbrough               1
                                    Wilkinson
 Sheffield United            6    Tottenham Hotspur           0
   Carr, (Gray og), Bryson 2, Deane, Rogers
 
-<u>03 March 1993</u>
+03 March 1993
 Coventry City               1    Sheffield Wednesday         0
   Gynn
 Everton                     2    Blackburn Rovers            1
@@ -865,7 +865,7 @@ Norwich City                1    Arsenal                     1
 Nottingham Forest           1    Crystal Palace              1
   Keane                            Southgate
 
-<u>06 March 1993</u>
+06 March 1993
 Liverpool                   1    Manchester United           2
   Rush                             Hughes, McClair
 Queens Park Rangers         3    Norwich City                1
@@ -873,11 +873,11 @@ Queens Park Rangers         3    Norwich City                1
 Wimbledon                   1    Southampton                 2
   Holdsworth                       Le Tissier, Moore
 
-<u>07 March 1993</u>
+07 March 1993
 Coventry City               0    Everton                     1
                                    Ward
 
-<u>09 March 1993</u>
+09 March 1993
 Blackburn Rovers            0    Southampton                 0
 
 Oldham Athletic             1    Manchester United           0
@@ -885,7 +885,7 @@ Oldham Athletic             1    Manchester United           0
 Wimbledon                   2    Middlesbrough               0
   Scales, Holdsworth
 
-<u>10 March 1993</u>
+10 March 1993
 Aston Villa                 0    Tottenham Hotspur           0
 
 Chelsea                     2    Everton                     1
@@ -899,7 +899,7 @@ Manchester City             1    Coventry City               0
 Sheffield United            0    Norwich City                1
                                    Fox
 
-<u>13 March 1993</u>
+13 March 1993
 Coventry City               0    Arsenal                     2
                                    Campbell, Wright
 Everton                     3    Nottingham Forest           0
@@ -915,19 +915,19 @@ Queens Park Rangers         1    Wimbledon                   2
 Southampton                 4    Ipswich Town                3
   Hall, Le Tissier 2, Kenna        Linighan, Goddard, Kiwomya
 
-<u>14 March 1993</u>
+14 March 1993
 Manchester United           1    Aston Villa                 1
   Hughes                           Staunton
 
-<u>15 March 1993</u>
+15 March 1993
 Crystal Palace              1    Chelsea                     1
   Armstrong                        Stuart
 
-<u>17 March 1993</u>
+17 March 1993
 Nottingham Forest           0    Norwich City                3
                                    Robins, Power, Crook
 
-<u>20 March 1993</u>
+20 March 1993
 Arsenal                     4    Southampton                 3
   Linighan, Merson, Carter 2       Dowie, Adams, Le Tissier
 Aston Villa                 2    Sheffield Wednesday         0
@@ -949,19 +949,19 @@ Sheffield United            0    Crystal Palace              1
 Wimbledon                   3    Norwich City                0
   Holdsworth 2, Ardley
 
-<u>21 March 1993</u>
+21 March 1993
 Nottingham Forest           1    Leeds United                1
   Clough                           Wallace Rod
 
-<u>22 March 1993</u>
+22 March 1993
 Middlesbrough               2    Oldham Athletic             3
   Mohan, Hignett                   Bernard, Olney, Ritchie
 
-<u>23 March 1993</u>
+23 March 1993
 Crystal Palace              1    Liverpool                   1
   Armstrong                        Rush
 
-<u>24 March 1993</u>
+24 March 1993
 Coventry City               1    Sheffield United            3
   Williams                         Whitehouse, Deane, Littlejohn
 Everton                     3    Ipswich Town                0
@@ -981,7 +981,7 @@ Southampton                 1    Nottingham Forest           2
 Tottenham Hotspur           3    Manchester City             1
   Anderton, Nayim, Turner          Sheron
 
-<u>03 April 1993</u>
+03 April 1993
 Blackburn Rovers            4    Liverpool                   1
   Newell, Moran, Gallacher, Wilcox Rush
 Chelsea                     4    Middlesbrough               0
@@ -995,15 +995,15 @@ Manchester City             3    Ipswich Town                1
 Oldham Athletic             6    Wimbledon                   2
   (Fashuna og), Bernard, Olney 2, AHoldsworth 2
 
-<u>04 April 1993</u>
+04 April 1993
 Nottingham Forest           0    Aston Villa                 1
 
 
-<u>04 April 1993</u>               McGrath
+04 April 1993               McGrath
 Norwich City                1    Manchester United           3
   Robins                           Giggs, Kanchelskis, Cantona
 
-<u>06 April 1993</u>
+06 April 1993
 Ipswich Town                1    Chelsea                     1
   Guentchev                        Spencer
 Middlesbrough               1    Arsenal                     0
@@ -1011,13 +1011,13 @@ Middlesbrough               1    Arsenal                     0
 Sheffield United            2    Leeds United                1
   Rogers, Deane                    Strandi
 
-<u>07 April 1993</u>
+07 April 1993
 Nottingham Forest           1    Blackburn Rovers            3
   Clough                           Wilcox, Ripley, Newell
 Oldham Athletic             1    Sheffield Wednesday         1
   Pointon                          Watson
 
-<u>09 April 1993</u>
+09 April 1993
 Sheffield United            1    Manchester City             1
   Deane                            (Pemberton og)
 Tottenham Hotspur           5    Norwich City                1
@@ -1025,7 +1025,7 @@ Tottenham Hotspur           5    Norwich City                1
 Wimbledon                   4    Crystal Palace              0
   Earle 2, Holdsworth 2
 
-<u>10 April 1993</u>
+10 April 1993
 Aston Villa                 0    Coventry City               0
 
 Ipswich Town                1    Arsenal                     2
@@ -1043,7 +1043,7 @@ Queens Park Rangers         4    Nottingham Forest           3
 Southampton                 1    Chelsea                     0
   Banger
 
-<u>12 April 1993</u>
+12 April 1993
 Arsenal                     0    Aston Villa                 1
                                    Daley
 Blackburn Rovers            2    Ipswich Town                1
@@ -1063,15 +1063,15 @@ Nottingham Forest           2    Tottenham Hotspur           1
 Sheffield Wednesday         5    Southampton                 2
   Bright, Bart-Willaims 3, King    Dodd, Dowie
 
-<u>13 April 1993</u>
+13 April 1993
 Oldham Athletic             1    Sheffield United            1
   Ritchie                          Holyland
 
-<u>14 April 1993</u>
+14 April 1993
 Norwich City                4    Leeds United                2
   Sutton 3, Phillips               Chapman, Wallace Rod
 
-<u>17 April 1993</u>
+17 April 1993
 Leeds United                0    Crystal Palace              0
 
 Liverpool                   4    Coventry City               0
@@ -1087,19 +1087,19 @@ Tottenham Hotspur           4    Oldham Athletic             1
 Wimbledon                   1    Nottingham Forest           0
   Clarke
 
-<u>18 April 1993</u>
+18 April 1993
 Aston Villa                 3    Manchester City             1
   Saunders, Parker, Houghton       Quinn
 
-<u>19 April 1993</u>
+19 April 1993
 Ipswich Town                3    Norwich City                1
   Dozzell 2, Stockwell             Sutton
 
-<u>20 April 1993</u>
+20 April 1993
 Middlesbrough               3    Tottenham Hotspur           0
   Wright 2, Wilkinson
 
-<u>21 April 1993</u>
+21 April 1993
 Arsenal                     1    Nottingham Forest           1
   Wright                           Keane
 Blackburn Rovers            3    Aston Villa                 0
@@ -1113,7 +1113,7 @@ Manchester City             1    Wimbledon                   1
 Sheffield Wednesday         1    Sheffield United            1
   Warhurst                         Deane
 
-<u>01 May 1993</u>
+01 May 1993
 Chelsea                     2    Coventry City               1
   Spencer, Cascarino               Quinn
 Crystal Palace              3    Ipswich Town                1
@@ -1133,15 +1133,15 @@ Southampton                 0    Manchester City             1
 Tottenham Hotspur           1    Wimbledon                   1
   Anderton                         Earle
 
-<u>02 May 1993</u>
+02 May 1993
 Aston Villa                 0    Oldham Athletic             1
                                    Henry
 
-<u>03 May 1993</u>
+03 May 1993
 Manchester United           3    Blackburn Rovers            1
   Giggs, Ince, Pallister           Gallacher
 
-<u>04 May 1993</u>
+04 May 1993
 Arsenal                     0    Queens Park Rangers         0
 
 Everton                     0    Sheffield United            2
@@ -1149,7 +1149,7 @@ Everton                     0    Sheffield United            2
 Sheffield Wednesday         1    Leeds United                1
   Hirst                            (King og)
 
-<u>05 May 1993</u>
+05 May 1993
 Manchester City             0    Crystal Palace              0
 
 Oldham Athletic             3    Liverpool                   2
@@ -1157,11 +1157,11 @@ Oldham Athletic             3    Liverpool                   2
 Tottenham Hotspur           1    Blackburn Rovers            2
   Anderton                         Newell 2
 
-<u>06 May 1993</u>
+06 May 1993
 Sheffield Wednesday         1    Arsenal                     0
   Bright
 
-<u>08 May 1993</u>
+08 May 1993
 Arsenal                     3    Crystal Palace              0
   Wright, Dickov, Campbell
 Blackburn Rovers            1    Sheffield Wednesday         0
@@ -1185,7 +1185,7 @@ Queens Park Rangers         2    Aston Villa                 1
 Wimbledon                   1    Manchester United           2
   Holdsworth                       Ince, Robson
 
-<u>11 May 1993</u>
+11 May 1993
 Arsenal                     1    Tottenham Hotspur           3
   Dickov                           Sheringham, Hendry 2
 Queens Park Rangers         3    Sheffield Wednesday         1
@@ -1234,10 +1234,11 @@ Pos Team                  P   W   D   L   F   A  GD Pts
 ‹list of league cup winners, see page engleagcuphist›.
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Michael Heneghan
 for the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -1248,6 +1249,6 @@ Author: Michael Heneghan
 Last updated: 7 Jul 2004
 
 
-**(C) Copyright Michael Heneghan and RSSSF 2004**
+(C) Copyright Michael Heneghan and RSSSF 2004
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

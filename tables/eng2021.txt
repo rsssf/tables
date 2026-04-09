@@ -4,20 +4,22 @@
   
 
 
-## England 2020/21
+== England 2020/21
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Premier League, see §premier›
 ‹Cup Tournaments, see §cups›
 ‹Championship, see §champ›
 ‹Division 1, see §first›
 ‹Division 2, see §second›
 ‹National League, see §conf›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Premier League  ‹§premier›
+==== Premier League  ‹§premier›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Manchester City         38  27  5  6  83-32  86       Champions
@@ -674,15 +676,16 @@ Final Table:
 18.Fulham                  38   5 13 20  27-53  28  [P]  Relegated
 19.West Bromwich Albion    38   5 11 22  35-76  26  [P]  Relegated
 20.Sheffield United        38   7  2 29  20-63  23       Relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Cup Tournaments  ‹§cups›
+==== Cup Tournaments  ‹§cups›
 
-
+<!-- start pre -->
 ‹FA Cup, see §facup›
 
-**FA Cup  ‹§facup›**
+FA Cup  ‹§facup›
 
 Round 1
 [Nov 6]
@@ -849,15 +852,16 @@ Leicester City          1-0 Southampton
 Final [May 15, London]
 Chelsea                 0-1 Leicester City
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Championship  ‹§champ›
+==== Championship  ‹§champ›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-**Regular Stage  ‹§2reg›**
+Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -889,7 +893,7 @@ Final Table:
 23.Rotherham United        46  11  9 26  44-60  42  [P]  Relegated
 24.Sheffield Wednesday     46  12 11 23  40-61  41  [-6] Relegated
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -899,11 +903,9 @@ Bournemouth   1-0 Brentford
 Barnsley      0-1 Swansea
   [Ayew 39]
 
-Second Legs
-[May 22]
+Second Legs [May 22]
 Brentford     3-1 Bournemouth
   [Toney 16pen, Janelt 50, Forss 81; Danjuma 5]
-[May 23]
 Swansea       1-1 Barnsley
   [Grimes 39; Woodrow 71]
 
@@ -911,15 +913,16 @@ Final [May 29, Wembley; att; 11,689]
 Brentford     2-0 Swansea
   [Toney 10pen, Marcondes 20]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 1  ‹§first›
+==== Division 1  ‹§first›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-**Regular Stage  ‹§3reg›**
+Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -951,7 +954,7 @@ Final Table:
 23.Swindon Town            46  13  4 29  55-89  43  [P]  Relegated
 24.Bristol Rovers          46  10  8 28  40-70  38       Relegated
 
-**Promotion Playoff  ‹§3prom›**
+Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -970,15 +973,16 @@ Sunderland    2-1 Lincoln
 Final [May 30]
 Blackpool     2-1 Lincoln
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 2  ‹§second›
+==== Division 2  ‹§second›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-**Regular Stage  ‹§4reg›**
+Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -1010,7 +1014,7 @@ Final Table:
 23.Southend United         46  10 15 21  29-58  45  [R]  Relegated
 24.Grimsby Town            46  10 13 23  37-69  43       Relegated
 
-**Promotion Playoff  ‹§4prom›**
+Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -1032,15 +1036,16 @@ Final [May 31, Wembey; att: 9,083]
 Morecambe     1-0 Newport       [aet]
   [Mendes Gomes 107pen]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### National League  ‹§conf›
+==== National League  ‹§conf›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-**Regular Stage  ‹§5reg›**
+Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -1075,7 +1080,7 @@ Final Table:
 NB: King's Lynn Town and Barnet reprieved from relegation as no clubs were
     promoted from the sixth level (where the season was abandoned and voided)
 
-**Promotion Playoff  ‹§5prom›**
+Promotion Playoff  ‹§5prom›
 
 Round 1
 
@@ -1099,6 +1104,7 @@ Torquay       1-1 Hartlepool    [aet, 4-5 pen]
   [Covolan Cauagnari 90+5; Armstrong 35]
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1121,11 +1127,12 @@ Torquay       1-1 Hartlepool    [aet, 4-5 pen]
 ‹list of league cup winners, see page engleagcuphist›.
 
 ‹list of league trophy winners, see page engassmembcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
-Thanks to Martin Arenlind
+Thanks to Martin Arenlind and Sven Baum
 
 Prepared and maintained by Ian King
 the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -1133,9 +1140,9 @@ the ‹Rec.Sport.Soccer Statistics Foundation›
 
 Author: Ian King
 
-Last updated: 3 Feb 2022
+Last updated: 15 Jun 2025
 
 
-**(C) Copyright Ian King and RSSSF 2020/22**
+(C) Copyright Ian King and RSSSF 2020/25
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

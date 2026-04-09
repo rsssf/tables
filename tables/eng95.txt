@@ -4,9 +4,9 @@
   
 
 
-## England 1994/95
+== England 1994/95
 
-
+<!-- start pre -->
 FA Carling Premiership 1994-95
                               P  W  D  L   F   A  W  D  L   F   A Pts  GD
  1. Blackburn Rovers         42 17  2  2  54  21 10  6  5  26  18  89 +41 EC1
@@ -33,7 +33,7 @@ FA Carling Premiership 1994-95
 21. Leicester City           42  5  6 10  28  37  1  5 15  17  43  29 -35
 22. Ipswich Town             42  5  3 13  24  34  2  3 16  12  59  27 -57
 
-<u>20 August 1994</u>
+20 August 1994
 Arsenal                     3    Manchester City             0
   Campbell, (Coton og), Wright
 Chelsea                     2    Norwich City                0
@@ -55,15 +55,15 @@ Southampton                 1    Blackburn Rovers            1
 West Ham United             0    Leeds United                0
 
 
-<u>21 August 1994</u>
+21 August 1994
 Leicester City              1    Newcastle United            3
   Joachim                          Cole, Beardsley, Elliott
 
-<u>22 August 1994</u>
+22 August 1994
 Nottingham Forest           1    Manchester United           1
   Collymore                        Kanchelskis
 
-<u>23 August 1994</u>
+23 August 1994
 Blackburn Rovers            3    Leicester City              0
   Sutton, Berg, Shearer
 Leeds United                1    Arsenal                     0
@@ -71,7 +71,7 @@ Leeds United                1    Arsenal                     0
 Wimbledon                   1    Ipswich Town                1
   Holdsworth                       Milton
 
-<u>24 August 1994</u>
+24 August 1994
 Aston Villa                 1    Southampton                 1
   Saunders                         Le Tissier
 Manchester City             3    West Ham United             0
@@ -85,7 +85,7 @@ Queens Park Rangers         3    Sheffield Wednesday         2
 Tottenham Hotspur           2    Everton                     1
   Klinsmann 2                      Rideout
 
-<u>27 August 1994</u>
+27 August 1994
 Aston Villa                 1    Crystal Palace              1
   Staunton                         Southgate
 Blackburn Rovers            4    Coventry City               0
@@ -107,15 +107,15 @@ Tottenham Hotspur           0    Manchester United           1
 Wimbledon                   0    Sheffield Wednesday         1
                                    Watson
 
-<u>28 August 1994</u>
+28 August 1994
 Liverpool                   3    Arsenal                     0
   Fowler 3
 
-<u>29 August 1994</u>
+29 August 1994
 Coventry City               0    Aston Villa                 1
                                    Yorke
 
-<u>30 August 1994</u>
+30 August 1994
 Crystal Palace              1    Leeds United                2
   Gordon                           White, Whelan
 Everton                     1    Nottingham Forest           2
@@ -123,7 +123,7 @@ Everton                     1    Nottingham Forest           2
 Ipswich Town                1    Tottenham Hotspur           3
   Kiwomya                          Klinsmann 2, Dumitrescu
 
-<u>31 August 1994</u>
+31 August 1994
 Arsenal                     0    Blackburn Rovers            0
 
 Chelsea                     3    Manchester City             0
@@ -139,7 +139,7 @@ Southampton                 0    Liverpool                   2
 West Ham United             1    Newcastle United            3
   Hutchison                        (Potts og), Lee, Mathie
 
-<u>10 September 1994</u>
+10 September 1994
 Aston Villa                 2    Ipswich Town                0
   Staunton, Saunde rs
 Blackburn Rovers            3    Everton                     0
@@ -159,15 +159,15 @@ Queens Park Rangers         2    Coventry City               2
 Wimbledon                   2    Leicester City              1
   Harford, (Willis og)             Lowe
 
-<u>11 September 1994</u>
+11 September 1994
 Leeds United                2    Manchester United           1
   Wetherall, Deane                 Cantona
 
-<u>12 September 1994</u>
+12 September 1994
 Tottenham Hotspur           1    Southampton                 2
   Klinsmann                        Le Tissier 2
 
-<u>17 September 1994</u>
+17 September 1994
 Coventry City               2    Leeds United                1
   Dublin, Cook                     Speed
 Crystal Palace              0    Wimbledon                   0
@@ -185,17 +185,17 @@ Southampton                 1    Nottingham Forest           1
 West Ham United             1    Aston Villa                 0
   Cottee
 
-<u>18 September 1994</u>
+18 September 1994
 Arsenal                     2    Newcastle United            3
   Adams, Wright                    (Keown og), Beardsley, Fox
 Chelsea                     1    Blackburn Rovers            2
   Spencer                          (Johnson og), Sutton
 
-<u>19 September 1994</u>
+19 September 1994
 Ipswich Town                1    Norwich City                2
   Wark                             Newham, Bradshaw
 
-<u>24 September 1994</u>
+24 September 1994
 Blackburn Rovers            3    Aston Villa                 1
   Shearer 2, Sutton                Ehiogu
 Coventry City               1    Southampton                 3
@@ -215,15 +215,15 @@ Queens Park Rangers         0    Wimbledon                   1
 Tottenham Hotspur           1    Nottingham Forest           4
   Dumitrescu                       Stone, Roy 2, Bohinen
 
-<u>25 September 1994</u>
+25 September 1994
 West Ham United             0    Arsenal                     2
                                    Adams, Wright
 
-<u>26 September 1994</u>
+26 September 1994
 Sheffield Wednesday         1    Leeds United                1
   Bright                           McAllister
 
-<u>01 October 1994</u>
+01 October 1994
 Arsenal                     1    Crystal Palace              2
   Wright                           Salako 2
 Aston Villa                 0    Newcastle United            2
@@ -241,17 +241,17 @@ Southampton                 3    Ipswich Town                1
 Wimbledon                   1    Tottenham Hotspur           2
   Talboys                          Sheringham, Popescu
 
-<u>02 October 1994</u>
+02 October 1994
 Chelsea                     1    West Ham United             2
   Furlong                          Allen, Moncur
 Nottingham Forest           3    Queens Park Rangers         2
   Black, Roy, Collymore            Ferdinard, Allen
 
-<u>03 October 1994</u>
+03 October 1994
 Leicester City              2    Coventry City               2
   Roberts 2                        Wegerle, Dublin
 
-<u>08 October 1994</u>
+08 October 1994
 Chelsea                     4    Leicester City              0
   Spencer 2, Peacock, Shipperley
 Liverpool                   3    Aston Villa                 2
@@ -271,15 +271,15 @@ West Ham United             1    Crystal Palace              0
 Wimbledon                   1    Arsenal                     3
   Jones                            Wright, Smith, Campbell
 
-<u>09 October 1994</u>
+09 October 1994
 Newcastle United            1    Blackburn Rovers            1
   (Flowers og)                     Shearer
 
-<u>10 October 1994</u>
+10 October 1994
 Coventry City               2    Ipswich Town                0
   (Wark og), Cook
 
-<u>15 October 1994</u>
+15 October 1994
 Arsenal                     3    Chelsea                     1
   Wright 2, Campbell               Wise
 Aston Villa                 1    Norwich City                1
@@ -299,15 +299,15 @@ Manchester United           1    West Ham United             0
 Queens Park Rangers         1    Manchester City             2
   Wilson                           Flitcroft, Walsh
 
-<u>16 October 1994</u>
+16 October 1994
 Ipswich Town                1    Sheffield Wednesday         2
   Wark                             Bright, Hirst
 
-<u>17 October 1994</u>
+17 October 1994
 Nottingham Forest           3    Wimbledon                   1
   Bohinen, Collymore, Woan         Gayle
 
-<u>22 October 1994</u>
+22 October 1994
 Aston Villa                 0    Nottingham Forest           2
                                    Pearce, Stone
 Crystal Palace              1    Everton                     0
@@ -323,7 +323,7 @@ Norwich City                4    Queens Park Rangers         2
 West Ham United             2    Southampton                 0
   Allen, Rush
 
-<u>23 October 1994</u>
+23 October 1994
 Arsenal                     2    Coventry City               1
   Wright 2                         Wegerle
 Blackburn Rovers            2    Manchester United           4
@@ -331,11 +331,11 @@ Blackburn Rovers            2    Manchester United           4
 Chelsea                     2    Ipswich Town                0
   Wise, Shipperley
 
-<u>24 October 1994</u>
+24 October 1994
 Leeds United                2    Leicester City              1
   McAllister, Whelan               Blake
 
-<u>29 October 1994</u>
+29 October 1994
 Coventry City               1    Manchester City             0
   Dublin
 Everton                     1    Arsenal                     1
@@ -357,21 +357,21 @@ Southampton                 1    Leeds United                3
 Tottenham Hotspur           3    West Ham United             1
   Klinsmann, Sheringham, Barmby    Rush
 
-<u>30 October 1994</u>
+30 October 1994
 Wimbledon                   1    Norwich City                0
   Ekoku
 
-<u>31 October 1994</u>
+31 October 1994
 Queens Park Rangers         2    Liverpool                   1
   Sinclair, Ferdinard              Barnes
 
-<u>01 November 1994</u>
+01 November 1994
 Everton                     1    West Ham United             0
   Ablett
 Ipswich Town                2    Leeds United                0
   Sedgley, Williams
 
-<u>02 November 1994</u>
+02 November 1994
 Coventry City               1    Crystal Palace              4
   Dublin                           Preece 2, Salako, Newman
 Sheffield Wednesday         0    Blackburn Rovers            1
@@ -379,7 +379,7 @@ Sheffield Wednesday         0    Blackburn Rovers            1
 Southampton                 1    Norwich City                1
   Le Tissier                       Robins
 
-<u>05 November 1994</u>
+05 November 1994
 Blackburn Rovers            2    Tottenham Hotspur           0
   Wilcox, Shearer
 Crystal Palace              3    Ipswich Town                0
@@ -397,7 +397,7 @@ Norwich City                0    Everton                     0
 West Ham United             1    Leicester City              0
   Dicks
 
-<u>06 November 1994</u>
+06 November 1994
 Arsenal                     0    Sheffield Wednesday         0
 
 Aston Villa                 1    Manchester United           2
@@ -405,21 +405,21 @@ Aston Villa                 1    Manchester United           2
 Chelsea                     2    Coventry City               2
   Spencer, Kjeldbjerg              Dublin, Ndlovu
 
-<u>07 November 1994</u>
+07 November 1994
 Nottingham Forest           0    Newcastle United            0
 
 
-<u>09 November 1994</u>
+09 November 1994
 Liverpool                   3    Chelsea                     1
   Fowler 2, Ruddock                Spencer
 Wimbledon                   4    Aston Villa                 3
   Barton, Ardly, Jones, LeonhardsenParker, Saunders 2
 
-<u>10 November 1994</u>
+10 November 1994
 Manchester United           5    Manchester City             0
   Cantona, Kanchelskis 3, Hughes
 
-<u>19 November 1994</u>
+19 November 1994
 Coventry City               1    Norwich City                0
   Jones
 Ipswich Town                1    Blackburn Rovers            3
@@ -439,21 +439,21 @@ Tottenham Hotspur           3    Aston Villa                 4
 Wimbledon                   3    Newcastle United            2
   Clarke, Ekoku, Harford           Beardsley, Kitson
 
-<u>20 November 1994</u>
+20 November 1994
 Leicester City              0    Manchester City             1
                                    Quinn
 
-<u>21 November 1994</u>
+21 November 1994
 Everton                     2    Liverpool                   0
   Ferguson, Rideout
 
-<u>23 November 1994</u>
+23 November 1994
 Leicester City              2    Arsenal                     1
   (Seaman og), Lowe                Wright
 Tottenham Hotspur           0    Chelsea                     0
 
 
-<u>26 November 1994</u>
+26 November 1994
 Arsenal                     0    Manchester United           0
 
 Blackburn Rovers            4    Queens Park Rangers         0
@@ -475,11 +475,11 @@ Norwich City                2    Leicester City              1
 West Ham United             0    Coventry City               1
                                    Busst
 
-<u>27 November 1994</u>
+27 November 1994
 Aston Villa                 1    Sheffield Wednesday         1
   Atkinson                         Atherton
 
-<u>03 December 1994</u>
+03 December 1994
 Coventry City               1    Liverpool                   1
   Flynn                            Rush
 Ipswich Town                1    Manchester City             2
@@ -499,15 +499,15 @@ Tottenham Hotspur           4    Newcastle United            2
 Wimbledon                   0    Blackburn Rovers            3
                                    Atkins, Wilcox, Shearer
 
-<u>04 December 1994</u>
+04 December 1994
 Queens Park Rangers         2    West Ham United             1
   Ferdinard, Sinclair              Boere
 
-<u>05 December 1994</u>
+05 December 1994
 Everton                     3    Leeds United                0
   Rideout, Ferguson, Unsworth
 
-<u>12 December 1994</u>
+12 December 1994
 Aston Villa                 0    Everton                     0
 
 Blackburn Rovers            3    Southampton                 2
@@ -527,19 +527,19 @@ Tottenham Hotspur           3    Sheffield Wednesday         1
 Wimbledon                   2    Coventry City               0
   Leonhardsen, Harford
 
-<u>11 December 1994</u>
+11 December 1994
 Liverpool                   0    Crystal Palace              0
 
 
-<u>12 December 1994</u>
+12 December 1994
 Manchester City             1    Arsenal                     2
   Simpson                          Smith, Schwarz
 
-<u>16 December 1994</u>
+16 December 1994
 Ipswich Town                2    Wimbledon                   2
   Milton, Sedgley                  Holdsworth, Goodman
 
-<u>17 December 1994</u>
+17 December 1994
 Arsenal                     1    Leeds United                3
   Linighan                         Massinga 2, Deane
 Coventry City               0    Newcastle United            0
@@ -557,14 +557,14 @@ Sheffield Wednesday         0    Queens Park Rangers         2
 West Ham United             3    Manchester City             0
   Cottee 3
 
-<u>18 December 1994</u>
+18 December 1994
 Chelsea                     0    Liverpool                   0
 
-<u>19 December 1994</u>
+19 December 1994
 Southampton                 2    Aston Villa                 1
   Hall, Le Tissier                 Houghton
 
-<u>26 December 1994</u>
+26 December 1994
 Arsenal                     0    Aston Villa                 0
 
 Chelsea                     2    Manchester United           3
@@ -588,13 +588,13 @@ Southampton                 2    Wimbledon                   3
 West Ham United             1    Ipswich Town                1
   Cottee                           Thomsen
 
-<u>27 December 1994</u>
+27 December 1994
 Nottingham Forest           1    Norwich City                0
   Bohinen
 Tottenham Hotspur           0    Crystal Palace              0
 
 
-<u>28 December 1994</u>
+28 December 1994
 Aston Villa                 3    Chelsea                     0
   (Sinclair og), Yorke, Taylor
 Ipswich Town                0    Arsenal                     2
@@ -610,7 +610,7 @@ Sheffield Wednesday         5    Coventry City               1
 Wimbledon                   1    West Ham United             0
   Fear
 
-<u>31 December 1994</u>
+31 December 1994
 Arsenal                     1    Queens Park Rangers         3
   Jensen                           Gallen, Allen, Impey
 Chelsea                     1    Wimbledon                   1
@@ -634,7 +634,7 @@ Southampton                 2    Manchester United           2
 West Ham United             3    Nottingham Forest           1
   Cottee, Bishop, Hughes           McGregor
 
-<u>02 January 1995</u>
+02 January 1995
 Aston Villa                 0    Leeds United                0
 
 Blackburn Rovers            4    West Ham United             2
@@ -654,11 +654,11 @@ Tottenham Hotspur           1    Arsenal                     0
 Wimbledon                   2    Everton                     1
   Harford 2                        Rideout
 
-<u>03 January 1995</u>
+03 January 1995
 Manchester United           2    Coventry City               0
   Scholes, Cantona
 
-<u>14 January 1995</u>
+14 January 1995
 Arsenal                     1    Everton                     1
   Wright                           Watson
 Aston Villa                 2    Queens Park Rangers         1
@@ -680,11 +680,11 @@ Norwich City                1    Wimbledon                   2
 West Ham United             1    Tottenham Hotspur           2
   Boere                            Sheringham, Klinsmann
 
-<u>15 January 1995</u>
+15 January 1995
 Newcastle United            1    Manchester United           1
   Kitson                           Hughes
 
-<u>21 January 1995</u>
+21 January 1995
 Coventry City               0    Arsenal                     1
                                    Hartson
 Everton                     3    Crystal Palace              1
@@ -696,15 +696,15 @@ Nottingham Forest           1    Aston Villa                 2
 Sheffield Wednesday         0    Newcastle United            0
 
 
-<u>22 January 1995</u>
+22 January 1995
 Manchester United           1    Blackburn Rovers            0
   Cantona
 
-<u>23 January 1995</u>
+23 January 1995
 West Ham United             0    Sheffield Wednesday         2
                                    Waddle, Bright
 
-<u>24 January 1995</u>
+24 January 1995
 Arsenal                     1    Southampton                 1
   Hartson                          Magilton
 Leeds United                4    Queens Park Rangers         0
@@ -712,7 +712,7 @@ Leeds United                4    Queens Park Rangers         0
 Liverpool                   0    Everton                     0
 
 
-<u>25 January 1995</u>
+25 January 1995
 Aston Villa                 1    Tottenham Hotspur           0
   Saunders
 Chelsea                     0    Nottingham Forest           2
@@ -726,17 +726,17 @@ Newcastle United            2    Wimbledon                   1
 Norwich City                2    Coventry City               2
   Adams, Ward                      Dublin, Jenkinson
 
-<u>26 January 1995</u>
+26 January 1995
 Blackburn Rovers            4    Ipswich Town                1
   Shearer 3, Sherwood              Wark
 
-<u>01 February 1995</u>
+01 February 1995
 Blackburn Rovers            1    Leeds United                1
   Shearer                          McAllister
 Newcastle United            2    Everton                     0
   Fox, Beardsley
 
-<u>04 February 1995</u>
+04 February 1995
 Coventry City               2    Chelsea                     2
   Flynn, (Burley og)               Stein, Spencer
 Everton                     2    Norwich City                1
@@ -758,11 +758,11 @@ Southampton                 2    Manchester City             2
 Wimbledon                   0    Leeds United                0
 
 
-<u>05 February 1995</u>
+05 February 1995
 Tottenham Hotspur           3    Blackburn Rovers            1
   Klinsmann, Anderton, Barmby      Sherwood
 
-<u>11 February 1995</u>
+11 February 1995
 Arsenal                     1    Leicester City              1
   Merson                           Draper
 Aston Villa                 7    Wimbledon                   1
@@ -780,25 +780,25 @@ Newcastle United            2    Nottingham Forest           1
 Norwich City                2    Southampton                 2
   Newsome, Ward                    Hall, Magilton
 
-<u>12 February 1995</u>
+12 February 1995
 Blackburn Rovers            3    Sheffield Wednesday         1
   Sherwood, Atkins, Shearer        Waddle
 
-<u>13 February 1995</u>
+13 February 1995
 West Ham United             2    Everton                     2
   Cottee 2                         Rideout, Limpar
 
-<u>18 February 1995</u>
+18 February 1995
 Coventry City               2    West Ham United             0
   Ndlovu, Marsh
 Sheffield Wednesday         1    Aston Villa                 2
   Bright                           Saunders 2
 
-<u>21 February 1995</u>
+21 February 1995
 Arsenal                     1    Nottingham Forest           0
   Kiwomya
 
-<u>22 February 1995</u>
+22 February 1995
 Aston Villa                 4    Leicester City              4
   Saunders, Staunton, Yorke, JohnsoRobins, Roberts, Lowe 2
 Blackburn Rovers            2    Wimbledon                   1
@@ -810,7 +810,7 @@ Manchester City             2    Ipswich Town                0
 Norwich City                0    Manchester United           2
                                    Ince, Kanchelskis
 
-<u>25 February 1995</u>
+25 February 1995
 Blackburn Rovers            0    Norwich City                0
 
 Coventry City               4    Leicester City              2
@@ -832,15 +832,15 @@ Tottenham Hotspur           1    Wimbledon                   2
 West Ham United             1    Chelsea                     2
   Hutchison                        Burley, Stein
 
-<u>26 February 1995</u>
+26 February 1995
 Queens Park Rangers         1    Nottingham Forest           1
   Barker                           Stone
 
-<u>28 February 1995</u>
+28 February 1995
 Ipswich Town                0    Newcastle United            2
                                    Fox, Kitson
 
-<u>04 March 1995</u>
+04 March 1995
 Aston Villa                 0    Blackburn Rovers            1
                                    Hendry
 Leeds United                0    Sheffield Wednesday         1
@@ -860,19 +860,19 @@ Southampton                 0    Coventry City               0
 Wimbledon                   1    Queens Park Rangers         3
   Holdsworth                       Ferdinard 2, Holloway
 
-<u>05 March 1995</u>
+05 March 1995
 Arsenal                     0    West Ham United             1
                                    Hutchison
 Chelsea                     0    Crystal Palace              0
 
-<u>06 March 1995</u>
+06 March 1995
 Aston Villa                 0    Coventry City               0
 
-<u>07 March 1995</u>
+07 March 1995
 Wimbledon                   0    Manchester United           1
                                    Bruce
 
-<u>08 March 1995</u>
+08 March 1995
 Blackburn Rovers            3    Arsenal                     1
   Shearer 2, Le Saux               Morrow
 Manchester City             1    Chelsea                     2
@@ -888,7 +888,7 @@ Queens Park Rangers         2    Leicester City              0
 Tottenham Hotspur           3    Ipswich Town                0
   Klinsmann, Barmby, (Youds og)
 
-<u>11 March 1995</u>
+11 March 1995
 Chelsea                     0    Leeds United                3
                                    Yeboah 2, McAllister
 Coventry City               1    Blackburn Rovers            1
@@ -900,13 +900,13 @@ Sheffield Wednesday         0    Wimbledon                   1
 West Ham United             2    Norwich City                2
   Cottee 2                         Eadie, Ullathorne
 
-<u>14 March 1995</u>
+14 March 1995
 Crystal Palace              2    Sheffield Wednesday         1
   Armstrong, Dowie                 Whittingham
 Liverpool                   2    Coventry City               3
   Molby, (Burrows og)              Ndlovu 3
 
-<u>15 March 1995</u>
+15 March 1995
 Everton                     1    Manchester City             1
   Unsworth                         Gaudino
 Leicester City              1    Leeds United                3
@@ -918,7 +918,7 @@ Queens Park Rangers         2    Norwich City                0
 Southampton                 1    West Ham United             1
   Shipperley                       Hutchison
 
-<u>18 March 1995</u>
+18 March 1995
 Aston Villa                 0    West Ham United             2
                                    Moncur, Hutchison
 Blackburn Rovers            2    Chelsea                     1
@@ -936,21 +936,21 @@ Tottenham Hotspur           1    Leicester City              0
 Wimbledon                   2    Crystal Palace              0
   Jones, Gayle
 
-<u>19 March 1995</u>
+19 March 1995
 Liverpool                   2    Manchester United           0
   (Bruce og), Redknapp
 Newcastle United            1    Arsenal                     0
   Beardsley
 
-<u>20 March 1995</u>
+20 March 1995
 Norwich City                3    Ipswich Town                0
   Cureton, Ward, Eadie
 
-<u>21 March 1995</u>
+21 March 1995
 Wimbledon                   2    Manchester City             0
   Thorne, Elkins
 
-<u>22 March 1995</u>
+22 March 1995
 Manchester United           3    Arsenal                     0
   Hughes, Sharpe, Kanchelskis
 Nottingham Forest           3    Leeds United                0
@@ -962,7 +962,7 @@ Southampton                 3    Newcastle United            1
 Tottenham Hotspur           0    Liverpool                   0
 
 
-<u>01 April 1995</u>
+01 April 1995
 Arsenal                     5    Norwich City                1
   Hartson 2, Dixon, Merson, (NewmanCureton
 Chelsea                     1    Newcastle United            1
@@ -980,19 +980,19 @@ Leicester City              3    Wimbledon                   4
 Sheffield Wednesday         1    Nottingham Forest           7
   Bright                           Pearce, Woan, Roy 2, Collymore 2, Bohinen
 
-<u>02 April 1995</u>
+02 April 1995
 Manchester United           0    Leeds United                0
 
 Southampton                 4    Tottenham Hotspur           3
   Heaney, Le Tissier 2, Magilton   Sheringham 2, Klinsmann
 
-<u>04 April 1995</u>
+04 April 1995
 Crystal Palace              0    Aston Villa                 0
 
 Queens Park Rangers         0    Blackburn Rovers            1
                                    Sutton
 
-<u>05 April 1995</u>
+05 April 1995
 Leeds United                4    Ipswich Town                0
   Yeboah, 3, Speed
 Leicester City              1    Norwich City                0
@@ -1000,7 +1000,7 @@ Leicester City              1    Norwich City                0
 Liverpool                   3    Southampton                 1
   Rush 2, Fowler                   Hall
 
-<u>08 April 1995</u>
+08 April 1995
 Newcastle United            3    Norwich City                0
   Beardsley 2, Kitson
 Nottingham Forest           1    West Ham United             1
@@ -1014,13 +1014,13 @@ Liverpool                   0    Leeds United                1
 Wimbledon                   1    Chelsea                     1
   Goodman                          Sinclair
 
-<u>11 April 1995</u>
+11 April 1995
 Ipswich Town                0    Queens Park Rangers         1
                                    Ferdinard
 Tottenham Hotspur           2    Manchester City             1
   Howells, Klinsmann               Rosler
 
-<u>12 April 1995</u>
+12 April 1995
 Arsenal                     0    Liverpool                   1
                                    Fowler
 Chelsea                     0    Southampton                 2
@@ -1028,11 +1028,11 @@ Chelsea                     0    Southampton                 2
 Norwich City                0    Nottingham Forest           1
                                    Stone
 
-<u>13 April 1995</u>
+13 April 1995
 West Ham United             3    Wimbledon                   0
   Dicks, Boere, Cottee
 
-<u>14 April 1995</u>
+14 April 1995
 Crystal Palace              1    Tottenham Hotspur           1
   Armstrong                        Klinsmann
 Everton                     2    Newcastle United            0
@@ -1040,7 +1040,7 @@ Everton                     2    Newcastle United            0
 Manchester City             2    Liverpool                   1
   Summerbee, Gaudino               McManaman
 
-<u>15 April 1995</u>
+15 April 1995
 Arsenal                     4    Ipswich Town                1
   Merson, Wright 3                 Marshall
 Chelsea                     1    Aston Villa                 0
@@ -1054,7 +1054,7 @@ Leicester City              0    Manchester United           4
 Southampton                 2    Queens Park Rangers         1
   Shipperley, Watson               Ferdinard
 
-<u>17 April 1995</u>
+17 April 1995
 Aston Villa                 0    Arsenal                     4
                                    Hartson 2, Wright 2
 Blackburn Rovers            2    Manchester City             3
@@ -1078,11 +1078,11 @@ Tottenham Hotspur           1    Norwich City                0
 Wimbledon                   0    Southampton                 2
                                    Le Tissier, Watson
 
-<u>20 April 1995</u>
+20 April 1995
 Blackburn Rovers            2    Crystal Palace              1
   Kenna, Gallacher                 Houghton
 
-<u>29 April 1995</u>
+29 April 1995
 Arsenal                     1    Tottenham Hotspur           1
   Wright                           Klinsmann
 Chelsea                     1    Queens Park Rangers         0
@@ -1102,18 +1102,18 @@ Norwich City                1    Liverpool                   2
 Southampton                 0    Sheffield Wednesday         0
 
 
-<u>30 April 1995</u>
+30 April 1995
 West Ham United             2    Blackburn Rovers            0
   Reiper, Hutchison
 
-<u>01 May 1995</u>
+01 May 1995
 Coventry City               2    Manchester United           3
   Ndlovu, Pressley                 Scholes, Cole 2
 
-<u>02 May 1995</u>
+02 May 1995
 Wimbledon                   0    Liverpool                   0
 
-<u>03 May 1995</u>
+03 May 1995
 Aston Villa                 1    Manchester City             1
   Ehiogu                           Rosler
 Everton                     3    Chelsea                     3
@@ -1124,10 +1124,10 @@ Southampton                 3    Crystal Palace              1
   (Wilmot og), Watson, Le Tissier  Southgate
 West Ham United             0    Queens Park Rangers         0
 
-<u>04 May 1995</u>
+04 May 1995
 Arsenal                     0    Wimbledon                   0
 
-<u>06 May 1995</u>
+06 May 1995
 Aston Villa                 2    Liverpool                   0
   Yorke 2
 Crystal Palace              1    West Ham United             0
@@ -1145,15 +1145,15 @@ Nottingham Forest           1    Manchester City             0
 Queens Park Rangers         2    Tottenham Hotspur           1
   Ferdinard 2                      Sheringham
 
-<u>07 May 1995</u>
+07 May 1995
 Manchester United           1    Sheffield Wednesday         0
   May
 
-<u>08 May 1995</u>
+08 May 1995
 Blackburn Rovers            1    Newcastle United            0
   Shearer
 
-<u>09 May 1995</u>
+09 May 1995
 Ipswich Town                0    Everton                     1
                                    Rideout
 Leeds United                3    Crystal Palace              1
@@ -1167,7 +1167,7 @@ West Ham United             3    Liverpool                   0
 Wimbledon                   2    Nottingham Forest           2
   Holdsworth 2                     Phillips, Stone
 
-<u>14 May 1995</u>
+14 May 1995
 Chelsea                     2    Arsenal                     1
   Furlong, Stein                   Hartson
 Coventry City               0    Everton                     0
@@ -1683,6 +1683,7 @@ Also promoted:  - Canvey Island
 Resigned:       - Feltham & Houslow
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1701,9 +1702,10 @@ Resigned:       - Feltham & Houslow
 ‹list of cup winners, see page engcuphist›.
 
 ‹list of league cup winners, see page engleagcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Jeffrey Spring Bolton for pointing out an error
 
@@ -1717,7 +1719,7 @@ Authors: Michael Heneghan, James Ross, Stephen Mulrine and Rob Monger
 Last updated: 4 Nov 2011
 
 
-**(C) Copyright Michael Heneghan,
-James Ross, Stephen Mulrine, Rob Monger and RSSSF 1999/2011**
+(C) Copyright Michael Heneghan,
+James Ross, Stephen Mulrine, Rob Monger and RSSSF 1999/2011
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

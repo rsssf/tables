@@ -4,19 +4,21 @@
   
 
 
-## England 2021/22
+== England 2021/22
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Premier League, see §premier›
 ‹Championship, see §champ›
 ‹Division 1, see §first›
 ‹Division 2, see §second›
 ‹National League, see §conf›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Premier League  ‹§premier›
+==== Premier League  ‹§premier›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Manchester City         38  29  6  3  99-26  93  [C]  Champions
@@ -665,15 +667,16 @@ Final Table:
 19.Watford                 38   6  5 27  34-77  23  [P]  Relegated
 20.Norwich City            38   5  7 26  23-84  22  [P]  Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Championship  ‹§champ›
+==== Championship  ‹§champ›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-**Regular Stage  ‹§2reg›**
+Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -705,7 +708,7 @@ Final Table:
 23.Derby County            46  14 13 19  45-53  34 [-21] Relegated
 24.Barnsley                46   6 12 28  33-73  30       Relegated
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -723,15 +726,16 @@ Nottingham    1-2 Sheffield U   [aet, 3-2 pen]
 [May 29]
 Huddersfield  0-1 Nottingham
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 1  ‹§first›
+==== Division 1  ‹§first›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-**Regular Stage  ‹§3reg›**
+Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -763,7 +767,7 @@ Final Table:
 23.AFC Wimbledon           46   6 19 21  49-75  37       Relegated
 24.Crewe Alexandra         46   7  8 31  37-83  29       Relegated
 
-**Promotion Playoff  ‹§3prom›**
+Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -782,15 +786,16 @@ Sheffield W   1-1 Sunderland
 Final [May 21]
 Wycombe       0-2 Sunderland
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 2  ‹§second›
+==== Division 2  ‹§second›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-**Regular Stage  ‹§4reg›**
+Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -822,7 +827,7 @@ Final Table:
 23.Oldham Athletic         46   9 11 26  46-75  38       Relegated
 24.Scunthorpe United       46   4 14 28  29-90  26       Relegated
 
-**Promotion Playoff  ‹§4prom›**
+Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -841,15 +846,16 @@ Port Vale     1-0 Swindon       [aet, 6-5 pen]
 Final [May 28]
 Mansfield     0-3 Port Vale
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### National League  ‹§conf›
+==== National League  ‹§conf›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-**Regular Stage  ‹§5reg›**
+Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -882,7 +888,7 @@ Final Table:
 
 Promoted: Gateshead, Maidstone United, York City, Dorking Wanderers
 
-**Promotion Playoff  ‹§5prom›**
+Promotion Playoff  ‹§5prom›
 
 Round 1
 
@@ -901,6 +907,7 @@ Solihull      3-1 Chesterfield
 Final [Jun 5]
 Solihull      1-2 Grimsby       [aet]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -923,9 +930,10 @@ Solihull      1-2 Grimsby       [aet]
 ‹list of league cup winners, see page engleagcuphist›.
 
 ‹list of league trophy winners, see page engassmembcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -938,6 +946,6 @@ Author: Ian King
 Last updated: 14 Jun 2023
 
 
-**(C) Copyright Ian King and RSSSF 2021/23**
+(C) Copyright Ian King and RSSSF 2021/23
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

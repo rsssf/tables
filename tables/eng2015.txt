@@ -4,20 +4,22 @@
   
 
 
-## England 2014/15
+== England 2014/15
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Premier League, see §premier›
 ‹Cup Tournaments, see §cups›
 ‹Championship, see §champ›
 ‹Division 1, see §first›
 ‹Division 2, see §second›
 ‹Conference, see §conf›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Premier League  ‹§premier›
+==== Premier League  ‹§premier›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Chelsea                 38  26  9  3  73-32  87  Champions
@@ -615,15 +617,16 @@ Final Table:
 19.Burnley                 38   7 12 19  28-53  33  Relegated
 20.Queens Park Rangers     38   8  6 24  42-73  30  Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Cup Tournaments  ‹§cups›
+==== Cup Tournaments  ‹§cups›
 
-
+<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-**FA Cup  ‹§facup›**
+FA Cup  ‹§facup›
 
 Round 1
 [Nov 7]
@@ -842,7 +845,7 @@ Aston Villa             2-1 Liverpool
 Final [May 30, London]
 Arsenal                 4-0 Aston Villa
 
-**League Cup  ‹§leaguecup›**
+League Cup  ‹§leaguecup›
 
 Round 1
 [Aug 11]
@@ -970,15 +973,16 @@ Sheffield United        2-2 Tottenham Hotspur
 Final [Mar 1, London]
 Chelsea                 2-0 Tottenham Hotspur
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Championship  ‹§champ›
+==== Championship  ‹§champ›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-**Regular Stage  ‹§2reg›**
+Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -1010,7 +1014,7 @@ Final Table:
 23.Wigan Athletic          46   9 12 25  39-64  39  Relegated
 24.Blackpool               46   4 14 28  36-91  26  Relegated
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -1029,15 +1033,16 @@ Norwich       3-1 Ipswich
 Final [May 25]
 Norwich       2-0 Middlesbrough
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 1  ‹§first›
+==== Division 1  ‹§first›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-**Regular Stage  ‹§3reg›**
+Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -1069,7 +1074,7 @@ Final Table:
 23.Leyton Orient           46  12 13 21  59-69  49  Relegated
 24.Yeovil Town             46  10 10 26  36-75  40  Relegated
 
-**Promotion Playoff  ‹§3prom›**
+Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -1086,15 +1091,16 @@ Swindon       5-5 Sheffield U
 Final [May 24]
 Preston       4-0 Swindon
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 2  ‹§second›
+==== Division 2  ‹§second›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-**Regular Stage  ‹§4reg›**
+Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -1126,7 +1132,7 @@ Final Table:
 23.Cheltenham Town         46   9 14 23  40-67  41  Relegated
 24.Tranmere Rovers         46   9 12 25  45-67  39  Relegated
 
-**Promotion Playoff  ‹§4prom›**
+Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -1143,15 +1149,16 @@ Southend      3-1 Stevenage     [aet]
 Final [May 23]
 Wycombe       1-1 Southend      [aet, 6-7 pen]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Conference  ‹§conf›
+==== Conference  ‹§conf›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-**Regular Stage  ‹§5reg›**
+Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -1185,7 +1192,7 @@ Final Table:
 
 Promoted: Barrow, Bromley, Guiseley, Boreham Wood
 
-**Promotion Playoff  ‹§5prom›**
+Promotion Playoff  ‹§5prom›
 
 Semifinals
 
@@ -1202,6 +1209,7 @@ Grimsby       3-0 Eastleigh
 Final [May 17]
 Bristol R     1-1 Grimsby       [aet, 5-3 pen]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1224,9 +1232,10 @@ Bristol R     1-1 Grimsby       [aet, 5-3 pen]
 ‹list of league cup winners, see page engleagcuphist›.
 
 ‹list of league trophy winners, see page engassmembcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -1239,6 +1248,6 @@ Authors: Ian King and Karel Stokkermans
 Last updated: 14 Jan 2021
 
 
-**(C) Copyright Ian King, Karel Stokkermans and RSSSF 2014/21**
+(C) Copyright Ian King, Karel Stokkermans and RSSSF 2014/21
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

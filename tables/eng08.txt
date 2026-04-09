@@ -4,9 +4,9 @@
   
 
 
-## England 2007/08
+== England 2007/08
 
-
+<!-- start pre -->
 Premiership
 
 Final Table:
@@ -1264,7 +1264,7 @@ Milton Keynes Dons      0-1 Swansea City         [5-4 pen]
 
 Overall Final [Mar 30, Wembley Stadium]
 Grimsby Town            0-2 Milton Keynes Dons
-  [Andrews 74pen, O’Hanlon 81]
+  [Andrews 74pen, O'Hanlon 81]
 
 
 
@@ -4740,10 +4740,11 @@ NB: Eastbourne Borough promoted to fifth level
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Ian King for the
 ‹Rec.Sport.Soccer Statistics Foundation›
@@ -4754,6 +4755,6 @@ Author: Ian King
 Last updated: 21 May 2009
 
 
-**(C) Copyright Ian King and RSSSF 2007/09**
+(C) Copyright Ian King and RSSSF 2007/09
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

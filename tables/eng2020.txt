@@ -4,20 +4,22 @@
   
 
 
-## England 2019/20
+== England 2019/20
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Premier League, see §premier›
 ‹Cup Tournaments, see §cups›
 ‹Championship, see §champ›
 ‹Division 1, see §first›
 ‹Division 2, see §second›
 ‹National League, see §conf›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Premier League  ‹§premier›
+==== Premier League  ‹§premier›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Liverpool               38  32  3  3  85-33  99            Champions
@@ -34,8 +36,8 @@ Final Table:
 12.Everton                 38  13 10 15  44-56  49
 13.Newcastle United        38  11 11 16  38-58  44
 14.Crystal Palace          38  11 10 17  31-50  43
-15.West Ham United         38  10  9 19  49-62  39
-16.Brighton & Hove Albion  38   9 14 15  39-54  41
+15.Brighton & Hove Albion  38   9 14 15  39-54  41
+16.West Ham United         38  10  9 19  49-62  39
 17.Aston Villa             38   9  8 21  41-67  35       [P]
 --------------------------------------------------
 18.AFC Bournemouth         38   9  7 22  40-65  34            Relegated
@@ -628,23 +630,24 @@ Final Table:
 12.Everton                 38  13 10 15  44-56  49
 13.Newcastle United        38  11 11 16  38-58  44
 14.Crystal Palace          38  11 10 17  31-50  43
-15.West Ham United         38  10  9 19  49-62  39
-16.Brighton & Hove Albion  38   9 14 15  39-54  41
+15.Brighton & Hove Albion  38   9 14 15  39-54  41
+16.West Ham United         38  10  9 19  49-62  39
 17.Aston Villa             38   9  8 21  41-67  35       [P]
 --------------------------------------------------
 18.AFC Bournemouth         38   9  7 22  40-65  34            Relegated
 19.Watford                 38   8 10 20  36-64  34            Relegated
 20.Norwich City            38   5  6 27  26-75  21       [P]  Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Cup Tournaments  ‹§cups›
+==== Cup Tournaments  ‹§cups›
 
-
+<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-**FA Cup  ‹§facup›**
+FA Cup  ‹§facup›
 
 Round 1
 [Nov 8]
@@ -862,7 +865,7 @@ Final [Aug 1, London]
 Arsenal                 2-1 Chelsea
 
 
-**League Cup  ‹§leaguecup›**
+League Cup  ‹§leaguecup›
 
 Round 1
 [Aug 6]
@@ -990,15 +993,16 @@ Manchester City         0-1 Manchester United
 Final [Mar 1, London]
 Aston Villa             1-2 Manchester City
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Championship  ‹§champ›
+==== Championship  ‹§champ›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-**Regular Stage  ‹§2reg›**
+Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -1032,7 +1036,7 @@ Final Table:
 
 NB: Wigan Athletic 12 points deducted for financial reasons
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -1051,15 +1055,16 @@ Fulham        1-2 Cardiff
 Final [Aug 4]
 Brentford     1-2 Fulham        [aet]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 1  ‹§first›
+==== Division 1  ‹§first›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-**Regular Stage  ‹§3reg›**
+Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -1096,7 +1101,7 @@ NB: clubs are ranked according to points per match ratio at the time
 
 NB: Bolton Wanderers 12 points deducted for financial reasons
 
-**Promotion Playoff  ‹§3prom›**
+Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -1111,15 +1116,16 @@ Wycombe       2-2 Fleetwood
 Final [Jul 13]
 Oxford        1-2 Wycombe
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 2  ‹§second›
+==== Division 2  ‹§second›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-**Regular Stage  ‹§4reg›**
+Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -1157,7 +1163,7 @@ NB: clubs are ranked according to points per match ratio at the time
 NB: Macclesfield Town 17 points deducted for various reasons;
     only one club was relegated due to bankruptcy Bury
 
-**Promotion Playoff  ‹§4prom›**
+Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -1172,15 +1178,16 @@ Cheltenham    0-3 Northampton
 Final [Jun 29]
 Exeter        0-4 Northampton
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### National League  ‹§conf›
+==== National League  ‹§conf›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-**Regular Stage  ‹§5reg›**
+Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -1219,7 +1226,7 @@ NB: only three clubs relegated due to bankruptcy Bury
 
 Promoted: Kings Lynn Town, Altrincham, Wealdstone, Weymouth
 
-**Promotion Playoff  ‹§5prom›**
+Promotion Playoff  ‹§5prom›
 
 Round 1
 
@@ -1237,6 +1244,7 @@ Notts County  2-0 Barnet
 Final [Aug 2]
 Harrogate     3-1 Notts County
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1259,11 +1267,12 @@ Harrogate     3-1 Notts County
 ‹list of league cup winners, see page engleagcuphist›.
 
 ‹list of league trophy winners, see page engassmembcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
-Thanks to Martin Arenlind
+Thanks to Martin Arenlind and Sven Baum
 
 Prepared and maintained by Karel Stokkermans
 the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -1271,9 +1280,9 @@ the ‹Rec.Sport.Soccer Statistics Foundation›
 
 Author: Karel Stokkermans
 
-Last updated: 30 Jun 2021
+Last updated: 12 Jun 2025
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2019/21**
+(C) Copyright Karel Stokkermans and RSSSF 2019/25
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

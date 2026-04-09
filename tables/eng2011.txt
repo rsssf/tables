@@ -4,20 +4,22 @@
   
 
 
-## England 2010/11
+== England 2010/11
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Premiership, see §premier›
 ‹Cup Tournaments, see §cups›
 ‹Championship, see §champ›
 ‹Division 1, see §first›
 ‹Division 2, see §second›
 ‹Conference, see §conf›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Premiership  ‹§premier›
+==== Premiership  ‹§premier›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Manchester United       38  23 11  4  78-37  80  Champions
@@ -227,15 +229,16 @@ West Ham United      0-3  1-2  0-1  1-1  0-0  1-3  1-3  1-1  1-1  3-1  1-3  2-4 
 Wigan Athletic       2-2  1-2  2-1  4-3  0-4  1-1  0-6  1-1  1-1  1-1  0-2  0-4  0-1  2-2  1-1  0-0  1-0  3-2       2-0
 Wolverhampton Wand.  0-2  1-2  1-0  2-3  4-0  2-3  1-0  0-3  1-1  0-3  2-1  2-1  1-1  2-1  3-2  3-3  3-1  1-1  1-2
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Cup Tournaments  ‹§cups›
+==== Cup Tournaments  ‹§cups›
 
-
+<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-**FA Cup  ‹§facup›**
+FA Cup  ‹§facup›
 
 Round 1
 [Nov 5]
@@ -447,7 +450,7 @@ Bolton Wanderers        0-5 Stoke City
 Final [May 14, London]
 Manchester City         1-0 Stoke City
 
-**League Cup  ‹§leaguecup›**
+League Cup  ‹§leaguecup›
 
 Round 1
 [Aug 9]
@@ -576,15 +579,16 @@ Birmingham City         3-1 West Ham United         [aet]
 Final [Feb 27, London]
 Arsenal                 1-2 Birmingham City
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Championship  ‹§champ›
+==== Championship  ‹§champ›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-**Regular Stage  ‹§2reg›**
+Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -643,7 +647,7 @@ Sheffield United      2-2 3-2 3-3 0-2 0-1 3-2 0-1 2-2 2-3 1-2 2-0 0-1 1-2 1-1 1-
 Swansea City          1-0 0-1 1-0 0-1 2-1 3-0 0-0 3-0 1-1 4-1 3-0 2-0 1-0 1-1 3-0 3-2 1-2 4-0 0-0 1-0 2-0 4-0     1-1
 Watford               1-0 1-3 1-3 4-1 2-2 1-1 3-0 2-2 1-2 2-1 0-1 3-2 3-1 1-0 2-2 1-1 3-0 2-2 0-2 1-1 0-2 3-0 2-3
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -663,15 +667,16 @@ Final [May 30]
 Swansea       4-2 Reading
 
 NB: Swansea City promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 1  ‹§first›
+==== Division 1  ‹§first›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-**Regular Stage  ‹§3reg›**
+Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -732,7 +737,7 @@ Tranmere Rovers       0-3 0-3 1-1 0-1 2-1 1-1 1-0 2-0 4-0 0-1 0-2 1-2 4-2 0-1 1-
 Walsall               0-1 3-2 1-3 6-1 2-1 2-0 0-1 1-0 2-1 5-2 2-4 0-2 1-2 0-3 1-1 1-3 2-1 0-0 1-1 1-0 1-2 1-4     0-1
 Yeovil Town           2-2 2-0 0-1 0-1 1-0 0-1 4-2 1-3 1-3 0-2 1-1 2-1 1-0 2-1 1-1 0-2 1-0 0-1 0-2 1-1 3-3 3-1 1-1
 
-**Promotion Playoff  ‹§3prom›**
+Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -752,15 +757,16 @@ Final [May 29]
 Huddersfield  0-3 Peterborough
 
 NB: Peterborough United promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 2  ‹§second›
+==== Division 2  ‹§second›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-**Regular Stage  ‹§4reg›**
+Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -823,7 +829,7 @@ Stockport County      2-2 2-2 2-1 1-1 0-0 2-1 1-1 1-1 3-3 1-5 0-5 3-4 1-4 0-2 2-
 Torquay United        0-0 0-1 1-1 2-0 1-0 3-4 2-1 0-0 2-1 1-1 1-3 2-0 1-3 3-1 3-0 3-4 0-0 1-1 5-0 1-1 2-0 2-0     0-0
 Wycombe Wanderers     1-2 2-2 4-2 1-0 4-1 1-0 2-1 1-2 2-0 1-0 2-1 2-2 1-2 2-0 2-2 0-0 1-1 1-0 2-2 3-1 0-1 2-0 1-3
 
-**Promotion Playoff  ‹§4prom›**
+Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -841,15 +847,16 @@ Final [May 28]
 Stevenage     1-0 Torquay
 
 NB: Stevenage promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Conference  ‹§conf›
+==== Conference  ‹§conf›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-**Regular Stage  ‹§5reg›**
+Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -888,7 +895,7 @@ NB: Kettering Town 2 points deducted for fielding an ineligible player;
       expelled from the league at the end of the season; because of this, Southport escaped
       relegation.
 
-**Promotion Playoff  ‹§5prom›**
+Promotion Playoff  ‹§5prom›
 
 Semifinals
 
@@ -909,6 +916,7 @@ Wimbledon     0-0 Luton         [aet, 4-3 pen]
 
 NB: AFC Wimbledon promoted
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -931,9 +939,10 @@ NB: AFC Wimbledon promoted
 ‹list of league cup winners, see page engleagcuphist›.
 
 ‹list of league trophy winners, see page engassmembcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Ian Kay for a correction
 
@@ -946,6 +955,6 @@ Authors: Ian King, Karel Stokkermans and Jan Schoenmakers
 Last updated: 5 Feb 2015
 
 
-**(C) Copyright Ian King, Karel Stokkermans, Jan Schoenmakers and RSSSF 2010/15**
+(C) Copyright Ian King, Karel Stokkermans, Jan Schoenmakers and RSSSF 2010/15
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

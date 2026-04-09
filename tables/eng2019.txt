@@ -4,21 +4,23 @@
   
 
 
-## England 2018/19
+== England 2018/19
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Premier League, see §premier›
 ‹Cup Tournaments, see §cups›
 ‹Championship, see §champ›
 ‹Division 1, see §first›
 ‹Division 2, see §second›
 ‹National League, see §conf›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Premier League  ‹§premier›
+==== Premier League  ‹§premier›
 
-
-**‹Premier League 2018/19 Match Details, see page eng2019det›**
+<!-- start pre -->
+‹Premier League 2018/19 Match Details, see page eng2019det›
 
 Final Table:
 
@@ -657,16 +659,17 @@ Final Table:
 19.Fulham                  38   7  5 26  34-81  26  [P]  Relegated
 20.Huddersfield Town       38   3  7 28  22-76  16       Relegated
 
-**‹Premier League 2018/19 Match Details, see page eng2019det›**
+‹Premier League 2018/19 Match Details, see page eng2019det›
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Cup Tournaments  ‹§cups›
+==== Cup Tournaments  ‹§cups›
 
-
+<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-**FA Cup  ‹§facup›**
+FA Cup  ‹§facup›
 
 Round 1
 [Nov 9]
@@ -875,7 +878,7 @@ Watford                 3-2 Wolverhampton Wanderers [aet]
 Final [May 18, London]
 Manchester City         6-0 Watford
 
-**League Cup  ‹§leaguecup›**
+League Cup  ‹§leaguecup›
 
 First Round
 [Aug 14]
@@ -1005,15 +1008,16 @@ Chelsea                 2-1 Tottenham Hotspur       [4-2 pen]
 Final [Feb 24, London]
 Manchester City         0-0 Chelsea                 [aet, 4-3 pen]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Championship  ‹§champ›
+==== Championship  ‹§champ›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-**Regular Stage  ‹§2reg›**
+Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -1047,7 +1051,7 @@ Final Table:
 
 NB: Birmingham City 9 points deducted for financial reasons
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -1064,15 +1068,16 @@ Leeds         2-4 Derby
 Final [May 27]
 Aston Villa   2-1 Derby
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 1  ‹§first›
+==== Division 1  ‹§first›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-**Regular Stage  ‹§3reg›**
+Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -1104,7 +1109,7 @@ Final Table:
 23.Scunthorpe United       46  12 10 24  53-83  46       Relegated
 24.Bradford City           46  11  8 27  49-77  41       Relegated
 
-**Promotion Playoff  ‹§3prom›**
+Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -1123,15 +1128,16 @@ Charlton      2-3 Doncaster     [aet, 4-3 pen]
 Final [May 26]
 Charlton      2-1 Sunderland
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 2  ‹§second›
+==== Division 2  ‹§second›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-**Regular Stage  ‹§4reg›**
+Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -1163,7 +1169,7 @@ Final Table:
 23.Notts County            46   9 14 23  48-84  41       Relegated
 24.Yeovil Town             46   9 13 24  41-66  40       Relegated
 
-**Promotion Playoff  ‹§4prom›**
+Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -1182,15 +1188,16 @@ Forest Green  1-1 Tranmere
 Final [May 25]
 Newport       0-1 Tranmere      [aet]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### National League  ‹§conf›
+==== National League  ‹§conf›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-**Regular Stage  ‹§5reg›**
+Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -1227,7 +1234,7 @@ NB: Gateshead 9 points deducted for financial reasons and later demoted;
 
 Promoted: Stockport County, Torquay United, Chorley, Woking
 
-**Promotion Playoff  ‹§5prom›**
+Promotion Playoff  ‹§5prom›
 
 Round 1
 
@@ -1246,6 +1253,7 @@ Salford       1-1 Eastleigh     [aet, 4-3 pen]
 Final [May 11]
 Fylde         0-3 Salford
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1268,9 +1276,10 @@ Fylde         0-3 Salford
 ‹list of league cup winners, see page engleagcuphist›.
 
 ‹list of league trophy winners, see page engassmembcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind and Ian Kay
 
@@ -1283,7 +1292,7 @@ Authors: Karel Stokkermans and Roberto Di Maggio
 Last updated: 7 Jul 2022
 
 
-**(C) Copyright Karel Stokkermans, Roberto Di Maggio
-and RSSSF 2018/22**
+(C) Copyright Karel Stokkermans, Roberto Di Maggio
+and RSSSF 2018/22
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

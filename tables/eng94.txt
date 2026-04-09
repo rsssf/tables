@@ -4,9 +4,9 @@
   
 
 
-## England 1993/94
+== England 1993/94
 
-
+<!-- start pre -->
 Premiership
 
 Final Table:
@@ -35,7 +35,7 @@ Pos Team                  P   W   D   L   F   A  GD Pts
  21 Oldham Athletic      42   9  13  20  42  68 -26  40
  22 Swindon Town         42   5  15  22  47 100 -53  30
 
-<u>14 August 1993</u>
+14 August 1993
 Arsenal                     0    Coventry City               3
                                    Quinn 3
 Aston Villa                 4    Queens Park Rangers         1
@@ -57,15 +57,15 @@ Southampton                 0    Everton                     2
 West Ham United             0    Wimbledon                   2
                                    Fashanu, Sanchez
 
-<u>15 August 1993</u>
+15 August 1993
 Norwich City                0    Manchester United           2
                                    Giggs, Robson
 
-<u>16 August 1993</u>
+16 August 1993
 Tottenham Hotspur           0    Arsenal                     1
                                    Wright
 
-<u>17 August 1993</u>
+17 August 1993
 Everton                     1    Manchester City             0
   Rideout
 Ipswich Town                1    Southampton                 0
@@ -75,7 +75,7 @@ Leeds United                1    West Ham United             0
 Wimbledon                   1    Chelsea                     1
   Fashanu                          Wise
 
-<u>18 August 1993</u>
+18 August 1993
 Blackburn Rovers            2    Norwich City                3
   Atkins, Wilcox                   Sutton 2, Newman
 Coventry City               2    Newcastle United            1
@@ -89,7 +89,7 @@ Sheffield Wednesday         0    Aston Villa                 0
 Swindon Town                0    Oldham Athletic             1
                                    Bernard
 
-<u>21 August 1993</u>
+21 August 1993
 Blackburn Rovers            1    Oldham Athletic             0
   Moran
 Coventry City               1    West Ham United             1
@@ -111,15 +111,15 @@ Tottenham Hotspur           1    Manchester City             0
 Wimbledon                   2    Aston Villa                 2
   Holdsworth, Fashanu              Richardson, McGrath
 
-<u>22 August 1993</u>
+22 August 1993
 Swindon Town                0    Liverpool                   5
                                    Ruddock, McManaman 2, Whelan, Marsh
 
-<u>23 August 1993</u>
+23 August 1993
 Aston Villa                 1    Manchester United           2
   Atkinson                         Sharpe 2
 
-<u>24 August 1993</u>
+24 August 1993
 Arsenal                     2    Leeds United                1
   (Newsome og), Merson             Strachan
 Manchester City             0    Blackburn Rovers            2
@@ -129,7 +129,7 @@ Oldham Athletic             3    Coventry City               3
 Sheffield United            2    Wimbledon                   1
   Flo, Falconer                    Clarke
 
-<u>25 August 1993</u>
+25 August 1993
 Chelsea                     2    Queens Park Rangers         0
   Peacock, Cascarino
 Liverpool                   1    Tottenham Hotspur           2
@@ -143,11 +143,11 @@ Southampton                 5    Swindon Town                1
 West Ham United             2    Sheffield Wednesday         0
   Allen C 2
 
-<u>27 August 1993</u>
+27 August 1993
 Manchester City             1    Coventry City               1
   Sheron                           Wegerle
 
-<u>28 August 1993</u>
+28 August 1993
 Arsenal                     2    Everton                     0
   Wright 2
 Aston Villa                 1    Tottenham Hotspur           0
@@ -167,15 +167,15 @@ Southampton                 1    Manchester United           3
 West Ham United             0    Queens Park Rangers         4
                                    Peacock, Ferdinand 2, Penrice
 
-<u>29 August 1993</u>
+29 August 1993
 Newcastle United            1    Blackburn Rovers            1
   Cole                             Shearer
 
-<u>30 August 1993</u>
+30 August 1993
 Leeds United                1    Oldham Athletic             0
   Strachan
 
-<u>31 August 1993</u>
+31 August 1993
 Everton                     0    Aston Villa                 1
                                    Whittingham
 Ipswich Town                1    Newcastle United            1
@@ -183,7 +183,7 @@ Ipswich Town                1    Newcastle United            1
 Wimbledon                   1    Southampton                 0
   Barton
 
-<u>01 September 1993</u>
+01 September 1993
 Blackburn Rovers            1    Arsenal                     1
   Gallacher                        Campbell
 Coventry City               1    Liverpool                   0
@@ -199,7 +199,7 @@ Swindon Town                1    Manchester City             3
 Tottenham Hotspur           1    Chelsea                     1
   Sheringham                       Cascarino
 
-<u>11 September 1993</u>
+11 September 1993
 Arsenal                     4    Ipswich Town                0
   Wright, Campbell 3
 Aston Villa                 0    Coventry City               0
@@ -219,15 +219,15 @@ Southampton                 0    Leeds United                2
 West Ham United             0    Swindon Town                0
 
 
-<u>12 September 1993</u>
+12 September 1993
 Liverpool                   0    Blackburn Rovers            1
                                    Newall
 
-<u>13 September 1993</u>
+13 September 1993
 Newcastle United            4    Sheffield Wednesday         2
   Cole 2,Mathie, Allen             Sinton 2
 
-<u>18 September 1993</u>
+18 September 1993
 Blackburn Rovers            0    West Ham United             2
   Shearer, Wilcox, Ripley          Chapman, Morley
 Coventry City               1    Chelsea                     1
@@ -247,15 +247,15 @@ Swindon Town                2    Newcastle United            2
 Tottenham Hotspur           5    Oldham Athletic             0
   Sheringham 2, Sedgley, Durie, Dozzell
 
-<u>19 September 1993</u>
+19 September 1993
 Manchester United           1    Arsenal                     0
   Cantona
 
-<u>20 September 1993</u>
+20 September 1993
 Wimbledon                   1    Manchester City             0
   Earle
 
-<u>25 September 1993</u>
+25 September 1993
 Arsenal                     1    Southampton                 0
   Merson
 Blackburn Rovers            1    Sheffield Wednesday         1
@@ -275,15 +275,15 @@ Oldham Athletic             1    Aston Villa                 1
 Sheffield United            0    Manchester City             1
                                    Sheron
 
-<u>26 September 1993</u>
+26 September 1993
 Ipswich Town                2    Tottenham Hotspur           2
   Milton, Marshall                 Sheringham, Dozzell
 
-<u>27 September 1993</u>
+27 September 1993
 Wimbledon                   1    Queens Park Rangers         1
   (Ferdinand og)                   McDonald
 
-<u>02 October 1993</u>
+02 October 1993
 Aston Villa                 0    Newcastle United            2
                                    Allen, Cole
 Leeds United                4    Wimbledon                   0
@@ -303,15 +303,15 @@ Swindon Town                1    Blackburn Rovers            3
 West Ham United             1    Chelsea                     0
   Morley
 
-<u>03 October 1993</u>
+03 October 1993
 Tottenham Hotspur           3    Everton                     2
   Sheringham, Anderton, Caskey     Rideout, Cottee
 
-<u>04 October 1993</u>
+04 October 1993
 Manchester City             1    Oldham Athletic             1
   Sheron                           Sharp
 
-<u>16 October 1993</u>
+16 October 1993
 Arsenal                     0    Manchester City             0
 
 Chelsea                     1    Norwich City                2
@@ -330,13 +330,13 @@ Swindon Town                1    Everton                     1
   Taylor                           Beagrie
 West Ham United             0    Aston Villa                 0
 
-<u>17 October 1993</u>
+17 October 1993
 Ipswich Town                0    Leeds United                0
 
-<u>18 October 1993</u>
+18 October 1993
 Blackburn Rovers            0    Sheffield United            0
 
-<u>23 October 1993</u>
+23 October 1993
 Aston Villa                 1    Chelsea                     0
   Atkinson
 Everton                     0    Manchester United           1
@@ -356,15 +356,15 @@ Sheffield United            1    Sheffield Wednesday         1
 Tottenham Hotspur           1    Swindon Town                1
   Dozzell                          Bodin
 
-<u>24 October 1993</u>
+24 October 1993
 Southampton                 2    Newcastle United            1
   Le Tissier 2                     Cole
 
-<u>25 October 1993</u>
+25 October 1993
 Wimbledon                   0    Ipswich Town                2
                                    Mason, Stockwell
 
-<u>30 October 1993</u>
+30 October 1993
 Arsenal                     0    Norwich City                0
 
 Blackburn Rovers            1    Tottenham Hotspur           0
@@ -384,15 +384,15 @@ Sheffield Wednesday         3    Leeds United                3
 Swindon Town                1    Aston Villa                 2
   Bodin                            Teale, Atkinson
 
-<u>31 October 1993</u>
+31 October 1993
 Coventry City               0    Sheffield United            0
 
 
-<u>01 November 1993</u>
+01 November 1993
 West Ham United             3    Manchester City             1
   Burrows, Chapman, Holmes         Curle
 
-<u>06 November 1993</u>
+06 November 1993
 Arsenal                     1    Aston Villa                 2
   Wright                           Whittingham, Townsend
 Coventry City               2    Everton                     1
@@ -412,15 +412,15 @@ Southampton                 1    Tottenham Hotspur           0
 Wimbledon                   3    Swindon Town                0
   Fashanu, Blissett, Holdsworth
 
-<u>07 November 1993</u>
+07 November 1993
 Manchester City             2    Manchester United           3
   Quinn 2                          Cantona 2, Keane
 
-<u>08 November 1993</u>
+08 November 1993
 Oldham Athletic             1    Newcastle United            3
   Jobson                           Cole 2, Beardsley
 
-<u>20 November 1993</u>
+20 November 1993
 Aston Villa                 1    Sheffield United            0
   Whittingham
 Blackburn Rovers            2    Southampton                 0
@@ -442,21 +442,21 @@ Tottenham Hotspur           1    Leeds United                1
 West Ham United             2    Oldham Athletic             0
   Martin, Morley
 
-<u>21 November 1993</u>
+21 November 1993
 Newcastle United            3    Liverpool                   0
   Cole 3
 
-<u>22 November 1993</u>
+22 November 1993
 Chelsea                     0    Manchester City             0
 
 
-<u>23 November 1993</u>
+23 November 1993
 Blackburn Rovers            2    Coventry City               1
   Shearer 2                        Ndlovu
 Everton                     1    Leeds United                1
   Cottee                           Wallace Rod
 
-<u>24 November 1993</u>
+24 November 1993
 Aston Villa                 0    Southampton                 2
                                    Le Tissier 2
 Manchester United           0    Ipswich Town                0
@@ -472,7 +472,7 @@ Tottenham Hotspur           1    Wimbledon                   1
 West Ham United             0    Arsenal                     0
 
 
-<u>27 November 1993</u>
+27 November 1993
 Arsenal                     2    Newcastle United            1
   Wright, Smith                    Beardsley
 Coventry City               0    Manchester United           1
@@ -492,15 +492,15 @@ Sheffield United            1    Chelsea                     0
 Wimbledon                   1    Everton                     1
   Berry                            Barlow
 
-<u>28 November 1993</u>
+28 November 1993
 Liverpool                   2    Aston Villa                 1
   Fowler, Redknapp                 Atkinson
 
-<u>29 November 1993</u>
+29 November 1993
 Southampton                 0    West Ham United             2
                                    Morley, Chapman
 
-<u>04 December 1993</u>
+04 December 1993
 Coventry City               1    Arsenal                     0
   Quinn
 Everton                     1    Southampton                 0
@@ -522,21 +522,21 @@ Tottenham Hotspur           1    Newcastle United            2
 Wimbledon                   1    West Ham United             2
   Holdsworth                       Chapman 2
 
-<u>05 December 1993</u>
+05 December 1993
 Blackburn Rovers            2    Chelsea                     0
   Le Saux, Shearer
 
-<u>06 December 1993</u>
+06 December 1993
 Arsenal                     1    Tottenham Hotspur           1
   Wright                           Anderton
 
-<u>07 December 1993</u>
+07 December 1993
 Oldham Athletic             2    Swindon Town                1
   Holden, Redmond                  Mutch
 Sheffield United            0    Manchester United           3
                                    Hughes, Sharpe, Cantona
 
-<u>08 December 1993</u>
+08 December 1993
 Aston Villa                 2    Sheffield Wednesday         2
   Cox, Saunders                    Bart-Williams, (Teale og)
 Liverpool                   3    Queens Park Rangers         2
@@ -548,7 +548,7 @@ Southampton                 0    Ipswich Town                1
 West Ham United             0    Leeds United                1
                                    Wallace Rod
 
-<u>11 December 1993</u>
+11 December 1993
 Aston Villa                 0    Wimbledon                   1
   Richardson, Atkinson 2           Holdsworth
 Chelsea                     1    Ipswich Town                1
@@ -568,15 +568,15 @@ Southampton                 0    Queens Park Rangers         1
 West Ham United             3    Coventry City               2
   Breacker, Butler, Morley         Darby 2
 
-<u>12 December 1993</u>
+12 December 1993
 Arsenal                     1    Sheffield Wednesday         0
   Wright
 
-<u>13 December 1993</u>
+13 December 1993
 Norwich City                2    Leeds United                1
   Sutton, Ekoku                    Wallace Rod
 
-<u>18 December 1993</u>
+18 December 1993
 Blackburn Rovers            2    Manchester City             0
   Gallacher, Shearer
 Coventry City               1    Oldham Athletic             1
@@ -596,15 +596,15 @@ Tottenham Hotspur           3    Liverpool                   3
 Wimbledon                   2    Sheffield United            0
   Barton, Holdsworth
 
-<u>19 December 1993</u>
+19 December 1993
 Manchester United           3    Aston Villa                 1
   Cantona 2, Ince                  Cox
 
-<u>22 December 1993</u>
+22 December 1993
 Newcastle United            1    Leeds United                1
   Cole                             Fairclough
 
-<u>26 December 1993</u>
+26 December 1993
 Manchester United           1    Blackburn Rovers            1
   Ince                             Gallacher
 Sheffield United            0    Liverpool                   0
@@ -612,7 +612,7 @@ Sheffield United            0    Liverpool                   0
 Wimbledon                   1    Coventry City               2
   Holdsworth                       Ndlovu, Williams
 
-<u>27 December 1993</u>
+27 December 1993
 Everton                     0    Sheffield Wednesday         2
                                    Bright, Palmer
 Ipswich Town                1    West Ham United             1
@@ -626,7 +626,7 @@ Swindon Town                0    Arsenal                     4
 Tottenham Hotspur           1    Norwich City                3
   Barmby                           Sutton 2, Ekoku
 
-<u>28 December 1993</u>
+28 December 1993
 Chelsea                     1    Newcastle United            0
   Stein
 Liverpool                   1    Wimbledon                   1
@@ -636,7 +636,7 @@ Manchester City             1    Southampton                 1
 West Ham United             1    Tottenham Hotspur           3
   Holmes                           Dozzell, Hazard, Anderton
 
-<u>29 December 1993</u>
+29 December 1993
 Arsenal                     3    Sheffield United            0
   Campbell 2, Wright
 Blackburn Rovers            2    Everton                     0
@@ -650,7 +650,7 @@ Oldham Athletic             2    Manchester United           5
 Sheffield Wednesday         3    Swindon Town                3
   Bright, Watson 2                 Maskell 2, Mutch
 
-<u>01 January 1994</u>
+01 January 1994
 Aston Villa                 0    Blackburn Rovers            1
                                    Shearer
 Everton                     0    West Ham United             1
@@ -674,7 +674,7 @@ Tottenham Hotspur           1    Coventry City               2
 Wimbledon                   0    Arsenal                     3
                                    Campbell, Parlour, Wright
 
-<u>03 January 1994</u>
+03 January 1994
 Arsenal                     0    Queens Park Rangers         0
 
 Chelsea                     4    Everton                     2
@@ -686,13 +686,13 @@ Sheffield Wednesday         1    Tottenham Hotspur           0
 West Ham United             0    Sheffield United            0
 
 
-<u>04 January 1994</u>
+04 January 1994
 Liverpool                   3    Manchester United           3
   Clough 2, Ruddock                Bruce, Giggs, Irwin
 Norwich City                1    Newcastle United            2
   Bowen                            Beardsley, Cole
 
-<u>15 January 1994</u>
+15 January 1994
 Aston Villa                 3    West Ham United             1
                                    Allen M
 Everton                     6    Swindon Town                2
@@ -714,11 +714,11 @@ Tottenham Hotspur           0    Manchester United           1
 Wimbledon                   2    Sheffield Wednesday         1
   Ardley, Fashanu                  Pearce
 
-<u>16 January 1994</u>
+16 January 1994
 Queens Park Rangers         1    Newcastle United            2
   Penrice                          Clark, Beardsley
 
-<u>22 January 1994</u>
+22 January 1994
 Arsenal                     1    Oldham Athletic             1
   Wright                           Sharp
 Chelsea                     1    Aston Villa                 1
@@ -738,19 +738,19 @@ Sheffield Wednesday         3    Sheffield United            1
 Swindon Town                2    Tottenham Hotspur           1
   Fjortoft, Whitbread              Barmby
 
-<u>23 January 1994</u>
+23 January 1994
 Blackburn Rovers            2    Leeds United                1
   Shearer 2                        Speed
 
-<u>24 January 1994</u>
+24 January 1994
 West Ham United             3    Norwich City                3
   (Sutton og), Jones, Morley       Sutton 2, Fox
 
-<u>02 February 1994</u>
+02 February 1994
 Coventry City               1    Ipswich Town                0
   Flynn
 
-<u>05 February 1994</u>
+05 February 1994
 Blackburn Rovers            3    Wimbledon                   0
 
 Everton                     4    Chelsea                     2
@@ -768,11 +768,11 @@ Swindon Town                3    Coventry City               1
 Tottenham Hotspur           1    Sheffield Wednesday         3
   Rosenthal                        Coleman, Bright 2
 
-<u>06 February 1994</u>
+06 February 1994
 Aston Villa                 1    Leeds United                0
   Townsend
 
-<u>12 February 1994</u>
+12 February 1994
 Aston Villa                 5    Swindon Town                0
   Saunders 3, Froggatt, Richardson
 Everton                     0    Ipswich Town                0
@@ -788,15 +788,15 @@ Tottenham Hotspur           0    Blackburn Rovers            2
 Wimbledon                   4    Newcastle United            2
   Earle, Blissett, Fashanu, HoldswoBeardsley 2
 
-<u>13 February 1994</u>
+13 February 1994
 Norwich City                1    Arsenal                     1
   Ekoku                            Campbell
 
-<u>14 February 1994</u>
+14 February 1994
 Southampton                 4    Liverpool                   2
   Le Tissier 3, Maskell            Dicks, Rush
 
-<u>19 February 1994</u>
+19 February 1994
 Blackburn Rovers            1    Newcastle United            0
   May
 Coventry City               4    Manchester City             0
@@ -808,7 +808,7 @@ Leeds United                2    Liverpool                   0
 Swindon Town                3    Norwich City                3
   Fjortoft 2, Taylor               Sutton, Newman, Goss
 
-<u>22 February 1994</u>
+22 February 1994
 Aston Villa                 0    Manchester City             0
 
 Ipswich Town                3    Sheffield United            2
@@ -816,11 +816,11 @@ Ipswich Town                3    Sheffield United            2
 Norwich City                2    Blackburn Rovers            2
   Sutton 2                         Gallacher 2
 
-<u>23 February 1994</u>
+23 February 1994
 Newcastle United            4    Coventry City               0
   Cole 3, Mathie
 
-<u>26 February 1994</u>
+26 February 1994
 Arsenal                     1    Blackburn Rovers            0
   Merson
 Liverpool                   1    Coventry City               0
@@ -834,19 +834,19 @@ Southampton                 1    Wimbledon                   0
 West Ham United             2    Manchester United           2
   Chapman, Morley                  Hughes, Ince
 
-<u>27 February 1994</u>
+27 February 1994
 Chelsea                     4    Tottenham Hotspur           3
   Donaghy, Stein 2, Spencer        Sedgley, Dozzell, Gray
 
-<u>28 February 1994</u>
+28 February 1994
 Oldham Athletic             1    Leeds United                1
   Beckford                         McAllister
 
-<u>02 March 1994</u>
+02 March 1994
 Tottenham Hotspur           1    Aston Villa                 1
   Rosenthal                        Parker
 
-<u>05 March 1994</u>
+05 March 1994
 Blackburn Rovers            2    Liverpool                   0
   Wilcox, Sherwood
 Everton                     2    Oldham Athletic             1
@@ -868,11 +868,11 @@ Tottenham Hotspur           2    Sheffield United            2
 Wimbledon                   3    Norwich City                1
   Earle 2, Holdsworth              Ekoku
 
-<u>06 March 1994</u>
+06 March 1994
 Coventry City               0    Aston Villa                 1
                                    Daley
 
-<u>12 March 1994</u>
+12 March 1994
 Aston Villa                 0    Ipswich Town                1
                                    Johnson
 Manchester City             0    Wimbledon                   1
@@ -884,13 +884,13 @@ Norwich City                3    Queens Park Rangers         4
 Southampton                 1    Sheffield Wednesday         1
   Monkou                           Bart-Williams
 
-<u>13 March 1994</u>
+13 March 1994
 Liverpool                   2    Everton                     1
   Rush, Fowler                     Watson
 Sheffield United            2    Leeds United                2
   Flo, Gayle                       Speed, Deane
 
-<u>16 March 1994</u>
+16 March 1994
 Chelsea                     2    Wimbledon                   0
   (Fashanu og), Burley
 Leeds United                2    Aston Villa                 0
@@ -900,7 +900,7 @@ Manchester United           5    Sheffield Wednesday         0
 Sheffield United            1    Queens Park Rangers         1
   Blake                            Barker
 
-<u>19 March 1994</u>
+19 March 1994
 Aston Villa                 1    Oldham Athletic             2
   (Redmond og)                     Beckford, Holden
 Leeds United                1    Coventry City               0
@@ -920,23 +920,23 @@ Tottenham Hotspur           1    Ipswich Town                1
 West Ham United             2    Newcastle United            4
   Martin, Breacker                 Lee 2, Cole, Mathie
 
-<u>20 March 1994</u>
+20 March 1994
 Sheffield Wednesday         1    Blackburn Rovers            2
   Watson                           Wilcox, Newall
 
-<u>21 March 1994</u>
+21 March 1994
 Norwich City                3    Everton                     0
   Culverhouse, Sutton, Bowen
 
-<u>22 March 1994</u>
+22 March 1994
 Arsenal                     2    Manchester United           2
   (Pallister og), Merson           Sharpe 2
 
-<u>23 March 1994</u>
+23 March 1994
 Newcastle United            2    Ipswich Town                0
   Sellars, Cole
 
-<u>26 March 1994</u>
+26 March 1994
 Arsenal                     1    Liverpool                   0
   Merson
 Blackburn Rovers            3    Swindon Town                1
@@ -956,11 +956,11 @@ Sheffield United            0    Southampton                 0
 Wimbledon                   1    Leeds United                0
   Fear
 
-<u>28 March 1994</u>
+28 March 1994
 Sheffield United            3    West Ham United             2
   Whitehouse, Gayle, Rogers        Bishop, Holmes
 
-<u>29 March 1994</u>
+29 March 1994
 Ipswich Town                2    Manchester City             2
   Linighan, Guentchev              Walsh, Rosler
 Newcastle United            3    Norwich City                0
@@ -968,7 +968,7 @@ Newcastle United            3    Norwich City                0
 Wimbledon                   4    Blackburn Rovers            1
   Fashanu, (Berg og), Holdsworth, EWilcox
 
-<u>30 March 1994</u>
+30 March 1994
 Aston Villa                 0    Everton                     0
 
 Manchester United           1    Liverpool                   0
@@ -978,11 +978,11 @@ Sheffield Wednesday         3    Chelsea                     1
 Southampton                 1    Oldham Athletic             3
   Le Tissier                       Sharp, (Benali og), Holden
 
-<u>01 April 1994</u>
+01 April 1994
 Leeds United                1    Newcastle United            1
   Fairclough                       Cole
 
-<u>02 April 1994</u>
+02 April 1994
 Arsenal                     1    Swindon Town                1
   Smith                            Bodin
 Blackburn Rovers            2    Manchester United           0
@@ -1004,7 +1004,7 @@ Sheffield Wednesday         5    Everton                     1
 West Ham United             2    Ipswich Town                1
   Rush, Morley                     Mason
 
-<u>04 April 1994</u>
+04 April 1994
 Aston Villa                 0    Norwich City                0
 
 Everton                     0    Blackburn Rovers            3
@@ -1028,7 +1028,7 @@ Tottenham Hotspur           1    West Ham United             4
 Wimbledon                   1    Liverpool                   1
   Elkins                           Redknapp
 
-<u>09 April 1994</u>
+09 April 1994
 Coventry City               1    Tottenham Hotspur           0
   Ndlovu
 Liverpool                   1    Ipswich Town                0
@@ -1042,15 +1042,15 @@ Sheffield Wednesday         3    Queens Park Rangers         1
 West Ham United             0    Everton                     1
                                    Cottee
 
-<u>11 April 1994</u>
+11 April 1994
 Blackburn Rovers            1    Aston Villa                 0
   Shearer
 
-<u>13 April 1994</u>
+13 April 1994
 Queens Park Rangers         1    Chelsea                     1
   Ferdinand                        Wise
 
-<u>16 April 1994</u>
+16 April 1994
 Arsenal                     1    Chelsea                     0
   Wright
 Coventry City               1    Sheffield Wednesday         1
@@ -1072,15 +1072,15 @@ Southampton                 3    Blackburn Rovers            1
 Wimbledon                   1    Manchester United           0
   Fashanu
 
-<u>17 April 1994</u>
+17 April 1994
 Leeds United                2    Tottenham Hotspur           0
   Wallace Rod 2
 
-<u>19 April 1994</u>
+19 April 1994
 Arsenal                     1    Wimbledon                   1
                                    Earle
 
-<u>23 April 1994</u>
+23 April 1994
 Aston Villa                 1    Arsenal                     2
   Houghton                         Wright 2
 Chelsea                     1    Leeds United                1
@@ -1102,15 +1102,15 @@ Tottenham Hotspur           3    Southampton                 0
 West Ham United             1    Liverpool                   2
   Allen M                          Fowler, Rush
 
-<u>24 April 1994</u>
+24 April 1994
 Blackburn Rovers            1    Queens Park Rangers         1
   Shearer                          Ready
 
-<u>26 April 1994</u>
+26 April 1994
 Wimbledon                   3    Oldham Athletic             0
   Holdsworth 3
 
-<u>27 April 1994</u>
+27 April 1994
 Chelsea                     2    Swindon Town                0
   Wise, Peacock
 Leeds United                0    Manchester United           2
@@ -1122,7 +1122,7 @@ Queens Park Rangers         1    Arsenal                     1
 West Ham United             1    Blackburn Rovers            2
   Allen M                          Berg, Pearce
 
-<u>30 April 1994</u>
+30 April 1994
 Arsenal                     0    West Ham United             2
   Bould                            Morley, Allen M
 Leeds United                3    Everton                     0
@@ -1142,15 +1142,15 @@ Southampton                 4    Aston Villa                 1
 Wimbledon                   2    Tottenham Hotspur           1
   Holdsworth, Clarke               Sheringham
 
-<u>01 May 1994</u>
+01 May 1994
 Ipswich Town                1    Manchester United           2
   Kiwomya                          Cantona, Giggs
 
-<u>02 May 1994</u>
+02 May 1994
 Coventry City               2    Blackburn Rovers            1
   Darby 2                          La Saux
 
-<u>03 May 1994</u>
+03 May 1994
 Leeds United                2    Sheffield Wednesday         2
   White, Wallace Rod               Bart-Williams, Watson
 Oldham Athletic             1    Sheffield United            1
@@ -1158,7 +1158,7 @@ Oldham Athletic             1    Sheffield United            1
 Queens Park Rangers         0    West Ham United             0
 
 
-<u>04 May 1994</u>
+04 May 1994
 Chelsea                     1    Coventry City               2
   Cascarino                        Ndlovu, Morgan
 Manchester United           2    Southampton                 0
@@ -1166,7 +1166,7 @@ Manchester United           2    Southampton                 0
 Oldham Athletic             0    Tottenham Hotspur           2
                                    Samways, Howells
 
-<u>07 May 1994</u>
+07 May 1994
 Aston Villa                 2    Liverpool                   1
   Yorke 2                          Fowler
 Blackburn Rovers            0    Ipswich Town                0
@@ -1188,7 +1188,7 @@ Tottenham Hotspur           1    Queens Park Rangers         2
 West Ham United             3    Southampton                 3
   Williamson, Allen M, (Monkou og) Le Tissier 2, Maddison
 
-<u>08 May 1994</u>
+08 May 1994
 Manchester United           0    Coventry City               0
 
 
@@ -1235,10 +1235,11 @@ Pos Team                  P   W   D   L   F   A  GD Pts
 ‹list of league cup winners, see page engleagcuphist›.
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Michael Heneghan
 for the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -1249,6 +1250,6 @@ Author: Michael Heneghan
 Last updated: 7 Jul 2004
 
 
-**(C) Copyright Michael Heneghan and RSSSF 2004**
+(C) Copyright Michael Heneghan and RSSSF 2004
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

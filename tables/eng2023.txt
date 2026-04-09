@@ -4,19 +4,21 @@
   
 
 
-## England 2022/23
+== England 2022/23
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Premier League, see §premier›
 ‹Championship, see §champ›
 ‹Division 1, see §first›
 ‹Division 2, see §second›
 ‹National League, see §conf›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Premier League  ‹§premier›
+==== Premier League  ‹§premier›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Manchester City         38  28  5  5  94-33  89       [C]  Champions
@@ -640,15 +642,16 @@ Final Table:
 19.Leeds United            38   7 10 21  48-78  31            Relegated
 20.Southampton             38   6  7 25  36-73  25            Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Championship  ‹§champ›
+==== Championship  ‹§champ›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-**Regular Stage  ‹§2reg›**
+Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -678,9 +681,9 @@ Final Table:
 --------------------------------------------------
 22.Reading                 46  13 11 22  46-68  44  [-6]      Relegated
 23.Blackpool               46  11 11 24  48-72  44            Relegated
-24.Wigan Athletic          46  10 15 21  38-65  39  [-6] [P]
+24.Wigan Athletic          46  10 15 21  38-65  42  [-3] [P]
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -688,7 +691,7 @@ First Legs
 [May 13]
 Sunderland    2-1 Luton
 [May 14]
-Coventry      1-1 Middlesbrough
+Coventry      0-0 Middlesbrough
 
 Second Legs
 [May 16]
@@ -699,15 +702,16 @@ Middlesbrough 0-1 Coventry
 [May 27]
 Luton         1-1 Coventry      [aet, 6-5 pen]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 1  ‹§first›
+==== Division 1  ‹§first›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-**Regular Stage  ‹§3reg›**
+Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -739,7 +743,7 @@ Final Table:
 23.Accrington Stanley      46  11 11 24  40-77  44            Relegated
 24.Forest Green Rovers     46   6  9 31  31-89  27       [P]  Relegated
 
-**Promotion Playoff  ‹§3prom›**
+Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -758,15 +762,16 @@ Barnsley      1-0 Bolton
 Final [May 29]
 Sheffield W   1-0 Barnsley      [aet]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 2  ‹§second›
+==== Division 2  ‹§second›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-**Regular Stage  ‹§4reg›**
+Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -798,7 +803,7 @@ Final Table:
 23.Hartlepool United       46   9 16 21  52-78  43            Relegated
 24.Rochdale                46   9 11 26  46-70  38            Relegated
 
-**Promotion Playoff  ‹§4prom›**
+Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -815,15 +820,16 @@ Carlisle      3-1 Bradford      [aet]
 Final [May 28]
 Stockport     1-1 Carlisle      [aet, 4-5 pen]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### National League  ‹§conf›
+==== National League  ‹§conf›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-**Regular Stage  ‹§5reg›**
+Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -857,7 +863,7 @@ Final Table:
 
 Promoted: AFC Fylde, Ebbsfleet United, Kidderminster Harriers, Oxford City
 
-**Promotion Playoff  ‹§5prom›**
+Promotion Playoff  ‹§5prom›
 
 Round 1
 
@@ -875,6 +881,7 @@ Chesterfield  3-2 Bromley       [aet]
 Final [May 13]
 Notts County  2-2 Chesterfield  [aet, 4-3 pen]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -897,9 +904,12 @@ Notts County  2-2 Chesterfield  [aet, 4-3 pen]
 ‹list of league cup winners, see page engleagcuphist›.
 
 ‹list of league trophy winners, see page engassmembcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
+
+Thanks to Sven Baum
 
 Prepared and maintained by Karel Stokkermans
 the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -907,9 +917,9 @@ the ‹Rec.Sport.Soccer Statistics Foundation›
 
 Author: Karel Stokkermans
 
-Last updated: 21 Nov 2023
+Last updated: 15 Jun 2025
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2022/23**
+(C) Copyright Karel Stokkermans and RSSSF 2022/25
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

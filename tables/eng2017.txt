@@ -4,21 +4,23 @@
   
 
 
-## England 2016/17
+== England 2016/17
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Premier League, see §premier›
 ‹Cup Tournaments, see §cups›
 ‹Championship, see §champ›
 ‹Division 1, see §first›
 ‹Division 2, see §second›
 ‹Conference, see §conf›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Premier League  ‹§premier›
+==== Premier League  ‹§premier›
 
-
-**‹Premier League 2016/17 Match Details, see page eng2017det›**
+<!-- start pre -->
+‹Premier League 2016/17 Match Details, see page eng2017det›
 
 Final Table:
 
@@ -653,16 +655,17 @@ Final Table:
 19.Middlesbrough           38   5 13 20  27-53  28  [P]  Relegated
 20.Sunderland              38   6  6 26  29-69  24       Relegated
 
-**‹Premier League 2016/17 Match Details, see page eng2017det›**
+‹Premier League 2016/17 Match Details, see page eng2017det›
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Cup Tournaments  ‹§cups›
+==== Cup Tournaments  ‹§cups›
 
-
+<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-**FA Cup  ‹§facup›**
+FA Cup  ‹§facup›
 
 Round 1
 [Nov 4]
@@ -879,7 +882,7 @@ Arsenal                 2-1 Manchester City         [aet]
 Final [May 27, London]
 Arsenal                 2-1 Chelsea
 
-**League Cup  ‹§leaguecup›**
+League Cup  ‹§leaguecup›
 
 First Round
 [Aug 9]
@@ -1006,15 +1009,16 @@ Hull City               2-1 Manchester United
 
 Final [Feb 26, London]
 Manchester United       3-2 Southampton
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Championship  ‹§champ›
+==== Championship  ‹§champ›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-**Regular Stage  ‹§2reg›**
+Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -1046,7 +1050,7 @@ Final Table:
 23.Wigan Athletic          46  10 12 24  40-57  42  [P]  Relegated
 24.Rotherham United        46   5  8 33  40-98  23       Relegated
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -1065,15 +1069,16 @@ Sheffield W   1-1 Huddersfield  [aet, 3-4 pen]
 Final [May 29]
 Reading       0-0 Huddersfield  [aet, 3-4 pen]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 1  ‹§first›
+==== Division 1  ‹§first›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-**Regular Stage  ‹§3reg›**
+Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -1105,7 +1110,7 @@ Final Table:
 23.Coventry City           46   9 12 25  37-68  39       Relegated
 24.Chesterfield            46   9 10 27  43-78  37       Relegated
 
-**Promotion Playoff  ‹§3prom›**
+Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -1120,15 +1125,16 @@ Fleetwood     0-0 Bradford
 Final [May 20]
 Bradford      0-1 Millwall
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 2  ‹§second›
+==== Division 2  ‹§second›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-**Regular Stage  ‹§4reg›**
+Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -1160,7 +1166,7 @@ Final Table:
 23.Hartlepool United       46  11 13 22  54-75  46       Relegated
 24.Leyton Orient           46  10  6 30  47-87  36       Relegated
 
-**Promotion Playoff  ‹§4prom›**
+Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -1175,15 +1181,16 @@ Exeter        3-2 Carlisle
 Final [May 28]
 Exeter        1-2 Blackpool
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Conference  ‹§conf›
+==== Conference  ‹§conf›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-**Regular Stage  ‹§5reg›**
+Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -1217,7 +1224,7 @@ Final Table:
 
 Promoted: AFC Fylde, FC Halifax Town, Maidenhead United, Ebbsfleet United
 
-**Promotion Playoff  ‹§5prom›**
+Promotion Playoff  ‹§5prom›
 
 Semifinals
 
@@ -1236,12 +1243,13 @@ Forest Green  2-0 Dagenham & R.
 Final [May 14]
 Tranmere      1-3 Forest Green
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ‹2015/16, see page eng2016›.
 
-**‹Premier League 2016/17 Match Details, see page eng2017det›**
+‹Premier League 2016/17 Match Details, see page eng2017det›
 
 ‹2017/18, see page eng2018›.
 
@@ -1260,9 +1268,10 @@ Tranmere      1-3 Forest Green
 ‹list of league cup winners, see page engleagcuphist›.
 
 ‹list of league trophy winners, see page engassmembcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -1275,6 +1284,6 @@ Authors: Roberto Di Maggio and Karel Stokkermans
 Last updated: 14 Jan 2021
 
 
-**(C) Copyright Roberto Di Maggio, Karel Stokkermans and RSSSF 2016/21**
+(C) Copyright Roberto Di Maggio, Karel Stokkermans and RSSSF 2016/21
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

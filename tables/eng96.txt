@@ -4,9 +4,9 @@
   
 
 
-## England 1995/96
+== England 1995/96
 
-
+<!-- start pre -->
 Premiership
 
 FINAL TABLE
@@ -39,7 +39,7 @@ R=Relegated
 U=UEFA Cup 1996/97
 2=Qualified for Cup Winners Cup
 
-<u>19 August 1995</u>
+19 August 1995
 Aston Villa                 3    Manchester United           1
   Taylor, Draper, Yorke            Beckham
 Blackburn Rovers            1    Queens Park Rangers         0
@@ -59,19 +59,19 @@ West Ham United             1    Leeds United                2
 Wimbledon                   3    Bolton Wanderers            2
   Ekoku, Earle, Holdsworth         Thompson, De Freitas
 
-<u>20 August 1995</u>
+20 August 1995
 Arsenal                     1    Middlesbrough               1
   Wright                           Barmby
 
-<u>21 August 1995</u>
+21 August 1995
 Leeds United                1    Liverpool                   0
   Yeboah
 
-<u>22 August 1995</u>
+22 August 1995
 Bolton Wanderers            1    Newcastle United            3
   Bergsson                         Ferdinand 2, Lee
 
-<u>23 August 1995</u>
+23 August 1995
 Coventry City               2    Manchester City             1
   Telfer, Dublin                   Rosler
 Everton                     0    Arsenal                     2
@@ -87,7 +87,7 @@ Sheffield Wednesday         2    Blackburn Rovers            1
 Tottenham Hotspur           0    Aston Villa                 1
                                    Ehiogu
 
-<u>26 August 1995</u>
+26 August 1995
 Bolton Wanderers            2    Blackburn Rovers            1
   De Freitas, Stubbs               Holmes
 Coventry City               0    Arsenal                     0
@@ -107,19 +107,19 @@ Queens Park Rangers         1    Manchester City             0
 Tottenham Hotspur           1    Liverpool                   3
   (Barnes og)                      Barnes 2, Fowler
 
-<u>27 August 1995</u>
+27 August 1995
 Sheffield Wednesday         0    Newcastle United            2
                                    Ginola, Beardsley
 
-<u>28 August 1995</u>
+28 August 1995
 Blackburn Rovers            1    Manchester United           2
   Shearer                          Sharpe, Beckham
 
-<u>29 August 1995</u>
+29 August 1995
 Arsenal                     1    Nottingham Forest           1
   Platt                            Campbell
 
-<u>30 August 1995</u>
+30 August 1995
 Aston Villa                 1    Bolton Wanderers            0
   Yorke
 Chelsea                     2    Coventry City               2
@@ -137,7 +137,7 @@ West Ham United             1    Tottenham Hotspur           1
 Wimbledon                   2    Sheffield Wednesday         2
   Goodman, Holdsworth              Degryse, Hirst
 
-<u>09 September 1995</u>
+09 September 1995
 Blackburn Rovers            1    Aston Villa                 1
   Shearer                          Milosevic
 Bolton Wanderers            1    Middlesbrough               1
@@ -155,19 +155,19 @@ Tottenham Hotspur           2    Leeds United                1
 Wimbledon                   1    Liverpool                   0
   Harford
 
-<u>10 September 1995</u>
+10 September 1995
 Manchester City             0    Arsenal                     1
                                    Wright
 
-<u>11 September 1995</u>
+11 September 1995
 West Ham United             1    Chelsea                     3
   Hutchinson                       Wise, Spencer 2
 
-<u>12 September 1995</u>
+12 September 1995
 Middlesbrough               0    Southampton                 0
 
 
-<u>16 September 1995</u>
+16 September 1995
 Arsenal                     1    West Ham United             0
   Wright
 Aston Villa                 2    Wimbledon                   0
@@ -187,11 +187,11 @@ Newcastle United            3    Manchester City             1
 Sheffield Wednesday         1    Tottenham Hotspur           3
   Hirst                            Sheringham 2, (Walker og)
 
-<u>17 September 1995</u>
+17 September 1995
 Nottingham Forest           3    Everton                     2
   (Watson og), Lee, Woan           Rideout 2
 
-<u>23 September 1995</u>
+23 September 1995
 Arsenal                     4    Southampton                 2
   Bergkamp 2, Adams, Wright        Watson, Monkou
 Aston Villa                 1    Nottingham Forest           1
@@ -209,15 +209,15 @@ West Ham United             2    Everton                     1
 Wimbledon                   2    Leeds United                4
   Holdsworth, Reeves               Palmer, Yeboah 3
 
-<u>24 September 1995</u>
+24 September 1995
 Newcastle United            2    Chelsea                     0
   Ferdinand 2
 
-<u>25 September 1995</u>
+25 September 1995
 Queens Park Rangers         2    Tottenham Hotspur           3
   Dichio, Impey                    Sheringham 2, Dozzell
 
-<u>30 September 1995</u>
+30 September 1995
 Bolton Wanderers            0    Queens Park Rangers         1
                                    Dichio
 Chelsea                     1    Arsenal                     0
@@ -233,17 +233,17 @@ Nottingham Forest           3    Manchester City             0
 Tottenham Hotspur           3    Wimbledon                   1
   Sheringham 2, (Elkins og)        Earle
 
-<u>01 October 1995</u>
+01 October 1995
 Everton                     1    Newcastle United            3
   Limpar                           Ferdinand, Lee, Kitson
 Manchester United           2    Liverpool                   2
   Butt, Cantona                    Fowler 2
 
-<u>02 October 1995</u>
+02 October 1995
 Southampton                 0    West Ham United             0
 
 
-<u>14 October 1995</u>
+14 October 1995
 Aston Villa                 0    Chelsea                     1
                                    Wise
 Blackburn Rovers            2    Southampton                 1
@@ -261,15 +261,15 @@ Queens Park Rangers         2    Newcastle United            3
 Tottenham Hotspur           0    Nottingham Forest           1
                                    Stone
 
-<u>15 October 1995</u>
+15 October 1995
 Sheffield Wednesday         0    Middlesbrough               1
                                    Hignett
 
-<u>16 October 1995</u>
+16 October 1995
 Wimbledon                   0    West Ham United             1
                                    Cottee
 
-<u>21 October 1995</u>
+21 October 1995
 Arsenal                     2    Aston Villa                 0
   Merson, Wright
 Chelsea                     1    Manchester United           4
@@ -287,13 +287,13 @@ Nottingham Forest           3    Bolton Wanderers            2
 West Ham United             1    Blackburn Rovers            1
   Dowie                            Shearer
 
-<u>22 October 1995</u>
+22 October 1995
 Everton                     1    Tottenham Hotspur           1
   Stuart                           Armstrong
 Southampton                 1    Liverpool                   3
   Watson                           McManaman 2, Redknapp
 
-<u>28 October 1995</u>
+28 October 1995
 Aston Villa                 1    Everton                     0
   Yorke
 Blackburn Rovers            3    Chelsea                     0
@@ -311,15 +311,15 @@ Sheffield Wednesday         0    West Ham United             1
 Wimbledon                   1    Southampton                 2
   Euell                            Shipperley 2
 
-<u>29 October 1995</u>
+29 October 1995
 Tottenham Hotspur           1    Newcastle United            1
   Armstrong                        Ginola
 
-<u>30 October 1995</u>
+30 October 1995
 Bolton Wanderers            1    Arsenal                     0
   McGinlay
 
-<u>04 November 1995</u>
+04 November 1995
 Arsenal                     1    Manchester United           0
   Bergkamp
 Chelsea                     0    Sheffield Wednesday         0
@@ -337,11 +337,11 @@ Southampton                 2    Queens Park Rangers         0
 West Ham United             1    Aston Villa                 4
   Dicks                            Milosevic 2, Johnson, Yorke
 
-<u>05 November 1995</u>
+05 November 1995
 Everton                     1    Blackburn Rovers            0
   Stuart
 
-<u>06 November 1995</u>
+06 November 1995
 Nottingham Forest           4    Wimbledon                   1
   Roy, Pearce, Lee, Gemmill        Jones
 
@@ -349,7 +349,7 @@ Nottingham Forest           4    Wimbledon                   1
 Newcastle United            1    Blackburn Rovers            0
   Lee
 
-<u>18 November 1995</u>
+18 November 1995
 Aston Villa                 1    Newcastle United            1
   Johnson                          Ferdinand
 Blackburn Rovers            7    Nottingham Forest           0
@@ -368,21 +368,21 @@ Tottenham Hotspur           2    Arsenal                     1
   Sheringham, Armstrong            Bergkamp
 Wimbledon                   0    Middlesbrough               0
 
-<u>19 November 1995</u>
+19 November 1995
 Queens Park Rangers         1    Coventry City               1
   Barker                           Dublin
 
-<u>20 November 1995</u>
+20 November 1995
 Southampton                 0    Aston Villa                 1
                                    Johnson
 
-<u>21 November 1995</u>
+21 November 1995
 Arsenal                     4    Sheffield Wednesday         2
   Bergkamp, Winteburn, Dickov, HartHirst, Waddle
 Middlesbrough               0    Tottenham Hotspur           1
                                    Armstrong
 
-<u>22 November 1995</u>
+22 November 1995
 Chelsea                     3    Bolton Wanderers            2
   Lee, Hall, Newton                Curcic, Green
 Coventry City               0    Manchester United           4
@@ -393,7 +393,7 @@ Manchester City             1    Wimbledon                   0
   Quinn
 West Ham United             0    Liverpool                   0
 
-<u>25 November 1995</u>
+25 November 1995
 Chelsea                     0    Tottenham Hotspur           0
 
 Coventry City               3    Wimbledon                   3
@@ -411,14 +411,14 @@ Southampton                 1    Bolton Wanderers            0
 West Ham United             1    Queens Park Rangers         0
   Cottee
 
-<u>26 November 1995</u>
+26 November 1995
 Arsenal                     0    Blackburn Rovers            0
 
-<u>27 November 1995</u>
+27 November 1995
 Nottingham Forest           1    Manchester United           1
   McGregor                         Cantona
 
-<u>02 December 1995</u>
+02 December 1995
 Aston Villa                 1    Arsenal                     1
   Yorke                            Platt
 Blackburn Rovers            4    West Ham United             2
@@ -435,15 +435,15 @@ Queens Park Rangers         1    Middlesbrough               1
   McDonald                         Morris
 Tottenham Hotspur           0    Everton                     0
 
-<u>03 December 1995</u>
+03 December 1995
 Wimbledon                   3    Newcastle United            3
   Holdsworth 2, Ekoku              Ferdinand 2, Gillespie
 
-<u>04 December 1995</u>
+04 December 1995
 Sheffield Wednesday         4    Coventry City               3
   Whittingham, Hirst, Degryse, BrigDublin 3
 
-<u>09 December 1995</u>
+09 December 1995
 Bolton Wanderers            0    Liverpool                   1
                                    Collymore
 Chelsea                     1    Newcastle United            0
@@ -461,15 +461,15 @@ Southampton                 0    Arsenal                     0
 Tottenham Hotspur           1    Queens Park Rangers         0
   Sheringham
 
-<u>10 December 1995</u>
+10 December 1995
 Nottingham Forest           1    Aston Villa                 1
   Stone                            Yorke
 
-<u>11 December 1995</u>
+11 December 1995
 Everton                     3    West Ham United             0
   Stuart, Unsworth, Ebbrell
 
-<u>16 December 1995</u>
+16 December 1995
 Arsenal                     1    Chelsea                     1
   Dixon                            Spencer
 Aston Villa                 4    Coventry City               1
@@ -487,15 +487,15 @@ West Ham United             2    Southampton                 1
 Wimbledon                   0    Tottenham Hotspur           1
                                    Fox
 
-<u>17 December 1995</u>
+17 December 1995
 Liverpool                   2    Manchester United           0
   Fowler 2
 
-<u>18 December 1995</u>
+18 December 1995
 Manchester City             1    Nottingham Forest           1
   Rosler                           Campbell
 
-<u>23 December 1995</u>
+23 December 1995
 Coventry City               2    Everton                     1
   Busst, Whelan                    Rideout
 Liverpool                   3    Arsenal                     1
@@ -515,11 +515,11 @@ Tottenham Hotspur           2    Bolton Wanderers            2
 Wimbledon                   1    Blackburn Rovers            1
   Earle                            (Kimble og)
 
-<u>24 December 1995</u>
+24 December 1995
 Leeds United                3    Manchester United           1
   McAllister, Yeboah, Deane        Cole
 
-<u>26 December 1995</u>
+26 December 1995
 Arsenal                     3    Queens Park Rangers         0
   Wright, Merson 2
 Blackburn Rovers            2    Manchester City             0
@@ -533,13 +533,13 @@ Nottingham Forest           1    Sheffield Wednesday         0
 Southampton                 0    Tottenham Hotspur           0
 
 
-<u>27 December 1995</u>
+27 December 1995
 Bolton Wanderers            0    Leeds United                2
                                    Brolin, Wetherall
 Manchester United           2    Newcastle United            0
   Cole, Keane
 
-<u>30 December 1995</u>
+30 December 1995
 Arsenal                     1    Wimbledon                   3
   Wright                           Earle 2, Holdsworth
 Blackburn Rovers            2    Tottenham Hotspur           1
@@ -555,7 +555,7 @@ Manchester United           2    Queens Park Rangers         1
 Nottingham Forest           1    Middlesbrough               0
   Pearce
 
-<u>01 January 1996</u>
+01 January 1996
 Coventry City               1    Southampton                 1
   Whelan                           Heaney
 Leeds United                0    Blackburn Rovers            0
@@ -573,13 +573,13 @@ Tottenham Hotspur           4    Manchester United           1
 Wimbledon                   2    Everton                     3
   Holdsworth, Ekoku                Ebbrell, Ferguson 2
 
-<u>02 January 1996</u>
+02 January 1996
 Newcastle United            2    Arsenal                     0
   Ginola, Ferdinand
 Queens Park Rangers         1    Chelsea                     2
   Allen                            (Brazier og), Furlong
 
-<u>13 January 1996</u>
+13 January 1996
 Bolton Wanderers            1    Wimbledon                   0
   McGinlay
 Everton                     1    Chelsea                     1
@@ -599,11 +599,11 @@ Sheffield Wednesday         1    Liverpool                   1
 Tottenham Hotspur           1    Manchester City             0
   Armstrong
 
-<u>14 January 1996</u>
+14 January 1996
 Coventry City               0    Newcastle United            1
                                    Watson
 
-<u>20 January 1996</u>
+20 January 1996
 Arsenal                     1    Everton                     2
   Wright                           Stuart, Kanchelskis
 Blackburn Rovers            3    Sheffield Wednesday         0
@@ -621,15 +621,15 @@ Southampton                 2    Middlesbrough               1
 Wimbledon                   2    Queens Park Rangers         1
   Leonhardsen, Clarke              Hateley
 
-<u>21 January 1996</u>
+21 January 1996
 Aston Villa                 2    Tottenham Hotspur           1
   McGrath, Yorke                   Fox
 
-<u>22 January 1996</u>
+22 January 1996
 West Ham United             0    Manchester United           1
                                    Cantona
 
-<u>31 January 1996</u>
+31 January 1996
 Aston Villa                 0    Liverpool                   2
                                    Collymore, Fowler
 Nottingham Forest           2    Leeds United                1
@@ -639,7 +639,7 @@ Southampton                 1    Manchester City             1
 West Ham United             3    Coventry City               2
   Rieper, Cottee, Dowie            Dublin, Whelan
 
-<u>03 February 1996</u>
+03 February 1996
 Arsenal                     1    Coventry City               1
   Bergkamp                         Whelan
 Aston Villa                 3    Leeds United                0
@@ -659,11 +659,11 @@ West Ham United             1    Nottingham Forest           0
 Wimbledon                   2    Manchester United           4
   Gayle, Euell                     Cole, (Perry og), Cantona 2
 
-<u>04 February 1996</u>
+04 February 1996
 Chelsea                     5    Middlesbrough               0
   Peacock 3, Spencer, Furlong
 
-<u>10 February 1996</u>
+10 February 1996
 Bolton Wanderers            0    Aston Villa                 2
                                    Yorke 2
 Coventry City               1    Chelsea                     0
@@ -679,15 +679,15 @@ Nottingham Forest           0    Arsenal                     1
 Sheffield Wednesday         2    Wimbledon                   1
   Degryse, Watts                   Gayle
 
-<u>11 February 1996</u>
+11 February 1996
 Queens Park Rangers         1    Liverpool                   2
   Dichio                           Wright, Fowler
 
-<u>12 February 1996</u>
+12 February 1996
 Tottenham Hotspur           0    West Ham United             1
                                    Dani
 
-<u>17 February 1996</u>
+17 February 1996
 Chelsea                     1    West Ham United             2
   Peacock                          Dicks, Williamson
 Middlesbrough               1    Bolton Wanderers            4
@@ -695,13 +695,13 @@ Middlesbrough               1    Bolton Wanderers            4
 Sheffield Wednesday         1    Queens Park Rangers         3
   Hyde                             Barker 2, Goodridge
 
-<u>21 February 1996</u>
+21 February 1996
 Manchester United           2    Everton                     0
   Keane, Giggs
 West Ham United             2    Newcastle United            0
   Williamson, Cottee
 
-<u>24 February 1996</u>
+24 February 1996
 Blackburn Rovers            2    Liverpool                   3
   Wilcox, Sherwood                 Collymore 2, Thomas
 Coventry City               0    Middlesbrough               0
@@ -719,15 +719,15 @@ West Ham United             0    Arsenal                     1
 Wimbledon                   3    Aston Villa                 3
   Goodman 2, Harford               (Reeves og), Yorke, (Cunningham og)
 
-<u>25 February 1996</u>
+25 February 1996
 Bolton Wanderers            0    Manchester United           6
                                    Beckham, Bruce, Cole, Scholes 2, Butt
 
-<u>28 February 1996</u>
+28 February 1996
 Aston Villa                 2    Blackburn Rovers            0
   Joachim, Southgate
 
-<u>02 March 1996</u>
+02 March 1996
 Coventry City               2    West Ham United             2
   Salako,  Whelan                  Cottee, Rieper
 Leeds United                0    Bolton Wanderers            1
@@ -747,21 +747,21 @@ Wimbledon                   1    Chelsea                     1
 Liverpool                   3    Aston Villa                 0
   McManaman, Fowler 2
 
-<u>04 March 1996</u>
+04 March 1996
 Newcastle United            0    Manchester United           1
                                    Cantona
 
-<u>05 March 1996</u>
+05 March 1996
 Arsenal                     3    Manchester City             1
   Bartson 2, Dixon                 Creaney
 
-<u>06 March 1996</u>
+06 March 1996
 Aston Villa                 3    Sheffield Wednesday         2
   Milosevic 2, Townsend            Blinker 2
 Queens Park Rangers         1    Leeds United                2
   Gallen                           Yeboah 2
 
-<u>09 March 1996</u>
+09 March 1996
 Aston Villa                 4    Queens Park Rangers         2
   Milosevic, Yorke 2, (Yates og)   Dichio, Gallen
 Everton                     2    Coventry City               2
@@ -769,17 +769,17 @@ Everton                     2    Coventry City               2
 West Ham United             2    Middlesbrough               0
   Dowie, Dicks
 
-<u>12 March 1996</u>
+12 March 1996
 Chelsea                     1    Manchester City             1
   Gullitt                          Clough
 
-<u>13 March 1996</u>
+13 March 1996
 Blackburn Rovers            1    Leeds United                0
   Fenton
 Liverpool                   2    Wimbledon                   2
   McManaman, Collymore             Ekoku, Holdsworth
 
-<u>16 March 1996</u>
+16 March 1996
 Coventry City               0    Bolton Wanderers            2
                                    Stubbs 2
 Liverpool                   2    Chelsea                     0
@@ -797,18 +797,18 @@ Tottenham Hotspur           2    Blackburn Rovers            3
 Wimbledon                   0    Arsenal                     3
                                    Winterburn, Platt, Bergkamp
 
-<u>17 March 1996</u>
+17 March 1996
 Leeds United                2    Everton                     2
   Deane 2                          Stuart, Kanchelskis
 
-<u>18 March 1996</u>
+18 March 1996
 Newcastle United            3    West Ham United             0
   Albert, Asprilla, Ferdinand
 
-<u>19 March 1996</u>
+19 March 1996
 Aston Villa                 0    Middlesbrough               0
 
-<u>20 March 1996</u>
+20 March 1996
 Bolton Wanderers            2    Tottenham Hotspur           3
   Stubbs, Sellars                  Howells, Fox, Armstrong
 Manchester United           1    Arsenal                     0
@@ -816,7 +816,7 @@ Manchester United           1    Arsenal                     0
 Southampton                 0    Sheffield Wednesday         1
                                    Degryse
 
-<u>23 March 1996</u>
+23 March 1996
 Arsenal                     2    Newcastle United            0
   Marshall, Wright
 Bolton Wanderers            2    Sheffield Wednesday         1
@@ -830,15 +830,15 @@ Nottingham Forest           1    Liverpool                   0
 West Ham United             4    Manchester City             2
   Dowie 2, Dicks, Dani             Quinn 2
 
-<u>24 March 1996</u>
+24 March 1996
 Manchester United           1    Tottenham Hotspur           0
   Cantona
 
-<u>25 March 1996</u>
+25 March 1996
 Southampton                 1    Coventry City               0
   Dodd
 
-<u>30 March 1996</u>
+30 March 1996
 Blackburn Rovers            0    Everton                     3
                                    Amokachi, Kanchelskis 2
 Bolton Wanderers            1    Manchester City             1
@@ -852,17 +852,17 @@ Tottenham Hotspur           3    Coventry City               1
 Wimbledon                   1    Nottingham Forest           0
   Holdsworth
 
-<u>03 April 1996</u>
+03 April 1996
 Leeds United                1    Southampton                 0
   Deane
 Liverpool                   4    Newcastle United            3
   Fowler 2, Collymore 2            Ferdinand, Ginola, Asprilla
 
-<u>05 April 1996</u>
+05 April 1996
 Middlesbrough               3    Sheffield Wednesday         1
   Fjortoft 2, Freestone            (Whyte og)
 
-<u>06 April 1996</u>
+06 April 1996
 Arsenal                     2    Leeds United                1
   Wright 2                         Deane
 Chelsea                     1    Aston Villa                 2
@@ -882,7 +882,7 @@ Southampton                 1    Blackburn Rovers            0
 West Ham United             1    Wimbledon                   1
   Dicks                            Jones
 
-<u>08 April 1996</u>
+08 April 1996
 Aston Villa                 3    Southampton                 0
   Taylor, Charles, Yorke
 Blackburn Rovers            2    Newcastle United            1
@@ -904,7 +904,7 @@ Tottenham Hotspur           1    Middlesbrough               1
 Wimbledon                   3    Manchester City             0
   Earle 2, Ekoku
 
-<u>13 April 1996</u>
+13 April 1996
 Chelsea                     4    Leeds United                1
   Hughes 3, Spencer                McAllister
 Coventry City               1    Queens Park Rangers         0
@@ -920,19 +920,19 @@ Southampton                 3    Manchester United           1
 West Ham United             1    Bolton Wanderers            0
   Cottee
 
-<u>14 April 1996</u>
+14 April 1996
 Newcastle United            1    Aston Villa                 0
   Ferdinand
 
-<u>15 April 1996</u>
+15 April 1996
 Arsenal                     0    Tottenham Hotspur           0
 
 
-<u>16 April 1996</u>
+16 April 1996
 Everton                     1    Liverpool                   1
   Kanchelskis                      Fowler
 
-<u>17 April 1996</u>
+17 April 1996
 Aston Villa                 1    West Ham United             1
   McGrath                          Cottee
 Blackburn Rovers            3    Wimbledon                   2
@@ -946,7 +946,7 @@ Nottingham Forest           0    Coventry City               0
 Sheffield Wednesday         0    Chelsea                     0
 
 
-<u>27 April 1996</u>
+27 April 1996
 Aston Villa                 0    Manchester City             1
                                    Lomas
 Blackburn Rovers            1    Arsenal                     1
@@ -964,25 +964,25 @@ Tottenham Hotspur           1    Chelsea                     1
 Wimbledon                   0    Coventry City               2
                                    Ndlovu 2
 
-<u>28 April 1996</u>
+28 April 1996
 Manchester United           5    Nottingham Forest           0
   Scholes, Beckham 2, Giggs, Cantona
 
-<u>29 April 1996</u>
+29 April 1996
 Leeds United                0    Newcastle United            1
                                    Gillespie
 
-<u>01 May 1996</u>
+01 May 1996
 Arsenal                     0    Liverpool                   0
 
 
-<u>02 May 1996</u>
+02 May 1996
 Leeds United                1    Tottenham Hotspur           3
   Wetherall                        Armstrong, Anderton 2
 Nottingham Forest           1    Newcastle United            1
   Woan                             Beardsley
 
-<u>05 May 1996</u>
+05 May 1996
 Arsenal                     2    Bolton Wanderers            1
   Platt, Bergkamp                  Todd
 Chelsea                     2    Blackburn Rovers            3
@@ -3543,10 +3543,11 @@ R - relegated
 ‹list of league cup winners, see page engleagcuphist›.
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Michael Heneghan, Ken Fox,
 Stephen Mulrine and Rob Monger
@@ -3558,7 +3559,7 @@ Authors: Michael Heneghan, Ken Fox, Stephen Mulrine and Rob Monger
 Last updated: 7 Jul 2004
 
 
-**(C) Copyright Michael Heneghan, Ken Fox, Stephen Mulrine, Rob Monger
-and RSSSF 1999/2004**
+(C) Copyright Michael Heneghan, Ken Fox, Stephen Mulrine, Rob Monger
+and RSSSF 1999/2004
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

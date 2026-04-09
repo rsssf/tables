@@ -4,9 +4,9 @@
   
 
 
-## England 2000/01
+== England 2000/01
 
-
+<!-- start pre -->
 Premiership
 
 Final Table:
@@ -2488,10 +2488,11 @@ Final Table:
 
 ‹list of league cup winners, see page engleagcuphist›.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 With thanks to Christopher Bird and Ricardo André
 
@@ -2505,6 +2506,6 @@ and Stephen Mulrine
 Last updated: 15 Feb 2006
 
 
-**(C) Copyright Ian King, Stephen Mulrine and RSSSF 2000/06**
+(C) Copyright Ian King, Stephen Mulrine and RSSSF 2000/06
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.
