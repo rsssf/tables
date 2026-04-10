@@ -9,7 +9,7 @@ tables pages converted to (plain) text  e.g.
 - and many more
 
 why?
-=> `[tables/30f.txt](tables/30f.txt)`
+
 the point is to offer a common starter base that makes it easier to turn the ad-hoc semi-structured football leagues & cups, tables, match results, line-ups, penalty shoot-outs, and more into strutured data for (automatic) conversion to json, csv, sql & friends.
 
 how?
