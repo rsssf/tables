@@ -2,7 +2,17 @@
 
 football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) tables (cache / playground / sandbox) mirror
 
-tables pages converted to (plain) text 
+tables pages converted to (plain) text  e.g. 
+
+- [tables/30f.html](https://rsssf.org/tables/30f.html)       => [tables/30f.txt](tables/30f.txt) 
+- [tables/86full.html](https://rsssf.org/tables/86full.html) => [tables/86full.txt](tables/86full.txt)
+- and many more
+
+why?
+
+the point is to offer a common starter base that makes it easier to turn the ad-hoc semi-structured football leages & cups, tables, match results, line-ups, penalty shoot-outs, and more into strutured data for (automatic) conversion to json, csv, sql & friends.
+
+how?
 
 - the character endcoding is ALWAYS unicode (utf-8) - no more wondering 
   if the encoding is windows-1252, iso-8859-2, utf-16le or whatnot.  
@@ -17,10 +27,7 @@ tables pages converted to (plain) text
 - all style formatting (bold/italic/underline/strong) removed
 
 
-why?
-
-the point is to offer a common starter base that makes it easier to turn the ad-hoc semi-structured football leages & cups, tables, match results and more into strutured data for (automatic) conversion to json, csv, sql & friends.   
-
+what's next?   
 
 the long term vision is to get the RSSSF (Rec.Sport.Soccer Statistics Foundation) tables (pages) turned more 
 into a wiki (with source pages tracked via git) 
@@ -28,6 +35,4 @@ that make it easier to fix typos and encourage updates.
 why not use "uniform" proper wikipedia like article structures - that is, one h1 for the titled followed by h2s and the h2s divided into h3s and so on - 
 instead of the current ad-hoc zoo of h2 & h4 combos, or bold and underline "hand-crafted headers" or whatever 
 and all without fear of losing the history (since all changes are tracked via git allowing easy restore and time travel all the way back to its origin).  
-
-
 
