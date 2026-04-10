@@ -9,8 +9,8 @@ tables pages converted to (plain) text  e.g.
 - and many more
 
 why?
-
-the point is to offer a common starter base that makes it easier to turn the ad-hoc semi-structured football leages & cups, tables, match results, line-ups, penalty shoot-outs, and more into strutured data for (automatic) conversion to json, csv, sql & friends.
+=> `[tables/30f.txt](tables/30f.txt)`
+the point is to offer a common starter base that makes it easier to turn the ad-hoc semi-structured football leagues & cups, tables, match results, line-ups, penalty shoot-outs, and more into strutured data for (automatic) conversion to json, csv, sql & friends.
 
 how?
 
@@ -25,6 +25,7 @@ how?
 - all named anchors (`<a name='fin'>`) replaced with plain text visible anchors (`‹§fin›`)
 - all hyperlinks (`<a href='#premier'>Premier League</a>`) replaced with plain text visible links / references (`‹Premier League, see §premier›`)
 - all style formatting (bold/italic/underline/strong) removed
+- all `<pre>` (formatted) blocks merged into one plain text file
 
 
 what's next?   
