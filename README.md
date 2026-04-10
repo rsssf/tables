@@ -4,8 +4,8 @@ football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) tables (cache / playg
 
 tables pages converted to (plain) text  e.g. 
 
-- [tables/30f.html](https://rsssf.org/tables/30f.html)       => [tables/30f.txt](tables/30f.txt) 
-- [tables/86full.html](https://rsssf.org/tables/86full.html) => [tables/86full.txt](tables/86full.txt)
+- [rsssf.org/tables/30f.html](https://rsssf.org/tables/30f.html)       => [./tables/30f.txt](tables/30f.txt) 
+- [rsssf.org/tables/86full.html](https://rsssf.org/tables/86full.html) => [./tables/86full.txt](tables/86full.txt)
 - and many more
 
 why?
