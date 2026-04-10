@@ -16,7 +16,7 @@ how?
 
 - the character endcoding is ALWAYS unicode (utf-8) - no more wondering 
   if the encoding is windows-1252, iso-8859-2, utf-16le or whatnot.  
-- all html entities are replaced with actual characters incl. known types such as `&nitlde;`, `&oulm;`, `&uml;`, `&slig;`, `&aaacute;` etc. 
+- all html entities are replaced with actual characters incl. known typos such as `&nitlde;`, `&oulm;`, `&uml;`, `&slig;`, `&aaacute;` etc. 
 - "smart" (single or double) quotes or unicode minus/hyphens are asciified
 - all headings (h1/h2/h3/h4/h5/h6) replaced with wikitext-like headings e.g.
   -  `<h1>World Cup 1986</h1>`  => `= World Cup 1986`
@@ -34,6 +34,6 @@ the long term vision is to get the RSSSF (Rec.Sport.Soccer Statistics Foundation
 into a wiki (with source pages tracked via git) 
 that make it easier to fix typos and encourage updates.
 why not use "uniform" proper wikipedia like article structures - that is, one h1 for the titled followed by h2s and the h2s divided into h3s and so on - 
-instead of the current ad-hoc zoo of h2 & h4 combos, or bold and underline "hand-crafted headers" or whatever 
+instead of the current ad-hoc zoo of h2 & h4 combos, or bold and underline "hand-crafted headers" or whatnot 
 and all without fear of losing the history (since all changes are tracked via git allowing easy restore and time travel all the way back to its origin).  
 
