@@ -1,0 +1,289 @@
+  <!--
+     source: https://rsssf.org/tablesn/niger2026.html
+    -->
+  
+
+
+== Niger 2025/26
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Superligue, see §l1›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Superligue  ‹§l1›
+
+<!-- start pre -->
+Table:
+
+ 1.US Gendarmerie Nationale (Niamey) 15  10  5  0  24- 5  35
+ 2.ASN NIGELEC (Niamey)              15  10  2  3  24-12  32
+ 3.AS FAN (Niamey)                   15   8  5  2  19-10  29  [C]
+ 4.AS Police (Niamey)                15   9  1  5  24-11  28
+ 5.AS GNN (Niamey)                   15   7  5  3  21-13  26
+ 6.AS Douanes (Niamey)               15   6  4  5  15-14  22
+ 7.AS ZAM de Goudel (Niamey)         15   5  5  5  23-19  20  [P]
+ 8.Espoir FC (Zinder)                15   5  4  6  15-16  19
+ 9.Tagour PC (Dosso)                 15   5  4  6  19-25  19  [P]
+10.JS Tahoua FC (Tahoua)             15   6  1  8  17-25  19
+11.Sahel SC (Niamey)                 15   5  2  8   8-11  17
+12.Liberté FC (Niamey)               15   4  4  7  14-27  16
+13.Urana FC (Arlit)                  15   4  3  8  17-19  15
+14.AS UAM (Niamey)                   15   3  5  7  12-17  14
+------------------------------------------------------------
+15.AS Renaissance (Niamey)           15   2  4  9  11-23  10
+16.Olympic FC (Niamey)               15   2  4  9   8-24  10
+
+Round 1
+[Oct 18]
+AS Police        1-2 AS GNN
+Espoir FC        1-0 JS Tahoua FC
+Liberté FC       2-1 Olympic FC
+Tagour PC        1-0 AS UAM
+Urana FC         0-1 US Gendarmerie
+[Oct 19]
+AS Renaissance   0-2 Sahel SC
+AS FAN           2-0 AS Douanes
+[Oct 20]
+AS ZAM           1-3 ASN NIGELEC
+
+Round 2
+[Oct 24]
+AS FAN           1-1 AS ZAM
+AS Douanes       0-1 AS Police
+[Oct 25]
+AS GNN           5-0 Espoir FC
+JS Tahoua FC     1-2 ASN NIGELEC
+Sahel SC         2-0 Olympic FC
+Urana FC         0-0 Tagour PC
+[Oct 26]
+AS Renaissance   3-0 Liberté FC
+US Gendarmerie   1-1 AS UAM
+
+Round 3
+[Oct 29]
+ASN NIGELEC      1-0 Espoir FC
+[Oct 31]
+Olympic FC       1-1 AS Renaissance
+AS UAM           2-1 Urana FC
+[Nov 1]
+AS Police        0-1 AS FAN
+JS Tahoua FC     1-4 AS GNN
+US Gendarmerie   2-1 Tagour PC
+[Nov 2]
+Liberté FC       1-0 Sahel SC
+AS ZAM           1-1 AS Douanes
+
+Round 4
+[Nov 3]
+AS Renaissance   0-2 Urana FC
+[Nov 7]
+AS Douanes       1-0 AS GNN
+AS ZAM           4-0 JS Tahoua FC
+[Nov 8]
+Tagour PC        2-2 Liberté FC
+AS FAN           0-0 ASN NIGELEC
+Espoir FC        0-2 AS Police
+[Nov 9]
+Sahel SC         0-2 US Gendarmerie
+Olympic FC       0-1 AS UAM
+
+Round 5
+[Nov 14]
+US Gendarmerie   4-1 AS Renaissance
+[Nov 15]
+ASN NIGELEC      2-0 AS Douanes
+JS Tahoua FC     1-3 AS Police
+Urana FC         awd Sahel SC         [awarded win to Sahel; originally 0-0,
+Tagour PC        1-2 Olympic FC        goal records unchanged]
+[Nov 16]
+Liberté FC       1-0 AS UAM
+AS GNN           0-1 AS FAN
+[Nov 18]
+Espoir FC        2-1 AS ZAM
+
+Round 6
+[Nov 21]
+Olympic FC       0-0 US Gendarmerie
+AS GNN           0-3 ASN NIGELEC
+[Nov 22]
+AS Police        1-2 AS ZAM
+AS Douanes       2-1 Espoir FC
+JS Tahoua FC     0-2 AS FAN
+Urana FC         2-0 Liberté FC
+[Nov 23]
+Sahel SC         0-0 AS UAM
+AS Renaissance   1-2 Tagour PC
+
+Round 7
+[Nov 27]
+AS UAM           0-1 AS Renaissance
+[Nov 28]
+AS ZAM           1-1 AS GNN
+AS Police        0-1 ASN NIGELEC
+[Nov 29]
+Tagour PC        2-1 Sahel SC
+Olympic FC       1-1 Urana FC
+[Nov 30]
+Espoir FC        0-0 AS FAN
+AS Douanes       3-0 JS Tahoua FC
+US Gendarmerie   5-0 Liberté FC
+
+Round 8
+[Dec 3]
+Espoir FC        1-0 Urana FC
+[Dec 5]
+Sahel SC         0-1 AS ZAM
+ASN NIGELEC      2-1 AS UAM
+[Dec 6]
+JS Tahoua FC     0-1 US Gendarmerie
+AS Renaissance   1-3 AS Police
+AS FAN           2-0 Olympic FC
+[Dec 7]
+AS GNN           2-2 Tagour PC
+Liberté FC       1-1 AS Douanes
+
+Round 9
+[Dec 12]
+AS ZAM           1-0 AS Renaissance
+AS Douanes       3-1 Olympic FC
+[Dec 13]
+AS FAN           2-0 Liberté FC
+Tagour PC        2-1 ASN NIGELEC
+US Gendarmerie   2-1 Espoir FC
+[Dec 14]
+Urana FC         2-3 JS Tahoua FC
+AS Police        1-0 Sahel SC
+AS UAM           1-2 AS GNN
+
+Round 10
+[Dec 17]
+Tagour PC        2-1 Espoir FC
+[Dec 19]
+AS Renaissance   0-0 AS Douanes
+[Dec 20]
+Liberté FC       0-2 AS Police
+Olympic FC       2-1 AS ZAM
+[Dec 21]
+Urana FC         0-1 AS GNN
+AS FAN           0-1 Sahel SC
+ASN NIGELEC      0-1 US Gendarmerie
+JS Tahoua FC     3-1 AS UAM
+
+Round 11
+[Dec 25]
+AS Police        2-0 Olympic FC
+[Dec 26]
+AS ZAM           1-2 Liberté FC
+AS Douanes       1-0 Sahel SC
+[Dec 27]
+JS Tahoua FC     1-0 Tagour PC
+AS GNN           0-0 US Gendarmerie
+AS Renaissance   1-1 AS FAN
+[Dec 28]
+AS UAM           0-0 Espoir FC
+ASN NIGELEC      2-2 Urana FC
+
+Round 12
+[Dec 31]
+AS Police        3-1 Urana FC
+[Jan 2]
+Sahel SC         0-1 JS Tahoua FC
+AS ZAM           1-1 US Gendarmerie
+[Jan 3]
+Tagour PC        0-1 AS Douanes
+AS FAN           2-1 AS UAM
+Espoir FC        3-1 AS Renaissance
+Liberté FC       2-2 AS GNN
+[Jan 4]
+Olympic FC       0-2 ASN NIGELEC
+
+Round 13
+[Jan 7]
+JS Tahoua FC     3-1 AS Renaissance
+[Jan 9]
+ASN NIGELEC      3-2 Liberté FC
+[Jan 10]
+Tagour PC        3-3 AS FAN
+Espoir FC        0-0 Sahel SC
+AS Douanes       1-1 AS UAM
+Urana FC         3-2 AS ZAM
+US Gendarmerie   0-0 AS Police
+[Jan 11]
+AS GNN           1-0 Olympic FC
+
+Round 14
+[Jan 14]
+AS Police        4-0 Tagour PC
+[Jan 16]
+AS Renaissance   0-0 AS GNN
+AS UAM           1-1 AS ZAM
+[Jan 17]
+Sahel SC         2-1 ASN NIGELEC
+Olympic FC       0-0 JS Tahoua FC
+Urana FC         2-1 AS Douanes
+[Jan 18]
+Liberté FC       0-0 Espoir FC
+US Gendarmerie   2-0 AS FAN
+
+Round 15
+[Jan 23]
+AS ZAM           4-1 Tagour PC
+AS Renaissance   0-1 ASN NIGELEC
+[Jan 24]
+JS Tahoua FC     3-1 Liberté FC
+AS FAN           2-1 Urana FC
+Espoir FC        5-0 Olympic FC
+[Jan 25]
+AS UAM           2-1 AS Police
+AS GNN           1-0 Sahel SC
+[Jan 26]
+AS Douanes       0-2 US Gendarmerie
+
+Table:
+
+ 1.US Gendarmerie Nationale (Niamey) 15  10  5  0  24- 5  35
+ 2.ASN NIGELEC (Niamey)              15  10  2  3  24-12  32
+ 3.AS FAN (Niamey)                   15   8  5  2  19-10  29  [C]
+ 4.AS Police (Niamey)                15   9  1  5  24-11  28
+ 5.AS GNN (Niamey)                   15   7  5  3  21-13  26
+ 6.AS Douanes (Niamey)               15   6  4  5  15-14  22
+ 7.AS ZAM de Goudel (Niamey)         15   5  5  5  23-19  20  [P]
+ 8.Espoir FC (Zinder)                15   5  4  6  15-16  19
+ 9.Tagour PC (Dosso)                 15   5  4  6  19-25  19  [P]
+10.JS Tahoua FC (Tahoua)             15   6  1  8  17-25  19
+11.Sahel SC (Niamey)                 15   5  2  8   8-11  17
+12.Liberté FC (Niamey)               15   4  4  7  14-27  16
+13.Urana FC (Arlit)                  15   4  3  8  17-19  15
+14.AS UAM (Niamey)                   15   3  5  7  12-17  14
+------------------------------------------------------------
+15.AS Renaissance (Niamey)           15   2  4  9  11-23  10
+16.Olympic FC (Niamey)               15   2  4  9   8-24  10
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024/25, see page niger2025›
+
+‹list of champions, see page nigerchamp›
+
+‹list of cup winners, see page nigercuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 29 Jan 2026
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2025/26
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

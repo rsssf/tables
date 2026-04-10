@@ -1,0 +1,653 @@
+  <!--
+     source: https://rsssf.org/tabless/scot2025.html
+    -->
+  
+
+
+== Scotland 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Premiership, see §premier›
+‹Highland Amateur Cup 2025, see §hama›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Premiership  ‹§premier›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.Celtic               33  26  3  4  97-22  81  [C]  ‹Championship Playoff, see §champ›
+ 2.Rangers              33  20  6  7  68-35  66       ‹Championship Playoff, see §champ›
+ 3.Hibernian            33  14 11  8  54-41  53       ‹Championship Playoff, see §champ›
+ 4.Dundee United        33  14  8 11  41-40  50  [P]  ‹Championship Playoff, see §champ›
+ 5.Aberdeen             33  14  8 11  45-49  50       ‹Championship Playoff, see §champ›
+ 6.Saint Mirren         33  12  5 16  45-54  41       ‹Championship Playoff, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Heart of Midlothian  33  11  7 15  43-44  40       ‹Relegation Playoff, see §releg›
+ 8.Motherwell           33  11  6 16  37-56  39       ‹Relegation Playoff, see §releg›
+ 9.Kilmarnock           33   9  8 16  38-58  35       ‹Relegation Playoff, see §releg›
+10.Ross County          33   9  8 16  33-56  35       ‹Relegation Playoff, see §releg›
+11.Dundee               33   9  7 17  50-71  34       ‹Relegation Playoff, see §releg›
+12.Saint Johnstone      33   8  5 20  33-58  29       ‹Relegation Playoff, see §releg›
+
+Round 1
+[Aug 3]
+Heart of Midlothian 0-0 Rangers
+Motherwell          0-0 Ross County
+[Aug 4]
+Dundee United       2-2 Dundee
+Saint Mirren        3-0 Hibernian
+Celtic              4-0 Kilmarnock
+[Aug 5]
+Saint Johnstone     1-2 Aberdeen
+
+Round 2
+[Aug 10]
+Rangers             2-1 Motherwell
+Ross County         1-1 Dundee United
+Dundee              3-1 Heart of Midlothian
+[Aug 11]
+Hibernian           0-2 Celtic
+Aberdeen            3-1 Saint Mirren
+Kilmarnock          0-3 Saint Johnstone
+
+Round 3
+[Aug 24]
+Dundee United       2-0 Saint Johnstone
+Hibernian           2-2 Dundee
+Rangers             6-0 Ross County
+[Aug 25]
+Saint Mirren        0-3 Celtic
+Aberdeen            2-0 Kilmarnock
+Motherwell          3-1 Heart of Midlothian
+
+Round 4
+[Aug 31]
+Dundee              2-2 Saint Mirren
+Saint Johnstone     1-2 Motherwell
+Ross County         0-1 Aberdeen
+[Sep 1]
+Celtic              3-0 Rangers
+Heart of Midlothian 0-1 Dundee United
+Kilmarnock          1-1 Hibernian
+
+Round 5
+[Sep 14]
+Aberdeen            2-1 Motherwell
+Celtic              2-0 Heart of Midlothian
+Hibernian           2-0 Saint Johnstone
+Ross County         2-0 Dundee
+Saint Mirren        2-2 Kilmarnock
+[Sep 15]
+Dundee United       0-1 Rangers
+
+Round 6
+[Sep 28]
+Dundee              1-2 Aberdeen
+Heart of Midlothian 1-1 Ross County
+Kilmarnock          3-3 Dundee United
+Motherwell          2-1 Saint Mirren
+Saint Johnstone     0-6 Celtic
+[Sep 29]
+Rangers             1-0 Hibernian
+
+Round 7
+[Oct 5]
+Dundee              2-3 Kilmarnock
+Hibernian           1-2 Motherwell
+Saint Mirren        0-1 Dundee United
+[Oct 6]
+Ross County         1-2 Celtic
+Aberdeen            3-2 Heart of Midlothian
+Rangers             2-0 Saint Johnstone
+
+Round 8
+[Oct 19]
+Celtic              2-2 Aberdeen
+Dundee United       3-2 Hibernian
+Heart of Midlothian 4-0 Saint Mirren
+Motherwell          0-1 Dundee
+Saint Johnstone     3-0 Ross County
+[Oct 20]
+Kilmarnock          1-0 Rangers
+
+Round 9
+[Oct 26]
+Dundee              1-2 Saint Johnstone
+Ross County         2-1 Kilmarnock
+Aberdeen            1-0 Dundee United
+[Oct 27]
+Hibernian           1-1 Heart of Midlothian
+Motherwell          0-3 Celtic
+Rangers             2-1 Saint Mirren
+
+Round 10 [Oct 30]
+Celtic              2-0 Dundee
+Dundee United       1-2 Motherwell
+Heart of Midlothian 1-2 Kilmarnock
+Ross County         0-0 Hibernian
+Saint Mirren        3-1 Saint Johnstone
+Aberdeen            2-1 Rangers
+
+Round 11
+[Nov 2]
+Saint Johnstone     1-2 Heart of Midlothian
+Saint Mirren        0-0 Ross County
+[Nov 26]
+Hibernian           3-3 Aberdeen
+[Jan 8]
+Celtic              2-0 Dundee United
+Kilmarnock          0-0 Motherwell
+[Jan 9]
+Dundee              1-1 Rangers
+
+Round 12
+[Nov 9]
+Dundee United       3-0 Ross County
+Hibernian           1-2 Saint Mirren
+Motherwell          2-1 Saint Johnstone
+Aberdeen            4-1 Dundee
+[Nov 10]
+Kilmarnock          0-2 Celtic
+Rangers             1-0 Heart of Midlothian
+
+Round 13 [Nov 23]
+Ross County         2-1 Motherwell
+Saint Johnstone     1-0 Kilmarnock
+Rangers             1-1 Dundee United
+Saint Mirren        2-1 Aberdeen
+Dundee              4-1 Hibernian
+Heart of Midlothian 1-4 Celtic
+
+Round 14
+[Nov 30]
+Celtic              5-0 Ross County
+Dundee United       2-0 Saint Mirren
+Kilmarnock          1-1 Dundee
+Motherwell          0-3 Hibernian
+[Dec 1]
+Saint Johnstone     0-1 Rangers
+Heart of Midlothian 1-1 Aberdeen
+
+Round 15
+[Sep 21]
+Ross County         3-3 Saint Johnstone
+Saint Mirren        2-1 Heart of Midlothian
+[Nov 3]
+Hibernian           1-1 Dundee United
+[Dec 4]
+Dundee              4-1 Motherwell
+Rangers             6-0 Kilmarnock
+Aberdeen            0-1 Celtic
+
+Round 16
+[Dec 7]
+Aberdeen            1-1 Saint Johnstone
+Celtic              3-0 Hibernian
+Dundee United       1-1 Kilmarnock
+Heart of Midlothian 2-0 Dundee
+Saint Mirren        0-1 Motherwell
+[Dec 8]
+Ross County         0-3 Rangers
+
+Round 17
+[Dec 14]
+Hibernian           3-1 Ross County
+Motherwell          4-3 Dundee United
+Saint Johnstone     2-3 Saint Mirren
+[Dec 15]
+Kilmarnock          1-0 Heart of Midlothian
+[Jan 14]
+Dundee              3-3 Celtic
+[Jan 15]
+Rangers             3-0 Aberdeen
+
+Round 18
+[Dec 20]
+Motherwell          1-1 Kilmarnock
+[Dec 21]
+Aberdeen            1-3 Hibernian
+Rangers             1-0 Dundee
+Ross County         1-2 Saint Mirren
+[Dec 22]
+Dundee United       0-0 Celtic
+Heart of Midlothian 2-1 Saint Johnstone
+
+Round 19 [Dec 26]
+Heart of Midlothian 1-2 Hibernian
+Celtic              4-0 Motherwell
+Dundee              0-3 Ross County
+Kilmarnock          4-0 Aberdeen
+Saint Johnstone     1-2 Dundee United
+Saint Mirren        2-1 Rangers
+
+Round 20 [Dec 29]
+Celtic              4-0 Saint Johnstone
+Hibernian           1-0 Kilmarnock
+Motherwell          2-2 Rangers
+Ross County         2-2 Heart of Midlothian
+Saint Mirren        1-2 Dundee
+Dundee United       1-0 Aberdeen
+
+Round 21 [Jan 2]
+Aberdeen            1-2 Ross County
+Heart of Midlothian 1-0 Motherwell
+Kilmarnock          2-0 Saint Mirren
+Rangers             3-0 Celtic
+Saint Johnstone     1-1 Hibernian
+Dundee              1-2 Dundee United
+
+Round 22 [Jan 5]
+Hibernian           3-3 Rangers
+Motherwell          2-0 Aberdeen
+Celtic              3-0 Saint Mirren
+Dundee United       0-1 Heart of Midlothian
+Kilmarnock          0-1 Ross County
+Saint Johnstone     1-3 Dundee
+
+Round 23
+[Nov 3]
+Dundee              3-2 Kilmarnock
+[Jan 11]
+Ross County         1-4 Celtic
+Hibernian           3-1 Motherwell
+Saint Mirren        0-1 Dundee United
+[Jan 12]
+Aberdeen            0-0 Heart of Midlothian
+Rangers             3-1 Saint Johnstone
+
+Round 24
+[Jan 25]
+Aberdeen            0-3 Saint Mirren
+Heart of Midlothian 3-2 Kilmarnock
+Ross County         1-1 Hibernian
+Saint Johnstone     2-1 Motherwell
+[Jan 26]
+Dundee United       1-3 Rangers
+[Feb 5]
+Celtic              6-0 Dundee
+
+Round 25
+[Feb 1]
+Dundee              0-6 Heart of Midlothian
+Hibernian           2-0 Aberdeen
+Saint Mirren        0-1 Saint Johnstone
+Kilmarnock          1-0 Dundee United
+[Feb 2]
+Motherwell          1-3 Celtic
+Rangers             4-0 Ross County
+
+Round 26
+[Feb 15]
+Celtic              3-0 Dundee United
+Dundee              1-2 Aberdeen
+Kilmarnock          3-1 Saint Johnstone
+Motherwell          0-3 Ross County
+[Feb 16]
+Heart of Midlothian 1-3 Rangers
+Saint Mirren        0-0 Hibernian
+
+Round 27
+[Feb 22]
+Hibernian           2-1 Celtic
+Aberdeen            1-0 Kilmarnock
+Dundee United       1-0 Motherwell
+Rangers             0-2 Saint Mirren
+Ross County         3-1 Dundee
+[Feb 23]
+Saint Johnstone     1-2 Heart of Midlothian
+
+Round 28
+[Feb 25]
+Celtic              5-1 Aberdeen
+[Feb 26]
+Dundee United       1-3 Hibernian
+Heart of Midlothian 3-1 Saint Mirren
+Motherwell          2-1 Dundee
+Saint Johnstone     1-0 Ross County
+Kilmarnock          2-4 Rangers
+
+Round 29
+[Mar 1]
+Dundee              1-1 Saint Johnstone
+Rangers             1-2 Motherwell
+Ross County         1-0 Kilmarnock
+Saint Mirren        2-5 Celtic
+[Mar 2]
+Hibernian           2-1 Heart of Midlothian
+Aberdeen            2-2 Dundee United
+
+Round 30
+[Mar 15]
+Heart of Midlothian 2-0 Ross County
+Kilmarnock          1-1 Hibernian
+Motherwell          2-2 Saint Mirren
+Saint Johnstone     0-0 Aberdeen
+[Mar 16]
+Celtic              2-3 Rangers
+Dundee United       2-4 Dundee
+
+Round 31
+[Mar 29]
+Aberdeen            4-1 Motherwell
+Celtic              3-0 Heart of Midlothian
+Hibernian           3-0 Saint Johnstone
+Saint Mirren        5-1 Kilmarnock
+Dundee              3-4 Rangers
+[Mar 30]
+Ross County         0-1 Dundee United
+
+Round 32
+[Apr 5]
+Dundee              2-0 Saint Mirren
+Kilmarnock          2-0 Motherwell
+Rangers             0-2 Hibernian
+Ross County         0-1 Aberdeen
+[Apr 6]
+Saint Johnstone     1-0 Celtic
+Heart of Midlothian 0-1 Dundee United
+
+Round 33
+[Apr 12]
+Celtic              5-1 Kilmarnock
+Dundee United       1-0 Saint Johnstone
+Motherwell          0-0 Heart of Midlothian
+Saint Mirren        3-2 Ross County
+[Apr 13]
+Aberdeen            2-2 Rangers
+Hibernian           4-0 Dundee
+
+Final Table:
+
+ 1.Celtic               33  26  3  4  97-22  81  [C]  ‹Championship Playoff, see §champ›
+ 2.Rangers              33  20  6  7  68-35  66       ‹Championship Playoff, see §champ›
+ 3.Hibernian            33  14 11  8  54-41  53       ‹Championship Playoff, see §champ›
+ 4.Dundee United        33  14  8 11  41-40  50  [P]  ‹Championship Playoff, see §champ›
+ 5.Aberdeen             33  14  8 11  45-49  50       ‹Championship Playoff, see §champ›
+ 6.Saint Mirren         33  12  5 16  45-54  41       ‹Championship Playoff, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Heart of Midlothian  33  11  7 15  43-44  40       ‹Relegation Playoff, see §releg›
+ 8.Motherwell           33  11  6 16  37-56  39       ‹Relegation Playoff, see §releg›
+ 9.Kilmarnock           33   9  8 16  38-58  35       ‹Relegation Playoff, see §releg›
+10.Ross County          33   9  8 16  33-56  35       ‹Relegation Playoff, see §releg›
+11.Dundee               33   9  7 17  50-71  34       ‹Relegation Playoff, see §releg›
+12.Saint Johnstone      33   8  5 20  33-58  29       ‹Relegation Playoff, see §releg›
+
+Championship Playoff  ‹§champ›
+
+Final Table:
+
+ 1.Celtic               38  29  5  4 112-26  92  [C]  Champions
+ 2.Rangers              38  22  9  7  80-41  75
+ 3.Hibernian            38  15 13 10  62-50  58
+ 4.Dundee United        38  15  8 15  45-54  53  [P]
+ 5.Aberdeen             38  15  8 15  48-61  53
+ 6.Saint Mirren         38  14  8 16  53-59  50
+
+Round 34 [Apr 26]
+Dundee United       0-5 Celtic
+Aberdeen            1-0 Hibernian
+Saint Mirren        2-2 Rangers
+
+Round 35
+[May 3]
+Hibernian           3-1 Dundee United
+Saint Mirren        1-0 Aberdeen
+[May 4]
+Rangers             1-1 Celtic
+
+Round 36
+[May 10]
+Celtic              3-1 Hibernian
+Dundee United       0-2 Saint Mirren
+[May 11]
+Rangers             4-0 Aberdeen
+
+Round 37 [May 14]
+Rangers             3-1 Dundee United
+Saint Mirren        2-2 Hibernian
+Aberdeen            1-5 Celtic
+
+Round 38 [May 17]
+Celtic              1-1 Saint Mirren
+Dundee United       2-1 Aberdeen
+Hibernian           2-2 Rangers
+
+Final Table:
+
+ 1.Celtic               38  29  5  4 112-26  92  [C]  Champions
+ 2.Rangers              38  22  9  7  80-41  75
+ 3.Hibernian            38  15 13 10  62-50  58
+ 4.Dundee United        38  15  8 15  45-54  53  [P]
+ 5.Aberdeen             38  15  8 15  48-61  53
+ 6.Saint Mirren         38  14  8 16  53-59  50
+
+Relegation Playoff  ‹§releg›
+
+Final Table:
+
+ 7.Heart of Midlothian  38  15  7 16  52-47  52
+ 8.Motherwell           38  14  7 17  46-63  49
+ 9.Kilmarnock           38  12  8 18  45-64  44
+10.Dundee               38  11  8 19  57-77  41
+- - - - - - - - - - - - - - - - - - - - - - - -
+11.Ross County          38   9 10 19  37-65  37       Relegation Playoff
+-----------------------------------------------
+12.Saint Johnstone      38   9  5 24  38-68  32       Relegated
+
+Round 34 [Apr 26]
+Heart of Midlothian 0-1 Dundee
+Kilmarnock          2-0 Ross County
+Motherwell          3-2 Saint Johnstone
+
+Round 35 [May 3]
+Dundee              1-2 Motherwell
+Ross County         1-3 Heart of Midlothian
+Saint Johnstone     0-2 Kilmarnock
+
+Round 36 [May 10]
+Heart of Midlothian 3-0 Motherwell
+Kilmarnock          3-2 Dundee
+Saint Johnstone     2-1 Ross County
+
+Round 37 [May 14]
+Dundee              1-1 Ross County
+Heart of Midlothian 2-1 Saint Johnstone
+Motherwell          3-0 Kilmarnock
+
+Round 38 [May 18]
+Kilmarnock          0-1 Heart of Midlothian
+Ross County         1-1 Motherwell
+Saint Johnstone     0-2 Dundee
+
+Final Table:
+
+ 7.Heart of Midlothian  38  15  7 16  52-47  52
+ 8.Motherwell           38  14  7 17  46-63  49
+ 9.Kilmarnock           38  12  8 18  45-64  44
+10.Dundee               38  11  8 19  57-77  41
+- - - - - - - - - - - - - - - - - - - - - - - -
+11.Ross County          38   9 10 19  37-65  37       Relegation Playoff
+-----------------------------------------------
+12.Saint Johnstone      38   9  5 24  38-68  32       Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Highland Amateur Cup 2025  ‹§hama›
+
+<!-- start pre -->
+Preliminary Round
+North Section
+[Apr 19]
+Thurso Swifts                  0-6 Inver FC
+High Ormlie Hotspurs           4-0 Castletown
+Staxigoe United                4-3 Keiss
+Embo FC                        1-2 Helmsdale United
+Gosbie Stafford                3-4 John O Groats
+South Section
+Maryburgh AFC                  4-1 Auctioneers
+Auldearn                       1-5 Fort William Reserves
+Kyleakin                       1-6 Ferry United
+Ardesier                       0-2 Inverness Athletic
+Loch Ness Thistle              8-0 Culloden
+Highland                       1-6 Tomatin United
+Western Isles Section
+[Apr 18]
+Point FC                       2-1 Back FC
+Harris FC                      4-0 Lochs
+[Apr 19]
+Benbecula                      3-2 Ness FC
+Eriskay FC                     3-6 Westside FC
+Shetland Island Section
+Southside Impact               0-5 Whitedale
+North Isles                    o/w Ness United
+Lerwick Thistle                2-6 Lerwick Spurs
+Orkney Isles Section
+Kirkwall Thorfinn             18-0 Harray
+Kirkwall Rovers                0-5 Stromness Athletic
+
+Round 1  ‹§1hama›
+North Section
+Wick Thistle                   3-3 Lybster FC                     [aet, 5-4 pen]
+Watten                         4-3 Truro Pentlands
+Halkirk                        3-2 Lochbroom
+Pentland United               14-0 Top Joes
+Staxigoe United                2-1 Brora Wanderers
+Helmsdale United               0-3 Wick Groats
+John O Groats                  1-4 High Ormlie Hotspurs
+Inver FC                      16-1 Dornoch City
+Thurso Academicals             4-2 Lochinver
+South Section
+Inverness Athletic             3-1 Sleat & Strath
+NW Skye                        3-2 Mallaig
+Ferry United                   6-2 Culbokie
+Fortrose & Rosemarkie Union FC w/o Gellions
+Glenurquhart                   1-2 Portree
+Tornagrain                     5-2 Slackbuie
+Avoch HAC                      4-1 Tomatin United
+Fort William Reserves          w/o Kirkhill
+Loch Ness Thistle              o/w CK Interiors FC
+Maryburgh AFC                  4-0 Muir of Ord
+Graham Academicals             1-3 Black Rock Rovers
+Western Isles Section [May 10]
+Harris FC                      0-1 Benbecula
+North Uist                     0-4 Carloway FC
+Barra                          2-2 Stornoway Athletic             [aet, 7-6 pen]
+Iochdar Saints                10-0 Stornoway United               [awarded to Stornoway United]
+Point FC                       2-2 Westside FC                    [aet, 2-4 pen]
+Orkney Isles Section
+[N.N.]                         o/w Dounby Athletic
+Stromness Athletic             0-1 East United
+Kirkwall Hotspurs              2-3 Kirkwall Thorfinn
+Firth                          1-3 Kirkwall Aces
+Shetland Isles Section
+Lerwick Spurs                  5-1 Ness United
+Whitedale                      1-3 Scalloway FC                   [aet]
+Whalsay FC                    12-1 Shetland Banks
+
+Round 2
+[May 31]
+Lerwick Spurs                  4-1 Westside
+Halkirk                        0-1 Carloway FC
+Tornagrain                     1-5 Pentland United
+Benbecula                      1-6 High Ormlie Hotspurs
+Fortrose & Rosemarkie Union FC 2-1 Black Rock Rovers
+Maryburgh AFC                  6-0 NW Sky
+Inverness Athletic             6-1 Fort William Reserves
+Watten                         1-8 Staxigoe United
+Dounby Athletic                1-1 Kirkwall Thorfinn              [aet, 3-2 pen]
+Whalsay FC                     6-0 Portree
+Kirkwall Accies                0-4 Thurso Academicals
+Wick Thistle                   0-1 Inver FC
+Avoch HAC                      3-1 Ferry United
+East United                    awd Barra                          [awd to East United]
+[Jun 13?]
+Wick Groats                    6-2 CK Interiors FC
+[Jun 21]
+Scalloway FC                   2-1 Stornoway United
+
+Round 3
+[Jun 13]
+Lerwick Spurs                  1-2 Maryburgh AFC
+Inver FC                       5-1 Thurso Academicals
+Pentland United                3-3 Inverness Athletic             [aet, 5-3 pen]
+Wick Groats                    1-2 Avoch HAC
+High Ormlie Hotspurs           1-4 Staxigoe
+[Jun 21]
+Carloway FC                    2-1 Fortrose & Rosemarkie Union FC
+East United                    3-5 Dounby Athletic
+[Jun 27]
+Scalloway FC                   2-3 Whalsay FC
+
+Quarterfinals
+[Jul 12]
+High Ormlie Hotspurs           1-4 Maryburgh AFC
+[Jul 26]
+Pentland United                2-0 Avoch HAC
+[Aug 2]
+Inver FC                       1-0 Whalsay FC
+Carloway AFC                   3-2 Dounby Athletic
+
+Semifinals [Aug 16]
+Pentland United                0-1 Maryburgh AFC
+Carloway FC                    0-1 Inver FC
+
+Final [Sep 6, Mosset Park, Forres]
+Maryburgh AFC                  3-1 Inver FC
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page scot2024›.
+
+‹list of champions, see page scotchamp›.
+
+‹list of 2nd division champions, see page scot2champ›.
+
+‹list of 3rd division champions, see page scot3champ›.
+
+‹list of 4th division champions, see page scot4champ›.
+
+‹list of highland league champions, see page scot-highchamp›.
+
+‹list of east of scotland league champions, see page scot-eastchamp›.
+
+‹list of south of scotland league champions, see page scot-southchamp›.
+
+‹all-time table, see page scotalltime›.
+
+‹list of divisional movements, see page scotall›.
+
+‹list of cup winners, see page scotcuphist›.
+
+‹list of league cup winners, see page scotleagcuphist›.
+
+‹list of qualifying cup winners, see page scotqualcuphist›.
+
+‹list of glasgow cup winners, see page scot-glasgowcuphist›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Authors: Hans Schöggl and Karel Stokkermans
+
+Last updated: 8 Sep 2025
+
+
+(C) Copyright Hans Schöggl, Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.

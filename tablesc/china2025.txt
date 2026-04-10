@@ -1,0 +1,137 @@
+  <!--
+     source: https://rsssf.org/tablesc/china2025.html
+    -->
+  
+
+
+== China 2025
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹China Super League, see §csl›
+‹FA Cup, see §cup›
+‹China League One, see §cl1›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== China Super League  ‹§csl›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Shanghai Port                       30  20  6  4  72-44  66  [C]  Champions
+ 2.Shanghai Shenhua                    30  19  7  4  67-35  64
+ 3.Chengdu Rongcheng                   30  17  9  4  60-28  60
+ 4.Beijing Guoan                       30  17  6  7  69-46  57
+ 5.Shandong Taishan                    30  15  8  7  69-46  53
+ 6.Tianjin Jinmen Tiger                30  12  8 10  40-41  44
+ 7.Zhejiang FC                         30  10 12  8  60-51  42
+ 8.Yunnan Yukun                        30  11  9 10  47-52  42  [P]
+ 9.Qingdao West Coast                  30  10 10 10  39-43  40
+10.Henan FC                            30  10  7 13  52-48  37
+11.Dalian Yingbo                       30   9  9 12  30-45  36  [P]
+12.Shenzhen Peng City                  30   8  3 19  35-59  27
+13.Wuhan Three Towns                   30   6  7 17  34-62  25
+14.Qingdao Hainiu                      30   5 10 15  35-48  25
+--------------------------------------------------------------
+15.Meizhou Hakka                       30   5  6 19  36-71  21       Relegated
+16.Changchun Yatai                     30   4  7 19  26-52  19       Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== FA Cup  ‹§cup›
+
+<!-- start pre -->
+1/8 Finals
+[Jun 20]
+Shandong Taishan          1-3 Chengdu Rongcheng
+[Jun 21]
+Dalian Yingbo             1-1 Beijing Guoan             [aet, 5-6 pen]
+Shaanxi Union             1-2 Yunnan Yukun
+Guandong Guangzhou Power  2-0 Tianjin Jinmen Tiger
+Qingdao Hainiu            2-1 Guangxi Hengchen
+[Jun 22]
+Shanghai Port             2-3 Shanghai Shenhua
+Dalian K'un City          0-2 Qingdao West Coast
+Henan FC                  3-2 Zhejiang FC
+
+Quarterfinals
+[Jul 22]
+Qingdao West Coast        2-2 Beijing Guoan             [aet, 2-4 pen]
+Yunnan Yukun              3-0 Guandong Guangzhou Power
+[Jul 23]
+Shanghai Shenhua          3-3 Henan FC                  [aet, 7-8 pen]
+Qingdao Hainiu            1-2 Chengdu Rongcheng
+
+Semifinals
+[Aug 19]
+Chengdu Rongcheng         0-0 Henan FC                  [aet, 3-4 pen]
+[Aug 20]
+Beijing Guoan             7-0 Yunnan Yukun
+
+Final [Dec 6, Suzhou]
+Beijing Guoan             3-0 Henan FC
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== China League One  ‹§cl1›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Liaoning Tieren                     30  20  8  2  64-27  68       Promoted
+ 2.Chongqing Tonglianglong             30  18  6  6  52-32  60       Promoted
+--------------------------------------------------------------
+ 3.Guandong Guangzhou Power            30  18  6  6  55-35  60  [P]
+ 4.Yanbian Longding                    30  16  7  7  43-25  55
+ 5.Shijiazhuang Gongfu                 30  12 11  7  39-31  47
+ 6.Jiangxi Dingnan United              30  11 11  8  40-35  44  [*1]
+ 7.Nantong Zhiyun                      30  12  7 11  44-31  43  [R]
+ 8.Dalian K'un City                    30  11  9 10  42-38  42  [P]
+ 9.Shaanxi Union                       30  10  9 11  48-47  39  [P]
+10.Suzhou Dongwu                       30   9 11 10  25-28  38
+11.Nanjing City                        30   9  9 12  40-48  36
+12.Shanghai Jiading Huilong            30   8  6 16  26-44  30
+13.Foshan Nanshi                       30   7  8 15  27-49  29
+14.Shenzhen Juniors                    30   8  4 18  38-60  28  [P]
+--------------------------------------------------------------
+15.Guangxi Pingguo                     30   6  7 17  24-47  25  [*2] Relegated
+16.Qingdao Red Lions                   30   2  7 21  20-50  13       Relegated
+
+[*1] Heilongjiang Ice City (Harbin) relocated to Dingnan and were renamed Jiangxi Dingnan United
+[*2] Guangxi Pingguo Haliao were renamed Guangxi Pingguo
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024, see page china2024›
+
+‹list of champions, see page chinachamp›
+
+‹list of final tables 1951-89, see page chinahist›
+
+‹list of cup winners, see page chinacuphist›
+
+‹list of super cup winners, see page chinasupercuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 7 Dec 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2025
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

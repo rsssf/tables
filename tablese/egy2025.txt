@@ -1,0 +1,698 @@
+  <!--
+     source: https://rsssf.org/tablese/egy2025.html
+    -->
+  
+
+
+== Egypt 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹First Level, see §1l›
+‹Egypt Cup, see §cup›
+‹League Cup, see §lc›
+‹Second Level, see §2l›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== First Level  ‹§1l›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.Pyramids FC                  17  13  3  1  32-10  42       ‹Championship Playoff, see §champ›
+ 2.Al-Ahly (Cairo)              17  11  6  0  30- 9  39  [C]  ‹Championship Playoff, see §champ›
+ 3.Zamalek (Cairo)              17   9  5  3  30-16  32       ‹Championship Playoff, see §champ›
+ 4.Al-Masry (Port Said)         17   8  6  3  19-11  30       ‹Championship Playoff, see §champ›
+ 5.National Bank                17   8  5  4  22-18  29       ‹Championship Playoff, see §champ›
+ 6.Ceramica Cleopatra (Cairo)   17   6  6  5  23-21  24       ‹Championship Playoff, see §champ›
+ 7.Pharco FC (Alexandria)       17   6  5  6  17-19  23       ‹Championship Playoff, see §champ›
+ 8.Petrojet                     17   5  7  5  17-18  22  [P]  ‹Championship Playoff, see §champ›
+ 9.Haras al-Hodoud (Alexandria) 17   6  4  7  17-19  22  [P]  ‹Championship Playoff, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+10.ZED FC                       17   4  9  4  15-13  21       ‹Relegation Playoff, see §releg›
+11.Al-Jaish (Cairo)             17   5  6  6  13-18  21       ‹Relegation Playoff, see §releg›
+12.Semouha (Alexandria)         17   6  2  9  13-22  20       ‹Relegation Playoff, see §releg›
+13.Al-Ittihad (Alexandria)      17   4  6  7  11-16  18       ‹Relegation Playoff, see §releg›
+14.Al-Gouna                     17   4  5  8  10-15  17       ‹Relegation Playoff, see §releg›
+15.Ghazl Al-Mehalla             17   5  2 10  16-24  17  [P]  ‹Relegation Playoff, see §releg›
+16.Ismaily (Ismailiya)          17   3  5  9  11-21  14       ‹Relegation Playoff, see §releg›
+17.ENPPI (Cairo)                17   2  6  9  10-21  12       ‹Relegation Playoff, see §releg›
+18.Modern Sport FC (Cairo)      17   1  6 10   9-24   9       ‹Relegation Playoff, see §releg›
+
+Round 1
+[Oct 30]
+Haras Hodoud  1-3 Semouha
+Jaish         0-2 Masry
+[Oct 31]
+Gouna         0-0 ZED
+Modern Sport  0-0 ENPPI
+[Nov 1]
+Pharco        0-1 Ittihad
+Pyramids      1-1 Petrojet
+Zamalek       3-2 National Bank
+[Nov 2]
+Ismaily       0-0 Ghazl Mehalla
+Ahly          5-2 Ceramica Cl
+
+Round 2
+[Nov 7]
+Ittihad       1-0 Haras Hodoud
+Ghazl Mehalla 2-3 Jaish
+ZED           0-1 Ahly
+[Nov 8]
+Petrojet      1-1 Modern Sport
+Semouha       0-2 Zamalek
+ENPPI         1-2 Pyramids
+[Nov 9]
+Masry         0-0 Gouna
+National Bank 0-0 Pharco
+Ceramica Cl   1-0 Ismaily
+
+Round 3
+[Nov 22]
+Pharco        4-3 ENPPI
+Pyramids      3-1 National Bank
+Ahly          1-1 Ittihad
+[Nov 23]
+Gouna         0-1 Ghazl Mehalla
+Jaish         0-0 Semouha
+Zamalek       0-1 Masry
+[Nov 24]
+Ismaily       1-0 Petrojet
+Haras Hodoud  0-0 Ceramica Cl
+Modern Sport  0-0 ZED
+
+Round 4
+[Nov 30]
+Ceramica Cl   4-1 Modern Sport
+ZED           2-0 Haras Hodoud
+Ittihad       0-1 Jaish
+[Dec 1]
+National Bank 0-0 Ahly
+ENPPI         1-0 Ismaily
+Semouha       0-0 Gouna
+[Dec 2]
+Masry         1-0 Pyramids
+Petrojet      1-2 Pharco
+Ghazl Mehalla 0-4 Zamalek
+
+Round 5
+[Dec 19]
+Haras Hodoud  0-0 Masry
+Jaish         0-1 Petrojet
+Zamalek       1-1 Ceramica Cl
+[Dec 20]
+Gouna         1-0 ENPPI
+Modern Sport  0-1 National Bank
+Pharco        1-2 ZED
+[Dec 21]
+Ghazl Mehalla 0-0 Ittihad
+Ismaily       1-1 Pyramids
+[Jan 7]
+Ahly          2-0 Semouha
+
+Round 6
+[Dec 24]
+ZED           0-0 ENPPI
+Jaish         2-2 Zamalek
+[Dec 25]
+Ittihad       0-0 Modern Sport
+Ismaily       2-2 Haras Hodoud
+Pyramids      3-0 Pharco
+[Dec 26]
+National Bank 1-2 Ceramica Cl
+Semouha       2-4 Ghazl Mehalla
+Masry         0-2 Ahly
+Petrojet      1-0 Gouna
+
+Round 7
+[Dec 29]
+Haras Hodoud  3-0 Jaish
+Zamalek       2-0 Ittihad
+[Dec 30]
+Gouna         0-1 Pyramids
+ENPPI         0-0 Ahly
+Pharco        2-1 Semouha
+ZED           1-1 Petrojet
+[Dec 31]
+Ceramica Cl   1-1 Masry
+[Jan 1]
+Modern Sport  awd Ismaily       [awarded 0-3; originally 0-0]
+Ghazl Mehalla 0-1 National Bank
+
+Round 8
+[Jan 10]
+Petrojet      0-0 ENPPI
+Jaish         0-1 Ceramica Cl
+[Jan 11]
+National Bank 1-0 Ismaily
+Ittihad       0-1 ZED
+[Jan 12]
+Semouha       1-0 Modern Sport
+[Jan 15]
+Pyramids      3-0 Ghazl Mehalla
+Ahly          2-0 Gouna
+[Jan 16]
+Zamalek       3-2 Haras Hodoud
+Masry         1-0 Pharco
+
+Round 9
+[Jan 21]
+Gouna         1-2 National Bank
+Ghazl Mehalla 0-1 Haras Hodoud
+ENPPI         0-1 Jaish
+Ismaily       1-0 Semouha
+[Jan 22]
+Pharco        1-1 Ahly
+Ceramica Cl   1-1 Ittihad
+ZED           0-1 Pyramids
+[Jan 23]
+Petrojet      2-1 Masry
+Modern Sport  1-0 Zamalek
+
+Round 10
+[Jan 26]
+Ittihad       1-0 Ismaily
+Jaish         0-0 Pharco
+Ahly          2-2 Pyramids
+Ghazl Mehalla 0-1 Ceramica Cl
+[Jan 27]
+Zamalek       4-1 Gouna
+Masry         2-1 ENPPI
+Haras Hodoud  1-0 Modern Sport
+[Jan 28]
+National Bank 0-2 Petrojet
+Semouha       2-1 ZED
+
+Round 11
+[Jan 31]
+Gouna         0-1 Haras Hodoud
+Ismaily       1-2 Jaish
+Pyramids      3-0 Zamalek
+[Feb 1]
+ENPPI         0-1 National Bank
+ZED           1-1 Masry
+Petrojet      0-0 Ittihad
+Pharco        3-2 Ghazl Mehalla
+[Feb 2]
+Ceramica Cl   0-1 Semouha
+Modern Sport  1-3 Ahly
+
+Round 12
+[Feb 6]
+Ceramica Cl   1-2 Pharco
+Ghazl Mehalla 2-1 Modern Sport
+Ahly          2-1 Petrojet
+[Feb 7]
+Haras Hodoud  1-0 ENPPI
+Semouha       0-1 Pyramids
+Jaish         0-0 Gouna
+Zamalek       2-0 Ismaily
+[Feb 8]
+Ittihad       1-2 Masry
+National Bank 1-1 ZED
+
+Round 13
+[Feb 11]
+Petrojet      0-1 Semouha
+Pharco        0-1 Zamalek
+Ahly          1-0 Ghazl Mehalla
+[Feb 12]
+Gouna         2-0 Ismaily
+ZED           1-1 Ceramica Cl
+Masry         0-0 National Bank
+Pyramids      3-0 Haras Hodoud
+[Feb 13]
+Modern Sport  0-0 Jaish
+ENPPI         1-1 Ittihad
+
+Round 14
+[Feb 16]
+Semouha       1-4 National Bank
+Zamalek       1-1 Petrojet
+Haras Hodoud  2-0 Pharco
+Ismaily       0-4 Ahly
+[Feb 17]
+Ceramica Cl   2-2 ENPPI
+Ittihad       1-0 Gouna
+Modern Sport  0-1 Pyramids
+[Feb 18]
+Jaish         1-0 ZED
+Ghazl Mehalla 1-0 Masry
+
+Round 15
+[Feb 21]
+ENPPI         1-0 Semouha
+Pharco        0-0 Modern Sport
+National Bank 3-2 Ittihad
+Petrojet      2-2 Haras Hodoud
+[Feb 22]
+Masry         0-0 Ismaily
+Gouna         2-0 Ceramica Cl
+Ahly          1-1 Zamalek
+[Feb 23]
+ZED           2-0 Ghazl Mehalla
+Pyramids      2-1 Jaish
+
+Round 16
+[Feb 26]
+Haras Hodoud  0-1 Ahly
+Modern Sport  2-3 Gouna
+Ismaily       0-2 Pharco
+[Feb 27]
+Semouha       0-3 Masry
+Jaish         2-2 National Bank
+Zamalek       1-1 ZED
+[Feb 28]
+Ghazl Mehalla 3-0 ENPPI
+Ittihad       1-3 Pyramids
+Ceramica Cl   4-1 Petrojet
+
+Round 17
+[Mar 3]
+Masry         4-2 Modern Sport
+National Bank 2-1 Haras Hodoud
+Pharco        0-0 Gouna
+[Mar 4]
+Ittihad       0-1 Semouha
+ENPPI         0-3 Zamalek
+ZED           2-2 Ismaily
+[Mar 5]
+Ahly          2-0 Jaish
+Petrojet      2-1 Ghazl Mehalla
+Pyramids      2-1 Ceramica Cl
+
+Final Table:
+
+ 1.Pyramids FC                  17  13  3  1  32-10  42       ‹Championship Playoff, see §champ›
+ 2.Al-Ahly (Cairo)              17  11  6  0  30- 9  39  [C]  ‹Championship Playoff, see §champ›
+ 3.Zamalek (Cairo)              17   9  5  3  30-16  32       ‹Championship Playoff, see §champ›
+ 4.Al-Masry (Port Said)         17   8  6  3  19-11  30       ‹Championship Playoff, see §champ›
+ 5.National Bank                17   8  5  4  22-18  29       ‹Championship Playoff, see §champ›
+ 6.Ceramica Cleopatra (Cairo)   17   6  6  5  23-21  24       ‹Championship Playoff, see §champ›
+ 7.Pharco FC (Alexandria)       17   6  5  6  17-19  23       ‹Championship Playoff, see §champ›
+ 8.Petrojet                     17   5  7  5  17-18  22  [P]  ‹Championship Playoff, see §champ›
+ 9.Haras al-Hodoud (Alexandria) 17   6  4  7  17-19  22  [P]  ‹Championship Playoff, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+10.ZED FC                       17   4  9  4  15-13  21       ‹Relegation Playoff, see §releg›
+11.Al-Jaish (Cairo)             17   5  6  6  13-18  21       ‹Relegation Playoff, see §releg›
+12.Semouha (Alexandria)         17   6  2  9  13-22  20       ‹Relegation Playoff, see §releg›
+13.Al-Ittihad (Alexandria)      17   4  6  7  11-16  18       ‹Relegation Playoff, see §releg›
+14.Al-Gouna                     17   4  5  8  10-15  17       ‹Relegation Playoff, see §releg›
+15.Ghazl Al-Mehalla             17   5  2 10  16-24  17  [P]  ‹Relegation Playoff, see §releg›
+16.Ismaily (Ismailiya)          17   3  5  9  11-21  14       ‹Relegation Playoff, see §releg›
+17.ENPPI (Cairo)                17   2  6  9  10-21  12       ‹Relegation Playoff, see §releg›
+18.Modern Sport FC (Cairo)      17   1  6 10   9-24   9       ‹Relegation Playoff, see §releg›
+
+Playoff Stage  ‹§play›
+
+‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
+
+Championship Playoff  ‹§champ›
+
+Final Table:
+
+ 1.Al-Ahly (Cairo)              25  17  7  1  52-18  58  [C]  Champions
+ 2.Pyramids FC                  25  17  5  3  47-20  56
+ 3.Zamalek (Cairo)              25  13  8  4  44-22  47
+ 4.Al-Masry (Port Said)         25  11  9  5  29-20  42
+ 5.National Bank                25  10  8  7  35-30  38
+ 6.Ceramica Cleopatra (Cairo)   25  10  7  8  38-33  37
+ 7.Pharco FC (Alexandria)       25   8  8  9  25-35  32
+ 8.Petrojet                     25   6  9 10  24-35  27  [P]
+ 9.Haras al-Hodoud (Alexandria) 25   6  6 13  20-35  24  [P]
+
+NB: Ahly originally had 3 points deducted for no show round 18 but this
+    was revoked after they had threatened to leave the league
+
+Round 18
+[Mar 11]
+Haras Hodoud  1-2 Petrojet
+Zamalek       awd Ahly          [awarded 3-0, Ahly dns]
+[Mar 12]
+Pharco        2-1 National Bank
+Pyramids      0-0 Masry
+Ceramica Cl   bye
+
+NB: Ahly withdrew because they insisted on having foreign referees appointed
+    for their match against Zamalek; according to the league regulations, any
+    withdrawal from a match carried a forfeit loss and an additional deduction
+    of three points; when this ruling was applied, Ahly decided to withdraw
+    from the league (which would have implied automatic relegation); then the
+    league was interrupted for nearly a month until the points deduction was
+    revoked, to the understandable dissatisfaction of Pyramids and Zamalek
+
+Round 19
+[Apr 12]
+Pharco        0-2 Ceramica Cl
+Pyramids      1-1 Ahly
+[Apr 13]
+Masry         4-0 Petrojet
+Haras Hodoud  0-2 Zamalek
+National Bank bye
+
+Round 20
+[Apr 30]
+Haras Hodoud  1-2 Pyramids
+Petrojet      2-3 Ahly
+[May 1]
+Ceramica Cl   2-4 National Bank
+Masry         0-0 Zamalek
+Pharco        bye
+
+Round 21
+[May 4]
+Pharco        3-2 Pyramids
+Ahly          5-0 Haras Hodoud
+[May 5]
+Petrojet      0-2 Ceramica Cl
+National Bank 2-2 Zamalek
+Masry         bye
+
+Round 22
+[May 3]
+Ahly          4-2 Masry
+Ceramica Cl   2-2 Zamalek
+[May 9]
+National Bank 4-2 Pyramids
+Pharco        2-2 Petrojet
+Haras Hodoud  bye
+
+Round 23 [May 13]
+Ceramica Cl   0-1 Ahly
+Pharco        1-1 Masry
+Haras Hodoud  1-1 National Bank
+Zamalek       0-1 Pyramids
+Petrojet      bye
+
+Round 24
+[May 17]
+Ahly          2-1 National Bank
+Masry         0-4 Ceramica Cl
+Petrojet      0-2 Pyramids
+[May 18]
+Pharco        0-0 Haras Hodoud
+Zamalek       bye
+
+Round 25
+[May 24]
+Ceramica Cl   2-0 Haras Hodoud
+National Bank 0-1 Masry
+Petrojet      1-3 Zamalek
+[May 28]
+Ahly          6-0 Pharco
+Pyramids      bye
+
+Round 26
+[May 28]
+Masry         2-0 Haras Hodoud
+Ceramica Cl   1-5 Pyramids
+Petrojet      0-0 National Bank
+[May 31]
+Zamalek       2-0 Pharco
+Ahly          bye
+
+Final Table:
+
+ 1.Al-Ahly (Cairo)              25  17  7  1  52-18  58  [C]  Champions
+ 2.Pyramids FC                  25  17  5  3  47-20  56
+ 3.Zamalek (Cairo)              25  13  8  4  44-22  47
+ 4.Al-Masry (Port Said)         25  11  9  5  29-20  42
+ 5.National Bank                25  10  8  7  35-30  38
+ 6.Ceramica Cleopatra (Cairo)   25  10  7  8  38-33  37
+ 7.Pharco FC (Alexandria)       25   8  8  9  25-35  32
+ 8.Petrojet                     25   6  9 10  24-35  27  [P]
+ 9.Haras al-Hodoud (Alexandria) 25   6  6 13  20-35  24  [P]
+
+NB: Ahly originally had 3 points deducted for no show round 18 but this
+    was revoked after they had threatened to leave the league
+
+Relegation Playoff  ‹§releg›
+
+Final Table:
+
+10.ZED FC                       25   6 14  5  24-18  32
+11.Al-Gouna                     25   8  6 11  20-22  30
+12.Al-Jaish (Cairo)             25   6 11  8  18-24  29
+13.ENPPI (Cairo)                25   6  9 10  18-26  27
+15.Al-Ittihad (Alexandria)      25   5 11  9  14-21  26
+14.Modern Sport FC (Cairo)      25   6  8 11  21-31  26
+16.Semouha (Alexandria)         25   6  7 12  15-28  25
+-------------------------------------------------------
+17.Ismaily (Ismailiya)          25   5  8 12  18-28  23       Relegated
+18.Ghazl Al-Mehalla             25   6  5 14  20-36  23  [P]  Relegated
+
+Round 18
+[Mar 11]
+Gouna         2-0 Ittihad
+Modern Sport  2-0 Semouha
+[Mar 12]
+Ghazl Mehalla 0-3 ZED
+[Mar 13]
+Jaish         0-1 Ismaily
+ENPPI         bye
+
+Round 19
+[Apr 11]
+ENPPI         2-1 Modern Sport
+Ismaily       0-0 Ittihad
+[Apr 10]
+ZED           1-2 Gouna
+Ghazl Mehalla 1-0 Semouha
+Jaish         bye
+
+Round 20
+[Apr 28]
+Gouna         1-1 Semouha
+Ismaily       0-2 ZED
+Jaish         1-2 Ittihad
+[Apr 29]
+ENPPI         1-0 Ghazl Mehalla
+Modern Sport  bye
+
+Round 21
+[May 2]
+Semouha       1-1 Ismaily
+ZED           0-0 Jaish
+[May 3]
+ENPPI         0-1 Gouna
+Modern Sport  2-1 Ghazl Mehalla
+Ittihad       bye
+
+Round 22
+[May 6]
+Semouha       0-0 Jaish
+ZED           0-0 Ittihad
+[May 7]
+Gouna         0-1 Modern Sport
+Ismaily       0-1 ENPPI
+Ghazl Mehalla bye
+
+Round 23
+[May 10]
+Ittihad       0-0 Ghazl Mehalla
+[May 11]
+Semouha       0-1 ENPPI
+Gouna         0-1 Jaish
+ZED           2-2 Modern Sport
+Ismaily       bye
+
+Round 24 [May 16]
+Ghazl Mehalla 0-4 Gouna
+Ismaily       1-2 Modern Sport
+Semouha       0-0 Ittihad
+Jaish         1-1 ENPPI
+ZED           bye
+
+Round 25 [May 25]
+ENPPI         1-1 ZED
+Ismaily       3-0 Gouna
+Modern Sport  1-0 Ittihad
+Jaish         1-1 Ghazl Mehalla
+Semouha       bye
+
+Round 26 [May 29]
+Ittihad       1-1 ENPPI
+Ghazl Mehalla 1-1 Ismaily
+Jaish         1-1 Modern Sport
+ZED           0-0 Semouha
+Gouna         bye
+
+Final Table:
+
+10.ZED FC                       25   6 14  5  24-18  32
+11.Al-Gouna                     25   8  6 11  20-22  30
+12.Al-Jaish (Cairo)             25   6 11  8  18-24  29
+13.ENPPI (Cairo)                25   6  9 10  18-26  27
+15.Al-Ittihad (Alexandria)      25   5 11  9  14-21  26
+14.Modern Sport FC (Cairo)      25   6  8 11  21-31  26
+16.Semouha (Alexandria)         25   6  7 12  15-28  25
+-------------------------------------------------------
+17.Ismaily (Ismailiya)          25   5  8 12  18-28  23       Relegated
+18.Ghazl Al-Mehalla             25   6  5 14  20-36  23  [P]  Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Egypt Cup 2024/25  ‹§cup›
+
+<!-- start pre -->
+
+1/16 Finals
+[Jan 2]
+Petrojet      0-0 Mokawloon     [aet, 3-4 pen]
+ZED           3-1 Dayrout
+[Jan 3]
+Pharco        3-1 Tersana
+Gouna         2-0 Qanah
+ENNPI         1-0 Haras Hodoud
+Jaish         2-2 Olympic       [aet, 4-3 pen]
+[Jan 4]
+Ismaily       1-0 Tanta
+National Bank 1-0 Petrol Assiut
+Semouha       1-0 Suez
+Ceramica Cl   3-0 La Viena
+[Jan 5]
+Ghazl Mehalla 1-0 Sporting Alexandria
+Modern Sport  5-2 Shams         [aet]
+Ittihad       0-2 Team FC
+[Jan 9]
+Zamalek       2-0 A. Qair Semad
+[Feb 4]
+Masry         1-0 Wadi Degla
+Pyramids      3-0 Mansoura
+
+1/8 Finals
+[Jan 16]
+ENNPI         1-0 Ismaily
+[Jan 17]
+Ceramica Cl   2-0 Jaish
+Semouha       1-0 ZED
+[Mar 2]
+Gouna         3-1 Team FC
+[Mar 7]
+Zamalek       2-1 Modern Sport  [aet]
+National Bank 3-1 Masry
+[Mar 8]
+Pyramids      2-0 Mokawloon
+Ghazl Mehalla 1-0 Pharco        [aet]
+
+Quarterfinals [Mar 25]
+Pyramids      2-1 ENNPI
+Ghazl Mehalla 0-1 National Bank [aet]
+Zamalek       4-2 Semouha
+Ceramica Cl   3-1 Gouna
+
+Semifinals [Mar 28]
+Pyramids      4-0 National Bank
+Zamalek       2-1 Ceramica Cl
+
+Final [Jun 5]
+Zamalek       1-1 Pyramids      [aet, 8-7 pen]
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== League Cup  ‹§lc›
+
+<!-- start pre -->
+Quarterfinals
+
+First Legs
+[Apr 22]
+ENNPI         2-0 Haras Hodoud
+[Apr 23]
+Ismaily       0-0 Jaish
+Modern Sport  0-2 National Bank
+[Apr 24]
+Ceramica Cl   4-1 Petrojet
+
+Second Legs
+[May 20]
+Jaish         0-0 Ismaily       [4-5 pen]
+National Bank 1-0 Modern Sport
+[May 21]
+Petrojet      1-0 Ceramica Cl
+Haras Hodoud  1-0 ENNPI
+
+Semifinals
+
+First Legs [Jun 4]
+Ismaily       0-2 Ceramica Cl
+National Bank 2-1 ENNPI
+
+Second Legs [Jun 8]
+Ceramica Cl   1-0 Ismaily
+ENNPI         1-2 National Bank
+
+Third Place Match [Jun 12]
+Ismaily       2-0 ENNPI
+
+Final [Jun 12]
+Ceramica Cl   2-0 National Bank
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Second Division A  ‹§2l›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Mokawloon al-Arab (Cairo)    38  22 11  5  54-33  77  [R]  Promoted
+ 2.Wadi Degla                   38  21 13  4  44-14  76       Promoted
+ 3.Kahraba Ismailia             38  21 11  6  67-35  74  [P]  Promoted
+ 4.Abo Qir Semad                38  21 11  6  55-24  74       Promoted
+-------------------------------------------------------
+ 5.El-Sekka El-Hadid            38  14 15  9  41-31  57
+ 6.El-Qanah Club                38  14 13 11  47-41  55
+ 7.Aswan                        38  13 15 10  31-30  54
+ 8.Proxy                        38  10 21  7  46-47  51
+ 9.Asyut Petroleum              38  11 16 11  39-42  49
+10.Telecom Egypt                38  12 13 13  36-42  49
+11.Tersana                      38  13  9 16  37-43  48  [P]
+12.Baladeyet Al-Mahalla         38   9 18 11  25-27  45  [R]
+13.Al-Dakhleya                  38  11 10 17  31-45  43  [R]
+14.El-Mansoura                  38  10 10 18  25-38  40  [P]
+15.Tanta                        38   9 12 17  28-35  39
+16.Raya                         38   6 21 11  23-32  39
+17.Dayrot                       38   8 14 16  36-45  38  [P]
+-------------------------------------------------------
+18.La Viena                     38   8 14 16  28-39  38       Relegated
+19.Muntakhab Suez               38   6 11 21  25-54  29  [P]  Relegated
+20.Sporting (Alexandria)        38   5 14 19  26-47  29  [P]  Relegated
+
+Promoted: FC Masar, El-Entag El-Harby, Maleyat Kafr El-Zayat
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page egy2024›
+
+‹list of champions, see page egychamp›
+
+‹list of cup winners, see page egycuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Authors: Hans Schöggl and Karel Stokkermans
+
+Last updated: 10 Aug 2025
+
+
+(C) Copyright Hans Schöggl, Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.

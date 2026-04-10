@@ -1,0 +1,315 @@
+  <!--
+     source: https://rsssf.org/tablesp/paki2022.html
+    -->
+  
+
+
+== Pakistan 2021/22 (National Tournaments)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Pakistan Premier League 2021/22, see §nat›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Pakistan Premier League 2021/22  ‹§nat›
+
+<!-- start pre -->
+NB: league apparently abandoned
+
+Table:
+
+ 1.Water and Power Development Authority   11   7  3  1  20- 7  24       [WAPDA]
+ 2.Sui Southern Gas Company (Karachi)      12   7  2  3  27- 9  23       [SSGC]
+ 3.Pakistan Air Force                      11   7  2  2  23- 9  23       [PAF]
+ 4.Lyallpur FC (Faisalabad)                13   6  5  2  15-10  23  [P]
+ 5.Muslim Club (Chaman)                    14   6  2  6  15-28  20
+ 6.Khan Research Laboratories              12   4  7  1  27-11  19  [C]  [KRL]
+ 7.Pakistan Civil Aviation Authority       13   5  3  5  10-14  18       [PCAA]
+ 8.Pakistan Army                           11   4  4  3  16- 7  16
+ 9.Karachi United                          13   4  1  8  13-26  13  [P]
+10.Pakistan Navy                           13   2  2  9  15-30   8
+11.Sui Northern Gas Pipelines Limited       6   2  1  3   8- 9   7       [SNGPL]
+12.Huma FC (Islamabad)                     13   1  0 12  14-43   3  [N]
+ -.Karachi Electric Supply Corporation     withdrew before start season  [K. Electric]
+ -.National Bank of Pakistan               withdrew before start season  [NBP]
+ -.Afghan FC (Chaman)                      withdrew before start season
+
+NB: also promoted sides Baloch FC (Quetta), Gwadar Port Authority and
+    Masha United (Faisalabad) declined to enter
+
+NB: first leg (matches Aug 14-Sep 11) at Qasim Bagh Football Stadium, Multan
+
+Round 1
+[Aug 14]
+SSGC            0-1 WAPDA
+Army            0-1 PAF
+[Aug 15]
+KRL             1-1 PCAA
+[Aug 16]
+Navy            0-1 Muslim FC
+SNGPL           2-3 Lyallpur FC
+[Aug 17]
+Karachi United  4-2 Huma FC
+
+Round 2
+[Aug 20]
+WAPDA           2-1 PAF
+SSGC            0-1 PCAA
+[Aug 21]
+Army            6-0 Huma FC
+KRL             0-0 Lyallpur FC
+[Aug 22]
+Karachi United  2-3 Muslim FC
+[Aug 23]
+SNGPL           1-0 Navy
+
+Round 3
+[Aug 23]
+PAF             2-1 SSGC
+[Aug 24]
+Huma FC         0-2 KRL
+[Aug 25]
+PCAA            0-3 Army
+[Aug 26]
+Navy            0-2 WAPDA
+[Aug 27]
+Lyallpur FC     1-0 Karachi United
+[tba]
+Muslim FC        -  SNGPL
+
+Round 4
+[Aug 27]
+KRL             1-1 SNGPL
+[Aug 28]
+SSGC            2-1 Muslim FC
+[Aug 29]
+PCAA            2-1 Huma FC
+PAF             1-1 Lyallpur FC
+[Aug 30]
+WAPDA           5-1 Karachi United
+Army            abd Navy            [abandoned at 1-1 in second half due to power outage]
+[tba]
+Army             -  Navy            [replay or remaining time?]
+
+Round 5
+[Sep 1]
+SSGC            1-0 Lyallpur FC
+PAF             2-1 Huma FC
+[Sep 2]
+Karachi United  0-2 SNGPL
+WAPDA           1-2 PCAA
+[Sep 3]
+KRL             5-2 Navy
+Army            0-1 Muslim FC
+
+Round 6
+[Sep 5]
+Huma FC         2-6 SSGC
+PCAA            1-3 PAF
+[Sep 6]
+Muslim FC       0-8 KRL
+Lyallpur FC     2-1 Army
+[Sep 7]
+Navy            2-4 Karachi United
+SNGPL           1-2 WAPDA
+
+Round 7
+[Sep 8]
+PCAA            0-0 Lyallpur FC
+[Sep 9]
+PAF             0-1 Muslim FC
+[Sep 10]
+SSGC            5-2 Navy
+KRL             6-0 Karachi United
+[Sep 11]
+Army            3-1 SNGPL
+[tba]
+WAPDA            -  Huma FC
+
+NB: second leg (matches starting from Oct 14) at Pindi Municipal Stadium, Rawalpindi
+
+Round 8
+[Oct 14]
+PAF             2-2 KRL
+[Oct 16]
+PCAA            0-1 Karachi United
+[Oct 17]
+WAPDA           3-0 Muslim FC
+SSGC            0-0 Army
+[tba]
+Lyallpur FC      -  Navy
+Huma FC          -  SNGPL
+
+Round 9
+[Oct 19]
+Karachi United  0-3 PAF
+Navy            4-3 Huma FC
+[Oct 20]
+Muslim FC       4-3 Lyallpur FC
+[Oct 21]
+KRL             0-3 SSGC
+Army            1-1 WAPDA
+[tba]
+SNGPL            -  PCAA
+
+Round 10
+[Oct 22]
+PCAA            0-2 Navy
+[Oct 23]
+Huma FC         5-0 Muslim FC
+[Nov 6]
+Army            1-1 KRL
+[Nov 7]
+SSGC            1-0 Karachi United
+[tba]
+PAF              -  SNGPL
+WAPDA            -  Lyallpur FC
+
+Round 11
+[Oct 26]
+Muslim FC       1-2 PCAA
+Navy            0-3 PAF
+[Oct 27]
+Lyallpur FC     1-0 Huma FC
+[Oct 28]
+Karachi United  0-1 Army
+KRL             0-0 WAPDA
+[tba]
+SNGPL            -  SSGC
+
+Round 12
+[Oct 29]
+Navy            1-1 Lyallpur FC
+[Oct 31]
+Muslim FC       1-1 WAPDA
+Karachi United  0-0 PCAA
+[Nov 2]
+Army            0-0 SSGC
+[tba]
+KRL              -  PAF
+SNGPL            -  Huma FC          -
+
+Round 13
+[Nov 1]
+Huma FC         0-5 PAF
+Navy            1-1 KRL
+[tba]
+Lyallpur FC      -  SSGC
+SNGPL            -  Karachi United
+PCAA             -  WAPDA
+Muslim FC        -  Army
+
+Round 14
+[Nov 3]
+PCAA            1-0 Muslim FC
+[Nov 7]
+Huma FC         0-2 Lyallpur FC
+[tba]
+PAF              -  Navy
+Army             -  Karachi United
+WAPDA            -  KRL
+SSGC             -  SNGPL
+
+Round 15
+[Nov 3]
+WAPDA           2-0 Navy
+[tba]
+SSGC             -  PAF
+KRL              -  Huma FC
+Army             -  PCAA
+Karachi United   -  Lyallpur FC
+SNGPL            -  Muslim FC
+
+Round 16
+[Nov 4]
+Huma FC         0-1 Karachi United
+[Nov 6]
+Muslim FC       2-1 Navy
+[tba]
+WAPDA            -  SSGC
+PAF              -  Army
+PCAA             -  KRL
+Lyallpur FC      -  SNGPL
+
+Round 17
+[Nov 5]
+Lyallpur FC     1-0 PCAA
+[tba]
+Muslim FC        -  PAF
+Navy             _  SSGC
+Karachi United   -  KRL
+SNGPL            -  Army
+Huma FC          -  WAPDA
+
+Round 18
+[Nov 9]
+SSGC            8-0 Huma FC
+[tba]
+PAF              -  PCAA
+KRL              -  Muslim FC
+Army             -  Lyallpur FC
+Karachi United   -  Navy
+WAPDA            -  SNGPL
+
+Round 19
+[Nov 9]
+Lyallpur FC     0-0 Muslim FC
+[tba]
+PAF              -  Karachi United
+Huma FC          -  Navy
+SSGC             -  KRL
+WAPDA            -  Army
+PCAA             -  SNGPL
+
+NB: league apparently abandoned
+
+Table:
+
+ 1.Water and Power Development Authority   11   7  3  1  20- 7  24       [WAPDA]
+ 2.Sui Southern Gas Company (Karachi)      12   7  2  3  27- 9  23       [SSGC]
+ 3.Pakistan Air Force                      11   7  2  2  23- 9  23       [PAF]
+ 4.Lyallpur FC (Faisalabad)                13   6  5  2  15-10  23  [P]
+ 5.Muslim Club (Chaman)                    14   6  2  6  15-28  20
+ 6.Khan Research Laboratories              12   4  7  1  27-11  19  [C]  [KRL]
+ 7.Pakistan Civil Aviation Authority       13   5  3  5  10-14  18       [PCAA]
+ 8.Pakistan Army                           11   4  4  3  16- 7  16
+ 9.Karachi United                          13   4  1  8  13-26  13  [P]
+10.Pakistan Navy                           13   2  2  9  15-30   8
+11.Sui Northern Gas Pipelines Limited       6   2  1  3   8- 9   7       [SNGPL]
+12.Huma FC (Islamabad)                     13   1  0 12  14-43   3  [N]
+ -.Karachi Electric Supply Corporation     withdrew before start season  [K. Electric]
+ -.National Bank of Pakistan               withdrew before start season  [NBP]
+ -.Afghan FC (Chaman)                      withdrew before start season
+
+NB: also promoted sides Baloch FC (Quetta), Gwadar Port Authority and
+    Masha United (Faisalabad) declined to enter
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2020/21, see page paki2021›
+
+‹2023, see page paki2023›
+
+‹list of champions., see page pakichamp›
+
+‹list of cup winners., see page pakicuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 23 May 2023
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2021/23
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

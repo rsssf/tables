@@ -1,0 +1,108 @@
+  <!--
+     source: https://rsssf.org/tablesf/fiji2026.html
+    -->
+  
+
+
+== Fiji 2026
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Premier League, see §nfl›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Premier League  ‹§nfl›
+
+<!-- start pre -->
+NB: for district representations
+
+Table:
+
+ 1.Ba                 4   3  1  0  12- 4  10
+ 2.Rewa               4   3  0  1  10- 5   9  [C]
+ 3.Labasa             4   2  1  1   9- 3   7
+ 4.Lautoka            4   1  3  0   8- 7   6
+ 5.Suva               3   1  1  1   5- 3   4
+ 6.Nadi               3   1  1  1   3- 4   4
+ 7.Nasinu             4   1  1  2   5- 8   4
+ 8.Navua              4   1  1  2   2- 5   4
+ 9.Tailevu Naitasiri  4   0  2  2   8-14   2  [P]
+--------------------------------------------
+10.Nadroga            4   0  1  3   5-14   1
+
+Round 1
+[Feb 21]
+Labasa             0-0 Nasinu
+[Feb 22]
+Tailevu Naitasiri  0-4 Rewa
+Lautoka            1-1 Suva
+Navua              0-1 Nadi
+Ba                 5-2 Nadroga
+
+Round 2
+[Feb 27]
+Nadroga            0-1 Navua
+[Mar 22]
+Tailevu Naitasiri  3-3 Lautoka
+Rewa               2-1 Labasa
+Nasinu             0-4 Ba                 [at Govind Park, Ba]
+[tba]
+Nadi                -  Suva
+
+Round 3 [Mar 8]
+Suva               3-0 Navua
+Nadi               1-1 Ba
+Rewa               2-3 Lautoka
+Nadroga            0-5 Labasa
+Nasinu             4-2 Tailevu Naitasiri
+
+Round 4
+[Mar 14]
+Labasa             3-1 Nadi
+[Mar 15]
+Tailevu Naitasiri  3-3 Nadroga
+Lautoka            1-1 Navua
+Rewa               2-1 Nasinu
+Ba                 2-1 Suva
+
+Table:
+
+ 1.Ba                 4   3  1  0  12- 4  10
+ 2.Rewa               4   3  0  1  10- 5   9  [C]
+ 3.Labasa             4   2  1  1   9- 3   7
+ 4.Lautoka            4   1  3  0   8- 7   6
+ 5.Suva               3   1  1  1   5- 3   4
+ 6.Nadi               3   1  1  1   3- 4   4
+ 7.Nasinu             4   1  1  2   5- 8   4
+ 8.Navua              4   1  1  2   2- 5   4
+ 9.Tailevu Naitasiri  4   0  2  2   8-14   2  [P]
+--------------------------------------------
+10.Nadroga            4   0  1  3   5-14   1
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2025, see page fiji2025›
+
+‹list of champions, see page fijichamp›
+
+‹list of cup winners, see page fijicuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 22 Mar 2026
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2026
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

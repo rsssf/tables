@@ -1,0 +1,327 @@
+  <!--
+     source: https://rsssf.org/tableso/orkney2025.html
+    -->
+  
+
+
+== Orkney 2025
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹A-League, see §aleague›
+‹Cup Tournaments, see §cups›
+‹B-League, see §bleague›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== A-League  ‹§aleague›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Stromness         10   7  3  0  22-11  24  Champions
+ 2.East United       10   6  3  1  19- 8  21  [C]
+ 3.Dounby            10   4  1  5  16-15  13  [P]
+ 4.Thorfinn          10   3  1  6  13-22  10
+ 5.Rovers            10   3  1  6  16-25  10
+--------------------------------------------
+ 6.Hotspurs          10   2  1  7  11-16   7  Relegated
+
+Round 1 [May 6]
+Dounby                2-3 East United
+Hotspurs              0-1 Thorfinn
+Rovers                1-2 Stromness
+
+Round 2 [May 13]
+East United           0-0 Rovers
+Stromness             0-0 Hotspurs
+Thorfinn              3-0 Dounby
+
+Round 3 [May 20]
+Hotspurs              2-3 East United
+Rovers                0-2 Dounby
+Stromness             2-1 Thorfinn
+
+Round 4 [May 27]
+Dounby                0-1 Stromness
+Hotspurs              6-0 Rovers
+Thorfinn              1-1 East United
+
+Round 5 [Jun 10]
+East United           3-0 Dounby
+Stromness             5-3 Rovers
+Thorfinn              0-2 Hotspurs
+
+Round 6 [Jun 17]
+Dounby                3-0 Thorfinn
+Hotspurs              1-2 Stromness
+Rovers                2-4 East United
+
+Round 7 [Jun 24]
+Dounby                1-2 Rovers
+East United           1-0 Hotspurs
+Thorfinn              2-6 Stromness
+
+Round 8 [Jul 29]
+East United           4-0 Thorfinn
+Rovers                4-0 Hotspurs
+Stromness             3-3 Dounby
+
+Round 9 [Aug 5]
+Hotspurs              0-3 Dounby
+Stromness             1-0 East United
+Thorfinn              2-3 Rovers
+
+Round 10 [Aug 1]
+Dounby                2-0 Hotspurs
+East United           0-0 Stromness
+Rovers                1-3 Thorfinn
+
+Final Table:
+
+ 1.Stromness         10   7  3  0  22-11  24  Champions
+ 2.East United       10   6  3  1  19- 8  21  [C]
+ 3.Dounby            10   4  1  5  16-15  13  [P]
+ 4.Thorfinn          10   3  1  6  13-22  10
+ 5.Rovers            10   3  1  6  16-25  10
+--------------------------------------------
+ 6.Hotspurs          10   2  1  7  11-16   7  Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Cup Tournaments  ‹§cups›
+
+<!-- start pre -->
+‹Parish Cup, see §parish›
+‹Isaac Newlands Cup, see §newlands›
+‹Heddle Cup, see §heddle› | ‹Thomson Cup, see §thomson› | ‹Oxy Cup, see §oxy› | ‹Craigmyle Cup, see §craigmyle› | ‹Thornley Binders Cup, see §thornley› | ‹Reid Cup, see §reid›
+
+Parish Cup  ‹§parish›
+
+Round 1
+
+First Legs
+[May 4]
+Holm                  5-3 Firth
+Sandwick              1-1 Stromness
+Stenness              1-1 Rendall
+Sanday                6-0 Papa Westray
+[May 11]
+Westray               3-1 South Ronaldsay
+Evie                  2-3 St Andrews
+St Ola                0-3 Birsay
+Deerness              bye
+
+Second Legs
+[May 18]
+Rendall               2-1 Stenness
+Papa Westray          1-7 Sanday
+St Andrews            6-0 Evie
+Stromness             1-4 Sandwick
+[May 24]
+South Ronaldsay       1-3 Westray
+[May 25]
+Birsay                3-3 St Ola
+Deerness              bye
+
+Quarterfinals
+
+First Legs
+[May 31]
+Westray               1-0 Rendall
+[Jun 1]
+Sanday                3-2 St Andrews
+[Jun 15]
+Birsay                3-5 Holm
+Sandwick              w/o Deerness
+
+Second Legs
+[Jun 8]
+Rendall               1-5 Westray
+[Jun 22]
+St Andrews            5-3 Sanday
+Holm                  9-3 Birsay
+Deerness              o/w Sandwick
+
+Semifinals
+
+First Legs [Jun 29]
+Holm                  2-0 St Andrews
+Westray               0-2 Sandwick
+
+Second Legs [Jul 6]
+St Andrews            1-1 Holm
+Sandwick              1-1 Westray
+
+Final [Aug 9]
+Holm                  4-2 Sandwick
+
+Isaac Newlands Cup  ‹§newlands›
+
+Round 1
+Thorfinn             10-0 South Ronaldsay
+Harray                2-2 Firth                 [2-4 pen]
+East United           8-0 Accies
+
+Quarterfinals
+[Apr 15]
+Dounby                4-1 Thorfinn
+[Apr 16]
+Rovers               13-0 Firth
+[Apr 22]
+Stromness             5-0 Hotspurs
+[Apr 23]
+Orphir               1-16 East United
+
+Semifinals [Apr 26]
+Dounby                4-1 Rovers
+Stromness             5-1 East United
+
+Final [Apr 29]
+Dounby                3-3 Stromness             [4-3 pen]
+
+Heddle Cup  ‹§heddle›
+
+Quarterfinals [Aug 15]
+East United           3-2 Rovers
+Dounby                2-1 Hotspurs
+Thorfinn              bye
+Stromness             bye
+
+Semifinals [Aug 19]
+East United           3-4 Thorfinn
+Dounby                1-1 Stromness             [3-2 pen]
+
+Final [Aug 22]
+Thorfinn              5-1 Dounby
+
+Thomson Cup  ‹§thomson›
+
+Quarterfinals [Aug 20]
+Wanderers             2-6 Accies
+Firth                 1-0 South Ronaldsay
+Harray               0-12 Rendall
+Orphir                bye
+
+Semifinals [Aug 25]
+Accies                3-1 Firth
+Rendall               3-0 Orphir
+
+Final [Aug 30]
+Accies                1-1 Rendall               [aet, 3-5 pen]
+
+Oxy Cup  ‹§oxy›
+
+Quarterfinals [Jun 23]
+Wanderers             0-6 Rendall
+Accies                4-2 South Ronaldsay
+Orphir                4-3 Firth
+Harray                bye
+
+Semifinals [Jun 27]
+Rendall              10-0 Harray
+Accies                4-0 Orphir
+
+Final [Jul 25]
+Rendall               2-0 Accies
+
+Craigmyle Cup  ‹§craigmyle›
+
+Quarterfinals [Jul 1]
+Stromness             0-2 Dounby
+Thorfinn              1-4 East United
+Hotspurs              bye
+Rovers                bye
+
+Semifinals [Jul 8]
+Rovers               4-12 Hotspurs
+Dounby                1-2 East United
+
+Final [Aug 1]
+East United           2-3 Rovers
+
+Thornley Binders Cup  ‹§thornley›
+
+Round 1 [Aug 13]
+Stenness              0-4 Sandwick
+Stromness Parish      bye
+Rendall               bye
+Firth                 bye
+Birsay                bye
+Evie                  bye
+Stromness Burgh       bye
+Orphir                bye
+
+Quarterfinals [Aug 17]
+Stromness Parish      bt  Rendall
+Firth                 1-3 Birsay
+Evie                  0-4 Sandwick
+Stromness Burgh       6-1 Orphir
+
+Semifinals [Aug 24]
+Stromness Parish      1-4 Birsay
+Sandwick              4-3 Stromness Burgh
+
+Final [Aug 31]
+Birsay                5-0 Sandwick
+
+Reid Cup  ‹§reid›
+
+Quarterfinals [Aug 26]
+Stromness             5-1 East United
+Dounby                5-1 Rendall
+Thorfinn              1-1 Hotspurs              [7-6 pen]
+Rovers                bye
+
+Semifinals [Aug 29]
+Rovers                4-3 Stromness
+Dounby                1-1 Thorfinn              [4-2 pen]
+
+Final [Sep 2]
+Rovers                0-3 Dounby
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== B-League  ‹§bleague›
+
+<!-- start pre -->
+Final Table :
+
+ 1.South Ronaldsay   12  11  1  0  48-18  34  [N]  Promoted
+--------------------------------------------
+ 2.Rendall           12   7  2  3  37-13  23  [R]
+ 3.Firth             12   5  3  4  32-29  18  [R]
+ 4.Accies            12   4  4  4  28-20  16
+ 5.Orphir            12   3  2  7  32-42  11
+ 6.Harray            12   3  2  7  24-44  11
+ 7.Wanderers         12   1  2  9  20-55   5
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024, see page orkney2024›
+
+‹list of champions, see page orkneychamp›
+
+‹list of cup winners, see page orkneycuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Hans Schöggl for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Hans Schöggl
+
+Last updated: 29 Jan 2026
+
+
+(C) Copyright Hans Schöggl and RSSSF 2025/26
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

@@ -1,0 +1,535 @@
+  <!--
+     source: https://rsssf.org/tablesn/nil2025.html
+    -->
+  
+
+
+== Northern Ireland 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹IFA Premiership, see §premier›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== IFA Premiership  ‹§premier›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.Linfield              33  24  4  5  61-23  76       Champions, ‹Section A, see §seca›
+ 2.Larne                 33  15  9  9  39-28  54  [C]  ‹Section A, see §seca›
+ 3.Glentoran             33  15  9  9  40-31  54       ‹Section A, see §seca›
+ 4.Dungannon Swifts      33  15  5 13  44-40  50       ‹Section A, see §seca›
+ 5.Crusaders             33  15  5 13  41-43  50       ‹Section A, see §seca›
+ 6.Coleraine             33  13 10 10  49-41  49       ‹Section A, see §seca›
+ - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Cliftonville          33  13  7 13  44-37  46       ‹Section B, see §secb›
+ 8.Portadown             33  13  7 13  39-38  46  [P]  ‹Section B, see §secb›
+ 9.Ballymena United      33  13  4 16  40-42  43       ‹Section B, see §secb›
+10.Glenavon              33  10  9 14  35-43  39       ‹Section B, see §secb›
+11.Carrick Rangers       33   6  9 18  24-48  27       ‹Section B, see §secb›
+12.Loughgall             33   4  6 23  29-71  18       ‹Section B, see §secb›
+
+Round 1
+[Aug 9]
+Glentoran             0-1 Crusaders
+[Aug 10]
+Ballymena United      0-2 Linfield
+Carrick Rangers       2-0 Glenavon
+Dungannon Swifts      1-1 Coleraine
+[Aug 11]
+Cliftonville          1-0 Portadown
+[Sep 24]
+Larne                 2-0 Loughgall
+
+Round 2
+[Aug 16]
+Coleraine             4-2 Ballymena United
+[Aug 17]
+Glenavon              1-2 Cliftonville
+Linfield              3-1 Dungannon Swifts
+Loughgall             3-0 Carrick Rangers
+Portadown             1-2 Glentoran
+[Jan 7]
+Crusaders             1-3 Larne
+
+Round 3
+[Aug 20]
+Ballymena United      0-1 Crusaders
+Cliftonville          1-0 Dungannon Swifts
+Glenavon              0-3 Linfield
+Glentoran             0-0 Coleraine
+Loughgall             2-2 Portadown
+[Feb 4]
+Carrick Rangers       1-2 Larne
+
+Round 4
+[Aug 23]
+Carrick Rangers       2-3 Glentoran
+[Aug 24]
+Coleraine             0-2 Glenavon
+Crusaders             1-1 Cliftonville
+Dungannon Swifts      1-0 Ballymena United
+Linfield              5-1 Loughgall
+[Feb 1]
+Larne                 1-1 Portadown
+
+Round 5
+[Aug 30]
+Ballymena United      3-1 Glenavon
+Portadown             2-2 Linfield
+[Aug 31]
+Crusaders             2-1 Carrick Rangers
+Glentoran             1-0 Cliftonville
+Loughgall             0-2 Dungannon Swifts
+[Sep 1]
+Coleraine             1-1 Larne
+
+Round 6
+[Sep 7]
+Carrick Rangers       0-1 Portadown
+Dungannon Swifts      1-0 Glentoran
+Glenavon              2-2 Loughgall
+Larne                 0-1 Ballymena United
+[Jan 28]
+Linfield              2-1 Crusaders
+[Oct 22]
+Cliftonville          2-1 Coleraine
+
+Round 7
+[Sep 13]
+Portadown             2-1 Dungannon Swifts
+[Sep 14]
+Ballymena United      1-0 Glentoran
+Coleraine             3-1 Carrick Rangers
+Crusaders             0-1 Glenavon
+Linfield              0-1 Larne
+Loughgall             1-5 Cliftonville
+
+Round 8
+[Sep 17]
+Carrick Rangers       1-4 Ballymena United
+Cliftonville          0-0 Linfield
+Dungannon Swifts      1-0 Crusaders
+Glenavon              0-0 Larne
+Glentoran             2-0 Loughgall
+Portadown             2-2 Coleraine
+
+Round 9
+[Sep 20]
+Larne                 2-0 Glentoran
+[Sep 21]
+Ballymena United      3-2 Cliftonville
+Coleraine             2-0 Loughgall
+Crusaders             0-3 Portadown
+Glenavon              1-1 Dungannon Swifts
+Linfield              1-0 Carrick Rangers
+
+Round 10
+[Sep 27]
+Cliftonville          1-3 Larne
+[Sep 28]
+Coleraine             0-3 Linfield
+Dungannon Swifts      4-0 Carrick Rangers
+Glentoran             0-0 Glenavon
+Loughgall             0-4 Crusaders
+Portadown             0-1 Ballymena United
+
+Round 11
+[Oct 4]
+Linfield              1-3 Glentoran
+[Oct 5]
+Ballymena United      4-1 Loughgall
+Carrick Rangers       2-0 Cliftonville
+Crusaders             2-1 Coleraine
+Glenavon              2-1 Portadown
+[Oct 6]
+Larne                 0-3 Dungannon Swifts
+
+Round 12
+[Oct 12]
+Crusaders             2-3 Linfield
+Glenavon              0-1 Ballymena United
+Glentoran             2-0 Dungannon Swifts
+Portadown             1-0 Loughgall
+[Feb 4]
+Coleraine             0-0 Cliftonville
+[Mar 4]
+Carrick Rangers       1-0 Larne
+
+Round 13
+[Oct 18]
+Loughgall             1-3 Linfield
+[Oct 19]
+Cliftonville          0-0 Glenavon
+Ballymena United      0-1 Coleraine
+Dungannon Swifts      2-0 Portadown
+Glentoran             1-1 Carrick Rangers
+Larne                 1-1 Crusaders
+
+Round 14
+[Oct 26]
+Coleraine             2-1 Glentoran
+Crusaders             1-0 Ballymena United
+Dungannon Swifts      1-3 Loughgall
+Glenavon              1-1 Carrick Rangers
+Linfield              1-2 Cliftonville
+[Oct 27]
+Portadown             2-1 Larne
+
+Round 15
+[Nov 1]
+Ballymena United      0-3 Portadown
+Cliftonville          1-0 Crusaders
+[Nov 2]
+Coleraine             4-1 Dungannon Swifts
+Glentoran             0-2 Larne
+Loughgall             3-0 Glenavon
+[Nov 3]
+Carrick Rangers       1-3 Linfield
+
+Round 16
+[Nov 9]
+Crusaders             3-1 Loughgall
+Dungannon Swifts      1-4 Cliftonville
+Glenavon              0-3 Glentoran
+Linfield              2-0 Ballymena United
+Portadown             1-1 Carrick Rangers
+[Nov 10]
+Larne                 2-1 Coleraine
+
+Round 17 [Nov 16]
+Carrick Rangers       3-0 Crusaders
+Cliftonville          0-1 Ballymena United
+Dungannon Swifts      2-0 Glenavon
+Glentoran             0-2 Portadown
+Loughgall             0-4 Coleraine
+Larne                 0-1 Linfield
+
+Round 18
+[Nov 22]
+Glentoran             1-0 Linfield
+[Nov 23]
+Carrick Rangers       0-1 Dungannon Swifts
+Cliftonville          4-0 Loughgall
+Portadown             1-0 Glenavon
+[Nov 24]
+Coleraine             1-2 Crusaders
+[Mar 11]
+Ballymena United      1-2 Larne
+
+Round 19
+[Nov 30]
+Ballymena United      1-2 Carrick Rangers
+Crusaders             2-2 Dungannon Swifts
+Glenavon              3-3 Coleraine
+Linfield              2-1 Portadown
+Loughgall             2-2 Glentoran
+[Dec 1]
+Larne                 1-1 Cliftonville
+
+Round 20
+[Dec 17]
+Dungannon Swifts      0-1 Linfield
+Glenavon              3-1 Crusaders
+[Feb 12]
+Cliftonville          3-0 Carrick Rangers
+[Feb 26]
+Loughgall             1-4 Larne
+[Mar 1]
+Coleraine             2-0 Portadown
+[Mar 4]
+Glentoran             1-0 Ballymena United
+
+Round 21
+[Dec 13]
+Crusaders             1-3 Glentoran
+[Dec 14]
+Ballymena United      0-1 Dungannon Swifts
+Carrick Rangers       0-0 Loughgall
+Linfield              3-0 Coleraine
+Portadown             2-0 Cliftonville
+[Feb 18]
+Larne                 1-1 Glenavon
+
+Round 22
+[Oct 12]
+Carrick Rangers       2-1 Coleraine
+[Dec 21]
+Cliftonville          1-2 Glentoran
+Linfield              1-0 Glenavon
+Loughgall             2-3 Ballymena United
+Portadown             1-0 Crusaders
+[Dec 23]
+Dungannon Swifts      0-1 Larne
+
+Round 23 [Dec 26]
+Coleraine             2-2 Ballymena United
+Crusaders             2-0 Cliftonville
+Dungannon Swifts      2-1 Loughgall
+Glenavon              2-0 Portadown
+Glentoran             0-0 Linfield
+Larne                 0-0 Carrick Rangers
+
+Round 24
+[Dec 30]
+BBallymena United     0-2 Glenavon
+Carrick Rangers       0-0 Crusaders
+Loughgall             1-3 Coleraine
+Portadown             0-2 Glentoran
+[Feb 11]
+Linfield              1-0 Larne
+[Mar 12]
+Cliftonville          0-2 Dungannon Swifts
+
+Round 25
+[Jan 10]
+Larne                 2-0 Cliftonville
+[Jan 11]
+Crusaders             1-5 Dungannon Swifts
+Linfield              3-0 Carrick Rangers
+Loughgall             0-1 Portadown
+[Feb 18]
+Ballymena United      1-1 Glentoran
+[Mar 8]
+Glenavon              0-1 Coleraine
+
+Round 26
+[Jan 17]
+Dungannon Swifts      2-3 Glenavon
+[Jan 18]
+Carrick Rangers       0-0 Ballymena United
+Cliftonville          2-0 Loughgall
+Coleraine             0-2 Crusaders
+Glentoran             abd Larne                 [abandoned at 0-0 in 54' due
+Portadown             1-3 Linfield               to floodlight failure]
+[Mar 18]
+Glentoran             2-2 Larne                 [replay]
+
+Round 27 [Jan 25]
+Crusaders             3-2 Portadown
+Glenavon              2-1 Carrick Rangers
+Larne                 2-1 Ballymena United
+Loughgall             1-2 Glentoran
+Dungannon Swifts      1-1 Coleraine
+Linfield              2-1 Cliftonville
+
+Round 28
+[Feb 7]
+Ballymena United      2-2 Linfield
+[Feb 8]
+Carrick Rangers       0-1 Coleraine
+Glentoran             1-0 Dungannon Swifts
+Larne                 0-1 Crusaders
+[Feb 9]
+Cliftonville          2-2 Portadown
+[Mar 4]
+Loughgall             0-2 Glenavon
+
+Round 29
+[Feb 14]
+Coleraine             1-2 Glentoran
+[Feb 15]
+Crusaders             3-1 Ballymena United
+Dungannon Swifts      3-1 Carrick Rangers
+Glenavon              3-1 Cliftonville
+Linfield              1-0 Loughgall
+Portadown             2-0 Larne
+
+Round 30
+[Feb 21]
+Cliftonville          2-0 Glentoran
+[Feb 22]
+Ballymena United      2-0 Portadown
+Carrick Rangers       0-0 Loughgall
+Glenavon              0-1 Crusaders
+Larne                 0-1 Dungannon Swifts
+Linfield              0-2 Coleraine
+
+Round 31
+[Mar 7]
+Crusaders             0-2 Linfield
+[Mar 8]
+Dungannon Swifts      0-3 Ballymena United
+Loughgall             0-1 Larne
+Portadown             1-0 Carrick Rangers
+[Mar 12]
+Glentoran             3-3 Glenavon
+[Mar 18]
+Coleraine             2-2 Cliftonville
+
+Round 32 [Mar 15]
+Ballymena United      1-0 Cliftonville
+Carrick Rangers       0-0 Glentoran
+Crusaders             1-1 Loughgall
+Linfield              2-0 Glenavon
+Larne                 1-1 Coleraine
+Portadown             1-1 Dungannon Swifts
+
+Round 33
+[Mar 22]
+Cliftonville          3-0 Carrick Rangers
+Coleraine             1-0 Portadown
+Glenavon              0-1 Larne
+Glentoran             0-1 Crusaders
+Loughgall             2-1 Ballymena United
+[Mar 24]
+Dungannon Swifts      0-3 Linfield
+
+Final Table:
+
+ 1.Linfield              33  24  4  5  61-23  76       Champions, ‹Section A, see §seca›
+ 2.Larne                 33  15  9  9  39-28  54  [C]  ‹Section A, see §seca›
+ 3.Glentoran             33  15  9  9  40-31  54       ‹Section A, see §seca›
+ 4.Dungannon Swifts      33  15  5 13  44-40  50       ‹Section A, see §seca›
+ 5.Crusaders             33  15  5 13  41-43  50       ‹Section A, see §seca›
+ 6.Coleraine             33  13 10 10  49-41  49       ‹Section A, see §seca›
+ - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Cliftonville          33  13  7 13  44-37  46       ‹Section B, see §secb›
+ 8.Portadown             33  13  7 13  39-38  46  [P]  ‹Section B, see §secb›
+ 9.Ballymena United      33  13  4 16  40-42  43       ‹Section B, see §secb›
+10.Glenavon              33  10  9 14  35-43  39       ‹Section B, see §secb›
+11.Carrick Rangers       33   6  9 18  24-48  27       ‹Section B, see §secb›
+12.Loughgall             33   4  6 23  29-71  18       ‹Section B, see §secb›
+
+Playoff Stage  ‹§play›
+
+‹Section A, see §seca› | ‹Section B, see §secb›
+
+Section A  ‹§seca›
+
+Final Table:
+
+ 1.Linfield              38  27  4  7  69-28  85       Champions
+ 2.Larne                 38  17 12  9  46-33  63  [C]
+ 3.Glentoran             38  17 10 11  49-37  61
+ 4.Dungannon Swifts      38  17  6 15  51-48  57
+ 5.Coleraine             38  15 10 13  55-50  55
+ 6.Crusaders             38  16  6 16  47-53  54
+
+Round 34 [Apr 1]
+Dungannon Swifts      1-1 Larne
+Glentoran             2-1 Coleraine
+Linfield              3-1 Crusaders
+
+Round 35 [Apr 5]
+Linfield              2-1 Glentoran
+Coleraine             3-2 Dungannon Swifts
+Crusaders             2-2 Larne
+
+Round 36 [Apr 12]
+Coleraine             1-2 Larne
+Crusaders             0-4 Glentoran
+Linfield              2-0 Dungannon Swifts
+
+Round 37
+[Apr 18]
+Larne                 2-1 Linfield
+[Apr 19]
+Crusaders             3-0 Coleraine
+Dungannon Swifts      3-2 Glentoran
+
+Round 38 [Apr 26]
+Coleraine             1-0 Linfield
+Dungannon Swifts      1-0 Crusaders
+Larne                 0-0 Glentoran
+
+Final Table:
+
+ 1.Linfield              38  27  4  7  69-28  85       Champions
+ 2.Larne                 38  17 12  9  46-33  63  [C]
+ 3.Glentoran             38  17 10 11  49-37  61
+ 4.Dungannon Swifts      38  17  6 15  51-48  57
+ 5.Coleraine             38  15 10 13  55-50  55
+ 6.Crusaders             38  16  6 16  47-53  54
+
+Section B  ‹§secb›
+
+Final Table:
+
+ 7.Cliftonville          38  17  7 14  58-41  58
+ 8.Portadown             38  16  8 14  48-45  56  [P]
+ 9.Ballymena United      38  14  5 19  47-54  47
+10.Glenavon              38  12 10 16  42-47  46
+ - - - - - - - - - - - - - - - - - - - - - - - -
+11.Carrick Rangers       38   7 11 20  32-59  32       Relegation Playoff
+------------------------------------------------
+12.Loughgall             38   5  7 26  36-85  22       Relegated
+
+Round 34 [Apr 1]
+Ballymena United      5-2 Loughgall
+Carrick Rangers       1-3 Cliftonville
+Portadown             1-1 Glenavon
+
+Round 35 [Apr 5]
+Carrick Rangers       4-1 Portadown
+Cliftonville          5-0 Ballymena United
+Glenavon              0-1 Loughgall
+
+Round 36 [Apr 12]
+Ballymena United      1-1 Carrick Rangers
+Cliftonville          2-0 Glenavon
+Portadown             3-1 Loughgall
+
+Round 37 [Apr 19]
+Glenavon              2-0 Ballymena United
+Loughgall             2-2 Carrick Rangers
+Portadown             2-0 Cliftonville
+
+Round 38 [Apr 26]
+Carrick Rangers       0-4 Glenavon
+Loughgall             1-4 Cliftonville
+Portadown             2-1 Ballymena United
+
+Final Table:
+
+ 7.Cliftonville          38  17  7 14  58-41  58
+ 8.Portadown             38  16  8 14  48-45  56  [P]
+ 9.Ballymena United      38  14  5 19  47-54  47
+10.Glenavon              38  12 10 16  42-47  46
+ - - - - - - - - - - - - - - - - - - - - - - - -
+11.Carrick Rangers       38   7 11 20  32-59  32       Relegation Playoff
+------------------------------------------------
+12.Loughgall             38   5  7 26  36-85  22       Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page nil2024›.
+
+‹list of champions, see page nilchamp›.
+
+‹list of final tables, see page nilhist›.
+
+‹list of cup finals, see page nilcuphist›.
+
+‹list of league cup finals, see page nilleagcuphist›.
+
+‹list of gold cup winners, see page nilgoldcuphist›.
+
+‹list of topscorers, see page niltops›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Thanks to Martin Arenlind
+
+Prepared and maintained by Karel Stokkermans
+the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 3 May 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

@@ -1,0 +1,715 @@
+  <!--
+     source: https://rsssf.org/tablesa/alba2025.html
+    -->
+  
+
+
+== Albania 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Kategoria Superiore, see §super›
+‹Kupa e Shqipërisë, see §kupa›
+‹Liga e parë, see §pare›
+‹Liga e dytë, see §dyte›
+‹Liga e tretë, see §trete›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Kategoria Superiore  ‹§super›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Top-4 Playoff, see §top4›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.FK Egnatia Rrogozhinë    36  16 11  9  47-30  59  [C]  ‹Qualified, see §top4›
+ 2.KF Vllaznia Shkodër      36  15 12  9  54-39  57       ‹Qualified, see §top4›
+ 3.FC Dinamo City Tiranë    36  14 13  9  49-41  55       ‹Qualified, see §top4›
+ 4.KF Partizani Tiranë      36  13 14  9  38-33  53       ‹Qualified, see §top4›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.AF Elbasani              36  11 17  8  40-38  50  [P]
+ 6.KF Teuta Durrës          36  10 14 12  29-42  44
+ 7.KF Bylis Ballshi         36  11  9 16  33-50  42  [P]
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8.KF Tirana                36   7 18 11  43-44  39       ‹Relegation Playoff, see §prorel›
+---------------------------------------------------
+ 9.KF Skënderbeu Korçë      36   9 11 16  35-45  38       Relegated
+10.KF Laçi                  36   8 13 15  31-37  37       Relegated
+
+Round 1
+[Aug 18]
+Dinamo        0-2 Egnatia
+Teuta         2-1 Bylis
+[Aug 19]
+Laçi          0-0 Tirana
+Partizani     0-1 Vllaznia
+Skënderbeu    1-1 Elbasani
+
+Round 2
+[Aug 25]
+Egnatia       2-1 Laçi
+Partizani     2-1 Skënderbeu
+Vllaznia      2-2 Tirana
+[Aug 26]
+Bylis         1-0 Dinamo
+Elbasani      3-0 Teuta
+
+Round 3
+[Aug 31]
+Laçi          0-0 Bylis
+Skënderbeu    1-0 Vllaznia
+Teuta         0-2 Partizani
+[Sep 1]
+Dinamo        2-1 Elbasani
+Tirana        1-1 Egnatia
+
+Round 4
+[Sep 11]
+Bylis         2-2 Tirana
+Skënderbeu    2-3 Teuta
+Vllaznia      3-1 Egnatia
+[Sep 12]
+Elbasani      1-0 Laçi
+Partizani     2-2 Dinamo
+
+Round 5
+[Sep 15]
+Egnatia       4-0 Bylis
+Teuta         1-2 Vllaznia
+[Sep 16]
+Laçi          1-1 Partizani
+Dinamo        2-1 Skënderbeu
+Tirana        1-1 Elbasani
+
+Round 6
+[Sep 21]
+Skënderbeu    2-1 Laçi
+Partizani     0-0 Tirana
+[Sep 22]
+Vllaznia      2-0 Bylis
+Elbasani      0-0 Egnatia
+Teuta         1-1 Dinamo
+
+Round 7
+[Sep 27]
+Egnatia       0-2 Partizani
+[Sep 28]
+Laçi          0-1 Teuta
+Dinamo        2-1 Vllaznia
+[Sep 29]
+Bylis         0-1 Elbasani
+Tirana        2-1 Skënderbeu
+
+Round 8
+[Oct 4]
+Dinamo        2-1 Laçi
+[Oct 5]
+Partizani     1-0 Bylis
+Skënderbeu    0-1 Egnatia
+[Oct 6]
+Teuta         3-1 Tirana
+Vllaznia      0-0 Elbasani
+
+Round 9
+[Oct 19]
+Egnatia       0-0 Teuta
+Laçi          3-1 Vllaznia
+Tirana        0-0 Dinamo
+[Oct 20]
+Bylis         0-1 Skënderbeu
+Elbasani      1-1 Partizani
+
+Round 10
+[Oct 25]
+Bylis         4-0 Teuta
+Egnatia       1-1 Dinamo
+[Oct 26]
+Elbasani      1-1 Skënderbeu
+Tirana        1-1 Laçi
+Vllaznia      2-2 Partizani
+
+Round 11
+[Oct 30]
+Tirana        3-4 Vllaznia
+Laçi          2-0 Egnatia
+Skënderbeu    0-2 Partizani
+[Oct 31]
+Dinamo        1-1 Bylis
+Teuta         0-0 Elbasani
+
+Round 12
+[Nov 3]
+Egnatia       1-0 Tirana
+Vllaznia      2-0 Skënderbeu
+[Nov 4]
+Bylis         0-0 Laçi
+Elbasani      0-5 Dinamo
+Partizani     1-1 Teuta
+
+Round 13
+[Nov 9]
+Egnatia       1-1 Vllaznia
+Teuta         1-1 Skënderbeu
+Dinamo        1-2 Partizani
+[Nov 10]
+Laçi          1-1 Elbasani
+Tirana        4-0 Bylis
+
+Round 14
+[Nov 23]
+Skënderbeu    2-2 Dinamo
+Vllaznia      2-1 Teuta
+[Nov 24]
+Bylis         0-2 Egnatia
+Elbasani      1-1 Tirana
+Partizani     1-0 Laçi
+
+Round 15
+[Nov 29]
+Bylis         1-0 Vllaznia
+[Nov 30]
+Egnatia       3-1 Elbasani
+Laçi          1-0 Skënderbeu
+Dinamo        2-0 Teuta
+[Dec 1]
+Tirana        0-0 Partizani
+
+Round 16
+[Dec 4]
+Elbasani      3-1 Bylis
+Teuta         1-1 Laçi
+Vllaznia      2-3 Dinamo
+[Dec 5]
+Partizani     1-1 Egnatia
+Skënderbeu    0-0 Tirana
+
+Round 17
+[Dec 8]
+Egnatia       1-0 Skënderbeu
+Laçi          0-0 Dinamo
+Elbasani      1-2 Vllaznia
+[Dec 9]
+Bylis         2-1 Partizani
+Tirana        0-0 Teuta
+
+Round 18
+[Dec 14]
+Vllaznia      2-1 Laçi
+Dinamo        2-1 Tirana
+Partizani     2-2 Elbasani
+[Dec 15]
+Skënderbeu    2-2 Bylis
+Teuta         2-1 Egnatia
+
+Halfway Table:
+
+ 1.FC Dinamo City Tiranë    18   8  7  3  28-19  31
+ 2.KF Vllaznia Shkodër      18   9  4  5  29-23  31
+ 3.KF Partizani Tiranë      18   7  9  2  23-15  30
+ 4.FK Egnatia Rrogozhinë    18   8  6  4  22-15  30  [C]
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.AF Elbasani              18   4 10  4  19-21  22  [P]
+ 6.KF Teuta Durrës          18   5  7  6  17-24  22
+ 7.KF Tirana                18   2 12  4  19-19  18
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8.KF Laçi                  18   3  8  7  14-16  17
+---------------------------------------------------
+ 9.KF Bylis Ballshi         18   4  5  9  15-26  17  [P]
+10.KF Skënderbeu Korçë      18   3  6  9  16-24  15
+
+Round 19
+[Dec 20]
+Skënderbeu    0-2 Elbasani
+Partizani     2-0 Vllaznia
+[Dec 21]
+Laçi          3-1 Tirana
+Dinamo        2-1 Egnatia
+[Dec 22]
+Teuta         0-0 Bylis
+
+Round 20
+[Jan 10]
+Bylis         2-1 Dinamo
+Egnatia       1-0 Laçi
+Vllaznia      2-1 Tirana
+[Jan 11]
+Elbasani      3-1 Teuta
+Partizani     1-1 Skënderbeu
+
+Round 21
+[Jan 18]
+Laçi          0-3 Bylis
+Tirana        0-4 Egnatia
+[Jan 19]
+Skënderbeu    0-4 Vllaznia
+Teuta         0-2 Partizani
+Dinamo        3-1 Elbasani
+
+Round 22
+[Jan 25]
+Bylis         0-3 Tirana
+Partizani     1-1 Dinamo
+Skënderbeu    2-1 Teuta
+[Jan 26]
+Elbasani      1-2 Laçi
+Vllaznia      0-2 Egnatia
+
+Round 23
+[Jan 31]
+Egnatia       2-1 Bylis
+Teuta         1-3 Vllaznia
+[Feb 1]
+Laçi          0-0 Partizani
+Dinamo        1-1 Skënderbeu
+Tirana        1-1 Elbasani
+
+Round 24
+[Feb 9]
+Partizani     1-1 Tirana
+Elbasani      1-2 Egnatia
+Vllaznia      3-0 Bylis
+[Feb 10]
+Skënderbeu    0-2 Laçi
+Teuta         0-0 Dinamo
+
+Round 25
+[Feb 15]
+Bylis         1-1 Elbasani
+Egnatia       2-0 Partizani
+Dinamo        0-0 Vllaznia
+[Feb 16]
+Laçi          3-0 Teuta
+Tirana        1-0 Skënderbeu
+
+Round 26
+[Feb 21]
+Dinamo        2-0 Laçi
+Partizani     2-3 Bylis
+Vllaznia      1-1 Elbasani
+[Feb 22]
+Skënderbeu    1-0 Egnatia
+Teuta         2-1 Tirana
+
+Round 27
+[Mar 1]
+Laçi          2-2 Vllaznia
+Elbasani      2-0 Partizani
+[Mar 2]
+Bylis         0-3 Skënderbeu
+Egnatia       1-1 Teuta
+Tirana        1-4 Dinamo
+
+Round 28
+[Mar 5]
+Egnatia       2-0 Dinamo
+Vllaznia      2-0 Partizani
+[Mar 6]
+Bylis         1-0 Teuta
+Elbasani      0-0 Skënderbeu
+Tirana        4-1 Laçi
+
+Round 29
+[Mar 10]
+Dinamo        3-1 Bylis
+Skënderbeu    1-2 Partizani
+[Mar 11]
+Laçi          1-1 Egnatia
+Tirana        0-0 Vllaznia
+Teuta         0-0 Elbasani
+
+Round 30
+[Mar 15]
+Egnatia       1-1 Tirana
+Vllaznia      1-2 Skënderbeu
+[Mar 16]
+Bylis         0-0 Laçi
+Elbasani      1-1 Dinamo
+Partizani     0-0 Teuta
+
+Round 31
+[Mar 26]
+Laçi          0-1 Elbasani
+Tirana        2-2 Bylis
+[Mar 27]
+Dinamo        1-0 Partizani
+Teuta         1-0 Skënderbeu
+Egnatia       2-2 Vllaznia
+
+Round 32
+[Mar 30]
+Skënderbeu    4-1 Dinamo
+Partizani     1-0 Laçi
+Vllaznia      0-0 Teuta
+[Mar 31]
+Bylis         0-2 Egnatia
+Elbasani      2-1 Tirana
+
+Round 33
+[Apr 6]
+Laçi          1-2 Skënderbeu
+Bylis         1-0 Vllaznia
+Dinamo        1-1 Teuta
+[Apr 7]
+Egnatia       1-2 Elbasani
+Tirana        3-0 Partizani
+
+Round 34 [Apr 12]
+Elbasani      1-0 Bylis
+Partizani     1-0 Egnatia
+Skënderbeu    1-1 Tirana
+Teuta         1-0 Laçi
+Vllaznia      3-0 Dinamo
+
+Round 35 [Apr 19]
+Bylis         1-0 Partizani
+Egnatia       0-0 Skënderbeu
+Elbasani      1-1 Vllaznia
+Tirana        0-1 Teuta
+Laçi          1-0 Dinamo
+
+Round 36 [Apr 27]
+Dinamo        0-2 Tirana
+Partizani     2-0 Elbasani
+Skënderbeu    1-2 Bylis
+Teuta         2-1 Egnatia
+Vllaznia      1-1 Laçi
+
+Final Table:
+
+ 1.FK Egnatia Rrogozhinë    36  16 11  9  47-30  59  [C]  ‹Qualified, see §top4›
+ 2.KF Vllaznia Shkodër      36  15 12  9  54-39  57       ‹Qualified, see §top4›
+ 3.FC Dinamo City Tiranë    36  14 13  9  49-41  55       ‹Qualified, see §top4›
+ 4.KF Partizani Tiranë      36  13 14  9  38-33  53       ‹Qualified, see §top4›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.AF Elbasani              36  11 17  8  40-38  50  [P]
+ 6.KF Teuta Durrës          36  10 14 12  29-42  44
+ 7.KF Bylis Ballshi         36  11  9 16  33-50  42  [P]
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8.KF Tirana                36   7 18 11  43-44  39       ‹Relegation Playoff, see §prorel›
+---------------------------------------------------
+ 9.KF Skënderbeu Korçë      36   9 11 16  35-45  38       Relegated
+10.KF Laçi                  36   8 13 15  31-37  37       Relegated
+
+Top-4 Playoff  ‹§top4›
+
+Semifinals
+[May 4, Tiranë]
+Vllaznia      2-1 Dinamo
+[May 5, Tiranë]
+Egnatia       0-0 Partizani
+
+NB: Egnatia qualified on better record regular season
+
+Third Place Match [May 10, Elbasan]
+Dinamo        1-2 Partizani
+
+Final [May 12, Tiranë]
+Egnatia       4-0 Vllaznia
+
+Promotion/Relegation Playoff  ‹§prorel›
+
+Final [May 4, Elbasan]
+Tirana        1-0 Pogradeci
+
+NB: both remain at former level
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Kupa e Shqipërisë  ‹§kupa›
+
+<!-- start pre -->
+Prelimninary Round [Sep 25]
+Naftëtari     4-2 Basania
+Murlani       3-5 Albanët
+
+Round 1 [Oct 16]
+Erzeni        1-0 Naftëtari
+Kukësi        6-0 Albanët
+AF Elbasani   4-0 Turbina
+Bylis         5-1 Adriatiku
+Flamurtari   15-1 Devolli
+Apolonia      3-0 Këlcyra
+Vora          6-1 Gramshi
+Korabi        5-2 Veleçiku
+Kastrioti     3-1 Butrinti
+Lushnja       0-1 Oriku
+Burreli       4-0 Sopoti
+Besa          4-3 Tërbuni
+Luzi 2008     5-0 Shkumbini
+Tomori        1-2 Iliria
+Pogradeci     2-0 Luftëtari
+Valbona       1-0 Besëlidhja
+
+Round 2 [Nov 20]
+Erzeni        2-1 Valbona
+Kukësi        2-1 Pogradeci
+AF Elbasani   3-1 Iliria
+Bylis         3-1 Luzi 2008
+Flamurtari    0-1 Besa
+Vora          3-1 Oriku
+Apolonia      3-1 Burreli
+Korabi        1-4 Kastrioti
+
+1/8 Finals
+[Jan 14]
+Laçi          3-1 Kukësi
+Tirana        1-2 Bylis         [aet]
+[Jan 15]
+Dinamo        6-1 Erzeni
+Teuta         0-2 AF Elbasani   [aet]
+Vllaznia      1-0 Besa          [aet]
+Partizani     2-0 Apolonia
+Skënderbeu    1-0 Vora
+Egnatia       4-0 Kastrioti
+
+Quarterfinals
+
+First Legs
+[Feb 5]
+Bylis         1-3 Egnatia
+AF Elbasani   0-0 Vllaznia
+Laçi          0-0 Partizani
+[Feb 6]
+Dinamo        0-2 Skënderbeu
+
+Second Legs
+[Feb 25]
+Vllaznia      3-3 AF Elbasani   [aet, 5-4 pen]
+Partizani     2-1 Laçi
+[Feb 26]
+Egnatia       2-2 Bylis
+Skënderbeu    0-4 Dinamo        [aet]
+
+Semifinals
+
+First Legs
+[Apr 2]
+Vllaznia      0-0 Dinamo
+[Apr 3]
+Egnatia       0-1 Partizani
+
+Second Legs [Apr 23]
+Dinamo        4-3 Vllaznia
+Partizani     0-2 Egnatia       [aet]
+
+Final [May 1, Elbasan]
+Egnatia       2-2 Dinamo        [aet, 4-5 pen]
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Liga e parë  ‹§pare›
+
+<!-- start pre -->
+Final Table:
+
+ 1.AF Vora                  33  24  4  5  55-24  76       Promoted
+ 2.Flamurtari FC Vlorë      33  23  6  4  62-21  75       Promoted
+---------------------------------------------------
+ 3.FC Besa Kavajë           33  22  8  3  54-18  74       ‹Promotion Playoff, see §2prom›
+ 4.KF Burreli               33  16 10  7  36-22  58       ‹Promotion Playoff, see §2prom›
+ 5.KF Pogradeci             33  14  7 12  33-35  49  [P]  ‹Promotion Playoff, see §2prom›
+ 6.FK Apolonia Fier         33  11 12 10  45-32  45       ‹Promotion Playoff, see §2prom›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.FC Lushnja               33  13  5 15  39-41  44
+ 8.KS Korabi Peshkopi       33  12  5 16  35-48  41
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.KS Kastrioti Krujë       33  11  5 17  35-49  38       ‹Relegation Playoff, see §2prorel›
+10.FK Kukësi                33   8  4 21  29-56  28  [R]  ‹Relegation Playoff, see §2prorel›
+---------------------------------------------------
+11.KF Valbona Bajram Curri  33   3  7 23  29-59  16   [P]  Relegated
+12.KF Erzeni Shijak         33   2  5 26  16-63  11   [R]  Relegated
+
+Promotion Playoff  ‹§2prom›
+
+Semifinals [Apr 24]
+Besa          1-1 Apolonia
+Burreli       0-1 Pogradeci
+
+NB: Besa qualified on better record regular season
+
+Final [Apr 28, Elbasan]
+Besa          0-1 Pogradeci
+
+NB: Pogradeci  qualified for ‹Promotion/Relegation Playoff, see §prorel›
+
+Promotion/Relegation Playoffs  ‹§2prorel›
+
+[Apr 26, Tiranë]
+Kukësi        1-0 Oriku
+[Apr 27, Vorë]
+Kastrioti     1-0 Luzi 2008
+
+NB: all clubs remain at former level
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Liga e dytë  ‹§dyte›
+
+<!-- start pre -->
+‹Group A, see §g2a› | ‹Group B, see §g2b› | ‹Championship Final, see §2fin›
+
+Group A  ‹§g2a›
+
+Final Table:
+
+ 1.Iliria Fushe Krujë       22  18  3  1  56-12  57       ‹Promoted, see §2fin›
+---------------------------------------------------
+ 2.KF Luzi 2008             22  18  2  2  53-16  56  [R]  ‹Promotion Playoff, see §3prom›
+ 3.KF Sopoti Librazhd       22  16  3  3  46-20  51       ‹Promotion Playoff, see §3prom›
+ 4.FK Tërbuni Pukë          22  11  5  6  39-28  38       ‹Promotion Playoff, see §3prom›
+ 5.KSSH Veleçiku Koplik     22  10  4  8  38-26  34       ‹Promotion Playoff, see §3prom›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Besëlidhja Lezhë         22  10  4  8  31-29  34
+ 7.KKS Albanët Tiranë       22   7  3 12  48-48  24       Withdrew after the season
+ 8.KF Naftëtari Kuçovë      22   6  4 12  29-31  22
+ 9.KF Adriatiku 2012 Durrës 22   6  4 12  34-44  22
+10.Basania & AM Bushat      22   5  6 11  24-39  21  [P]
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+11.KF Gramshi               22   3  5 14  27-50  14       ‹Relegation Playoff, see §3prorel›
+---------------------------------------------------
+12.KF Murlani Vau i Dejës   22   0  1 21  10-92   1       Relegated
+
+Group B  ‹§g2b›
+
+Final Table:
+
+ 1.AF Luftëtari Gjirokastër 20  16  3  1  56-11  51       ‹Promoted, see §2fin›
+---------------------------------------------------
+ 2.KF Oriku                 20  16  3  1  37- 5  51       ‹Promotion Playoff, see §3prom›
+ 3.FK Tomori Berat          20  11  2  7  39-21  35  [R]  ‹Promotion Playoff, see §3prom›
+ 4.KF Devolli               20  10  4  6  39-38  34       ‹Promotion Playoff, see §3prom›
+ 5.KF Butrinti Sarandë      20  10  3  7  35-19  33       ‹Promotion Playoff, see §3prom›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.KF Delvina               20   7  5  8  32-31  26
+ 7.KF Shkumbini Peqin       20   5  5 10  24-38  20
+ 8.Maliqi                   20   6  2 12  27-38  20
+ 9.FK Këlcyra               20   5  5 10  28-40  20
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+10.KF Turbina Cërrik        20   6  1 13  22-34  19       ‹Relegation Playoff, see §3prorel›
+---------------------------------------------------
+11.FK Memaliaj              20   1  1 18  15-79   4  [P]  Relegated
+
+Championship Final  ‹§2fin›
+
+[Apr 13, Fier]
+Iliria        1-0 Luftëtari
+
+Promotion Playoff  ‹§3prom›
+
+Semifinals Group A [Apr 12]
+Luzi 2008     2-0 Veleçiku
+Sopoti        2-0 Tërbuni
+Semifinals Group B [Apr 12]
+Oriku         1-1 Butrinti
+Tomori        2-1 Devolli
+
+NB: Oriku qualified on better record regular season
+
+Final Group A [Apr 19, Tiranë]
+Luzi 2008     4-0 Sopoti
+Final Group B [Apr 19, Vorë]
+Oriku         3-2 Tomori
+
+NB: Luzi 2008 and Oriku qualified for ‹Promotion/Relegation Playoff, see §2prorel›
+
+Promotion/Relegation Playoff  ‹§3prorel›
+
+[Apr 14, Vlorë]
+Gramshi       1-1 Turbina       [aet, 5-4 pen]
+
+NB: Gramshi remain at third level
+
+[Apr 20, Elbasan]
+Turbina       0-3 Partizani B
+
+NB: Partizani B promoted, Turbina relegated
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Liga e tretë  ‹§trete›
+
+<!-- start pre -->
+‹Group A, see §g3a› | ‹Group B, see §g3b› | ‹Championship Final, see §3fin›
+
+Group A  ‹§g3a›
+
+Final Table:
+
+ 1.Eagle FA Tiranë          14  10  4  0  32-11  34       ‹Promoted, see §3fin›
+---------------------------------------------------
+ 2.KF Partizani B Tiranë    14  10  2  2  48-11  32  [N]  ‹Promotion Playoff, see §4prom›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Shiroka                  14   8  2  4  31-17  26  [N]
+ 4.FC Bulqiza               14   7  2  5  31-25  23
+ 5.KF Klosi                 14   6  2  6  25-28  20
+ 6.Europiani Tiranë         14   4  4  6  16-22  16  [N]
+ 7.KF Himara                14   1  1 12  14-48   4
+ 8.Olimpic Shkodra          14   1  1 12  12-47   4  [N]
+
+NB: after the season, Shiroka (Shirokë) were promoted by choice following the withdrawal
+    of Albanët Tiranë
+
+Group B  ‹§g3b›
+
+Final Table:
+
+ 1.KF Bylis B Ballshi       14  12  0  2  42-20  36  [N]  ‹Promoted, see §3fin›
+---------------------------------------------------
+ 2.SHS Albpetrol Patos      14  10  3  1  35-11  33       ‹Promotion Playoff, see §4prom›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.FC Gramozi Ersekë        14   9  3  2  34-15  30
+ 3.KF Osumi Urë Vajgurore   14   6  0  8  21-25  18
+ 6.Labëria SK Vlorë         14   5  2  7  32-25  17  [R]
+ 7.Përmeti FK 1930          14   4  3  7  20-27  15
+ 7.FK Skrapari              14   2  1 11  12-45   7
+ 4.FK Tepelena              14   2  0 12  16-44   6
+
+Championship Final  ‹§3fin›
+
+[Apr 30, Tiranë]
+Eagle FA      2-3 Bylis B
+
+Promotion Playoff  ‹§4prom›
+
+[Apr 14, Vorë]
+Partizani B   3-0 Albpetrol
+
+NB: Partizani B qualified for ‹Promotion/Relegation Playoff, see §3prorel›
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page alba2024›.
+
+‹list of champions, see page albachamp›.
+
+‹list of cup winners, see page albacuphist›.
+
+‹list of super cup winners, see page albasupcuphist›.
+
+‹list of foundation dates, see page albafound›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans
+the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 17 Nov 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

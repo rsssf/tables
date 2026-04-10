@@ -1,0 +1,87 @@
+  <!--
+     source: https://rsssf.org/tablesn/nmi2026.html
+    -->
+  
+
+
+== Northern Marianas 2026
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Marianas Soccer League 1, see §msl1›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Marianas Soccer League 1  ‹§msl1›
+
+<!-- start pre -->
+NB: the abundance of 5-0 results is caused by the so-called "skunk rule", which
+    stipulates that a match cannot be won by a goal differential exceeding five.
+
+Table:
+
+ 1.Kanoa FC                     4   4  0  0  18- 3  12  [C]
+ 2.MP United FC                 4   3  0  1  16- 5   9
+ 3.Matansa FC                   4   2  0  2   8- 8   6
+ 4.Men's Development Team       4   0  1  3   3-16   1
+ 5.Latte FC                     4   0  1  3   2-15   1  [N]
+
+Round 1 [Feb 22]
+Kanoa                   3-2 MP United
+Latte                   2-2 Men's Development Team
+Matansa                 bye
+
+Round 2 [Mar 1]
+Men's Development Team  0-3 Matansa
+MP United               5-0 Latte
+Kanoa                   bye
+
+Round 3 [Mar 8]
+Latte                   0-5 Kanoa
+Matansa                 1-3 MP United
+Men's Development Team  bye
+
+Round 4 [Mar 22]
+MP United               6-1 Men's Development Team
+Kanoa                   5-1 Matansa
+Latte                   bye
+
+Round 5
+[Mar 29]
+Matansa                 3-0 Latte
+[Apr 2]
+Men's Development Team  0-5 Kanoa
+MP United               bye
+
+Table:
+
+ 1.Kanoa FC                     4   4  0  0  18- 3  12  [C]
+ 2.MP United FC                 4   3  0  1  16- 5   9
+ 3.Matansa FC                   4   2  0  2   8- 8   6
+ 4.Men's Development Team       4   0  1  3   3-16   1
+ 5.Latte FC                     4   0  1  3   2-15   1  [N]
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2025, see page nmi2025›
+
+‹list of champions, see page nmarianaschamp›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 9 Apr 2026
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2026
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

@@ -1,0 +1,788 @@
+  <!--
+     source: https://rsssf.org/tablesi/india2025.html
+    -->
+  
+
+
+== India 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹ISL 2024/25, see §circus›
+‹Santosh Trophy 2024, see §santosh›
+‹Durand Cup 2024, see §durand›
+‹Governor's Gold Cup (Sikkim) 2024, see §sikkimgov›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== ISL 2024/25  ‹§circus›
+
+<!-- start pre -->
+‹Regular Stage, see §circreg› | ‹Playoff Stage, see §circpo›
+
+Regular Stage  ‹§circreg›
+
+Final Table:
+
+ 1.Mohun Bagan SG                24  17  5  2  47-16  56                      ‹Qualified, see §circpo›
+ 2.FC Goa                        24  14  6  4  43-27  48                      ‹Qualified, see §circpo›
+ 3.Bengaluru FC                  24  11  5  8  40-31  38  [4 2 1 1 7]  [4-2]  ‹Qualified, see §circpo›
+ 4.NorthEast United FC           24  10  8  6  46-29  38  [4 2 1 1 7]  [2-4]  ‹Qualified, see §circpo›
+ 5.Jamshedpur FC                 24  12  2 10  37-43  38  [4 1 0 3 3]         ‹Qualified, see §circpo›
+ 6.Mumbai City FC                24   9  9  6  29-28  36  [C]                 ‹Qualified, see §circpo›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Odisha FC                     24   8  9  7  44-37  33
+ 8.Kerala Blasters FC            24   8  5 11  33-37  29
+ 9.East Bengal FC                24   8  4 12  27-33  28  [2 2 0 0 6]
+10.Punjab FC                     24   8  4 12  34-38  28  [2 0 0 2 0]
+11.Chennaiyin FC                 24   7  6 11  34-39  27
+12.Hyderabad FC                  24   4  6 14  22-47  18
+13.Mohammedan SC                 24   2  7 15  12-43  13  [P]
+
+[Sep 13]
+Mohun Bagan         2-2 Mumbai City FC
+[Sep 14]
+Odisha FC           2-3 Chennaiyin FC
+Bengaluru FC        1-0 East Bengal FC
+[Sep 15]
+Kerala Blasters FC  1-2 Punjab FC
+[Sep 16]
+Mohammedan SC       0-1 NorthEast United FC
+[Sep 17]
+FC Goa              1-2 Jamshedpur FC
+[Sep 19]
+Bengaluru FC        3-0 Hyderabad FC
+[Sep 20]
+Punjab FC           2-1 Odisha FC
+[Sep 21]
+Jamshedpur FC       3-2 Mumbai City FC
+Mohammedan SC       1-1 FC Goa
+[Sep 22]
+Kerala Blasters FC  2-1 East Bengal FC
+[Sep 23]
+Mohun Bagan         3-2 NorthEast United FC
+[Sep 25]
+Punjab FC           2-0 Hyderabad FC
+[Sep 26]
+Chennaiyin FC       0-1 Mohammedan SC
+[Sep 27]
+East Bengal FC      2-3 FC Goa
+[Sep 28]
+Odisha FC           2-1 Jamshedpur FC
+Bengaluru FC        3-0 Mohun Bagan
+[Sep 29]
+NorthEast United FC 1-1 Kerala Blasters FC
+
+[Oct 1]
+Hyderabad FC        0-0 Chennaiyin FC
+[Oct 2]
+Mumbai City FC      0-0 Bengaluru FC
+[Oct 3]
+Odisha FC           2-2 Kerala Blasters FC
+[Oct 4]
+FC Goa              3-3 NorthEast United FC
+[Oct 5]
+Jamshedpur FC       2-0 East Bengal FC
+Mohun Bagan         3-0 Mohammedan SC
+[Oct 17]
+NorthEast United FC 2-3 Chennaiyin FC
+[Oct 18]
+Bengaluru FC        1-0 Punjab FC
+[Oct 19]
+FC Goa              1-2 Mumbai City FC
+East Bengal FC      0-2 Mohun Bagan
+[Oct 20]
+Mohammedan SC       1-2 Kerala Blasters FC
+[Oct 21]
+Jamshedpur FC       2-1 Hyderabad FC
+[Oct 22]
+Odisha FC           2-1 East Bengal FC
+[Oct 24]
+Chennaiyin FC       2-2 FC Goa
+[Oct 25]
+Kerala Blasters FC  1-3 Bengaluru FC
+[Oct 26]
+NorthEast United FC 5-0 Jamshedpur FC
+Mohammedan SC       0-4 Hyderabad FC
+[Oct 27]
+Mumbai City FC      1-1 Odisha FC
+[Oct 30]
+Hyderabad FC        0-2 Mohun Bagan
+[Oct 31]
+Punjab FC           3-2 Chennaiyin FC
+
+[Nov 2]
+FC Goa              3-0 Bengaluru FC
+[Nov 3]
+NorthEast United FC 3-2 Odisha FC
+Mumbai City FC      4-2 Kerala Blasters FC
+[Nov 4]
+Jamshedpur FC       1-5 Chennaiyin FC
+[Nov 6]
+FC Goa              2-1 Punjab FC
+[Nov 7]
+Kerala Blasters FC  1-2 Hyderabad FC
+[Nov 8]
+Bengaluru FC        2-2 NorthEast United FC
+[Nov 9]
+Chennaiyin FC       1-1 Mumbai City FC
+East Bengal FC      0-0 Mohammedan SC
+[Nov 10]
+Odisha FC           1-1 Mohun Bagan
+[Nov 23]
+Punjab FC           1-2 NorthEast United FC
+Mohun Bagan         3-0 Jamshedpur FC
+[Nov 24]
+Kerala Blasters FC  3-0 Chennaiyin FC
+[Nov 25]
+Hyderabad FC        0-6 Odisha FC
+[Nov 26]
+Mumbai City FC      0-3 Punjab FC
+[Nov 27]
+Mohammedan SC       1-2 Bengaluru FC
+[Nov 28]
+Kerala Blasters FC  0-1 FC Goa
+[Nov 29]
+East Bengal FC      1-0 NorthEast United FC
+[Nov 30]
+Mumbai City FC      1-0 Hyderabad FC
+Mohun Bagan         1-0 Chennaiyin FC
+
+[Dec 1]
+Odisha FC           4-2 Bengaluru FC
+[Dec 2]
+Jamshedpur FC       3-1 Mohammedan SC
+[Dec 4]
+Hyderabad FC        0-2 FC Goa
+[Dec 5]
+Odisha FC           0-0 Mumbai City FC
+[Dec 6]
+Punjab FC           2-0 Mohammedan SC
+[Dec 7]
+Chennaiyin FC       0-2 East Bengal FC
+Bengaluru FC        4-2 Kerala Blasters FC
+[Dec 8]
+NorthEast United FC 0-2 Mohun Bagan
+[Dec 11]
+Chennaiyin FC       1-0 Hyderabad FC
+[Dec 12]
+East Bengal FC      1-2 Odisha FC
+[Dec 13]
+Jamshedpur FC       2-1 Punjab FC
+[Dec 14]
+Bengaluru FC        2-2 FC Goa
+Mohun Bagan         3-2 Kerala Blasters FC
+[Dec 15]
+Mohammedan SC       0-1 Mumbai City FC
+[Dec 17]
+East Bengal FC      4-2 Punjab FC
+[Dec 20]
+FC Goa              2-1 Mohun Bagan
+[Dec 21]
+Mumbai City FC      1-0 Chennaiyin FC
+East Bengal FC      1-0 Jamshedpur FC
+[Dec 22]
+Kerala Blasters FC  3-0 Mohammedan SC
+[Dec 23]
+Hyderabad FC        2-5 NorthEast United FC
+[Dec 26]
+Punjab FC           1-3 Mohun Bagan
+[Dec 27]
+Mohammedan SC       0-0 Odisha FC
+[Dec 28]
+Hyderabad FC        1-1 East Bengal FC
+Chennaiyin FC       2-4 Bengaluru FC
+[Dec 29]
+Jamshedpur FC       1-0 Kerala Blasters FC
+[Dec 30]
+Mumbai City FC      0-3 NorthEast United FC
+
+[Jan 2]
+Mohun Bagan         3-0 Hyderabad FC
+[Jan 3]
+NorthEast United FC 0-0 Mohammedan SC
+[Jan 4]
+Odisha FC           2-4 FC Goa
+Jamshedpur FC       2-1 Bengaluru FC
+[Jan 5]
+Punjab FC           0-1 Kerala Blasters FC
+[Jan 6]
+East Bengal FC      2-3 Mumbai City FC
+[Jan 8]
+FC Goa              1-1 Hyderabad FC
+[Jan 9]
+Chennaiyin FC       2-2 Odisha FC
+[Jan 10]
+NorthEast United FC 1-1 Punjab FC
+[Jan 11]
+Bengaluru FC        0-1 Mohammedan SC
+Mohun Bagan         1-0 East Bengal FC
+[Jan 12]
+Mumbai City FC      0-3 Jamshedpur FC
+[Jan 13]
+Kerala Blasters FC  3-2 Odisha FC
+[Jan 14]
+NorthEast United FC 1-1 FC Goa
+[Jan 15]
+Mohammedan SC       2-2 Chennaiyin FC
+[Jan 16]
+Punjab FC           1-1 Mumbai City FC
+[Jan 17]
+Jamshedpur FC       1-1 Mohun Bagan
+[Jan 18]
+Hyderabad FC        1-1 Bengaluru FC
+Kerala Blasters FC  0-0 NorthEast United FC
+[Jan 19]
+FC Goa              1-0 East Bengal FC
+[Jan 21]
+Chennaiyin FC       0-0 Mohun Bagan
+[Jan 22]
+Bengaluru FC        2-3 Odisha FC
+[Jan 23]
+Hyderabad FC        3-2 Jamshedpur FC
+[Jan 24]
+East Bengal FC      2-1 Kerala Blasters FC
+[Jan 25]
+FC Goa              2-0 Chennaiyin FC
+[Jan 26]
+Mumbai City FC      3-0 Mohammedan SC
+[Jan 27]
+Mohun Bagan         1-0 Bengaluru FC
+[Jan 28]
+Punjab FC           1-2 Jamshedpur FC
+[Jan 29]
+NorthEast United FC 4-1 Hyderabad FC
+[Jan 30]
+Chennaiyin FC       1-3 Kerala Blasters FC
+[Jan 31]
+Mumbai City FC      0-0 East Bengal FC
+
+[Feb 1]
+Punjab FC           3-2 Bengaluru FC
+Mohammedan SC       0-4 Mohun Bagan
+[Feb 2]
+Jamshedpur FC       3-1 FC Goa
+[Feb 3]
+Odisha FC           2-2 NorthEast United FC
+[Feb 5]
+Mohun Bagan         3-0 Punjab FC
+[Feb 6]
+FC Goa              2-1 Odisha FC
+[Feb 7]
+NorthEast United FC 0-2 Mumbai City FC
+[Feb 8]
+Hyderabad FC        3-1 Mohammedan SC
+East Bengal FC      0-3 Chennaiyin FC
+[Feb 9]
+Bengaluru FC        3-0 Jamshedpur FC
+[Feb 10]
+Odisha FC           1-1 Punjab FC
+[Feb 12]
+Mumbai City FC      1-3 FC Goa
+[Feb 13]
+Jamshedpur FC       0-2 NorthEast United FC
+[Feb 14]
+Odisha FC           3-1 Hyderabad FC
+[Feb 15]
+Chennaiyin FC       2-1 Punjab FC
+Kerala Blasters FC  0-3 Mohun Bagan
+[Feb 16]
+Mohammedan SC       1-3 East Bengal FC
+[Feb 19]
+Hyderabad FC        0-0 Mumbai City FC
+[Feb 20]
+Mohammedan SC       0-2 Jamshedpur FC
+[Feb 21]
+NorthEast United FC 0-2 Bengaluru FC
+[Feb 22]
+Punjab FC           1-3 East Bengal FC
+FC Goa              2-0 Kerala Blasters FC
+[Feb 23]
+Mohun Bagan         1-0 Odisha FC
+[Feb 25]
+Bengaluru FC        1-0 Chennaiyin FC
+[Feb 26]
+East Bengal FC      2-0 Hyderabad FC
+[Feb 27]
+Punjab FC           0-1 FC Goa
+[Feb 28]
+Odisha FC           0-0 Mohammedan SC
+
+[Mar 1]
+Mumbai City FC      2-2 Mohun Bagan
+Kerala Blasters FC  1-1 Jamshedpur FC
+[Mar 2]
+East Bengal FC      1-1 Bengaluru FC
+[Mar 3]
+Chennaiyin FC       0-3 NorthEast United FC
+[Mar 4]
+FC Goa              2-0 Mohammedan SC
+[Mar 5]
+Jamshedpur FC       2-3 Odisha FC
+[Mar 6]
+Hyderabad FC        1-3 Punjab FC
+[Mar 7]
+Kerala Blasters FC  1-0 Mumbai City FC
+[Mar 8]
+NorthEast United FC 4-0 East Bengal FC
+Mohun Bagan         2-0 FC Goa
+[Mar 9]
+Chennaiyin FC       5-2 Jamshedpur FC
+[Mar 10]
+Mohammedan SC       2-2 Punjab FC
+[Mar 11]
+Bengaluru FC        0-2 Mumbai City FC
+[Mar 12]
+Hyderabad FC        1-1 Kerala Blasters FC
+
+Final Table:
+
+ 1.Mohun Bagan SG                24  17  5  2  47-16  56                      ‹Qualified, see §circpo›
+ 2.FC Goa                        24  14  6  4  43-27  48                      ‹Qualified, see §circpo›
+ 3.Bengaluru FC                  24  11  5  8  40-31  38  [4 2 1 1 7]  [4-2]  ‹Qualified, see §circpo›
+ 4.NorthEast United FC           24  10  8  6  46-29  38  [4 2 1 1 7]  [2-4]  ‹Qualified, see §circpo›
+ 5.Jamshedpur FC                 24  12  2 10  37-43  38  [4 1 0 3 3]         ‹Qualified, see §circpo›
+ 6.Mumbai City FC                24   9  9  6  29-28  36  [C]                 ‹Qualified, see §circpo›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Odisha FC                     24   8  9  7  44-37  33
+ 8.Kerala Blasters FC            24   8  5 11  33-37  29
+ 9.East Bengal FC                24   8  4 12  27-33  28  [2 2 0 0 6]
+10.Punjab FC                     24   8  4 12  34-38  28  [2 0 0 2 0]
+11.Chennaiyin FC                 24   7  6 11  34-39  27
+12.Hyderabad FC                  24   4  6 14  22-47  18
+13.Mohammedan SC                 24   2  7 15  12-43  13  [P]
+
+Playoff Stage  ‹§circpo›
+
+Round 1
+[Mar 29]
+Bengaluru FC        5-0 Mumbai City FC
+[Mar 30]
+NorthEast United FC 0-2 Jamshedpur FC
+
+Semifinals
+
+First Legs
+[Apr 2]
+Bengaluru FC        2-0 FC Goa
+[Apr 3]
+Jamshedpur FC       2-1 Mohun Bagan
+
+Second Legs
+[Apr 6]
+FC Goa              2-1 Bengaluru FC
+[Apr 7]
+Mohun Bagan         2-0 Jamshedpur FC
+
+Final [Apr 12]
+Mohun Bagan         2-1 Bengaluru FC        [aet]
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== 78th Santosh Trophy 2024  ‹§santosh›
+
+<!-- start pre -->
+Group Stage
+
+NB: Telangana (hosts), Goa and Services (finalists 2023/24) qualified
+    for final stage automatically
+
+Group A [Amritsar]
+[Nov 20]
+Ladakh              2-1 Himachal Pradesh
+Jammu & Kashmir     1-0 Punjab
+[Nov 22]
+Himachal Pradesh    1-4 Jammu & Kashmir
+Punjab              1-1 Ladakh
+[Nov 24]
+Jammu & Kashmir     5-0 Ladakh
+Himachal Pradesh    0-7 Punjab
+
+Final Table:
+
+ 1.Jammu and Kashmir              3   3  0  0  10- 1   9  Qualified
+ 2.Punjab                         3   1  1  1   8- 2   4
+ 3.Ladakh                         3   1  1  1   3- 7   4
+ 4.Himachal Pradesh               3   0  0  3   2-13   0
+
+Group B [Phagwara]
+[Nov 26]
+Chandigarh          0-6 Delhi
+Uttarakhand         4-1 Haryana
+[Nov 28]
+Delhi               4-1 Uttarakhand
+Haryana             1-0 Chandigarh
+[Nov 30]
+Chandigarh          0-4 Uttarakhand
+Haryana             0-2 Delhi
+
+Final Table:
+
+ 1.Delhi                          3   3  0  0  12- 1   9  Qualified
+ 2.Uttarakhand                    3   2  0  1   9- 5   6
+ 3.Haryana                        3   1  0  2   2- 6   3
+ 4.Chandigarh                     3   0  0  3   0-11   0
+
+Group C [Kalyani]
+[Nov 16]
+Uttar Pradesh       1-2 Bihar
+Jharkhand           0-4 West Bengal
+[Nov 18]
+Bihar               3-5 Jharkhand
+West Bengal         7-0 Uttar Pradesh
+[date?]
+West Bengal         0-0 Bihar
+Uttar Pradesh       2-1 Jharkhand
+
+Final Table:
+
+ 1.West Bengal                    3   2  1  0  11- 0   7  Qualified
+ 2.Bihar                          3   1  1  1   5- 6   4
+ 3.Uttar Pradesh                  3   1  0  2   3-10   3
+ 4.Jharkhand                      3   1  0  2   6- 9   3
+
+Group D [Agartala]
+[Nov 15]
+Tripura             4-1 Mizoram
+Manipiur            6-1 Sikkim
+[Nov 17]
+Mizoram             1-2 Manipur
+Sikkim              0-0 Tripura
+[Nov 19]
+Tripura             0-2 Manipur
+Sikkim              0-7 Mizoram
+
+Final Table:
+
+ 1.Manipur                        3   3  0  0  10- 2   9  Qualified
+ 2.Tripura                        3   1  1  1   4- 3   4
+ 3.Mizoram                        3   1  0  2   9- 6   3
+ 4.Sikkim                         3   0  1  2   1-13   1
+
+Group E [Nalbari]
+[Nov 20]
+Meghalaya           4-3 Arunachal Pradesh
+Assam               1-2 Nagaland
+[Nov 22]
+Nagaland            0-3 Meghalaya
+Arunachal Pradesh   0-4 Assam
+[Nov 24]
+Assam               1-1 Meghalaya
+Arunachal Pradesh   4-3 Nagaland
+
+Final Table:
+
+ 1.Meghalaya                      3   2  1  0   8- 4   7  Qualified
+ 2.Assam                          3   1  1  1   6- 3   4
+ 3.Arunachal Pradesh              3   1  0  2   7-11   3
+ 4.Nagaland                       3   1  0  2   5- 8   3
+
+Group F [Amritsar]
+[Nov 21]
+Odisha              6-1 Madhya Pradesh
+[Nov 23]
+Chhattisgarh        1-4 Odisha
+[Nov 25]
+Madhya Pradesh      1-4 Chhattisgarh
+
+Final Table:
+
+ 1.Odisha                         2   2  0  0  10- 2   6  Qualified
+ 2.Chhattisgarh                   2   1  0  1   5- 5   3
+ 3.Madhya Pradesh                 2   0  0  2   2-10   0
+
+Group G [Anantpur]
+[Nov 15]
+Tamil Nadu          7-0 Andaman & Nicobar
+Andhra Pradesh      0-5 Karnataka
+[Nov 17]
+Andaman & Nicobar   1-0 Andhra Pradesh
+Karnataka           1-2 Tamil Nadu
+[Nov 19]
+Tamil Nadu          8-0 Andhra Pradesh
+Karnataka          11-0 Andaman & Nicobar
+
+Final Table:
+
+ 1.Tamil Nadu                     3   3  0  0  17- 1   9  Qualified
+ 2.Karnataka                      3   2  0  1  17- 2   6
+ 3.Andaman and Nicobar            3   1  0  2   1-18   3
+ 4.Andhra Pradesh                 3   0  0  3   0-14   0
+
+Group H [Kozhikode]
+[Nov 20]
+Pondicherry         3-2 Lakshadweep
+Kerala              1-0 Railways
+[Nov 22]
+Railways           10-1 Pondicherry
+Lakshadweep        0-10 Kerala
+[Nov 24]
+Lakshadweep         0-1 Railways
+Kerala              7-0 Pondicherry
+
+Final Table:
+
+ 1.Kerala                         3   3  0  0  18- 0   9  Qualified
+ 2.Railways                       3   2  0  1  11- 2 ' 6
+ 3.Pondicherry                    3   1  0  2   4-19   3
+ 4.Lakshadweep                    3   0  0  3   2-14   0
+
+Group I [Jaipur]
+[Nov 16]
+Rajasthan           2-1 Maharashtra
+Gujarat             3-0 DNHDD
+[Nov 18]
+Rajasthan           0-0 Gujarat
+DNHDD               0-3 Maharashtra
+[Nov 20]
+DNHDD               0-4 Rajasthan
+Maharashtra         0-0 Gujarat
+
+Final Table:
+
+ 1.Rajasthan                      3   2  1  0   6- 1   7  Qualified
+ 2.Gujarat                        3   1  2  0   3- 0   5
+ 3.Maharashtra                    3   1  1  1   4- 2   4
+ 4.DNHDD                          3   0  0  3   0-10   0  [Dadra & Nagar Haveli and Daman & Diu]
+
+Final Stage
+
+NB: top-4 from both groups qualify for quarterfinals
+
+Group A
+[Dec 14]
+Manipur             1-0 Services
+Telangana           1-1 Rajasthan
+West Bengal         3-1 Jammu & Kashmir
+[Dec 16]
+Services            4-0 Jammu & Kashmir
+West Bengal         3-0 Telangana
+Manipur             2-1 Rajasthan
+[Dec 18]
+Jammu & Kashmir     1-1 Manipur
+Rajasthan           0-2 West Bengal
+Services            3-1 Telangana
+[Dec 21]
+Telangana           0-3 Jammu & Kashmir
+Rajasthan           0-2 Services
+West Bengal         0-0 Manipur
+[Dec 23]
+Jammu & Kashmir     1-0 Rajasthan
+Manipur             3-1 Telangana
+Services            0-1 West Bengal
+
+Final Table:
+
+ 1.West Bengal                    5   4  1  0   9- 1  13  Quarterfinals
+ 2.Manipur                        5   3  2  0   7- 3  11  Quarterfinals
+ 3.Services                       5   3  0  2   9- 3   9  Quarterfinals
+ 4.Jammu and Kashmir              5   2  1  2   6- 8   7  Quarterfinals
+ 5.Rajasthan                      5   0  1  4   2- 8   1
+ 6.Telangana                      5   0  1  4   3-13   1
+
+Group B
+[Dec 15]
+Kerala              4-3 Goa
+Tamil Nadu          2-2 Meghalaya
+Delhi               2-0 Odisha
+[Dec 17]
+Goa                 0-2 Odisha
+Delhi               2-0 Tamil Nadu
+Kerala              1-0 Meghalaya
+[Dec 19]
+Odisha              0-2 Kerala
+Meghalaya           2-0 Delhi
+Goa                 1-0 Tamil Nadu
+[Dec 22]
+Tamil Nadu          1-1 Odisha
+Meghalaya           1-0 Goa
+Delhi               0-3 Kerala
+[Dec 24]
+Odisha              0-0 Meghalaya
+Kerala              1-1 Tamil Nadu
+Goa                 0-0 Delhi
+
+Final Table:
+
+ 1.Kerala                         5   4  1  0  11- 4  13  Quarterfinals
+ 2.Meghalaya                      5   2  2  1   5- 3   8  Quarterfinals
+ 3.Delhi                          5   2  1  2   4- 5   7  Quarterfinals
+ 4.Odisha                         5   1  2  2   3- 5   4  Quarterfinals
+ 5.Goa                            5   1  1  3   4- 7   4
+ 6.Tamil Nadu                     5   0  3  2   4- 7   3
+
+Quarterfinals
+[Dec 26]
+West Bengal         3-1 Odisha
+Manipur             5-2 Delhi               [aet]
+[Dec 27]
+Kerala              1-0 Jammu & Kashmir
+Meghalaya           1-2 Services
+
+Semifinals [Dec 29]
+West Bengal         4-2 Services
+Kerala              5-1 Manipur
+
+Final [Dec 31]
+West Bengal         1-0 Kerala
+  [Robi Hansda 90+4]
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Durand Cup 2024  ‹§durand›
+
+<!-- start pre -->
+Group Stage
+
+Final Tables:
+
+Group A
+ 1.Mohun Bagan SG                 3   2  1  0   7- 0   7  Quarterfinals
+ 2.East Bengal                    3   2  1  0   6- 2   7  Quarterfinals
+ 3.Downtown Heroes                3   1  0  2   3- 4   3
+ 4.Indian Air Force               3   0  0  3   1-11   0
+
+Group B
+ 1.Bengaluru                      3   3  0  0  10- 2   9  Quarterfinals
+ 2.Mohammedan                     3   1  1  1   4- 4   4
+ 3.Inter Kashi                    3   1  1  1   3- 5   4
+ 4.Indian Navy                    3   0  0  3   1- 7   0
+
+Group C
+ 1.Kerala Blasters                3   2  1  0  16- 1   7  Quarterfinals
+ 2.Punjab                         3   2  1  0   7- 1   7  Quarterfinals
+ 3.CISF Protectors                3   1  0  2   2-10   3
+ 4.Mumbai City                    3   0  0  3   0-13   0
+
+Group D
+ 1.Indian Army                    3   3  0  0   7- 2   9  Quarterfinals
+ 2.Jamshedpur                     3   2  0  1   7- 4   6
+ 3.Chennaiyin                     3   1  0  2   3- 4   3
+ 4.Assam Rifles                   3   0  0  3   1- 8   0
+
+Group E
+ 1.North East United              3   3  0  0  11- 1   9  Quarterfinals
+ 2.Bodoland                       3   2  0  1   6- 5   6
+ 3.Odisha                         3   1  0  2   6- 7   3
+ 4.BSF                            3   0  0  3   3-13   0
+
+Group F
+ 1.Shillong Lajong                3   2  1  0   4- 1   7  Quarterfinals
+ 2.Goa                            3   2  1  0   7- 5   7
+ 3.Tribhuvan Army [Nepal]         3   1  0  2   5- 3   3
+ 4.Rangdajied United              3   0  0  3   3-10   0
+
+NB: Punjab and East Bengal qualified as "best" runners-up
+
+Quarterfinals
+[Aug 21]
+NorthEast United FC 2-0 Indian Army
+Shillong Lajong     2-1 East Bengal FC
+[Aug 23]
+Mohun Bagan         3-3 Punjab FC           [6-5 pen]
+Bengaluru FC        1-0 Kerala Blasters FC
+
+Semifinals
+[Aug 26]
+NorthEast United FC 3-0 Shillong Lajong
+[Aug 27]
+Mohun Bagan         2-2 Bengaluru FC        [4-3 pen]
+
+Final [Aug 31]
+Mohun Bagan         2-2 NorthEast United FC [3-4 pen]
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Governor's Gold Cup (Sikkim) 2024  ‹§sikkimgov›
+
+<!-- start pre -->
+NB: played in Gangtok, Sikkim
+
+1/8 Finals
+[Nov 12]
+Sikkim Police       3-4 Gokulam Kerala
+[Nov 13]
+Gangtok Himalayan   1-1 Sudeva Delhi FC     [4-3 pen]
+[Nov 14]
+Khawzawi Vengthar   1-3 NorthEast United FC
+[Nov 15]
+Chennaiyin FC       1-0 Diamond Harbour
+
+Quarterfinals
+[Nov 16]
+Gokulam Kerala      2-1 Transport United
+[Nov 17]
+Gangtok Himalayan   3-0 Kelantan Darul Naim
+[Nov 18]
+NorthEast United FC 6-1 Royal FC Dubai
+[Nov 19]
+Chennaiyin FC       1-0 Church Boys United
+
+Semifinals
+[Nov 20]
+Gokulam Kerala      0-2 NorthEast United FC
+[Nov 21]
+Gangtok Himalayan   2-1 Chennaiyin FC
+
+Final [Nov 24]
+NorthEast United FC 0-0 Gangtok Himalayan   [4-3 pen]
+
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24., see page india2024›
+
+‹2025/26., see page india2026›
+
+
+
+‹list of champions, see page indiachamp›.
+
+‹list of topscorers, see page indiatops›.
+
+‹list of calcutta league champions, see page indiacalchamp›.
+
+‹list of delhi league champions, see page indiadelhichamp›.
+
+‹list of goa league champions, see page indiagoachamp›.
+
+‹list of manipur league champions, see page india-manichamp›
+
+‹list of federation cup finals, see page indiacuphist›.
+
+‹list of super cup finals, see page indiasupcuphist›.
+
+‹list of santosh trophy finals, see page indiasantoshhist›.
+
+‹list of durand cup finals, see page indiadurandcuphist›.
+
+‹list of ifa shield finals, see page india-ifahist›.
+
+‹list of rovers cup finals, see page indiaroverscuphist›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Thanks to Martin Arenlind
+
+Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Authors: Hans Schöggl and Karel Stokkermans
+
+Last updated: 14 Jan 2026
+
+
+(C) Copyright Hans Schöggl, Karel Stokkermans and RSSSF 2024/26
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.

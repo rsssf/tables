@@ -1,0 +1,456 @@
+  <!--
+     source: https://rsssf.org/tablesl/leb2025.html
+    -->
+  
+
+
+== Lebanon 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹First Division, see §first›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== First Division  ‹§first›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Championship Group, see §champ› | ‹Relegation Group, see §rel›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.Al-Ansar             11  10  1  0  31- 7  31       ‹Championship Group, see §champ›
+ 2.Safa                 11   9  2  0  30- 4  29       ‹Championship Group, see §champ›
+ 3.Al-Ahed              11   9  1  1  34-11  28       ‹Championship Group, see §champ›
+ 4.Al-Nijmeh            11   5  2  4  12- 8  17  [C]  ‹Championship Group, see §champ›
+ 5.Al-Hikma             11   4  4  3  12-11  16       ‹Championship Group, see §champ›
+ 6.Al-Tadamon Tyre      11   4  2  5  13-14  14       ‹Championship Group, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Shabab Al-Sahel      11   4  1  6  14-21  13       ‹Relegation Group, see §rel›
+ 8.Racing Beirut        11   1  6  4   4-14   9       ‹Relegation Group, see §rel›
+ 9.Riyadi Al-Abbassieh  11   1  5  5   7-15   8  [P]  ‹Relegation Group, see §rel›
+10.Al-Bourj             11   2  1  8   7-21   7       ‹Relegation Group, see §rel›
+11.Shabab Al-Ghazieh    11   1  3  7   5-18   6       ‹Relegation Group, see §rel›
+12.Shabab Baalbek       11   1  2  8   4-29   5  [P]  ‹Relegation Group, see §rel›
+
+Round 1
+[Sep 20]
+Riyadi Abbassieh 1-2 Tadamon Tyre
+Shabab Sahel     0-2 Hikma
+[Sep 21]
+Bourj            1-3 Ahed
+Safa             4-1 Racing Beirut
+[Sep 22]
+Ansar            4-0 Shabab Baalbek
+Nijmeh           3-0 Shabab Ghazieh
+
+NB: league suspended for four months due to Israeli attacks
+
+Round 2
+[Jan 25]
+Bourj            1-3 Hikma
+Shabab Baalbek   1-0 Shabab Ghazieh
+Ansar            3-0 Racing Beirut
+[Jan 26]
+Safa             2-1 Riyadi Abbassieh
+Shabab Sahel     0-2 Tadamon Tyre
+Nijmeh           1-2 Ahed
+
+Round 3
+[Jan 31]
+Ahed             3-1 Shabab Ghazieh
+Safa             2-0 Shabab Sahel
+Shabab Baalbek   0-0 Racing Beirut
+[Feb 1]
+Ansar            5-0 Riyadi Abbassieh
+Bourj            0-2 Tadamon Tyre
+Nijmeh           0-0 Hikma
+
+Round 4
+[Feb 6]
+Ansar            3-1 Shabab Sahel
+Bourj            0-4 Safa
+Racing Beirut    1-1 Shabab Ghazieh
+[Feb 7]
+Shabab Baalbek   0-0 Riyadi Abbassieh
+Ahed             3-1 Hikma
+Nijmeh           1-0 Tadamon Tyre
+
+Round 5
+[Feb 12]
+Racing Beirut    0-0 Riyadi Abbassieh
+Shabab Sahel     5-0 Shabab Baalbek
+Nijmeh           0-2 Safa
+[Feb 13]
+Ahed             4-0 Tadamon Tyre
+Ansar            1-0 Bourj
+Hikma            1-0 Shabab Ghazieh
+
+Round 6
+[Feb 18]
+Racing Beirut    0-1 Shabab Sahel
+Riyadi Abbassieh 0-0 Shabab Ghazieh
+Ahed             0-0 Safa
+[Feb 19]
+Hikma            0-0 Tadamon Tyre
+Shabab Baalbek   1-3 Bourj
+Nijmeh           1-2 Ansar
+
+Round 7
+[Feb 25]
+Riyadi Abbassieh 2-2 Shabab Sahel
+Safa             3-0 Hikma
+Ahed             2-4 Ansar
+[Feb 26]
+Racing Beirut    1-0 Bourj
+Shabab Ghazieh   2-1 Tadamon Tyre
+Nijmeh           3-1 Shabab Baalbek
+
+Round 8
+[Mar 2]
+Safa             3-1 Tadamon Tyre
+Shabab Baalbek   1-2 Ahed
+Racing Beirut    0-0 Nijmeh
+[Mar 3]
+Riyadi Abbassieh 2-0 Bourj
+Shabab Sahel     1-0 Shabab Ghazieh
+Hikma            1-3 Ansar
+
+Round 9
+[Mar 8]
+Shabab Ghazieh   0-4 Safa
+Shabab Sahel     3-0 Bourj
+Racing Beirut    0-4 Ahed
+[Mar 9]
+Riyadi Abbassieh 0-1 Nijmeh
+Shabab Baalbek   0-3 Hikma
+Ansar            3-1 Tadamon Tyre
+
+Round 10
+[Mar 14]
+Riyadi Abbassieh 1-3 Ahed
+Ansar            1-1 Safa
+[Mar 15]
+Bourj            1-1 Shabab Ghazieh
+Shabab Baalbek   0-4 Tadamon Tyre
+Shabab Sahel     0-2 Nijmeh
+[Mar 16]
+Racing Beirut    1-1 Hikma
+
+Round 11
+[Mar 29]
+Safa             5-0 Shabab Baalbek
+Shabab Ghazieh   0-2 Ansar
+Bourj            1-0 Nijmeh
+[Mar 30]
+Hikma            0-0 Riyadi Abbassieh
+Racing Beirut    0-0 Tadamon Tyre
+Shabab Sahel     1-8 Ahed
+
+Final Table:
+
+ 1.Al-Ansar             11  10  1  0  31- 7  31       ‹Championship Group, see §champ›
+ 2.Safa                 11   9  2  0  30- 4  29       ‹Championship Group, see §champ›
+ 3.Al-Ahed              11   9  1  1  34-11  28       ‹Championship Group, see §champ›
+ 4.Al-Nijmeh            11   5  2  4  12- 8  17  [C]  ‹Championship Group, see §champ›
+ 5.Al-Hikma             11   4  4  3  12-11  16       ‹Championship Group, see §champ›
+ 6.Al-Tadamon Tyre      11   4  2  5  13-14  14       ‹Championship Group, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Shabab Al-Sahel      11   4  1  6  14-21  13       ‹Relegation Group, see §rel›
+ 8.Racing Beirut        11   1  6  4   4-14   9       ‹Relegation Group, see §rel›
+ 9.Riyadi Al-Abbassieh  11   1  5  5   7-15   8  [P]  ‹Relegation Group, see §rel›
+10.Al-Bourj             11   2  1  8   7-21   7       ‹Relegation Group, see §rel›
+11.Shabab Al-Ghazieh    11   1  3  7   5-18   6       ‹Relegation Group, see §rel›
+12.Shabab Baalbek       11   1  2  8   4-29   5  [P]  ‹Relegation Group, see §rel›
+
+Championship Group  ‹§champ›
+
+Table:
+
+ 1.Al-Ansar             25  20  3  2  57-13  48  [16]       Champions
+ 2.Safa                 25  17  6  2  57-18  43  [15]
+ 3.Al-Ahed              25  14  5  6  54-31  33  [14]
+ 4.Al-Nijmeh            25  10  7  8  37-29  29  [ 9]  [C]
+ 5.Al-Hikma             25   7  6 12  25-36  19  [ 8]
+ 6.Al-Tadamon Tyre      25   5  5 15  22-48  13  [ 7]
+
+NB: bonus points regular stage (halved, rounded upwards) between square brackets
+
+Round 12
+[Apr 12]
+Ahed             1-0 Ansar
+Tadamon Tyre     0-2 Hikma
+[Apr 13]
+Nijmeh           1-1 Safa
+
+Round 13
+[Apr 18]
+Tadamon Tyre     0-2 Safa
+[Apr 19]
+Ahed             1-0 Nijmeh
+[Apr 20]
+Ansar            2-0 Hikma
+
+Round 14
+[Apr 24]
+Hikma            1-2 Safa
+Tadamon Tyre     1-0 Ahed
+[Apr 25]
+Ansar            1-0 Nijmeh
+
+Round 15
+[Apr 30]
+Tadamon Tyre     0-0 Ansar
+[May 1]
+Safa             0-0 Ahed
+[May 2]
+Nijmeh           1-0 Hikma
+
+Round 16 [May 7]
+Ahed             1-2 Hikma
+Tadamon Tyre     1-1 Nijmeh
+Ansar            1-0 Safa
+
+Round 17
+[May 12]
+Ansar            0-2 Ahed
+Hikma            0-0 Tadamon Tyre
+[May 13]
+Safa             2-1 Nijmeh
+
+Round 18
+[May 17]
+Hikma            0-2 Ansar
+[May 18]
+Safa             3-0 Tadamon Tyre
+Nijmeh           1-1 Ahed
+
+Round 19
+[May 23]
+Nijmeh           1-1 Ansar
+[May 24]
+Safa             4-0 Hikma
+Ahed             3-0 Tadamon Tyre
+
+Round 20
+[Jun 14]
+Hikma            0-3 Nijmeh
+[Jun 15]
+Ansar            3-0 Tadamon Tyre
+Ahed             1-2 Safa
+
+Round 21
+[Jun 20]
+Hikma            2-2 Ahed
+[Jun 21]
+Nijmeh           5-1 Tadamon Tyre
+Safa             0-2 Ansar
+
+Round 22
+[Jun 26]
+Hikma            3-1 Tadamon Tyre
+Safa             3-3 Nijmeh
+[Jun 27]
+Ansar            4-1 Ahed
+
+Round 23
+[Jul 2]
+Safa             5-2 Tadamon Tyre
+Hikma            0-2 Ansar
+[Jul 3]
+Nijmeh           4-1 Ahed
+
+Round 24
+[Jul 7]
+Safa             2-1 Hikma
+[Jul 8]
+Ahed             5-3 Tadamon Tyre
+Nijmeh           1-6 Ansar
+
+Round 25
+[Jul 12]
+Hikma            2-3 Nijmeh
+Ahed             1-1 Safa
+[Jul 13]
+Ansar            2-0 Tadamon Tyre
+
+Round 26
+[Jul 16]
+Hikma             -  Ahed
+[Jul 17]
+Nijmeh            -  Tadamon Tyre
+[Jul 19]
+Safa              -  Ansar
+
+Table:
+
+ 1.Al-Ansar             25  20  3  2  57-13  48  [16]       Champions
+ 2.Safa                 25  17  6  2  57-18  43  [15]
+ 3.Al-Ahed              25  14  5  6  54-31  33  [14]
+ 4.Al-Nijmeh            25  10  7  8  37-29  29  [ 9]  [C]
+ 5.Al-Hikma             25   7  6 12  25-36  19  [ 8]
+ 6.Al-Tadamon Tyre      25   5  5 15  22-48  13  [ 7]
+
+NB: bonus points regular stage (halved, rounded upwards) between square brackets
+
+Relegation Group  ‹§rel›
+
+Final Table:
+
+ 7.Al-Bourj             26  13  3 10  30-32  39  [ 4]
+ 9.Racing Beirut        26   8  7 11  24-39  27  [ 5]
+ 8.Shabab Al-Sahel      26  12  3 11  44-41  33  [ 7]
+10.Riyadi Al-Abbassieh  26   7 10  9  32-27  27  [ 4]  [P]
+-----------------------------------------------
+11.Shabab Baalbek       26   4  6 16  17-55  16  [ 3]  [P]  Relegated
+12.Shabab Al-Ghazieh    26   2  7 17  19-49  10  [ 3]       Relegated
+
+NB: bonus points regular stage (halved, rounded upwards) between square brackets
+
+Round 12
+[Apr 12]
+Shabab Ghazieh   1-2 Racing Beirut
+[Apr 13]
+Bourj            2-0 Shabab Sahel
+Shabab Baalbek   0-0 Riyadi Abbassieh
+
+Round 13
+[Apr 18]
+Shabab Baalbek   1-1 Shabab Ghazieh
+[Apr 19]
+Shabab Sahel     3-1 Racing Beirut
+Bourj            2-1 Riyadi Abbassieh
+
+Round 14
+[Apr 24]
+Shabab Ghazieh   1-4 Bourj
+[Apr 25]
+Racing Beirut    2-0 Shabab Baalbek
+Riyadi Abbassieh 5-1 Shabab Sahel
+
+Round 15
+[Apr 30]
+Shabab Sahel     4-0 Shabab Ghazieh
+[May 1]
+Bourj            0-2 Shabab Baalbek
+Riyadi Abbassieh 0-2 Racing Beirut
+
+Round 16
+[May 6]
+Riyadi Abbassieh 3-0 Shabab Ghazieh
+Shabab Sahel     3-1 Shabab Baalbek
+[May 8]
+Racing Beirut    1-1 Bourj
+
+Round 17
+[May 13]
+Riyadi Abbassieh 1-1 Shabab Baalbek
+[May 14]
+Racing Beirut    2-1 Shabab Ghazieh
+Shabab Sahel     0-2 Bourj
+
+Round 18
+[May 19]
+Racing Beirut    1-4 Shabab Sahel
+Shabab Ghazieh   2-2 Shabab Baalbek
+[May 20]
+Riyadi Abbassieh 0-1 Bourj
+
+Round 19
+[May 24]
+Shabab Baalbek   1-2 Racing Beirut
+[May 25]
+Shabab Sahel     1-1 Riyadi Abbassieh
+[May 27]
+Bourj            2-1 Shabab Ghazieh
+
+Round 20
+[May 31]
+Racing Beirut    2-1 Riyadi Abbassieh
+[Jun 1]
+Shabab Baalbek   0-1 Bourj
+[Jun 2]
+Shabab Ghazieh   1-1 Shabab Sahel
+
+Round 21
+[Jun 7]
+Bourj            0-3 Racing Beirut
+Shabab Ghazieh   0-0 Riyadi Abbassieh
+[Jun 8]
+Shabab Baalbek   1-2 Shabab Sahel
+
+Round 22
+[Jun 13]
+Shabab Sahel     1-2 Bourj
+[Jun 14]
+Racing Beirut    0-4 Shabab Ghazieh
+Riyadi Abbassieh 3-0 Shabab Baalbek
+
+Round 23
+[Jun 19]
+Riyadi Abbassieh 0-0 Bourj
+Shabab Ghazieh   1-2 Shabab Baalbek
+[Jun 20]
+Racing Beirut    0-2 Shabab Sahel
+
+Round 24
+[Jun 25]
+Shabab Sahel     0-2 Riyadi Abbassieh
+Shabab Baalbek   1-0 Racing Beirut
+[Jun 26]
+Bourj            1-0 Shabab Ghazieh
+
+Round 25
+[Jun 30]
+Shabab Ghazieh   0-3 Shabab Sahel
+[Jul 1]
+Racing Beirut    1-4 Riyadi Abbassieh
+Shabab Baalbek   0-3 Bourj
+
+Round 26 [Jul 5]
+Bourj            2-1 Racing Beirut
+Shabab Ghazieh   1-4 Riyadi Abbassieh
+Shabab Sahel     5-1 Shabab Baalbek
+
+Final Table:
+
+ 7.Al-Bourj             26  13  3 10  30-32  39  [ 4]
+ 9.Racing Beirut        26   8  7 11  24-39  27  [ 5]
+ 8.Shabab Al-Sahel      26  12  3 11  44-41  33  [ 7]
+10.Riyadi Al-Abbassieh  26   7 10  9  32-27  27  [ 4]  [P]
+-----------------------------------------------
+11.Shabab Baalbek       26   4  6 16  17-55  16  [ 3]  [P]  Relegated
+12.Shabab Al-Ghazieh    26   2  7 17  19-49  10  [ 3]       Relegated
+
+NB: bonus points regular stage (halved, rounded upwards) between square brackets
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page leb2024›
+
+‹list of champions, see page lebchamp›
+
+‹list of cup winners, see page lebcuphist›
+
+‹list of topscorers, see page lebtops›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 14 Jul 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

@@ -1,0 +1,610 @@
+  <!--
+     source: https://rsssf.org/tablest/tahiti2026.html
+    -->
+  
+
+
+== French Polynesia 2025/26
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Division 1, see §div1›
+‹Mooréa, see §moorea›
+
+‹Cup Tournaments, see §coupes›
+
+Note that the point system in French Polynesia is 4/win, 2/draw, 1/loss.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Division 1  ‹§div1›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.AS Tefana            9   7  2  0  41-10  32       ‹Championship Playoff, see §chpo›
+ 2.AS Vénus             9   7  1  1  35-16  31  [C]  ‹Championship Playoff, see §chpo›
+ 3.AS Mira              9   5  2  2  30-13  26       ‹Championship Playoff, see §chpo›
+ 4.AS Pirae             9   4  2  3  31-18  23       ‹Championship Playoff, see §chpo›
+ 5.AS Tamarii Punaruu   9   4  1  4  17-22  22       ‹Championship Playoff, see §chpo›
+ - - - - - - - - - - - - - - - - - - - - - - -
+ 6.AS Pueu              9   3  3  3  14-19  21       ‹Relegation Playoff, see §relpo›
+ 7.AS Dragon            9   3  2  4  33-17  20       ‹Relegation Playoff, see §relpo›
+ 8.AS Taiarapu FC       9   3  1  5  13-26  19       ‹Relegation Playoff, see §relpo›
+ 9.AS Central Sport     9   2  0  7  16-17  15       ‹Relegation Playoff, see §relpo›
+10.AS Jeunes Tahitiens  9   0  0  9   9-81   9  [P]  ‹Relegation Playoff, see §relpo›
+
+Round 1
+[Sep 19]
+Tefana          1-0 Pirae
+Dragon          7-1 Punaruu
+Vénus           2-2 Pueu
+[Sep 20]
+Mira            2-1 Central
+Taiarapu        2-1 Jns. Tahitiens
+
+Round 2
+[Sep 26]
+Tefana          4-2 Vénus
+Central         6-0 Jns. Tahitiens
+[Sep 27]
+Mira            1-1 Punaruu
+Taiarapu        2-1 Pirae
+[Oct 28]
+Pueu            2-1 Dragon
+
+Round 3
+[Oct 3]
+Vénus           4-2 Taiarapu
+Dragon          1-1 Tefana
+Punaruu         2-1 Pueu
+Pirae           4-2 Central
+[Oct 4]
+Jns. Tahitiens 2-12 Mira
+
+Round 4
+[Oct 17]
+Tefana          7-0 Pueu
+Punaruu         4-1 Jns. Tahitiens
+Dragon          6-2 Taiarapu
+Central         1-2 Vénus
+[Oct 18]
+Mira            2-3 Pirae
+
+Round 5
+[Oct 24]
+Tefana          3-2 Punaruu
+Dragon          1-2 Central
+Jns. Tahitiens 3-13 Pirae
+[Oct 25]
+Mira            2-4 Vénus
+[Dec 2]
+Pueu            2-2 Taiarapu
+
+Round 6
+[Oct 31]
+Punaruu         0-4 Pirae
+[Nov 7]
+Vénus          12-1 Jns. Tahitiens
+Central         0-1 Pueu
+[Nov 8]
+Mira            2-1 Dragon
+[Nov 11]
+Taiarapu        2-5 Tefana
+
+Round 7
+[Nov 25]
+Punaruu         2-0 Taiarapu
+Vénus           3-1 Pirae
+Dragon         12-1 Jns. Tahitiens
+Central         2-3 Tefana
+[Dec 6]
+Pueu            0-3 Mira
+
+Round 8
+[Nov 28]
+Punaruu         2-3 Vénus
+Dragon          3-3 Pirae
+Central         0-1 Taiarapu
+[Nov 29]
+Mira            1-1 Tefana
+Pueu            4-0 Jns. Tahitiens
+
+Round 9
+[Dec 5]
+Tefana         16-0 Jns. Tahitiens
+[Dec 13]
+Punaruu         3-2 Central
+Vénus           3-1 Dragon
+Pueu            2-2 Pirae
+Taiarapu        0-5 Mira
+
+Final Table:
+
+ 1.AS Tefana            9   7  2  0  41-10  32       ‹Championship Playoff, see §chpo›
+ 2.AS Vénus             9   7  1  1  35-16  31  [C]  ‹Championship Playoff, see §chpo›
+ 3.AS Mira              9   5  2  2  30-13  26       ‹Championship Playoff, see §chpo›
+ 4.AS Pirae             9   4  2  3  31-18  23       ‹Championship Playoff, see §chpo›
+ 5.AS Tamarii Punaruu   9   4  1  4  17-22  22       ‹Championship Playoff, see §chpo›
+ - - - - - - - - - - - - - - - - - - - - - - -
+ 6.AS Pueu              9   3  3  3  14-19  21       ‹Relegation Playoff, see §relpo›
+ 7.AS Dragon            9   3  2  4  33-17  20       ‹Relegation Playoff, see §relpo›
+ 8.AS Taiarapu FC       9   3  1  5  13-26  19       ‹Relegation Playoff, see §relpo›
+ 9.AS Central Sport     9   2  0  7  16-17  15       ‹Relegation Playoff, see §relpo›
+10.AS Jeunes Tahitiens  9   0  0  9   9-81   9  [P]  ‹Relegation Playoff, see §relpo›
+
+Playoff Stage/a>  ‹§play›
+
+‹Championship Playoff, see §chpo› | ‹Relegation Playoff, see §relpo›
+
+Championship Playoff  ‹§chpo›
+
+Table:
+
+ 1.AS Mira              9   7  0  2  16-15  30
+ 2.AS Tefana            9   6  1  2  34-14  28
+ 3.AS Pirae             9   5  1  3  23-15  25
+ 4.AS Tamarii Punaruu   9   4  1  4  18-24  22
+ 5.Tahiti U-19          9   2  0  7  15-26  15  [N]
+ 6.AS Vénus             9   1  1  7   9-21  13  [C]
+
+Round 1
+[Jan 15]
+Vénus           3-3 Punaruu
+[Jan 16]
+Pirae           0-5 Tefana
+[Jan 17]
+Mira            2-1 Tahiti U-19
+
+Round 2
+[Jan 23]
+Tahiti U-19     0-3 Vénus
+Punaruu         2-1 Pirae
+[Jan 24]
+Tefana          6-2 Mira
+
+Round 3
+[Jan 30]
+Tefana          7-1 Tahiti U-19
+Pirae           3-1 Vénus
+[Jan 31]
+Mira            3-0 Punaruu
+
+Round 4
+[Feb 6]
+Tahiti U-19     2-3 Punaruu
+Vénus           0-3 Tefana
+[Feb 7]
+Mira            1-0 Pirae
+
+Round 5
+[Feb 20]
+Punaruu         5-4 Tefana
+Tahiti U-19     3-5 Pirae
+[Feb 21]
+Vénus           1-2 Mira
+
+Round 6
+[Mar 6]
+Punaruu         2-1 Vénus
+Tefana          2-2 Pirae
+[Mar 7]
+Tahiti U-19     1-2 Mira
+
+Round 7
+[Mar 10]
+Vénus           0-3 Tahiti U-19
+[Mar 13]
+Pirae           6-1 Punaruu
+[Mar 14]
+Mira            2-1 Tefana
+
+Round 8
+[Mar 17]
+Punaruu         1-2 Tahiti U-19
+[Mar 20]
+Tefana          3-0 Vénus
+[Mar 21]
+Pirae           4-0 Mira
+
+Round 9
+[Mar 31]
+Tahiti U-19     2-3 Tefana
+[Apr 2]
+Vénus           0-2 Pirae
+[Apr 4]
+Punaruu         1-2 Mira
+
+Round 10
+[Apr 7]
+Pirae            -  Tahiti U-19
+[Apr 10]
+Tefana           -  Punaruu
+[Apr 11]
+Mira             -  Vénus
+
+Table:
+
+ 1.AS Mira              9   7  0  2  16-15  30
+ 2.AS Tefana            9   6  1  2  34-14  28
+ 3.AS Pirae             9   5  1  3  23-15  25
+ 4.AS Tamarii Punaruu   9   4  1  4  18-24  22
+ 5.Tahiti U-19          9   2  0  7  15-26  15  [N]
+ 6.AS Vénus             9   1  1  7   9-21  13  [C]
+
+Relegation Playoff  ‹§relpo›
+
+Table:
+
+ 7.AS Dragon            7   7  0  0  41- 6  28
+ 8.AS Central Sport     8   3  2  3  18-18  19
+ 9.AS Jeunes Tahitiens  7   3  2  2  18-22  18  [P]
+10.AS Pueu              7   3  0  4  13-21  16
+11.AS Taiarapu FC       7   0  0  7   7-30   7
+ -.Tahiti U-16          withdrew
+
+NB: Tahiti U-16 were supposed to enter but eventually did not
+
+Round 1
+[Jan 16]
+Central         2-1 Pueu
+[Jan 17]
+Dragon          3-1 Jns. Tahitiens
+Taiarapu        bye
+
+Round 2
+[Jan 24]
+Jns. Tahitiens  3-3 Central
+[Jan 27]
+Pueu            3-0 Taiarapu
+Dragon          bye
+
+Round 3
+[Jan 30]
+Central         2-3 Dragon
+[Jan 31]
+Taiarapu        1-2 Jns. Tahitiens
+Pueu            bye
+
+Round 4
+[Feb 6]
+Taiarapu        1-5 Central
+[Feb 7]
+Dragon          4-0 Pueu
+Jns. Tahitiens  bye
+
+Round 5 [Feb 21]
+Dragon         11-1 Taiarapu
+Jns. Tahitiens  4-2 Pueu
+Central         bye
+
+Round 6
+[Mar 6]
+Jns. Tahitiens  0-8 Dragon
+[Mar 7]
+Pueu            4-0 Central
+Taiarapu        bye
+
+Round 7 [Mar 13]
+Central         3-3 Jns. Tahitiens
+Taiarapu        1-2 Pueu
+Dragon          bye
+
+Round 8
+[Mar 20]
+Central         2-1 Taiarapu
+[Mar 21]
+Pueu           1-10 Dragon
+Jns. Tahitiens  bye
+
+Round 9 [Apr 2]
+Jns. Tahitiens  5-2 Taiarapu
+Dragon          2-1 Central
+Pueu            bye
+
+Round 10 [Apr 11]
+Pueu             -  Jns. Tahitiens
+Taiarapu         -  Dragon
+Central         bye
+
+Table:
+
+ 7.AS Dragon            7   7  0  0  41- 6  28
+ 8.AS Central Sport     8   3  2  3  18-18  19
+ 9.AS Jeunes Tahitiens  7   3  2  2  18-22  18  [P]
+10.AS Pueu              7   3  0  4  13-21  16
+11.AS Taiarapu FC       7   0  0  7   7-30   7
+ -.Tahiti U-16          withdrew
+
+NB: Tahiti U-16 were supposed to enter but eventually did not
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Division 2 - Mooréa  ‹§moorea›
+
+<!-- start pre -->
+First Stage
+
+Final Table:
+
+ 1.AS Tohie'a FC        7   6  1  0  33- 8  26
+ 2.AS Mira 2            7   5  1  1  29-10  23  [2-1]
+ 3.AS Tiare Tahiti      7   5  1  1  32- 6  23  [1-2]
+ 4.AS Tiare Hinano      7   3  2  2  21- 9  18
+ 5.AS Tamarii Temanava  7   3  0  4  23-23  16
+ 6.AS Tamarii Tapuhute  7   1  2  4   9-22  12
+ 7.AS Tiare Anani       7   0  2  5   7-30   9
+ 8.FC Tahatiri          7   0  1  6   5-51   8
+
+Round 1
+[Sep 27]
+Tahatiri        0-6 Tiare Hinano
+Tiare Anani     1-1 Tapuhute
+[Sep 28]
+Tiare Tahiti    1-1 Tohie'a
+Temanava        2-5 Mira 2
+
+Round 2
+[Oct 4]
+Tiare Tahiti    8-1 Tapuhute
+Tahatiri       1-10 Temanava
+[Oct 5]
+Tiare Anani     1-3 Tohie'a
+Mira 2          2-2 Tiare Hinano
+
+Round 3
+[Oct 11]
+Tiare Hinano    6-1 Temanava
+Tohie'a        12-1 Tahatiri
+[Oct 12]
+Tapuhute        0-4 Mira 2
+Tiare Anani     0-7 Tiare Tahiti
+
+Round 4
+[Oct 18]
+Temanava        3-2 Tiare Anani
+[Oct 19]
+Tapuhute        2-6 Tohie'a
+Tiare Tahiti    3-0 Tiare Hinano
+Mira 2          8-1 Tahatiri
+
+Round 5
+[Oct 25]
+Tiare Hinano    1-2 Tohie'a
+Tapuhute        0-3 Temanava
+[Oct 26]
+Tahatiri        0-8 Tiare Tahiti
+[Nov 16]
+Mira 2          8-0 Tiare Anani
+
+Round 6
+[Nov 1]
+Tahatiri        0-5 Tapuhute
+Tiare Hinano    6-1 Tiare Anani
+[Nov 2]
+Tohie'a         5-2 Temanava
+Tiare Tahiti    1-2 Mira 2
+
+Round 7
+[Nov 8]
+Temanava        2-4 Tiare Tahiti
+[Nov 9]
+Tiare Anani     2-2 Tahatiri
+Tohie'a         4-0 Mira 2
+[Nov 11]
+Tiare Hinano    0-0 Tapuhute
+
+Final Table:
+
+ 1.AS Tohie'a FC        7   6  1  0  33- 8  26
+ 2.AS Mira 2            7   5  1  1  29-10  23  [2-1]
+ 3.AS Tiare Tahiti      7   5  1  1  32- 6  23  [1-2]
+ 4.AS Tiare Hinano      7   3  2  2  21- 9  18
+ 5.AS Tamarii Temanava  7   3  0  4  23-23  16
+ 6.AS Tamarii Tapuhute  7   1  2  4   9-22  12
+ 7.AS Tiare Anani       7   0  2  5   7-30   9
+ 8.FC Tahatiri          7   0  1  6   5-51   8
+
+Second Stage
+
+Table:
+
+ 1.AS Tohie'a FC        7   7  0  0  38- 7  30  [+2]
+ 2.AS Tiare Tahiti      6   4  1  1  26- 7  19
+ 3.AS Tamarii Tapuhute  7   3  2  2  20-18  18
+ 4.AS Tiare Hinano      7   3  2  2  17-15  18
+ 5.AS Mira 2            7   2  3  2  18- 9  16
+ 6.AS Tamarii Temanava  7   2  1  4  17-22  14
+ 7.AS Tiare Anani       7   1  1  5  10-27  11
+ 8.FC Tahatiri          6   0  0  6   5-46   6
+
+NB: Tohie'a 2 bonus points for winning first stage
+
+NB: round 1 played after round 7
+
+Round 2
+[Feb 7]
+Tiare Hinano    2-2 Tapuhute
+Temanava        1-7 Tiare Tahiti
+[Feb 8]
+Tiare Anani     5-2 Tahatiri
+Tohie'a         2-0 Mira 2
+
+Round 3
+[Feb 14]
+Tahatiri        2-4 Tiare Hinano
+Tapuhute        1-1 Tiare Anani
+[Feb 15]
+Tiare Tahiti    3-4 Tohie'a
+Temanava        1-1 Mira 2
+
+Round 4
+[Feb 21]
+Tapuhute        1-7 Tiare Tahiti
+Temanava        9-0 Tahatiri
+[Feb 22]
+Tiare Anani     2-4 Tohie'a
+Mira 2          3-3 Tiare Hinano
+
+Round 5
+[Mar 7]
+Tiare Hinano    4-2 Temanava
+Tahatiri       0-17 Tohie'a
+[Mar 8]
+Tapuhute        2-1 Mira 2
+Tiare Tahiti    5-0 Tiare Anani
+
+Round 6
+[Mar 14]
+Tiare Hinano    0-3 Tiare Tahiti
+Tohie'a         4-2 Tapuhute
+[Mar 15]
+Tiare Anani     1-2 Temanava
+Tahatiri        0-3 Mira 2
+
+Round 7
+[Mar 21]
+Tiare Hinano    0-2 Tohie'a
+Temanava        2-4 Tapuhute
+[Mar 22]
+Mira 2          9-0 Tiare Anani
+[May 14]
+Tiare Tahiti     -  Tahatiri
+
+Round 1
+[Mar 28]
+Tahatiri        1-8 Tapuhute
+Tiare Hinano    4-1 Tiare Anani
+[Mar 29]
+Tohie'a         5-0 Temanava
+Tiare Tahiti    1-1 Mira 2
+
+Table:
+
+ 1.AS Tohie'a FC        7   7  0  0  38- 7  30  [+2]
+ 2.AS Tiare Tahiti      6   4  1  1  26- 7  19
+ 3.AS Tamarii Tapuhute  7   3  2  2  20-18  18
+ 4.AS Tiare Hinano      7   3  2  2  17-15  18
+ 5.AS Mira 2            7   2  3  2  18- 9  16
+ 6.AS Tamarii Temanava  7   2  1  4  17-22  14
+ 7.AS Tiare Anani       7   1  1  5  10-27  11
+ 8.FC Tahatiri          6   0  0  6   5-46   6
+
+NB: Tohie'a 2 bonus points for winning first stage
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Cup Tournaments  ‹§coupes›
+
+<!-- start pre -->
+‹Coupe du Polynésie 2026, see §coupepoly› | ‹Island Cups 2025/26, see §coupeiles›
+
+Coupe du Polynésie 2026  ‹§coupepoly›
+
+Round 1
+[Feb 1]
+Tiare Anani     3-2 Tahatiri
+Tohie'a         3-0 Temanava
+[Feb 13]
+Manu Ura       1-18 Pirae
+Taiarapu        2-1 Arue
+[Feb 14]
+Team Faehiri   0-12 Tefana
+Samine          0-4 Punaruu
+Saint-Etienne   1-1 Pueu            [4-5 pen]
+Team Terapu     1-3 Central
+Dragon          bye
+Excelsior       bye
+Jns. Tahitiens  bye
+Mira            bye
+Tapuhute        bye
+Tiare Hinano    bye
+Tiare Tahiti    bye
+Vénus           bye
+
+1/8 Finals
+[Feb 27]
+Dragon          5-5 Central         [4-3 pen]
+Jns. Tahitiens  1-3 Excelsior
+Pirae           2-2 Punaruu         [5-3 pen]
+Vénus           0-1 Pueu
+[Feb 28]
+Taiarapu        1-7 Tiare Tahiti
+Tiare Hinano    4-2 Tiare Anani
+Tapuhute        0-2 Mira
+Tefana          1-0 Tohie'a
+
+Island Cups 2025/26  ‹§coupeiles›
+
+Coupe Mooréa 2025/26
+
+Quarterfinals
+
+First Legs
+[Nov 22]
+Tohie'a        11-1 Tahatiri
+[Nov 29]
+Tiare Tahiti    2-0 Temanava
+[Nov 30]
+Tiare Anani     1-6 Tiare Hinano
+Tapuhute        1-3 Mira 2
+
+Second Legs
+[Nov 29]
+Tahatiri       1-17 Tohie'a
+[Dec 6]
+Tiare Hinano    5-1 Tiare Anani
+[Dec 7]
+Temanava        1-4 Tiare Tahiti
+Mira 2          5-1 Tapuhute
+
+Semifinals
+
+First Legs
+Mira 2           -  Tohie'a
+Tiare Tahiti     -  Tiare Hinano
+
+Second Legs
+Tohie'a          -  Mira 2
+Tiare Hinano     -  Tiare Tahiti
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024/25, see page tahiti2025›
+
+‹list of champions, see page tahitichamp›
+
+‹list of cup winners, see page tahiticuphist›
+
+‹list of coupe des champions winners, see page tahitichampcuphist›
+
+‹foundation dates, see page tahitifound›
+
+‹french overseas territories cup, see page ../tablesf/franseaterrcuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 5 Apr 2026
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2025/26
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

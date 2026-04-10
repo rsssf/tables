@@ -1,0 +1,173 @@
+  <!--
+     source: https://rsssf.org/tablesr/reunion2025.html
+    -->
+  
+
+
+== Réunion 2025
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Régional 1, see §div1›
+‹Cup Tournaments, see §cup›
+‹Régional 2, see §sup2›
+
+Note that the point system on Réunion is 4/win, 2/draw, 1/loss.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Régional 1  ‹§div1›
+
+<!-- start pre -->
+Final Table:
+
+ 1.JS Saint-Pierroise              26  17  6  3  42-21  83       Champions
+ 2.Saint-Denis FC                  26  16  6  4  56-22  80
+ 3.AS Excelsior (Saint-Joseph)     26  15  8  3  51-17  79  [C]
+ 4.Saint-Pauloise FC               26  14  6  6  42-22  74
+ 5.AS Jeanne d'Arc (Le Port)       26  13  5  8  35-30  70
+ 6.ES Dominicaine                  26  11  9  6  39-23  68  [P]
+ 7.La Tamponnaise                  26   8 11  7  31-24  61
+ 8.JS Sainte-Rosienne              26   8  9  9  34-26  59
+ 9.Trois Bassins FC                26  10  3 13  27-38  59
+10.ACF Piton Saint-Leu             26   8  6 12  18-35  56
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+11.AS Saint-Louisienne             26   5 13  8  16-27  54       ‹Relegation Playoff, see §prorel›
+----------------------------------------------------------
+12.AF Saint-Louis                  26   5  7 14  23-35  48       Relegated
+13.AS Marsouins (Saint-Leu)        26   3  6 17  12-50  41  [P]  Relegated
+14.FC Rivière des Galets           26   1  1 24  10-66  30  [P]  Relegated
+
+Promotion/Relegation Playoff  ‹§prorel›
+
+[Dec 10]
+AS Saint-Louisienne    1-0 Ravine Blanche Club
+
+NB. both remain at former level
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Cup Tournaments 2025  ‹§cup›
+
+<!-- start pre -->
+‹Coupe de la Réunion 2025, see §rcup›
+
+Coupe de la Réunion 2025  ‹§rcup›
+
+1/8 Finals
+[Jul 26]
+OC des Avirons          1-6 ES Dominicaine
+St.-Pauloise FC         2-0 US Benedictine
+St.-Denis FC            4-0 CS St.-Gilles
+[Jul 27]
+La Tamponnaise          3-1 Trois Bassins FC
+FC La Ville St.-Suzanne 0-6 JS St.-Pierroise
+AS Excelsior            2-0 AF St.-Louis
+JS Ste.-Rosienne        2-0 FC Bagatelle St.-Suzanne
+AS Jeanne d'Arc         3-1 AS Marsouins
+
+Quarterfinals [Aug 13]
+AS Jeanne d'Arc         2-1 La Tamponnaise
+St.-Pauloise FC         0-0 JS St.-Pierroise        [4-3 pen]
+St.-Denis FC            2-0 ES Dominicaine
+JS Ste.-Rosienne        0-3 AS Excelsior
+
+Semifinals [Sep 7]
+AS Excelsior            0-1 AS Jeanne d'Arc
+St.-Pauloise FC         1-0 St.-Denis FC
+
+Final [Oct 5]
+AS Jeanne d'Arc         1-0 St.-Pauloise FC
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Régional 2  ‹§reg2›
+
+<!-- start pre -->
+Final Tables:
+
+Poule A
+ 1.FC La Ville Sainte-Suzanne      26  22  3  1  87-17  95       Promoted
+----------------------------------------------------------
+ 2.Ravine Blanche Club             26  18  6  2  70-14  86  [R]  ‹Promotion Playoff, see §prorel›
+ 3.US Sainte-Marienne              26  19  3  4  62-17  86
+ 4.US Bellemène Canot              26  13  8  5  44-38  73
+ 5.OC des Avirons                  26  10 10  6  38-31  66
+ 6.SS Rivière Sports               26   9  8  9  51-43  61
+ 7.AJS Bois d'Olives               26  10  5 11  44-46  61
+ 8.FCV Saint-Philippe              26   7 13  6  38-37  60
+ 9.SC Chaudron                     26   9  5 12  38-51  58
+10.ASC Makes                       26   7  4 15  36-54  51
+11.JS Champbornoise                26   6  6 14  29-54  50
+12.AJS Saint-Denis                 26   5  8 13  25-43  49
+13.AS Evêche                       26   3  2 21  27-76  37
+14.FC 17ème Km                     26   3  1 22  24-92  36
+
+Poule B
+ 1.FC Bagatelle (Sainte-Suzanne)   26  20  6  0  78-15  92       Promoted
+----------------------------------------------------------
+ 2.AS Red Star                     26  18  6  2  65-15  86
+ 3.OF Entre Deux                   26  14  9  3  44-15  77
+ 4.ASC Possession                  26  12  5  9  60-39  67
+ 5.CS Saint-Gilles                 26  10  9  7  48-37  65
+ 6.FC Moufia                       26  10  5 11  43-38  61
+ 7.AS Capricorne (Saint-Pierre)    26   9  6 11  41-50  59
+ 8.JCV St.-Pierre                  26   8  6 12  21-39  56
+ 9.AS 12ème Km                     26   8  5 13  44-62  55
+10.FC Parfin                       26   5 14  7  33-36  55
+11.AS Montgaillard                 26   6  8 12  29-63  52
+12.AS du Plate                     26   5  7 14  23-54  48
+13.AC JS Rivière du Mat.           26   5  3 18  28-56  44
+14.AC S. Redoute                   26   3  7 16  19-57  42
+NB: two more losses than wins; presumably one match awarded loss to both
+
+Poule C
+ 1.US Bénédictine                  26  21  2  3  66-23  91       Promoted
+----------------------------------------------------------
+ 2.AS Bretagne                     26  19  4  3  63-28  87
+ 3.AJ Petite-Ile                   26  13  9  4  42-25  74
+ 4.SDEFA                           26  12  5  9  41-35  67
+ 5.OCSA Léopards (Saint-André)     26  12  4 10  54-41  66
+ 6.Etoile du Sud                   26  11  5 10  42-36  64
+ 7.AF Possession                   26  11  4 11  50-42  63
+ 8.AS Poudrière                    26   7  8 11  33-44  55
+ 9.AS Sainte-Suzanne               26   8  4 14  33-53  54  [R]
+10.AES Convenance                  26   7  4 15  35-65  51
+11.SC Bois de Nèfles               26   6  7 13  38-48  51
+12.ASC Grands Bois (Saint-Pierre)  26   6  6 14  27-41  50
+13.JS Sainte-Annoise               26   5  8 13  27-47  49
+14.Jean Petit FC SJ                26   7  2 17  24-47  49
+NB: two more losses than wins; presumably one match awarded loss to both
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024, see page reunion2024›
+
+‹list of champions, see page reunionchamp›
+
+‹list of final tables, see page reunionhist›
+
+‹list of winners coupe de la reunion, see page reunioncuphist›
+
+‹list of french sea territories cup winners, see page ../tablesf/franseaterrcuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Authors: Hans Schöggl and Karel Stokkermans
+
+Last updated: 23 Dec 2025
+
+
+(C) Copyright Hans Schöggl, Karel Stokkermans and RSSSF 2025
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.

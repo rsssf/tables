@@ -1,0 +1,146 @@
+  <!--
+     source: https://rsssf.org/tablest/tnistru2025.html
+    -->
+  
+
+
+== Transnistria 2025
+
+<!-- start pre -->
+League  ‹§leag›
+
+Departed: ISM-2017 YSS (Grigoriopol), Sinai (Tiraspol), YSS Pik-Agro (Slobozia)
+
+Final Table:
+
+1.SKA-Armeieț (Tiraspol)  10  10  0  0  61-16  30  [C] Champions (second consecutive title)
+2.Iskra (Rîbnița)         10   5  1  4  45-30  16
+3.Dinamo (Slobozia)       10   5  0  5  22-26  15  [N]
+4.SYSOR #4 (Bender)       10   4  2  4  23-33  14
+5.FC Dubăsari             10   3  1  6  23-35  10  [N]
+6.SYSOR #4 (Tiraspol)     10   1  0  9  16-50   3  [N]
+
+Round 1 [May 21]
+SYSOR #4 Tr  1-7  Dubăsari
+Dinamo       3-1  SYSOR #4 Bn
+
+Round 2 [May 28]
+SYSOR #4 Bn  2-2  Iskra
+Dubăsari     1-0  Dinamo
+
+Round 3 [Jun 4]
+Dinamo       0-7  SKA-Armeieț
+Dubăsari     2-2  SYSOR #4 Bn
+
+Round 4 [Jun 11]
+SKA-Armeieț  4-0  Iskra
+SYSOR #4 Bn  5-0  SYSOR #4 Tr
+
+Round 5 [Jun 18]
+Dubăsari     2-10 SKA-Armeieț
+SYSOR #4 Tr  4-3  Iskra
+
+Round 6 [Jun 25]
+SKA-Armeieț  5-1  SYSOR #4 Tr
+Iskra        7-4  Dinamo
+
+Round 7 [Jul 4]
+SKA-Armeieț  6-1  SYSOR #4 Bn
+Iskra        4-0  Dubăsari
+Dinamo       2-0  SYSOR #4 Tr
+
+Halfway Table:
+
+1.SKA-Armeieț (Tiraspol)   5   5  0  0  32- 4  15  [C]
+2.Iskra (Rîbnița)          5   2  1  2  16-14   7      [4-0]
+3.FC Dubăsari              5   2  1  2  12-17   7  [N] [0-4]
+4.Dinamo (Slobozia)        5   2  0  3   9-16   6  [N]
+5.SYSOR #4 (Bender)        5   1  2  2  11-13   5
+6.SYSOR #4 (Tiraspol)      5   1  0  4   6-22   3  [N]
+
+Round 8
+[Jul 29]
+Dubăsari     4-1  SYSOR #4 Tr
+[Jul 30]
+Iskra        2-4  SKA-Armeieț
+SYSOR #4 Bn  2-0  Dinamo
+
+Round 9
+[Aug 5]
+SKA-Armeieț  6-2  Dubăsari
+[Aug 6]
+SYSOR #4 Tr  lt.  SYSOR #4 Bn
+Dinamo       5-4  Iskra
+
+Round 10
+[Aug 12]
+SYSOR #4 Bn  4-3  Dubăsari
+[Aug 13]
+SKA-Armeieț  2-0  Dinamo
+Iskra       11-3  SYSOR #4 Tr
+
+Round 11 [Aug 20]
+SYSOR #4 Bn  4-9  SKA-Armeieț
+Dubăsari     2-4  Iskra
+SYSOR #4 Tr  2-5  Dinamo
+
+Round 12 [Aug 27]
+SYSOR #4 Tr  4-8  SKA-Armeieț
+Iskra        8-2  SYSOR #4 Bn
+Dinamo       3-0  Dubăsari
+
+Final Table:
+
+1.SKA-Armeieț (Tiraspol)  10  10  0  0  61-16  30  [C] Champions (second consecutive title)
+2.Iskra (Rîbnița)         10   5  1  4  45-30  16
+3.Dinamo (Slobozia)       10   5  0  5  22-26  15  [N]
+4.SYSOR #4 (Bender)       10   4  2  4  23-33  14
+5.FC Dubăsari             10   3  1  6  23-35  10  [N]
+6.SYSOR #4 (Tiraspol)     10   1  0  9  16-50   3  [N]
+
+Top scorers:
+
+1.Iefim Tuluc (Iskra)        12
+2.Vlad Varcan (Dubăsari)     11
+3.Eddie Jacob (SKA-Armeieț)  10
+
+Cup  ‹§cup›
+
+Quarterfinals [May 31]
+
+SYSOR #4 (Tiraspol)     bt.  Iskra (Rîbnița)
+FC Dubăsari             lt.  DINAMO (Slobozia)
+
+Semifinals [Aug 17]
+
+SYSOR #4 (Bender)       2-3  DINAMO (Slobozia)
+SKA-ARMEIEŢ (Tiraspol) 12-3  SYSOR #4 (Tiraspol)
+
+Final [Sep 7, Bender]
+
+SKA-ARMEIEŢ (Tiraspol) 11-0  Dinamo (Slobozia)
+
+<!-- end pre -->
+
+‹2024, see page tnistru2024›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+NB: the FA of Transnistria is not recognised by UEFA or FIFA (and neither
+is the state); inclusion of results here exclusively serves football statistical
+purposes
+
+Prepared and maintained by Theodore Dreiman
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Theodore Dreiman
+
+Last updated: 4 Oct 2025
+
+
+(C) Copyright Theodore Dreiman and RSSSF 2025
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

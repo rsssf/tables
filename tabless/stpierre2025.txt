@@ -1,0 +1,95 @@
+  <!--
+     source: https://rsssf.org/tabless/stpierre2025.html
+    -->
+  
+
+
+== Saint-Pierre et Miquelon 2025
+
+<!-- start pre -->
+Overall Championship  ‹§chp›
+
+Final Table:
+
+ 1.AS Miquelonnaise       16   9  3  4  38-26  46  Champions
+ 2.AS Saint-Pierre        16   7  3  6  36-31  40
+ 3.AS Ilienne Amateur     16   4  2 10  21-38  30
+
+NB: the league championship is split into 4 cup tournaments; the standings of the overall
+    championship is obtained by the total sum of the final standings of those four cups.
+
+Coupe 1  ‹§c1›
+
+Final Table:
+
+ 1.AS Miquelonnaise        4   3  0  1  16- 6  13
+ 2.AS Saint-Pierre         4   2  0  2   7-12  10
+ 3.AS Ilienne Amateur      4   1  0  3   6-11   7
+
+Coupe 2  ‹§c2›
+
+Final Table:
+
+ 1.AS Miquelonnaise        4   2  2  0   6- 2  12
+ 2.AS Saint-Pierre         4   1  2  1   5- 5   9
+ 3.AS Ilienne Amateur      4   0  2  2   2- 6   6
+
+Coupe 3  ‹§c3›
+
+Final Table:
+
+ 1.AS Saint-Pierre         4   3  0  1  15- 3  13
+ 2.AS Miquelonnaise        4   2  0  2   6- 9  10
+ 3.AS Ilienne Amateur      4   1  0  3   5-14   7
+
+Coupe 4  ‹§c4›
+
+Final Table:
+
+ 1.AS Miquelonnaise        4   2  1  1  10- 9  11
+ 2.AS Ilienne Amateur      4   2  0  2   8- 7  10
+ 3.AS Saint-Pierre         4   1  1  2   9-11   8
+
+Coupe de l'Archipel  ‹§arch›
+
+NB: between champions and league runners-up
+
+Final [Sep 27]
+ASM              2-0 ASSP
+
+Coupe de France  ‹§frm›
+
+Round 1 [Jul 5]
+ASSP             6-1 ASIA
+ASM              bye
+
+Round 2 [Jul 20]
+ASSP             0-0 ASM              [5-4 pen]
+
+NB: ASSP qualified for the third round of the 2025/26 Coupe de France
+
+Round 3 [Sep 13]
+Arsac Pian Médoc 2-1 ASSP
+
+<!-- end pre -->
+
+‹list of champions, see page stpierrechamp›
+
+‹2024, see page stpierre2024›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 9 Oct 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2025
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

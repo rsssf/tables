@@ -1,0 +1,176 @@
+  <!--
+     source: https://rsssf.org/tablesb/barb2026.html
+    -->
+  
+
+
+== Barbados 2026
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Premier League, see §prem›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Premier League  ‹§prem›
+
+<!-- start pre -->
+Table:
+
+ 1.Paradise                      10   6  3  1  30- 9  21
+ 2.Ellerton                      10   6  2  2  20- 7  20
+ 3.Kickstart Rush                10   5  5  0  21-10  20
+ 4.Weymouth Wales                10   5  4  1  21- 6  19  [C]
+ 5.Brittons Hill                 10   6  1  3  19-16  19
+ 6.University of the West Indies 10   4  0  6  14-18  12
+ 7.Pride of Gall Hill            10   3  2  5   7-13  11
+ 8.Bagatelle                     10   3  2  5  10-18  11  [P]
+--------------------------------------------------------
+ 9.St. Andrew Lions              10   1  3  6   8-19   6  [P]
+10.Wotton                        10   0  0 10   9-43   0
+
+Round 1
+[Jan 11]
+Bagatelle               0-2 Weymouth Wales
+Paradise                1-0 UWI Blackbirds
+Brittons Hill           1-2 Kickstart Rush
+[Jan 13]
+Pride of Gall Hill      3-0 St. Andrew Lions
+Wotton                  1-3 Ellerton
+
+Round 2
+[Jan 18]
+St. Andrew Lions        1-2 Bagatelle
+UWI Blackbirds          1-4 Brittons Hill
+Weymouth Wales          5-1 Wotton
+[Jan 20]
+Paradise                5-0 Pride of Gall Hill
+Kickstart Rush          1-1 Ellerton
+
+Round 3
+[Jan 25]
+Wotton                  2-7 Kickstart Rush
+Ellerton                1-0 UWI Blackbirds
+Brittons Hill           1-0 Pride of Gall Hill
+[Jan 27]
+Bagatelle               1-4 Paradise
+Weymouth Wales          0-0 St. Andrew Lions
+
+Round 4
+[Feb 1]
+Pride of Gall Hill      1-0 Ellerton
+St. Andrew Lions        3-0 Wotton
+Paradise                1-1 Weymouth Wales
+[Feb 3]
+UWI Blackbirds          2-3 Kickstart Rush
+Brittons Hill           2-2 Bagatelle
+
+Round 5
+[Feb 8]
+Ellerton                1-0 Bagatelle
+Wotton                  0-4 UWI Blackbirds
+Weymouth Wales          3-0 Brittons Hill
+[Feb 14]
+Kickstart Rush          2-0 Pride of Gall Hill
+[Feb 19]
+St. Andrew Lions        1-4 Paradise
+
+Round 6
+[Feb 15]
+Brittons Hill           1-0 St. Andrew Lions
+Paradise                7-2 Wotton
+Ellerton                1-0 Weymouth Wales
+[Feb 17]
+Bagatelle               1-1 Kickstart Rush
+Pride of Gall Hill      0-2 UWI Blackbirds
+
+Round 7
+[Feb 22]
+UWI Blackbirds          1-0 Bagatelle
+Paradise                2-3 Brittons Hill
+Kickstart Rush          0-0 Weymouth Wales
+[Feb 24]
+St. Andrew Lions        1-4 Ellerton
+Wotton                  0-1 Pride of Gall Hill
+
+Round 8
+[Mar 1]
+Kickstart Rush          1-1 St. Andrew Lions
+Wotton                  2-3 Brittons Hill
+Weymouth Wales          4-1 UWI Blackbirds
+[Mar 3]
+Bagatelle               1-0 Pride of Gall Hill
+Ellerton                0-0 Paradise
+
+Round 9
+[Mar 8]
+Wotton                  1-2 Bagatelle
+Pride of Gall Hill      1-1 Weymouth Wales
+Brittons Hill           3-1 Ellerton
+[Mar 10]
+Paradise                1-1 Kickstart Rush
+UWI Blackbirds          3-0 St. Andrew Lions
+
+Halfway Table:
+
+ 1.Brittons Hill                  9   6  1  2  18-13  19
+ 2.Paradise                       9   5  3  1  25- 9  18
+ 3.Kickstart Rush                 9   4  5  0  18- 9  17
+ 4.Ellerton                       9   5  2  2  12- 7  17
+ 5.Weymouth Wales                 9   4  4  1  16- 5  16  [C]
+ 6.University of the West Indies  9   4  0  5  14-13  12
+ 7.Bagatelle                      9   3  2  4   9-13  11  [P]
+ 8.Pride of Gall Hill             9   3  1  5   6-12  10
+--------------------------------------------------------
+ 9.St. Andrew Lions               9   1  2  6   7-18   5  [P]
+10.Wotton                         9   0  0  9   9-35   0
+
+Round 10
+[Mar 15]
+Kickstart Rush          3-1 Brittons Hill
+UWI Blackbirds          0-5 Paradise
+Ellerton                8-0 Wotton
+[Mar 17]
+St. Andrew Lions        1-1 Pride of Gall Hill
+Weymouth Wales          5-1 Bagatelle
+
+Table:
+
+ 1.Paradise                      10   6  3  1  30- 9  21
+ 2.Ellerton                      10   6  2  2  20- 7  20
+ 3.Kickstart Rush                10   5  5  0  21-10  20
+ 4.Weymouth Wales                10   5  4  1  21- 6  19  [C]
+ 5.Brittons Hill                 10   6  1  3  19-16  19
+ 6.University of the West Indies 10   4  0  6  14-18  12
+ 7.Pride of Gall Hill            10   3  2  5   7-13  11
+ 8.Bagatelle                     10   3  2  5  10-18  11  [P]
+--------------------------------------------------------
+ 9.St. Andrew Lions              10   1  3  6   8-19   6  [P]
+10.Wotton                        10   0  0 10   9-43   0
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2025, see page barb2025›
+
+‹list of champions, see page barbchamp›
+
+‹list of cup winners, see page barbcuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Patrick Beckles for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Patrick Beckles
+
+Last updated: 19 Mar 2026
+
+
+(C) Copyright Patrick Beckles and RSSSF 2026
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

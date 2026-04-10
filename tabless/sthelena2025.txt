@@ -1,0 +1,213 @@
+  <!--
+     source: https://rsssf.org/tabless/sthelena2025.html
+    -->
+  
+
+
+== Saint Helena 2025
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹SHFA League, see §shfa›
+‹Knock-out Competition, see §shko›
+‹SHFA District League, see §dist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== SHFA League  ‹§shfa›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Bellboys              14  14  0  0 152-10  42       Champions
+ 2.Rovers                14  11  0  3 129-23  33  [C]
+ 3.Wirebirds             15   8  1  6 112-46  25  [N]
+ 4.La Verde              15   5  1  9  61-75  16
+ 5.Fugees                14   4  0 10  53-79  12
+ 6.Inter Galactic        14   0  0 14   3-277 -1  [-1]
+
+NB: Inter Galactic 1 point deducted for failing to provide linesman in round 13
+
+Round 1
+[Jul 12]
+Rovers               7-0 La Verde
+[Jul 13]
+Inter Galactic      0-37 Bellboys
+Wirebirds           12-0 Fugees
+
+Round 2
+[Jul 19]
+Fugees               1-7 La Verde
+[Jul 20]
+Wirebirds           17-0 Inter Galactic
+Bellboys             4-1 Rovers
+
+Round 3
+[Jul 25]
+Bellboys             9-1 Wirebirds
+[Jul 26]
+La Verde            15-0 Inter Galactic
+Rovers               5-1 Fugees
+
+Round 4
+[Aug 2]
+Inter Galactic      1-10 Fugees
+[Aug 3]
+Wirebirds            2-6 Rovers
+La Verde            0-11 Bellboys
+
+Round 5
+[Aug 9]
+Wirebirds            8-1 La Verde
+[Aug 10 (postponed and not refixtured)]
+Fugees               n/p Bellboys
+Rovers               n/p Inter Galactic
+
+Round 6
+[Aug 23]
+Bellboys            25-0 Inter Galactic
+[Aug 24]
+La Verde            2-12 Rovers
+Fugees               1-5 Wirebirds
+
+Round 7
+[Aug 30]
+Rovers               2-3 Bellboys
+[Aug 31]
+La Verde             4-3 Fugees
+Inter Galactic      0-29 Wirebirds
+
+Round 8 [Sep 7]
+Inter Galactic      0-15 La Verde
+Bellboys             5-1 Wirebirds
+Rovers               9-2 Fugees
+
+Round 9
+[Sep 13]
+Rovers               4-3 Wirebirds
+[Sep 14]
+Fugees              13-0 Inter Galactic
+Bellboys             8-1 La Verde
+
+Round 10
+[Sep 20]
+Bellboys            10-1 Fugees
+[Sep 21]
+Inter Galactic      1-23 Rovers
+La Verde             2-2 Wirebirds
+
+Round 11
+[Oct 11]
+Wirebirds            8-1 Fugees
+[Oct 12]
+Rovers               9-0 La Verde
+Inter Galactic      0-17 Bellboys
+
+Round 12
+[Oct 18]
+Wirebirds           19-0 Inter Galactic
+[Oct 19]
+Fugees               3-2 La Verde
+Bellboys             4-0 Rovers
+
+Round 13 [Oct 26]
+Rovers               8-0 Fugees
+Bellboys             4-1 Wirebirds
+La Verde             9-0 Inter Galactic
+
+Round 14
+[Nov 1]
+La Verde             1-8 Bellboys
+[Nov 2]
+Wirebirds           1-11 Rovers
+Inter Galactic      1-16 Fugees
+
+Round 15
+[Nov 8]
+Rovers              32-0 Inter Galactic
+[Nov 9]
+Fugees               1-7 Bellboys
+Wirebirds            3-2 La Verde
+
+Final Table:
+
+ 1.Bellboys              14  14  0  0 152-10  42       Champions
+ 2.Rovers                14  11  0  3 129-23  33  [C]
+ 3.Wirebirds             15   8  1  6 112-46  25  [N]
+ 4.La Verde              15   5  1  9  61-75  16
+ 5.Fugees                14   4  0 10  53-79  12
+ 6.Inter Galactic        14   0  0 14   3-277 -1  [-1]
+
+NB: Inter Galactic 1 point deducted for failing to provide linesman in round 13
+
+Topscorers:
+59 Joey Thomas (Bellboys)
+37 Blaize Baldwin (Rovers)
+29 Kyle Shoesmith (Wirebirds)
+25 Rico Benjamin (Rovers)
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Knock-out Competition  ‹§shko›
+
+<!-- start pre -->
+Round 1 [Nov 23]
+Bellboys             9-1 Fugees
+Rovers               8-2 La Verde
+Wirebirds            bye Inter Galactic
+
+Semifinals [Nov 30]
+Bellboys            19-0 Inter Galactic
+Rovers              12-1 Wirebirds
+
+Final [Dec 13]
+Rovers               bt  Bellboys
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== SHFA District League  ‹§dist›
+
+<!-- start pre -->
+NB: played as knock-out tournament due to time constraints
+
+Semifinals
+[Nov 15]
+Jamestown            1-6 Half Tree Hollow
+[Nov 16]
+St Paul's            4-2 Longwood
+
+Third Place Match [Dec 6]
+Longwood             3-8 Jamestown
+
+Final [Dec 6]
+Half Tree Hollow     8-1 St Paul's
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024, see page sthelena2024›
+
+‹list of champions, see page sthelenachamp›
+
+‹list of cup winners, see page sthelenacuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 23 Dec 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2025
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

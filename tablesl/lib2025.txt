@@ -1,0 +1,1086 @@
+  <!--
+     source: https://rsssf.org/tablesl/lib2025.html
+    -->
+  
+
+
+== Libya 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Premier League, see §div1›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Premier League  ‹§div1›
+
+<!-- start pre -->
+‹Group Stage, see §grp› | ‹Final Stage, see §fin› | ‹Relegation Playoff, see §relpo›
+
+Group Stage  ‹§grp›
+
+‹Group 1, see §gp1› | ‹Group 2, see §gp2› | ‹Group 3, see §gp3› | ‹Group 4, see §gp4›
+
+Group 1  ‹§gp1›
+
+Final Table:
+
+ 1.Al-Nasr SC (Benghazi)       16   9  5  2  20- 9  32  [C]        ‹Final Stage, see §fin›
+ 2.Al-Akhdar SC (Al-Bayda)     16   9  4  3  25-11  31             ‹Final Stage, see §fin›
+ 3.Al-Tahaddi SC (Benghazi)    16   6  7  3  20-14  25             ‹Final Stage, see §fin›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Al-Anwar (Al-Abyar)         16   5  4  7  18-26  19      [3-2]
+ 5.Al-Soukour (Tobruk)         16   5  4  7  16-20  19      [2-3]
+ 6.Al-Borouq                   16   3  9  4  14-15  18  [P]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Khaleej Surt                16   4  5  7  15-21  17  [P]        ‹Relegation Playoff, see §relpo›
+ 8.Al-Ansar Al-Bayda           16   5  2  9  17-24  16  [P]  [-1]  ‹Relegation Playoff, see §relpo›
+------------------------------------------------------
+ 9.Al-Wefaq Ajdabiya           16   4  4  8   9-14  14  [P]  [-2]  Relegated
+
+NB: Al-Wefaq Ajdabiya 2 points deducted; Al-Ansar Al-Bayda 1 point deducted;
+    Al-Wefaq Ajdabiya apparently were later reprieved from relegation
+
+Round 1
+[Dec 11]
+Al-Wefaq Ajdabiya   0-1 Al-Nasr Benghazi
+Al-Tahaddi          2-0 Khaleej Surt
+[Dec 12]
+Al-Ansar Al-Bayda   1-3 Al-Akhdar
+Al-Soukour          1-1 Al-Anwar
+Al-Borouq           bye
+
+Round 2
+[Dec 17]
+Al-Akhdar           2-1 Al-Soukour
+Al-Anwar            2-1 Al-Wefaq Ajdabiya
+[Dec 18]
+Al-Borouq           0-0 Al-Tahaddi
+Khaleej Surt        awd Al-Ansar Al-Bayda   [awarded 2-0; originally 1-1]
+Al-Nasr Benghazi    bye
+
+Round 3
+[Dec 23]
+Al-Ansar Al-Bayda   1-0 Al-Borouq
+Al-Nasr Benghazi    3-1 Al-Anwar
+[Dec 24]
+Al-Soukour          2-1 Khaleej Surt
+Al-Wefaq Ajdabiya   awd Al-Akhdar           [awarded 0-2; originally 1-2]
+Al-Tahaddi          bye
+
+Round 4
+[Dec 28]
+Al-Borouq           2-3 Al-Soukour
+Al-Tahaddi          3-0 Al-Ansar Al-Bayda
+[Dec 29]
+Al-Akhdar           1-0 Al-Nasr Benghazi
+Khaleej Surt        1-0 Al-Wefaq Ajdabiya
+Al-Anwar            bye
+
+Round 5
+[Jan 2]
+Al-Anwar            1-2 Al-Akhdar
+Al-Nasr Benghazi    2-0 Khaleej Surt
+[Jan 3]
+Al-Soukour          3-0 Al-Tahaddi
+Al-Wefaq Ajdabiya   1-1 Al-Borouq
+Al-Ansar Al-Bayda   bye
+
+Round 6
+[Jan 8]
+Khaleej Surt        2-0 Al-Anwar
+Al-Tahaddi          0-0 Al-Wefaq Ajdabiya
+[Jan 9]
+Al-Borouq           0-2 Al-Nasr Benghazi
+Al-Ansar Al-Bayda   1-1 Al-Soukour
+Al-Akhdar           bye
+
+Round 7
+[Jan 14]
+Al-Akhdar           4-1 Khaleej Surt
+Al-Wefaq Ajdabiya   2-1 Al-Ansar Al-Bayda
+[Jan 15]
+Al-Anwar            1-1 Al-Borouq
+Al-Nasr Benghazi    0-0 Al-Tahaddi
+Al-Soukour          bye
+
+Round 8
+[Jan 20]
+Al-Soukour          1-0 Al-Wefaq Ajdabiya
+Al-Borouq           0-0 Al-Akhdar
+[Jan 21]
+Al-Ansar Al-Bayda   1-1 Al-Nasr Benghazi
+Al-Tahaddi          2-0 Al-Anwar
+Khaleej Surt        bye
+
+Round 9
+[Jan 25]
+Al-Anwar            4-3 Al-Ansar Al-Bayda
+Al-Nasr Benghazi    2-0 Al-Soukour
+[Jan 26]
+Al-Akhdar           1-3 Al-Tahaddi
+Khaleej Surt        4-3 Al-Borouq
+Al-Wefaq Ajdabiya   bye
+
+Round 10
+[Feb 4]
+Al-Akhdar           4-1 Al-Ansar Al-Bayda
+Al-Anwar            2-1 Al-Soukour
+[Feb 5]
+Khaleej Surt        0-0 Al-Tahaddi
+Al-Nasr Benghazi    0-0 Al-Wefaq Ajdabiya
+Al-Borouq           bye
+
+Round 11
+[Feb 9]
+Al-Ansar Al-Bayda   2-0 Khaleej Surt
+Al-Tahaddi          2-2 Al-Borouq
+[Feb 10]
+Al-Soukour          0-0 Al-Akhdar
+Al-Wefaq Ajdabiya   3-0 Al-Anwar
+Al-Nasr Benghazi    bye
+
+Round 12
+[Feb 14]
+Al-Akhdar           2-0 Al-Wefaq Ajdabiya
+Khaleej Surt        1-1 Al-Soukour
+[Feb 15]
+Al-Anwar            2-1 Al-Nasr Benghazi
+Al-Borouq           1-0 Al-Ansar Al-Bayda
+Al-Tahaddi          bye
+
+Round 13
+[Feb 19]
+Al-Wefaq Ajdabiya   1-0 Khaleej Surt
+Al-Nasr Benghazi    1-0 Al-Akhdar
+[Feb 20]
+Al-Soukour          awd Al-Borouq           [awarded 0-2; originally 1-0]
+Al-Ansar Al-Bayda   1-0 Al-Tahaddi
+Al-Anwar            bye
+
+Round 14
+[Feb 24]
+Al-Borouq           1-0 Al-Wefaq Ajdabiya
+Al-Tahaddi          3-0 Al-Soukour
+[Feb 25]
+Khaleej Surt        0-1 Al-Nasr Benghazi
+Al-Akhdar           0-1 Al-Anwar
+Al-Ansar Al-Bayda   bye
+
+Round 15
+[Mar 6]
+Al-Nasr Benghazi    1-1 Al-Borouq
+Al-Soukour          2-1 Al-Ansar Al-Bayda
+[Mar 7]
+Al-Wefaq Ajdabiya   0-0 Al-Tahaddi
+Al-Anwar            2-2 Khaleej Surt
+Al-Akhdar           bye
+
+Round 16
+[Mar 12]
+Al-Tahaddi          3-3 Al-Nasr Benghazi
+Al-Borouq           0-0 Al-Anwar
+[Mar 13]
+Khaleej Surt        1-1 Al-Akhdar
+Al-Ansar Al-Bayda   2-0 Al-Wefaq Ajdabiya
+Al-Soukour          bye
+
+Round 17 [Apr 4]
+Al-Akhdar           0-0 Al-Borouq
+Al-Wefaq Ajdabiya   1-0 Al-Soukour
+Al-Anwar            1-2 Al-Tahaddi
+Al-Nasr Benghazi    1-0 Al-Ansar Al-Bayda
+Khaleej Surt        bye
+
+Round 18 [Apr 9]
+Al-Soukour          0-1 Al-Nasr Benghazi
+Al-Borouq           0-0 Khaleej Surt
+Al-Ansar Al-Bayda   2-0 Al-Anwar
+Al-Tahaddi          0-3 Al-Akhdar
+Al-Wefaq Ajdabiya   bye
+
+Final Table:
+
+ 1.Al-Nasr SC (Benghazi)       16   9  5  2  20- 9  32  [C]        ‹Final Stage, see §fin›
+ 2.Al-Akhdar SC (Al-Bayda)     16   9  4  3  25-11  31             ‹Final Stage, see §fin›
+ 3.Al-Tahaddi SC (Benghazi)    16   6  7  3  20-14  25             ‹Final Stage, see §fin›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Al-Anwar (Al-Abyar)         16   5  4  7  18-26  19      [3-2]
+ 5.Al-Soukour (Tobruk)         16   5  4  7  16-20  19      [2-3]
+ 6.Al-Borouq                   16   3  9  4  14-15  18  [P]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Khaleej Surt                16   4  5  7  15-21  17  [P]        ‹Relegation Playoff, see §relpo›
+ 8.Al-Ansar Al-Bayda           16   5  2  9  17-24  16  [P]  [-1]  ‹Relegation Playoff, see §relpo›
+------------------------------------------------------
+ 9.Al-Wefaq Ajdabiya           16   4  4  8   9-14  14  [P]  [-2]  Relegated
+
+NB: Al-Wefaq Ajdabiya 2 points deducted; Al-Ansar Al-Bayda 1 point deducted;
+    Al-Wefaq Ajdabiya apparently were later reprieved from relegation
+
+Group 2  ‹§gp2›
+
+Final Table:
+
+ 1.Al-Hilal SC (Benghazi)      14  11  1  2  30-12  34 [2-2; 2 ag] ‹Final Stage, see §fin›
+ 2.Al-Ahli SC (Benghazi)       14  11  1  2  31- 6  34 [2-2; 1 ag] ‹Final Stage, see §fin›
+ 3.Al-Sadaqa SC (Shahat)       14   7  3  4  16-13  24             ‹Final Stage, see §fin›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Al-Ta'awon SC (Ajdabiya)    14   6  4  4  19-14  22
+ 5.Al-Andalus                  14   5  3  6  17-18  18  [P]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Al-Murooj                   14   3  3  8  14-25  12             ‹Relegation Playoff, see §relpo›
+ 7.Branes                      14   2  2 10  11-28   8  [P]        ‹Relegation Playoff, see §relpo›
+------------------------------------------------------
+ 8.Al-Mahdia                   14   1  3 10   8-30   6  [P]        Relegated
+
+Round 1
+[Dec 13]
+Al-Mahdia           0-2 Al-Hilal
+Al-Ahli Benghazi    2-0 Al-Ta'awon
+[Dec 14]
+Al-Murooj           2-2 Al-Andalus
+Al-Sadaqa           2-0 Branes
+
+Round 2
+[Dec 19]
+Al-Andalus          2-0 Al-Sadaqa
+Branes              awd Al-Mahdia           [awarded 2-0, originally 1-2]
+[Dec 20]
+Al-Ta'awon          2-1 Al-Hilal
+Al-Ahli Benghazi    3-0 Al-Murooj
+
+Round 3
+[Dec 25]
+Al-Murooj           3-2 Al-Ta'awon
+Al-Hilal            3-0 Branes
+[Dec 26]
+Al-Sadaqa           1-1 Al-Ahli Benghazi
+Al-Mahdia           0-0 Al-Andalus
+
+Round 4
+[Dec 30]
+Al-Ta'awon          4-1 Branes
+Al-Murooj           1-0 Al-Sadaqa
+[Dec 31]
+Al-Andalus          1-3 Al-Hilal
+Al-Ahli Benghazi    5-0 Al-Mahdia
+
+Round 5
+[Jan 5]
+Al-Sadaqa           2-1 Al-Ta'awon
+Al-Mahdia           2-1 Al-Murooj
+[Jan 6]
+Branes              1-2 Al-Andalus
+Al-Hilal            0-1 Al-Ahli Benghazi
+
+Round 6
+[Jan 16]
+Al-Sadaqa           2-1 Al-Mahdia
+Al-Ahli Benghazi    4-0 Branes
+[Jan 17]
+Al-Murooj           0-1 Al-Hilal
+Al-Ta'awon          1-0 Al-Andalus
+
+Round 7
+[Jan 22]
+Al-Andalus          1-2 Al-Ahli Benghazi
+Branes              0-0 Al-Murooj
+[Jan 23]
+Al-Mahdia           0-3 Al-Ta'awon
+Al-Hilal            2-1 Al-Sadaqa
+
+Round 8
+[Feb 6]
+Al-Andalus          2-0 Al-Murooj
+Branes              0-1 Al-Sadaqa
+[Feb 7]
+Al-Ta'awon          1-0 Al-Ahli Benghazi
+Al-Hilal            4-2 Al-Mahdia
+
+Round 9
+[Feb 11]
+Al-Murooj           1-4 Al-Ahli Benghazi
+Al-Hilal            1-0 Al-Ta'awon
+[Feb 12]
+Al-Mahdia           3-3 Branes
+Al-Sadaqa           3-1 Al-Andalus
+
+Round 10
+[Feb 16]
+Al-Andalus          2-0 Al-Mahdia
+Al-Ahli Benghazi    2-0 Al-Sadaqa
+[Feb 18]
+Branes              0-4 Al-Hilal
+Al-Ta'awon          2-2 Al-Murooj
+
+Round 11
+[Feb 22]
+Al-Mahdia           0-4 Al-Ahli Benghazi
+Al-Hilal            3-1 Al-Andalus
+[Feb 23]
+Branes              0-1 Al-Ta'awon
+Al-Sadaqa           1-0 Al-Murooj
+
+Round 12
+[Feb 27]
+Al-Ahli Benghazi    1-2 Al-Hilal
+Al-Andalus          2-1 Branes
+[Feb 28]
+Al-Ta'awon          1-1 Al-Sadaqa
+Al-Murooj           1-0 Al-Mahdia
+
+Round 13 [Mar 10]
+Branes              0-1 Al-Ahli Benghazi
+Al-Hilal            3-2 Al-Murooj
+Al-Andalus          1-1 Al-Ta'awon
+Al-Mahdia           0-1 Al-Sadaqa
+
+Round 14 [Apr 7]
+Al-Sadaqa           1-1 Al-Hilal
+Al-Ta'awon          0-0 Al-Mahdia
+Al-Murooj           1-3 Branes
+Al-Ahli Benghazi    1-0 Al-Andalus
+
+Final Table:
+
+ 1.Al-Hilal SC (Benghazi)      14  11  1  2  30-12  34 [2-2; 2 ag] ‹Final Stage, see §fin›
+ 2.Al-Ahli SC (Benghazi)       14  11  1  2  31- 6  34 [2-2; 1 ag] ‹Final Stage, see §fin›
+ 3.Al-Sadaqa SC (Shahat)       14   7  3  4  16-13  24             ‹Final Stage, see §fin›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Al-Ta'awon SC (Ajdabiya)    14   6  4  4  19-14  22
+ 5.Al-Andalus                  14   5  3  6  17-18  18  [P]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Al-Murooj                   14   3  3  8  14-25  12             ‹Relegation Playoff, see §relpo›
+ 7.Branes                      14   2  2 10  11-28   8  [P]        ‹Relegation Playoff, see §relpo›
+------------------------------------------------------
+ 8.Al-Mahdia                   14   1  3 10   8-30   6  [P]        Relegated
+
+Group 3  ‹§gp3›
+
+Final Table:
+
+ 1.Al-Swihli SC (Misrata)      16  12  4  0  36-12  40             ‹Final Stage, see §fin›
+ 2.Al-Olympique SC (Azzaweya)  16  11  4  1  28-13  37             ‹Final Stage, see §fin›
+ 3.Al-Ittihad SC (Tripoli)     16   8  4  4  24-10  28             ‹Final Stage, see §fin›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Al-Majd Tripoli             16   6  3  7  25-29  21  [P]
+ 5.Al-Shabab Al-Ghar           16   4  8  4  18-18  20  [P] [6-5]
+ 6.Abu Salim SC (Tripoli)      16   6  2  8  20-24  20      [5-6]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Al-Bashayer (Misrata)       16   4  5  7  19-21  17             ‹Relegation Playoff, see §relpo›
+ 8.Al-Tersana Tripoli          16   3  6  7  22-22  15  [P]        ‹Relegation Playoff, see §relpo›
+------------------------------------------------------
+ 9.Al-Nahda Sabha              16   0  0 16   5-48  -3  [P]  [-3]  Relegated
+
+NB: Al-Nahda Sabha 3 points deducted
+
+Round 1
+[Dec 11]
+Abu Salim           0-1 Al-Olympique
+Al-Tersana Tripoli  2-2 Al-Shabab Al-Ghar
+[Dec 12]
+Al-Nahda Sabha      0-2 Al-Bashayer
+Al-Ittihad Tripoli  2-1 Al-Majd Tripoli
+Al-Swihli           bye
+
+Round 2
+[Dec 17]
+Al-Olympique        1-0 Al-Ittihad Tripoli
+Al-Swihli           3-1 Abu Salim
+[Dec 18]
+Al-Majd Tripoli     0-2 Al-Tersana Tripoli
+Al-Shabab Al-Ghar   2-0 Al-Nahda Sabha
+Al-Bashayer         bye
+
+Round 3
+[Dec 23]
+Al-Bashayer         0-0 Al-Shabab Al-Ghar
+Al-Ittihad Tripoli  0-1 Al-Swihli
+[Dec 24]
+Al-Nahda Sabha      3-4 Al-Majd Tripoli
+Al-Tersana Tripoli  2-2 Al-Olympique
+Abu Salim           bye
+
+Round 4
+[Dec 28]
+Al-Olympique        4-0 Al-Nahda Sabha
+Al-Majd Tripoli     2-1 Al-Bashayer
+[Dec 29]
+Abu Salim           1-0 Al-Ittihad Tripoli
+Al-Swihli           1-0 Al-Tersana Tripoli
+Al-Shabab Al-Ghar   bye
+
+Round 5
+[Jan 2]
+Al-Nahda Sabha      0-2 Al-Swihli
+Al-Tersana Tripoli  1-1 Abu Salim
+[Jan 3]
+Al-Shabab Al-Ghar   1-0 Al-Majd Tripoli
+Al-Bashayer         1-2 Al-Olympique
+Al-Ittihad Tripoli  bye
+
+Round 6
+[Jan 8]
+Al-Olympique        1-1 Al-Shabab Al-Ghar
+Al-Ittihad Tripoli  1-0 Al-Tersana Tripoli
+[Jan 9]
+Abu Salim           1-0 Al-Nahda Sabha
+Al-Swihli           0-0 Al-Bashayer
+Al-Majd Tripoli     bye
+
+Round 7
+[Jan 14]
+Al-Majd Tripoli     1-2 Al-Olympique
+Al-Shabab Al-Ghar   1-2 Al-Swihli
+[Jan 15]
+Al-Nahda Sabha      0-4 Al-Ittihad Tripoli
+Al-Bashayer         0-1 Abu Salim
+Al-Tersana Tripoli  bye
+
+Round 8
+[Jan 20]
+Al-Tersana Tripoli  3-2 Al-Nahda Sabha
+Al-Ittihad Tripoli  1-0 Al-Bashayer
+[Jan 21]
+Abu Salim           1-2 Al-Shabab Al-Ghar
+Al-Swihli           7-1 Al-Majd Tripoli
+Al-Olympique        bye
+
+Round 9
+[Jan 25]
+Al-Majd Tripoli     1-2 Abu Salim
+Al-Bashayer         3-1 Al-Tersana Tripoli
+[Jan 26]
+Al-Olympique        3-3 Al-Swihli
+Al-Shabab Al-Ghar   0-0 Al-Ittihad Tripoli
+Al-Nahda Sabha      bye
+
+Round 10
+[Feb 4]
+Al-Majd Tripoli     1-1 Al-Ittihad Tripoli
+Al-Bashayer         awd Al-Nahda Sabha      [awarded 2-0, Nahda forfeited]
+[Feb 5]
+Al-Olympique        1-0 Abu Salim
+Al-Shabab Al-Ghar   0-0 Al-Tersana Tripoli
+Al-Swihli           bye
+
+Round 11
+[Feb 9]
+Al-Nahda Sabha      0-1 Al-Shabab Al-Ghar
+Al-Tersana Tripoli  0-0 Al-Majd Tripoli
+[Feb 10]
+Abu Salim           0-1 Al-Swihli
+Al-Ittihad Tripoli  0-2 Al-Olympique
+Al-Bashayer         bye
+
+Round 12
+[Feb 14]
+Al-Majd Tripoli     3-0 Al-Nahda Sabha
+Al-Olympique        1-0 Al-Tersana Tripoli
+[Feb 15]
+Al-Shabab Al-Ghar   2-2 Al-Bashayer
+Al-Swihli           1-1 Al-Ittihad Tripoli
+Abu Salim           bye
+
+Round 13
+[Feb 19]
+Al-Tersana Tripoli  1-2 Al-Swihli
+[Feb 20]
+Al-Nahda Sabha      0-2 Al-Olympique
+Al-Bashayer         1-2 Al-Majd Tripoli
+Al-Ittihad Tripoli  3-0 Abu Salim
+Al-Shabab Al-Ghar   bye
+
+Round 14
+[Feb 24]
+Al-Olympique        3-1 Al-Bashayer
+Al-Majd Tripoli     1-0 Al-Shabab Al-Ghar
+[Feb 25]
+Al-Swihli           4-0 Al-Nahda Sabha
+Abu Salim           2-1 Al-Tersana Tripoli
+Al-Ittihad Tripoli  bye
+
+Round 15
+[Mar 6]
+Al-Tersana Tripoli  0-3 Al-Ittihad Tripoli
+Al-Nahda Sabha      0-3 Abu Salim
+[Mar 7]
+Al-Bashayer         1-3 Al-Swihli
+Al-Shabab Al-Ghar   0-0 Al-Olympique
+Al-Majd Tripoli     bye
+
+Round 16
+[Mar 12]
+Al-Ittihad Tripoli  4-0 Al-Nahda Sabha
+Abu Salim           1-2 Al-Bashayer
+[Mar 13]
+Al-Swihli           2-1 Al-Shabab Al-Ghar
+[Mar 14]
+Al-Olympique        3-2 Al-Majd Tripoli
+Al-Tersana Tripoli  bye
+
+Round 17 [Apr 5]
+Al-Majd Tripoli     2-2 Al-Swihli
+Al-Nahda Sabha      0-7 Al-Tersana Tripoli
+Al-Bashayer         1-1 Al-Ittihad Tripoli
+Al-Shabab Al-Ghar   4-4 Abu Salim
+Al-Olympique        bye
+
+Round 18 [Apr 10]
+Abu Salim           2-4 Al-Majd Tripoli
+Al-Tersana Tripoli  2-2 Al-Bashayer
+Al-Ittihad Tripoli  3-1 Al-Shabab Al-Ghar
+Al-Swihli           2-0 Al-Olympique
+Al-Nahda Sabha      bye
+
+Final Table:
+
+ 1.Al-Swihli SC (Misrata)      16  12  4  0  36-12  40             ‹Final Stage, see §fin›
+ 2.Al-Olympique SC (Azzaweya)  16  11  4  1  28-13  37             ‹Final Stage, see §fin›
+ 3.Al-Ittihad SC (Tripoli)     16   8  4  4  24-10  28             ‹Final Stage, see §fin›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Al-Majd Tripoli             16   6  3  7  25-29  21  [P]
+ 5.Al-Shabab Al-Ghar           16   4  8  4  18-18  20  [P] [6-5]
+ 6.Abu Salim SC (Tripoli)      16   6  2  8  20-24  20      [5-6]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Al-Bashayer (Misrata)       16   4  5  7  19-21  17             ‹Relegation Playoff, see §relpo›
+ 8.Al-Tersana Tripoli          16   3  6  7  22-22  15  [P]        ‹Relegation Playoff, see §relpo›
+------------------------------------------------------
+ 9.Al-Nahda Sabha              16   0  0 16   5-48  -3  [P]  [-3]  Relegated
+
+NB: Al-Nahda Sabha 3 points deducted
+
+Group 4  ‹§gp4›
+
+Final Table:
+
+ 1.Al-Ahli (Tripoli)           16  13  3  0  38- 4  42             ‹Final Stage, see §fin›
+ 2.Al-Madina SC (Tripoli)      16  10  4  2  27-14  34             ‹Final Stage, see §fin›
+ 3.Al-Ittihad SC (Misrata)     16   6  5  5  14-14  23             ‹Final Stage, see §fin›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Al-Watan                    16   5  5  6  19-22  19  [P]  [-1]
+ 5.Al-Malaab Al-Libby          16   3  9  4  13-15  18
+ 6.Al-Khums SC                 16   5  1 10  11-20  16
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Abe Al-Ashhar               16   3  6  7  10-18  15  [P] [0-0]  ‹Relegation Playoff, see §relpo›
+ 8.Al-Dahra Tripoli            16   3  6  7  11-22  15  [P] [0-0]  ‹Relegation Playoff, see §relpo›
+------------------------------------------------------
+ 9.Asarya SC                   16   3  3 10  13-27  12             Relegated
+
+NB: Al-Watan 1 point deducted
+
+Round 1
+[Dec 13]
+Al-Khums            1-0 Al-Watan
+Abe Al-Ashhar       0-0 Al-Dahra Tripoli
+[Dec 14]
+Asarya              1-1 Al-Madina
+Al-Malaab Al-Libby  0-3 Al-Ahli Tripoli
+Al-Ittihad Misrata  bye
+
+Round 2
+[Dec 19]
+Al-Watan            2-0 Abe Al-Ashhar
+Al-Ahli Tripoli     5-0 Asarya
+[Dec 20]
+Al-Dahra Tripoli    0-0 Al-Malaab Al-Libby
+Al-Madina           3-1 Al-Ittihad Misrata
+Al-Khums            bye
+
+Round 3
+[Dec 25]
+Abe Al-Ashhar       0-1 Al-Khums
+Al-Ittihad Misrata  0-2 Al-Ahli Tripoli
+[Dec 26]
+Asarya              1-0 Al-Dahra Tripoli
+Al-Malaab Al-Libby  2-2 Al-Watan
+Al-Madina           bye
+
+Round 4
+[Dec 30]
+Al-Khums            0-0 Al-Malaab Al-Libby
+Al-Ahli Tripoli     2-0 Al-Madina
+[Dec 31]
+Al-Watan            1-0 Asarya
+Al-Dahra Tripoli    0-1 Al-Ittihad Misrata
+Abe Al-Ashhar       bye
+
+Round 5
+[Jan 5]
+Al-Malaab Al-Libby  0-0 Abe Al-Ashhar
+Al-Madina           2-0 Al-Dahra Tripoli
+[Jan 6]
+Asarya              0-2 Al-Khums
+Al-Ittihad Misrata  1-0 Al-Watan
+Al-Ahli Tripoli     bye
+
+Round 6
+[Jan 10]
+Al-Dahra Tripoli    0-4 Al-Ahli Tripoli
+Al-Khums            0-1 Al-Ittihad Misrata
+[Jan 11]
+Al-Watan            0-3 Al-Madina
+Abe Al-Ashhar       2-1 Asarya
+Al-Malaab Al-Libby  bye
+
+Round 7
+[Jan 16]
+Asarya              2-1 Al-Malaab Al-Libby
+Al-Madina           2-0 Al-Khums
+[Jan 17]
+Al-Ahli Tripoli     3-0 Al-Watan
+Al-Ittihad Misrata  2-0 Abe Al-Ashhar
+Al-Dahra Tripoli    bye
+
+Round 8
+[Jan 22]
+Al-Watan            3-0 Al-Dahra Tripoli
+Al-Malaab Al-Libby  0-0 Al-Ittihad Misrata
+[Jan 23]
+Al-Khums            0-3 Al-Ahli Tripoli
+Abe Al-Ashhar       0-1 Al-Madina
+Asarya              bye
+
+Round 9
+[Jan 27]
+Al-Ittihad Misrata  2-0 Asarya
+Al-Madina           2-4 Al-Malaab Al-Libby
+[Jan 28]
+Al-Dahra Tripoli    1-0 Al-Khums
+Al-Ahli Tripoli     2-0 Abe Al-Ashhar
+Al-Watan            bye
+
+Round 10
+[Feb 6]
+Al-Madina           2-1 Asarya
+Al-Ahli Tripoli     3-0 Al-Malaab Al-Libby
+[Feb 7]
+Al-Watan            1-0 Al-Khums
+Al-Dahra Tripoli    0-0 Abe Al-Ashhar
+Al-Ittihad Misrata  bye
+
+Round 11
+[Feb 11]
+Al-Ittihad Misrata  1-3 Al-Madina
+Al-Malaab Al-Libby  1-1 Al-Dahra Tripoli
+[Feb 12]
+Asarya              1-2 Al-Ahli Tripoli
+Abe Al-Ashhar       1-3 Al-Watan
+Al-Khums            bye
+
+Round 12
+[Feb 16]
+Al-Watan            0-2 Al-Malaab Al-Libby
+Al-Dahra Tripoli    2-1 Asarya
+[Feb 18]
+Al-Khums            0-1 Abe Al-Ashhar
+[Feb 19]
+Al-Ahli Tripoli     0-0 Al-Ittihad Misrata
+Al-Madina           bye
+
+Round 13
+[Feb 22]
+Asarya              2-2 Al-Watan
+[Feb 23]
+Al-Malaab Al-Libby  2-0 Al-Khums
+Al-Ittihad Misrata  0-1 Al-Dahra Tripoli
+Al-Madina           1-1 Al-Ahli Tripoli
+Abe Al-Ashhar       bye
+
+Round 14
+[Feb 27]
+Al-Khums            awd Asarya              [awarded 2-0, originally 1-3]
+Abe Al-Ashhar       1-1 Al-Malaab Al-Libby
+[Feb 28]
+Al-Watan            1-1 Al-Ittihad Misrata
+Al-Dahra Tripoli    0-2 Al-Madina
+Al-Ahli Tripoli     bye
+
+Round 15
+[Mar 8]
+Al-Madina           1-1 Al-Watan
+Asarya              1-2 Abe Al-Ashhar
+[Mar 9]
+Al-Ahli Tripoli     1-1 Al-Dahra Tripoli
+Al-Ittihad Misrata  2-1 Al-Khums
+Al-Malaab Al-Libby  bye
+
+Round 16
+[Mar 14]
+Al-Watan            awd Al-Ahli Tripoli     [awarded 0-2, originally 0-0]
+Abe Al-Ashhar       1-1 Al-Ittihad Misrata
+[Mar 15]
+Al-Khums            0-1 Al-Madina
+Al-Malaab Al-Libby  0-0 Asarya
+Al-Dahra Tripoli    bye
+
+Round 17 [Apr 6]
+Al-Madina           2-2 Abe Al-Ashhar
+Al-Ittihad Misrata  0-0 Al-Malaab Al-Libby
+Al-Ahli Tripoli     4-1 Al-Khums
+Al-Dahra Tripoli    3-3 Al-Watan
+Asarya              bye
+
+Round 18 [Apr 11]
+Abe Al-Ashhar       0-1 Al-Ahli Tripoli
+Asarya              2-1 Al-Ittihad Misrata
+Al-Khums            3-2 Al-Dahra Tripoli
+Al-Malaab Al-Libby  0-1 Al-Madina
+Al-Watan            bye
+
+Final Table:
+
+ 1.Al-Ahli (Tripoli)           16  13  3  0  38- 4  42             ‹Final Stage, see §fin›
+ 2.Al-Madina SC (Tripoli)      16  10  4  2  27-14  34             ‹Final Stage, see §fin›
+ 3.Al-Ittihad SC (Misrata)     16   6  5  5  14-14  23             ‹Final Stage, see §fin›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Al-Watan                    16   5  5  6  19-22  19  [P]  [-1]
+ 5.Al-Malaab Al-Libby          16   3  9  4  13-15  18
+ 6.Al-Khums SC                 16   5  1 10  11-20  16
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Abe Al-Ashhar               16   3  6  7  10-18  15  [P] [0-0]  ‹Relegation Playoff, see §relpo›
+ 8.Al-Dahra Tripoli            16   3  6  7  11-22  15  [P] [0-0]  ‹Relegation Playoff, see §relpo›
+------------------------------------------------------
+ 9.Asarya SC                   16   3  3 10  13-27  12             Relegated
+
+NB: Al-Watan 1 point deducted
+
+Final Stage  ‹§fin›
+
+‹Group 1, see §qgp1› | ‹Group 2, see §qgp2› | ‹Championship Playoff, see §champ›
+
+Group 1  ‹§qgp1›
+
+Final Table:
+
+ 1.Al-Ahli SC (Benghazi)       10   6  4  0  23- 8  24  [2]        ‹Championship Playoff, see §champ›
+ 2.Al-Hilal SC (Benghazi)      10   5  4  1  20-13  22  [3]        ‹Championship Playoff, see §champ›
+ 3.Al-Akhdar SC (Al-Bayda)     10   4  5  1  12- 8  19  [2]        ‹Championship Playoff, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Al-Nasr SC (Benghazi)       10   2  5  3  10-13  14  [3]  [C]
+ 5.Al-Sadaqa SC (Shahat)       10   2  3  5   8-15  10  [1]
+ 6.Al-Tahaddi SC (Benghazi)    10   0  1  9   7-23   2  [1]
+
+NB: bonus points (for final placing first group stage) between square brackets
+
+Round 1 [Apr 19]
+Al-Akhdar           0-0 Al-Ahli Benghazi
+Al-Sadaqa           0-1 Al-Hilal
+Al-Nasr Benghazi    1-0 Al-Tahaddi
+
+Round 2
+[Apr 23]
+Al-Nasr Benghazi    1-1 Al-Sadaqa
+Al-Ahli Benghazi    1-1 Al-Hilal
+[Apr 24]
+Al-Tahaddi          0-0 Al-Akhdar
+
+Round 3 [Apr 28]
+Al-Akhdar           2-1 Al-Nasr Benghazi
+Al-Sadaqa           1-3 Al-Ahli Benghazi
+Al-Hilal            2-1 Al-Tahaddi
+
+Round 4 [May 3]
+Al-Akhdar           2-2 Al-Sadaqa
+Al-Tahaddi          2-5 Al-Ahli Benghazi
+Al-Nasr Benghazi    2-2 Al-Hilal
+
+Round 5
+[May 7]
+Al-Tahaddi          0-1 Al-Sadaqa
+Al-Hilal            1-1 Al-Akhdar
+[May 8]
+Al-Ahli Benghazi    1-1 Al-Nasr Benghazi
+
+Round 6 [May 22]
+Al-Akhdar           2-1 Al-Hilal
+Al-Sadaqa           1-0 Al-Tahaddi
+Al-Nasr Benghazi    0-3 Al-Ahli Benghazi
+
+Round 7
+[May 28]
+Al-Ahli Benghazi    2-1 Al-Akhdar
+[May 29]
+Al-Hilal            2-1 Al-Sadaqa
+[May 30]
+Al-Tahaddi          1-2 Al-Nasr Benghazi
+
+Round 8 [Jun 15]
+Al-Sadaqa           1-1 Al-Nasr Benghazi
+Al-Akhdar           2-1 Al-Tahaddi
+Al-Hilal            2-2 Al-Ahli Benghazi
+
+Round 9 [Jun 19]
+Al-Ahli Benghazi    3-0 Al-Sadaqa
+Al-Nasr Benghazi    0-0 Al-Akhdar
+Al-Tahaddi          2-6 Al-Hilal
+
+Round 10 [Jun 23]
+Al-Hilal            2-1 Al-Nasr Benghazi
+Al-Sadaqa           0-2 Al-Akhdar
+Al-Ahli Benghazi    3-0 Al-Tahaddi
+
+Final Table:
+
+ 1.Al-Ahli SC (Benghazi)       10   6  4  0  23- 8  24  [2]        ‹Championship Playoff, see §champ›
+ 2.Al-Hilal SC (Benghazi)      10   5  4  1  20-13  22  [3]        ‹Championship Playoff, see §champ›
+ 3.Al-Akhdar SC (Al-Bayda)     10   4  5  1  12- 8  19  [2]        ‹Championship Playoff, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Al-Nasr SC (Benghazi)       10   2  5  3  10-13  14  [3]  [C]
+ 5.Al-Sadaqa SC (Shahat)       10   2  3  5   8-15  10  [1]
+ 6.Al-Tahaddi SC (Benghazi)    10   0  1  9   7-23   2  [1]
+
+NB: bonus points (for final placing first group stage) between square brackets
+
+Group 2  ‹§qgp2›
+
+Table:
+
+ 1.Al-Ahli (Tripoli)            9   5  4  0  20- 8  22  [3]        ‹Championship Playoff, see §champ›
+ 2.Al-Swihli SC (Misrata)      10   4  5  1  19-11  20  [3]        ‹Championship Playoff, see §champ›
+ 3.Al-Ittihad SC (Tripoli)      9   5  1  3   9-11  17  [1]        ‹Championship Playoff, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Al-Madina SC (Tripoli)      10   3  1  6  12-18  12  [2]
+ 5.Al-Ittihad SC (Misrata)     10   2  4  4   9-14  11  [1]
+ 6.Al-Olympique SC (Azzaweya)  10   1  3  6  10-17   8  [2]
+
+NB: bonus points (for final placing first group stage) between square brackets
+
+Round 1
+[Apr 20]
+Al-Ittihad Misrata  1-1 Al-Madina
+Al-Ittihad Tripoli  1-0 Al-Olympique
+[Apr 21]
+Al-Ahli Tripoli     1-1 Al-Swihli
+
+Round 2 [Apr 25]
+Al-Olympique        5-0 Al-Madina
+Al-Ahli Tripoli     3-1 Al-Ittihad Misrata
+Al-Swihli           4-1 Al-Ittihad Tripoli
+
+Round 3 [Apr 29]
+Al-Ittihad Tripoli  0-0 Al-Ahli Tripoli
+Al-Ittihad Misrata  1-0 Al-Olympique
+Al-Madina           4-2 Al-Swihli
+
+Round 4
+[May 4]
+Al-Swihli           1-1 Al-Olympique
+Al-Ahli Tripoli     3-1 Al-Madina
+[May 5]
+Al-Ittihad Tripoli  2-1 Al-Ittihad Misrata
+
+Round 5 [May 9]
+Al-Olympique        2-2 Al-Ahli Tripoli
+Al-Swihli           1-1 Al-Ittihad Misrata
+Al-Madina           2-1 Al-Ittihad Tripoli
+
+Round 6
+[May 30]
+Al-Ittihad Tripoli  1-0 Al-Madina
+[Jun 1]
+Al-Ittihad Misrata  0-0 Al-Swihli
+[Jun 4]
+Al-Ahli Tripoli     4-1 Al-Olympique
+
+Round 7 [Jun 10]
+Al-Olympique        0-1 Al-Ittihad Tripoli
+Al-Swihli           2-2 Al-Ahli Tripoli
+Al-Madina           1-3 Al-Ittihad Misrata
+
+Round 8 [Jun 14]
+Al-Madina           3-0 Al-Olympique
+Al-Ittihad Misrata  0-4 Al-Ahli Tripoli
+Al-Ittihad Tripoli  1-4 Al-Swihli
+
+Round 9 [Jun 18]
+Al-Ahli Tripoli     abd Al-Ittihad Tripoli  [abandoned at 0-1; match apparently
+Al-Olympique        1-1 Al-Ittihad Misrata                        declared void]
+Al-Swihli           1-0 Al-Madina
+
+Round 10
+[Jun 22]
+Al-Olympique        0-3 Al-Swihli
+[Jun 24]
+Al-Ittihad Misrata  0-1 Al-Ittihad Tripoli
+[Jun 29]
+Al-Madina           0-1 Al-Ahli Tripoli
+
+Table:
+
+ 1.Al-Ahli (Tripoli)            9   5  4  0  20- 8  22  [3]        ‹Championship Playoff, see §champ›
+ 2.Al-Swihli SC (Misrata)      10   4  5  1  19-11  20  [3]        ‹Championship Playoff, see §champ›
+ 3.Al-Ittihad SC (Tripoli)      9   5  1  3   9-11  17  [1]        ‹Championship Playoff, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Al-Madina SC (Tripoli)      10   3  1  6  12-18  12  [2]
+ 5.Al-Ittihad SC (Misrata)     10   2  4  4   9-14  11  [1]
+ 6.Al-Olympique SC (Azzaweya)  10   1  3  6  10-17   8  [2]
+
+NB: bonus points (for final placing first group stage) between square brackets
+
+Championship Playoff  ‹§champ›
+
+NB: staged in Lombardia, Italy
+
+Final Table:
+
+ 1.Al-Ahli (Tripoli)            5   4  1  0  11- 1  13             Champions
+ 2.Al-Hilal SC (Benghazi)       5   2  2  1   7- 7   8  [2-2]
+ 3.Al-Akhdar SC (Al-Bayda)      5   2  2  1   6- 7   8  [2-2]
+ 4.Al-Ittihad SC (Tripoli)      5   2  0  3   8- 9   6  [3-0]
+ 5.Al-Ahli SC (Benghazi)        5   2  0  3   6- 7   6  [0-3]
+ 6.Al-Swihli SC (Misrata)       5   0  1  4   5-12   1
+
+Round 1 [Jul 25]
+Al-Ahli Tripoli     2-0 Al-Ahli Benghazi    [Arena Civica, Milano; abandoned at 2-0 just before half-time;
+Al-Ittihad Tripoli  1-2 Al-Akhdar           [Stadio Città di Meda, Meda]           result apparently stood]
+Al-Swihli           2-2 Al-Hilal            [Stadio Ernesto Breda, Sesto San Giovanni]
+
+Round 2 [Jul 29]
+Al-Akhdar           0-0 Al-Ahli Tripoli     [Stadio Ernesto Breda, Sesto San Giovanni]
+Al-Ittihad Tripoli  3-2 Al-Swihli           [Arena Civica, Milano]
+Al-Ahli Benghazi    1-2 Al-Hilal            [Stadio Città di Meda, Meda]
+
+Round 3 [Aug 2]
+Al-Swihli           0-2 Al-Ahli Benghazi    [Stadio Città di Meda, Meda]
+Al-Ahli Tripoli     4-1 Al-Ittihad Tripoli  [Stadio Ernesto Breda, Sesto San Giovanni]
+Al-Hilal            2-2 Al-Akhdar           [Arena Civica, Milano]
+
+Round 4 [Aug 6]
+Al-Ittihad Tripoli  0-1 Al-Hilal            [Arena Civica, Milano]
+Al-Akhdar           0-3 Al-Ahli Benghazi    [Stadio Ernesto Breda, Sesto San Giovanni]
+Al-Ahli Tripoli     3-0 Al-Swihli           [Stadio Città di Meda, Meda]
+
+Round 5
+[Aug 10]
+Al-Ahli Benghazi    0-3 Al-Ittihad Tripoli  [Arena Civica, Milano]
+Al-Akhdar           2-1 Al-Swihli           [Stadio Ernesto Breda, Sesto San Giovanni]
+[Aug 12]
+Al-Hilal            0-2 Al-Ahli Tripoli     [Stadio Città di Meda, Meda]
+
+Final Table:
+
+ 1.Al-Ahli (Tripoli)            5   4  1  0  11- 1  13             Champions
+ 2.Al-Hilal SC (Benghazi)       5   2  2  1   7- 7   8  [2-2]
+ 3.Al-Akhdar SC (Al-Bayda)      5   2  2  1   6- 7   8  [2-2]
+ 4.Al-Ittihad SC (Tripoli)      5   2  0  3   8- 9   6  [3-0]
+ 5.Al-Ahli SC (Benghazi)        5   2  0  3   6- 7   6  [0-3]
+ 6.Al-Swihli SC (Misrata)       5   0  1  4   5-12   1
+
+Relegation Playoff  ‹§relpo›
+
+‹Group 1, see §rgp1› | ‹Group 2, see §rgp2›
+
+Group 1  ‹§rgp1›
+
+Final Table:
+
+ 1.Al-Murooj                    6   4  1  1   9- 5  13
+ 2.Khaleej Surt                 6   3  2  1   8- 6  11  [P]
+------------------------------------------------------
+ 3.Al-Ansar Al-Bayda            6   2  2  2   6- 6   8  [P]        Relegated
+ 4.Branes                       6   0  1  5   3- 9   1  [P]        Relegated
+
+Round 1 [May 5]
+Branes              1-1 Khaleej Surt
+Al-Murooj           1-0 Al-Ansar Al-Bayda
+
+Round 2 [May 10]
+Khaleej Surt        2-1 Al-Murooj
+Al-Ansar Al-Bayda   2-1 Branes
+
+Round 3 [May 15]
+Branes              0-1 Al-Murooj
+Al-Ansar Al-Bayda   0-1 Khaleej Surt
+
+Round 4 [May 20]
+Al-Murooj           2-0 Branes
+Khaleej Surt        1-1 Al-Ansar Al-Bayda
+
+Round 5 [May 25]
+Al-Ansar Al-Bayda   1-1 Al-Murooj
+Khaleej Surt        1-0 Branes
+
+Round 6 [May 29]
+Al-Murooj           3-2 Khaleej Surt
+Branes              1-2 Al-Ansar Al-Bayda
+
+Final Table:
+
+ 1.Al-Murooj                    6   4  1  1   9- 5  13
+ 2.Khaleej Surt                 6   3  2  1   8- 6  11  [P]
+------------------------------------------------------
+ 3.Al-Ansar Al-Bayda            6   2  2  2   6- 6   8  [P]        Relegated
+ 4.Branes                       6   0  1  5   3- 9   1  [P]        Relegated
+
+Group 2  ‹§rgp2›
+
+Final Table:
+
+ 1.Abe Al-Ashhar                6   3  2  1   7- 4  11  [P]  [1-0]
+ 2.Al-Tersana Tripoli           6   3  2  1  12- 8  11  [P]  [0-1]
+------------------------------------------------------
+ 3.Al-Bashayer (Misrata)        6   1  3  2   9-11   6             Relegated
+ 4.Al-Dahra Tripoli             6   0  3  3   8-13   3  [P]        Relegated
+
+Round 1 [May 11]
+Al-Bashayer         2-2 Al-Tersana Tripoli
+Al-Dahra Tripoli    1-1 Abe Al-Ashhar
+
+Round 2 [Jun 20]
+Abe Al-Ashhar       2-0 Al-Bashayer
+Al-Tersana Tripoli  2-0 Al-Dahra Tripoli
+
+Round 3 [Jun 24]
+Al-Bashayer         1-1 Al-Dahra Tripoli
+Abe Al-Ashhar       0-0 Al-Tersana Tripoli
+
+Round 4 [Jun 28]
+Al-Dahra Tripoli    2-2 Al-Bashayer
+Al-Tersana Tripoli  0-1 Abe Al-Ashhar
+
+Round 5 [Jul 2]
+Al-Tersana Tripoli  4-3 Al-Bashayer
+Abe Al-Ashhar       3-2 Al-Dahra Tripoli
+
+Round 6 [Jul 6]
+Al-Dahra Tripoli    2-4 Al-Tersana Tripoli
+Al-Bashayer         1-0 Abe Al-Ashhar
+
+Final Table:
+
+ 1.Abe Al-Ashhar                6   3  2  1   7- 4  11  [P]  [1-0]
+ 2.Al-Tersana Tripoli           6   3  2  1  12- 8  11  [P]  [0-1]
+------------------------------------------------------
+ 3.Al-Bashayer (Misrata)        6   1  3  2   9-11   6             Relegated
+ 4.Al-Dahra Tripoli             6   0  3  3   8-13   3  [P]        Relegated
+
+NB: Al Dahra apparently were later reprieved from relegation
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page lib2024›
+
+‹list of champions, see page libchamp›
+
+‹list of cup winners, see page libcuphist›
+
+‹list of super cup winners, see page libsupcuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 17 Dec 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2025
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

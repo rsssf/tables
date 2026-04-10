@@ -1,0 +1,564 @@
+  <!--
+     source: https://rsssf.org/tablesm/maro2025.html
+    -->
+  
+
+
+== Morocco 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹GNF I, see §gnf1›
+‹GNF II, see §gnf2›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== GNF I  ‹§gnf1›
+
+<!-- start pre -->
+Final Table:
+
+ 1.RS Berkane           30  21  7  2  49-14  70       Champions
+ 2.FAR Rabat            30  16  9  5  48-24  57
+ 3.WAC Casablanca       30  14 12  4  45-27  54
+ 4.FUS Rabat            30  15  8  7  53-26  53
+ 5.Raja Casablanca      30  12 12  6  38-25  48  [C]
+ 6.RCA Zemamra          30  14  5 11  34-29  47
+ 7.OC Safi              30  12 10  8  37-33  46       [2 1 1 0 3-2 4]
+ 8.MAS Fès              30  12 10  8  34-29  46       [2 0 1 1 2-3 1]
+ 9.DH El Jadida         30  11  9 10  36-42  42  [P]
+10.IR Tanger            30   9 10 11  35-37  37
+11.COD Meknès           30   9  9 12  27-44  36  [P]
+12.Union Touarga Sport  30   8 11 11  29-34  35
+- - - - - - - - - - - - - - - - - - - - - - - -
+13.HUS Agadir           30   8  5 17  31-38  29       ‹Relegation Playoff, see §prorel›
+14.JS Soualem           30   6  7 17  21-42  25       ‹Relegation Playoff, see §prorel›
+-----------------------------------------------
+15.MA Tétouan           30   5  8 17  25-40  23       Relegated
+16.SCC Mohammédia       30   0  4 26  13-71   4       Relegated
+
+Round 1
+[Aug 30]
+DH El Jadida       1-1 JS Soualem
+SCC Mohammédia     0-5 FAR Rabat
+MAS Fès            1-0 WAC Casablanca
+Union Touarga      2-2 FUS Rabat
+[Aug 31]
+Raja Casablanca    0-1 RS Berkane
+COD Meknès         1-1 RCA Zemamra
+MA Tétouan         0-0 OC Safi
+HUS Agadir         0-1 IR Tanger
+
+Round 2
+[Sep 14]
+MAS Fès            1-2 Union Touarga
+WAC Casablanca     1-0 MA Tétouan
+[Sep 15]
+JS Soualem         0-1 HUS Agadir
+RCA Zemamra        1-2 DH El Jadida
+FUS Rabat          4-0 SCC Mohammédia
+[Sep 25]
+OC Safi            0-2 RS Berkane
+IR Tanger          3-1 Raja Casablanca
+FAR Rabat          4-0 COD Meknès
+
+Round 3
+[Sep 20]
+Union Touarga      1-1 WAC Casablanca
+MA Tétouan         1-1 MAS Fès
+[Sep 21]
+HUS Agadir         0-1 RCA Zemamra
+[Sep 22]
+COD Meknès         0-2 JS Soualem
+SCC Mohammédia     1-2 OC Safi
+[Oct 2]
+DH El Jadida       1-0 FAR Rabat
+Raja Casablanca    1-0  FUS Rabat
+RS Berkane         0-0 IR Tanger
+
+Round 4
+[Sep 27]
+MAS Fès            1-0 HUS Agadir
+[Sep 28]
+RCA Zemamra        3-0 SCC Mohammédia
+WAC Casablanca     4-1 DH El Jadida
+JS Soualem         0-0 Union Touarga
+MA Tétouan         1-1 COD Meknès
+[Sep 29]
+FAR Rabat          1-1 RS Berkane
+FUS Rabat          0-0 IR Tanger
+OC Safi            2-3 Raja Casablanca
+
+Round 5
+[Oct 4]
+Union Touarga      1-0 MA Tétouan
+SCC Mohammédia     0-0 JS Soualem
+[Oct 5]
+COD Meknès         2-0 MAS Fès
+HUS Agadir         1-1 WAC Casablanca
+[Oct 6]
+DH El Jadida       1-2 OC Safi
+IR Tanger          1-1 FAR Rabat
+Raja Casablanca    2-0 RCA Zemamra
+RS Berkane         0-1 FUS Rabat
+
+Round 6
+[Oct 18]
+FAR Rabat          1-0 FUS Rabat
+RCA Zemamra        1-3 RS Berkane
+JS Soualem         2-1 Raja Casablanca
+[Oct 19]
+MAS Fès            1-0 DH El Jadida
+Union Touarga      0-0 COD Meknès
+MA Tétouan         0-2 HUS Agadir
+WAC Casablanca     3-2 SCC Mohammédia
+[Oct 20]
+OC Safi            2-3 IR Tanger
+
+Round 7
+[Oct 22]
+SCC Mohammédia     0-1 MAS Fès
+HUS Agadir         2-1 Union Touarga
+DH El Jadida       1-0 MA Tétouan
+Raja Casablanca    0-0 FAR Rabat
+[Oct 23]
+COD Meknès         2-0 WAC Casablanca
+FUS Rabat          3-0 OC Safi
+RS Berkane         1-0 JS Soualem
+IR Tanger          0-1 RCA Zemamra
+
+Round 8
+[Oct 25]
+MAS Fès            0-0 Raja Casablanca
+MA Tétouan         3-0 SCC Mohammédia
+[Oct 26]
+Union Touarga      2-2 DH El Jadida
+FAR Rabat          1-1 OC Safi
+HUS Agadir         3-0 COD Meknès
+WAC Casablanca     0-1 RS Berkane
+[Oct 27]
+RCA Zemamra        3-1 FUS Rabat
+JS Soualem         2-1 IR Tanger
+
+Round 9
+[Nov 1]
+OC Safi            1-0 JS Soualem
+[Nov 2]
+Raja Casablanca    0-0 COD Meknès
+RS Berkane         2-1 MA Tétouan
+SCC Mohammédia     0-3 Union Touarga
+DH El Jadida       2-0 HUS Agadir
+[Nov 3]
+FAR Rabat          1-0 RCA Zemamra
+FUS Rabat          0-1 WAC Casablanca
+IR Tanger          1-1 MAS Fès
+
+Round 10
+[Nov 8]
+JS Soualem         1-1 FUS Rabat
+COD Meknès         3-0 DH El Jadida
+[Nov 9]
+RCA Zemamra        2-1 OC Safi
+MAS Fès            1-0 FAR Rabat
+MA Tétouan         0-0 Raja Casablanca
+WAC Casablanca     2-2 IR Tanger
+[Nov 10]
+HUS Agadir         2-1 SCC Mohammédia
+Union Touarga      0-1 RS Berkane
+
+Round 11
+[Nov 22]
+FAR Rabat          1-1 Union Touarga
+Raja Casablanca    1-1 WAC Casablanca
+OC Safi            3-0 COD Meknès
+[Nov 23]
+IR Tanger          1-2 MA Tétouan
+RS Berkane         2-1 HUS Agadir
+[Nov 24]
+RCA Zemamra        0-0 JS Soualem
+SCC Mohammédia     1-4 DH El Jadida
+[Nov 26]
+FUS Rabat          1-1 MAS Fès
+
+Round 12
+[Nov 29]
+Union Touarga      3-1 IR Tanger
+WAC Casablanca     1-0 OC Safi
+[Nov 30]
+JS Soualem         0-3 FAR Rabat
+COD Meknès         1-1 SCC Mohammédia
+MA Tétouan         0-2 FUS Rabat
+[Dec 1]
+HUS Agadir         1-3 Raja Casablanca
+DH El Jadida       1-1 RS Berkane
+MAS Fès            0-1 RCA Zemamra
+
+Round 13
+[Dec 6]
+FUS Rabat          3-3 DH El Jadida
+[Dec 7]
+OC Safi            0-0 HUS Agadir
+[Dec 8]
+IR Tanger          1-1 SCC Mohammédia
+RCA Zemamra        2-0 MA Tétouan
+JS Soualem         0-2 MAS Fès
+[Dec 19]
+RS Berkane         3-0 COD Meknès
+FAR Rabat          2-2 WAC Casablanca
+Raja Casablanca    2-1 Union Touarga
+
+Round 14
+[Dec 13]
+HUS Agadir         0-1 FUS Rabat
+[Dec 14]
+COD Meknès         1-0 IR Tanger
+WAC Casablanca     3-0 JS Soualem
+Union Touarga      0-0 RCA Zemamra
+[Dec 15]
+MAS Fès            0-1 OC Safi
+[Dec 25]
+SCC Mohammédia     0-2 RS Berkane
+MA Tétouan         1-2 FAR Rabat
+DH El Jadida       2-0 Raja Casablanca
+
+Round 15
+[Dec 21]
+JS Soualem         2-0 MA Tétouan
+IR Tanger          1-1 DH El Jadida
+[Dec 22]
+OC Safi            2-1 Union Touarga
+Raja Casablanca    3-0 SCC Mohammédia
+RS Berkane         2-0 MAS Fès
+FAR Rabat          2-1 HUS Agadir
+[Dec 23]
+RCA Zemamra        0-0 WAC Casablanca
+FUS Rabat          5-1 COD Meknès
+
+Halfway Table:
+
+ 1.RS Berkane           15  11  3  1  22- 6  36
+ 2.FAR Rabat            15   7  6  2  24-10  27
+ 3.RCA Zemamra          15   7  4  4  16-11  25
+ 4.WAC Casablanca       15   6  6  3  20-14  24
+ 5.FUS Rabat            15   6  5  4  24-14  23
+ 6.Raja Casablanca      15   6  5  4  17-13  23  [C]
+ 7.DH El Jadida         15   6  5  4  22-20  23  [P]
+ 8.MAS Fès              15   6  4  5  11-11  22
+ 9.OC Safi              15   6  3  6  17-18  21
+10.Union Touarga Sport  15   4  7  4  18-15  19
+11.HUS Agadir           15   5  2  8  14-16  17
+12.JS Soualem           15   4  5  6  10-15  17
+- - - - - - - - - - - - - - - - - - - - - - - -
+13.COD Meknès           15   4  5  6  12-23  17  [P]
+14.IR Tanger            15   3  7  5  16-18  16
+-----------------------------------------------
+15.MA Tétouan           15   2  4  9   9-18  10
+16.SCC Mohammédia       15   0  3 12   7-37   3
+
+Round 16
+[Dec 28]
+IR Tanger          1-0 HUS Agadir
+RCA Zemamra        3-2 COD Meknès
+FUS Rabat          2-0 Union Touarga
+WAC Casablanca     1-4 MAS Fès
+[Dec 29]
+JS Soualem         2-0 DH El Jadida
+OC Safi            1-0 MA Tétouan
+FAR Rabat          2-0 SCC Mohammédia
+RS Berkane         2-0 Raja Casablanca
+
+Round 17
+[Jan 1]
+SCC Mohammédia     0-2 FUS Rabat
+[Jan 4]
+HUS Agadir         3-1 JS Soualem
+MA Tétouan         1-2 WAC Casablanca
+[Jan 5]
+Union Touarga      0-3 MAS Fès
+DH El Jadida       0-3 RCA Zemamra
+[Jan 23]
+COD Meknès         2-2 FAR Rabat
+Raja Casablanca    1-1 IR Tanger
+RS Berkane         2-2 OC Safi
+
+Round 18
+[Jan 11]
+JS Soualem         1-1 COD Meknès
+OC Safi            2-1 SCC Mohammédia
+[Jan 12]
+RCA Zemamra        2-0 HUS Agadir
+MAS Fès            2-1 MA Tétouan
+WAC Casablanca     2-1 Union Touarga
+[Jan 26]
+IR Tanger          1-3 RS Berkane
+FAR Rabat          1-0 DH El Jadida
+FUS Rabat          2-1 Raja Casablanca
+
+Round 19
+[Jan 17]
+COD Meknès         1-0 MA Tétouan
+[Jan 18]
+IR Tanger          1-0 FUS Rabat
+SCC Mohammédia     0-1 RCA Zemamra
+Union Touarga      3-1 JS Soualem
+[Jan 19]
+HUS Agadir         2-2 MAS Fès
+DH El Jadida       0-2 WAC Casablanca
+[Jan 30]
+Raja Casablanca    1-1 OC Safi
+RS Berkane         2-0 FAR Rabat
+
+Round 20
+[Feb 7]
+MA Tétouan         1-1 Union Touarga
+JS Soualem         1-1 SCC Mohammédia
+[Feb 8]
+MAS Fès            1-3 COD Meknès
+FAR Rabat          3-2 IR Tanger
+OC Safi            0-0 DH El Jadida
+[Feb 9]
+RCA Zemamra        1-2 Raja Casablanca
+FUS Rabat          0-1 RS Berkane
+WAC Casablanca     2-0 HUS Agadir
+
+Round 21
+[Feb 14]
+HUS Agadir         1-1 MA Tétouan
+COD Meknès         0-0 Union Touarga
+[Feb 15]
+IR Tanger          4-2 OC Safi
+FUS Rabat          2-1 FAR Rabat
+Raja Casablanca    2-0 JS Soualem
+[Feb 16]
+DH El Jadida       1-1 MAS Fès
+SCC Mohammédia     1-5 WAC Casablanca
+RS Berkane         1-0 RCA Zemamra
+
+Round 22
+[Feb 21]
+JS Soualem         0-4 RS Berkane
+MAS Fès            1-0 SCC Mohammédia
+[Feb 22]
+WAC Casablanca     0-0 COD Meknès
+MA Tétouan         1-3 DH El Jadida
+OC Safi            0-0 FUS Rabat
+[Feb 23]
+RCA Zemamra        2-0 IR Tanger
+FAR Rabat          0-0 Raja Casablanca
+Union Touarga      2-1 HUS Agadir
+
+Round 23
+[Feb 27]
+IR Tanger          1-0 JS Soualem
+SCC Mohammédia     0-2 MA Tétouan
+COD Meknès         1-0 HUS Agadir
+DH El Jadida       1-0 Union Touarga
+[Feb 28]
+FUS Rabat          3-0 RCA Zemamra
+Raja Casablanca    0-0 MAS Fès
+OC Safi            1-1 FAR Rabat
+RS Berkane         0-0 WAC Casablanca
+
+Round 24
+[Mar 7]
+JS Soualem         0-1 OC Safi
+Union Touarga      2-1 SCC Mohammédia
+[Mar 8]
+MAS Fès            1-1 IR Tanger
+RCA Zemamra        1-2 FAR Rabat
+[Mar 9]
+MA Tétouan         0-2 RS Berkane
+WAC Casablanca     2-2 FUS Rabat
+[Mar 10]
+COD Meknès         1-2 Raja Casablanca
+HUS Agadir         1-1 DH El Jadida
+
+Round 25
+[Mar 14]
+FAR Rabat          3-1 MAS Fès
+OC Safi            2-0 RCA Zemamra
+[Mar 15]
+FUS Rabat          4-2 JS Soualem
+IR Tanger          1-1 WAC Casablanca
+RS Berkane         1-1 Union Touarga
+[Mar 16]
+SCC Mohammédia     0-4 HUS Agadir
+DH El Jadida       2-1 COD Meknès
+Raja Casablanca    1-1 MA Tétouan
+
+Round 26
+[Apr 11]
+COD Meknès         1-0 OC Safi
+JS Soualem         0-1 RCA Zemamra
+[Apr 12]
+MAS Fès            1-0 FUS Rabat
+DH El Jadida       1-0 SCC Mohammédia
+WAC Casablanca     1-1 Raja Casablanca
+[Apr 13]
+HUS Agadir         2-0 RS Berkane
+Union Touarga      0-1 FAR Rabat
+[Apr 14]
+MA Tétouan         2-1 IR Tanger
+
+Round 27
+[Apr 23]
+SCC Mohammédia     1-2 COD Meknès
+FAR Rabat          2-0 JS Soualem
+FUS Rabat          2-2 MA Tétouan
+IR Tanger          0-1 Union Touarga
+OC Safi            1-1 WAC Casablanca
+Raja Casablanca    1-0 HUS Agadir
+RCA Zemamra        1-1 MAS Fès
+[May 1]
+RS Berkane         1-1 DH El Jadida
+
+Round 28
+[May 3]
+WAC Casablanca     2-1 FAR Rabat
+[May 4]
+SCC Mohammédia     1-2 IR Tanger
+COD Meknès         0-4 RS Berkane
+DH El Jadida       0-5 FUS Rabat
+HUS Agadir         2-3 OC Safi
+MA Tétouan         3-0 RCA Zemamra
+MAS Fès            2-0 JS Soualem
+Union Touarga      0-0 Raja Casablanca
+
+Round 29
+[May 7]
+RS Berkane         1-0 SCC Mohammédia
+[May 8]
+FAR Rabat          2-1 MA Tétouan
+FUS Rabat          2-1 HUS Agadir
+IR Tanger          2-0 COD Meknès
+JS Soualem         0-2 WAC Casablanca
+OC Safi            2-2 MAS Fès
+Raja Casablanca    3-2 DH El Jadida
+RCA Zemamra        3-0 Union Touarga
+
+Round 30
+[May 11]
+COD Meknès         0-3 FUS Rabat
+DH El Jadida       2-1 IR Tanger
+HUS Agadir         0-3 FAR Rabat
+MA Tétouan         0-3 JS Soualem
+MAS Fès            1-3 RS Berkane
+Union Touarga      0-2 OC Safi
+WAC Casablanca     2-0 RCA Zemamra
+[May 12]
+SCC Mohammédia     0-6 Raja Casablanca
+
+Final Table:
+
+ 1.RS Berkane           30  21  7  2  49-14  70       Champions
+ 2.FAR Rabat            30  16  9  5  48-24  57
+ 3.WAC Casablanca       30  14 12  4  45-27  54
+ 4.FUS Rabat            30  15  8  7  53-26  53
+ 5.Raja Casablanca      30  12 12  6  38-25  48  [C]
+ 6.RCA Zemamra          30  14  5 11  34-29  47
+ 7.OC Safi              30  12 10  8  37-33  46       [2 1 1 0 3-2 4]
+ 8.MAS Fès              30  12 10  8  34-29  46       [2 0 1 1 2-3 1]
+ 9.DH El Jadida         30  11  9 10  36-42  42  [P]
+10.IR Tanger            30   9 10 11  35-37  37
+11.COD Meknès           30   9  9 12  27-44  36  [P]
+12.Union Touarga Sport  30   8 11 11  29-34  35
+- - - - - - - - - - - - - - - - - - - - - - - -
+13.HUS Agadir           30   8  5 17  31-38  29       ‹Relegation Playoff, see §prorel›
+14.JS Soualem           30   6  7 17  21-42  25       ‹Relegation Playoff, see §prorel›
+-----------------------------------------------
+15.MA Tétouan           30   5  8 17  25-40  23       Relegated
+16.SCC Mohammédia       30   0  4 26  13-71   4       Relegated
+
+Promotion/Relegation Playoff  ‹§prorel›
+
+First Legs
+[May 24]
+Olympique Dcheira  1-2 JS Soualem
+[May 25]
+Raja Béni Mellal   0-0 HUS Agadir
+
+Second Legs
+[May 30]
+JS Soualem         0-3 Olympique Dcheira
+[May 31]
+HUS Agadir         1-0 Raja Béni Mellal
+
+NB: Olympique Dcheira promoted, JS Soualem relegated
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== GNF II  ‹§gnf2›
+
+<!-- start pre -->
+Final Table:
+
+ 1.KAC Marrakech        30  13 14  3  40-20  53       Promoted
+ 2.US Yaacub Mansour    30  14  9  7  50-35  51   [P] Promoted
+-----------------------------------------------
+ 3.Olympique Dcheira    30  13 10  7  44-30  49       ‹Promotion Playoff, see §prorel›
+ 4.Raja Béni Mellal     30  11 14  5  36-21  47       ‹Promotion Playoff, see §prorel›
+- - - - - - - - - - - - - - - - - - - - - - - -
+ 5.JS El Massira        30   8 16  6  31-26  40
+ 6.WAF Fès              30  11  6 13  32-33  39
+ 7.Racing Casablanca    30  10  9 11  41-42  39
+ 8.CJ Benguerir         30   8 13  9  28-34  37
+ 9.Stade Marocain       30   8 13  9  34-38  37
+10.CA Khénifra          30   7 16  7  22-27  37
+11.USM Oujda            30   8 12 10  27-44  36
+12.Kénitra AC           30   6 17  7  28-30  35  [P]
+- - - - - - - - - - - - - - - - - - - - - - - -
+13.CAY Berrechid        30   7 12 11  24-29  33  [R]  ‹Relegation Playoff, see §2prorel›
+14.MC Oujda             30   6 14 10  25-32  32  [R]  ‹Relegation Playoff, see §2prorel›
+-----------------------------------------------
+15.Rapide Oued Zem      30   5 14 11  26-32  29       Relegated
+16.OC Khouribga         30   5 11 14  26-41  26       Relegated
+
+Promoted directly from third level: WS Temara, US Amal Tiznit
+
+Promotion/Relegation Playoff 2nd/3rd level  ‹§2prorel›
+
+First Legs
+[May 30]
+US Boujaâd         2-1 CAY Berrechid
+[May 31]
+Ass. Al-Mansoria   3-1 MC Oujda
+
+Second Legs
+[Jun 4]
+CAY Berrechid      1-2 US Boujaâd
+[Jun 5]
+MC Oujda           2-0 Ass. Al-Mansoria
+
+NB: US Boujaâd promoted, CAY Berrechid relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page maro2024›
+
+‹list of champions, see page marochamp›
+
+‹list of cup winners, see page marocuphist›
+
+‹list of topscorers, see page marotops›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Thanks to Hans Schöggl
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 31 Oct 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

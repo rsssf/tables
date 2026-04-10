@@ -1,0 +1,129 @@
+  <!--
+     source: https://rsssf.org/tabless/sing2026.html
+    -->
+  
+
+
+== Singapore 2025/26
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹S-League, see §sleague›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== S-League  ‹§sleague›
+
+<!-- start pre -->
+Table:
+
+ 1.Lion City Sailors         5   5  0  0  22- 2  15  [C]
+ 2.Geylang International     5   3  1  1   7- 4  10
+ 3.Tampines Rovers           4   2  2  0   8- 4   8
+ 4.Balestier Khalsa          5   2  2  1   9-12   8
+ 5.Albirex Niigata (S)       4   2  1  1   8- 5   7
+ 6.Hougang United            5   1  0  4   4-10   3
+ 7.Tanjong Pagar United      5   1  0  4   7-15   3
+ 8.Young Lions               5   0  0  5   4-17   0
+
+NB: Young Lions are the Singapore youth side
+
+Round 1
+[Aug 23]
+Albirex Niigata (S)    2-2 Balestier Khalsa
+[Aug 24]
+Tampines Rovers        0-0 Geylang International
+[Aug 25]
+Lion City Sailors      2-1 Hougang United
+[Sep 25]
+Tanjong Pagar United   5-1 Young Lions
+
+Round 2
+[Sep 12]
+Geylang International  0-2 Albirex Niigata (S)
+[Sep 13]
+Tanjong Pagar United   0-3 Tampines Rovers
+[Sep 14]
+Balestier Khalsa       0-5 Lion City Sailors
+[Oct 2]
+Young Lions            0-2 Hougang United
+
+Round 3
+[Sep 19]
+Hougang United         0-2 Geylang International
+[Sep 21]
+Young Lions            1-2 Balestier Khalsa
+[Sep 22]
+Tanjong Pagar United   0-7 Lion City Sailors
+[Mar 22]
+Albirex Niigata (S)     -  Tampines Rovers
+
+Round 4
+[Oct 17]
+Hougang United         0-4 Albirex Niigata (S)
+[Oct 18]
+Geylang International  2-1 Tanjong Pagar United
+Lion City Sailors      5-1 Young Lions
+[Oct 19]
+Tampines Rovers        3-3 Balestier Khalsa
+
+Round 5
+[Oct 24]
+Balestier Khalsa       2-1 Tanjong Pagar United
+[Oct 25]
+Young Lions            1-3 Geylang International
+[Oct 27]
+Hougang United         1-2 Tampines Rovers
+Lion City Sailors      3-0 Albirex Niigata (S)
+
+Round 6
+[Jan 9]
+Geylang International   -  Balestier Khalsa
+[Jan 10]
+Albirex Niigata (S)     -  Young Lions
+[Jan 11]
+Tampines Rovers         -  Lion City Sailors
+[Jan 12]
+Tanjong Pagar United    -  Hougang United
+
+Table:
+
+ 1.Lion City Sailors         5   5  0  0  22- 2  15  [C]
+ 2.Geylang International     5   3  1  1   7- 4  10
+ 3.Tampines Rovers           4   2  2  0   8- 4   8
+ 4.Balestier Khalsa          5   2  2  1   9-12   8
+ 5.Albirex Niigata (S)       4   2  1  1   8- 5   7
+ 6.Hougang United            5   1  0  4   4-10   3
+ 7.Tanjong Pagar United      5   1  0  4   7-15   3
+ 8.Young Lions               5   0  0  5   4-17   0
+
+NB: Young Lions are the Singapore youth side
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024/25, see page sing2025›
+
+‹list of champions, see page singchamp›
+
+‹list of cup winners, see page singcuphist›
+
+‹list of foundation dates, see page singfound›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 23 Dec 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2025
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

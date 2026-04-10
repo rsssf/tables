@@ -1,0 +1,142 @@
+  <!--
+     source: https://rsssf.org/tablesz/zimb2026.html
+    -->
+  
+
+
+== Zimbabwe 2026
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Premier Soccer League 2026, see §psl›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Premier Soccer League 2026  ‹§psl›
+
+<!-- start pre -->
+Table:
+
+ 1.CAPS United          4   4  0  0   6- 1  12
+ 2.Scottland FC         4   2  2  0   7- 1   8  [C]
+ 3.Dynamos              4   2  2  0   7- 4   8
+ 4.Ngezi Platinum       4   2  2  0   5- 3   8
+ 5.Simba Bhora          4   2  2  0   2- 0   8
+ 6.Herentals College    4   2  1  1   5- 2   7
+ 7.Hardrock FC          4   2  1  1   2- 2   7  [P]
+ 8.ZPC Kariba           4   2  0  2   4- 3   6
+ 9.MWOS FC              4   1  3  0   3- 2   6
+10.FC Platinum          4   1  2  1   5- 4   5
+11.Chicken Inn          4   1  2  1   3- 2   5
+12.Highlanders          4   0  4  0   3- 3   4
+13.Bulawayo Chiefs      4   1  1  2   3- 5   4  [P]
+14.FC Hunters           4   0  3  1   0- 3   3  [P]
+----------------------------------------------
+15.TelOne FC            4   0  2  2   4- 6   2
+16.Agama FC             4   0  1  3   2- 7   1  [P]
+17.Triangle United FC   4   0  0  4   0- 5   0
+18.Manica Diamonds      4   0  0  4   0- 8   0
+
+Round 1
+[Mar 6]
+FC Hunters             0-0 MWOS
+[Mar 7]
+Herentals              1-1 Chicken Inn
+Ngezi Platinum         2-1 FC Platinum
+Triangle United        0-1 ZPC Kariba
+[Mar 8]
+TelOne                 1-2 Dynamos
+CAPS United            2-1 Agama
+Manica Diamonds        0-1 Simba Bhora
+Hardrock               0-0 Scottland
+Highlanders            1-1 Bulawayo Chiefs
+
+Round 2
+[Mar 13]
+Scottland              1-1 Ngezi Platinum
+[Mar 14]
+MWOS                   1-1 TelOne
+Simba Bhora            0-0 FC Hunters
+FC Platinum            2-0 Manica Diamonds
+ZPC Kariba             0-1 Hardrock
+Chicken Inn            2-0 Triangle United
+CAPS United            1-0 Herentals
+[Mar 15]
+Agama                  0-1 Bulawayo Chiefs
+Dynamos                2-2 Highlanders
+
+Round 3
+[Mar 18]
+FC Hunters             0-0 FC Platinum
+Triangle United        0-1 CAPS United
+Hardrock               1-0 Chicken Inn
+Ngezi Platinum         2-1 ZPC Kariba
+TelOne                 0-1 Simba Bhora
+Highlanders            0-0 MWOS
+[Mar 19]
+Bulawayo Chiefs        0-2 Dynamos
+Manica Diamonds        0-3 Scottland
+Herentals              3-0 Agama
+
+Round 4
+[Mar 21]
+Simba Bhora            0-0 Highlanders
+CAPS United            2-0 Hardrock
+Chicken Inn            0-0 Ngezi Platinum
+FC Platinum            2-2 TelOne
+[Mar 22]
+MWOS                   2-1 Bulawayo Chiefs
+Scottland              3-0 FC Hunters
+ZPC Kariba             2-0 Manica Diamonds
+Agama                  1-1 Dynamos
+[Mar 23]
+Herentals              1-0 Triangle United
+
+Table:
+
+ 1.CAPS United          4   4  0  0   6- 1  12
+ 2.Scottland FC         4   2  2  0   7- 1   8  [C]
+ 3.Dynamos              4   2  2  0   7- 4   8
+ 4.Ngezi Platinum       4   2  2  0   5- 3   8
+ 5.Simba Bhora          4   2  2  0   2- 0   8
+ 6.Herentals College    4   2  1  1   5- 2   7
+ 7.Hardrock FC          4   2  1  1   2- 2   7  [P]
+ 8.ZPC Kariba           4   2  0  2   4- 3   6
+ 9.MWOS FC              4   1  3  0   3- 2   6
+10.FC Platinum          4   1  2  1   5- 4   5
+11.Chicken Inn          4   1  2  1   3- 2   5
+12.Highlanders          4   0  4  0   3- 3   4
+13.Bulawayo Chiefs      4   1  1  2   3- 5   4  [P]
+14.FC Hunters           4   0  3  1   0- 3   3  [P]
+----------------------------------------------
+15.TelOne FC            4   0  2  2   4- 6   2
+16.Agama FC             4   0  1  3   2- 7   1  [P]
+17.Triangle United FC   4   0  0  4   0- 5   0
+18.Manica Diamonds      4   0  0  4   0- 8   0
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2025, see page zimb2025›
+
+‹list of champions, see page zimbchamp›.
+
+‹list of cup winners, see page zimbcuphist›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 24 Mar 2026
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2026
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

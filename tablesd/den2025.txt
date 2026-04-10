@@ -1,0 +1,499 @@
+  <!--
+     source: https://rsssf.org/tablesd/den2025.html
+    -->
+  
+
+
+== Denmark 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Superligaen, see §ligaen›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Superligaen  ‹§ligaen›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.FC Midtjylland            22  14  3  5  42-27  45  [C]  ‹Championship Playoff, see §champ›
+ 2.FC København              22  11  8  3  38-24  41       ‹Championship Playoff, see §champ›
+ 3.AGF                       22   9  9  4  42-23  36       ‹Championship Playoff, see §champ›
+ 4.Randers FC                22   9  8  5  39-28  35       ‹Championship Playoff, see §champ›
+ 5.FC Nordsjælland           22  10  5  7  39-36  35       ‹Championship Playoff, see §champ›
+ 6.Brøndby IF                22   8  9  5  42-32  33       ‹Championship Playoff, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Silkeborg IF              22   8  9  5  38-29  33       ‹Relegation Playoff, see §releg›
+ 8.Viborg FF                 22   7  7  8  38-39  28       ‹Relegation Playoff, see §releg›
+ 9.AaB                       22   5  6 11  23-41  21  [P]  ‹Relegation Playoff, see §releg›
+10.Lyngby BK                 22   3  9 10  15-26  18       ‹Relegation Playoff, see §releg›
+11.SønderjyskE               22   4  5 13  26-51  17  [P]  ‹Relegation Playoff, see §releg›
+12.Vejle Boldklub            22   3  4 15  24-50  13       ‹Relegation Playoff, see §releg›
+
+Round 1
+[Jul 19]
+AGF              1-1 Midtjylland
+Nordsjælland     3-0 AaB
+[Jul 21]
+Silkeborg        1-0 SønderjyskE
+Vejle            2-3 Randers
+Viborg           3-3 Brøndby
+[Jul 22]
+Lyngby           0-2 København
+
+Round 2
+[Jul 26]
+SønderjyskE      1-1 Lyngby
+[Jul 27]
+Nordsjælland     2-2 Midtjylland
+[Jul 28]
+Randers          3-1 Viborg
+AaB              2-1 Silkeborg
+København        3-2 AGF
+[Jul 29]
+Brøndby          2-1 Vejle
+
+Round 3
+[Aug 2]
+AGF              4-0 SønderjyskE
+[Aug 3]
+Midtjylland      2-0 AaB
+[Aug 4]
+Silkeborg        3-2 Viborg
+København        1-1 Randers
+Lyngby           0-2 Brøndby
+[Aug 5]
+Vejle            0-1 Nordsjælland
+
+Round 4
+[Aug 9]
+Midtjylland      2-0 Vejle
+[Aug 11]
+Nordsjælland     1-1 Lyngby
+Randers          0-2 Silkeborg
+Brøndby          0-1 AGF
+SønderjyskE      0-2 København
+[Aug 12]
+Viborg           2-3 AaB
+
+Round 5
+[Aug 16]
+Lyngby           1-2 Midtjylland
+[Aug 18]
+Randers          1-2 SønderjyskE
+Silkeborg        4-1 Nordsjælland
+København        1-1 Viborg
+AaB              0-4 Brøndby
+[Aug 19]
+AGF              5-1 Vejle
+
+Round 6
+[Aug 23]
+AaB              0-4 AGF
+[Aug 24]
+Midtjylland      3-2 SønderjyskE
+[Aug 25]
+Vejle            1-3 Silkeborg
+Nordsjælland     3-2 København
+Brøndby          2-2 Randers
+[Aug 26]
+Viborg           1-0 Lyngby
+
+Round 7
+[Aug 30]
+Lyngby           1-0 Vejle
+[Aug 31]
+AGF              4-2 Nordsjælland
+[Sep 1]
+København        3-1 Brøndby
+SønderjyskE      2-2 Viborg
+Silkeborg        1-3 Midtjylland
+Randers          1-0 AaB
+
+Round 8
+[Sep 13]
+AaB              2-1 Lyngby
+[Sep 14]
+Midtjylland      2-1 København
+[Sep 15]
+AGF              1-1 Silkeborg
+Vejle            0-5 Viborg
+Brøndby          2-0 SønderjyskE
+[Sep 16]
+Nordsjælland     1-1 Randers
+
+Round 9
+[Sep 20]
+Viborg           3-2 Nordsjælland
+[Sep 22]
+Randers          2-2 Midtjylland
+SønderjyskE      2-1 Vejle
+Lyngby           0-0 AGF
+Silkeborg        3-3 Brøndby
+[Sep 23]
+København        2-0 AaB
+
+Round 10
+[Sep 28]
+AGF              2-2 Randers
+[Sep 29]
+AaB              3-0 SønderjyskE
+Midtjylland      3-1 Viborg
+Lyngby           2-2 Silkeborg
+Vejle            1-2 København
+[Sep 30]
+Nordsjælland     4-1 Brøndby
+
+Round 11
+[Oct 4]
+Vejle            2-2 AaB
+[Oct 6]
+Randers          1-1 Lyngby
+SønderjyskE      1-4 Nordsjælland
+Viborg           1-1 AGF
+Brøndby          2-0 Midtjylland
+Silkeborg        2-2 København
+
+Round 12
+[Oct 18]
+København        3-1 Vejle
+[Oct 20]
+AaB              0-2 Randers
+Lyngby           0-0 Viborg
+Nordsjælland     1-1 Silkeborg
+SønderjyskE      3-2 Midtjylland
+[Oct 21]
+AGF              1-0 Brøndby
+
+Round 13
+[Oct 25]
+Silkeborg        1-1 AaB
+[Oct 27]
+Brøndby          0-0 København
+Vejle            2-0 Lyngby
+Viborg           4-2 SønderjyskE
+Midtjylland      2-0 AGF
+[Oct 28]
+Randers          4-0 Nordsjælland
+
+Round 14
+[Nov 2]
+SønderjyskE      1-4 Randers
+[Nov 3]
+Midtjylland      1-5 Brøndby
+Nordsjælland     2-1 Viborg
+AGF              2-1 Lyngby
+AaB              3-3 Vejle
+[Nov 4]
+København        2-2 Silkeborg
+
+Round 15
+[Nov 8]
+Vejle            1-1 SønderjyskE
+[Nov 10]
+Lyngby           2-2 AaB
+Silkeborg        1-0 Randers
+Viborg           1-0 Midtjylland
+AGF              1-1 København
+Brøndby          1-1 Nordsjælland
+
+Round 16
+[Nov 22]
+Nordsjælland     1-0 AGF
+[Nov 24]
+AaB              0-0 Viborg
+Randers          2-0 Vejle
+SønderjyskE      2-2 Brøndby
+København        2-1 Lyngby
+[Nov 25]
+Midtjylland      1-0 Silkeborg
+
+Round 17
+[Nov 29]
+Brøndby          1-0 AaB
+[Dec 1]
+Lyngby           0-2 SønderjyskE
+Viborg           1-2 Randers
+Vejle            0-3 Midtjylland
+Silkeborg        1-1 AGF
+[Dec 2]
+København        3-1 Nordsjælland
+
+Round 18
+[Feb 14]
+Brøndby          4-1 Viborg
+[Feb 16]
+Silkeborg        0-1 Vejle
+SønderjyskE      1-4 AGF
+Midtjylland      1-0 Lyngby
+[Feb 17]
+Randers          1-2 København
+[Feb 26]
+AaB              1-2 Nordsjælland
+
+Round 19
+[Feb 21]
+Lyngby           0-0 Randers
+[Feb 23]
+AGF              4-0 AaB
+Nordsjælland     3-2 SønderjyskE
+Vejle            2-2 Brøndby
+København        1-0 Midtjylland
+[Feb 24]
+Viborg           1-4 Silkeborg
+
+Round 20
+[Feb 28]
+Randers          1-1 AGF
+[Mar 2]
+SønderjyskE      1-3 Silkeborg
+Viborg           3-1 Vejle
+Midtjylland      2-1 Nordsjælland
+AaB              0-0 København
+[Mar 3]
+Brøndby          1-1 Lyngby
+
+Round 21
+[Mar 7]
+Nordsjælland     3-1 Vejle
+[Mar 9]
+AaB              1-4 Midtjylland
+Silkeborg        0-1 Lyngby
+AGF              1-1 Viborg
+København        1-1 SønderjyskE
+[Mar 10]
+Randers          4-2 Brøndby
+
+Round 22 [Mar 16]
+Brøndby          2-2 Silkeborg
+Midtjylland      4-2 Randers
+Lyngby           1-0 Nordsjælland
+SønderjyskE      0-3 AaB
+Vejle            3-2 AGF
+Viborg           3-2 København
+
+Final Table:
+
+ 1.FC Midtjylland            22  14  3  5  42-27  45  [C]  ‹Championship Playoff, see §champ›
+ 2.FC København              22  11  8  3  38-24  41       ‹Championship Playoff, see §champ›
+ 3.AGF                       22   9  9  4  42-23  36       ‹Championship Playoff, see §champ›
+ 4.Randers FC                22   9  8  5  39-28  35       ‹Championship Playoff, see §champ›
+ 5.FC Nordsjælland           22  10  5  7  39-36  35       ‹Championship Playoff, see §champ›
+ 6.Brøndby IF                22   8  9  5  42-32  33       ‹Championship Playoff, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Silkeborg IF              22   8  9  5  38-29  33       ‹Relegation Playoff, see §releg›
+ 8.Viborg FF                 22   7  7  8  38-39  28       ‹Relegation Playoff, see §releg›
+ 9.AaB                       22   5  6 11  23-41  21  [P]  ‹Relegation Playoff, see §releg›
+10.Lyngby BK                 22   3  9 10  15-26  18       ‹Relegation Playoff, see §releg›
+11.SønderjyskE               22   4  5 13  26-51  17  [P]  ‹Relegation Playoff, see §releg›
+12.Vejle Boldklub            22   3  4 15  24-50  13       ‹Relegation Playoff, see §releg›
+
+Playoff Stage  ‹§play›
+
+‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
+
+Championship Playoff  ‹§champ›
+
+Final Table:
+
+ 1.FC København              32  18  9  5  60-33  63       Champions
+ 2.FC Midtjylland            32  19  5  8  64-42  62  [C]
+ 3.Brøndby IF                32  13 12  7  58-46  51
+ 4.Randers FC                32  13  9 10  57-50  48
+ 5.FC Nordsjælland           32  13  7 12  53-56  46
+ 6.AGF                       32  10 10 12  53-46  40
+
+Round 23
+[Mar 30]
+AGF              2-0 Nordsjælland
+Midtjylland      0-2 Brøndby
+[Mar 31]
+København        1-0 Randers
+
+Round 24
+[Apr 4]
+Randers          2-1 Midtjylland
+[Apr 6]
+Nordsjælland     0-1 København
+[Apr 7]
+Brøndby          2-1 AGF
+
+Round 25 [Apr 13]
+København        1-2 Brøndby
+AGF              1-1 Midtjylland
+Nordsjælland     5-2 Randers
+
+Round 26
+[Apr 17]
+Randers          3-1 AGF
+Midtjylland      4-2 København
+[Apr 18]
+Brøndby          0-0 Nordsjælland
+
+Round 27
+[Apr 21]
+Brøndby          4-3 Randers
+København        3-1 AGF
+[Apr 22]
+Nordsjælland     3-2 Midtjylland
+
+Round 28
+[Apr 26]
+Randers          0-0 Brøndby
+[Apr 27]
+AGF              1-3 København
+Midtjylland      5-0 Nordsjælland
+
+Round 29
+[May 2]
+Randers          3-2 Nordsjælland
+[May 4]
+Brøndby          0-3 København
+Midtjylland      3-1 AGF
+
+Round 30 [May 11]
+Nordsjælland     2-2 Brøndby
+AGF              1-3 Randers
+København        1-1 Midtjylland
+
+Round 31
+[May 16]
+Nordsjælland     2-0 AGF
+[May 18]
+Randers          0-4 København
+[May 19]
+Brøndby          1-2 Midtjylland
+
+Round 32 [May 25]
+AGF              2-3 Brøndby
+København        3-0 Nordsjælland
+Midtjylland      3-2 Randers
+
+Final Table:
+
+ 1.FC København              32  18  9  5  60-33  63       Champions
+ 2.FC Midtjylland            32  19  5  8  64-42  62  [C]
+ 3.Brøndby IF                32  13 12  7  58-46  51
+ 4.Randers FC                32  13  9 10  57-50  48
+ 5.FC Nordsjælland           32  13  7 12  53-56  46
+ 6.AGF                       32  10 10 12  53-46  40
+
+Relegation Playoff  ‹§releg›
+
+Final Table:
+
+ 7.Silkeborg IF              32  13 10  9  56-41  49
+ 8.Viborg FF                 32  12 11  9  57-50  47
+ 9.SønderjyskE               32  10  7 15  47-64  37  [P]
+10.Vejle Boldklub            32   7  7 18  37-64  28
+----------------------------------------------------
+11.Lyngby BK                 32   5 12 15  26-43  27       Relegated
+12.AaB                       32   5  9 18  34-67  24  [P]  Relegated
+
+Round 23
+[Mar 28]
+AaB              0-4 Viborg
+[Mar 30]
+Lyngby           1-2 Vejle
+SønderjyskE      2-1 Silkeborg
+
+Round 24 [Apr 6]
+Silkeborg        2-1 Lyngby
+Viborg           2-1 SønderjyskE
+Vejle            1-1 AaB
+
+Round 25
+[Apr 11]
+AaB              2-2 Lyngby
+[Apr 13]
+Viborg           2-1 Silkeborg
+[Apr 14]
+SønderjyskE      1-0 Vejle
+
+Round 26
+[Apr 16]
+Silkeborg        4-0 AaB
+[Apr 17]
+Lyngby           0-2 SønderjyskE
+Vejle            3-3 Viborg
+
+Round 27
+[Apr 20]
+AaB              2-3 SønderjyskE
+[Apr 21]
+Vejle            0-4 Silkeborg
+Viborg           1-1 Lyngby
+
+Round 28
+[Apr 27]
+Lyngby           2-0 Silkeborg
+SønderjyskE      2-2 Viborg
+[Apr 28]
+AaB              0-1 Vejle
+
+Round 29
+[May 4]
+Lyngby           0-0 Viborg
+Silkeborg        1-1 Vejle
+[May 5]
+SønderjyskE      2-2 AaB
+
+Round 30
+[May 11]
+Silkeborg        1-0 SønderjyskE
+Viborg           3-1 AaB
+[May 12]
+Vejle            2-0 Lyngby
+
+Round 31 [May 18]
+AaB              2-3 Silkeborg
+Viborg           0-1 Vejle
+SønderjyskE      5-1 Lyngby
+
+Round 32 [May 24]
+Lyngby           3-1 AaB
+Silkeborg        1-2 Viborg
+Vejle            2-3 SønderjyskE
+
+Final Table:
+
+ 7.Silkeborg IF              32  13 10  9  56-41  49
+ 8.Viborg FF                 32  12 11  9  57-50  47
+ 9.SønderjyskE               32  10  7 15  47-64  37  [P]
+10.Vejle Boldklub            32   7  7 18  37-64  28
+----------------------------------------------------
+11.Lyngby BK                 32   5 12 15  26-43  27       Relegated
+12.AaB                       32   5  9 18  34-67  24  [P]  Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page den2024›
+
+‹list of champions, see page denchamp›
+
+‹list of cup finals, see page dencuphist›
+
+‹list of super cup finals, see page densupcuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+Last updated: 26 May 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

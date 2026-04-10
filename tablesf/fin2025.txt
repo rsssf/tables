@@ -1,0 +1,258 @@
+  <!--
+     source: https://rsssf.org/tablesf/fin2025.html
+    -->
+  
+
+
+== Finland 2025
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Veikkausliiga, see §veik›
+‹Suomen Cup, see §suomen›
+‹Ykkösliiga, see §yks›
+‹Ykkönen, see §ykko›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Premier Division (Veikkausliiga)  ‹§veik›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.FC Inter (Turku)              22  13  7  2  46-20  46       ‹Championship Playoff, see §champ›
+ 2.FC Ilves (Tampere)            22  14  3  5  47-27  45       ‹Championship Playoff, see §champ›
+ 3.HJK (Helsinki)                22  14  2  6  59-29  44       ‹Championship Playoff, see §champ›
+ 4.KuPS (Kuopio)                 22  13  5  4  39-23  44  [C]  ‹Championship Playoff, see §champ›
+ 5.SJK (Seinäjoki)               22  12  5  5  45-31  41       ‹Championship Playoff, see §champ›
+ 6.IF Gnistan (Helsinki)         22   7  7  8  34-39  28       ‹Championship Playoff, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.VPS (Vaasa)                   22   6  7  9  32-34  25       ‹Relegation Playoff, see §releg›
+ 8.FF Jaro (Pietarsaari)         22   7  4 11  25-36  25  [P]  ‹Relegation Playoff, see §releg›
+ 9.IFK Mariehamn                 22   5  6 11  25-48  21       ‹Relegation Playoff, see §releg›
+10.AC Oulu (Oulu)                22   5  3 14  30-48  18       ‹Relegation Playoff, see §releg›
+11.FC Haka (Valkeakoski)         22   4  4 14  27-43  16       ‹Relegation Playoff, see §releg›
+12.FC KTP (Kotka)                22   3  5 14  24-55  14  [P]  ‹Relegation Playoff, see §releg›
+
+Playoff Stage  ‹§play›
+
+‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
+
+Championship Playoff  ‹§champ›
+
+Final Table:
+
+ 1.KuPS (Kuopio)                 32  20  7  5  62-34  67  [C]  Champions
+ 2.FC Inter (Turku)              32  17 10  5  60-33  61
+ 3.FC Ilves (Tampere)            32  18  6  8  68-45  60
+ 4.SJK (Seinäjoki)               32  17  8  7  70-51  59
+ 5.HJK (Helsinki)                32  14  7 11  74-52  49
+ 6.IF Gnistan (Helsinki)         32   8  9 15  47-65  33
+
+Relegation Playoff  ‹§releg›
+
+Final Table:
+
+ 7.FF Jaro (Pietarsaari)         27  10  4 13  35-44  34  [P]
+ 8.IFK Mariehamn                 27   8  8 11  34-53  32
+ 9.VPS (Vaasa)                   27   8  7 12  37-42  31
+10.AC Oulu (Oulu)                27   8  3 16  35-53  27
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+11.FC KTP (Kotka)                27   5  6 16  31-61  21  [P]  ‹Relegation Playoff, see §prorel›
+--------------------------------------------------------
+12.FC Haka (Valkeakoski)         27   4  5 18  30-50  17       Relegated
+
+Promotion/Relegation Playoff  ‹§prorel›
+
+First Leg [Oct 23]
+TPS             3-0 KTP
+
+Second Leg [Oct 26]
+KTP             2-3 TPS
+
+NB: TPS promoted, KTP relegated
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Suomen Cup 2025  ‹§suomen›
+
+<!-- start pre -->
+Round 6
+[Jun 10]
+Oulu            1-1 PK-35           [7-6 pen]
+[Jun 11]
+Klubi 04        4-3 Mariehamn
+Haka            3-2 Gnistan
+OLS             0-1 EIF
+Jaro            2-2 VPS             [5-4 pen]
+SJK             7-0 KPV
+MP              0-1 HJK
+Jazz            2-6 KuPS
+
+Quarterfinals [Jun 24]
+Klubi 04        0-4 HJK
+Haka            1-1 KuPS            [0-3 pen]
+Oulu            2-0 SJK
+EIF             2-4 Jaro
+
+Semifinals
+[Aug 21]
+HJK             1-0 Oulu
+[Sep 10]
+KuPS            2-0 Jaro
+
+Final [Sep 20, Tampere]
+HJK             1-0 KuPS
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Ykkösliiga  ‹§yks›
+
+<!-- start pre -->
+Final Table:
+
+ 1.FC Lahti                      27  17  7  3  54-30  58  [R]  Promoted
+--------------------------------------------------------
+ 2.TPS (Turku)                   27  16  5  6  66-45  53       ‹Promotion Playoff, see §prorel›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.JIPPO (Joensuu)               27  10 11  6  37-31  41
+ 4.EIF (Ekenäs)                  27  12  5 10  48-43  41  [R]
+ 5.PK-35 (Helsinki)              27  11  9  7  39-30  40  [-2]
+ 6.HJK Klubi-04 (Helsinki)       27  11  6 10  49-45  39  [P]
+ 7.JäPS (Järvenpää)              27   7 11  9  41-50  32
+ 8.SJK Akatemia (Seinäjoki)      27   8  5 14  46-49  29
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.KäPa (Helsinki)               27   4  8 15  41-68  20       ‹Relegation Playoff, see §2prorel›
+--------------------------------------------------------
+10.SalPa (Salo)                  27   4  3 20  22-52  15       Relegated
+
+NB: PK-35 2 points deducted for failing to fulfil licensing criteria
+
+Promotion/Relegation Playoff 2nd/3rd Level  ‹§2prorel›
+
+First Leg [Oct 23]
+OLS             0-3 KäPa
+
+Second Leg [Oct 26]
+KäPa            4-2 OLS
+
+NB: both remain at former level
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Ykkönen  ‹§ykko›
+
+<!-- start pre -->
+‹Regular Stage, see §3reg› | ‹Playoff Stage, see §3play›
+
+Runkosarja (Regular Stage)  ‹§3reg›
+
+Final Table:
+
+ 1.MP (Mikkeli)                  22  11  6  5  41-25  39  [R]  ‹Promotion Playoff, see §3prom›
+ 2.OLS (Oulu)                    22   8 10  4  47-32  34       ‹Promotion Playoff, see §3prom›
+ 3.KPV (Kokkola)                 22  10  4  8  36-35  34       ‹Promotion Playoff, see §3prom›
+ 4.KuPS Akatemia (Kuopio)        22  10  3  9  39-41  33       ‹Promotion Playoff, see §3prom›
+ 5.JJK (Jyväskylä)               22   9  4  9  31-28  31       ‹Promotion Playoff, see §3prom›
+ 6.Tampere United                22   9  4  9  34-33  31  [P]  ‹Promotion Playoff, see §3prom›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.FC Jazz (Pori)                22  10  3  9  41-34  30  [-3] ‹Relegation Playoff, see §3releg›
+ 8.PKKU (Kerava)                 22   8  6  8  41-44  30       ‹Relegation Playoff, see §3releg›
+ 9.FC Inter 2 (Turku)            22   8  5  9  51-41  29  [P]  ‹Relegation Playoff, see §3releg›
+10.RoPS (Rovaniemi)              22   7  4 11  30-46  25       ‹Relegation Playoff, see §3releg›
+11.EPS (Espoo)                   22   7  3 12  25-45  24       ‹Relegation Playoff, see §3releg›
+12.Atlantis FC (Helsinki)        22   7  4 11  31-43  23  [-2] ‹Relegation Playoff, see §3releg›
+
+NB: Atlantis FC 2 points deducted for failing to fulfil licensing criteria;
+    FC Jazz 3 points deducted for failing to fulfil licensing criteria
+
+Jatkosarja (Playoff Stage)  ‹§3play›
+
+‹Promotion Playoff, see §3prom› | ‹Relegation Playoff, see §3releg›
+
+Ylempi jatkosarja (Promotion Playoff)  ‹§3prom›
+
+Final Table:
+
+ 1.MP (Mikkeli)                  27  14  8  5  55-31  50  [R]   Promoted
+--------------------------------------------------------
+ 3.OLS (Oulu)                    27  12 11  4  61-36  47       ‹Promotion Playoff, see §2prorel›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.KuPS Akatemia (Kuopio)        27  13  4 10  50-49  43
+ 4.KPV (Kokkola)                 27  12  4 11  44-44  40
+ 5.JJK (Jyväskylä)               27  10  4 13  38-42  34
+ 6.Tampere United                27   9  4 14  35-47  31  [P]
+
+Alempi jatkosarja (Relegation Playoff)  ‹§3releg›
+
+Final Table:
+
+ 7.PKKU (Kerava)                 27  11  7  9  48-51  40
+ 8.RoPS (Rovaniemi)              27  11  5 11  45-52  38
+ 9.FC Inter 2 (Turku)            27  10  5 12  61-54  35  [P]
+10.FC Jazz (Pori)                27  11  3 13  50-46  33  [-3]
+--------------------------------------------------------
+11.EPS (Espoo)                   27  10  3 14  35-49  33       Relegated
+12.Atlantis FC (Helsinki)        27   8  4 15  42-63  26  [-2] Relegated
+
+NB: Atlantis FC 2 points deducted for failing to fulfil licensing criteria;
+    FC Jazz 3 points deducted for failing to fulfil licensing criteria
+
+Promoted: VJS (Vantaa), TPV (Tampere)
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024, see page fin2024›.
+
+‹list of champions, see page finchamp›.
+
+‹list of final tables, see page finhist›.
+
+‹all-time table, see page finalltime›.
+
+‹divisional movements, see page finall›.
+
+‹list of top scorers, see page fintops›.
+
+‹list of 2nd level champions, see page fin2champ›.
+
+‹list of 2nd level final tables, see page fin2hist›.
+
+‹2nd level all-time table, see page fin2alltime›.
+
+‹list of 2nd level top scorers, see page fin2tops›.
+
+‹list of 3rd level champions, see page fin3champ›.
+
+‹list of cup finals, see page fincuphist›.
+
+‹list of league cup finals, see page finleagcuphist›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Thanks to Martin Arenlind
+
+Prepared and maintained by Karel Stokkermans
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 8 Jan 2026
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2025/26
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

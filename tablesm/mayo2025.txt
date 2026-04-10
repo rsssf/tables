@@ -1,0 +1,122 @@
+  <!--
+     source: https://rsssf.org/tablesm/mayo2025.html
+    -->
+  
+
+
+== Mayotte 2025
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Régional 1, see §honneur›
+‹Cup Tournaments, see §cup›
+‹Régional 2, see §reg2›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Régional 1 2025  ‹§honneur›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Bandrélé FC                      22  12  8  2  47-22  44            Champions
+ 2.AS Rosador (Passamainty)         22  11  7  4  43-27  40
+ 3.ACSJ M'liha                      22  11  6  5  42-21  39       [P]
+ 4.FC de M'tsapéré                  22   9  7  6  44-31  34
+ 5.Diables noirs (Combani)          22   9  6  7  35-30  33
+ 6.AS Jumeaux (Mzouasia)            22   8  7  7  29-26  31
+ 7.UCS de Sada                      22   7  9  6  33-30  30
+ 8.FC de Sohoa                      22   7  9  6  31-30  30       [P]
+ 9.L'Espérance d'Iloni              22   8  6  8  31-34  29  [-1] [P]
+-----------------------------------------------------------
+10.US Kavani                        22   8  4 10  32-34  28            Relegated
+11.AJ Kani Kéli                     22   2  1 19   8-61   6  [-1]      Relegated
+12.ASC Kawéni                       22   3  4 15  23-52  -3 [-16] [C]  Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Cup Tournaments 2025  ‹§cup›
+
+<!-- start pre -->
+‹Coupe de France 2025, see §mfrance›
+
+Coupe de France 2025  ‹§mfrance›
+
+1/8 Finals
+[Sep 5]
+US Kavani              awd Diables Noirs          [awarded 3-0]
+VSS Hagnoudrou         3-4 Bandrélé FC
+ASC Kaweni             1-1 L'Espérance d'Iloni    [5-6 pen]
+Espoir Club Longoni    0-0 UCS de Sada            [2-3 pen]
+FC Majicavo            1-1 AS Rosador             [6-5 pen]
+[Sep 6[
+AJM Jumeaux M'zoisia   2-0 Choungui FC
+FC de Chiconi          1-0 FC de Kani Bé
+ACSJ Mliha             awd USC Labattoir          [awarded 0-3]
+
+Quarterfinals [Sep 13]
+Bandrélé FC            1-0 US Kavani
+L'Espérance d'Iloni    2-1 UCS de Sada
+USC Labattoir          2-3 AJM Jumeaux M'zoisia
+FC Majicavo            1-3 FC de Chiconi
+
+Semifinals [Sep 27]
+FC de Chiconi          0-1 Bandrélé FC
+AJM Jumeaux M'zoisia   0-1 L'Espérance d'Iloni
+
+Final [Oct 11]
+L'Espérance d'Iloni    0-1 Bandrélé FC
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Régional 2 2025  ‹§reg2›
+
+<!-- start pre -->
+Final(?) Table:
+
+ 1.Etincelles (Hamjago)             22  13  5  4  41-19  44       [P]  Promoted
+ 2.AS Sada                          22  12  4  6  46-31  40            Promoted
+ 3.ASC Abeilles (M'tsamboro)        22  11  7  4  38-27  40            Promoted
+-----------------------------------------------------------
+ 4.FMJ de Vahibé                    21  10  5  6  34-25  35       [R]
+ 5.FC Kani Bé                       22   9  8  5  30-22  35       [P]
+ 6.Pamandzi SC                      22   8  6  8  28-31  30       [P]
+ 7.Enfants de Mayotte               22   8  5  9  38-31  29
+ 8.ASJ de Handréma                  22   7  7  8  27-34  28       [R]
+-----------------------------------------------------------
+ 9.Foudre 2000                      22   6  7  9  25-37  24  [-1] [R]  Relegated
+10.Choungui FC                      22   7  4 11  28-44  22  [-3]      Relegated
+11.USC Labattoir                    21   3  4 14  20-37  13       [P]  Relegated
+12.FC de Dembeni                    22   2  8 12  25-42  11  [-3]      Relegated
+
+Promoted: USCJ Koungou, AJ Mtsahara, Feu du Centre, FC de Chiconi
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024, see page mayo2024›
+
+‹list of champions, see page mayochamp›
+
+‹list of cup winners, see page mayocuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Authors: Hans Schöggl and Karel Stokkermans
+
+Last updated: 12 Jan 2026
+
+
+(C) Copyright Hans Schöggl, Karel Stokkermans and RSSSF 2026
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.

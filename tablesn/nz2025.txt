@@ -1,0 +1,514 @@
+  <!--
+     source: https://rsssf.org/tablesn/nz2025.html
+    -->
+  
+
+
+== New Zealand 2025
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹National League 2025, see §nat›
+‹Chatham Cup 2025, see §chat›
+‹Regional Leagues (Lower Levels), see §lreg›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== National League 2025  ‹§nat›
+
+<!-- start pre -->
+‹Regional Leagues (Top Level), see §reg› | ‹Championship Phase, see §champ›
+Regional Leagues (Top Level)  ‹§reg›
+
+‹Northern League, see §north› | ‹Central League, see §centr› | ‹Southern League, see §south›
+
+Northern League  ‹§north›
+
+Final Table:
+
+ 1.Western Springs              22  13  3  6  44-30  42       ‹Qualified, see §champ›
+ 2.Birkenhead United            22  12  5  5  55-33  41       ‹Qualified, see §champ›
+ 3.Auckland United              22  12  4  6  47-32  40       ‹Qualified, see §champ›
+ 4.Auckland City                22  12  4  6  35-24  40  [C]  ‹Qualified, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.Eastern Suburbs              22  12  4  6  35-27  40
+ 6.East Coast Bays              22  10  6  6  32-27  36
+ 7.Tauranga City                22   9  3 10  42-38  30
+ 8.Bay Olympic                  22   6  6 10  26-36  24
+ 9.Auckland FC Reserves         22   6  5 11  33-37  23  [*]  ‹Qualified, see §champ›
+10.Fencibles United             22   5  6 11  37-49  21  [P]
+-------------------------------------------------------
+11.Manurewa                     22   4  4 14  24-57  16       Relegated
+12.West Coast Rangers           22   3  6 13  26-46  15       Relegated
+
+[*] Auckland FC Reserves qualified automatically for the national stage
+
+Central League  ‹§centr›
+
+Final Table:
+
+ 1.Wellington Olympic           18  14  3  1  57-13  45       ‹Qualified, see §champ›
+ 2.Miramar Rangers              18  12  3  3  53-22  39       ‹Qualified, see §champ›
+ 3.Western Suburbs              18  10  4  4  57-24  34       ‹Qualified, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Wellington Phoenix Reserves  18   8  5  5  44-26  29  [*]  ‹Qualified, see §champ›
+ 5.Napier City Rovers           18   8  4  6  45-24  28
+ 6.Petone                       18   5  4  9  42-44  19
+ 7.Waterside Karori             18   4  4 10  29-70  16
+ 8.Upper Hutt City              18   3  5 10  20-50  14  [P]
+ 9.Island Bay United            18   3  4 11  22-56  13
+-------------------------------------------------------
+10.North Wellington             18   2  6 10  29-69  12       Relegated
+
+[*] Wellington Phoenix Reserves qualified automatically for the national stage
+
+Southern League  ‹§south›
+
+Final Table:
+
+ 1.Coastal Spirit               18  14  0  4  56-21  42       ‹Qualified, see §champ›
+ 2.Christchurch United          18  12  4  2  66-13  40       ‹Qualified, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Cashmere Technical           18  12  3  3  59-29  39
+ 4.Nelson Suburbs               18   9  3  6  42-27  30
+ 5.Nomads United                18   8  4  6  44-35  28
+ 6.Ferrymead Bays               18   8  4  6  33-32  28
+ 7.Dunedin City Royals          18   7  5  6  39-31  26
+ 8.Wanaka                       18   5  0 13  23-58  15  [P]
+ 9.University of Canterbury     18   1  2 15  20-78   5
+-------------------------------------------------------
+10.Selwyn United                18   0  3 15  20-78   3       Relegated
+
+Championship Phase  ‹§champ›
+
+‹Regular Stage, see §chreg› | ‹Final, see §chfin›
+
+Regular Stage  ‹§chreg›
+
+Final Table:
+
+ 1.Wellington Olympic           10   7  0  3  23-14  21   [C]  ‹Final, see §chfin›
+ 2.Auckland City                10   6  2  2  19-14  20        ‹Final, see §chfin›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Miramar Rangers              10   6  1  3  25-14  19
+ 4.Auckland FC Reserves         10   5  3  2  17-10  18
+ 5.Western Springs              10   5  1  4  16-13  16
+ 6.Birkenhead United            10   5  0  5  20-21  15
+ 7.Christchurch United          10   4  2  4  16-19  14
+ 8.Wellington Phoenix Reserves  10   3  1  6  18-21  10  [7-2]
+ 9.Western Suburbs              10   3  1  6  19-21  10  [2-7]
+10.Auckland United              10   2  2  6  11-19   8
+11.Coastal Spirit               10   2  1  7   5-23   7
+
+Round 1
+[Sep 27]
+Miramar Rangers     3-0 Auckland FC
+Auckland United     0-2 Christchurch United
+Wellington Phoenix  3-5 Wellington Olympic
+[Sep 28]
+Western Springs     3-0 Western Suburbs
+Coastal Spirit      1-2 Birkenhead United
+Auckland City       bye
+
+Round 2
+[Oct 4]
+Wellington Olympic  2-1 Western Springs
+Christchurch United 4-2 Miramar Rangers
+Auckland FC         2-1 Wellington Phoenix
+[Oct 5]
+Western Suburbs     8-0 Coastal Spirit
+Birkenhead United   3-0 Auckland City
+Auckland United     bye
+
+Round 3
+[Oct 11]
+Auckland City       3-2 Western Suburbs
+Miramar Rangers     2-2 Auckland United
+Wellington Phoenix  3-0 Christchurch United
+[Oct 12]
+Coastal Spirit      1-3 Wellington Olympic
+Western Springs     1-1 Auckland FC
+Birkenhead United   bye
+
+Round 4
+[Oct 18]
+Wellington Olympic  0-1 Auckland City
+Auckland FC         0-1 Coastal Spirit
+Christchurch United 1-2 Western Springs
+Auckland United     0-0 Wellington Phoenix
+[Oct 19]
+Western Suburbs     3-1 Birkenhead United
+Miramar Rangers     bye
+
+Round 5
+[Oct 25]
+Coastal Spirit      0-0 Christchurch United
+Wellington Phoenix  1-4 Miramar Rangers
+[Oct 26]
+Auckland City       1-1 Auckland FC
+Birkenhead United   2-4 Wellington Olympic
+Western Springs     2-1 Auckland United
+Western Suburbs     bye
+
+Round 6
+[Nov 1]
+Wellington Olympic  1-0 Western Suburbs
+Christchurch United 2-2 Auckland City
+Miramar Rangers     1-2 Western Springs
+Auckland United     3-0 Coastal Spirit
+[Nov 2]
+Auckland FC         3-0 Birkenhead United
+Wellington Phoenix  bye
+
+Round 7
+[Nov 8]
+Auckland City       4-2 Auckland United
+[Nov 9]
+Coastal Spirit      1-3 Miramar Rangers
+Western Springs     3-0 Wellington Phoenix
+Western Suburbs     1-1 Auckland FC
+Birkenhead United   3-0 Christchurch United
+Wellington Olympic  bye
+
+Round 8 [Nov 15]
+Wellington Phoenix  1-0 Coastal Spirit
+Christchurch United 3-1 Western Suburbs
+Miramar Rangers     3-0 Auckland City
+Auckland FC         2-1 Wellington Olympic
+Auckland United     3-2 Birkenhead United
+Western Springs     bye
+
+Round 9
+[Nov 22]
+Wellington Olympic  2-3 Christchurch United
+Auckland City       2-0 Wellington Phoenix
+[Nov 23]
+Coastal Spirit      1-0 Western Springs
+Western Suburbs     1-0 Auckland United
+Birkenhead United   1-4 Miramar Rangers
+Auckland FC         bye
+
+Round 10
+[Nov 29]
+Miramar Rangers     2-1 Western Suburbs
+Christchurch United 1-4 Auckland FC
+Wellington Phoenix  2-3 Birkenhead United
+[Nov 30]
+Western Springs     1-3 Auckland City
+Auckland United     0-3 Wellington Olympic
+Coastal Spirit      bye
+
+Round 11
+[Dec 6]
+Auckland City       3-0 Coastal Spirit
+Wellington Olympic  2-1 Miramar Rangers
+[Dec 7]
+Western Suburbs     2-7 Wellington Phoenix
+Auckland FC         3-0 Auckland United
+Birkenhead United   3-1 Western Springs
+Christchurch United bye
+
+Final Table:
+
+ 1.Wellington Olympic           10   7  0  3  23-14  21   [C]  ‹Final, see §chfin›
+ 2.Auckland City                10   6  2  2  19-14  20        ‹Final, see §chfin›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Miramar Rangers              10   6  1  3  25-14  19
+ 4.Auckland FC Reserves         10   5  3  2  17-10  18
+ 5.Western Springs              10   5  1  4  16-13  16
+ 6.Birkenhead United            10   5  0  5  20-21  15
+ 7.Christchurch United          10   4  2  4  16-19  14
+ 8.Wellington Phoenix Reserves  10   3  1  6  18-21  10  [7-2]
+ 9.Western Suburbs              10   3  1  6  19-21  10  [2-7]
+10.Auckland United              10   2  2  6  11-19   8
+11.Coastal Spirit               10   2  1  7   5-23   7
+
+Final  ‹§chfin›
+
+Final [Dec 13, Newtown Park, Wellington]
+Wellington Olympic  2-2 Auckland City       [aet, 6-7 pen]
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Chatham Cup 2025  ‹§chat›
+
+<!-- start pre -->
+Round 4
+Northern Region
+[Jul 4]
+Fencibles United        2-1 Western Springs
+[Jul 5]
+Manukau United          1-3 Eastern Suburbs
+Auckland United         7-1 Melville United
+Birkenhead United       7-0 Waiheke United
+Central Region
+[Jul 5]
+Western Suburbs         4-1 Palmerston North United
+[Jul 6]
+Napier City Rovers      2-3 Wellington Olympic
+Southern Region [Jul 5]
+Wanaka                  0-3 Christchurch United
+Dunedin City Royals     0-1 Nelson Suburbs
+
+Quarterfinals
+[Jul 26]
+Western Suburbs         2-3 Wellington Olympic      [aet]
+Christchurch United     2-4 Auckland United         [aet]
+Fencibles United        0-2 Eastern Suburbs
+[Jul 27]
+Nelson Suburbs          2-1 Birkenhead United       [aet]
+
+Semifinals [Aug 16]
+Auckland United         3-0 Nelson Suburbs
+Eastern Suburbs         1-1 Wellington Olympic      [aet, 3-4 pen]
+
+Final [Sep 7, North Harbour Stadium, Albany]
+Wellington Olympic      4-2 Auckland United
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Regional Leagues (Lower Levels)  ‹§lreg›
+
+<!-- start pre -->
+‹Northern League, see §lnorth› | ‹Central League, see §lcentr› | ‹Southern League, see §lsouth›
+
+Northern League (Federation 1, 2 en 3)  ‹§lnorth›
+
+Division One
+
+Final Table:
+
+ 1. Manukau United           22  14  2  6  51-26  44       Promoted
+ 2. Melville United          22  13  4  5  43-24  43       Promoted
+----------------------------------------------------
+ 3. Northern Rovers          22  13  3  6  55-32  42
+ 4. Cambridge                22  12  6  4  46-27  42  [P]
+ 5. Hamilton Wanderers       22  13  2  7  47-30  41
+ 6. Hibiscus Coast           22  10  5  7  29-24  35
+ 7. Onehunga-Mangere United  22   8  4 10  30-30  28
+ 8. North Shore United       22   8  3 11  29-36  27
+ 9. Takapuna                 22   7  3 12  33-39  24
+10. Ellerslie                22   6  6 10  45-55  24
+11. Mt.Albert-Ponsonby       22   6  2 14  26-52  20
+----------------------------------------------------
+12. Ngaruawahia United       22   1  2 19  20-79   5       Relegated
+
+Division Two
+
+Final Tables:
+
+North
+ 1. Northland                19  13  6  0  51-19  45       Promotion Playoff
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2. Central United           20  10  5  5  44-32  35
+ 3. Bucklands Beach          21  11  2  8  39-33  35
+ 4. Waitemata                21   8  6  7  39-30  30
+ 5. Metro                    20   9  3  8  43-37  30  [R]
+ 6. Albany United            21   7  3 11  29-36  24
+ 7. Beachlands Maraetai      21   4  6 11  26-42  18
+ 8. Franklin United          21   2  5 14  23-65  11  [R]
+
+South
+ 1. Taupo                    21  17  0  4  91-30  51       Promotion Playoff
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2. Northern United          21  17  0  4  84-25  51
+ 3. Otumoetai                21  15  0  6  68-37  45
+ 4. Claudeland Rovers        21  11  0 10  62-50  33
+ 5. Papamoa                  21   9  1 11  46-43  28
+ 6. Matamata Swifts          21   8  2 11  46-56  26
+ 7. Ngongotaha Lakes         21   3  1 17  32-106 10
+ 8. West Hamilton United     21   2  0 19  25-107  6
+
+Promotion Playoff
+Northland           0-1 Taupo
+Taupo               1-0 Northland
+
+NB: Taupo promoted
+
+Central League (Federation 4 en 5)  ‹§lcentr›
+
+Division One
+
+ 1. FC Western               18  11  3  4  41-20  36       Promoted
+----------------------------------------------------
+ 2. Palmerston North United  18   9  4  5  51-29  31
+ 3. Douglas Villa            18   9  2  7  37-28  29
+ 4. Lower Hutt City          18   8  5  5  36-31  29
+ 5. Tawa                     18   8  5  5  36-33  29
+ 6. Stop Out                 18   8  4  6  51-27  28  [R]
+ 7. Marist Palmerston North  18   8  4  6  41-32  28
+ 8. Taradale                 18   5  5  8  31-39  20
+ 9. Seatoun                  18   4  5  9  28-57  17
+----------------------------------------------------
+10. Te Kotahitanga           18   0  3 15  17-73   3       Relegated
+
+Federation 4 - Central Federation Premier League
+
+NB: covers Hawke's Bay, Poverty Bay, Manawatu en Whanganui
+
+Final Tables:
+
+Eastern Premiership
+ 1. Havelock North Wanderers 18  15  0  3  60-28  45       Playoff
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2. Napier City Rovers B     18  12  0  6  53-25  36
+ 3. Gisborne United          18  11  2  5  49-33  35
+ 4. Maycenvale United        18  10  2  6  51-42  32
+ 5. Taradale B               18   9  2  7  44-44  29
+ 6. Gisborne Thistle         18   9  1  8  54-38  28
+ 7. Port Hill United         18   7  1 10  47-49  22
+ 8. Western Rangers          18   7  0 11  42-51  21
+ 9. Napier Marist            18   5  2 11  33-69  17
+10. HSOB Gisborne            18   0  0 18   0-54   0
+
+Western Premiership
+Promotion Group
+ 1. Whanganui Athletic       15  13  1  1  59-10  40       Playoff
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2. Levin                    15  12  1  2  40- 9  37
+ 3. FC Western B             15   8  1  6  23-35  25
+ 4. New Plymouth High School 15   6  4  5  24-23  22
+ 5. Palmerston North United  15   6  2  7  36-35  20
+ 6. Moturoa AFC              15   6  2  7  37-37  20
+Relegation Group
+ 7. Rangers                  14   7  0  7  31-20  21
+ 8. Takaro                   14   6  1  7  26-28  19
+ 9. Marist Palmerston N. B   14   4  2  8  18-33  14
+10. Harcourts Fielding Utd.  14   3  0 11  14-52   9
+11. Wanganui City            14   1  2 11  18-44   5
+
+Federation 4 Championship Playoff
+Whanganui Athletic      2-1 3-0 Havelock North Wanderers
+
+NB: Whanganui Athletic qualified for Central League ‹Promotion Playoff, see §clprom›
+
+Federation 5 (Wellington) - Capital Football Premier League
+
+Final Table:
+
+ 1. Wellington Olympic B     18  14  2  2  55-22  44       Ineligible for Promotion
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2. Wellington Phoenix C     18  11  2  5  63-25  35       Ineligible for Promotion
+ 3. Wainuiomata              18  10  1  7  37-41  31       ‹Promotion Playoff, see §clprom›
+ 4. Marist Wellington        18   9  2  7  39-39  29
+ 5. Petone B                 18   8  2  8  32-33  26
+ 6. Miramar Rangers B        18   7  4  7  39-30  25
+ 7. Western Suburbs B        18   7  2  9  40-55  23  [P]
+ 8. Waterside-Karori B       18   5  2 11  32-40  17
+ 9. Island Bay United B      18   5  2 11  38-53  17
+----------------------------------------------------
+10. Victoria University      18   4  1 13  21-57  13       Relegated
+
+Federation 5 (Wellington) - Capital Football Division One
+
+Final Table:
+
+ 1. Upper Hutt City B        18  14  1  3  69-27  43       Promoted
+----------------------------------------------------
+ 2. Greyfriars Greytown      18  11  2  5  61-33  35
+ 3. Wellington Phoenix D     18  11  1  6  51-34  34
+ 4. North Wellington B       18  11  1  6  64-48  34
+ 5. Wellington Olympic C     18   8  3  7  55-56  27
+ 6. Seatoun B                18   7  3  8  62-52  24
+ 7. Stop Out B               18   6  1 11  34-40  19
+ 8. Stokes Valley            18   6  1 11  33-51  19
+----------------------------------------------------
+ 9. Waterside-Karori C       18   5  3 10  35-61  18       Relegated
+10. Miramar Rangers C        18   3  0 15  25-87   9       Relegated
+
+Central League Promotion Playoff  ‹§clprom›
+Whanganui Athletic      3-1 1-4 Wainuiomata
+
+Southern League (Federation 6 en 7)  ‹§lsouth›
+
+Federation 6 - Canterbury/New World Premier League
+
+Final Table:
+
+ 1. Christchurch United B    20  13  3  4  68-26  42       Ineligible for Promotion
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2. Halswell United          20  12  5  3  52-29  41       ‹Promotion Playoff, see §slprom›
+ 3. Ferrymead Bays B         20  12  4  4  52-38  40
+ 4. Cashmere Technical B     20  11  4  5  48-27  37
+ 5. Waimakariri United       20  10  3  7  55-47  33
+ 6. Nomads United B          20   7  5  8  56-40  26
+ 7. Western                  20   7  4  9  44-53  25
+ 8. Selwyn United B          20   7  1 12  40-49  22
+ 9. Burwood                  20   7  1 12  30-48  22
+10. Universities B           20   4  3 13  25-56  15
+11. FC Twenty 11             20   2  2 15  23-80   9  [R]
+
+Federation 7 - Football South Premier League
+
+Final Table:
+
+ 1. Northern                 16  15  1  0  71-11  46       ‹Promotion Playoff, see §slprom›
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2. Otago University         16  10  2  4  52-23  32
+ 3. Mosgiel                  16  10  1  5  41-26  31
+ 4. Roslyn-Wakari            16   8  2  6  32-31  26
+ 5. Dunedin City Royals B    16   7  3  6  34-37  24
+ 6. Queens Park              16   7  2  7  40-37  23
+ 7. Green Island             16   4  2 10  27-51  14
+ 8. Northern Hearts          16   2  3 11  25-62   9
+ 9. Invercargill Old Boys    16   1  0 15  20-64   3
+
+Federation 7 - Football South Nelson Men's Premiership
+
+Final Table:
+
+ 1. FC Nelson                12  10  1  1  49-11  31       ‹Promotion Playoff, see §slprom›
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2. Rangers AFC Blenheim     12  10  0  2  54-12  30
+ 3. Tahuna                   12   6  3  3  25-24  21
+ 4. Nelson Suburbs B         12   4  2  6  25-36  14
+ 5. FC Nelson Karenni        12   4  1  7  26-34  13
+ 6. Richmond                 12   3  2  7  22-36  11
+ 7. Nelson Suburbs U18       12   0  1 11  16-64   1
+
+Southern League Promotion Playoff  ‹§slprom›
+Halswell United         3-1 2-3 FC Nelson
+Halswell United         1-4 0-3 Northern
+
+NB: Northern Association FC promoted
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024, see page nz2024›
+
+‹list of champions, see page nzchamp›.
+
+‹list of final tables, see page nzhist›.
+
+‹all-time tables, see page nzalltime›.
+
+‹list of cup winners, see page nzcuphist›.
+
+‹list of brown shield winners, see page nz-brownhist›.
+
+‹list of fa trophy winners, see page nz-trophyhist›.
+
+‹list of various cup finals, see page nz-varcuphist›
+
+‹list of inter-island matches, see page nz-interisland›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Adri van Veen and Karel Stokkermans
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Authors: Adri van Veen and Karel Stokkermans
+
+Last updated: 19 Dec 2025
+
+
+(C) Copyright Adri van Veen, Karel Stokkermans and RSSSF 2025
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.

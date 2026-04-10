@@ -1,0 +1,187 @@
+  <!--
+     source: https://rsssf.org/tabless/skor2025.html
+    -->
+  
+
+
+== South Korea 2025
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹K League 1, see §k1›
+‹Korea FA Cup, see §kfacup›
+‹K League 2, see §k2›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== K League 1  ‹§k1›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Championship Group, see §champ› | ‹Relegation Group, see §rel›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.Jeonbuk Hyundai Motors (Jeonju)  33  21  8  4  57-27  71
+ 2.Gimcheon Sangmu                  33  16  7 10  53-37  55
+ 3.Daejeon Hana Citizen             33  15 10  8  48-41  55
+ 4.Pohang Steelers                  33  15  6 12  40-43  51
+ 5.FC Seoul                         33  11 12 10  43-42  45
+ 6.Gangwon FC                       33  11 11 11  32-36  44
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.FC Anyang                        33  12  6 15  42-41  42  [P]
+ 8.Gwangju FC                       33  11  9 13  34-40  42
+ 9.Ulsan HD                         33  10 10 13  39-43  40  [C]
+10.Suwon FC                         33  10  8 15  48-53  38
+11.Jeju SK FC                       33   8  8 17  35-47  32  [*]
+12.Daegu FC                         33   6  9 18  41-62  27
+
+[*] Jeju United were renamed Jeju SK
+
+Championship Group  ‹§champ›
+
+Final Table:
+
+ 1.Jeonbuk Hyundai Motors (Jeonju)  38  23 10  5  64-32  79         Champions
+ 2.Daejeon Hana Citizen             38  18 11  9  58-46  65
+ 3.Gimcheon Sangmu                  38  18  7 13  59-45  61
+ 4.Pohang Steelers                  38  16  8 14  41-46  56
+ 5.Gangwon FC                       38  13 13 12  37-41  52
+ 6.FC Seoul                         38  12 13 13  50-52  59
+
+Relegation Group  ‹§rel›
+
+Final Table:
+
+ 7.Gwangju FC                       38  15  9 14  40-41  54  [P]
+ 8.FC Anyang                        38  14  7 17  49-47  49
+ 9.Ulsan HD                         38  11 11 16  42-50  44  [C]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+10.Suwon FC                         38  11  9 18  51-58  42       ‹Relegation Playoff, see §prorel›
+11.Jeju SK FC                       38  10  9 19  40-53  39       ‹Relegation Playoff, see §prorel›
+-----------------------------------------------------------
+12.Daegu FC                         38   7 13 18  47-67  34       Relegated
+
+Promotion/Relegation Playoffs  ‹§prorel›
+
+First Legs
+[Dec 3]
+Suwon SB         0-1 Jeju
+[Dec 5]
+Bucheon          1-0 Suwon FC
+
+Second Legs
+[Dec 7]
+Jeju             1-0 Suwon SB
+[Dec 8]
+Suwon FC         2-3 Bucheon
+
+NB: Bucheon FC promoted, Suwon FC relegated
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Korea FA Cup  ‹§kfacup›
+
+<!-- start pre -->
+1/8 Finals [May 14]
+Gangwon FC              2-1 Siheung Citizen
+Daejeon Hana Citizen    2-3 Jeonbuk Hyundai Motors
+Gimpo FC                2-1 Pohang Steelers
+FC Anyang               1-2 Daegu FC
+Daejeon Korail          1-2 FC Seoul
+Suwon FC                1-1 Gwangju FC              [aet, 3-4 pen]
+Ulsan HD                3-0 Incheon United
+Bucheon FC 1995         3-1 Gimcheon Sangmu         [aet]
+
+Quarterfinals [Jul 2]
+Gwangju FC              1-0 Ulsan HD
+Gimpo FC                1-3 Bucheon FC 1995
+FC Seoul                0-1 Jeonbuk Hyundai Motors
+Daegu FC                1-2 Gangwon FC
+
+Semifinals
+
+First Legs [Aug 20]
+Gwangju FC              2-0 Bucheon FC 1995
+Jeonbuk Hyundai Motors  1-1 Gangwon FC
+
+Second Legs [Aug 27]
+Bucheon FC 1995         1-2 Gwangju FC
+Gangwon FC              1-2 Jeonbuk Hyundai Motors
+
+Final [Dec 6]
+Gwangju FC              1-2 Jeonbuk Hyundai Motors
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== K League 2  ‹§k2›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Incheon United                   39  23  9  7  66-30  78  [R]  Promoted
+-----------------------------------------------------------
+ 2.Suwon Samsung Bluewings          39  20 12  7  76-50  72       ‹Promotion/Relegation Playoff, see §prorel›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Bucheon FC 1995                  39  19 10 10  59-49  67       ‹Promotion Playoff, see §2prompo›
+ 4.Seoul E-Land                     39  17 14  8  64-43  65       ‹Promotion Playoff, see §2prompo›
+ 5.Seongnam FC                      39  17 13  9  46-32  64       ‹Promotion Playoff, see §2prompo›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Jeonnam Dragons                  39  17 11 11  63-52  62
+ 7.Gimpo FC                         39  14 13 12  48-37  55
+ 8.Busan IPark                      39  14 13 12  47-46  55
+ 9.Chungnam Asan                    39  13 14 12  51-47  53
+10.Hwaseong FC                      39   9 13 17  36-50  40  [P]
+11.Gyeongnam FC                     39  11  7 21  34-58  40
+12.Chungbuk Cheongju                39   7 10 22  30-62  31
+13.Cheonan City                     39   7  9 23  41-70  30
+14.Ansan Greeners                   39   5 12 22  25-60  27
+
+Promotion Playoffs  ‹§2prompo›
+
+First Round [Nov 27]
+Seoul E-Land     0-1 Seongnam
+
+Second Round [Nov 30]
+Bucheon          0-0 Seongnam
+
+NB: Bucheon qualified for ‹Promotion/Relegation Playoff, see §prorel› on better record regular season
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024, see page skor2024›
+
+‹list of champions, see page skorchamp›
+
+‹list of final tables, see page skorhist›
+
+‹list of 2nd level champions, see page skor2champ›
+
+‹list of cup winners, see page skorcuphist›
+
+‹data on stadiums, see page skorstadia›
+
+‹list of top scorers, see page skortops›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 23 Dec 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2025
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

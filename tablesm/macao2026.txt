@@ -1,0 +1,174 @@
+  <!--
+     source: https://rsssf.org/tablesm/macao2026.html
+    -->
+  
+
+
+== Macao 2026
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹1a Divisão, see §primeira›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== 1a Divisão  ‹§primeira›
+
+<!-- start pre -->
+‹Regular Stage, see §1reg› | ‹Playoff Stage, see §1po›
+
+Regular Stage  ‹§1reg›
+
+Table:
+
+ 1.Shao Jiang                          6   6  0  0  28- 3  18
+ 2.Must IPO                            6   5  0  1  37- 6  15  [C]
+ 3.Chiba                               6   4  1  1  18- 7  13
+ 4.Gala                                6   4  0  2  16- 4  12
+ 5.Ching Fung                          6   2  2  2  10-13   8
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Casa do Sport Lisboa e Benfica      6   2  1  3   9-20   7
+ 7.G. Universe                         6   2  0  4  16-15   6  [P]
+ 8.Hang Sai                            6   1  1  4   6-14   4
+ 9.Grupo Desportivo Artilheiros        6   1  1  4   5-38   4  [P]
+10.Universidade de Macau               6   0  0  6   4-29   0
+
+Round 1
+[Jan 17]
+Shao Jiang         3-2 Must IPO
+G. Universe        7-2 Benfica
+[Jan 18]
+Hang Sai           0-3 Gala
+Artilheiros        2-2 Ching Fung
+[Mar 7]
+Universidade       0-5 Chiba
+
+Round 2
+[Jan 23]
+Ching Fung         1-1 Hang Sai
+[Jan 24]
+Benfica            0-2 Artilheiros
+Gala               3-0 Universidade
+[Jan 25]
+Must IPO           6-2 G. Universe
+Chiba              0-2 Shao Jiang
+
+Round 3
+[Jan 30]
+Chiba              2-0 Hang Sai
+[Jan 31]
+Gala               7-0 Artilheiros
+Shao Jiang         3-0 G. Universe
+[Feb 1]
+Must IPO           6-0 Universidade
+Ching Fung         1-3 Benfica
+
+Round 4
+[Feb 27]
+Benfica            2-1 Gala
+[Feb 28]
+G. Universe        1-2 Ching Fung
+Hang Sai           1-3 Must IPO
+[Mar 1]
+Universidade       1-5 Shao Jiang
+Artilheiros        1-4 Chiba
+
+Round 5
+[Mar 7]
+Shao Jiang         3-0 Hang Sai
+[Mar 8]
+Must IPO          13-0 Artilheiros
+Gala               1-2 Ching Fung
+[Mar 14]
+Chiba              2-2 Benfica
+Universidade       1-6 G. Universe
+
+Round 6
+[Mar 15]
+Artilheiros       0-12 Shao Jiang
+[Mar 21]
+G. Universe        0-1 Gala
+Benfica            0-7 Must IPO
+[Mar 22]
+Ching Fung         2-5 Chiba
+Hang Sai           4-2 Universidade
+
+Round 7
+[Apr 4]
+Universidade        -  Artilheiros
+Chiba               -  Gala
+[Apr 5]
+Hang Sai            -  G. Universe
+Must IPO            -  Ching Fung
+[Apr 11]
+Shao Jiang          -  Benfica
+
+Table:
+
+ 1.Shao Jiang                          6   6  0  0  28- 3  18
+ 2.Must IPO                            6   5  0  1  37- 6  15  [C]
+ 3.Chiba                               6   4  1  1  18- 7  13
+ 4.Gala                                6   4  0  2  16- 4  12
+ 5.Ching Fung                          6   2  2  2  10-13   8
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Casa do Sport Lisboa e Benfica      6   2  1  3   9-20   7
+ 7.G. Universe                         6   2  0  4  16-15   6  [P]
+ 8.Hang Sai                            6   1  1  4   6-14   4
+ 9.Grupo Desportivo Artilheiros        6   1  1  4   5-38   4  [P]
+10.Universidade de Macau               6   0  0  6   4-29   0
+
+Round 8
+[Apr 11]
+G. Universe         -  Chiba
+[Apr 12]
+Must IPO            -  Gala
+Hang Sai            -  Artilheiros
+[Apr 19]
+Universidade        -  Benfica
+Shao Jiang          -  Ching Fung
+
+Round 9
+[Apr 24]
+Hang Sai            -  Benfica
+[Apr 25]
+Shao Jiang          -  Gala
+Artilheiros         -  G. Universe
+[Apr 26]
+Universidade        -  Ching Fung
+Must IPO            -  Chiba
+
+Playoff Stage  ‹§1po›
+
+‹Championship Playoff, see §1champ› | ‹Relegation Playoff, see §1rel›
+
+Championship Playoff  ‹§1champ›
+
+Relegation Playoff  ‹§1rel›
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2025, see page macao2025›
+
+‹list of champions, see page macaochamp›
+
+‹list of cup winners, see page macaocuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+
+Last updated: 22 Mar 2026
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2026
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

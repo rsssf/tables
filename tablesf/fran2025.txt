@@ -1,0 +1,598 @@
+  <!--
+     source: https://rsssf.org/tablesf/fran2025.html
+    -->
+  
+
+
+== France 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Ligue 1, see §l1›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Ligue 1  ‹§l1›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Paris-Saint-Germain FC    34  26  6  2  92-35  84  [C]  Champions
+ 2.Olympique de Marseille    34  20  5  9  74-47  65
+ 3.AS Monaco                 34  18  7  9  63-41  61
+ 4.OGC Nice                  34  17  9  8  66-41  60
+ 5.Lille OSC                 34  17  9  8  52-36  60
+ 6.Olympique Lyonnais        34  17  6 11  65-46  57
+ 7.RC Strasbourg Alsace      34  16  9  9  56-44  57
+ 8.RC Lens                   34  15  7 12  42-39  52
+ 9.Stade Brestois            34  15  5 14  52-59  50
+10.Toulouse FC               34  11  9 14  44-43  42
+11.AJ Auxerre                34  11  9 14  48-51  42  [P]
+12.Stade Rennais FC          34  13  2 19  51-50  41
+13.FC Nantes                 34   8 12 14  39-52  36
+14.Angers SCO                34  10  6 18  32-53  36  [P]
+15.Le Havre AC               34  10  4 20  40-71  34
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+16.Stade de Reims            34   8  9 17  33-47  33       Relegation Playoff
+----------------------------------------------------
+17.AS Saint-Etienne          34   8  6 20  39-77  30  [P]  Relegated
+18.Montpellier-Hérault SC    34   4  4 26  23-79  16       Relegated
+
+Round 1
+[Aug 16]
+Le Havre      1-4 Paris-SG
+[Aug 17]
+Brest         1-5 Marseille
+Reims         0-2 Lille
+Monaco        1-0 Saint-Etienne
+[Aug 18]
+Auxerre       2-1 Nice
+Angers        0-1 Lens
+Montpellier   1-1 Strasbourg
+Toulouse      0-0 Nantes
+Rennes        3-0 Lyon
+
+Round 2
+[Aug 23]
+Paris-SG      6-0 Montpellier
+[Aug 24]
+Lyon          0-2 Monaco
+Lille         2-0 Angers
+Saint-Etienne 0-2 Le Havre
+[Aug 25]
+Lens          2-0 Brest
+Nantes        2-0 Auxerre
+Nice          1-1 Toulouse
+Strasbourg    3-1 Rennes
+Marseille     2-2 Reims
+
+Round 3
+[Aug 30]
+Lyon          4-3 Strasbourg
+[Aug 31]
+Brest         4-0 Saint-Etienne
+Montpellier   1-3 Nantes
+Toulouse      1-3 Marseille
+[Sep 1]
+Monaco        1-1 Lens
+Angers        1-4 Nice
+Le Havre      3-1 Auxerre
+Reims         2-1 Rennes
+Lille         1-3 Paris-SG
+
+Round 4
+[Sep 13]
+Saint-Etienne 1-0 Lille
+[Sep 14]
+Marseille     2-0 Nice
+Auxerre       0-3 Monaco
+Paris-SG      3-1 Brest
+[Sep 15]
+Rennes        3-0 Montpellier
+Nantes        1-2 Reims
+Strasbourg    1-1 Angers
+Toulouse      2-0 Le Havre
+Lens          0-0 Lyon
+
+Round 5
+[Sep 20]
+Nice          8-0 Saint-Etienne
+[Sep 21]
+Lille         3-3 Strasbourg
+Rennes        1-1 Lens
+Reims         1-1 Paris-SG
+[Sep 22]
+Monaco        3-1 Le Havre
+Angers        1-1 Nantes
+Montpellier   3-2 Auxerre
+Brest         2-0 Toulouse
+Lyon          2-3 Marseille
+
+Round 6
+[Sep 27]
+Auxerre       3-0 Brest
+Paris-SG      3-1 Rennes
+[Sep 28]
+Lens          0-0 Nice
+Le Havre      0-3 Lille
+Monaco        2-1 Montpellier
+[Sep 29]
+Toulouse      1-2 Lyon
+Angers        1-3 Reims
+Nantes        2-2 Saint-Etienne
+Strasbourg    1-0 Marseille
+
+Round 7
+[Oct 4]
+Marseille     1-1 Angers
+[Oct 5]
+Saint-Etienne 3-1 Auxerre
+Lille         2-1 Toulouse
+Rennes        1-2 Monaco
+[Oct 6]
+Lyon          2-0 Nantes
+Strasbourg    2-2 Lens
+Brest         2-0 Le Havre
+Reims         4-2 Montpellier
+Nice          1-1 Paris-SG
+
+Round 8
+[Oct 18]
+Monaco        0-0 Lille
+[Oct 19]
+Brest         1-1 Rennes
+Saint-Etienne 0-2 Lens
+Paris-SG      4-2 Strasbourg
+[Oct 20]
+Le Havre      0-4 Lyon
+Auxerre       2-1 Reims
+Nantes        1-1 Nice
+Toulouse      1-1 Angers
+Montpellier   0-5 Marseille
+
+Round 9
+[Oct 26]
+Rennes        1-0 Le Havre
+[Oct 26]
+Angers        4-2 Saint-Etienne
+Reims         1-2 Brest
+Lens          0-2 Lille
+[Oct 27]
+Lyon          2-2 Auxerre
+Montpellier   0-3 Toulouse
+Nice          2-1 Monaco
+Strasbourg    3-1 Nantes
+Marseille     0-3 Paris-SG
+
+Round 10
+[Nov 1]
+Monaco        0-1 Angers
+Lille         1-1 Lyon
+[Nov 2]
+Paris-SG      1-0 Lens
+Brest         0-1 Nice
+Saint-Etienne 2-0 Strasbourg
+[Nov 3]
+Toulouse      1-0 Reims
+Auxerre       4-0 Rennes
+Le Havre      1-0 Montpellier
+Nantes        1-2 Marseille
+
+Round 11
+[Nov 8]
+Marseille     1-3 Auxerre
+[Nov 9]
+Strasbourg    1-3 Monaco
+Lens          3-2 Nantes
+Angers        2-4 Paris-SG
+[Nov 10]
+Nice          2-2 Lille
+Le Havre      0-3 Reims
+Montpellier   3-1 Brest
+Rennes        0-2 Toulouse
+Lyon          1-0 Saint-Etienne
+
+Round 12
+[Nov 22]
+Monaco        3-2 Brest
+Paris-SG      3-0 Toulouse
+[Nov 23]
+Lens          1-3 Marseille
+Saint-Etienne 1-0 Montpellier
+Reims         1-1 Lyon
+[Nov 24]
+Lille         1-0 Rennes
+Auxerre       1-0 Angers
+Nantes        0-2 Le Havre
+Nice          2-1 Strasbourg
+
+Round 13
+[Nov 29]
+Reims         0-2 Lens
+[Nov 30]
+Rennes        5-0 Saint-Etienne
+Brest         3-1 Strasbourg
+Paris-SG      1-1 Nantes
+[Dec 1]
+Montpellier   2-2 Lille
+Le Havre      0-1 Angers
+Lyon          4-1 Nice
+Toulouse      2-0 Auxerre
+Marseille     2-1 Monaco
+
+Round 14
+[Dec 6]
+Lille         3-1 Brest
+Auxerre       0-0 Paris-SG
+[Dec 7]
+Monaco        2-0 Toulouse
+Nice          2-1 Le Havre
+Angers        0-3 Lyon
+[Dec 8]
+Lens          2-0 Montpellier
+Nantes        1-0 Rennes
+Strasbourg    0-0 Reims
+Saint-Etienne 0-2 Marseille
+
+Round 15
+[Dec 13]
+Toulouse      2-1 Saint-Etienne
+[Dec 14]
+Marseille     1-1 Lille
+Auxerre       2-2 Lens
+Reims         0-0 Monaco
+[Dec 15]
+Montpellier   2-2 Nice
+Le Havre      0-3 Strasbourg
+Brest         4-1 Nantes
+Rennes        2-0 Angers
+Paris-SG      3-1 Lyon
+
+Round 16
+[Dec 18]
+Monaco        2-4 Paris-SG
+[Jan 3]
+Nice          3-2 Rennes
+[Jan 4]
+Saint-Etienne 3-1 Reims
+Lille         1-1 Nantes
+Lyon          1-0 Montpellier
+[Jan 5]
+Angers        2-0 Brest
+Lens          0-1 Toulouse
+Strasbourg    3-1 Auxerre
+Marseille     5-1 Le Havre
+
+Round 17
+[Jan 10]
+Nantes        2-2 Monaco
+Auxerre       0-0 Lille
+[Jan 11]
+Brest         2-1 Lyon
+Reims         2-4 Nice
+Rennes        1-2 Marseille
+[Jan 12]
+Le Havre      1-2 Lens
+Montpellier   1-3 Angers
+Toulouse      1-2 Strasbourg
+Paris-SG      2-1 Saint-Etienne
+
+Halfway Table:
+
+ 1.Paris-Saint-Germain FC    17  13  4  0  46-15  43  [C]
+ 2.Olympique de Marseille    17  11  3  3  39-20  36
+ 3.AS Monaco                 17   9  4  4  28-18  31
+ 4.OGC Nice                  17   8  6  3  35-23  30
+ 5.Lille OSC                 17   7  8  2  26-16  29
+ 6.Olympique Lyonnais        17   8  4  5  29-22  28
+ 7.RC Lens                   17   7  6  4  21-16  27
+ 8.Toulouse FC               17   7  3  7  19-19  24
+ 9.RC Strasbourg Alsace      17   6  5  6  30-29  23
+10.AJ Auxerre                17   6  4  7  24-26  22  [P]
+11.Stade Brestois            17   7  1  9  26-30  22
+12.Stade de Reims            17   5  5  7  23-25  20
+13.Angers SCO                17   5  4  8  19-27  19  [P]
+14.Stade Rennais FC          17   5  2 10  23-25  17
+15.FC Nantes                 17   3  7  7  20-27  16
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+16.AS Saint-Etienne          17   5  1 11  16-37  16  [P]
+----------------------------------------------------
+17.Le Havre AC               17   4  0 13  13-36  12
+18.Montpellier-Hérault SC    17   2  3 12  16-42   9
+
+Round 18
+[Jan 17]
+Montpellier   2-1 Monaco
+Lille         2-1 Nice
+[Jan 18]
+Lens          1-2 Paris-SG
+Rennes        1-2 Brest
+Lyon          0-0 Toulouse
+[Jan 19]
+Saint-Etienne 1-1 Nantes
+Angers        2-0 Auxerre
+Reims         1-1 Le Havre
+Marseille     1-1 Strasbourg
+
+Round 19
+[Jan 24]
+Auxerre       1-1 Saint-Etienne
+[Jan 25]
+Monaco        3-2 Rennes
+Strasbourg    2-1 Lille
+Paris-SG      1-1 Reims
+[Jan 26]
+Le Havre      0-1 Brest
+Nantes        1-1 Lyon
+Lens          1-0 Angers
+Toulouse      1-2 Montpellier
+Nice          2-0 Marseille
+
+Round 20
+[Jan 31]
+Montpellier   0-2 Lens
+[Feb 1]
+Brest         2-5 Paris-SG
+Monaco        4-2 Auxerre
+Lille         4-1 Saint-Etienne
+[Feb 2]
+Toulouse      1-1 Nice
+Angers        1-1 Le Havre
+Reims         1-2 Nantes
+Rennes        1-0 Strasbourg
+Marseille     3-2 Lyon
+
+Round 21
+[Feb 7]
+Nantes        0-2 Brest
+Paris-SG      4-1 Monaco
+[Feb 8]
+Nice          2-0 Lens
+Lille         1-2 Le Havre
+Saint-Etienne 0-2 Rennes
+[Feb 9]
+Lyon          4-0 Reims
+Auxerre       2-2 Toulouse
+Strasbourg    2-0 Montpellier
+Angers        0-2 Marseille
+
+Round 22
+[Feb 14]
+Brest         2-2 Auxerre
+[Feb 15]
+Marseille     5-1 Saint-Etienne
+Monaco        7-1 Nantes
+Toulouse      0-1 Paris-SG
+[Feb 16]
+Montpellier   1-4 Lyon
+Le Havre      1-3 Nice
+Lens          0-2 Strasbourg
+Reims         0-1 Angers
+Rennes        0-2 Lille
+
+Round 23
+[Feb 21]
+Rennes        1-0 Reims
+[Feb 22]
+Lille         2-1 Monaco
+Saint-Etienne 3-3 Angers
+Auxerre       3-0 Marseille
+[Feb 23]
+Nantes        3-1 Lens
+Le Havre      1-4 Toulouse
+Nice          2-0 Montpellier
+Strasbourg    0-0 Brest
+Lyon          2-3 Paris-SG
+
+Round 24
+[Feb 28]
+Monaco        3-0 Reims
+[Mar 1]
+Saint-Etienne 1-3 Nice
+Lens          3-4 Le Havre
+Paris-SG      4-1 Lille
+[Mar 2]
+Lyon          2-1 Brest
+Auxerre       0-1 Strasbourg
+Angers        0-4 Toulouse
+Montpellier   0-4 Rennes
+Marseille     2-0 Nantes
+
+Round 25
+[Mar 7]
+Toulouse      1-1 Monaco
+[Mar 8]
+Rennes        1-4 Paris-SG
+Lille         1-0 Montpellier
+Marseille     0-1 Lens
+[Mar 9]
+Brest         2-0 Angers
+Nantes        0-1 Strasbourg
+Le Havre      1-1 Saint-Etienne
+Reims         0-2 Auxerre
+Nice          0-2 Lyon
+
+Round 26
+[Mar 14]
+Nice          1-1 Auxerre
+[Mar 15]
+Nantes        1-0 Lille
+Angers        0-2 Monaco
+Lens          1-0 Rennes
+[Mar 16]
+Lyon          4-2 Le Havre
+Montpellier   0-2 Saint-Etienne [abandoned at 0-2 in 62' due to
+Strasbourg    2-1 Toulouse       crowd trouble; result stood]
+Brest         0-0 Reims
+Paris-SG      3-1 Marseille
+
+Round 27
+[Mar 28]
+Strasbourg    4-2 Lyon
+[Mar 29]
+Reims         3-1 Marseille
+Saint-Etienne 1-6 Paris-SG
+Monaco        2-1 Nice
+[Mar 30]
+Toulouse      2-4 Brest
+Auxerre       1-0 Montpellier
+Angers        0-3 Rennes
+Le Havre      3-2 Nantes
+Lille         1-0 Lens
+
+Round 28
+[Apr 4]
+Nice          1-2 Nantes
+[Apr 5]
+Paris-SG      1-0 Angers
+Brest         2-1 Monaco
+Lyon          2-1 Lille
+[Apr 6]
+Lens          1-0 Saint-Etienne
+Montpellier   0-2 Le Havre
+Reims         0-1 Strasbourg
+Rennes        0-1 Auxerre
+Marseille     3-2 Toulouse
+
+Round 29
+[Apr 11]
+Lens          0-2 Reims
+[Apr 12]
+Monaco        3-0 Marseille
+Toulouse      1-2 Lille
+Strasbourg    2-2 Nice
+[Apr 13]
+Saint-Etienne 3-3 Brest
+Angers        2-0 Montpellier
+Le Havre      1-5 Rennes
+Auxerre       1-3 Lyon
+[Apr 22]
+Nantes        1-1 Paris-SG
+
+Round 30
+[Apr 18]
+Rennes        2-1 Nantes
+[Apr 19]
+Paris-SG      2-1 Le Havre
+Monaco        0-0 Strasbourg
+Marseille     5-1 Montpellier
+[Apr 20]
+Lille         3-1 Auxerre
+Nice          2-1 Angers
+Brest         1-3 Lens
+Reims         1-0 Toulouse
+Saint-Etienne 2-1 Lyon
+
+Round 31
+[Apr 25]
+Paris-SG      1-3 Nice
+[Apr 26]
+Strasbourg    3-1 Saint-Etienne
+Le Havre      1-1 Monaco
+Lyon          4-1 Rennes
+[Apr 27]
+Angers        0-2 Lille
+Nantes        0-0 Toulouse
+Montpellier   0-0 Reims
+Lens          0-4 Auxerre
+Marseille     4-1 Brest
+
+Round 32
+[May 2]
+Nice          1-0 Reims
+[May 3]
+Strasbourg    2-1 Paris-SG
+Toulouse      2-1 Rennes
+Saint-Etienne 1-3 Monaco
+[May 4]
+Nantes        0-1 Angers
+Auxerre       1-2 Le Havre
+Lyon          1-2 Lens
+Brest         1-0 Montpellier
+Lille         1-1 Marseille
+
+Round 33 [May 10]
+Auxerre       1-1 Nantes
+Angers        2-1 Strasbourg
+Monaco        2-0 Lyon
+Le Havre      1-3 Marseille
+Montpellier   1-4 Paris-SG
+Brest         2-0 Lille
+Reims         0-2 Saint-Etienne
+Rennes        2-0 Nice
+Toulouse      1-1 Lens
+
+Round 34 [May 17]
+Saint-Etienne 2-3 Toulouse
+Nantes        3-0 Montpellier
+Lille         2-1 Reims
+Nice          6-0 Brest
+Marseille     4-2 Rennes
+Lyon          2-0 Angers
+Paris-SG      3-1 Auxerre
+Lens          4-0 Monaco
+Strasbourg    2-3 Le Havre
+
+Final Table:
+
+ 1.Paris-Saint-Germain FC    34  26  6  2  92-35  84  [C]  Champions
+ 2.Olympique de Marseille    34  20  5  9  74-47  65
+ 3.AS Monaco                 34  18  7  9  63-41  61
+ 4.OGC Nice                  34  17  9  8  66-41  60
+ 5.Lille OSC                 34  17  9  8  52-36  60
+ 6.Olympique Lyonnais        34  17  6 11  65-46  57
+ 7.RC Strasbourg Alsace      34  16  9  9  56-44  57
+ 8.RC Lens                   34  15  7 12  42-39  52
+ 9.Stade Brestois            34  15  5 14  52-59  50
+10.Toulouse FC               34  11  9 14  44-43  42
+11.AJ Auxerre                34  11  9 14  48-51  42  [P]
+12.Stade Rennais FC          34  13  2 19  51-50  41
+13.FC Nantes                 34   8 12 14  39-52  36
+14.Angers SCO                34  10  6 18  32-53  36  [P]
+15.Le Havre AC               34  10  4 20  40-71  34
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+16.Stade de Reims            34   8  9 17  33-47  33       Relegation Playoff
+----------------------------------------------------
+17.AS Saint-Etienne          34   8  6 20  39-77  30  [P]  Relegated
+18.Montpellier-Hérault SC    34   4  4 26  23-79  16       Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page fran2024›.
+
+‹list of champions, see page franchamp›.
+
+‹list of final tables, see page franfullhist›.
+
+‹list of 2nd level final tables, see page fran2hist›.
+
+‹list of 3rd level final tables, see page fran3hist›.
+
+‹list of topscorers, see page frantops›.
+
+‹list of 2nd level topscorers, see page fran2tops›.
+
+‹list of cup winners, see page francuphist›.
+
+‹list of league cup finals, see page franleagcuphist›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Thanks to Martin Arenlind
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 23 Dec 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

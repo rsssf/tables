@@ -1,0 +1,109 @@
+  <!--
+     source: https://rsssf.org/tablese/engiow2025.html
+    -->
+  
+
+
+== Isle of Wight 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Division One, see §div1›
+‹Cup Tournaments, see §cups›
+‹Division Two, see §div2›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Division One  ‹§div1›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Whitecroft & Barton Sports      20  17  2  1  53-16  53  [C]  Champions
+ 2.Ventnor                         20  15  0  5  71-28  45
+ 3.Brading Town                    20  11  1  8  49-38  34
+ 4.West Wight                      20  11  0  9  45-37  33
+ 5.Shanklin                        20  10  2  8  38-37  32
+ 6.Osborne Coburg                  20   9  2  9  55-49  29  [P]
+ 7.Cowes Sports Reserves           20   8  2 10  49-49  26
+ 8.Northwood St Johns              20   7  3 10  40-56  24
+ 9.Vectis                          20   5  2 13  36-69  17
+10.Bembridge                       20   4  4 12  37-55  16
+11.Binstead & COB                  20   3  2 15  29-68  11
+ -.AFC Wootton                     apparently withdrew
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Cup Tournaments  ‹§cups›
+
+<!-- start pre -->
+Challenge Cup  ‹§chall›
+
+Semifinals
+West Wight                1-3 W&B Sports
+Shanklin FC               4-0 Ventnor FC
+
+Final [Apr 16]
+W&B Sports                3-0 Shanklin FC
+
+Memorial Cup  ‹§mem›
+
+Semifinals
+Brading Town FC           0-2 Cowes Sports Res.
+W&B Sports                abd High Park FC              [abandoned in 54' at 1-1 due to
+                                                         broken leg High Park player]
+Semifinal Replay [Apr 12]
+W&B Sports                8-0 High Park FC
+
+Final [Apr 29]
+W&B Sports                3-1 Cowes Sports Res.
+
+Gold Cup   ‹§gold›
+
+Final [Jan 4]
+Ventnor FC                3-3 W&B Sports                [4-3 pen]
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Division Two  ‹§div2›
+
+<!-- start pre -->
+Final Table:
+
+ 1.High Park                       16  13  1  2  57-14  40  [R]
+ 2.Oakfield FC                     16  13  0  3  74-23  39
+ 3.East Cowes Sports               16  11  2  3  65-15  35  [R]
+ 4.Sandown and Lake                16  11  1  4  65-21  34
+ 5.Niton                           16   8  1  7  40-28  25
+ 6.Newchurch                       16   6  0 10  35-50  18
+ 7.Ryde Saints                     16   3  1 12  31-54  10
+ 8.Newport (IOW) Res               16   2  0 14  20-92   6
+ 9.Seaview                         16   1  2 13  15-105  4  [-1]
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page engiow2024›
+
+‹list of champions, see page engiowchamp›
+
+‹list of cup winners, see page engiowcuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Hans Schöggl for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Hans Schöggl
+
+Last updated: 31 Jul 2025
+
+
+(C) Copyright Hans Schöggl and RSSSF 2025
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

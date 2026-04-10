@@ -1,0 +1,305 @@
+  <!--
+     source: https://rsssf.org/tablesg/gozo2025.html
+    -->
+  
+
+
+== Gozo 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹L-Ewwel Diviżjoni, see §first›>
+‹GFA Cup, see §gfa›
+‹It-Tieni Diviżjoni, see §second›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== L-Ewwel Diviżjoni  ‹§first›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Qala Saints                  18  15  0  3  54-14  45       Champions
+ 2.Nadur Youngsters             18  11  2  5  39-22  35  [C]
+ 3.Xewkija Tigers               18   9  3  6  33-24  30
+ 4.SK Victoria Wanderers        18   8  3  7  43-31  27
+ 5.Xagħra United                18   7  1 10  29-40  22
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Għajnsielem FC               18   6  2 10  27-44  20       ‹Relegation Playoff, see §prorel›
+-------------------------------------------------------
+ 7.Oratory Youths               18   1  1 16  16-66   4       Relegated
+ -.Victoria Hotspurs            moved to ‹Maltese league, see page ../tablesm/malt2025.html#third›  [P]
+
+Round 1
+[Sep 6]
+Għajnsielem   4-3 Nadur Y.
+Qala S.       3-1 Victoria W.
+[Sep 7]
+Xewkija T.    5-0 Oratory Y.
+Xagħra U.     bye
+
+Round 2
+[Sep 12]
+Xagħra U.     4-1 Għajnsielem
+Oratory Y.    0-4 Qala S.
+[Sep 13]
+Nadur Y.      0-0 Xewkija T.
+Victoria W.   bye
+
+Round 3
+[Sep 29]
+Victoria W.   2-3 Xagħra U.
+Qala S.       2-0 Nadur Y.
+[Sep 30]
+Għajnsielem   1-2 Xewkija T.
+Oratory Y.    bye
+
+Round 4
+[Oct 4]
+Xagħra U.     3-1 Oratory Y.
+[Oct 6]
+Victoria W.   3-0 Għajnsielem
+Xewkija T.    0-3 Qala S.
+Nadur Y.      bye
+
+Round 5
+[Oct 11]
+Nadur Y.      1-0 Xagħra U.
+[Oct 13]
+Oratory Y.    1-2 Victoria W.
+Għajnsielem   2-4 Qala S.
+Xewkija T.    bye
+
+Round 6
+[Oct 18]
+Oratory Y.    1-4 Għajnsielem
+[Oct 20]
+Xagħra U.     1-0 Xewkija T.
+Victoria W.   2-3 Nadur Y.
+Qala S.       bye
+
+Round 7
+[Nov 29]
+Qala S.       2-0 Xagħra U.
+[Dec 1]
+Nadur Y.      2-0 Oratory Y.
+Xewkija T.    3-2 Victoria W.
+Għajnsielem   bye
+
+Round 8
+[Dec 13]
+Nadur Y.      2-1 Għajnsielem
+[Dec 15]
+Oratory Y.    0-3 Xewkija T.
+Victoria W.   2-1 Qala S.
+Xagħra U.     bye
+
+Round 9
+[Dec 20]
+Qala S.       4-0 Oratory Y.
+[Dec 22]
+Għajnsielem   1-0 Xagħra U.
+Xewkija T.    0-2 Nadur Y.
+Victoria W.   bye
+
+Round 10
+[Jan 3]
+Xewkija T.    1-2 Għajnsielem
+[Jan 5]
+Xagħra U.     5-1 Victoria W.
+Nadur Y.      2-0 Qala S.
+Oratory Y.    bye
+
+Round 11
+[Jan 19]
+Għajnsielem   0-2 Victoria W.
+Qala S.       3-4 Xewkija T.
+[Jan 20]
+Oratory Y.    1-3 Xagħra U.
+Nadur Y.      bye
+
+Round 12
+[Jan 24]
+Qala S.       6-0 Għajnsielem
+[Jan 26]
+Victoria W.   4-2 Oratory Y.
+Xagħra U.     0-2 Nadur Y.
+Xewkija T.    bye
+
+Round 13
+[Jan 30]
+Għajnsielem   3-1 Oratory Y.
+[Feb 2]
+Xewkija T.    2-3 Xagħra U.
+Nadur Y.      3-1 Victoria W.
+Qala S.       bye
+
+Round 14
+[Feb 7]
+Victoria W.   2-2 Xewkija T.
+[Feb 11]
+Oratory Y.    3-7 Nadur Y.
+Xagħra U.     2-3 Qala S.
+Għajnsielem   bye
+
+Round 15
+[Feb 16]
+Xewkija T.    3-1 Oratory Y.
+Victoria W.   0-1 Qala S.
+[Feb 17]
+Għajnsielem   0-6 Nadur Y.
+Xagħra U.     bye
+
+Round 16
+[Feb 21]
+Nadur Y.      0-2 Xewkija T.
+[Feb 23]
+Oratory Y.    0-5 Qala S.
+Xagħra U.     1-4 Għajnsielem
+Victoria W.   bye
+
+Round 17
+[Mar 9]
+Għajnsielem   0-1 Xewkija T.
+Qala S.       3-0 Nadur Y.
+[Mar 10]
+Victoria W.   7-0 Xagħra U.
+Oratory Y.    bye
+
+Round 18
+[Mar 14]
+Victoria W.   1-1 Għajnsielem
+[Mar 16]
+Xagħra U.     1-2 Oratory Y.
+Xewkija T.    0-1 Qala S.
+Nadur Y.      bye
+
+Round 19
+[Mar 21]
+Għajnsielem   0-3 Qala S.
+[Mar 23]
+Oratory Y.    0-6 Victoria W.
+Nadur Y.      1-1 Xagħra U.
+Xewkija T.    bye
+
+Round 20
+[Apr 5]
+Oratory Y.    3-3 Għajnsielem
+[Apr 6]
+Victoria W.   3-1 Nadur Y.
+Xagħra U.     1-3 Xewkija T.
+Qala S.       bye
+
+Round 21
+[Apr 10]
+Xewkija T.    2-2 Victoria W.
+[Apr 12]
+Nadur Y.      4-0 Oratory Y.
+[Apr 13]
+Qala S.       6-1 Xagħra U.
+Għajnsielem   bye
+
+Final Table:
+
+ 1.Qala Saints                  18  15  0  3  54-14  45       Champions
+ 2.Nadur Youngsters             18  11  2  5  39-22  35  [C]
+ 3.Xewkija Tigers               18   9  3  6  33-24  30
+ 4.SK Victoria Wanderers        18   8  3  7  43-31  27
+ 5.Xagħra United                18   7  1 10  29-40  22
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Għajnsielem FC               18   6  2 10  27-44  20       ‹Relegation Playoff, see §prorel›
+-------------------------------------------------------
+ 7.Oratory Youths               18   1  1 16  16-66   4       Relegated
+ -.Victoria Hotspurs            moved to ‹Maltese league, see page ../tablesm/malt2025.html#third›  [P]
+
+Promotion/Relegation Playoff  ‹§prorel›
+
+[Apr 19]
+Għajnsielem   4-1 Sannat L.
+
+NB: both remain at former level
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== GFA Cup  ‹§gfa›
+
+<!-- start pre -->
+Preliminary Round
+[Oct 25]
+Kerċem A.     6-0 St. Laurence S.
+[Oct 26]
+Sannat L.     4-3 Munxar F.     [aet]
+Victoria W.   4-0 Żebbuġ R.
+[Oct 27]
+Għarb R.      0-2 Oratory Y.
+Xewkija T.    5-0 Għajnsielem
+Nadur Y.      bye
+Qala S.       bye
+Xagħra U.     bye
+
+Quarterfinals
+[Nov 9]
+Qala S.       6-0 Sannat L.
+Xagħra U.     1-2 Victoria W.
+[Nov 10]
+Nadur Y.      9-1 Oratory Y.
+Xewkija T.    1-1 Kerċem A.     [aet, 4-5 pen]
+
+Semifinals
+[Apr 22]
+Qala S.       3-4 Nadur Y.      [aet]
+[Apr 23]
+Victoria W.   1-1 Kerċem A.     [aet, 7-8 pen]
+
+Final [Apr 27]
+Nadur Y.      3-0 Kerċem A.
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== It-Tieni Diviżjoni  ‹§second›
+
+<!-- start pre -->
+Table:
+
+ 1.Kerċem Ajax                  14  14  0  0  61- 2  42  [R]  Promoted
+-------------------------------------------------------
+ 2.Sannat Lions                 13   7  1  5  27-23  22       ‹Promotion Playoff, see §prorel›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Munxar Falcons               13   5  2  6  21-29  17
+ 4.St. Laurence Spurs           13   5  0  8  20-32  15
+ 5.Żebbuġ Rovers                14   4  3  7  24-41  15
+ 6.Għarb Rangers                13   1  2 10  15-41   5
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page gozo2024›
+
+‹list of champions, see page gozochamp›
+
+‹list of final tables, see page gozohist›
+
+‹list of 2nd and 3rd level champions, see page gozo2champ›
+
+‹list of cup winners, see page gozocuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 9 Oct 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

@@ -1,0 +1,446 @@
+  <!--
+     source: https://rsssf.org/tabless/slov2025.html
+    -->
+  
+
+
+== Slovenia 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹1. SNL, see §1snl›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== 1. SNL  ‹§1snl›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Olimpija Ljubljana           36  21 11  4  63-20  74       Champions
+ 2.NK Maribor                   36  19 10  7  64-32  67
+ 3.FC Koper                     36  19  9  8  60-35  66
+ 4.NK Celje                     36  17 10  9  76-51  61  [C]
+ 5.NK Bravo (Ljubljana)         36  14 13  9  52-44  55
+ 6.ND Primorje (Ajdovščina)     36  11 10 15  41-61  43  [P]
+ 7.NŠ Mura (Murska Sobota)      36   9  8 19  37-51  35
+ 8.NK Kalcer Radomlje           36  10  5 21  37-69  35
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.NK Domžale                   36   7  8 21  35-66  29       Relegation Playoff
+-------------------------------------------------------
+10.Nafta 1903 (Lendava)         36   6 10 20  33-69  28  [P]  Relegated
+
+Round 1
+[Jul 21]
+Olimpija      2-0 Primorje
+[Jul 20]
+Radomlje      0-1 Koper
+Mura          1-0 Nafta
+[Jul 21]
+Maribor       4-1 Domžale
+Celje         2-1 Bravo
+
+Round 2
+[Jul 26]
+Nafta         2-1 Radomlje
+[Jul 27]
+Domžale       1-2 Mura
+[Jul 28]
+Koper         0-1 Olimpija
+[Jul 29]
+Bravo         4-0 Primorje
+[Sep 18]
+Celje         2-1 Maribor
+
+Round 3
+[Aug 2]
+Radomlje      1-0 Domžale
+[Aug 3]
+Primorje      0-2 Koper
+Mura          1-0 Celje
+[Aug 4]
+Maribor       1-1 Bravo
+[Aug 5]
+Olimpija      2-0 Nafta
+
+Round 4
+[Aug 10]
+Nafta         0-3 Primorje
+[Aug 11]
+Celje         4-2 Radomlje
+Domžale       0-0 Olimpija
+Maribor       2-1 Mura
+[Aug 12]
+Bravo         1-0 Koper
+
+Round 5
+[Aug 16]
+Primorje      2-1 Domžale
+[Aug 17]
+Mura          2-3 Bravo
+Koper         3-0 Nafta
+[Aug 18]
+Radomlje      1-1 Maribor
+Olimpija      2-2 Celje
+
+Round 6
+[Aug 24]
+Mura          1-0 Radomlje
+Domžale       0-3 Koper
+[Aug 25]
+Maribor       1-1 Olimpija
+Celje         0-3 Primorje
+[Aug 26]
+Bravo         2-0 Nafta
+
+Round 7
+[Aug 30]
+Nafta         5-2 Domžale
+[Aug 31]
+Radomlje      1-1 Bravo
+[Sep 1]
+Maribor       4-1 Primorje
+Koper         0-0 Celje
+Olimpija      4-0 Mura
+
+Round 8
+[Sep 14]
+Mura          4-0 Primorje
+Radomlje      0-2 Olimpija
+[Sep 15]
+Celje         3-1 Nafta
+Bravo         0-0 Domžale
+Maribor       2-0 Koper
+
+Round 9
+[Sep 21]
+Olimpija      1-1 Bravo
+[Sep 22]
+Koper         0-0 Mura
+Nafta         0-3 Maribor
+Domžale       0-3 Celje
+[Oct 12]
+Primorje      0-1 Radomlje
+
+Round 10
+[Sep 28]
+Nafta         0-0 Mura
+Primorje      0-2 Olimpija
+Bravo         3-2 Celje
+[Sep 29]
+Koper         1-0 Radomlje
+Domžale       0-3 Maribor
+
+Round 11
+[Oct 4]
+Radomlje      2-0 Nafta
+[Oct 5]
+Mura          0-1 Domžale
+[Oct 6]
+Primorje      1-0 Bravo
+Maribor       1-2 Celje
+Olimpija      0-1 Koper
+
+Round 12
+[Oct 19]
+Celje         4-3 Mura
+Nafta         0-1 Olimpija
+Koper         3-4 Primorje
+[Oct 20]
+Bravo         0-1 Maribor
+Domžale       1-4 Radomlje
+
+Round 13
+[Oct 26]
+Primorje      1-1 Nafta
+Mura          1-1 Maribor
+[Oct 27]
+Koper         3-2 Bravo
+Radomlje      4-2 Celje
+Olimpija      3-0 Domžale
+
+Round 14
+[Nov 2]
+Domžale       0-0 Primorje
+Maribor       1-0 Radomlje
+[Nov 3]
+Bravo         2-1 Mura
+Celje         0-1 Olimpija
+Nafta         1-2 Koper
+
+Round 15
+[Nov 9]
+Koper         4-0 Domžale
+Nafta         0-1 Bravo
+[Nov 10]
+Olimpija      0-0 Maribor
+Radomlje      2-4 Mura
+Primorje      1-3 Celje
+
+Round 16
+[Nov 23]
+Celje         1-0 Koper
+Domžale       2-1 Nafta
+[Nov 24]
+Mura          0-1 Olimpija
+Primorje      2-0 Maribor
+[Dec 4]
+Bravo         0-0 Radomlje
+
+Round 17
+[Nov 29]
+Domžale       2-3 Bravo
+[Nov 30]
+Koper         1-1 Maribor
+Primorje      1-0 Mura
+[Dec 1]
+Nafta         0-0 Celje
+Olimpija      2-0 Radomlje
+
+Round 18
+[Dec 7]
+Celje         2-2 Domžale
+Bravo         1-1 Olimpija
+[Dec 8]
+Maribor       4-0 Nafta
+Radomlje      1-1 Primorje
+Mura          1-3 Koper
+
+Halfway Table:
+
+ 1.Olimpija Ljubljana           18  11  6  1  26- 6  39
+ 2.NK Maribor                   18   9  6  3  31-14  33
+ 3.FC Koper                     18  10  3  5  27-14  33
+ 4.NK Celje                     18   9  4  5  32-26  31  [C]
+ 5.NK Bravo (Ljubljana)         18   8  6  4  26-18  30
+ 6.ND Primorje (Ajdovščina)     18   7  3  8  20-28  24  [P]
+ 7.NŠ Mura (Murska Sobota)      18   6  3  9  22-25  21
+ 8.NK Kalcer Radomlje           18   5  4  9  20-24  19
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.NK Domžale                   18   2  4 12  13-40  10
+-------------------------------------------------------
+10.Nafta 1903 (Lendava)         18   2  3 13  11-33   9  [P]
+
+Round 19
+[Feb 1]
+Celje         2-3 Bravo
+Maribor       2-1 Domžale
+[Feb 2]
+Olimpija      5-0 Primorje
+Mura          0-0 Nafta
+Radomlje      1-2 Koper
+
+Round 20
+[Feb 7]
+Bravo         3-1 Primorje
+Nafta         2-1 Radomlje
+[Feb 8]
+Domžale       0-1 Mura
+Celje         1-2 Maribor
+Koper         1-2 Olimpija
+
+Round 21
+[Feb 15]
+Maribor       2-3 Bravo
+[Feb 16]
+Mura          0-0 Celje
+Olimpija      3-0 Nafta
+[Feb 17]
+Radomlje      1-0 Domžale
+[Mar 5]
+Primorje      1-1 Koper
+
+Round 22
+[Feb 21]
+Nafta         2-2 Primorje
+[Feb 22]
+Bravo         2-1 Koper
+Maribor       2-0 Mura
+[Feb 23]
+Celje         9-1 Radomlje
+[Mar 5]
+Domžale       3-1 Olimpija
+
+Round 23
+[Mar 1]
+Primorje      0-1 Domžale
+Radomlje      0-4 Maribor
+Koper         0-0 Nafta
+[Mar 2]
+Olimpija      2-0 Celje
+Mura          1-1 Bravo
+
+Round 24
+[Mar 8]
+Bravo         1-1 Nafta
+Mura          2-0 Radomlje
+Domžale       2-3 Koper
+[Mar 9]
+Maribor       1-0 Olimpija
+Celje         2-2 Primorje
+
+Round 25
+[Mar 11]
+Radomlje      2-0 Bravo
+[Mar 12]
+Primorje      2-1 Maribor
+Olimpija      2-1 Mura
+[Mar 13]
+Nafta         3-2 Domžale
+[Apr 30]
+Koper         1-1 Celje
+
+Round 26
+[Mar 15]
+Mura          3-1 Primorje
+Radomlje      0-3 Olimpija
+[Mar 16]
+Bravo         3-3 Domžale
+Maribor       4-2 Koper
+Celje         3-2 Nafta
+
+Round 27
+[Mar 29]
+Koper         1-0 Mura
+Domžale       0-1 Celje
+[Mar 30]
+Primorje      1-1 Radomlje
+Olimpija      3-0 Bravo
+[Apr 16]
+Nafta         1-1 Maribor
+
+Round 28
+[Apr 5]
+Nafta         4-2 Mura
+Koper         3-1 Radomlje
+[Apr 6]
+Primorje      0-2 Olimpija
+Bravo         1-2 Celje
+Domžale       1-0 Maribor
+
+Round 29
+[Apr 8]
+Radomlje      4-1 Nafta
+Olimpija      1-1 Koper
+[Apr 10]
+Primorje      3-0 Bravo
+Mura          0-2 Domžale
+[May 7]
+Maribor       1-1 Celje
+
+Round 30
+[Apr 12]
+Nafta         1-1 Olimpija
+[Apr 13]
+Koper         1-1 Primorje
+Celje         2-1 Mura
+Bravo         1-1 Maribor
+[Apr 14]
+Domžale       1-2 Radomlje
+
+Round 31
+[Apr 19]
+Primorje      2-2 Nafta
+Koper         1-0 Bravo
+Olimpija      2-0 Domžale
+[Apr 21]
+Radomlje      1-3 Celje
+Mura          1-2 Maribor
+
+Round 32
+[Apr 26]
+Domžale       1-1 Primorje
+Maribor       4-0 Radomlje
+[Apr 27]
+Nafta         1-5 Koper
+Celje         3-3 Olimpija
+[Apr 28]
+Bravo         1-1 Mura
+
+Round 33
+[May 2]
+Nafta         0-1 Bravo
+[May 3]
+Radomlje      2-0 Mura
+Olimpija      1-2 Maribor
+[May 4]
+Primorje      0-5 Celje
+Koper         3-0 Domžale
+
+Round 34
+[May 10]
+Bravo         4-0 Radomlje
+Celje         2-3 Koper
+Mura          1-1 Olimpija
+[May 11]
+Domžale       2-0 Nafta
+Maribor       3-1 Primorje
+
+Round 35
+[May 17]
+Olimpija      5-0 Radomlje
+Primorje      2-0 Mura
+[May 18]
+Domžale       2-2 Bravo
+Nafta         1-6 Celje
+Koper         1-1 Maribor
+
+Round 36
+[May 23]
+Radomlje      0-1 Primorje
+[May 24]
+Bravo         0-0 Olimpija
+[May 25]
+Celje         1-1 Domžale
+Maribor       0-1 Nafta
+Mura          1-3 Koper
+
+Final Table:
+
+ 1.Olimpija Ljubljana           36  21 11  4  63-20  74       Champions
+ 2.NK Maribor                   36  19 10  7  64-32  67
+ 3.FC Koper                     36  19  9  8  60-35  66
+ 4.NK Celje                     36  17 10  9  76-51  61  [C]
+ 5.NK Bravo (Ljubljana)         36  14 13  9  52-44  55
+ 6.ND Primorje (Ajdovščina)     36  11 10 15  41-61  43  [P]
+ 7.NŠ Mura (Murska Sobota)      36   9  8 19  37-51  35
+ 8.NK Kalcer Radomlje           36  10  5 21  37-69  35
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.NK Domžale                   36   7  8 21  35-66  29       Relegation Playoff
+-------------------------------------------------------
+10.Nafta 1903 (Lendava)         36   6 10 20  33-69  28  [P]  Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page slov2024›.
+
+‹list of champions, see page slovchamp›.
+
+‹list of final tables, see page slovhist›.
+
+‹list of cup winners, see page slovcuphist›.
+
+‹list of super cup finals, see page slovsupcuphist›.
+
+‹list of topscorers, see page slovtops›.
+
+‹list of foundation dates, see page slovfound›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 26 May 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

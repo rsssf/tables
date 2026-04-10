@@ -1,0 +1,488 @@
+  <!--
+     source: https://rsssf.org/tablesr/rwan2026.html
+    -->
+  
+
+
+== Rwanda 2025/26
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Rwanda Premier League, see §premiere›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Rwanda Premier League  ‹§premiere›
+
+<!-- start pre -->
+Table:
+
+ 1.Al-Hilal (Omdurman)           24  17  3  4  56-18  54  [*]
+ 2.APR FC                        25  13 10  2  35-19  49  [C]
+ 3.Al-Merreikh (Omdurman)        24  13  9  2  28-14  48  [*]
+ 4.Rayon Sports                  25  11  9  5  31-25  42
+ 5.Police FC                     25  10 11  4  23-14  41
+ 6.Kiyovu Sports                 25  10  9  6  27-17  39
+ 7.Mukura VS                     25  10  7  8  27-26  37
+ 8.Musanze FC                    25  10  6  9  32-26  36
+ 9.Marines FC                    25  10  6  9  33-29  36
+10.Bugesera FC                   25   9  7  9  25-25  34
+11.Gorilla FC                    25   6  8 11  18-28  26
+12.Gasogi United                 25   6  8 11  17-30  26
+13.Gicumbi FC                    25   6  7 12  27-41  25  [P]
+14.AS Kigali                     25   5  9 11  18-28  24
+15.Etincelles FC                 25   3 13  9  18-27  22
+16.AS Muhanga                    25   5  6 14  17-35  21  [P]
+--------------------------------------------------------
+17.Amagaju FC                    25   5  6 14  12-31  21
+18.Rutsiro FC                    25   4  8 13  25-36  20
+
+[*] Al-Hilal and Al-Merreikh were admitted after round 7;
+    in 2024/25 they had played in ‹Mauritania, see page ../tablesm/maur2025.html#prem›
+
+Round 1
+[Sep 12]
+Gorilla                2-0 Muhanga
+[Sep 13]
+Bugesera               1-0 Gicumbi
+Etincelles             0-0 Gasogi United
+Mukura                 1-0 Musanze
+Police                 2-1 Rutsiro
+Kiyovu Sports          0-2 Rayon Sports
+[Sep 14]
+AS Kigali              1-2 Amagaju
+[Nov 25]
+APR                    2-1 Marines
+
+Round 2
+[Sep 18]
+Gorilla                1-1 Mukura
+Gicumbi                1-2 APR
+[Sep 19]
+Muhanga                0-1 Kiyovu Sports
+Rutsiro                2-3 Gasogi United
+[Sep 20]
+Amagaju                0-0 Bugesera
+Etincelles             0-2 Marines
+Musanze                1-0 AS Kigali
+[Oct 2]
+Rayon Sports           0-1 Police
+
+Round 3
+[Oct 3]
+AS Kigali              1-1 Gorilla
+[Oct 4]
+Marines                2-0 Rutsiro
+Mukura                 0-0 Kiyovu Sports
+Musanze                1-1 Bugesera
+[Oct 5]
+Amagaju                0-2 Gicumbi
+Gasogi United          2-2 Rayon Sports
+Police                 1-0 Muhanga
+[Dec 2]
+APR                    2-1 Etincelles
+
+Round 4
+[Oct 17]
+Gorilla                0-0 Gicumbi
+[Oct 18]
+Bugesera               0-0 Gasogi United
+Muhanga                1-1 Etincelles
+AS Kigali              1-0 Marines
+Rayon Sports           3-1 Rutsiro
+[Oct 19]
+Police                 1-0 Amagaju
+APR                    1-0 Mukura
+[Oct 20]
+Kiyovu Sports          0-0 Musanze
+
+Round 5
+[Oct 24]
+Gicumbi                2-1 Gasogi United
+Rayon Sports           1-0 Amagaju
+[Oct 25]
+Bugesera               0-1 Muhanga
+Musanze                1-1 Rutsiro
+Etincelles             0-0 Gorilla
+Kiyovu Sports          0-0 APR
+Mukura                 2-0 AS Kigali
+[Oct 26]
+Marines                1-2 Police
+
+Round 6
+[Oct 30]
+Gasogi United          1-0 Muhanga
+[Oct 31]
+Gorilla                2-1 Bugesera
+[Nov 1]
+Police                 1-1 Mukura
+Rutsiro                1-1 APR
+Amagaju                0-2 Musanze
+[Nov 2]
+Gicumbi                1-1 Etincelles
+Marines                0-1 Rayon Sports
+AS Kigali              0-3 Kiyovu Sports
+
+Round 7
+[Nov 7]
+AS Kigali              0-0 Police
+[Nov 8]
+Mukura                 0-2 Gasogi United
+Muhanga                0-2 Marines
+Gorilla                0-1 Amagaju
+Etincelles             0-0 Rutsiro
+Musanze                3-2 Gicumbi
+APR                    3-0 Rayon Sports
+[Nov 9]
+Kiyovu Sports          0-0 Bugesera
+
+NB: on Nov 19, the two Sudanese clubs Al-Hilal (Omdurman) and Al-Merreikh (Omdurman)
+    were admitted to the league, following approval by CAF on the corresponding request;
+    their matches are played ‹outside of the existing round schedule, see §add›
+
+Round 8
+[Nov 21]
+Gasogi United          1-0 Kiyovu Sports
+[Nov 22]
+Bugesera               2-3 Rutsiro
+Musanze                3-2 APR
+Amagaju                1-1 Etincelles
+Marines                1-0 Gorilla
+Police                 2-1 Gicumbi
+[Nov 23]
+Mukura                 1-2 Muhanga
+Rayon Sports           0-2 AS Kigali
+
+Round 9
+[Nov 27]
+Gorilla                0-1 Kiyovu Sports
+[Nov 28]
+Etincelles             1-1 Mukura
+AS Kigali              1-1 APR
+[Nov 29]
+Rutsiro                0-1 Muhanga
+Gicumbi                1-1 Rayon Sports
+Amagaju                0-1 Gasogi United
+[Nov 30]
+Marines                2-1 Bugesera
+Police                 1-1 Musanze
+
+Round 10
+[Dec 4]
+Gicumbi                2-1 AS Kigali
+[Dec 5]
+Kiyovu Sports          4-1 Etincelles
+Bugesera               0-1 Mukura
+Rayon Sports           2-0 Musanze
+[Dec 6]
+Muhanga                0-1 Amagaju
+Rutsiro                1-1 Gorilla
+Gasogi United          0-2 Marines
+APR                    0-0 Police
+
+Round 11
+[Dec 11]
+Amagaju                1-2 Rutsiro
+[Dec 12]
+Police                 1-0 Gasogi United
+[Dec 13]
+Musanze                1-3 Etincelles
+Muhanga                0-0 AS Kigali
+Gorilla                0-0 APR
+[Dec 14]
+Mukura                 2-0 Gicumbi
+Bugesera               2-1 Rayon Sports
+Marines                1-0 Kiyovu Sports
+
+Round 12
+[Dec 18]
+Gicumbi                1-0 Marines
+[Dec 19]
+AS Kigali              0-0 Bugesera
+Gorilla                1-2 Rayon Sports
+[Dec 20]
+Amagaju                0-1 Mukura
+Etincelles             0-1 Police
+Musanze                3-0 Muhanga
+APR                    2-0 Gasogi United
+[Dec 21]
+Kiyovu Sports          1-0 Rutsiro
+
+Round 13
+[Dec 26]
+Bugesera               1-0 Police
+Mukura                 2-1 Marines
+Rutsiro                2-4 Gicumbi
+Gasogi United          1-1 AS Kigali
+Muhanga                1-2 APR
+[Dec 27]
+Kiyovu Sports          0-0 Amagaju
+Rayon Sports           1-1 Etincelles
+[Dec 28]
+Musanze                0-1 Gorilla
+
+Round 14
+[Jan 2]
+Marines                1-0 Amagaju
+Gasogi United          0-3 Musanze
+[Jan 3]
+Police                 4-0 Gorilla
+Etincelles             0-1 AS Kigali
+APR                    2-1 Bugesera
+[Jan 4]
+Rutsiro                1-2 Mukura
+Rayon Sports           2-0 Muhanga
+[Jan 5]
+Gicumbi                1-4 Kiyovu Sports
+
+Round 15
+[Jan 9]
+Muhanga                2-3 Gicumbi
+AS Kigali              0-0 Rutsiro
+[Jan 11]
+Etincelles             1-2 Bugesera
+Musanze                3-1 Marines
+Kiyovu Sports          0-0 Police
+[Jan 12]
+Gorilla                1-2 Gasogi United
+[Jan 14]
+Amagaju                0-1 APR
+[Jan 24]
+Mukura                 1-1 Rayon Sports
+
+Additional Matches (outside of round schedule)  ‹§add›
+[Nov 24]
+Kiyovu Sports          0-2 Al-Merreikh
+[Nov 26]
+Al-Hilal               0-0 Police
+[Nov 27]
+Bugesera               1-0 Al-Merreikh
+[Nov 30]
+Al-Merreikh            0-1 Gorilla
+[Dec 3]
+Rutsiro                0-1 Al-Merreikh
+Gasogi United          0-2 Al-Hilal
+[Dec 7]
+Al-Merreikh            2-1 AS Kigali
+[Dec 8]
+Al-Hilal               2-0 Mukura
+[Dec 10]
+Al-Merreikh            1-0 Marines
+[Dec 11]
+Al-Hilal               3-1 Bugesera
+[Dec 14]
+Al-Merreikh            1-0 Amagaju
+[Dec 15]
+Al-Hilal               1-2 Rutsiro
+[Dec 17]
+Etincelles             1-2 Al-Merreikh
+[Dec 18]
+Al-Hilal               1-2 Kiyovu Sports
+[Dec 21]
+Marines                2-2 Al-Hilal
+Al-Merreikh            1-0 Gicumbi
+[Dec 24]
+Al-Merreikh            3-2 Musanze
+Gorilla                0-3 Al-Hilal
+[Dec 29]
+Muhanga                0-0 Al-Merreikh
+Al-Hilal               4-2 AS Kigali
+[Jan 2]
+Gicumbi                1-3 Al-Hilal
+[Jan 5]
+Musanze                0-1 Al-Hilal
+Gasogi United          0-1 Al-Merreikh
+[Jan 8]
+Al-Hilal               2-0 Etincelles
+Al-Merreikh            1-1 Police
+[Jan 11]
+Al-Merreikh            1-1 Mukura
+Al-Hilal               8-0 Amagaju
+[Jan 14]
+Al-Hilal               3-0 Muhanga
+[Jan 17]
+Al-Hilal               4-0 Rayon Sports
+[Jan 18]
+APR                    0-0 Al-Merreikh
+[Jan 21]
+Al-Merreikh            2-2 Rayon Sports
+[Feb 10]
+Al-Hilal               2-0 APR
+[Feb 17]
+Al-Hilal               1-2 Al-Merreikh
+
+Round 18
+[Jan 30]
+Gicumbi                0-3 Musanze
+Amagaju                1-1 Marines
+Kiyovu Sports          0-0 Gorilla
+[Jan 31]
+Mukura                 1-0 Etincelles
+[Feb 4]
+Gasogi United          0-3 APR
+[Feb 5]
+AS Kigali              0-1 Rayon Sports
+[Feb 25]
+Rutsiro                0-0 Police
+[Mar 19]
+Al-Merreikh            3-0 Muhanga
+[Mar 25]
+Bugesera               0-2 Al-Hilal
+
+Round 19
+[Feb 6]
+Gorilla                2-1 Rutsiro
+[Feb 7]
+Etincelles             1-0 Musanze
+Kiyovu Sports          3-1 Mukura
+Bugesera               2-2 APR
+[Feb 8]
+Gicumbi                1-1 Amagaju
+Marines                1-1 Al-Merreikh
+Muhanga                1-1 Gasogi United
+Police                 0-1 AS Kigali
+[Feb 25]
+Rayon Sports           1-1 Al-Hilal
+
+Round 20
+[Feb 13]
+Musanze                1-1 Al-Merreikh
+Police                 0-1 Rayon Sports
+[Feb 14]
+Bugesera               3-1 Gorilla
+Marines                1-1 Gicumbi
+APR                    1-1 Kiyovu Sports
+[Feb 15]
+Gasogi United          1-1 Mukura
+Amagaju                0-2 AS Kigali
+Etincelles             2-1 Muhanga
+[Mar 28]
+Rutsiro                1-2 Al-Hilal
+
+Round 21
+[Feb 20]
+Police                 1-1 APR
+[Feb 21]
+Etincelles             1-1 Gicumbi
+Muhanga                2-1 Rutsiro
+Al-Hilal               1-0 Gorilla
+[Feb 22]
+AS Kigali              0-1 Al-Merreikh
+Bugesera               1-2 Musanze
+Rayon Sports           2-1 Mukura
+[Feb 23]
+Gasogi United          0-1 Amagaju
+[Mar 10]
+Kiyovu Sports          1-2 Marines
+
+Round 22
+[Feb 27]
+Al-Merreikh            1-1 Gasogi United
+APR                    2-1 Gorilla
+[Feb 28]
+Rutsiro                5-3 Marines
+Muhanga                abd Police                 [abandoned at 1-0 in 30']
+Musanze                1-1 Rayon Sports
+Kiyovu Sports          1-1 Gicumbi
+Mukura                 3-1 Al-Hilal
+[Mar 1]
+Muhanga                1-1 Police                 [remaining 60']
+Bugesera               0-0 Amagaju
+AS Kigali              0-0 Etincelles
+
+Round 23
+[Mar 3]
+Al-Hilal               5-0 Gicumbi
+[Mar 7]
+Musanze                0-1 Mukura
+Marines                2-2 APR
+Gasogi United          0-0 Rutsiro
+Bugesera               2-1 Kiyovu Sports
+[Mar 8]
+Etincelles             1-1 Rayon Sports
+AS Kigali              2-2 Muhanga
+Amagaju                2-1 Gorilla
+[Mar 9]
+Police                 0-1 Al-Merreikh
+
+Round 24
+[Mar 14]
+Rutsiro                0-0 Etincelles
+Gasogi United          0-1 Bugesera
+APR                    2-0 Musanze
+[Mar 15]
+Muhanga                2-1 Mukura
+Kiyovu Sports          3-1 AS Kigali
+Gorilla                1-1 Marines
+[Mar 16]
+Gicumbi                1-2 Police
+Rayon Sports           0-0 Al-Merreikh
+[Mar 31]
+Amagaju                1-2 Al-Hilal
+
+Round 25
+[Mar 20]
+APR                    1-0 Amagaju
+[Mar 21]
+Marines                3-1 Mukura
+Gicumbi                0-1 Gorilla
+Bugesera               2-0 AS Kigali
+[Mar 22]
+Muhanga                0-1 Musanze
+Police                 1-1 Etincelles
+Rutsiro                0-1 Kiyovu Sports
+Rayon Sports           awd Gasogi United          [awarded 3-0, Gasogi United dns]
+[tba]
+Al-Merreikh             -  Al-Hilal
+
+Table:
+
+ 1.Al-Hilal (Omdurman)           24  17  3  4  56-18  54  [*]
+ 2.APR FC                        25  13 10  2  35-19  49  [C]
+ 3.Al-Merreikh (Omdurman)        24  13  9  2  28-14  48  [*]
+ 4.Rayon Sports                  25  11  9  5  31-25  42
+ 5.Police FC                     25  10 11  4  23-14  41
+ 6.Kiyovu Sports                 25  10  9  6  27-17  39
+ 7.Mukura VS                     25  10  7  8  27-26  37
+ 8.Musanze FC                    25  10  6  9  32-26  36
+ 9.Marines FC                    25  10  6  9  33-29  36
+10.Bugesera FC                   25   9  7  9  25-25  34
+11.Gorilla FC                    25   6  8 11  18-28  26
+12.Gasogi United                 25   6  8 11  17-30  26
+13.Gicumbi FC                    25   6  7 12  27-41  25  [P]
+14.AS Kigali                     25   5  9 11  18-28  24
+15.Etincelles FC                 25   3 13  9  18-27  22
+16.AS Muhanga                    25   5  6 14  17-35  21  [P]
+--------------------------------------------------------
+17.Amagaju FC                    25   5  6 14  12-31  21
+18.Rutsiro FC                    25   4  8 13  25-36  20
+
+[*] Al-Hilal and Al-Merreikh were admitted after round 7;
+    in 2024/25 they had played in ‹Mauritania, see page ../tablesm/maur2025.html#prem›
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024/25, see page rwan2025›
+
+‹list of champions, see page rwanchamp›
+
+‹list of cup winners, see page rwancuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 2 Apr 2026
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2025/26
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

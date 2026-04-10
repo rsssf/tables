@@ -1,0 +1,906 @@
+  <!--
+     source: https://rsssf.org/tablesy/yemen2024.html
+    -->
+  
+
+
+== Yemen 2023/24
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Yemen League Division One 2023/24, see §div1›
+‹Sanaa League 2023, see §sanaa›
+‹Aden Premier League 2023/24, see §aden›
+‹Other Regional Leagues 2023/24, see §regio›
+‹Aden Capital Cup 2023, see §acc23›
+‹Aden Capital Cup 2024, see §acc24›
+‹Ali Mohsen Al-Muraisi Cup 2023, see §amam23›
+‹Ali Mohsen Al-Muraisi Cup 2024, see §amam24›
+‹Hadhramaut Cup 2024, see §hadramaut›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Yemen League Division One 2023/24  ‹§div1›
+
+<!-- start pre -->
+‹Group Stage, see §grp› | ‹Championship Playoff, see §fin›
+
+Group Stage  ‹§grp›
+
+‹Group 1, see §gp1› | ‹Group 2, see §gp2›
+
+Group 1  ‹§gp1›
+
+Final Table:
+
+ 1.Al-Ahli (Sanaa)               10   8  1  1  21- 2  25       ‹Qualified, see §fin›
+ 2.Al-Tadamun (Mukalla)          10   5  3  2  14-10  18  [P]  ‹Qualified, see §fin›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Al-Urooba (Zabid)             10   3  4  3  13-10  13
+ 4.Al-Ittihad (Ibb)              10   3  2  5   8-12  11
+ 5.Al-Hilal (Hudayda)            10   2  5  3   5-14  11
+--------------------------------------------------------
+ 6.Samoon                        10   1  1  8   6-19   4  [P]  Relegated
+ -.Al-Saqr (Taizz)                excluded after two no-shows
+
+Round 1 [all matches in Sana'a]
+[Oct 6]
+Samoon           0-2 Urooba
+[Oct 7]
+Ittihad Ibb      0-1 Ahli Sanaa
+[Oct 8]
+Saqr             n/p Hilal Hudayda    [annulled; originally awarded 0-3]
+Tadamun Mukalla  bye
+
+Round 2 [all matches in Sana'a]
+[Oct 11]
+Tadamun Mukalla  1-2 Samoon
+[Oct 12]
+Saqr             n/p Ahli Sanaa       [annulled; originally awarded 0-3]
+[Oct 13]
+Urooba           0-1 Ittihad Ibb
+Hilal Hudayda    bye
+
+Round 3 [all matches in Sana'a]
+[Oct 16]
+Hilal Hudayda    0-4 Ahli Sanaa
+[Oct 17]
+Tadamun Mukalla  1-0 Ittihad Ibb
+Urooba           n/p Saqr
+Samoon           bye
+
+Round 4 [all matches in Sana'a]
+[Oct 20]
+Hilal Hudayda    1-1 Urooba
+[Oct 21]
+Samoon           1-2 Ittihad Ibb
+Tadamun Mukalla  n/p Saqr
+Ahli Sanaa       bye
+
+Round 5 [all matches in Sana'a]
+[Oct 24]
+Ahli Sanaa       0-0 Urooba
+[Oct 25]
+Hilal Hudayda    1-1 Tadamun Mukalla
+Samoon           n/p Saqr
+Ittihad Ibb      bye
+
+Round 6 [all matches in Sana'a]
+[Oct 29]
+Ahli Sanaa       0-1 Tadamun Mukalla
+[Oct 30]
+Samoon           0-0 Hilal Hudayda
+Ittihad Ibb      n/p Saqr
+Urooba           bye
+
+Round 7 [all matches in Sana'a]
+[Nov 2]
+Urooba           0-0 Tadamun Mukalla
+[Nov 3]
+Ittihad Ibb      0-1 Hilal Hudayda
+[Nov 4]
+Ahli Sanaa       4-0 Samoon
+Saqr             bye
+
+Halfway Table:
+
+ 1.Al-Ahli (Sanaa)                5   3  1  1   9- 1  10
+ 2.Al-Tadamun (Mukalla)           5   2  2  1   4- 3   8  [P]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Al-Urooba (Zabid)              5   1  3  1   3- 2   6
+ 4.Al-Ittihad (Ibb)               5   2  0  3   3- 4   6
+ 5.Al-Hilal (Hudayda)             5   1  3  1   3- 6   6
+--------------------------------------------------------
+ 6.Samoon                         5   1  1  3   3- 9   4  [P]
+ -.Al-Saqr (Taizz)                excluded after two no-shows
+
+Round 8
+[Dec 14]
+Samoon           0-1 Ahli Sanaa       [in Tarim]
+[Dec 15]
+Hilal Hudayda    0-0 Ittihad Ibb      [in Seiyun]
+[Dec 16]
+Tadamun Mukalla  3-2 Urooba           [in Seiyun]
+
+Round 9 [all matches in Seiyun]
+[Dec 18]
+Hilal Hudayda    2-1 Samoon
+[Dec 19]
+Tadamun Mukalla  0-2 Ahli Sanaa
+[Dec 20]
+Ittihad Ibb      2-2 Urooba
+
+Round 10 [all matches in Seiyun]
+[Dec 22]
+Tadamun Mukalla  0-0 Hilal Hudayda
+[Dec 23]
+Ittihad Ibb      1-0 Samoon
+[Dec 24]
+Urooba           1-2 Ahli Sanaa
+
+Round 11 [all matches in Seiyun]
+[Dec 27]
+Samoon           1-2 Tadamun Mukalla
+[Dec 28]
+Urooba           1-0 Hilal Hudayda
+[Dec 29]
+Ahli Sanaa       1-0 Ittihad Ibb
+
+Round 12
+[Dec 31]
+Ittihad Ibb      2-5 Tadamun Mukalla  [in Tarim]
+Urooba           4-1 Samoon           [in Seiyun]
+[Jan 1]
+Ahli Sanaa       6-0 Hilal Hudayda    [in Seiyun]
+
+Final Table:
+
+ 1.Al-Ahli (Sanaa)               10   8  1  1  21- 2  25       ‹Qualified, see §fin›
+ 2.Al-Tadamun (Mukalla)          10   5  3  2  14-10  18  [P]  ‹Qualified, see §fin›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Al-Urooba (Zabid)             10   3  4  3  13-10  13
+ 4.Al-Ittihad (Ibb)              10   3  2  5   8-12  11
+ 5.Al-Hilal (Hudayda)            10   2  5  3   5-14  11
+--------------------------------------------------------
+ 6.Samoon                        10   1  1  8   6-19   4  [P]  Relegated
+ -.Al-Saqr (Taizz)                excluded after two no-shows
+
+Group 2  ‹§gp2›
+
+Final Table:
+
+ 1.Al-Wahda (Sanaa)              10   6  3  1  13- 8  21       ‹Qualified, see §fin›
+ 2.Al-Sha'ab Hadramaut (Mukalla) 10   5  3  2  16-10  18       ‹Qualified, see §fin›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Fahman (Mudiyah)              10   4  2  4  17-12  14  [C]
+ 4.Salam (al-Garfa)              10   3  2  5  13-13  11  [P]
+ 5.Yarmuk al-Rawda (Sanaa)       10   3  2  5   7-17  11
+--------------------------------------------------------
+ 6.Al-Sha'ab (Ibb)               10   2  2  6  13-19   8       Relegated
+ -.Al-Taliya (Taizz)              excluded after two no-shows
+
+Round 1 [all matches in Seiyun]
+[Oct 1]
+Taliya Taizz     n/p Fahman           [annulled; originally awarded 0-3]
+[Oct 2]
+Yarmuk al-Rawda  awd Salam Garfa      [awarded 0-3]
+[Oct 3]
+Sha'ab Ibb       awd Wahda Sanaa      [awarded 3-0]
+Sha'ab Hadramaut bye
+
+Round 2 [all matches in Seiyun]
+[Oct 6]
+Sha'ab Hadramaut 1-1 Salam Garfa
+[Oct 7]
+Taliya Taizz     n/p Wahda Sanaa      [annulled; originally awarded 0-3]
+[Oct 8]
+Yarmuk al-Rawda  0-0 Sha'ab Ibb
+Fahman           bye
+
+Round 3 [all matches in Seiyun]
+[Oct 11]
+Wahda Sanaa      3-1 Fahman
+[Oct 12]
+Sha'ab Hadramaut 5-2 Sha'ab Ibb
+[Oct 13]
+Taliya Taizz     n/p Yarmuk al-Rawda
+Salam Garfa      bye
+
+Round 4 [all matches in Seiyun]
+[Oct 15]
+Fahman           1-2 Yarmuk al-Rawda
+[Oct 16]
+Salam Garfa      2-1 Sha'ab Ibb
+Sha'ab Hadramaut n/p Taliya Taizz
+Wahda Sanaa      bye
+
+Round 5 [all matches in Seiyun]
+[Oct 19]
+Wahda Sanaa      2-0 Yarmuk al-Rawda
+[Oct 20]
+Fahman           3-0 Sha'ab Hadramaut
+Salam Garfa      n/p Taliya Taizz
+Sha'ab Ibb       bye
+
+Round 6 [all matches in Seiyun]
+[Oct 24]
+Wahda Sanaa      1-1 Sha'ab Hadramaut
+[Oct 25]
+Salam Garfa      1-3 Fahman
+Sha'ab Ibb       n/p Taliya Taizz
+Yarmuk al-Rawda  bye
+
+Round 7 [all matches in Seiyun]
+[Oct 28]
+Yarmuk al-Rawda  0-4 Sha'ab Hadramaut
+[Oct 29]
+Sha'ab Ibb       1-4 Fahman
+[Oct 30]
+Wahda Sanaa      1-0 Salam Garfa
+Taliya Taizz     bye
+
+Halfway Table:
+
+ 1.Al-Wahda (Sanaa)               5   3  1  1   7- 5  10
+ 2.Fahman (Mudiyah)               5   3  0  2  12- 7   9  [C]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Al-Sha'ab Hadramaut (Mukalla)  5   2  2  1  11- 7   8
+ 4.Salam (al-Garfa)               5   2  1  2   7- 6   7  [P]
+ 5.Al-Sha'ab (Ibb)                5   1  1  3   7-11   4
+--------------------------------------------------------
+ 6.Yarmuk al-Rawda (Sanaa)        5   1  1  3   2-10   4
+ -.Al-Taliya (Taizz)              excluded after two no-shows
+
+Round 8 [all matches in Sana'a]
+[Dec 14]
+Salam Garfa      1-2 Wahda Sanaa
+[Dec 15]
+Fahman           2-2 Sha'ab Ibb
+[Dec 16]
+Sha'ab Hadramaut 1-2 Yarmuk al-Rawda
+
+Round 9 [all matches in Sana'a]
+[Dec 18]
+Fahman           0-0 Salam Garfa
+[Dec 19]
+Sha'ab Hadramaut 0-0 Wahda Sanaa
+[Dec 20]
+Sha'ab Ibb       0-1 Yarmuk al-Rawda
+
+Round 10 [all matches in Sana'a]
+[Dec 22]
+Sha'ab Hadramaut 1-0 Fahman
+[Dec 23]
+Sha'ab Ibb       3-2 Salam Garfa
+[Dec 24]
+Yarmuk al-Rawda  1-1 Wahda Sanaa
+
+Round 11 [all matches in Sana'a]
+[Dec 27]
+Yarmuk al-Rawda  0-2 Fahman
+Salam Garfa      0-1 Sha'ab Hadramaut
+[Dec 28]
+Wahda Sanaa      1-0 Sha'ab Ibb
+
+Round 12 [all matches in Sana'a]
+[Dec 30]
+Salam Garfa      3-1 Yarmuk al-Rawda
+[Jan 1]
+Sha'ab Ibb       1-2 Sha'ab Hadramaut
+Fahman           1-2 Wahda Sanaa
+
+Final Table:
+
+ 1.Al-Wahda (Sanaa)              10   6  3  1  13- 8  21       ‹Qualified, see §fin›
+ 2.Al-Sha'ab Hadramaut (Mukalla) 10   5  3  2  16-10  18       ‹Qualified, see §fin›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Fahman (Mudiyah)              10   4  2  4  17-12  14  [C]
+ 4.Salam (al-Garfa)              10   3  2  5  13-13  11  [P]
+ 5.Yarmuk al-Rawda (Sanaa)       10   3  2  5   7-17  11
+--------------------------------------------------------
+ 6.Al-Sha'ab (Ibb)               10   2  2  6  13-19   8       Relegated
+ -.Al-Taliya (Taizz)              excluded after two no-shows
+
+Championship Playoff (Al-Murabae al-Dhahabi, "Golden Square")  ‹§fin›
+
+NB: between top-2 of both groups
+
+Semifinals
+
+First Legs
+[Jan 27, Al-Faqid Baradim Stadium, Mukalla]
+Sha'ab Hadramaut 0-0 Ahli Sanaa
+[Jan 28, Al-Faqid Baradim Stadium, Mukalla]
+Tadamun Mukalla  0-0 Wahda Sanaa
+
+Second Legs
+[Feb 6, Wahda Stadium, Sanaa]
+Ahli Sanaa       1-0 Sha'ab Hadramaut
+[Feb 7, Wahda Stadium, Sanaa]
+Wahda Sanaa      1-1 Tadamun Mukalla  [2-4 pen; no extra time played]
+
+Third Place Match [Feb 10, Wahda Stadium, Sanaa]
+Wahda Sanaa      0-0 Sha'ab Hadramaut [2-4 pen; no extra time played]
+
+Final [Feb 11, Wahda Stadium, Sanaa]
+Ahli Sanaa       2-0 Tadamun Mukalla
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Sanaa League 2023  ‹§sanaa›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Al-Ahli (Sanaa)                5   3  2  0  10- 4  11  Playoff
+   Al-Wahda (Sanaa)               5   3  2  0   9- 3  11  Playoff
+ 3.22 May (Sanaa)                 5   3  0  2   9- 6   9
+ 4.Al-Urooba (Zabid)              5   2  0  3   4- 7   6
+ 5.Al-Yarmouk (Sanaa)             5   1  0  4   4-10   3
+ 6.Al-Sha'ab (Sanaa)              5   0  2  3   2- 8   2
+
+Round 1
+[Aug 3]
+Wahda Sanaa      3-2 Yarmouk Sanaa
+[Aug 4]
+Sha'ab Sanaa     0-4 22 May
+[Aug 5]
+Urooba           1-3 Ahli Sanaa
+
+Round 2
+[Aug 9]
+22 May           2-0 Yarmouk Sanaa
+[Aug 10]
+Wahda Sanaa      1-1 Ahli Sanaa
+[Aug 11]
+Urooba           1-0 Sha'ab Sanaa
+
+Round 3
+[Aug 16]
+Ahli Sanaa       awd Yarmouk Sanaa    [awarded 3-0]
+[Aug 17]
+22 May           2-1 Urooba
+[Aug 18]
+Wahda Sanaa      0-0 Sha'ab Sanaa
+
+Round 4
+[Aug 23]
+Ahli Sanaa       2-1 22 May
+[Aug 24]
+Wahda Sanaa      2-0 Urooba
+[Aug 25]
+Yarmouk Sanaa    2-1 Sha'ab Sanaa
+
+Round 5
+[Aug 30]
+Wahda Sanaa      awd 22 May           [awarded 3-0]
+[Aug 31]
+Yarmouk Sanaa    0-1 Urooba
+[Sep 8]
+Ahli Sanaa       1-1 Sha'ab Sanaa
+
+Final Table:
+
+ 1.Al-Ahli (Sanaa)                5   3  2  0  10- 4  11  Playoff
+   Al-Wahda (Sanaa)               5   3  2  0   9- 3  11  Playoff
+ 3.22 May (Sanaa)                 5   3  0  2   9- 6   9
+ 4.Al-Urooba (Zabid)              5   2  0  3   4- 7   6
+ 5.Al-Yarmouk (Sanaa)             5   1  0  4   4-10   3
+ 6.Al-Sha'ab (Sanaa)              5   0  2  3   2- 8   2
+
+Championship Playoff [Sep 14]
+Ahli Sanaa       0-2 Wahda Sanaa
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Aden Premier League 2023/24  ‹§aden›
+
+<!-- start pre -->
+Round 1
+
+[Oct 8]
+Al-Jalaa 3-0 Shamsan
+[Oct 12]
+Al-Mansoura 2-2 Al-Tilal
+Al-Rawda 1-1 Al-Wahda
+[Oct 13]
+Al-Minaa 4-3 Al-Jazira
+Al-Shoula 2-1 Al-Nasr
+
+Round 2
+
+[Oct 19]
+Shamsan 2-1 Al-Mansoura
+Al-Jalaa 2-1 Al-Rawda
+[Oct 20]
+Al-Jazira 0-1 Al-Tilal
+Al-Nasr 4-2 Al-Minaa
+Al-Wahda 0-0 Al-Shoula
+
+Round 3
+
+[Oct 26]
+Al-Tilal 3-1 Shamsan
+Al-Wahda 3-0 Al-Jalaa
+Al-Mansoura 0-0 Al-Rawda
+[Oct 27]
+Al-Jazira 0-1 Al-Nasr
+[Oct 29]
+Al-Minaa 0-0 Al-Shoula
+
+Round 4
+
+[Nov 2]
+Al-Rawda 0-0 Shamsan
+Al-Jalaa 0-1 Al-Mansoura
+Al-Nasr 1-5 Al-Tilal
+[Nov 3]
+Al-Minaa 0-3 Al-Wahda
+Al-Shoula 1-1 Al-Jazira
+
+Round 5
+
+[Nov 9]
+Al-Wahda 2-1 Shamsan
+Al-Jazira 1-3 Al-Jalaa
+[Nov 10]
+Al-Tilal 2-0 Al-Shoula
+Al-Rawda 6-1 Al-Minaa
+Al-Mansoura 3-0 Al-Nasr
+
+Round 6
+
+[Nov 16]
+Al-Tilal 2-2 Al-Jalaa
+Shamsan 4-2 Al-Minaa
+[Nov 17]
+Al-Nasr 0-4 Al-Wahda
+Al-Rawda 0-0 Al-Shoula
+Al-Jazira 1-0 Al-Mansoura
+
+Round 8
+
+[Nov 23]
+Al-Shoula 3-1 Al-Mansoura
+Al-Minaa 2-2 Al-Jalaa
+Shamsan 0-0 Al-Nasr
+Al-Wahda 2-0 Al-Jazira
+[Nov 24]
+Al-Rawda 2-0 Al-Tilal
+
+Round 7
+
+[Nov 30]
+Al-Tilal 1-0 Al-Wahda
+[Dec 1]
+Al-Jazira 0-2 Shamsan
+Al-Jalaa 2-3 Al-Shoula
+Al-Mansoura 2-1 Al-Minaa
+Al-Rawda 1-0 Al-Nasr
+
+Round 9
+
+[Dec 7]
+Shamsan 0-0 Al-Shoula
+Al-Nasr 1-1 Al-Jalaa
+Al-Mansoura 1-1 Al-Wahda
+[Dec 8]
+Al-Tilal 4-0 Al-Minaa
+Al-Jazira 1-4 Al-Rawda
+
+Round 10
+
+[Dec 21]
+Al-Nasr 0-2 Al-Shoula
+Shamsan 4-1 Al-Jalaa
+[Dec 22]
+Al-Tilal 0-0 Al-Mansoura
+[Dec 23]
+Al-Wahda 2-0 Al-Rawda
+Al-Jazira 0-1 Al-Minaa
+
+Round 11
+
+[Dec 28]
+Al-Tilal 3-0 Al-Jazira
+[Dec 29]
+Al-Mansoura 0-2 Shamsan
+Al-Rawda 2-1 Al-Jalaa
+Al-Minaa 4-0 Al-Nasr
+[Dec 30]
+Al-Shoula 1-3 Al-Wahda
+
+Round 12
+
+[Jan 4]
+Shamsan 1-0 Al-Tilal
+[Jan 5]
+Al-Rawda 2-1 Al-Mansoura
+Al-Shoula 0-0 Al-Minaa
+[Jan 6]
+Al-Jalaa 0-4 Al-Wahda
+Al-Nasr 0-3 Al-Jazira
+
+Round 13
+
+[Jan 11]
+Al-Wahda 1-0 Al-Minaa
+Shamsan 2-0 Al-Rawda
+[Jan 12]
+Al-Tilal 5-0 Al-Nasr
+Al-Mansoura 4-0 Al-Jalaa
+[Jan 13]
+Al-Jazira 3-4 Al-Shoula
+
+Round 14
+
+[Jan 18]
+Al-Minaa 1-2 Al-Rawda
+Al-Nasr 3-6 Al-Mansoura
+[Jan 19]
+Shamsan 0-2 Al-Wahda
+Al-Jalaa 1-1 Al-Jazira
+[Jan 20]
+Al-Shoula 0-1 Al-Tilal
+
+Round 15
+
+[Jan 25]
+Al-Jalaa 1-1 Al-Tilal
+[Jan 26]
+Al-Wahda 3-1 Al-Nasr
+Al-Minaa 1-1 Shamsan
+[Jan 27]
+Al-Shoula 1-3 Al-Rawda
+Al-Mansoura 0-1 Al-Jazira
+
+Round 16
+
+[Feb 1]
+Al-Minaa 0-1 Al-Mansoura
+Al-Shoula 2-2 Al-Jalaa
+[Feb 2]
+Al-Wahda 1-0 Al-Tilal
+[Feb 3]
+Shamsan 4-4 Al-Jazira
+Al-Nasr 1-2 Al-Rawda
+
+On February 3 Al-Mansoura change name to Al-Ahli
+
+Round 17
+
+[Feb 8]
+Al-Jazira 2-4 Al-Wahda
+[Feb 9]
+Al-Ahli 1-0 Al-Shoula
+Al-Jalaa 2-1 Al-Minaa
+Al-Tilal 2-1 Al-Rawda
+[Feb 10]
+Al-Nasr 1-2 Shamsan
+
+Round 18
+
+[Feb 15]
+Al-Rawda 3-0 Al-Jazira
+[Feb 16]
+Al-Shoula 3-0 Shamsan
+Al-Jalaa 0-0 Al-Nasr
+[Feb 17]
+Al-Minaa 3-6 Al-Tilal
+[Feb 18]
+Al-Wahda 3-0 Al-Ahli
+
+Al-Wahda  18 14 3 1  39-8  45
+Al-Tilal  18 11 4 3  38-15 37
+Al-Rawda  18 10 4 4  30-16 34
+Shamsan   18 8  5 5  26-23 29
+Al-Ahli   18 7  4 7  24-21 25
+Al-Shoula 18 6  7 5  22-20 25
+Al-Jalaa  18 4  7 7  23-33 19
+Al-Minaa  18 3  4 11 23-41 13
+Al-Jazira 18 3  3 12 21-38 12
+Al-Nasr   18 2  3 13 14-45 9
+
+1)Hamid Waheed (Al-Shoula) 11 goals
+2)Hassan Al-Anbar (Al-Ahli) 10 goals
+3)Adam Majed (Al-Jalaa) + Abdelabbas Qasim (Al-Tilal) 7 goals
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Other Regional Leagues 2023/24  ‹§regio›
+
+<!-- start pre -->
+NB: described as "third division" leagues
+
+Hadramaut Valley
+
+Source: https://en.yementv.tv/hurra-union-and-al-ahqaf-draw-in-the-opening-match-of-the-third-division-in-wadi-hadramout.html
+
+Group 1
+
+Participants:
+   Al-Ittihad (Seiyun)
+   Al-Wahda (Tarim)
+   Al-Hilal (Al-Suwairi)
+   Al-Ahqaf (Al-Ghurf)
+   Al-Ittihad (Hawra)
+
+Round 1
+[Aug 19]
+Al-Ittihad Hawra 2-2 Al-Ahqaf
+
+Group 2
+
+Known Participants:
+   Al-Rayyan
+   Shabab Al-Lask
+
+Group 3
+
+Known Participants:
+   Shabab Al-Hajreen
+   Shabab Al-Qatn
+
+Ma'rib
+
+Source: https://en.yementv.tv/al-sadd-sports-club-wins-the-third-division-championship-in-marib-with-al-watan-taking-the-runner-up-position.html?noamp=mobile
+
+Final [Sep ?]
+Al-Sadd SC  2-1 A-Watan
+
+Sana'a
+
+Source: https://www.sabanews.info/en/news3373917.htm
+
+Final [Sep ?]
+Shabab Hamdan Youth Club 4-3 Knights Bani Matar Club
+
+Sana'a Rally
+
+Source: https://www.saba.ye/es/news3393076.htm
+
+Champions: Radfan Club [Socotra]
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Aden Capital Cup 2023  ‹§acc23›
+
+<!-- start pre -->
+First Round
+
+[Feb 10]
+Al-Wahda 8-1 Al-Nasr
+[Feb 11]
+Al-Tilal Al-Rawda 0-0 4-2ap
+[Feb 12]
+Al-Minaa 5-2 Al-Jazira
+[Feb 13]
+Al-Mansoura 0-0 4-2ap Al-Jalaa
+[Feb 14]
+Al-Shoula 4-0 Shamsan
+
+Second Round
+
+[Feb 17]
+Al-Wahda 4-1 Al-Minaa
+
+Semifinals
+
+[Feb 18]
+Al-Tilal 2-1 Al-Shoula
+[Feb 22]
+Al-Wahda 1-0 Al-Mansoura
+
+Final [Feb 25 2023]
+
+Al-Wahda 0-0 4-3ap Al-Tilal
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Aden Capital Cup 2024  ‹§acc24›
+
+<!-- start pre -->
+First Round
+
+[Sep 5]
+Al-Wahda 2-2 6-5ap Al-Jazira
+[Sep 6]
+Al-Ahli 3-1 Al-Rawda
+[Sep 7]
+Al-Shoula 8-1 Al-Nasr
+[Sep 8]
+Al-Tilal 4-1 Al-Jalaa
+
+Second Round
+
+[Sep 9]
+Al-Wahda 2-0 Al-Minaa
+Shamsan 1-0 Al-Ahli
+
+Semifinals
+
+[Sep 13]
+Al-Shoula w/o Al-Wahda*
+[Sep 14]
+Al-Tilal 0-0 4-3ap Shamsan
+
+*Al-Wahda was unable to show up at the stadium on time
+
+Final [Sep 20 2024]
+
+Al-Tilal 2-1 Al-Shoula [Karim Hamdi 77, Ahmed Maher 90+1pen - Manaf Saeed 41]
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Ali Mohsen Al-Muraisi Cup 2023  ‹§amam23›
+
+<!-- start pre -->
+First Round
+
+[Mar 25]
+Al-Wahda 5-1 Al-Minaa
+[Mar 26]
+Al-Nasr (Dhale) 5-3 Al-Samoud (Dhale)
+Al-Jazira 3-0 Shamsan
+[Mar 27]
+Khanfar (Abyan) 2-1 Al-Husseini (Lahej)
+Al-Rawda 3-0 Al-Jalaa
+[Mar 28]
+Al-Shoula 3-0 Irfan (Abyan)
+[Mar 29]
+Al-Wahda (Hadramaut) 3-0 Al-Mansoura
+Al-Nasr 1-0 Al-Shabab (Hadramaut)
+[Mar 30]
+Al-Shaab (Hadramaut) 4-0 Al-Taliaa (Lahej)
+Al-Tadamon (Hadramaut) 5-1 Al-Hassan (Abyan)
+[Mar 31]
+Al-Tadamon (Shabwa) 1-1 12-11ap Al-Tilal
+[Apr 1]
+Al-Shati (Shabwa) 2-2 4-2ap Al-Ahli (Hadramaut)
+
+Second Round
+
+[Apr 2]
+Al-Wahda 7-0 Al-Nasr (Dhale)
+Al-Jazira 7-1 Khanfar (Abyan)
+[Apr 3]
+Al-Shaab (Hadramaut) 2-0* Al-Rawda
+Al-Shati (Shabwa) 2-1 Al-Nasr
+[Apr 4]
+Al-Tadamon (Shabwa) 1-1 4-2ap Al-Tadamon (Hadramaut)
+Al-Shoula 3-1 Al-Wahda (Hadramaut)
+
+*Al-Rawda qualified as Al-Shaab fielded an unavailable player
+
+Third Round
+
+[Apr 7]
+Al-Shoula 0-0 4-3ap Al-Tadamon (Shabwa)
+Al-Rawda 5-1 Al-Shati (Shabwa)
+
+Semifinals
+
+[Apr 10]
+Al-Wahda 2-0Al-Jazira
+[Apr 11]
+Al-Shoula 2-0 Al-Rawda
+
+Final [Apr 16 2023]
+
+Al-Shoula 1-1 4-3ap Al-Wahda [Munif Jassar(67) - Abdullah Hamid(85)]
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Ali Mohsen Al-Muraisi Cup 2024  ‹§amam24›
+
+<!-- start pre -->
+
+First Round
+
+[Mar 13]
+Al-Tilal 3-1 Al-Nasr (Dhale)
+[Mar 14]
+Al-Wahda 3-1 Al-Shabab (Dhale)
+[Mar 15]
+Al-Jalaa 3-1 Al-Taliaa (Lahej)
+Al-Minaa 6-0 Al-Salam (Lahej)
+[Mar 16]
+Al-Ahli 2-0 Al-Thamar (Lahej)
+Al-Shoula 4-0 Al-Fajr Al-Jadeed (Abyan)
+[Mar 18]
+Al-Hassan (Abyan) 3-2 Al-Jazira
+Al-Rawda 9-0 Irfan (Abyan)
+Al-Shabab (Abyan) 3-3 5-3ap Shamsan
+[Mar 22]
+Al-Nasr 2-1 Al-Husseini (Lahej)
+
+Round of 16
+
+[Mar 19]
+Al-Jalaa 0-0 9-8ap Al-Wahda
+Al-Tilal 0-0 4-3ap Al-Minaa
+[Mar 20]
+Al-Ahli 2-1 Al-Tadamon (Shabwa)
+[Mar 21]
+Al-Shoula 2-2 +:-ap Al-Shabab (Shabwa)
+[Mar 22]
+Al-Hassan (Abyan) Al-Shoula (Hadramaut)
+Qishn (Al-Mahra) 2-2 4-1ap Al-Rawda
+[Mar 23]
+Al-Shabab (Abyan) 1-0 Al-Shabab (Al-Mahra)
+[Mar 24]
+Al-Nasr 2-0 Al-Mukalla (Hadramaut)
+
+Quarter Finals
+
+[Mar 24]
+Al-Ahli 2-1 Al-Jalaa
+Al-Shoula 0-0 3-0ap Al-Tilal
+[Mar 25]
+Qishn (Al-Mahra) 1-0 Al-Hassan (Abyan)
+[Mar 27]
+Al-Shabab (Abyan) 1-0 Al-Nasr
+
+Semifinals
+
+[Mar 29]
+Al-Ahli 1-1 3-2ap Qishn (Al-Mahra)
+[Mar 30]
+Al-Shoula 3-1 Al-Shabab (Abyan)
+
+Final [Apr 2 2024]
+
+Al-Ahli 1-0 Al-Shoula [Ahmed Jalal 45+6]
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Hadhramaut Cup 2024  ‹§hadramaut›
+
+<!-- start pre -->
+NB: 8th edition
+
+Final [Oct 2024, Olympic Stadium, Seiyun]
+Al-Baraq SC (Tarim)  1-1 Mukalla              [4-3 pen]
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2022/23, see page yemen2023›
+
+‹list of champions, see page yemenchamp›
+
+‹list of cup winners, see page yemencuphist›
+
+‹list of topscorers, see page yementops›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Davide Angelini, Hans Schöggl
+and Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Authors: Davide Angelini, Hans Schöggl and Karel Stokkermans
+
+Last updated: 11 Dec 2025
+
+
+(C) Copyright Davide Angelini, Hans Schöggl, Karel Stokkermans
+and RSSSF 2023/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.

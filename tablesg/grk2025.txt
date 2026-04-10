@@ -1,0 +1,597 @@
+  <!--
+     source: https://rsssf.org/tablesg/grk2025.html
+    -->
+  
+
+
+== Greece 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Super League, see §alpha›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Super League  ‹§alpha›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.Olympiakos Piraeus      26  18  6  2  45-16  60                        ‹Championship Playoff, see §champ›
+ 2.AEK (Athinai)           26  16  5  5  44-16  53                        ‹Championship Playoff, see §champ›
+ 3.Panathinaïkos           26  14  8  4  31-22  50                        ‹Championship Playoff, see §champ›
+ 4.PAOK Thessaloniki       26  14  4  8  51-26  46  [C]                   ‹Championship Playoff, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.Aris Thessaloniki       26  12  6  8  31-28  42                        ‹Conference League Playoff, see §conf›
+ 6.OFI Heraklion           26  10  6 10  37-38  36                        ‹Conference League Playoff, see §conf›
+ 7.Atromitos Athinon       26  10  5 11  32-32  35       [2 1 0 1 2-2 3]  ‹Conference League Playoff, see §conf›
+ 8.Asteras Tripolis        26  10  5 11  27-29  35       [2 1 0 1 2-2 3]  ‹Conference League Playoff, see §conf›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Panaitolikos Agriniou   26   9  6 11  20-22  33                        ‹Relegation Playoff, see §releg›
+10.Levadiakos              26   6 10 10  30-34  28  [P]  [2 1 1 0 3-2 4]  ‹Relegation Playoff, see §releg›
+11.Panserraïkos            26   8  4 14  30-47  28       [2 0 1 1 2-3 1]  ‹Relegation Playoff, see §releg›
+12.Volos NFC               26   6  4 16  20-42  22                        ‹Relegation Playoff, see §releg›
+13.Athens Kallithea FC     26   4  9 13  24-40  21  [P]                   ‹Relegation Playoff, see §releg›
+14.PAS Lamia               26   3  6 17  14-44  15                        ‹Relegation Playoff, see §releg›
+
+Round 1
+[Aug 17]
+PAOK                3-2 Panserraïkos
+Volos               0-2 Olympiakos
+[Aug 18]
+Levadiakos          0-0 Kallithea
+Panathinaïkos       0-1 Asteras
+Atromitos           1-1 Aris
+AEK                 3-0 OFI
+[Aug 19]
+Panaitolikos        0-1 Lamia
+
+Round 2
+[Aug 24]
+OFI                 1-1 Atromitos
+Panserraïkos        0-1 Aris
+AEK                 1-1 Lamia
+[Aug 25]
+Asteras             0-1 Volos
+PAOK                2-0 Panaitolikos
+Panathinaïkos       1-0 Levadiakos
+[Aug 26]
+Olympiakos          2-1 Kallithea
+
+Round 3
+[Aug 31]
+Lamia               0-3 Olympiakos
+Aris                1-1 Asteras
+Panaitolikos        3-0 Panserraïkos
+[Sep 1]
+Levadiakos          0-3 AEK
+Volos               1-3 OFI
+Atromitos           1-2 PAOK
+Kallithea           2-2 Panathinaïkos
+
+Round 4
+[Sep 14]
+Lamia               0-0 Kallithea
+Asteras             1-2 Atromitos
+[Sep 15]
+Panserraïkos        2-2 Levadiakos
+Olympiakos          0-0 Panaitolikos
+OFI                 3-2 Aris
+PAOK                0-0 Panathinaïkos
+[Sep 16]
+AEK                 2-0 Volos
+
+Round 5
+[Sep 21]
+Volos               1-4 PAOK
+Aris                2-1 Olympiakos
+Panaitolikos        1-1 Asteras
+[Sep 22]
+Levadiakos          1-1 OFI
+Panathinaïkos       3-1 Panserraïkos
+Atromitos           4-2 Lamia
+Kallithea           0-0 AEK
+
+Round 6
+[Sep 28]
+Volos               1-1 Kallithea
+Asteras             1-1 Levadiakos
+[Sep 29]
+OFI                 1-2 Panaitolikos
+Olympiakos          2-0 Atromitos
+PAOK                0-1 Aris
+AEK                 2-0 Panathinaïkos
+[Sep 30]
+Lamia               1-2 Panserraïkos
+
+Round 7
+[Oct 5]
+Atromitos           1-2 Volos
+Panaitolikos        1-0 AEK
+Aris                2-0 Lamia
+[Oct 6]
+Panserraïkos        2-3 OFI
+Kallithea           1-3 Asteras
+Levadiakos          0-2 PAOK
+Panathinaïkos       0-0 Olympiakos
+
+Round 8
+[Oct 19]
+Volos               0-1 Panserraïkos
+Atromitos           0-2 Panaitolikos
+Lamia               0-0 Asteras
+[Oct 20]
+Olympiakos          2-2 Levadiakos
+OFI                 0-1 Panathinaïkos
+Aris                2-0 Kallithea
+AEK                 1-1 PAOK
+
+Round 9
+[Oct 26]
+Panaitolikos        0-1 Volos
+Levadiakos          2-2 Lamia
+Panserraïkos        1-0 AEK
+[Oct 27]
+Asteras             1-0 Olympiakos
+Panathinaïkos       1-1 Aris
+PAOK                1-2 OFI
+Kallithea           0-3 Atromitos
+
+Round 10
+[Nov 2]
+Olympiakos          2-1 Panserraïkos
+Kallithea           1-1 Panaitolikos
+[Nov 3]
+Aris                3-1 Levadiakos
+Volos               0-1 Panathinaïkos
+Atromitos           0-1 AEK
+Lamia               1-2 PAOK
+[Nov 4]
+Asteras             3-0 OFI
+
+Round 11
+[Nov 9]
+Panaitolikos        2-1 Aris
+Panserraïkos        2-3 Atromitos
+AEK                 3-0 Asteras
+[Nov 10]
+OFI                 2-2 Kallithea
+Levadiakos          3-2 Volos
+Panathinaïkos       1-0 Lamia
+PAOK                2-3 Olympiakos
+
+Round 12
+[Nov 22]
+Kallithea           1-2 Panserraïkos
+[Nov 23]
+Lamia               1-1 OFI
+Aris                0-1 Volos
+[Nov 24]
+Panaitolikos        1-2 Panathinaïkos
+Asteras             1-2 PAOK
+Olympiakos          4-1 AEK
+[Nov 25]
+Atromitos           2-1 Levadiakos
+
+Round 13
+[Nov 30]
+Volos               0-0 Lamia
+Levadiakos          1-1 Panaitolikos
+AEK                 4-0 Aris
+[Dec 1]
+Panserraïkos        2-1 Asteras
+OFI                 0-2 Olympiakos
+PAOK                2-2 Kallithea
+Panathinaïkos       1-1 Atromitos
+
+Halfway Table:
+
+ 1.Olympiakos Piraeus      13   8  3  2  23-10  27
+ 2.AEK (Athinai)           13   7  3  3  21- 8  24
+ 3.PAOK Thessaloniki       13   7  3  3  23-15  24  [C]
+ 4.Panathinaïkos           13   6  5  2  13- 9  23
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.Aris Thessaloniki       13   6  3  4  17-15  21
+ 6.Panaitolikos Agriniou   13   5  4  4  14-11  19
+ 7.Atromitos Athinon       13   5  3  5  19-18  18
+ 8.Asteras Tripolis        13   4  4  5  14-14  16
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Panserraïkos            13   5  1  7  18-23  16
+10.OFI Heraklion           13   4  4  5  17-22  16
+11.Volos NFC               13   4  2  7  10-18  14
+12.Levadiakos              13   1  7  5  14-22  10  [P]
+13.PAS Lamia               13   1  6  6   9-18   9
+14.Athens Kallithea FC     13   0  8  5  11-20   8  [P]
+
+Round 14
+[Dec 7]
+Olympiakos          3-0 Volos
+Aris                2-1 Atromitos
+[Dec 8]
+Panserraïkos        1-4 PAOK
+OFI                 1-2 AEK
+Asteras             0-1 Panathinaïkos
+Lamia               0-1 Panaitolikos
+[Dec 9]
+Kallithea           2-4 Levadiakos
+
+Round 15
+[Dec 14]
+Lamia               0-1 AEK
+Atromitos           0-0 OFI
+Volos               2-1 Asteras
+[Dec 15]
+Aris                1-0 Panserraïkos
+Levadiakos          0-1 Panathinaïkos
+Panaitolikos        0-1 PAOK
+[Dec 16]
+Kallithea           1-1 Olympiakos
+
+Round 16
+[Dec 21]
+Olympiakos          1-0 Lamia
+[Dec 22]
+Panserraïkos        0-0 Panaitolikos
+Panathinaïkos       1-0 Kallithea
+PAOK                3-0 Atromitos
+AEK                 1-1 Levadiakos
+[Dec 23]
+Asteras             2-1 Aris
+OFI                 4-0 Volos
+
+Round 17
+[Jan 4]
+Kallithea           2-1 Lamia
+[Jan 5]
+Levadiakos          1-0 Panserraïkos
+Aris                0-2 OFI
+Volos               2-4 AEK
+Atromitos           0-1 Asteras
+Panathinaïkos       2-1 PAOK
+[Jan 6]
+Panaitolikos        0-2 Olympiakos
+
+Round 18
+[Jan 11]
+Olympiakos          2-1 Aris
+[Jan 12]
+Panserraïkos        2-2 Panathinaïkos
+Lamia               0-3 Atromitos
+PAOK                1-2 Volos
+AEK                 2-0 Kallithea
+[Jan 13]
+Asteras             2-0 Panaitolikos
+OFI                 0-0 Levadiakos
+
+Round 19
+[Jan 18]
+Kallithea           2-0 Volos
+[Jan 19]
+Atromitos           1-2 Olympiakos
+Levadiakos          1-2 Asteras
+Panaitolikos        1-0 OFI
+Aris                0-0 PAOK
+Panathinaïkos       1-0 AEK
+[Jan 20]
+Panserraïkos        2-0 Lamia
+
+Round 20
+[Jan 24]
+Volos               0-1 Atromitos
+[Jan 25]
+Asteras             1-0 Kallithea
+OFI                 3-2 Panserraïkos
+AEK                 1-0 Panaitolikos
+[Jan 26]
+Lamia               0-2 Aris
+PAOK                1-0 Levadiakos
+Olympiakos          1-1 Panathinaïkos
+
+Round 21
+[Feb 1]
+Panathinaïkos       3-2 OFI
+Panserraïkos        1-1 Volos
+[Feb 2]
+Levadiakos          0-1 Olympiakos
+Kallithea           0-1 Aris
+PAOK                1-2 AEK
+Panaitolikos        0-1 Atromitos
+[Feb 3]
+Asteras             1-0 Lamia
+
+Round 22
+[Feb 8]
+Volos               0-1 Panaitolikos
+OFI                 0-5 PAOK
+[Feb 9]
+Olympiakos          1-1 Asteras
+Aris                2-0 Panathinaïkos
+AEK                 5-0 Panserraïkos
+[Feb 10]
+Atromitos           1-2 Kallithea
+Lamia               0-2 Levadiakos
+
+Round 23
+[Feb 15]
+OFI                 2-1 Asteras
+AEK                 2-1 Atromitos
+[Feb 16]
+Levadiakos          4-1 Aris
+Panathinaïkos       2-1 Volos
+Panserraïkos        0-4 Olympiakos
+PAOK                7-0 Lamia
+Panaitolikos        2-0 Kallithea
+
+Round 24
+[Feb 22]
+Kallithea           1-3 OFI
+Atromitos           1-0 Panserraïkos
+Volos               1-2 Levadiakos
+[Feb 23]
+Aris                2-1 Panaitolikos
+Lamia               3-1 Panathinaïkos
+Asteras             0-3 AEK
+Olympiakos          2-1 PAOK
+
+Round 25
+[Mar 1]
+Panserraïkos        2-1 Kallithea
+Volos               1-1 Aris
+Panathinaïkos       2-0 Panaitolikos
+[Mar 2]
+Levadiakos          1-2 Atromitos
+OFI                 3-0 Lamia
+PAOK                2-0 Asteras
+AEK                 0-1 Olympiakos
+
+Round 26
+[Mar 9]
+Aris                0-0 AEK
+Asteras             1-2 Panserraïkos
+Kallithea           2-1 PAOK
+Atromitos           1-1 Panathinaïkos
+Lamia               1-0 Volos
+Olympiakos          1-0 OFI
+Panaitolikos        0-0 Levadiakos
+
+Final Table:
+
+ 1.Olympiakos Piraeus      26  18  6  2  45-16  60                        ‹Championship Playoff, see §champ›
+ 2.AEK (Athinai)           26  16  5  5  44-16  53                        ‹Championship Playoff, see §champ›
+ 3.Panathinaïkos           26  14  8  4  31-22  50                        ‹Championship Playoff, see §champ›
+ 4.PAOK Thessaloniki       26  14  4  8  51-26  46  [C]                   ‹Championship Playoff, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.Aris Thessaloniki       26  12  6  8  31-28  42                        ‹Conference League Playoff, see §conf›
+ 6.OFI Heraklion           26  10  6 10  37-38  36                        ‹Conference League Playoff, see §conf›
+ 7.Atromitos Athinon       26  10  5 11  32-32  35       [2 1 0 1 2-2 3]  ‹Conference League Playoff, see §conf›
+ 8.Asteras Tripolis        26  10  5 11  27-29  35       [2 1 0 1 2-2 3]  ‹Conference League Playoff, see §conf›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Panaitolikos Agriniou   26   9  6 11  20-22  33                        ‹Relegation Playoff, see §releg›
+10.Levadiakos              26   6 10 10  30-34  28  [P]  [2 1 1 0 3-2 4]  ‹Relegation Playoff, see §releg›
+11.Panserraïkos            26   8  4 14  30-47  28       [2 0 1 1 2-3 1]  ‹Relegation Playoff, see §releg›
+12.Volos NFC               26   6  4 16  20-42  22                        ‹Relegation Playoff, see §releg›
+13.Athens Kallithea FC     26   4  9 13  24-40  21  [P]                   ‹Relegation Playoff, see §releg›
+14.PAS Lamia               26   3  6 17  14-44  15                        ‹Relegation Playoff, see §releg›
+
+Playoff Stage  ‹§play›
+
+‹Championship Playoff, see §champ› | ‹Conference League Playoff, see §conf› | ‹Relegation Playoff, see §releg›
+
+Championship Playoff  ‹§champ›
+
+Final Table:
+
+ 1.Olympiakos Piraeus      32  23  6  3  58-22  75       Champions
+ 2.Panathinaïkos           32  17  8  7  42-32  59
+ 3.PAOK Thessaloniki       32  18  4 10  62-37  58  [C]
+ 4.AEK (Athinai)           32  16  5 11  48-28  53
+
+Round 27 [Mar 30]
+AEK                 2-3 PAOK
+Olympiakos          4-2 Panathinaïkos
+
+Round 28 [Apr 6]
+PAOK                2-1 Olympiakos
+Panathinaïkos       3-1 AEK
+
+Round 29 [Apr 13]
+Panathinaïkos       3-1 PAOK
+Olympiakos          1-0 AEK
+
+Round 30 [Apr 27]
+AEK                 0-2 Olympiakos
+PAOK                2-1 Panathinaïkos
+
+Round 31 [May 4]
+AEK                 1-2 Panathinaïkos
+Olympiakos          4-2 PAOK
+
+Round 32 [May 11]
+Panathinaïkos       0-1 Olympiakos
+PAOK                1-0 AEK
+
+Final Table:
+
+ 1.Olympiakos Piraeus      32  23  6  3  58-22  75       Champions
+ 2.Panathinaïkos           32  17  8  7  42-32  59
+ 3.PAOK Thessaloniki       32  18  4 10  62-37  58  [C]
+ 4.AEK (Athinai)           32  16  5 11  48-28  53
+
+Conference League Playoff  ‹§conf›
+
+Final Table:
+
+ 5.Aris Thessaloniki       32  16  8  8  42-32  35  [21]
+ 6.Asteras Tripolis        32  13  5 14  35-40  27  [18]
+ 7.Atromitos Athinon       32  12  7 13  39-37  26  [18]
+ 8.OFI Heraklion           32  10  8 14  40-47  20  [18]
+
+NB: points carried over from regular stage (halved, round upwards) between
+    square brackets
+
+Round 27 [Mar 29]
+OFI                 1-2 Atromitos
+Asteras             0-2 Aris
+
+Round 28
+[Apr 5]
+Aris                2-0 OFI
+[Apr 6]
+Atromitos           0-1 Asteras
+
+Round 29 [Apr 13]
+Asteras             2-1 OFI
+Aris                1-0 Atromitos
+
+Round 30 [Apr 26]
+Atromitos           1-1 Aris
+OFI                 0-2 Asteras
+
+Round 31 [May 3]
+Asteras             1-4 Atromitos
+OFI                 1-1 Aris
+
+Round 32 [May 10]
+Aris                4-2 Asteras
+Atromitos           0-0 OFI
+
+Final Table:
+
+ 5.Aris Thessaloniki       32  16  8  8  42-32  35  [21]
+ 6.Asteras Tripolis        32  13  5 14  35-40  27  [18]
+ 7.Atromitos Athinon       32  12  7 13  39-37  26  [18]
+ 8.OFI Heraklion           32  10  8 14  40-47  20  [18]
+
+NB: points carried over from regular stage (halved, round upwards) between
+    square brackets
+
+Relegation Playoff  ‹§releg›
+
+Final Table:
+
+ 9.Levadiakos              36  13 11 12  50-43  50  [P]
+10.Panaitolikos Agriniou   36  13  9 14  29-31  48
+11.Volos NFC               36  11  6 19  36-52  39
+12.Panserraïkos            36  10  7 19  40-61  37
+--------------------------------------------------
+13.Athens Kallithea FC     36   8 12 16  36-52  36  [P]  Relegated
+14.PAS Lamia               36   4  8 24  21-64  20       Relegated
+
+Round 27
+[Mar 29]
+Kallithea           1-1 Volos
+Panaitolikos        1-2 Levadiakos
+[Mar 30]
+Panserraïkos        1-1 Lamia
+
+Round 28
+[Apr 5]
+Levadiakos          3-0 Panserraïkos
+Lamia               0-2 Kallithea
+[Apr 6]
+Volos               0-0 Panaitolikos
+
+Round 29 [Apr 12]
+Panaitolikos        1-0 Lamia
+Panserraïkos        3-1 Kallithea
+Volos               1-0 Levadiakos
+
+Round 30 [Apr 23]
+Lamia               1-3 Volos
+Panserraïkos        1-1 Panaitolikos
+Kallithea           0-3 Levadiakos
+
+Round 31 [Apr 28]
+Levadiakos          0-0 Lamia
+Panaitolikos        0-1 Kallithea
+Volos               3-0 Panserraïkos
+
+Round 32 [May 5]
+Kallithea           0-0 Panaitolikos
+Panserraïkos        3-0 Volos
+Lamia               2-3 Levadiakos
+
+Round 33 [May 10]
+Lamia               2-1 Panserraïkos
+Levadiakos          4-1 Kallithea
+Panaitolikos        0-3 Volos
+
+Round 34 [May 14]
+Levadiakos          1-2 Panaitolikos
+Kallithea           1-1 Panserraïkos
+Volos               3-0 Lamia
+
+Round 35 [May 18]
+Panserraïkos        0-1 Levadiakos
+Lamia               1-3 Panaitolikos
+Volos               0-2 Kallithea
+
+Round 36 [May 22]
+Levadiakos          3-2 Volos
+Panaitolikos        1-0 Panserraïkos
+Kallithea           3-0 Lamia
+
+Final Table:
+
+ 9.Levadiakos              36  13 11 12  50-43  50  [P]
+10.Panaitolikos Agriniou   36  13  9 14  29-31  48
+11.Volos NFC               36  11  6 19  36-52  39
+12.Panserraïkos            36  10  7 19  40-61  37
+--------------------------------------------------
+13.Athens Kallithea FC     36   8 12 16  36-52  36  [P]  Relegated
+14.PAS Lamia               36   4  8 24  21-64  20       Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page grk2024›.
+
+‹list of champions, see page grkchamp›.
+
+‹list of final tables (before 1959), see page grkprehist›.
+
+‹list of final tables (since 1959), see page grkhist›.
+
+‹list of 2nd level champions, see page grk2champ›.
+
+‹list of 2nd level final tables, see page grk2hist›.
+
+‹list of 3rd level champions, see page grk3champ›.
+
+‹list of 3rd level final tables, see page grk3hist›.
+
+‹list of 4th level champions, see page grk4champ›.
+
+‹list of cup winners, see page grkcuphist›.
+
+‹list of super cup finals, see page grksupcuphist›.
+
+‹list of amateur cup finals, see page grkamacuphist›.
+
+‹list of topscorers, see page grktops›.
+
+‹list of mergers and name changes, see page grk-names›.
+
+‹amateur club directory 2021, see page grk-amateurclubs.xlsx›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans
+the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 26 May 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

@@ -1,0 +1,800 @@
+  <!--
+     source: https://rsssf.org/tablesb/bulg2025.html
+    -->
+  
+
+
+== Bulgaria 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Prva profesionalna Liga, see §afg›
+‹Kupa, see §kupa›
+‹Vtora profesionalna liga, see §bfg›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Prva profesionalna Liga  ‹§afg›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.Ludogorets 1945 (Razgrad)          30  24  4  2  62-14  76  [C]                    ‹First Group, see §champ›
+ 2.Levski (Sofija)                    30  19  5  6  55-25  62                         ‹First Group, see §champ›
+ 3.Arda 1924 (Kardzhali)              30  15  8  7  49-33  53  [2 1 1 0 5-1 4]        ‹First Group, see §champ›
+ 4.Cherno more (Varna)                30  14 11  5  41-25  53  [2 0 1 1 1-5 1]        ‹First Group, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.Botev (Plovdiv)                    30  14  7  9  32-31  49                         ‹Second Group, see §elpo›
+ 6.Spartak 1918 (Varna)               30  14  6 10  39-38  48  [P]                    ‹Second Group, see §elpo›
+ 7.CSKA-Sofia (Sofija)                30  13  8  9  40-27  47                         ‹Second Group, see §elpo›
+ 8.Beroe (Stara Zagora)               30  12  6 12  34-29  42  [2 1 0 1 2-2 3; 1 ag]  ‹Second Group, see §elpo›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Slavija 1913 (Sofija)              30  12  6 12  43-42  42  [2 1 0 1 2-2 3; 0 ag]  ‹Third Group, see §releg›
+10.CSKA 1948 (Sofija)                 30   8 10 12  38-44  34                         ‹Third Group, see §releg›
+11.Septemvri (Sofija)                 30  10  3 17  32-47  33  [P]                    ‹Third Group, see §releg›
+12.Lokomotiv 1929 (Sofija)            30   8  6 16  29-49  30  [2 1 1 0 2-0 4]        ‹Third Group, see §releg›
+13.Krumovgrad (Krumovgrad)            30   7  9 14  16-31  30  [2 0 1 1 0-2 1]        ‹Third Group, see §releg›
+14.Lokomotiv 1926 (Plovdiv)           30   7  7 16  27-40  28                         ‹Third Group, see §releg›
+15.Botev (Vratsa)                     30   5  6 19  24-57  21                         ‹Third Group, see §releg›
+16.Hebar 1918 (Pazardzhik)            30   3  8 19  23-52  17                         ‹Third Group, see §releg›
+
+Round 1
+[Jul 21]
+Cherno more        0-0 CSKA 1948
+Krumovgrad         1-0 Slavija
+[Jul 20]
+Lokomotiv P        1-0 Arda
+Lokomotiv S        1-6 Levski
+[Jul 21]
+Botev V            1-3 Botev P
+Ludogorets         1-0 CSKA
+[Jul 22]
+Hebar              0-2 Spartak V
+Septemvri          0-1 Beroe
+
+Round 2
+[Jul 26]
+Arda               1-0 Krumovgrad
+Levski             4-0 Botev V
+[Jul 27]
+CSKA               3-1 Hebar
+[Jul 28]
+CSKA 1948          2-2 Spartak V
+Botev P            2-2 Lokomotiv P
+[Jul 29]
+Beroe              0-0 Lokomotiv S
+Cherno more        2-0 Septemvri
+[Sep 18]
+Slavija            0-1 Ludogorets
+
+Round 3
+[Aug 2]
+Hebar              1-1 Slavija
+Lokomotiv P        0-2 Levski
+[Aug 3]
+Spartak V          3-0 CSKA
+Ludogorets         5-1 Arda
+[Aug 4]
+Lokomotiv S        2-1 Cherno more
+Krumovgrad         0-1 Botev P
+[Aug 5]
+Botev V            1-2 Beroe
+[Sep 25]
+Septemvri          1-1 CSKA 1948
+
+Round 4
+[Aug 9]
+Slavija            3-1 Spartak V
+Arda               2-1 Hebar
+[Aug 10]
+Beroe              0-2 Lokomotiv P
+Levski             3-0 Krumovgrad
+[Aug 12]
+Septemvri          0-1 Lokomotiv S
+Cherno more        2-1 Botev V
+[Nov 7]
+CSKA 1948          1-3 CSKA
+[Dec 19]
+Botev P            2-4 Ludogorets
+
+Round 5
+[Aug 16]
+Spartak V          1-0 Arda
+Krumovgrad         0-1 Beroe
+[Aug 17]
+CSKA               0-1 Slavija
+Ludogorets         1-0 Levski
+[Aug 18]
+Lokomotiv S        0-0 CSKA 1948
+Hebar              0-1 Botev P
+[Aug 19]
+Botev V            2-0 Septemvri
+Lokomotiv P        1-2 Cherno more
+
+Round 6
+[Aug 23]
+Lokomotiv S        0-1 Botev V
+Levski             1-0 Hebar
+[Aug 24]
+Arda               2-1 CSKA
+Botev P            0-1 Spartak V
+[Aug 25]
+CSKA 1948          2-0 Slavija
+Beroe              0-1 Ludogorets
+[Aug 26]
+Septemvri          2-3 Lokomotiv P
+Cherno more        3-0 Krumovgrad
+
+Round 7
+[Aug 30]
+Slavija            1-1 Arda
+Botev V            0-3 CSKA 1948
+CSKA               0-1 Botev P
+[Aug 31]
+Spartak V          0-0 Levski
+Krumovgrad         2-0 Septemvri
+[Sep 1]
+Lokomotiv P        1-1 Lokomotiv S
+Hebar              3-1 Beroe
+Ludogorets         0-0 Cherno more
+
+Round 8
+[Sep 13]
+Lokomotiv P        3-3 Hebar
+Botev V            1-1 Spartak V
+[Sep 14]
+Septemvri          3-2 Slavija
+Beroe              0-1 Botev P
+[Sep 15]
+Cherno more        1-1 Arda
+CSKA 1948          2-4 Levski
+Krumovgrad         0-3 Ludogorets
+[Sep 16]
+Lokomotiv S        0-3 CSKA
+
+Round 9
+[Sep 19]
+Lokomotiv P        0-2 CSKA 1948
+[Sep 20]
+Hebar              1-2 Septemvri
+[Sep 21]
+CSKA               1-0 Beroe
+Ludogorets         2-0 Lokomotiv S
+[Sep 22]
+Slavija            0-1 Levski
+Spartak V          0-2 Cherno more
+[Sep 23]
+Krumovgrad         3-0 Botev V
+Arda               1-0 Botev P
+
+Round 10
+[Sep 27]
+Lokomotiv S        0-0 Hebar
+Beroe              1-0 Slavija
+[Sep 28]
+Lokomotiv P        0-2 Krumovgrad
+Cherno more        0-0 CSKA
+[Sep 29]
+CSKA 1948          0-1 Botev P
+Levski             2-1 Arda
+Botev V            0-2 Ludogorets
+[Sep 30]
+Septemvri          0-1 Spartak V
+
+Round 11
+[Oct 4]
+Krumovgrad         1-1 CSKA 1948
+Arda               1-1 Beroe
+Slavija            1-0 Cherno more
+[Oct 5]
+CSKA               0-1 Septemvri
+Botev P            1-0 Levski
+[Oct 6]
+Hebar              1-1 Botev V
+Spartak V          3-2 Lokomotiv S
+Ludogorets         1-0 Lokomotiv P
+
+Round 12
+[Oct 18]
+Beroe              3-0 Spartak V
+Botev V            0-0 Lokomotiv P
+[Oct 19]
+Lokomotiv S        0-0 Krumovgrad
+Levski             1-0 CSKA
+Botev P            1-0 Slavija
+[Oct 20]
+Cherno more        1-0 Hebar
+Septemvri          0-2 Ludogorets
+[Oct 21]
+CSKA 1948          1-2 Arda
+
+Round 13
+[Oct 23]
+Spartak V          1-0 Lokomotiv P
+[Oct 24]
+Slavija            3-2 Lokomotiv S
+CSKA               2-0 Botev V
+[Oct 25]
+Arda               2-1 Septemvri
+Botev P            1-0 Cherno more
+Levski             0-2 Beroe
+[Oct 26]
+Hebar              0-0 Krumovgrad
+[Oct 28]
+Ludogorets         3-0 CSKA 1948
+
+Round 14
+[Nov 1]
+Botev V            3-2 Slavija
+[Nov 2]
+Lokomotiv S        0-2 Arda
+Lokomotiv P        2-2 CSKA
+Krumovgrad         0-1 Spartak V
+[Nov 3]
+CSKA 1948          1-1 Beroe
+Ludogorets         3-0 Hebar
+Cherno more        2-1 Levski
+[Nov 4]
+Septemvri          1-0 Botev P
+
+Round 15
+[Nov 8]
+Arda               2-0 Botev V
+Botev P            2-0 Lokomotiv S
+[Nov 9]
+Slavija            2-1 Lokomotiv P
+Beroe              0-1 Cherno more
+Levski             2-3 Septemvri
+[Nov 10]
+Hebar              1-1 CSKA 1948
+CSKA               2-2 Krumovgrad
+Spartak V          1-3 Ludogorets
+
+Round 16
+[Nov 22]
+Spartak V          4-0 Hebar
+[Nov 23]
+Arda               4-2 Lokomotiv P
+Botev P            3-1 Botev V
+Levski             2-0 Lokomotiv S
+[Nov 24]
+Beroe              2-0 Septemvri
+CSKA 1948          0-4 Cherno more
+CSKA               2-2 Ludogorets
+[Nov 25]
+Slavija            0-1 Krumovgrad
+
+Round 17
+[Nov 9]
+Spartak V          1-1 CSKA 1948
+Septemvri          1-2 Cherno more
+[Nov 30]
+Lokomotiv S        2-1 Beroe
+Botev V            0-2 Levski
+Hebar              0-1 CSKA
+[Dec 1]
+Lokomotiv P        0-1 Botev P
+Krumovgrad         0-0 Arda
+Ludogorets         2-0 Slavija
+
+Round 18
+[Dec 3]
+CSKA 1948          2-0 Septemvri
+Cherno more        4-0 Lokomotiv S
+CSKA               3-1 Spartak V
+[Dec 4]
+Beroe              5-1 Botev V
+Arda               0-4 Ludogorets
+Levski             2-1 Lokomotiv P
+[Dec 5]
+Slavija            3-2 Hebar
+Botev P            1-0 Krumovgrad
+
+Round 19
+[Dec 7]
+Lokomotiv P        1-2 Beroe
+Botev V            2-3 Cherno more
+CSKA               2-2 CSKA 1948
+[Dec 8]
+Lokomotiv S        1-2 Septemvri
+Krumovgrad         0-2 Levski
+Ludogorets         3-0 Botev P
+[Dec 9]
+Hebar              0-2 Arda
+Spartak V          1-3 Slavija
+
+Round 20
+[Feb 7]
+Arda               2-2 Spartak V
+[Feb 8]
+Septemvri          2-2 Botev V
+Cherno more        1-2 Lokomotiv P
+Slavija            1-0 CSKA
+[Feb 9]
+CSKA 1948          1-4 Lokomotiv S
+Botev P            1-1 Hebar
+Levski             2-1 Ludogorets
+[Feb 10]
+Beroe              0-0 Krumovgrad
+
+Round 21
+[Feb 14]
+Botev V            0-3 Lokomotiv S
+[Feb 15]
+Krumovgrad         1-1 Cherno more
+Spartak V          1-0 Botev P
+Hebar              1-4 Levski
+Lokomotiv P        0-1 Septemvri
+[Feb 16]
+Ludogorets         2-1 Beroe
+CSKA               2-0 Arda
+[Feb 17]
+Slavija            1-1 CSKA 1948
+
+Round 22
+[Feb 21]
+CSKA 1948          1-0 Botev V
+Beroe              2-1 Hebar
+Levski             2-0 Spartak V
+[Feb 22]
+Arda               1-1 Slavija
+Botev P            0-3 CSKA
+Cherno more        1-1 Ludogorets
+[Feb 23]
+Lokomotiv S        0-1 Lokomotiv P
+[Feb 24]
+Septemvri          1-0 Krumovgrad
+
+Round 23
+[Mar 1]
+Krumovgrad         0-2 Lokomotiv S
+Lokomotiv P        1-0 Botev V
+Spartak V          0-3 Beroe
+[Mar 2]
+CSKA               2-2 Levski
+Hebar              0-1 Cherno more
+[Mar 3]
+Arda               1-0 CSKA 1948
+Slavija            3-2 Botev P
+Ludogorets         0-0 Septemvri
+
+Round 24
+[Mar 7]
+Botev V            0-0 Krumovgrad
+[Mar 8]
+CSKA 1948          2-1 Lokomotiv P
+Beroe              0-2 CSKA
+Cherno more        1-1 Spartak V
+[Mar 9]
+Botev P            1-1 Arda
+Levski             3-3 Slavija
+Lokomotiv S        1-2 Ludogorets
+[Mar 10]
+Septemvri          6-1 Hebar
+
+Round 25
+[Mar 14]
+Slavija            2-1 Beroe
+Krumovgrad         0-0 Lokomotiv P
+[Mar 15]
+Hebar              2-1 Lokomotiv S
+Ludogorets         3-0 Botev V
+CSKA               1-1 Cherno more
+[Mar 16]
+Spartak V          4-2 Septemvri
+Botev P            0-5 CSKA 1948
+Arda               1-1 Levski
+
+Round 26
+[Mar 28]
+Lokomotiv S        2-1 Spartak V
+Botev V            1-0 Hebar
+[Mar 29]
+CSKA 1948          4-1 Krumovgrad
+Cherno more        1-1 Slavija
+Septemvri          0-1 CSKA
+[Mar 30]
+Beroe              1-4 Arda
+Lokomotiv P        1-0 Ludogorets
+Levski             1-1 Botev P
+
+Round 27
+[Apr 1]
+Spartak V          1-0 Botev V
+Slavija            2-3 Septemvri
+[Apr 2]
+Arda               4-0 Cherno more
+Botev P            0-0 Beroe
+CSKA               1-0 Lokomotiv S
+[Apr 3]
+Hebar              0-0 Lokomotiv P
+Ludogorets         3-0 Krumovgrad
+Levski             2-0 CSKA 1948
+
+Round 28
+[Apr 5]
+Cherno more        1-1 Botev P
+Botev V            1-1 CSKA
+[Apr 6]
+Krumovgrad         1-0 Hebar
+Lokomotiv S        3-2 Slavija
+Beroe              0-1 Levski
+[Apr 7]
+Septemvri          0-4 Arda
+Lokomotiv P        1-2 Spartak V
+CSKA 1948          1-3 Ludogorets
+
+Round 29
+[Apr 11]
+Spartak V          1-0 Krumovgrad
+Beroe              2-0 CSKA 1948
+[Apr 12]
+Botev P            3-0 Septemvri
+CSKA               2-0 Lokomotiv P
+[Apr 13]
+Arda               5-0 Lokomotiv S
+Levski             1-2 Cherno more
+[Apr 14]
+Slavija            4-2 Botev V
+Hebar              0-2 Ludogorets
+
+Round 30
+[Apr 18]
+Lokomotiv S        1-1 Botev P
+Cherno more        1-1 Beroe
+Krumovgrad         1-0 CSKA
+[Apr 19]
+Botev V            3-1 Arda
+Lokomotiv P        0-1 Slavija
+Ludogorets         2-1 Spartak V
+[Apr 21]
+Septemvri          0-1 Levski
+CSKA 1948          1-3 Hebar
+
+Final Table:
+
+ 1.Ludogorets 1945 (Razgrad)          30  24  4  2  62-14  76  [C]                    ‹First Group, see §champ›
+ 2.Levski (Sofija)                    30  19  5  6  55-25  62                         ‹First Group, see §champ›
+ 3.Arda 1924 (Kardzhali)              30  15  8  7  49-33  53  [2 1 1 0 5-1 4]        ‹First Group, see §champ›
+ 4.Cherno more (Varna)                30  14 11  5  41-25  53  [2 0 1 1 1-5 1]        ‹First Group, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.Botev (Plovdiv)                    30  14  7  9  32-31  49                         ‹Second Group, see §elpo›
+ 6.Spartak 1918 (Varna)               30  14  6 10  39-38  48  [P]                    ‹Second Group, see §elpo›
+ 7.CSKA-Sofia (Sofija)                30  13  8  9  40-27  47                         ‹Second Group, see §elpo›
+ 8.Beroe (Stara Zagora)               30  12  6 12  34-29  42  [2 1 0 1 2-2 3; 1 ag]  ‹Second Group, see §elpo›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Slavija 1913 (Sofija)              30  12  6 12  43-42  42  [2 1 0 1 2-2 3; 0 ag]  ‹Third Group, see §releg›
+10.CSKA 1948 (Sofija)                 30   8 10 12  38-44  34                         ‹Third Group, see §releg›
+11.Septemvri (Sofija)                 30  10  3 17  32-47  33  [P]                    ‹Third Group, see §releg›
+12.Lokomotiv 1929 (Sofija)            30   8  6 16  29-49  30  [2 1 1 0 2-0 4]        ‹Third Group, see §releg›
+13.Krumovgrad (Krumovgrad)            30   7  9 14  16-31  30  [2 0 1 1 0-2 1]        ‹Third Group, see §releg›
+14.Lokomotiv 1926 (Plovdiv)           30   7  7 16  27-40  28                         ‹Third Group, see §releg›
+15.Botev (Vratsa)                     30   5  6 19  24-57  21                         ‹Third Group, see §releg›
+16.Hebar 1918 (Pazardzhik)            30   3  8 19  23-52  17                         ‹Third Group, see §releg›
+
+Playoff Stage  ‹§play›
+
+‹First Group, see §champ› | ‹Second Group, see §elpo› | ‹Third Group, see §releg›
+
+First Group  ‹§champ›
+
+Final Table:
+
+ 1.Ludogorets 1945 (Razgrad)          36  25  8  3  70-22  83  [C]  Champions
+ 2.Levski (Sofija)                    36  21  9  6  64-29  72
+ 3.Cherno more (Varna)                36  15 14  7  44-30  59
+ 4.Arda 1924 (Kardzhali)              36  15 13  8  54-41  58       ‹Conference League Playoff, see §conf›
+
+Round 31
+[Apr 26]
+Levski             1-1 Arda
+[Apr 27]
+Ludogorets         2-0 Cherno more
+
+Round 32
+[May 3]
+Ludogorets         1-1 Levski
+[May 4]
+Cherno more        1-1 Arda
+
+Round 33
+[May 9]
+Arda               1-1 Ludogorets
+[May 10]
+Levski             2-0 Cherno more
+
+Round 34
+[May 13]
+Cherno more        2-0 Ludogorets
+[May 14]
+Arda               0-3 Levski
+
+Round 35
+[May 17]
+Levski             2-2 Ludogorets
+[May 18]
+Arda               0-0 Cherno more
+
+Round 36 [May 26]
+Cherno more        0-0 Levski
+Ludogorets         2-2 Arda
+
+Final Table:
+
+ 1.Ludogorets 1945 (Razgrad)          36  25  8  3  70-22  83  [C]  Champions
+ 2.Levski (Sofija)                    36  21  9  6  64-29  72
+ 3.Cherno more (Varna)                36  15 14  7  44-30  59
+ 4.Arda 1924 (Kardzhali)              36  15 13  8  54-41  58       ‹Conference League Playoff, see §conf›
+
+Conference League Playoff  ‹§conf›
+
+[May 31]
+Arda               1-1 CSKA               [4-1 pen]
+
+Second Group  ‹§elpo›
+
+Final Table:
+
+ 5.CSKA-Sofia (Sofija)                36  19  8  9  58-28  65       ‹Conference League Playoff, see §conf›
+ 6.Botev (Plovdiv)                    36  16  8 12  43-43  56
+ 7.Spartak 1918 (Varna)               36  15  6 15  45-53  51  [P]
+ 8.Beroe (Stara Zagora)               36  14  7 15  41-43  49
+
+Round 31
+[Apr 26]
+Spartak V          0-1 CSKA
+[Apr 27]
+Botev P            1-1 Beroe
+
+Round 32
+[May 3]
+Beroe              0-3 CSKA
+[May 4]
+Botev P            3-2 Spartak V
+
+Round 33
+[May 9]
+CSKA               3-0 Botev P
+[May 10]
+Spartak V          1-2 Beroe
+
+Round 34
+[May 13]
+CSKA               5-0 Spartak V
+[May 14]
+Beroe              0-6 Botev P
+
+Round 35
+[May 17]
+CSKA               2-1 Beroe
+[May 18]
+Spartak V          2-1 Botev P
+
+Round 36 [May 26]
+Botev P            0-4 CSKA
+Beroe              3-1 Spartak V
+
+Final Table:
+
+ 5.CSKA-Sofia (Sofija)                36  19  8  9  58-28  65       ‹Conference League Playoff, see §conf›
+ 6.Botev (Plovdiv)                    36  16  8 12  43-43  56
+ 7.Spartak 1918 (Varna)               36  15  6 15  45-53  51  [P]
+ 8.Beroe (Stara Zagora)               36  14  7 15  41-43  49
+
+Third Group  ‹§releg›
+
+Final Table:
+
+ 9.Slavija 1913 (Sofija)              37  14  7 16  50-52  49
+10.Lokomotiv 1929 (Sofija)            37  13  8 16  43-51  47       [2 1 1 0 4-1 4]
+11.CSKA 1948 (Sofija)                 37  12 11 14  45-47  47       [2 0 1 1 1-4 1]
+12.Septemvri (Sofija)                 37  14  3 20  42-56  45  [P]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+13.Lokomotiv 1926 (Plovdiv)           37  10  8 19  37-49  38       ‹Relegation Playoff, see §prorel›
+14.Botev (Vratsa)                     37  10  6 21  34-65  36       ‹Relegation Playoff, see §prorel›
+-------------------------------------------------------------
+15.Krumovgrad (Krumovgrad)            37   8  9 20  20-45  33       Relegated
+16.Hebar 1918 (Pazardzhik)            37   4  9 24  28-64  21       Relegated
+
+NB: first tie-breaker head-to-head results in regular stage
+
+Round 31
+[Apr 25]
+Slavija            3-2 Hebar
+Lokomotiv S        3-0 Krumovgrad
+[Apr 28]
+Septemvri          2-0 Lokomotiv P
+CSKA 1948          0-1 Botev V
+
+Round 32
+[May 1]
+Hebar              1-3 Krumovgrad
+[May 2]
+Botev V            3-2 Septemvri
+Slavija            0-1 CSKA 1948
+Lokomotiv P        1-1 Lokomotiv S
+
+Round 33
+[May 6]
+Krumovgrad         0-4 Lokomotiv P
+Septemvri          3-1 Slavija
+[May 7]
+CSKA 1948          0-0 Hebar
+Lokomotiv S        3-0 Botev V
+
+Round 34
+[May 10]
+Slavija            0-0 Lokomotiv S
+[May 11]
+Hebar              1-2 Lokomotiv P
+Botev V            1-0 Krumovgrad
+CSKA 1948          2-0 Septemvri
+
+Round 35
+[May 14]
+Lokomotiv S        2-1 CSKA 1948
+[May 15]
+Krumovgrad         0-1 Slavija
+Lokomotiv P        1-3 Botev V
+Septemvri          1-0 Hebar
+
+Round 36
+[May 19]
+CSKA 1948          2-0 Krumovgrad
+Slavija            1-2 Lokomotiv P
+[May 20]
+Hebar              1-0 Botev V
+Septemvri          0-2 Lokomotiv S
+
+Round 37 [May 25]
+Botev V            2-1 Slavija
+Krumovgrad         1-2 Septemvri
+Lokomotiv P        0-1 CSKA 1948
+Lokomotiv S        3-0 Hebar
+
+Final Table:
+
+ 9.Slavija 1913 (Sofija)              37  14  7 16  50-52  49
+10.Lokomotiv 1929 (Sofija)            37  13  8 16  43-51  47       [2 1 1 0 4-1 4]
+11.CSKA 1948 (Sofija)                 37  12 11 14  45-47  47       [2 0 1 1 1-4 1]
+12.Septemvri (Sofija)                 37  14  3 20  42-56  45  [P]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+13.Lokomotiv 1926 (Plovdiv)           37  10  8 19  37-49  38       ‹Relegation Playoff, see §prorel›
+14.Botev (Vratsa)                     37  10  6 21  34-65  36       ‹Relegation Playoff, see §prorel›
+-------------------------------------------------------------
+15.Krumovgrad (Krumovgrad)            37   8  9 20  20-45  33       Relegated
+16.Hebar 1918 (Pazardzhik)            37   4  9 24  28-64  21       Relegated
+
+NB: first tie-breaker head-to-head results in regular stage
+
+Promotion/Relegation Playoff  ‹§prorel›
+
+[May 29]
+Botev V            1-0 Pirin 22
+[May 30]
+Lokomotiv P        3-0 Marek 1915
+
+NB: all remain at former level
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Kupa  ‹§kupa›
+
+<!-- start pre -->
+1/8 Finals
+[Dec 13]
+Lokomotiv Mezdra   0-1 Botev V
+Beroe              2-0 Lokomotiv P
+[Dec 14]
+Cherno more        1-0 Slavija
+Levski             1-0 Dunav ot Ruse
+[Dec 15]
+Lokomotiv S        1-5 Botev P
+Spartak V          2-3 CSKA
+[Dec 16]
+Krumovgrad         0-2 Arda
+CSKA 1948          2-3 Ludogorets
+
+Quarterfinals
+[Feb 25]
+Botev V            0-0 Beroe              [aet, 4-2 pen]
+[Feb 26]
+Cherno more        1-0 Levski
+CSKA               2-1 Arda
+[Feb 27]
+Ludogorets         0-0 Botev P            [aet, 4-2 pen]
+
+Semifinals
+
+First Legs
+[Apr 9]
+Cherno more        0-0 CSKA
+[Apr 10]
+Botev V            0-1 Ludogorets
+
+Second Legs
+[Apr 22]
+CSKA               2-1 Cherno more
+[Apr 23]
+Ludogorets         2-0 Botev V
+
+Final [May 22]
+Ludogorets         1-0 CSKA
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Vtora profesionalna liga  ‹§bfg›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Dobrudzha 1919 (Dobrich)           38  25 10  3  75-22  85       Promoted
+ 2.Montana 1921 (Montana)             38  22 12  4  53-15  78       Promoted
+-------------------------------------------------------------
+ 3.Pirin 22 (Blagoevgrad)             38  21  9  8  55-41  72  [R]  ‹Promotion Playoff, see §prorel›
+ 4.Marek 1915 (Dupnitsa)              38  18 11  9  44-31  65       ‹Promotion Playoff, see §prorel›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.Jantra 2019 (Gabrovo)              38  18 10 10  59-37  64       [2 1 1 0 2-1 4]
+ 6.Dunav ot Ruse (Ruse)               38  17 13  8  52-35  64       [2 0 1 1 1-2 1]
+ 7.Etar VT (Veliko Tarnovo)           38  15 11 12  51-40  56  [R]  [2 1 0 1 4-2 3]
+ 8.Belasitsa (Petrich)                38  16  8 14  42-45  56       [2 1 0 1 2-4 3]
+ 9.CSKA 1948 II (Sofija)              38  16  4 18  51-53  52       [2 2 0 0 4-1 6]
+10.Lokomotiv (Gorna Orjahovitsa)      38  15  7 16  41-41  52  [P]  [2 0 0 2 1-4 0]
+11.Spartak (Pleven)                   38  14  9 15  35-43  51       [2 1 0 1 4-3 3]
+12.Ludogorets 1945 II (Razgrad)       38  13 12 13  53-42  51       [2 1 0 1 3-4 3]
+13.CSKA-Sofia II (Sofija)             38  12 13 13  47-41  49  [P]
+14.Fratriya (Benkovski)               38  13  9 16  45-50  48  [P]
+15.Minyor (Pernik)                    38  11  8 19  36-56  41  [P]
+16.Sportist 2009 (Svoge)              38   8 13 17  22-40  37
+-------------------------------------------------------------
+17.Lovech (Lovech)                    38   8  9 21  19-45  33  [*]  Relegated
+18.Botev II (Plovdiv)                 38   8  5 25  33-70  29  [P]  Relegated
+19.Nesebar (Nesebar)                  38   5 13 20  28-63  28  [P]  Relegated  [2 0 2 0 1-1 2, 1 ag]
+20.Strumska slava 1927 (Radomir)      38   4 16 18  23-54  28       Relegated  [2 0 2 0 1-1 2, 0 ag]
+
+[*] Litex (Lovech) were renamed Lovech
+
+Promoted: Septemvri 98 (Tervel), Sevlievo (Sevlievo), Vihren (Sandanski), Chernomorets 1919 (Burgas);
+          however, Septemvri 98 declined promotion
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page bulg2024›.
+
+‹list of champions, see page bulgchamp›.
+
+‹list of final tables, see page bulghist›.
+
+‹all-time table, see page bulgalltime›.
+
+‹list of cup finals, see page bulgcuphist›.
+
+‹list of topscorers, see page bulgtops›.
+
+‹list of name changes, see page bulg-names›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Thanks to Martin Arenlind
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+Last updated: 14 Dec 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

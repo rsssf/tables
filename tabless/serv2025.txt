@@ -1,0 +1,668 @@
+  <!--
+     source: https://rsssf.org/tabless/serv2025.html
+    -->
+  
+
+
+== Serbia 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Superliga, see §super›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Superliga  ‹§super›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.Crvena zvezda (Beograd)     30  28  2  0 106-22  86  [C]  Champions, ‹Championship Playoff, see §champ›
+ 2.Partizan (Beograd)          30  18  9  3  58-29  63       ‹Championship Playoff, see §champ›
+ 3.OFK Beograd                 30  13  7 10  40-39  46  [P]  ‹Championship Playoff, see §champ›
+ 4.Radnički 1923 (Kragujevac)  30  13  6 11  47-40  45       ‹Championship Playoff, see §champ›
+ 5.Vojvodina (Novi Sad)        30  11  9 10  48-40  42 [3-1] ‹Championship Playoff, see §champ›
+ 6.Mladost (Lučani)            30  11  9 10  32-35  42 [1-3] ‹Championship Playoff, see §champ›
+ 7.TSC (Bačka Topola)          30  12  5 13  47-44  41       ‹Championship Playoff, see §champ›
+ 8.Novi Pazar (Novi Pazar)     30  11  7 12  46-54  40       ‹Championship Playoff, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Čukarički (Beograd)         30  10  9 11  37-40  39       ‹Relegation Playoff, see §releg›
+10.IMT (Novi Beograd)          30  10  7 13  37-46  37       ‹Relegation Playoff, see §releg›
+11.Železničar (Pančevo)        30   9  8 13  37-37  35 [3-2] ‹Relegation Playoff, see §releg›
+12.Napredak (Kruševac)         30   9  8 13  29-40  35 [2-3] ‹Relegation Playoff, see §releg›
+13.Spartak (Subotica)          30   8 10 12  26-40  34       ‹Relegation Playoff, see §releg›
+14.Radnički (Niš)              30   8  8 14  40-59  32       ‹Relegation Playoff, see §releg›
+15.Tekstilac (Odžaci)          30   9  4 17  25-52  31  [P]  ‹Relegation Playoff, see §releg›
+16.Jedinstvo (Ub)              30   4  4 22  22-60  16  [P]  ‹Relegation Playoff, see §releg›
+
+Round 1
+[Jul 19]
+Radnički K      2-3 Železničar P
+Napredak K      0-1 Partizan
+[Jul 20]
+Crvena zvezda   4-0 Jedinstvo
+Čukarički       2-0 Radnički N
+Mladost L       1-2 OFK Beograd
+[Jul 21]
+Novi Pazar      3-2 Spartak S
+Tekstilac       1-3 Vojvodina
+TSC             1-0 IMT
+
+Round 2
+[Jul 27]
+Crvena zvezda   2-2 Mladost L
+Železničar P    1-1 Napredak K
+Jedinstvo       0-4 Partizan
+[Jul 28]
+Spartak S       1-1 Čukarički
+Radnički N      1-0 TSC
+[Jul 29]
+OFK Beograd     1-0 Tekstilac
+[Sep 18]
+IMT             0-4 Radnički K
+[Oct 2]
+Vojvodina       0-1 Novi Pazar
+
+Round 3
+[Aug 2]
+Napredak K      1-1 IMT
+[Aug 3]
+Novi Pazar      0-0 OFK Beograd
+Mladost L       2-1 Jedinstvo
+Tekstilac       0-4 Crvena zvezda
+[Aug 4]
+TSC             0-0 Spartak S
+Čukarički       3-1 Vojvodina
+Partizan        2-0 Železničar P
+Radnički K      4-0 Radnički N
+
+Round 4
+[Aug 9]
+OFK Beograd     1-2 Čukarički
+Radnički N      3-1 Napredak K
+[Aug 10]
+Crvena zvezda   4-1 Novi Pazar
+Mladost L       1-2 Tekstilac
+Spartak S       1-0 Radnički K
+[Aug 11]
+Jedinstvo       0-1 Železničar P
+IMT             0-0 Partizan
+Vojvodina       1-3 TSC
+
+Round 5
+[Aug 15]
+Čukarički       1-4 Crvena zvezda
+[Aug 16]
+TSC             0-1 OFK Beograd
+[Aug 17]
+Novi Pazar      0-1 Mladost L
+Napredak K      2-0 Spartak S
+Tekstilac       1-1 Jedinstvo
+[Aug 18]
+Železničar P    2-1 IMT
+[Aug 19]
+Radnički K      2-2 Vojvodina
+[Dec 4]
+Partizan        3-1 Radnički N
+
+Round 6
+[Aug 23]
+Mladost L       3-1 Čukarički
+[Aug 24]
+Radnički N      2-1 Železničar P
+Tekstilac       2-1 Novi Pazar
+Jedinstvo       2-3 IMT
+[Aug 25]
+OFK Beograd     3-5 Radnički K
+Vojvodina       1-2 Napredak K
+[Dec 4]
+Crvena zvezda   3-1 TSC
+[Dec 12]
+Spartak S       2-1 Partizan
+
+Round 7
+[Aug 30]
+IMT             3-1 Radnički N
+Čukarički       3-0 Tekstilac
+[Aug 31]
+Novi Pazar      3-1 Jedinstvo
+Železničar P    2-0 Spartak S
+Napredak K      1-3 OFK Beograd
+[Sep 1]
+Radnički K      0-1 Crvena zvezda
+TSC             1-2 Mladost L
+Partizan        0-0 Vojvodina
+
+Round 8
+[Sep 13]
+Spartak S       2-0 IMT
+[Sep 14]
+Vojvodina       2-0 Železničar P
+Crvena zvezda   2-0 Napredak K
+Mladost L       2-1 Radnički K
+[Sep 15]
+Novi Pazar      2-2 Čukarički
+OFK Beograd     3-2 Partizan
+Tekstilac       2-1 TSC
+[Sep 16]
+Jedinstvo       0-2 Radnički N
+
+Round 9
+[Sep 21]
+Čukarički       2-1 Jedinstvo
+TSC             5-2 Novi Pazar
+Napredak K      1-2 Mladost L
+[Sep 22]
+IMT             0-3 Vojvodina
+Radnički N      3-2 Spartak S
+Železničar P    0-1 OFK Beograd
+[Sep 23]
+Radnički K      1-0 Tekstilac
+Partizan        0-4 Crvena zvezda
+
+Round 10
+[Sep 27]
+Crvena zvezda   2-1 Železničar P
+[Sep 28]
+OFK Beograd     4-3 IMT
+Čukarički       1-2 TSC
+Novi Pazar      2-0 Radnički K
+Vojvodina       3-3 Radnički N
+[Sep 29]
+Tekstilac       0-0 Napredak K
+Mladost L       1-3 Partizan
+Jedinstvo       2-0 Spartak S
+
+Round 11
+[Oct 4]
+Radnički N      1-1 OFK Beograd
+[Oct 5]
+Radnički K      1-1 Čukarički
+Železničar P    1-2 Mladost L
+Partizan        4-1 Tekstilac
+[Oct 6]
+Napredak K      2-1 Novi Pazar
+IMT             1-3 Crvena zvezda
+Spartak S       0-4 Vojvodina
+TSC             2-0 Jedinstvo
+
+Round 12
+[Oct 18]
+Crvena zvezda   5-1 Radnički N
+Čukarički       0-0 Napredak K
+TSC             0-2 Radnički K
+[Oct 19]
+OFK Beograd     1-1 Spartak S
+Tekstilac       0-2 Železničar P
+Jedinstvo       1-1 Vojvodina
+[Oct 20]
+Mladost L       1-0 IMT
+[Oct 21]
+Novi Pazar      3-4 Partizan
+
+Round 13
+[Oct 25]
+IMT             3-0 Tekstilac
+Radnički K      4-0 Jedinstvo
+[Oct 26]
+Partizan        3-1 Čukarički
+Spartak S       1-5 Crvena zvezda
+Železničar P    0-1 Novi Pazar
+Vojvodina       2-1 OFK Beograd
+[Oct 27]
+Napredak K      0-3 TSC
+Radnički N      1-1 Mladost L
+
+Round 14
+[Nov 3]
+Novi Pazar      3-1 IMT
+Tekstilac       1-3 Radnički N
+Crvena zvezda   3-0 Vojvodina
+Radnički K      1-0 Napredak K
+TSC             1-2 Partizan
+[Nov 4]
+Mladost L       0-0 Spartak S
+Čukarički       2-0 Železničar P
+Jedinstvo       0-1 OFK Beograd
+
+Round 15
+[Nov 9]
+Radnički N      2-1 Novi Pazar
+IMT             1-1 Čukarički
+Spartak S       1-0 Tekstilac
+Vojvodina       0-0 Mladost L
+[Nov 10]
+Napredak K      2-1 Jedinstvo
+Železničar P    3-3 TSC
+Partizan        2-2 Radnički K
+OFK Beograd     0-1 Crvena zvezda
+
+Round 16
+[Nov 23]
+Radnički N      2-2 Čukarički
+Spartak S       1-1 Novi Pazar
+Vojvodina       0-0 Tekstilac
+[Nov 24]
+OFK Beograd     0-0 Mladost L
+Partizan        0-0 Napredak K
+Železničar P    1-1 Radnički K
+[Dec 18]
+Jedinstvo       0-4 Crvena zvezda
+[Dec 26]
+IMT             0-2 TSC
+
+Round 17
+[Nov 29]
+Novi Pazar      0-4 Vojvodina
+Čukarički       1-2 Spartak S
+Tekstilac       2-0 OFK Beograd
+[Nov 30]
+Napredak K      1-2 Železničar P
+Radnički K      1-3 IMT
+Partizan        3-0 Jedinstvo
+Mladost L       0-2 Crvena zvezda
+[Dec 1]
+TSC             4-1 Radnički N
+
+Round 18
+[Dec 7]
+Crvena zvezda   6-0 Tekstilac
+[Dec 8]
+Jedinstvo       1-2 Mladost L
+Vojvodina       0-1 Čukarički
+Spartak S       0-0 TSC
+Železničar P    0-1 Partizan
+[Dec 9]
+OFK Beograd     1-1 Novi Pazar
+IMT             3-2 Napredak K
+Radnički N      1-2 Radnički K
+
+Round 19
+[Dec 14]
+Tekstilac       1-0 Mladost L
+Železničar P    6-0 Jedinstvo
+[Dec 15]
+Napredak K      2-1 Radnički N
+Čukarički       0-1 OFK Beograd
+Novi Pazar      1-7 Crvena zvezda
+TSC             1-3 Vojvodina
+[Dec 16]
+Radnički K      2-0 Spartak S
+Partizan        1-1 IMT
+
+Round 20
+[Dec 20]
+Mladost L       1-3 Novi Pazar
+[Dec 21]
+IMT             1-1 Železničar P
+Vojvodina       3-2 Radnički K
+Radnički N      0-1 Partizan
+[Dec 22]
+Jedinstvo       1-0 Tekstilac
+Crvena zvezda   5-2 Čukarički
+Spartak S       0-2 Napredak K
+[Dec 23]
+OFK Beograd     2-2 TSC
+
+Round 21
+[Jan 31]
+Napredak K      1-1 Vojvodina
+[Feb 1]
+Čukarički       0-0 Mladost L
+Novi Pazar      2-3 Tekstilac
+Partizan        2-2 Spartak S
+[Feb 2]
+IMT             2-0 Jedinstvo
+TSC             1-2 Crvena zvezda
+Železničar P    0-0 Radnički N
+[Feb 3]
+Radnički K      2-0 OFK Beograd
+
+Round 22
+[Feb 7]
+Tekstilac       0-1 Čukarički
+[Feb 8]
+Mladost L       4-1 TSC
+Crvena zvezda   6-0 Radnički K
+Vojvodina       0-0 Partizan
+[Feb 9]
+Jedinstvo       0-1 Novi Pazar
+OFK Beograd     0-2 Napredak K
+Radnički N      3-0 IMT
+Spartak S       0-0 Železničar P
+
+Round 23
+[Feb 15]
+IMT             1-2 Spartak S
+Partizan        4-1 OFK Beograd
+Napredak K      0-4 Crvena zvezda
+[Feb 16]
+Radnički K      1-0 Mladost L
+Radnički N      1-4 Jedinstvo
+TSC             1-2 Tekstilac
+[Feb 17]
+Čukarički       1-1 Novi Pazar
+Železničar P    1-1 Vojvodina
+
+Round 24
+[Feb 21]
+Spartak S       1-1 Radnički N
+Tekstilac       0-1 Radnički K
+[Feb 22]
+Vojvodina       0-1 IMT
+Crvena zvezda   3-3 Partizan
+[Feb 23]
+Mladost L       1-0 Napredak K
+Jedinstvo       0-1 Čukarički
+[Feb 24]
+Novi Pazar      2-1 TSC
+[Mar 12]
+OFK Beograd     1-2 Železničar P
+
+Round 25
+[Feb 26]
+Spartak S       1-0 Jedinstvo
+Železničar P    1-3 Crvena zvezda
+Partizan        2-0 Mladost L
+Radnički N      1-4 Vojvodina
+IMT             1-1 OFK Beograd
+[Feb 27]
+Napredak K      1-1 Tekstilac
+Radnički K      2-0 Novi Pazar
+TSC             2-1 Čukarički
+
+Round 26
+[Mar 2]
+OFK Beograd     2-0 Radnički N
+Tekstilac       1-4 Partizan
+Crvena zvezda   4-0 IMT
+Vojvodina       1-3 Spartak S
+[Mar 3]
+Jedinstvo       4-1 TSC
+Novi Pazar      2-0 Napredak K
+Mladost L       1-1 Železničar P
+Čukarički       1-1 Radnički K
+
+Round 27
+[Mar 7]
+Spartak S       0-1 OFK Beograd
+Železničar P    3-0 Tekstilac
+[Mar 8]
+Napredak K      2-1 Čukarički
+Radnički N      0-3 Crvena zvezda
+Partizan        3-2 Novi Pazar
+Radnički K      1-3 TSC
+[Mar 9]
+IMT             3-0 Mladost L
+Vojvodina       1-0 Jedinstvo
+
+Round 28
+[Mar 14]
+Jedinstvo       2-2 Radnički K
+[Mar 15]
+Tekstilac       1-2 IMT
+[Mar 16]
+TSC             4-2 Napredak K
+Crvena zvezda   2-1 Spartak S
+OFK Beograd     3-1 Vojvodina
+Čukarički       0-1 Partizan
+Mladost L       1-1 Radnički N
+[Mar 17]
+Novi Pazar      3-1 Železničar P
+
+Round 29
+[Mar 28]
+IMT             0-0 Novi Pazar
+[Mar 29]
+Radnički N      1-2 Tekstilac
+Partizan        0-0 TSC
+Vojvodina       3-5 Crvena zvezda
+Napredak K      1-0 Radnički K
+[Mar 30]
+OFK Beograd     3-0 Jedinstvo
+Spartak S       0-0 Mladost L
+Železničar P    1-2 Čukarički
+
+Round 30
+[Apr 5]
+Tekstilac       2-0 Spartak S
+[Apr 6]
+Radnički K      0-2 Partizan
+Crvena zvezda   3-1 OFK Beograd
+Jedinstvo       0-0 Napredak K
+[Apr 7]
+Čukarički       0-2 IMT
+Mladost L       1-3 Vojvodina
+Novi Pazar      3-3 Radnički N
+TSC             1-0 Železničar P
+
+Final Table:
+
+ 1.Crvena zvezda (Beograd)     30  28  2  0 106-22  86  [C]  Champions, ‹Championship Playoff, see §champ›
+ 2.Partizan (Beograd)          30  18  9  3  58-29  63       ‹Championship Playoff, see §champ›
+ 3.OFK Beograd                 30  13  7 10  40-39  46  [P]  ‹Championship Playoff, see §champ›
+ 4.Radnički 1923 (Kragujevac)  30  13  6 11  47-40  45       ‹Championship Playoff, see §champ›
+ 5.Vojvodina (Novi Sad)        30  11  9 10  48-40  42 [3-1] ‹Championship Playoff, see §champ›
+ 6.Mladost (Lučani)            30  11  9 10  32-35  42 [1-3] ‹Championship Playoff, see §champ›
+ 7.TSC (Bačka Topola)          30  12  5 13  47-44  41       ‹Championship Playoff, see §champ›
+ 8.Novi Pazar (Novi Pazar)     30  11  7 12  46-54  40       ‹Championship Playoff, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Čukarički (Beograd)         30  10  9 11  37-40  39       ‹Relegation Playoff, see §releg›
+10.IMT (Novi Beograd)          30  10  7 13  37-46  37       ‹Relegation Playoff, see §releg›
+11.Železničar (Pančevo)        30   9  8 13  37-37  35 [3-2] ‹Relegation Playoff, see §releg›
+12.Napredak (Kruševac)         30   9  8 13  29-40  35 [2-3] ‹Relegation Playoff, see §releg›
+13.Spartak (Subotica)          30   8 10 12  26-40  34       ‹Relegation Playoff, see §releg›
+14.Radnički (Niš)              30   8  8 14  40-59  32       ‹Relegation Playoff, see §releg›
+15.Tekstilac (Odžaci)          30   9  4 17  25-52  31  [P]  ‹Relegation Playoff, see §releg›
+16.Jedinstvo (Ub)              30   4  4 22  22-60  16  [P]  ‹Relegation Playoff, see §releg›
+
+Playoff Stage  ‹§play›
+
+‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
+
+Championship Playoff  ‹§champ›
+
+Final Table:
+
+ 1.Crvena zvezda (Beograd)     37  32  4  1 123-35 100  [C]        Champions
+ 2.Partizan (Beograd)          37  21 10  6  73-40  73
+ 3.Novi Pazar (Novi Pazar)     37  15  9 13  60-65  54
+ 4.OFK Beograd                 37  15  8 14  53-54  53  [P]
+ 5.Radnički 1923 (Kragujevac)  37  15  8 14  60-53  53
+ 6.Vojvodina (Novi Sad)        37  14 11 12  57-49  53
+ 7.TSC (Bačka Topola)          37  15  5 17  59-58  50
+ 8.Mladost (Lučani)            37  12 11 14  38-48  47
+
+Round 31
+[Apr 12]
+OFK Beograd     3-0 Radnički K
+Crvena zvezda   2-1 Partizan
+[Apr 13]
+TSC             1-2 Novi Pazar
+Vojvodina       3-1 Mladost L
+
+Round 32 [Apr 23]
+Novi Pazar      0-1 Vojvodina
+Mladost L       2-0 TSC
+Partizan        2-2 OFK Beograd
+Radnički K      4-1 Crvena zvezda
+
+Round 33
+[Apr 27]
+Crvena zvezda   5-2 OFK Beograd
+Partizan        3-1 Radnički K
+Vojvodina       0-3 TSC
+[Apr 28]
+Mladost L       1-1 Novi Pazar
+
+Round 34
+[May 2]
+OFK Beograd     1-2 Vojvodina
+[May 3]
+TSC             1-2 Crvena zvezda
+[May 4]
+Novi Pazar      2-1 Partizan
+Radnički K      1-1 Mladost L
+
+Round 35
+[May 10]
+Radnički K      2-3 Novi Pazar
+[May 11]
+OFK Beograd     1-0 Mladost L
+Crvena zvezda   1-1 Vojvodina
+Partizan        1-2 TSC
+
+Round 36 [May 17]
+Mladost L       0-4 Partizan
+Novi Pazar      3-3 Crvena zvezda
+Vojvodina       0-0 Radnički K
+TSC             3-2 OFK Beograd
+
+Round 37
+[May 24]
+Crvena zvezda   3-1 Mladost L
+[May 25]
+OFK Beograd     2-3 Novi Pazar
+Partizan        3-2 Vojvodina
+Radnički K      5-2 TSC
+
+Final Table:
+
+ 1.Crvena zvezda (Beograd)     37  32  4  1 123-35 100  [C]        Champions
+ 2.Partizan (Beograd)          37  21 10  6  73-40  73
+ 3.Novi Pazar (Novi Pazar)     37  15  9 13  60-65  54
+ 4.OFK Beograd                 37  15  8 14  53-54  53  [P]
+ 5.Radnički 1923 (Kragujevac)  37  15  8 14  60-53  53
+ 6.Vojvodina (Novi Sad)        37  14 11 12  57-49  53
+ 7.TSC (Bačka Topola)          37  15  5 17  59-58  50
+ 8.Mladost (Lučani)            37  12 11 14  38-48  47
+
+NB: first tie-breaker points in regular stage
+
+Relegation Playoff  ‹§releg›
+
+Final Table:
+
+ 9.Čukarički (Beograd)         37  12 13 12  47-49  49
+10.Železničar (Pančevo)        37  13 10 14  49-43  49
+11.IMT (Novi Beograd)          37  13  9 15  49-55  48
+12.Spartak (Subotica)          37  11 11 15  35-51  44
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+13.Radnički (Niš)              37  11 10 16  50-67  43             Relegation Playoff
+14.Napredak (Kruševac)         37  11  9 17  35-48  42             Relegation Playoff
+------------------------------------------------------
+15.Tekstilac (Odžaci)          37  11  4 22  33-65  31  [-6]  [P]  Relegated
+16.Jedinstvo (Ub)              37   7  4 26  32-73  25        [P]  Relegated
+
+NB: first tie-breaker points in regular stage;
+    Tekstilac 6 points deducted for "irregular match" against IMT
+
+Round 31
+[Apr 13]
+Čukarički       2-2 Radnički N
+IMT             2-4 Spartak S
+[Apr 14]
+Napredak K      0-1 Tekstilac
+Železničar P    3-1 Jedinstvo
+
+Round 32
+[Apr 22]
+Radnički N      1-1 IMT
+Tekstilac       0-1 Železničar P
+[Apr 24]
+Spartak S       2-1 Napredak K
+Jedinstvo       4-1 Čukarički
+
+Round 33
+[Apr 26]
+IMT             3-1 Tekstilac
+[Apr 28]
+Napredak K      1-0 Jedinstvo
+Čukarički       0-0 Spartak S
+Železničar P    1-2 Radnički N
+
+Round 34
+[May 3]
+Napredak K      0-1 Čukarički
+Radnički N      1-0 Tekstilac
+[May 4]
+IMT             0-1 Železničar P
+Jedinstvo       1-0 Spartak S
+
+Round 35
+[May 10]
+Tekstilac       2-3 Jedinstvo
+[May 11]
+Spartak S       1-0 Radnički N
+[May 12]
+Čukarički       1-1 IMT
+Železničar P    1-1 Napredak K
+
+Round 36 [May 18]
+Železničar P    3-0 Spartak S
+Jedinstvo       0-3 IMT
+Napredak K      2-1 Radnički N
+Tekstilac       0-3 Čukarički
+
+Round 37
+[May 23]
+Čukarički       2-2 Železničar P
+[May 24]
+IMT             2-1 Napredak K
+Spartak S       2-4 Tekstilac
+Radnički N      3-1 Jedinstvo
+
+Final Table:
+
+ 9.Čukarički (Beograd)         37  12 13 12  47-49  49
+10.Železničar (Pančevo)        37  13 10 14  49-43  49
+11.IMT (Novi Beograd)          37  13  9 15  49-55  48
+12.Spartak (Subotica)          37  11 11 15  35-51  44
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -
+13.Radnički (Niš)              37  11 10 16  50-67  43             Relegation Playoff
+14.Napredak (Kruševac)         37  11  9 17  35-48  42             Relegation Playoff
+------------------------------------------------------
+15.Tekstilac (Odžaci)          37  11  4 22  33-65  31  [-6]  [P]  Relegated
+16.Jedinstvo (Ub)              37   7  4 26  32-73  25        [P]  Relegated
+
+NB: first tie-breaker points in regular stage;
+    Tekstilac 6 points deducted for "irregular match" against IMT
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page serv2024›.
+
+‹list of champions, see page ../tablesj/joegchamp›.
+
+‹list of final tables, see page ../tablesj/joeghist›.
+
+‹list of cup winners, see page ../tablesj/joegcuphist›.
+
+‹list of topscorers, see page ../tablesj/joegtops›.
+
+‹all-time table since 1992, see page ../tablesj/joegalltime3›.
+
+‹2nd level all-time tables, see page ../tablesj/joeg2alltime›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 27 May 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

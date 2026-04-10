@@ -1,0 +1,146 @@
+  <!--
+     source: https://rsssf.org/tablesc/can2025.html
+    -->
+  
+
+
+== Canada 2025
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Canadian Championship 2025, see §amway›
+‹Canadian Premier League 2025, see §cpl›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Canadian Championship 2025  ‹§amway›
+
+<!-- start pre -->
+NB: no extra time played after draw
+
+Preliminary Round
+[Apr 29]
+Atlético Ottawa      2-0 Scrosoppi FC
+Cavalry FC           6-0 Edmonton Scottish
+[Apr 30]
+Toronto FC           2-2 Montréal CF          [2-3 pen]
+[May 6]
+York United          5-0 FC Laval
+Pacific FC           1-1 Vancouver FC         [2-4 pen]
+[May 7]
+Forge FC             3-1 HFX Wanderers
+Valour FC            1-0 TSS Rovers FC
+Vancouver Whitecaps  bye
+
+Quarterfinals
+
+First Legs
+[May 20]
+Forge FC             1-0 Montréal CF
+Valour FC            2-2 Vancouver Whitecaps
+[May 21]
+Vancouver FC         1-1 Cavalry FC
+[Jun 11]
+Atlético Ottawa      2-1 York United
+
+Second Legs
+[Jul 8]
+York United          3-4 Atlético Ottawa
+Cavalry FC           1-1 Vancouver FC         [4-5 pen]
+[Jul 9]
+Montréal CF          2-2 Forge FC
+Vancouver Whitecaps  2-1 Valour FC
+
+Semifinals
+
+First Legs [Aug 13]
+Forge FC             2-2 Vancouver Whitecaps
+Vancouver FC         3-1 Atlético Ottawa
+
+Second Legs
+[Aug 16]
+Vancouver Whitecaps  4-0 Forge FC
+[Aug 18]
+Atlético Ottawa      1-0 Vancouver FC
+
+Final [Oct 1, BC Place, Vancouver]
+Vancouver Whitecaps  4-2 Vancouver FC
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Canadian Premier League 2024  ‹§cpl›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.Forge FC (Hamilton)           28  16 10  2  51-22  58       ‹Preliminary Final, see §play›  [Ontario]
+ 2.Atlético Ottawa (Ottawa)      28  15 11  2  54-28  56       ‹Preliminary Final, see §play›  [Ontario]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Cavalry FC (Foothills County) 28  11  9  8  47-36  42  [C]  ‹Quarterfinal, see §play›       [Alberta]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.HFX Wanderers FC (Halifax)    28  11  6 11  41-34  39       ‹Qualifing Round, see §play›    [Nova Scotia]
+ 5.York United (Toronto)         28  10  8 10  43-38  38       ‹Qualifing Round, see §play›    [Ontario]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Valour FC (Winnipeg)          28   7  5 16  35-62  26                          [Manitoba]
+ 7.Pacific FC (Langford)         28   5  8 15  30-59  23                          [British Columbia]
+ 8.Vancouver FC (Langley)        28   4  9 15  35-57  21                          [British Columbia]
+
+Playoff Stage  ‹§play›
+
+Qualifing Round [Oct 23]
+HFX Wanderers        2-2 York United          [aet, 4-5 pen]
+
+Quarterfinal [Oct 26]
+Cavalry FC           4-1 York United
+
+Preliminary Final [Oct 26]
+Forge FC             1-2 Atlético Ottawa
+
+Semifinal [Nov 2]
+Forge FC             0-1 Cavalry FC
+
+Final [Nov 9]
+Atlético Ottawa      2-1 Cavalry FC           [aet]
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024, see page can2024›
+
+‹list of champions, see page canchamp›
+
+‹cpsl overview, see page ../usadave/cpslii›
+
+‹csl overview, see page ../usadave/csl2›
+
+‹list of winners canadian national challenge cup, see page ../usadave/cncc›
+
+‹list of university champions, see page canunichamp›
+
+‹list of champions and cup winners quebec, see page ../tablesq/quebechonours›
+
+‹list of cup winners newfoundland and labrador, see page can-nlcuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 14 Nov 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2025
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

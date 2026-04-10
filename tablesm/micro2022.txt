@@ -1,0 +1,136 @@
+  <!--
+     source: https://rsssf.org/tablesm/micro2022.html
+    -->
+  
+
+
+== Micronesia 2022
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Pohnpei, see §pohnpei› | ‹Yap, see §yap›
+
+NB: no data on Chuuk or Kosrae
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Pohnpei  ‹§pohnpei›
+
+<!-- start pre -->
+Pohnpei State League 2022
+
+NB: 3-2-1 points system
+
+Participants
+
+International A Football Club
+International B Football Club
+Chihuahua Football Club
+Pitbulls Football Club
+
+[Dec 2]
+Pitbulls             -  Chihuahua
+International A      -  International B
+
+[Dec 9]
+International B      -  Chihuahua
+International A      -  Pitbulls
+
+[Dec 12]
+International B      -  Pitbulls
+
+[Dec 14]
+Chihuahua            -  International A
+
+[Dec 18]
+Pitbulls             -  International A
+Chihuahua            -  International B
+
+Semifinals
+[Dec 21]
+Chihuahua           bt  International B
+[Dec 22]
+International A     lt  Pitbulls
+
+Final [Dec 26]
+Pitbulls            bt  Chihuahua
+
+Liberation Day Tournament 2022  ‹§libday›
+
+Group Stage
+
+Round 1
+[Aug 22]
+U                    -  Sokehs
+[Aug 24]
+Kolonia              -  Kitti
+
+Round 2
+[Aug 26]
+Kitti                -  U
+[Aug 29]
+Sokehs               -  Kolonia
+
+Round 3
+[Aug 31]
+Kitti                -  Sokehs
+[Sep 2]
+U                    -  Kolonia
+
+Final Standings:
+
+ 1.Sokehs
+ 2.U
+ 3.Kitti
+ 4.Kolonia
+
+Semifinals
+[Sep 7]
+U                   lt  Kitti
+[Sep 9]
+Sokehs              bt  Kolonia
+
+Third Place Match [Sep 9]
+U                   awd Kolonia             [awarded to U; Kolonia dns]
+
+Final [Sep 9]
+Sokehs              bt  Kitti
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Yap  ‹§yap›
+
+<!-- start pre -->
+Yap Games 2022  ‹§yapg›
+
+Start: Jun 24
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2021, see page micro2021›
+
+‹2023, see page micro2023›
+
+‹palmares, see page micropalm›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Source: Pohnpei Soccer Association
+
+Prepared and maintained by Carlos Santos and Hans Schöggl for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Authors: Carlos Santos and Hans Schöggl
+
+Last updated: 11 Jul 2023
+
+
+(C) Copyright Carlos Santos, Hans Schöggl and RSSSF 2022/23
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.

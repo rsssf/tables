@@ -1,0 +1,313 @@
+  <!--
+     source: https://rsssf.org/tablesf/far2026.html
+    -->
+  
+
+
+== Faroe Islands 2026
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Betrideildin, see §voda›
+‹1. deild, see §1d›
+‹2. deild, see §2d›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Betrideildin  ‹§voda›
+
+<!-- start pre -->
+Table:
+
+ 1.AB               2   2  0  0   5- 0   6  [P]
+ 2.HB               2   2  0  0   4- 1   6
+ 3.KÍ               2   1  1  0   6- 2   4  [C]
+ 4.B36              2   1  1  0   2- 1   4
+ 5.NSÍ              2   1  1  0   2- 1   4
+ 6.B68              2   1  0  1   2- 3   3
+ 7.Víkingur         2   0  1  1   0- 1   1
+ 8.Skála            2   0  0  2   2- 4   0  [P]
+------------------------------------------
+ 9.EB/Streymur      2   0  0  2   1- 5   0
+10.07 Vestur        2   0  0  2   1- 7   0
+
+Round 1
+[Mar 7]
+AB            2-0 B68
+  [Obule Sunday  Moses 9, Ragnar Skala 50]
+[Mar 8]
+B36           2- EB/Streymur
+  [Torgeir Borven 50, Boubacar Sidik Dabo 79; Virgar Jonsson 89]
+NSÍ           1-0 Víkingur
+  [Michal Danian Przybylski 66]
+Skála         1-2 HB
+  [Jakup Pauli Frederiksberg 90+4; Storm Even Bugge Pettersen 26,
+   Jakup Ludvig Thomsen 87]
+07 Vestur     1-5 KÍ
+  [Jasper Van Der Heyden 86; Filip Brattbakk 17, Daniel Johansen 24,
+   Patrik Johannesen 47, 52, Arni Frederiksberg 50]
+
+Round 2
+[Mar 13]
+Víkingur      0-0 B36
+[Mar 15]
+B68           2-1 Skála
+  [Issah Ahmed Latif 11, Hanus Hojgaard 87; Simon Jorgensen 62]
+EB/Streymur   0-3 AB
+  [Brian Jakobsen 21, Gunnar Reynslag 44, Sorin Nygaard Samuelsen 56]
+HB            2-0 07 Vestur
+  [Storm Even Bugge Pettersen 2, Oliver Klemensen BrendstrupBodker 25og]
+KÍ            1-1 NSÍ
+  [Pall Andrasson Klettskard 32; Petur Knudsen 51]
+
+Round 3
+[Mar 20]
+EB/Streymur    -  KÍ
+[Mar 22]
+B36            -  B68
+NSÍ            -  AB
+Víkingur       -  HB
+07 Vestur      -  Skála
+
+Table:
+
+ 1.AB               2   2  0  0   5- 0   6  [P]
+ 2.HB               2   2  0  0   4- 1   6
+ 3.KÍ               2   1  1  0   6- 2   4  [C]
+ 4.B36              2   1  1  0   2- 1   4
+ 5.NSÍ              2   1  1  0   2- 1   4
+ 6.B68              2   1  0  1   2- 3   3
+ 7.Víkingur         2   0  1  1   0- 1   1
+ 8.Skála            2   0  0  2   2- 4   0  [P]
+------------------------------------------
+ 9.EB/Streymur      2   0  0  2   1- 5   0
+10.07 Vestur        2   0  0  2   1- 7   0
+
+Round 4
+[Apr 4]
+B68            -  NSÍ
+[Apr 6]
+AB             -  07 Vestur
+HB             -  B36
+KÍ             -  Víkingur
+Skála          -  EB/Streymur
+
+Round 5 [Apr 12]
+B36            -  Skála
+EB/Streymur    -  HB
+KÍ             -  B68
+NSÍ            -  07 Vestur
+Víkingur       -  AB
+
+Round 6 [Apr 19]
+AB             -  KÍ
+B68            -  HB
+NSÍ            -  EB/Streymur
+Skála          -  Víkingur
+07 Vestur      -  B36
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== 1. deild  ‹§1d›
+
+<!-- start pre -->
+Table:
+
+ 1.FC Suðuroy       2   2  0  0   8- 2   6  [R]
+ 2.Víkingur II      2   2  0  0   7- 3   6
+------------------------------------------
+ 3.B36 II           2   1  1  0   4- 2   4
+ 4.TB               2   1  1  0   4- 3   4  [R]
+ 5.ÍF               2   1  0  1   5- 6   3
+ 6.FC Hoyvík        2   1  0  1   5- 7   3  [P]
+ 7.NSÍ II           2   0  1  1   4- 5   1
+ 8.HB II            2   0  1  1   1- 5   1  [P]
+------------------------------------------
+ 9.B71              2   0  0  2   3- 5   0
+10.EB/Streymur II   2   0  0  2   3- 6   0
+
+Round 1
+[Mar 7]
+B71           1-2 FC Suðuroy
+  [Lucas Orneborg 45; Alexander Holm Kilgour 61, 64]
+Hoyvík        1-4 Víkingur II
+  [Roi Jacobsen 49; Fridi a Borg 33og, Rosing Sverrason Toyt 34,
+   Rani Hansen 51, 74]
+ÍF            4-0 HB II
+  [Joan Petur Samson Jonsson 28, Teit Hjelm 59, 61, Kari Johannesen 83]
+TB            1-1 NSÍ II
+  [Musah Armah 27; Jogvan Hojgaard 45]
+[Mar 8]
+B36 II        3-1 EB/Str'mur II
+  [Tobias Hansen 68, 76, Marius Arting Allansson 90;
+   Mathias Eikholm Andersen 20]
+
+Round 2
+[Mar 12]
+Víkingur II   3-2 B71
+  [Rani Hansen 2, 42, Bogi a Reynatrod 29; Bogi Hentze 6,
+   Lucas Orneborg 52]
+[Mar 14]
+EB/Str'mur II 2-3 TB
+  [Hans Pauli a Bo 51, Marius Kallstrup Nielsen 73; Samudeen Musah 26pen,
+   Aron Arnholdsson 39, 58]
+FC Suðuroy    6-1 ÍF
+  [Daniel Godtfred 45+4, Salmundur Bech 48,
+   Olivur Reneson Thomsen 51, 67, 75, Paetur Augustinusen 82;
+   Atli Djurhuus Petersen 64]
+NSÍ II        3-4 Hoyvík
+  [Benediktus Olsen 6, Tobias Hestad 13, Jonn Mortensen 66;
+   Daniel Kweku Adei 28, Owusu Emmanuel Andorful 43,
+   Ingolf Tvorfoss 57, 73]
+[Mar 15]
+HB II         1-1 B36 II
+  [Jogvan i Skala 67; Bartal Pall Klein 76]
+
+Round 3
+[Mar 19]
+ÍF             -  EB/Str'mur II
+[Mar 21]
+B36 II         -  B71
+Hoyvík         -  TB
+FC Suðuroy     -  Víkingur II
+HB II          -  NSÍ II
+
+Table:
+
+ 1.FC Suðuroy       2   2  0  0   8- 2   6  [R]
+ 2.Víkingur II      2   2  0  0   7- 3   6
+------------------------------------------
+ 3.B36 II           2   1  1  0   4- 2   4
+ 4.TB               2   1  1  0   4- 3   4  [R]
+ 5.ÍF               2   1  0  1   5- 6   3
+ 6.FC Hoyvík        2   1  0  1   5- 7   3  [P]
+ 7.NSÍ II           2   0  1  1   4- 5   1
+ 8.HB II            2   0  1  1   1- 5   1  [P]
+------------------------------------------
+ 9.B71              2   0  0  2   3- 5   0
+10.EB/Streymur II   2   0  0  2   3- 6   0
+
+Round 4 [Apr 4]
+B71            -  EB/Str'mur II
+Hoyvík         -  ÍF
+NSÍ II         -  FC Suðuroy
+TB             -  HB II
+Víkingur II    -  B36 II
+
+Round 5 [Apr 11]
+B36 II         -  TB
+B71            -  Hoyvík
+EB/Str'mur II  -  NSÍ II
+FC Suðuroy     -  HB II
+Víkingur II    -  ÍF
+
+Round 6 [Apr 18]
+B36 II         -  Hoyvík
+EB/Str'mur II  -  FC Suðuroy
+HB II          -  B71
+ÍF             -  NSÍ II
+TB             -  Víkingur II
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== 2. deild  ‹§2d›
+
+<!-- start pre -->
+Table:
+
+ 1.KÍ II            0   0  0  0   0- 0   0  [R]
+ 2.07 Vestur II     0   0  0  0   0- 0   0  [R]
+------------------------------------------
+ 3.AB II            0   0  0  0   0- 0   0
+ 4.Skála II         0   0  0  0   0- 0   0
+ 5.Víkingur III     0   0  0  0   0- 0   0
+ 6.FC Suðuroy II    0   0  0  0   0- 0   0
+ 7.ÍF II            0   0  0  0   0- 0   0
+ 8.B68 II           0   0  0  0   0- 0   0
+ 9.MB               0   0  0  0   0- 0   0
+------------------------------------------
+10.B71 II           0   0  0  0   0- 0   0  [N]
+11.NSÍ III          0   0  0  0   0- 0   0  [N]
+
+Round 1
+[Apr 3]
+ÍF II          -  AB II
+[Apr 4]
+B71 II         -  KÍ II
+Skála II       -  MB
+07 Vestur II   -  Víkingur III
+[Apr 6]
+FC Suðuroy II  -  B68 II
+NSÍ III       bye
+
+Round 2 [Apr 11]
+AB II          -  FC Suðuroy II
+KÍ II          -  ÍF II
+MB             -  07 Vestur II
+NSÍ III        -  Skála II
+Víkingur III   -  B71 II
+B68 II        bye
+
+Round 3 [Apr 18]
+B68 II         -  AB II
+B71 II         -  MB
+FC Suðuroy II   -  KÍ II
+ÍF II          -  Víkingur III
+07 Vestur II   -  NSÍ III
+Skála II      bye
+
+Table:
+
+ 1.KÍ II            0   0  0  0   0- 0   0  [R]
+ 2.07 Vestur II     0   0  0  0   0- 0   0  [R]
+------------------------------------------
+ 3.AB II            0   0  0  0   0- 0   0
+ 4.Skála II         0   0  0  0   0- 0   0
+ 5.Víkingur III     0   0  0  0   0- 0   0
+ 6.FC Suðuroy II    0   0  0  0   0- 0   0
+ 7.ÍF II            0   0  0  0   0- 0   0
+ 8.B68 II           0   0  0  0   0- 0   0
+ 9.MB               0   0  0  0   0- 0   0
+------------------------------------------
+10.B71 II           0   0  0  0   0- 0   0  [N]
+11.NSÍ III          0   0  0  0   0- 0   0  [N]
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2025, see page far2025›.
+
+‹list of champions, see page farchamp›.
+
+‹list of final tables, see page farhist›.
+
+‹all-time table, see page faralltime›.
+
+‹2nd level all-time table, see page far2alltime›.
+
+‹list of cup winners, see page farcuphist›.
+
+‹list of super cup winners, see page farsupcuphist›.
+
+‹list of topscorers, see page fartops›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Denis Polsinelli for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Denis Polsinelli
+
+Last updated: 19 Mar 2026
+
+
+(C) Copyright Denis Polsinelli and RSSSF 2026
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

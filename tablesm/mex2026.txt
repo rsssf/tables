@@ -1,0 +1,141 @@
+  <!--
+     source: https://rsssf.org/tablesm/mex2026.html
+    -->
+  
+
+
+== Mexico 2025/26
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Liga MX, see §pdn›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Liga MX  ‹§pdn›
+
+<!-- start pre -->
+‹Apertura 2025, see §1aper› | ‹Clausura 2026, see §1clau›
+
+Apertura 2025  ‹§1aper›
+
+‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
+
+Regular Stage  ‹§apreg›
+
+Final Table:
+
+ 1.Toluca                              17  11  4  2  43-18  37  ‹Quarterfinals, see §applay›
+ 2.Tigres                              17  10  6  1  35-16  36  ‹Quarterfinals, see §applay›
+ 3.Cruz Azul                           17  10  5  2  32-20  35  ‹Quarterfinals, see §applay›
+ 4.América                             17  10  4  3  33-18  34  ‹Quarterfinals, see §applay›
+ 5.Monterrey                           17   9  4  4  33-29  31  ‹Quarterfinals, see §applay›
+ 6.Guadalajara                         17   9  2  6  29-22  29  ‹Quarterfinals, see §applay›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Tijuana                             17   6  6  5  29-23  24  ‹Repechaje, see §applay›
+ 8.FC Juárez                           17   6  5  6  27-28  23  ‹Repechaje, see §applay›
+ 9.Pachuca                             17   6  4  7  21-21  22  ‹Repechaje, see §applay›
+10.Pumas                               17   5  6  6  24-25  21  ‹Repechaje, see §applay›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+11.Santos Laguna                       17   6  2  9  22-28  20
+12.Querétaro                           17   6  2  9  19-29  20
+13.Necaxa                              17   4  5  8  24-32  17
+14.Atlas                               17   4  5  8  24-35  17
+15.Atlético de San Luis                17   5  1 11  25-29  16
+16.Mazatlán                            17   2  8  7  20-29  14
+17.León                                17   3  4 10  14-31  13
+18.Puebla                              17   3  3 11  21-42  12
+
+Playoffs (Liguilla)  ‹§applay›
+
+Play-In Round A [Nov 20]
+Tijuana              3-1 FC Juárez
+Play-In Round B [Nov 20]
+Pachuca              3-1 Pumas
+
+NB: Tijuana qualified for quarterfinals; Pumas eliminated
+
+Play-In Round A-B [Nov 23]
+FC Juárez            2-1 Pachuca
+
+NB: FC Juárez qualified for quarterfinals; Pachuca eliminated
+
+Quarterfinals
+
+First Legs
+[Nov 26]
+FC Juárez            1-2 Toluca
+Monterrey            2-0 América
+Tijuana              3-0 Tigres
+[Nov 27]
+Guadalajara          0-0 Cruz Azul
+
+Second Legs
+[Nov 29]
+América              2-1 Monterrey
+Toluca               0-0 FC Juárez
+Tigres               5-0 Tijuana
+[Nov 30]
+Cruz Azul            3-2 Guadalajara
+
+Semifinals
+
+First Legs [Dec 3]
+Cruz Azul            1-1 Tigres
+Monterrey            1-0 Toluca
+
+Second Legs [Dec 6]
+Toluca               3-2 Monterrey
+Tigres               1-1 Cruz Azul
+
+NB: Tigres and Toluca qualified on better record regular season
+
+Final
+
+First Leg [Dec 11]
+Tigres               1-0 Toluca
+
+Second Leg [Dec 14]
+Toluca               2-1 Tigres               [aet, 9-8 pen]
+
+Clausura 2026  ‹§1clau›
+
+‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
+
+Regular Stage  ‹§clreg›
+
+Playoffs (Liguilla)  ‹§clplay›
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024/25, see page mex2025›.
+
+‹list of champions, see page mexchamp›.
+
+‹list of final tables, see page mexhist›.
+
+‹list of divisional movements, see page mexall›.
+
+‹list of cup winners, see page mexcuphist›.
+
+‹list of super cup winners, see page mexsupcup›.
+
+‹list of topscorers, see page mextops›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Erik Francisco Lugo
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Erik Francisco Lugo
+
+Last updated: 19 Dec 2025
+
+(C) Copyright Erik Francisco Lugo and RSSSF 2025
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

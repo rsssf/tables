@@ -1,0 +1,214 @@
+  <!--
+     source: https://rsssf.org/tablesr/rodri2025.html
+    -->
+  
+
+
+== Rodrigues 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Super League 2024/25, see §super›
+‹Rodrigues Day Cup 2024, see §rodcup›
+‹Independence Cup 2024/25, see §indepcup›
+‹RRFA Division 1 2024/25, see §div1›
+‹RRFA Division 2 2024/25, see §div2›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Super League 2024/25  ‹§super›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Saint-Etienne SC             8   7  1  0  32- 4  22  [C]  Champions
+ 2.Rising SC                    8   5  2  1  16- 4  17
+ 3.Baladirou SC                 8   4  1  3  14-16  13
+ 4.L'Oiseau de l'Est            8   1  0  7   3-17   3
+ 5.Port Sud-Est Dragons         8   1  0  7   3-27   3
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Rodrigues Day Cup 2024  ‹§rodcup›
+
+<!-- start pre -->
+Round 1
+[Sep 4]
+Petite Butte Commandos       1-1 Plaine Coco Ramblers Foot    [5-4 pen]
+Pavé La Bonté FC             0-5 Roche Bon Dieu Saint-Etienne
+Sunderland FC                2-3 Quatre Vents Thunders
+Baie Topaz West Striker      2-2 Latanier SC                  [3-1 pen]
+[Sep 6]
+Baie-aux-Huitres Boysters    2-0 Vangard SC
+Tamarin Chelsea SC          0-10 Sharks Baladirou
+[Sep 7]
+Citronelle United FC         0-3 Port Sud-Est Dragons
+Roseaux SC                   0-3 Rivière Coco Rising SC
+[Sep 8]
+Pélican Malarctic SC         4-6 Mourouk SC
+L'Oiseaux de l'Est FC        1-1 Port Mathurin United         [3-5 pen]
+[Sep 10]
+Maréchal Blue Rovers         4-5 Rodrigues Football TC U-20
+Rodrigues Football TC U-17   1-4 Barbados SC
+[Sep 11]
+Santos FC                    0-6 La Ferme Hearts FC
+Rivière Banane Firestar      bye
+Reposoir Heaven Kids         bye
+Coromandel Flamingo SC       bye
+
+Round 2
+[Sep 12]
+Petite Butte Commandos       1-4 Roche Bon Dieu Saint-Etienne
+Quatre Vents Thunders        2-3 Baie Topaz West Striker
+[Sep 13]
+Baie-aux-Huitres Boysters    1-3 Sharks Baladirou
+Rivière Banane Firestar      0-4 Reposoir Heaven Kids
+[Sep 14]
+Port Sud-Est Dragons         0-2 Rivière Coco Rising SC
+Mourouk SC                   1-2 Port Mathurin United
+[Sep 15]
+Coromandel Flamingo SC       0-5 Rodrigues Football TC U-20
+Barbados SC                  1-1 La Ferme Hearts FC           [4-5 pen]
+
+Quarterfinals
+[Sep 21]
+Roche Bon Dieu Saint-Etienne 7-1 Baie Topaz West Striker
+Rivière Coco Rising SC       1-1 Port Mathurin United         [1-4 pen]
+[Sep 22]
+Sharks Baladirou             2-1 Reposoir Heaven Kids
+Rodrigues Football TC U20    1-2 La Ferme Hearts FC
+
+Semifinals
+[Sep 28]
+Roche Bon Dieu Saint-Etienne 1-1 Port Mathurin United         [3-1 pen]
+[Sep 29]
+Sharks Baladirou             1-0 La Ferme Hearts FC
+
+Final [Oct 13]
+Roche Bon Dieu Saint-Etienne 3-2 Sharks Baladirou
+
+NB: Roche-Bon-Dieu Saint-Etienne SC qualified for round 1 of the ‹MFA Cup, see page ../tablesm/mauri2025.html#mfa›
+<!-- end pre -->
+
+==== Independence Cup 2024/25  ‹§indepcup›
+
+<!-- start pre -->
+Round 1
+[Jan 14]
+Mourouk SC                   2-3 Pavé La Bonté
+Sharks Baladirou             2-0 Lataniers
+[Jan 15]
+Roche Bon Dieu Saint-Etienne 3-1 Port Maturin United
+Petite Butte Commandos       1-0 Tamarin Chelsea
+[Jan 16]
+Santos                       0-3 Reposoir Heaven Kids
+L'Oiseau de l'Est            0-3 Coromandel Flamingo
+[Jan 17]
+Plaine Coco Ramblers         8-0 Baie Topaz West Striker
+Baie aux Huitres Boysters    3-3 Rodrigues Football TC U20    [4-5 pen]
+[Jan 18]
+Quatre Vents Thunders        1-0 Rivière Banane Firestars
+Rivière Coco Rising SC       3-0 Young Barbados
+Maréchal Blue Rovers         4-0 Pélican Malarctic
+Vangard SC                   1-0 Roseaux SC
+La Ferme Hearts              bye
+Port Sud-Est Dragons         bye
+
+Round 2
+[Jan 22]
+Roche Bon Dieu Saint-Etienne 3-1 Petite Butte Commandos
+Sharks Baladirou             5-1 Pavé La Bonté
+[Jan 23]
+Port Sud-Est Dragons         1-1 La Ferme Hearts              [4-5 pen]
+Reposoir Heaven Kids         1-1 Coromandel Flamingo          [3-4 pen]
+[Jan 24]
+Quatre Vents Thunders        1-3 Plaine Coco Ramblers
+[Jan 25]
+Rivière Coco Rising SC       5-1 Rodrigues Football TC U20
+Maréchal Blue Rovers         2-1 Vangard SC
+
+NB: Rodrigues Football TC apparently progressed as lucky losers
+
+Quarterfinals
+[Feb 22]
+Roche Bon Dieu Saint-Etienne 0-1 Sharks Baladirou
+La Ferme Hearts              1-2 Coromandel Flamingo
+[Feb 23]
+Plaine Coco Ramblers         2-2 Rodrigues Football TC U20    [3-4 pen]
+Rivière Coco Rising SC       3-0 Maréchal Blue Rovers
+
+Semifinals
+[Mar 1]
+Sharks Baladirou             4-1 Coromandel Flamingo
+[Mar 2]
+Rodrigues Football TC U20    1-7 Rivière Coco Rising SC
+
+Third Place Match [Mar 8]
+Coromandel Flamingo          2-3 Rodrigues Football TC U20
+
+Final [Mar 12]
+Sharks Baladirou             1-1 Rivière Coco Rising SC       [4-5 pen]
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== RRFA Division 1 2024/25  ‹§div1›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Ramblers SC                  8   6  2  0  19- 5  20
+ 2.Boysters SC                  8   5  1  2  18- 7  16
+ 3.Roseaux FC                   8   3  0  5  12-20   9
+ 4.La Ferme Hearts              8   2  1  5   8-17   7
+ 5.U-20                         8   1  2  5  11-19   5
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== RRFA Division 2 2024/25  ‹§div2›
+
+<!-- start pre -->
+Final Table:
+
+ 1.U-17                        10   6  0  4  28-19  18
+ 2.Reposoir Heaven Kids        10   5  2  3  12- 8  17
+ 3.Fire Star SC                10   4  1  5  15-24  13
+ 4.Petite Butte Commandos SC   10   4  1  5  12-14  13
+ 5.Baie Topaze West Striker    10   3  3  4  23-22  12
+ 6.Lataniers SC                10   2  5  3  20-23  11
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page rodri2024›
+
+‹2025/26, see page rodri2026›
+
+‹list of champions, see page rodrichamp›
+
+‹list of cup winners, see page rodricuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Sources: https://www.facebook.com/profile.php?id=100090243157571,
+https://mauri.leaguerepublic.com/displayCompetition/488285305/470188368/982881738/1.html
+
+Prepared and maintained by Hans Schöggl for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Hans Schöggl
+
+Last updated: 16 Oct 2025
+
+
+(C) Copyright Hans Schöggl and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

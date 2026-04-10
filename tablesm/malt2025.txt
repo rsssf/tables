@@ -1,0 +1,838 @@
+  <!--
+     source: https://rsssf.org/tablesm/malt2025.html
+    -->
+  
+
+
+== Malta 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Premier League, see §premier›
+‹FA Trophy, see §trophy›
+‹Challenge League, see §first›
+‹National Amateur League I, see §second›
+‹National Amateur League II, see §third›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Premier League  ‹§premier›
+
+<!-- start pre -->
+‹Opening Round, see §op› | ‹Closing Round, see §cl› | ‹Final Four, see §chfin4› | ‹Relegation Playoff, see §relfin4›
+
+Opening Round  ‹§op›
+
+‹Regular Stage, see §opreg› | ‹Playoff Stage, see §opplay›
+
+Regular Stage  ‹§opreg›
+
+Final Table:
+
+ 1.Birkirkara               11   9  1  1  19- 8  28       ‹Top-6 Playoff, see §optop›
+ 2.Floriana                 11   6  5  0  21- 8  23       ‹Top-6 Playoff, see §optop›
+ 3.Sliema Wanderers         11   6  4  1  15- 5  22       ‹Top-6 Playoff, see §optop›
+ 4.Hibernians               11   6  3  2  13- 7  21       ‹Top-6 Playoff, see §optop›
+ 5.Mosta                    11   5  1  5  15-16  16       ‹Top-6 Playoff, see §optop›
+ 6.Ħamrun Spartans          11   4  2  5  19-15  14  [C]  ‹Top-6 Playoff, see §optop›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Gżira United             11   4  2  5  15-15  14       ‹Bottom-6 Playoff, see §opbot›
+ 8.Melita                   11   3  3  5  16-19  12  [P]  ‹Bottom-6 Playoff, see §opbot›
+ 9.Marsaxlokk               11   3  3  5  13-16  12       ‹Bottom-6 Playoff, see §opbot›
+10.Balzan                   11   2  3  6  11-19   9       ‹Bottom-6 Playoff, see §opbot›
+11.Naxxar Lions             11   1  4  6   7-21   7       ‹Bottom-6 Playoff, see §opbot›
+12.Żabbar St. Patrick       11   1  1  9  12-27   4  [P]  ‹Bottom-6 Playoff, see §opbot›
+
+Round 1
+[Aug 16]
+Balzan        3-3 Birkirkara
+Sliema W.     2-0 Mosta
+[Aug 17]
+Floriana      3-3 Melita
+Naxxar L.     1-2 Hibernians
+[Aug 18]
+Ħamrun S.     3-1 Zabbar SP
+Marsaxlokk    0-1 Gżira U.
+
+Round 2
+[Aug 23]
+Naxxar L.     2-1 Mosta
+Birkirkara    1-0 Zabbar SP
+[Aug 24]
+Ħamrun S.     1-1 Floriana
+Marsaxlokk    1-2 Melita
+[Aug 25]
+Hibernians    2-0 Gżira U.
+Sliema W.     2-0 Balzan
+
+Round 3
+[Aug 28]
+Zabbar SP     0-3 Floriana
+Ħamrun S.     2-1 Melita
+[Aug 29]
+Balzan        2-0 Naxxar L.
+Marsaxlokk    0-2 Birkirkara
+Gżira U.      2-0 Mosta
+Hibernians    0-0 Sliema W.
+
+Round 4
+[Sep 14]
+Hibernians    0-2 Birkirkara
+Melita        2-3 Gżira U.
+[Sep 15]
+Marsaxlokk    0-1 Sliema W.
+Mosta         1-0 Ħamrun S.
+[Sep 16]
+Naxxar L.     0-2 Floriana
+Balzan        0-2 Zabbar SP
+
+Round 5
+[Sep 21]
+Gżira U.      2-2 Sliema W.
+Balzan        1-1 Ħamrun S.
+[Sep 22]
+Floriana      1-1 Hibernians
+Zabbar SP     3-3 Naxxar L.
+[Sep 23]
+Melita        0-3 Birkirkara
+Marsaxlokk    2-4 Mosta
+
+Round 6
+[Sep 27]
+Floriana      2-1 Gżira U.
+Naxxar L.     0-6 Ħamrun S.
+[Sep 28]
+Zabbar SP     1-2 Hibernians
+Marsaxlokk    2-1 Balzan
+Mosta         0-1 Birkirkara
+[Sep 29]
+Sliema W.     2-2 Melita
+
+Round 7
+[Oct 2]
+Ħamrun S.     0-2 Hibernians
+Zabbar SP     1-3 Marsaxlokk
+[Oct 3]
+Mosta         0-2 Floriana
+Naxxar L.     0-0 Melita
+Balzan        2-1 Gżira U.
+Birkirkara    1-0 Sliema W.
+
+Round 8
+[Oct 19]
+Mosta         1-0 Hibernians
+Birkirkara    3-2 Ħamrun S.
+[Oct 20]
+Sliema W.     2-0 Zabbar SP
+Naxxar L.     1-1 Gżira U.
+Melita        2-0 Balzan
+[Oct 21]
+Marsaxlokk    1-1 Floriana
+
+Round 9
+[Oct 25]
+Hibernians    2-0 Melita
+Sliema W.     1-0 Ħamrun S.
+[Oct 26]
+Floriana      3-0 Balzan
+Gżira U.      0-1 Birkirkara
+[Oct 27]
+Naxxar L.     0-0 Marsaxlokk
+Mosta         4-2 Zabbar SP
+
+Round 10
+[Nov 1]
+Floriana      0-0 Sliema W.
+Balzan        0-1 Hibernians
+[Nov 2]
+Ħamrun S.     2-3 Marsaxlokk
+Gżira U.      3-1 Zabbar SP
+Birkirkara    1-0 Naxxar L.
+Melita        1-2 Mosta
+
+Round 11
+[Nov 6]
+Zabbar SP     1-3 Melita
+Mosta         2-2 Balzan
+[Nov 7]
+Gżira U.      1-2 Ħamrun S.
+Marsaxlokk    1-1 Hibernians
+Birkirkara    1-3 Floriana
+Naxxar L.     0-3 Sliema W.
+
+Final Table:
+
+ 1.Birkirkara               11   9  1  1  19- 8  28       ‹Top-6 Playoff, see §optop›
+ 2.Floriana                 11   6  5  0  21- 8  23       ‹Top-6 Playoff, see §optop›
+ 3.Sliema Wanderers         11   6  4  1  15- 5  22       ‹Top-6 Playoff, see §optop›
+ 4.Hibernians               11   6  3  2  13- 7  21       ‹Top-6 Playoff, see §optop›
+ 5.Mosta                    11   5  1  5  15-16  16       ‹Top-6 Playoff, see §optop›
+ 6.Ħamrun Spartans          11   4  2  5  19-15  14  [C]  ‹Top-6 Playoff, see §optop›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Gżira United             11   4  2  5  15-15  14       ‹Bottom-6 Playoff, see §opbot›
+ 8.Melita                   11   3  3  5  16-19  12  [P]  ‹Bottom-6 Playoff, see §opbot›
+ 9.Marsaxlokk               11   3  3  5  13-16  12       ‹Bottom-6 Playoff, see §opbot›
+10.Balzan                   11   2  3  6  11-19   9       ‹Bottom-6 Playoff, see §opbot›
+11.Naxxar Lions             11   1  4  6   7-21   7       ‹Bottom-6 Playoff, see §opbot›
+12.Żabbar St. Patrick       11   1  1  9  12-27   4  [P]  ‹Bottom-6 Playoff, see §opbot›
+
+Playoff Stage  ‹§opplay›
+
+‹Top-6 Playoff, see §optop› | ‹Bottom-6 Playoff, see §opbot›
+
+Top-6 Playoff  ‹§optop›
+
+Final Table:
+
+ 1.Floriana                 16  10  5  1  27-10  35       ‹Final Four, see §chfin4›
+ 2.Birkirkara               16  10  2  4  22-14  32       ‹Final Four, see §chfin4›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Sliema Wanderers         16   8  6  2  23-10  30
+ 4.Hibernians               16   8  3  5  19-17  27
+ 5.Ħamrun Spartans          16   7  3  6  28-19  24  [C]
+ 6.Mosta                    16   6  1  9  20-26  19
+
+Round 12 [Nov 23]
+Floriana      1-0 Mosta
+Birkirkara    0-2 Ħamrun S.
+Sliema W.     3-1 Hibernians
+
+Round 13
+[Nov 29]
+Birkirkara    2-0 Mosta
+Sliema W.     1-1 Ħamrun S.
+[Nov 30]
+Floriana      2-0 Hibernians
+
+Round 14
+[Dec 7]
+Birkirkara    1-1 Sliema W.
+Hibernians    3-2 Mosta
+[Dec 8]
+Floriana      1-2 Ħamrun S.
+
+Round 15
+[Dec 14]
+Birkirkara    0-2 Hibernians
+[Dec 17]
+Ħamrun S.     1-2 Mosta
+Floriana      1-0 Sliema W.
+
+Round 16 [Dec 21]
+Birkirkara    0-1 Floriana
+Hibernians    0-3 Ħamrun S.
+Sliema W.     3-1 Mosta
+
+Final Table:
+
+ 1.Floriana                 16  10  5  1  27-10  35       ‹Final Four, see §chfin4›
+ 2.Birkirkara               16  10  2  4  22-14  32       ‹Final Four, see §chfin4›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Sliema Wanderers         16   8  6  2  23-10  30
+ 4.Hibernians               16   8  3  5  19-17  27
+ 5.Ħamrun Spartans          16   7  3  6  28-19  24  [C]
+ 6.Mosta                    16   6  1  9  20-26  19
+
+Bottom-6 Playoff  ‹§opbot›
+
+Final Table:
+
+ 7.Gżira United             16   6  4  6  20-20  22
+ 8.Marsaxlokk               16   5  6  5  21-21  21
+ 9.Melita                   16   5  3  8  20-26  18  [P]
+10.Żabbar St. Patrick       16   4  2 10  21-32  14  [P]
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+11.Balzan                   16   3  3 10  16-27  12       ‹Relegation Playoff, see §relfin4›
+12.Naxxar Lions             16   2  6  8  13-28  12       ‹Relegation Playoff, see §relfin4›
+
+Round 12
+[Nov 24]
+Gżira U.      2-1 Zabbar SP
+Marsaxlokk    2-1 Balzan
+[Nov 25]
+Melita        0-3 Naxxar L.
+
+Round 13
+[Nov 30]
+Gżira U.      1-1 Naxxar L.
+[Dec 1]
+Melita        1-3 Marsaxlokk
+Balzan        1-2 Zabbar SP
+
+Round 14 [Dec 8]
+Gżira U.      0-0 Marsaxlokk
+Naxxar L.     0-3 Zabbar SP
+Melita        1-0 Balzan
+
+Round 15
+[Dec 14]
+Melita        0-1 Zabbar SP
+[Dec 15]
+Marsaxlokk    1-1 Naxxar L.
+Gżira U.      2-1 Balzan
+
+Round 16 [Dec 22]
+Balzan        2-1 Naxxar L.
+Gżira U.      0-2 Melita
+Marsaxlokk    2-2 Zabbar SP
+
+Final Table:
+
+ 7.Gżira United             16   6  4  6  20-20  22
+ 8.Marsaxlokk               16   5  6  5  21-21  21
+ 9.Melita                   16   5  3  8  20-26  18  [P]
+10.Żabbar St. Patrick       16   4  2 10  21-32  14  [P]
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+11.Balzan                   16   3  3 10  16-27  12       ‹Relegation Playoff, see §relfin4›
+12.Naxxar Lions             16   2  6  8  13-28  12       ‹Relegation Playoff, see §relfin4›
+
+Closing Round  ‹§cl›
+
+‹Regular Stage, see §clreg› | ‹Playoff Stage, see §clplay›
+
+Regular Stage  ‹§clreg›
+
+Final Table:
+
+ 1.Birkirkara               11   5  4  2  20-10  19       ‹Top-6 Playoff, see §cltop›
+ 2.Floriana                 11   5  4  2  15- 9  19       ‹Top-6 Playoff, see §cltop›
+ 3.Marsaxlokk               11   6  1  4  18-13  19       ‹Top-6 Playoff, see §cltop›
+ 4.Mosta                    11   6  1  4  14-13  19       ‹Top-6 Playoff, see §cltop›
+ 5.Sliema Wanderers         11   6  0  5  18-13  18       ‹Top-6 Playoff, see §cltop›
+ 6.Ħamrun Spartans          11   5  2  4  15- 8  17  [C]  ‹Top-6 Playoff, see §cltop›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Hibernians               11   5  2  4  17-17  17       ‹Bottom-6 Playoff, see §clbot›
+ 8.Żabbar St. Patrick       11   4  2  5  15-12  14  [P]  ‹Bottom-6 Playoff, see §clbot›
+ 9.Gżira United             11   3  3  5   8-16  12       ‹Bottom-6 Playoff, see §clbot›
+10.Balzan                   11   2  4  5  11-18  10       ‹Bottom-6 Playoff, see §clbot›
+11.Melita                   11   2  4  5  15-24  10  [P]  ‹Bottom-6 Playoff, see §clbot›
+12.Naxxar Lions             11   3  1  7  11-24  10       ‹Bottom-6 Playoff, see §clbot›
+
+Round 1
+[Jan 4]
+Zabbar SP     1-0 Sliema W.
+Melita        2-3 Hibernians
+Mosta         1-0 Gżira U.
+[Jan 5]
+Floriana      4-0 Naxxar L.
+Marsaxlokk    1-6 Ħamrun S.
+[Jan 6]
+Birkirkara    5-2 Balzan
+
+Round 2
+[Jan 17]
+Balzan        3-2 Mosta
+Sliema W.     4-0 Naxxar L.
+[Jan 18]
+Melita        2-0 Floriana
+Birkirkara    2-2 Gżira U.
+[Jan 19]
+Hibernians    1-2 Ħamrun S.
+Marsaxlokk    3-1 Zabbar SP
+
+Round 3
+[Jan 25]
+Mosta         0-1 Sliema W.
+Floriana      0-0 Ħamrun S.
+Gżira U.      1-0 Naxxar L.
+Zabbar SP     3-0 Balzan
+[Jan 26]
+Hibernians    0-1 Marsaxlokk
+Birkirkara    1-1 Melita
+
+Round 4
+[Jan 31]
+Balzan        0-3 Marsaxlokk
+Sliema W.     2-3 Hibernians
+[Feb 1]
+Ħamrun S.     0-0 Birkirkara
+Gżira U.      2-2 Melita
+[Feb 2]
+Floriana      1-0 Zabbar SP
+Mosta         1-0 Naxxar L.
+
+Round 5
+[Feb 8]
+Birkirkara    2-0 Mosta
+Gżira U.      1-4 Hibernians
+Melita        2-4 Sliema W.
+[Feb 9]
+Zabbar SP     0-1 Ħamrun S.
+Floriana      2-1 Marsaxlokk
+[Feb 10]
+Naxxar L.     0-3 Balzan
+
+Round 6
+[Feb 14]
+Mosta         2-1 Marsaxlokk
+[Feb 15]
+Naxxar L.     2-1 Birkirkara
+Hibernians    0-4 Zabbar SP
+Sliema W.     0-1 Gżira U.
+[Feb 16]
+Balzan        0-0 Floriana
+Melita        2-0 Ħamrun S.
+
+Round 7
+[Feb 21]
+Gżira U.      0-1 Marsaxlokk
+[Feb 22]
+Sliema W.     1-2 Floriana
+Ħamrun S.     1-0 Balzan
+[Feb 23]
+Hibernians    2-0 Mosta
+Zabbar SP     0-3 Birkirkara
+Melita        2-5 Naxxar L.
+
+Round 8
+[Mar 1]
+Sliema W.     0-1 Marsaxlokk
+Birkirkara    2-0 Hibernians
+Naxxar L.     1-1 Zabbar SP
+Balzan        1-1 Melita
+[Mar 2]
+Floriana      2-2 Mosta
+Ħamrun S.     0-1 Gżira U.
+
+Round 9
+[Mar 8]
+Balzan        2-3 Sliema W.
+Birkirkara    1-1 Marsaxlokk
+Gżira U.      0-3 Floriana
+Melita        1-1 Zabbar SP
+[Mar 9]
+Hibernians    3-2 Naxxar L.
+Ħamrun S.     1-2 Mosta
+
+Round 10
+[Mar 12]
+Floriana      0-2 Birkirkara
+[Mar 13]
+Naxxar L.     1-0 Marsaxlokk
+Ħamrun S.     0-1 Sliema W.
+Mosta         2-0 Melita
+Hibernians    0-0 Balzan
+Zabbar SP     3-0 Gżira U.
+
+Round 11
+[Mar 28]
+Gżira U.      0-0 Balzan
+[Mar 29]
+Floriana      1-1 Hibernians
+Zabbar SP     1-2 Mosta
+[Mar 30]
+Sliema W.     2-1 Birkirkara
+Melita        0-5 Marsaxlokk
+[Mar 31]
+Ħamrun S.     4-0 Naxxar L.
+
+Final Table:
+
+ 1.Birkirkara               11   5  4  2  20-10  19       ‹Top-6 Playoff, see §cltop›
+ 2.Floriana                 11   5  4  2  15- 9  19       ‹Top-6 Playoff, see §cltop›
+ 3.Marsaxlokk               11   6  1  4  18-13  19       ‹Top-6 Playoff, see §cltop›
+ 4.Mosta                    11   6  1  4  14-13  19       ‹Top-6 Playoff, see §cltop›
+ 5.Sliema Wanderers         11   6  0  5  18-13  18       ‹Top-6 Playoff, see §cltop›
+ 6.Ħamrun Spartans          11   5  2  4  15- 8  17  [C]  ‹Top-6 Playoff, see §cltop›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Hibernians               11   5  2  4  17-17  17       ‹Bottom-6 Playoff, see §clbot›
+ 8.Żabbar St. Patrick       11   4  2  5  15-12  14  [P]  ‹Bottom-6 Playoff, see §clbot›
+ 9.Gżira United             11   3  3  5   8-16  12       ‹Bottom-6 Playoff, see §clbot›
+10.Balzan                   11   2  4  5  11-18  10       ‹Bottom-6 Playoff, see §clbot›
+11.Melita                   11   2  4  5  15-24  10  [P]  ‹Bottom-6 Playoff, see §clbot›
+12.Naxxar Lions             11   3  1  7  11-24  10       ‹Bottom-6 Playoff, see §clbot›
+
+Playoff Stage  ‹§opplay›
+
+‹Top-6 Playoff, see §cltop› | ‹Bottom-6 Playoff, see §clbot›
+
+Top-6 Playoff  ‹§cltop›
+
+Final Table:
+
+ 1.Ħamrun Spartans          16   8  4  4  20- 9  28  [C]  ‹Final Four, see §chfin4›
+ 2.Sliema Wanderers         16   9  1  6  27-17  28       ‹Final Four, see §chfin4›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Floriana                 16   7  6  3  21-13  27
+ 4.Marsaxlokk               16   8  2  6  26-18  26
+ 5.Birkirkara               16   6  6  4  23-14  24
+ 6.Mosta                    16   6  1  9  15-27  19
+
+Round 12
+[Apr 4]
+Mosta         0-4 Marsaxlokk
+[Apr 5]
+Birkirkara    0-1 Ħamrun S.
+[Apr 6]
+Floriana      0-2 Sliema W.
+
+Round 13
+[Apr 12]
+Floriana      2-1 Marsaxlokk
+Mosta         0-2 Ħamrun S.
+[Apr 13]
+Birkirkara    0-1 Sliema W.
+
+Round 14
+[Apr 19]
+Birkirkara    1-0 Mosta
+Marsaxlokk    2-1 Sliema W.
+[Apr 21]
+Floriana      0-0 Ħamrun S.
+
+Round 15 [Apr 27]
+Sliema W.     1-1 Ħamrun S.
+Birkirkara    1-1 Marsaxlokk
+Floriana      3-0 Mosta
+
+Round 16 [Apr 30]
+Birkirkara    1-1 Floriana
+Marsaxlokk    0-1 Ħamrun S.
+Mosta         1-4 Sliema W.
+
+Final Table:
+
+ 1.Ħamrun Spartans          16   8  4  4  20- 9  28  [C]  ‹Final Four, see §chfin4›
+ 2.Sliema Wanderers         16   9  1  6  27-17  28       ‹Final Four, see §chfin4›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Floriana                 16   7  6  3  21-13  27
+ 4.Marsaxlokk               16   8  2  6  26-18  26
+ 5.Birkirkara               16   6  6  4  23-14  24
+ 6.Mosta                    16   6  1  9  15-27  19
+
+Bottom-6 Playoff  ‹§clbot›
+
+Final Table:
+
+ 7.Żabbar St. Patrick       16   6  4  6  24-18  22  [P]
+ 8.Hibernians               16   6  4  6  24-23  22
+ 9.Gżira United             16   5  5  6  14-22  20
+10.Naxxar Lions             16   6  2  8  17-27  20
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+11.Balzan                   16   3  8  5  18-23  17       ‹Relegation Playoff, see §relfin4›
+12.Melita                   16   2  5  9  18-36  11  [P]  ‹Relegation Playoff, see §relfin4›
+
+Round 12
+[Apr 4]
+Gżira U.      0-0 Balzan
+[Apr 5]
+Zabbar SP     2-0 Naxxar L.
+[Apr 6]
+Hibernians    3-0 Melita
+
+Round 13
+[Apr 11]
+Hibernians    0-1 Naxxar L.
+Zabbar SP     1-2 Gżira U.
+[Apr 13]
+Balzan        3-1 Melita
+
+Round 14
+[Apr 19]
+Hibernians    1-2 Gżira U.
+Zabbar SP     2-2 Balzan
+[Apr 21]
+Naxxar L.     2-0 Melita
+
+Round 15
+[Apr 27]
+Hibernians    1-1 Balzan
+[Apr 28]
+Zabbar SP     2-0 Melita
+Gżira U.      0-2 Naxxar L.
+
+Round 16
+[May 1]
+Zabbar SP     2-2 Hibernians
+[May 3]
+Balzan        1-1 Naxxar L.
+Gżira U.      2-2 Melita
+
+Final Table:
+
+ 7.Żabbar St. Patrick       16   6  4  6  24-18  22  [P]
+ 8.Hibernians               16   6  4  6  24-23  22
+ 9.Gżira United             16   5  5  6  14-22  20
+10.Naxxar Lions             16   6  2  8  17-27  20
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+11.Balzan                   16   3  8  5  18-23  17       ‹Relegation Playoff, see §relfin4›
+12.Melita                   16   2  5  9  18-36  11  [P]  ‹Relegation Playoff, see §relfin4›
+
+Final Four  ‹§chfin4›
+
+NB: between the top-2 of both the ‹Opening Top-6 Playoff, see §optop› and the ‹Closing Top-6 Playoff, see §cltop›
+
+NB: if one club wins both tournaments, they are champions automatically and the
+      two runners-up (if different) play off for second place overall;
+    if two clubs each once finish first and once second, they play off for the
+      championship and second place:
+    if three clubs finish among the top-2 in both tournaments (and none wins both),
+      the best third-placed team (on aggregate record over both tournaments) also
+      enters the final four.
+
+Semifinals
+[May 4]
+Sliema W.     0-1 Birkirkara    [aet]
+[May 5]
+Floriana      0-0 Ħamrun S.     [aet, 2-4 pen]
+
+Third Place Match [May 9]
+Sliema W.     0-4 Floriana
+
+Final [May 10]
+Birkirkara    0-1 Ħamrun S.
+
+Relegation Playoff  ‹§relfin4›
+
+NB: between the bottom-2 of both the ‹Opening Bottom-6 Playoff, see §opbot› and the ‹Closing Bottom-6 Playoff, see §clbot›
+
+NB: if two clubs finish among the bottom-2 in both tournaments, they are both
+      relegated automatically;
+    if one club finishes among the bottom-2 in both tournaments, they are relegated
+      automatically and the other two play off against the second relegation spot.
+
+NB: as Balzan finished among the bottom-2 in both tournaments, they are relegated
+
+[May 9]
+Naxxar L.     1-0 Melita
+
+NB: Melita relegated
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== FA Trophy  ‹§trophy›
+
+<!-- start pre -->
+NB: Gozo clubs in italics
+
+1/8 Finals
+[Feb 4]
+Qala S.       0-3 Hibernians
+Fgura U.      0-3 Birkirkara
+[Feb 5]
+Gżira U.      0-1 Valletta      [aet]
+Marsa         0-4 Sliema W.
+Mosta         4-0 Qrendi
+Żabbar SP     1-2 Ħamrun S.
+[Feb 6]
+Victoria H.   1-4 Floriana
+Żurrieq       0-4 Naxxar L.
+
+Quarterfinals
+[Mar 5]
+Ħamrun S.     2-0 Sliema W.
+Birkirkara    3-1 Valletta      [aet]
+Floriana      2-0 Mosta
+[Mar 6]
+Hibernians    2-0 Naxxar L.
+
+Semifinals [May 14]
+Ħamrun S.     1-2 Hibernians
+Birkirkara    2-1 Floriana
+
+Final [May 18]
+Birkirkara    1-2 Hibernians
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Challenge League  ‹§first›
+
+<!-- start pre -->
+‹Regular Stage, see §2reg› | ‹Playoff Stage, see §2play›
+
+Regular Stage  ‹§2reg›
+
+Final Table:
+
+ 1.Valletta                 15  12  2  1  29- 4  38  [R]  ‹Promotion Playoff, see §2prpo›
+ 2.Tarxien Rainbows         15   9  2  4  22-16  29       ‹Promotion Playoff, see §2prpo›
+ 3.Marsa                    15   8  4  3  25-13  28       ‹Promotion Playoff, see §2prpo›
+ 4.Swieqi United            15   8  4  3  23-18  28       ‹Promotion Playoff, see §2prpo›
+ 5.Pietà Hotspurs           15   8  2  5  21-19  26       ‹Promotion Playoff, see §2prpo›
+ 6.Santa Lucia              15   8  1  6  24-25  25  [R]  ‹Promotion Playoff, see §2prpo›
+ 7.Mġarr United             15   5  7  3  24-19  22  [P]  ‹Promotion Playoff, see §2prpo›
+ 8.Żurrieq                  15   6  4  5  18-17  22       ‹Promotion Playoff, see §2prpo›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Fgura United             15   6  3  6  17-14  21       ‹Relegation Playoff, see §2relpo›
+10.Gudja United             15   6  3  6  21-22  21  [R]  ‹Relegation Playoff, see §2relpo›
+11.Żebbuġ Rangers           15   3  8  4  22-20  17       ‹Relegation Playoff, see §2relpo›
+12.Sirens                   15   4  5  6  25-26  17  [R]  ‹Relegation Playoff, see §2relpo›
+13.Lija Athletic            15   3  3  9  16-28  12       ‹Relegation Playoff, see §2relpo›
+14.St. Andrews              15   2  4  9  11-23  10       ‹Relegation Playoff, see §2relpo›
+15.Senglea Athletic         15   2  3 10  13-27   9       ‹Relegation Playoff, see §2relpo›
+16.Mtarfa                   15   2  1 12  10-30   7  [P]  ‹Relegation Playoff, see §2relpo›
+
+Playoff Stage  ‹§2play›
+
+‹Promotion Playoff, see §2prpo› | ‹Relegation Playoff, see §2relpo›
+
+Promotion Playoff  ‹§2prpo›
+
+Final Table:
+
+ 1.Valletta                 22  19  2  1  49- 7  59  [R]  Promoted
+ 2.Tarxien Rainbows         22  11  6  5  29-22  39       Promoted
+---------------------------------------------------
+ 3.Swieqi United            22  10  6  6  33-29  36
+ 4.Pietà Hotspurs           22  10  5  7  34-30  35
+ 5.Żurrieq                  22   9  5  8  32-31  32
+ 6.Santa Lucia              22   9  5  8  36-41  32  [R]
+ 7.Mġarr United             22   7 10  5  32-28  31  [P]
+ 8.Marsa                    22   8  5  9  32-34  29
+
+Relegation Playoff  ‹§2relpo›
+
+Final Table:
+
+ 9.Fgura United             22  11  3  8  37-24  36
+10.St. Andrews              22   8  5  9  24-27  29
+11.Sirens                   22   7  6  9  37-40  27  [R]
+12.Gudja United             22   7  6  9  30-34  27  [R]
+13.Żebbuġ Rangers           22   4  9  9  29-40  21
+14.Mtarfa                   22   6  2 14  23-39  20  [P]
+---------------------------------------------------
+15.Lija Athletic            22   5  4 13  25-38  19       Relegated
+16.Senglea Athletic         22   3  5 14  20-38  14       Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== National Amateur League I  ‹§second›
+
+<!-- start pre -->
+‹Regular Stage, see §3reg› | ‹Playoff Stage, see §3play›
+
+Regular Stage  ‹§3reg›
+
+Final Table:
+
+ 1.San Ġwann                15  12  2  1  38-13  38       ‹Promotion Playoff, see §3prpo›
+ 2.Vittoriosa Stars         15  11  3  1  34-12  36       ‹Promotion Playoff, see §3prpo›
+ 3.Birżebbuġa St. Peter's   15  10  3  2  30-13  33       ‹Promotion Playoff, see §3prpo›
+ 4.Luqa St. Andrews         15  10  1  4  31-14  31  [R]  ‹Promotion Playoff, see §3prpo›
+ 5.Xgħajra Tornadoes        15   9  3  3  39-25  30       ‹Promotion Playoff, see §3prpo›
+ 6.Attard                   15   9  0  6  23-19  27  [R]  ‹Promotion Playoff, see §3prpo›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Qrendi                   15   7  3  5  31-22  24       ‹Relegation Playoff, see §3relpo›
+ 8.Qormi                    15   7  1  7  22-19  22       ‹Relegation Playoff, see §3relpo›
+ 9.Żejtun Corinthians       15   5  4  6  20-25  19  [R]  ‹Relegation Playoff, see §3relpo›
+10.Mellieħa                 15   4  5  6  15-16  17       ‹Relegation Playoff, see §3relpo›
+11.Kirkop United            15   5  1  9  27-31  16       ‹Relegation Playoff, see §3relpo›
+12.Marsaskala               15   4  3  8  30-39  15       ‹Relegation Playoff, see §3relpo›
+13.Pembroke Athleta         15   4  1 10  16-33  13       ‹Relegation Playoff, see §3relpo›
+14.Għargħur                 15   2  4  9  13-29  10       ‹Relegation Playoff, see §3relpo›
+15.Rabat Ajax               15   2  0 13  11-44   6       ‹Relegation Playoff, see §3relpo›
+16.Msida St. Joseph         15   0  4 11  13-39   4  [R]  ‹Relegation Playoff, see §3relpo›
+
+Playoff Stage  ‹§3play›
+
+‹Promotion Playoff, see §3prpo› | ‹Relegation Playoff, see §3relpo›
+
+Promotion Playoff  ‹§3prpo›
+
+Final Table:
+
+ 1.Birżebbuġa St. Peter's   20  14  4  2  43-19  46       ‹Promoted, see §3chpo›
+   Vittoriosa Stars         20  14  4  2  43-19  46       ‹Promoted, see §3chpo›
+---------------------------------------------------
+ 3.San Ġwann                20  14  3  3  45-21  45
+ 4.Xgħajra Tornadoes        20  10  5  5  44-31  35
+ 5.Luqa St. Andrews         20  10  4  6  37-22  34  [R]
+ 6.Attard                   20   9  2  9  27-28  29  [R]
+
+Championship Playoff  ‹§3chpo›
+
+[Apr 13]
+Vittoriosa S. 0-2 Birżebbuġa SP
+
+Relegation Playoff  ‹§3relpo›
+
+Final Table:
+
+ 7.Qormi                    24  13  4  7  44-31  43
+ 8.Mellieħa                 24  11  6  7  43-25  39
+ 9.Qrendi                   24  12  3  9  53-39  39
+10.Żejtun Corinthians       24   9  9  6  39-35  36  [R]
+11.Kirkop United            24   9  4 11  45-41  31
+12.Pembroke Athleta         24   8  1 15  34-54  25
+---------------------------------------------------
+13.Għargħur                 24   6  5 13  32-50  23       Relegated
+14.Marsaskala               24   6  4 14  51-66  22       Relegated
+15.Rabat Ajax               24   2  3 19  21-73   9       Relegated
+16.Msida St. Joseph         24   0  5 19  18-65   5  [R]  Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== National Amateur League II  ‹§third›
+
+<!-- start pre -->
+‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prpo›
+
+Regular Stage  ‹§4reg›
+
+Final Table:
+
+ 1.Victoria Hotspurs        18  18  0  0  64- 7  54  [*]  Promoted, ‹Promotion Playoff, see §4prpo›
+ 2.Mqabba                   18  12  3  3  47-22  39  [R]  ‹Promotion Playoff, see §4prpo›
+ 3.St. George's             18  11  3  4  34-19  36  [R]  ‹Promotion Playoff, see §4prpo›
+ 4.Kalkara United           18  11  2  5  36-14  35  [R]  ‹Promotion Playoff, see §4prpo›
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.Dingli Swallows          18   8  3  7  29-33  27  [R]
+ 6.Siġġiewi                 18   6  4  8  16-25  22  [R]
+ 7.Għaxaq                   18   6  2 10  30-38  20  [R]
+ 8.Mdina Knights            18   6  1 11  18-28  19  [R]
+ 9.Ta' Xbiex                18   2  1 15  13-46   7  [R]
+10.Santa Venera Lightnings  18   0  1 17  11-66   1  [R]
+
+[*] newly admitted; champions of ‹second level Gozo, see page ../tablesg/gozo2024.html#second› in 2023/24
+
+Promotion Playoff  ‹§4prpo›
+
+Final Table:
+
+ 1.Victoria Hotspurs        21  20  1  0  72- 8  61       Promoted
+ 2.Mqabba                   21  13  4  4  50-26  43  [R]  Promoted
+---------------------------------------------------
+ 3.St. George's             21  12  3  6  37-27  39  [R]
+ 4.Kalkara United           21  11  4  6  39-18  37  [R]
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page malt2024›.
+
+‹list of final tables, see page malthist›.
+
+‹list of champions, see page maltchamp›.
+
+‹list of cup winners, see page maltcuphist›.
+
+‹list of super cup winners, see page maltsupcuphist›.
+
+‹list of top scorers, see page malttops›.
+
+‹foundation dates clubs, see page maltfound›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 9 Oct 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

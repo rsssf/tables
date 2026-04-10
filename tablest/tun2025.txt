@@ -1,0 +1,574 @@
+  <!--
+     source: https://rsssf.org/tablest/tun2025.html
+    -->
+  
+
+
+== Tunisia 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Ligue Professionnelle 1, see §lfp1›
+‹Coupe de Tunisie, see §coupe›
+‹Ligue Professionnelle 2, see §lfp2›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Ligue Professionnelle 1  ‹§lfp1›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Espérance de Tunis              30  19  9  2  57-22  66  [C]  Champions
+ 2.US Monastirienne                30  17 11  2  42-11  62
+ 3.Etoile du Sahel                 30  19  4  7  45-24  61
+ 4.Club Africain                   30  15  9  6  34-19  54       [2 1 0 1 1-1 3]
+ 5.ES Zarzis                       30  16  6  8  38-29  54  [P]  [2 1 0 1 1-1 3]
+ 6.Stade Tunisien                  30  13 10  7  29-21  49
+ 7.CS Sfaxien                      30  11 11  8  31-19  44
+ 8.ES Métlaoui                     30  11 10  9  32-27  43
+ 9.CA Bizertin                     30   9  8 13  29-28  35
+10.AS Solimane                     30   7 10 13  18-38  31
+11.US Ben Guerdane                 30   6 12 12  28-33  30
+12.Olympique Béja                  30   7  8 15  19-37  29
+13.AS Gabès                        30   6  8 16  18-38  26  [P]  [2 0 2 0 2-2 2]
+14.JS Omrane                       30   4 14 12  25-46  26  [P]  [2 0 2 0 2-2 2]
+----------------------------------------------------------
+15.EGS Gafsa                       30   6  4 20  24-43  22       Relegated
+16.US Tataouine                    30   5  4 21  19-53  19       Relegated
+
+Round 1
+[Aug 31]
+ES Métlaoui         2-0 AS Solimane
+Etoile du Sahel     0-1 Olympique Béja
+US Ben Guerdane     awd Club Africain       [awarded 0-2, originally 2-2]
+Espérance de Tunis  3-0 US Tataouine
+[Sep 1]
+AS Gabès            2-2 CS Sfaxien
+CA Bizertin         0-0 US Monastirienne
+ES Zarzis           awd Stade Tunisien      [awarded 2-0, originally 1-1]
+JS Omrane           2-1 EGS Gafsa
+
+Round 2
+[Sep 14]
+EGS Gafsa           1-3 ES Zarzis
+Olympique Béja      1-0 AS Gabès
+[Sep 15]
+US Tataouine        2-0 CA Bizertin
+[Sep 22]
+Club Africain       2-0 JS Omrane
+[Sep 25]
+AS Solimane         1-2 Espérance de Tunis
+CS Sfaxien          1-0 US Ben Guerdane
+[Sep 26]
+Stade Tunisien      1-0 ES Métlaoui
+US Monastirienne    1-0 Etoile du Sahel
+
+Round 3
+[Sep 28]
+CA Bizertin         0-0 AS Solimane
+EGS Gafsa           0-3 Club Africain
+[Sep 29]
+AS Gabès            0-0 US Monastirienne
+ES Zarzis           1-0 ES Métlaoui
+Etoile du Sahel     2-0 US Tataouine
+JS Omrane           1-0 CS Sfaxien
+US Ben Guerdane     0-1 Olympique Béja
+Espérance de Tunis  2-2 Stade Tunisien
+
+Round 4 [Oct 3]
+AS Solimane         0-0 Etoile du Sahel
+CS Sfaxien          2-0 EGS Gafsa
+ES Métlaoui         1-1 Espérance de Tunis
+Olympique Béja      2-1 JS Omrane
+Stade Tunisien      1-0 CA Bizertin
+US Monastirienne    2-1 US Ben Guerdane
+US Tataouine        1-2 AS Gabès
+Club Africain       1-0 ES Zarzis
+
+Round 5
+[Oct 19]
+JS Omrane           1-2 US Monastirienne
+CA Bizertin         1-1 ES Métlaoui
+Club Africain       0-0 CS Sfaxien
+[Oct 20]
+AS Gabès            1-2 AS Solimane
+EGS Gafsa           0-2 Olympique Béja
+ES Zarzis           1-0 Espérance de Tunis
+Etoile du Sahel     0-1 Stade Tunisien
+US Ben Guerdane     2-0 US Tataouine
+
+Round 6
+[Oct 26]
+ES Métlaoui         0-0 Etoile du Sahel
+Olympique Béja      1-1 Club Africain
+US Tataouine        2-4 JS Omrane
+Espérance de Tunis  0-0 CA Bizertin
+[Oct 27]
+AS Solimane         0-0 US Ben Guerdane
+CS Sfaxien          1-1 ES Zarzis
+Stade Tunisien      2-1 AS Gabès
+US Monastirienne    2-0 EGS Gafsa
+
+Round 7
+[Nov 2]
+JS Omrane           0-0 AS Solimane
+AS Gabès            1-0 ES Métlaoui
+US Ben Guerdane     0-0 Stade Tunisien
+Club Africain       0-0 US Monastirienne
+[Nov 3]
+CS Sfaxien          0-0 Olympique Béja
+EGS Gafsa           2-0 US Tataouine
+ES Zarzis           1-0 CA Bizertin
+Etoile du Sahel     0-2 Espérance de Tunis
+
+Round 8
+[Nov 9]
+Olympique Béja      1-2 ES Zarzis
+Stade Tunisien      0-0 JS Omrane
+US Tataouine        0-1 Club Africain
+Espérance de Tunis  2-1 AS Gabès
+[Nov 10]
+AS Solimane         1-1 EGS Gafsa
+CA Bizertin         1-2 Etoile du Sahel
+ES Métlaoui         1-1 US Ben Guerdane
+US Monastirienne    1-1 CS Sfaxien
+
+Round 9
+[Nov 22]
+US Ben Guerdane     1-1 Espérance de Tunis
+[Nov 23]
+AS Gabès            2-1 CA Bizertin
+CS Sfaxien          2-0 US Tataouine
+JS Omrane           0-0 ES Métlaoui
+Club Africain       4-2 AS Solimane
+[Nov 24]
+EGS Gafsa           0-1 Stade Tunisien
+ES Zarzis           2-3 Etoile du Sahel
+Olympique Béja      1-3 US Monastirienne
+
+Round 10
+[Nov 30]
+CA Bizertin         0-1 US Ben Guerdane
+Etoile du Sahel     2-0 AS Gabès
+Stade Tunisien      1-0 Club Africain
+US Tataouine        1-0 Olympique Béja
+[Dec 1]
+AS Solimane         1-4 CS Sfaxien
+ES Métlaoui         2-1 EGS Gafsa
+US Monastirienne    0-0 ES Zarzis
+Espérance de Tunis  2-0 JS Omrane
+
+Round 11
+[Dec 14]
+ES Zarzis           2-0 AS Gabès
+JS Omrane           1-1 CA Bizertin
+[Dec 15]
+Olympique Béja      0-0 AS Solimane
+US Ben Guerdane     1-3 Etoile du Sahel
+US Monastirienne    4-1 US Tataouine
+Club Africain       3-0 ES Métlaoui
+[Dec 25]
+EGS Gafsa           0-3 Espérance de Tunis
+[Dec 26]
+CS Sfaxien          1-2 Stade Tunisien
+
+Round 12
+[Dec 20]
+AS Gabès            1-1 US Ben Guerdane
+AS Solimane         0-1 US Monastirienne
+CA Bizertin         1-0 EGS Gafsa
+Stade Tunisien      3-0 Olympique Béja
+[Dec 22]
+Etoile du Sahel     3-0 JS Omrane
+ES Métlaoui         2-1 CS Sfaxien
+US Tataouine        1-1 ES Zarzis
+Espérance de Tunis  2-2 Club Africain
+
+Round 13
+[Dec 28]
+ES Zarzis           2-2 US Ben Guerdane
+JS Omrane           2-2 AS Gabès
+US Tataouine        0-3 AS Solimane
+Club Africain       1-0 CA Bizertin
+[Dec 29]
+CS Sfaxien          0-1 Espérance de Tunis
+EGS Gafsa           1-1 Etoile du Sahel     [annulled; temporarily awarded 0-2
+Olympique Béja      0-1 ES Métlaoui          but eventually replayed Apr 23]
+US Monastirienne    1-0 Stade Tunisien
+[Apr 23]
+EGS Gafsa           2-3 Etoile du Sahel     [replay]
+
+Round 14
+[Jan 4]
+ES Métlaoui         0-0 US Monastirienne
+ES Zarzis           1-0 AS Solimane
+Stade Tunisien      3-1 US Tataouine
+[Jan 5]
+AS Gabès            0-0 EGS Gafsa
+Etoile du Sahel     2-2 Club Africain
+US Ben Guerdane     1-1 JS Omrane
+[Jan 22]
+CA Bizertin         1-1 CS Sfaxien
+Espérance de Tunis  1-1 Olympique Béja
+
+Round 15
+[Jan 11]
+AS Solimane         0-2 Stade Tunisien
+Club Africain       1-0 AS Gabès
+US Tataouine        0-3 ES Métlaoui
+[Jan 12]
+EGS Gafsa           2-1 US Ben Guerdane
+JS Omrane           0-1 ES Zarzis
+Olympique Béja      0-0 CA Bizertin
+[Jan 26]
+CS Sfaxien          0-1 Etoile du Sahel
+US Monastirienne    0-2 Espérance de Tunis
+
+Round 16
+[Jan 18]
+AS Solimane         1-0 ES Métlaoui
+Olympique Béja      0-2 Etoile du Sahel
+[Jan 19]
+EGS Gafsa           0-0 JS Omrane
+Stade Tunisien      1-1 ES Zarzis
+US Monastirienne    3-1 CA Bizertin
+[Jan 26]
+Club Africain       0-0 US Ben Guerdane     [award of 2-0 later revoked]
+[Jan 29]
+CS Sfaxien          1-0 AS Gabès
+US Tataouine        0-2 Espérance de Tunis
+
+Round 17
+[Feb 1]
+ES Métlaoui         0-0 Stade Tunisien
+ES Zarzis           1-0 EGS Gafsa
+JS Omrane           1-1 Club Africain
+[Feb 2]
+AS Gabès            0-1 Olympique Béja
+CA Bizertin         3-1 US Tataouine
+Espérance de Tunis  4-2 AS Solimane
+Etoile du Sahel     1-0 US Monastirienne
+US Ben Guerdane     0-2 CS Sfaxien
+
+Round 18
+[Feb 8]
+AS Solimane         0-2 CA Bizertin
+Olympique Béja      0-0 US Ben Guerdane
+Stade Tunisien      0-1 Espérance de Tunis
+US Tataouine        1-2 Etoile du Sahel
+[Feb 9]
+Club Africain       2-1 EGS Gafsa
+CS Sfaxien          0-0 JS Omrane
+ES Métlaoui         1-0 ES Zarzis
+US Monastirienne    5-0 AS Gabès
+
+Round 19
+[Feb 11]
+CA Bizertin         1-1 Stade Tunisien
+[Feb 12]
+EGS Gafsa           awd CS Sfaxien          [awarded 0-2, originally 0-1]
+ES Zarzis           1-0 Club Africain
+Espérance de Tunis  3-2 ES Métlaoui
+[Feb 13]
+AS Gabès            0-1 US Tataouine
+Etoile du Sahel     2-0 AS Solimane
+JS Omrane           2-2 Olympique Béja
+US Ben Guerdane     0-0 US Monastirienne
+
+Round 20
+[Feb 18]
+AS Solimane         0-0 AS Gabès            [award of 0-2 later revoked]
+ES Métlaoui         2-0 CA Bizertin
+Olympique Béja      3-1 EGS Gafsa
+[Feb 19]
+Espérance de Tunis  4-2 ES Zarzis
+Stade Tunisien      1-3 Etoile du Sahel
+US Tataouine        2-1 US Ben Guerdane
+[Feb 20]
+CS Sfaxien          0-1 Club Africain
+US Monastirienne    7-0 JS Omrane
+
+Round 21
+[Feb 22]
+AS Gabès            1-0 Stade Tunisien
+CA Bizertin         2-1 Espérance de Tunis
+Etoile du Sahel     2-1 ES Métlaoui
+US Ben Guerdane     0-1 AS Solimane         [award of 2-0 later revoked]
+[Feb 23]
+Club Africain       2-0 Olympique Béja
+EGS Gafsa           0-1 US Monastirienne
+ES Zarzis           1-0 CS Sfaxien
+JS Omrane           1-1 US Tataouine
+
+Round 22
+[Feb 26]
+AS Solimane         1-0 JS Omrane
+CA Bizertin         4-1 ES Zarzis
+ES Métlaoui         2-1 AS Gabès
+Espérance de Tunis  3-0 Etoile du Sahel
+[Feb 27]
+Olympique Béja      1-2 CS Sfaxien
+Stade Tunisien      1-0 US Ben Guerdane
+US Monastirienne    1-0 Club Africain
+US Tataouine        0-1 EGS Gafsa
+
+Round 23
+[Mar 1]
+AS Gabès            0-2 Espérance de Tunis
+Etoile du Sahel     1-0 CA Bizertin
+[Mar 2]
+Club Africain       1-0 US Tataouine
+CS Sfaxien          0-0 US Monastirienne
+ES Zarzis           1-0 Olympique Béja
+[Mar 3]
+EGS Gafsa           4-0 AS Solimane
+JS Omrane           1-1 Stade Tunisien
+US Ben Guerdane     2-2 ES Métlaoui
+
+Round 24
+[Mar 8]
+AS Solimane         0-0 Club Africain
+CA Bizertin         2-0 AS Gabès
+Espérance de Tunis  1-1 US Ben Guerdane
+US Tataouine        0-0 CS Sfaxien
+[Mar 9]
+ES Métlaoui         1-0 JS Omrane
+Etoile du Sahel     0-1 ES Zarzis
+Stade Tunisien      2-1 EGS Gafsa
+US Monastirienne    1-0 Olympique Béja
+
+Round 25
+[Mar 12]
+AS Gabès            0-2 Etoile du Sahel
+CS Sfaxien          4-0 AS Solimane
+JS Omrane           2-2 Espérance de Tunis
+US Ben Guerdane     1-0 CA Bizertin
+[Mar 13]
+Club Africain       1-0 Stade Tunisien
+EGS Gafsa           2-0 ES Métlaoui
+ES Zarzis           1-2 US Monastirienne
+Olympique Béja      1-2 US Tataouine
+
+Round 26
+[Apr 12]
+AS Gabès            2-0 ES Zarzis
+ES Métlaoui         1-2 Club Africain
+Etoile du Sahel     2-1 US Ben Guerdane
+Stade Tunisien      1-1 CS Sfaxien
+[Apr 13]
+AS Solimane         1-0 Olympique Béja
+CA Bizertin         4-1 JS Omrane
+Espérance de Tunis  1-0 EGS Gafsa
+US Tataouine        0-1 US Monastirienne
+
+Round 27
+[Apr 19]
+CS Sfaxien          1-1 ES Métlaoui
+ES Zarzis           3-0 US Tataouine
+JS Omrane           1-4 Etoile du Sahel
+Olympique Béja      0-0 Stade Tunisien
+[Apr 20]
+EGS Gafsa           2-0 CA Bizertin
+US Ben Guerdane     3-0 AS Gabès
+US Monastirienne    3-0 AS Solimane
+Club Africain       1-3 Espérance de Tunis
+
+Round 28
+[May 3]
+ES Métlaoui         2-0 Olympique Béja
+Espérance de Tunis  1-0 CS Sfaxien
+Stade Tunisien      0-0 US Monastirienne
+US Ben Guerdane     3-2 ES Zarzis
+[May 4]
+AS Gabès            0-0 JS Omrane
+AS Solimane         0-0 US Tataouine
+CA Bizertin         1-0 Club Africain
+Etoile du Sahel     1-1 EGS Gafsa
+
+Round 29
+[May 10]
+AS Solimane         1-1 ES Zarzis
+EGS Gafsa           0-1 AS Gabès
+JS Omrane           2-1 US Ben Guerdane
+US Tataouine        1-2 Stade Tunisien
+[May 11]
+Club Africain       0-2 Etoile du Sahel
+CS Sfaxien          1-0 CA Bizertin
+Olympique Béja      0-5 Espérance de Tunis
+US Monastirienne    1-1 ES Métlaoui
+
+Round 30
+[May 14]
+AS Gabès            0-0 Club Africain
+ES Métlaoui         3-1 US Tataouine
+ES Zarzis           2-1 JS Omrane
+US Ben Guerdane     3-1 EGS Gafsa
+[May 15]
+CA Bizertin         3-0 Olympique Béja
+Espérance de Tunis  0-0 US Monastirienne
+Etoile du Sahel     0-1 CS Sfaxien
+Stade Tunisien      0-1 AS Solimane
+
+Final Table:
+
+ 1.Espérance de Tunis              30  19  9  2  57-22  66  [C]  Champions
+ 2.US Monastirienne                30  17 11  2  42-11  62
+ 3.Etoile du Sahel                 30  19  4  7  45-24  61
+ 4.Club Africain                   30  15  9  6  34-19  54       [2 1 0 1 1-1 3]
+ 5.ES Zarzis                       30  16  6  8  38-29  54  [P]  [2 1 0 1 1-1 3]
+ 6.Stade Tunisien                  30  13 10  7  29-21  49
+ 7.CS Sfaxien                      30  11 11  8  31-19  44
+ 8.ES Métlaoui                     30  11 10  9  32-27  43
+ 9.CA Bizertin                     30   9  8 13  29-28  35
+10.AS Solimane                     30   7 10 13  18-38  31
+11.US Ben Guerdane                 30   6 12 12  28-33  30
+12.Olympique Béja                  30   7  8 15  19-37  29
+13.AS Gabès                        30   6  8 16  18-38  26  [P]  [2 0 2 0 2-2 2]
+14.JS Omrane                       30   4 14 12  25-46  26  [P]  [2 0 2 0 2-2 2]
+----------------------------------------------------------
+15.EGS Gafsa                       30   6  4 20  24-43  22       Relegated
+16.US Tataouine                    30   5  4 21  19-53  19       Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Coupe de Tunisie  ‹§coupe›
+
+<!-- start pre -->
+1/16 Finals
+[Apr 3]
+CS Khenis                 0-1 JS Mannouba               [aet]
+[Apr 5]
+US Ben Guerdane           0-0 CA Bizertin               [aet, 5-4 pen]
+Olympique de Béja         0-1 CS M'saken
+EGS Gafsa                 2-1 ES Hammam Sousse
+Jendouba Sport            0-1 AS Gabésien
+JS Kairouanaise           1-0 Sfax Railways Sports      [aet]
+[Apr 6]
+US Tataouine              0-1 Club Africain
+ES Métlaoui               0-2 Espérance de Zarzis
+Stade Tunisien            1-0 Olympique Sidi Bouzid
+SS Mornag                 0-1 Etoile Sportive du Sahel
+GS Om Laarayes            1-2 AS Soliman
+US Zriba-Hammam           0-5 CS Sfaxien
+AS Jelma                  1-0 PS Sakiet Eddaier
+[Apr 7]
+US Monastir               2-1 JS Omrane
+[Apr 8]
+CS Bembla                 2-4 CS Hammam-Lif
+[Apr 16]
+Espérance de Tunis        6-0 AS Kasserine
+
+1/8 Finals
+[Apr 26]
+AS Gabésien               0-2 Espérance de Zarzis
+CS Hammam-Lif             0-4 Espérance de Tunis
+US Monastir               5-0 AS Jelma
+[Apr 27]
+US Ben Guerdane           1-0 CS Sfaxien
+JS Mannouba               0-2 Stade Tunisien
+Club Africain             2-1 CS M'saken                [aet]
+EGS Gafsa                 1-0 AS Soliman
+[Apr 30]
+JS Kairouanaise           0-1 Etoile Sportive du Sahel
+
+Quarterfinals
+[May 17]
+US Ben Guerdane           2-2 EGS Gafsa                 [8-7 pen]
+[May 18]
+US Monastir               3-0 Club Africain
+Espérance de Tunis        3-1 Espérance de Zarzis
+Etoile Sportive du Sahel  0-1 Stade Tunisien
+
+Semifinals [May 24]
+US Monastir               0-0 Stade Tunisien            [aet, 2-4 pen]
+US Ben Guerdane           0-3 Espérance de Tunis
+
+Final [Jun 1]
+Espérance de Tunis        1-0 Stade Tunisien
+  [Onuche Ogbelu 64]
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Ligue Professionnelle 2  ‹§lfp2›
+
+<!-- start pre -->
+Final Tables:
+
+Groupe A
+ 1.AS Marsa                        26  15  8  3  40-17  53  [R]  ‹Promoted, see §2fin›
+----------------------------------------------------------
+ 2.Mégrine Sport                   26  15  7  4  49-23  52  [P]
+ 3.Jendouba Sport                  26  14  7  5  38-19  49
+ 4.ES Hammam Sousse                26   8 12  6  36-28  36
+ 5.CS Korba                        26   9  9  8  22-28  36
+ 6.CS Hammam-Lif                   26   8 10  8  25-26  34
+ 7.CS M'saken                      26   7 12  7  18-17  33
+ 8.AS Ariana                       26  10  3 13  33-33  33
+ 9.Kalaa Sport                     26   8  7 11  30-34  31
+10.EM Mahdia                       26   9  4 13  26-37  31
+11.SC Moknine                      26   7  9 10  27-30  30
+12.SA Menzel Bourguiba             26   7  9 10  18-27  30  [P]
+----------------------------------------------------------
+13.AS Oued Ellil                   26   6  9 11  23-32  27       Relegated
+14.ES Radès                        26   2  8 16  16-50  14       Relegated
+
+Groupe B
+ 1.JS Kairouanaise                 26  15  9  2  30-11  54       ‹Promoted, see §2fin›
+----------------------------------------------------------
+ 2.AS Kasserine                    26  16  5  5  36-17  53  [P]
+ 3.OC Kerkennah                    26  12  8  6  36-21  44
+ 4.Sfax Railways Sports            26  12  8  6  35-22  44  [P]
+ 5.PS Sakiet Eddaier               26  13  5  8  32-23  44  [P]
+ 6.Baath Bouhajla                  26   9  6 11  21-22  33  [P]
+ 7.CS Redaief                      26  10  3 13  23-25  33  [P]
+ 8.AS Jelma                        26   9  5 12  26-26  32
+ 9.EO Sidi Bouzid                  26   8  8 10  27-28  32
+10.CS Chebba                       26   9  5 12  24-29  32
+11.Stade Gabésien                  26   8  6 12  13-23  30
+12.AS Agareb                       26   7  9 10  23-35  30  [P]
+----------------------------------------------------------
+13.ES Djerba                       26   6  8 12  15-24  26       Relegated
+14.ES Rogba Tataouine              26   3  5 18  19-54  13  [-1] Relegated
+
+Final  ‹§2fin›
+
+[Jun 4, stade olympique de Sousse]
+AS Marsa            3-1 JS Kairouanaise
+
+NB: both finalists promoted
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page tun2024›
+
+‹list of champions, see page tunchamp›
+
+‹list of final tables, see page tunhist›
+
+‹all-time table, see page tunalltime›
+
+‹list of topscorers, see page tuntops›
+
+‹list of cup finals, see page tuncuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 5 Jun 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

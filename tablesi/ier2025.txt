@@ -1,0 +1,200 @@
+  <!--
+     source: https://rsssf.org/tablesi/ier2025.html
+    -->
+  
+
+
+== Ireland 2025
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹SSE Airtricity League, see §premier›
+‹FAI Cup, see §faicup›
+‹First Division, see §first›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== SSE Airtricity League  ‹§premier›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Shamrock Rovers           36  19  9  8  56-33  66
+ 2.Derry City                36  18  9  9  52-39  63
+ 3.Shelbourne                36  15 14  7  48-37  59  [C]
+ 4.Bohemians                 36  16  6 14  48-39  54
+ 5.Saint Patrick's Athletic  36  13 13 10  42-32  52
+ 6.Drogheda United           36  12 15  9  38-38  51
+ 7.Sligo Rovers              36  11  8 17  42-54  41
+ 8.Galway United             36   9 12 15  37-44  39
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Waterford                 36  11  6 19  41-60  39       ‹Relegation Playoff, see §prorel›
+----------------------------------------------------
+10.Cork City                 36   4 12 20  33-61  24  [P]  Relegated
+
+Promotion/Relegation Playoff  ‹§prorel›
+
+[Nov 7, Drumcondra]
+Bray            1-2 Waterford
+
+NB: both remain at former level
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== FAI Cup  ‹§faicup›
+
+<!-- start pre -->
+Preliminary Round
+[May 11]
+North End United            1-4 Castlebar Celtic
+[May 15]
+Wayside Celtic              4-0 River Valley Rangers
+[May 16]
+Crumlin United              4-2 Lucan United
+[May 17]
+Midleton                    0-6 Killester Donnycarney
+College Corinthians         1-2 Bangor Celtic
+Fairview Rangers            4-0 Baldoyle United
+Ringmahon Rangers           1-3 UCC
+St Mochta's                 4-0 Douglas Hall
+[May 18]
+Leicester Celtic            2-1 Fanad United
+Salthill Devon              2-1 Liffey Wanderers
+Tolka Rovers                3-1 Janesboro
+St. Michael's               w/o Usher Celtic
+
+Round 1
+[Jul 18]
+Bray                        3-0 Wayside Celtic
+Drogheda                    5-0 Crumlin United
+Dundalk                     0-2 Sligo
+Finn Harps                  3-0 UCD
+Galway                      2-0 Tolka Rovers
+Kerry                       2-1 Athlone                     [aet]
+Killester Donnycarney       0-7 Bohemians
+Treaty United               1-5 Derry
+Waterford                   5-1 St Mochta's
+Shamrock                    4-0 Wexford
+[Jul 19]
+Cork                        3-0 Leicester Celtic
+Salthill Devon              1-0 St. Michael's
+Bangor Celtic               0-2 Cobh Ramblers
+Fairview Rangers            0-4 Shelbourne
+[Jul 20]
+Castlebar Celtic            3-6 Longford
+Saint Patrick's             8-0 UCC
+
+1/8 Finals
+[Aug 15]
+Bohemians                   0-1 Sligo
+Cork                        2-1 Waterford
+Finn Harps                  3-1 Bray
+Kerry                       2-0 Cobh Ramblers
+Salthill Devon              0-4 Galway
+[Aug 16]
+Derry                       1-1 Drogheda                    [aet, 0-3 pen]
+[Aug 17]
+Saint Patrick's             2-0 Shelbourne
+Shamrock                    2-1 Longford
+
+Quarterfinals
+[Sep 12]
+Drogheda                    1-1 Shamrock                    [aet, 4-5 pen]
+Finn Harps                  0-3 Cork
+Kerry                       4-3 Sligo                       [aet]
+[Sep 14]
+Saint Patrick's             3-1 Galway                      [aet]
+
+Semifinals
+[Oct 3]
+Cork                        3-0 Saint Patrick's
+[Oct 5]
+Shamrock                    6-1 Kerry
+
+Final [Nov 9]
+Shamrock                    2-0 Cork
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== First Division  ‹§first›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Dundalk                   36  23 10  3  74-31  79  [R]  Promoted
+----------------------------------------------------
+ 2.Cobh Ramblers             36  21  6  9  70-38  69       ‹Promotion Playoff, see §prom›
+ 3.Bray Wanderers            36  20  2 14  63-53  62       ‹Promotion Playoff, see §prom›
+ 4.University College Dublin 36  17  8 11  50-40  59       ‹Promotion Playoff, see §prom›
+ 5.Treaty United             36  13  9 14  51-48  48       ‹Promotion Playoff, see §prom›
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Longford Town             36  12  9 15  43-59  45
+ 7.Wexford FC                36  12  8 16  42-51  44
+ 8.Finn Harps                35   8 12 15  42-55  36
+ 9.Kerry                     35   8  9 18  38-58  33
+10.Athlone Town              36   3 11 22  29-69  20
+
+NB: one match between Kerry and Finn Harps declared void as both fielded ineligible players
+
+Promotion Playoff  ‹§prom›
+
+Semifinals
+
+First Legs [Oct 24]
+UCD             0-1 Bray
+Treaty United   1-0 Cobh
+
+Second Legs [Oct 28]
+Bray            3-2 UCD
+Cobh            1-1 Treaty United   [aet]
+
+Final [Nov 2]
+Bray            1-0 Treaty United
+
+NB: Bray Wanderers ‹play off, see §prorel› against 9th team top flight (Waterford)
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024, see page ier2024›.
+
+‹list of champions, see page ierchamp›.
+
+‹list of final tables, see page ierhist›.
+
+‹all-time table, see page ieralltime›.
+
+‹list of champions (2nd level), see page ier2champ›.
+
+‹list of final tables (2nd level), see page ier2hist›.
+
+‹list of cup winners, see page iercuphist›.
+
+‹list of league cup winners, see page ierleagcuphist›.
+
+‹list of dublin city cup winners, see page ierdublincityhist›.
+
+‹list of top four cup winners, see page iertop4hist›.
+
+‹list of league of ireland shield winners, see page iershieldhist›.
+
+‹list of topscorers, see page iertops›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 14 Nov 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2025
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

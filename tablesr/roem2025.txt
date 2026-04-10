@@ -1,0 +1,1017 @@
+  <!--
+     source: https://rsssf.org/tablesr/roem2025.html
+    -->
+  
+
+
+== Romania 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Liga 1, see §liga1›
+‹Cupa României, see §cupa›
+‹Supercupa României, see §sup›
+‹Liga a 2-a, see §liga2›
+‹Liga a 3-a, see §liga3›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Liga 1  ‹§liga1›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.FCSB                          30  15 11  4  43-24  56  [C]  ‹Championship Playoff, see §champ›
+ 2.CFR 1907 Cluj                 30  14 12  4  56-32  54       ‹Championship Playoff, see §champ›
+ 3.CS Universitatea Craiova      30  14 10  6  45-28  52 [2-1] ‹Championship Playoff, see §champ›
+ 4.AS FC Universitatea Cluj      30  14 10  6  43-27  52 [1-2] ‹Championship Playoff, see §champ›
+ 5.SC Dinamo 1948 SA (București) 30  13 12  5  41-26  51       ‹Championship Playoff, see §champ›
+ 6.Fotbal Club Rapid             30  11 13  6  35-26  46       ‹Championship Playoff, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Sepsi OSK Sfântu Gheorghe     30  11  8 11  38-35  41 [6-3] ‹Relegation Playoff, see §releg›
+ 8.AFC Hermannstadt (Sibiu)      30  11  8 11  34-40  41 [3-6] ‹Relegation Playoff, see §releg›
+ 9.ACS Petrolul 52 Ploiești      30   9 13  8  29-29  40       ‹Relegation Playoff, see §releg›
+10.Farul Constanța               30   8 11 11  29-38  35       ‹Relegation Playoff, see §releg›
+11.AFC UTA Arad                  30   8 10 12  28-35  34       ‹Relegation Playoff, see §releg›
+12.ACS Suporter C. Oțelul Galați 30   7 11 12  24-32  32       ‹Relegation Playoff, see §releg›
+13.ACSM Politehnica Iași         30   8  7 15  29-46  31 [2-1] ‹Relegation Playoff, see §releg›
+14.FC Botoșani                   30   7 10 13  26-37  31 [1-2] ‹Relegation Playoff, see §releg›
+15.AFC Unirea 04 Slobozia        30   7  5 18  28-47  26  [P]  ‹Relegation Playoff, see §releg›
+16.Gloria Buzău                  30   5  5 20  25-51  20  [P]  ‹Relegation Playoff, see §releg›
+
+Round 1
+[Jul 12]
+Farul          0-1 Unirea
+Hermannstadt   0-0 U Craiova
+[Jul 13]
+Sepsi          1-0 Politehnica
+UTA            1-1 Rapid
+[Jul 14]
+FCSB           1-1 U Cluj
+CFR Cluj       3-2 Dinamo
+[Jul 15]
+Botoșani       2-3 Oțelul
+Petrolul       0-0 Gloria
+
+Round 2
+[Jul 19]
+Politehnica    1-0 Botoșani
+Unirea         2-2 FCSB
+[Jul 20]
+U Craiova      4-2 UTA
+Rapid          2-2 CFR Cluj
+[Jul 21]
+U Cluj         3-1 Hermannstadt
+Dinamo         4-1 Petrolul
+[Jul 22]
+Gloria         1-2 Sepsi
+Oțelul         0-0 Farul
+
+Round 3
+[Jul 26]
+Hermannstadt   1-1 Unirea
+FCSB           0-2 Oțelul
+[Jul 27]
+Politehnica    1-2 Gloria
+Sepsi          1-1 Dinamo
+[Jul 28]
+Farul          0-1 Botoșani
+CFR Cluj       0-2 U Craiova
+[Jul 29]
+UTA            0-0 U Cluj
+Petrolul       1-0 Rapid
+
+Round 4
+[Aug 2]
+Oțelul         1-0 Hermannstadt
+Dinamo         4-1 Gloria
+[Aug 3]
+Farul          2-0 Politehnica
+[Aug 4]
+U Craiova      0-0 Petrolul
+CFR Cluj       2-3 U Cluj
+[Aug 5]
+Unirea         0-1 UTA
+Rapid          2-2 Sepsi
+[Nov 21]
+Botoșani       1-0 FCSB
+
+Round 5
+[Aug 9]
+FCSB           3-2 Farul
+[Aug 10]
+Hermannstadt   2-1 Botoșani
+UTA            1-1 Oțelul
+Gloria         1-1 Rapid
+[Aug 11]
+Sepsi          1-2 U Craiova
+CFR Cluj       3-0 Unirea
+[Aug 12]
+Petrolul       0-0 U Cluj
+Politehnica    2-2 Dinamo
+
+Round 6
+[Aug 16]
+Unirea         1-2 Petrolul
+U Craiova      5-1 Gloria
+[Aug 17]
+Botoșani       1-0 UTA
+FCSB           0-1 Politehnica
+[Aug 18]
+Rapid          1-1 Dinamo
+[Aug 19]
+U Cluj         3-0 Sepsi
+Farul          3-2 Hermannstadt
+[Nov 11]
+Oțelul         0-1 CFR Cluj
+
+Round 7
+[Aug 23]
+Petrolul       0-0 Oțelul
+Politehnica    1-2 Rapid
+[Aug 24]
+Sepsi          0-1 Unirea
+Dinamo         2-1 U Craiova
+[Aug 25]
+CFR Cluj       3-0 Botoșani
+Hermannstadt   2-0 FCSB
+[Aug 26]
+Gloria         0-2 U Cluj
+UTA            1-1 Farul
+
+Round 8
+[Aug 30]
+Oțelul         2-0 Sepsi
+[Aug 31]
+Hermannstadt   6-2 Politehnica
+U Craiova      1-1 Rapid
+[Sep 1]
+Botoșani       0-2 Petrolul
+Farul          0-3 CFR Cluj
+FCSB           2-0 UTA
+[Sep 2]
+Unirea         2-1 Gloria
+U Cluj         1-0 Dinamo
+
+Round 9
+[Sep 13]
+Sepsi          3-0 Botoșani
+Dinamo         1-0 Unirea
+[Sep 14]
+Gloria         0-0 Oțelul
+Petrolul       1-1 Farul
+[Sep 15]
+Politehnica    2-0 U Craiova
+CFR Cluj       2-2 FCSB
+[Sep 16]
+UTA            1-1 Hermannstadt
+Rapid          0-2 U Cluj
+
+Round 10
+[Sep 20]
+Botoșani       3-3 Gloria
+Oțelul         1-1 Dinamo
+[Sep 21]
+Hermannstadt   0-0 CFR Cluj
+FCSB           1-1 Petrolul
+[Sep 22]
+Farul          2-1 Sepsi
+U Cluj         1-1 U Craiova
+[Sep 23]
+UTA            0-0 Politehnica
+Unirea         1-2 Rapid
+
+Round 11
+[Sep 27]
+Petrolul       4-1 Hermannstadt
+Dinamo         2-2 Botoșani
+[Sep 28]
+Politehnica    1-0 U Cluj
+CFR Cluj       1-3 UTA
+Rapid          0-0 Oțelul
+[Sep 29]
+Gloria         1-0 Farul
+Sepsi          0-1 FCSB
+[Sep 30]
+U Craiova      3-0 Unirea
+
+Round 12
+[Oct 4]
+UTA            3-1 Petrolul
+Farul          1-1 Dinamo
+[Oct 5]
+Unirea         2-2 U Cluj
+CFR Cluj       2-1 Politehnica
+Oțelul         1-1 U Craiova
+[Oct 6]
+Hermannstadt   0-4 Sepsi
+Botoșani       2-0 Rapid
+FCSB           3-2 Gloria
+
+Round 13
+[Oct 18]
+Gloria         3-0 Hermannstadt
+U Cluj         2-0 Oțelul
+[Oct 19]
+Sepsi          1-0 UTA
+Petrolul       0-0 CFR Cluj
+[Oct 20]
+U Craiova      0-0 Botoșani
+Dinamo         0-2 FCSB
+[Oct 21]
+Politehnica    1-0 Unirea
+Rapid          5-0 Farul
+
+Round 14
+[Oct 25]
+CFR Cluj       3-3 Sepsi
+[Oct 26]
+UTA            1-0 Gloria
+Petrolul       3-1 Politehnica
+Hermannstadt   0-2 Dinamo
+[Oct 27]
+Oțelul         0-2 Unirea
+FCSB           0-0 Rapid
+[Oct 28]
+Botoșani       1-2 U Cluj
+Farul          3-2 U Craiova
+
+Round 15
+[Nov 1]
+Gloria         0-1 CFR Cluj
+[Nov 2]
+Sepsi          1-1 Petrolul
+Dinamo         1-0 UTA
+[Nov 3]
+Politehnica    2-1 Oțelul
+U Cluj         1-1 Farul
+U Craiova      1-1 FCSB
+[Nov 4]
+Unirea         1-0 Botoșani
+Rapid          1-0 Hermannstadt
+
+Round 16
+[Nov 8]
+Oțelul         0-0 Botoșani
+Dinamo         1-1 CFR Cluj
+[Nov 9]
+Politehnica    1-2 Sepsi
+U Craiova      3-1 Hermannstadt
+Rapid          2-0 UTA
+[Nov 10]
+Unirea         0-1 Farul
+U Cluj         1-2 FCSB
+[Nov 11]
+Gloria         0-1 Petrolul
+
+Round 17
+[Nov 22]
+Sepsi          2-0 Gloria
+Farul          0-1 Oțelul
+[Nov 23]
+Hermannstadt   2-1 U Cluj
+CFR Cluj       1-1 Rapid
+[Nov 24]
+FCSB           3-0 Unirea
+Petrolul       0-1 Dinamo
+[Nov 25]
+Botoșani       1-1 Politehnica
+UTA            1-2 U Craiova
+
+Round 18
+[Nov 29]
+Botoșani       0-0 Farul
+Rapid          1-1 Petrolul
+[Nov 30]
+Unirea         1-2 Hermannstadt
+Gloria         2-0 Politehnica
+Dinamo         1-1 Sepsi
+[Dec 1]
+U Craiova      0-2 CFR Cluj
+[Dec 2]
+U Cluj         0-1 UTA
+Oțelul         1-4 FCSB
+
+Round 19
+[Dec 6]
+Sepsi          2-0 Rapid
+[Dec 7]
+Gloria         0-1 Dinamo
+Petrolul       1-1 U Craiova
+[Dec 8]
+UTA            3-4 Unirea
+Politehnica    2-2 Farul
+FCSB           2-1 Botoșani
+[Dec 9]
+Hermannstadt   1-0 Oțelul
+U Cluj         3-2 CFR Cluj
+
+Round 20
+[Dec 13]
+Botoșani       1-2 Hermannstadt
+Dinamo         2-0 Politehnica
+[Dec 14]
+Oțelul         1-1 UTA
+U Craiova      2-1 Sepsi
+U Cluj         4-1 Petrolul
+[Dec 15]
+Unirea         1-1 CFR Cluj
+Farul          1-1 FCSB
+[Dec 16]
+Rapid          2-0 Gloria
+
+Round 21
+[Dec 20]
+Sepsi          0-0 U Cluj
+[Dec 21]
+Hermannstadt   0-0 Farul
+Gloria         0-2 U Craiova
+[Dec 22]
+Petrolul       2-1 Unirea
+CFR Cluj       3-2 Oțelul
+Dinamo         0-0 Rapid
+[Dec 23]
+UTA            2-0 Botoșani
+Politehnica    0-2 FCSB
+
+Round 22
+[Jan 17]
+Unirea         3-2 Sepsi
+FCSB           1-1 Hermannstadt
+[Jan 18]
+U Cluj         2-1 Gloria
+Oțelul         0-0 Petrolul
+[Jan 19]
+Botoșani       1-1 CFR Cluj
+U Craiova      1-1 Dinamo
+[Jan 20]
+Farul          1-1 UTA
+Rapid          2-1 Politehnica
+
+Round 23
+[Jan 24]
+Gloria         3-0 Unirea
+Dinamo         0-0 U Cluj
+[Jan 25]
+Politehnica    0-2 Hermannstadt
+Rapid          1-0 U Craiova
+[Jan 26]
+Sepsi          2-0 Oțelul
+UTA            0-1 FCSB
+[Jan 27]
+Petrolul       3-1 Botoșani
+CFR Cluj       3-1 Farul
+
+Round 24
+[Jan 31]
+Hermannstadt   0-0 UTA
+Unirea         1-3 Dinamo
+[Feb 1]
+Botoșani       0-0 Sepsi
+Oțelul         2-1 Gloria
+U Cluj         2-1 Rapid
+[Feb 2]
+U Craiova      4-1 Politehnica
+FCSB           1-1 CFR Cluj
+[Feb 3]
+Farul          2-1 Petrolul
+
+Round 25
+[Feb 4]
+Gloria         0-2 Botoșani
+Rapid          2-1 Unirea
+Dinamo         1-0 Oțelul
+[Feb 5]
+CFR Cluj       1-0 Hermannstadt
+U Craiova      1-0 U Cluj
+[Feb 6]
+Politehnica    0-1 UTA
+Sepsi          1-0 Farul
+Petrolul       0-0 FCSB
+
+Round 26
+[Feb 7]
+Botoșani       1-1 Dinamo
+[Feb 8]
+Unirea         0-1 U Craiova
+Oțelul         1-1 Rapid
+[Feb 9]
+Hermannstadt   1-1 Petrolul
+U Cluj         2-2 Politehnica
+FCSB           3-0 Sepsi
+[Feb 10]
+Farul          1-0 Gloria
+UTA            1-4 CFR Cluj
+
+Round 27
+[Feb 14]
+Sepsi          2-3 Hermannstadt
+U Craiova      2-1 Oțelul
+[Feb 15]
+Petrolul       0-1 UTA
+Dinamo         0-2 Farul
+[Feb 16]
+Politehnica    1-1 CFR Cluj
+Gloria         0-2 FCSB
+[Feb 17]
+U Cluj         3-2 Unirea
+Rapid          1-0 Botoșani
+
+Round 28
+[Feb 21]
+Hermannstadt   2-1 Gloria
+Oțelul         0-1 U Cluj
+[Feb 22]
+Botoșani       2-2 U Craiova
+CFR Cluj       2-0 Petrolul
+[Feb 23]
+Unirea         0-0 Politehnica
+FCSB           2-1 Dinamo
+[Feb 24]
+UTA            1-2 Sepsi
+Farul          1-3 Rapid
+
+Round 29
+[Feb 28]
+Unirea         0-1 Oțelul
+Sepsi          1-1 CFR Cluj
+[Mar 1]
+U Cluj         0-1 Botoșani
+U Craiova      1-0 Farul
+[Mar 2]
+Politehnica    1-0 Petrolul
+Rapid          0-0 FCSB
+[Mar 3]
+Gloria         1-1 UTA
+Dinamo         2-0 Hermannstadt
+
+Round 30
+[Mar 7]
+Oțelul         2-3 Politehnica
+Farul          1-1 U Cluj
+[Mar 8]
+Petrolul       1-0 Sepsi
+Hermannstadt   1-0 Rapid
+[Mar 9]
+CFR Cluj       6-0 Gloria
+FCSB           1-0 U Craiova
+[Mar 10]
+Botoșani       1-0 Unirea
+UTA            0-2 Dinamo
+
+Final Table:
+
+ 1.FCSB                          30  15 11  4  43-24  56  [C]  ‹Championship Playoff, see §champ›
+ 2.CFR 1907 Cluj                 30  14 12  4  56-32  54       ‹Championship Playoff, see §champ›
+ 3.CS Universitatea Craiova      30  14 10  6  45-28  52 [2-1] ‹Championship Playoff, see §champ›
+ 4.AS FC Universitatea Cluj      30  14 10  6  43-27  52 [1-2] ‹Championship Playoff, see §champ›
+ 5.SC Dinamo 1948 SA (București) 30  13 12  5  41-26  51       ‹Championship Playoff, see §champ›
+ 6.Fotbal Club Rapid             30  11 13  6  35-26  46       ‹Championship Playoff, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Sepsi OSK Sfântu Gheorghe     30  11  8 11  38-35  41 [6-3] ‹Relegation Playoff, see §releg›
+ 8.AFC Hermannstadt (Sibiu)      30  11  8 11  34-40  41 [3-6] ‹Relegation Playoff, see §releg›
+ 9.ACS Petrolul 52 Ploiești      30   9 13  8  29-29  40       ‹Relegation Playoff, see §releg›
+10.Farul Constanța               30   8 11 11  29-38  35       ‹Relegation Playoff, see §releg›
+11.AFC UTA Arad                  30   8 10 12  28-35  34       ‹Relegation Playoff, see §releg›
+12.ACS Suporter C. Oțelul Galați 30   7 11 12  24-32  32       ‹Relegation Playoff, see §releg›
+13.ACSM Politehnica Iași         30   8  7 15  29-46  31 [2-1] ‹Relegation Playoff, see §releg›
+14.FC Botoșani                   30   7 10 13  26-37  31 [1-2] ‹Relegation Playoff, see §releg›
+15.AFC Unirea 04 Slobozia        30   7  5 18  28-47  26  [P]  ‹Relegation Playoff, see §releg›
+16.Gloria Buzău                  30   5  5 20  25-51  20  [P]  ‹Relegation Playoff, see §releg›
+
+Playoff Stage  ‹§play›
+
+‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
+
+Championship Playoff  ‹§champ›
+
+Final Table:
+
+ 1.FCSB                          10   7  3  0  18- 9  52  [28]  [C]  Champions
+ 2.CFR 1907 Cluj                 10   4  4  2  17-11  43  [27]
+ 3.CS Universitatea Craiova      10   4  2  4  13-11  40  [26]
+ 4.AS FC Universitatea Cluj      10   4  1  5  12-15  39  [26]
+ 5.Fotbal Club Rapid             10   2  4  4  12-17  33  [23]
+ 6.SC Dinamo 1948 SA (București) 10   1  2  7  10-19  31  [26*]
+
+NB: bonus points regular stage (halved points rounded upwards) between square brackets;
+    first tie-breaker whether or not a club profited by half a point from the rounding
+    (indicated by * if yes); second tie-breaker head-to-head results
+
+Round 1
+[Mar 14]
+U Craiova      3-0 U Cluj
+[Mar 15]
+CFR Cluj       3-1 Dinamo
+[Mar 16]
+FCSB           3-3 Rapid
+
+Round 2
+[Mar 29]
+Rapid          1-2 U Craiova
+[Mar 30]
+Dinamo         1-2 FCSB
+[Mar 31]
+U Cluj         1-0 CFR Cluj
+
+Round 3
+[Apr 5]
+FCSB           1-0 U Cluj
+[Apr 6]
+Rapid          1-0 Dinamo
+[Apr 7]
+CFR Cluj       2-0 U Craiova
+
+Round 4
+[Apr 12]
+U Cluj         2-4 Dinamo
+[Apr 13]
+U Craiova      0-0 FCSB
+[Apr 14]
+CFR Cluj       1-1 Rapid
+
+Round 5
+[Apr 19]
+Rapid          0-2 U Cluj
+[Apr 20]
+FCSB           3-2 CFR Cluj
+[Apr 21]
+Dinamo         0-2 U Craiova
+
+Round 6
+[Apr 26]
+U Cluj         2-1 U Craiova
+[Apr 27]
+Rapid          1-2 FCSB
+[Apr 28]
+Dinamo         1-1 CFR Cluj
+
+Round 7
+[May 2]
+U Craiova      1-2 Rapid
+[May 3]
+CFR Cluj       1-0 U Cluj
+[May 5]
+FCSB           3-1 Dinamo
+
+Round 8
+[May 10]
+U Craiova      2-2 CFR Cluj
+[May 11]
+U Cluj         0-2 FCSB
+[May 12]
+Dinamo         0-0 Rapid
+
+Round 9
+[May 16]
+Dinamo         1-3 U Cluj
+[May 17]
+FCSB           1-0 U Craiova
+[May 19]
+Rapid          1-4 CFR Cluj
+
+Round 10
+[May 23]
+CFR Cluj       1-1 FCSB
+[May 24]
+U Cluj         2-2 Rapid
+U Craiova      2-1 Dinamo
+
+Final Table:
+
+ 1.FCSB                          10   7  3  0  18- 9  52  [28]  [C]  Champions
+ 2.CFR 1907 Cluj                 10   4  4  2  17-11  43  [27]
+ 3.CS Universitatea Craiova      10   4  2  4  13-11  40  [26]
+ 4.AS FC Universitatea Cluj      10   4  1  5  12-15  39  [26]
+ 5.Fotbal Club Rapid             10   2  4  4  12-17  33  [23]
+ 6.SC Dinamo 1948 SA (București) 10   1  2  7  10-19  31  [26*]
+
+NB: bonus points regular stage (halved points rounded upwards) between square brackets;
+    first tie-breaker whether or not a club profited by half a point from the rounding
+    (indicated by * if yes); second tie-breaker head-to-head results
+
+Playout (Relegation Playoff)  ‹§releg›
+
+Final Table:
+
+ 7.AFC Hermannstadt (Sibiu)       9   4  3  2  12- 8  36  [21*]
+ 8.ACS Suporter C. Oțelul Galați  9   6  1  2  13- 5  35  [16]
+ 9.ACS Petrolul 52 Ploiești       9   3  2  4  10-10  31  [20]
+10.AFC UTA Arad                   9   4  2  3   9-11  31  [17]
+11.Farul Constanța                9   3  4  2  12- 9  31  [18*]
+12.FC Botoșani                    9   4  1  4  11-12  29  [16*]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+13.ACSM Politehnica Iași          9   3  3  3   9- 5  28  [16*]      ‹Relegation Playoff, see §prorel›
+14.AFC Unirea 04 Slobozia         9   3  5  1  11- 8  27  [13]  [P]  ‹Relegation Playoff, see §prorel›
+--------------------------------------------------------
+15.Sepsi OSK Sfântu Gheorghe      9   1  2  6   7-16  26  [21*]      Relegated
+16.Gloria Buzău                   9   2  1  6   4-14  17  [10]  [P]  Relegated
+
+NB: bonus points regular stage (halved points rounded upwards) between square brackets;
+    first tie-breaker whether or not a club profited by half a point from the rounding
+    (indicated by * if yes);
+    second tie-breaker points in regular stage;
+    third tie-breaker head-to-head results
+
+Round 1
+[Mar 14]
+Petrolul       0-2 Botoșani
+[Mar 15]
+Farul          0-0 Politehnica
+[Mar 16]
+Hermannstadt   1-1 Unirea
+UTA            2-0 Oțelul
+[Mar 17]
+Sepsi          1-2 Gloria
+
+Round 2
+[Mar 28]
+Unirea         0-0 Petrolul
+Sepsi          0-2 Hermannstadt
+[Mar 29]
+Botoșani       4-3 Farul
+[Mar 30]
+Politehnica    4-0 UTA
+[Mar 31]
+Gloria         0-2 Oțelul
+
+Round 3
+[Apr 4]
+Oțelul         1-0 Politehnica
+Petrolul       2-1 Sepsi
+[Apr 5]
+UTA            1-0 Botoșani
+[Apr 6]
+Hermannstadt   0-2 Gloria
+[Apr 7]
+Farul          1-1 Unirea
+
+Round 4
+[Apr 11]
+Gloria         0-1 Politehnica
+Hermannstadt   1-1 Petrolul
+[Apr 12]
+Sepsi          1-4 Farul
+[Apr 13]
+Unirea         2-1 UTA
+[Apr 14]
+Botoșani       0-1 Oțelul
+
+Round 5
+[Apr 18]
+Oțelul         2-0 Unirea
+UTA            1-1 Sepsi
+[Apr 19]
+Farul          1-1 Hermannstadt
+[Apr 20]
+Politehnica    3-0 Botoșani
+[Apr 21]
+Petrolul       4-0 Gloria
+
+Round 6
+[Apr 25]
+Unirea         1-1 Politehnica
+Sepsi          0-3 Oțelul
+[Apr 26]
+Hermannstadt   3-0 UTA
+[Apr 27]
+Gloria         0-2 Botoșani
+[Apr 28]
+Petrolul       0-1 Farul
+
+Round 7
+[May 2]
+Politehnica    0-0 Sepsi
+[May 3]
+Botoșani       1-1 Unirea
+Farul          1-0 Gloria
+[May 4]
+Oțelul         1-2 Hermannstadt
+[May 5]
+UTA            2-0 Petrolul
+
+Round 8
+[May 9]
+Gloria         0-3 Unirea
+Sepsi          2-0 Botoșani
+[May 10]
+Farul          1-2 UTA
+Hermannstadt   1-0 Politehnica
+[May 12]
+Petrolul       1-3 Oțelul
+
+Round 9
+[May 16]
+Oțelul         0-0 Farul
+[May 17]
+Botoșani       2-1 Hermannstadt
+UTA            0-0 Gloria
+[May 18]
+Politehnica    0-2 Petrolul
+Unirea         2-1 Sepsi
+
+Final Table:
+
+ 7.AFC Hermannstadt (Sibiu)       9   4  3  2  12- 8  36  [21*]
+ 8.ACS Suporter C. Oțelul Galați  9   6  1  2  13- 5  35  [16]
+ 9.ACS Petrolul 52 Ploiești       9   3  2  4  10-10  31  [20]
+10.AFC UTA Arad                   9   4  2  3   9-11  31  [17]
+11.Farul Constanța                9   3  4  2  12- 9  31  [18*]
+12.FC Botoșani                    9   4  1  4  11-12  29  [16*]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+13.ACSM Politehnica Iași          9   3  3  3   9- 5  28  [16*]      ‹Relegation Playoff, see §prorel›
+14.AFC Unirea 04 Slobozia         9   3  5  1  11- 8  27  [13]  [P]  ‹Relegation Playoff, see §prorel›
+--------------------------------------------------------
+15.Sepsi OSK Sfântu Gheorghe      9   1  2  6   7-16  26  [21*]      Relegated
+16.Gloria Buzău                   9   2  1  6   4-14  17  [10]  [P]  Relegated
+
+NB: bonus points regular stage (halved points rounded upwards) between square brackets;
+    first tie-breaker whether or not a club profited by half a point from the rounding
+    (indicated by * if yes);
+    second tie-breaker points in regular stage;
+    third tie-breaker head-to-head results
+
+Promotion/Relegation Playoff  ‹§prorel›
+
+First Legs
+[May 25]
+Politehnica    1-1 Metaloglobus
+[May 26]
+Voluntari      2-1 Unirea
+
+Second Legs
+[Jun 1]
+Metaloglobus   1-0 Politehnica
+[Jun 2]
+Unirea         1-0 Voluntari      [aet, 4-3 pen]
+
+NB: Metaloglobus București promoted, Politehnica Iași relegated
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Cupa României  ‹§cupa›
+
+<!-- start pre -->
+Group Stage
+
+Final Tables:
+
+Grupa A
+ 1.CFR 1907 Cluj                  3   2  1  0   6- 3   7  Quarterfinals
+ 2.Fotbal Club Rapid              3   2  0  1   5- 2   6  Quarterfinals
+ 3.FC Botoșani                    3   2  0  1   4- 2   6
+ 4.CS Afumați                     3   1  1  1   2- 3   4
+ 5.ACSM Ceahlăul Piatra Neamț     3   0  1  2   1- 3   1
+ 6.ACS Campionii FC Argeș         3   0  1  2   2- 7   1
+
+Grupa B
+ 1.AFC Metalul Buzău              3   2  1  0   4- 0   7  Quarterfinals
+ 2.CS Universitatea Craiova       3   2  0  1   4- 1   6  Quarterfinals
+ 3.FCSB                           3   2  0  1   6- 3   6
+ 4.ACS Petrolul 52 Ploiești       3   1  1  1   3- 2   4
+ 5.SC Dinamo 1948 SA (București)  3   0  2  1   0- 4   2
+ 6.AS FC Agricola Borcea          3   0  0  3   1- 8   0
+
+Grupa C
+ 1.Farul Constanța                3   1  2  0   7- 3   5  Quarterfinals
+ 2.ACSM Politehnica Iași          3   1  2  0   3- 2   5  Playoff for 2nd Place
+   AFC Hermannstadt (Sibiu)       3   1  2  0   3- 2   5  Playoff for 2nd Place
+ 4.CS Sănătatea Servicii Publice  3   0  2  1   3- 4   2
+   CS Unirea Ungheni 2018         3   0  2  1   3- 4   2
+ 6.AFC UTA Arad                   3   0  2  1   3- 7   2
+
+Playoff for 2nd Place [Feb 26]
+Politehnica    0-1 Hermannstadt   [aet]
+NB: AFC Hermannstadt qualified for quarterfinals
+
+Grupa D
+ 1.CS Muncitoresc Reșița          3   2  1  0   4- 1   7  Playoff for 1st Place
+   CSM Unirea Alba Iulia          3   2  1  0   4- 1   7  Playoff for 1st Place
+ 3.AFK Csíkszereda (Mierc. Ciuc)  3   1  2  0   2- 1   5
+ 4.ACS Suporter C. Oțelul Galați  3   1  1  1   5- 4   4
+ 5.Sepsi OSK Sfântu Gheorghe      3   0  1  2   1- 4   1
+ 6.SCM Râmnicu Vâlcea             3   0  0  3   3- 8   0
+
+Playoff [Feb 23]
+CSM Reșița     1-0 Unirea A.I.
+NB: both qualified for quarterfinals
+
+Quarterfinals
+[Apr 1]
+Farul          3-0 Unirea A.I.
+[Apr 2]
+CSM Reșița     0-4 Hermannstadt
+Metalul B      0-3 Rapid
+[Apr 3]
+CFR Cluj       1-1 U Craiova      [aet, 5-3 pen]
+
+Semifinals
+[Apr 23]
+Hermannstadt   2-1 Rapid
+[Apr 24]
+CFR Cluj       4-1 Farul
+
+Final [May 14, Arad]
+CFR Cluj       3-2 Hermannstadt
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Supercupa României  ‹§sup›
+
+<!-- start pre -->
+[Jul 5, București]
+FCSB           2-1 CFR Cluj
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Liga a 2-a  ‹§liga2›
+
+<!-- start pre -->
+‹Regular Stage, see §2reg› | ‹Playoff Stage, see §2play›
+
+Regular Stage  ‹§2reg›
+
+Final Table:
+
+ 1.AFK Csíkszereda (Mierc. Ciuc) 19  14  2  3  37-17  44       ‹Promotion Playoff, see §2prom›
+ 2.CSA Steaua București          19  11  8  0  24- 8  41       ‹Promotion Playoff, see §2prom›
+ 3.FC Metaloglobus București     19  12  2  5  30-19  38       ‹Promotion Playoff, see §2prom›
+ 4.CS Muncitoresc Reșița         19  10  4  5  31-22  34       ‹Promotion Playoff, see §2prom›
+ 5.ACS Campionii FC Argeș        19   9  7  3  19-10  34       ‹Promotion Playoff, see §2prom›
+ 6.SC FC Voluntari SA            19   9  6  4  27-16  33  [R]  ‹Promotion Playoff, see §2prom›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.CS Corvinul 1921 Hunedoara    19   8  5  6  18-16  29       ‹Playout, see §2releg›
+ 8.ACSM Ceahlăul Piatra Neamț    19   7  6  6  22-22  27       ‹Playout, see §2releg›
+ 9.U Craiova 1948 SA             19   7  6  6  21-21  27  [R]  ‹Playout, see §2releg›
+10.CS Afumați                    19   8  3  8  21-25  27  [P]  ‹Playout, see §2releg›
+11.CSM Slatina                   19   7  5  7  26-19  26       ‹Playout, see §2releg›
+12.CS Unirea Ungheni 2018        19   7  5  7  19-20  26  [P]  ‹Playout, see §2releg›
+13.AFC Metalul Buzău             19   6  5  8  18-20  23  [P]  ‹Playout, see §2releg›
+14.CS Concordia Chiajna          19   6  5  8  25-29  23       ‹Playout, see §2releg›
+15.FC Bihor Oradea               19   5  4 10  18-26  19  [P]  ‹Playout, see §2releg›
+16.AFC Chindia Târgoviște        19   4  6  9  20-23  18       ‹Playout, see §2releg›
+17.CS Comunal 1599 Șelimbăr      19   4  6  9  20-24  18       ‹Playout, see §2releg›
+18.CSC Dumbrăvița                19   4  3 12  15-25  15       ‹Playout, see §2releg›
+19.CSM Focșani 2007              19   3  5 11  10-22  14  [P]  ‹Playout, see §2releg›
+20.AFC Câmpulung-Muscel 2022     19   2  1 16   7-44   7  [P]  ‹Playout, see §2releg›
+ -.CS Mioveni                    relegated to lowest level for financial reasons
+ -.ACS Viit. Pandurii Târgu Jiu  relegated to lowest level for financial reasons
+
+Playoff Stage  ‹§2play›
+
+‹Promotion Playoff, see §2prom› | ‹Playout, see §2releg› | ‹Relegation Playoff, see §2baraj›
+
+Promotion Playoff  ‹§2prom›
+
+Final Table:
+
+ 1.ACS Campionii FC Argeș        10   7  2  1  19- 5  57  [34]       Promoted
+ 2.CSA Steaua București          10   4  2  4  14-14  55  [41]       [*]
+--------------------------------------------------------
+ 3.AFK Csíkszereda (Mierc. Ciuc) 10   2  4  4   7-14  54  [44]       Promoted
+ 4.SC FC Voluntari SA            10   3  5  2  10- 7  47  [33]  [R]  ‹Promotion Playoff, see §prorel›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.FC Metaloglobus București     10   2  2  6   7-17  46  [38]       ‹Promotion Playoff, see §prorel›
+ 6.CS Muncitoresc Reșița         10   2  5  3  11-11  45  [34]
+
+[*] Steaua București ineligible for promotion as they are not privately owned
+
+NB: points regular season between square brackets (also first tie-breaker)
+
+Playout  ‹§2releg›
+
+Final Tables:
+
+Grupa A
+ 1.CS Corvinul 1921 Hunedoara     6   5  0  1  16- 5  44  [29]
+ 2.U Craiova 1948 SA              6   2  0  4   6-11  33  [27]  [R]
+ 3.AFC Metalul Buzău              6   3  1  2   9-10  33  [23]  [P]
+ 4.FC Bihor Oradea                6   4  1  1  14- 8  32  [19]  [P]
+ 5.CS Unirea Ungheni 2018         6   1  1  4   4-13  30  [26]  [P]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.CSC Dumbrăvița                 6   2  1  3   5- 5  22  [15]       ‹Relegation Playoff, see §2baraj›
+--------------------------------------------------------
+ 7.CSM Focșani 2007               6   1  2  3   6- 8  19  [14]  [P]  Relegated
+
+NB: points regular season between square brackets (also first tie-breaker)
+
+Grupa B
+ 1.CSM Slatina                    6   3  3  0  10- 3  38  [26]
+ 2.ACSM Ceahlăul Piatra Neamț     6   2  2  2  10- 9  35  [27]
+ 3.CS Afumați                     6   1  1  4   5-12  31  [27]  [P]
+ 4.CS Comunal 1599 Șelimbăr       6   4  1  1  13- 6  31  [18]
+ 5.CS Concordia Chiajna           6   2  1  3   9-11  30  [23]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.AFC Chindia Târgoviște         6   2  3  1  10- 8  27  [18]       ‹Relegation Playoff, see §2baraj›
+--------------------------------------------------------
+ 7.AFC Câmpulung-Muscel 2022      6   1  1  4   8-16  11  [ 7]  [P]  Relegated
+
+NB: points regular season between square brackets (also first tie-breaker)
+
+Relegation Playoff  ‹§2baraj›
+
+First Leg [May 17]
+Dumbrăvița     0-1 Chindia
+
+Second Leg [May 24]
+Chindia        3-2 Dumbrăvița
+
+NB: CSC Dumbrăvița relegated
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Liga a 3-a  ‹§liga3›
+
+<!-- start pre -->
+Baraj   ‹§3baraj›
+
+NB: Sporting Liești, CSO Băicoi and CSO Filiași excluded for failing
+    to meet requirements on youth teams
+
+Semifinals
+
+First Legs [May 21]
+CS Sporting Liești             o/w ACS FC Bacău
+CS Știința Miroslava           1-2 ACS Unirea Braniștea
+ACS Vedița Colonești           1-0 SC Popești-Leordeni
+AFC Dunărea 2005 Călărași      2-4 CS Dinamo București
+CSO Băicoi                     o/w CS Tunari
+CS Blejoi                      0-3 AFC Odorheiu Secuiesc
+ACSO Filiași                   o/w CS Gloria 2018 Bistrița-Năsăud
+CSM Unirea Alba Iulia          1-0 SCM Râmnicu Vâlcea
+CSM Olimpia Satu Mare          2-2 ACS Minerul Lupeni
+SSU Politehnica Timișoara      1-2 CS Minaur Baia Mare
+
+Second Legs [May 24]
+ACS FC Bacău                   w/o CS Sporting Liești
+ACS Unirea Braniștea           4-3 CS Știința Miroslava
+SC Popești-Leordeni            1-1 ACS Vedița Colonești           [aet]
+CS Dinamo București            1-1 AFC Dunărea 2005 Călărași
+CS Tunari                      w/o CSO Băicoi
+AFC Odorheiu Secuiesc          4-1 CS Blejoi
+CS Gloria 2018 Bistrița-Năsăud w/o ACSO Filiași
+SCM Râmnicu Vâlcea             1-0 CSM Unirea Alba Iulia          [aet, 4-2 pen]
+ACS Minerul Lupeni             0-4 CSM Olimpia Satu Mare
+CS Minaur Baia Mare            1-2 SSU Politehnica Timișoara      [aet, 6-7 pen]
+
+Finals
+
+First Legs [May 31]
+ACS FC Bacău                   3-1 ACS Unirea Braniștea
+ACS Vedița Colonești           2-4 CS Dinamo București
+CS Tunari                      4-0 AFC Odorheiu Secuiesc
+CS Gloria 2018 Bistrița-Năsăud 1-0 SCM Râmnicu Vâlcea
+CSM Olimpia Satu Mare          2-0 SSU Politehnica Timișoara
+
+Second Legs [Jun 4]
+ACS Unirea Braniștea           2-3 ACS FC Bacău
+CS Dinamo București            1-1 ACS Vedița Colonești
+AFC Odorheiu Secuiesc          1-1 CS Tunari
+SCM Râmnicu Vâlcea             3-2 CS Gloria 2018 Bistrița-Năsăud [aet, 4-5 pen]
+SSU Politehnica Timișoara      1-2 CSM Olimpia Satu Mare
+
+NB: ACS FC Bacău, CS Dinamo București, CS Tunari, CS Gloria 2018 Bistrița-Năsăud
+    and CSM Olimpia Satu Mare promoted
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page roem2024›.
+
+‹list of champions, see page roemchamp›.
+
+‹list of cup finals, see page roemcuphist›.
+
+‹list of super cup finals, see page roemsupcuphist›.
+
+‹list of league cup finals, see page roemleagcuphist›.
+
+‹all-time table, see page roemalltime›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans
+the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 17 Nov 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

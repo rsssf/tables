@@ -1,0 +1,502 @@
+  <!--
+     source: https://rsssf.org/tablese/ethi2026.html
+    -->
+  
+
+
+== Ethiopia 2025/26
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Ethiopia Premier League, see §epl›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Ethiopia Premier League  ‹§epl›
+
+<!-- start pre -->
+Table:
+
+ 1.Sidama Coffee                      24  12  9  3  30-14  45
+ 2.Awassa City                        24  11  7  6  28-18  40
+ 3.Negele Arsii                       24  10  8  6  22-16  38  [P]
+ 4.EEPCO                              24   9 10  5  19-13  37
+ 5.Defence                            24   9  9  6  29-19  36
+ 6.Fasil City                         24   8 11  5  17-15  35
+ 7.Adama City                         24   7 12  5  22-23  33
+ 8.Ethiopian Coffee                   23   9  5  9  23-24  32
+ 9.Bahir Dar City                     24   6 13  5  17-17  31
+10.Commercial Banks of Ethiopia       24   7  9  8  32-32  30
+11.Sheger City                        24   6 12  6  21-21  30  [P]
+12.Hadiya Hossana                     24   7  8  9  20-25  29
+13.Ethiopia Medhin FC                 24   6 10  8  19-18  28  [C]
+14.Welwalo Adigrat University         24   6 10  8  17-23  28
+15.Dire Dawa City                     24   6 10  8  17-25  28
+16.Welayta Dicha                      24   5 12  7  26-26  27
+17.Midre Genet Shire                  24   6  9  9  16-19  27  [*]
+18.Saint George                       23   6  7 10  16-20  25
+19.Mekelle 70 Enderta                 24   4 11  9  15-25  23
+20.Arba Minch City                    24   3 10 11  16-29  19
+
+[*] Suhul Shire were renamed Midre Genet Shire
+
+Round 1
+[Oct 18]
+EEPCO             1-0 Sheger City
+Welwalo A. Univ.  1-4 Sidama Coffee
+Negele Arsii      1-1 Arba Minch City
+Dire Dawa City    0-2 Awassa City
+[Oct 19]
+Fasil City        1-1 Banks
+Ethiopian Coffee  0-1 Saint George
+Defence           1-0 Welayta Dicha
+[Oct 20]
+Adama City        0-0 Ethiopia Medhin
+Bahir Dar City    3-1 Hadiya Hossana
+Midre Genet Shire 1-0 Mekelle 70
+
+Round 2
+[Oct 23]
+Ethiopian Coffee  2-1 Negele Arsii
+Welwalo A. Univ.  0-2 Fasil City
+Sheger City       0-0 Adama City
+Welayta Dicha     0-1 Dire Dawa City
+[Oct 24]
+Arba Minch City   1-1 Bahir Dar City
+Mekelle 70        awd Defence           [awarded 0-3, originally 2-2]
+Hadiya Hossana    0-0 EEPCO
+Banks             0-0 Midre Genet Shire
+[Oct 25]
+Sidama Coffee     1-0 Awassa City
+[Nov 16]
+Saint George      1-0 Ethiopia Medhin
+
+Round 3
+[Oct 28]
+EEPCO             3-1 Arba Minch City
+Midre Genet Shire 0-0 Welwalo A. Univ.
+Bahir Dar City    0-0 Ethiopian Coffee
+Defence           3-1 Banks
+[Oct 29]
+Awassa City       2-1 Welayta Dicha
+Negele Arsii      0-1 Saint George
+Fasil City        1-0 Sidama Coffee
+[Oct 30]
+Adama City        0-0 Hadiya Hossana
+Dire Dawa City    awd Mekelle 70        [awarded 3-0, originally 2-1]
+[Dec 10]
+Ethiopia Medhin   1-0 Sheger City
+
+Round 4
+[Nov 2]
+Ethiopian Coffee  0-1 EEPCO
+Sidama Coffee     2-0 Welayta Dicha
+Negele Arsii      0-0 Bahir Dar City
+Fasil City        1-0 Midre Genet Shire
+[Nov 3]
+Hadiya Hossana    1-2 Ethiopia Medhin
+Mekelle 70        awd Awassa City       [awarded 0-3, originally 1-3]
+Saint George      0-1 Sheger City
+[Nov 4]
+Banks             2-0 Dire Dawa City
+Arba Minch City   0-1 Adama City
+Welwalo A. Univ.  0-2 Defence
+
+Round 5
+[Nov 7]
+EEPCO             0-0 Negele Arsii
+Welayta Dicha     2-2 Mekelle 70
+[Nov 8]
+Bahir Dar City    1-3 Saint George
+Midre Genet Shire 1-2 Sidama Coffee
+Ethiopia Medhin   0-0 Arba Minch City
+Dire Dawa City    2-1 Welwalo A. Univ.
+[Nov 9]
+Adama City        1-0 Ethiopian Coffee
+Awassa City       1-1 Banks
+Sheger City       1-1 Hadiya Hossana
+Defence           0-0 Fasil City
+
+Round 6
+[Nov 20]
+Sidama Coffee     0-0 Mekelle 70
+Negele Arsii      2-1 Adama City
+[Nov 21]
+Welwalo A. Univ.  0-1 Awassa City
+Ethiopian Coffee  2-3 Ethiopia Medhin
+Banks             1-1 Welayta Dicha
+Saint George      0-1 Hadiya Hossana
+[Nov 22]
+Midre Genet Shire 2-2 Defence
+Arba Minch City   0-1 Sheger City
+Fasil City        0-0 Dire Dawa City
+Bahir Dar City    2-0 EEPCO
+
+Round 7
+[Nov 25]
+Welayta Dicha     2-1 Welwalo A. Univ.
+Adama City        1-0 Bahir Dar City
+Ethiopia Medhin   0-1 Negele Arsii
+[Nov 26]
+Defence           1-2 Sidama Coffee
+EEPCO             1-0 Saint George
+Awassa City       0-1 Fasil City
+Sheger City       1-2 Ethiopian Coffee
+[Nov 27]
+Dire Dawa City    0-2 Midre Genet Shire
+Hadiya Hossana    1-1 Arba Minch City
+Mekelle 70        2-2 Banks
+
+Round 8
+[Nov 30]
+Fasil City        1-1 Welayta Dicha
+Bahir Dar City    1-0 Ethiopia Medhin
+Welwalo A. Univ.  1-0 Mekelle 70
+EEPCO             0-0 Adama City
+[Dec 1]
+Midre Genet Shire 1-0 Awassa City
+Ethiopian Coffee  1-0 Hadiya Hossana
+Sidama Coffee     1-0 Banks
+[Dec 2]
+Defence           1-1 Dire Dawa City
+Saint George      1-0 Arba Minch City
+Negele Arsii      2-2 Sheger City
+
+Round 9
+[Dec 5]
+Welayta Dicha     1-1 Midre Genet Shire
+Ethiopia Medhin   1-1 EEPCO
+[Dec 6]
+Banks             1-2 Welwalo A. Univ.
+Adama City        1-0 Saint George
+Dire Dawa City    0-0 Sidama Coffee
+Sheger City       3-1 Bahir Dar City
+[Dec 7]
+Awassa City       1-1 Defence
+Hadiya Hossana    1-2 Negele Arsii
+Mekelle 70        1-1 Fasil City
+Arba Minch City   0-0 Ethiopian Coffee
+
+Inter-Group Stage
+
+Round 10
+[Dec 19]
+Banks             3-1 Arba Minch City
+Midre Genet Shire 0-0 Bahir Dar City
+Mekelle 70        1-2 Hadiya Hossana
+[Dec 20]
+Welwalo A. Univ.  1-1 Ethiopian Coffee
+Welayta Dicha     3-1 Sheger City
+Fasil City        1-0 Negele Arsii
+Awassa City       2-1 Ethiopia Medhin
+[Dec 21]
+Dire Dawa City    1-1 Adama City
+Sidama Coffee     1-1 Saint George
+Defence           0-0 EEPCO
+
+Round 11
+[Dec 24]
+Negele Arsii      1-0 Welwalo A. Univ.
+Arba Minch City   0-2 Mekelle 70
+Bahir Dar City    0-0 Fasil City
+Hadiya Hossana    2-1 Welayta Dicha
+[Dec 25]
+EEPCO             1-0 Midre Genet Shire
+Sheger City       1-2 Awassa City
+Ethiopian Coffee  1-2 Dire Dawa City
+Saint George      1-1 Banks
+[Dec 26]
+Adama City        1-3 Defence
+Ethiopia Medhin   1-1 Sidama Coffee
+
+Round 12
+[Dec 29]
+Fasil City        1-0 EEPCO
+Welayta Dicha     0-0 Arba Minch City
+Welwalo A. Univ.  0-0 Bahir Dar City
+Mekelle 70        1-1 Saint George
+[Dec 30]
+Dire Dawa City    0-3 Negele Arsii
+Awassa City       0-1 Hadiya Hossana
+Midre Genet Shire 0-1 Adama City
+Sidama Coffee     2-0 Sheger City
+[Dec 31]
+Defence           0-1 Ethiopian Coffee
+Banks             2-1 Ethiopia Medhin
+
+Round 13
+[Jan 3]
+Adama City        0-0 Fasil City
+Saint George      1-1 Welayta Dicha
+EEPCO             0-0 Welwalo A. Univ.
+Arba Minch City   0-0 Awassa City
+[Jan 4]
+Defence           0-2 Negele Arsii
+Sheger City       1-1 Banks
+Ethiopian Coffee  1-3 Midre Genet Shire
+Hadiya Hossana    0-2 Sidama Coffee
+[Jan 5]
+Bahir Dar City    0-0 Dire Dawa City
+Ethiopia Medhin   0-1 Mekelle 70
+
+Round 14
+[Jan 8]
+Midre Genet Shire 0-1 Negele Arsii
+Sidama Coffee     0-0 Arba Minch City
+Welwalo A. Univ.  1-1 Adama City
+[Jan 9]
+Awassa City       1-0 Saint George
+Dire Dawa City    0-0 EEPCO
+Mekelle 70        0-0 Sheger City
+[Jan 10]
+Defence           1-2 Bahir Dar City
+Banks             0-0 Hadiya Hossana
+Fasil City        0-2 Ethiopian Coffee
+Welayta Dicha     1-2 Ethiopia Medhin
+
+Round 15
+[Jan 15]
+Ethiopia Medhin   0-0 Welwalo A. Univ.
+Bahir Dar City    0-0 Mekelle 70
+[Jan 16]
+Sheger City       0-0 Fasil City
+Negele Arsii      1-1 Welayta Dicha
+Hadiya Hossana    3-1 Midre Genet Shire
+EEPCO             2-1 Banks
+[Jan 17]
+Arba Minch City   0-2 Defence
+Ethiopian Coffee  1-1 Awassa City
+Saint George      4-0 Dire Dawa City
+Adama City        2-2 Sidama Coffee
+
+Round 16
+[Jan 20]
+Welayta Dicha     0-0 Bahir Dar City
+Mekelle 70        2-1 EEPCO
+[Jan 21]
+Welwalo A. Univ.  1-1 Sheger City
+Banks             2-3 Adama City
+Midre Genet Shire 1-0 Arba Minch City
+Awassa City       2-0 Negele Arsii
+[Jan 22]
+Dire Dawa City    0-0 Ethiopia Medhin
+Sidama Coffee     3-0 Ethiopian Coffee
+Defence           2-0 Saint George
+[Feb 9]
+Fasil City        0-1 Hadiya Hossana
+
+Round 17
+[Jan 25]
+Hadiya Hossana    1-2 Welwalo A. Univ.
+Adama City        0-0 Mekelle 70
+Arba Minch City   2-3 Fasil City
+Bahir Dar City    0-0 Awassa City
+[Jan 26]
+Saint George      0-0 Midre Genet Shire
+Ethiopia Medhin   0-1 Defence
+EEPCO             0-0 Welayta Dicha
+[Jan 27]
+Negele Arsii      1-0 Sidama Coffee
+Sheger City       0-0 Dire Dawa City
+Ethiopian Coffee  0-1 Banks
+
+Round 18
+[Jan 30]
+Midre Genet Shire 0-0 Ethiopia Medhin
+Awassa City       2-0 EEPCO
+Welayta Dicha     1-1 Adama City
+[Jan 31]
+Dire Dawa City    2-0 Hadiya Hossana
+Sidama Coffee     1-1 Bahir Dar City
+Defence           0-1 Sheger City
+[Feb 1]
+Welwalo A. Univ.  1-2 Arba Minch City
+Mekelle 70        1-1 Ethiopian Coffee
+Fasil City        1-0 Saint George
+Banks             0-2 Negele Arsii
+
+Round 19
+[Feb 4]
+Sheger City       0-0 Midre Genet Shire
+EEPCO             0-0 Sidama Coffee
+Hadiya Hossana    1-1 Defence
+Adama City        0-2 Awassa City
+[Feb 5]
+Ethiopia Medhin   0-0 Fasil City
+Bahir Dar City    2-2 Banks
+Saint George      1-1 Welwalo A. Univ.
+Negele Arsii      1-0 Mekelle 70
+[Feb 6]
+Arba Minch City   1-1 Dire Dawa City
+Ethiopian Coffee  1-0 Welayta Dicha
+
+Halfway Table:
+
+ 1.Sidama Coffee                      19   9  8  2  24-10  35
+ 2.Awassa City                        19  10  5  4  22-10  35
+ 3.Negele Arsii                       19  10  5  4  21-12  35  [P]
+ 4.Fasil City                         19   8  9  2  14- 8  33
+ 5.Defence                            19   8  6  5  24-15  30
+ 6.Adama City                         19   6 10  3  15-14  28
+ 7.EEPCO                              19   6  9  4  11-10  27
+ 8.Bahir Dar City                     19   4 12  3  14-13  24
+ 9.Saint George                       19   6  6  7  16-14  24
+10.Hadiya Hossana                     19   6  6  7  17-20  24
+11.Dire Dawa City                     19   5  9  5  13-18  24
+12.Midre Genet Shire                  19   5  8  6  13-13  23  [*]
+13.Ethiopian Coffee                   19   6  5  8  16-20  23
+14.Commercial Banks of Ethiopia       19   4  9  6  22-24  21
+15.Sheger City                        19   4  9  6  14-17  21  [P]
+16.Ethiopia Medhin FC                 19   4  8  7  12-15  20  [C]
+17.Mekelle 70 Enderta                 19   3  9  7  13-22  18
+18.Welwalo Adigrat University         19   3  8  8  13-22  17
+19.Welayta Dicha                      19   2 10  7  16-21  16
+20.Arba Minch City                    19   1  9  9  10-22  12
+
+[*] Suhul Shire were renamed Midre Genet Shire
+
+Round 20
+[Feb 21]
+Hadiya Hossana    0-1 Bahir Dar City
+Welayta Dicha     4-3 Defence
+Banks             3-1 Fasil City
+Ethiopia Medhin   0-1 Adama City
+[Feb 22]
+Arba Minch City   1-1 Negele Arsii
+Awassa City       1-1 Dire Dawa City
+Sheger City       0-0 EEPCO
+Sidama Coffee     0-0 Welwalo A. Univ.
+[Feb 23]
+Mekelle 70        1-0 Midre Genet Shire
+[Apr 18]
+Saint George       -  Ethiopian Coffee
+
+Round 21
+[Feb 25]
+Ethiopia Medhin   3-0 Saint George
+[Feb 26]
+Dire Dawa City    0-2 Welayta Dicha
+Adama City        3-3 Sheger City
+Defence           0-0 Mekelle 70
+Negele Arsii      0-1 Ethiopian Coffee
+[Feb 27]
+Midre Genet Shire 2-1 Banks
+EEPCO             0-1 Hadiya Hossana
+Fasil City        1-2 Welwalo A. Univ.
+Bahir Dar City    0-2 Arba Minch City
+[Feb 28]
+Awassa City       1-2 Sidama Coffee
+
+Round 22
+[Mar 3]
+Saint George      0-0 Negele Arsii
+Banks             0-2 Defence
+Sheger City       1-1 Ethiopia Medhin
+Welwalo A. Univ.  1-0 Midre Genet Shire
+[Mar 4]
+Ethiopian Coffee  2-0 Bahir Dar City
+Sidama Coffee     1-0 Fasil City
+Arba Minch City   1-4 EEPCO
+Welayta Dicha     1-1 Awassa City
+[Mar 5]
+Hadiya Hossana    1-1 Adama City
+Mekelle 70        1-2 Dire Dawa City
+
+Round 23
+[Mar 8]
+Sheger City       1-0 Saint George
+Defence           0-0 Welwalo A. Univ.
+EEPCO             2-1 Ethiopian Coffee
+Welayta Dicha     3-1 Sidama Coffee
+[Mar 9]
+Bahir Dar City    0-0 Negele Arsii
+Midre Genet Shire 1-1 Fasil City
+Ethiopia Medhin   1-1 Hadiya Hossana
+Dire Dawa City    1-2 Banks
+[Mar 10]
+Adama City        0-2 Arba Minch City
+Awassa City       1-0 Mekelle 70
+
+Round 24
+[Mar 13]
+Hadiya Hossana    0-2 Sheger City
+Fasil City        0-0 Defence
+Saint George      0-2 Bahir Dar City
+Sidama Coffee     2-0 Midre Genet Shire
+[Mar 14]
+Arba Minch City   0-2 Ethiopia Medhin
+Welwalo A. Univ.  1-0 Dire Dawa City
+Ethiopian Coffee  3-2 Adama City
+Banks             4-2 Awassa City
+[Mar 15]
+Negele Arsii      0-2 EEPCO
+Mekelle 70        0-0 Welayta Dicha
+
+Round 25
+[Apr 3]
+EEPCO              -  Bahir Dar City
+Dire Dawa City     -  Fasil City
+Sheger City        -  Arba Minch City
+Defence            -  Midre Genet Shire
+[Apr 4]
+Hadiya Hossana     -  Saint George
+Welayta Dicha      -  Banks
+Ethiopia Medhin    -  Ethiopian Coffee
+Mekelle 70         -  Sidama Coffee
+[Apr 5]
+Adama City         -  Negele Arsii
+Awassa City        -  Welwalo A. Univ.
+
+Table:
+
+ 1.Sidama Coffee                      24  12  9  3  30-14  45
+ 2.Awassa City                        24  11  7  6  28-18  40
+ 3.Negele Arsii                       24  10  8  6  22-16  38  [P]
+ 4.EEPCO                              24   9 10  5  19-13  37
+ 5.Defence                            24   9  9  6  29-19  36
+ 6.Fasil City                         24   8 11  5  17-15  35
+ 7.Adama City                         24   7 12  5  22-23  33
+ 8.Ethiopian Coffee                   23   9  5  9  23-24  32
+ 9.Bahir Dar City                     24   6 13  5  17-17  31
+10.Commercial Banks of Ethiopia       24   7  9  8  32-32  30
+11.Sheger City                        24   6 12  6  21-21  30  [P]
+12.Hadiya Hossana                     24   7  8  9  20-25  29
+13.Ethiopia Medhin FC                 24   6 10  8  19-18  28  [C]
+14.Welwalo Adigrat University         24   6 10  8  17-23  28
+15.Dire Dawa City                     24   6 10  8  17-25  28
+16.Welayta Dicha                      24   5 12  7  26-26  27
+17.Midre Genet Shire                  24   6  9  9  16-19  27  [*]
+18.Saint George                       23   6  7 10  16-20  25
+19.Mekelle 70 Enderta                 24   4 11  9  15-25  23
+20.Arba Minch City                    24   3 10 11  16-29  19
+
+[*] Suhul Shire were renamed Midre Genet Shire
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024/25, see page ethi2025›
+
+‹list of champions, see page ethichamp›
+
+‹list of cup winners, see page ethicuphist›
+
+‹list of super cup winners, see page ethisupcuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 2 Apr 2026
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2025/26
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

@@ -1,0 +1,313 @@
+  <!--
+     source: https://rsssf.org/tablesb/bah2025.html
+    -->
+  
+
+
+== Bahrain 2024/25
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Premier League, see §premier›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Premier League  ‹§premier›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Muharraq          22  16  3  3  54-17  51       Champions
+ 2.Khalidiya         22  13  3  6  40-26  42  [C]
+ 3.Setra             22  10  8  4  33-21  38       [2 1 1 0 4-2 4]
+ 4.Riffa             22  11  5  6  39-27  38       [2 0 1 1 2-4 1]
+ 5.Al-Shabab         22   7  9  6  23-23  30
+ 6.Malikiya          22   6 10  6  23-27  28  [P]
+ 7.Al-Ahli           22   8  3 11  32-35  27       [2 2 0 0 4-2 6]
+ 8.Al-Najma          22   7  6  9  29-29  27       [2 0 0 2 2-4 0]
+ - - - - - - - - - - - - - - - - - - - - - -
+ 9.Bahrain           22   6  5 11  27-41  23  [P]  Relegation Playoff  [2 1 1 0 3-1 4]
+10.A'Ali             22   6  5 11  26-37  23  [P]  Relegation Playoff  [2 0 1 1 1-3 1]
+--------------------------------------------
+11.East Riffa        22   4  8 10  21-31  20       Relegated
+12.Manama            22   2  7 13  15-48  13       Relegated
+
+Round 1
+[Sep 21]
+East Riffa  1-2 Malikiya
+Riffa       3-0 Najma
+Setra       2-1 A'Ali
+[Sep 22]
+Ahli        0-1 Bahrain
+Muharraq    3-0 Shabab
+Manama      0-5 Khalidiya
+
+Round 2
+[Sep 26]
+A'Ali       1-2 Shabab
+Bahrain     2-1 East Riffa
+Setra       4-1 Manama
+[Sep 27]
+Khalidiya   1-0 Riffa
+Najma       2-3 Ahli
+Malikiya    1-1 Muharraq
+
+Round 3
+[Oct 2]
+East Riffa  2-4 Najma
+Manama      2-2 A'Ali
+[Oct 3]
+Shabab      0-0 Malikiya
+[Oct 20]
+Muharraq    7-2 Bahrain
+[Mar 29]
+Ahli        1-1 Khalidiya
+Riffa       1-3 Setra
+
+Round 4
+[Oct 21]
+Setra       3-1 Ahli
+[Oct 25]
+A'Ali       2-1 Malikiya
+[Oct 26]
+Najma       0-0 Muharraq
+Bahrain     1-2 Shabab
+[Oct 27]
+Khalidiya   2-1 East Riffa
+[Oct 28]
+Manama      0-0 Riffa
+
+Round 5
+[Nov 23]
+Muharraq    3-1 Khalidiya
+Riffa       3-0 A'Ali
+[Nov 24]
+Ahli        2-0 Manama
+Shabab      0-2 Najma
+[Nov 25]
+East Riffa  0-2 Setra
+[Dec 1]
+Malikiya    0-0 Bahrain
+
+Round 6
+[Dec 7]
+A'Ali       0-2 Bahrain
+Setra       0-2 Muharraq
+[Dec 8]
+Najma       5-1 Malikiya
+Manama      1-0 East Riffa
+[Dec 9]
+Khalidiya   2-0 Shabab
+Riffa       2-1 Ahli
+
+Round 7
+[Dec 13]
+Shabab      2-2 Setra
+Bahrain     1-2 Najma
+[Dec 14]
+Ahli        4-1 A'Ali
+Muharraq    3-0 Manama
+[Dec 15]
+East Riffa  0-0 Riffa
+Malikiya    2-1 Khalidiya
+
+Round 8
+[Jan 9]
+Ahli        3-2 East Riffa
+Setra       0-1 Malikiya
+[Jan 10]
+Khalidiya   3-0 Bahrain
+Riffa       2-0 Muharraq
+[Jan 11]
+A'Ali       1-3 Najma
+Manama      0-2 Shabab
+
+Round 9
+[Jan 16]
+East Riffa  1-1 A'Ali
+Malikiya    0-0 Manama
+[Jan 17]
+Muharraq    3-2 Ahli
+Bahrain     2-2 Setra
+[Jan 18]
+Najma       1-3 Khalidiya
+Shabab      2-0 Riffa
+
+Round 10
+[Feb 6]
+A'Ali       1-2 Khalidiya
+Ahli        1-3 Shabab
+[Feb 8]
+Manama      1-1 Bahrain
+Setra       0-0 Najma
+[Feb 9]
+East Riffa  0-3 Muharraq
+Riffa       0-2 Malikiya
+
+Round 11
+[Feb 14]
+Muharraq    4-0 A'Ali
+Malikiya    1-1 Ahli
+[Feb 15]
+Najma       1-2 Manama
+Shabab      1-1 East Riffa
+[Feb 23]
+Khalidiya   2-0 Setra
+Bahrain     0-2 Riffa
+
+Round 12
+[Mar 4]
+Khalidiya   3-2 Manama
+Najma       1-3 Riffa
+Shabab      1-2 Muharraq
+[Mar 5]
+A'Ali       0-0 Setra
+Bahrain     2-1 Ahli
+Malikiya    0-0 East Riffa
+
+Round 13
+[Apr 4]
+Ahli        1-0 Najma
+Muharraq    3-0 Malikiya
+Shabab      0-3 A'Ali
+[Apr 5]
+East Riffa  3-1 Bahrain
+Manama      0-3 Setra
+Riffa       2-2 Khalidiya
+
+Round 14
+[Apr 14]
+Khalidiya   2-1 Ahli
+Bahrain     1-3 Muharraq
+Setra       1-1 Riffa
+[Apr 15]
+A'Ali       awd Manama      [awarded 3-0, originally 1-1]
+Malikiya    0-0 Shabab
+[Apr 16]
+Najma       1-1 East Riffa
+
+Round 15
+[Apr 21]
+Shabab      0-1 Bahrain
+Malikiya    2-2 A'Ali
+Muharraq    2-0 Najma
+[Apr 22]
+Ahli        2-3 Setra
+East Riffa  3-2 Khalidiya
+Riffa       5-1 Manama
+
+Round 16
+[Apr 26]
+A'Ali       2-4 Riffa
+Najma       0-0 Shabab
+Bahrain     2-2 Malikiya
+[Apr 27]
+Khalidiya   1-2 Muharraq
+Manama      0-1 Ahli
+Setra       1-1 East Riffa
+
+Round 17
+[May 1]
+Muharraq    2-0 Setra
+Bahrain     1-1 A'Ali
+Malikiya    0-1 Najma
+[May 2]
+Ahli        1-2 Riffa
+Shabab      1-1 Khalidiya
+East Riffa  1-1 Manama
+
+Round 18
+[May 6]
+Khalidiya   1-2 Malikiya
+Najma       2-0 Bahrain
+Setra       1-1 Shabab
+[May 7]
+A'Ali       2-0 Ahli
+Manama      1-6 Muharraq
+Riffa       0-1 East Riffa
+
+Round 19
+[May 11]
+Shabab      1-1 Manama
+Bahrain     1-2 Khalidiya
+Malikiya    0-1 Setra
+[May 12]
+Muharraq    1-2 Riffa
+Najma       1-2 A'Ali
+East Riffa  1-0 Ahli
+
+Round 20
+[May 16]
+Khalidiya   2-1 Najma
+Manama      0-1 Malikiya
+Setra       2-0 Bahrain
+[May 17]
+A'Ali       1-0 East Riffa
+Ahli        2-1 Muharraq
+Riffa       1-3 Shabab
+
+Round 21
+[May 20]
+Najma       1-1 Setra
+Bahrain     3-1 Manama
+[May 21]
+Muharraq    1-1 East Riffa
+Shabab      0-0 Ahli
+[May 22]
+Khalidiya   1-0 A'Ali
+Malikiya    2-2 Riffa
+
+Round 22
+[May 25]
+Manama      1-1 Najma
+[May 26]
+A'Ali       0-2 Muharraq
+East Riffa  0-2 Shabab
+Riffa       4-3 Bahrain
+[May 27]
+Ahli        4-3 Malikiya
+Setra       2-0 Khalidiya
+
+Final Table:
+
+ 1.Muharraq          22  16  3  3  54-17  51       Champions
+ 2.Khalidiya         22  13  3  6  40-26  42  [C]
+ 3.Setra             22  10  8  4  33-21  38       [2 1 1 0 4-2 4]
+ 4.Riffa             22  11  5  6  39-27  38       [2 0 1 1 2-4 1]
+ 5.Al-Shabab         22   7  9  6  23-23  30
+ 6.Malikiya          22   6 10  6  23-27  28  [P]
+ 7.Al-Ahli           22   8  3 11  32-35  27       [2 2 0 0 4-2 6]
+ 8.Al-Najma          22   7  6  9  29-29  27       [2 0 0 2 2-4 0]
+ - - - - - - - - - - - - - - - - - - - - - -
+ 9.Bahrain           22   6  5 11  27-41  23  [P]  Relegation Playoff  [2 1 1 0 3-1 4]
+10.A'Ali             22   6  5 11  26-37  23  [P]  Relegation Playoff  [2 0 1 1 1-3 1]
+--------------------------------------------
+11.East Riffa        22   4  8 10  21-31  20       Relegated
+12.Manama            22   2  7 13  15-48  13       Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2023/24, see page bah2024›
+
+‹list of champions, see page bahchamp›
+
+‹list of cup winners, see page bahcuphist›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 27 May 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

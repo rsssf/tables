@@ -1,0 +1,518 @@
+  <!--
+     source: https://rsssf.org/tablesn/ned2026.html
+    -->
+  
+
+
+== Netherlands 2025/26
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Eredivisie, see §ere›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Eredivisie  ‹§ere›
+
+<!-- start pre -->
+‹Regular Season, see §1reg› | ‹Conference League Playoff, see §1eur› | ‹Nacompetitie, see §2nac›
+
+Regular Season  ‹§1reg›
+
+Table:
+
+ 1.PSV (Eindhoven)              29  23  2  4  82-40  71  [C]  Champions
+ 2.Feyenoord (Rotterdam)        29  16  6  7  61-40  54
+ 3.NEC (Nijmegen)                29  15  8  6  71-47  53
+ 4.FC Twente (Enschede)         29  13 11  5  49-31  50
+ 5.Ajax (Amsterdam)             29  12 12  5  54-37  48
+ 6.AZ (Alkmaar)                 29  13  6 10  49-45  45
+ 7.SC Heerenveen                29  12  8  9  53-47  44
+ 8.Sparta Rotterdam             29  12  6 11  35-47  42
+ 9.FC Utrecht                   29  11  8 10  45-35  41
+10.FC Groningen                 29  12  5 12  42-37  41
+11.Go Ahead Eagles (Deventer)   29   8 11 10  50-45  35
+12.Fortuna Sittard              29  10  5 14  43-54  35
+13.PEC Zwolle                   29   8  9 12  38-58  33
+14.FC Volendam                  29   7  7 15  30-48  28  [P]
+15.Telstar (Velsen)             29   6  9 14  38-48  27  [P]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+16.Excelsior (Rotterdam)        29   7  6 16  29-49  27  [P]
+-------------------------------------------------------
+17.NAC Breda                    29   5  9 15  29-50  24
+18.Heracles Almelo              29   5  4 20  34-74  19
+
+Round 1
+[Aug 8]
+Fortuna         2-2 Go Ahead
+[Aug 9]
+NEC             5-0 Excelsior
+Feyenoord       2-0 NAC
+Heerenveen      1-1 Volendam
+PSV             6-1 Sparta
+[Aug 10]
+PEC             1-0 Twente
+Ajax            2-0 Telstar
+AZ              4-1 Groningen
+Utrecht         4-0 Heracles
+
+Round 2
+[Aug 15]
+Telstar         0-2 PEC
+[Aug 16]
+Excelsior       1-2 Feyenoord
+Heracles        1-4 NEC
+Groningen       2-1 Heerenveen
+[Aug 17]
+Go Ahead        2-2 Ajax
+Twente          0-2 PSV
+Sparta          2-1 Utrecht
+Volendam        2-2 AZ
+NAC             2-1 Fortuna
+
+Round 3
+[Aug 23]
+Go Ahead        0-3 Sparta
+PSV             4-2 Groningen
+Telstar         2-2 Volendam
+[Aug 24]
+Heerenveen      1-2 Twente
+Utrecht         4-1 Excelsior
+NEC             3-0 NAC
+Ajax            2-0 Heracles
+[Sep 17]
+Feyenoord       2-0 Fortuna
+[Sep 24]
+AZ              2-2 PEC
+
+Round 4
+[Aug 29]
+Groningen       4-0 Heracles
+[Aug 30]
+Volendam        1-1 Ajax
+Heerenveen      2-2 Go Ahead
+PSV             0-2 Telstar
+Excelsior       1-0 Twente
+[Aug 31]
+Fortuna         3-2 NEC
+PEC             0-2 Utrecht
+Sparta          0-4 Feyenoord
+NAC             0-1 AZ
+
+Round 5
+[Sep 13]
+Ajax            3-1 PEC
+NEC             3-5 PSV
+Go Ahead        3-0 Volendam
+Twente          2-2 NAC
+Feyenoord       1-0 Heerenveen
+[Sep 14]
+Excelsior       0-1 Sparta
+Utrecht         0-1 Groningen
+Heracles        1-2 AZ
+Telstar         1-3 Fortuna
+
+Round 6
+[Sep 19]
+Sparta          1-5 Twente
+[Sep 20]
+Volendam        1-2 Excelsior
+Groningen       2-0 Telstar
+Fortuna         1-0 Utrecht
+NAC             2-1 Heracles
+[Sep 21]
+PEC             0-2 Go Ahead
+PSV             2-2 Ajax
+Heerenveen      3-2 NEC
+AZ              3-3 Feyenoord
+
+Round 7
+[Sep 26]
+Twente          3-2 Fortuna
+[Sep 27]
+Ajax            2-1 NAC
+Volendam        2-1 PEC
+Excelsior       1-2 PSV
+Heracles        3-0 Sparta
+[Sep 28]
+NEC             2-1 AZ
+Groningen       0-1 Feyenoord
+Utrecht         2-2 Heerenveen
+Telstar         4-2 Go Ahead
+
+Round 8
+[Oct 3]
+NAC             1-2 Groningen
+[Oct 4]
+Sparta          3-3 Ajax
+Fortuna         1-0 Volendam
+PEC             0-4 PSV
+Heerenveen      2-1 Excelsior
+[Oct 5]
+Twente          2-1 Heracles
+Feyenoord       3-2 Utrecht
+AZ              2-1 Telstar
+Go Ahead        1-1 NEC
+
+Round 9
+[Oct 18]
+NEC             3-3 Twente
+Utrecht         3-1 Volendam
+PSV             2-1 Go Ahead
+Ajax            0-2 AZ
+NAC             2-2 PEC
+[Oct 19]
+Telstar         2-3 Heerenveen
+Excelsior       1-0 Fortuna
+Groningen       0-2 Sparta
+Heracles        0-7 Feyenoord
+
+Round 10
+[Oct 24]
+Heerenveen      3-3 NAC
+[Oct 25]
+Fortuna         1-2 Groningen
+Sparta          1-0 Telstar
+Volendam        3-0 Heracles
+PEC             2-2 NEC
+[Oct 26]
+Twente          2-3 Ajax
+Feyenoord       2-3 PSV
+AZ              4-1 Utrecht
+Go Ahead        2-0 Excelsior
+
+Round 11
+[Oct 31]
+PSV             5-2 Fortuna
+[Nov 1]
+Ajax            1-1 Heerenveen      [interrupted for 15' due to crowd trouble
+NAC             1-0 Go Ahead         (excessive throwing of fireworks)]
+Feyenoord       3-1 Volendam
+Telstar         2-2 Excelsior
+[Nov 2]
+Heracles        8-2 PEC
+Groningen       1-1 Twente
+Sparta          0-1 AZ
+Utrecht         1-0 NEC
+
+Round 12
+[Nov 7]
+Twente          0-0 Telstar
+[Nov 8]
+Excelsior       1-2 Heracles
+Volendam        2-1 NAC
+Fortuna         2-0 Heerenveen
+PEC             1-0 Sparta
+[Nov 9]
+Utrecht         2-1 Ajax
+NEC             2-0 Groningen
+AZ              1-5 PSV
+Go Ahead        2-1 Feyenoord
+
+Round 13
+[Nov 22]
+NAC             0-1 PSV
+Ajax            1-2 Excelsior
+Volendam        1-1 Twente
+Heracles        4-2 Go Ahead
+Sparta          1-1 Fortuna
+[Nov 23]
+Heerenveen      3-1 AZ
+Feyenoord       2-4 NEC
+Telstar         1-1 Utrecht
+Groningen       2-2 PEC
+
+Round 14
+[Nov 28]
+PEC             2-1 Heerenveen
+[Nov 29]
+Excelsior       1-0 NAC
+Fortuna         1-1 Heracles
+NEC             3-1 Sparta
+[Nov 30]
+PSV             3-0 Volendam
+Go Ahead        2-2 Utrecht
+Telstar         1-2 Feyenoord
+Twente          1-0 AZ
+Ajax            abd Groningen       [abandoned at 0-0 in 6' due to crowd trouble]
+  [as in the match against Heerenveen in round 11, the Ajax F-side hooligans
+   found it necessary to "honour" a deceased member by throwing incredible
+   amounts of fireworks on the pitch in spite of explicit warnings not to
+   do so; given that this had been announced beforehand, that Ajax "fans"
+   were responsible for the trouble and Ajax for the safety arrangements at
+   their home ground, in most other countries they would have forfeited the
+   match and possibly been handed an additional points deduction; instead
+   they got off with playing the remainder of the match behind closed doors]
+[Dec 2]
+Ajax            2-0 Groningen       [remaining 84']
+
+Round 15
+[Dec 5]
+Excelsior       0-2 Groningen
+[Dec 6]
+Heerenveen      0-2 PSV
+Fortuna         1-3 Ajax
+Heracles        1-1 Telstar
+Feyenoord       6-1 PEC
+[Dec 7]
+Utrecht         1-1 Twente
+AZ              2-2 Go Ahead
+Volendam        2-3 NEC
+Sparta          1-0 NAC
+
+Round 16
+[Dec 13]
+Telstar         2-2 NEC
+Groningen       3-0 Volendam
+PSV             4-3 Heracles
+PEC             1-0 Fortuna
+[Dec 14]
+Sparta          0-3 Heerenveen
+Ajax            2-0 Feyenoord
+Twente          2-0 Go Ahead
+NAC             1-1 Utrecht
+[Jan 21]
+AZ              1-1 Excelsior
+
+Round 17
+[Dec 20]
+Heracles        0-3 Heerenveen
+Excelsior       2-1 PEC
+NEC             2-2 Ajax
+NAC             0-1 Telstar
+[Dec 21]
+Utrecht         1-2 PSV
+Feyenoord       1-1 Twente
+Go Ahead        1-1 Groningen
+Volendam        0-1 Sparta
+Fortuna         4-3 AZ
+
+Round 18
+[Jan 10]
+AZ              1-0 Volendam
+Twente          1-1 PEC
+PSV             5-1 Excelsior
+Groningen       0-0 NAC
+[Jan 11]
+Heerenveen      2-2 Feyenoord
+Go Ahead        2-2 Fortuna
+Telstar         2-3 Ajax
+Sparta          2-0 Heracles
+[Feb 11]
+NEC             1-3 Utrecht
+
+Round 19
+[Jan 17]
+Ajax            2-2 Go Ahead
+PEC             3-1 AZ
+Excelsior       2-2 Telstar
+Fortuna         1-2 PSV
+NAC             3-4  NEC
+[Jan 18]
+Heerenveen      0-2 Groningen
+Volendam        2-1 Utrecht
+Heracles        0-2 Twente
+Feyenoord       3-4 Sparta
+
+Round 20
+[Jan 24]
+Ajax            2-0 Volendam
+NEC             2-1 PEC
+PSV             2-2 NAC
+Twente          0-0 Excelsior
+[Jan 25]
+Telstar         0-1 AZ
+Groningen       1-2 Fortuna
+Utrecht         0-1 Sparta
+Feyenoord       4-2 Heracles
+[Feb 11]
+Go Ahead        1-3 Heerenveen
+
+Round 21
+[Jan 30]
+NAC             2-2 Twente
+[Jan 31]
+AZ              1-3 NEC
+PEC             4-1 Telstar
+Sparta          2-0 Groningen
+[Feb 1]
+Excelsior       2-2 Ajax
+Heracles        2-1 Fortuna
+PSV             3-0 Feyenoord
+Heerenveen      1-1 Utrecht
+Volendam        1-1 Go Ahead
+
+Round 22
+[Feb 6]
+NAC             0-2 Excelsior
+[Feb 7]
+NEC             4-1 Heracles
+PEC             1-2 Volendam
+Twente          5-0 Heerenveen
+Fortuna         2-2 Sparta
+[Feb 8]
+Utrecht         0-1 Feyenoord
+AZ              1-1 Ajax
+Go Ahead        1-1 Telstar
+Groningen       1-2 PSV
+
+Round 23
+[Feb 13]
+Volendam        2-1 PSV
+[Feb 14]
+Heracles        0-1 NAC
+Excelsior       1-2 AZ
+Ajax            4-1 Fortuna
+Groningen       1-2 Utrecht
+[Feb 15]
+Feyenoord       1-0 Go Ahead
+Heerenveen      4-2 PEC
+Telstar         1-1 Twente
+Sparta          abd NEC             [abandoned at 0-0 in 7' due to heavy snow]
+[Feb 17]
+Sparta          1-1 NEC             [remaining 83']
+
+Round 24
+[Feb 20]
+Fortuna         2-1 Excelsior
+[Feb 21]
+PSV             3-1 Heerenveen
+NAC             1-0 Volendam
+Ajax            1-1 NEC
+[Feb 22]
+Twente          2-1 Groningen
+Utrecht         1-1 PEC
+Go Ahead        4-0 Heracles
+AZ              3-1 Sparta
+Feyenoord       2-1 Telstar
+
+Round 25
+[Feb 27]
+Telstar         3-0 NAC
+[Feb 28]
+Heerenveen      2-1 Sparta
+Heracles        1-3 PSV
+NEC             2-3 Fortuna
+[Mar 1]
+PEC             0-0 Ajax
+Twente          2-0 Feyenoord
+Volendam        3-2 Groningen
+Utrecht         2-0 AZ
+Excelsior       0-1 Go Ahead
+
+Round 26
+[Mar 6]
+Heracles        0-0 Utrecht
+[Mar 7]
+Groningen       3-1 Ajax
+PSV             2-1 AZ
+Excelsior       1-2 Heerenveen
+[Mar 8]
+Sparta          1-1 PEC
+Fortuna         1-4 Telstar
+Go Ahead        1-4 Twente
+NAC             3-3 Feyenoord
+NEC             3-0 Volendam
+
+Round 27
+[Mar 13]
+PEC             1-1 Groningen
+[Mar 14]
+Volendam        1-2 Fortuna
+PSV             2-3 NEC
+Heerenveen      3-0 Telstar
+Ajax            4-0 Sparta
+[Mar 15]
+Twente          0-2 Utrecht
+AZ              4-0 Heracles
+Feyenoord       2-1 Excelsior
+Go Ahead        6-0 NAC
+
+Round 28
+[Mar 20]
+Heracles        1-1 Excelsior
+[Mar 21]
+Fortuna         1-2 Twente
+Sparta          2-0 Volendam
+PEC             2-1 NAC
+[Mar 22]
+NEC             2-2 Heerenveen
+Utrecht         2-0 Go Ahead
+Feyenoord       1-1 Ajax
+Groningen       3-0 AZ
+Telstar         3-1 PSV
+
+Round 29
+[Apr 4]
+PSV             4-3 Utrecht
+Telstar         0-2 Groningen
+AZ              2-0 Fortuna
+Ajax            1-2 Twente
+Excelsior       0-2 NEC
+[Apr 5]
+Go Ahead        5-0 PEC
+Volendam        0-0 Feyenoord
+Heerenveen      4-1 Heracles
+NAC             0-0 Sparta
+
+Table:
+
+ 1.PSV (Eindhoven)              29  23  2  4  82-40  71  [C]  Champions
+ 2.Feyenoord (Rotterdam)        29  16  6  7  61-40  54
+ 3.NEC (Nijmegen)                29  15  8  6  71-47  53
+ 4.FC Twente (Enschede)         29  13 11  5  49-31  50
+ 5.Ajax (Amsterdam)             29  12 12  5  54-37  48
+ 6.AZ (Alkmaar)                 29  13  6 10  49-45  45
+ 7.SC Heerenveen                29  12  8  9  53-47  44
+ 8.Sparta Rotterdam             29  12  6 11  35-47  42
+ 9.FC Utrecht                   29  11  8 10  45-35  41
+10.FC Groningen                 29  12  5 12  42-37  41
+11.Go Ahead Eagles (Deventer)   29   8 11 10  50-45  35
+12.Fortuna Sittard              29  10  5 14  43-54  35
+13.PEC Zwolle                   29   8  9 12  38-58  33
+14.FC Volendam                  29   7  7 15  30-48  28  [P]
+15.Telstar (Velsen)             29   6  9 14  38-48  27  [P]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+16.Excelsior (Rotterdam)        29   7  6 16  29-49  27  [P]
+-------------------------------------------------------
+17.NAC Breda                    29   5  9 15  29-50  24
+18.Heracles Almelo              29   5  4 20  34-74  19
+
+Conference League Playoff  ‹§1eur›
+
+Nacompetitie  ‹§2nac›
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024/25, see page ned2025›.
+
+‹list of champions, see page nedchamp›.
+
+‹all-time table from 1956 onwards, see page nedalltime›.
+
+‹list of 2nd division champions, see page ned2champ›.
+
+‹list of first class champions, see page ned1stclass›.
+
+‹list of cup finals, see page nedcuphist›.
+
+‹list of super cup finals, see page nedsupcuphist›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 7 Apr 2026
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2026
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.
