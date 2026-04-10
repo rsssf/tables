@@ -1,0 +1,1270 @@
+  <!--
+     source: https://rsssf.org/tablese/eng2018.html
+    -->
+  
+
+
+== England 2017/18
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Premier League, see §premier›
+‹Cup Tournaments, see §cups›
+‹Championship, see §champ›
+‹Division 1, see §first›
+‹Division 2, see §second›
+‹National League, see §conf›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Premier League  ‹§premier›
+
+<!-- start pre -->
+‹Premier League 2017/18 Match Details, see page eng2018det›
+
+Final Table:
+
+ 1.Manchester City         38  32  4  2 106-27 100       Champions
+ 2.Manchester United       38  25  6  7  68-28  81
+ 3.Tottenham Hotspur       38  23  8  7  74-36  77
+ 4.Liverpool               38  21 12  5  84-38  75
+ 5.Chelsea                 38  21  7 10  62-38  70  [C]
+ 6.Arsenal                 38  19  6 13  74-51  63
+ 7.Burnley                 38  14 12 12  36-39  54
+ 8.Everton                 38  13 10 15  44-58  49
+ 9.Leicester City          38  12 11 15  56-60  47
+10.Newcastle United        38  12  8 18  39-47  44  [P]
+11.Crystal Palace          38  11 11 16  45-55  44
+12.AFC Bournemouth         38  11 11 16  45-61  44
+13.West Ham United         38  10 12 16  48-68  42
+14.Watford                 38  11  8 19  44-64  41
+15.Brighton & Hove Albion  38   9 13 16  34-54  40  [P]
+16.Huddersfield Town       38   9 10 19  28-58  37  [P]
+17.Southampton             38   7 15 16  37-56  36
+--------------------------------------------------
+18.Swansea City            38   8  9 21  28-56  33       Relegated
+19.Stoke City              38   7 12 19  35-68  33       Relegated
+20.West Bromwich Albion    38   6 13 19  31-56  31       Relegated
+
+Round 1
+[Aug 11]
+Arsenal       4-3 Leicester
+[Aug 12]
+Watford       3-3 Liverpool
+Chelsea       2-3 Burnley
+Crystal P     0-3 Huddersfield
+Everton       1-0 Stoke
+Southampton   0-0 Swansea
+West Bromwich 1-0 Bournemouth
+Brighton      0-2 Manchester C
+[Aug 13]
+Newcastle     0-2 Tottenham
+Manchester U  4-0 West Ham
+
+Round 2
+[Aug 19]
+Swansea       0-4 Manchester U
+Bournemouth   0-2 Watford
+Burnley       0-1 West Bromwich
+Leicester     2-0 Brighton
+Liverpool     1-0 Crystal P
+Southampton   3-2 West Ham
+Stoke         1-0 Arsenal
+[Aug 20]
+Huddersfield  1-0 Newcastle
+Tottenham     1-2 Chelsea
+[Aug 21]
+Manchester C  1-1 Everton
+
+Round 3
+[Aug 26]
+Bournemouth   1-2 Manchester C
+Crystal P     0-2 Swansea
+Huddersfield  0-0 Southampton
+Newcastle     3-0 West Ham
+Watford       0-0 Brighton
+Manchester U  2-0 Leicester
+[Aug 27]
+Chelsea       2-0 Everton
+West Bromwich 1-1 Stoke
+Liverpool     4-0 Arsenal
+Tottenham     1-1 Burnley
+
+Round 4
+[Sep 9]
+Manchester C  5-0 Liverpool
+Arsenal       3-0 Bournemouth
+Brighton      3-1 West Bromwich
+Everton       0-3 Tottenham
+Leicester     1-2 Chelsea
+Southampton   0-2 Watford
+Stoke         2-2 Manchester U
+[Sep 10]
+Burnley       1-0 Crystal P
+Swansea       0-1 Newcastle
+[Sep 11]
+West Ham      2-0 Huddersfield
+
+Round 5
+[Sep 15]
+Bournemouth   2-1 Brighton
+[Sep 16]
+Crystal P     0-1 Southampton
+Huddersfield  1-1 Leicester
+Liverpool     1-1 Burnley
+Newcastle     2-1 Stoke
+Watford       0-6 Manchester C
+West Bromwich 0-0 West Ham
+Tottenham     0-0 Swansea
+[Sep 17]
+Chelsea       0-0 Arsenal
+Manchester U  4-0 Everton
+
+Round 6
+[Sep 23]
+West Ham      2-3 Tottenham
+Burnley       0-0 Huddersfield
+Everton       2-1 Bournemouth
+Manchester C  5-0 Crystal P
+Southampton   0-1 Manchester U
+Stoke         0-4 Chelsea
+Swansea       1-2 Watford
+Leicester     2-3 Liverpool
+[Sep 24]
+Brighton      1-0 Newcastle
+[Sep 25]
+Arsenal       2-0 West Bromwich
+
+Round 7
+[Sep 30]
+Huddersfield  0-4 Tottenham
+Bournemouth   0-0 Leicester
+Manchester U  4-0 Crystal P
+Stoke         2-1 Southampton
+West Bromwich 2-2 Watford
+West Ham      1-0 Swansea
+Chelsea       0-1 Manchester C
+[Oct 1]
+Arsenal       2-0 Brighton
+Everton       0-1 Burnley
+Newcastle     1-1 Liverpool
+
+Round 8
+[Oct 14]
+Liverpool     0-0 Manchester U
+Burnley       1-1 West Ham
+Crystal P     2-1 Chelsea
+Manchester C  7-2 Stoke
+Swansea       2-0 Huddersfield
+Tottenham     1-0 Bournemouth
+Watford       2-1 Arsenal
+[Oct 15]
+Brighton      1-1 Everton
+Southampton   2-2 Newcastle
+[Oct 16]
+Leicester     1-1 West Bromwich
+
+Round 9
+[Oct 20]
+West Ham      0-3 Brighton
+[Oct 21]
+Chelsea       4-2 Watford
+Huddersfield  2-1 Manchester U
+Manchester C  3-0 Burnley
+Newcastle     1-0 Crystal P
+Stoke         1-2 Bournemouth
+Swansea       1-2 Leicester
+Southampton   1-0 West Bromwich
+[Oct 22]
+Everton       2-5 Arsenal
+Tottenham     4-1 Liverpool
+
+Round 10
+[Oct 28]
+Manchester U  1-0 Tottenham
+Arsenal       2-1 Swansea
+Crystal P     2-2 West Ham
+Liverpool     3-0 Huddersfield
+Watford       0-1 Stoke
+West Bromwich 2-3 Manchester C
+Bournemouth   0-1 Chelsea
+[Oct 29]
+Brighton      1-1 Southampton
+Leicester     2-0 Everton
+[Oct 30]
+Burnley       1-0 Newcastle
+
+Round 11
+[Nov 4]
+Stoke         2-2 Leicester
+Huddersfield  1-0 West Bromwich
+Newcastle     0-1 Bournemouth
+Southampton   0-1 Burnley
+Swansea       0-1 Brighton
+West Ham      1-4 Liverpool
+[Nov 5]
+Tottenham     1-0 Crystal P
+Manchester C  3-1 Arsenal
+Chelsea       1-0 Manchester U
+Everton       3-2 Watford
+
+Round 12
+[Nov 18]
+Arsenal       2-0 Tottenham
+Bournemouth   4-0 Huddersfield
+Burnley       2-0 Swansea
+Crystal P     2-2 Everton
+Leicester     0-2 Manchester C
+Liverpool     3-0 Southampton
+West Bromwich 0-4 Chelsea
+Manchester U  4-1 Newcastle
+[Nov 19]
+Watford       2-0 West Ham
+[Nov 20]
+Brighton      2-2 Stoke
+
+Round 13
+[Nov 24]
+West Ham      1-1 Leicester
+[Nov 25]
+Crystal P     2-1 Stoke
+Manchester U  1-0 Brighton
+Newcastle     0-3 Watford
+Swansea       0-0 Bournemouth
+Tottenham     1-1 West Bromwich
+Liverpool     1-1 Chelsea
+[Nov 26]
+Southampton   4-1 Everton
+Burnley       0-1 Arsenal
+Huddersfield  1-2 Manchester C
+
+Round 14
+[Nov 28]
+Brighton      0-0 Crystal P
+Leicester     2-1 Tottenham
+Watford       2-4 Manchester U
+West Bromwich 2-2 Newcastle
+[Nov 29]
+Arsenal       5-0 Huddersfield
+Bournemouth   1-2 Burnley
+Chelsea       1-0 Swansea
+Everton       4-0 West Ham
+Manchester C  2-1 Southampton
+Stoke         0-3 Liverpool
+
+Round 15
+[Dec 2]
+Chelsea       3-1 Newcastle
+Brighton      1-5 Liverpool
+Everton       2-0 Huddersfield
+Leicester     1-0 Burnley
+Stoke         2-1 Swansea
+Watford       1-1 Tottenham
+West Bromwich 0-0 Crystal P
+Arsenal       1-3 Manchester U
+[Dec 3]
+Bournemouth   1-1 Southampton
+Manchester C  2-1 West Ham
+
+Round 16
+[Dec 9]
+West Ham      1-0 Chelsea
+Burnley       1-0 Watford
+Crystal P     2-2 Bournemouth
+Huddersfield  2-0 Brighton
+Swansea       1-0 West Bromwich
+Tottenham     5-1 Stoke
+Newcastle     2-3 Leicester
+[Dec 10]
+Southampton   1-1 Arsenal
+Liverpool     1-1 Everton
+Manchester U  1-2 Manchester C
+
+Round 17
+[Dec 12]
+Burnley       1-0 Stoke
+Crystal P     2-1 Watford
+Huddersfield  1-3 Chelsea
+[Dec 13]
+Newcastle     0-1 Everton
+Southampton   1-4 Leicester
+Swansea       0-4 Manchester C
+Liverpool     0-0 West Bromwich
+Manchester U  1-0 Bournemouth
+Tottenham     2-0 Brighton
+West Ham      0-0 Arsenal
+
+Round 18
+[Dec 16]
+Leicester     0-3 Crystal P
+Arsenal       1-0 Newcastle
+Brighton      0-0 Burnley
+Chelsea       1-0 Southampton
+Watford       1-4 Huddersfield
+Stoke         0-3 West Ham
+Manchester C  4-1 Tottenham
+[Dec 17]
+West Bromwich 1-2 Manchester U
+Bournemouth   0-4 Liverpool
+[Dec 18]
+Everton       3-1 Swansea
+
+Round 19
+[Dec 22]
+Arsenal       3-3 Liverpool
+[Dec 23]
+Everton       0-0 Chelsea
+Brighton      1-0 Watford
+Manchester C  4-0 Bournemouth
+Southampton   1-1 Huddersfield
+Stoke         3-1 West Bromwich
+Swansea       1-1 Crystal P
+West Ham      2-3 Newcastle
+Burnley       0-3 Tottenham
+Leicester     2-2 Manchester U
+
+Round 20
+[Dec 26]
+Tottenham     5-2 Southampton
+Bournemouth   3-3 West Ham
+Chelsea       2-0 Brighton
+Huddersfield  1-1 Stoke
+Manchester U  2-2 Burnley
+Watford       2-1 Leicester
+West Bromwich 0-0 Everton
+Liverpool     5-0 Swansea
+[Dec 27]
+Newcastle     0-1 Manchester C
+[Dec 28]
+Crystal P     2-3 Arsenal
+
+Round 21
+[Dec 30]
+Bournemouth   2-1 Everton
+Chelsea       5-0 Stoke
+Huddersfield  0-0 Burnley
+Liverpool     2-1 Leicester
+Newcastle     0-0 Brighton
+Watford       1-2 Swansea
+Manchester U  0-0 Southampton
+[Dec 31]
+Crystal P     0-0 Manchester C
+West Bromwich 1-1 Arsenal
+[Jan 4]
+Tottenham     1-1 West Ham
+
+Round 22
+[Jan 1]
+Brighton      2-2 Bournemouth
+Burnley       1-2 Liverpool
+Leicester     3-0 Huddersfield
+Stoke         0-1 Newcastle
+Everton       0-2 Manchester U
+[Jan 2]
+Southampton   1-2 Crystal P
+Swansea       0-2 Tottenham
+West Ham      2-1 West Bromwich
+Manchester C  3-1 Watford
+[Jan 3]
+Arsenal       2-2 Chelsea
+
+Round 23
+[Jan 13]
+Huddersfield  1-4 West Ham
+Crystal P     1-0 Burnley
+Chelsea       0-0 Leicester
+Newcastle     1-1 Swansea
+West Bromwich 2-0 Brighton
+Watford       2-2 Southampton
+Tottenham     4-0 Everton
+[Jan 14]
+Bournemouth   2-1 Arsenal
+Liverpool     4-3 Manchester C
+[Jan 15]
+Manchester U  3-0 Stoke
+
+Round 24
+[Jan 20]
+Brighton      0-4 Chelsea
+Leicester     2-0 Watford
+Burnley       0-1 Manchester U
+Arsenal       4-1 Crystal P
+West Ham      1-1 Bournemouth
+Stoke         2-0 Huddersfield
+Everton       1-1 West Bromwich
+Manchester C  3-1 Newcastle
+[Jan 21]
+Southampton   1-1 Tottenham
+[Jan 22]
+Swansea       1-0 Liverpool
+
+Round 25
+[Jan 30]
+Swansea       3-1 Arsenal
+West Ham      1-1 Crystal P
+Huddersfield  0-3 Liverpool
+[Jan 31]
+Chelsea       0-3 Bournemouth
+Everton       2-1 Leicester
+Newcastle     1-1 Burnley
+Southampton   1-1 Brighton
+Manchester C  3-0 West Bromwich
+Stoke         0-0 Watford
+Tottenham     2-0 Manchester U
+
+Round 26
+[Feb 3]
+Burnley       1-1 Manchester C
+Bournemouth   2-1 Stoke
+Brighton      3-1 West Ham
+Leicester     1-1 Swansea
+Manchester U  2-0 Huddersfield
+West Bromwich 2-3 Southampton
+Arsenal       5-1 Everton
+[Feb 4]
+Crystal P     1-1 Newcastle
+Liverpool     2-2 Tottenham
+[Feb 5]
+Watford       4-1 Chelsea
+
+Round 27
+[Feb 10]
+Tottenham     1-0 Arsenal
+Everton       3-1 Crystal P
+Stoke         1-1 Brighton
+Swansea       1-0 Burnley
+West Ham      2-0 Watford
+Manchester C  5-1 Leicester
+[Feb 11]
+Huddersfield  4-1 Bournemouth
+Newcastle     1-0 Manchester U
+Southampton   0-2 Liverpool
+[Feb 12]
+Chelsea       3-0 West Bromwich
+
+Round 28
+[Feb 24]
+Leicester     1-1 Stoke
+Bournemouth   2-2 Newcastle
+Brighton      4-1 Swansea
+Burnley       1-1 Southampton
+Liverpool     4-1 West Ham
+West Bromwich 1-2 Huddersfield
+Watford       1-0 Everton
+[Feb 25]
+Crystal P     0-1 Tottenham
+Manchester U  2-1 Chelsea
+[Mar 1]
+Arsenal       0-3 Manchester C
+
+Round 29
+[Mar 3]
+Burnley       2-1 Everton
+Leicester     1-1 Bournemouth
+Southampton   0-0 Stoke
+Swansea       4-1 West Ham
+Tottenham     2-0 Huddersfield
+Watford       1-0 West Bromwich
+Liverpool     2-0 Newcastle
+[Mar 4]
+Brighton      2-1 Arsenal
+Manchester C  1-0 Chelsea
+[Mar 5]
+Crystal P     2-3 Manchester U
+
+Round 30
+[Mar 10]
+Manchester U  2-1 Liverpool
+Everton       2-0 Brighton
+Huddersfield  0-0 Swansea
+Newcastle     3-0 Southampton
+West Bromwich 1-4 Leicester
+West Ham      0-3 Burnley
+Chelsea       2-1 Crystal P
+[Mar 11]
+Arsenal       3-0 Watford
+Bournemouth   1-4 Tottenham
+[Mar 12]
+Stoke         0-2 Manchester C
+
+Round 31
+[Mar 17]
+Bournemouth   2-1 West Bromwich
+Huddersfield  0-2 Crystal P
+Stoke         1-2 Everton
+Liverpool     5-0 Watford
+[Apr 19]
+Burnley       1-2 Chelsea
+[May 8]
+Swansea       0-1 Southampton
+[May 9]
+Leicester     3-1 Arsenal
+Manchester C  3-1 Brighton
+Tottenham     1-0 Newcastle
+[May 10]
+West Ham      0-0 Manchester U
+
+Round 32
+[Mar 31]
+Crystal P     1-2 Liverpool
+Brighton      0-2 Leicester
+Manchester U  2-0 Swansea
+Newcastle     1-0 Huddersfield
+Watford       2-2 Bournemouth
+West Bromwich 1-2 Burnley
+West Ham      3-0 Southampton
+Everton       1-3 Manchester C
+[Apr 1]
+Arsenal       3-0 Stoke
+Chelsea       1-3 Tottenham
+
+Round 33
+[Apr 7]
+Everton       0-0 Liverpool
+Bournemouth   2-2 Crystal P
+Brighton      1-1 Huddersfield
+Leicester     1-2 Newcastle
+Stoke         1-2 Tottenham
+Watford       1-2 Burnley
+West Bromwich 1-1 Swansea
+Manchester C  2-3 Manchester U
+[Apr 8]
+Arsenal       3-2 Southampton
+Chelsea       1-1 West Ham
+
+Round 34
+[Apr 14]
+Southampton   2-3 Chelsea
+Burnley       2-1 Leicester
+Crystal P     3-2 Brighton
+Huddersfield  1-0 Watford
+Swansea       1-1 Everton
+Liverpool     3-0 Bournemouth
+Tottenham     1-3 Manchester C
+[Apr 15]
+Newcastle     2-1 Arsenal
+Manchester U  0-1 West Bromwich
+[Apr 16]
+West Ham      1-1 Stoke
+
+Round 35
+[Apr 17]
+Brighton      1-1 Tottenham
+[Apr 18]
+Bournemouth   0-2 Manchester U
+[Apr 19]
+Leicester     0-0 Southampton
+[Apr 21]
+West Bromwich 2-2 Liverpool
+Watford       0-0 Crystal P
+[Apr 22]
+Arsenal       4-1 West Ham
+Stoke         1-1 Burnley
+Manchester C  5-0 Swansea
+[Apr 23]
+Everton       1-0 Newcastle
+[May 9]
+Chelsea       1-1 Huddersfield
+
+Round 36
+[Apr 28]
+Liverpool     0-0 Stoke
+Burnley       0-0 Brighton
+Crystal P     5-0 Leicester
+Huddersfield  0-2 Everton
+Newcastle     0-1 West Bromwich
+Southampton   2-1 Bournemouth
+Swansea       0-1 Chelsea
+[Apr 29]
+West Ham      1-4 Manchester C
+Manchester U  2-1 Arsenal
+[Apr 30]
+Tottenham     2-0 Watford
+
+Round 37
+[May 4]
+Brighton      1-0 Manchester U
+[May 5]
+Stoke         1-2 Crystal P
+Bournemouth   1-0 Swansea
+Leicester     0-2 West Ham
+Watford       2-1 Newcastle
+West Bromwich 1-0 Tottenham
+Everton       1-1 Southampton
+[May 6]
+Manchester C  0-0 Huddersfield
+Arsenal       5-0 Burnley
+Chelsea       1-0 Liverpool
+
+Round 38 [May 13]
+Burnley       1-2 Bournemouth
+Crystal P     2-0 West Bromwich
+Huddersfield  0-1 Arsenal
+Liverpool     4-0 Brighton
+Manchester U  1-0 Watford
+Newcastle     3-0 Chelsea
+Southampton   0-1 Manchester C
+Swansea       1-2 Stoke
+Tottenham     5-4 Leicester
+West Ham      3-1 Everton
+
+Final Table:
+
+ 1.Manchester City         38  32  4  2 106-27 100       Champions
+ 2.Manchester United       38  25  6  7  68-28  81
+ 3.Tottenham Hotspur       38  23  8  7  74-36  77
+ 4.Liverpool               38  21 12  5  84-38  75
+ 5.Chelsea                 38  21  7 10  62-38  70  [C]
+ 6.Arsenal                 38  19  6 13  74-51  63
+ 7.Burnley                 38  14 12 12  36-39  54
+ 8.Everton                 38  13 10 15  44-58  49
+ 9.Leicester City          38  12 11 15  56-60  47
+10.Newcastle United        38  12  8 18  39-47  44  [P]
+11.Crystal Palace          38  11 11 16  45-55  44
+12.AFC Bournemouth         38  11 11 16  45-61  44
+13.West Ham United         38  10 12 16  48-68  42
+14.Watford                 38  11  8 19  44-64  41
+15.Brighton & Hove Albion  38   9 13 16  34-54  40  [P]
+16.Huddersfield Town       38   9 10 19  28-58  37  [P]
+17.Southampton             38   7 15 16  37-56  36
+--------------------------------------------------
+18.Swansea City            38   8  9 21  28-56  33       Relegated
+19.Stoke City              38   7 12 19  35-68  33       Relegated
+20.West Bromwich Albion    38   6 13 19  31-56  31       Relegated
+
+‹Premier League 2017/18 Match Details, see page eng2018det›
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Cup Tournaments  ‹§cups›
+
+<!-- start pre -->
+‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
+
+FA Cup  ‹§facup›
+
+Round 1
+[Nov 3]
+Notts County            4-2 Bristol Rovers
+Port Vale               2-0 Oxford United
+Hyde United             0-4 MK Dons
+[Nov 4]
+Shaw Lane               1-3 Mansfield Town
+AFC Fylde               4-2 Kidderminster Harriers
+AFC Wimbledon           1-0 Lincoln City
+Blackburn Rovers        3-1 Barnet
+Boreham Wood            2-1 Blackpool
+Bradford City           2-0 Chesterfield
+Carlisle United         3-2 Oldham Athletic
+Cheltenham Town         2-4 Maidstone United
+Colchester United       0-1 Oxford City
+Crewe Alexandra         2-1 Rotherham United
+Ebbsfleet United        2-6 Doncaster Rovers
+Forest Green Rovers     1-0 Macclesfield Town
+Gainsborough Trinity    0-6 Slough Town
+Gateshead               2-0 Chelmsford City
+Gillingham              2-1 Leyton Orient
+Hereford                1-0 AFC Telford United
+Luton Town              1-0 Portsmouth
+Morecambe               3-0 Hartlepool United
+Northampton Town        0-0 Scunthorpe United
+Peterborough United     1-1 Tranmere Rovers
+Plymouth Argyle         1-0 Grimsby Town
+Rochdale                4-0 Bromley
+Shrewsbury Town         5-0 Aldershot Town
+Stevenage               5-0 Nantwich Town
+Wigan Athletic          2-1 Crawley Town
+Yeovil Town             1-0 Southend United
+Newport County          2-1 Walsall
+[Nov 5]
+Cambridge United        1-0 Sutton United
+Charlton Athletic       3-1 Truro City
+Coventry City           2-0 Maidenhead United
+Dartford                1-5 Swindon Town
+Exeter City             3-1 Heybridge Swifts
+Guiseley                0-0 Accrington Stanley
+Leatherhead             1-1 Billericay
+Solihull Moors          0-2 Wycombe Wanderers
+Woking                  1-1 Bury
+[Nov 6]
+Chorley                 1-2 Fleetwood Town
+
+Round 1 Replays
+[Nov 14]
+Accrington Stanley      1-1 Guiseley                [aet, 3-4 pen]
+Bury                    0-3 Woking
+Scunthorpe United       1-0 Northampton Town
+[Nov 15]
+Tranmere Rovers         0-5 Peterborough United
+[Nov 16]
+Billericay              1-3 Leatherhead
+
+Round 2
+[Dec 1]
+AFC Fylde               1-1 Wigan Athletic
+[Dec 2]
+Notts County            3-2 Oxford City
+Bradford City           3-1 Plymouth Argyle
+Fleetwood Town          1-1 Hereford
+Forest Green Rovers     3-3 Exeter City
+Gillingham              1-1 Carlisle United
+MK Dons                 4-1 Maidstone United
+Port Vale               1-1 Yeovil Town
+Shrewsbury Town         2-0 Morecambe
+Stevenage               5-2 Swindon Town
+[Dec 3]
+AFC Wimbledon           3-1 Charlton Athletic
+Blackburn Rovers        3-3 Crewe Alexandra
+Coventry City           3-0 Boreham Wood
+Doncaster Rovers        3-0 Scunthorpe United
+Gateshead               0-5 Luton Town
+Mansfield Town          3-0 Guiseley
+Newport County          2-0 Cambridge United
+Woking                  1-1 Peterborough United
+Wycombe Wanderers       3-1 Leatherhead
+[Dec 4]
+Slough Town             0-4 Rochdale
+
+Round 2 Replays
+[Dec 12]
+Exeter City             2-1 Forest Green Rovers     [aet]
+Peterborough United     5-2 Woking
+Wigan Athletic          3-2 AFC Fylde
+Yeovil Town             3-2 Port Vale               [aet]
+[Dec 13]
+Crewe Alexandra         0-1 Blackburn Rovers
+[Dec 14]
+Hereford                0-2 Fleetwood Town
+[Dec 19]
+Carlisle United         3-1 Gillingham
+
+Round 3
+[Jan 5]
+Liverpool               2-1 Everton
+Manchester United       2-0 Derby County
+[Jan 6]
+Fleetwood Town          0-0 Leicester City
+Middlesbrough           2-0 Sunderland
+Aston Villa             1-3 Peterborough United
+Birmingham City         1-0 Burton Albion
+Blackburn Rovers        0-1 Hull City
+Bolton Wanderers        1-2 Huddersfield Town
+Bournemouth             2-2 Wigan Athletic
+Brentford               0-1 Notts County
+Cardiff City            0-0 Mansfield Town
+Carlisle United         0-0 Sheffield Wednesday
+Coventry City           2-1 Stoke City
+Doncaster Rovers        0-1 Rochdale
+Exeter City             0-2 West Bromwich Albion
+Fulham                  0-1 Southampton
+Ipswich Town            0-1 Sheffield United
+Manchester City         4-1 Burnley
+Millwall                4-1 Barnsley
+Newcastle United        3-1 Luton Town
+Queens Park Rangers     0-1 MK Dons
+Stevenage               0-0 Reading
+Watford                 3-0 Bristol City
+Wolverhampton Wanderers 0-0 Swansea City
+Wycombe Wanderers       1-5 Preston North End
+Yeovil Town             2-0 Bradford City
+Norwich City            0-0 Chelsea
+[Jan 7]
+Newport County          2-1 Leeds United
+Shrewsbury Town         0-0 West Ham United
+Tottenham Hotspur       3-0 AFC Wimbledon
+Nottingham Forest       4-2 Arsenal
+[Jan 8]
+Brighton & Hove Albion  2-1 Crystal Palace
+
+Round 3 Replays
+[Jan 16]
+Leicester City          2-0 Fleetwood Town
+Mansfield Town          1-4 Cardiff City
+Sheffield Wednesday     2-0 Carlisle United
+West Ham United         1-0 Shrewsbury Town         [aet]
+Reading                 3-0 Stevenage
+[Jan 17]
+Swansea City            2-1 Wolverhampton Wanderers
+Wigan Athletic          3-0 Bournemouth
+Chelsea                 1-1 Norwich City            [aet, 5-3 pen]
+
+Round 4
+[Jan 26]
+Sheffield Wednesday     3-1 Reading
+Yeovil Town             0-4 Manchester United
+[Jan 27]
+Peterborough United     1-5 Leicester City
+Huddersfield Town       1-1 Birmingham City
+Hull City               2-1 Nottingham Forest
+Middlesbrough           0-1 Brighton & Hove Albion
+Millwall                2-2 Rochdale
+MK Dons                 0-1 Coventry City
+Notts County            1-1 Swansea City
+Sheffield United        1-0 Preston North End
+Southampton             1-0 Watford
+Wigan Athletic          2-0 West Ham United
+Newport County          1-1 Tottenham Hotspur
+Liverpool               2-3 West Bromwich Albion
+[Jan 28]
+Chelsea                 3-0 Newcastle United
+Cardiff City            0-2 Manchester City
+
+Round 4 Replays
+[Feb 6]
+Birmingham City         1-4 Huddersfield Town       [aet]
+Rochdale                1-0 Millwall
+Swansea City            8-1 Notts County
+[Feb 7]
+Tottenham Hotspur       2-0 Newport County
+
+1/8 Finals
+[Feb 16]
+Leicester City          1-0 Sheffield United
+Chelsea                 4-0 Hull City
+[Feb 17]
+Sheffield Wednesday     0-0 Swansea City
+West Bromwich Albion    1-2 Southampton
+Brighton & Hove Albion  3-1 Coventry City
+Huddersfield Town       0-2 Manchester United
+[Feb 18]
+Rochdale                2-2 Tottenham Hotspur
+[Feb 19]
+Wigan Athletic          1-0 Manchester City
+
+1/8 Final Replays
+[Feb 27]
+Swansea City            2-0 Sheffield Wednesday
+[Feb 28]
+Tottenham Hotspur       6-1 Rochdale
+
+Quarterfinals
+[Mar 17]
+Swansea City            0-3 Tottenham Hotspur
+Manchester United       2-0 Brighton & Hove Albion
+[Mar 18]
+Wigan Athletic          0-2 Southampton
+Leicester City          1-2 Chelsea                 [aet]
+
+Semifinals [both in London]
+[Apr 21]
+Manchester United       2-1 Tottenham Hotspur
+[Apr 22]
+Chelsea                 2-0 Southampton
+
+Final [May 19, London]
+Chelsea                 1-0 Manchester United
+
+League Cup  ‹§leaguecup›
+
+First Round
+[Aug 8]
+Coventry City           1-3 Blackburn Rovers
+Nottingham Forest       2-1 Shrewsbury Town
+Bradford City           2-3 Doncaster Rovers
+Mansfield Town          0-1 Rochdale
+Barnsley                4-3 Morecambe
+Wigan Athletic          2-1 Blackpool
+Sheffield Wednesday     4-1 Chesterfield
+Accrington Stanley      3-2 Preston North End
+Fleetwood Town          1-2 Carlisle United         [aet]
+Scunthorpe United       3-3 Notts County            [aet, 6-5 pen]
+Birmingham City         5-1 Crawley Town
+Exeter City             1-2 Charlton Athletic
+Queens Park Rangers     1-0 Northampton Town
+Southend United         0-2 Newport County
+Bristol City            5-0 Plymouth Argyle
+Cardiff City            2-1 Portsmouth              [aet]
+Rotherham United        2-1 Lincoln City
+Oxford United           3-4 Cheltenham Town         [aet]
+AFC Wimbledon           1-3 Brentford               [aet]
+Norwich City            3-2 Swindon Town
+Bristol Rovers          4-1 Cambridge United
+Peterborough United     1-3 Barnet
+Wycombe Wanderers       0-2 Fulham
+Forest Green Rovers     0-1 Milton Keynes Dons      [aet]
+Millwall                2-0 Stevenage
+Wolverhampton Wanderers 1-0 Yeovil Town
+Luton Town              0-2 Ipswich Town
+Reading                 2-0 Gillingham
+[Aug 9]
+Crewe Alexandra         1-2 Bolton Wanderers
+Oldham Athletic         2-3 Burton Albion
+Sheffield United        3-2 Walsall
+Leeds United            4-1 Port Vale
+Colchester United       1-2 Aston Villa
+[Aug 10]
+Bury                    0-1 Sunderland
+[Aug 22]
+Grimsby Town            0-1 Derby County
+
+Second Round
+[Aug 22]
+Crystal Palace          2-1 Ipswich Town
+Carlisle United         1-2 Sunderland
+Accrington Stanley      1-3 West Bromwich Albion
+Leeds United            5-1 Newport County
+Middlesbrough           3-0 Scunthorpe United
+Doncaster Rovers        2-0 Hull City
+Sheffield United        1-4 Leicester City
+Aston Villa             4-1 Wigan Athletic
+Queens Park Rangers     1-4 Brentford
+Watford                 2-3 Bristol City
+Norwich City            4-1 Charlton Athletic
+Brighton & Hove Albion  1-0 Barnet
+Cardiff City            1-2 Burton Albion
+Fulham                  0-1 Bristol Rovers
+Milton Keynes Dons      1-4 Swansea City
+Birmingham City         1-2 Bournemouth
+Bolton Wanderers        3-2 Sheffield Wednesday
+Reading                 3-1 Millwall                [aet]
+[Aug 23]
+Newcastle United        2-3 Nottingham Forest       [aet]
+Huddersfield Town       2-1 Rotherham United
+Blackburn Rovers        0-2 Burnley
+Cheltenham Town         0-2 West Ham United
+Southampton             0-2 Wolverhampton Wanderers
+Stoke City              4-0 Rochdale
+[Sep 12]
+Barnsley                3-2 Derby County
+
+Third Round
+[Sep 19]
+Leicester City          2-0 Liverpool
+Brentford               1-3 Norwich City
+Wolverhampton Wanderers 1-0 Bristol Rovers          [aet]
+Burnley                 2-2 Leeds United            [aet, 3-5 pen]
+Bristol City            2-0 Stoke City
+Aston Villa             0-2 Middlesbrough
+West Ham United         3-0 Bolton Wanderers
+Crystal Palace          1-0 Huddersfield Town
+Bournemouth             1-0 Brighton & Hove Albion  [aet]
+Reading                 0-2 Swansea City
+Tottenham Hotspur       1-0 Barnsley
+[Sep 20]
+Everton                 3-0 Sunderland
+Arsenal                 1-0 Doncaster Rovers
+Chelsea                 5-1 Nottingham Forest
+West Bromwich Albion    1-2 Manchester City
+Manchester United       4-1 Burton Albion
+
+Fourth Round
+[Oct 24]
+Bournemouth             3-1 Middlesbrough
+Arsenal                 2-1 Norwich City            [aet]
+Bristol City            4-1 Crystal Palace
+Leicester City          3-1 Leeds United
+Swansea City            0-2 Manchester United
+Manchester City         0-0 Wolverhampton Wanderers [aet, 3-1 pen]
+[Oct 25]
+Chelsea                  2-1 Everton
+Tottenham Hotspur       2-3 West Ham United
+
+Quarterfinals
+[Dec 19]
+Arsenal                 1-0 West Ham United
+Leicester City          1-1 Manchester City         [aet, 3-4 pen]
+[Dec 20]
+Chelsea                 2-1 Bournemouth
+Bristol City            2-1 Manchester United
+
+Semifinals
+
+First Legs
+[Jan 9]
+Manchester City         2-1 Bristol City
+[Jan 10]
+Chelsea                 0-0 Arsenal
+
+Second Legs
+[Jan 23]
+Bristol City            2-3 Manchester City
+[Jan 24]
+Arsenal                 2-1 Chelsea
+
+Final [Feb 25, London]
+Manchester City         3-0 Arsenal
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Championship  ‹§champ›
+
+<!-- start pre -->
+‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
+
+Regular Stage  ‹§2reg›
+
+Final Table:
+
+ 1.Wolverhampton Wanderers 46  30  9  7  82-39  99       Promoted
+ 2.Cardiff City            46  27  9 10  69-39  90       Promoted
+--------------------------------------------------
+ 3.Fulham                  46  25 13  8  79-46  88       ‹Promotion Playoff, see §2prom›
+ 4.Aston Villa             46  24 11 11  72-42  83       ‹Promotion Playoff, see §2prom›
+ 5.Middlesbrough           46  22 10 14  67-45  76  [R]  ‹Promotion Playoff, see §2prom›
+ 6.Derby County            46  20 15 11  70-48  75       ‹Promotion Playoff, see §2prom›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Preston North End       46  19 16 11  57-46  73
+ 8.Millwall                46  19 15 12  56-45  72  [P]
+ 9.Brentford               46  18 15 13  62-52  69
+10.Sheffield United        46  20  9 17  62-55  69  [P]
+11.Bristol City            46  17 16 13  67-58  67
+12.Ipswich Town            46  17  9 20  57-60  60
+13.Leeds United            46  17  9 20  59-64  60
+14.Norwich City            46  15 15 16  49-60  60
+15.Sheffield Wednesday     46  14 15 17  59-60  57
+16.Queens Park Rangers     46  15 11 20  58-70  56
+17.Nottingham Forest       46  15  8 23  51-65  53
+18.Hull City               46  11 16 19  70-70  49  [R]
+19.Birmingham City         46  13  7 26  38-68  46
+20.Reading                 46  10 14 22  48-70  44
+21.Bolton Wanderers        46  10 13 23  39-74  43  [P]
+--------------------------------------------------
+22.Barnsley                46   9 14 23  48-72  41       Relegated
+23.Burton Albion           46  10 11 25  38-81  41       Relegated
+24.Sunderland              46   7 16 23  52-80  37  [R]  Relegated
+
+Promotion Playoff  ‹§2prom›
+
+Semifinals
+
+First Legs
+[May 11]
+Derby         1-0 Fulham
+[May 12]
+Middlesbrough 0-1 Aston Villa
+
+Second Legs
+[May 14]
+Fulham        2-0 Derby
+[May 15]
+Aston Villa   0-0 Middlesbrough
+
+Final [May 26]
+Fulham        1-0 Aston Villa
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Division 1  ‹§first›
+
+<!-- start pre -->
+‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
+
+Regular Stage  ‹§3reg›
+
+Final Table:
+
+ 1.Wigan Athletic          46  29 11  6  89-29  98  [R]  Promoted
+ 2.Blackburn Rovers        46  28 12  6  82-40  96  [R]  Promoted
+--------------------------------------------------
+ 3.Shrewsbury Town         46  25 12  9  60-39  87       ‹Promotion Playoff, see §3prom›
+ 4.Rotherham United        46  24  7 15  73-53  79  [R]  ‹Promotion Playoff, see §3prom›
+ 5.Scunthorpe United       46  19 17 10  65-50  74       ‹Promotion Playoff, see §3prom›
+ 6.Charlton Athletic       46  20 11 15  58-51  71       ‹Promotion Playoff, see §3prom›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Plymouth Argyle         46  19 11 16  58-59  68  [P]
+ 8.Portsmouth              46  20  6 20  57-56  66  [P]
+ 9.Peterborough United     46  17 13 16  68-60  64
+10.Southend United         46  17 12 17  58-62  63
+11.Bradford City           46  18  9 19  57-67  63
+12.Blackpool               46  15 15 16  60-55  60  [P]
+13.Bristol Rovers          46  16 11 19  60-66  59
+14.Fleetwood Town          46  16  9 21  59-68  57
+15.Doncaster Rovers        46  13 17 16  52-52  56  [P]
+16.Oxford United           46  15 11 20  61-66  56
+17.Gillingham              46  13 17 16  50-55  56
+18.AFC Wimbledon           46  13 14 19  47-58  53
+19.Walsall                 46  13 13 20  53-66  52
+20.Rochdale                46  11 18 17  49-57  51
+--------------------------------------------------
+21.Oldham Athletic         46  11 17 18  58-75  50       Relegated
+22.Northampton Town        46  12 11 23  43-77  47       Relegated
+23.Milton Keynes Dons      46  11 12 23  43-69  45       Relegated
+24.Bury                    46   8 12 26  41-71  36       Relegated
+
+Promotion Playoff  ‹§3prom›
+
+Semifinals
+
+First Legs
+[May 10]
+Charlton      0-1 Shrewsbury
+[May 12]
+Scunthorpe    2-2 Rotherham
+
+Second Legs
+[May 13]
+Shrewsbury    1-0 Charlton
+[May 16]
+Rotherham     2-0 Scunthorpe
+
+Final [May 27]
+Shrewsbury    1-2 Rotherham     [aet]
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Division 2  ‹§second›
+
+<!-- start pre -->
+‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
+
+Regular Stage  ‹§4reg›
+
+Final Table:
+
+ 1.Accrington Stanley      46  29  6 11  76-46  93       Promoted
+ 2.Luton Town              46  25 13  8  94-46  88       Promoted
+ 3.Wycombe Wanderers       46  24 12 10  79-60  84       Promoted
+--------------------------------------------------
+ 4.Exeter City             46  24  8 14  64-54  80       ‹Promotion Playoff, see §4prom›
+ 5.Notts County            46  21 14 11  71-48  77       ‹Promotion Playoff, see §4prom›
+ 6.Coventry City           46  22  9 15  64-47  75  [R]  ‹Promotion Playoff, see §4prom›
+ 7.Lincoln City            46  20 15 11  64-48  75  [P]  ‹Promotion Playoff, see §4prom›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8.Mansfield Town          46  18 18 10  67-52  72
+ 9.Swindon Town            46  20  8 18  67-65  68  [R]
+10.Carlisle United         46  17 16 13  62-54  67
+11.Newport County          46  16 16 14  56-58  64
+12.Cambridge United        46  17 13 16  56-60  64
+13.Colchester United       46  16 14 16  53-52  62
+14.Crawley Town            46  16 11 19  58-66  59
+15.Crewe Alexandra         46  17  5 24  62-75  56
+16.Stevenage               46  14 13 19  60-65  55
+17.Cheltenham Town         46  13 12 21  67-73  51
+18.Grimsby Town            46  13 12 21  42-66  51
+19.Yeovil Town             46  12 12 22  59-75  48
+20.Port Vale               46  11 14 21  49-67  47  [R]
+21.Forest Green Rovers     46  13  8 25  54-77  47  [P]
+22.Morecambe               46   9 19 18  41-56  46
+--------------------------------------------------
+23.Barnet                  46  12 10 24  46-65  46       Relegated
+24.Chesterfield            46  10  8 28  47-83  38  [R]  Relegated
+
+Promotion Playoff  ‹§4prom›
+
+Semifinals
+
+First Legs [May 12]
+Lincoln       0-0 Exeter
+Coventry      1-1 Notts C
+
+Second Legs
+[May 17]
+Exeter        3-1 Lincoln
+[May 18]
+Notts C       1-4 Coventry
+
+Final [May 28]
+Exeter        1-3 Coventry
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== National League  ‹§conf›
+
+<!-- start pre -->
+‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
+
+Regular Stage  ‹§5reg›
+
+Final Table:
+
+ 1.Macclesfield Town       46  27 11  8  67-46  92       Promoted
+--------------------------------------------------
+ 2.Tranmere Rovers         46  24 10 12  78-46  82       ‹Promotion Playoff, see §5prom›
+ 3.Sutton United           46  23 10 13  67-53  79       ‹Promotion Playoff, see §5prom›
+ 4.Boreham Wood            46  20 15 11  64-47  75       ‹Promotion Playoff, see §5prom›
+ 5.Aldershot Town          46  20 15 11  64-52  75       ‹Promotion Playoff, see §5prom›
+ 6.Ebbsfleet United        46  19 17 10  64-50  74  [P]  ‹Promotion Playoff, see §5prom›
+ 7.AFC Fylde               46  20 13 13  82-56  73  [P]  ‹Promotion Playoff, see §5prom›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8.Dover Athletic          46  20 13 13  62-44  73
+ 9.Bromley                 46  19 13 14  75-58  70
+10.Wrexham                 46  17 19 10  49-39  70
+11.Dagenham & Redbridge    46  19 11 16  69-62  68
+12.Maidenhead United       46  17 13 16  65-66  64  [P]
+13.Leyton Orient           46  16 12 18  58-56  60  [R]
+14.Eastleigh               46  13 17 16  65-72  56
+15.Hartlepool United       46  14 14 18  53-63  56  [R]
+16.FC Halifax Town         46  13 16 17  48-58  55  [P]
+17.Gateshead               46  12 18 16  62-58  54
+18.Solihull Moors          46  14 12 20  49-60  54
+19.Maidstone United        46  13 15 18  52-64  54
+20.Barrow                  46  11 16 19  51-63  49
+--------------------------------------------------
+21.Woking                  46  13  9 24  55-76  48       Relegated
+22.Torquay United          46  10 12 24  45-73  42       Relegated
+23.Chester                 46   8 13 25  42-79  37       Relegated
+24.Guiseley                46   7 12 27  44-89  33       Relegated
+
+Promoted: Salford City, Havant & Waterlooville, Harrogate Town, Braintree Town
+
+Promotion Playoff  ‹§5prom›
+
+Round 1
+
+[May 2]
+Aldershot     1-1 Ebbsfleet     [aet, 4-5 pen]
+[May 2]
+Boreham Wood  2-1 Fylde
+
+Semifinals
+
+[May 5]
+Tranmere      4-2 Ebbsfleet     [aet]
+[May 6]
+Sutton        2-3 Boreham Wood
+
+Final [May 12]
+Tranmere      2-1 Boreham Wood
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2016/17, see page eng2017›.
+
+‹Premier League 2017/18 Match Details, see page eng2018det›
+
+‹2018/19, see page eng2019›.
+
+‹list of champions, see page engchamp›.
+
+‹list of 2nd division champions, see page eng2champ›.
+
+‹list of full tables, see page ../engpaul/FLA/league›.
+
+‹list of divisional movements, see page engall›.
+
+‹list of cup winners, see page engcuphist›.
+
+‹list of super cup (charity shield) winners, see page engsupcuphist›.
+
+‹list of league cup winners, see page engleagcuphist›.
+
+‹list of league trophy winners, see page engassmembcuphist›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans and Roberto Di Maggio
+the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Authors: Karel Stokkermans and Roberto Di Maggio
+
+Last updated: 18 Jul 2019
+
+
+(C) Copyright Karel Stokkermans, Roberto Di Maggio
+and RSSSF 2017/19
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.

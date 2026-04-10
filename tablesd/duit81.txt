@@ -1,0 +1,653 @@
+  <!--
+     source: https://rsssf.org/tablesd/duit81.html
+    -->
+  
+
+
+== Germany 1980/81
+
+<!-- start pre -->
+
+Final Table
+
+ 1. Bayern München               34 22  9  3  89- 41  53
+ 2. Hamburger SV                 34 21  7  6  73- 43  49
+ 3. VfB Stuttgart                34 19  8  7  70- 44  46
+ 4. 1. FC Kaiserslautern         34 17 10  7  60- 37  44
+ 5. Eintracht Frankfurt          34 13 12  9  61- 57  38
+ 6. Borussia Mönchengladbach     34 15  7 12  68- 64  37
+ 7. Borussia Dortmund            34 13  9 12  69- 59  35
+ 8. 1. FC Köln                   34 12 10 12  54- 55  34
+ 9. VfL Bochum                   34  9 15 10  53- 45  33
+10. Karlsruher SC                34  9 14 11  56- 63  32
+11. Bayer Leverkusen             34 10 10 14  52- 53  30
+12. MSV Duisburg                 34 10  9 15  45- 58  29
+13. 1. FC Nürnberg               34 11  6 17  47- 57  28
+14. Fortuna Düsseldorf           34 10  8 16  57- 64  28
+15. Arminia Bielefeld            34 10  6 18  46- 65  26
+16. TSV 1860 München             34  9  7 18  49- 67  25
+17. Schalke 04                   34  8  7 19  43- 88  23
+18. Bayer Uerdingen              34  8  6 20  47- 79  22
+
+    Bay Ham VfB Kai Fra Mön Dor Köl VfL Kar Lev MSV Nür Düs Arm TSV Sch Uer
+Bay xxx 2-1 1-1 3-0 7-2 4-0 5-3 1-1 3-1 1-1 3-0 5-1 4-2 3-2 5-1 1-1 5-1 4-0
+Ham 2-2 xxx 1-3 3-2 3-1 2-1 2-1 2-0 2-1 3-1 2-0 0-0 1-0 2-1 4-1 4-1 7-1 2-1
+VfB 1-2 3-2 xxx 1-0 1-1 4-2 3-1 3-0 4-1 5-2 2-1 2-0 2-1 4-2 2-1 2-1 3-0 3-2
+Kai 4-2 2-2 1-0 xxx 2-0 3-2 1-1 5-1 0-0 1-0 3-1 1-1 3-1 3-0 1-3 3-2 2-0 4-2
+Fra 0-0 1-1 2-1 3-2 xxx 2-1 0-4 4-0 2-2 3-3 2-0 2-1 3-0 2-2 2-0 2-1 5-0 2-2
+Mön 1-4 2-2 1-3 1-0 2-2 xxx 1-0 2-0 2-1 3-3 1-0 4-1 1-4 2-2 4-2 3-2 3-1 7-1
+Dor 2-2 6-2 3-3 2-2 2-1 0-3 xxx 2-2 1-3 3-3 5-3 5-1 1-0 2-1 5-0 4-1 2-2 2-1
+Köl 0-3 0-3 3-1 2-2 5-0 2-3 2-1 xxx 2-2 4-0 1-1 1-0 2-2 1-2 1-0 4-1 0-2 3-0
+VfL 1-3 0-3 1-1 0-0 2-0 1-1 0-2 1-1 xxx 0-0 1-1 1-1 4-0 2-1 0-2 4-1 5-1 2-2
+Kar 0-3 1-1 0-0 1-1 1-1 3-4 1-1 1-1 0-0 xxx 1-1 2-0 4-1 3-0 2-1 7-2 3-2 3-1
+Lev 3-0 1-2 1-1 0-1 3-2 1-5 4-1 1-1 2-0 3-0 xxx 1-1 1-1 2-0 2-0 1-1 4-0 4-1
+MSV 0-1 2-0 0-3 1-1 0-0 4-0 2-1 3-4 0-3 2-2 2-4 xxx 2-0 2-1 1-1 1-0 5-1 3-2
+Nür 0-1 2-3 1-2 0-4 1-4 2-0 2-0 2-1 0-2 5-0 1-1 1-0 xxx 2-1 2-0 1-2 2-0 0-0
+Düs 3-0 2-3 3-1 0-2 2-2 2-1 2-2 0-0 1-1 1-2 4-3 0-1 2-2 xxx 3-1 2-1 3-3 4-2
+Arm 1-2 0-2 1-0 0-1 1-1 2-3 1-0 2-5 3-3 4-1 1-1 2-1 0-2 3-0 xxx 3-2 1-0 3-1
+TSV 1-3 0-0 0-0 1-1 0-2 0-0 0-1 2-1 2-2 4-2 1-0 1-3 2-4 4-3 2-1 xxx 3-1 4-0
+Sch 2-2 2-1 3-2 0-2 1-4 2-2 1-2 1-2 0-6 1-0 3-1 2-2 1-1 0-4 2-2 1-0 xxx 3-1
+Uer 2-2 0-3 3-3 1-0 4-1 2-0 2-1 0-1 1-0 0-3 3-0 4-1 3-2 0-1 2-2 0-3 1-3 xxx
+
+Round 1 [Aug 15]
+Leverkusen 0-1 K'lautern  (Melzer 27)
+Dortmund   2-1 Uerdingen  (Edvaldsson 24, Geyer 35 - Hahn 48)
+
+[Aug 16]
+TSV 1860   2-2 Bochum     (Klinkhammer 77, Raubold 82 - Pinkall 50, Oswald 85)
+Hamburger  0-0 Duisburg
+Stuttgart  2-1 Nürnberg   (Ohlicher 11, 24 - Volkert 73)
+Arminia    2-5 1. FC Köln (Sackewitz 22 p, 87 - Littbarski 21, Woodcock 53,
+                          Kroth 60, D.Müller 83, 90)
+Schalke    1-4 Frankfurt  (Dzoni 31 - Nachtweih 28, Lorant 32, Hölzenbein 43,
+                          Borchers 77)
+Düsseldorf 2-1 M'gladbach (Wenzel 68, K.Allofs 73 - Bruns 88)
+Karlsruher 0-3 Bayern     (Rummenigge 41, Breitner 77, 80 p)
+
+Round 2 [Aug 19]
+M'gladbach 3-1 Schalke    (Matthäus 27, Nickel 69, Thychosen 81 - Elgert 49)
+Duisburg   1-0 TSV 1860   (Büssers 88)
+Uerdingen  0-1 Düsseldorf (T.Allofs 12)
+Frankfurt  2-0 Arminia    (Cha 19, 29)
+Bayern     5-3 Dortmund   (Breitner 42 p, Burgsmüller 50, Horsmann 70, Augenthaler 72, Burgsmüller 76, Rummenigge 81, Rummenigge 85, Votava 86)
+
+[Aug 20]
+1. FC Köln 1-1 Leverkusen (Woodcock 90 - Ökland 63)
+K'lautern  1-0 Stuttgart  (Eigendorf 38)
+Nürnberg   2-3 Hamburger  (Volkert 34 p, Frank 54 - Dreßel 6, Memering 53,
+                          Eder 84 o)
+                          (sent off: Weyerich (Nürnberg, ?))
+Bochum     0-0 Karlsruher
+
+Round 3 [Aug 23]
+Bochum     1-1 Duisburg   (Abel 59, Fruck 86)
+TSV 1860   2-4 Nürnberg   (Werner 28, 87 - Frank 15, 64, Volkert 22 p, 89)
+                          [84 Sidka (TSV) m/pen]
+Hamburger  3-2 K'lautern  (Jakobs 52, Hrubesch 60, Magath 81 - Dusek 86,
+                          Geye 88)
+Stuttgart  3-0 1. FC Köln (Klotz 43, Hattenberger 51, Allgöwer 69)
+Leverkusen 3-2 Frankfurt  (Ökland 23, Herzog 60, Demuth 84 p - Nickel 77,
+                          Nachtweih 87)
+Arminia    2-3 M'gladbach (Schock 22, Matthäus 51 o - Thychosen 11, Schröder
+                          47 o, Bruns 53)
+Schalke    3-1 Uerdingen  (Wuttke 32, Rüssmann 64, Jara 83 - Hofmann 45)
+                          (sent off: van de Loo (Uerdingen, 72))
+Düsseldorf 3-0 Bayern     (Bommer 62, K.Allofs 84, T.Allofs 87)
+Karlsruher 1-1 Dortmund   (Struth 36 - Burgsmüller 48)
+
+Round 4 [Sep 2]
+M'gladbach 1-0 Leverkusen (Lienen 73)
+K'lautern  3-2 TSV 1860   (Funkel 47, 66, 84 - Völler 53, Scheller 69)
+Duisburg   2-2 Karlsruher (Fenten 60, Grillemeier 84 - Günther 7, Bold 80)
+Dortmund   2-1 Düsseldorf (Edvaldsson 42, Abramczik 87 - K.Allofs 72)
+
+[Sep 3]
+Uerdingen  2-2 Arminia    (Kanders 76, Ehmke 79 - Schock 49, Eilenfeldt 50)
+                          [41 Hahn (Uerdingen) m/pen]
+Frankfurt  2-1 Stuttgart  (Lottermann 36, Schaub 51 - Klotz 90)
+1. FC Köln 0-3 Hamburger  (Kaltz 43 p, Groh 65, Hrubesch 68)
+Nürnberg   0-2 Bochum     (Pinkall 20, Bast 69)
+Bayern     5-1 Schalke    (Rummenigge 36, 52, D.Hoeneß 54, 61, Augenthaler 57 -
+                          Kügler 43)
+
+Round 5 [Sep 5]
+Bochum     0-0 K'lautern
+
+[Sep 6]
+Duisburg   2-0 Nürnberg   (Kempe 15, Gores 40)
+TSV 1860   2-1 1. FC Köln (Völler 43, 70 - D.Müller 38)
+Hamburger  3-1 Frankfurt  (Kaltz 17 p, Reimann 45, Hrubesch 73 - Lorant 27)
+Stuttgart  4-2 M'gladbach (Kelsch 12, Schmider 29, Hattenberger 74, Klotz 85 -
+                          Hannes 38 p, Nickel 42)
+Leverkusen 4-1 Uerdingen  (Vöge 30, Demuth 63, Glowacz 67, Gniech 77 -
+                          Mattsson 86)
+Arminia    1-2 Bayern     (Sackewitz 21 - Dremmler 9, D.Hoeneß 77)
+Schalke    1-2 Dortmund   (Wuttke 27 - Votava 70, Edvaldsson 83)
+Karlsruher 3-0 Düsseldorf (Fanz 45, Struth 72, Wiesner 82)
+
+Round 6 [Sep 12]
+K'lautern  1-1 Duisburg   (Briegel 12 -  Gores 25)
+Düsseldorf 3-3 Schalke    (Wenzel 34, T.Allofs 39, Zewe 53 - Elgert 44, 77,
+                          Bittcher 85)
+
+[Sep 13]
+Uerdingen  3-3 Stuttgart  (Raschid 13, 69, Eggeling 51 - Allgöwer 1, Klotz
+                          20, 68)
+M'gladbach 2-2 Hamburger  (Nielsen 18, Nickel 57 - Dreßel 58, Hartwig 71)
+                          (sent off: Reimann (Hamburger, 37))
+Frankfurt  2-1 TSV 1860   (Pezzey 87, Hölzenbein 88 - Nastase 67)
+1. FC Köln 2-2 Bochum     (Littbarski 42, D.Müller 59 - KBlau 35, Kaczor 66)
+Nürnberg   5-0 Karlsruher (Eggert 35, Frank 45, Heck 67, Volkert 70, 87)
+Dortmund   5-0 Arminia    (Burgsmüller 25, 34, 48, Abramczik 37, Edvaldsson 65)
+Bayern     3-0 Leverkusen (D.Hoeneß 45, 76, Breitner 58)
+
+Round 7 [Sep 20]
+Nürnberg   0-4 K'lautern  (Bongartz 55, Eigendorf 63, Wendt 84, Funkel 88 p)
+Duisburg   3-4 1. FC Köln (Grillemeier 34, Gores 83, Steininger 87 - D.Müller
+                          47, 60, Strack 52, Littbarski 71,
+Bochum     2-0 Frankfurt  (Gross 50, Abel 57 p)
+TSV 1860   0-0 M'gladbach
+Hamburger  2-1 Uerdingen  (Hrubesch 33, Buljan 36 - Kanders 53) [50 Kaltz
+                          (Hamburger) m/pen]
+Stuttgart  1-2 Bayern     (Klotz 88 - Dürnberger 32, Kraus 73)
+Leverkusen 4-1 Dortmund   (Ökland 45, 76, 84, Burgsmüller 86 - Vöge 38)
+Arminia    3-0 Düsseldorf (Pagelsdorf 40, Eilenfeldt 62, 63)
+Karlsruher 3-2 Schalke    (Dittus 49, Günther 50, 80 - Kügler 1, 24)
+
+Round 8 [Sep 26]
+M'gladbach 2-1 Bochum     (Matthäus 43, Bruns 70 - Abel 52 p)
+Schalke    2-2 Arminia    (Elgert 12, Elgert 53 - Geils 36, Schock 73) [46
+                          Rüssmann (Schalke) m/pen]
+
+[Sep 27]
+Uerdingen  0-3 TSV 1860   (Völler 71, Wohlers 81, Werner 88)
+Frankfurt  2-1 Duisburg   (Kempe 37, Nachtweih 45, Hölzenbein 86 p) [8
+                          Lorant (Frankfurt) m/pen]
+1. FC Köln 2-2 Nürnberg   (Prestin 11, Volkert 21 p, Oberacher 35, Strack 53)
+K'lautern  1-0 Karlsruher (Geye 36) [62 Trenkel (Karlsruher) m/pen]
+Düsseldorf 4-3 Leverkusen (Seel 22, Zewe 67, Theis 75, Dusend 82 -
+                          Elmer 64, 84, Glowacz 70)
+Dortmund   3-3 Stuttgart  (Burgsmüller 43 p, 55, Koch 46 - Martin 59 p,
+                          Tüfekci 82, Allgöwer 86)
+                          (sent off: Hattenberger (Stuttgart, 43))
+Bayern     2-1 Hamburger  (Rummenigge 62, Augenthaler 86 - Dreßel 67)
+
+Round 9 [Oct 14]
+Karlsruher 2-1 Arminia    (Groß 37, Struth 84 - Eilenfeldt 28)
+TSV 1860   1-3 Bayern     (Nastase 62 - Niedermayer 18, Breitner 19 p,
+                          Rummenigge 70)
+Hamburger  2-1 Dortmund   (Milewski 5, Kaltz 29 p - Edvaldsson 19)
+
+[Oct 15]
+Bochum     2-2 Uerdingen  (Pinkall 4, 90 - Eggeling 17, Hahn 73)
+Leverkusen 4-0 Schalke    (Bruckmann 11, Ökland 37, Demuth 79 p, Szech 90)
+K'lautern  5-1 1. FC Köln (Geye 12, 86, Riedl 20, Funkel 63, 76 - D.Müller 74)
+                          [82 Funkel (Uerdingen) m/pen]
+Nürnberg   1-4 Frankfurt  (Volkert 66 - Hölzenbein 37, 84, Lottermann 57, 70)
+Duisburg   4-0 M'gladbach (Dietz 19, Steiner 55, Gores 70, Steininger 80)
+Stuttgart  4-2 Düsseldorf (Müller 21 p, 43, 61 p, Kelsch 50 - Seel 18,
+                          K.Allofs 33)
+
+Round 10 [Oct 18]
+Uerdingen  4-1 Duisburg   (Zimmer 43, Raschid 58, Kanders 76, Eggeling 90 -
+                          Dietz 67)
+M'gladbach 1-4 Nürnberg   (Nickel 86 - Eggert 13, Heck 56, Volkert 73, 75)
+Frankfurt  3-2 K'lautern  (Pezzey 46, Lottermann 53, Cha 56 - Geye 3, Neues 82)
+1. FC Köln 4-0 Karlsruher (Bonhof 23 p, 44 p, Woodcock 62, D.Müller 79)
+Arminia    1-1 Leverkusen (Geils 47 - Ökland 84)
+Schalke    3-2 Stuttgart  (Kügler 45, Elgert 50, Dzoni 58 - K-H.Förster 51,
+                          Ha.Müller 66)
+Düsseldorf 2-3 Hamburger  (Wirtz 20, Theis 89 - Hrubesch 11, Hartwig 22,
+                          Milewski 43)
+Dortmund   4-1 TSV 1860   (Burgsmüller 35, Edvaldsson 62, 76, Votava 74 -
+                          Völler 39)
+Bayern     3-1 Bochum     (Rummenigge 3, 22, Dürnberger 29 - Knüwe 84)
+
+Round 11 [Oct 24]
+Nürnberg   0-0 Uerdingen
+
+[Oct 25]
+1. FC Köln 5-0 Frankfurt  (Gerber 9, Woodcock 11, Littbarski 44, Botteron
+                          53, 75)
+K'lautern  3-2 M'gladbach (Melzer 4, Riedl 55, Funkel 65 - Hannes 10 p, Veh 67)
+Duisburg   0-1 Bayern     (Niedermayer 77)
+Bochum     0-2 Dortmund   (Burgsmüller 14, Abramczik 29)
+TSV 1860   4-3 Düsseldorf (Völler 49, 62, 78, Wohlers 56 - Theis 7,
+                          K.Allofs 16, 32)
+Hamburger  7-1 Schalke    (Memering 12, Hartwig 21, Milewski 43, 48, Dzoni 54 o,
+                          Magath 59, Jakobs 73 - Elgert 74)
+Stuttgart  2-1 Arminia    (Ohlicher 56, Tüfekci 81 - Sackewitz 36) [40
+                          Ha.Müller (Stuttgart) m/pen]
+Karlsruher 1-1 Leverkusen (Struth 28 p - Vöge 24)
+
+Round 12 [Oct 29]
+Düsseldorf 1-1 Bochum     (Weikl 8 - Abel 9)
+
+[Oct 31]
+Leverkusen 1-1 Stuttgart  (Demuth 24 p - Allgöwer 17)
+Arminia    0-2 Hamburger  (Hrubesch 74, Milewski 77)
+Schalke    1-0 TSV 1860   (Bittcher 8)
+Dortmund   5-1 Duisburg   (Burgsmüller 14, 16, 32, Votava 34, Geyer 36 -
+                          Steiner 39)
+Uerdingen  1-0 K'lautern  (Zimmer 47)
+M'gladbach 2-0 1. FC Köln (Hannes 29 p, 40)
+Bayern     4-2 Nürnberg   (Rummenigge 10, 30, 59, Horsmann 20 - Eder 83,
+                          Oberacher 85)
+
+[Nov 1]
+Frankfurt  3-3 Karlsruher (Pezzey 78, 90, Hölzenbein 80 - Krauth 44, 60,
+                          Schüler 89)
+
+Round 13 [Nov 8]
+Frankfurt  2-1 M'gladbach (Borchers 41, Lottermann 46 - Nielsen 54)
+1. FC Köln 3-0 Uerdingen  (Botteron 22, Littbarski 41, Engels 65)
+K'lautern  4-2 Bayern     (Bongartz 13, Funkel 50, Briegel 65, Melzer 75 -
+                          Niedermayer 21, D.Hoeneß 42)
+Nürnberg   2-0 Dortmund   (Brunner 66, Oberacher 85)
+TSV 1860   2-1 Arminia    (Wohlers 31, Herberth 87 - Schock 25)
+Hamburger  2-0 Leverkusen (Magath 51, Hrubesch 83)
+Karlsruher 0-0 Stuttgart
+
+[Nov 11]
+Bochum     5-1 Schalke    (Woelk 20, Pinkall 30, 79, Bast 39, 66 - Jara 45)
+
+Round 14 [Nov 15]
+Uerdingen  4-1 Frankfurt  (Hofmann 5, Raschid 6 p, 87, Zimmer 49 -
+                          Neuberger 20)
+M'gladbach 3-3 Karlsruher (Kulik 44, 56, Hannes 67 - Günther 58, 90, Bold 89)
+Stuttgart  3-2 Hamburger  (Ha.Müller 15, Kelsch 49, Allgöwer 77 - Buljan 10,
+                          Kaltz 63 p)
+Leverkusen 1-1 TSV 1860   (Ökland 50 - Sidka 54)
+Arminia    3-3 Bochum     (Angele 51, Schock 71, Geils 89 - Pinkall 41, 75,
+                          Abel 68,
+Schalke    2-2 Duisburg   (Elgert 18, Bittcher 24 - Büssers 22, 56)
+Düsseldorf 2-2 Nürnberg   (Seel 15, Theis 52 - Brunner 26, Oberacher 56)
+Dortmund   2-2 K'lautern  (Votava 38, 85 - Riedl 25, Melzer 69)
+Bayern     1-1 1. FC Köln (Dürnberger 3 - Strack 9)
+
+[Nov 25]
+Duisburg   2-1 Düsseldorf (Steininger 45, Gores 59, K.Allofs 80)
+
+Round 15 [Nov 28]
+Bochum     1-1 Leverkusen (Knüwe 67 - Demuth 25)
+
+[Nov 29]
+Uerdingen  2-0 M'gladbach (Steubing 10, Kanders 56)
+Frankfurt  0-0 Bayern
+1. FC Köln 2-1 Dortmund   (Engels 20, Woodcock 84 - Burgsmüller 62)
+K'lautern  3-0 Düsseldorf (Briegel 37 p, Geye 55, Geye 68)
+Nürnberg   2-0 Schalke    (Heidenreich 49, Oberacher 63)
+Duisburg   1-1 Arminia    (Gores 90 - Eilenfeldt 80)
+TSV 1860   0-0 Stuttgart
+Hamburger  3-1 Karlsruher (Magath 12, Hrubesch 32, Memering 76 - Günther 11)
+
+Round 16 [Dec 6]
+Stuttgart  4-1 Bochum     (Tüfekci 15, 41, 58, Allgöwer 56 - Lameck 31)
+Leverkusen 1-1 Duisburg   (Vöge 57 - Seliger 67)
+Arminia    0-2 Nürnberg   (Oberacher 79, Lieberwirth 84)
+Düsseldorf 0-0 1. FC Köln
+Dortmund   2-1 Frankfurt  (Burgsmüller 20, Abramczik 68 - Hölzenbein 80)
+Bayern     4-0 M'gladbach (D.Hoeneß 55, 70, Augenthaler 59, 66)
+
+[Dec 9]
+Schalke    0-2 K'lautern  (Eigendorf 35, Wendt 50)
+
+Round 17 [Dec 12]
+M'gladbach 1-0 Dortmund   (Hannes 89 p)
+
+[Dec 13]
+Uerdingen  2-2 Bayern     (Raschid 34, Dremmler 38 o - Weiner 52,
+                          Breitner 79 p)
+Frankfurt  2-2 Düsseldorf (Pezzey 70, Hölzenbein 81 p, K.Allofs 52, 89)
+1. FC Köln 0-2 Schalke    (Elgert 53, Opitz 60)
+K'lautern  1-3 Arminia    (Briegel 70 - Schock 5, Pohl 26, Sackewitz 27)
+Nürnberg   1-1 Leverkusen (Reinhardt 9 - Szech 83)
+Duisburg   0-3 Stuttgart  (Ha.Müller 23 p, Hattenberger 69, B.Förster 80)
+Bochum     0-3 Hamburger  (Hrubesch 75, Reimann 82, Hartwig 85)
+TSV 1860   4-2 Karlsruher (Struth 22 o, Wohlers 23, Sidka 32, Senzen 51 -
+                          Struth 60 p, Günther 88)
+
+[Dec 16]
+Hamburger  4-1 TSV 1860   (Hrubesch 21, 69, 87, Magath 90 - Bitz 75)
+Karlsruher 3-1 Uerdingen  (Groß 11, 51, 53 - Steubing 48)
+
+Fall Table
+
+ 1. Hamburger SV                 17 13  2  2  45- 19  28
+ 2. Bayern München               17 12  3  2  42- 21  27
+ 3. 1. FC Kaiserslautern         17 10  3  4  35- 20  23
+ 4. VfB Stuttgart                17  8  5  4  36- 24  21
+ 5. Borussia Dortmund            17  8  3  6  36- 28  19
+ 6. Eintracht Frankfurt          17  8  3  6  31- 32  19
+ 7. 1. FC Köln                   17  6  5  6  31- 29  17
+ 8. Bayer Leverkusen             17  4  8  5  26- 23  16
+ 9. 1. FC Nürnberg               17  6  4  7  30- 29  16
+10. MSV Duisburg                 17  4  7  6  23- 28  15
+11. Karlsruher SC                17  4  7  6  24- 34  15
+12. Borussia Mönchengladbach     17  6  3  8  24- 34  15
+13. VfL Bochum                   17  3  9  5  24- 27  15
+14. TSV 1860 München             17  5  4  8  26- 32  14
+15. Fortuna Düsseldorf           17  4  5  8  27- 36  13
+16. Bayer Uerdingen              17  4  5  8  25- 32  13
+17. Schalke 04                   17  4  3 10  24- 47  11
+18. Arminia Bielefeld            17  2  5 10  23- 37   9
+
+Round 18 [Jan 17]
+Nürnberg   1-2 Stuttgart  (Hintermaier 85 - K-H.Förster 24, Kelsch 30)
+Bayern     1-1 Karlsruher (Bold 18 - Del Haye 77)
+
+[Jan 27]
+M'gladbach 2-2 Düsseldorf (Hannes 4, Baltes 75 o - K.Allofs 15, 43)
+Frankfurt  5-0 Schalke    (Nickel 19, Lorant 41 p, 72 p, Cha 84, Nachtweih 89)
+Duisburg   2-0 Hamburger  (Szesni 63, Steiner 79)
+Bochum     4-1 TSV 1860   (Tenhagen 60, Pinkall 77, 81, Bast 86 - Sidka 9)
+
+Round 19 [Jan 24]
+TSV 1860   1-3 Duisburg   (Scheller 89 - Büssers 48, Kempe 80, Gores 84)
+Hamburger  1-0 Nürnberg   (Magath 14)
+Stuttgart  1-0 K'lautern  (Kelsch 59)
+Leverkusen 1-1 1. FC Köln (Ökland 46 - Engels 68)
+Schalke    2-2 M'gladbach (Bittcher 21, 57 - Hannes 10 p, Matthäus 32)
+Düsseldorf 4-2 Uerdingen  (Seel 13, Weikl 40, Held 50 o, Wenzel 54 -
+                          Kanders 59, Hahn 72)
+Dortmund   2-2 Bayern     (Wagner 25, Huber 61 p - Breitner 4, Kraus 86)
+Karlsruher 0-0 Bochum
+
+[Jan 28]
+Uerdingen  2-1 Dortmund   (Hofmann 17, 74 - Schneider 13) [79 Huber
+                          (Dortmund) m/pen]
+
+[Jan 31]
+1. FC Köln 1-0 Arminia    (D.Müller 38)
+
+[Feb 3]
+Arminia    1-1 Frankfurt  (Schock 76 - B.Nickel 4)
+
+Round 20 [Feb 7]
+Uerdingen  1-3 Schalke    (Kanders 11 - Fischer 20, 82, Bittcher 54)
+M'gladbach 4-2 Arminia    (Hannes 38, Ringels 59, Nickel 64, Nielsen 72 -
+                          Eilenfeldt 37, 86)
+Frankfurt  2-0 Leverkusen (B.Nickel 20, 23)
+1. FC Köln 3-1 Stuttgart  (Greiner 25 o, D.Müller 32, Konopka 80 - Kelsch 21)
+K'lautern  2-2 Hamburger  (Wolf 12, Geye 25 - Hrubesch 13, Jakobs 76)
+Duisburg   0-3 Bochum     (Gross 43, Pinkall 47, Blau 89)
+Dortmund   3-3 Karlsruher (Huber 2 p, Abramczik 24, Burgsmüller 34 - Becker 27,
+                          Groß 19 p, Bold 43)
+Bayern     3-2 Düsseldorf (Kraus 22, 76, Breitner 39 p - Wenzel 51,
+                          K.Allofs 67)
+
+Round 21 [Feb 14]
+Bochum     4-0 Nürnberg   (Gross 20, 74, Blau 66, Pinkall 85)
+TSV 1860   1-1 K'lautern  (Nastase 81 - Funkel 13)
+Hamburger  2-0 1. FC Köln (Hartwig 31, Hrubesch 86)
+Stuttgart  1-1 Frankfurt  (Allgöwer 19 - Lottermann 53)
+Leverkusen 1-5 M'gladbach (Hörster 78 - Hannes 45, 56, Matthäus 77, Lienen 79,
+                          Nielsen 87)
+Arminia    3-1 Uerdingen  (Geils 33, Schock 64, Sackewitz 74 - Eggeling 35)
+Schalke    2-2 Bayern     (Fischer 4, Bittcher 88 - Kraus 50, Rummenigge 66)
+Düsseldorf 2-2 Dortmund   (K.Allofs 14 p, 73 - Burgsmüller 57, Schneider 79)
+                          [75 Burgsmüller (Dortmund) m/pen]
+Karlsruher 2-0 Duisburg   (Groß 19 p, 33)
+
+Round 22 [Feb 21]
+Uerdingen  3-0 Leverkusen (Eggeling 27, 42, 69)
+Frankfurt  1-1 Hamburger  (Hölzenbein 47 - Kaltz 83 p)
+1. FC Köln 4-1 TSV 1860   (D.Müller 2, 6, Bonhof 5, 20 - Nastase 37)
+Nürnberg   1-0 Duisburg   (Eder 53)
+Düsseldorf 1-2 Karlsruher (Wenzel 63 - Trenkel 9, Becker 45) [31 Groß
+                          (Karlsruher) m/pen]
+Dortmund   2-2 Schalke    (Edvaldsson 11, Burgsmüller 79 - Fischer 52,
+                          Siewert 83)
+Bayern     5-1 Arminia    (Rummenigge 7 p, 69, Janzon 8, Niedermayer 40, 43 -
+                          Sackewitz 52)
+
+[Feb 28]
+Nürnberg   1-2 TSV 1860   (Scheller 74 - Völler 18, Brunner 63)
+
+Round 23 [Mar 7]
+Duisburg   1-1 K'lautern  (Dietz 62 - Melzer 63)
+Bochum     1-1 1. FC Köln (Blau 76 - Woodcock 53)
+TSV 1860   0-2 Frankfurt  (B.Nickel 41, 65)
+Hamburger  2-1 M'gladbach (Buljan 29, Magath 43 - Hannes 70 p)
+Stuttgart  3-2 Uerdingen  (Szatmari 29, Ha.Müller 73, Tüfekci 86 - Hofmann 74,
+                          Held 85) [4 Ha.Müller (Stuttgart) m/pen]
+Leverkusen 3-0 Bayern     (Ökland 4, 19, 24)
+Arminia    1-0 Dortmund   (Sackewitz 77)
+Schalke    0-4 Düsseldorf (K.Allofs 13, T.Allofs 35, Weikl 47, 71)
+Karlsruher 4-1 Nürnberg   (Wiesner 3, Eder 61 o, Bold 67, Groß 80 p -
+                          Oberacher 30)
+
+Round 24 [Mar 14]
+Uerdingen  0-3 Hamburger  (Hrubesch 50, 75, Buljan 89)
+M'gladbach 3-2 TSV 1860   (Matthäus 6, 57, Hannes 44 - Nastase 29, Scheller 83)
+Frankfurt  2-2 Bochum     (Cha 5, Pezzey 34 - Pinkall 27, 46)
+1. FC Köln 1-0 Duisburg   (Bonhof 21)
+K'lautern  3-1 Nürnberg   (Wendt 1, Funkel 10, Geye 45 - Oberacher 32)
+Schalke    1-0 Karlsruher (Dzoni 77 p)
+Düsseldorf 3-1 Arminia    (Schmitz 17, Seel 39, K.Allofs 70 - Krobbach 33)
+Dortmund   5-3 Leverkusen (Burgsmüller 4, 45, 74, Edvaldsson 17, Huber 89 p -
+                          Bruckmann 33, Vöge 55, 84)
+Bayern     1-1 Stuttgart  (Breitner 45 - Allgöwer 39)
+
+[Mar 17]
+K'lautern  3-1 Leverkusen (Funkel 9, Briegel 84 p, Riedl 88 - Szech 32)
+
+Round 25 [Mar 21]
+Nürnberg   2-1 1. FC Köln (Heidenreich 67, Oberacher 75 - D.Müller 32)
+Duisburg   0-0 Frankfurt
+Bochum     1-1 M'gladbach (Blau 3 - Schäfer 80)
+TSV 1860   4-0 Uerdingen  (Nastase 2 p, 34, 65 p, Klinkhammer 40)
+Hamburger  2-2 Bayern     (Magath 48, Hrubesch 54 - Rummenigge 67, Breitner 89)
+Stuttgart  3-1 Dortmund   (Allgöwer 22, Szatmari 45, Ohlicher 62 -
+                          Burgsmüller 69)
+Leverkusen 2-0 Düsseldorf (Szech 15, Vöge 60)
+Arminia    1-0 Schalke    (Eilenfeldt 60) [17 Sackewitz (Arminia) m/pen]
+Karlsruher 1-1 K'lautern  (Groß 86 - Wendt 11) [40 Groß (Karlsruhe) m/pen]
+
+[Mar 24]
+K'lautern  0-0 Bochum
+
+Round 26 [Mar 27]
+Uerdingen  1-0 Bochum     (Eggeling 81)
+Schalke    3-1 Leverkusen (Dzoni 41, Drexler 49, Kügler 65 - Bruckmann 22)
+
+[Mar 28]
+M'gladbach 4-1 Duisburg   (Rahn 8, 77, Nickel 88, Lienen 89 - Büssers 37)
+Frankfurt  3-0 Nürnberg   (Pezzey 14, Cha 15, 64)
+1. FC Köln 2-2 K'lautern  (D.Müller 28, 62 - Geye 43, Wendt 71)
+Arminia    4-1 Karlsruher (Schock 21, 57, 88, Eilenfeldt 64 - Wiesner 70)
+Düsseldorf 3-1 Stuttgart  (Wenzel 14, Dusend 50, K.Allofs 90 - Tüfekci 16)
+Dortmund   6-2 Hamburger  (Votava 10, Abramczik 45, Rüssmann 56,
+                          Burgsmüller 58, 84, Edvaldsson 63 - Buljan 11, 31)
+Bayern     1-1 TSV 1860   (Horsmann 57 - Scheller 78)
+
+Round 27 [Apr 3]
+Duisburg   3-2 Uerdingen  (Dietz 17, Seliger 32, Büssers 82 - Eggeling 62,
+                          Hofmann 80,
+
+[Apr 4]
+Nürnberg   2-0 M'gladbach (Beierlorzer 64, Hannes 70 o)
+Bochum     1-3 Bayern     (Abel 4 - Breitner 11 p, Horsmann 70, Rummenigge 74)
+TSV 1860   0-1 Dortmund   (Burgsmüller 52)
+Hamburger  2-1 Düsseldorf (Reimann 73, Buljan 87 - Jakobs 86 o)
+Stuttgart  3-0 Schalke    (Tüfekci 37, Allgöwer 63, B.Förster 85)
+Leverkusen 2-0 Arminia    (Gelsdorf 2, Ökland 68)
+Karlsruher 1-1 1. FC Köln (Bold 76 - Engels 37)
+                          (sent off: Woodcock (Köln, 63))
+
+Round 28 [Apr 10]
+Dortmund   1-3 Bochum     (Abramczik 81 - Bast 35, Pinkall 45, Abel 61)
+
+[Apr 11]
+Uerdingen  3-2 Nürnberg   (Raschid 10, Steubing 20, Hofmann 49 - Brunner 35,
+                          Volkert 51)
+M'gladbach 1-0 K'lautern  (Nickel 53) [45 Briegel (K'lautern) m/pen]
+Frankfurt  4-0 1. FC Köln (Pezzey 42, Nachtweih 45, Hölzenbein 61, 65 p)
+Leverkusen 3-0 Karlsruher (Ökland 17, Gelsdorf 43, Trenkel 63 o)
+Arminia    1-0 Stuttgart  (Schock 77)
+Schalke    2-1 Hamburger  (Fischer 45, 68 - Buljan 82)
+                          (sent off: Milewski (Hamburger, 64))
+Düsseldorf 2-1 TSV 1860   (Schmitz 17, T.Allofs 64 - Scheller 27)
+Bayern     5-1 Duisburg   (Rummenigge 21, 32, 47, 53, Mathy 76 - Dietz 13)
+
+[Apr 14]
+K'lautern  2-0 Frankfurt  (Hofediz 78, Briegel 85 p)
+
+Round 29 [Apr 16]
+Nürnberg   0-1 Bayern     (Rummenigge 75)
+Duisburg   2-1 Dortmund   (Büssers 77, Gores 83 - Geyer 43)
+Bochum     2-1 Düsseldorf (Zugcic 40, Knüwe 62 - Bommer 14)
+                          (sent off: Wenzel (Düsseldorf, 88)
+Hamburger  4-1 Arminia    (Magath 17, Kaltz 42 p, 72 p, Reimann 58 -
+                          Eilenfeldt 76)
+
+[Apr 18]
+1. FC Köln 2-3 M'gladbach (Cullmann 47, Littbarski 53 - Nickel 5, 73, Rahn 50)
+K'lautern  4-2 Uerdingen  (Funkel 15, Schwarz 29, Kaminke 35, Geye 88 -
+                           Hofmann 47, Hofediz 73)
+TSV 1860   3-1 Schalke    (Strack 24, Nastase 40, 87 - Szymanek 73)
+Stuttgart  2-1 Leverkusen (Ha.Müller 20 p, Ohlicher 87 - Glowacz 44 p)
+Karlsruher 1-1 Frankfurt  (Bold 70 - B.Nickel 18)
+
+[Apr 24]
+M'gladbach 1-3 Stuttgart  (Matthäus 78 - Tüfekci 12, Ohlicher 49, Ha.Müller 60)
+
+Round 30 [May 8]
+M'gladbach 2-2 Frankfurt  (Loontiens 51, Bruns 74 - Nachtweih 28, Pezzey 31)
+Düsseldorf 0-1 Duisburg   (Gores 9)
+
+[May 9]
+Uerdingen  0-1 1. FC Köln (Müller 67)
+Stuttgart  5-2 Karlsruher (Kelsch 5, 43, Dohmen 7 o, Ha.Müller 31, Tüfekci 85 -
+                          Groß 37, Bold 52)
+Leverkusen 1-2 Hamburger  (Glowacz 7 p - Hartwig 17, Magath 47)
+Arminia    3-2 TSV 1860   (Schock 28, Schröder 88, Eilenfeldt 90 - Nastase
+                          17, 77)
+Schalke    0-6 Bochum     (Jakobs 18, Woelk 43, Pinkall 59, 76, Abel 79, 87)
+Dortmund   1-0 Nürnberg   (Abramczik 71)
+Bayern     3-0 K'lautern  (Niedermayer 42, Breitner 48 p, 62 p)
+
+Round 31 [May 15]
+K'lautern  1-1 Dortmund   (Funkel 57 p - Burgsmüller 30)
+Duisburg   5-1 Schalke    (Dietz 20, Steininger 48, Gores 50, Seliger 72 p,
+                          Grillemeier 87 - Elgert 25)
+Karlsruher 3-4 M'gladbach (Schüler 19, Groß 85, 90 - Hannes 13 p, Matthäus 54,
+                          Nickel 64, Ringels 86)
+
+[May 16]
+Frankfurt  2-2 Uerdingen  (Gruber 6, Lorant 73 p - Hofmann 24, 86)
+1. FC Köln 0-3 Bayern     (Breitner 9 p, D.Hoeneß 15, Niedermayer 75)
+Nürnberg   2-1 Düsseldorf (Heck 69, 75 - K.Allofs 67 p)
+Bochum     0-2 Arminia    (Schock 8, Geils 47)
+TSV 1860   1-0 Leverkusen (Senzen 60)
+Hamburger  1-3 Stuttgart  (Reimann 56 - Kelsch 8, Tüfekci 18, 65)
+
+Round 32 [May 29]
+Leverkusen 2-0 Bochum     (Klimke 22, Ökland 69)
+Düsseldorf 0-2 K'lautern  (Bongartz 73, Hofediz 90)
+
+[May 30]
+M'gladbach 7-1 Uerdingen  (Bruns 4, Matthäus 8, Nickel 13, 54, Hannes 19, 66 p,
+                          Lienen 75 - Eggeling 73)
+Stuttgart  2-1 TSV 1860   (Hattenberger 48, Kelsch 66 - Nastase 35)
+Arminia    2-1 Duisburg   (Schock 43 p, 84 p - Gores 24)
+Schalke    1-1 Nürnberg   (Szymanek 45 - Heidenreich 37)
+Dortmund   2-2 1. FC Köln (Geyer 14, Votava 86 - Knöppel 12, Willmer 65)
+                          [81 Huber (Dortmund) m/pen]
+Bayern     7-2 Frankfurt  (Breitner 60 p, 64, 85, Rummenigge 77 p, 80,
+                          Borchers 81, D.Hoeneß 90 - Kraus 54, Cha 86)
+Karlsruher 1-1 Hamburger  (Dittus 54 - von Heesen 78)
+
+Round 33 [Jun 6]
+Uerdingen  0-3 Karlsruher (Bold 16, Schüler 52, Groß 59)
+M'gladbach 1-4 Bayern     (Nielsen 76 - Rummenigge 20, 56, 89, Niedermayer 63)
+Frankfurt  0-4 Dortmund   (Schneider 12, Edvaldsson 14, Abramczik 17,
+                          Wagner 31)
+1. FC Köln 1-2 Düsseldorf (Willmer 89 - K.Allofs 27 p, T.Allofs 56)
+K'lautern  2-0 Schalke    (Wendt 7, Brummer 85)
+Nürnberg   2-0 Arminia    (Heck 12, Hintermaier 80)
+                          (sent off: Schröder (Arminia, 60))
+Duisburg   2-4 Leverkusen (Dietz 83, 89 - Demuth 7, Herzog 43, Glowacz 65,
+                          Szech 70)
+Bochum     1-1 Stuttgart  (Abel 75 - Tüfekci 15)
+TSV 1860   0-0 Hamburger  [50 Nastase (TSV) m/pen]
+
+Round 34 [Jun 13]
+Hamburger  2-1 Bochum     (Schröder 82, Hartwig 85 - Abel 45)
+Stuttgart  2-0 Duisburg   (Ha.Müller 51 p, Martin 86)
+Leverkusen 1-1 Nürnberg   (Ökland 73 - Heidenreich 48)
+Arminia    0-1 K'lautern  (Brummer 71)
+Schalke    1-2 1. FC Köln (Elgert 71 - Engels 12, D.Müller 31)
+Düsseldorf 2-2 Frankfurt  (Schmitz 18, 58 - Nachtweih 2, Pezzey 48)
+Dortmund   0-3 M'gladbach (Bruns 15, Matthäus 76, Schäfer 88)
+Bayern     4-0 Uerdingen  (Niedermayer 53, Rummenigge 64, 76 p, Mathy 87)
+Karlsruher 7-2 TSV 1860   (Günther 29, 87, Wiesner 55, Groß 59, Schüler 66,
+                          Krauth 76, 86 - Klinkhammer 1, Nastase 68)
+
+ 1. Bayern München               34 22  9  3  89- 41  53
+ 2. Hamburger SV                 34 21  7  6  73- 43  49
+ 3. VfB Stuttgart                34 19  8  7  70- 44  46
+ 4. 1. FC Kaiserslautern         34 17 10  7  60- 37  44
+ 5. Eintracht Frankfurt          34 13 12  9  61- 57  38
+ 6. Borussia Mönchengladbach     34 15  7 12  68- 64  37
+ 7. Borussia Dortmund            34 13  9 12  69- 59  35
+ 8. 1. FC Köln                   34 12 10 12  54- 55  34
+ 9. VfL Bochum                   34  9 15 10  53- 45  33
+10. Karlsruher SC                34  9 14 11  56- 63  32
+11. Bayer Leverkusen             34 10 10 14  52- 53  30
+12. MSV Duisburg                 34 10  9 15  45- 58  29
+13. 1. FC Nürnberg               34 11  6 17  47- 57  28
+14. Fortuna Düsseldorf           34 10  8 16  57- 64  28
+15. Arminia Bielefeld            34 10  6 18  46- 65  26
+16. TSV 1860 München             34  9  7 18  49- 67  25
+17. Schalke 04                   34  8  7 19  43- 88  23
+18. Bayer Uerdingen              34  8  6 20  47- 79  22
+
+Topscorers: Karl-Heinz RUMMENIGGE (Bayern) - 29, Manfred BURGSMÜLLER
+(Dortmund) - 27, Klaus ALLOFS (Fortuna Düsseldorf) - 19
+
+       Walter JUNGHAUS       19  (1681) -24
+      Manfred MÜLLER         17  (1379) -17
+
+    Jan-Einar AAS NOR         7  ( 593)
+        Klaus AUGENTHALER    33  (2847) + 5
+         Paul BREITNER       30  (2619) +17
+     Wolfgang DREMMLER       33  (2900) + 1
+         Karl DEL HAYE       13  ( 684) + 1
+     Bernhard DÜRNBERGER     33  (2537) + 3
+       Günter GÜTTLER         1  (  18)
+       Dieter HOENESS        27  (2242) +10
+          Udo HORSMANN       34  (3060) + 4
+      Norbert JANZON         24  (1434) + 1
+     Wolfgang KRAUS          30  (2586) + 6
+     Reinhold MATHY           3  (  77) + 2
+         Kurt NIEDERMAYER    32  (2806) + 9
+         Pasi RAUTIAINEN FIN  1  (  21)
+       Jürgen RÖBER          14  ( 427)
+   Karl-Heinz RUMMENIGGE     34  (3060) +29
+         Hans WEINER         31  (2689) + 1
+
+
+
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+With thanks to Gerd Heuser
+
+Prepared and maintained by Gwidon Naskrent
+for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author:
+Gwidon Naskrent
+
+Last updated: 1 Apr 2001
+
+(c) Copyright Gwidon Naskrent and RSSSF 2001
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

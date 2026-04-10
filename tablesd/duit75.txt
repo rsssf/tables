@@ -1,0 +1,699 @@
+  <!--
+     source: https://rsssf.org/tablesd/duit75.html
+    -->
+  
+
+
+== Germany 1974/75
+
+<!-- start pre -->
+
+Final Table
+
+ 1. Borussia Mönchengladbach     34 21  8  5  86- 40  50
+ 2. Hertha BSC Berlin            34 19  6  9  61- 43  44
+ 3. Eintracht Frankfurt          34 18  7  9  89- 49  43
+ 4. Hamburger SV                 34 18  7  9  55- 38  43
+ 5. 1. FC Köln                   34 17  7 10  77- 51  41
+ 6. Fortuna Düsseldorf           34 16  9  9  66- 55  41
+ 7. Schalke 04                   34 16  7 11  52- 37  39
+ 8. Kickers Offenbach            34 17  4 13  72- 62  38
+ 9. Eintracht Braunschweig       34 14  8 12  52- 42  36
+10. Bayern München               34 14  6 14  57- 63  34
+11. VfL Bochum                   34 14  5 15  53- 53  33
+12. Rot-Weiß Essen               34 10 12 12  56- 68  32
+13. 1. FC Kaiserslautern         34 13  5 16  56- 55  31
+14. MSV Duisburg                 34 12  6 16  59- 77  30
+15. Werder Bremen                34  9  7 18  45- 69  25
+16. VfB Stuttgart                34  8  8 18  50- 79  24
+17. Tennis Borussia Berlin       34  5  6 23  38- 89  16
+18. Wuppertaler SV               34  2  8 24  32- 86  12
+
+Nb. Three teams are relegated from this year onwards, instead of two,
+due to the creation of a professional second level
+
+    Mön Her Ham Fra Düs Köl Sch Kic Bra Bay VfL Ess Kai MSV Wer VfB Ten Wup
+Mön xxx 1-1 1-3 3-0 3-1 1-1 1-0 5-2 2-0 1-2 3-0 1-1 3-0 4-1 4-2 5-1 3-1 6-2
+Her 2-1 xxx 1-0 2-1 3-3 1-1 1-0 4-1 3-1 4-1 4-2 4-2 2-1 3-0 2-0 4-0 2-1 2-0
+Ham 1-1 1-1 xxx 3-1 2-1 3-1 1-1 1-0 0-0 1-0 3-2 2-2 2-0 2-3 2-0 1-0 4-0 4-1
+Fra 1-1 1-2 1-3 xxx 4-0 3-2 2-1 0-0 2-0 2-0 4-1 9-1 5-1 4-1 2-1 5-5 7-1 5-0
+Düs 3-2 0-0 0-0 2-2 xxx 3-0 2-1 3-2 2-2 6-5 0-1 4-0 2-0 1-1 4-1 4-0 3-2 2-0
+Köl 1-2 2-1 4-0 0-0 2-2 xxx 4-2 0-1 3-0 1-0 4-1 0-1 2-0 4-2 3-1 4-2 7-1 4-0
+Sch 1-3 1-0 3-1 1-1 3-0 1-1 xxx 2-0 1-1 2-2 1-0 3-0 2-1 5-0 2-0 2-0 3-0 1-0
+Kic 4-3 3-1 4-1 2-1 2-3 1-4 3-0 xxx 2-1 6-0 2-0 1-3 2-2 3-3 5-1 3-1 3-2 3-1
+Bra 1-3 2-1 1-2 2-0 3-0 1-4 1-0 1-0 xxx 3-1 2-0 4-2 3-2 4-1 0-0 6-0 5-0 1-1
+Bay 1-1 2-1 0-1 2-1 4-0 6-3 0-2 2-3 1-0 xxx 2-1 2-2 2-5 2-1 2-0 1-1 3-1 3-1
+VfL 0-0 4-0 4-2 3-1 4-2 3-2 2-1 3-1 1-0 3-0 xxx 2-2 4-0 1-2 3-1 1-0 0-0 4-2
+Ess 1-3 2-1 0-0 0-5 1-2 1-1 4-4 5-1 1-2 2-2 1-1 xxx 3-1 3-0 1-1 3-1 3-2 2-0
+Kai 1-3 3-0 1-0 2-2 1-0 1-1 1-1 1-2 2-0 0-1 1-0 2-0 xxx 2-0 4-1 6-0 4-0 2-0
+MSV 1-1 1-3 2-0 1-3 0-3 1-3 2-0 2-1 3-2 2-1 3-1 3-3 3-2 xxx 4-0 3-3 2-3 2-2
+Wer 1-4 4-0 1-0 0-3 0-0 4-1 0-1 3-6 0-0 0-2 3-0 0-0 3-1 3-1 xxx 5-2 1-1 2-1
+VfB 1-2 1-2 1-2 3-4 1-1 2-0 3-1 3-1 0-0 1-2 1-0 3-2 0-1 2-1 2-2 xxx 2-1 5-1
+Ten 1-4 0-3 0-3 1-4 1-4 2-3 0-2 0-2 2-2 2-2 2-0 1-0 3-2 2-3 4-0 1-1 xxx 0-0
+Wup 1-5 0-0 0-4 2-3 2-3 1-4 0-1 0-0 0-1 3-1 1-1 0-2 3-3 1-4 2-4 2-2 2-0 xxx
+
+Round 1 [Aug 24]
+Werder      0-3 Frankfurt   (Nickel 24, Trinklein 42, Rohrbach 89)
+B'schweig   5-0 TB Berlin   (Gersdorff 30, 61, Bründl 2, Frank 14,
+                            Haebermann 70)
+Schalke     2-1 K'lautern   (H.Kremers 35, Fischer 51 p - Sandberg 40)
+Wuppertaler 1-4 Duisburg    (Neuberger 35 p, - Büssers 13, Dietz 45, Seliger
+                            54, Worm 88)
+1. FC Köln  0-1 RW Essen    (Burgsmüller 35)
+Stuttgart   1-0 Bochum      (Weller 76 p)
+Hertha      3-3 Düsseldorf  (Seel 41, Beer 54, L.Müller 90 p - Kliemann 18,
+                            Geye 45 p, Herzog 86 p)
+Offenbach   6-0 Bayern      (Schäfer 19, Schwemmle 31, Kostedde 49, 70,
+                            Held 57, Kostedde 70)
+M'gladbach  1-3 Hamburger   (Heynckes 57 - Zaczyk 42, Björnmose 55, Eigl 64)
+
+Round 2 [Aug 30]
+Düsseldorf  4-0 Stuttgart   (Herzog 3, Geye 54 p, 75, Zewe 65)
+K'lautern   2-0 B'schweig   (Sandberg 73, Toppmöller 88)
+Hamburger   1-0 Offenbach   (Bertl 90)
+                            (sent off: Enders (Offenbach, 69))
+
+[Aug 31]
+Bayern      2-1 Hertha      (Schwarzenbeck 43, Hoeneß 69 - Magnusson 83)
+Bochum      3-2 1. FC Köln  (Balte 22 p, Eggert 44, Kaczor 74 - D.Müller 7,
+                            Löhr 35,
+RW Essen    2-0 Wuppertaler (Lippens 59, Burgsmüller 71)
+Duisburg    2-0 Schalke     (Büssers 53, Worm 67)
+TB Berlin   4-0 Werder      (Geyer 14, 24, 89, Stolzenburg 76)
+Frankfurt   1-1 M'gladbach  (Hölzenbein 38 - Wittkamp 76)
+
+Round 3 [Sep 10]
+M'gladbach  3-1 TB Berlin   (Bonhof 36 p, Wittkamp 47, Simonsen 61 - Geyer 17)
+
+[Sep 11]
+Werder      3-1 K'lautern   (Görts 70, Klausmann 75, Bracht 82 p - Sandberg 22)
+B'schweig   4-1 Duisburg    (Frank 12, Bründl 46, Grzyb 57, Haebermann 59 -
+                            Seliger 89)
+Schalke     3-0 RW Essen    (H.Kremers 59, 75, Fischer 64)
+Wuppertaler 1-1 Bochum      (Gerber 53 - Holz 61)
+1. FC Köln  2-2 Düsseldorf  (Simmet 19, Flohe 27 - Budde 50, Geye 68 p)
+                            (sent off: Budde (Düsseldorf, 78))
+Hertha      4-1 Offenbach   (Kliemann 5, Brück 52, 76, Weiner 78 - Janzon 73)
+Frankfurt   1-3 Hamburger   (Grabowski 58 - Bertl 17, Reimann 37, 90) [49
+                            Kalb (Frankfurt) m/pen]
+
+[Sep 12]
+Stuttgart   1-2 Bayern      (Brenninger 82 - Roth 51, Wunder 69)
+
+Round 4 [Sep 14]
+Offenbach   3-1 Stuttgart   (Held 20, Schwemmle 51, Janzon 87 - Ohlicher 60)
+Bayern      6-3 1. FC Köln  (Zobel 10, Wunder 33 p, Beckenbauer 54,
+                            Kapellmann 69 p, G.Müller 82, Rummenigge 89 -
+                            D.Müller 1, Simmet 21, Löhr 28 p)
+Düsseldorf  2-0 Wuppertaler (Zewe 17, Geye 56)
+Bochum      2-1 Schalke     (Balte 28, Kaczor 58 - Abramczik 8)
+RW Essen    1-2 B'schweig   (Lippens 76 - Erler 26, Gersdorff 62)
+Duisburg    4-0 Werder      (Worm 33, Bücker 39, Dietz 68, Thies 80)
+K'lautern   1-3 M'gladbach  (Sandberg 14 - Jensen 34, 66, Simonsen 57)
+TB Berlin   1-4 Frankfurt   (Stolzenburg 14 - Lorenz 19, Weidle 26,
+                            Rohrbach 47, Beverungen 66)
+Hamburger   1-1 Hertha      (Bertl 62 - Sziedat 25)
+
+Round 5 (Sep 21)
+Werder      0-0 RW Essen
+B'schweig   2-0 Bochum      (Merkhoffer 43, Gersdorff 72) [37 Gersdorff
+                            (Frankfurt) m/pen]
+Schalke     3-0 Düsseldorf  (Budde 35, H.Kremers 36, Fischer 59 p)
+Wuppertaler 3-1 Bayern      (Pröpper 18, Gerber 50, Jung 60 - Hoeneß 69)
+1. FC Köln  0-1 Offenbach   (Schäfer 85) [87 Konopka (Köln) m/pen]
+Stuttgart   1-2 Hertha      (Stickel 6 - Sidka 39, Horr 88)
+TB Berlin   0-3 Hamburger   (Volkert 5, Eigl 53, Krobbach 62)
+Frankfurt   5-1 K'lautern   (Körbel 18 p, Hölzenbein 73, Lorenz 82, 89,
+                            Nickel 83 - Sandberg 62)
+M'gladbach  4-1 Duisburg    (Wimmer 29, Heynckes 64, 77, Simonsen 70 -
+                            Lehmann 76)
+                            (sent off: Pirsig (Duisburg, 54))
+
+Round 6 [Sep 27]
+Offenbach   3-1 Wuppertaler (Janzon 9, Held 60, Ritschel 84 - Gerber 86)
+                            (sent off: Neuberger (Wuppertaler, 74))
+K'lautern   4-0 TB Berlin   (Schwarz 43, Riedl 54, Sandberg 63, Pirrung 73)
+                            (sent off: Thiel (TB Berlin, 32))
+
+[Sep 28]
+Hertha      1-1 1. FC Köln  (Sidka 5 - Zimmermann 72)
+Bayern      0-2 Schalke     (Abramczik 68, Lütkebohmert 89)
+Düsseldorf  2-2 B'schweig   (Herzog 14, Seel 65 - Bründl 51, Frank 72)
+Bochum      3-1 Werder      (Balte 29 p, Kaczor 70, Tenhagen 77 - Ohling 90)
+RW Essen    1-3 M'gladbach  (Lippens 34 - Jensen 31, Heynckes 62, 86)
+Duisburg    1-3 Frankfurt   (Seliger 51 - Nickel 8, Lorenz 86, Reichel 88)
+Hamburger   1-0 Stuttgart   (Volkert 75 p)
+
+Round 7 [Oct 4]
+Werder      0-0 Düsseldorf
+
+[Oct 5]
+B'schweig   3-1 Bayern      (Ristic 7, Bründl 39 p, Gersdorff 47 - Hoeneß 84)
+Schalke     2-0 Offenbach   (Budde 28, Fischer 31)
+Wuppertaler 0-0 Hertha
+1. FC Köln  4-2 Stuttgart   (D.Müller 24, Glowacz 27, Löhr 50, Lauscher 73 -
+                            Weller 43, Ohlicher 58)
+K'lautern   1-0 Hamburger   (Bitz 11)
+TB Berlin   2-3 Duisburg    (Stolzenburg 28, J.Schulz 67 - Dietz 33, 82,
+                            Büssers 87)
+Frankfurt   9-1 RW Essen    (Beverungen 2, Nickel 15, Hölzenbein 28, 31, 53,
+                            Körbel 51 p, 83, Kraus 76, Lorenz 88 - Lippens 43)
+M'gladbach  3-0 Bochum      (Jensen 32, 42, Simonsen 54 p)
+
+Round 8 [Oct 9]
+Stuttgart   5-1 Wuppertaler (Weller 23, Stickel 32, Ohlicher 43, 88 p, Müllner
+                            74 - Gustav Jung 9)
+Hertha      1-0 Schalke     (Hermandung 54)
+Offenbach   2-1 B'schweig   (Kostedde 2, Janzon 43 - Erler 88)
+Bayern      2-0 Werder      (Hoeneß 19, Kapellmann 63)
+Düsseldorf  3-2 M'gladbach  (Brei 35, Zewe 65, Geye 74 p - Wittkamp 38,
+                            Simonsen 60)
+                            (sent off: Bonhof (M'gladbach, 89))
+Hamburger   3-1 1. FC Köln  (Bertl 9, Björnmose 18, Zaczyk 49 - Neumann 77)
+Bochum      3-1 Frankfurt   (Holz 38, Lameck 45 p, Tenhagen 57 - Rohrbach 81)
+RW Essen    3-2 TB Berlin   (Dörre 24, Lorant 56, Lippens 64 p - Geyer 74,
+                            Stolzenburg 87)
+Duisburg    3-2 K'lautern   (Dietz 1, Bücker 32, Thies 84 - Sandberg 31, 52)
+
+Round 9 [Oct 12]
+Werder      3-6 Offenbach   (Ohling 8, Assauer 40 p, Weist 74 - Kostedde
+                            47, 66, Ritschel 50 p, Janzon 58, Schwemmle 61,
+                            Held 88)
+B'schweig   2-1 Hertha      (Sziedat 55, Frank 81 - Haebermann 7) [56
+                            Gersdorff (B'schweig) m/pen]
+Schalke     2-0 Stuttgart   (Fischer 33, Kremers 84)
+Wuppertaler 1-4 1. FC Köln  (Gustav Jung 67 - D.Müller 42, Neumann 65, Konopka 73,
+                            Overath 85 p)
+Duisburg    2-0 Hamburger   (Worm 1, Lehmann 64)
+K'lautern   2-0 RW Essen    (Riedl 77, Schwarz 80)
+TB Berlin   2-0 Bochum      (Sprenger 66, Stolzenburg 90)
+Frankfurt   4-0 Düsseldorf  (Körbel 10 p, Beverungen 32, Nickel 46,
+                            Rohrbach 74)
+M'gladbach  1-2 Bayern      (Wittkamp 36 - Wunder 71, Torstensson 73)
+
+Round 10 [Oct 18]
+Offenbach   4-3 M'gladbach  (Hickersberger 2, Ritschel 47 p, Kostedde 70,
+                            Schwemmle 78 - Simonsen 34, 43 p, 57)
+
+[Oct 19]
+1. FC Köln  4-2 Schalke     (Cullmann 34, 67, 76, D.Müller 78 - Fischer
+                            20 p, 44)
+Stuttgart   0-0 B'schweig
+Hertha      2-0 Werder      (Grau 47, Hermandung 89)
+Bayern      2-1 Frankfurt   (G.Müller 60, 67 - Hölzenbein 15)
+Düsseldorf  3-2 TB Berlin   (Geye 2, 42 p, Seel 27 - Stolzenburg 72,
+                            Sühnholz 77)
+Bochum      4-0 K'lautern   (Kaczor 13, 30, Eggeling 17, Balte 43 p)
+RW Essen    3-0 Duisburg    (Burgsmüller 30, Lippens 31, 90) [5 Lippens
+                            (Essen) m/pen]
+Hamburger   4-1 Wuppertaler (Zaczyk 35, 65, Bertl 73, Nogly 77 - Homann 44)
+
+Round 11 [Oct 31]
+K'lautern   1-0 Düsseldorf  (Riedl 7 p)
+
+[Nov 2]
+B'schweig   1-4 1. FC Köln  (Gersdorff 21 - Cullmann 16, D.Müller 24, 89,
+                             Lauscher 82)
+Schalke     1-0 Wuppertaler (Scheer 90)
+RW Essen    0-0 Hamburger
+Duisburg    3-1 Bochum      (Bella 26, Thies 37, Seliger 71 - Eggert 7)
+TB Berlin   2-2 Bayern      (Bittlmayer 31, Eggert 87 - Hoeneß 47,
+                            Rummenigge 86)
+Frankfurt   0-0 Offenbach
+M'gladbach  1-1 Hertha      (Wittkamp 64 - Hermandung 27)
+
+Round 12 [Nov 8]
+Offenbach   3-2 TB Berlin   (Schwemmle 1, Held 2, Janzon 24 - Jakobs 37,
+                            Stolzenburg 48) [36 Ritschel (Offenbach) m/pen]
+
+[Nov 9]
+Wuppertaler 0-1 B'schweig   (Bründl 37)
+1. FC Köln  3-1 Werder      (Konopka 5 p, Simmet 73, Overath 77 - Höttges 84)
+Stuttgart   1-2 M'gladbach  (Ohlicher 85 - Heynckes 20, Entenmann 63 o)
+Hertha      2-1 Frankfurt   (Grabowski 69, Kliemann 83 - Hermandung 12)
+Bayern      2-5 K'lautern   (Wunder 27, G.Müller 66 p - Schwarz 35, Riedl 47,
+                            Sandberg 59,  Pirrung 81, Toppmöller 88)
+Düsseldorf  1-1 Duisburg    (Brei 53 - Büssers 36) [18 Herzog (Düsseldorf)
+                            m/pen]
+Bochum      2-2 RW Essen    (Fürhoff 13, Erlhoff 63 - Holz 28, Tenhagen 40)
+Hamburger   1-1 Schalke     (Bertl 60 - E.Kremers 65) [45 Fischer (Schalke)
+                            m/pen]
+
+Round 13 [Nov 15]
+K'lautern   1-2 Offenbach   (Sandberg 80 - Hickersberger 29, Held 53)
+
+[Nov 16]
+Werder      2-1 Wuppertaler (Weist 74, Kamp 93 - Nagy 40)
+                            (sent off: Nagy (Wuppertaler, 43))
+B'schweig   1-0 Schalke     (Handschuh 44 p)
+                            (sent off: Fichtel (Schalke, 50))
+Bochum      4-2 Hamburger   (Köper 10, Kaczor 48, 58, Balte 69 - Volkert 22,
+                            Reimann 47)
+RW Essen    1-2 Düsseldorf  (Burgsmüller 69 - Seel 64, Geye 72) [29 Geye
+                            (Düsseldorf) m/pen]
+Duisburg    2-1 Bayern      (Lehmann 16, Büssers 37 - G.Müller 64)
+TB Berlin   0-3 Hertha      (Grau 53, Beer 67, 75)
+Frankfurt   5-5 Stuttgart   (Hölzenbein 17, Weidle 24, Körbel 30, 54,
+                            Neuberger 82 - Dietterle 8, E.Müller 20,
+                            Ohlicher 49, 84, Coordes 89)
+M'gladbach  1-1 1. FC Köln  (Jensen 18 - D.Müller 24)
+
+Round 14 [Nov 22]
+Hamburger   0-0 B'schweig
+
+[Nov 23]
+Schalke     2-0 Werder      (Fischer 19, Lütkebohmert 43)
+Wuppertaler 1-5 M'gladbach  (Galbierz 54 - Kulik 20, 73, Heynckes 61, 88,
+                            Simonsen 81)
+1. FC Köln  0-0 Frankfurt
+Stuttgart   2-1 TB Berlin   (Martin 19, Weller 80 - Jakobs 65)
+                            (sent off: Jank (Stuttgart, 86))
+Hertha      2-1 K'lautern   (K.Müller 4, 78 - Pirrung 89)
+                            (sent off: Kroth (K'lautern, 74))
+Offenbach   3-3 Duisburg    (Janzon 3, Hickersberger 55, Kostedde 73 -
+                            Seliger 19, Rausch 21 o, Dietz 83)
+Bayern      2-2 RW Essen    (G.Müller 40, 85 - Burgsmüller 18, Dörre 34)
+                            [20 G.Müller (Bayern) m/pen]
+Düsseldorf  0-1 Bochum      (Balte 67)
+
+[Mov 26]
+Werder      5-2 Stuttgart   (Roentved 24, Ohling 55, Höttges 72 p, Weist 79,
+                            Kamp 83 - Ohlicher 75, Weller 27, )
+
+Round 15 [Nov 29]
+Bochum      3-0 Bayern      (Kaczor 7, Balte 15 p, 51)
+
+[Nov 30]
+B'schweig   0-0 Werder
+RW Essen    5-1 Offenbach   (Burgsmüller 27 p, 34, Fürhoff 64, 82, Bast 76 -
+                            Held 44)
+Duisburg    1-3 Hertha      (Lehmann 73 - Beer 37, Sidka 41, Horr 77)
+K'lautern   6-0 Stuttgart   (Diehl 26, Sandberg 36, 81, 84, Fuchs 83,
+                            Pirrung 86)
+TB Berlin   2-3 1. FC Köln  (Stolzenburg 40 p, 66 - Strack 13, Löhr 55, 60)
+Frankfurt   5-0 Wuppertaler (Weidle 18, 23, Hölzenbein 42, 45 p, Grabowski 78)
+                            [85 Grabowski (Frankfurt) m/pen]
+Hamburger   2-1 Düsseldorf  (Eigl 22, Seel 32, Memering 64)
+
+[Jan 22]
+M'gladbach  1-0 Schalke     (Heynckes 66)
+
+Round 16 [Dec 6]
+Offenbach   2-0 Bochum      (Ritschel 8 p, Hickersberger 60)
+
+[Dec 7]
+Stuttgart   2-1 Duisburg    (Hadewicz 7, Ohlicher 71 - Lehmann 69)
+Bayern      4-0 Düsseldorf  (G.Müller 35, 38, 90, Kapellmann 83)
+
+[Dec 10]
+Schalke     1-1 Frankfurt   (Budde 16, Hölzenbein 74)
+
+Round 17 [Dec 14]
+Bochum      4-0 Hertha      (Kaczor 59, 65, Lameck 86, Franke 89)
+RW Essen    3-1 Stuttgart   (Burgsmüller 11, Dörre 43, Lippens 90 - Weller 14)
+K'lautern   2-0 Wuppertaler (Sandberg 7, 32)
+TB Berlin   0-2 Schalke     (Bongartz 2, Fischer 85)
+Frankfurt   2-0 B'schweig   (Kraus 51, Neuberger 71)
+M'gladbach  4-2 Werder      (Heynckes 9, 75, Jensen 20, Köstner 34 -
+                            Roentved 32, 88)
+Hamburger   1-0 Bayern      (Hidien 43)
+
+[Dec 20]
+Hertha      4-2 RW Essen    (K.Müller 38, 87, Grau 59, Beer 88 -
+                            Burgsmüller 12, Bast 62 p)
+
+[Dec 21]
+Werder      1-0 Hamburger   (Weist 76)
+Wuppertaler 2-0 TB Berlin   (Gerber 77, 83)
+
+[Jan 18]
+Düsseldorf  3-2 Offenbach   (Herzog 47, Baltes 58, Zimmermann 62 -
+                            Kostedde 72, Schwemmle 90)
+1. FC Köln  2-0 K'lautern   (Löhr 88, D.Müller 90)
+
+[Jan 19]
+B'schweig   1-3 M'gladbach  (Danner 34 o - Kulik 12, Jensen 15,
+                            Merkhoffer 68 o) [24 Handschuh (B'schweig) m/pen]
+
+[Jan 22]
+Duisburg    1-3 1. FC Köln  (Worm 16 - Simmet 50, 55, Glowacz 59)
+
+Fall Table
+
+ 1. Borussia Mönchengladbach     17 10  3  4  41- 24  23
+ 2. Hertha BSC Berlin            17  9  5  3  31- 21  23
+ 3. Hamburger SV                 17  9  4  4  25- 15  22
+ 4. Kickers Offenbach            17 10  2  5  39- 30  22
+ 5. Eintracht Frankfurt          17  8  5  4  46- 21  21
+ 6. Schalke 04                   17  9  2  6  24- 14  20
+ 7. 1. FC Köln                   17  8  4  5  37- 28  20
+ 8. VfL Bochum                   17  9  2  6  31- 23  20
+ 9. Eintracht Braunschweig       17  8  4  5  25- 19  20
+10. MSV Duisburg                 17  8  2  7  33- 33  18
+11. Fortuna Düsseldorf           17  6  5  6  26- 30  17
+12. 1. FC Kaiserslautern         17  8  0  9  31- 28  16
+13. Rot-Weiß Essen               17  6  4  7  27- 33  16
+14. Bayern München               17  7  2  8  29- 36  16
+15. Werder Bremen                17  4  3 10  18- 37  11
+16. VfB Stuttgart                17  4  2 11  24- 42  10
+17. Wuppertaler SV               17  2  2 13  13- 42   6
+18. Tennis Borussia Berlin       17  2  1 14  21- 45   5
+
+Round 18 [Jan 25]
+Bayern      2-3 Offenbach   (G.Müller 16, Rummenigge 24 -
+                            Ritschel 33 p, Beckenbauer 59 o, Hickersberger 66)
+Düsseldorf  0-0 Hertha
+Bochum      1-0 Stuttgart   (Balte 53) [17 Balte (Bochum) m/pen]
+RW Essen    1-1 1. FC Köln  (Lippens 79 - D.Müller 90)
+Duisburg    2-2 Wuppertaler (Lehmann 3, Bücker 37 - Gerber 4, Galbierz 29)
+K'lautern   1-1 Schalke     (Sandberg 15 - Budde 26)
+TB Berlin   2-2 B'schweig   (Rumor 22, 63 - Gersdorff 16, 44)
+Frankfurt   2-1 Werder      (Nickel 7, Kraus 74 - Ohling 22)
+Hamburger   1-1 M'gladbach  (Nogly 66 - Jensen 55)
+
+Round 19 [Feb 1]
+Werder      1-1 TB Berlin   (Höttges 78 p - Rumor 35)
+B'schweig   3-2 K'lautern   (Gersdorff 13, Frank 37 - Handschuh 57 p -
+                            Weiler 12, Toppmöller 71)
+Schalke     5-0 Duisburg    (H.Kremers 80, 82, Fischer 32, Bongartz 43,
+                            Budde 76)
+Wuppertaler 0-2 RW Essen    (Burgsmüller 44, Wieczorkowski 81)
+1. FC Köln  4-1 Bochum      (Neumann 8, D.Müller 29, Overath 35, Glowacz 43 -
+                            Eggeling 71)
+Stuttgart   1-1 Düsseldorf  (Seel 20 - Stickel 27) [55 Ohlicher (Stuttgart)
+                            m/pen]
+Hertha      4-1 Bayern      (Beckenbauer 9 o, Beer 47, 85, Sidka 61 -
+                            Rummenigge 12) [88 Kliemann (Hertha) m/pen]
+Offenbach   4-1 Hamburger   (Kostedde 27, Volkert 32, 65 p, Ritschel 65 p -
+                            Schäfer 87)
+M'gladbach  3-0 Frankfurt   (Kulik 24, Simonsen 33, Heynckes 40)
+
+Round 20 [Feb 15]
+Offenbach   3-1 Hertha      (Rausch 36, Janzon 57, Kostedde 70 - Szymanek 29)
+Bayern      1-1 Stuttgart   (Rummenigge 57 - Ohlicher 45)
+Düsseldorf  3-0 1. FC Köln  (Seel 9, Zimmermann 75 p, Brei 90)
+Bochum      4-2 Wuppertaler (Balte 15, 74 p, Köper 17, 34 - Nagy 29, Gerber 38)
+RW Essen    4-4 Schalke     (Burgsmüller 8, Bast 18, Fürhoff 52, Lorant 66 -
+                            Bongartz 5, 26, Budde 30, Fischer 84)
+Duisburg    3-2 B'schweig   (Lehmann 3 p, Handschuh 18, Dietz 65 - Worm 27,
+                            Frank 74)
+K'lautern   4-1 Werder      (Sandberg 12, 28, Toppmöller 20, Riedl 37 p -
+                            Höttges 22 p)
+TB Berlin   1-4 M'gladbach  (Stolzenburg 33 - Heynckes 27, 50, 88, Bonhof 68)
+Hamburger   3-1 Frankfurt   (Nogly 45, Reimann 58, Sperlich 61 - Nickel 65)
+
+Round 21 [Feb 22]
+Werder      3-1 Duisburg    (Kamp 60, Görts 72, Weist 78 - Schneider 65)
+                            [48 Höttges (Werder) m/pen]
+B'schweig   4-2 RW Essen    (Erler 20, Frank 34, 72 Merkhoffer 79 -
+                             Lippens 39, 82)
+Schalke     1-0 Bochum      (Fischer 12)
+Wuppertaler 2-3 Düsseldorf  (Gerber 18, Dupke 30 - Zimmermann 37, 57, Geye 60)
+1. FC Köln  1-0 Bayern      (Flohe 4 p)
+Stuttgart   3-1 Offenbach   (Hilkes 7, Weller 68, Ohlicher 71 - Janzon 61)
+Hertha      1-0 Hamburger   (Szymanek 49)
+Frankfurt   7-1 TB Berlin   (Nickel 25, 41, Beverungen 37, Körbel 57, 81 p,
+                            Grabowski 66, Kraus 78 - J.Schulz 65)
+M'gladbach  3-0 K'lautern   (Toppmöller 59 o, Simonsen 72, Heynckes 91)
+
+Round 22 [Feb 28]
+Hamburger   4-0 TB Berlin   (Memering 7, Björnmose 43, Volkert 49, Sperlich 57)
+
+[Mar 1]
+Hertha      4-0 Stuttgart   (Kliemann 32, Horr 47, Szymanek 52, Weiner 63)
+Offenbach   1-4 1. FC Köln  (Kostedde 83 - Neumann 4, Simmet 12, D.Müller
+                            56, 69)
+Bayern      3-1 Wuppertaler (Hoeneß 17, G.Müller 26 p, Schwarzenbeck 72 -
+                            Dupke 81)
+Düsseldorf  2-1 Schalke     (Herzog 18, Geye 35 - Budde 83) [80 Zimmermann
+                            (Düsseldorf) m/pen]
+Bochum      1-0 B'schweig   (Balte 83)
+RW Essen    1-1 Werder      (Fürhoff 34 - Kamp 3) [5 Bast (Essen) m/pen]
+Duisburg    1-1 M'gladbach  (Bücker 83 - Bonhof 24) [70 Bücker (M'gladbach)
+                            m/pen]
+K'lautern   2-2 Frankfurt   (Toppmöller 12, Sandberg 25 - Nickel 28, Kraus 39)
+                            [75 Riedl (K'lautern) m/pen]
+
+Round 23 [Mar 7]
+Frankfurt   4-1 Duisburg    (Körbel 14 p, Rohrbach 36, Grabowski 39,
+                            Hölzenbein 42 - Thies 61) [64 Kraus (Frankfurt)
+                            m/pen]
+Wuppertaler 0-0 Offenbach
+
+[Mar 8]
+Werder      3-0 Bochum      (Roentved 11, Weist 60, Bracht 67)
+B'schweig   3-0 Düsseldorf  (Merkhoffer 21, Zimmermann 31 o, Gersdorff 40)
+Schalke     2-2 Bayern      (Fischer 15 p, H.Kremers 35 - G.Müller 75, 83)
+1. FC Köln  2-1 Hertha      (Müller 15, Flohe 86 - Kliemann 88)
+Stuttgart   1-2 Hamburger   (Coordes 84 - Sperlich 16, Volkert 30 p) [61
+                            Weller (Stuttgart) m/pen]
+TB Berlin   3-2 K'lautern   (Stolzenburg 53, Subklewe 79, Sprenger 83 -
+                            Diehl 65, Toppmöller 69)
+M'gladbach  1-1 RW Essen    (Heynckes 14 - Wörmer 25)
+
+Round 24 [Mar 21]
+Duisburg    2-3 TB Berlin   (Bücker 69, Worm 80 - Stolzenburg 43 p, Rumor 44,
+                             Geyer 84)
+
+[Mar 22]
+Stuttgart   2-0 1. FC Köln  (Ettmayer 18, 22) [14 Elmer (Stuttgart) m/pen]
+Hertha      2-0 Wuppertaler (Grau 1, Dupke 42 o)
+Offenbach   3-0 Schalke     (Hickersberger 32, Schmidradner 37, Janzon 41)
+Bayern      1-0 B'schweig   (Müller 48)
+Düsseldorf  4-1 Werder      (Zimmermann 37, Geye 64, Brei 68, 79 -
+                            Höttges 87 p)
+Bochum      0-0 M'gladbach
+RW Essen    0-5 Frankfurt   (Beverungen 21, 74, 79, Rohrbach 58, Grabowski 89)
+Hamburger   2-0 K'lautern   (Sperlich 27, Björnmose 89)
+
+Round 25 [Mar 26]
+1. FC Köln  4-0 Hamburger   (Müller 8, Löhr 71, Konopka 79, Glowacz 87)
+M'gladbach  3-1 Düsseldorf  (Jensen 11, Heynckes 40, 48 - Hesse 90)
+
+[Mar 27]
+Werder      0-2 Bayern      (Roth 62, Hoeneß 89)
+Schalke     1-0 Hertha      (Bongartz 77)
+K'lautern   2-0 Duisburg    (Sandberg 32, Melzer 82)
+TB Berlin   1-0 RW Essen    (Stolzenburg 39)
+
+Round 26 [Apr 1]
+1. FC Köln  4-0 Wuppertaler (D.Müller 17, Flohe 49, 64, Neumann 76)
+Stuttgart   3-1 Schalke     (Stickel 36, Entenmann 75, Ettmayer 84 -
+                            E.Kremers 55)
+Hertha      3-1 B'schweig   (L.Müller 34 p, Szymanek 77, Beer 81 - Frank 57)
+Offenbach   5-1 Werder      (Kostedde 3, 73, Hickersberger 23, Janzon 44,
+                            Höttges 54 o - Röber 45)
+Düsseldorf  2-2 Frankfurt   (Seel 10, Zewe 60 - Kraus 18, Grabowski 33)
+Bochum      0-0 TB Berlin
+RW Essen    3-1 K'lautern   (Burgsmüller 12, 69, Lippens 32 - Diehl 89 p)
+                            [15 Erlhoff (Essen) m/pen]
+
+[Apr 2]
+Hamburger   2-3 Duisburg    (Reimann 23, Krobbach 75 - Lehmann 44 p, Bücker 52,
+                            Büssers 65)
+
+Round 27 [Apr 5]
+Werder      4-0 Hertha      (Röber 8, Weist 21, 54, Röber 46)
+B'schweig   6-0 Stuttgart   (Frank 7, Bründl 11, Gersdorff 18, 74, Grzyb 36,
+                            Erler 48)
+Wuppertaler 0-4 Hamburger   (Reimann 18, 89, Bertl 82, Björnmose 88)
+Duisburg    3-3 RW Essen    (Worm 4, Bücker 11, Krause 70 - Burgsmüller
+                            52, 84 p, Lippens 58)
+K'lautern   1-0 Bochum      (Melzer 52)
+                            (sent off: Fromm (Bochum, 9))
+TB Berlin   1-4 Düsseldorf  (Jakobs 77 - Budde 10, 48, Hesse 11, Geye 28)
+Frankfurt   2-0 Bayern      (Körbel 40 p, Nickel 84)
+M'gladbach  5-2 Offenbach   (Heynckes 18, 87, Simonsen 19, 79 p, Wittkamp 45 -
+                            Kostedde 24, Schmidradner 68)
+
+[Apr 12]
+B'schweig   1-0 Offenbach   (Gersdorff 41)
+Wuppertaler 2-2 Stuttgart   (Weller 23 p, Ohlicher 83 - Berghaus 60, Gerber 89)
+
+[Apr 13]
+Bayern      1-1 M'gladbach  (G.Müller 90 p - Kulik 80)
+
+[Apr 15]
+Schalke     1-1 1. FC Köln  (Scheer 68 - Löhr 75)
+
+Round 28 [Apr 18]
+Düsseldorf  2-0 K'lautern   (Zimmermann 12, Seel 44)
+
+[Apr 19]
+Wuppertaler 0-1 Schalke     (Fischer 8)
+1. FC Köln  3-0 B'schweig   (D.Müller 17, 19 - Neumann 31)
+Stuttgart   2-2 Werder      (Ohlicher 22, Weidmann 67 - Weist 57, 78)
+Hertha      2-1 M'gladbach  (K.Müller 31, 75 - Stielike 23)
+Offenbach   2-1 Frankfurt   (Janzon 65, Ritschel 75 - Grabowski 1)
+Bayern      3-1 TB Berlin   (Müller 4, 18 p, Andersson 8, Rumor 52)
+Bochum      1-2 Duisburg    (Bruckmann 84 o - Büssers 1, 43)
+Hamburger   2-2 RW Essen    (Volkert 41 p, Krobbach 72 - Lippens 48, Bast 83)
+
+[Apr 22]
+Frankfurt   4-1 Bochum      (Lorenz 12, 15, 82, Hölzenbein 40 - Dewinski 42)
+
+Round 29 [May 3]
+Werder      4-1 1. FC Köln  (Kamp 22, 55, Weist 36, Roentved 57 - D.Müller 19)
+B'schweig   1-1 Wuppertaler (Gersdorff 49 - Cremer 79)
+Schalke     3-1 Hamburger   (van den Berg 2, Bongartz 3, Fischer 77 -
+                            Krobbach 36)
+RW Essen    1-1 Bochum      (Wieczorkowski 47 - Versen 83)
+Duisburg    0-3 Düsseldorf  (Brei 22 p, Herzog 33, Seel 54)
+K'lautern   0-1 Bayern      (Hoeneß 74)
+TB Berlin   0-2 Offenbach   (Ritschel 22, Schwemmle 87)
+Frankfurt   1-2 Hertha      (Hölzenbein 35 - Kliemann 55, Grau 79)
+M'gladbach  5-1 Stuttgart   (Jensen 3, Danner 38, 69, Kulik 53, Bonhof 60 -
+                            Hadewicz 79)
+
+Round 30 [May 9]
+Offenbach   2-2 K'lautern   (Hickersberger 37, Theis 44 - Frosch 77,
+                            Pirrung 88)
+
+[May 10]
+Schalke     1-1 B'schweig   (Budde 20, Grzyb 24) [49 Bongartz (Schalke)
+                            m/pen]
+Wuppertaler 2-4 Werder      (Gerber 66, 75 - Roentved 28, 74, Höttges 36 p,
+                            Röber 48) [42 Cremer (Wuppertaler) m/pen]
+1. FC Köln  1-2 M'gladbach  (Löhr 37 p - Simonsen 3, Danner 59)
+Stuttgart   3-4 Frankfurt   (Ohlicher 28, 55, Coordes 61 - Grabowski 37, 90,
+                            Lorenz 47, Hölzenbein 65)
+Hertha      2-1 TB Berlin   (Sziedat 1, Sidka 50 - Rumor 39)
+Bayern      2-1 Duisburg    (Torstensson 31, G.Müller 77 - Bücker 82)
+Düsseldorf  4-0 RW Essen    (Seel 13, Geye 16, Herzog 75, Brei 83)
+Hamburger   3-2 Bochum      (Zaczyk 35, Memering 59, Bertl 85 - Holz 28,
+                            Pochstein 66)
+
+Round 31 [May 23]
+Duisburg    2-1 Offenbach   (Lehmann 60, Dietz 66 - Rausch 70)
+K'lautern   3-0 Hertha      (Sandberg 1, Kliemann 27 o, Bitz 65)
+Frankfurt   3-2 1. FC Köln  (Hölzenbein 12, 28, Beverungen 24 - Neumann 6, 74)
+
+[May 24]
+Werder      0-1 Schalke     (Lütkebohmert 28)
+B'schweig   1-2 Hamburger   (Gersdorff 4 - Hidien 15, Sperlich 27)
+Bochum      4-2 Düsseldorf  (Tenhagen 7, Köper 55, Balte 69, 89 -
+                            Brei 44 p, 75)
+RW Essen    2-2 Bayern      (Wörmer 67, Lippens 83 - Roth 3, Roth 57)
+TB Berlin   1-1 Stuttgart   (Schwidrowski 66 - Ohlicher 42)
+M'gladbach  6-2 Wuppertaler (Simonsen 13 p, 18, 53, Heynckes 41, 51, 88 -
+                            Berghaus 25, Jung 65) [72 Heynckes (M'gladbach)
+                            m/pen]
+
+Round 32 [May 29]
+Offenbach   1-3 RW Essen    (Kostedde 58 - Lorant 50, Strauch 82,
+                            Burgsmüller 90)
+
+[May 30]
+Hertha      3-0 Duisburg    (Kliemann 67, Szymanek 79, Beer 81)
+
+Werder      0-0 B'schweig
+Schalke     1-3 M'gladbach  (Lütkebohmert 50 - Simonsen 34 p, Bonhof 40,
+                            Heynckes 85)
+Wuppertaler 2-3 Frankfurt   (Lorenz 5, Jung 58 - Grabowski 29, 37, Lausen 77)
+1. FC Köln  7-1 TB Berlin   (D.Müller 40 p, 75, 90, Flohe 61, 67, Overath 43,
+                            Simmet 70 - Bittlmayer 48)
+Stuttgart   0-1 K'lautern   (Riedl 66 p)
+Bayern      2-1 Bochum      (Schwarzenbeck 54, G.Müller 79 - Holz 39)
+Düsseldorf  0-0 Hamburger
+
+Round 33 [Jun 7]
+Düsseldorf  6-5 Bayern      (Seel 35, Kriegler 41, Geye 56, Baltes 59, Brei 63,
+                            Herzog 72 - G.Müller 38, 40, 42, Kapellmann 29,
+                            Torstensson 69)
+Bochum      3-1 Offenbach   (Holz 42, Lameck 60 p, 64 - Kostedde 40)
+RW Essen    2-1 Hertha      (Burgsmüller 47 p, Bast 55 p - Beer 24)
+Duisburg    3-3 Stuttgart   (Lehmann 64, Krause 78, Worm 83 - Hadewicz 19,
+                            Weller 70, 85)
+K'lautern   1-1 1. FC Köln  (Sandberg 29 - Löhr 84 p)
+                            (sent off: Glowacz (Köln, 30))
+TB Berlin   0-0 Wuppertaler
+Frankfurt   2-1 Schalke     (Beverungen 54, Grabowski 69 - Fischer 20)
+M'gladbach  2-0 B'schweig   (Jensen 88, 90)
+Hamburger   2-0 Werder      (Björnmose 33, Reimann 37)
+
+Round 34 [Jun 14]
+Werder      1-4 M'gladbach  (Röber 17 - Bonhof 19, Heynckes 40, 87,
+                            Köppel 80) [82 Bracht (Werder) m/pen]
+B'schweig   2-0 Frankfurt   (Bründl 58 p, Hollmann 67) [39 Neuberger
+                            (B'schweig) m/pen]
+Schalke     3-0 TB Berlin   (Fichtel 36 p, 82, Bruns 60)
+Wuppertaler 3-3 K'lautern   (Gerber 10, Dupke 62, Pröpper 80 - Pirrung 17,
+                            Melzer 25, Diehl 41) [43 Pröpper (Wuppertaler)
+                            m/pen]
+1. FC Köln  4-2 Duisburg    (Neumann 15, Löhr 22, D.Müller 33, 62 -
+                            Bücker 44, Worm 11)
+Stuttgart   3-2 RW Essen    (Weidmann 24, Ohlicher 32, Tochtermann 40 -
+                            Fürhoff 27, Burgsmüller 52 p)
+Hertha      4-2 Bochum      (Grau 8, Beer 28, K.Müller 45 p, Sidka 64 -
+                            Holz 77 p, Kaczor 82)
+Offenbach   2-3 Düsseldorf  (Held 13, Kostedde 86 - Zimmermann 2, 87, Seel 45)
+Bayern      0-1 Hamburger   (Sperlich 35)
+
+ 1. Borussia Mönchengladbach     34 21  8  5  86- 40  50
+ 2. Hertha BSC Berlin            34 19  6  9  61- 43  44
+ 3. Hamburger SV                 34 18  7  9  55- 38  43
+ 4. Eintracht Frankfurt          34 18  7  9  89- 49  43
+ 5. Fortuna Düsseldorf           34 16  9  9  66- 55  41
+ 6. 1. FC Köln                   34 17  7 10  77- 51  41
+ 7. Schalke 04                   34 16  7 11  52- 37  39
+ 8. Kickers Offenbach            34 17  4 13  72- 62  38
+ 9. Eintracht Braunschweig       34 14  8 12  52- 42  36
+10. Bayern München               34 14  6 14  57- 63  34
+11. VfL Bochum                   34 14  5 15  53- 53  33
+12. Rot-Weiß Essen               34 10 12 12  56- 68  32
+13. 1. FC Kaiserslautern         34 13  5 16  56- 55  31
+14. MSV Duisburg                 34 12  6 16  59- 77  30
+15. Werder Bremen                34  9  7 18  45- 69  25
+16. VfB Stuttgart                34  8  8 18  50- 79  24
+17. Tennis Borussia Berlin       34  5  6 23  38- 89  16
+18. Wuppertaler SV               34  2  8 24  32- 86  12
+
+Topscorers: Josef HEYNCKES (M'gladbach) - 27, Dieter MÜLLER (Köln) - 24,
+Gerhard MÜLLER (Bayern) - 23
+
+Borussia Mönchengladbach 1974/75
+
+     Wolfgang KLEFF          34  (3060) -40
+
+       Rainer BONHOF         28  (2495) + 6
+      Dietmar DANNER         21  (1521) + 3
+         Karl DEL HAYE        4  (  97)
+        Josef HEYNCKES       31  (2760) +27
+       Lorenz HILKES          5  ( 222)
+      Henning JENSEN DAN     34  (2809) +13
+    Christian KULIK          24  (2050) + 6
+         Hans KLINKHAMMER    23  (1755)
+        Horst KÖPPEL          7  ( 265) + 1
+       Günter KÖSTNER        18  (1262) + 1
+       Walter POSNER          2  ( 158)
+        Frank SCHÄFFER       14  (1047)
+        Allan SIMONSEN DAN   34  (3039) +18
+       Ulrich STIELIKE       25  (2147) + 1
+       Ulrich SURAU          14  ( 994)
+  Hans-Hubert VOGTS          34  (3016)
+      Herbert WIMMER         29  (2457) + 1
+  Hans-Jürgen WITTKAMP       29  (2504) + 6
+
+
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+With thanks to Gerd Heuser
+
+Prepared and maintained by Gwidon Naskrent
+for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author:
+Gwidon Naskrent
+
+Last updated: 1 Apr 2001
+
+(c) Copyright Gwidon Naskrent and RSSSF 2001
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

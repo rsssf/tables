@@ -1,0 +1,284 @@
+  <!--
+     source: https://rsssf.org/tablesd/duit2012.html
+    -->
+  
+
+
+== Germany 2011/12
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹1. Bundesliga, see §1bl›
+‹DFB Pokal, see §dfbpokal›
+‹2. Bundesliga, see §2bl›
+‹3. Liga, see §3bl›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== 1. Bundesliga  ‹§1bl›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Borussia Dortmund            34  25  6  3  80-25  81  Champions
+ 2.FC Bayern München            34  23  4  7  77-22  73
+ 3.FC Schalke 04 Gelsenkirchen  34  20  4 10  74-44  64
+ 4.Borussia Mönchengladbach     34  17  9  8  49-24  60
+ 5.Bayer 04 Leverkusen          34  15  9 10  52-44  54
+ 6.VfB Stuttgart                34  15  8 11  63-46  53
+ 7.Hannover 96                  34  12 12 10  41-45  48
+ 8.VfL Wolfsburg                34  13  5 16  47-60  44
+ 9.SV Werder Bremen             34  11  9 14  49-58  42
+10.1.FC Nürnberg                34  12  6 16  38-49  42
+11.TSG 1899 Hoffenheim          34  10 11 13  41-47  41
+12.SC Freiburg                  34  10 10 14  45-61  40
+13.1.FSV Mainz 05               34   9 12 13  47-51  39
+14.FC Augsburg                  34   8 14 12  36-49  38
+15.Hamburger SV                 34   8 12 14  35-57  36
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+16.Hertha BSC Berlin            34   7 10 17  38-64  31  ‹Relegation Playoff, see §1prorel›
+------------------------------------------------------ -
+17.1.FC Köln                    34   8  6 20  39-75  30  Relegated
+18.1.FC Kaiserslautern          34   4 11 19  24-54  23  Relegated
+
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+
+First Leg [May 10]
+Hertha          1-2 Düsseldorf
+
+Second Leg [May 15]
+Düsseldorf      2-2 Hertha
+
+NB: Fortuna Düsseldorf promoted, Hertha BSC relegated
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== DFB Pokal  ‹§dfbpokal›
+
+<!-- start pre -->
+
+Round 1
+[Jul 29]
+Saarbrücken            1-3 Erzgebirge Aue         [aet]
+Jahn Regensburg        1-3 Borussia M'gladbach
+RB Leipzig             3-2 Wolfsburg
+Rot-Weiss Essen        2-2 Union Berlin           [aet, 4-3 pen]
+Wehen Wiesbaden        1-2 Stuttgart
+Osnabrück              2-3 1860 München           [aet]
+[Jul 30]
+Heidenheim             2-1 Werder Bremen
+Arminia Bielefeld      1-5 Nürnberg
+Dynamo Berlin          0-3 Kaiserslautern
+Dynamo Dresden         4-3 Bayer Leverkusen       [aet]
+Eintracht Trier        2-1 Sankt Pauli
+Hallescher FC          0-2 Eintracht Frankfurt
+RW Ahlen              0-10 Paderborn
+SV Babelsberg 03       0-2 MSV Duisburg
+VfB Oldenburg          1-2 Hamburg
+Hansa Rostock          2-2 Bochum                 [aet, 3-5 pen]
+Holstein Kiel          3-0 Energie Cottbus
+Kickers Emden          1-5 FSV Frankfurt          [aet]
+RW Oberhausen          1-2 Augsburg               [aet]
+Sandhausen             0-3 Borussia Dortmund
+[Jul 31]
+Anker Wismar           0-6 Hannover
+Eimsbüttler TV        0-10 Greuther Fürth
+FC Oberneuland         1-4 Ingolstadt
+Karlsruhe              3-1 Alemannia Aachen
+Unterhaching           3-2 Freiburg
+TSV Germania Windeck   1-3 Hoffenheim             [aet]
+ZFC Meuselwitz         0-4 Hertha BSC
+FC Teningen           1-11 Schalke 04
+Hessen Kassel          0-3 Fortuna Düsseldorf
+SC Wiedenbrück         0-3 Köln
+SVN Zweibrücken        1-2 Mainz                  [aet]
+[Aug 1]
+Eintracht Braunschweig 0-3 Bayern München
+
+Round 2
+[Oct 25]
+Heidenheim             0-0 Borussia M'gladbach    [aet, 3-4 pen]
+Fortuna Düsseldorf     3-0 1860 München
+RB Leipzig             0-1 Augsburg
+Unterhaching           1-4 Bochum
+Eintracht Trier        1-2 Hamburg                [aet]
+Greuther Fürth         4-0 Paderborn
+Hoffenheim             2-1 Köln
+Borussia Dortmund      2-0 Dynamo Dresden
+[Oct 26]
+Hannover               0-1 Mainz                  [aet]
+Holstein Kiel          2-0 MSV Duisburg
+Karlsruhe              0-2 Schalke 04
+Rot-Weiss Essen        0-3 Hertha BSC
+Bayern München         6-0 Ingolstadt
+Eintracht Frankfurt    0-1 Kaiserslautern         [aet]
+Erzgebirge Aue         1-2 Nürnberg
+Stuttgart              3-0 FSV Frankfurt
+
+1/8 Finals
+[Dec 20]
+Nürnberg               0-1 Greuther Fürth
+Bochum                 1-2 Bayern München
+Fortuna Düsseldorf     0-0 Borussia Dortmund      [aet, 4-5 pen]
+Hoffenheim             2-1 Augsburg
+[Dec 21]
+Hertha BSC             3-1 Kaiserslautern
+Holstein Kiel          2-0 Mainz
+Borussia M'gladbach    3-1 Schalke 04
+Stuttgart              2-1 Hamburg
+
+Quarterfinals
+[Feb 7]
+Holstein Kiel          0-4 Borussia Dortmund
+[Feb 8]
+Hertha BSC             0-2 Borussia M'gladbach    [aet]
+Hoffenheim             0-1 Greuther Fürth
+Stuttgart              0-2 Bayern München
+
+Semifinals
+[Mar 20]
+Greuther Fürth         0-1 Borussia Dortmund      [aet]
+[Mar 21]
+Borussia M'gladbach    0-0 Bayern München         [aet, 2-4 pen]
+
+Final [May 12, Berlin]
+Borussia Dortmund      5-2 Bayern München
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== 2. Bundesliga  ‹§2bl›
+
+<!-- start pre -->
+
+Final Table:
+
+ 1.SpVgg Greuther Fürth         34  20 10  4  73-27  70  Promoted
+ 2.Eintracht Frankfurt          34  20  8  6  76-33  68  Promoted
+-------------------------------------------------------
+ 3.Fortuna Düsseldorf           34  16 14  4  64-35  62  ‹Promotion Playoff, see §1prorel›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.FC Sankt Pauli               34  18  8  8  59-34  62
+ 5.SC Paderborn 07              34  17 10  7  51-42  61
+ 6.TSV 1860 München             34  17  6 11  62-46  57
+ 7.1. FC Union Berlin           34  14  6 14  55-58  48
+ 8.Eintracht Braunschweig       34  10 15  9  37-35  45
+ 9.Dynamo Dresden               34  12  9 13  50-52  45
+10.MSV Duisburg                 34  10  9 15  42-47  39
+11.VfL Bochum                   34  10  7 17  41-55  37
+12.FC Ingolstadt 04             34   8 13 13  43-58  37
+13.FSV Frankfurt                34   7 14 13  43-59  35
+14.FC Energie Cottbus           34   8 11 15  30-49  35
+15.FC Erzgebirge Aue            34   8 11 15  31-55  35
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+16.Karlsruher SC                34   9  6 19  34-60  33  ‹Relegation Playoff, see §2prorel›
+-------------------------------------------------------
+17.TSV Alemannia Aachen         34   6 13 15  30-47  31  Relegated
+18.FC Hansa Rostock             34   5 12 17  34-63  27  Relegated
+
+Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+
+First Leg [May 11]
+Regensburg      1-1 Karlsruhe
+
+Second Leg [May 14]
+Karlsruhe       2-2 Regensburg
+
+NB: Jahn Regensburg promoted, Karlsruher SC relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== 3. Liga  ‹§3bl›
+
+<!-- start pre -->
+Final Table:
+
+ 1.SV Sandhausen                38  19  9 10  57-42  66  Promoted
+ 2.VfR Aalen                    38  18 10 10  50-42  64  Promoted
+-------------------------------------------------------
+ 3.Jahn Regensburg              38  16 13  9  55-41  61  ‹Promotion Playoff, see §2prorel›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.1. FC Heidenheim             38  16 12 10  48-36  60
+ 5.Rot-Weiß Erfurt              38  15 14  9  54-41  59
+ 6.Wacker Burghausen            38  13 18  7  55-47  57
+ 7.VfL Osnabrück                38  14 13 11  46-35  55
+ 8.Offenbacher FC Kickers       38  15 10 13  49-41  55
+ 9.Chemnitzer FC                38  15 10 13  47-43  55
+10.1.FC Saarbrücken             38  13 15 10  61-51  54
+11.VfB Stuttgart II             38  12 14 12  44-47  50
+12.SC Preußen Münster           38  12 14 12  40-44  50
+13.DSC Arminia Bielefeld        38  12 14 12  51-57  50
+14.SV Darmstadt 98              38  12 13 13  51-47  49
+15.SpVgg Unterhaching           38  12  8 18  63-59  44
+16.SV Wehen Wiesbaden           38  10 14 14  40-48  44
+17.SV Babelsberg 03             38  11 11 16  44-59  44
+-------------------------------------------------------
+18.FC Carl Zeiss Jena           38   9 12 17  39-59  39  Relegated
+19.Rot-Weiss Oberhausen         38   8 14 16  33-47  38  Relegated
+20.SV Werder Bremen II          38   4 10 24  29-70  22  Relegated
+
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2010/11, see page duit2011›
+
+‹2012/13, see page duit2013›
+
+‹list of champions, see page duitchamp›
+
+‹all-time table, see page duialltime›
+
+‹list of 2nd level champions, see page duit2champ›
+
+‹list of amateur champions, see page duitamachamp›
+
+‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
+
+‹oberliga nord 1945-1963, see page duit-ol-nord4563›
+
+‹oberliga süd 1945-1963, see page duit-ol-sued4563›
+
+‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
+
+‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
+
+‹oberliga west 1945-1963, see page duit-ol-west4563›
+
+‹regionalliga nord 63-74, see page dui3nordhist›
+
+‹regionalliga süd 63-74, see page dui3suedhist›
+
+‹regionalliga west 63-74, see page dui3westhist›
+
+‹list of cup finals, see page duitcuphist›
+
+‹list of super and league cup finals, see page duitsupcuphist›
+
+‹list of topscorers, see page duittops›
+
+‹list of 2nd level topscorers, see page duit2tops›
+
+‹list of foundation dates, see page duitfound›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 23 Sep 2021
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2012/21
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

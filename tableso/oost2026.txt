@@ -1,0 +1,483 @@
+  <!--
+     source: https://rsssf.org/tableso/oost2026.html
+    -->
+  
+
+
+== Austria 2025/26
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Bundesliga, see §bund›
+‹ÖFB Cup, see §cup›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Bundesliga  ‹§bund›
+
+<!-- start pre -->
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.SK Sturm Graz                22  12  2  8  33-26  38  [C]              ‹Championship Playoff, see §champ›
+ 2.RB Salzburg                  22  10  7  5  42-26  37  [2 2 0 0 8-1 6]  ‹Championship Playoff, see §champ›
+ 3.LASK Linz                    22  11  4  7  32-30  37  [2 0 0 2 1-8 0]  ‹Championship Playoff, see §champ›
+ 4.FK Austria Wien              22  11  3  8  34-30  36                   ‹Championship Playoff, see §champ›
+ 5.SK Rapid Wien                22   9  6  7  26-25  33  [2 1 1 0 2-1 4]  ‹Championship Playoff, see §champ›
+ 6.TSV Hartberg                 22   8  9  5  29-24  33  [2 0 1 1 1-2 1]  ‹Championship Playoff, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Wattener SG Tirol            22   8  7  7  31-30  31                   ‹Relegation Playoff, see §releg›
+ 8.SC Rheindorf Altach          22   7  8  7  22-23  29                   ‹Relegation Playoff, see §releg›
+ 9.SV Ried                      22   8  4 10  26-30  28  [P]              ‹Relegation Playoff, see §releg›
+10.Wolfsberger AC               22   7  5 10  31-32  26                   ‹Relegation Playoff, see §releg›
+11.GAK 1902                     22   4  8 10  22-36  20                   ‹Relegation Playoff, see §releg›
+12.FC Blau-Weiß Linz            22   4  3 15  20-36  15                   ‹Relegation Playoff, see §releg›
+
+Round 1
+[Aug 1]
+LASK             0-2 Sturm
+[Aug 2]
+Wolfsberg        0-2 Altach
+Wattens          4-2 Hartberg
+Ried             2-2 Salzburg
+[Aug 3]
+GAK              2-2 Austria W
+Rapid            1-0 BW Linz
+
+Round 2
+[Aug 9]
+BW Linz          0-1 Hartberg
+Altach           1-0 Ried
+Salzburg         5-0 GAK
+[Aug 10]
+Austria W        0-2 Wolfsberg
+Sturm            1-2 Rapid
+Wattens          3-1 LASK
+
+Round 3
+[Aug 16]
+GAK              1-1 Wattens
+Hartberg         1-2 Salzburg
+Ried             1-3 Sturm
+[Aug 17]
+LASK             2-1 Austria W
+Rapid            0-0 Altach
+Wolfsberg        3-0 BW Linz
+
+Round 4
+[Aug 23]
+BW Linz          0-2 Ried
+Salzburg         3-0 LASK
+[Aug 24]
+Austria W        1-3 Hartberg
+Wolfsberg        1-2 Rapid
+Altach           1-1 GAK
+[Dec 3]
+Sturm            1-3 Wattens
+
+Round 5
+[Aug 30]
+LASK             1-3 Ried
+Salzburg         2-2 BW Linz
+GAK              0-3 Sturm
+[Aug 31]
+Austria W        1-0 Altach
+Hartberg         0-1 Rapid
+Wattens          1-1 Wolfsberg
+
+Round 6
+[Sep 13]
+BW Linz          3-0 GAK
+Wolfsberg        3-1 Salzburg
+Altach           1-0 LASK
+[Sep 14]
+Rapid            4-1 Wattens
+Ried             0-2 Hartberg
+Sturm            0-1 Austria W
+
+Round 7
+[Sep 20]
+Austria W        3-2 Ried
+Salzburg         0-2 Sturm
+Hartberg         2-2 Wolfsberg
+[Sep 21]
+LASK             2-0 BW Linz
+Altach           1-1 Wattens
+GAK              1-1 Rapid
+
+Round 8
+[Sep 27]
+BW Linz          1-0 Altach
+Wolfsberg        1-0 LASK
+Ried             0-0 GAK
+[Sep 28]
+Sturm            1-0 Hartberg
+Wattens          1-2 Salzburg
+Rapid            1-3 Austria W
+
+Round 9
+[Oct 4]
+Austria W        0-1 BW Linz
+GAK              1-3 Wolfsberg
+Ried             2-0 Wattens
+[Oct 5]
+LASK             3-3 Hartberg
+Altach           0-2 Sturm
+Salzburg         2-1 Rapid
+
+Round 10
+[Oct 18]
+GAK              0-0 Hartberg
+Wolfsberg        1-2 Ried
+Wattens          2-3 Austria W
+[Oct 19]
+BW Linz          3-4 Sturm
+Salzburg         2-2 Altach
+Rapid            0-2 LASK
+
+Round 11
+[Oct 25]
+LASK             1-0 GAK
+Altach           2-2 Hartberg
+Wattens          2-0 BW Linz
+[Oct 26]
+Sturm            1-3 Wolfsberg
+Ried             0-2 Rapid
+Austria W        0-3 Salzburg
+
+Round 12
+[Nov 1]
+BW Linz          0-1 LASK
+GAK              3-1 Altach
+Hartberg         2-1 Austria W
+[Nov 2]
+Salzburg         4-1 Ried
+Wolfsberg        0-0 Wattens
+Rapid            2-1 Sturm
+
+Round 13
+[Nov 8]
+Austria W        2-1 GAK
+Wolfsberg        1-2 Hartberg
+Ried             2-1 BW Linz
+[Nov 9]
+LASK             1-0 Altach
+Wattens          1-1 Rapid
+Sturm            1-1 Salzburg
+
+Round 14
+[Nov 22]
+BW Linz          2-3 Austria W
+Altach           3-1 Wolfsberg
+Hartberg         2-0 Ried
+[Nov 23]
+Salzburg         2-3 Wattens
+Sturm            1-3 LASK
+Rapid            1-2 GAK
+
+Round 15
+[Nov 29]
+Austria W        0-0 Wattens
+GAK              3-1 BW Linz
+Ried             1-0 Wolfsberg
+[Nov 30]
+Altach           1-1 Salzburg
+Hartberg         0-1 Sturm
+LASK             3-0 Rapid
+
+Round 16
+[Dec 6]
+BW Linz          0-2 Salzburg
+Rapid            1-2 Ried
+Hartberg         2-2 LASK
+[Dec 7]
+Wolfsberg        2-1 Austria W
+Wattens          0-3 Altach
+Sturm            2-1 GAK
+
+Round 17
+[Dec 13]
+GAK              1-2 LASK
+Ried             3-0 Altach
+Hartberg         2-1 Wattens
+[Dec 14]
+BW Linz          1-1 Rapid
+Salzburg         2-1 Wolfsberg
+Austria W        3-1 Sturm
+
+Round 18
+[Feb 6]
+Salzburg         0-2 Austria W
+[Feb 7]
+LASK             1-0 Wattens
+Rapid            1-1 Hartberg
+[Feb 8]
+Wolfsberg        2-2 GAK
+Altach           1-0 BW Linz
+Sturm            1-0 Ried
+
+Round 19
+[Feb 14]
+Ried             1-1 LASK
+Hartberg         0-0 Altach
+Wattens          1-0 Sturm
+[Feb 15]
+BW Linz          2-1 Wolfsberg
+GAK              1-1 Salzburg
+Austria W        2-0 Rapid
+
+Round 20
+[Feb 21]
+Rapid            2-0 Wolfsberg
+Altach           2-1 Austria W
+Hartberg         1-0 GAK
+[Feb 22]
+Sturm            1-0 BW Linz
+Wattens          1-1 Ried
+LASK             1-5 Salzburg
+
+Round 21 [Mar 1]
+Austria W        2-2 LASK
+BW Linz          2-3 Wattens
+GAK              2-1 Ried
+Salzburg         0-0 Hartberg
+Wolfsberg        2-2 Sturm
+Altach           1-1 Rapid
+
+Round 22 [Mar 8]
+LASK             3-1 Wolfsberg
+Rapid            1-0 Salzburg
+Sturm            2-0 Altach
+Ried             0-2 Austria W
+Hartberg         1-1 BW Linz
+Wattens          2-0 GAK
+
+Final Table:
+
+ 1.SK Sturm Graz                22  12  2  8  33-26  38  [C]              ‹Championship Playoff, see §champ›
+ 2.RB Salzburg                  22  10  7  5  42-26  37  [2 2 0 0 8-1 6]  ‹Championship Playoff, see §champ›
+ 3.LASK Linz                    22  11  4  7  32-30  37  [2 0 0 2 1-8 0]  ‹Championship Playoff, see §champ›
+ 4.FK Austria Wien              22  11  3  8  34-30  36                   ‹Championship Playoff, see §champ›
+ 5.SK Rapid Wien                22   9  6  7  26-25  33  [2 1 1 0 2-1 4]  ‹Championship Playoff, see §champ›
+ 6.TSV Hartberg                 22   8  9  5  29-24  33  [2 0 1 1 1-2 1]  ‹Championship Playoff, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Wattener SG Tirol            22   8  7  7  31-30  31                   ‹Relegation Playoff, see §releg›
+ 8.SC Rheindorf Altach          22   7  8  7  22-23  29                   ‹Relegation Playoff, see §releg›
+ 9.SV Ried                      22   8  4 10  26-30  28  [P]              ‹Relegation Playoff, see §releg›
+10.Wolfsberger AC               22   7  5 10  31-32  26                   ‹Relegation Playoff, see §releg›
+11.GAK 1902                     22   4  8 10  22-36  20                   ‹Relegation Playoff, see §releg›
+12.FC Blau-Weiß Linz            22   4  3 15  20-36  15                   ‹Relegation Playoff, see §releg›
+
+Playoff Stage  ‹§play›
+
+‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
+
+Championship Playoff  ‹§champ›
+
+Table:
+
+ 1.SK Sturm Graz                24  13  3  8  39-29  23  [19]  [C]
+ 2.SK Rapid Wien                24  11  6  7  31-27  22  [16*]
+ 3.FK Austria Wien              24  12  3  9  37-35  21  [18]
+ 4.RB Salzburg                  24  10  8  6  43-28  19  [18*]
+ 5.LASK Linz                    24  11  5  8  34-34  19  [18*]
+ 6.TSV Hartberg                 24   8 10  6  29-25  17  [16*]
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)
+
+Round 23
+[Mar 13]
+LASK             0-0 Hartberg
+[Mar 15]
+Salzburg         0-1 Rapid
+Austria W        2-5 Sturm
+
+Round 24
+[Mar 20]
+Sturm            1-1 Salzburg
+[Mar 22]
+Hartberg         0-1 Austria W
+Rapid            4-2 LASK
+
+Table:
+
+ 1.SK Sturm Graz                24  13  3  8  39-29  23  [19]  [C]
+ 2.SK Rapid Wien                24  11  6  7  31-27  22  [16*]
+ 3.FK Austria Wien              24  12  3  9  37-35  21  [18]
+ 4.RB Salzburg                  24  10  8  6  43-28  19  [18*]
+ 5.LASK Linz                    24  11  5  8  34-34  19  [18*]
+ 6.TSV Hartberg                 24   8 10  6  29-25  17  [16*]
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)
+
+Relegation Playoff  ‹§releg›
+
+Table:
+
+ 7.SC Rheindorf Altach          24   8  9  7  26-25  18  [14*]
+ 8.SV Ried                      24   9  4 11  30-34  17  [14]  [P]
+ 9.GAK 1902                     24   6  8 10  29-37  16  [10]
+10.Wattener SG Tirol            24   8  7  9  33-37  15  [15*]
+11.Wolfsberger AC               24   7  6 11  32-35  14  [13]
+-------------------------------------------------------
+12.FC Blau-Weiß Linz            24   5  3 16  24-41  10  [ 7*]
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)
+
+Round 23 [Mar 14]
+GAK              2-0 Wolfsberg
+Altach           3-1 BW Linz
+Ried             2-1 Wattens
+
+Round 24 [Mar 21]
+BW Linz          3-2 Ried
+Wolfsberg        1-1 Altach
+Wattens          1-5 GAK
+
+Table:
+
+ 7.SC Rheindorf Altach          24   8  9  7  26-25  18  [14*]
+ 8.SV Ried                      24   9  4 11  30-34  17  [14]  [P]
+ 9.GAK 1902                     24   6  8 10  29-37  16  [10]
+10.Wattener SG Tirol            24   8  7  9  33-37  15  [15*]
+11.Wolfsberger AC               24   7  6 11  32-35  14  [13]
+-------------------------------------------------------
+12.FC Blau-Weiß Linz            24   5  3 16  24-41  10  [ 7*]
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== ÖFB Cup  ‹§cup›
+
+<!-- start pre -->
+Round 1
+[Jul 25]
+ATUS Velden                         3-2 SC Neusiedl/See 1919
+SV Oberwart                         7-0 ATSV Wolfsberg
+FC Marchfeld Donauauen              6-1 UFC Jennersdorf
+FC Lauterach                        0-5 SC Schwaz
+SVG Reichenau-Innsbruck             4-1 VfB Hohenems
+Union Gurten                        6-2 SV Wals-Grünau
+SC Kalsdorf                         0-5 SKN St.Pölten
+SV Tillmitsch                       1-3 First Vienna FC 1894
+Kremser SC                          1-1 SKU Amstetten                       [aet, 2-3 pen]
+SV Horn                             2-0 SV Austria Klagenfurt
+SR Donaufeld                        0-4 FAC Wien
+SC Weiz                             0-3 Admira Wacker Mödling
+Sportunion Vöcklamarkt              0-2 SC Schwarz-Weiß Bregenz
+SC Imst 1933                        3-3 FC Hertha Wels                      [aet, 1-3 pen]
+SC/ESV Parndorf 1919                0-5 SC Ried
+SPG Wallern/St. Marienkirchen       1-3 Wolfsberger AC
+FC Dornbirn 1913                    1-0 GAK
+SK Treibach                         0-3 FC Blau-Weiß LInz
+FCM Traiskirchen                    0-4 WSG Tirol
+Bischofshofener SK 1933             0-4 SK Sturm Graz
+[Jul 26]
+SV Dinamo Helfort                   1-2 Kapfenberger SV 1919
+FC Lendorf                          1-2 SV Donau Wien
+Wiener Sport-Club                   0-4 LASK
+Union Dietach                       0-4 FC Red Bull Salzburg
+SC Retz                             0-5 SV Stripfing/Weiden
+SV Kuchl                            2-3 SC Austria Lustenau
+ASKÖ Oedt                           1-0 SV Austria Salzburg
+AS Lafnitz                          2-5 TSV Hartberg
+SC Hirschwang                       1-4 SCR Altach
+[Jul 27]
+FC Pinzgau Saalfelden               1-2 SC Röthis
+FC Wacker Innsbruck                 0-1 SK Rapid Wien
+ASK Voitsberg                       3-2 FK Austria Wien
+
+Round 2
+[Aug 26]
+FC Hertha Wels                      2-2 SKN St. Pölten                      [aet, 4-5 pen]
+SC Austria Lustenau                 0-2 Kapfenberger SV 1919
+SKU Amstetten                       2-1 First Vienna FC 1894
+FC Marchfeld Donauauen              0-2 SC Schwarz-Weiß Bregenz
+ASK Voitsberg                       1-4 Admira Wacker Mödling
+Union Gurten                        0-1 SV Ried
+[Aug 27]
+FAC Wien                            1-3 SV Stripfing/Weiden
+ASKÖ Oedt                           1-3 WSG Tirol
+SV Horn                             0-2 LASK
+FC Dornbirn 1913                    1-3 FC Red Bull Salzburg
+SV Donau Wien                       1-3 SCR Altach
+SC Schwaz                           0-3 FC Blau-Weiß Linz
+ATUS Velden                         0-3 TSV Hartberg                        [aet]
+[Sep 16]
+SVG Reichenau-Innsbruck             0-4 Wolfsberger AC
+[Sep 17]
+SV Oberwart                         1-2 SK Rapid Wien
+SC Röthis                           0-2 SK Sturm Graz
+
+1/8 Finals
+[Oct 28]
+FC Blau-Weiß Linz                   2-2 TSV Hartberg                        [aet, 5-4 pen]
+SV Stripfing/Weiden                 0-2 LASK
+Kapfenberger SV 1919                1-3 SCR Altach
+[Oct 29]
+Admira Wacker Mödling               1-1 SK Sturm Graz                       [aet, 9-10 pen]
+SKN St. Pölten                      0-1 SK Rapid Wien
+SKU Amstetten                       2-3 Wolfsberger AC
+SC Schwarz-Weiß Bregenz             0-1 SV Ried
+[Oct 30]
+FC Red Bull Salzburg                3-1 WSG Tirol                           [aet]
+
+Quarterfinals
+[Jan 30]
+LASK                                3-2 FC Blau-Weiß Linz
+[Jan 31]
+SV Ried                             3-0 SK Rapid Wien
+[Feb 1]
+SCR Altach                          3-1 SK Sturm Graz                       [aet]
+Wolfsberger AC                      0-1 FC Red Bull Salzburg
+
+Semifinals
+[Mar 4]
+FC Red Bull Salzburg                0-1 SCR Altach
+[Mar 18]
+SV Ried                             1-2 LASK                                [aet]
+
+Final [May 1, Klagenfurt]
+SCR Altach                           -  LASK
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2024/25, see page oost2025›.
+
+‹list of final tables, see page oosthist›.
+
+‹list of champions, see page oostchamp›.
+
+‹list of cup finals, see page oostcuphist›.
+
+‹list of super cup finals, see page oostsupcuphist›.
+
+‹list of foundation dates, see page oostfound›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Hans Schöggl for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Hans Schöggl
+
+Last updated: 24 Mar 2026
+
+
+(C) Copyright Hans Schöggl and RSSSF 2025/26
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.
