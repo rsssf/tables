@@ -1,0 +1,182 @@
+  <!--
+     source: https://rsssf.org/tablesu/usa2011.html
+    -->
+  
+
+
+== USA 2011
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Major League Soccer, see §mls› (Division 1)
+‹US Open Cup, see §open›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Major League Soccer  ‹§mls›
+
+<!-- start pre -->
+‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
+
+Regular Season  ‹§reg›
+
+NB: Portland Timbers and Vancouver Whitecaps were added for 2011
+
+Final Tables:
+
+Eastern Conference
+ 1.Sporting Kansas City       34  13 12  9  50-40  51  [*]  ‹Eastern Semifinals, see §esemi›
+ 2.Houston Dynamo             34  12 13  9  45-41  49  ‹Eastern Semifinals, see §esemi›
+ 3.Philadelphia Union         34  11 15  8  44-36  48  ‹Eastern Semifinals, see §esemi›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Columbus Crew              34  13  8 13  43-44  47  ‹Wild Card Games, see §wcard›
+ 5.New York Red Bulls         34  10 16  8  50-44  46  ‹Wild Card Games, see §wcard›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Chicago Fire               34   9 16  9  46-45  43
+ 7.DC United                  34   9 12 13  49-52  39
+ 8.Toronto FC                 34   6 15 13  36-59  33
+ 9.New England Revolution     34   5 13 16  38-58  28
+[*] Kansas City Wizards were renamed Sporting Kansas City
+
+Western Conference
+ 1.Los Angeles Galaxy         34  19 10  5  48-28  67  ‹Western Semifinals, see §wsemi›
+ 2.Seattle Sounders           34  18  9  7  56-37  63  ‹Western Semifinals, see §wsemi›
+ 3.Real Salt Lake             34  15  8 11  44-36  53  ‹Western Semifinals, see §wsemi›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.FC Dallas                  34  15  7 12  42-39  52  ‹Wild Card Games, see §wcard›
+ 5.Colorado Rapids            34  12 13  9  44-41  49  ‹Wild Card Games, see §wcard›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Portland Timbers           34  11  9 14  40-48  42
+ 7.San Jose Earthquakes       34   8 14 12  40-45  38
+ 8.Chivas USA                 34   8 12 14  41-43  36
+ 9.Vancouver Whitecaps        34   6 10 18  35-55  28
+
+NB: top-3 of both conferences qualified for conference semifinals; and 4 next best teams
+    in overall table qualify for wild card game
+
+Championship Playoff  ‹§play›
+
+Wild Card Games  ‹§wcard›
+[Oct 26]
+FC Dallas              0-2 New York Red Bulls
+[Oct 27]
+Colorado Rapids        1-0 Columbus Crew
+
+NB: New York Red Bulls enter ‹Western Semifinals, see §wsemi›;
+    Colorado Rapids enter ‹Eastern Semifinals, see §esemi›
+
+Eastern Semifinals  ‹§esemi›
+
+First Legs [Oct 30]
+Philadelphia Union     1-2 Houston Dynamo
+Colorado Rapids        0-2 Sporting Kansas City
+
+Second Legs
+[Nov 2]
+Sporting Kansas City   2-0 Colorado Rapids
+[Nov 3]
+Houston Dynamo         1-0 Philadelphia Union
+
+Eastern Conference Final   ‹§efinal›
+
+[Nov 6]
+Sporting Kansas City   0-2 Houston Dynamo
+
+NB: Houston Dynamo to ‹MLS Cup 2011, see §mlscup›
+
+Western Semifinals  ‹§wsemi›
+
+First Legs
+[Oct 29]
+Real Salt Lake         3-0 Seattle Sounders
+[Oct 30]
+New York Red Bulls     0-1 Los Angeles Galaxy
+
+Second Legs
+[Nov 2]
+Seattle Sounders       2-0 Real Salt Lake
+[Nov 3]
+Los Angeles Galaxy     2-1 New York Red Bulls
+
+Western Conference Final   ‹§wfinal›
+
+[Nov 6]
+Los Angeles Galaxy     3-1 Real Salt Lake
+
+NB: Los Angeles Galaxy to ‹MLS Cup 2011, see §mlscup›
+
+
+MLS Cup 2011  ‹§mlscup›
+
+[Nov 20, Home Depot Center, Carson City, California]
+Los Angeles Galaxy     1-0 Houston Dynamo
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== US Open Cup  ‹§open›
+
+<!-- start pre -->
+Third Round [Jun 28]
+Columbus Crew          1-2 Richmond Kickers
+Rochester Rhinos       0-1 Chicago Fire
+New York Red Bulls     2-1 F.C. New York
+Sporting Kansas City   3-0 Chicago Fire Premier (PDL)
+FC Dallas              3-2 Orlando City
+Real Salt Lake         2-0 Wilmington Hammerheads
+Seattle Sounders FC    2-1 Kitsap Pumas
+Los Angeles Galaxy     2-1 Los Angeles Blues
+
+Quarterfinals
+[Jul 12]
+Chicago Fire           4-0 New York Red Bulls
+Sporting Kansas City   0-2 Richmond Kickers
+FC Dallas              2-0 Real Salt Lake
+[Jul 13]
+Seattle Sounders       3-1 Los Angeles Galaxy
+
+Semifinals [Aug 30]
+Chicago Fire           2-1 Richmond Kickers
+Seattle Sounders       1-0 FC Dallas
+
+Final [Oct 4]
+Seattle Sounders       2-0 Chicago Fire
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2010, see page usa2010›
+
+‹2012, see page usa2012›
+
+‹list of professional first division champions, see page usachamp›
+
+‹list of (all) league winners (leaguewise), see page usa-allchamp›
+
+‹list of (all) league winners (yearwise), see page usa-overview-champ›
+
+‹list of us open cup winners, see page usacuphist›
+
+‹list of (all) cup winners, see page usa-allcuphist›
+
+‹MLS all-time table, see page usaalltime›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Thanks to Martin Arenlind
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 24 Dec 2023
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2012/23
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

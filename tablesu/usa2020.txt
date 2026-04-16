@@ -1,0 +1,840 @@
+  <!--
+     source: https://rsssf.org/tablesu/usa2020.html
+    -->
+  
+
+
+== USA 2020
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Major League Soccer, see §mls› (Division 1)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Major League Soccer  ‹§mls›
+
+<!-- start pre -->
+‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay› | ‹MLS is Back Tournament, see §back›
+
+Regular Season  ‹§reg›
+
+NB: Inter Miami CF and Nashville SC were admitted
+
+Final Tables (based on points/match):
+
+Eastern Conference
+ 1.Philadelphia Union         23  14  5  4  44-20  47            ‹Championship Playoff, see §play›
+ 2.Toronto FC                 23  13  5  5  33-26  44            ‹Championship Playoff, see §play›
+ 3.Columbus Crew              23  12  5  6  36-21  41            ‹Championship Playoff, see §play›
+ 4.Orlando City SC            23  11  8  4  40-25  41            ‹Championship Playoff, see §play›
+ 5.New York City FC           23  12  3  8  37-25  39            ‹Championship Playoff, see §play›
+ 6.New York Red Bulls         23   9  5  9  29-31  32            ‹Championship Playoff, see §play›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Nashville SC               23   8  8  7  24-22  32  [N]  [*]  ‹Preliminary Round, see §inplay›
+ 8.New England Revolution     23   8  8  7  26-25  32            ‹Preliminary Round, see §inplay›
+ 9.Montreal Impact            23   8  2 13  33-43  26            ‹Preliminary Round, see §inplay›
+10.Inter Miami CF             23   7  3 13  25-35  24  [N]       ‹Preliminary Round, see §inplay›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+11.Chicago Fire               23   5  8 10  33-39  23
+12.Atlanta United FC          23   6  4 13  23-30  22
+13.DC United                  23   5  6 12  25-41  21
+14.FC Cincinnati              23   4  4 15  12-36  16
+[*] on Jun 10, Nashville SC were moved from the Western to the Eastern Conference
+
+Western Conference
+ 1.Sporting Kansas City       21  12  3  6  38-25  39            ‹Championship Playoff, see §play›
+ 2.Seattle Sounders           22  11  6  5  44-23  39  [C]       ‹Championship Playoff, see §play›
+ 3.Portland Timbers           23  11  6  6  46-35  39            ‹Championship Playoff, see §play›
+ 4.Minnesota United FC        21   9  7  5  36-26  34            ‹Championship Playoff, see §play›
+ 5.Colorado Rapids            18   8  4  6  32-28  28            ‹Championship Playoff, see §play›
+ 6.FC Dallas                  22   9  7  6  28-24  34            ‹Championship Playoff, see §play›
+ 7.Los Angeles FC             22   9  5  8  47-39  32            ‹Championship Playoff, see §play›
+ 8.San Jose Earthquakes       23   8  6  9  35-51  30            ‹Championship Playoff, see §play›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Vancouver Whitecaps        23   9  0 14  27-44  27
+10.Los Angeles Galaxy         22   6  4 12  27-46  22
+11.Real Salt Lake             22   5  7 10  25-35  22
+12.Houston Dynamo             23   4  9 10  30-40  21
+
+NB: first tie-breaker: number of wins per match played
+
+Canadian Head-to-Head Records
+ 1.Toronto FC                  6   4  0  2   9- 5  12  ‹Qualified, see page ../tablesc/can2020.html#amway›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.Montreal Impact             6   3  0  3   9- 8   9
+ 3.Vancouver Whitecaps         6   2  0  4   8-13   6
+NB: the Canadian MLS clubs play each other three times; the club with the best
+    record in the head-to-head matches qualifies for the ‹Canadian Championship, see page ../tablesc/can2020.html#amway›
+
+Round 1
+[Feb 29]
+DC United              1-2 Colorado Rapids
+Montreal Impact        2-1 New England Revolution
+Houston Dynamo         1-1 Los Angeles Galaxy
+San Jose Earthquakes   2-2 Toronto FC
+FC Dallas              2-0 Philadelphia Union
+Orlando City SC        0-0 Real Salt Lake
+Nashville SC           1-2 Atlanta United FC
+Vancouver Whitecaps    1-3 Sporting Kansas City
+[Mar 1]
+Columbus Crew          1-0 New York City FC
+New York Red Bulls     3-2 FC Cincinnati
+Seattle Sounders       2-1 Chicago Fire
+Los Angeles FC         1-0 Inter Miami CF
+Portland Timbers       1-3 Minnesota United FC
+
+Round 2
+[Mar 7]
+New England Revolution 1-1 Chicago Fire
+Real Salt Lake         1-1 New York Red Bulls
+FC Dallas              2-2 Montreal Impact
+DC United              2-1 Inter Miami CF
+Toronto FC             1-0 New York City FC
+Atlanta United FC      2-1 FC Cincinnati
+San Jose Earthquakes   2-5 Minnesota United FC
+Sporting Kansas City   4-0 Houston Dynamo
+Colorado Rapids        2-1 Orlando City SC
+Seattle Sounders       1-1 Columbus Crew
+Los Angeles Galaxy     0-1 Vancouver Whitecaps
+[Mar 8]
+Portland Timbers       1-0 Nashville SC
+Los Angeles FC         3-3 Philadelphia Union
+
+Tables at suspension:
+
+Eastern Conference
+ 1.Atlanta United FC           2   2  0  0   4- 2   6
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.Montreal Impact             2   1  1  0   4- 3   4
+ 3.New York Red Bulls          2   1  1  0   4- 3   4
+ 4.Toronto FC                  2   1  1  0   3- 2   4
+ 5.Columbus Crew               2   1  1  0   2- 1   4
+ 6.DC United                   2   1  0  1   3- 3   3
+ 7.Chicago Fire                2   0  1  1   2- 3   1
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8.New England Revolution      2   0  1  1   2- 3   1
+ 9.Orlando City SC             2   0  1  1   1- 2   1
+10.Philadelphia Union          2   0  1  1   3- 5   1
+11.FC Cincinnati               2   0  0  2   3- 5   0
+12.Inter Miami CF              2   0  0  2   1- 3   0  [N]
+13.New York City FC            2   0  0  2   0- 2   0
+
+Western Conference
+ 1.Sporting Kansas City        2   2  0  0   7- 1   6
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.Minnesota United FC         2   2  0  0   8- 3   6
+ 3.Colorado Rapids             2   2  0  0   4- 2   6
+ 4.FC Dallas                   2   1  1  0   4- 2   4
+ 5.Los Angeles FC              2   1  1  0   4- 3   4
+ 6.Seattle Sounders            2   1  1  0   3- 2   4  [C]
+ 7.Portland Timbers            2   1  0  1   2- 3   3
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8.Vancouver Whitecaps         2   1  0  1   2- 3   3
+ 9.Real Salt Lake              2   0  2  0   1- 1   2
+10.Los Angeles Galaxy          2   0  1  1   1- 2   1
+11.San Jose Earthquakes        2   0  1  1   4- 7   1
+12.Houston Dynamo              2   0  1  1   1- 5   1
+13.Nashville SC                2   0  0  2   1- 3   0  [N]
+
+NB: league suspended due to Covid-19 pandemic; it was resumed with a
+    one-off ‹MLS is Back tournament, see §back› played in Florida;
+    the group matches of the MLS is Back tournament, played Jul 8-23,
+    also counted for the regular season:
+
+[Jul 8]
+Orlando City SC        2-1 Inter Miami CF
+[Jul 9]
+New York City FC       0-1 Philadelphia Union
+Montreal Impact        0-1 New England Revolution
+[Jul 10]
+Seattle Sounders       0-0 San Jose Earthquakes
+[Jul 11]
+Atlanta United FC      0-1 New York Red Bulls
+FC Cincinnati          0-4 Columbus Crew
+[Jul 12]
+Sporting Kansas City   1-2 Minnesota United FC
+Real Salt Lake         2-0 Colorado Rapids
+[Jul 13]
+Toronto FC             2-2 DC United
+Los Angeles FC         3-3 Houston Dynamo
+Los Angeles Galaxy     1-2 Portland Timbers
+[Jul 14]
+New York City FC       1-3 Orlando City SC
+Philadelphia Union     2-1 Inter Miami CF
+Chicago Fire           2-1 Seattle Sounders
+[Jul 15]
+Vancouver Whitecaps    3-4 San Jose Earthquakes
+[Jul 16]
+Montreal Impact        3-4 Toronto FC
+Atlanta United FC      0-1 FC Cincinnati
+Columbus Crew          2-0 New York Red Bulls
+[Jul 17]
+DC United              1-1 New England Revolution
+Sporting Kansas City   3-2 Colorado Rapids
+Real Salt Lake         0-0 Minnesota United FC
+[Jul 18]
+Portland Timbers       2-1 Houston Dynamo
+Los Angeles FC         6-2 Los Angeles Galaxy
+[Jul 19]
+Chicago Fire           0-2 San Jose Earthquakes
+Seattle Sounders       3-0 Vancouver Whitecaps
+[Jul 20]
+Inter Miami CF         0-1 New York City FC
+Philadelphia Union     1-1 Orlando City SC
+[Jul 21]
+Toronto FC             0-0 New England Revolution
+Montreal Impact        1-0 DC United
+Atlanta United FC      0-1 Columbus Crew
+[Jul 22]
+Real Salt Lake         0-2 Sporting Kansas City
+Colorado Rapids        2-2 Minnesota United FC
+FC Cincinnati          2-0 New York Red Bulls
+[Jul 23]
+Chicago Fire           0-2 Vancouver Whitecaps
+Los Angeles Galaxy     1-1 Houston Dynamo
+Los Angeles FC         2-2 Portland Timbers
+
+[Aug 12]
+FC Dallas              0-1 Nashville SC
+[Aug 16]
+FC Dallas              0-0 Nashville SC
+
+[Aug 18]
+Toronto FC             3-0 Vancouver Whitecaps    [also for ‹Canadian Championship, see §can›]
+
+[Aug 20]
+New York Red Bulls     1-0 New York City FC
+Columbus Crew          3-0 Chicago Fire
+New England Revolution 0-0 Philadelphia Union
+[Aug 21]
+FC Cincinnati          0-0 DC United
+Minnesota United FC    1-2 Sporting Kansas City
+Houston Dynamo         0-0 FC Dallas
+Toronto FC             1-0 Vancouver Whitecaps    [also for ‹Canadian Championship, see §can›]
+[Aug 22]
+Los Angeles FC         0-2 Los Angeles Galaxy
+Atlanta United FC      2-0 Nashville SC
+Inter Miami CF         3-2 Orlando City SC
+Colorado Rapids        1-4 Real Salt Lake
+[Aug 23]
+Portland Timbers       0-3 Seattle Sounders
+
+[Aug 24]
+New York City FC       1-0 Columbus Crew
+[Aug 25]
+DC United              1-2 New England Revolution
+Chicago Fire           3-0 FC Cincinnati
+Philadelphia Union     1-0 New York Red Bulls
+Montreal Impact        2-0 Vancouver Whitecaps    [also for ‹Canadian Championship, see §can›]
+Sporting Kansas City   2-5 Houston Dynamo
+[Aug 26]
+Orlando City SC        3-1 Nashville SC
+
+[Aug 28]
+Montreal Impact        0-1 Toronto FC             [also for ‹Canadian Championship, see §can›]
+[Aug 29]
+Atlanta United FC      1-3 Orlando City SC
+FC Cincinnati          0-0 Columbus Crew
+New York City FC       3-1 Chicago Fire
+Philadelphia Union     4-1 DC United
+New England Revolution 1-1 New York Red Bulls
+FC Dallas              3-1 Minnesota United FC
+Colorado Rapids        1-1 Sporting Kansas City
+Los Angeles Galaxy     3-2 San Jose Earthquakes
+Portland Timbers       4-4 Real Salt Lake
+[Aug 30]
+Nashville SC           1-0 Inter Miami CF
+Seattle Sounders       3-1 Los Angeles FC
+
+[Sep 1]
+Toronto FC             0-1 Montreal Impact        [also for ‹Canadian Championship, see §can›]
+[Sep 2]
+Atlanta United FC      0-0 Inter Miami CF
+Columbus Crew          1-0 Philadelphia Union
+FC Cincinnati          0-0 Chicago Fire
+New York Red Bulls     0-1 DC United
+Houston Dynamo         3-0 Minnesota United FC
+New England Revolution 0-2 New York City FC
+Nashville SC           1-1 Orlando City SC
+Sporting Kansas City   1-1 FC Dallas
+Real Salt Lake         2-2 Seattle Sounders
+Portland Timbers       2-3 Los Angeles Galaxy
+Los Angeles FC         5-1 San Jose Earthquakes
+
+[Sep 5]
+Houston Dynamo         2-1 Sporting Kansas City
+Orlando City SC        1-1 Atlanta United FC
+Vancouver Whitecaps    3-2 Toronto FC             [also for ‹Canadian Championship, see §can›]
+San Jose Earthquakes   1-1 Colorado Rapids
+[Sep 6]
+DC United              0-0 New York City FC
+New York Red Bulls     0-3 Philadelphia Union
+Chicago Fire           1-2 New England Revolution
+Columbus Crew          3-0 FC Cincinnati
+Inter Miami CF         0-0 Nashville SC
+Minnesota United FC    4-0 Real Salt Lake
+Seattle Sounders       1-2 Portland Timbers
+Los Angeles Galaxy     3-0 Los Angeles FC
+
+[Sep 9]
+Inter Miami CF         2-1 Atlanta United FC
+Minnesota United FC    3-2 FC Dallas
+Montreal Impact        1-2 Toronto FC             [also for ‹Canadian Championship, see §can›]
+Colorado Rapids        1-1 Houston Dynamo
+Real Salt Lake         3-0 Los Angeles FC
+[Sep 10]
+Seattle Sounders       7-1 San Jose Earthquakes
+
+[Sep 12]
+Chicago Fire           2-2 Columbus Crew
+DC United              0-2 New York Red Bulls
+New York City FC       2-1 FC Cincinnati
+Orlando City SC        2-1 Inter Miami CF
+Philadelphia Union     2-1 New England Revolution
+FC Dallas              2-1 Houston Dynamo
+Nashville SC           4-2 Atlanta United FC
+Real Salt Lake         0-5 Colorado Rapids
+[Sep 13]
+Sporting Kansas City   1-0 Minnesota United FC
+Vancouver Whitecaps    2-4 Montreal Impact        [also for ‹Canadian Championship, see §can›]
+Los Angeles FC         4-2 Portland Timbers
+San Jose Earthquakes   0-0 Los Angeles Galaxy
+
+[Sep 16]
+FC Dallas              4-1 Colorado Rapids
+San Jose Earthquakes   1-1 Portland Timbers
+Vancouver Whitecaps    3-1 Montreal Impact        [also for ‹Canadian Championship, see §can›]
+
+[Sep 18]
+Seattle Sounders       3-0 Los Angeles FC
+[Sep 19]
+Sporting Kansas City   2-3 FC Dallas
+New England Revolution 0-0 New York City FC
+Atlanta United FC      1-2 Inter Miami CF
+New York Red Bulls     0-1 FC Cincinnati
+DC United              2-2 Toronto FC
+Columbus Crew          2-0 Nashville SC
+Orlando City SC        4-1 Chicago Fire
+Houston Dynamo         2-2 Minnesota United FC
+Real Salt Lake         1-2 Vancouver Whitecaps
+San Jose Earthquakes   1-6 Portland Timbers
+Los Angeles Galaxy     0-2 Colorado Rapids
+[Sep 20]
+Montreal Impact        1-4 Philadelphia Union
+
+[Sep 23]
+New England Revolution 3-1 Montreal Impact
+Atlanta United FC      1-0 FC Dallas
+New York City FC       0-1 Toronto FC
+Chicago Fire           4-0 Houston Dynamo
+Columbus Crew          2-1 Minnesota United FC
+FC Cincinnati          0-0 Philadelphia Union
+Sporting Kansas City   1-2 Orlando City SC
+Inter Miami CF         1-4 New York Red Bulls
+Nashville SC           1-0 DC United
+Colorado Rapids        5-0 San Jose Earthquakes
+Real Salt Lake         2-0 Los Angeles Galaxy
+Portland Timbers       1-0 Seattle Sounders
+Los Angeles FC         6-0 Vancouver Whitecaps
+
+[Sep 26]
+Nashville SC           1-1 Houston Dynamo
+New York City FC       4-0 FC Cincinnati
+[Sep 27]
+DC United              0-2 New England Revolution
+New York Red Bulls     4-1 Montreal Impact
+Toronto FC             3-1 Columbus Crew
+Philadelphia Union     3-0 Inter Miami CF
+Chicago Fire           2-0 Atlanta United FC
+Minnesota United FC    0-0 Real Salt Lake
+FC Dallas              0-0 Orlando City SC
+Vancouver Whitecaps    0-1 Portland Timbers
+Los Angeles FC         1-2 San Jose Earthquakes
+Los Angeles Galaxy     1-3 Seattle Sounders
+
+[Oct 3]
+Orlando City SC        3-1 New York Red Bulls
+DC United              0-4 Atlanta United FC
+New England Revolution 0-0 Nashville SC
+Toronto FC             2-1 Philadelphia Union
+Montreal Impact        2-2 Chicago Fire
+Inter Miami CF         2-3 New York City FC
+Minnesota United FC    2-0 FC Cincinnati
+Houston Dynamo         1-2 Sporting Kansas City
+FC Dallas              2-2 Columbus Crew
+Seattle Sounders       3-1 Vancouver Whitecaps
+San Jose Earthquakes   2-1 Los Angeles Galaxy
+[Oct 4]
+Real Salt Lake         1-3 Los Angeles FC
+
+[Oct 6]
+Nashville SC           0-0 Minnesota United FC
+[Oct 7]
+Atlanta United FC      0-0 Orlando City SC
+New York Red Bulls     1-2 Inter Miami CF
+Columbus Crew          1-2 Montreal Impact
+New England Revolution 0-1 Toronto FC
+Philadelphia Union     3-0 FC Cincinnati
+Houston Dynamo         2-0 FC Dallas
+New York City FC       4-1 DC United
+Sporting Kansas City   1-0 Chicago Fire
+Seattle Sounders       2-1 Real Salt Lake
+Los Angeles Galaxy     3-6 Portland Timbers
+San Jose Earthquakes   3-0 Vancouver Whitecaps
+
+[Oct 10]
+Inter Miami CF         1-0 Houston Dynamo
+Atlanta United FC      0-1 New York Red Bulls
+Vancouver Whitecaps    2-1 Real Salt Lake
+[Oct 11]
+New York City FC       1-2 New England Revolution
+Los Angeles FC         3-1 Seattle Sounders
+Chicago Fire           2-1 DC United
+Sporting Kansas City   2-1 Nashville SC
+FC Cincinnati          0-1 Toronto FC
+Philadelphia Union     2-1 Montreal Impact
+Portland Timbers       3-0 San Jose Earthquakes
+
+[Oct 14]
+FC Cincinnati          2-1 Columbus Crew
+Montreal Impact        2-3 New England Revolution
+Orlando City SC        1-1 New York City FC
+Toronto FC             1-1 New York Red Bulls
+DC United              2-2 Philadelphia Union
+Houston Dynamo         1-3 Nashville SC
+Inter Miami CF         1-1 Atlanta United FC
+FC Dallas              1-0 Sporting Kansas City
+Real Salt Lake         2-1 Portland Timbers
+Vancouver Whitecaps    2-1 Los Angeles FC
+Los Angeles Galaxy     0-4 San Jose Earthquakes
+
+[Oct 17]
+Chicago Fire           2-2 Sporting Kansas City
+Montreal Impact        2-1 Inter Miami CF
+[Oct 18]
+Columbus Crew          3-1 New York City FC
+New York Red Bulls     1-1 Orlando City SC
+FC Cincinnati          1-2 DC United
+Toronto FC             1-0 Atlanta United FC
+Minnesota United FC    2-2 Houston Dynamo
+Portland Timbers       1-1 Los Angeles FC
+Los Angeles Galaxy     1-0 Vancouver Whitecaps
+San Jose Earthquakes   0-0 Seattle Sounders
+[Oct 19]
+New England Revolution 1-2 Philadelphia Union
+[Oct 20]
+Nashville SC           3-0 FC Dallas
+
+[Oct 22]
+Seattle Sounders       1-1 Portland Timbers
+[Oct 23]
+Nashville SC           1-1 New England Revolution
+[Oct 24]
+Inter Miami CF         2-1 Orlando City SC
+Atlanta United FC      1-2 DC United
+Philadelphia Union     5-0 Toronto FC
+FC Cincinnati          0-1 Minnesota United FC
+New York City FC       3-1 Montreal Impact
+Chicago Fire           2-2 New York Red Bulls
+Houston Dynamo         1-1 Columbus Crew
+Sporting Kansas City   4-0 Colorado Rapids
+Real Salt Lake         0-0 FC Dallas
+Vancouver Whitecaps    2-1 San Jose Earthquakes
+[Oct 25]
+Los Angeles FC         2-0 Los Angeles Galaxy
+
+[Oct 27]
+Montreal Impact        0-1 Nashville SC
+Vancouver Whitecaps    0-2 Seattle Sounders
+[Oct 28]
+New York Red Bulls     1-0 New England Revolution
+FC Cincinnati          0-1 Sporting Kansas City
+Toronto FC             0-1 New York City FC
+Philadelphia Union     2-1 Chicago Fire
+Orlando City SC        4-1 Atlanta United FC
+Minnesota United FC    2-1 Colorado Rapids
+DC United              1-0 Columbus Crew
+FC Dallas              2-1 Inter Miami CF
+Portland Timbers       5-2 Los Angeles Galaxy
+Los Angeles FC         2-1 Houston Dynamo
+San Jose Earthquakes   2-0 Real Salt Lake
+
+[Oct 31]
+FC Dallas              3-0 Houston Dynamo
+Nashville SC           1-1 Chicago Fire
+[Nov 1]
+Columbus Crew          2-1 Philadelphia Union
+Atlanta United FC      2-0 FC Cincinnati
+New York City FC       5-2 New York Red Bulls
+Montreal Impact        0-1 Orlando City SC
+Toronto FC             2-1 Inter Miami CF
+New England Revolution 4-3 DC United
+Colorado Rapids        3-1 Seattle Sounders
+Portland Timbers       1-0 Vancouver Whitecaps
+Los Angeles Galaxy     2-1 Real Salt Lake
+
+[Nov 4]
+Orlando City SC        2-1 Columbus Crew
+Minnesota United FC    2-2 Chicago Fire
+Nashville SC           0-1 FC Dallas
+Portland Timbers       0-1 Colorado Rapids
+Los Angeles Galaxy     1-1 Seattle Sounders
+San Jose Earthquakes   3-2 Los Angeles FC
+
+[Nov 8]
+Philadelphia Union     2-0 New England Revolution
+Inter Miami CF         2-1 FC Cincinnati
+DC United              2-3 Montreal Impact
+Orlando City SC        2-3 Nashville SC
+Chicago Fire           3-4 New York City FC
+Columbus Crew          2-1 Atlanta United FC
+New York Red Bulls     2-1 Toronto FC
+Seattle Sounders       4-1 San Jose Earthquakes
+Minnesota United FC    3-0 FC Dallas
+Real Salt Lake         0-2 Sporting Kansas City
+Vancouver Whitecaps    3-0 Los Angeles Galaxy
+Los Angeles FC         1-1 Portland Timbers
+Houston Dynamo         1-2 Colorado Rapids
+
+NB: the remaining 7 matches (all involving clubs from the Western
+    Conference) were not played.
+
+[not played]
+Colorado Rapids         -  Sporting Kansas City
+Minnesota United FC     -  Sporting Kansas City
+Colorado Rapids         -  Los Angeles FC
+Colorado Rapids         -  Los Angeles Galaxy
+Seattle Sounders        -  Colorado Rapids
+Minnesota United FC     -  FC Dallas
+Colorado Rapids         -  Real Salt Lake
+
+Final Tables (based on points/match):
+
+Eastern Conference
+ 1.Philadelphia Union         23  14  5  4  44-20  47            ‹Championship Playoff, see §play›
+ 2.Toronto FC                 23  13  5  5  33-26  44            ‹Championship Playoff, see §play›
+ 3.Columbus Crew              23  12  5  6  36-21  41            ‹Championship Playoff, see §play›
+ 4.Orlando City SC            23  11  8  4  40-25  41            ‹Championship Playoff, see §play›
+ 5.New York City FC           23  12  3  8  37-25  39            ‹Championship Playoff, see §play›
+ 6.New York Red Bulls         23   9  5  9  29-31  32            ‹Championship Playoff, see §play›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Nashville SC               23   8  8  7  24-22  32  [N]  [*]  ‹Preliminary Round, see §inplay›
+ 8.New England Revolution     23   8  8  7  26-25  32            ‹Preliminary Round, see §inplay›
+ 9.Montreal Impact            23   8  2 13  33-43  26            ‹Preliminary Round, see §inplay›
+10.Inter Miami CF             23   7  3 13  25-35  24  [N]       ‹Preliminary Round, see §inplay›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+11.Chicago Fire               23   5  8 10  33-39  23
+12.Atlanta United FC          23   6  4 13  23-30  22
+13.DC United                  23   5  6 12  25-41  21
+14.FC Cincinnati              23   4  4 15  12-36  16
+[*] on Jun 10, Nashville SC were moved from the Western to the Eastern Conference
+
+Western Conference
+ 1.Sporting Kansas City       21  12  3  6  38-25  39            ‹Championship Playoff, see §play›
+ 2.Seattle Sounders           22  11  6  5  44-23  39  [C]       ‹Championship Playoff, see §play›
+ 3.Portland Timbers           23  11  6  6  46-35  39            ‹Championship Playoff, see §play›
+ 4.Minnesota United FC        21   9  7  5  36-26  34            ‹Championship Playoff, see §play›
+ 5.Colorado Rapids            18   8  4  6  32-28  28            ‹Championship Playoff, see §play›
+ 6.FC Dallas                  22   9  7  6  28-24  34            ‹Championship Playoff, see §play›
+ 7.Los Angeles FC             22   9  5  8  47-39  32            ‹Championship Playoff, see §play›
+ 8.San Jose Earthquakes       23   8  6  9  35-51  30            ‹Championship Playoff, see §play›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Vancouver Whitecaps        23   9  0 14  27-44  27
+10.Los Angeles Galaxy         22   6  4 12  27-46  22
+11.Real Salt Lake             22   5  7 10  25-35  22
+12.Houston Dynamo             23   4  9 10  30-40  21
+
+NB: first tie-breaker: number of wins per match played
+
+Canadian Head-to-Head Records
+ 1.Toronto FC                  6   4  0  2   9- 5  12  ‹Qualified, see page ../tablesc/can2020.html#amway›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.Montreal Impact             6   3  0  3   9- 8   9
+ 3.Vancouver Whitecaps         6   2  0  4   8-13   6
+NB: the Canadian MLS clubs play each other three times; the club with the best
+    record in the head-to-head matches qualifies for the ‹Canadian Championship, see page ../tablesc/can2020.html#amway›
+
+
+Championship Playoff  ‹§chplay›
+
+NB: the playoffs are expanded to 18 clubs (all but the bottom-4 of both
+    conferences) instead of 14; start Nov 20
+
+Preliminary Round [Nov 20]  ‹§inplay›
+New England Revolution 2-1 Montreal Impact
+Nashville SC           3-0 Inter Miami CF
+
+Round 1  ‹§play›
+Western Conference
+[Nov 22]
+Sporting Kansas City   3-3 San Jose Earthquakes   [aet, 3-0 pen]
+Minnesota United FC    3-0 Colorado Rapids
+Portland Timbers       1-1 FC Dallas              [aet, 7-8 pen]
+[Nov 24]
+Seattle Sounders       3-1 Los Angeles FC
+Eastern Conference
+[Nov 21]
+Orlando City SC        1-1 New York City FC       [aet, 6-5 pen]
+Columbus Crew          3-2 New York Red Bulls
+[Nov 24]
+Toronto FC             0-1 Nashville SC           [aet]
+Philadelphia Union     0-2 New England Revolution
+
+Quarterfinals
+Eastern Conference [Nov 29]
+Orlando City SC        1-3 New England Revolution
+Columbus Crew          2-0 Nashville SC           [aet]
+Western Conference
+[Dec 1]
+Seattle Sounders       1-0 FC Dallas
+[Dec 3]
+Sporting Kansas City   0-3 Minnesota United FC
+
+Semifinals
+Eastern Conference [Dec 6]
+Columbus Crew          1-0 New England Revolution
+Western Conference [Dec 7]
+Seattle Sounders       3-2 Minnesota United FC
+
+MLS Cup [Dec 12, Mapfre Stadium, Columbus, Ohio]
+Columbus Crew          3-0 Seattle Sounders
+  [Lucas Zelarayán 25, 82, Derrick Etienne 31]
+
+MLS is Back tournament  ‹§back›
+
+NB: all matches in Bay Lake, Florida (near Orlando);
+    the group matches (Jul 8-23) also counted for the ‹Regular Season, see §reg›
+
+‹Group Stage, see §backgrp› | ‹Knock-Out Stage, see §backko›
+
+Group Stage  ‹§backgrp›
+
+Group A
+
+Round 1
+[Jul 8]
+Orlando City SC        2-1 Inter Miami CF
+[Jul 9]
+New York City FC       0-1 Philadelphia Union
+
+Round 2 [Jul 14]
+New York City FC       1-3 Orlando City SC
+Philadelphia Union     2-1 Inter Miami CF
+
+Round 3 [Jul 20]
+Inter Miami CF         0-1 New York City FC
+Philadelphia Union     1-1 Orlando City SC
+
+Final Table:
+
+ 1.Orlando City SC             3   2  1  0   6- 3   7  ‹Qualified, see §backko›
+ 2.Philadelphia Union          3   2  1  0   4- 2   7  ‹Qualified, see §backko›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.New York City FC            3   1  0  2   2- 4   3  ‹Qualified, see §backko›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Inter Miami CF              3   0  0  3   2- 5   0
+ -.Chicago Fire               moved to Group B after withdrawals Dallas and Nashville
+ -.Nashville SC               withdrawn Jul 9 after 9 players tested positive for Covid-19
+
+Group B
+
+Round 1
+[Jul 10]
+Seattle Sounders       0-0 San Jose Earthquakes
+[Jul 23]
+Chicago Fire           0-2 Vancouver Whitecaps
+
+Round 2
+[Jul 14]
+Chicago Fire           2-1 Seattle Sounders
+[Jul 15]
+Vancouver Whitecaps    3-4 San Jose Earthquakes
+
+Round 3 [Jul 19]
+Chicago Fire           0-2 San Jose Earthquakes
+Seattle Sounders       3-0 Vancouver Whitecaps
+
+Final Table:
+
+ 1.San Jose Earthquakes        3   2  1  0   6- 3   7  ‹Qualified, see §backko›
+ 2.Seattle Sounders            3   1  1  1   4- 2   4  ‹Qualified, see §backko›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Vancouver Whitecaps         3   1  0  2   5- 7   3  ‹Qualified, see §backko›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Chicago Fire                3   1  0  2   2- 5   3
+ -.FC Dallas                  withdrawn Jul 6 after 10 players tested positive for Covid-19
+
+Group C
+
+Round 1
+[Jul 9]
+Montreal Impact        0-1 New England Revolution
+[Jul 13]
+Toronto FC             2-2 DC United
+
+Round 2
+[Jul 16]
+Montreal Impact        3-4 Toronto FC
+[Jul 17]
+DC United              1-1 New England Revolution
+
+Round 3 [Jul 21]
+Toronto FC             0-0 New England Revolution
+Montreal Impact        1-0 DC United
+
+Final Table:
+
+ 1.Toronto FC                  3   1  2  0   6- 5   5  ‹Qualified, see §backko›
+ 2.New England Revolution      3   1  2  0   2- 1   5  ‹Qualified, see §backko›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Montreal Impact             3   1  0  2   4- 5   3  ‹Qualified, see §backko›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.DC United                   3   0  2  1   3- 4   2
+
+Group D
+
+Round 1 [Jul 12]
+Sporting Kansas City   1-2 Minnesota United FC
+Real Salt Lake         2-0 Colorado Rapids
+
+Round 2 [Jul 17]
+Sporting Kansas City   3-2 Colorado Rapids
+Real Salt Lake         0-0 Minnesota United FC
+
+Round 3 [Jul 22]
+Real Salt Lake         0-2 Sporting Kansas City
+Colorado Rapids        2-2 Minnesota United FC
+
+Final Table:
+
+ 1.Sporting Kansas City        3   2  0  1   6- 4   6  ‹Qualified, see §backko›
+ 2.Minnesota United FC         3   1  2  0   4- 3   5  ‹Qualified, see §backko›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Real Salt Lake              3   1  1  1   2- 2   4  ‹Qualified, see §backko›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Colorado Rapids             3   0  1  2   4- 7   1
+
+Group E
+
+Round 1 [Jul 11]
+Atlanta United FC      0-1 New York Red Bulls
+FC Cincinnati          0-4 Columbus Crew
+
+Round 2 [Jul 16]
+Atlanta United FC      0-1 FC Cincinnati
+Columbus Crew          2-0 New York Red Bulls
+
+Round 3
+[Jul 21]
+Atlanta United FC      0-1 Columbus Crew
+[Jul 22]
+FC Cincinnati          2-0 New York Red Bulls
+
+Final Table:
+
+ 1.Columbus Crew               3   3  0  0   7- 0   9  ‹Qualified, see §backko›
+ 2.FC Cincinnati               3   2  0  1   3- 4   6  ‹Qualified, see §backko›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.New York Red Bulls          3   1  0  2   1- 4   3
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Atlanta United FC           3   0  0  3   0- 3   0
+NB: New York Red Bulls eliminated as second worst third-placed team
+
+Group F
+
+Round 1 [Jul 13]
+Los Angeles FC         3-3 Houston Dynamo
+Los Angeles Galaxy     1-2 Portland Timbers
+
+Round 2 [Jul 18]
+Portland Timbers       2-1 Houston Dynamo
+Los Angeles FC         6-2 Los Angeles Galaxy
+
+Round 3 [Jul 23]
+Los Angeles Galaxy     1-1 Houston Dynamo
+Los Angeles FC         2-2 Portland Timbers
+
+Final Table:
+
+ 1.Portland Timbers            3   2  1  0   6- 4   7  ‹Qualified, see §backko›
+ 2.Los Angeles FC              3   1  2  0  11- 7   5  ‹Qualified, see §backko›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Houston Dynamo              3   0  2  1   5- 6   2
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Los Angeles Galaxy          3   0  1  2   4- 9   1
+NB: Houston Dynamo eliminated as worst third-placed team
+
+Knock-Out Stage  ‹§backko›
+
+NB: contested by the top-2 of each group and the four best third placed teams;
+    no extra time played in case a match if drawn after 90 minutes
+
+1/8 Finals
+[Jul 25]
+Orlando City SC        1-0 Montreal Impact
+Philadelphia Union     1-0 New England Revolution
+[Jul 26]
+Toronto FC             1-3 New York City FC
+Sporting Kansas City   0-0 Vancouver Whitecaps    [3-1 pen]
+[Jul 27]
+San Jose Earthquakes   5-2 Real Salt Lake
+Seattle Sounders       1-4 Los Angeles FC
+[Jul 28]
+Columbus Crew          1-1 Minnesota United FC    [3-5 pen]
+Portland Timbers       1-1 FC Cincinnati          [4-2 pen]
+
+Quarterfinals
+[Jul 30]
+Philadelphia Union     3-1 Sporting Kansas City
+[Jul 31]
+Orlando City SC        1-1 Los Angeles FC         [5-4 pen]
+[Aug 1]
+San Jose Earthquakes   1-4 Minnesota United FC
+New York City FC       1-3 Portland Timbers
+
+Semifinals
+[Aug 5]
+Philadelphia Union     1-2 Portland Timbers
+[Aug 6]
+Orlando City SC        3-1 Minnesota United FC
+
+Final [Aug 11]
+Orlando City SC        1-2 Portland Timbers
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2019, see page usa2019›
+
+‹2021, see page usa2021›
+
+‹list of professional first division champions, see page usachamp›
+
+‹list of (all) league winners (leaguewise), see page usa-allchamp›
+
+‹list of (all) league winners (yearwise), see page usa-overview-champ›
+
+‹list of us open cup winners, see page usacuphist›
+
+‹list of (all) cup winners, see page usa-allcuphist›
+
+‹MLS all-time table, see page usaalltime›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 12 May 2021
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2020/21
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.
