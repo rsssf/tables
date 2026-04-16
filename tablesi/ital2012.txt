@@ -1,0 +1,428 @@
+  <!--
+     source: https://rsssf.org/tablesi/ital2012.html
+    -->
+  
+
+
+== Italy 2011/12
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Serie A, see §seriea›
+‹Coppa Italia, see §coppa›
+‹Serie B, see §serieb›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Serie A  ‹§seriea›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Juventus FC         38  23 15  0  68-20  84  Champions
+ 2.Milan AC            38  24  8  6  74-33  80
+ 3.Udinese Calcio      38  18 10 10  52-35  64
+ 4.SS Lazio            38  18  8 12  56-47  62
+ 5.SSC Napoli          38  16 13  9  66-46  61
+ 6.FC Internazionale   38  17  7 14  58-55  58
+ 7.AS Roma             38  16  8 14  60-54  56
+ 8.Parma FC            38  15 11 12  54-53  56
+ 9.Bologna FC          38  13 12 13  41-43  51
+10.AC Chievo Verona    38  12 13 13  35-45  49
+11.Calcio Catania      38  11 15 12  47-52  48
+12.Atalanta BC         38  13 13 12  41-43  46  [-6]
+13.AC Fiorentina       38  11 13 14  37-43  46
+14.AC Siena            38  11 11 16  45-45  44
+15.Cagliari Calcio     38  10 13 15  37-46  43
+16.US Città di Palermo 38  11 10 17  52-62  43
+17.Genoa CFC           38  11  9 18  50-69  42
+----------------------------------------------
+18.US Lecce            38   8 12 18  40-56  36  Relegated
+19.Novara Calcio       38   7 11 20  35-65  32  Relegated
+20.AC Cesena           38   4 10 24  24-60  22  Relegated
+
+Cross-Table:
+
+Atalanta BC              2-0 1-0 1-1 4-1 2-0 1-0 0-2 0-2 1-1 0-0 1-1 2-1 1-0 1-1 4-1 0-2 1-2 0-0 1-0
+Bologna FC           3-1     1-0 2-0 0-1 2-0 3-2 1-1 2-2 1-3 0-2 2-0 1-0 1-3 0-0 0-2 0-2 1-0 1-3 2-2
+Cagliari Calcio      2-0 1-1     3-0 3-0 0-0 3-0 0-2 0-2 2-2 1-2 0-0 2-1 2-1 0-0 4-2 0-3 0-0 0-0 0-0
+Calcio Catania       2-0 0-1 0-1     1-0 1-0 4-0 1-1 1-1 2-1 1-2 2-1 3-1 2-0 1-1 1-1 1-0 0-0 0-2 1-2
+AC Cesena            0-1 0-0 1-1 0-0     0-0 2-0 0-1 1-3 0-1 0-1 1-3 3-1 2-2 2-2 2-3 1-2 0-2 0-1 0-0
+AV Fiorentina        2-2 2-0 0-0 2-2 2-0     1-0 0-5 0-0 0-0 0-1 0-3 2-2 0-0 3-0 3-0 1-2 2-1 3-2 1-2
+Genoa CFC            2-2 2-1 2-1 3-0 1-1 2-2     0-0 0-2 0-1 0-0 3-2 1-0 2-0 2-2 2-1 3-2 1-4 3-2 0-1
+Juventus FC          3-1 1-1 1-1 3-1 2-0 2-1 2-2     2-0 2-0 1-1 3-0 2-0 3-0 4-1 4-0 2-1 0-0 2-1 1-1
+Milan AC             2-0 1-1 3-0 4-0 1-0 1-2 1-0 1-1     0-1 2-0 0-0 2-1 3-0 4-1 2-1 2-2 2-0 1-1 4-0
+FC Internazionale    0-0 0-3 2-1 2-2 2-1 2-0 5-4 1-2 4-2     4-1 0-3 0-1 4-4 5-0 0-0 2-1 2-1 0-1 1-0
+US Lecce             1-2 0-0 0-2 0-1 0-0 0-1 2-2 0-1 3-4 1-0     0-2 1-1 1-1 1-2 4-2 2-3 4-1 0-2 2-2
+SSC Napoli           1-3 1-1 6-3 2-2 0-0 0-0 6-1 3-3 3-1 1-0 4-2     2-0 2-0 1-2 1-3 0-0 2-1 2-0 2-0
+Novara Calcio        0-0 0-2 0-0 3-3 3-0 0-3 1-1 0-4 0-3 3-1 0-0 1-1     2-2 2-1 0-2 2-1 1-1 1-0 1-2
+US Citta di Palermo  2-1 3-1 3-2 1-1 0-1 2-0 5-3 0-2 0-4 4-3 2-0 1-3 2-0     1-2 0-1 5-1 2-0 1-1 4-4
+Parma FC             1-2 1-0 3-0 3-3 2-0 2-2 3-1 0-0 0-2 3-1 3-3 1-2 2-0 0-0     0-1 3-1 3-1 2-0 2-1
+AS Roma              3-1 1-1 1-2 2-2 5-1 1-2 1-0 1-1 2-3 4-0 2-1 2-2 5-2 1-0 1-0     1-2 1-1 3-1 2-0
+SS Lazio             2-0 1-3 1-0 1-1 3-2 1-0 1-2 0-1 2-0 3-1 1-1 3-1 3-0 0-0 1-0 2-1     1-1 2-2 0-0
+AC Siena             2-2 1-1 3-0 0-1 2-0 0-0 0-2 0-1 1-4 0-1 3-0 1-1 0-2 4-1 0-2 1-0 4-0     1-0 4-1
+Udinese Calcio       0-0 2-0 0-0 2-1 4-1 2-0 2-0 0-0 1-2 1-3 2-1 2-2 3-0 1-0 3-1 2-0 2-0 2-1     2-1
+AC Chievo Verona     0-0 0-1 2-0 3-2 1-0 1-0 2-1 0-0 0-1 0-2 1-0 1-0 2-2 1-0 1-2 0-0 0-3 1-1 0-0
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Coppa Italia  ‹§coppa›
+
+<!-- start pre -->
+First Round
+[Aug 6]
+Piacenza            3-0 Pontedera
+ [Guerra 53, 71, 90]
+Spezia              3-0 Saint-Christophe S
+ [Papini 25, Iunco 43, Evacuo 90+2]
+FeralpiSalò         1-2 Taranto
+ [Savoia 64; Guazzo 17, Girardi 84]
+[Aug 7]
+Alessandria         1-0 Casertana
+ [Martini 39]
+Barletta            0-1 Carrarese
+ [Cori 83]
+Como                1-2 Prato
+ [Lamma 76og; Patacchiola 13, Silva Reis 23]
+Foggia              3-0 Trapani
+ [Tiboni 18, Lanzoni 45+2, Venitucci 90+3pen]
+Lumezzane           4-1 Pro Patria
+ [Ferrari 9, Inglese 19, 38, 64; Gjoni 45]
+Benevento           1-1 Tritium                       [aet, 4-3 pen]
+ [Vacca 16; Malgrati 73]
+Virtus Lanciano     1-2 Castel Rigone
+ [Mammarella 59; De Luca 16, Tranchitella 35]
+Latina              0-1 L'Aquila
+ [Garaffoni 40]
+Portogruaro         0-3 Avellino
+ [De Angelis 27, Quintero Herrera 47, 89]
+Triestina           2-0 Voghera
+ [Princivalli 24, Godeas 26]
+Frosinone           3-0 Pomigliano
+ [Bottone 40, Vitale 50, Tavares 57]
+Pisa                3-0 Bacoli Sibilla Flegrea
+ [Carparelli 45+1pen, Favasuli 72, Obodo II 90+3]
+Siracusa            1-0 Teramo
+ [Fofana 87]
+Reggiana            1-2 Carpi
+ [Alessi 80pen; Perini 33, Concas 47]
+Sorrento            4-1 Tamai
+ [Carlini 57, Ginestra 79, 83, Terra 90; Grandin 67]
+
+Second Round
+[Aug 13]
+Cittadella          3-2 Pisa                          [aet]
+ [Raimondi 32og, Schiavon 57, L. Martinelli 108; Carparelli 21, Tremolada 41]
+Modena              4-0 Frosinone
+ [Greco 8pen, 18, 32, Turati 35]
+Brescia             5-0 L'Aquila
+ [Ruggiero 34og, Jonathas 41, Feczesin 52, 59, De Maio 75]
+Livorno             3-1 Siracusa
+ [Paulinho 36, 48, Dionisi 74; Longoni 14]
+Reggina             1-0 Carrarese
+ [Missiroli 18pen]
+Torino              1-0 Lumezzane
+ [Antenucci 64]
+[Aug 14]
+Sassuolo            2-1 Juve Stabia
+ [Troiano 11, Boakye 90+1; Mbakogu 63]
+Vicenza             1-2 Verona
+ [Alemao 85; Abbate 37, Hallfredsson 70]
+Pescara             2-2 Triestina                     [aet, 9-10 pen]
+ [Insigne 87, 90+3; Princivalli 31pen, Godeas 82]
+AlbinoLeffe         2-1 Castel Rigone
+ [Guastalvino 34og, Laner 49; Tranchitella 9]
+Ascoli              3-1 Taranto                       [aet]
+ [Sbaffo 1, Beretta 113, 115; Prosperi 8]
+Varese              0-1 Avellino
+ [Correa 11]
+Empoli              4-1 Piacenza
+ [Tavano 31, 57, Coralli 54, Tonelli 60; Guzman 23]
+Padova              4-2 Carpi
+ [Legati 14, Lazarevic 26, Cutolo 28, 85; Memushaj 27, Concas 49]
+Bari                1-0 Spezia
+ [Masiello 90+4]
+Crotone             1-0 Sorrento
+ [Galardo 79]
+Grosseto            3-2 Prato
+ [Sforzini 59, Lupoli 66, Caridi 78; Cavagna 3, Marongiu 40]
+Gubbio              2-2 Benevento                     [aet, 3-2 pen]
+ [Ciofani 21pen, Giannetti 92; Germinale 72, Falzarano 114]
+Nocerina            2-0 Foggia
+ [Castaldo 4, 37]
+Sampdoria           3-2 Alessandria                   [aet]
+ [Maccarone 13, Accardi 85, Sammarco 95; Simeoni 55, Martini 90+1]
+
+Third Round
+[Aug 20]
+Genoa               4-3 Nocerina
+ [Palacio 14, 48, Pratto 16, Kaladze 90+1; Di Maio 38, Plasmati 53, Castaldo 87]
+Empoli              2-1 Sampdoria
+ [Buscé 48, Tavano 77pen; Pozzi 56]
+Sassuolo            3-3 Verona                        [aet, 2-4 pen]
+ [Boakye 17, Troiano 34, Laribi 88; Berrettoni 27, D'Alessandro 64, Ferrari 90+3]
+[Aug 21]
+Modena              2-1 Reggina
+ [Greco 5, Di Gennaro 83; Emerson 13]
+Fiorentina          2-1 Cittadella
+ [Gilardino 10, Cerci 47; Di Carmine 37]
+Cesena              1-0 Ascoli                        [aet]
+ [Bogdani 119]
+Atalanta            3-4 Gubbio
+ [Moralez 30, Tiribocchi 38, Gabbiadini 78; Padoin 23og, Giannetti 48, 52,
+  Raggio Garibaldi 87]
+Bari                4-0 Avellino
+ [Marotta 38, 90+2, Caputo 49, Donati 61]
+Bologna             2-1 Padova
+ [Portanova 68, Della Rocca 90+4; Italiano 2pen]
+Cagliari            5-1 AlbinoLeffe
+ [Nene 36pen, Larrivey 40, 51, 68, Conti 50; Torri 62]
+Catania             2-1 Brescia
+ [Lopez 38, Gomez 90+2; Jonathas 56]
+Chievo              1-0 Livorno
+ [Cesar 12]
+Lecce               0-2 Crotone
+ [Djuric 44, Ciano 50]
+Novara              4-0 Triestina
+ [D'Aiello 11og, Pinardi 56, Meggiorini 74, Gemiti 78]
+Parma               4-1 Grosseto
+ [Giovinco 45, Pellè 57, Crespo 73, 90+1; Paletta 80og]
+Siena               1-0 Torino
+ [Calaiò 80pen]
+
+Fourth Round
+[Nov 23]
+Bologna             4-2 Crotone
+ [Diamanti 17pen, Vantaggiato 48, Gimenez 49, Paponi 65; Sansone 71, Duric 80pen]
+Chievo              3-0 Modena
+ [Uribe 33, 45+2, Paloschi 48]
+[Nov 24]
+Fiorentina          2-1 Empoli
+ [Cerci 28, 37; Shekiladze 65]
+Genoa               3-2 Bari                          [aet]
+ [Birsa 37pen, Jorquera 90, Pratto 115; Borghese 38, Bellomo 90+2pen]
+Cagliari            1-2 Siena
+ [Sampaio 84; Gonzalez 16, Angelo 52]
+[Nov 29]
+Parma               0-2 Verona
+ [Ferrari 37, Gomez 61]
+Catania             2-3 Novara
+ [Capuano 3, Maxi Lopez 70; Granoche 68, Meggiorini 77, 90]
+[Nov 30]
+Cesena              3-0 Gubbio
+ [Bogdani 17pen, Benalouane 68, Candreva 90+2]
+
+Fifth Round
+[Dec 8]
+Juventus            2-1 Bologna                       [aet]
+ [Giaccherini 90, Marchisio 102; Raggi 90+6]
+[Dec 13]
+Palermo             4-4 Siena                         [aet, 0-3 pen]
+ [Ilicic 39pen, 46, 90+2pen, Bertolo 98; Reginaldo 21, 59, Gonzalez 40, Angelo 100]
+[Jan 10]
+Lazio               3-2 Verona
+ [Dias 44, Rocchi 57, Hernanes 90+1; Berrettoni 61, D'Alessandro 74]
+[Jan 11]
+Udinese             1-2 Chievo
+ [Di Natale 84; Sammarco 8, Thereau 90+1]
+Roma                3-0 Fiorentina
+ [Lamela 53, 66, Borini 75]
+[Jan 12]
+Napoli              2-1 Cesena
+ [Cavani 65, Pandev 86; Popescu 20]
+[Jan 18]
+Milan               2-1 Novara                        [aet]
+ [El Shaarawy 24, Pato 100; Radovanovic 88]
+[Jan 19]
+Inter               2-1 Genoa
+ [Maicon 8, Poli 50; Birsa 90+2]
+
+Quarterfinals
+[Jan 24]
+Juventus            3-0 Roma
+ [Giaccherini 6, Del Piero 30, Kjaer 90og]
+[Jan 25]
+Chievo              0-1 Siena
+ [Destro 54]
+Napoli              2-0 Inter
+ [Cavani 50pen, 90+3]
+[Jan 26]
+Milan               3-1 Lazio
+ [Robinho 15, Seedorf 18, Ibrahimovic 84; Cissé 5]
+
+Semifinals
+
+First Legs
+[Feb 8]
+Milan               1-2 Juventus
+ [El Shaarawy 62; Caceres 53, 83]
+[Feb 9]
+Siena               2-1 Napoli
+ [Reginaldo 42, D'Agostino 66; Pesoli 86og]
+
+Second Legs
+[Mar 20]
+Juventus            2-2 Milan                         [aet]
+ [Del Piero 28, Vucinic 96; Mesbah 51, Maxi Lopez 81]
+[Mar 21]
+Napoli              2-0 Siena
+ [Vergassola 10og, Cavani 31]
+
+Final [May 20, Roma]
+Napoli              2-0 Juventus
+ [Cavani 63pen, Hamsik 83]
+
+Napoli: De Sanctis, Campagnaro, Cannavaro, Aronica,
+ Maggio, Dzemaili, Inler, Zuniga, Hamsik (85 Dossena)
+ Lavezzi (72 Pandev), Cavani (90 Britos), Tr.: Mazzarri
+Juventus: Storari, Barzagli, Bonucci, Caceres, Pirlo,
+ Lichtsteiner (68 Pepe), Vidal, Marchisio, Estigarribia,
+ Del Piero (68 Vucinic), Borriello (72 Quagliarella).
+ Tr.: Conte
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Serie B  ‹§serieb›
+
+<!-- start pre -->
+‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
+
+Regular Season  ‹§2reg›
+
+Final Table:
+
+ 1.Delfino Pescara     42  26  5 11  90-55  83  Promoted
+ 2.Torino FC           42  24 11  7  57-28  83  Promoted
+----------------------------------------------
+ 3.US Sassuolo         42  22 14  6  57-33  80  ‹Promotion Playoff, see §2prom›
+ 4.Hellas Verona FC    42  23  9 10  60-41  78  ‹Promotion Playoff, see §2prom›
+ 5.AS Varese           42  20 11 11  57-41  71  ‹Promotion Playoff, see §2prom›
+ 6.UC Sampdoria        42  17 16  9  53-34  67  ‹Promotion Playoff, see §2prom›
+ - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Calcio Padova       42  18  9 15  56-58  63
+ 8.Brescia Calcio      42  15 12 15  48-50  57
+ 9.SS Juve Stabia      42  16 13 13  53-49  57  [-4]
+10.Reggina Calcio      42  14 13 15  63-59  55
+11.FC Crotone          42  13 15 14  60-58  52  [-2]
+12.FC Modena           42  12 16 14  50-58  52
+13.AS Bari             42  14 14 14  47-48  50  [-6]
+14.US Grosseto         42  11 16 15  47-60  49
+15.Ascoli Calcio       42  15 11 16  47-50  49  [-7]
+16.AS Cittadella       42  13  9 20  51-64  48
+17.AS Livorno          42  12 12 18  49-49  48
+ - - - - - - - - - - - - - - - - - - - - - - -
+18.Empoli FC           42  12 11 19  48-59  47  ‹Relegation Playoff, see §2releg›
+19.Vicenza Calcio      42  10 14 18  43-61  44  ‹Relegation Playoff, see §2releg›
+ - - - - - - - - - - - - - - - - - - - - - - -
+20.ASG Nocerina        42  10 10 22  52-71  40  Relegated
+21.AS Gubbio           42   7 11 24  37-69  32  Relegated
+22.UC AlbinoLeffe      42   6 12 24  39-69  30  Relegated
+
+Cross-Table:
+
+UC Albinoleffe           1-0 0-2 0-2 1-1 1-3 0-2 2-2 0-0 1-2 0-4 2-1 2-2 1-0 1-1 1-1 1-3 2-3 0-0 1-2 1-1 0-1
+Ascoli Calcio        1-0     3-1 3-1 0-1 3-2 1-1 0-2 2-1 0-0 2-0 0-1 1-0 0-2 3-0 1-1 1-2 0-1 1-2 0-0 1-2 1-1
+AS Bari              2-3 0-0     2-2 2-2 1-1 1-0 1-1 3-0 0-0 1-0 0-1 1-1 3-1 0-2 2-1 1-1 1-2 0-0 0-0 0-1 2-2
+Brescia Calcio       1-3 0-1 1-3     2-0 3-0 2-1 2-1 2-2 0-0 1-3 0-0 2-0 1-2 0-3 0-3 0-0 1-2 1-0 1-2 2-1 2-0
+AS Cittadella        2-1 1-3 1-0 0-2     0-1 2-1 2-0 2-1 0-1 2-2 2-0 1-3 1-4 1-2 3-2 1-2 0-0 1-1 0-1 1-2 4-2
+FC Crotone           5-2 1-2 0-1 4-1 3-1     2-1 2-2 2-1 0-0 1-2 2-2 3-1 2-1 1-2 1-1 1-0 1-1 0-0 1-2 3-1 2-2
+Empoli FC            0-0 3-2 1-0 0-2 3-2 1-1     2-2 2-1 2-1 1-1 1-3 2-0 2-4 0-2 3-2 1-3 1-1 1-0 1-2 1-3 1-1
+US Grosseto          1-0 3-3 0-1 2-0 2-2 2-0 1-1     2-0 0-3 1-1 1-1 1-2 2-2 2-4 0-0 0-1 2-2 0-3 1-5 2-1 1-1
+AS Gubbio            1-2 2-3 2-2 0-2 1-0 3-3 0-1 4-0     0-0 1-2 2-0 2-1 1-0 0-2 1-3 0-0 0-1 1-0 0-0 1-1 1-1
+SS Juve Stabia       2-2 2-1 1-0 0-1 3-1 2-2 3-1 0-0 1-0     1-2 2-2 2-2 2-0 3-2 2-1 1-2 1-3 1-1 2-0 1-2 1-0
+AS Livorno           4-1 0-1 1-2 0-2 1-2 2-1 0-0 2-0 1-1 3-0     2-2 0-2 1-2 3-1 0-2 0-0 0-0 0-1 1-3 0-2 1-1
+FC Modena            0-0 2-0 0-1 1-1 3-0 1-1 0-2 2-1 1-1 3-0 1-0     2-0 2-1 3-2 3-3 0-2 2-5 2-1 2-2 1-1 0-3
+ASG Nocerina         1-0 0-1 1-1 1-1 0-1 0-2 2-1 1-2 2-1 2-3 2-2 1-1     3-0 2-4 0-4 4-2 0-1 1-2 2-4 3-1 2-2
+Calcio Padova        3-2 0-2 1-0 2-1 1-0 1-2 1-1 0-1 3-0 2-2 1-0 2-0 2-2     0-6 1-0 1-2 0-2 1-0 1-1 0-0 2-1
+Delfino Pescara      5-3 4-1 1-2 1-1 1-0 2-0 3-2 1-2 2-1 2-0 0-2 3-1 1-0 1-1     0-2 1-0 3-2 2-0 3-1 3-1 6-0
+Reggina Calcio       1-0 1-1 3-1 1-1 3-3 1-1 3-2 1-1 3-1 1-2 2-1 4-1 2-1 1-4 4-2     0-0 1-1 0-1 3-2 0-1 0-3
+UC Sampdoria         1-0 0-0 2-0 2-0 0-0 2-0 1-0 0-0 6-0 1-1 1-1 1-1 2-0 2-2 1-3 3-1     1-1 1-2 0-1 2-0 0-1
+US Sassuolo          1-0 0-0 1-2 1-1 2-0 2-0 1-0 1-0 0-2 2-1 2-1 0-0 3-1 0-1 1-1 4-1 0-0     0-0 0-0 2-0 4-2
+Torino FC            0-0 2-1 1-1 0-0 1-1 2-1 2-1 1-0 6-0 1-0 1-0 2-0 3-1 3-1 4-2 1-0 2-1 3-0     2-0 1-4 1-0
+AS Varese            2-1 4-0 0-2 2-2 0-1 0-0 0-1 1-3 1-0 2-1 0-2 0-0 2-1 3-0 2-1 2-0 3-1 0-1 0-0     0-0 3-0
+Hellas Verona FC     1-0 2-0 4-1 1-0 3-2 2-1 0-0 2-0 1-0 2-0 1-0 2-1 1-1 2-2 1-2 1-0 1-1 1-0 1-3 3-0     2-0
+Vicenza Calcio       2-1 1-1 3-1 0-1 1-4 1-1 1-0 0-1 3-1 0-3 1-1 2-1 0-1 0-1 1-1 0-0 1-1 0-1 0-1 0-2 2-1
+
+Promotion Playoff  ‹§2prom›
+
+Semifinals
+
+First Legs [May 30]
+Sampdoria   2-1 Sassuolo
+Varese      2-0 Verona
+
+Second Legs [Jun 2]
+Sassuolo    1-1 Sampdoria
+Verona      1-1 Varese
+
+Final
+
+First Leg [Jun 6]
+Sampdoria   3-2 Varese
+
+Second Leg [Jun 9]
+Varese      0-1 Sampdoria
+
+NB: Sampdoria promoted
+
+Relegation Playoff  ‹§2releg›
+
+First Leg [Jun 3]
+Vicenza     0-0 Empoli
+
+Second Leg [Jun 8]
+Empoli      3-2 Vicenza
+
+NB: Vicenza relegated but later readmitted to Serie B due to the forced
+    relegation of Lecce to the third level
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2010/11, see page ital2011›.
+
+‹2012/13, see page ital2013›.
+
+
+
+‹list of champions, see page italchamp›.
+
+‹list of 2nd division champions, see page ital2champ›.
+
+‹list of 3rd division champions, see page ital3champ›.
+
+‹list of final tables, see page italhist›.
+
+‹list of cup winners, see page italcuphist›.
+
+‹list of super cup winners, see page italsupcuphist›.
+
+‹list of topscorers, see page italtops›.
+
+‹list of 2nd division topscorers, see page ital2tops›.
+
+‹list of 3rd division topscorers, see page ital3tops›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Roberto Di Maggio, Jan Schoenmakers
+and Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Authors: Roberto Di Maggio, Jan Schoenmakers and Karel Stokkermans
+
+Last updated: 14 Jan 2021
+
+
+(C) Copyright Roberto Di Maggio,
+Jan Schoenmakers, Karel Stokkermans and RSSSF 2013/21
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.

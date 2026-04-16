@@ -1,0 +1,952 @@
+  <!--
+     source: https://rsssf.org/tablesi/ital2023.html
+    -->
+  
+
+
+== Italy 2022/23
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹Serie A, see §seriea›
+‹Coppa Italia, see §coppa›
+‹Serie B, see §serieb›
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Serie A  ‹§seriea›
+
+<!-- start pre -->
+Final Table:
+
+ 1.SSC Napoli          38  28  6  4  77-28  90                   Champions
+ 2.SS Lazio            38  22  8  8  60-30  74
+ 3.FC Internazionale   38  23  3 12  71-42  72
+ 4.Milan AC            38  20 10  8  64-43  70        [C]
+ 5.Atalanta BC         38  19  7 12  66-48  64
+ 6.AS Roma             38  18  9 11  50-38  63
+ 7.Juventus FC         38  22  6 10  56-33  62  [-10]
+ 8.AC Fiorentina       38  15 11 12  53-43  56
+ 9.Bologna FC          38  14 12 12  53-49  54
+10.Torino FC           38  14 11 13  42-41  53
+11.AC Monza            38  14 10 14  48-52  52        [P]
+12.Udinese Calcio      38  11 13 14  47-48  46
+13.US Sassuolo         38  12  9 17  47-61  45
+14.Empoli FC           38  10 13 15  37-49  43
+15.US Salernitana      38   9 15 14  48-62  42
+16.US Lecce            38   8 12 18  33-46  36        [P]
+17.Spezia Calcio       38   6 13 19  31-62  31  [2 1 1 0 2-1 4]  ‹Relegation Playoff, see §relpo›
+----------------------------------------------
+18.Hellas Verona FC    38   7 10 21  31-59  31  [2 0 1 1 1-2 1]  ‹Relegation Playoff, see §relpo›
+19.US Cremonese        38   5 12 21  36-69  27        [P]        Relegated
+20.UC Sampdoria        38   3 10 25  24-71  19                   Relegated
+
+NB: Juventus 10 points deducted (reduced from 15) for financial manipulations
+
+Round 1
+[Aug 13]
+Milan           4-2 Udinese
+Sampdoria       0-2 Atalanta
+Lecce           1-2 Inter
+Monza           1-2 Torino
+[Aug 14]
+Fiorentina      3-2 Cremonese
+Lazio           2-1 Bologna
+Salernitana     0-1 Roma
+Spezia          1-0 Empoli
+[Aug 15]
+Hellas Verona   2-5 Napoli
+Juventus        3-0 Sassuolo
+
+Round 2
+[Aug 20]
+Torino          0-0 Lazio
+Udinese         0-0 Salernitana
+Inter           3-0 Spezia
+Sassuolo        1-0 Lecce
+[Aug 21]
+Empoli          0-0 Fiorentina
+Napoli          4-0 Monza
+Atalanta        1-1 Milan
+Bologna         1-1 Hellas Verona
+[Aug 22]
+Roma            1-0 Cremonese
+Sampdoria       0-0 Juventus
+
+Round 3
+[Aug 26]
+Monza           1-2 Udinese
+Lazio           3-1 Inter
+[Aug 27]
+Cremonese       1-2 Torino
+Juventus        1-1 Roma
+Milan           2-0 Bologna
+Spezia          2-2 Sassuolo
+[Aug 28]
+Hellas Verona   0-1 Atalanta
+Salernitana     4-0 Sampdoria
+Fiorentina      0-0 Napoli
+Lecce           1-1 Empoli
+
+Round 4
+[Aug 30]
+Sassuolo        0-0 Milan
+Roma            3-0 Monza
+Inter           3-1 Cremonese
+[Aug 31]
+Empoli          1-1 Hellas Verona
+Sampdoria       1-1 Lazio
+Udinese         1-0 Fiorentina
+Juventus        2-0 Spezia
+Napoli          1-1 Lecce
+[Sep 1]
+Atalanta        3-1 Torino
+Bologna         1-1 Salernitana
+
+Round 5
+[Sep 3]
+Fiorentina      1-1 Juventus
+Milan           3-2 Inter
+Lazio           1-2 Napoli
+[Sep 4]
+Cremonese       0-0 Sassuolo
+Spezia          2-2 Bologna
+Hellas Verona   2-1 Sampdoria
+Udinese         4-0 Roma
+[Sep 5]
+Monza           0-2 Atalanta
+Salernitana     2-2 Empoli
+Torino          1-0 Lecce
+
+Round 6
+[Sep 10]
+Napoli          1-0 Spezia
+Inter           1-0 Torino
+Sampdoria       1-2 Milan
+[Sep 11]
+Atalanta        1-1 Cremonese
+Bologna         2-1 Fiorentina
+Lecce           1-1 Monza
+Sassuolo        1-3 Udinese
+Lazio           2-0 Hellas Verona
+Juventus        2-2 Salernitana
+[Sep 12]
+Empoli          1-2 Roma
+
+Round 7
+[Sep 16]
+Salernitana     1-2 Lecce
+[Sep 17]
+Bologna         0-1 Empoli
+Spezia          2-1 Sampdoria
+Torino          0-1 Sassuolo
+[Sep 18]
+Udinese         3-1 Inter
+Cremonese       0-4 Lazio
+Fiorentina      2-0 Hellas Verona
+Monza           1-0 Juventus
+Roma            0-1 Atalanta
+Milan           1-2 Napoli
+
+Round 8
+[Oct 1]
+Napoli          3-1 Torino
+Inter           1-2 Roma
+Empoli          1-3 Milan
+[Oct 2]
+Lazio           4-0 Spezia
+Lecce           1-1 Cremonese
+Sampdoria       0-3 Monza
+Sassuolo        5-0 Salernitana
+Atalanta        1-0 Fiorentina
+Juventus        3-0 Bologna
+[Oct 3]
+Hellas Verona   1-2 Udinese
+
+Round 9
+[Oct 8]
+Sassuolo        1-2 Inter
+Milan           2-0 Juventus
+Bologna         1-1 Sampdoria
+[Oct 9]
+Torino          1-1 Empoli
+Monza           2-0 Spezia
+Salernitana     2-1 Hellas Verona
+Udinese         2-2 Atalanta
+Cremonese       1-4 Napoli
+Roma            2-1 Lecce
+[Oct 1]
+Fiorentina      0-4 Lazio
+
+Round 10
+[Oct 15]
+Empoli          1-0 Monza
+Torino          0-1 Juventus
+Atalanta        2-1 Sassuolo
+[Oct 16]
+Inter           2-0 Salernitana
+Spezia          2-2 Cremonese
+Lazio           0-0 Udinese
+Napoli          3-2 Bologna
+Hellas Verona   1-2 Milan
+[Oct 17]
+Sampdoria       0-1 Roma
+Lecce           1-1 Fiorentina
+
+Round 11
+[Oct 21]
+Juventus        4-0 Empoli
+[Oct 22]
+Salernitana     1-0 Spezia
+Milan           4-1 Monza
+Fiorentina      3-4 Inter
+[Oct 23]
+Udinese         1-2 Torino
+Bologna         2-0 Lecce
+Atalanta        0-2 Lazio
+Roma            0-1 Napoli
+[Oct 24]
+Cremonese       0-1 Sampdoria
+Sassuolo        2-1 Hellas Verona
+
+Round 12
+[Oct 29]
+Napoli          4-0 Sassuolo
+Lecce           0-1 Juventus
+Inter           3-0 Sampdoria
+[Oct 30]
+Empoli          0-2 Atalanta
+Cremonese       0-0 Udinese
+Spezia          1-2 Fiorentina
+Lazio           1-3 Salernitana
+Torino          2-1 Milan
+[Oct 31]
+Hellas Verona   1-3 Roma
+Monza           1-2 Bologna
+
+Round 13
+[Nov 4]
+Udinese         1-1 Lecce
+[Nov 5]
+Empoli          1-0 Sassuolo
+Salernitana     2-2 Cremonese
+Atalanta        1-2 Napoli
+Milan           2-1 Spezia
+[Nov 6]
+Bologna         2-1 Torino
+Monza           2-0 Hellas Verona
+Sampdoria       0-2 Fiorentina
+Roma            0-1 Lazio
+Juventus        2-0 Inter
+
+Round 14
+[Nov 8]
+Napoli          2-0 Empoli
+Spezia          1-1 Udinese
+Cremonese       0-0 Milan
+[Nov 9]
+Lecce           2-1 Atalanta
+Sassuolo        1-1 Roma
+Fiorentina      2-1 Salernitana
+Inter           6-1 Bologna
+Torino          2-0 Sampdoria
+[Nov 10]
+Hellas Verona   0-1 Juventus
+Lazio           1-0 Monza
+
+Round 15
+[Nov 11]
+Empoli          2-0 Cremonese
+[Nov 12]
+Napoli          3-2 Udinese
+Sampdoria       0-2 Lecce
+Bologna         3-0 Sassuolo
+[Nov 13]
+Atalanta        2-3 Inter
+Roma            1-1 Torino
+Hellas Verona   1-2 Spezia
+Monza           3-0 Salernitana
+Milan           2-1 Fiorentina
+Juventus        3-0 Lazio
+
+Round 16 [Jan 4]
+Salernitana     1-2 Milan
+Sassuolo        1-2 Sampdoria
+Spezia          2-2 Atalanta
+Torino          1-1 Hellas Verona
+Roma            1-0 Bologna
+Lecce           2-1 Lazio
+Cremonese       0-1 Juventus
+Fiorentina      1-1 Monza
+Inter           1-0 Napoli
+Udinese         1-1 Empoli
+
+Round 17
+[Jan 7]
+Fiorentina      2-1 Sassuolo
+Juventus        1-0 Udinese
+Monza           2-2 Inter
+[Jan 8]
+Salernitana     1-1 Torino
+Spezia          0-0 Lecce
+Lazio           2-2 Empoli
+Sampdoria       0-2 Napoli
+Milan           2-2 Roma
+[Jan 9]
+Hellas Verona   2-0 Cremonese
+Bologna         1-2 Atalanta
+
+Round 18
+[Jan 13]
+Napoli          5-1 Juventus
+[Jan 14]
+Cremonese       2-3 Monza
+Lecce           2-2 Milan
+Inter           1-0 Hellas Verona
+[Jan 15]
+Sassuolo        0-2 Lazio
+Torino          0-1 Spezia
+Udinese         1-2 Bologna
+Atalanta        8-2 Salernitana
+Roma            2-0 Fiorentina
+[Jan 16]
+Empoli          1-0 Sampdoria
+
+Round 19
+[Jan 21]
+Hellas Verona   2-0 Lecce
+Salernitana     0-2 Napoli
+Fiorentina      0-1 Torino
+[Jan 22]
+Sampdoria       0-1 Udinese
+Monza           1-1 Sassuolo
+Spezia          0-2 Roma
+Juventus        3-3 Atalanta
+[Jan 23]
+Bologna         1-1 Cremonese
+Inter           0-1 Empoli
+[Jan 24]
+Lazio           4-0 Milan
+
+Halfway Table:
+
+ 1.SSC Napoli          19  16  2  1  46-14  50
+ 2.Milan AC            19  11  5  3  35-24  38  [C]
+ 3.SS Lazio            19  11  4  4  35-15  37
+ 4.FC Internazionale   19  12  1  6  38-25  37
+ 5.AS Roma             19  11  4  4  25-16  37
+ 6.Atalanta BC         19  10  5  4  37-23  35
+ 7.Udinese Calcio      19   7  7  5  27-21  28
+ 8.Torino FC           19   7  5  7  19-20  26
+ 9.Empoli FC           19   6  7  6  17-22  25
+10.Juventus FC         19  11  5  3  30-15  23  [-15]
+11.AC Fiorentina       19   6  5  8  21-25  23
+12.Bologna FC          19   6  5  8  24-30  23
+13.AC Monza            19   6  4  9  23-28  22  [P]
+14.US Lecce            19   4  8  7  18-22  20  [P]
+15.Spezia Calcio       19   4  6  9  17-30  18
+16.US Salernitana      19   4  6  9  23-37  18
+17.US Sassuolo         19   4  5 10  18-29  17
+----------------------------------------------
+18.Hellas Verona FC    19   3  3 13  17-31  12
+19.UC Sampdoria        19   2  3 14   8-32   9
+20.US Cremonese        19   0  8 11  14-33   8  [P]
+
+NB: Juventus 15 points deducted for financial manipulations (later reduced to 10)
+
+Round 20
+[Jan 27]
+Bologna         2-0 Spezia
+Lecce           1-2 Salernitana
+[Jan 28]
+Empoli          2-2 Torino
+Cremonese       1-2 Inter
+Atalanta        2-0 Sampdoria
+[Jan 29]
+Milan           2-5 Sassuolo
+Juventus        0-2 Monza
+Lazio           1-1 Fiorentina
+Napoli          2-1 Roma
+[Jan 30]
+Udinese         1-1 Hellas Verona
+
+Round 21
+[Feb 4]
+Cremonese       0-2 Lecce
+Roma            2-0 Empoli
+Sassuolo        1-0 Atalanta
+[Feb 5]
+Spezia          0-3 Napoli
+Torino          1-0 Udinese
+Fiorentina      1-2 Bologna
+Inter           1-0 Milan
+[Feb 6]
+Hellas Verona   1-1 Lazio
+Monza           2-2 Sampdoria
+[Feb 7]
+Salernitana     0-3 Juventus
+
+Round 22
+[Feb 10]
+Milan           1-0 Torino
+[Feb 11]
+Empoli          2-2 Spezia
+Lecce           1-1 Roma
+Lazio           0-2 Atalanta
+[Feb 12]
+Udinese         2-2 Sassuolo
+Bologna         0-1 Monza
+Juventus        1-0 Fiorentina
+Napoli          3-0 Cremonese
+[Feb 13]
+Hellas Verona   1-0 Salernitana
+Sampdoria       0-0 Inter
+
+Round 23
+[Feb 17]
+Sassuolo        0-2 Napoli
+[Feb 18]
+Sampdoria       1-2 Bologna
+Monza           0-1 Milan
+Inter           3-1 Udinese
+[Feb 19]
+Atalanta        1-2 Lecce
+Fiorentina      1-1 Empoli
+Salernitana     0-2 Lazio
+Spezia          0-2 Juventus
+Roma            1-0 Hellas Verona
+[Feb 20]
+Torino          2-2 Cremonese
+
+Round 24
+[Feb 25]
+Empoli          0-2 Napoli
+Lecce           0-1 Sassuolo
+[Feb 26]
+Bologna         1-0 Inter
+Salernitana     3-0 Monza
+Udinese         2-2 Spezia
+Milan           2-0 Atalanta
+[Feb 27]
+Hellas Verona   0-3 Fiorentina
+Lazio           1-0 Sampdoria
+[Feb 28]
+Cremonese       2-1 Roma
+Juventus        4-2 Torino
+
+Round 25
+[Mar 3]
+Napoli          0-1 Lazio
+[Mar 4]
+Monza           2-1 Empoli
+Atalanta        0-0 Udinese
+Fiorentina      2-1 Milan
+[Mar 5]
+Spezia          0-0 Hellas Verona
+Sampdoria       0-0 Salernitana
+Inter           2-0 Lecce
+Roma            1-0 Juventus
+[Mar 6]
+Sassuolo        3-2 Cremonese
+Torino          1-0 Bologna
+
+Round 26
+[Mar 10]
+Spezia          2-1 Inter
+[Mar 11]
+Empoli          0-1 Udinese
+Napoli          2-0 Atalanta
+Bologna         0-0 Lazio
+[Mar 12]
+Lecce           0-2 Torino
+Cremonese       0-2 Fiorentina
+Hellas Verona   1-1 Monza
+Roma            3-4 Sassuolo
+Juventus        4-2 Sampdoria
+[Mar 13]
+Milan           1-1 Salernitana
+
+Round 27
+[Mar 17]
+Sassuolo        1-0 Spezia
+Atalanta        2-1 Empoli
+[Mar 18]
+Monza           1-1 Cremonese
+Salernitana     2-2 Bologna
+Udinese         3-1 Milan
+[Mar 19]
+Sampdoria       3-1 Hellas Verona
+Fiorentina      1-0 Lecce
+Torino          0-4 Napoli
+Lazio           1-0 Roma
+Inter           0-1 Juventus
+
+Round 28
+[Apr 1]
+Cremonese       1-3 Atalanta
+Inter           0-1 Fiorentina
+Juventus        1-0 Hellas Verona
+[Apr 2]
+Bologna         3-0 Udinese
+Monza           0-2 Lazio
+Spezia          1-1 Salernitana
+Roma            3-0 Sampdoria
+Napoli          0-4 Milan
+[Apr 3]
+Empoli          1-0 Lecce
+Sassuolo        1-1 Torino
+
+Round 29
+[Apr 7]
+Salernitana     1-1 Inter
+Lecce           1-2 Napoli
+Milan           0-0 Empoli
+[Apr 8]
+Udinese         2-2 Monza
+Fiorentina      1-1 Spezia
+Atalanta        0-2 Bologna
+Sampdoria       2-3 Cremonese
+Hellas Verona   2-1 Sassuolo
+Torino          0-1 Roma
+Lazio           2-1 Juventus
+
+Round 30
+[Apr 14]
+Cremonese       1-0 Empoli
+Spezia          0-3 Lazio
+[Apr 15]
+Bologna         1-1 Milan
+Napoli          0-0 Hellas Verona
+Inter           0-1 Monza
+[Apr 16]
+Lecce           1-1 Sampdoria
+Torino          1-1 Salernitana
+Sassuolo        1-0 Juventus
+Roma            3-0 Udinese
+[Apr 17]
+Fiorentina      1-1 Atalanta
+
+Round 31
+[Apr 21]
+Hellas Verona   2-1 Bologna
+[Apr 22]
+Salernitana     3-0 Sassuolo
+Lazio           0-1 Torino
+Sampdoria       1-1 Spezia
+[Apr 23]
+Empoli          0-3 Inter
+Monza           3-2 Fiorentina
+Udinese         3-0 Cremonese
+Milan           2-0 Lecce
+Juventus        0-1 Napoli
+[Apr 24]
+Atalanta        3-1 Roma
+
+Round 32
+[Apr 28]
+Lecce           1-0 Udinese
+Spezia          0-2 Monza
+[Apr 29]
+Roma            1-1 Milan
+Torino          1-2 Atalanta
+[Apr 30]
+Inter           3-1 Lazio
+Cremonese       1-1 Hellas Verona
+Napoli          1-1 Salernitana
+Sassuolo        2-1 Empoli
+Fiorentina      5-0 Sampdoria
+Bologna         1-1 Juventus
+
+Round 33
+[May 3]
+Atalanta        3-2 Spezia
+Juventus        2-1 Lecce
+Salernitana     3-3 Fiorentina
+Sampdoria       0-2 Torino
+Milan           1-1 Cremonese
+Hellas Verona   0-6 Inter
+Monza           1-1 Roma
+Lazio           2-0 Sassuolo
+[May 4]
+Empoli          3-1 Bologna
+Udinese         1-1 Napoli
+
+Round 34
+[May 6]
+Milan           2-0 Lazio
+Roma            0-2 Inter
+Cremonese       2-0 Spezia
+[May 7]
+Atalanta        0-2 Juventus
+Torino          1-1 Monza
+Napoli          1-0 Fiorentina
+Lecce           0-1 Hellas Verona
+[May 8]
+Empoli          2-1 Salernitana
+Udinese         2-0 Sampdoria
+Sassuolo        1-1 Bologna
+
+Round 35
+[May 12]
+Lazio           2-2 Lecce
+[May 13]
+Salernitana     1-0 Atalanta
+Spezia          2-0 Milan
+Inter           4-2 Sassuolo
+[May 14]
+Hellas Verona   0-1 Torino
+Fiorentina      2-0 Udinese
+Monza           2-0 Napoli
+Bologna         0-0 Roma
+Juventus        2-0 Cremonese
+[May 15]
+Sampdoria       1-1 Empoli
+
+Round 36
+[May 19]
+Sassuolo        1-2 Monza
+[May 20]
+Cremonese       1-5 Bologna
+Atalanta        3-1 Hellas Verona
+Milan           5-1 Sampdoria
+[May 21]
+Lecce           0-0 Spezia
+Torino          1-1 Fiorentina
+Napoli          3-1 Inter
+Udinese         0-1 Lazio
+[May 22]
+Roma            2-2 Salernitana
+Empoli          4-1 Juventus
+
+Round 37
+[May 26]
+Sampdoria       2-2 Sassuolo
+[May 27]
+Salernitana     3-2 Udinese
+Spezia          0-4 Torino
+Fiorentina      2-1 Roma
+Inter           3-2 Atalanta
+[May 28]
+Hellas Verona   1-1 Empoli
+Bologna         2-2 Napoli
+Monza           0-1 Lecce
+Lazio           3-2 Cremonese
+Juventus        0-1 Milan
+
+Round 38
+[Jun 2]
+Sassuolo        1-3 Fiorentina
+[Jun 3]
+Torino          0-1 Inter
+Cremonese       2-0 Salernitana
+Empoli          0-2 Lazio
+[Jun 4]
+Napoli          2-0 Sampdoria
+Milan           3-1 Hellas Verona
+Roma            2-1 Spezia
+Atalanta        5-2 Monza
+Lecce           2-3 Bologna
+Udinese         0-1 Juventus
+
+Final Table:
+
+ 1.SSC Napoli          38  28  6  4  77-28  90                   Champions
+ 2.SS Lazio            38  22  8  8  60-30  74
+ 3.FC Internazionale   38  23  3 12  71-42  72
+ 4.Milan AC            38  20 10  8  64-43  70        [C]
+ 5.Atalanta BC         38  19  7 12  66-48  64
+ 6.AS Roma             38  18  9 11  50-38  63
+ 7.Juventus FC         38  22  6 10  56-33  62  [-10]
+ 8.AC Fiorentina       38  15 11 12  53-43  56
+ 9.Bologna FC          38  14 12 12  53-49  54
+10.Torino FC           38  14 11 13  42-41  53
+11.AC Monza            38  14 10 14  48-52  52        [P]
+12.Udinese Calcio      38  11 13 14  47-48  46
+13.US Sassuolo         38  12  9 17  47-61  45
+14.Empoli FC           38  10 13 15  37-49  43
+15.US Salernitana      38   9 15 14  48-62  42
+16.US Lecce            38   8 12 18  33-46  36        [P]
+17.Spezia Calcio       38   6 13 19  31-62  31  [2 1 1 0 2-1 4]  ‹Relegation Playoff, see §relpo›
+----------------------------------------------
+18.Hellas Verona FC    38   7 10 21  31-59  31  [2 0 1 1 1-2 1]  ‹Relegation Playoff, see §relpo›
+19.US Cremonese        38   5 12 21  36-69  27        [P]        Relegated
+20.UC Sampdoria        38   3 10 25  24-71  19                   Relegated
+
+NB: Juventus 10 points deducted (reduced from 15) for financial manipulations
+
+Spareggio Retrocessione  ‹§relpo›
+
+[Jun 11, Reggio Emilia]
+Spezia          1-3 Hellas Verona
+
+NB: Spezia relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Coppa Italia  ‹§coppa›
+
+<!-- start pre -->
+Preliminary Round
+[Jul 30]
+Südtirol        1-3 Feralpisalò
+  [Voltan 55; Siligardi 34, 49, Cernigoi 52]
+[Jul 31]
+Modena          3-1 Catanzaro
+  [Silvestri 2, Diaw 45, Magnino 75; Tentardini 59]
+Bari            3-0 Padova
+  [Botta 8, Cheddira 16, 90+2]
+Palermo         3-2 Reggiana
+  [Brunori 3, 40, 80pen; Rosafio 57pen, D'Angelo 88]
+
+Round 1
+[Aug 5]
+Cagliari        3-2 Perugia
+  [Altare 2, Lapadula 80pen, Viola 89; Melchiorri 32, Di Serio 67]
+Udinese         2-1 Feralpisalò
+  [Deulofeu 12pen, Success 64; Siligardi 67]
+Lecce           2-3 Cittadella      [aet]
+  [Strefezza 61, Colombo 105+1; Asencio 73, Tounkara 93, 100]
+Sampdoria       1-0 Reggina
+  [Sabiri 67pen]
+[Aug 6]
+Pisa            1-4 Brescia
+  [Masucci 20; Nicolas 25og, Ayé 61, Ndoj 72, Bianchi 90+4]
+Spezia          5-1 Como
+  [Nzola 43, 76pen, Verde 60pen, Strelec 71, Maldini 90; Blanco 55]
+Empoli          1-2 SPAL            [aet]
+  [Cambiaghi 80; Dickmann 82, Arena 120+1]
+Torino          3-0 Palermo
+  [Lukic 54, Radonijc 73, Pellegri 79]
+[Aug 7]
+Venezia         2-3 Ascoli
+  [Mikaelsson 88, 89; Saric 35, Falzerano 70, Fontana 90+1]
+Verona          1-4 Bari
+  [Lasagna 16; Folorunsho 30, Cheddira 44, 53pen, 78]
+Salernitana     0-2 Parma
+  [Camara 59, Mihaila 74]
+Monza           3-2 Frosinone
+  [Valoti 25pen, Caprari 43pen, Gytkjaer 84; Haoudi 53, Kone 56]
+[Aug 8]
+Genoa           3-2 Benevento
+  [Gudmundsson 35, 45, Coda 64pen; Glik 45+3, Karic 90+5]
+Modena          3-2 Sassuolo
+  [Falcinelli 11, Mosti 30, 52; Berardi 45+2pen, Ayhan 88]
+Cremonese       3-2 Ternana
+  [Bogdan 15og, Okereke 22, Quagliata 60; Rovaglia 54, Palumbo 57]
+Bologna         1-0 Cosenza
+  [Sansone 65]
+
+Round 2
+[Oct 18]
+Genoa           1-0 SPAL
+  [Gudmundsson 45+1pen]
+Torino          4-0 Cittadella
+  [Radonijc 21, Pellegri 55, Schuurs 76, Zima 80]
+[Oct 19]
+Spezia          3-1 Brescia
+  [Strelec 20, 86, Verde 55; Moreo 90+3]
+Parma           1-0 Bari
+  [Benedyczak 29]
+Udinese         2-3 Monza
+  [Perez 49, 68; Valoti 45, Molina 70, Petagna 72]
+[Oct 20]
+Cremonese       4-2 Modena          [aet]
+  [Okereke 77, Afena Gyan 84, Sernicola 111, 120; Diaw 89pen, 90]
+Sampdoria       2-2 Ascoli          [aet, 9-8 pen]
+  [Verre 10, Caputo 118; Collocolo 33, Donati 110]
+Bologna         1-0 Cagliari
+  [Obert 69pen]
+
+Round 3
+[Jan 10]
+Inter           2-1 Parma           [aet]
+  [Lautaro Martinez 88, Acerbi 110; Juric 38]
+[Jan 11]
+Milan           0-1 Torino          [aet]
+  [Adopo 114]
+[Jan 12]
+Fiorentina      1-0 Sampdoria
+  [Barak 25]
+Roma            1-0 Genoa
+  [Dybala 64]
+[Jan 17]
+Napoli          2-2 Cremonese       [aet, 4-5 pen]
+  [Juan Jesus 33, Simeone 36; Pickel 18, Afena Gyan 87]
+[Jan 19]
+Atalanta        5-2 Spezia
+  [Lookman 10, 12, Hateboer 26, Hojlund 72, Ampadu 90og; Ekdal 14, Verde 38]
+Lazio           1-0 Bologna
+  [Felipe Anderson 33]
+Juventus        2-1 Monza
+  [Kean 8, Chiesa 78; Valoti 24]
+
+Quarterfinals
+[Jan 31]
+Inter           1-0 Atalanta
+  [Darmian 57]
+[Feb 1]
+Fiorentina      2-1 Torino
+  [Jovic 65, Ikoné 90; Karamoh 90+3]
+Roma            1-2 Cremonese
+  [Belotti 90+4; Dessers 28pen, Celik 49og]
+[Feb 2]
+Juventus        1-0 Lazio
+  [Bremer 44]
+
+Semifinals
+
+First Legs
+[Apr 4]
+Juventus        1-1 Inter
+  [Cuadrado 83; Lukaku 90+5pen]
+[Apr 5]
+Cremonese       0-2 Fiorentina
+  [Cabral 20, Nico Gonzalez 75pen]
+
+Second Legs
+[Apr 26]
+Inter           1-0 Juventus
+  [Dimarco 15]
+[Apr 27]
+Fiorentina      0-0 Cremonese
+
+Final [May 24, Roma]
+Fiorentina      1-2 Inter
+  [Nico Gonzalez 3; Lautaro Martinez 29, 37]
+
+Fiorentina: Terracciano, Dodo (81 Terzic), Milenkovic, Martinez Quarta (70 Ranieri),
+  Biraghi, Bonaventura, Amrabat (70 Jovic), Castrovilli (59 Mandragora), Ikone
+  (59 Sottil), Cabral, Nico Gonzalez. Tr.: Italiano
+Inter: Handanovic, Darmian, Acerbi, Bastoni (57 de Vrij), Dumfries, Barella, Brozovic,
+  Calhanoglu (83 Gagliardini), Dimarco (67 Gosens), Lautaro Martinez (83 Correa), Dzeko
+  (57 Lukaku). Tr.: S. Inzaghi
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Serie B  ‹§serieb›
+
+<!-- start pre -->
+‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
+
+Regular Season  ‹§2reg›
+
+Final Table:
+
+ 1.Frosinone Calcio    38  24  8  6  63-26  80                   Promoted
+ 2.Genoa CFC           38  21 11  6  53-28  73  [-1]  [R]        Promoted
+----------------------------------------------
+ 3.SSC Bari            38  17 14  7  58-37  65        [P]        ‹Promotion Playoff, see §2prom›
+ 4.Parma Calcio        38  17 10 11  48-39  60  [-1]             ‹Promotion Playoff, see §2prom›
+ 5.Cagliari Calcio     38  15 15  8  50-34  60        [R]        ‹Promotion Playoff, see §2prom›
+ 6.FC Südtirol         38  14 16  8  38-34  58        [P]        ‹Promotion Playoff, see §2prom›
+ 7.Reggina 1914        38  17  4 17  49-45  50  [-5]       [!]   ‹Promotion Playoff, see §2prom›
+ 8.Venezia FC          38  13 10 15  51-50  49        [R]        ‹Promotion Playoff, see §2prom›
+ - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Palermo FC          38  11 16 11  48-49  49        [P]
+10.Modena FC 2018      38  13  9 16  47-53  48        [P]
+11.AC Pisa             38  11 14 13  48-42  47
+12.Ascoli Picchio FC   38  12 11 15  40-47  47
+13.Como 1907           38  10 17 11  47-48  47
+14.Ternana Calcio      38  11 10 17  37-52  43
+15.AS Cittadella       38   9 16 13  34-45  43
+ - - - - - - - - - - - - - - - - - - - - - - -
+16.Brescia Calcio      38   9 13 16  36-57  40                   ‹Relegation Playoff, see §2releg›
+17.Cosenza Calcio      38   9 13 16  30-53  40                   ‹Relegation Playoff, see §2releg›
+----------------------------------------------
+18.AC Perugia Calcio   38  10  9 19  40-52  39                   Relegated
+19.SPAL (Ferrara)      38   8 14 16  41-51  38                   Relegated
+20.Benevento Calcio    38   7 14 17  33-49  35                   Relegated
+
+[!] after the season, Reggina were excluded for 2024/25 due to financial irregularities
+
+Promoted from Serie C: Feralpisalò, AC Reggiana 1919, US Catanzaro 1929, Calcio Lecco 1912
+
+Promotion Playoff  ‹§2prom›
+
+Round 1
+[May 26]
+Südtirol        1-0 Reggina
+[May 27]
+Cagliari        2-1 Venezia
+
+Semifinals
+
+First Legs
+[May 29]
+Südtirol        1-0 Bari
+[May 30]
+Cagliari        3-2 Parma
+
+Second Legs
+[Jun 2]
+Bari            1-0 Südtirol
+[Jun 3]
+Parma           0-0 Cagliari
+
+NB: Bari qualified on better record regular season
+
+Final
+
+First Leg  [Jun 8]
+Cagliari        1-1 Bari
+
+Second Leg [Jun 11]
+Bari            0-1 Cagliari
+
+Relegation Playoff  ‹§2releg›
+
+First Leg [May 25]
+Cosenza         1-0 Brescia
+
+Second Leg [Jun 1]
+Brescia         1-1 Cosenza
+
+NB: Brescia relegated but reinstated after exclusion Reggina
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2021/22, see page ital2022›.
+
+‹2023/24, see page ital2024›.
+
+‹list of champions, see page italchamp›.
+
+‹list of 2nd division champions, see page ital2champ›.
+
+‹list of 3rd division champions, see page ital3champ›.
+
+‹list of final tables, see page italhist›.
+
+‹list of cup winners, see page italcuphist›.
+
+‹list of super cup winners, see page italsupcuphist›.
+
+‹list of topscorers, see page italtops›.
+
+‹list of 2nd division topscorers, see page ital2tops›.
+
+‹list of 3rd division topscorers, see page ital3tops›.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Thanks to Martin Arenlind
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 6 Jul 2024
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2022/24
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

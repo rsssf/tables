@@ -1,0 +1,3244 @@
+  <!--
+     source: https://rsssf.org/tablesi/ital01.html
+    -->
+  
+
+
+== Italy 2000/01
+
+<!-- start pre -->
+
+First Level (Serie A)
+
+Final Table:
+
+ 1.AS Roma            34 22  9  3  68-33  75  Champions
+ 2.FC Juventus        34 21 10  3  61-27  73  Champions' League
+ 3.SS Lazio           34 21  6  7  65-36  69  CL Qualifying
+ 4.Parma AC           34 16  8 10  51-31  56  CL Qualifying
+ 5.FC Internazionale  34 14  9 11  47-47  51  UEFA Cup
+ 6.Milan AC           34 12 13  9  56-46  49  UEFA Cup
+ 7.BC Atalanta        34 10 14 10  38-34  44
+ 8.Brescia Calcio     34 10 14 10  44-42  44
+ 9.AC Fiorentina      34 10 13 11  53-52  43  UEFA Cup (Cup Win)
+10.Bologna FC         34 11 10 13  49-53  43
+11.AC Perugia         34 10 12 12  49-53  42
+12.Udinese Calcio     34 11  5 18  49-59  38
+13.US Lecce           34  8 13 13  40-54  37  [4 3 1 0 7-3 10]
+14.Reggina            34 10  7 17  32-49  37  [4 1 1 2 5-4  4]  Playoff
+--------------------------------------------
+15.Hellas Verona      34 10  7 17  40-59  37  [4 0 2 2 3-8  2]  Playoff
+16.Vicenza Calcio     34  9  9 16  37-51  36  Relegated
+17.SSC Napoli         34  8 12 14  35-51  36  Relegated
+18.AS Bari            34  5  5 24  31-68  20  Relegated
+
+Round 1
+[Sep 30]
+Bari             1-1 Verona
+  [Daniel Andersson 81pen; Natale Gonnella 87]
+Napoli           1-2 Juventus
+  [Roberto Stellone 41; Darko Kovacevic 67, Alessandro Del Piero 75]
+[Oct 1]
+Atalanta         2-2 Lazio
+  [Giuseppe Pancaro 21og, Cristian Zenoni 58; Sinisa Mihajlovic 3, Simone Inzaghi 73]
+Milan            2-0 Vicenza
+  [Oliver Bierhoff 16, Andriy Shevchenko 84]
+Parma            2-2 Fiorentina
+  [Marcio Amoroso 5, 90pen; Alessandro Pierini 65, Christian Amoroso 82]
+Perugia          1-1 Lecce
+  [Marco Materazzi 73pen; Davor Vugrinec 24]
+Reggina          2-1 Internazionale
+  [Davide Possanzini 45, Massimo Marazzina 50; Alvaro Recoba 10]
+Roma             2-0 Bologna
+  [Francesco Totti 45, Marcello Castellini 62og]
+Udinese          4-2 Brescia
+  [Roberto Sosa 2, Iaquinta 58, Mohammed Gargo 81, Roberto Muzzi 84;
+   Pierpaolo Bisoli 64, Aimo Diana 80]
+
+Round 2
+[Oct 14]
+Lazio            3-0 Perugia
+  [Hernan Crespo 43, Sinisa Mihajlovic 68pen, Simone Inzaghi 78]
+Internazionale   3-1 Napoli
+  [Luigi Di Biagio 10, Ivan Zamorano 38, Laurent Blanc 45; Clarence Seedorf 60og]
+[Oct 15]
+Bologna          2-1 Milan
+  [Giovanni Bia 19, Giovanni Piacentini 90; Andriy Shevchenko 66]
+Brescia          0-0 Parma
+Fiorentina       2-1 Reggina
+  [Nuno Gomes 86, Leandro 89; Massimo Marazzina 69]
+Juventus         2-0 Bari
+  [Darko Kovacevic 2, Zinedine Zidane 90pen]
+Verona           1-1 Udinese
+  [Alberto Gilardino 51; Roberto Muzzi 65]
+Vicenza          1-2 Atalanta
+  [Luca Toni 49; Cristiano Doni 65, Fausto Rossini 77]
+Lecce            0-4 Roma
+  [Gabriel Batistuta 42, 80, Damiano Tomassi 48, Francesco Totti 90pen]
+
+Round 3
+[Oct 21]
+Milan            2-2 Juventus
+  [Massimo Ambrosini 59, Andriy Shevchenko 61; David Trezeguet 67, Antonio Conte 90]
+Udinese          3-0 Internazionale
+  [Stefano Fiore 28pen, Roberto Muzzi 63, Vincenzo Iaquinta 90pen]
+[Oct 22]
+Bari             0-2 Atalanta
+  [Fausto Rossini 52, Nicola Ventola 56]
+Brescia          1-1 Fiorentina
+  [Dario Hubner 49; Leandro 67]
+Napoli           1-5 Bologna
+  [Moriero 61; Pierre Wome 4, Francesco Baldini 24og Giuseppe Signori 50, 75, Julio Cruz 90]
+Perugia          3-1 Parma
+  [Cristian Bucchi 6, Marco Materazzi 12, Giovanni Tedesco 20; Johan Micoud 79]
+Reggina          0-1 Lecce
+  [Cristiano Lucarelli 35pen]
+Roma             3-1 Vicenza
+  [Francesco Totti 39, Vincenzo Montella 79, Gabriel Batistuta 85; Mohammed Kallon 83]
+Verona           2-0 Lazio
+  [Giuseppe Favalli 54og, Adrian Mutu 79]
+
+Round 4 [Nov 1]
+Atalanta         3-0 Verona
+  [Fausto Rossini 37, Damiano Zenoni 45, Nicola Ventola 90]
+Bologna          2-0 Reggina
+  [Luis Oliveira 58, Jonatan Binotto 80]
+Fiorentina       2-2 Bari
+  [Rui Costa 30, Nuno Gomez 87; Phil Masinga 67, Antonio Cassano 80]
+Juventus         1-2 Udinese
+  [Alessandro Del Piero 77pen; Roberto Carlos Sosa 23, 68]
+Lazio            2-1 Brescia
+  [Simone Inzaghi 34pen, 79; Dario Hubner 4pen]
+Lecce            1-1 Napoli
+  [Mirko Vugrenic 74; Salvatore Fresi 67]
+Vicenza          1-0 Perugia
+  [Mohammed Kallon 90pen]
+Parma            2-0 Milan
+  [Patrick Mboma 5, 66]
+Internazionale   2-0 Roma
+  [Hakan Sükür 18, Alvaro Recoba 68]
+
+Round 5
+[Nov 4]
+Fiorentina       3-4 Perugia
+  [Angelo Di Livio 22, Leandro 45, 76; Zisis Vryzas 39, 49, 65, Luca Saudati 42pen]
+Lazio            2-0 Bologna
+  [Pavel Nedved 10, Hernan Crespo 65]
+[Nov 5]
+Bari             0-1 Parma
+  [Patrick Mboma 87]
+Brescia          2-4 Roma
+  [Pierpaolo Bisoli 22, Dario Hubner 45pen; Vincent Candela 13,
+   Gabriel Batistuta 60, 77, 90]
+Milan            3-3 Atalanta
+  [Serginho 23, Oliver Bierhoff 49, Andriy Shevchenko 64pen; Cristiano Doni 21, 44pen,
+   Fausto Rossini 45]
+Napoli           1-2 Vicenza
+  [Marek Jankulovski 24; Vincenzo Sommese 18, 51]
+Reggina          0-2 Juventus
+  [David Trezeguet 45, 64]
+Udinese          2-0 Lecce
+  [Roberto Sosa 65, Massimo Margiotta 70]
+Verona           2-2 Internazionale
+  [Emiliano Bonazzoli 15, Vincenzo Italiano 43; Francisco Farinos 26, Hakan Sükür 81]
+
+Round 6
+[Nov 11]
+Atalanta         2-0 Brescia
+  [Massimo Donati 16, Nicola Ventola 90]
+Juventus         1-1 Lazio
+  [Igor Tudor 22; Marcelo Salas 30]
+[Nov 12]
+Bari             1-3 Milan
+  [Michael Madsen 71; Oliver Bierhoff 67. Andriy Shevchenko 74pen, 86]
+Bologna          1-1 Fiorentina
+  [Julio Cruz 3; Leandro 64pen]
+Internazionale   0-1 Lecce
+  [Davor Vugrinec 20]
+Perugia          1-1 Napoli
+  [Marco Materazzi 71pen; Nicola Amoruso 18]
+Roma             2-1 Reggina
+  [Francesco Totti 29pen, Vincenzo Montella 70; Erion Bogdani 60]
+Vicenza          2-2 Verona
+  [Pasquale Luiso 48, Alessandro Dal Canto 66; Emiliano Bonazzoli 50,
+   Mauro Camoranesi 82]
+Parma            2-0 Udinese
+  [Sabri Lamouchi 85, Johan Micoud 90]
+
+Round 7
+[Nov 18]
+Internazionale   2-1 Perugia
+  [Alvaro Recoba 9, Christian Vieri 77; Marco Materazzi 29]
+Lazio            1-1 Milan
+  [Dino Baggio 3; Andriy Shevchenko 54]
+[Nov 19]
+Brescia          0-0 Juventus
+Fiorentina       3-2 Vicenza
+  [Nuno Gomes 9, 52, Daniele Adani 72; Luca Toni 44, Gianluca Comotto 45]
+Lecce            2-0 Bari
+  [Alessandro Conticchio 23, Cristiano Lucarelli 70pen]
+Napoli           0-0 Atalanta
+Udinese          3-0 Reggina
+  [Roberto Sosa 36, 52, Stefano Fiore 44pen]
+Verona           1-4 Roma
+  [Massimo Oddo 4pen; Vincent Candela 38, Francesco Totti 45,
+   Gabriel Batistuta 58, 90]
+Bologna          2-1 Parma
+  [Carlo Nervo 56, Ricardo Cruz 84; Sergio Conceicao 61]
+
+Round 8
+[Nov 25]
+Atalanta         1-0 Lecce
+  [Maurizio Ganz 45]
+Milan            1-0 Napoli
+  [Massimo Ambrosini 43]
+[Nov 26]
+Bari             2-1 Udinese
+  [Phil Masinga 66, 77; Roberto Carlos Sosa 90]
+Juventus         2-1 Verona
+  [David Trezeguet 37, Zinedine Zidane 74; Adailton 88]
+Parma            2-0 Lazio
+  [Sergio Conceicao 10, Sabri Lamouchi 89]
+Perugia          1-3 Bologna
+  [Luca Saudati 54; Giovanni Bia 2, Thomas Locatelli 39, Carlo Nervo 46]
+Reggina          abd Brescia      [abandoned at 0-3 in 84' due to crowd trouble; result stood]
+  [Francesco Marino 55, Alessandro Calori 70, Massimiliano Esposito 81]
+Roma             1-0 Fiorentina
+  [Gabriel Batistuta 83]
+Vicenza          0-0 Internazionale
+
+Round 9
+[Dec 2]
+Lazio            2-0 Reggina
+  [Marcelo Salas 26, Hernan Crespo 57]
+Parma            2-0 Atalanta
+  [Sabri Lamouchi 19, Sergio Conceicao 83]
+[Dec 3]
+Bologna          1-1 Vicenza
+  [Julio Cruz 33; Luca Toni 41]
+Internazionale   2-2 Juventus
+  [Laurent Blanc 14, Luigi Di Biagio 66; David Trezeguet 7, Zinedine Zidane 10]
+Lecce            1-1 Fiorentina
+  [Alessandro Conticchio 11; Enrico Chiesa 54pen]
+Napoli           1-0 Bari
+  [Nicola Amoruso 45]
+Perugia          0-0 Roma
+Udinese          0-1 Milan
+  [Andriy Shevchenko 51]
+Verona           2-1 Brescia
+  [Emiliano Bonazzoli 5, Alberto Gilardino 83; Dario Hubner 90]
+
+Round 10
+[Dec 9]
+Reggina          1-1 Verona
+  [Lorenzo Stovini 90; Emiliano Bonazzoli 1
+Brescia          1-1 Napoli
+  [Aimo Diana 31; Fabio Pecchia 58]
+[Dec 10]
+Atalanta         0-0 Perugia
+Bari             2-0 Bologna
+  [Antonio Bellavista 7, Antonio Cassano 46]
+Juventus         1-0 Parma
+  [Ciro Ferrara 14]
+Milan            4-1 Lecce
+  [Leonardo 20, Andriy Shevchenko 27, 30pen, Jose Mari 87; Alessandro Conticchio 22]
+Roma             2-1 Udinese
+  [Gabriel Batistuta 20, Francesco Totti 34; Roberto Muzzi 44]
+Vicenza          1-4 Lazio
+  [Mohammed Kallon 77; Pavel Nedved 14, 73, Hernan Crespo 25, Marcelo Salas 88]
+Fiorentina       2-0 Internazionale
+  [Enrico Chiesa 49, Rui Costa 90]
+
+Round 11
+[Dec 16]
+Napoli           6-2 Reggina
+  [Dario Baccin 5, Oscar Magoni 20, Nicola Amoruso 34pen, Claudio Bellucci 56,
+   Emmanuele Troise 73, Marek Jankulovski 84; Francesco Cozza 67pen, Mozart 87]
+Perugia          4-1 Bari
+  [Giovanni Tedesco 45, 68, Luca Saudati 69, Tomaso Tatti 87; Giacomo Mazzarelli 79]
+[Dec 17]
+Bologna          0-1 Atalanta
+  [Maurizio Ganz 83]
+Internazionale   0-0 Brescia
+Lazio            0-1 Roma
+  [Paolo Negro 70og]
+Lecce            1-4 Juventus
+  [Rodolfo Giorgetti 70; Filippo Inzaghi 13, David Trezeguet 28, Darko Kovacevic 88,
+   Gianluca Zambrotta 90]
+Parma            0-2 Vicenza
+  [Luca Toni 46, 61 ]
+Udinese          1-3 Fiorentina
+  [Martin Jorgensen 8; Enrico Chiesa 38, Andrea Sottil 65og, Rui Costa 67]
+Verona           1-1 Milan
+  [Emiliano Bonazzoli 4; Massimo Ambrosini 22]
+
+Round 12
+[Dec 22]
+Bari             1-2 Lazio
+  [Daniel Andersson 84pen; Sinisa Mihajlovic 41, Fabrizio Ravanelli 64]
+Roma             0-0 Juventus
+[Dec 23]
+Atalanta         0-1 Internazionale
+  [Clarence Seedorf 63]
+Brescia          2-2 Lecce
+  [Dario Hubner 67, 76pen; Cristiano Lucarelli 18, 50]
+Fiorentina       2-0 Verona
+  [Enrico Chiesa 22pen, 50]
+Milan            1-2 Perugia
+  [Andriy Shevchenko 24; Luca Saudati 21, Zisis Vryzsas 58]
+Napoli           2-2 Parma
+  [Fabio Pecchia 47, Nicola Amoruso 84; Johan Micoud 41, Savo Milosevic 77]
+Reggina          1-0 Vicenza
+  [Ezio Brevi 72]
+Udinese          3-1 Bologna
+  [Martin Jorgensen 4, 33, Stefano Fiore 85pen; Giuseppe Signori 79]
+
+Round 13
+[Jan 6]
+Juventus         3-3 Fiorentina
+  [Antonio Conte 33, Filippo Inzaghi 49pen, 57; Enrico Chiesa 5, 64, Nuno Gomes 18]
+Vicenza          1-0 Bari
+  [Giacomo Dicara 11]
+[Jan 7]
+Atalanta         0-2 Roma
+  [Marco Delvecchio 1, Damiano Tommasi 40]
+Bologna          1-0 Brescia
+  [Tomas Locatelli 33]
+Lazio            1-2 Napoli
+  [Sinisa Mihajlovic 84pen; Nicola Amoruso 4, Giuseppe Pancaro 36og]
+Lecce            4-2 Verona
+  [Aldo Osorio 55, Cristiano Lucarelli 60, 71, Davor Vugrinec 74pen;
+   Emiliano Bonazzoli 23, Adailton 79pen]
+Parma            0-2 Reggina
+  [Davide Dionigi 20, 54]
+Perugia          3-1 Udinese
+  [Luca Saudati 11, Marco Materazzi 36pen. Giovanni Tedesco 90; Andrea Sottil 34]
+Milan            2-2 Internazionale
+  [Zvonimir Boban 65, Oliver Bierhoff 84; Hakan Sukur 11, Luigi Di Biagio 72]
+
+Round 14
+[Jan 13]
+Brescia          1-0 Perugia
+  [Andres Yllana 20]
+Fiorentina       4-0 Milan
+  [Nuno Gomes 15, Sandro Cois 47, Enrico Chiesa 72, Rui Costa 87]
+[Jan 14]
+Juventus         1-0 Bologna
+  [David Trezeguet 11]
+Lecce            3-1 Vicenza
+  [Davor Vugrinec 32, 36pen, Aldo Osorio 68; Marco Comotto 74]
+Reggina          1-0 Atalanta
+  [Davide Dionigi 22]
+Roma             1-1 Bari
+  [Francesco Totti 75pen; Giuseppe Mazzarelli 69]
+Udinese          3-4 Lazio
+  [Stefano Fiore 47, Massimo Margiotta 64, Roberto Sosa 85; Marco Zamboni 3og,
+   Hernan Crespo 35pen, 50, Marcelo Salas 46]
+Verona           2-1 Napoli
+  [Adrian Mutu 84, Adailton 89; Claudio Bellucci 78]
+Internazionale   1-1 Parma
+  [Christian Vieri 69; Marco Di Vaio 32]
+
+Round 15
+[Jan 20]
+Bologna          1-0 Verona
+  [Tomas Locatelli 5]
+Lazio            2-0 Internazionale
+  [Hernan Crespo 5, Marcelo Salas 75pen]
+[Jan 21]
+Atalanta         0-0 Fiorentina
+Bari             2-1 Reggina
+  [Duccio Innocenti 37, Daniel Andersson 80pen; Francesco Cozza 27]
+Milan            3-2 Roma
+  [Leonardo 3, Andriy Shevchenko 21, 44; Francesco Totti 40, 86pen]
+Napoli           0-1 Udinese
+  [Roberto Sosa 68]
+Parma            1-1 Lecce
+  [Savo Milosevic 54; Cristiano Lucarelli 90]
+Perugia          0-1 Juventus
+  [Filippo Inzaghi 62]
+Vicenza          1-1 Brescia
+  [Lamberto Zauli 48; Dario Hubner 4]
+
+Round 16
+[Jan 27]
+Lecce            0-0 Bologna
+Reggina          0-2 Perugia
+  [Marco Materazzi 20pen, Fabio Liverani 38]
+[Jan 28]
+Brescia          1-1 Milan
+  [Dario Hubner 47; Oliver Bierhoff 26]
+Fiorentina       1-4 Lazio
+  [Enrico Chiesa 82pen; Pavel Nedved 33, Hernan Crespo 58, 74, Marcelo Salas 85]
+Internazionale   1-0 Bari
+  [Christian Vieri 39]
+Juventus         4-0 Vicenza
+  [Filippo Inzaghi 8, 41, 69, Edgar Davids 22]
+Roma             3-0 Napoli
+  [Marco Delvecchio 21, Francesco Totti 39, Gabriel Batistuta 85]
+Verona           0-2 Parma
+  [Marco Di Vaio 37, 58]
+Udinese          2-4 Atalanta
+  [Andrea Sottil 35, Mohammed Gargo 76; Nicola Ventola 2, 21,
+   Domenico Morfeo 4, 43]
+
+Round 17
+[Feb 3]
+Perugia          1-0 Verona
+  [Marco Materazzi 64]
+Atalanta         2-1 Juventus
+  [Stefano Lorenzi 75, Nicola Ventola 81; Massimo Paganin 73og]
+[Feb 4]
+Bari             1-3 Brescia
+  [Rachid Neqrouz 63; Igli Tare 37, Dario Hubner 72, 85]
+Bologna          0-3 Internazionale
+   [Christian Vieri 26, Luigi Di Biagio 62, Vladimir Jugovic 63]
+Lazio            3-2 Lecce
+  [Hernan Crespo 41, 65, Juan Veron 75; Alessandro Conticchio 52,
+   Cristiano Lucarelli 75pen]
+Milan            1-0 Reggina
+  [Leonardo 79]
+Parma            1-2 Roma
+  [Marco Di Vaio 35; Gabriel Batistuta 74, 83]
+Vicenza          1-2 Udinese
+  [Luca Toni 43pen; Martin Jorgensen 13, Massimo Margiotta 90]
+Napoli           1-0 Fiorentina
+  [Fabio Pecchia 90]
+
+Round 18
+[Feb 10]
+Internazionale   1-1 Reggina
+  [Christian Vieri 40pen; Davide Dionigi 22]
+Lazio            0-0 Atalanta
+[Feb 11]
+Bologna          1-2 Roma
+  [Emanuele Brioschi 49; Gabriel Batistuta 11pen, Emerson 34]
+Brescia          3-1 Udinese
+  [Dario Hubner 53pen, 68, 79; Massimo Margiotta 84]
+Fiorentina       0-1 Parma
+  [Sergio Conceicao 6]
+Lecce            2-2 Perugia
+  [Max Tonetto 32, Rodolfo Giorgetti 58; Zisis Vryzas 35, Giovanni Tedesco 78]
+Verona           3-2 Bari
+  [Adrian Mutu 53, 69, Mauro Camoranesi 60; Daniel Andersson 31pen, Hany Said 87]
+Vicenza          2-0 Milan
+  [Ousmane Dabo 7, Luca Toni 72]
+Juventus         3-0 Napoli
+  [Darko Kovacevic 12, Filippo Inzaghi 52, Alessandro Del Piero 84]
+
+Round 19
+[Feb 17]
+Udinese          2-1 Verona
+  [Stefano Fiore 39, Christian Diaz 55; Massimo Oddo 79pen]
+Milan            3-3 Bologna
+  [Andriy Shevchenko 23, 32, Luigi Sala 90; Giacomo Cipriani 55, 75,
+   Giuseppe Signori 81]
+[Feb 18]
+Atalanta         1-1 Vicenza
+  [Nicola Ventola 40; Vincenzo Sommese 70]
+Bari             0-1 Juventus
+  [Alessandro Del Piero 81]
+Parma            3-0 Brescia
+  [Patrick Mboma 54, Sergio Conceicao 66, Junior 80]
+Perugia          0-1 Lazio
+  [Diego Simeone 88]
+Reggina          1-1 Fiorentina
+  [Andrea Zanchetta 45; Enrico Chiesa 11]
+Roma             1-0 Lecce
+  [Walter Samuel 69]
+Napoli           1-0 Internazionale
+  [Matuzalem 54]
+
+Round 20
+[Feb 24]
+Fiorentina       2-2 Brescia
+  [Enrico Chiesa 23, Nuno Gomes 62; Roberto Baggio 4, 67]
+Atalanta         0-0 Bari
+[Feb 25]
+Bologna          2-1 Napoli
+  [Giuseppe Signori 25pen, 87; Edmundo 35]
+Internazionale   2-1 Udinese
+  [Laurent Blanc 18, Marco Ferrante 89; Roberto Sosa 15]
+Lazio            5-3 Verona
+  [Karel Poborsky 14, Hernan Crespo 40, 75, 90, Pavel Nedved 49;
+   Mauro Camoranesi 47, Alberto Gilardino 64, Michele Cossato 84]
+Lecce            2-1 Reggina
+  [David Balleri 14, Cristiano Lucarelli 72; Francesco Cozza 28]
+Parma            5-0 Perugia
+  [Stefano Torrisi 13, Savo Milosevic 33, 84, Marco Di Vaio 60, Amoroso 73pen]
+Vicenza          0-2 Roma         [in Udine]
+  [Vincenzo Montella 80, Emerson 83]
+Juventus         3-0 Milan
+  [Igor Tudor 9, Filippo Inzaghi 67, Zinedine Zidane 90]
+
+Round 21
+[Mar 3]
+Reggina          2-1 Bologna
+  [Andrea Zanchetta 7, Francesco Cozza 42; Giuseppe Signori 68]
+Brescia          0-1 Lazio
+  [Marcelo Salas 59]
+[Mar 4]
+Bari             2-1 Fiorentina
+  [Antonio Cassano 43, Daniel Andersson 87pen; Rui Costa 40]
+Milan            2-2 Parma
+  [Paolo Maldini 22, Andres Guglielminpietro 50; Savo Milosevic 24, Amoroso 80]
+Napoli           1-1 Lecce
+  [Edmundo 51; Davor Vugrinec 76]
+Perugia          1-0 Vicenza
+  [Marco Materazzi 41pen]
+Udinese          0-2 Juventus
+  [Gianluca Zambrotta 38, Filippo Inzaghi 60]
+Verona           2-1 Atalanta
+  [Emiliano Salvetti 11, 90; Cristiano Doni 42]
+Roma             3-2 Internazionale
+  [Marcos Assuncao 10, Vincenzo Montella 27, 86; Christian Vieri 8, 45]
+
+Round 22
+[Mar 10]
+Vicenza          2-0 Napoli
+  [Luca Toni 55, Fabio Firmani 90]
+Atalanta         1-1 Milan
+  [Maurizio Ganz 63; Stefano Lorenzi 24og]
+[Mar 11]
+Bologna          2-0 Lazio
+  [Carlo Nervo 20, Giuseppe Signori 76]
+Internazionale   2-0 Verona
+  [Christian Vieri 45pen, Hakan Sukur 70]
+Juventus         1-0 Reggina
+  [Igor Tudor 31]
+Lecce            2-1 Udinese
+  [Klas Ingesson 44, Cristiano Lucarelli 81pen; Roberto Carlos Sosa 38]
+Parma            4-0 Bari
+  [Marco Di Vaio 13, 33, 44, 66]
+Perugia          2-2 Fiorentina
+  [Marco Di Loreto 23, Fabio Liverani 45; Enrico Chiesa 56, Saliou Lassissi 66]
+Roma             3-1 Brescia
+  [Assuncao 21, Vincenzo Montella 69, 88; Andres Yllanas 30]
+
+Round 23
+[Mar 18]
+Fiorentina       1-1 Bologna
+  [Predrag Mijatovic 54; Giacomo Cipriani 13]
+Lecce            1-2 Internazionale
+  [Luigi Piangerelli 47; Alvaro Recoba 28, 59]
+Milan            4-0 Bari
+  [Francesco Coco 8, Andriy Shevchenko 45pen, 90, Serginho 76]
+Udinese          1-3 Parma
+  [Stefano Fiore 56pen; Marco Di Vaio 12, Amoroso 59pen, 81]
+Verona           1-0 Vicenza
+  [Emiliano Bonazzoli 56]
+Napoli           0-0 Perugia
+Lazio            4-1 Juventus
+  [Pavel Nedved 23, 65, Hernan Crespo 46, 81; Alessandro Del Piero 59]
+Reggina          0-0 Roma
+[Mar 19]
+Brescia          0-3 Atalanta     [in Reggio Emilia]
+  [Maurizio Ganz 11, 63, Dario Hubner 45og]
+
+Round 24
+[Mar 31]
+Bari             3-2 Lecce
+  [Daniel Andersson 35, 49pen, Paolo Poggi 90; Davor Vugrinec 17, 44]
+Vicenza          1-1 Fiorentina
+  [Vincenzo Sommese 10; Rui Costa 75]
+[Apr 1]
+Atalanta         1-1 Napoli
+  [Cristiano Doni 69pen; Fabio Pecchia 38]
+Juventus         1-1 Brescia
+  [Gianluca Zambrotta 30; Roberto Baggio 86]
+Parma            0-0 Bologna
+Perugia          2-3 Internazionale
+  [Marco Materazzi 44, Zisis Vryzas 90; Christian Vieri 21, 57, 66]
+Reggina          1-1 Udinese
+  [Massimo Taibi 88; Alberto 68]
+Roma             3-1 Verona
+  [Vincenzo Montella 55, 68, Gabriel Batistuta 60; Mauro Camoranesi 27]
+Milan            1-0 Lazio
+  [Zvonimir Boban 59]
+
+Round 25
+[Apr 7]
+Lazio            abd Parma        [abandoned at 0-0 in 6' due to rain]
+[Apr 8]
+Bologna          3-2 Perugia
+  [Tomas Locatelli 7, Giacomo Cipriani 45 Renato Olive 77; Giovanni Tedesco 6, 18]
+Brescia          4-0 Reggina
+  [Antonio Filippini 33, Fabio Petruzzi 48, Roberto Baggio 73pen, Igli Tare 90]
+Lecce            0-2 Atalanta
+  [Nicola Ventola 69, Domenico Morfeo 79]
+Napoli           0-0 Milan
+Udinese          2-0 Bari
+  [Stefano Fiore 1, Roberto Muzzi 90]
+Verona           0-1 Juventus
+  [Alessandro Del Piero 45pen]
+Internazionale   1-1 Vicenza
+  [Alvaro Recoba 90; Mohammed Kallon 30]
+[Apr 9]
+Fiorentina       3-1 Roma
+  [Enrico Chiesa 12, 82, Vincent Candela 58og; Emerson 30]
+[Apr 18]
+Lazio            1-0 Parma
+  [Lilian Thuram 12og]
+
+Round 26 [Apr 14]
+Atalanta         0-1 Parma
+  [Savo Milosevic 28]
+Bari             0-1 Napoli
+  [Marek Jankulovski 87]
+Brescia          1-0 Verona
+  [Roberto Baggio 22]
+Fiorentina       2-0 Lecce
+  [Enrico Chiesa 5, 83]
+Milan            3-0 Udinese
+  [Kakha Kaladze 9, Serginho 31, Andriy Shevchenko 71]
+Reggina          0-2 Lazio
+  [Hernan Crespo 16, 70]
+Roma             2-2 Perugia
+  [Francesco Totti 53, Giovanni Tedesco 90og; Davide Baiocco 44,
+   Luca Saudati 77]
+Vicenza          4-2 Bologna
+  [Luca Toni 37, Mohammed Kallon 41, 88, Vincenzo Sommese 57;
+   Giovanni Bia 58pen, Emanuele Brioschi 84]
+Juventus         3-1 Internazionale
+  [Alessio Tacchinardi 50, Filippo Inzaghi 54, Alessandro Del Piero 63;
+   Christian Vieri 67pen]
+
+Round 27
+[Apr 21]
+Internazionale   4-2 Fiorentina
+  [Christian Vieri 11, 40pen, Stephane Dalmat 44, Hakan Sukur 57;
+   Mauro Bressan 64, Enrico Chiesa 80]
+Napoli           1-1 Brescia
+  [Nicola Amoruso 49pen; Roberto Baggio 90]
+[Apr 22]
+Bologna          4-2 Bari
+  [Giuseppe Signori 13, 54pen, Tomas Locatelli 50, Julio Cruz 85;
+   Paolo Poggi 6, Yksel Osmanovski 76]
+Lazio            2-1 Vicenza
+  [Diego Simeone 35, Hernan Crespo 85; Jeda 89]
+Lecce            3-3 Milan
+  [Cristiano Lucarelli 35pen, Davor Vugrinec 46, Alberto Savino 67;
+   Oliver Bierhoff 37, Andriy Shevchenko 41, Kakha Kaladze 90]
+Perugia          2-2 Atalanta
+  [Giovanni Tedesco 34, Jung Hwahn Ahn 90; Nicola Ventola 25,
+   Cristiano Doni 70pen]
+Udinese          1-3 Roma
+  [Roberto Sosa 78; Vincenzo Montella 39, Damiano Tommasi 45,
+   Hidetoshi Nakata 66]
+Verona           0-3 Reggina
+  [Davide Dionigi 19, Francesco Cozza 42, Jose Mamede 90]
+Parma            0-0 Juventus
+
+Round 28
+[Apr 28]
+Vicenza          0-1 Parma
+  [Marco Di Vaio 80]
+Reggina          3-1 Napoli
+  [Davide Dionigi 5, Massimo Marazzina 41, Andrea Zanchetta 49; Edmundo 59]
+[Apr 29]
+Atalanta         2-2 Bologna
+  [Nicola Ventola 48, Domenico Morfeo 66; Giuseppe Signori 57, 75]
+Bari             3-4 Perugia
+  [Paolo Poggi 10pen, Giuseppe Mazzarelli 41, Michele Marcolini 49;
+   Jung Hwan Ahn 67, Anselmo Robbiati 72, 76, Marco Matterazzi 82pen]
+Brescia          1-0 Internazionale
+  [Roberto Baggio 12pen]
+Fiorentina       2-1 Udinese
+  [Enrico Chiesa 51, 56; Roberto Muzzi 12]
+Juventus         1-1 Lecce
+  [Igor Tudor 40; Alessandro Conticcio 41]
+Milan            1-0 Verona
+  [Andriy Shevchenko 69pen]
+Roma             2-2 Lazio
+  [Gabriel Batistuta 48, Marco Delvecchio 54; Pavel Nedved 78, Lucas Castroman 90]
+
+Round 29
+[Apr 5]
+Bologna          1-1 Udinese
+  [Renato Olive 25; Alberto 37]
+Lecce            0-3 Brescia
+  [Roberto Baggio 4, 58, 77pen]
+[Apr 6]
+Internazionale   3-0 Atalanta
+  [Christian Vieri 6, 9, Alvaro Recoba 34]
+Lazio            2-0 Bari
+  [Juan Veron 25, 41]
+Parma            4-0 Napoli
+  [Johan Micoud 32, Savo Milosevic 50, Marco Di Vaio 65, 75]
+Perugia          2-1 Milan
+  [Zisis Vryzas 4, 50; Andriy Shevchenko 31pen]
+Verona           2-1 Fiorentina
+  [Emiliano Salvetti 62, Vincenzo Italiano 67; Enrico Chiesa 90]
+Vicenza          2-1 Reggina
+  [Marco Zanchi 64, 86; Massimo Marazzina 52]
+Juventus         2-2 Roma
+  [Alessandro Del Piero 4, Zinedine Zidane 6; Hidetoshi Nakata 79,
+   Vincenzo Montella 90]
+
+Round 30
+[May 11]
+Fiorentina       1-3 Juventus
+  [Marco Rossi 40; Zinedine Zidane 24, Igor Tudor 28, David Trezeguet 89]
+Internazionale   0-6 Milan
+  [Gianni Comandini 3, 19, Federico Giunti 53, Andriy Shevchenko 67, 78,
+   Serginho 81]
+[May 12]
+Bari             2-2 Vicenza
+  [Gionatha Spinesi 64pen, 89; Lamberto Zauli 46, Marco Zanchi 86]
+Brescia          0-0 Bologna
+Napoli           2-4 Lazio
+  [Nicola Amoruso 24, 46; Hernan Crespo 32, 51, Pavel Nedved 65,
+   Fabrizio Ravanelli 89]
+Reggina          2-0 Parma
+  [Andrea Bernini 38, 76]
+Roma             1-0 Atalanta
+  [Vincenzo Montella 63]
+Udinese          3-3 Perugia
+  [Roberto Sosa 55, Roberto Muzzi 57, Stefano Fiore 90pen; Marco Materazzi 20pen,
+   Ahn Jung-Hwan 25, 45]
+Verona           0-0 Lecce
+
+Round 31
+[May 17]
+Milan            1-2 Fiorentina
+  [Andriy Shevchenko 29; Enrico Chiesa 11, 18]
+Parma            3-1 Internazionale
+  [Junior 14, 88, Marco Di Vaio 73; Christian Vieri 89]
+[May 20]
+Atalanta         1-1 Reggina
+  [Luciano Zauri 11; Andrea Zanchetta 15]
+Bari             1-4 Roma
+  [Gionatha Spinesi 89; Vincent Candela 28, Gabriel Batistuta 42, 87,
+   Cafu 69]
+Bologna          1-4 Juventus
+  [Giuseppe Signori 19; David Trezeguet 26, 47, Igor Tudor 45,
+   Darko Kovacevic 81]
+Lazio            3-1 Udinese      [in Firenze]
+  [Hernan Crespo 3, 16, Lucas Castroman 84; Stefano Fiore 68pen]
+Napoli           2-0 Verona
+  [Fabio Pecchia 41, Amauri 82]
+Perugia          2-2 Brescia
+  [Zisis Vryzas 59, Anselmo Robbiati 86; Dario Hubner 45, 57pen]
+Vicenza          0-0 Lecce
+
+Round 32 [May 27]
+Brescia          2-1 Vicenza
+  [Dario Hubner 10pen, Jonathan Bachini 43; Gianluca Comotto 86]
+Fiorentina       1-1 Atalanta
+  [Nuno Gomes 13; Cristiano Doni 21pen]
+Internazionale   1-1 Lazio
+  [Stephane Dalmat 90; Hernan Crespo 41]
+Juventus         1-0 Perugia
+  [David Trezeguet 55]
+Lecce            1-2 Parma
+  [Willian Viali 57; Savo Milosevic 63, Patrick Mboma 81]
+Reggina          1-0 Bari
+  [Jorge Vargas 50]
+Roma             1-1 Milan
+  [Vincenzo Montella 64; Francesco Coco 45]
+Udinese          0-0 Napoli
+Verona           5-4 Bologna
+  [Emiliano Salvetti 3, 48, Adailton 37, Massimo Oddo 72pen, Giulio Falcone 42og;
+   Renato Olive 2, Giacomo Cipriani 61, Giuseppe Signori 79, 90]
+
+Round 33 [Jun 10]
+Atalanta         0-1 Udinese
+  [Roberto Muzzi 31]
+Bari             1-2 Internazionale
+  [Daniel Andersson 44pen; Alvaro Recoba 35pen, 67]
+Bologna          2-2 Lecce
+  [Julio Cruz 52, 83pen; Davor Vugrinec 34pen, William Viali 63]
+Lazio            3-0 Fiorentina
+  [Alessandro Pierini 34og, Hernan Crespo 44, Paolo Negro 55]
+Milan            1-1 Brescia
+  [Jose Mari 68; Jonathan Bachini 70]
+Napoli           2-2 Roma
+  [Nicola Amoruso 37, Fabio Pecchia 82; Gabriel Batistuta 42,
+   Francesco Totti 52]
+Parma            1-2 Verona
+  [Amoroso 68; Massimo Oddo 32pen, Michele Cossato 85]
+Perugia          1-1 Reggina
+  [Marco Materazzi 62pen; Andrea Zanchetta 31]
+Vicenza          0-3 Juventus
+  [Alessandro Del Piero 36, David Trezeguet 40, 51]
+
+Round 34 [Jun 17]
+Brescia          3-1 Bari
+  [Igli Tare 12, 36, Dario Hubner 66; Paolo Poggi 9]
+Fiorentina       1-2 Napoli
+  [Nuno Gomes 83; Nicola Amoruso 48, Edmundo 90]
+Internazionale   2-1 Bologna      [in Bari]
+  [Clarence Seedorf 35, Christian Vieri 44; Giacomo Cipriani 79]
+Juventus         2-1 Atalanta
+  [David Trezeguet 5, Alessio Tacchinardi 64; Marco Nappi 84]
+Lecce            2-1 Lazio
+  [Gaetano Vasari 46, 72; Hernan Crespo 45pen]
+Reggina          2-1 Milan
+  [Giovanni Morabito 77, Da Costa 82; Kakha Kaladze 69]
+Roma             3-1 Parma
+  [Francesco Totti 19, Vincenzo Montella 39, Gabriel Batistuta 77; Marco Di Vaio 81]
+Udinese          2-3 Vicenza
+  [Roberto Sosa 30, 37; Mohammed Kallon 2, 11pen, Lamberto Zauli 18]
+Verona           2-1 Perugia
+  [Anthony Seric 23, Emiliano Salvetti 70; Giovanni Tedesco 51]
+
+Final Table:
+
+ 1.AS Roma            34 22  9  3  68-33  75  Champions
+ 2.FC Juventus        34 21 10  3  61-27  73  Champions' League
+ 3.SS Lazio           34 21  6  7  65-36  69  CL Qualifying
+ 4.Parma AC           34 16  8 10  51-31  56  CL Qualifying
+ 5.FC Internazionale  34 14  9 11  47-47  51  UEFA Cup
+ 6.Milan AC           34 12 13  9  56-46  49  UEFA Cup
+ 7.BC Atalanta        34 10 14 10  38-34  44
+ 8.Brescia Calcio     34 10 14 10  44-42  44  UIC
+ 9.AC Fiorentina      34 10 13 11  53-52  43  UEFA Cup (Cup Win)
+10.Bologna FC         34 11 10 13  49-53  43
+11.AC Perugia         34 10 12 12  49-53  42
+12.Udinese Calcio     34 11  5 18  49-59  38
+13.US Lecce           34  8 13 13  40-54  37  [4 3 1 0 7-3 10]
+14.Reggina            34 10  7 17  32-49  37  [4 1 1 2 5-4  4]  Playoff
+--------------------------------------------
+15.Hellas Verona      34 10  7 17  40-59  37  [4 0 2 2 3-8  2]  Playoff
+16.Vicenza Calcio     34  9  9 16  37-51  36  Relegated
+17.SSC Napoli         34  8 12 14  35-51  36  Relegated
+18.AS Bari            34  5  5 24  31-68  20  Relegated
+
+NB: Atalanta renounced the possibility to enter the UI Cup.  Brescia intend
+    to field a youth team.
+
+Topscorers:
+
+26  Hernán Crespo (Lazio)
+24  Andriy Shevchenko (Milan)
+22  Enrico Chiesa (Fiorentina)
+20  Gabriel Batistuta (Roma)
+18  Christian Vieri (Internazionale)
+17  Dario Hubner (Brescia)
+16  Giuseppe Signori (Bologna)
+15  Marco Di Vaio (Parma)
+14  Vincenzo Montella (Roma)
+    Roberto Carlos Sosa (Udinese)
+    David Trezeguet (Juventus)
+13  Francesco Totti (Roma)
+12  Cristiano Lucarelli (Lecce)
+    Marco Materazzi (Perugia)
+11  Filippo Inzaghi (Juventus)
+    Davor Vugrinec (Lecce)
+10  Nicola Amoruso (Napoli)
+    Roberto Baggio (Brescia)
+    Alessandro Del Piero (Juventus)
+
+Relegation Playoff
+
+First Leg [Jun 21]
+Verona           1-0 Reggina
+  [Martin Laursen 61]
+
+Second Leg [Jun 24]
+Reggina          2-1 Verona
+  [Andrea Zanchetta 42, Francesco Cozza 45; Michele Cossato 86]
+
+Verona remain in Serie A on away goal rule, Reggina relegated
+
+
+Cup 2000/01
+
+First Round
+
+(8 groups of four, winners to Second Round; all teams from Serie A
+ except Atalanta and Brescia have byes.)
+
+Group 1
+[Aug 13]
+Monza          0-1 Piacenza
+Viterbese      2-3 Chievo
+[Aug 17]
+Chievo         2-1 Monza
+Piacenza       3-0 Viterbese
+[Aug 20]
+Chievo         1-3 Piacenza
+Monza          1-1 Viterbese
+
+ 1.Piacenza        3  3  0  0  7- 1  9  Qualified
+ 2.Chievo          3  2  0  1  6- 6  6
+ 3.Monza           3  0  1  2  2- 4  1
+ 4.Viterbese       3  0  1  2  3- 7  1
+
+Group 2
+[Aug 13]
+Crotone        1-3 Empoli
+Fermana        0-2 Sampdoria
+[Aug 17]
+Sampdoria      2-1 Crotone
+Empoli         2-2 Fermana
+[Aug 20]
+Sampdoria      4-3 Empoli
+Crotone        0-1 Fermana
+
+ 1.Sampdoria       3  3  0  0  8- 4  9  Qualified
+ 2.Empoli          3  1  1  1  8- 7  4
+ 3.Fermana         3  1  1  1  3- 4  4
+ 4.Crotone         3  0  0  3  2- 6  0
+
+Group 3
+[Aug 13]
+Ravenna        1-2 Pistoiese
+Avellino       1-3 Atalanta Bergamo
+[Aug 17]
+Atalanta       1-0 Ravenna
+Pistoiese      1-4 Avellino
+[Aug 20]
+Atalanta       1-1 Pistoiese
+Ravenna        4-2 Avellino
+
+ 1.Atalanta        3  2  1  0  5- 2  7  Qualified
+ 2.Pistoiese       3  1  1  1  4- 6  4
+ 3.Ravenna         3  1  0  2  5- 5  3
+ 4.Avellino        3  1  0  2  7- 8  3
+
+Group 4
+[Aug 13]
+Salernitana    2-1 Cagliari
+Ascoli         1-1 Cittadella
+[Aug 17]
+Cittadella     0-1 Salernitana
+Cagliari       2-2 Ascoli
+[Aug 20]
+Cittadella     0-3 Cagliari
+Salernitana    1-0 Ascoli
+
+ 1.Salernitana     3  3  0  0  4- 1  9  Qualified
+ 2.Cagliari        3  1  1  1  6- 4  4
+ 3.Ascoli          3  0  2  1  3- 4  2
+ 4.Cittadella      3  0  1  2  1- 5  1
+
+Group 5
+[Aug 13]
+Cesena         1-1 Ternana
+Varese         0-3 Torino
+[Aug 17]
+Torino         2-1 Cesena
+Ternana        1-0 Varese
+[Aug 20]
+Torino         3-3 Ternana
+Cesena         1-2 Varese
+
+ 1.Torino          3  2  1  0  8- 4  7  Qualified
+ 2.Ternana         3  1  2  0  5- 4  5
+ 3.Varese          3  1  0  2  2- 5  3
+ 4.Cesena          3  0  1  2  3- 5  1
+
+Group 6
+[Aug 13]
+Savoia         1-0 Siena
+Pescara        1-1 Venezia
+[Aug 17]
+Venezia        2-1 Savoia
+Siena          2-2 Pescara
+[Aug 20]
+Venezia        1-0 Siena
+Savoia         3-4 Pescara
+
+ 1.Venezia         3  2  1  0  4- 2  7  Qualified
+ 2.Pescara         3  1  2  0  7- 6  5
+ 3.Savoia          3  1  0  2  5- 6  3
+ 4.Siena           3  0  1  2  2- 4  1
+
+Group 7
+[Aug 13]
+Pisa           0-0 Cosenza
+Genoa          2-3 Ancona
+[Aug 17]
+Ancona         2-1 Pisa
+Cosenza        2-0 Genoa
+[Aug 20]
+Ancona         0-1 Cosenza
+Pisa           2-2 Genoa
+
+ 1.Cosenza         3  2  1  0  3- 0  7  Qualified
+ 2.Ancona          3  2  0  1  5- 4  6
+ 3.Pisa            3  0  2  1  3- 4  2
+ 4.Genoa           3  0  1  2  4- 7  1
+
+Group 8
+[Aug 13]
+Brescia        1-0 Treviso
+Alzano         1-1 Brescello
+[Aug 17]
+Brescello      0-1 Brescia
+Treviso        2-1 Alzano
+[Aug 20]
+Brescello      1-0 Treviso
+Brescia        1-2 Alzano
+
+ 1.Brescia         3  2  0  1  3- 2  6  Qualified
+ 2.Alzano          3  1  1  1  4- 4  4
+ 3.Brescello       3  1  1  1  2- 2  4
+ 4.Treviso         3  1  0  2  2- 3  3
+
+
+Second Round
+
+First Legs
+[Aug 26]
+Venezia        2-2 Bologna
+Cosenza        0-2 Lecce
+Salernitana    1-0 Perugia
+Brescia        2-1 Vicenza
+[Aug 27]
+Piacenza       2-1 Verona
+Torino         2-1 Bari
+Atalanta       2-0 Reggina
+Sampdoria      1-0 Napoli
+
+Second Legs
+[Sep 6]
+Bologna        0-1 Venezia
+Lecce          1-1 Cosenza
+Perugia        2-1 Salernitana
+Vicenza        2-1 Brescia               [aet, 4-5 pen]
+Verona         2-2 Piacenza              [aet]
+Bari           0-0 Torino
+Reggina        0-1 Atalanta
+[Sep 7]
+Napoli         0-0 Sampdoria
+
+Third Round
+
+First Legs
+[Sep 16]
+Brescia        0-0 Juventus
+Sampdoria      1-1 Lazio
+Torino         1-3 Milan
+[Sep 17]
+Venezia        1-1 Parma
+Salernitana    0-5 Fiorentina
+Roma           1-1 Atalanta
+Piacenza       1-1 Udinese
+[Sep 18]
+Inter          1-1 Lecce
+
+Second Legs
+[Sep 22]
+Atalanta       4-2 Roma
+[Sep 23]
+Juventus       1-2 Brescia
+Milan          0-1 Torino
+Fiorentina     3-1 Salernitana
+Udinese        2-1 Piacenza
+[Sep 24]
+Lazio          5-2 Sampdoria
+Parma          5-1 Venezia
+Lecce          1-3 Inter
+
+Quarterfinals
+
+First Legs
+[Nov 28]
+Milan          4-2 Atalanta
+[Nov 29]
+Parma          6-1 Inter
+Lazio          2-1 Udinese
+[Nov 30]
+Fiorentina     6-0 Brescia
+
+Second Legs
+[Dec 12]
+Udinese        4-1 Lazio
+[Dec 13]
+Atalanta       2-1 Milan
+Brescia        3-1 Fiorentina
+[Dec 14]
+Inter          0-0 Parma
+
+Semifinals
+
+First Legs
+[Jan 25]
+Milan          2-2 Fiorentina
+  [Massimo Ambrosini 65, Federico Giunti 90; Enrico Chiesa 18, Mauro Bressan 75]
+[Feb 1]
+Udinese        2-1 Parma
+  [Massimo Margiotta 75, 90; Marcio Amoroso 6]
+
+Second Legs
+[Feb 7]
+Fiorentina     2-0 Milan
+  [Enrico Chiesa 41, Rui Costa 83]
+[Feb 8]
+Parma          1-0 Udinese
+  [Marco Di Vaio 38]
+
+Final
+
+First Leg [May 24]
+Parma          0-1 Fiorentina
+  [Paolo Vanoli 87]
+
+Second Leg [Jun 13]
+Fiorentina     1-1 Parma
+  [Nuno Gomes 65; Savo Milosevic 38]
+
+
+Second Level (Serie B)
+
+Final Table:
+
+ 1.Torino          38  22  7  9  48-33  73  Promoted
+ 2.Piacenza        38  20 10  8  48-26  70  Promoted
+ 3.Chievo          38  19 13  6  54-34  70  Promoted
+ 4.Venezia         38  19 12  7  62-43  69  Promoted
+------------------------------------------
+ 5.Sampdoria       38  16 16  6  60-38  64
+ 6.Empoli          38  18 10 10  52-43  64
+ 7.Ternana         38  16 14  8  59-38  62
+ 8.Cosenza         38  17  9 12  49-46  60
+ 9.Crotone         38  15  8 15  47-53  53
+10.Ancona          38  14  9 15  56-58  51
+11.Cagliari        38  12 14 12  53-45  50
+12.Genoa           38  10 17 11  44-39  47
+13.Siena           38  10 17 11  38-43  47
+14.Cittadella      38  10 15 13  40-52  45
+15.Salernitana     38  11 10 17  37-42  43
+16.Pistoiese       38  10 11 17  46-51  41
+------------------------------------------
+17.Treviso         38   8 12 18  40-56  36  Relegated
+18.Monza           38   9  4 25  41-77  31  Relegated
+19.Ravenna         38   4 13 21  33-64  25  Relegated
+20.Pescara         38   3 13 22  30-56  22  Relegated
+
+Round 1
+[Sep 4]
+Cagliari     4-0 Crotone
+  [Cammarata 20, Sulcis 39, Melis 52, 60]
+Chievoverona 1-0 Genoa
+  [Eriberto 10]
+Cittadella   0-2 Piacenza
+  [Caccia 20, Gautieri 24]
+Cosenza      1-0 Pescara
+  [Savoldi 14]
+Empoli       0-2 Pistoiese
+  [Cimarelli 35, Bellotto 71]
+Monza        2-3 Venezia
+  [Branca 34, Damiani 47; Rukavina 39, 57, Di Napoli 62]
+Ravenna      1-1 Salernitana
+  [Pregnolato 53; Senè 73]
+Sampdoria    2-1 Ternana
+  [Flachi 72, Matzuzzi 77; Borgobello 80]
+Siena        2-0 Treviso
+  [Pagano 42, Arcadio 82p]
+[Sep 2]
+Torino       0-2 Ancona
+  [Montervino 31, Baggio II 68]
+
+Round 2
+[Sep 10]
+Ancona       1-0 Monza
+  [Russo 64]
+Crotone      2-1 Ravenna
+  [Ambrosi 45+, Deflorio 48; Vecchiola 63]
+Genoa        1-1 Siena
+  [Malaga 34; Nicola 33og]
+Pescara      1-3 Empoli
+  [Vukoja 70; Cappellini 18p, Maccarone 44, Barollo 92]
+Piacenza     2-0 Cosenza
+  [Caccia 25, 30p]
+Pistoiese    1-1 Torino
+  [Baiano 78; Ferrante 4]
+Ternana      1-0 Chievoverona
+  [Grabbi 86p]
+Treviso      2-3 Cagliari
+  [Seghetto 9, Rocchi 63; Buso 18, Cammarata 55p, Lucenti 71]
+Venezia      2-2 Cittadella
+  [Foglio 24, Valtolina 84; Sturba 4, Zanon 58]
+[Sep 11]
+Salernitana  2-3 Sampdoria
+  [Di Michele 48, 91p; Flachi 21, Vergassola 56, Zivkovic 83]
+
+Round 3
+[Sep 16]
+Chievoverona 2-1 Treviso
+  [Corradi 31, Cossato 81; Fanesi 50]
+[Sep 17]
+Cagliari     2-1 Pescara
+  [Fontolan II 57, 88; Giacobbo 43]
+Cittadella   3-1 Ternana
+  [Ghirardello 32, 65, 92; Romualdi 19]
+Cosenza      3-0 Crotone
+  [Apa 1, 81; Pisano 9p]
+Empoli       0-0 Genoa
+Siena        4-1 Ancona
+  [Tiribocchi 2, 6, 95, Arcadio 76p; Nocera 28]
+[Sep 20]
+Monza        1-0 Salernitana
+  [Branca 15]
+Ravenna      0-2 Piacenza
+  [Caccia 79, 84]
+Sampdoria    2-2 Pistoiese
+  [Esposito 21, Jovicic 57; Bizzarri 45, Allegri 70]
+Torino       0-1 Venezia
+  [Di Napoli 36]
+
+Round 4
+[Sep 24]
+Crotone      0-2 Chievoverona
+  [Eriberto 58, Corini 68]
+Pescara      1-2 Monza
+  [Palumbo 65; Lantignotti 16, Branca 53]
+Pistoiese    0-1 Cittadella
+  [Baicu 84]
+Ternana      2-0 Empoli
+  [Borgobello 8, 20]
+[Sep 25]
+Genoa        1-1 Ravenna
+  [Francioso 55p; Biliotti 51]
+[Sep 26]
+Salernitana  2-1 Cagliari
+  [Campedelli  25, Di Michele  39; Villa 49]
+[Sep 27]
+Ancona       0-0 Sampdoria
+Piacenza     2-3 Siena
+  [Gautieri 34, Caccia 67; Cesari 15, Voria 65, Lucarelli II 83og]
+Treviso      1-1 Torino
+  [Pizzi 33p; Mandelli 66]
+Venezia      2-2 Cosenza
+  [Bettarini 10, Di Napoli 37; Savoldi 12, 32]
+
+Round 5
+[Oct 1]
+Ancona       0-0 Venezia
+Cagliari     1-1 Chievoverona
+  [Sulcis 61; Corini 59p]
+Cittadella   1-1 Pescara
+  [Sturba 68; Giampaolo 84]
+Cosenza      1-0 Monza
+  [Pavone 56]
+Empoli       1-0 Piacenza
+  [Baldini 15]
+Genoa        1-2 Salernitana
+  [Mutarelli 10; Cristiano 57, Di Michele 89]
+Ravenna      1-4 Pistoiese
+  [Dell'Anno 59p; Bizzarri 45+, Baiano 53, Aglietti 73, Biancone 78]
+Siena        0-0 Ternana
+Treviso      3-2 Crotone
+  [Pizzi 45, Teboldi 60, Morante 85; Deflorio 55, Pecorari 63]
+[Oct 2]
+Torino       1-0  Sampdoria
+  [Ferrante 21]
+
+Round 6
+[Oct 6]
+Piacenza     0-0 Cagliari
+[Oct 8]
+Chievoverona 2-2 Cittadella
+  [Corradi 16, De Cesare 35; Scarpa 38, 56]
+Cosenza      3-2 Ancona
+  [Apa 43, Pisano 48, Paschetta 90; De Palma 81, Corallo 84]
+Monza        2-3 Torino
+  [Branca 50, Lantignotti 83; Pinga 36, Ferrante 81, Semioli 85]
+Pescara      1-1 Ravenna
+  [Gregari 10; Vecchiola 37]
+Pistoiese    0-1 Treviso
+  [Panesi 19]
+Salernitana  3-0 Siena
+  [Guidoni 33, Vannucchi 63, Moscardi 73]
+Sampdoria    0-1 Empoli
+  [Pane 77]
+Venezia      1-1 Crotone
+  [Bettarini 53; Ambrosi 36]
+[Oct 9]
+Ternana      1-0 Genoa
+  [Grabbi 76]
+
+Round 7
+[Oct 20]
+Siena        0-0 Pescara
+[Oct 22]
+Ancona       2-1 Pistoiese
+  [Vieri II 39, De Palma 77; Aglietti 51]
+Cagliari     2-1 Monza
+  [Modesto 10, Villa 44; Aliyu 59]
+Cittadella   2-2 Sampdoria
+  [Scarpa 47, Caverzan 53; Dionigi 13, 20]
+Crotone      2-0 Piacenza
+  [Deflorio 65, Giampà 94]
+Empoli       0-1 Cosenza
+  [Pisano 38]
+Genoa        1-1 Venezia
+  [Bilica 33; Grieco 70]
+Ravenna      0-0 Chievoverona
+Torino       1-1 Ternana
+  [Ferrante 47p; Borgobello 45]
+[Oct 23]
+Treviso      1-0 Salernitana
+  [Pizzi 39]
+
+Round 8
+[Oct 27]
+Empoli       3-2 Ravenna
+  [Barollo 20, Maccarone 52, Bianconi 79; Dell'Anno 35p, 74]
+[Oct 29]
+Chievoverona 1-0 Ancona
+  [Corradi 26]
+Cosenza      3-1 Siena
+  [Pisano 3p, Pavone 34, Savoldi 85; Arcadio 54]
+Monza        1-0 Cittadella
+  [Bonacina 88]
+Pescara      1-1 Genoa
+  [Paladini 64; Francioso 60]
+Piacenza     3-1 Torino
+  [Piovani 51p, Gautieri 53, Caccia 63p; Ferrante 69p]
+Pistoiese    0-4 Crotone
+  [Deflorio 38, Cialdini 53, Ambrosiani 63, 71]
+Sampdoria    2-1 Cagliari
+  [Flachi 63p, Vasari 71; Suazo 79]
+Ternana      0-0 Salernitana
+Venezia      3-0 Treviso
+  [Maniero 25, Di Napoli 56, Bazzani 89]
+
+Round 9 [Nov 1]
+Cagliari     0-0 Pistoiese
+Chievoverona 1-0 Empoli
+  [Manfredini 57]
+Cittadella   2-1 Torino
+  [Giacomin 69, Baicu 80; Ferrante 20p]
+Crotone      1-1 Sampdoria
+  [Fialdini 35; Jovicic 69]
+Genoa        2-1 Cosenza
+  [Nicola 3, Greco 25; Aurelio 60]
+Pescara      2-3 Ancona
+  [Tisci 26, 38; Parente 22p, Castiglione 53, Albino 67]
+Salernitana  3-0 Piacenza
+  [Vignaroli 5, Chianese 51p, Vannucchi 54]
+Siena        1-3 Venezia
+  [Morello 24; Maniero 10, Di Napoli 69, 75p]
+Ternana      4-1 Monza
+  [Schenardi 7, 55; Borgobello 11, Carbone 31; Mazzeo 21]
+Treviso      0-0 Ravenna
+
+Round 10
+[Nov 5]
+Ancona       4-1 Salernitana
+  [Parente, Baggio II 32, 42, 87p; Vannucchi 73]
+Cosenza      1-0 Cittadella
+  [Pisano 70p]
+Empoli       2-1 Treviso
+  [Iacopino 8, Bresciano 41; Murgita 56]
+Monza        0-1 Crotone
+  [Cyprien 67]
+Piacenza     3-0 Ternana
+  [Caccia 11, 35, Cristallini 33]
+Pistoiese    1-0 Chievoverona
+  [Riccio 63]
+Ravenna      2-4 Cagliari
+  [Vecchiola 80, Medri 88og; Cammarata 21, Suazo 40, 87, Modesto 91]
+Torino       1-1 Siena
+  [Ferrante 49p; Pagano 36]
+Venezia      1-1 Pescara
+  [Di Napoli 55; Tisci 45]
+[Nov 6]
+Sampdoria    2-0 Genoa
+  [Dionigi 59, Esposito 75]
+
+Round 11
+[Nov 10]
+Salernitana  0-1 Venezia
+  [Sotgia 31]
+[Nov 12]
+Chievoverona 4-2 Torino
+  [Moro 19, Corradi 22, De Cesare 68, 75; Schwoch 1, Pinga 72]
+Cittadella   2-2 Empoli
+  [Mazzoleni 30, 40; Di Natale 62, Maccarone 67]
+Crotone      1-0 Ancona
+  [Ambrosi 33p]
+Genoa        3-1 Monza
+  [Carparelli 85, 94, Stroppa 90; Lantignotti 76]
+Pescara      0-0 Piacenza
+Siena        5-1 Ravenna
+  [Pagano 10, Arcadio 12, Cavallo 36, Tiribocchi 82, Campolonghi 92; Vecchiola 48]
+Ternana      3-2 Pistoiese
+  [Grabbi 4, Benin 40, 45+; Bizzarri 12, Bellotto 81]
+Treviso      0-2 Sampdoria
+  [Dionigi 86, Vergassola 88]
+[Nov 13]
+Cagliari     1-1 Cosenza
+  [Modesto 74; Savoldi 1]
+
+Round 12
+[Nov 19]
+Ancona       1-0 Genoa
+  [Baggio 22p]
+Cittadella   2-2 Treviso
+  [Caverzan 36p, Ghirardello 71; Rocchi 18, Pianu 92]
+Cosenza      1-0 Salernitana
+  [Zampagna 91]
+Pistoiese    1-0 Pescara
+  [Lambertini 88]
+Ravenna      2-2 Ternana
+  [Chomakov 28, Vecchiola 94; Grabbi 33, 58]
+Sampdoria    1-1 Chievoverona
+  [Esposito 29; Fantini 60]
+Torino       1-0 Crotone
+  [Ferrante 22]
+Venezia      2-2 Cagliari
+  [Bettarini 22, Di Napoli 67; Cammarata 20, Lucenti 25]
+[Nov 20]
+Monza        1-1 Piacenza
+  [Gianci 78; Caccia 50p]
+Empoli       2-0 Siena
+
+Round 13
+[Nov 24]
+Genoa        2-1 Torino
+  [Fattori 16og, Grieco 91; Venturin 25]
+[Nov 26]
+Cagliari     3-0 Cittadella
+  [Villa 4, Grassadonia 40, Buso 45+]
+Chievoverona 0-2 Pescara
+  [Palmieri 29p, 83]
+Crotone      3-1 Empoli
+  [Pecorari 13, Giampà 51, De Florio 83; Di Natale 8]
+Piacenza     1-1 Ancona
+  [Volpi 37; Parente 59]
+Siena        3-1 Monza
+  [Pagano 15, Morello 76, Tiribocchi 92; Ganci 83]
+Ternana      3-1 Venezia
+  [Grabbi 10, 66, Schenardi 91; Maniero 78p]
+Treviso      1-1 Cosenza
+  [Morante 59; Zampagna 75]
+[Nov 27]
+Ravenna      0-0 Sampdoria
+[Dec 14]
+Salernitana  1-0 Pistoiese
+  [Di Michele 22]
+
+Round 14
+[Dec 1]
+Pescara      2-2 Salernitana
+  [Palladini 35, Suito 78; Di Michele 62, Guidoni 76]
+[Dec 3]
+Ancona       3-1 Ternana
+  [Parente 29, M.Vieri 71, Melli 94; Grabbi 33p]
+Cittadella   2-0 Crotone
+  [Sturba 17, Scarpa 78]
+Empoli       0-3 Cagliari
+  [Suazo 19, Cammarata 42, 87]
+Monza        1-1 Treviso
+  [Lantignotti 83p; Fanesi 53]
+Pistoiese    3-3 Genoa
+  [Aglietti 8, Gemmi 44, Bizzarri 82; Boisfer 34, Tangorra 48, Atzeni 92]
+Sampdoria    1-1 Siena
+  [Esposito 67; Voria 89]
+Torino       2-1 Ravenna
+  [Colombo 23, Delli Carri 66; Cristante 54]
+Venezia      1-0 Piacenza
+  [Maniero 88p]
+[Dec 4]
+Cosenza      1-2 Chievoverona
+  [Pisano 16; Corini 53p, Franceschini 83]
+
+Round 15
+[Dec 8]
+Cagliari     0-1 Torino
+  [Schwoch 8]
+[Dec 10]
+Chievoverona 5-1 Monza
+  [Manfredini 33, De Cesare 36, Corini 42p, 80p, Corradi 53; Branca 32]
+Crotone      2-2 Siena
+  [Superbi 1, Florjancic 75; Campolonghi 25, Tiribocchi 92]
+Piacenza     2-1 Genoa
+  [Caccia 35, Rastelli 61; Carparelli 50]
+Pistoiese    1-2 Venezia
+  [Bizzarri 33; Bazzani 68, Di Napoli 90p]
+Ravenna      0-0 Cittadella
+Salernitana  0-0 Empoli
+Ternana      3-0 Pescara
+  [Grabbi 28p; Borgobello 34, Adesinha 92]
+Treviso      0-0 Ancona
+[Dec 11]
+Sampdoria    1-0 Cosenza
+  [Marcolin 12]
+
+Round 16
+[Dec 15]
+Piacenza     1-0 Chievoverona
+  [Caccia 68p]
+[Dec 17]
+Ancona       1-1 Cagliari
+  [Parente 86; Lucenti 38]
+Cosenza      0-0 Ternana
+Genoa        3-1 Cittadella
+  [Greco 18, Carparelli 23, Grieco 53; De Gasperi 66]
+Monza        0-1 Ravenna
+  [Dell'Anno 54]
+Pescara      0-3 Treviso
+  [Fanesi 6, Bortoluzzi 18, Murgita 71]
+Salernitana  0-1 Crotone
+  [Deflorio 37]
+Siena        1-0 Pistoiese
+  [Campolonghi 20]
+Torino       1-0 Empoli
+  [Schwoch 33]
+[Dec 18]
+Venezia      2-2 Sampdoria
+  [Maniero 39, Di Napoli 50; Esposito 46, Vergassola 74]
+
+Round 17 [Dec 23]
+Cagliari     0-0 Siena
+Chievoverona 2-1 Venezia
+  [Barone 8, Eriberto 76; Maniero 52]
+Cittadella   1-1 Salernitana
+  [Caverzan 68è; Di Michele 10]
+Crotone      0-0 Genoa
+Empoli       4-2 Monza
+  [Bresciano 11, Iacopino 51, Maccarone 76, Budan 90; Rutzittu 67, Branca 68]
+Pistoiese    1-1 Cosenza
+  [Amerini 70; Zampagna 49]
+Ravenna      1-0 Ancona
+  [Dell'Anno 64p]
+Sampdoria    0-1 Piacenza
+  [Artico 8]
+Torino       1-0 Pescara
+  [Asta 60]
+Treviso      1-1 Ternana
+  [Murgita 87p; Lucchini 85]
+
+Round 18
+[Jan 12]
+Ternana      1-0 Cagliari
+  [Ripa 81]
+[Jan 14]
+Cosenza      0-2 Torino
+  [Schwoch 4, Maspero 92]
+Genoa        0-0 Treviso
+Monza        0-4 Sampdoria
+  [Vergassola 34, Flachi 43p, 72, Vasari 77]
+Pescara      1-2 Crotone
+  [Giampaolo 37; Deflorio 34, 89p]
+Piacenza     1-0 Pistoiese
+  [Caccia 94]
+Salernitana  1-1 Chievoverona
+  [Di Michele 1; Corradi 60]
+Siena        1-1 Cittadella
+  [Sturba 49; Campolonghi 10]
+Venezia      0-0 Ravenna
+[Jan 15]
+Ancona       1-0 Empoli
+  [Melli 63]
+
+Round 19
+[Jan 19]
+Torino       2-0 Salernitana
+  [Colombo 2, Maspero 29]
+[Jan 21]
+Cagliari     3-0 Genoa
+  [Suazo 14, 43, Cammarata 54]
+Chievoverona 2-1 Siena
+  [De Cesare 38, Lanna 87; Cavallo 85]
+Cittadella   2-0 Ancona
+  [Caverzan 83p; Martusciello 87]
+Empoli       2-3 Venezia
+  [Maccarone 28p, Iacopino 64; Valtolina 5, Pavan 41, Marasco 70]
+Pistoiese    3-1 Monza
+  [Bizzarri 21, Zini 77, Baiano 80; Zanini 58]
+Ravenna      0-1 Cosenza
+Sampdoria    1-1 Pescara
+  [Luiso 35; Palladini 18]
+Treviso      0-3 Piacenza
+  [Ambrosetti 13, Caccia 27p, 56]
+[Jan 22]
+Crotone      0-2 Ternana
+  [Dell'Anno 39p, Benin 57]
+
+Round 20
+[Jan 26]
+Genoa        0-1 Chievoverona
+  [De Cesare 40]
+[Jan 28]
+Ancona       1-2 Torino
+  [Melli 81; Schwoch 11, 43]
+Crotone      2-1 Cagliari
+Pescara      0-0 Cosenza
+Piacenza     3-0 Cittadella
+  [Artico 11, 31, Caccia 90]
+Salernitana  1-0 Ravenna
+  [Di Michele 24]
+Ternana      1-1 Sampdoria
+  [Grabbi 30, Marcolin 25]
+Treviso      1-0 Siena
+  [Bianco 51]
+Venezia      4-1 Monza
+  [Marasco 59, Di Napoli 62, Maniero 69p, Valtolina 81; Zanini 87]
+[Jan 29]
+Pistoiese    1-2 Empoli
+  [Baiano 78; Bresciano 62, Maccarone 75]
+
+Round 21
+[Feb 2]
+Cosenza      2-1 Piacenza
+  [Giandebiagi 8, Zampagna 46; Caccia 91p]
+[Feb 4]
+Cagliari     3-2 Treviso
+  [Conti 10, 28, Esposito 59p; Ballarin 60, Fanesi 87]
+Chievoverona 2-1 Ternana
+  [Corini 32p, Corradi 90; Grabbi 45p]
+Cittadella   2-1 Venezia
+  [Turato 33, Sturba 49; Maniero 44p]
+Empoli       2-1 Pescara
+  [Maccarone 31, Di Natale 63; Esposito 68p]
+Monza        1-1 Ancona
+  [Branca 55; Vieri 40]
+Ravenna      1-2 Crotone
+  [Tentoni 72p; Fialdini 77, Aronica 94]
+Siena        1-0 Genoa
+  [Campolonghi 12]
+Torino       2-0 Pistoiese
+  [Bianchini 31og, Artistico 90]
+[Feb 5]
+Sampdoria    2-0 Salernitana
+  [Luiso 54, Lombardo 60]
+
+Round 22
+[Feb 9]
+Pescara      0-0 Cagliari
+[Feb 11]
+Ancona       2-1 Siena
+  [Vieri 50, Parente 57; Tiribocchi 89]
+Crotone      1-2 Cosenza
+  [Deflorio 18; Zampagna 11, Pavone 62]
+Genoa        1-2 Empoli
+  [Carparelli 71p; Di Natale 14, 75]
+Piacenza     1-0 Ravenna
+  [Caccia 5]
+Pistoiese    3-1 Sampdoria
+  [Bellotto 33, Amerini 87, Riccio 91; Luiso 88]
+Salernitana  2-0 Monza
+  [Di Michele 45p, Palmieri 70]
+Ternana      4-1 Cittadella
+  [Fabris 23, Borgobello 30, Grabbi 57, 62; Ferrarese 7]
+Treviso      0-2 Chievo
+  [Manfredini 54, Franceschini 88]
+[Feb 12]
+Venezia      1-0 Torino
+  [Maniero 93]
+
+Round 23
+[Feb 16]
+Monza        1-0 Pescara
+  [Sgrò 80]
+[Feb 18]
+Cagliari     1-1 Salernitana
+  [Buso 27; De Franceschi 30]
+Chievoverona 3-1 Crotone
+  [Corini 38p, Cossato 61, Corradi 90; Pagliarini 10]
+Cittadella   2-1 Pistoiese
+  [Cinetto 58, Baicu 63; Baiano 20]
+Cosenza      1-0 Venezia
+  [Giandebiaggi 60]
+Ravenna      1-1 Genoa
+  [Scapolo 26; Manetti 86]
+Sampdoria    3-1 Ancona
+  [Flachi 26p, 77p, Luiso 85; Parente 38]
+Siena        0-0 Piacenza
+Torino       1-0 Treviso
+  [Fattori 55]
+[Feb 19]
+Empoli       0-0 Ternana
+
+Round 24
+[Feb 23]
+Venezia      2-1 Ancona
+  [Maniero 24, Foglio 45; Russo 84]
+[Feb 25]
+Chievoverona 2-1 Cagliari
+  [Barone 40, Manfredini 53; Suazo 77]
+Crotone      4-3 Treviso
+  [Deflorio 31, 45, Pecorari 65, Fialdini 87; Foggia 38, Giampà 50og, Murgita 77]
+Monza        4-2 Cosenza
+  [Zanini 34, Natali 41, Ganci 87, 92; Savoldi 9, Zampagna 58p]
+Piacenza     2-0 Empoli
+  [Caccia 67p; Gautieri 87]
+Pescara      2-0 Cittadella
+  [Caracciolo 11, Esposito 31]
+Pistoiese    2-2 Ravenna
+  [Bellotto 14, Bizzarri 48p; Vecchiola 9, Cristante 22]
+Sampdoria    2-0 Torino
+  [Flachi 18, Possanzini 32]
+Ternana      4-0 Siena
+  [Mero 19, 83, Grabbi 57, Borgobello 85]
+[Feb 26]
+Salernitana  0-1 Genoa
+  [Francioso 12]
+
+Round 25
+[Mar 2]
+Empoli       0-0 Sampdoria
+[Mar 4]
+Ancona       3-1 Cosenza
+  [Vieri 8, Parente 65p, Albino 81; Zampagna 48]
+Cagliari     0-0 Piacenza
+Crotone      2-2 Venezia
+  [Giampà 14, Deflorio 42; Maini 28, Di Napoli 69]
+Genoa        2-2 Ternana
+  [Francioso 31, 59p; Grabbi 16, Riccio 44]
+Ravenna      2-3 Pescara
+  [Scapolo 14, Scarlato 17; Chianese 38, Galeotto 48, Esposito 90]
+Siena        0-0 Salernitana
+Torino       2-1 Monza
+  [Schwoch 40, Mora 48; Lantignotti 25]
+Treviso      1-2 Pistoiese
+[Mar 5]
+Cittadella   0-0 Chievoverona
+[Mar 11]
+Pescara      0-0 Siena
+
+Round 26
+[Mar 9]
+Piacenza     1-2 Crotone
+  [Maltagliati 88; Deflorio 25, 69]
+[Mar 11]
+Chievoverona 0-0 Ravenna
+Cosenza      1-1 Empoli
+  [Guidoni 70; Banchelli 10]
+Monza        1-0 Cagliari
+  [Maggioni 79]
+Pistoiese    1-1 Ancona
+  [Bizzarri 91; Parente 35]
+Salernitana  0-1 Treviso
+  [Rocchi 25]
+Sampdoria    2-0 Citadella
+  [Luiso 8; Flachi 67p]
+Venezia      1-1 Genoa
+  [Morrone 24; Mutarelli 85]
+[Mar 12]
+Ternana      0-1 Torino
+  [Maspero 45]
+
+Round 27
+[Mar 16]
+Treviso      0-1 Venezia
+  [Maniero 24]
+[Mar 18]
+Ancona       5-2 Chievoverona
+  [Parente 5, 36, Vieri 18, 93, Favo 91; Corradi 7, 31]
+Cagliar      1-1 Sampdoria
+  [Cammarata 86; Flachi 21]
+Cittadella   0-1 Monza
+  [Florio 72]
+Crotone      1-0 Pistoiese
+  [Reggia 55]
+Genoa        0-0 Pescara
+Ravenna      0-2 Empoli
+  [Di Natale 65, Maccarone 71]
+Salernitana  0-0 Ternana
+Torino       1-0 Piacenza
+  [Asta 81]
+[Mar 19]
+Siena        1-0 Cosenza
+  [Sciaccaluga 72]
+
+Round 28
+[Mar 23]
+Monza        1-1 Ternana
+  [Aliyu 48; Benin 63]
+[Mar 25]
+Ancona       3-2 Pescara
+  [Montervino 26, Parlato 76, Vieri 94; Zoppetti 2, Palladini 4]
+Cosenza      1-0 Genoa
+  [Guidoni 59]
+Piacenza     3-1 Salernitana
+  [Artico 19, 49, Caccia 28p; Melosi 59]
+Pistoiese    4-2 Cagliari
+  [Baiano 34p, 42p, Perrone 51, Biancone 90; Camarata 21, Conti 60p]
+Ravenna      1-1 Treviso
+  [Serao 18; Bianco 15]
+Sampdoria    2-1 Crotone
+  [Flachi 2, 21p; Reggi 69p]
+Torino       2-2 Cittadella
+  [Asta 31, Artistico 66; Ghirardello 12, Garzya 71og]
+Venezia      3-0 Siena
+  [Maini 17, 55, Bettarini 71]
+[Mar 26]
+Empoli       1-1 Chievoverona
+  [Iacopino 14; Barone 85]
+
+Round 29
+[Mar 30]
+Cittadella   0-1 Cosenza
+  [Zampgna 59]
+[Apr 1]
+Cagliari     2-0 Ravenna
+  [Cammarata 27, Suazo 74]
+Chievoverona 1-1 Pistoiese
+  [Franceschini 44; Baiano 87]
+Crotone      2-1 Monza
+  [Di Vicino 85, Reggi 89; Rutzittu 91]
+Pescara      2-3 Venezia
+  [Esposito 28, Mazzeo 49; Bazzani 41, Maniero 56, Di Napoli 83]
+Salernitana  4-2 Ancona
+  [De Luca 14, 46, Campedelli 64, Melosi 85;Pedone 67p, De Palma 69]
+Siena        0-2 Torino
+  [Asta 33, Artistico 45]
+Ternana      0-1 Piacenza
+  [Statuto 42]
+[Apr 2]
+Genoa        2-0 Sampdoria
+  [Mutarelli 4, Stroppa 92]
+Treviso      ppd Empoli
+
+Round 30
+[Apr 6]
+Torino       0-0 Chievoverona
+[Apr 8]
+Ancona       2-0 Crotone
+  [Parente 20, 22]
+Cosenza      1-3 Cagliari
+  [Strada 48; Capone 22, Suazo 65, 91]
+Empoli       2-0 Cittadella
+  [Marchionni 32, Zanon 33og]
+Monza        1-5 Genoa
+  [Zanini 88; Comazzi 4og, Francioso 10, 49p, Carparelli 53, 62]
+Pistoiese    2-3 Ternana
+  [Bianchini 61,Perrone 75; Ripa 12, 65, Borgobello 85]
+Ravenna      2-1 Siena
+  [Rigoni 60, 77; Arcardio 17]
+Sampdoria    2-0 Treviso
+  [Flachi 25, Vergassola 85]
+Venezia      2-0 Salernitana
+  [Di Napoli 58p, Maniero 83]
+[Apr 9]
+Piacenza     2-1 Pescara
+  [Caccia 79, Rastelli 85; Mazzeo 45]
+
+Round 31
+[Apr 14]
+Cagliari     2-1 Venezia
+  [Pin 33,Conti 64; Vannucchi 15]
+Chievoverona 1-1 Sampdoria
+  [Manfredini 24; D'Aversa 22]
+Crotone      0-1 Torino
+  [Calaiò 50]
+Genoa        3-1 Ancona
+  [Rossini 35, Carparelli 42, 60; Parlato 45]
+Piacenza     1-0 Monza
+  [Tosto 50]
+Pescara      0-1 Pistoiese
+  [Baiano 65p]
+Salernitana  0-1 Cosenza
+  [Guidoni 16]
+Siena        1-1 Empoli
+  [Sciaccaluga 8; Marchionni 36]
+Ternana      4-0 Ravenna
+  [Borgobello 44, Grabbi 45, 46p, Miccoli 86]
+Treviso      1-2 Cittadella
+  [Pizzi 55; Baicu 80, 92]
+
+Round 32
+[Apr 20]
+Empoli       4-2 Crotone
+  [Di Natale 5, Maccarone 13, 34, Bresciano 65; Belleri 24og, Cyprien 92]
+[Apr 22]
+Ancona       0-2 Piacenza
+  [Caccia 19, Rastelli 54]
+Cittadella   2-0 Cagliari
+  [Caverzan 36, Sturba 47]
+Cosenza      3-2 Treviso
+  [Zampagna 45p, Parisi 49, Lentini 92; Smanio 21, Rocchi 59]
+Monza        1-2 Siena
+  [Aliyu 32; Sciaccaluga 27, Tiribocchi 53]
+Pescara      0-2 Chievoverona
+  [Corradi 19, Cossato 75]
+Pistoiese    1-1 Salernitana
+  [Baiano 38; Di Michele 52]
+Sampdoria    2-0 Ravenna
+  [Vergassola 77, Luiso 82]
+Torino       1-1 Genoa
+  [Schwoch 54; Carparelli 68]
+[Apr 23]
+Venezia      2-1 Ternana
+  [Maniero 23, Di Napoli 70; Grabbi 78]
+
+Round 33
+[Apr 27]
+Cagliari     2-3 Empoli
+  [Buso 13, Cammarata 51; Marchionni 23, Maccarone 45, 82]
+[Apr 29]
+Chievoverona 2-1 Cosenza
+  [Manfredini 80, De Cesare 85; Fiore 76]
+Crotone      2-2 Cittadella
+  [Sculli 29, Fialdini 83; Sturba 31, Turato 89]
+Genoa        0-0 Pistoiese
+Piacenza     1-0 Venezia
+  [Caccia 10]
+Ravenna      1-2 Torino
+  [Chomakov 45; Calaiò 68, Maspero 91]
+Salernitana  3-1 Pescara
+  [Olivi, Di Michele, Moscardi 79; Giampaolo 29]
+Ternana      3-2 Ancona
+  [Benin 44, Grabbi 56p, Miccoli 78; Corallo 11, De Palma 90]
+Treviso      3-0 Monza
+  [Pizzi 53p, Rocchi 54, 74]
+[Apr 30]
+Siena        0-0 Sampdoria
+
+Round 34
+[May 10]
+Torino       2-0 Cagliari
+  [Delli Carri 30, Grassadonia 58og]
+[May 12]
+Ancona       3-1 Treviso
+  [Turrini 28, 53, Albino 54; Minotti 17]
+Cittadella   1-0 Ravenna
+  [Ghirardello 45]
+Cosenza      4-4 Sampdoria
+  [De Francesco 5, Savoldi 33p, 58, Guidoni 72; Flachi 31, 66, Possanzini 69, Mercier 76og]
+Empoli       2-1 Salernitana
+  [Bresciano 26, Maccarone 78p; Vignaroli 75]
+Genoa        1-1 Piacenza
+  [Carparelli 52; Artico 1]
+Monza        1-3 Chievoverona
+  [Ganci 7; Cossato 54, Barone 74, Eriberto 86]
+Pescara      1-3 Ternana
+  [Giacobbo 7; Miccoli 63,78, 89]
+Siena        1-1 Crotone
+  [Voria 90; Sarli 88]
+Venezia      1-0 Pistoiese
+  [Pavan 54]
+
+Round 35 [May 20]
+Cagliari     2-2 Ancona
+  [Suazo 18, Conti 25; Baggio 49, Bono 55]
+Chievoverona 1-1 Piacenza
+  [Volpi 17og; Artico 25]
+Cittadella   1-1 Genoa
+  [Ghirardello 28; Francioso 47]
+Crotone      0-1 Salernitana
+  [Di Michele 28]
+Empoli       2-1 Torino
+  [Marchionni 9, Cappellini 54; Artistico 80]
+Pistoiese    0-1 Siena
+  [Campolonghi 71]
+Ravenna      2-3 Monza
+  [Corrado 10, Tentoni 73p; Damiani 5, 59, Ugali 33]
+Sampdoria    4-1 Venezia
+  [D'Aversa 1, Possanzini 18, Luiso 44, 59; Bettarini 20]
+Ternana      1-1 Cosenza
+  [Miccoli 45; Savoldi 69]
+Treviso      1-0 Pescara
+  [Rocchi 85]
+
+Round 36 [May 27]
+Ancona       2-5 Ravenna
+  [Parente 19, 20; Vakouftsis 25, Pellizzaro 29, 42, Paquito 37, Tentoni 89p]
+Cosenza      1-3 Pistoiese
+  [Guidoni 44; Baiano 24p, 56p, Bellotto 69]
+Genoa        2-0 Crotone
+  [Francioso 55, Mutarelli 65]
+Monza        0-1 Empoli
+  [Marchionni 57]
+Pescara      0-1 Torino
+  [Artistico 26]
+Piacenza     2-1 Sampdoria
+  [Rastelli 71, Gautieri 92; Luiso 6]
+Salernitana  3-0 Cittadella
+  [Di Michele 12, Bolic 60, 82]
+Siena        1-1 Cagliari
+  [Pagano 40; Conti 76p]
+Ternana      3-1 Treviso
+  [Miccoli 46, Grabbi 61, Adesinha 75; Pizzi 15]
+Venezia      2-1 Chievoverona
+  [Di Napoli 5, Bazzani 78; Cossato 64]
+
+Round 37 [Jun 3]
+Cagliari     1-1 Ternana
+  [Suazo 40; Adesinha 75]
+Chievoverona 2-0 Salernitana
+  [Di Cesari 71, D'Anna 87]
+Cittadella   0-0 Siena
+Crotone      2-0 Pescara
+  [Deflorio 15, 65]
+Empoli       3-1 Ancona
+  [Cribari 45, Maccarone 60, Di Natale 72; Staffoleni 25]
+Pistoiese    1-1 Piacenza
+  [Rocco 16; Miceli 4]
+Ravenna      0-3 Venezia
+  [Maini 9, Valtolina 75, Maniero 87p]
+Sampdoria    4-2 Monza
+  [Possanzini 14, Luiso 22, Flachi 56, Casale 84; Ganci 28, Degano 74]
+Torino       2-1 Cosenza
+  [Maspero 55, Peralta 77; Pisano 81]
+Treviso      2-2 Genoa
+  [Minotti, Onolade 85; Francioso 41, Carparelli 90]
+
+Round 38 [Jun 10]
+Ancona       1-1 Cittadella
+  [Staffoleni 18; De Gasperi 22]
+Cosenza      3-1 Ravenna
+  [Pisano 10, Strada 87, Musacco 89; Paquito 71]
+Genoa        2-0 Cagliari
+  [Francioso 77, Mutarelli 80]
+Monza        3-1 Pistoiese
+  [Degano 30, 55, Ganci 52; Bizzarri 85p]
+Pescara      2-2 Sampdoria
+  [Palladini 51, Romano 77p; Marcolin 16, Luiso 56]
+Piacenza     1-1 Treviso
+  [Piovani 88p; Lucarelli 9og]
+Salernitana  0-2 Torino
+  [Maspero 23, Artistico 41]
+Siena        1-1 Chievoverona
+  [Scalzo 73; Corradi 58]
+Ternana      0-0 Crotone
+Venezia      2-2 Empoli
+  [Brivio 21p, Bazzani 26; Iacopino 11, 31]
+
+Final Table:
+
+ 1.Torino          38  22  7  9  48-33  73  Promoted
+ 2.Piacenza        38  20 10  8  48-26  70  Promoted
+ 3.Chievo          38  19 13  6  54-34  70  Promoted
+ 4.Venezia         38  19 12  7  62-43  69  Promoted
+------------------------------------------
+ 5.Sampdoria       38  16 16  6  60-38  64
+ 6.Empoli          38  18 10 10  52-43  64
+ 7.Ternana         38  16 14  8  59-38  62
+ 8.Cosenza         38  17  9 12  49-46  60
+ 9.Crotone         38  15  8 15  47-53  53
+10.Ancona          38  14  9 15  56-58  51
+11.Cagliari        38  12 14 12  53-45  50
+12.Genoa           38  10 17 11  44-39  47
+13.Siena           38  10 17 11  38-43  47
+14.Cittadella      38  10 15 13  40-52  45
+15.Salernitana     38  11 10 17  37-42  43
+16.Pistoiese       38  10 11 17  46-51  41
+------------------------------------------
+17.Treviso         38   8 12 18  40-56  36  Relegated
+18.Monza           38   9  4 25  41-77  31  Relegated
+19.Ravenna         38   4 13 21  33-64  25  Relegated
+20.Pescara         38   3 13 22  30-56  22  Relegated
+
+Topscorers:
+23: Caccia (Piacenza, 7 penalties)
+20: Grabbi (Ternana, 6)
+17: Flachi (Sampdoria, 6)
+16: Deflorio (Crotone, 1)
+    Di Napoli (Venezia, 4)
+    Maccarone (Empoli, 2)
+15: Maniero (Venezia, 5)
+    Parente (Ancona, 4)
+14: Di Michele (Salernitana, 2)
+12: Baiano (Pistoiese, 5)
+    Carparelli (Genoa, 1)
+    Corradi (Chievoverona)
+    Francioso (Genoa, 3),
+    Suazo (Cagliari)
+11: Cammarata (Cagliari, 1)
+10: Borgobello (Ternana)
+    Luiso (Sampdoria)
+    Savoldi (Cosenza, 1)
+    Vieri (Ancona)
+    Zampagna (Cosenza, 2)
+
+
+Third Level (Serie C1)
+
+Group A
+
+Round 1 [Sep 3]
+Albinoleffe 0-0 Alzano Virescit
+Alessandria 0-3 Livorno
+  [Protti 30, Geraldi 82, Falco 89]
+Brescello   1-3 Lucchese
+  [Corradi 18; Borneo 48, Tarantino 55, Citterio 91]
+Carrarese   0-1 Como
+  [Ardito 86]
+Lecco       3-4 Reggiana
+  [Bertolini 20, 75p, Loria 94; Lasota 19, 67, Mussi 82, Pirri 91]
+Lumezzane   0-0 Spezia
+Modena      1-0 Spal
+  [Califano 53p]
+Pisa        2-1 Arezzo
+  [Costanzo 41, Frau 58p; Russo 37]
+Varese      0-2 Cesena
+  [Taldo 21, 74]
+
+Round 2
+[Sep 10]
+Alzano Vir. 1-0 Alessandria
+  [Madonna 51]
+Arezzo      0-2 Modena
+  [Fabbrini 57, Legrottaglie 76]
+Como        0-0 Lumezzane
+Livorno     1-1 Varese
+  [Protti 7p; Comi 47p]
+Lucchese    1-1 Carrarese
+  [Borneo 25; Cavalli 56]
+Reggiana    1-2 Albinoleffe
+  [Cherubini 61; Araboni 52, Nicoletti 86og]
+Spal        1-0 Pisa
+  [Tomei 34]
+Spezia      2-1 Brescello
+  [Zabiolo 40, Menolascina 55; Corradi 72]
+[Sep 11]
+Cesena      2-1 Lecco
+  [Tresoldi 8, Campolonghi 28; Breschi 73]
+
+Round 3 [Sep 17]
+Albinoleffe 1-0 Spezia
+  [Poloni 23]
+Alessandria 0-1 Como
+  [Ferrigno 72]
+Brescello   1-1 Arezzo
+  [Catanese 28; Nicolas 45+]
+Carrarese   0-0 Spal
+Lecco       1-0 Livorno
+  [Rizzolo 37]
+Lucchese    3-1 Reggiana
+  [Montanari 8, Marianini 36, Tarantino 40; Mussi 61]
+Modena      3-1 Lumezzane
+  [Veronese 6, Greco 55p, Ungari 73; Gola 63]
+Pisa        1-1 Cesena
+  [Sordo 49; Campolonghi 10]
+Varese      1-1 Alzano Virescit
+  [Sala 19; Saverino 43]
+
+Round 4
+[Sep 24]
+Alzano V.   1-0 Brescello
+  [Schroder 81]
+Arezzo      0-1 Albinoleffe
+  [Araboni 53]
+Cesena      0-2 Modena
+  [Veronese 24, Califano 81]
+Como        1-0 Lucchese
+  [Brevi 82]
+Livorno     3-2 Carrarese
+  [Protti 48, 87p, Geraldi 55; Masitto 27, Fiorentini 79]
+Lumezzane   3-0 Lecco
+  [Trapella 9, Guidetti 21, Beretta 39]
+Reggiana    1-1 Varese
+  [Rabito 84; Ferronato 91]
+Spal        2-2 Alessandria
+  [Logarzo 45p, Cancellato 73; Zirafa 39, Spazzola 77]
+[Sep 25]
+Spezia      3-0 Pisa
+
+Round 5 [Oct 1]
+Alessandria 1-0 Albinoleffe
+  [Zirafa 5]
+Brescello   1-1 Livorno
+  [Protti C. 45+; Geraldi 72]
+Carrarese   1-1 Reggiana
+  [Cottafava 12; Tirocini 53]
+Lecco       0-1 Spezia
+  [Menolascina 56p]
+Lucchese    1-3 Cesena
+  [Borneo 47; Tresoldi 21, Taldo 75p, Campolonghi 83p]
+Modena      3-2 Alzano Virescit
+  [Quaglia 29, Balestri 45, Grieco 50; Sensibile 68, Ferrari 79]
+Pisa        2-2 Lumezzane
+  [Buscè 47p, 75p; Mastrolilli 1, Rovaris 21]
+Spal        2-1 Arezzo
+  [Bruno 26, Cancellato 84; Benfari 5]
+Varese      1-0 Como
+  [Saverino 68p]
+
+Round 6 [Oct 8]
+Albinoleffe 0-0 Carrarese
+Alzano V.   0-0 Lucchese
+Arezzo      1-0 Varese
+  [Benfari 47]
+Cesena      2-1 Alessandria
+  [Taldo 50, Paradiso 64; Scaglia 14]
+Como        4-0 Lecco
+  [Carruezzo 32, 60, Stellini 37, Ferrigno 54]
+Lumezzane   2-1 Spal
+  [Guidetti 28, Bruni 32; Cancellato 57]
+Pisa        0-0 Brescello
+Reggiana    1-2 Livorno
+  [Sinagra 73; Alessi 35, Lorenzini 67p]
+Spezia      2-3 Modena
+  [Melucci 58, Menolascina 78p; Veronese 26, Fabbrini 61, Califano 67]
+
+Round 7 [Oct 16]
+Albinoleffe 2-1 Cesena
+  [Bifini 19, Gruppi 65; Paradiso 23]
+Alessandria 0-0 Brescello
+Alzano V.   1-2 Lumezzane
+  [Ferrari 27; Guidetti 38, Buscè 75]
+Carrarese   1-0 Arezzo
+  [Fiorin 2p]
+Lecco       0-0 Pisa
+Livorno     2-1 Como
+  [Fanucci 45+, Protti 88; Femiano 94]
+Lucchese    0-1 Modena
+  [Grieco 67p]
+Reggiana    2-2 Spal
+  [Mussi 67, Ariatti 94; Cancellato 34, Andreotti 74]
+Varese      0-1 Spezia
+  [Zaniolo 23]
+
+Round 8 [Oct 22]
+Arezzo      4-1 Reggiana
+  [Benfari 18, Sonetto 35, Bacci 59, Rinino 60p; Rabito 19]
+Brescello   1-1 Albinoleffe
+  [Fusani 5p; Bifini 21p]
+Cesena      0-0 Alzano Virescit
+Lecco       0-2 Alessandria
+  [Signorelli 23, Bonuccelli 90]
+Lumezzane   2-1 Carrarese
+  [Guidetti 12, Trapella 78; Masitto 87p]
+Modena      1-0 Varese
+  [Gorini 77og]
+Pisa        2-1 Lucchese
+  [Frau 31p, Costanzo 53; Girali 38]
+Spal        1-2 Como
+  [Cancellato 40p; Carruezzo 4, Ferrigno 64]
+Spezia      3-0 Livorno
+  [Fiori 5, Menolascina 22p, Carlet 92]
+
+Round 9 [Oct 29]
+Albinoleffe 0-0 Pisa
+Alessandria 1-2 Arezzo
+  [Zirafa 45+pen; Benfari 51, Ricchiuti 53]
+Alzano V.   0-1 Spezia
+  [Bordin 57]
+Carrarese   1-2 Lecco
+  [Ragone 57; Rizzolo 39, Bertolini 59]
+Como        1-0 Brescello
+  [Ferrigno 91p]
+Livorno     3-1 Modena
+  [Alessi 2, Protti 25, Geraldi 32; Fabbrini 73]
+Lucchese    1-0 Lumezzane
+  [Giraldi 69]
+Reggiana    0-1 Cesena
+  [Chiaretti 41]
+Varese      0-0 Spal
+
+Round 10 [nov 5]
+Arezzo      2-1 Livorno
+  [Benfari 48, Ricciuti 53; Abbruscato 40]
+Brescello   0-0 Carrarese
+Cesena      1-0 Como
+  [Chiaretti 48]
+Lecco       1-1 Lucchese
+  [Rizzolo 36p; Borneo 29]
+Lumezzane   2-2 Albinoleffe
+  [Guidetti 3, Beretta 35; Groppi 9, Sonzogni 72]
+Modena      2-0 Reggiana
+  [Pasino 32, Greco 45+]
+Pisa        2-1 Varese
+  [Costanzo 58p, Beroncelli 90; Saverino 74p]
+Spal        1-3 Alzano Virescit
+  [Temelin 65; Bernardi 3, 5, Ferrari 59]
+Spezia      1-0 Alessandria
+  [Zaniolo 40]
+
+Round 11 [Nov 19]
+Alessandria 0-2 Lumezzane
+  [Ghizzani 20, 78]
+Albinoleffe 1-1 Spal
+  [Araboni 63; Temelin 66]
+Alzano V.   1-3 Lecco
+  [Solimeno 3; Bertolini 4, Rizzolo 12, 48]
+Carrarese   1-1 Varese
+  [Masitto 40p; Fava Passaro 46]
+Cesena      1-1 Spezia
+  [Taldo 63p; Zaniolo 49]
+Como        1-0 Modena
+  [Centi 68p]
+Livorno     3-0 Pisa
+  [Alessi 33, Nincheri 35, Lorenzini 87]
+Lucchese    1-2 Arezzo
+  [Borneo 71; Frick 29, 32]
+Reggiana    2-1 Brescello
+  [Mussi 71, D'Agnelo 87; Corradi 20]
+
+Round 12 [Nov 26]
+Arezzo      2-1 Como
+  [Benfari 9, Frick 69; Stellini 80]
+Brescello   3-2 Cesena
+  [Alteri 2, Fusani 29, Protti 89; Chiaretti 31, Taldo 82]
+Lecco       0-0 Albinoleffe
+Lumezzane   1-1 Livorno
+  [Soligo 22; Lorenzini 52]
+Modena      1-1 Carrarese
+  [Fabbrini 27; Armellini 93og]
+Pisa        2-0 Alzano
+  [Costanzo 35, Nicolini 75]
+Spal        2-2 Lucchese
+  [Cancellato 46, Di Somma 56; Tarantino 12, Della Morte 49]
+Spezia      0-2 Reggiana
+  [Cherubini 35, Mussi 75]
+Varese      1-0 Alessandria
+  [Fava 48]
+
+Round 13 [Dec 3]
+Albinoleffe 0-0 Modena
+Alessandria 1-1 Pisa
+  [Favi 87; Greco 45+]
+Alzano V.   0-2 Arezzo
+  [Benfari 32p, Sonetto 38]
+Brescello   1-1 Lecco
+  [Alteri 20; Schiavon 17]
+Cesena      2-3 Lumezzane
+  [Stringardi 25, Taldo 41p; Cossu 8, Beretta 83p, Zanoletti 92]
+Como        1-0 Reggiana
+  [Memmo 94]
+Livorno     1-0 Spal
+  [Nincheri 75]
+Lucchese    0-0 Varese
+Spezia      2-3 Carrarese
+  [Fiori 18, Chiappara 31; Salvi 30, 65, Ganozzi 45+]
+
+Round 14 [Dec 10]
+Arezzo      0-2 Spezia
+Carrarese   2-1 Cesena
+Como        2-1 Alzano Virescit
+Livorno     2-0 Lucchese
+Lumezzane   0-0 Brescello
+Modena      0-1 Pisa
+Reggiana    2-3 Alessandria
+Spal        1-0 Lecco
+Varese      1-0 Albinoleffe
+
+Round 15 [Dec 17]
+Albinoleffe 0-0 Como
+Alessandria 0-1 Modena
+Alzano V.   2-2 Reggiana
+Brescello   3-3 Spal
+Cesena      1-1 Livorno
+Lecco       1-0 Arezzo
+Lumezzane   0-2 Varese
+Pisa        0-3 Carrarese
+Spezia      2-0 Lucchese
+
+Round 16 [Dec 23]
+Arezzo      3-1 Lumezzane
+Carrarese   2-1 Alessandria
+Como        1-0 Spezia
+Livorno     3-1 Alzano Virescit
+Lucchese    0-0 Albinoleffe
+Modena      1-0 Brescello
+Reggiana    1-2 Pisa
+Spal        1-1 Cesena
+Varese      1-0 Lecco
+
+Round 17 [Jan 7]
+Albinoleffe 1-1 Livorno
+Alessandria 0-0 Lucchese
+Alzano V.   1-1 Carrarese
+Brescello   0-0 Varese
+Cesena      1-3 Arezzo
+Lecco       0-2 Modena
+Lumezzane   1-1 Reggiana
+Pisa        1-1 Como
+Spezia      1-1 Spal
+
+Round 18 [Jan 14]
+Alzano V.   1-2 Albinoleffe
+Arezzo      2-0 Pisa
+Cesena      0-0 Varese
+Como        1-0 Carrarese
+Livorno     2-0 Alessandria
+Lucchese    2-2 Brescello
+Reggiana    1-0 Lecco
+Spal        1-0 Modena
+Spezia      1-0 Lumezzane
+
+Round 19 [Jan 21]
+Albinoleffe 0-2 Reggiana
+Alessandria 0-1 Alzano Virescit
+Brescello   2-1 Spezia
+Carrarese   2-3 Lucchese
+Lecco       0-2 Cesena
+Lumezzane   2-3 Como
+Modena      4-1 Arezzo
+Pisa        0-2 Spal
+Varese      1-1 Livorno
+
+Round 20 [Jan 28]
+Alzano V.   2-2 Varese
+Arezzo      3-1 Brescello
+Cesena      2-0 Pisa
+Como        3-1 Alessandria
+Livorno     3-0 Lecco
+Lumezzane   0-0 Modena
+Reggiana    0-2 Lucchese
+Spal        3-0 Carrarese
+Spezia      1-0 Albinoleffe
+
+Round 21 [Feb 4]
+Albinoleffe 0-0 Arezzo
+Alessandria 1-1 Spal
+Brescello   0-0 Alzano Virescit
+Carrarese   0-0 Livorno
+Lecco       0-2 Lumezzane
+Lucchese    1-0 Como
+Modena      0-0 Cesena
+Pisa        2-0 Spezia
+Varese      1-3 Reggiana
+
+Round 22 [Feb 11]
+Albinoleffe 1-1 Alessandria
+Alzano      1-3 Modena
+Arezzo      0-0 Spal
+Cesena      0-0 Lucchese
+Como        1-0 Varese
+Livorno     4-0 Brescello
+Lumezzane   2-0 Pisa
+Reggiana    0-1 Carrarese
+Spezia      0-1 Lecco
+
+Round 23 [Feb 18]
+Alessandria 1-1 Cesena
+Brescello   0-2 Pisa
+Carrarese   1-1 Albinoleffe
+Lecco       1-0 Como
+Livorno     5-0  Reggiana
+Lucchese    2-1 Alzano
+Modena      4-1 Spezia
+Spal        2-0  Lumezzane
+Varese      2-3  Arezzo
+
+Round 24 [Feb 25]
+Arezzo      3-2 Carrarese
+Brescello   1-1 Alessandria
+Cesena      2-2 Albinoleffe
+Como        0-0 Livorno
+Lumezzane   1-1 Alzano
+Modena      2-0 Lucchese
+Pisa        0-0  Lecco
+Spal        1-0 Reggiana
+Spezia      1-2 Varese
+
+Round 25 [Mar 4]
+Albinoleffe 0-1 Brescello
+Alessandria 1-1 Lecco
+Alzano      1-1 Cesena
+Carrarese   0-2 Lumezzane
+Como        2-0 Spal
+Livorno     0-0 Spezia
+Lucchese    0-1 Pisa
+Reggiana    0-0 Arezzo
+Varese      1-2 Modena
+
+Round 26 [Mar 11]
+Arezzo      4-1 Alessandria
+Brescello   1-1 Como
+Cesena      1-0 Reggiana
+Lecco       2-0 Carrarese
+Lumezzane   0-3 Lucchese
+Modena      2-1 Livorno
+Pisa        1-1 Albinoleffe
+Spal        0-0 Varese
+Spezia      2-0 Alzano
+
+Round 27 [Mar 18]
+Albinoleffe 1-1 Lumezzane
+Alessandria 0-2 Spezia
+Alzano      1-0 Spal
+Carrarese   1-0 Brescello
+Como        1-0 Cesena
+Livorno     5-3 Arezzo
+Lucchese    2-0 Lecco
+Reggiana    0-0 Modena
+Varese      1-0 Pisa
+
+Round 28 [Mar 25]
+Arezzo      1-1 Lucchese
+Brescello   4-1  Reggiana
+Lecco       2-1 Alzano
+Lumezzane   2-1 Alessandria
+Modena      0-0 Como
+Pisa        0-2 Livorno
+Spal        2-1 Albinoleffe
+Spezia      0-0 Cesena
+Varese      1-1 Carrarese
+
+Round 29 [Apr 8]
+Albinoleffe 4-1 Lecco
+Alessandria 0-2 Varese
+Alzano      0-0 Pisa
+Carrarese   1-1 Modena
+Cesena      1-0 Brescello
+Como        2-0 Arezzo
+Livorno     3-0 Lumezzane
+Lucchese    2-2 Spal
+Reggiana    1-1 Spezia
+
+
+Round 30 [Apr 14]
+Arezzo      1-0 Alzano
+Carrarese   0-1 Spezia
+Lecco       3-2 Brescello
+Lumezzane   0-0 Cesena
+Modena      2-0 Albinoleffe
+Pisa        0-1 Alessandria
+Reggiana    0-2 Como
+Spal        1-1 Livorno
+Varese      0-0 Lucchese
+
+Round 31 [Apr 22]
+Albinoleffe 1-2 Varese
+Alessandria 0-0 Reggiana
+Alzano      0-2 Como
+Brescello   2-3 Lumezzane
+Cesena      3-2  Carrarese
+Lecco       2-1  Spal
+Lucchese    1-0 Livorno
+Pisa        1-1  Modena
+Spezia      2-0 Arezzo
+
+Round 32 [Apr 29]
+Arezzo      0-2 Lecco
+Carrarese   0-1 Pisa
+Como        4-1 Albinoleffe
+Livorno     1-0 Cesena
+Lucchese    3-1 Spezia
+Modena      4-1 Alessandria
+Reggiana    0-0 Alzano
+Spal        1-1 Brescello
+Varese      1-1 Lumezzane
+
+Round 33 [May 6]
+Albinoleffe 1-0 Lucchese
+Alessandria 2-1  Carrarese
+Alzano      0-0 Livorno
+Brescello   0-1  Modena
+Cesena      3-2  Spal
+Lecco       1-1  Varese
+Lumezzane   3-3  Arezzo
+Pisa        1-1  Reggiana
+Spezia      1-2  Como
+
+Round 34 [May 13]
+Arezzo      3-2 Cesena
+Carrarese   3-4 Alzano
+Como        2-1  Pisa
+Livorno     0-0  Albinoleffe
+Lucchese    3-1 Alessandria
+Modena      2-0 Lecco
+Reggiana    2-2  Lumezzane
+Spal        2-2  Spezia
+Varese      0-0 Brescello
+
+Final Table:
+
+Modena        74  34 22  8  4  52-20 Promoted
+------------------------------------
+Como          72  34 22  6  6  44-18 Promoted after play-off
+Livorno       63  34 17 12  5  56-25
+Arezzo        54  34 16  6 12  52-46
+Spezia        52  34 15  7 12  39-32
+ - - - - - - - - - - - - - - - - - -
+Cesena        49  34 12 13  9  40-35
+Lucchese      48  34 12 12 10  39-33
+Lumezzane     47  34 11 14  9  43-43
+Spal          43  34  9 16  9  40-38
+Varese        43  34  9 16  9  28-28
+Pisa          42  34 10 12 12  26-36
+Lecco         40  34 11  7 16  29-46
+AlbinoLeffe   39  34  7 18  9  27-31
+ - - - - - - - - - - - - - - - - - -
+Carrarese     33  34  7 12 15  35-45
+Alzano        31  34  6 13 15  29-44 Relegated after play-out
+Reggiana      30  34  6 12 16  34-53
+Brescello     28  34  4 16 14  30-44 Relegated after play-out
+------------------------------------
+Alessandria   25  34  5 10 19  25-50 Relegated
+
+Play-off
+
+Semifinals
+
+[May 27]
+Spezia      0-1 Como
+Arezzo      1-3 Livorno
+
+[Jun 3]
+Como        0-0 Spezia
+Livorno     2-0 Arezzo
+
+Finals
+
+[Jun 10]
+Livorno     0-0 Como
+
+[Jun 17]
+Como        1-0 Livorno
+
+Como promoted to serie B
+
+Play-out
+
+[May 27]
+Brescello   2-2 Carrarese
+Reggiana    2-1 Alzano
+
+[June 3]
+Carrarese   0-0 Brescello
+Alzano      0-0 Reggiana
+
+Brescello and Alzano relegated to Serie C2
+
+
+Group B
+
+Round 1 [Sep 4]
+Atletico Catania 1-1 Fidelis Andria
+  [Moscelli 76p; Vallarella 60]
+Castel di Sangro 1-1 Palermo
+  [Varricchio 18; Elia 28]
+Fermana          1-1 Avellino
+  [Di Venanzio 72; Gennari 45+]
+Giulianova       2-3 Savoia
+  [Putelli 45p, 67; Greco 48, Antonaccio 69, Frezza 88]
+L'Aquila         3-1 Benevento
+  [Perna 5, Lanotte 18, Di Nicola 52; Aruta 58]
+Lodigiani        3-2 Torres
+  [Manca 30, 80, Sanetti 85; Karasavvidis 35, Guarneri 54]
+Nocerina         2-3 Ascoli
+  [Aurino 4, Pilleddu 62p; Manni 57, Pompei 71, Caputo 77]
+Vis Pesaro       0-0 Catania
+Viterbese        0-0 Messina
+
+Round 2 [Sep 10]
+Ascoli           1-1 Viterbese
+  [Amore 44; La Canna 16]
+Avellino         1-3 Lodigiani
+  [Gennai 30; Manca 21, Toscano 28, Lucidi 81]
+Benevento        3-2 Castel di Sangro
+  [De Angelis 35, 91, Di Giulio 48; Stefani 45+, Gonfalone 70]
+Catania          5-2 Fermana
+  [Orfei 50p, 94p, Marino 62, Turchi 73, Passiatore 82; Lemme 42, Bonfanti 79]
+Fidelis Andria   0-1 Nocerina
+  [Aurino 75]
+Messina          1-1 Vis Pesaro
+  [Torino 23p; Ripa 57p]
+Palermo          2-0 Giulianova
+  [Belmonte 45+, Elia 77p]
+Savoia           4-1 L'Aquila
+  [Fresta 32, 84, Cariello 78, Greco 90 ; Nicola 89]
+Torres           1-1 Atletico Catania
+  [Amoruso 17p; Moscelli 79]
+
+Round 3
+[Sep 17]
+Atletico Catania 2-3 Savoia
+  [Bonazzi 57, Manca 69, Caputi 75; Campo 35, Greco 91]
+Avellino         1-2 Fidelis Andria
+  [Mascara 39; Santoruvo 24, Pezzulli 83]
+Castel di Sangro 1-2 Catania
+  [Varricchio 30; Zeoli 18, Turchi 48]
+Giulianova       0-0 Ascoli
+L'Aquila         2-0 Torres
+Lodigiani        1-2 Benevento
+  [Pratali 47; Aruta 18, Bonfiglio 92]
+  [Di Nicola 44, Cecchini 45+]
+Vis Pesaro       0-1 Palermo
+  [Maggiolini 49]
+Viterbese        0-1 Nocerina
+  [De Juliis 78p]
+[Sep 18]
+Fermana          1-1 Messina
+
+Round 4 [Sep 24]
+Ascoli           0-0 Vis Pesaro
+Benevento        1-3 Fermana
+  [Aruta 81; Lemme 35, Di Venanzio 69, Bonfanti 74]
+Catania          0-1 L'Aquila
+  [Di Nicola 36p]
+Fidelis Andria   1-2 Viterbese
+  [Carrozzieri 25p; Merlo 13, Russo 87]
+Messina          2-1 Atletico Catania
+  [Torino 53, Bellotti 93; Panesi 80]
+Nocerina         0-0 Castel di Sangro
+Palermo          1-0 Avellino
+  [Caprioli 10p]
+Savoia           1-0 Lodigiani
+  [Anselmi 38og]
+Torres           2-1 Giulianova
+  [Udassi 21, Langella 35; Di Domenico 45+]
+
+Round 5
+[Sep 30]
+Lodigiani        1-2 Palermo
+  [Chiopris 78p; La Grotteria 51, 59]
+[Oct 1]
+Avellino         2-0 Nocerina
+  [Fini 30, Gennai 58]
+Benevento        5-4 Savoia
+  [Bonfiglio 1, 34, 85, Aruta 10, 62p; Alfieri 19, Fresta 45+, Greco 81p, Marta 91]
+Castel di Sangro 2-3 Ascoli
+  [Rosamilia 5 Moretti 39p; Amore 22, Fontana 35p, Caputo 60]
+Catania          4-0 Messina
+  [Recchi 5, Muntasser 24, Marino 72, Tapparella 87]
+Fermana          3-0 Torres
+  [Bonfanti 32, 92, Perra 77]
+Giulianova       1-1 Atletico Catania
+  [Amato 45+; Panesi 5]
+L'Aquila         4-0 Fidelis Andria
+  [Grossi 9, Di Nicola 32p, 46, Battaglia 57]
+Viterbese        0-1 Vis Pesaro
+  [Ripa 54p]
+
+Round 6 [Oct 8]
+Ascoli           1-1 Catania
+  [Frati 89; Zeoli 39]
+Atletico Catania 1-1 Fermana
+  [Moscelli 47; Bonfanti 4]
+Palermo          2-0 Benevento
+  [Belmonte 40, Cappioli 43p]
+L'Aquila         3-0 Lodigiani
+  [Di Nicola 44, 70, 82]
+Messina          4-0 Fidelis Andria
+  [Buoncuore 22, Godeas 71, Torino 87, Marra F. 92]
+Nocerina         0-0 Giulianova
+Savoia           1-1 Viterbese
+  [Cariello 50; La Canna 22]
+Torres           2-2 Avellino
+  [Udassi 43, Chechi 64; Mendil 19, Gennari 69]
+Vis Pesaro       0-2 Castel di Sangro
+  [Gonfalone 25, Moretti 68p]
+
+Round 7
+[Oct 16]
+Avellino         2-1 Atletico Catania
+  [Costantino 25, 71p; Moscelli 38p]
+Benevento        0-0 Torres
+Castel di Sangro 4-1 Lodigiani
+  [Moretti 29, 33, Varricchio 42, Gonfalone 62; Farris 91p]
+Catania          1-1 Savoia
+  [Marino 46; Kanjengele 94]
+Fermana          0-0 L'Aquila
+Fidelis Andria   1-1 Ascoli
+  [Carrozzieri 90p; Fontana 24p]
+Giulianova       1-0 Vis Pesaro
+  [D'Angelo 9]
+Viterbese        1-1 Palermo
+  [R.Paci 45p; Brienza 19]
+[Oct 17]
+Messina          1-1 Nocerina
+  [Torino 60, Arco 76]
+
+Round 8 [Oct 22]
+Ascoli           1-0 Messina
+  [Godeas 62]
+Atletocp Catania 0-2 Viterbese
+  [La Canna 15, 69]
+Giulianova       0-0 Castel di Sangro
+Lodigiani        1-0 Fermana
+  [Toscano 30]
+L'Aquila         0-0 Avellino
+Nocerina         2-3 Savoia
+  [Langella 61, De Iuliis 64; Kanjengele 2, Frezza 84, Greco 89p]
+Palermo          5-1 Catania
+  [Cappioli 26p, 74, La Grotteria 32, Elia 84, 93; Cicconi 67]
+Torres           2-0 Fidelis Andria
+  [Amoruso 6, Udassi 9]
+Vis Pesaro       3-1 Benevento
+  [Ripa 8p, 17p, Pittalunga 75; Bonfiglio 14]
+
+Round 9 [Oct 29]
+Ascoli           1-0 L'Aquila
+  [Pompei 90]
+Benevento        1-1 Avellino
+  [Luisi 93; Costantino 22]
+Castel di Sangro 4-1 Atletico Catania
+  [Moretti 15, 51p; Rosamilia 33, Varricchio 87; Moscelli 45+]
+Catania          1-3 Giulianova
+  [Cicconi 72; Andrisani 5, Putelli 47, 75]
+Fidelis Andria   0-0 Fermana
+Messina          2-3 Torres
+  [Di Fausto 8, Godeas 92; Langella 15, Amoruso 51, Udassi 83]
+Nocerina         1-0 Vis Pesaro
+  [Pilleddu 93]
+Savoia           5-1 Palermo
+  [Pellegrini 21, Greco 26, Kanjegele 50, 65, Cariello 70; Elia 10]
+Viterbese        0-1 Lodigiani
+  [Sanetti 15]
+
+Round 10 [Nov 5]
+Atletico Catania 0-1 Catania
+  [Orfei 39p]
+Avellino         1-1 Ascoli
+  [Mascara 89; Frati 61]
+Castel di Sangro 0-0 Messina
+Fermana          0-1 Savoia
+  [Kanjengele 85]
+Giulianova       3-3 Benevento
+  [Putelli 70p, D'Angelo 85, 94; Bonfiglio 24, De Angelis 34, Aruta 89p]
+Lodigiani        0-1 Nocerina
+  [Barbera 15p]
+L'Aquila         1-0 Palermo
+  [Grossi 43]
+Torres           1-1 Viterbese
+  [Udassi 75; Florean 57]
+Vis Pesaro       3-1 Fidelis Andria
+  [Gennari 42, Ripa 45+p, Martini 54; Canfora 44]
+
+Round 11 [Nov 19]
+Ascoli           1-0 Fermana
+  [Passiatore 48]
+Catania          2-0 Lodigiani
+  [Bresciani 29, Caracciolo 93]
+Fidelis Andria   2-3 Castel di Sangro
+  [Di Giannatale 54, Del Prete 61p; Falco 28p, Rosamilia 35, Noselli 45+]
+Messina          3-1 Benevento
+  [Godeas 22, Criaco 30, Scaringella 58; Bonfiglio 63p]
+Nocerina         2-3 Atletico Catania
+  [Pilleddu 38, Aurino 67; Archetti 4, Moscelli 11, Panesi 30]
+Palermo          1-1 Torres
+  [Belmonte 23; Chechi 44]
+Savoia           0-2 Avellino
+  [Fini 6, Mascara 45+]
+Vis Pesaro       0-0 L'Aquila
+Viterbese        0-0 Giulianova
+
+Round 12 [Nov 26]
+Atletico Catania 0-1 Palermo
+  [Belmonte 34]
+Avellino         2-0 Catania
+  [Mascara 8, Recchi 16og]
+Benevento        1-1 Ascoli
+  [Aruta 10; Bitetti 56]
+Castel di Sangro 1-1 Viterbese
+  [Bonfanti 32; Zappella 35]
+Fermana          2-0 Vis Pesaro
+  [Lemme 30, Bonfanti 33]
+Giulianova       1-1 Fidelis Andria
+  [Putelli 4; Landini 86]
+Lodigiani        1-1 Messina
+  [Manca 35; Torino 80]
+L'Aquila         2-0 Nocerina
+  [Battaglia 39, Di Nicola 42]
+Torres           2-1 Savoia
+  [Amoroso L. 34, Amoroso F. 90; Kanjegele 81]
+
+Round 13 [Dec 3]
+Ascoli           1-1 Atletico Catania
+  [De Fedudos 45; Moscelli 87]
+Catania          0-0 Benevento
+Fidelis Andria   1-1 Lodigiani
+  [Landini 29; Lucidi 33]
+Messina          3-0 Giulianova
+  [Criaco 18, Bellotti 36, Buoncore 83]
+Nocerina         3-1 Torres
+  [Aurino 26, Pilleddu 67, Barbera 73; Udassi 79]
+Palermo          1-0 Fermana
+  [La Grotteria 80]
+Savoia           0-2 Castel di Sangro
+  [Conversano 32, Pittilino 93]
+Vis Pesaro       2-2 Avellino
+  [Gennari 8, D'Antoni 83; Mascara 46, 94]
+Viterbese        0-0 L'Aquila
+
+Round 14 [Dec 10]
+Atletico Catania 0-0 Vis Pesaro
+Avellino         2-1 Viterbese
+Benevento        1-1 Nocerina
+Fermana          0-0 Giulianova
+L'Aquila         0-2 Castel di Sangro
+Lodigiani        1-0 Ascoli
+Palermo          1-2 Messina
+Torres           3-0 Catania
+Savoia           1-1 Fidelis Andria
+
+Round 15 [Dec 17]
+Ascoli           3-0 Savoia
+Atletico Catania 2-0 Lodigiani
+Castel di Sangro 1-1 Fermana
+Fidelis Andria   1-0 Palermo
+Giulianova       1-4 Avellino
+Messina          1-0 L'Aquila
+Nocerina         1-1 Catania
+Vis Pesaro       2-1 Torres
+Viterbese        1-1 Benevento
+
+Round 16 [Dec 23]
+Avellino         3-0 Castel di Sangro
+Benevento        1-1 Atletico Catania
+Catania          0-0 Fidelis Andria
+Fermana          2-3 Viterbese
+L'Aquila         2-0 Giulianova
+Lodigiani        0-0 Vis Pesaro
+Palermo          1-0 Nocerina
+Torres           4-2 Ascoli
+Savoia           1-1 Messina
+
+Round 17 [Jan 7]
+Ascoli     3-3 Palermo
+Atletico Catania 1-2 L'Aquila
+Castel di Sangro 1-2 Torres
+Fidelis Andria   1-1 Benevento
+Giulianova   0-3 Lodigiani
+Messina     0-0 Avellino
+Nocerina   1-0 Fermana
+Vis Pesaro   3-0 Savoia
+Viterbese   2-1 Catania
+
+Round 18 [Jan 14]
+Fidelis Andria   0-1 Atletico Catania
+Palermo     1-0 Castel di Sangro
+Avellino   1-1 Fermana
+Savoia     0-0 Giulianova
+Benevento   2-1 L'Aquila
+Torres           1-1 Lodigiani
+Ascoli     2-0 Nocerina
+Catania     2-1 Vis Pesaro
+Messina     2-2 Viterbese
+
+Round 19 [Jan 21]
+Viterbese   0-1 Ascoli
+Lodigiani   1-1 Avellino
+Castel di Sangro 3-0 Benevento
+Fermana     2-1 Catania
+Nocerina   0-3 Fidelis Andria
+Vis Pesaro   0-0 Messina
+Giulianova   2-2 Palermo
+Atletico Catania 2-3 Torres
+L'Aquila   1-2 Savoia
+
+Round 20 [Jan 28]
+Savoia     1-0 Atletico Catania
+Fidelis Andria   1-1 Avellino
+Catania     2-0 Castel di Sangro
+Messina     2-1 Fermana
+Ascoli     1-0 Giulianova
+Torres           1-1 L'Aquila
+Benevento   1-0 Lodigiani
+Palermo     2-0 Vis Pesaro
+Nocerina   0-3 Viterbese
+
+Round 21 [Feb 4]
+Vis Pesaro       1-1 Ascoli
+Fermana          4-0 Benevento
+L'Aquila         2-2 Catania
+Viterbese        1-1 Fidelis Andria
+Atletico Catania 0-1 Messina
+Castel di Sangro 0-0 Nocerina
+Avellino         0-0 Palermo
+Giulianova       3-1 Torres
+Lodigiani   0-1 Savoia
+
+Round 22
+[Feb 11]
+Nocerina         2-0 Avellino
+Savoia           2-1 Benevento
+Ascoli           2-0 Castel di Sangro
+Torres           0-0 Fermana
+Atletico Catania 0-2 Giulianova
+Fidelis Andria   0-1 L'Aquila
+Palermo          2-1 Lodigiani
+Vis Pesaro       0-0 Viterbese
+[Feb 12]
+Messina          0-2 Catania
+
+Round 23 [Feb 18]
+Catania     2-1 Ascoli
+Fermana          1-0 Atl.Catania
+Lodigiani        1-1 L'Aquila
+Fidelis Andria   0-1 Messina
+Giulianova       1-1 Nocerina
+Benevento        0-1 Palermo
+Avellino         2-1 Sas. Torres
+Viterbese        0-5 Savoia
+Castelsangro     1-1 Vis Pesaro
+
+Round 24 [Feb 25]
+Atl.Catania      0-3 Avellino
+Sassari Torres   1-0 Benevento
+Lodigiani        0-1 Castelsangro
+Savoia           1-2 Catania
+L'Aquila         2-0 Fermana
+Ascoli           3-0 Fid.Andria
+Vis Pesaro       0-1 Giulianova
+Nocerina         0-0 Messina
+Palermo          3-0 Viterbese
+
+Round 25 [Mar 4]
+Messina          1-0 Ascoli
+Viterbese        1-1 Atl.Catania
+Castelsangro     2-2 Giulianova
+Avellino         1-2 L'Aquila
+Fermana          4-1 Lodigiani
+Savoia           3-1 Nocerina
+Catania          1-1 Palermo
+Fidelis Andria   1-1 Sas.Torres
+Benevento        1-0 Vis Pesaro
+
+Round 26 [Mar 11]
+L'Aquila         0-2 Ascoli
+Avellino         0-0 Benevento
+Atl.Catania      0-2 Castelsangro
+Giulianova       0-2 Catania
+Fermana          1-0 Fid. Andria
+Sas. Torres      2-0 Messina
+Vis Pesaro       1-0 Nocerina
+Palermo          1-0 Savoia
+Lodigiani        1-0 Viterbese
+
+Round 27 [Mar 18]
+Catania           2-1 Atl.Catania
+Ascoli           0-1 Avellino
+Messina          2-1 Castelsangro
+Savoia           0-2 Fermana
+Benevento        0-3 Giulianova
+Palermo          3-1 L'Aquila
+Nocerina         1-1 Lodigiani
+Viterbese        1-2 Sas.Torres
+Fid. Andria      0-1 Vis Pesaro
+
+Round 28 [Feb 25]
+Fermana          2-1 Ascoli
+Lodigiani        5-2 Catania
+Castelsangro     1-1 Fid.Andria
+Benevento        0-1 Messina
+Atl.Catania      0-0 Nocerina
+Sas.Torres       3-0 Palermo
+Avellino         2-0 Savoia
+L'Aquila         0-2 Vis Pesaro
+Giulianova       2-1 Viterbese
+
+Round 29 [Apr 8]
+Palermo          0-0 Atl.Catania
+Catania          0-0 Avellino
+Ascoli           2-2 Benevento
+Viterbese        0-2 Castelsangro
+Vispesaro        2-0 Fermana
+Fid. Andria      0-0 Giulianova
+Nocerina         1-0 L'Aquila
+Messina          1-1 Lodigiani
+Savoia           1-1 Sas. Torres
+
+Round 30 [Apr 14]
+Atl.Catania      1-1 Ascoli
+Benevento        2-3 Catania
+Lodigiani        0-2 Fid.Andria
+Giulianova       1-1 Messina
+Sas. Torres      2-2 Nocerina
+Fermana          2-2 Palermo
+Castelsangro     1-3 Savoia
+Avellino         2-1 Vis Pesaro
+L'Aquila         4-3 Viterbese
+
+Round 31 [Apr 22]
+Vis Pesaro       0-2 Atl.Catania
+Viterbese        1-3 Avellino
+Nocerina         0-2 Benevento
+Giulianova       4-2 Fermana
+Castelsangro     1-0 L'Aquila
+Ascoli           3-1 Lodigiani
+Messina          1-0 Palermo
+Catania          2-0 Sas.Torres
+Fid. Andria      0-1 Savoia
+
+Round 32 [Apr 29]
+Savoia           1-3 Ascoli
+Lodigiani        1-0 Atl.Catania
+Fermana          0-1 Castelsangro
+Palermo          2-2 Fid.Andria
+Avellino         0-0 Giulianova
+L'Aquila         0-2 Messina
+Catania          2-1 Nocerina
+Sas.Torres       3-1 Vis Pesaro
+Benevento        3-1 Viterbese
+
+Round 33 [May 6]
+Castelsangro     1-1 Avellino
+Atl.Catania      1-1 Benevento
+Fid.Andria       0-0 Catania
+Viterbese        1-1 Fermana
+Giulianova       1-0 L'Aquila
+Vis Pesaro       0-0 Lodigiani
+Nocerina         1-2 Palermo
+Ascoli           2-1 Sas.Torres
+Messina          2-0 Savoia
+
+Round 34 [May 13]
+Palermo          1-0 Ascoli
+L'Aquila         0-1 Atl.Catania
+Sas. Torres      5-1 Castelsangro
+Benevento        2-1 Fid. Andria
+Lodigiani        2-1 Giulianova
+Avellino         1-0 Messina
+Fermana          2-2 Nocerina
+Savoia           1-0 Vis Pesaro
+Catania          2-1 Viterbese
+
+Final Table:
+
+Palermo           64  34 18 10  6  47-31 Promoted
+----------------------------------------
+Messina           61  34 16 13  5  40-26 Promoted after play-off
+Catania           58  34 16 10  8  49-40
+Avellino          57  34 14 15  5  45-27
+Ascoli            54  34 14 12  8  47-33
+ - - - - - - - - - - - - - - - - - - - -
+Savoia            54  34 16  6 12  51-46
+Sassari Torres    53  34 14 11  9  55-45
+Castel di Sangro  47  34 12 11 11  44-40
+L'Aquila          46  34 13  7 14  37-35
+Fermana           42  34 10 12 12  41-38
+Giulianova        42  34  9 15 10  36-40
+Vis Pesaro        39  34  9 12 13  26-29
+Benevento         39  34  9 12 13  40-54
+ - - - - - - - - - - - - - - - - - - - -
+Lodigiani         39  34 10  9 15  34-44
+Nocerina          36  34  8 12 14  29-42 Relegated after play-out
+Viterbese         29  34  5 14 15  32-48
+Atl.Catania       27  34  5 12 17  27-44 Relegated after play-out
+----------------------------------------
+Fid.Andria        27  34  4 15 15  25-43 Relegated
+
+Play-off
+
+Semifinals
+
+[May 27]
+Ascoli      1-0 Messina
+Avellino    1-0 Catania
+
+[Jun 3]
+Messina     2-1 Ascoli
+Catania     2-0 Avellino
+
+Finals
+
+[Jun 10]
+Catania     1-1 Messina
+
+[Jun 17]
+Messina     1-0 Catania
+
+Messina promoted to serie B
+
+Play-out
+
+[May 27]
+Atl.Catania 3-4 Lodigiani
+Viterbese   1-0 Nocerina
+
+[June 3]
+Lodigiani   2-0 Atl.Catania
+Nocerina    1-1 Viterbese
+
+Atl.Catania and Nocerina relegated to Serie C2
+
+
+Fourth Level (Serie C2)
+
+Group A
+ 1.Padova     69 34 20  9  5 52-26 Promoted
+--------------------------------------
+ 2.Pro Patria      63 34 17 12  5 37-21 Promotion Playoff
+ 3.Mestre     63 34 18  9  7 41-27 Promotion Playoff
+ 4.Pro Vercelli   61 34 17 10  7 52-34 Promotion Playoff
+ 5.Triestina     55 34 15 10  9 50-37 Promotion Playoff
+--------------------------------------
+ 6.Mantova     52 34 14 10 10 48-38
+ 7.Cremonese     47 34 11 14  9 51-42
+ 8.Biellese     46 34 11 13 10 40-33
+ 9.Montichiari     45 34 12  9 13 41-42
+10.Meda     44 34 12  8 14 44-40
+11.Sudtirol     43 34 11 10 13 45-53
+12.Sassuolo     41 34 11  8 15 41-52
+13.Pro Sesto     41 34 10 11 13 26-38
+--------------------------------------
+14.Legnano     40 34 10 10 14 31-35 Relegation Playoff
+15.Fiorenzuola     36 34  7 15 12 34-42 Relegation Playoff
+16.Novara     28 34  6 10 18 25-45 Relegation Playoff
+17.Moncalieri     25 34  3 16 15 25-50 Relegation Playoff
+--------------------------------------
+18.Sandonà     20 34  2 14 18 18-46 Relegated
+
+Group B
+ 1.Lanciano     63 33 16 15  2 39-24 Promoted
+--------------------------------------
+ 2.Chieti     63 34 16 15  3 38-18 Promotion Playoff
+ 3.Rimini     60 34 16 12  6 42-23 Promotion Playoff
+ 4.Prato     52 34 13 13  8 42-33 Promotion Playoff
+ 5.Teramo     52 34 14 10 10 42-35 Promotion Playoff
+--------------------------------------
+ 6.Sangiovannese  48 34 11 15  8 36-26
+ 7.Gualdo     46 34 12 10 12 40-41
+ 8.Castelnuovo G. 45 34 11 12 11 40-37
+ 9.Sanmarino     44 34 11 11 12 36-37
+10.Rondinella     42 33 10 12 11 38-36
+11.Imolese     42 34 10 12 12 36-41
+12.Gubbio     39 34  9 12 13 30-36
+13.Montevarchi     37 34  6 19  9 16-21
+--------------------------------------
+14.Faenza     36 34  8 12 14 27-35 Relegation Playoff
+15.Russi     36 34  9  9 16 32-45 Relegation Playoff
+16.Viareggio     35 34  9  8 17 29-46 Relegation Playoff
+17.Maceratese     33 34  5 18 11 21-38 Relegation Playoff
+--------------------------------------
+18.Castel S. P.   30 34  7  9 18 32-44 Relegated
+
+Group C
+ 1.Taranto     63 34 17 12  5 43-24 Promoted
+--------------------------------------
+ 2.Campobasso     61 34 18  7  9 49-33 Promotion Playoff
+ 3.Catanzaro     54 34 13 16  5 49-35 Promotion Playoff
+ 4.Puteolana     53 34 15  9 10 35-25 Promotion Playoff
+ 5.Sora     52 34 13 13  8 35-30 Promotion Playoff
+--------------------------------------
+ 6.Igea Virtus    48 34 11 15  8 40-29
+ 7.Nardò     45 34 11 12 11 36-38
+ 8.Juveterranova  45 34 12  9 13 35-35
+ 9.Fasano     44 34 12  8 14 37-44
+10.Foggia     44 34 12  8 14 40-39
+11.Giugliano     42 34 10 12 12 30-38
+12.Juve Stabia    42 34  8 18  8 32-30
+13.Sant`Anastasia 42 34 11  9 14 30-40
+--------------------------------------
+14.Acireale     42 34 11  9 14 29-33 Relegation Playoff
+15.Tricase     41 34  9 14 11 44-43 Relegation Playoff
+16.Turris     35 34  7 14 13 28-40 Relegation Playoff
+17.Cavese     34 34  7 13 14 26-40 Relegation Playoff
+--------------------------------------
+18.Castrovillari  27 34  7  6 21 29-51 Relegated
+
+‹1999/00, see page ital00›.
+
+‹2001/02, see page ital02›.
+
+‹list of champions, see page italchamp›.
+
+‹list of 2nd division champions, see page ital2champ›.
+
+‹list of 3rd division champions, see page ital3champ›.
+
+‹list of final tables, see page italhist›.
+
+‹list of cup winners, see page italcuphist›.
+
+‹list of topscorers, see page italtops›.
+
+‹list of 2nd division topscorers, see page ital2tops›.
+
+‹list of 3rd division topscorers, see page ital3tops›.
+
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+== About this document  ‹§about›
+
+Prepared and maintained by Alberto Novello
+and Daniel Dalence for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Authors: Alberto Novello
+and Daniel Dalence
+
+Last updated: 1 Sep 2005
+
+
+(C) Copyright Alberto Novello, Daniel Dalence and RSSSF 2000/05
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.
