@@ -6,13 +6,15 @@ tables pages converted to (plain) text  e.g.
 
 - [rsssf.org/tables/30f.html](https://rsssf.org/tables/30f.html)       => [./tables/30f.txt](tables/30f.txt) 
 - [rsssf.org/tables/86full.html](https://rsssf.org/tables/86full.html) => [./tables/86full.txt](tables/86full.txt)
-- and many more - see the [tables a-z index page »](INDEX.md)
 
-why?
+and many more, see the [tables a-z index page »](INDEX.md)
+
+
+## why?
 
 the point is to offer a common starter base that makes it easier to turn the ad-hoc semi-structured football leagues & cups, tables, match results, line-ups, penalty shoot-outs, and more into strutured data for (automatic) conversion to json, csv, sql & friends.
 
-how?
+## how?
 
 - the character endcoding is ALWAYS unicode (utf-8) - no more wondering 
   if the encoding is windows-1252, iso-8859-2, utf-16le or whatnot.  
@@ -28,7 +30,7 @@ how?
 - all `<pre>` (formatted) blocks merged into one plain text file
 
 
-what's next?   
+## what's next?   
 
 the long term vision is to get the RSSSF (Rec.Sport.Soccer Statistics Foundation) tables (pages) turned more 
 into a wiki (with source pages tracked via git) 
@@ -37,3 +39,8 @@ why not use "uniform" proper wikipedia like article structures - that is, one h1
 instead of the current ad-hoc zoo of h2 & h4 combos, or bold and underline "hand-crafted headers" or whatnot 
 and all without fear of losing the history (since all changes are tracked via git allowing easy restore and time travel all the way back to its origin).  
 
+
+
+## scripts & tools
+
+find the scripts & tools used in [/scripts »](https://github.com/rsssf/scripts)
