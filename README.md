@@ -6,7 +6,7 @@ tables pages converted to (plain) text  e.g.
 
 - [rsssf.org/tables/30f.html](https://rsssf.org/tables/30f.html)       => [./tables/30f.txt](tables/30f.txt) 
 - [rsssf.org/tables/86full.html](https://rsssf.org/tables/86full.html) => [./tables/86full.txt](tables/86full.txt)
-- and many more
+- and many more - see the [tables a-z index page »](INDEX.md)
 
 why?
 
