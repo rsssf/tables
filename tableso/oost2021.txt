@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2020/21
      source: https://rsssf.org/tableso/oost2021.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Austria 2020/21
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bundesliga, see §bund›
-‹ÖFB Cup, see §cup›
-‹2. Liga, see §1liga›
-‹Steirer Cup, see §steicup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bundesliga  ‹§bund›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -468,13 +463,13 @@ Sankt Pölten     0-1 Austria K
 
 NB: SK Austria Klagenfurt promoted, SKN Sankt Pölten relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== ÖFB Cup  ‹§cup›
 
-<!-- start pre -->
 Round 1
 [Aug 28]
 Wolfsberger AC                      5-2 SC Neusiedl/See                     [aet]
@@ -572,13 +567,13 @@ SK Sturm Graz                       0-4 FC Red Bull Salzburg
 Final [May 1, Klagenfurt]
 LASK Linz                           0-3 FC Red Bull Salzburg
   [Berisha 45, Aaronson 66, Mwepu 88]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. Liga (Second Level)  ‹§1liga›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Blau-Weiß Linz            30  20  3  7  70-31  63       [-]
@@ -1023,13 +1018,13 @@ NB: as only clubs finishing first or second at the second level are entitled to
 NB: due to the cancellation of the third level leagues, no clubs will be
     relegated at the end of the season
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Woche Cup 2020/21  ‹§steicup›
 
-<!-- start pre -->
 1/8 Finals
 [Oct 6]
 ESV Mürzzuschlag              0-5 Deutschlandsberger SC
@@ -1056,25 +1051,10 @@ Semifinals [Jun 2 - cancelled]
 
 Final [Jun 26 - cancelled]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2019/20, see page oost2020›.
 
-‹2021/22, see page oost2022›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

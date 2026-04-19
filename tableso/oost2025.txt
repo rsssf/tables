@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2024/25
      source: https://rsssf.org/tableso/oost2025.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Austria 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bundesliga, see §bund›
-‹ÖFB Cup, see §cup›
-‹2. Liga, see §1liga›
-‹Regionalliga, see §regliga›
-‹Cup Tournaments Bundesländer, see §bundcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bundesliga  ‹§bund›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -466,13 +460,13 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== ÖFB Cup  ‹§cup›
 
-<!-- start pre -->
 Round 1
 [Jul 26]
 Union Gurten                        0-3 LASK
@@ -560,13 +554,13 @@ FK Austria Wien                     0-1 TSV Hartberg
 Final [May 1, Wörthersee Stadion, Klagenfurt; att: 20,500]
 Wolfsberger AC                      1-0 TSV Hartberg
   [Gattermayer 77]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. Liga (Second Level)  ‹§1liga›
 
-<!-- start pre -->
 Final Table:
 
  1.SV Ried                      30  20  5  5  59-23  65       Promoted
@@ -1013,13 +1007,13 @@ Final Table:
 15.SV Horn                      30   8  6 16  40-61  30       Relegated
 16.SV Lafnitz                   30   3  7 20  40-81  16       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regionalliga  ‹§regliga›
 
-<!-- start pre -->
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 Regionalliga West  ‹§regwest›
@@ -1098,13 +1092,13 @@ Final Table:
 
 [*] Kremser SC formed Spielgemeinschaft with SV Rehberg; KM presumably denotes Kampfmannschaft
 [!] Donaufeld did not apply for license second level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments Bundesländer  ‹§bundcup›
 
-<!-- start pre -->
 NB: winners qualify for ÖFB-Cup 2025/26.
 
 BFV-Cup (Burgenland) 2024/25  ‹§burgcup›
@@ -1386,25 +1380,10 @@ Royal Persia                  1-2 SV Dinamo Helfort
 
 Final [May 20]
 Red Star Penzing              0-2 SV Dinamo Helfort
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page oost2024›.
 
-‹2025/26, see page oost2026›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

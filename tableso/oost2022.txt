@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2021/22
      source: https://rsssf.org/tableso/oost2022.html
     -->
   
@@ -6,20 +7,12 @@
 
 == Austria 2021/22
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bundesliga, see §bund›
-‹ÖFB Cup, see §cup›
-‹2. Liga, see §1liga›
-‹Regionalliga, see §regliga›
-‹SFV (Salzburg) Cup, see §salzcup›
-‹Steirer Cup, see §steicup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bundesliga  ‹§bund›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -460,13 +453,13 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== ÖFB Cup  ‹§cup›
 
-<!-- start pre -->
 Round 1
 [Jul 16]
 Welser SC Hertha                    1-4 FC Red Bull Salzburg
@@ -560,13 +553,13 @@ Wolfsberger AC                      1-1 FC Red Bull Salzburg                [aet
 Final [May 1, Wörthersee-Stadion, Klagenfurt; att: 7,800]
 SV Ried                             0-3 FC Red Bull Salzburg
   [Sucic 27, Wöber 52, Sesko 88]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. Liga (Second Level)  ‹§1liga›
 
-<!-- start pre -->
 Final Table:
 
  1.SC Austria Lustenau          30  22  4  4  69-26  70       Promoted
@@ -1025,13 +1018,13 @@ NB: FC Juniors Oberösterreich withdrew from the league after the season;
     FC Wacker Innsbruck were denied a license for 2022/23;
     as no club from the western region is promoted, no other clubs are relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regionalliga  ‹§regliga›
 
-<!-- start pre -->
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 Regionalliga West  ‹§regwest›
@@ -1094,13 +1087,13 @@ Final Table:
 NB: as the league was extended to 16 clubs, 1.MAV Wiener-Neustadt (renamed
     1.Wiener Neustädter SC) and ASV Draßburg were reprieved from relegation
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== SFV (Salzburg) Cup 2021/22  ‹§salzcup›
 
-<!-- start pre -->
 1/8 Finals
 [Sep 21]
 SV Schwarzach                 1-7 FC Pinzgau Saalfelden
@@ -1129,13 +1122,13 @@ SK Bischofshofen              3-0 SV Wals-Grünau
 Final [May 25]
 SV Kuchl                      3-2 SK Bischofshofen
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Steirer Cup 2021/22  ‹§steicup›
 
-<!-- start pre -->
 1/8 Finals
 [Oct 26]
 Rapid Kapfenberg              2-4 ESV Mürzzuschlag
@@ -1166,25 +1159,10 @@ Final [Jun 6]
 SV Klöch                      0-2 SV Frauental
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2020/21, see page oost2021›.
 
-‹2022/23, see page oost2023›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

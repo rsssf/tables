@@ -1,0 +1,26 @@
+-- removing nav(igation) section:
+
+‹Bundesliga, see §bund›
+‹ÖFB Cup, see §cup›
+‹2. Liga, see §1liga›
+‹Regionalliga, see §regliga›
+‹Cup Tournaments Bundesländer, see §bundcup›
+
+
+-- removing nav(igation) section:
+
+‹2021/22, see page oost2022›.
+
+‹2023/24, see page oost2024›.
+
+‹list of final tables, see page oosthist›.
+
+‹list of champions, see page oostchamp›.
+
+‹list of cup finals, see page oostcuphist›.
+
+‹list of super cup finals, see page oostsupcuphist›.
+
+‹list of foundation dates, see page oostfound›.
+
+

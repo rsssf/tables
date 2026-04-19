@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 1996/97
      source: https://rsssf.org/tableso/oost97.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Austria 1996/97
 
-<!-- start pre -->
 1.Bundesliga
 
 Table:
@@ -4493,25 +4493,10 @@ New clubs for 1997/98: D & K Team 93, FC Brauchbar, FC Gummibärli,
                        Türkgücü Sakarya.
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹1995/96, see page oost96›.
 
-‹1997/98, see page oost98›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

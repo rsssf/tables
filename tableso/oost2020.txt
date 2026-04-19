@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2019/20
      source: https://rsssf.org/tableso/oost2020.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Austria 2019/20
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bundesliga, see §bund›
-‹ÖFB Cup, see §cup›
-‹2. Liga, see §1liga›
-‹SFV (Salzburg) Cup, see §salzcup›
-‹Steirer Cup, see §steicup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bundesliga  ‹§bund›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -477,13 +471,13 @@ NB: on Aug 5, Mattersburg renounced on its Bundesliga license for financial
     that, WSG Tirol remain at the first level; the SV Mattersburg will be
     dissolved and its youth teams taken over by a newly founded club called
     Mattersburger Sportverein 2020
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== ÖFB Cup  ‹§cup›
 
-<!-- start pre -->
 Round 1
 [Jul 19]
 FC Mauerwerk Wien               1-2 FC Marchfeld Mannsdorf/Großenzersdorf
@@ -572,13 +566,13 @@ Final [May 29, Wörtherseestadion, Klagenfurt]
 FC Red Bull Salzburg            5-0 SC Austria Lustenau
   [Szoboszlai 10, Stumberger 21og, Okafor 30, Ashimeru 65, Koita 79]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. Liga (Second Level)  ‹§1liga›
 
-<!-- start pre -->
 Final Table:
 
  1.SV Ried                      30  20  4  6  73-39  64       Promoted
@@ -604,13 +598,13 @@ NB: no relegation to third level or promotion from third level; the 16th
     (a fourth youth team, after Liefering (Salzburg), Young Violets (Austria)
     and Juniors Oberösterreich (LASK)).
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== SFV (Salzburg) Cup 2019/20  ‹§salzcup›
 
-<!-- start pre -->
 1/8 Finals
 [Sep 10]
 UFV Thalgau                   3-3 TSV St. Johann                [aet, 8-9 pen]
@@ -634,13 +628,13 @@ FC Zell/See                   n/p SV Austria Salzburg
 Semifinals [Apr 22 - cancelled]
 
 Final [May 21 - cancelled]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Woche Cup 2019/20  ‹§steicup›
 
-<!-- start pre -->
 1/8 Finals [Mar 7]
 FC Schladming                 2-3 SC St. Peter/Freienstein
 FC E-Werk Kindberg-Mürzhofen  5-0 DSV Leoben
@@ -663,25 +657,10 @@ ASK Voitsberg                  -  Kaindorf/St. Peter
 Semifinals [May 5 - cancelled]
 
 Final [May 21 - cancelled]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2018/19, see page oost2019›.
 
-‹2020/21, see page oost2021›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

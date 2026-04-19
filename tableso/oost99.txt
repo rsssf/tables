@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 1998/99
      source: https://rsssf.org/tableso/oost99.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Austria 1998/99
 
-<!-- start pre -->
 Bundesliga
 
 Final Table:
@@ -2924,25 +2924,10 @@ Eighth Level
 14.Young Guns                   26  2  3 21 40-149  9
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹1997/98, see page oost98›.
 
-‹1999/2000, see page oost00›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

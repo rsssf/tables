@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2013/14
      source: https://rsssf.org/tableso/oost2014.html
     -->
   
@@ -6,20 +7,12 @@
 
 == Austria 2013/14
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bundesliga, see §bund›
-‹ÖFB Cup, see §cup›
-‹1. Liga, see §1liga›
-‹Regionalliga, see §regliga›
-‹SFV (Salzburg) Cup, see §salzcup›
-‹Steirer Cup, see §steicup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bundesliga  ‹§bund›
 
-<!-- start pre -->
 Final Table:
 
  1.RB Salzburg                  36  25  5  6 110-35  80  Champions
@@ -382,13 +375,13 @@ NB: Admira Wacker 5 points deducted for license infringements (after an earlier
     deduction of 8 points was reduced on appeal)
 
 NB: Admira Wacker were refused a license for 2014/15 but successfully appealed
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== ÖFB Cup  ‹§cup›
 
-<!-- start pre -->
 Round 1
 [Jul 13]
 SAK Klagenfurt              3-1 Union Vöcklamarkt
@@ -476,13 +469,13 @@ SKN St. Pölten              1-0 SK Sturm Graz               [aet]
 Final [May 18, Klagenfurt]
 FC Red Bull Salzburg        4-2 SKN St. Pölten
   [Klein 35, Kampl 41, Soriano 63, 67; Jano 39, Noel 70]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- start pre -->
 Final Table:
 
  1.SC Rheindorf Altach          36  21 10  5  79-41  73  Promoted
@@ -520,13 +513,13 @@ Salzburg         0-3 FAC
 Linzer ASK       1-1 Parndorf
 
 NB: Parndorf relegated, LASK and FAC promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regionalliga  ‹§regliga›
 
-<!-- start pre -->
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 Regionalliga West  ‹§regwest›
@@ -603,13 +596,13 @@ Final Table:
 16.SC Retz                      30   6  5 19  36-54  23  Relegated
 
 Promoted: SC Neusiedl/See (Burgenland), SKN St. Pölten Juniors (Niederösterreich), Donaufeld (Wien)
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== SFV (Salzburg) Cup 2013/14  ‹§salzcup›
 
-<!-- start pre -->
 1/8 Finals
 [Aug 27]
 1. Oberndorfer SK             3-2 FC Puch
@@ -638,13 +631,13 @@ TSV St. Johann                2-1 SV Seekirchen
 
 Final [May 20]
 TSV St. Johann                2-6 SV Austria Salzburg
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Woche Murauer Cup 2013/14  ‹§steicup›
 
-<!-- start pre -->
 1/8 Finals
 [Apr 4]
 AC Leibnitz                   6-3 TUS Krieglach
@@ -669,25 +662,10 @@ FC Piberstein Lankowitz       3-1 SV Frohnleiten
 
 Final [Jun 9]
 FC Zeltweg                    1-4 FC Piberstein Lankowitz
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2012/13, see page oost2013›.
 
-‹2014/15, see page oost2015›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2023/24
      source: https://rsssf.org/tableso/oost2024.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Austria 2023/24
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bundesliga, see §bund›
-‹ÖFB Cup, see §cup›
-‹2. Liga, see §1liga›
-‹Regionalliga, see §regliga›
-‹Cup Tournaments Bundesländer, see §bundcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bundesliga  ‹§bund›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -481,13 +475,13 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== ÖFB Cup  ‹§cup›
 
-<!-- start pre -->
 Round 1
 [Jul 20]
 SC Neusiedl/See                     1-4 SV Lafnitz
@@ -582,13 +576,13 @@ Final [May 1, Wörthersee-Stadion, Klagenfurt; att: 30,000]
 SK Rapid Wien                       1-2 SK Sturm Graz
   [Seidl 43; Querfeld 50og, Horvat 81]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. Liga (Second Level)  ‹§1liga›
 
-<!-- start pre -->
 Final Table:
 
  1.GAK 1902                     30  21  6  3  57-27  69                        Promoted
@@ -1022,13 +1016,13 @@ NB: SW Bregenz 3 points deducted for fielding 3 Brazilian players who did not ha
       Austria Salzburg (who earned promotion from the RL West) were denied a license
       as well, and therefore no clubs are relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regionalliga  ‹§regliga›
 
-<!-- start pre -->
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 Regionalliga West  ‹§regwest›
@@ -1104,13 +1098,13 @@ Final Table:
 15.SG Ardagger/Viehdorf         30   6 10 14  22-37  28  [P]  Relegated
 16.ASV Draßburg                 30   7  6 17  38-60  27       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments Bundesländer  ‹§bundcup›
 
-<!-- start pre -->
 NB: winners qualify for ÖFB-Cup 2024/25.
 
 BFV-Cup (Burgenland) 2023/24  ‹§burgcup›
@@ -1389,25 +1383,10 @@ SK Cro-Vienna                 0-3 SV Donau
 Final [May 8]
 SV Dinamo Helfort             0-1 SV Donau
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2022/23, see page oost2023›.
 
-‹2024/25, see page oost2025›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2009/10
      source: https://rsssf.org/tableso/oost2010.html
     -->
   
@@ -6,20 +7,12 @@
 
 == Austria 2009/10
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bundesliga, see §bund›
-‹ÖFB Cup, see §cup›
-‹1. Liga, see §1liga›
-‹Regionalliga, see §regliga›
-‹SFV (Salzburg) Cup, see §salzcup›
-‹Steirer Cup, see §steicup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bundesliga  ‹§bund›
 
-<!-- start pre -->
 Final Table:
 
  1.RB Salzburg                  36 22 10  4  68-27  76  Champions
@@ -389,13 +382,13 @@ Final Table:
 10.SK Austria Kärnten           36  2  9 25  29-80  15  Relegated
 
 [*] FC Magna were renamed SC Wiener Neustadt
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== ÖFB Cup  ‹§cup›
 
-<!-- start pre -->
 
 Round 1
 [Aug 14]
@@ -483,13 +476,13 @@ Ried            0-1 Sturm
 
 Final [May 16, Klagenfurt]
 Wiener Neustadt 0-1 Sturm
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Wacker Innsbruck          33 21  6  6  67-26  69  Promoted
@@ -851,13 +844,13 @@ Final Table:
     be demoted to the third level at the end of the season as
     reserve sides will be barred from the second level 2010/11
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Promotion/Relegation 2nd/3rd level  ‹§prorel›
 
-<!-- start pre -->
 First Leg [Jun 8]
 Parndorf        1-0 WAC/St.Andrä
 
@@ -870,13 +863,13 @@ NB: as Austria Kärnten did not obtain a license, the playoff between
     First Vienna and SV Grödig was cancelled, both obtaining a place
     at the 2nd level
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regionalliga  ‹§regliga›
 
-<!-- start pre -->
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 Regionalliga West  ‹§regwest›
@@ -950,13 +943,13 @@ Final Table:
 [*] FC Waidhofen/Ybbs did not request a 2nd level license and
     FC Admira (A) are not eligible for promotion
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== SFV (Salzburg) Cup 2009/10  ‹§salzcup›
 
-<!-- start pre -->
 1/8 Finals
 [Sep 8]
 SC Mühlbach/Pinzgau           1-3 SC Golling
@@ -983,13 +976,13 @@ SC Leogang                    0-1 TSV Neumarkt
 
 Final [Jun 9]
 TSV Neumarkt                  1-2 USK Anif                      [aet]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Woche Steirer Cup 2009/10  ‹§steicup›
 
-<!-- start pre -->
 1/8 Finals
 [Apr 5]
 SU Straden                    1-0 Deutschlandsberger SC
@@ -1016,25 +1009,10 @@ TUS Paldau                    3-2 SK Werndorf
 
 Final [Jun 19]
 SV Lafnitz                    0-2 TUS Paldau
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2008/09, see page oost09›.
 
-‹2010/11, see page oost2011›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

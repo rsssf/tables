@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2003/04
      source: https://rsssf.org/tableso/oost04.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Austria 2003/04
 
-<!-- start pre -->
 First Level (Bundesliga)
 
 Final Table:
@@ -1956,25 +1956,10 @@ FC Kufstein               4-0  SV Kolsass/Weer
 Final [June 10, 2004, Imst]
 SPG Axams/Götzens         3-3  FC Kufstein               [pen 3-0]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2002/03, see page oost03›.
 
-‹2004/05, see page oost05›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

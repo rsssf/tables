@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2016/17
      source: https://rsssf.org/tableso/oost2017.html
     -->
   
@@ -6,20 +7,12 @@
 
 == Austria 2016/17
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bundesliga, see §bund›
-‹ÖFB Cup, see §cup›
-‹1. Liga, see §1liga›
-‹Regionalliga, see §regliga›
-‹SFV (Salzburg) Cup, see §salzcup›
-‹Steirer Cup, see §steicup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bundesliga  ‹§bund›
 
-<!-- start pre -->
 Final Table:
 
  1.RB Salzburg                  36  25  6  5  74-24  81  [C]  Champions
@@ -382,13 +375,13 @@ Final Table:
 -------------------------------------------------------
 10.SV Ried                      36  10  5 21  33-56  35       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== ÖFB Cup  ‹§cup›
 
-<!-- start pre -->
 Round 1
 [Jul 8]
 FC Karabakh Wien            1-3 SK Rapid Wien
@@ -481,13 +474,13 @@ Final [Jun 1, Klagenfurt]
 FC Red Bull Salzburg        2-1 SK Rapid Wien
   [Hwang 51, Lazaro 84; Joelinton 56]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- start pre -->
 Final Table:
 
  1.LASK Linz                    36  23  8  5  77-42  77       Promoted
@@ -508,13 +501,13 @@ Final Table:
 NB: no promotion/relegation matches as only one third level club (TSV Hartberg) is
     eligible for promotion
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regionalliga  ‹§regliga›
 
-<!-- start pre -->
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 Regionalliga West  ‹§regwest›
@@ -600,13 +593,13 @@ Mattersburg Amateure        0-3 St. Pölten Juniors
 
 NB: both remain at former level
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== SFV (Salzburg) Cup 2016/17  ‹§salzcup›
 
-<!-- start pre -->
 1/8 Finals
 [Aug 23]
 USC Mattsee                   0-3 SV Grödig
@@ -633,13 +626,13 @@ SAK 1914                      0-2 TSV St. Johann
 
 Final [May 17]
 TSV St. Johann                1-4 SV Grödig
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Woche Cup 2016/17  ‹§steicup›
 
-<!-- start pre -->
 1/8 Finals
 [Apr 17]
 Rapid Kapfenberg              0-1 USV Weindorf St. Anna/Aigen
@@ -667,25 +660,10 @@ FC Großklein                  0-4 USV Weindorf St. Anna/Aigen
 Final [Jun 5]
 USV Weindorf St. Anna/Aigen   0-0 Deutschlandsberger SC         [aet, 3-5 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2015/16, see page oost2016›.
 
-‹2017/18, see page oost2018›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2014/15
      source: https://rsssf.org/tableso/oost2015.html
     -->
   
@@ -6,20 +7,12 @@
 
 == Austria 2014/15
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bundesliga, see §bund›
-‹ÖFB Cup, see §cup›
-‹1. Liga, see §1liga›
-‹Regionalliga, see §regliga›
-‹SFV (Salzburg) Cup, see §salzcup›
-‹Steirer Cup, see §steicup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bundesliga  ‹§bund›
 
-<!-- start pre -->
 Final Table:
 
  1.RB Salzburg                  36  22  7  7  99-42  73  Champions
@@ -376,13 +369,13 @@ Final Table:
 -------------------------------------------------------
 10.SC Wiener Neustadt           36   7  8 21  37-79  29  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== ÖFB Cup  ‹§cup›
 
-<!-- start pre -->
 Round 1
 [Jul 11]
 FC Hard                     1-2 SC Ritzing
@@ -472,13 +465,13 @@ Final [Jun 3, Klagenfurt]
 FC Red Bull Salzburg        2-0 FK Austria Wien             [aet]
   [Soriano 95, Pires 108]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- start pre -->
 Final Table:
 
  1.SV Mattersburg               36  21  8  7  69-36  71  Promoted
@@ -511,13 +504,13 @@ Austria K        4-1 Parndorf         [aet]
 
 NB: SK Austria Klagenfurt promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regionalliga  ‹§regliga›
 
-<!-- start pre -->
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 Regionalliga West  ‹§regwest›
@@ -601,13 +594,13 @@ Promoted: SV Oberwart (Burgenland)
           ASK Ebreichsdorf (Niederösterreich)
           FC Stadlau (Wien)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== SFV (Salzburg) Cup 2014/15  ‹§salzcup›
 
-<!-- start pre -->
 1/8 Finals
 [Aug 26]
 UFC Siezenheim                2-1 SV Austrria Salzburg
@@ -635,13 +628,13 @@ ASV Salzburg                  1-3 USC Eugendorf
 
 Final [Jun 26]
 SC Golling                    1-7 USC Eugendorf
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Woche Murauer Cup 2014/15  ‹§steicup›
 
-<!-- start pre -->
 1/8 Cup
 [Apr 6]
 SV Strass                     1-2 FC Trofaiach
@@ -673,25 +666,10 @@ FC Großklein                  1-1 SV Gnas                       [aet, 1-4 pen]
 
 Final [Jun 3]
 FC Piberstein Lankowitz       3-0 SV Gnas
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2013/14, see page oost2014›.
 
-‹2015/16, see page oost2016›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

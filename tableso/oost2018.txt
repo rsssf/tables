@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2017/18
      source: https://rsssf.org/tableso/oost2018.html
     -->
   
@@ -6,20 +7,12 @@
 
 == Austria 2017/18
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bundesliga, see §bund›
-‹ÖFB Cup, see §cup›
-‹1. Liga, see §1liga›
-‹Regionalliga, see §regliga›
-‹SFV (Salzburg) Cup, see §salzcup›
-‹Steirer Cup, see §steicup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bundesliga  ‹§bund›
 
-<!-- start pre -->
 Final Table:
 
  1.RB Salzburg                  36  25  8  3  81-29  83  [C]  Champions
@@ -395,13 +388,13 @@ Second Leg [Jun 3]
 Sankt Pölten     1-1 Wiener Neustadt
 
 NB: both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== ÖFB Cup  ‹§cup›
 
-<!-- start pre -->
 Round 1
 [Jul 14]
 ASK Ebreichsdorf            0-0 FK Austria Wien             [aet, 3-4 pen]
@@ -491,13 +484,13 @@ Final [May 9, Klagenfurt]
 SK Sturm Graz               1-0 FC Red Bull Salzburg        [aet]
   [Hierländer 112]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Wacker Innsbruck          36  21  8  7  60-31  71       Promoted
@@ -517,13 +510,13 @@ Final Table:
 
 NB: no relegation as second level is extended to 16 clubs for 2018/19.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regionalliga  ‹§regliga›
 
-<!-- start pre -->
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 Regionalliga West  ‹§regwest›
@@ -606,13 +599,13 @@ Final Table:
 
 NB: Horn, Amstetten and Austria II are the only teams to have expressed an interest in
     promotion and obtained a license for the second level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== SFV (Salzburg) Cup 2017/18  ‹§salzcup›
 
-<!-- start pre -->
 1/8 Finals
 [Aug 29]
 USK St. Koloman               1-2 SV Grödig
@@ -641,13 +634,13 @@ SV Straßwalchen               2-1 SV Grödig
 
 Final [May 23]
 SV Straßwalchen               1-0 FC Pinzgau Saalfelden
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Woche Cup 2017/18  ‹§steicup›
 
-<!-- start pre -->
 1/8 Finals
 [Apr 2]
 FC Schladming                 3-0 DSV Leoben
@@ -679,25 +672,10 @@ FC Schladming                 2-1 Grazer AK 1902
 Final [May 30]
 FC Schladming                 0-1 USV Mettersdorf
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2016/17, see page oost2017›.
 
-‹2018/19, see page oost2019›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

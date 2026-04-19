@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 1987/88
      source: https://rsssf.org/tableso/oost88.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Austria 1987/88
 
-<!-- start pre -->
 Fall season
 ===========
 
@@ -15,19 +15,19 @@ Fall season
 
 Table:
 
- 1.SK Rapid         22  15  6  1  52-22   36
- 2.FK Austria         22  11  6  5  47-27   28
- 3.Grazer AK         22  10  7  5  32-29   27
- 4.FC Admira/Wacker       22  11  3  8  52-31   25
- 5.FC Tirol Innsbruck       22   8  9  5  34-30   25
- 6.SK Sturm Graz       22   9  6  7  33-32   24
- 7.First Vienna FC       22   11  1 10  45-40   23
- 8.Wiener Sport-Club       22   6 10  6  39-46   22
+ 1.SK Rapid           22  15  6  1  52-22   36
+ 2.FK Austria           22  11  6  5  47-27   28
+ 3.Grazer AK           22  10  7  5  32-29   27
+ 4.FC Admira/Wacker        22  11  3  8  52-31   25
+ 5.FC Tirol Innsbruck        22   8  9  5  34-30   25
+ 6.SK Sturm Graz        22   9  6  7  33-32   24
+ 7.First Vienna FC        22    11  1 10  45-40   23
+ 8.Wiener Sport-Club        22   6 10  6  39-46   22
 -----------------------------------------------------
- 9.VOEST Linz         22   7  5 10  37-40   19
-10.Linzer ASK         22   4  5 13  21-44   13
-11.Austria Klagenfurt       22   4  4 14  17-43   12
-12.VfB Mödling         22   2  6 14  29-54   10
+ 9.VOEST Linz           22   7  5 10  37-40   19
+10.Linzer ASK           22   4  5 13  21-44   13
+11.Austria Klagenfurt        22   4  4 14  17-43   12
+12.VfB Mödling           22   2  6 14  29-54   10
 
 Round 1 [Jul 21]
 Admira/Wacker    0-1 Sturm
@@ -249,19 +249,19 @@ Mödling          1-6 VOEST
 
 Table:
 
- 1.SK Rapid         22  15  6  1  52-22   36
- 2.FK Austria         22  11  6  5  47-27   28
- 3.Grazer AK         22  10  7  5  32-29   27
- 4.FC Admira/Wacker       22  11  3  8  52-31   25
- 5.FC Tirol Innsbruck       22   8  9  5  34-30   25
- 6.SK Sturm Graz       22   9  6  7  33-32   24
- 7.First Vienna FC       22   11  1 10  45-40   23
- 8.Wiener Sport-Club       22   6 10  6  39-46   22
+ 1.SK Rapid           22  15  6  1  52-22   36
+ 2.FK Austria           22  11  6  5  47-27   28
+ 3.Grazer AK           22  10  7  5  32-29   27
+ 4.FC Admira/Wacker        22  11  3  8  52-31   25
+ 5.FC Tirol Innsbruck        22   8  9  5  34-30   25
+ 6.SK Sturm Graz        22   9  6  7  33-32   24
+ 7.First Vienna FC        22    11  1 10  45-40   23
+ 8.Wiener Sport-Club        22   6 10  6  39-46   22
 -----------------------------------------------------
- 9.VOEST Linz         22   7  5 10  37-40   19
-10.Linzer ASK         22   4  5 13  21-44   13
-11.Austria Klagenfurt       22   4  4 14  17-43   12
-12.VfB Mödling         22   2  6 14  29-54   10
+ 9.VOEST Linz           22   7  5 10  37-40   19
+10.Linzer ASK           22   4  5 13  21-44   13
+11.Austria Klagenfurt        22   4  4 14  17-43   12
+12.VfB Mödling           22   2  6 14  29-54   10
 
 Spring season
 =============
@@ -282,112 +282,112 @@ Table:
 
 Round 23
 [Mar 12]
-Tirol      1-0 Admira/Wacker
-Sturm      1-1 Vienna
+Tirol        1-0 Admira/Wacker
+Sturm        1-1 Vienna
 [Mar 13]
-Austria    5-1 GAK
+Austria     5-1 GAK
 [Mar 23]
-Sportclub    0-0 Rapid
+Sportclub     0-0 Rapid
 
 Round 24 [Mar 19]
-Admira/Wacker    3-1 Austria
-GAK      2-2 Sportclub
-Rapid      1-1 Sturm
-Vienna      3-0 Tirol
+Admira/Wacker     3-1 Austria
+GAK        2-2 Sportclub
+Rapid        1-1 Sturm
+Vienna        3-0 Tirol
 
 Round 25
 [Mar 26]
-Austria    1-2 Vienna
-Tirol      0-0 Rapid
-GAK      4-1 Admira/Wacker
+Austria     1-2 Vienna
+Tirol        0-0 Rapid
+GAK        4-1 Admira/Wacker
 [Mar 27]
-Sportclub    1-2 Sturm
+Sportclub     1-2 Sturm
 
 Round 26
 [Apr 1]
-Admira/Wacker    1-0 Sportclub
-Vienna      2-1 GAK
+Admira/Wacker     1-0 Sportclub
+Vienna        2-1 GAK
 [Apr 2]
-Austria    4-2 Rapid
-Sturm      2-0 Tirol
+Austria     4-2 Rapid
+Sturm        2-0 Tirol
 
 Round 27
 [Apr 8]
-Sportclub    5-3 Tirol
+Sportclub     5-3 Tirol
 [Apr 9]
-Admira/Wacker    4-2 Vienna
-GAK      0-0 Rapid
+Admira/Wacker     4-2 Vienna
+GAK        0-0 Rapid
 [Apr 10]
-Austria    5-1 Sturm
+Austria     5-1 Sturm
 
 Round 28
 [Apr 15]
-Rapid     2-1 Admira/Wacker
+Rapid       2-1 Admira/Wacker
 [Apr 16]
-Tirol      2-1 Austria
-Sturm      5-2 GAK
-Vienna      3-0 Sportclub
+Tirol        2-1 Austria
+Sturm        5-2 GAK
+Vienna        3-0 Sportclub
 
 Round 29
 [Apr 22]
-Admira/Wacker    0-0 Sturm
+Admira/Wacker     0-0 Sturm
 [Apr 23]
-GAK      1-1 Tirol
-Vienna      1-3 Rapid
+GAK        1-1 Tirol
+Vienna        1-3 Rapid
 [Apr 24]
-Austria    2-0 Sportclub
+Austria     2-0 Sportclub
 
 Round 30
 [Apr 29]
-Rapid      3-1 Vienna
-Sturm      2-0 Admira/Wacker
+Rapid        3-1 Vienna
+Sturm        2-0 Admira/Wacker
 [Apr 30]
-Tirol      0-0 GAK
-Sportclub    1-6 Austria
+Tirol        0-0 GAK
+Sportclub     1-6 Austria
 
 Round 31
 [May 6]
-Rapid      3-0 Sportclub
+Rapid        3-0 Sportclub
 [May 7]
-Admira/Wacker    1-1 Tirol
-GAK      1-2 Austria
-Vienna      1-4 Sturm
+Admira/Wacker     1-1 Tirol
+GAK        1-2 Austria
+Vienna        1-4 Sturm
 
 Round 32 [May 14]
-Austria    2-2 Admira/Wacker
-Tirol      0-1 Vienna
-Sturm      2-1 Rapid
-Sportclub    8-2 GAK
+Austria     2-2 Admira/Wacker
+Tirol        0-1 Vienna
+Sturm        2-1 Rapid
+Sportclub     8-2 GAK
 
 Round 33
 [May 20]
-Rapid      4-2 Tirol
+Rapid        4-2 Tirol
 [May 21]
-Admira/Wacker    2-0 GAK
-Sturm      1-1 Sportclub
-Vienna      2-0 Austria
+Admira/Wacker     2-0 GAK
+Sturm        1-1 Sportclub
+Vienna        2-0 Austria
 
 Round 34
 [May 27]
-Rapid      2-4 Austria
+Rapid        2-4 Austria
 [May 28]
-Tirol      0-0 Sturm
-GAK      2-2 Vienna
-Sportclub    1-4 Admira/Wacker
+Tirol        0-0 Sturm
+GAK        2-2 Vienna
+Sportclub     1-4 Admira/Wacker
 
 Round 35
 [Jun 3]
-Admira/Wacker    1-2 Rapid
+Admira/Wacker     1-2 Rapid
 [Jun 4]
-Austria    1-1 Tirol
-GAK      1-1 Sturm
-Sportclub    5-0 Vienna
+Austria     1-1 Tirol
+GAK        1-1 Sturm
+Sportclub     5-0 Vienna
 
 Round 36 [Jun 7]
-Tirol      2-0 Sportclub
-Rapid      6-1 GAK
-Sturm      0-2 Austria
-Vienna      2-1 Admira/Wacker
+Tirol        2-0 Sportclub
+Rapid        6-1 GAK
+Sturm        0-2 Austria
+Vienna        2-1 Admira/Wacker
 
 Table:
 
@@ -401,16 +401,16 @@ Table:
  8.Wiener Sport-Club         36   9 13 14  63-77   31
 
 Topscorers:
- 1.Zoran Stojadinovic (Rapid)    27
- 2.Walter Knaller (Admira/Wacker)  26
- 3.Harald Krämer (Sturm)    24
- 4.Hans Krankl (Sportclub)    20
- 5.Andreas Ogris (Austria)    17
-   Zlatko Kranjcar (Rapid)    17
- 7.Gerd Steinkogler (Vienna)    16
- 8.Paul Perstling (VOEST)    15
-   Alfred Drabits (Austria)    15
-10.Gerhard Rodax (Admira/Wacker)  14
+ 1.Zoran Stojadinovic (Rapid)      27
+ 2.Walter Knaller (Admira/Wacker)   26
+ 3.Harald Krämer (Sturm)      24
+ 4.Hans Krankl (Sportclub)      20
+ 5.Andreas Ogris (Austria)      17
+   Zlatko Kranjcar (Rapid)      17
+ 7.Gerd Steinkogler (Vienna)      16
+ 8.Paul Perstling (VOEST)      15
+   Alfred Drabits (Austria)      15
+10.Gerhard Rodax (Admira/Wacker)   14
 
 Fall season
 ===========
@@ -418,19 +418,19 @@ Fall season
 2.Bundesliga:
 -------------
 
- 1.Kremser SC         22  14  5  3  46-19   33
- 2.SV Austria Salzburg       22  11  6  5  41-22   28
- 3.Vorwärts Steyr       22   7 11  4  19-18   25
- 4.VSE Sankt Pölten       22   9  6  7  40-33   24
+ 1.Kremser SC           22  14  5  3  46-19   33
+ 2.SV Austria Salzburg        22  11  6  5  41-22   28
+ 3.Vorwärts Steyr        22   7 11  4  19-18   25
+ 4.VSE Sankt Pölten        22   9  6  7  40-33   24
 -----------------------------------------------------
- 5.SV Spittal/Drau       22   6 12  4  28-24   24
- 6.SK Kufstein         22   7  8  7  30-25   22
- 7.USV Salzburg         22   6 10  6  29-31   22
- 8.Donawitzer SV Alpine       22   6  8  8  31-35   20
- 9.Flavia Solva Wagna       22   6  6 10  29-35   18
-10.Kapfenberger SV       22   2 13  7  19-30   17
-11.SC Eisenstadt       22   6  5 11  18-40   17
-12.Salzburger AK       22   4  6 12  22-40   14
+ 5.SV Spittal/Drau        22   6 12  4  28-24   24
+ 6.SK Kufstein           22   7  8  7  30-25   22
+ 7.USV Salzburg           22   6 10  6  29-31   22
+ 8.Donawitzer SV Alpine        22   6  8  8  31-35   20
+ 9.Flavia Solva Wagna        22   6  6 10  29-35   18
+10.Kapfenberger SV        22   2 13  7  19-30   17
+11.SC Eisenstadt        22   6  5 11  18-40   17
+12.Salzburger AK        22   4  6 12  22-40   14
 
 Spring season:
 ==============
@@ -485,9 +485,10 @@ USV Salzburg renamed FC Salzburg after the season.
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 1989/90
      source: https://rsssf.org/tableso/oost90.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Austria 1989/90
 
-<!-- start pre -->
 
 Fall Season
 ===========
@@ -62,184 +62,184 @@ Sportclub        0-2 Krems
 
 Round 4
 [Aug 1]
-Austria    3-1 Vorwärts
-Tirol      1-1 St. Pölten
-GAK      0-3 Rapid
-Krems      0-1 Austria Salzburg
-Vienna      1-1 Sturm
+Austria     3-1 Vorwärts
+Tirol        1-1 St. Pölten
+GAK        0-3 Rapid
+Krems        0-1 Austria Salzburg
+Vienna        1-1 Sturm
 [Aug 2]
-Admira/Wacker    5-1 Sportclub
+Admira/Wacker     5-1 Sportclub
 
 Round 5
 [Aug 4]
-Vorwärts    3-1 Krems
-St. Pölten    2-0 GAK
-Sportclub    1-2 Austria Salzburg
+Vorwärts     3-1 Krems
+St. Pölten     2-0 GAK
+Sportclub     1-2 Austria Salzburg
 [Aug 5]
-Admira/Wacker    1-3 Tirol
-Rapid      4-4 Vienna
-Sturm      0-2 Austria
+Admira/Wacker     1-3 Tirol
+Rapid        4-4 Vienna
+Sturm        0-2 Austria
 
 Round 6
 [Aug 11]
-Austria    1-4 Rapid
-Krems      1-1 Sturm
+Austria     1-4 Rapid
+Krems        1-1 Sturm
 Austria Salzburg 1-1 Vorwärts
 [Aug 12]
-Tirol      3-1 Sportclub
-GAK      4-4 Admira/Wacker
-Vienna      4-0 St. Pölten
+Tirol        3-1 Sportclub
+GAK        4-4 Admira/Wacker
+Vienna        4-0 St. Pölten
 
 Round 7
 [Aug 15]
-Tirol      4-1 GAK
-Rapid      3-1 Krems
-Sturm      0-0 Austria Salzburg
-St. Pölten    2-1 Austria
-Sportclub    1-4 Vorwärts
+Tirol        4-1 GAK
+Rapid        3-1 Krems
+Sturm        0-0 Austria Salzburg
+St. Pölten     2-1 Austria
+Sportclub     1-4 Vorwärts
 [Aug 16]
-Admira/Wacker    3-3 Vienna
+Admira/Wacker     3-3 Vienna
 
 Round 8 [Aug 26]
-Austria    6-0 Admira/Wacker
-GAK      0-1 Sportclub
-Krems      1-1 St. Pölten
+Austria     6-0 Admira/Wacker
+GAK        0-1 Sportclub
+Krems        1-1 St. Pölten
 Austria Salzburg 2-2 Rapid
-Vienna      1-3 Tirol
-Vorwärts    1-1 Sturm
+Vienna        1-3 Tirol
+Vorwärts     1-1 Sturm
 
 Round 9
 [Aug 29]
-Tirol      4-2 Austria
-GAK      1-0 Vienna
-Rapid      3-0 Vorwärts
-St. Pölten    1-1 Austria Salzburg
-Sportclub    0-0 Sturm
+Tirol        4-2 Austria
+GAK        1-0 Vienna
+Rapid        3-0 Vorwärts
+St. Pölten     1-1 Austria Salzburg
+Sportclub     0-0 Sturm
 [Aug 30]
-Admira/Wacker    4-0 Krems
+Admira/Wacker     4-0 Krems
 
 Round 10
 [Sep 8]
 Austria Salzburg 2-3 Admira/Wacker
 [Sep 9]
-Austria    1-0 GAK
-Krems      1-4 Tirol
-Sturm      0-0 Rapid
-Vienna      2-1 Sportclub
-Vorwärts    1-1 St. Pölten
+Austria     1-0 GAK
+Krems        1-4 Tirol
+Sturm        0-0 Rapid
+Vienna        2-1 Sportclub
+Vorwärts     1-1 St. Pölten
 
 Round 11
 [Sep 16]
-Tirol      3-1 Austria Salzburg
-GAK      0-1 Krems
-Rapid      1-0 Sportclub
-St. Pölten    0-4 Sturm
+Tirol        3-1 Austria Salzburg
+GAK        0-1 Krems
+Rapid        1-0 Sportclub
+St. Pölten     0-4 Sturm
 [Sep 17]
-Admira/Wacker    4-0 Vorwärts
-Vienna      0-2 Austria
+Admira/Wacker     4-0 Vorwärts
+Vienna        0-2 Austria
 
 Round 12
 [Sep 22]
-Sportclub    1-1 Rapid
+Sportclub     1-1 Rapid
 [Sep 23]
-Austria    3-0 Vienna
-Krems      2-1 GAK
-Sturm      1-0 St. Pölten
+Austria     3-0 Vienna
+Krems        2-1 GAK
+Sturm        1-0 St. Pölten
 Austria Salzburg 1-1 Tirol
-Vorwärts    1-1 Admira/Wacker
+Vorwärts     1-1 Admira/Wacker
 
 Round 13
 [Sep 29]
-Vienna      1-0 Krems
+Vienna        1-0 Krems
 [Sep 30]
-Admira/Wacker    1-0 Sturm
-Austria    3-0 Sportclub
-Tirol      0-0 Vorwärts
-GAK      1-1 Austria Salzburg
-St. Pölten    2-1 Rapid
+Admira/Wacker     1-0 Sturm
+Austria     3-0 Sportclub
+Tirol        0-0 Vorwärts
+GAK        1-1 Austria Salzburg
+St. Pölten     2-1 Rapid
 
 Round 14 [Oct 7]
-Rapid      1-0 Admira/Wacker
-Krems      2-3 Austria
-Sturm      0-0 Tirol
+Rapid        1-0 Admira/Wacker
+Krems        2-3 Austria
+Sturm        0-0 Tirol
 Austria Salzburg 0-0 Vienna
-Vorwärts    2-0 GAK
-Sportclub    0-1 St. Pölten
+Vorwärts     2-0 GAK
+Sportclub     0-1 St. Pölten
 
 Round 15 [Oct 10]
-Admira/Wacker    3-1 St. Pölten
-Austria    2-0 Austria Salzburg
-Tirol      2-2 Rapid
-GAK      0-4 Sturm
-Krems      5-0 Sportclub
-Vienna      4-1 Vorwärts
+Admira/Wacker     3-1 St. Pölten
+Austria     2-0 Austria Salzburg
+Tirol        2-2 Rapid
+GAK        0-4 Sturm
+Krems        5-0 Sportclub
+Vienna        4-1 Vorwärts
 
 Round 16 [Oct 14]
-Rapid      1-0 GAK
-Sturm      1-1 Vienna
+Rapid        1-0 GAK
+Sturm        1-1 Vienna
 Austria Salzburg 3-0 Krems
-Vorwärts    1-5 Austria
-St. Pölten    1-2 Tirol
-Sportclub    1-3 Admira/Wacker
+Vorwärts     1-5 Austria
+St. Pölten     1-2 Tirol
+Sportclub     1-3 Admira/Wacker
 
 Round 17
 [Oct 27]
 Austria Salzburg 1-3 Sportclub
 [Oct 28]
-Austria    2-1 Sturm
-Tirol      2-1 Admira/Wacker
-GAK      0-2 St. Pölten
-Krems      0-0 Vorwärts
-Vienna      2-1 Rapid
+Austria     2-1 Sturm
+Tirol        2-1 Admira/Wacker
+GAK        0-2 St. Pölten
+Krems        0-0 Vorwärts
+Vienna        2-1 Rapid
 
 Round 18
 [Nov 4]
-Rapid      5-2 Austria
-Sturm      0-0 Krems
-Vorwärts    1-2 Austria Salzburg
+Rapid        5-2 Austria
+Sturm        0-0 Krems
+Vorwärts     1-2 Austria Salzburg
 [Nov 5]
-Admira/Wacker    5-0 GAK
-St. Pölten    2-1 Vienna
-Sportclub    awd Tirol   [awarded 0-3 Nov 7, original result 1-0,
+Admira/Wacker     5-0 GAK
+St. Pölten     2-1 Vienna
+Sportclub     awd Tirol    [awarded 0-3 Nov 7, original result 1-0,
                                  Sportclub used ineligible player Gager]
 
 Round 19
 [Nov 28]
-Austria    0-0 St. Pölten
-GAK      0-1 Tirol
-Krems      3-3 Rapid
+Austria     0-0 St. Pölten
+GAK        0-1 Tirol
+Krems        3-3 Rapid
 Austria Salzburg 0-0 Sturm
-Vorwärts    0-1 Sportclub
+Vorwärts     0-1 Sportclub
 [Nov 29]
-Vienna      0-6 Admira/Wacker
+Vienna        0-6 Admira/Wacker
 
 Round 20
 [Nov 18]
-Admira/Wacker    3-1 Austria
-Tirol      2-0 Vienna
-Rapid      1-4 Austria Salzburg
-Sturm      2-1 Vorwärts
-St. Pölten    1-1 Krems
+Admira/Wacker     3-1 Austria
+Tirol        2-0 Vienna
+Rapid        1-4 Austria Salzburg
+Sturm        2-1 Vorwärts
+St. Pölten     1-1 Krems
 [Nov 19]
-Sportclub    2-4 GAK
+Sportclub     2-4 GAK
 
 Round 21
 [Nov 25]
-Austria    0-0 Tirol
-Krems      5-0 Admira/Wacker
-Sturm      2-1 Sportclub
+Austria     0-0 Tirol
+Krems        5-0 Admira/Wacker
+Sturm        2-1 Sportclub
 Austria Salzburg 1-1 St. Pölten
-Vorwärts    0-1 Rapid
+Vorwärts     0-1 Rapid
 [Nov 26]
-Vienna      7-1 GAK
+Vienna        7-1 GAK
 
 Round 22 [Dec 12]
-Admira/Wacker    5-2 Austria Salzburg
-Tirol      0-3 Krems
-GAK      0-5 Austria
-Rapid      3-0 Sturm
-St. Pölten    3-0 Vorwärts
-Sportclub    1-1 Vienna
+Admira/Wacker     5-2 Austria Salzburg
+Tirol        0-3 Krems
+GAK        0-5 Austria
+Rapid        3-0 Sturm
+St. Pölten     3-0 Vorwärts
+Sportclub     1-1 Vienna
 
 Table:
 
@@ -278,104 +278,104 @@ Table:
 rounded) and obtained in spring respectively.]
 
 Round 23 [Feb 17]
-Austria    1-0 Austria Salzburg
-Sturm      0-0 Admira/Wacker
-Vienna      0-2 Rapid
-St. Pölten    0-0 Tirol
+Austria     1-0 Austria Salzburg
+Sturm        0-0 Admira/Wacker
+Vienna        0-2 Rapid
+St. Pölten     0-0 Tirol
 
 Round 24 [Feb 24]
-Admira/Wacker    1-1 St. Pölten
-Tirol      5-2 Austria
-Rapid     2-0 Sturm
+Admira/Wacker     1-1 St. Pölten
+Tirol        5-2 Austria
+Rapid       2-0 Sturm
 Austria Salzburg 2-0 Vienna
 
 Round 25 [Mar 3]
-Austria    2-0 Admira/Wacker
+Austria     2-0 Admira/Wacker
 Austria Salzburg 2-0 Tirol
-Vienna      0-1 Sturm
-St. Pölten    2-2 Rapid
+Vienna        0-1 Sturm
+St. Pölten     2-2 Rapid
 
 Round 26
 [Mar 10]
-Tirol      2-0 Vienna
-Rapid      6-3 Austria
-Sturm      0-0 St. Pölten
+Tirol        2-0 Vienna
+Rapid        6-3 Austria
+Sturm        0-0 St. Pölten
 [Mar 11]
-Admira/Wacker    6-1 Austria Salzburg
+Admira/Wacker     6-1 Austria Salzburg
 
 Round 27 [Mar 17]
-Austria     3-0 Sturm
-Tirol      2-0 Admira/Wacker
+Austria      3-0 Sturm
+Tirol        2-0 Admira/Wacker
 Austria Salzburg 1-0 Rapid
-Vienna      0-1 St. Pölten
+Vienna        0-1 St. Pölten
 
 Round 28
 [Mar 24]
-Rapid      0-1 Tirol
-Sturm      0-0 Austria Salzburg
-St. Pölten    1-1 Austria
+Rapid        0-1 Tirol
+Sturm        0-0 Austria Salzburg
+St. Pölten     1-1 Austria
 [Mar 25]
-Admira/Wacker    5-1 Vienna
+Admira/Wacker     5-1 Vienna
 
 Round 29
 [Mar 30]
-Tirol      2-1 Sturm
+Tirol        2-1 Sturm
 Austria Salzburg 1-1 St. Pölten
 [Mar 31]
-Admira/Wacker    0-2 Rapid
+Admira/Wacker     0-2 Rapid
 [Apr 1]
-Austria    3-0 Vienna
+Austria     3-0 Vienna
 
 Round 30
 [Apr 6]
-Rapid      1-1 Admira/Wacker
-Sturm      2-0 Tirol
-St. Pölten    1-1 Austria Salzburg
+Rapid        1-1 Admira/Wacker
+Sturm        2-0 Tirol
+St. Pölten     1-1 Austria Salzburg
 [Apr 7]
-Vienna      0-4 Austria
+Vienna        0-4 Austria
 
 Round 31
 [Apr 13]
 Austria Salzburg 0-0 Sturm
 [Apr 14]
-Austria    1-0 St. Pölten
-Tirol      6-1 Rapid
-Vienna      0-0 Admira/Wacker
+Austria     1-0 St. Pölten
+Tirol        6-1 Rapid
+Vienna        0-0 Admira/Wacker
 
 Round 32
 [Apr 20]
-Rapid      2-1 Austria Salzburg
-St. Pölten    4-4 Vienna
+Rapid        2-1 Austria Salzburg
+St. Pölten     4-4 Vienna
 [Apr 21]
-Admira/Wacker    3-1 Tirol
-Sturm      2-0 Austria
+Admira/Wacker     3-1 Tirol
+Sturm        2-0 Austria
 
 Round 33
 [Apr 27]
 Austria Salzburg 3-2 Admira/Wacker
-Vienna      0-4 Tirol
+Vienna        0-4 Tirol
 [Apr 28]
-Austria    0-0 Rapid
-St. Pölten    2-0 Sturm
+Austria     0-0 Rapid
+St. Pölten     2-0 Sturm
 
 Round 34 [May 5]
-Admira/Wacker    1-0 Austria
-Tirol      5-2 Austria Salzburg
-Rapid      6-3 St. Pölten
-Sturm      1-2 Vienna
+Admira/Wacker     1-0 Austria
+Tirol        5-2 Austria Salzburg
+Rapid        6-3 St. Pölten
+Sturm        1-2 Vienna
 
 Round 35
 [May 8]
-Austria    0-1 Tirol
-Sturm      1-1 Rapid
-St. Pölten    1-1 Admira/Wacker
+Austria     0-1 Tirol
+Sturm        1-1 Rapid
+St. Pölten     1-1 Admira/Wacker
 [May 9]
-Vienna      3-1 Austria Salzburg
+Vienna        3-1 Austria Salzburg
 
 Round 36 [May 15]
-Admira/Wacker    1-3 Sturm
-Tirol      5-3 St. Pölten
-Rapid      0-3 Vienna
+Admira/Wacker     1-3 Sturm
+Tirol        5-3 St. Pölten
+Rapid        0-3 Vienna
 Austria Salzburg 5-0 Austria
 
 Table:
@@ -394,18 +394,18 @@ rounded) and obtained in spring respectively.]
 
 Topscorers
 
-1.Gerhard Rodax (Admira/Wacker)    35
-2.Walter Knaller (Admira/Wacker)  20
-3.Peter Pacult (Tirol)      18
-4.Jan-Aage Fjørtoft (Rapid)    17
-5.Andreas Ogris (Austria)    16
-6.Vaclav Danek (Tirol)      15
-  Mario Kempes (St. Pölten)    15
-8.Christian Keglevits (Rapid)    13
-  Rupert Marko (Salzburg)    13
-  Heimo Pfeifenberger (Rapid)    13
-  Hannes Pleva (Austria)    13
-  Christof Westerthaler (Tirol)    13
+1.Gerhard Rodax (Admira/Wacker)      35
+2.Walter Knaller (Admira/Wacker)   20
+3.Peter Pacult (Tirol)         18
+4.Jan-Aage Fjørtoft (Rapid)      17
+5.Andreas Ogris (Austria)      16
+6.Vaclav Danek (Tirol)         15
+  Mario Kempes (St. Pölten)      15
+8.Christian Keglevits (Rapid)      13
+  Rupert Marko (Salzburg)      13
+  Heimo Pfeifenberger (Rapid)      13
+  Hannes Pleva (Austria)      13
+  Christof Westerthaler (Tirol)      13
 
 Fall season
 ===========
@@ -480,9 +480,10 @@ FC Salzburg (West)
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

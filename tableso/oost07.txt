@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2006/07
      source: https://rsssf.org/tableso/oost07.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Austria 2006/07
 
-<!-- start pre -->
 First Level (Bundesliga)
 
 Final Table:
@@ -1102,25 +1102,10 @@ Final [Jun 6]
 USK Anif                      0-0 SV Grödig                     [2-4 pen]
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2005/06, see page oost06›.
 
-‹2007/08, see page oost08›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

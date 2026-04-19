@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2010/11
      source: https://rsssf.org/tableso/oost2011.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Austria 2010/11
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bundesliga, see §bund›
-‹ÖFB Cup, see §cup›
-‹1. Liga, see §1liga›
-‹SFV (Salzburg) Cup, see §salzcup›
-‹Steirer Cup, see §steicup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bundesliga  ‹§bund›
 
-<!-- start pre -->
 Final Table:
 
  1.SK Sturm Graz                36  19  9  8  66-33  66  Champions
@@ -57,13 +51,13 @@ Austria Wien         2-2  2-0  1-0  5-0  0-1  1-0  2-4       0-1  4-0
 Rapid Wien           0-2  2-0  3-3  0-0  0-0  2-0  1-2  0-3       4-1
 Wiener Neustadt      1-2  1-1  2-2  0-0  2-1  0-2  1-0  4-2  2-0
 Rapid Wien-Austria Wien originally 0-2, awarded 0-3
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== ÖFB Cup  ‹§cup›
 
-<!-- start pre -->
 Preliminary Round
 [Jul 23]
 SVG Bleiburg                0-2 SPG SC St. Stefan/SK Austria Klagenfurt
@@ -198,13 +192,13 @@ Final [May 29]
 SV Ried                     2-0 Austria Lustenau
   [Hammerer 41, 67]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Admira Wacker Mödling     36  23  6  7  85-45  75  [*]  Promoted
@@ -247,13 +241,13 @@ WAC/St. Andrä        0-0  3-0  2-1  0-0  1-2  4-2  3-1       5-0  1-0
 Admira               1-1  7-3  1-1  3-1  3-0  5-3  5-1  0-1       1-3
 First Vienna         1-1  3-1  0-0  1-4  1-1  3-0  2-0  0-4  0-0
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Promotion/Relegation 2nd/3rd level  ‹§prorel›
 
-<!-- start pre -->
 First Legs
 [Jun 8]
 BW Linz          0-1 Wattens
@@ -266,13 +260,13 @@ Parndorf         1-2 Vienna
 
 NB: FC Blau-Weiß Linz promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== SFV (Salzburg) Cup 2010/11  ‹§salzcup›
 
-<!-- start pre -->
 1/8 Finals
 [Sep 7]
 UFC Altenmarkt                2-0 FC Zell/See
@@ -302,13 +296,13 @@ USV Fuschl                    0-5 FC Red Bull Amateure
 
 Final [May 31]
 FC Red Bull Amateure          6-3 SV Grödig 1b
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Woche Steirer Cup 2010/11  ‹§steicup›
 
-<!-- start pre -->
 1/8 Finals
 [Mar 12]
 TuS Kraubath                  0-6 SV Bad Schwanberg
@@ -339,25 +333,10 @@ USV Mettersdorf               1-2 SV Frannach
 Final [Jun 23]
 SV Frannach                   1-4 SC Weiz
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2009/10, see page oost2010›.
 
-‹2011/12, see page oost2012›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

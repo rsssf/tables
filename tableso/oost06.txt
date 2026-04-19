@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2005/06
      source: https://rsssf.org/tableso/oost06.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Austria 2005/06
 
-<!-- start pre -->
 First Level (Bundesliga)
 
 Final Table:
@@ -636,7 +636,7 @@ SC Austria Lustenau 2-0 DSV Leoben
 FK Austria Amateure 1-0 Red Bull Salzburg
 [Oct 19]
 SK St. Andrä        1-3 SV Ried
-SKN St. Pölten      2-2 Admira                     [aet, 4-3 pen]
+SKN St. Pölten      2-2 Admira                      [aet, 4-3 pen]
 
 NB: Rapid Wien, Austria, GAK and Pasching enter in Round 3
 
@@ -1268,25 +1268,10 @@ FC Hallein 04                 2-2 SV Grödig                     [9-8 pen]
 Final
 FC Hallein 04                 7-2 1. Oberndorfer SK
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2004/05, see page oost05›.
 
-‹2006/07, see page oost07›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

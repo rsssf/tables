@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2015/16
      source: https://rsssf.org/tableso/oost2016.html
     -->
   
@@ -6,20 +7,12 @@
 
 == Austria 2015/16
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bundesliga, see §bund›
-‹ÖFB Cup, see §cup›
-‹1. Liga, see §1liga›
-‹Regionalliga, see §regliga›
-‹SFV (Salzburg) Cup, see §salzcup›
-‹Steirer Cup, see §steicup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bundesliga  ‹§bund›
 
-<!-- start pre -->
 Final Table:
 
  1.RB Salzburg                  36  21 11  4  71-33  74  [C]  Champions
@@ -373,13 +366,13 @@ Final Table:
 
 NB: after the end of the season, Grödig announced they will not play at the second
     level next season but withdraw to their regional league (Regionalliga West)
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== ÖFB Cup  ‹§cup›
 
-<!-- start pre -->
 Round 1
 [Jul 17]
 SC Weiz                     1-5 SK Rapid Wien
@@ -467,13 +460,13 @@ FC Red Bull Salzburg        5-2 FK Austria Wien
 Final [May 19, Klagenfurt]
 FC Red Bull Salzburg        5-0 FC Admira/Wacker Mödling
   [Soriano 7, 65, 86pen , Keita 28, Laimer 73]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- start pre -->
 Final Table:
 
  1.SKN Sankt Pölten             36  26  2  8  68-34  80  Promoted
@@ -501,13 +494,13 @@ NB: both SV Austria Salzburg (who opened insolvency proceedings during the seaso
     SV Horn (Regionalliga Ost), FC Blau-Weiß Linz (Regionalliga Mitte) and WSG Wattens
     (Regionalliga West); the playoff for one promotion place between FC Blau-Weiß Linz
     and WSG Wattens will therefore not be played.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regionalliga  ‹§regliga›
 
-<!-- start pre -->
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 Regionalliga West  ‹§regwest›
@@ -599,13 +592,13 @@ NB: SV Eberau (Burgenland) declined promotion, and as no other club from the
       but as they did so very late, they were not replaced, reducing the number
       of clubs in the RL Ost to 15 for 2016/17.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== SFV (Salzburg) Cup 2015/16  ‹§salzcup›
 
-<!-- start pre -->
 1/8 Finals
 [Aug 25]
 SC Mühlbach/Pinzgau           0-3 Union Henndorf
@@ -634,13 +627,13 @@ FC Bergheim                   3-2 TSV Neumarkt
 
 Final [May 25]
 USK Anif                      3-0 FC Bergheim
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Woche Cup 2015/16  ‹§steicup›
 
-<!-- start pre -->
 1/8 Finals [Mar 28]
 SC Bruck/Mur                  0-2 SC Weiz
 SV Feldbach                   4-1 SK Fürstenfeld
@@ -668,25 +661,10 @@ TSV Pöllau                    2-3 SC Kalsdorf                   [aet]
 
 Final [Jun 3]
 SV Lafnitz                    2-0 SC Kalsdorf
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2014/15, see page oost2015›.
 
-‹2016/17, see page oost2017›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

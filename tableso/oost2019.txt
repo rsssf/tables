@@ -1,4 +1,5 @@
   <!--
+     title:  Austria 2018/19
      source: https://rsssf.org/tableso/oost2019.html
     -->
   
@@ -6,20 +7,12 @@
 
 == Austria 2018/19
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bundesliga, see §bund›
-‹ÖFB Cup, see §cup›
-‹2. Liga, see §1liga›
-‹Regionalliga, see §regliga›
-‹SFV (Salzburg) Cup, see §salzcup›
-‹Steirer Cup, see §steicup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bundesliga  ‹§bund›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -447,13 +440,13 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between square brackets),
     rounded downwards (marked by * where applicable)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== ÖFB Cup  ‹§cup›
 
-<!-- start pre -->
 Round 1
 [Jul 20]
 SV Leobendorf                   2-0 SV Neuberg
@@ -543,13 +536,13 @@ Final [May 1, Wörtherseestadion, Klagenfurt]
 FC Red Bull Salzburg            2-0 SK Rapid Wien
   [Patrick Farkas 37, Munas Dabbur 39]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. Liga (Second Level)  ‹§1liga›
 
-<!-- start pre -->
 Final Table:
 
  1.WSG Wattens                  30  19  8  3  59-26  65            Promoted
@@ -582,13 +575,13 @@ NB: as Wiener Neustadt were denied a license, Wacker II were relegated
 
 Promoted: GAK, FC Dornbirn
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regionalliga  ‹§regliga›
 
-<!-- start pre -->
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 Regionalliga West  ‹§regwest›
@@ -666,23 +659,23 @@ Final Table:
 [*] full name: FC Marchfeld Donauauen Mannsdorf
 
 NB: no club eligible for promotion
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== SFV (Salzburg) Cup 2018/19  ‹§salzcup›
 
-<!-- start pre -->
 Final [Jun 4]
 FC Zell/See                   1-2 USK Anif
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Woche Cup 2018/19  ‹§steicup›
 
-<!-- start pre -->
 1/8 Finals
 [Apr 16]
 ASK Köflach                   4-1 SV Pischelsdorf
@@ -711,25 +704,10 @@ SC Bruck/Mur                  1-3 SC Kalsdorf
 
 Final [Jun 10]
 SC Kalsdorf                   3-0 Deutschlandsberger SC
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2017/18, see page oost2018›.
 
-‹2019/20, see page oost2020›.
 
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 
