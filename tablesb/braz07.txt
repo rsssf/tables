@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2007
      source: https://rsssf.org/tablesb/braz07.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 2007
 
-<!-- start pre -->
 Participants
 
 América FC (Natal-RN)                       Goiás EC (Goiânia-GO)
@@ -993,9 +993,10 @@ Champions, teams placed 5-11 (excluding Fluminense) qualify to 2008 Sudamericana
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

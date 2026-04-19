@@ -1,4 +1,5 @@
   <!--
+     title:  Turkmenistan 2025
      source: https://rsssf.org/tablest/turkm2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Turkmenistan 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Türkmenistan 1. Toparlar (Ýokary Liga), see §yokary›
-‹Turkmenistan Cup, see §cup›
-‹TFF-niň Kubogy, see §fedcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Türkmenistan 1. Toparlar (Ýokary Liga)  ‹§yokary›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Arkadag             28  28  0  0 105-15  84  [C] Champions
@@ -411,13 +407,13 @@ Top scorers:
 8.Daýanç Meredow (Ahal)              8
 9.Zafar Babajanow (Altyn Asyr)       7
   Selim Nurmyradow (Altyn Asyr)      7  [Turkmenistan/Russia]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Turkmenistan Cup  ‹§cup›
 
-<!-- start pre -->
 Quarterfinals
 
 [May 20, Jun 17]
@@ -454,13 +450,13 @@ Final [Dec 27, Arkadag Stadiony, Arkadag]
 FC ARKADAG  2-1  Ahal (Änew)
   [Şamämmet Hydyrow 67 pen, 77; Ýakupmuhammet Gowşudow 24]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== TFF-niň Kubogy  ‹§fedcup›
 
-<!-- start pre -->
 Round 1 [Feb 14]
 Arkadag  4-1  Nebitçi
   [Enwer Annaýew 3, 33; Didar Durdyýew 49, 70 - Myratdurdy Baýramow 30]
@@ -511,19 +507,10 @@ Final Table:
  5.Nebitçi (Balkanabat)    5   1  1  3   2- 8   4  [1 0 1 1-1 3]
  6.FC Aşgabat              5   1  1  3   4- 8   4  [0 1 1 1-2 1]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page turkm2024›
 
-‹2026, see page turkm2026›
 
-‹list of champions, see page turkmchamp›.
-
-‹list of cup winners, see page turkmcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

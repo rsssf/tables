@@ -1,4 +1,5 @@
   <!--
+     title:  Cuba 2025
      source: https://rsssf.org/tablesc/cuba2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Cuba 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Campeonato Nacional de Liga 2025, see §cnf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Campeonato Nacional de Liga 2025  ‹§cnf›
 
-<!-- start pre -->
 NB: 109th edition
 
 ‹Torneo de Apertura 2025, see §aper› | ‹Torneo de Clausura 2025, see §clau›
@@ -416,15 +414,10 @@ Final  ‹§fin›
 [Dec 14, in La Habana]
 La Habana           2-1 Santiago de Cuba
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page cuba2024›
 
-‹list of champions, see page cubachamp›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Belarus 2026
      source: https://rsssf.org/tablesw/witr2026.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Belarus 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Vyšejšaja Liha 2026, see §visshaya›
-‹Cup 2025/26, see §kubok›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Vyšejšaja Liha 2026  ‹§visshaya›
 
-<!-- start pre -->
 Table:
 
  1.Dynáma (Minsk)              2   2  0  0   4- 1   6
@@ -422,13 +419,13 @@ Promotion/Relegation Playoff  ‹§prorel›
 [Dec 2, 5]
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup 2025/26  ‹§kubok›
 
-<!-- start pre -->
 First Round
 
 [May 3]
@@ -595,21 +592,10 @@ Slávija (Mazýr)             -   -   BATE (Barýsaŭ)
 
 Final [May 16]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page witr2025›.
 
-‹list of champions, see page witrchamp›.
 
-‹list of cup winners, see page witrcuphist›.
-
-‹list of super cup winners, see page witrnewsupcuphist›.
-
-‹list of topscorers, see page witrtops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Dominica 2025
      source: https://rsssf.org/tablesd/domi2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Dominica 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League 2025, see §prem›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League 2025  ‹§prem›
 
-<!-- start pre -->
 Final Table:
 
  1.Dublanc FC (Dublanc)                           18  15  3  0  76-15  48  [C]  Champions
@@ -232,19 +230,10 @@ Final Table:
 -------------------------------------------------------------------------
 10.DS FC (Pointe Michel)                          18   1  1 16  16-89   4  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page domi2024›
 
-‹2026, see page domi2026›
 
-‹list of champions, see page domichamp›
-
-‹list of cup winners, see page domicuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

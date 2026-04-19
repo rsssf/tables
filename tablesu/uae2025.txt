@@ -1,4 +1,5 @@
   <!--
+     title:  United Arab Emirates 2024/25
      source: https://rsssf.org/tablesu/uae2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == United Arab Emirates 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Professional League, see §leagp›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Professional League  ‹§leagp›
 
-<!-- start pre -->
 Final Table:
 
  1.Shabab Al-Ahli Dubai   26  19  6  1  57-22  63       Champions
@@ -121,7 +119,7 @@ Round 8
 Bataeh        1-3 Khor Fakkan
 Urooba        2-4 Ain
 [Nov 22]
-Shabab/Ahli     0-0 Ittihad
+Shabab/Ahli      0-0 Ittihad
 Sharjah       3-0 Nasr
 Wahda         2-2 Wasl
 [Nov 23]
@@ -359,17 +357,10 @@ Final Table:
 13.Dibba Al-Hisn          26   4  4 18  29-56  16  [P]  Relegated
 14.Al-Urooba              26   4  1 21  24-64  13  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page uae2024›
 
-‹list of champions, see page uaechamp›
 
-‹list of cup winners, see page uaecuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

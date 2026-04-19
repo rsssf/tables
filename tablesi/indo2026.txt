@@ -1,4 +1,5 @@
   <!--
+     title:  Indonesia 2025/26
      source: https://rsssf.org/tablesi/indo2026.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Indonesia 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga 1, see §liga1›
-‹Piala Presiden 2025, see §ppr›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga 1  ‹§liga1›
 
-<!-- start pre -->
 Table:
 
  1.Persib (Bandung)                   25  18  4  3  43-14  58  [C]
@@ -470,13 +467,13 @@ Table:
 18.PSBS (Biak Numfor)                 25   4  6 15  27-53  18
 
 [*] Dewa United were renamed Dewa United Banten and relocated from Tangerang to Serang
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Piala Presiden 2025  ‹§ppr›
 
-<!-- start pre -->
 NB: seventh edition; pre-season tournament; included, for the first time,
     two foreign sides: Oxford United (England) and Port FC (Thailand)
 
@@ -514,23 +511,10 @@ Dewa United            2-0 Liga Indonesia All Star
 
 Final [Jul 13, Stadion Si Jalak Harupat, Kutawaringin, Kabupaten Bandung]
 Port FC                2-1 Oxford United
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page indo2025›.
 
-‹list of champions, see page indochamp›.
 
-‹list of 2nd level champions, see page indo2champ›.
-
-‹list of 3rd level champions, see page indo3champ›.
-
-‹list of amateur champions, see page indoamchamp›.
-
-‹list of cup winners, see page indocuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

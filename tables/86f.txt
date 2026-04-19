@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1986
      source: https://rsssf.org/tables/86f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1986 (Mexico, May 31-June 29)
 
-<!-- start pre -->
 
 FIRST PHASE
 
@@ -117,7 +117,6 @@ Scorers: 23' Brown 1-0; 56' Valdano 2-0; 74' K.-H. Rummenigge 2-1;
 
 Topscorer: Lineker (England) 6 goals.
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 86full›
 
@@ -131,7 +130,9 @@ Topscorer: Lineker (England) 6 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

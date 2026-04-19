@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1986 finals
      source: https://rsssf.org/tables/86full.html
     -->
   
@@ -34,7 +35,6 @@ in October 1982). Entries deadline 31 Aug 1983. 121 teams entered, 113
 played (9 for the first time). Qualifications drawn 7 Dec 1983 in Zürich.
 Finals drawn 15 Dec 1985 in Mexico City.
 
-<!-- start pre -->
 
 == Group A - ARG BUL ITA KOR  ‹§gra›
 
@@ -54,7 +54,9 @@ booked: Bergomi, Cabrini / A.Markov
 
 NOTE: Match preceded by WC opening ceremony
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 02.06.86  (12.00) Mexico City, Estadio Olimpico '68
 
@@ -72,7 +74,9 @@ Chang-sun (c), Kim Joo-sung - Choi Soon-hoo, Cha Bum-keun
 
 booked: Huh Jung-moo, Park Chang-sun
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 05.06.86  (12.00) Puebla, Estadio Cuauhtemoc
 
@@ -89,7 +93,9 @@ G.Baresi), Bagni, di Gennaro, Conti (87 Vialli) - Galderisi, Altobelli
 
 booked: Giusti, Garré / Bergomi
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 05.06.86  (16.00) Mexico City, Estadio Olimpico '68
 
@@ -107,7 +113,9 @@ Kim Jong-boo), Byun Byung-joo - Kim Joo-sung, Cha Bum-keun
 
 booked: Gospodinov / Cho Young-jeung, Kim Joo-sung
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 10.06.86  (12.00) Mexico City, Estadio Olimpico '68
 
@@ -124,7 +132,9 @@ Zdravkov), Getov, Zheliazkov, Yordanov - P.Markov, Mladenov (53 Velitchkov)
 
 booked: Cuciuffo
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 10.06.86  (12.00) Puebla, Estadio Cuauhtemoc
 
@@ -164,7 +174,9 @@ Claesen)
 
 booked: Sánchez, Muñoz / F.van der Elst
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 04.06.86  (12.00) Toluca, Estadio Bombonera
 
@@ -181,7 +193,9 @@ Hanna, Mohammed (82 Bassim) - Hassan (68 Aufi), Shihab
 
 booked: Schettina / Mahmoud
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 07.06.86  (12.00) Mexico City, Estadio Azteca
 
@@ -198,7 +212,9 @@ Ferreira, Romero, Cabañas - Canete, Mendoza (63 Guasch)
 
 booked: Trejo, Negrete, Sánchez / Schettina, Mendoza
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 08.06.86  (12.00) Toluca, Estadio Bombonera
 
@@ -216,7 +232,9 @@ Minshid (82 Aufi), Hanna - Hassan, Shihab
 booked: Salman, Salim, AL-Roubai, Abidoun, Haman, Mahmoud (after match)
 sent off: Hanna (51)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.86  Toluca, Estadio Bombonera
 
@@ -233,7 +251,9 @@ Cabañas, Canete - Mendoza (68 Hicks), Guasch
 
 booked: Ceulemans / Romero (82 the Paraguaian coach expulsed from the bench)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.86  (12.00) Mexico City, Estadio Azteca
 
@@ -270,7 +290,9 @@ Norman, Sweeney (54 Lowery) - Valentine, Vrablic
 
 1:0 Papin 79 h
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 02.06.86  (12.00) Irapuato, Estadio Irapuato
 
@@ -288,7 +310,9 @@ Yaremuchuk 73, 6:0 Rodionov 80 (77 Yevtushenko missed penalty)
 
 booked: Larionov
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 05.06.86  (12.00) León, Estadio León
 
@@ -305,7 +329,9 @@ Aleinikov, Yakovenko (70 Rodionov), Rats - Belanov, Zavarov (80 Blokhin)
 
 booked: Fernandez, Amoros / Rats, Belanov
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 06.06.86  (12.00) Irapuato, Estadio Irapuato
 
@@ -323,7 +349,9 @@ James (56 Segota), Norman, Valentine - Gray, Vrablic
 booked: Sweeney, Lenarduzzi
 sent off: Sweeney (86)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 09.06.86  (12.00) León, Estadio León
 
@@ -340,7 +368,9 @@ HUN: P.Disztl - Sallai, Garaba (c), Varga, Kardos - Róth, Détári, Hannich
 
 booked: Ayache, Rocheteau
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 09.06.86  (12.00) Irapuato, Estadio Irapuato
 
@@ -377,7 +407,9 @@ Francisco (83 Señor), Julio Alberto - Butragueño, Julio Salinas
 
 booked: Branco / Julio Alberto
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 03.06.86  (12.00) Guadalajara, Estadio Trez de Marzo
 
@@ -394,7 +426,9 @@ McIlroy (c), McCreery, Worthington - Hamilton, Whiteside (62 Clarke)
 
 booked: Mansouri / Whiteside, Worthington, McIlroy
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 06.06.86  (12.00) Guadalajara, Estadio Jalisco
 
@@ -409,7 +443,9 @@ Madjer, Menad - Belloumi (79 Zidane), Assad (68 Bensaoula)
 
 1:0 Careca 67
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 07.06.86  (12.00) Guadalajara, Estadio Trez de Marzo
 
@@ -426,7 +462,9 @@ McIlroy (c), McCreery, Worthington (71 Hamilton) - Whiteside, Clarke
 
 booked: Victor / Hamilton
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 12.06.86  (12.00) Guadalajara, Estadio Jalisco
 
@@ -443,7 +481,9 @@ McCreery, Campbell (71 Armstrong) - Whiteside (68 Hamilton), Clarke
 
 booked: Donaghy
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 12.06.86  (12.00) Monterrey, Estadio Tecnologico
 
@@ -487,7 +527,9 @@ URU: Alvez - Diogo, Acevedo, Gutierrez, Batista - Bossio, Barrios
 
 booked: Diego, Saralegui
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 04.06.86  (16.00) Nezahualcoyotl, Estadio Neza '86
 
@@ -504,7 +546,9 @@ Nicholas - Strachan (75 Bannon), Sturrock (63 McAvennie)
 
 booked: Berggreen
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 08.06.86  (12.00) Queretaro, Estadio La Corregidora
 
@@ -521,7 +565,9 @@ SCO: Leighton - Gough, Malpas, Narey, Miller - Souness (c), Aitken, Nicol
 
 booked: Archibald, Bannon, Malpas
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 08.06.86  (16.00) Nezahualcoyotl, Estadio Neza '86
 
@@ -540,7 +586,9 @@ URU: Alvez - Diogo, Acevedo (c), Gutierrez, Batista - Bossio, Saralegui, Santin
 booked: I.Nielsen / Bossio, da Silva
 sent off: Bossio (20)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 13.06.86  (12.00) Queretaro, Estadio La Corregidora
 
@@ -558,7 +606,9 @@ Jakobs, Matthäus, Rolff (46 Littbarski), Brehme - Völler, K.Allofs
 booked: Arnesen / Eder, Jakobs
 sent off: Arnesen (89)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 13.06.86  (12.00) Nezahualcoyotl, Estadio Neza '86
 
@@ -597,7 +647,9 @@ Matysik, Buncol, Komornicki, Boniek (c) - Smolarek, Dziekanowski (56 Urban)
 
 booked: Timoumi
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 03.06.86  (16.00) Monterrey, Estadio Tecnologico
 
@@ -615,7 +667,9 @@ ENG: Shilton - G.M.Stevens, Fenwick, Butcher, Sansom - Hoddle, Robson
 
 booked: Jaime Pacheco / Fenwick, Butcher
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 06.06.86  (16.00) Monterrey, Estadio Tecnologico
 
@@ -631,7 +685,9 @@ Timoumi, Khairi, M.Merry (88 Souleymani) - Bouderbala, Krimau
 booked: Wilkins, Hateley / Khalifi, Khairi
 sent off: Wilkins (42)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 07.06.86  (16.00) Monterrey, Estadio Universitario
 
@@ -648,7 +704,9 @@ Pacheco, André (73 J.Magalhaes), Sousa - Carlos Manuel, Gomes (c - 46 Futre)
 
 booked: Wójcicki, Dziekanowski
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.86  (16.00) Monterrey, Estadio Universitario
 
@@ -665,7 +723,9 @@ Komornicki (24 Karaś), Boniek, Smolarek - Dziekanowski, Urban
 
 booked: Fenwick
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.86  (16.00) Guadalajara, Estadio 3 de Marzo
 
@@ -713,7 +773,9 @@ Kostadinov, Gospodinov - Pashev (80 Iskrenov), Getov (71 Sirakov)
 
 booked: Arabov
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.06.86  (16.00) Leon, Estadio Sergio Leon
 
@@ -731,7 +793,9 @@ Rodionov), Aleinikov, Yakovenko (80 Yevtushenko), Yaremchuk - Belanov, Rats
 
 booked: Renquin
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 16.06.86  (12.00) Guadalajara, Estadio Jalisco
 
@@ -748,7 +812,9 @@ Wójcicki, Majewski, Urban (84 Żmuda), Boniek - Dziekanowski, Smolarek
 
 booked: Careca, Edinho / Boniek, Smolarek, Dziekanowski
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 16.06.86  (16.00) Puebla, Estadio Cuauhtemoc
 
@@ -768,7 +834,9 @@ booked: Garré, Brown, Pumpido / Francescoli, Acevedo, da Silva, Santin
 NOTE: The Uruguayan coach banned from taking place on the bench.
 The 400th game of the World Cup
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 17.06.86  (12.00) Mexico City, Estadio Olimpico '68
 
@@ -785,7 +853,9 @@ di Gennaro), de Napoli, Bagni - Conti, Altobelli, Galderisi (58 Vialli)
 
 booked: Ayache / de Napoli, di Gennaro
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 17.06.86  (16.00) Monterrey, Estadio Universitario
 
@@ -802,7 +872,9 @@ Haddaoui, Bouderbala, Timoumi - Khairi, Krimau
 
 booked: Lemriss, Khalifi
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 18.06.86  (12.00) Mexico City, Estadio Azteca
 
@@ -821,7 +893,9 @@ booked: Martin, Hodges / Romero, Nunez
 
 NOTE: The Paraguayan coach banned from taking place on the bench
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 18.06.86  (16.00) Queretaro, Estadio La Corregidora
 
@@ -860,7 +934,9 @@ Penalties: (0:0) Socrates (save Bats), 1:0 Stopyra, 1:1 Alemão, 2:1 Amoros,
 
 booked: Edinho (during pen shoot-out)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 21.06.86  (16.00) Monterrey, Estadio Universitario
 
@@ -880,7 +956,9 @@ booked: K.Allofs, Förster, Matthäus / Aguirre, Quirarte, de los Cobos, Servin,
 Sánchez
 sent off: Berthold (84) / Aguirre (100)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 22.06.86  (12.00) Mexico City, Estadio Azteca
 
@@ -897,7 +975,9 @@ ENG: Shilton (c) - G.M.Stevens, Butcher, Fenwick, Sansom - Hoddle, Steven
 
 booked: Batista / Fenwick, Butcher
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 22.06.86  (16.00) Puebla, Estadio Cuauhtemoc
 
@@ -935,7 +1015,9 @@ Vercruysse), Platini (c), Fernandez - Stopyra, Bellone (66 Xuereb)
 
 booked: Magath / Fernandez
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 25.06.86  (16.00) Mexico City, Estadio Azteca
 
@@ -1070,4 +1152,3 @@ captain     Barrios URU    25y131d   Bento POR          37y343d
 coach       Michel FRA     38y216d   Munoz ESP          64y154d
 referee     Snoddy NIR     31y 74d   Márquez MEX        50y 34d
 
-<!-- end pre -->

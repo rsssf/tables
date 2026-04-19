@@ -1,4 +1,5 @@
   <!--
+     title:  England 2007/08
      source: https://rsssf.org/tablese/eng08.html
     -->
   
@@ -6,7 +7,6 @@
 
 == England 2007/08
 
-<!-- start pre -->
 Premiership
 
 Final Table:
@@ -4740,9 +4740,10 @@ NB: Eastbourne Borough promoted to fifth level
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

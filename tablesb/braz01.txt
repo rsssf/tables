@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2001
      source: https://rsssf.org/tablesb/braz01.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 2001
 
-<!-- start pre -->
 After leaving the organisation of the 2000 tournament to the Clube dos 13, CBF
 decided to claim back the organisation of that tournament in 2001.  To avoid
 judicial conflicts decided to keep in the 1st level all participants of the 2000
@@ -1056,9 +1056,10 @@ Clube Atlético Paranaense are the 2001 Brazilian champions
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document
 

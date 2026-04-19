@@ -1,4 +1,5 @@
   <!--
+     title:  Netherlands 2025/26
      source: https://rsssf.org/tablesn/ned2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Netherlands 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Eredivisie, see §ere›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Eredivisie  ‹§ere›
 
-<!-- start pre -->
 ‹Regular Season, see §1reg› | ‹Conference League Playoff, see §1eur› | ‹Nacompetitie, see §2nac›
 
 Regular Season  ‹§1reg›
@@ -482,25 +480,10 @@ Conference League Playoff  ‹§1eur›
 
 Nacompetitie  ‹§2nac›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page ned2025›.
 
-‹list of champions, see page nedchamp›.
 
-‹all-time table from 1956 onwards, see page nedalltime›.
-
-‹list of 2nd division champions, see page ned2champ›.
-
-‹list of first class champions, see page ned1stclass›.
-
-‹list of cup finals, see page nedcuphist›.
-
-‹list of super cup finals, see page nedsupcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

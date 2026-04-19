@@ -1,4 +1,5 @@
   <!--
+     title:  Kurdistan 2024/25
      source: https://rsssf.org/tablesi/iraq-kurd2025.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Kurdistan 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Excellence Division, see §kurd›
-‹Kurdistan Regional Cup, see §kcup›
-‹First Division, see §1st›
-‹Second Division, see §2nd›
-‹Iraqi Premier League 2024/25 (link to separate file), see page iraq2025.html#ipl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Excellence Division  ‹§kurd›
 
-<!-- start pre -->
 Final Table:
 
  1.Sherwana                  28  17  5  6  59-41  56       Champions
@@ -443,13 +437,13 @@ Final Table:
 
 NB: Said Sadiq withdrew or were excluded at the halfway stage and have all
     remaining matches awarded 0-3 losses against them
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Kurdistan Regional Cup 2024/25  ‹§kcup›
 
-<!-- start pre -->
 Semifinals
 [Apr 20]
 Zakho        4-0 Kufri
@@ -458,13 +452,13 @@ Handren      1-0 Akre
 
 Final [May 12]
 Handren      2-0 Zakho
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== First Division  ‹§1st›
 
-<!-- start pre -->
 Final Table:
 
  1.Qaladze                   14  10  3  1  27- 8  33       Promoted
@@ -488,13 +482,13 @@ Final Table:
 
 NB: remaining match (Koya vs Rwandz from round 1) apparently declared void
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Second Division  ‹§2nd›
 
-<!-- start pre -->
 Group Stage
 
 Final Tables:
@@ -537,15 +531,10 @@ Second Promotion Playoff [May 15]
 Shekhan      1-1 Hajiawa      [4-1 pen]
 
 Promoted: Bardarash, Shekhan
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page iraq-kurd2024›
 
-‹list of champions, see page iraq-kurdchamp›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

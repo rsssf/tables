@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2013/14
      source: https://rsssf.org/tablesi/ital2014.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Italy 2013/14
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Serie B, see §serieb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.Juventus FC         38  33  3  2  80-23 102  Champions
@@ -621,13 +617,13 @@ Final Table:
 19.Bologna FC          38   5 14 19  28-58  29  Relegated
 20.AS Livorno          38   6  7 25  39-77  25  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
-<!-- start pre -->
 First Round
 [Aug 3]
 Paganese            0-0 Pro Patria                    [aet, 3-4 pen]
@@ -835,13 +831,13 @@ Fiorentina: Neto, Gonzalo Rodriguez, Savic, Pasqual (56 Mati
  Fernandez), Tomovic, Pizarro, Aquilani (83 Matri), Borja Valero,
  Vargas, Joaquin (72 Rossi G.), Ilicic. Tr.: Montella
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› |  ‹Relegation Playoff, see §2rel›
 
 Regular Season  ‹§2reg›
@@ -918,35 +914,10 @@ Second Leg [Jun 13]
 Varese      2-2 Novara
 
 NB: Novara relegated
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2012/13, see page ital2013›.
-
-‹2014/15, see page ital2015›.
 
 
 
-‹list of champions, see page italchamp›.
 
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

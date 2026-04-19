@@ -1,4 +1,5 @@
   <!--
+     title:  VI Copa Brasil - 1980 [Brazilian Championship]
      source: https://rsssf.org/tablesb/braz80.html
     -->
   
@@ -6,7 +7,6 @@
 
 == VI Copa Brasil - 1980 [Brazilian Championship]
 
-<!-- start pre -->
 Participants
 Teams selected by record on previous state championship-
 
@@ -1257,11 +1257,11 @@ Final Table
 
 N.B. The table doesn't include the extra match between Guarani and América-RJ.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 Brazilian Championship 1980 - 2nd Level (Taça De Prata)
 
 Participating Teams:
@@ -2060,11 +2060,11 @@ CSA               1-1   0-4  Londrina
 Londrina Esporte Clube were the Champions of the 1980 Taça De Prata (2nd Level)
 Londrina and CSA are promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 Brazilian Championship 1980-3rd Level (Taça De Bronze-Participating Teams)
 
 América Fc (Manaus, Am)
@@ -2100,9 +2100,10 @@ Taguatinga Ec (Brasília, Df)
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

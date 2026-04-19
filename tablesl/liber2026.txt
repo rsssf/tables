@@ -1,4 +1,5 @@
   <!--
+     title:  Liberia 2025/26
      source: https://rsssf.org/tablesl/liber2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Liberia 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹First Division, see §first›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== First Division 2025/26  ‹§first›
 
-<!-- start pre -->
 Table:
 
  1.Watanga FC                 22  14  6  2  33-15  48
@@ -384,17 +382,10 @@ Table:
 NB: following a CAS ruling, Jubilee FC had to be included in the first division 2025/26;
     this happened after the completion of round 9
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page liber2025›
 
-‹list of champions, see page liberchamp›
 
-‹list of cup winners, see page libercuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Taiwan 2025/26
      source: https://rsssf.org/tablest/taiwan2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Taiwan 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Taiwan Football Premier League (Jiaji Liansai), see §natur›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Taiwan Football Premier League (Jiaji Liansai)  ‹§natur›
 
-<!-- start pre -->
 Table:
 
  1.Hang Yuen FC              13   9  1  3  25- 9  28
@@ -136,15 +134,10 @@ Table:
 
 [*] Taiwan Shihu reverted to their former name Tatung
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page taiwan2024›
 
-‹list of champions, see page taiwanchamp›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

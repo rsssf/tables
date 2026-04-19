@@ -1,4 +1,5 @@
   <!--
+     title:  Iraq 2024/25
      source: https://rsssf.org/tablesi/iraq2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Iraq 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Iraqi Stars League 2024/25, see §ipl›
-‹Kurdistan Leagues 2024/25 (link to separate file), see page iraq-kurd2025›
-‹First Division 2024/25, see §1st›
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
 
 ==== Iraqi Stars League 2024/25  ‹§ipl›
 
-<!-- start pre -->
 Final Table:
 
  1.Al-Shurta (Baghdad)             38  26  9  3  75-23  87  [C]  Champions
@@ -652,13 +649,13 @@ Final Table:
 19.Al-Hudod (Baghdad)              38   8  2 28  37-79  26       Relegated
 20.Karbala (Karbala)               38   4 10 24  26-66  22       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== First Division 2024/25  ‹§1st›
 
-<!-- start pre -->
 NB: third level
 
 Participating Teams:
@@ -691,23 +688,10 @@ Final  ‹§2fin›
 
 Hashd Al-Shaabi   1-1 Jaish             [4-3 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page iraq2024›
 
-‹list of champions, see page iraqchamp›
 
-‹list of cup winners, see page iraqcuphist›
-
-‹casuals cup history, see page iraqcascuphist›
-
-‹list of topscorers, see page iraqtops›
-
-‹list of foundation dates, see page iraqfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

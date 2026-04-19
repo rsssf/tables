@@ -1,4 +1,5 @@
   <!--
+     title:  Iran 2024/25
      source: https://rsssf.org/tablesi/iran2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Iran 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Iran Pro League, see §ipl›
-‹Jaam Hazfi, see §hazfi›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Iran Pro League  ‹§ipl›
 
-<!-- start pre -->
 Final Table:
 
  1.Teraktor-Sazi (Tabriz)             30  21  5  4  57-19  68       Champions
@@ -458,13 +455,13 @@ Final Table:
 15.Nassaji (Mazandaran)               30   3 14 13  15-28  23       Relegated
 16.Havadar (Eslamshahr)               30   4 10 16  17-48  22       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Jaam Hazfi 2024/25  ‹§hazfi›
 
-<!-- start pre -->
 1/8 Finals
 {Feb 12]
 Shahrdari N.  1-0 Palayesh Naft [aet]
@@ -495,23 +492,10 @@ Esteghlal T   2-0 Sanat-Naft
 Final [May 29, Imam Khomeini Stadium, Arak]
 Esteghlal T   1-0 Malavan       [aet]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page iran2024›.
 
-‹list of champions, see page iranchamp›.
 
-‹list of cup finals, see page irancuphist›.
-
-‹list of 2nd level champions, see page iran2champ›.
-
-‹list of foundation dates, see page iranfound›.
-
-‹list of topscorers, see page irantops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Haiti 2025/26
      source: https://rsssf.org/tablesh/haiti2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Haiti 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ligue Haïtienne de Football - Série d'Ouverture 2025/26, see §ouv›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ligue Haïtienne de Football - Série d'Ouverture 2025/26  ‹§ouv›
 
-<!-- start pre -->
 NB: compared to last season, Cosmopolites SC and Racing FC (Gonaïves) entered
     whereas Triomphe FC (Liancourt) did not
 
@@ -259,19 +257,10 @@ Baltimore      0-0 Violette
 Second Leg [Feb 14, Parc Sainte-Thérèse, Pétion-ville]
 Violette       2-1 Baltimore
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page haiti2025›
 
-‹list of champions, see page haitichamp›
 
-‹list of cup winners, see page haiticuphist›
-
-‹list of foundation dates, see page haitifound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

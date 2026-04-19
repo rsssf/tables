@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2010
      source: https://rsssf.org/tablesu/usa2010.html
     -->
   
@@ -6,23 +7,12 @@
 
 == USA 2010
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Major League Soccer, see §mls› (Division 1)
-‹US Open Cup, see §open›
-‹Women's Professional Soccer, see §wps› (Division 1)
-‹USSF D2Pro League, see §ussf2› (Division 2)
-‹USL Second Division, see §usl2› (Division 3)
-‹USL Premier Development League, see §pdl› ("Division 4")
-‹National Premier Soccer League, see §npsl› ("Division 4")
-‹Women's Premier Soccer League, see §wpsl›
-‹USL W-League, see §wleague›
-‹Major Indoor Soccer League, see §misl›
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
 
 ==== Major League Soccer  ‹§mls›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
 Regular Season  ‹§reg›
@@ -512,13 +502,13 @@ Final [Nov 21, BMO Field, Toronto]
 Colorado Rapids        2-1 FC Dallas              [aet]
   [Casey 57, John 107og; Ferreira 35]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== US Open Cup  ‹§open›
 
-<!-- start pre -->
 Qualification MLS
 
 First Round
@@ -577,13 +567,13 @@ Seattle Sounders       3-1 Chivas USA
 
 Final [Oct 5, Qwest Field, Seattle]
 Seattle Sounders       2-1 Columbus Crew
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Women's Professional Soccer (Division 1)  ‹§wps›
 
-<!-- start pre -->
 
 
                            GP   W   L   D   GF  GA  Pts
@@ -608,13 +598,13 @@ Final [Sep 26, Hayward, Calif.; att: 5.528]
 FC Gold Pride             4-0 Philadelphia Independence
   [Sinclair 16, 53, Wilson 28, Marta 90]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== USSF D2Pro League (Division 2)  ‹§ussf2›
 
-<!-- start pre -->
 Regular Season
 
 Final Tables:
@@ -682,13 +672,13 @@ Carolina RailHawks     1-1 Puerto Rico Islanders
 
 Champions: Puerto Rico Islanders
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== USL Second Division (Division 3)  ‹§usl2›
 
-<!-- start pre -->
 Regular Season
 
 Final Table:
@@ -711,13 +701,13 @@ Final [Aug 28]
 Charleston Battery     2-1 Richmond Kickers
 
 Champions: Charleston Battery
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== USL Premier Development League ("Division 4")  ‹§pdl›
 
-<!-- start pre -->
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
      Northeast Division
@@ -836,13 +826,13 @@ Championship Final
 Portland U23   4-1 Thunder Bay
 
 Champions: Portland Timbers U23's
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== National Premier Soccer League ("Division 4")  ‹§npsl›
 
-<!-- start pre -->
                             GP   W   L   D   GF  GA  Pts
      Northeast Atlantic Conference
  1.New York Red Bull NPSL      12  10   1   1   32   6   31
@@ -906,13 +896,13 @@ Sacramento     3-1 Chattanooga
 
 Champions: Sacramento Gold
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Women's Premier Soccer League  ‹§wpsl›
 
-<!-- start pre -->
                           GP   W   L   D   GF  GA  Pts
      East-Northeast Division
 Boston Aztec              10   8   1   1   32   8   25
@@ -1009,13 +999,13 @@ Semi-Finals:          Ajax America defeated Oklahoma 2-0
 3rd Place Game:        Milwaukee and Oklahoma drew 2-2
 CHAMPIONSHIP:         Boston defeated Ajax America 2-1
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== USL - W-League  ‹§wleague›
 
-<!-- start pre -->
 
 
                             GP   W   L   D   GF  GA  Pts
@@ -1074,13 +1064,13 @@ Semi-finals:           Buffalo defeated Atlanta 3-1
 Third Place Game:      Hudson Valley defeated Atlanta 3-0
 CHAMPIONSHIP:          Buffalo defeated Vancouver 3-1
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Major Indoor Soccer League  ‹§misl›
 
-<!-- start pre -->
 
                            GP   W   L   PCT.   GB   GF   GA
 Milwaukee Wave             20  14   6   .700   --  242  201
@@ -1092,33 +1082,10 @@ Rockford Raptors           20   7  13   .350 7.00  203  220
 Semi-Finals:  Monterrey defeated Baltimore 22-14, 10-8 (OT)
 Final:        Monterrey defeated Milwaukee 12-6.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2009, see page usa09›
 
-‹2009 (Women), see page usa-wom09›
 
-‹2009/10, see page usa0910›
-
-‹2011, see page usa2011›
-
-‹2011 (Women), see page usa-wom2011›
-
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

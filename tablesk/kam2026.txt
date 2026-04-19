@@ -1,4 +1,5 @@
   <!--
+     title:  Cameroon 2026
      source: https://rsssf.org/tablesk/kam2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Cameroon 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹MTN Elite One, see §elite1›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== MTN Elite One  ‹§elite1›
 
-<!-- start pre -->
 Table:
 
  1.Unisport du Haut Nkam (Bafang)     12   8  2  2  13-10  26  [P]
@@ -190,21 +188,10 @@ Table:
 -------------------------------------------------------------
 14.Aigle Royal du Moungo              12   1  4  7   6-16   7
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page kam2025›
 
-‹list of champions, see page kamchamp›
 
-‹list of cup finals, see page kamcuphist›
-
-‹list of super cup finals, see page kamsupcuphist›
-
-‹list of foundation dates, see page kamfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

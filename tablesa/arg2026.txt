@@ -1,4 +1,5 @@
   <!--
+     title:  Argentina 2026
      source: https://rsssf.org/tablesa/arg2026.html
     -->
   
@@ -6,19 +7,13 @@
 
 == Argentina 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹LPF Opening Tournament - Torneo Apertura de la LPF de AFA 2026, see §1apertura›
-‹LPF Closing Tournament - Torneo Clausura de la LPF de AFA 2026, see §1clausura›
-‹LPF Annual Table - Tabla Anual de la LPF de AFA 2026, see §1first›
-‹AFA National cup: Copa Argentina 2026, see §nationalcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 === Torneo Apertura de la LPF de AFA 2026  ‹§1apertura›
 
 [2026 AFA LPF Opening Tournament]
-<!-- start pre -->
 Non official table
  #.Full name                                               MP   W  D  L  Gf- Ga   P  (Headquarters on)
  1.Club Sportivo Independiente Rivadavia                   12   8  2  2  20- 12  26  (Mendoza, M)
@@ -440,14 +435,14 @@ TBD                                     -        TBD                            
 Final:
 [May 24, Sun]
 TBD                                     -        TBD                                TBD
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === Torneo Clausura de la LPF de AFA 2026  ‹§1clausura›
 
 [2026 AFA LPF Closing Tournament]
-<!-- start pre -->
 Non official table
  #.Full name                                               MP   W  D  L  Gf- Ga   P  (Headquarters on)
  1.Club Atlético Rosario Central                            0   0  0  0   0-  0   0  (Rosario, S)
@@ -826,13 +821,13 @@ Final:
 [Dec 13, Sun]
 TBD                                     -        TBD                                TBD
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === ‹Primer Descenso - First Relegation›
 
-<!-- start pre -->
 Triennal General Table of Averages
 
 Tiebreaker matches (if needed to determine relegation).
@@ -875,13 +870,13 @@ Tiebreaker matches (if needed to determine relegation).
 29.CA Aldosivi                         44   9 12 23  34: 59  39 0.8863
 30.AA Estudiantes                      12   1  2  9   3: 17   5 0.4166 (First relegation)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === Tabla Anual de Posiciones 2026 - Final Standing (Opening and Closing phases of groups)  ‹§1first›
 
-<!-- start pre -->
 Rules to define the champion:
 1. Points.
 2. Goal difference.
@@ -920,13 +915,13 @@ Tiebreaker matches in case of having to determine relegation.
 28.Deportivo Riestra AFBC            12   0  7  5   3-  9   7
 29.CA Aldosivi                       12   0  6  6   3- 13   6 (Second relegation)
 30.AA Estudiantes                    12   1  2  9   3- 17   5 (Relegation by average)
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === AFA national cup: Copa Argentina 2026  ‹§nationalcup›
 
-<!-- start pre -->
 Table ordered by:
 a) Round reached in the Argentine Cup.
 b) Standings of the First level, Opening and Closing championships combined.
@@ -1091,40 +1086,10 @@ Final:
 [TBD]
 TBD                                     -        TBD                                TBD
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2025, see page arg2025›.
 
 
 
-‹2025/26 (regional 4th level), see page arg4-reg2026›.
 
-
-
-‹list of champions, see page argchamp›.
-
-
-‹list of cup finals, see page argcuphist›.
-
-
-‹list of final tables, see page arghist›.
-
-
-‹all-time tables, see page argalltime›.
-
-
-‹list of 2nd level champions, see page arg2champ›.
-
-
-‹divisional movements, see page argall›.
-
-
-‹topscorers, see page argtops›.
-
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

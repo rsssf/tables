@@ -1,4 +1,5 @@
   <!--
+     title:  Slovenia 2024/25
      source: https://rsssf.org/tabless/slov2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Slovenia 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹1. SNL, see §1snl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== 1. SNL  ‹§1snl›
 
-<!-- start pre -->
 Final Table:
 
  1.Olimpija Ljubljana           36  21 11  4  63-20  74       Champions
@@ -410,25 +408,10 @@ Final Table:
 -------------------------------------------------------
 10.Nafta 1903 (Lendava)         36   6 10 20  33-69  28  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page slov2024›.
 
-‹list of champions, see page slovchamp›.
 
-‹list of final tables, see page slovhist›.
-
-‹list of cup winners, see page slovcuphist›.
-
-‹list of super cup finals, see page slovsupcuphist›.
-
-‹list of topscorers, see page slovtops›.
-
-‹list of foundation dates, see page slovfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

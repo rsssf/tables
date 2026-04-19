@@ -1,4 +1,5 @@
   <!--
+     title:  Afghanistan 2024/25
      source: https://rsssf.org/tablesa/afgh2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Afghanistan 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Afghanistan Champions League 2024/25, see §afgh›
-‹Promotion Playoff, see §prom›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Afghanistan Champions League 2024/25  ‹§afgh›
 
-<!-- start pre -->
 NB: fourth edition
 
 Final Table:
@@ -180,13 +177,13 @@ Final Table:
 
 NB: annulled results against MGM Khadim between square brackets
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Promotion Playoff  ‹§prom›
 
-<!-- start pre -->
 Contested by the winners of the regional leagues:
 
 Central Zone:              Golrang                      [Kabul]
@@ -253,15 +250,10 @@ Final Table:
  5.Golrang                      5   0  1  4   4-11   1
  6.Modern Club                  5   0  1  4   6-21   1
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page afgh2024›
 
-‹list of champions, see page afghchamp›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

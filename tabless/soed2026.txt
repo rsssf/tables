@@ -1,4 +1,5 @@
   <!--
+     title:  Sudan 2026
      source: https://rsssf.org/tabless/soed2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Sudan 206
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Sudan Premier League, see §sfcl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Sudan Premier League  ‹§sfcl›
 
-<!-- start pre -->
 NB: Al-Hilal and Al-Merreikh enter their reserve sides, as their first teams
     play in the ‹Rwandan league, see page ../tablesr/rwan2026›.
 
@@ -473,17 +471,10 @@ Table:
  7.Al-Merreikh II (Omdurman)       0   0  0  0   0- 0   0
  8.Umm Mughad Al-Kamlin            0   0  0  0   0- 0   0
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025., see page soed2025›
 
-‹list of champions., see page soedchamp›
 
-‹list of cup winners., see page soedcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

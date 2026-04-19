@@ -1,4 +1,5 @@
   <!--
+     title:  Kosovo 2024/25
      source: https://rsssf.org/tablesk/kosovo2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Kosovo 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Superliga, see §super›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Superliga  ‹§super›
 
-<!-- start pre -->
 Final Table:
 
  1.Drita (Gjilan)               36  22  8  6  59-26  74       Champions
@@ -395,19 +393,10 @@ Final Table:
 -------------------------------------------------------
  9.Suhareka (Suharekë)          36  12  7 17  49-62  43  [P]  Relegated
 10.Feronikeli (Drenas)          36   3  6 27  24-64  15       Relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page kosovo2024›.
 
-‹list of champions, see page kosovochamp›.
 
-‹list of cup winners, see page kosovocuphist›.
-
-‹list of super cup winners, see page kosovosupcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

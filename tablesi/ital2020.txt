@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2019/20
      source: https://rsssf.org/tablesi/ital2020.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Italy 2019/20
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Serie B, see §serieb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.Juventus FC         38  26  5  7  76-43  83  [C]  Champions
@@ -636,9 +632,10 @@ Final Table:
 19.Brescia Calcio      38   6  7 25  35-79  25  [P]  Relegated
 20.SPAL (Ferrara)      38   5  5 28  27-77  20       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
@@ -849,13 +846,13 @@ Juventus: Buffon, Cuadrado (85 Ramsey), De Ligt, Bonucci, Alex Sandro, Bentancur
 Penalty Kicks: Dyabala (missed), Insigne, Danilo (missed), Politano,
                Bonucci, Maksimovic, Ramsey, Milik
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Season  ‹§2reg›
@@ -933,33 +930,10 @@ Perugia         2-1 Pescara         [aet, 2-4 pen]
 
 NB: Perugia relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2018/19, see page ital2019›.
 
-‹2020/21, see page ital2021›.
 
-‹list of champions, see page italchamp›.
-
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

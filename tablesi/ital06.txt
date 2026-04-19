@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2005/06
      source: https://rsssf.org/tablesi/ital06.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Italy 2005/06
 
-<!-- start pre -->
 First Level (Serie A)
 
 Final Table:
@@ -1065,9 +1065,10 @@ NB: after the match-fixing scandal the following verdicts were reached
 
 ‹list of 3rd division topscorers, see page ital3tops›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

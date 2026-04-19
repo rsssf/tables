@@ -1,4 +1,5 @@
   <!--
+     title:  Oceanian Nations Cup 2024
      source: https://rsssf.org/tables/2024oc.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Oceanian Nations Cup 2024
 
-<!-- start pre -->
 OFC qualifying tournament (Nuku'alofa, Tonga)
 
 20- 3-24 Tonga               1-4 Samoa
@@ -73,13 +73,14 @@ Final (at Port Vila)
 30- 6-24 New Zealand         3-0 Vanuatu
           [Howieson 2, Randall 83, Mata 90+1]
 
-<!-- end pre -->
 
 ‹Overview File, see page ../tableso/oceania-cup›
 
 ‹2016, see page 2016oc›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2006
      source: https://rsssf.org/tablesb/braz06.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 2006
 
-<!-- start pre -->
 Participants
 
 C Atlético Paranaense (Curitiba-PR)         SC Internacional (Porto Alegre-RS)
@@ -979,9 +979,10 @@ Champions and teams positioned from 5-11 (excluding Flamengo and Internacional) 
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

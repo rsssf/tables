@@ -1,4 +1,5 @@
   <!--
+     title:  Lithuania 2026
      source: https://rsssf.org/tablesl/lito2026.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Lithuania 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Toplyga 2026, see §alyga›
-‹LFF Taurė 2026, see §taure›
-‹I Lyga, see §1lyga›
-‹LFF II Lyga A Divizionas, see §2lyga›
-‹LFF II Lyga B Divizionas, see §2lygb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Toplyga 2026  ‹§alyga›
 
-<!-- start pre -->
 Table:
 
  1.Žalgiris (Kaunas)          7   6  1  0  18- 3  19  [C]
@@ -281,13 +275,13 @@ Banga        -  Zalgiris Vl
 [Jun 21]
 Dziugas      -  Suduva
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== LFF Taurė 2026  ‹§taure›
 
-<!-- start pre -->
 Preliminary Round [Apr 1]
 
 Futboliukas (Vilnius)    1-1  Venta (Kuršėnai)  [pen 4-5]
@@ -322,13 +316,13 @@ Kaunas City              -  Vytis (Vilnius)
 [Mar 14]
 Utena (Utenos)           -  FK Jonava
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== I Lyga  ‹§1lyga›
 
-<!-- start pre -->
 Table:
 
  1.Minija (Kretinga)            4   4  0  0  12- 3  12
@@ -611,13 +605,13 @@ Siauliai B     -  Babrungas
 [Jun 28]
 Zalgiris B Kn  -  Baltijos FA
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== LFF II Lyga A Divizionas  ‹§2lyga›
 
-<!-- start pre -->
 Table:
 
  1.Vilnius FA               3   3  0  0   9- 1   9  [P]
@@ -906,13 +900,13 @@ Dainava B    -  Riteriai B
 Sirvena      -  Sveikata
 Viltis       -  Banga B
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== LFF II Lyga B Divizionas  ‹§2lygb›
 
-<!-- start pre -->
 Table:
 
  1.Ataka (Vilnius)           2   2  0  0  18- 0   6  [N]
@@ -1142,23 +1136,10 @@ Interas        -  Nemunas
 [Jul 5]
 Babrungas B    -  Saned
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page lito2025›.
 
-‹list of full tables, see page litohist›.
 
-‹list of champions, see page litochamp›.
-
-‹list of cup winners, see page litocuphist›.
-
-‹list of topscorers, see page litotops›.
-
-‹list of foundation dates, see page litofound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

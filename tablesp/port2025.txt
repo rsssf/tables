@@ -1,4 +1,5 @@
   <!--
+     title:  Portugal 2024/25
      source: https://rsssf.org/tablesp/port2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Portugal 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga Portugal, see §liga1›
-‹League Cup, see §leaguecup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga Portugal  ‹§liga1›
 
-<!-- start pre -->
 Final Table:
 
  1.Sporting CP                  34  25  7  2  88-27  82  [C]                    Champions
@@ -584,13 +581,13 @@ Final Table:
 17.SC Farense                   34   6  9 19  25-46  27        [2 0 1 1 0-1 1]  Relegated
 18.Boavista FC                  34   6  6 22  24-59  24                         Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== League Cup  ‹§leaguecup›
 
-<!-- start pre -->
 Quarterfinals
 [Oct 29]
 Sporting          3-1 Nacional
@@ -609,29 +606,10 @@ Benfica           3-0 Braga
 Final [Jan 11]
 Sporting          1-1 Benfica           [6-7 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page port2024›
 
-‹list of champions, see page portchamp›.
 
-‹list of final tables, see page porthist›.
-
-‹list of 2nd division champions, see page port2champ›.
-
-‹list of cup finals, see page portcuphist›.
-
-‹list of league cup finals, see page portleagcuphist›.
-
-‹list of super cup finals, see page portsupcuphist›.
-
-‹all-time table, see page portallt›.
-
-‹list of topscorers, see page porttops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  England 1994/95
      source: https://rsssf.org/tablese/eng95.html
     -->
   
@@ -6,7 +7,6 @@
 
 == England 1994/95
 
-<!-- start pre -->
 FA Carling Premiership 1994-95
                               P  W  D  L   F   A  W  D  L   F   A Pts  GD
  1. Blackburn Rovers         42 17  2  2  54  21 10  6  5  26  18  89 +41 EC1
@@ -1683,27 +1683,10 @@ Also promoted:  - Canvey Island
 Resigned:       - Feltham & Houslow
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹1993/94, see page eng94›.
 
-‹1995/96, see page eng96›.
 
-‹list of champions, see page engchamp›.
-
-‹list of 2nd division champions, see page eng2champ›.
-
-‹list of full tables, see page ../engpaul/FLA/league›.
-
-‹list of divisional movements, see page engall›.
-
-‹list of cup winners, see page engcuphist›.
-
-‹list of league cup winners, see page engleagcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

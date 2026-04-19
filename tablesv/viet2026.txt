@@ -1,4 +1,5 @@
   <!--
+     title:  Vietnam 2025/26
      source: https://rsssf.org/tablesv/viet2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Vietnam 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹V-League 2025/26, see §vleague›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== V-League 2025/26  ‹§vleague›
 
-<!-- start pre -->
 Table:
 
  1.Ninh Bình                           11   8  3  0  26-11  27  [P]
@@ -217,17 +215,10 @@ Table:
 [*1] Becamex Bình Dương (Thủ Dầu Một) changed name to Becamex Thành phố HCM
 [*2] CLB.Thành phố HCM (Tp. Hồ Chí Minh) changed name to Công An Thành phố HCM
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page viet2025›
 
-‹list of champions, see page vietchamp›
 
-‹list of cup winners, see page vietcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

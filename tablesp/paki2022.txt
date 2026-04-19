@@ -1,4 +1,5 @@
   <!--
+     title:  Pakistan 2021/22
      source: https://rsssf.org/tablesp/paki2022.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Pakistan 2021/22 (National Tournaments)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Pakistan Premier League 2021/22, see §nat›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Pakistan Premier League 2021/22  ‹§nat›
 
-<!-- start pre -->
 NB: league apparently abandoned
 
 Table:
@@ -285,19 +283,10 @@ Table:
 NB: also promoted sides Baloch FC (Quetta), Gwadar Port Authority and
     Masha United (Faisalabad) declined to enter
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2020/21, see page paki2021›
 
-‹2023, see page paki2023›
 
-‹list of champions., see page pakichamp›
-
-‹list of cup winners., see page pakicuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  African Nations Cup 2025/26
      source: https://rsssf.org/tables/2025a.html
     -->
   
@@ -6,7 +7,9 @@
 
 == African Nations Cup 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 <ul>
 <li>‹Qualifying Tournament, see §qual›
@@ -15,11 +18,12 @@
 <li>‹Details Final Tournament, see page 2025a-det›
 </ul>
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Qualifying Tournament  ‹§qual›
 
-<!-- start pre -->
 NB: Morocco qualified as hosts; despite of this, they decided to participate
     to the group stage of the qualification tournament.
 
@@ -272,13 +276,13 @@ Group L
  3.Burundi            6  1  1  4  4-11  4
  4.Malawi             6  1  1  4  6-11  4
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Final Tournament  ‹§fin›
 
-<!-- start pre -->
 Morocco, 21 December 2025 - 18 January 2026
 
 Stadiums:  Agadir        Adrar Stadium                  46.000
@@ -456,19 +460,10 @@ NB: on 17- 3-2026, the CAF Appeal Board awarded the match as a 3-0 win to Morocc
     been awarded to Morocco during injury time; they had eventually returned, after
     which Brahim Diaz missed the penalty and Senegal won in extra time.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹overview file, see page ../tablesa/afrchamp›
 
-‹2023/24, see page 2023a›
 
-‹details qualifying tournament, see page 2025a-qdet›
-
-‹details final tournament, see page 2025a-det›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

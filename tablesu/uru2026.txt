@@ -1,4 +1,5 @@
   <!--
+     title:  Uruguay 2026
      source: https://rsssf.org/tablesu/uru2026.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Uruguay 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División Profesional, see §pdp›
-‹Copa de la Liga AUF Uruguaya 2026, see §copaliga›
-‹Segunda División Profesional, see §sdp›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División Profesional  ‹§pdp›
 
-<!-- start pre -->
 ‹Apertura 2026, see §aper› | ‹Intermedio 2026, see §medio› | ‹Clausura 2026, see §clau› | ‹Championship Playoff, see §play›
 
 Torneo Apertura 2026  ‹§aper›
@@ -305,13 +301,13 @@ Final  ‹§ovfin›
 
 NB: over 2 legs; between winners Tabla Anual and winners ‹semifinal, see §semi›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa de la Liga AUF Uruguaya 2026  ‹§copaliga›
 
-<!-- start pre -->
 NB: unofficial (friendly) tournament between the top level clubs
 
 1/8 Finals
@@ -361,13 +357,13 @@ Final [Jan 29, Estadio Parque Viera]
 Boston River       1-2 Progreso
   [Franco Marcelo Pérez Portillo 51; Facundo De León Raviales 20, Diego Sánchez Richieri 55]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Segunda División Profesional  ‹§sdp›
 
-<!-- start pre -->
 ‹Competencia, see §2comp› | ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §tercp›
 
 Competencia  ‹§2comp›
@@ -506,39 +502,10 @@ NB: group stage records ‹Competencia, see §2comp› carried over
 
 Promotion Playoff  ‹§tercp›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page uru2025›
 
-‹list of champions, see page uruchamp›
 
-‹list of final tables, see page uruhist›
-
-‹all-time table, see page urualltime›
-
-‹all-time table liguilla, see page uru-lig-alltime›
-
-‹list of relegated teams, see page uruall›
-
-‹list of liguilla champions, see page uruliguillachamp›
-
-‹list of 2nd division champions, see page uru2champ›
-
-‹list of 3rd division champions, see page uru3champ›
-
-‹list of ofi (interior) champions, see page uru-ofichamp›
-
-‹overview of regional championships, see page uru-regional›
-
-‹list of winners of provincial selections championship, see page uru-torneo-interiorchamp›
-
-‹list of topscorers, see page urutops›
-
-‹list of foundation dates, see page urufound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

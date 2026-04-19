@@ -1,4 +1,5 @@
   <!--
+     title:  Puerto Rico 2025/26 (Clausura 2026)
      source: https://rsssf.org/tablesp/p-rico2026a.html
     -->
   
@@ -6,11 +7,12 @@
 
 == Puerto Rico 2025/26 (Clausura 2026)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga Puerto Rico Pro  ‹§lpr›
 
-<!-- start pre -->
 ‹Regular Stage, see §apreg› | ‹Playoff Stage, see §appo›
 
 Regular Stage  ‹§apreg›
@@ -155,17 +157,10 @@ Table:
 
 Playoff Stage  ‹§appo›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025/26 (Apertura 2025), see page p-rico2026›
 
-‹list of champions, see page p-ricochamp›
 
-‹list of cup winners, see page p-ricocuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

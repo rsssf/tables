@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2021/22
      source: https://rsssf.org/tablesm/mex2022.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Mexico 2021/22
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga MX, see §pdn›
-‹Campeón de Campeones, see §campcamp›
-‹Supercopa LMX, see §supcopa›
-‹Liga Expansión MX, see §ascenso›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga MX  ‹§pdn›
 
-<!-- start pre -->
 ‹Apertura 2021, see §1aper› | ‹Clausura 2022, see §1clau›
 
 Apertura 2021  ‹§1aper›
@@ -546,40 +541,40 @@ Atlas                1-0 León                 [aet, 4-3 pen]
 
 Penalties:
 
-Atlas        León
-Jesús Alberto Angulo (1-1)  Elías Hernández (0-1)
-Aldo Rocha (M) (1-1)    Fernando Navarro (M) (1-1)
-Edgar Zaldívar (2-2)    Ángel Mena (1-2)
-Christopher Trejo (3-3)    William Tesillo (2-3)
-Julio César Furch (4-3)    Luis Arturo Montes (M) (3-3)
+Atlas            León
+Jesús Alberto Angulo (1-1)   Elías Hernández (0-1)
+Aldo Rocha (M) (1-1)      Fernando Navarro (M) (1-1)
+Edgar Zaldívar (2-2)      Ángel Mena (1-2)
+Christopher Trejo (3-3)      William Tesillo (2-3)
+Julio César Furch (4-3)      Luis Arturo Montes (M) (3-3)
 
 Atlas squad
 
-Camilo Vargas        GK (Colombia)
-Santiago Hernández      GK
-Hugo Nervo         DF (Argentina)
-Anderson Santamaría      DF (Peru)
-Luis Reyes        DF
-Diego Barbosa        DF
-José Javier Abella      DF
-Gaddi Aguirre        DF
-Brayton Vázquez        DF
-Anibal Chalá        DF (Ecuador)
-Jesús Gómez        DF
-Jesús Alberto Angulo      DF
-Ángel Márquez        MF
-Ían Torres        MF
-Aldo Rocha        MF
-Edgar Zaldívar        MF
-Pablo González        MF
-Brayan Garnica        MF
-Edyairth Ortega        MF
-JUlio César Furch      FW (Argentina)
-Julián Quiñones        FW (Colombia)
-Jonathan Herrera      FW
-Christopher Trejo      FW
-Gonzalo Maroni        FW (Argentina)
-Franco Troyansky      FW (Argentina)
+Camilo Vargas            GK (Colombia)
+Santiago Hernández         GK
+Hugo Nervo             DF (Argentina)
+Anderson Santamaría         DF (Peru)
+Luis Reyes            DF
+Diego Barbosa            DF
+José Javier Abella         DF
+Gaddi Aguirre            DF
+Brayton Vázquez            DF
+Anibal Chalá            DF (Ecuador)
+Jesús Gómez            DF
+Jesús Alberto Angulo         DF
+Ángel Márquez            MF
+Ían Torres            MF
+Aldo Rocha            MF
+Edgar Zaldívar            MF
+Pablo González            MF
+Brayan Garnica            MF
+Edyairth Ortega            MF
+JUlio César Furch         FW (Argentina)
+Julián Quiñones            FW (Colombia)
+Jonathan Herrera         FW
+Christopher Trejo         FW
+Gonzalo Maroni            FW (Argentina)
+Franco Troyansky         FW (Argentina)
 
 Coach: Diego Cocca (ARG)
 
@@ -1074,7 +1069,7 @@ Final Table:
 18.FC Juárez                           17   3  2 12  10-28  11
 
 Topscorers
-Player       Team    Goals
+Player          Team      Goals
 André-Pierre Gignac      Tigres         11
 Rodrigo Aguirre          Necaxa          9
 Nicolás Ibáñez           Pachuca         9
@@ -1088,7 +1083,7 @@ Rogério de Oliveira      Pumas           6
 
 Relegation Table
 
-Team      Average
+Team         Average
 América                 1.9029
 León                    1.7282
 Cruz Azul               1.7087
@@ -1195,54 +1190,54 @@ Pachuca              2-1 Atlas
 
 Atlas squad
 
-Camilo Vargas        GK (Colombia)
-Santiago Hernández      GK
-Hugo Nervo         DF (Argentina)
-Anderson Santamaría      DF (Peru)
-Gaddi Aguirre        DF
-Luis Reyes        DF
-Diego Barbosa        DF
-José Javier Abella      DF
-Anibal Chalá        DF (Ecuador)
-Jesús Gómez        DF
+Camilo Vargas            GK (Colombia)
+Santiago Hernández         GK
+Hugo Nervo             DF (Argentina)
+Anderson Santamaría         DF (Peru)
+Gaddi Aguirre            DF
+Luis Reyes            DF
+Diego Barbosa            DF
+José Javier Abella         DF
+Anibal Chalá            DF (Ecuador)
+Jesús Gómez            DF
 Rodolfo Garza                           DF
-Edgar Zaldívar        MF
-Ángel Márquez        MF
-Ían Torres        MF
-Aldo Rocha        MF
-Brayan Garnica        MF
-Edyairth Ortega        MF
+Edgar Zaldívar            MF
+Ángel Márquez            MF
+Ían Torres            MF
+Aldo Rocha            MF
+Brayan Garnica            MF
+Edyairth Ortega            MF
 Abraham Bass                            MF
 Emanuel Aguilera                        MF (Argentina)
 Lucas Rodríguez                         MF (Uruguay)
 Alonso Ramírez                          MF
-Franco Troyansky      FW (Argentina)
-Christopher Trejo      FW
-Jonathan Herrera      FW
-Julián Quiñones        FW (Colombia)
-Gonzalo Maroni        FW (Argentina)
-JUlio César Furch      FW (Argentina)
+Franco Troyansky         FW (Argentina)
+Christopher Trejo         FW
+Jonathan Herrera         FW
+Julián Quiñones            FW (Colombia)
+Gonzalo Maroni            FW (Argentina)
+JUlio César Furch         FW (Argentina)
 
 Coach: Diego Cocca (ARG)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Campeón de Campeones  ‹§campcamp›
 
-<!-- start pre -->
 NB: not held
 
 Atlas automatically won the trophy as winners of Apertura 2021 and Clausura 2022.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Supercopa de la Liga MX (SuperCopa LMX)  ‹§supcopa›
 
-<!-- start pre -->
 Atlas, as the winner of the Apertura 2021 and Clausura 2022 tournaments,
 automatically won the title of "Campeón de Campeones", however, due to
 commercial commitments in Liga MX, an "official" match must be played
@@ -1257,13 +1252,13 @@ Cruz Azul            2-2 Atlas                [4-3 pen]
   [Emanuel Aguilera 40, Julián Quiñones 90+1; Santiago Giménez 45+3,
    Ángel Romero 63]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga Expansión MX  ‹§ascenso›
 
-<!-- start pre -->
 ‹Apertura 2021, see §2aper› | ‹Clausura 2022, see §2clau›
 
 Torneo Grita México A-21 (Apertura 2021)  ‹§2aper›
@@ -1609,7 +1604,7 @@ NB: Teams 1st to 4th qualify to quarterfinals;
     clubs finishing 5th to 12th qualify to Reclasificación.
 
 Topscorer:
-Player      Team    Goals
+Player         Team      Goals
 Jose Zúñiga             Dorados          12
 
 Playoff Stage  ‹§2aperplay›
@@ -2008,23 +2003,23 @@ Juan José Machado     Raya2              8
 
 Relegation Table
 
-Team      Average
-Atlético Morelia      1.7284
-Atlante                 1.6667
-Club Celaya              1.6543
-Mineros                 1.5309
-Cimarrones              1.4938
-Tepatitlán FC            1.3710
-Dorados Sinaloa         1.3210
-Leones Negros           1.3086
-Alebrijes               1.3086
-Tapatío      1.2742
-Tampico Madero          1.2469
-Tlaxcala FC              1.2419
-Cancún FC             1.1975
-Venados FC              1.1975
+Team         Average
+Atlético Morelia       1.7284
+Atlante                  1.6667
+Club Celaya               1.6543
+Mineros                  1.5309
+Cimarrones               1.4938
+Tepatitlán FC             1.3710
+Dorados Sinaloa          1.3210
+Leones Negros            1.3086
+Alebrijes                1.3086
+Tapatío        1.2742
+Tampico Madero           1.2469
+Tlaxcala FC               1.2419
+Cancún FC              1.1975
+Venados FC               1.1975
 ------------------------------
-Correcaminos UAT        1.0988 (*)
+Correcaminos UAT         1.0988 (*)
 Pumas Tabasco           1.0938 (*)
 Raya2 Expansión         1.0625 (*)
 
@@ -2105,27 +2100,10 @@ Changes for the next season:
 
 TM FC (Tampico Madero) sold its licence to CA La Paz
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2020/21, see page mex2021›.
 
-‹2022/23, see page mex2023›.
 
-‹list of champions, see page mexchamp›.
-
-‹list of final tables, see page mexhist›.
-
-‹list of divisional movements, see page mexall›.
-
-‹list of cup winners, see page mexcuphist›.
-
-‹list of super cup winners, see page mexsupcup›.
-
-‹list of topscorers, see page mextops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Venezuela 2025
      source: https://rsssf.org/tablesv/venez2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Venezuela 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §primera›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División  ‹§primera›
 
-<!-- start pre -->
 ‹Torneo Apertura 2025, see §1aper› | ‹Torneo Clausura 2025, see §1clau› | ‹Championship Playoff, see §chpo›
 
 Torneo Apertura 2025  ‹§1aper›
@@ -124,25 +122,10 @@ Universidad Central      1-1 Carabobo FC
 
 Second Leg [Dec 6]
 Carabobo FC              0-2 Universidad Central
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page venez2024›
 
-‹list of champions, see page venezchamp›
 
-‹list of 2nd level champions, see page venez2champ›
-
-‹list of 3rd level champions, see page venez3champ›
-
-‹list of cup winners, see page venezcuphist›
-
-‹list of topscorers, see page veneztops›
-
-‹list of foundation dates, see page venezfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

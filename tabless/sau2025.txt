@@ -1,4 +1,5 @@
   <!--
+     title:  Saudi Arabia 2024/25
      source: https://rsssf.org/tabless/sau2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Saudi Arabia 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Professional League, see §prof›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Saudi League  ‹§prof›
 
-<!-- start pre -->
 Final Table:
 
  1.Al-Ittihad      34  26  5  3  79-35  83       Champions
@@ -555,19 +553,10 @@ Final Table:
 17.Al-Urooba       34   9  3 22  31-74  30  [P]  Relegated
 18.Al-Ra'ed        34   6  3 25  41-66  21       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page sau2024›
 
-‹list of champions, see page sauchamp›.
 
-‹list of cup winners, see page saucuphist›.
-
-‹list of topscorers, see page sautops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1976/77
      source: https://rsssf.org/tablesd/duit77.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1976/77
 
-<!-- start pre -->
 
 Final Table
 
@@ -650,9 +650,10 @@ Borussia Mönchengladbach 1976/77
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

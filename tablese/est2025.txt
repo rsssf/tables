@@ -1,4 +1,5 @@
   <!--
+     title:  Estonia 2025
      source: https://rsssf.org/tablese/est2025.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Estonia 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premium liiga 2025, see §meistri›
-‹Evald Tipneri Karikas 2024/25, see §karikas›
-‹Esiliiga 2025, see §esi›
-‹Esiliiga B 2025, see §esb›
-‹Teine liiga 2025, see §teine›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premium liiga 2025  ‹§meistri›
 
-<!-- start pre -->
 Final Table:
 
  1.Tallinna FC Flora         36  26  4  6  84-31  82       Champions
@@ -43,13 +37,13 @@ Second Leg [Nov 29]
 Kuressaare            2-0 Viimsi
 
 NB: both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Evald Tipneri Karikas 2024/25  ‹§karikas›
 
-<!-- start pre -->
 1/8 Finals
 [Oct 30]
 Hiiumaa               2-3 Tallinna Zapoos
@@ -80,13 +74,13 @@ Tallinna Levadia      1-0 Narva Trans
 Final [May 24, Lilleküla Stadium, Tallinn]
 Kalju Nõmme           3-3 Tallinna Levadia      [aet, 4-1 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Esiliiga 2025  ‹§esi›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Nõmme United           36  30  2  4 125-27  92  [R]  Promoted
@@ -113,13 +107,13 @@ Second Leg [Nov 22]
 Tallinn               1-0 Phoenix
 
 NB: both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Esiliiga B 2025  ‹§esb›
 
-<!-- start pre -->
 Final Table:
 
  1.Maardu Linnameeskond      36  28  5  3 116-39  89  [P]  Promoted
@@ -146,13 +140,13 @@ Second Leg [Nov 22]
 Paide U-21            3-2 Tulevik
 
 NB: Viljandi JK Tulevik promoted, Paide linnameeskond U-21 relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Teine liiga 2025  ‹§teine›
 
-<!-- start pre -->
 Final Table:
 
  1.Pärnu JK Vaprus U-21      30  21  2  7  94-30  65       Promoted
@@ -174,23 +168,10 @@ Final Table:
 15.Keila JK                  30   5  3 22  35-102 18
 16.Pärnu JK Poseidon         30   0  4 26  25-106  4
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page est2024›.
 
-‹2026, see page est2026›.
 
-‹list of champions, see page estchamp›.
-
-‹list of cup winners, see page estcuphist›.
-
-‹list of super cup winners, see page estsupcuphist›.
-
-‹list of topscorers, see page esttops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

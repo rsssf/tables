@@ -1,4 +1,5 @@
   <!--
+     title:  Transnistria 2025
      source: https://rsssf.org/tablest/tnistru2025.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Transnistria 2025
 
-<!-- start pre -->
 League  ‹§leag›
 
 Departed: ISM-2017 YSS (Grigoriopol), Sinai (Tiraspol), YSS Pik-Agro (Slobozia)
@@ -120,11 +120,12 @@ Final [Sep 7, Bender]
 
 SKA-ARMEIEŢ (Tiraspol) 11-0  Dinamo (Slobozia)
 
-<!-- end pre -->
 
 ‹2024, see page tnistru2024›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

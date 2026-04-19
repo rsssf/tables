@@ -1,4 +1,5 @@
   <!--
+     title:  Greece 2024/25
      source: https://rsssf.org/tablesg/grk2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Greece 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Super League, see §alpha›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Super League  ‹§alpha›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -545,41 +543,10 @@ Final Table:
 13.Athens Kallithea FC     36   8 12 16  36-52  36  [P]  Relegated
 14.PAS Lamia               36   4  8 24  21-64  20       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page grk2024›.
 
-‹list of champions, see page grkchamp›.
 
-‹list of final tables (before 1959), see page grkprehist›.
-
-‹list of final tables (since 1959), see page grkhist›.
-
-‹list of 2nd level champions, see page grk2champ›.
-
-‹list of 2nd level final tables, see page grk2hist›.
-
-‹list of 3rd level champions, see page grk3champ›.
-
-‹list of 3rd level final tables, see page grk3hist›.
-
-‹list of 4th level champions, see page grk4champ›.
-
-‹list of cup winners, see page grkcuphist›.
-
-‹list of super cup finals, see page grksupcuphist›.
-
-‹list of amateur cup finals, see page grkamacuphist›.
-
-‹list of topscorers, see page grktops›.
-
-‹list of mergers and name changes, see page grk-names›.
-
-‹amateur club directory 2021, see page grk-amateurclubs.xlsx›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

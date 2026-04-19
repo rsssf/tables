@@ -1,4 +1,5 @@
   <!--
+     title:  Colombia 2025
      source: https://rsssf.org/tablesc/col2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Colombia 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División A 2025, see §mustang›
-‹Copa Colombia 2025, see §copa›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División A 2025  ‹§mustang›
 
-<!-- start pre -->
 ‹Apertura 2025, see §1aper› | ‹Finalización 2025, see §1clau› | ‹Relegation, see §releg›
 
 Torneo Apertura 2025  ‹§1aper›
@@ -169,13 +166,13 @@ NB: decided over points average over last three seasons (2023-2025)
 20.Unión Magdalena (Santa Marta)        0.80  [P]  Relegated
 
 Promoted: Jaguares de Córdoba, Cúcuta Deportivo
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa Colombia 2025  ‹§copa›
 
-<!-- start pre -->
 1/8 Finals
 
 First Legs
@@ -251,27 +248,10 @@ Nacional           0-0 Medellín
 Second Leg [Dec 17]
 Medellín           0-1 Nacional
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024., see page col2024›
 
-‹list of champions, see page colchamp›.
 
-‹list of 2nd division champions, see page col2champ›.
-
-‹list of 3rd division champions, see page col3champ›.
-
-‹list of cup winners, see page colcuphist›.
-
-‹all-time table, see page colalltime›.
-
-‹foundation dates clubs, see page colfound›.
-
-‹list of topscorers, see page coltops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

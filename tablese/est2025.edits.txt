@@ -1,0 +1,24 @@
+-- removing nav(igation) section:
+
+‹Premium liiga 2025, see §meistri›
+‹Evald Tipneri Karikas 2024/25, see §karikas›
+‹Esiliiga 2025, see §esi›
+‹Esiliiga B 2025, see §esb›
+‹Teine liiga 2025, see §teine›
+
+
+-- removing nav(igation) section:
+
+‹2024, see page est2024›.
+
+‹2026, see page est2026›.
+
+‹list of champions, see page estchamp›.
+
+‹list of cup winners, see page estcuphist›.
+
+‹list of super cup winners, see page estsupcuphist›.
+
+‹list of topscorers, see page esttops›.
+
+

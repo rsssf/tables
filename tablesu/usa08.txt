@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2008
      source: https://rsssf.org/tablesu/usa08.html
     -->
   
@@ -6,9 +7,10 @@
 
 == USA 2008
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 Major League Soccer
 
 Regular Season
@@ -800,9 +802,10 @@ FINAL:                Pennsylvania defeated St. Paul 3-0.
 
 ‹MLS all-time table, see page usaalltime›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

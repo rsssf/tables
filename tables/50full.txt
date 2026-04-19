@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1950 finals
      source: https://rsssf.org/tables/50full.html
     -->
   
@@ -29,7 +30,6 @@ played (7 for the first time). TUR, IND, SCO waived their place in finals.
 Qualiifications drawn 15 Jan 1949 in Geneve. Finals drawn 30 Apr 1950 in
 London.
 
-<!-- start pre -->
 
 == Group A - BRA JUG MEX SUI  ‹§gra›
 
@@ -48,7 +48,9 @@ Casarin, Peréz, Velasquez
 
 NOTE: Match preceded by WC opening ceremony
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 25.06.50  (18.00) Belo Horizonte, Estadio Sete de Setembro
 
@@ -63,7 +65,9 @@ Antenen, Tamini, Bader, Fatton
 
 1:0 Mitić 60, 2:0 Tomašević 70 h, 3:0 Ognjanov 76
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 28.06.50  (15.00) São Paulo, Estadio Pacaembu
 
@@ -78,7 +82,9 @@ Friedländer, Tamini, Bader, Fatton
 
 1:0 Alfredo 3, 1:1 Patton 17, 2:1 Baltazar 43 h, 2:2 Patton 88
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 29.06.50  (18.15) Porto Alegre, Estádio dos Eucaliptos
 
@@ -95,7 +101,9 @@ Casarin (c), Peréz, Velasquez
 Ortiz
  89 p
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 01.07.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -110,7 +118,9 @@ Vukas, Mitić, K.Tomašević, Bobek, Ž.Čajkovski
 
 1:0 Ademir 4 h, 2:0 Zizinho 89
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 02.07.50  (15.40) Porto Alegre, Estádio dos Eucaliptos
 
@@ -149,7 +159,9 @@ Mayanes, Cremaschi, Robledo, Muñoz, Diaz
 
 1:0 Mortensen 27 h, 2:0 Mannion 51
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 25.06.50  (15.30) Curitiba, Estadio Brito
 
@@ -164,7 +176,9 @@ Gaetjens, Pariani, Valentini
 
 0:1 J.Souza 17, 1:1 Igoa 54, 2:1 Basora 56, 3:1 Zarra 63
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 29.06.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -179,7 +193,9 @@ Cremaschi, Robledo, Muñoz, Diaz
 
 1:0 Basora 17, 2:0 Zarra 30
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 29.06.50  (18.00) Belo Horizonte, Estadio Mineiro
 
@@ -194,7 +210,9 @@ Mortensen, Bentley, Mannion, Mullen
 
 1:0 Gaetjens 38 h
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 02.07.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -209,7 +227,9 @@ Mortensen, Matthews, Baily, Milburn
 
 1:0 Zarra 49
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 02.07.50  (18.00) Recife, Estadio Ilha do Retiro
 
@@ -248,7 +268,9 @@ Boniperti, Cappello, Campatelli, Carapellese (c)
 0:1 Carapallese 7, 1:1 Jeppson 25, 2:1 Andersson 34, 3:1 Jeppson 69, 3:2
 Muccinelli 78
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 29.06.50  (15.30) Curitiba, Estadio Brito
 
@@ -263,7 +285,9 @@ Avalos, A.López, Jara, López Fretes (c), Unzain.
 
 1:0 Sundqvist 17, 2:0 Palmer 25, 2:1 López Fretes 34, 2:2 López 74
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 02.07.50  (15.00) São Paulo, Estadio Pacaembu
 
@@ -318,7 +342,9 @@ Sundqvist, Palmer, Jeppson, Skoglund, S.Nilsson
 Andersson 57 p,
  6:1 Maneca 65, 7:1 Chico 87
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 09.07.50  (15.00) São Paulo, Estadio Pacaembu
 
@@ -333,7 +359,9 @@ Ghiggia, Peréz, Miguez, Schiaffino, Vidal
 
 0:1 Ghiggia 29, 1:1 Basora 39, 2:1 Basora 41, 2:2 Varela 72
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 13.07.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -352,7 +380,9 @@ Basora, Igoa, Zarra, Panizo, Gainza (c)
 NB: the 1st goal was long listed as own goal by Parra, the 5th as goal by
     Jair; recently FIFA established Ademir as scorer of both goals.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 13.07.50  (15.00) São Paulo, Estadio Pacaembu
 
@@ -367,7 +397,9 @@ Sundqvist, Palmer, Jeppson, Mellberg, Jönsson
 
 0:1 Palmer 4, 1:1 Ghiggia 39, 1:2 Sandqvist 40, 2:2 Miguez 77, 3:2 Miguez 84
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 16.07.50  (15.00) São Paulo, Estadio Pacaembu
 
@@ -384,7 +416,9 @@ Hernandez, Zarra (c), Panizo, Juncosa
 
 NOTE: Some sources award Sundqvist's goal to Jonsson
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 16.07.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -462,4 +496,3 @@ captain     Keough USA     22y222d   Nilsson SWE        33y344d
 coach       Vial MEX       31y210d   Jeffrey USA        58y 48d
 referee     Leafe ENG      35y210d   Reader ENG         53y236d
 
-<!-- end pre -->

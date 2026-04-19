@@ -1,4 +1,5 @@
   <!--
+     title:  V COPA BRASIL - 1979 [Brazilian Championship]
      source: https://rsssf.org/tablesb/braz79.html
     -->
   
@@ -6,7 +7,6 @@
 
 == V COPA BRASIL - 1979 [Brazilian Championship]
 
-<!-- start pre -->
 First Phase
 Top 4 from Groups A through F  Qualified along with the four best fifth places in those groups.  Top 8 in groups G and H  Qualified.
 
@@ -1997,9 +1997,10 @@ Table
 ‹list of 2nd division champions, see page braz2champ›.
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

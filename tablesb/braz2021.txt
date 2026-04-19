@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2021
      source: https://rsssf.org/tablesb/braz2021.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Brazil 2021
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Série A, see §sa›
-‹Copa do Brasil, see §cb›
-‹Supercopa do Brasil, see §supcb›
-‹Série B, see §sb›
-‹Série C, see §sc›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Série A  ‹§sa›
 
-<!-- start pre -->
 Final Table:
 
  1.Atlético/MG           38  26  6  6  67-34  84       Champions
@@ -642,13 +636,13 @@ Final Table:
 19.Sport Recife          38   9 11 18  24-37  38       Relegated
 20.Chapecoense           38   1 12 25  27-67  15  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa do Brasil 2021  ‹§cb›
 
-<!-- start pre -->
 1/8 Finals
 
 First Legs
@@ -714,23 +708,23 @@ Atlético/MG     4-0 Athletico/PR
 Second Leg [Dec 15]
 Athletico/PR    1-2 Atlético/MG
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Supercopa do Brasil 2022  ‹§supcb›
 
-<!-- start pre -->
 [Feb 20, 2022, Cuiabá]
 Atlético/MG     2-2 Flamengo        [8-7 pen(no extra time)]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série B  ‹§sb›
 
-<!-- start pre -->
 Final Table:
 
  1.Botafogo              38  20 10  8  56-31  70  [R]  Promoted
@@ -740,8 +734,8 @@ Final Table:
 ------------------------------------------------
  5.CSA                   38  18  8 12  48-33  62
  6.Guarani               38  16 12 10  54-41  60
- 7.CRB             38  16 12 10  47-39  60
- 8.Náutico           38  14 11 13  50-50  53
+ 7.CRB               38  16 12 10  47-39  60
+ 8.Náutico            38  14 11 13  50-50  53
  9.Vila Nova             38  12 15 11  35-36  51  [P]
 10.Vasco da Gama         38  13 10 15  43-52  49  [R]
 11.Ponte Preta           38  12 13 13  39-40  49
@@ -756,13 +750,13 @@ Final Table:
 19.Confiança             38   9 10 19  35-48  37       Relegated
 20.Brasil de Pelotas     38   4 11 23  23-52  23       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série C  ‹§sc›
 
-<!-- start pre -->
 First Stage
 
 Final Tables:
@@ -823,21 +817,10 @@ Ituano          3-0 Tombense
 
 Promoted from 4th level: ABC, Aparecidense, Atlético/CE, Campinense
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2020/21, see page braz2020›
 
-‹2022, see page braz2022›
 
-‹list of champions, see page brazchamp›.
-
-‹list of 2nd division champions, see page braz2champ›.
-
-‹list of cup winners, see page brazcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

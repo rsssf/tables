@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 2018/19
      source: https://rsssf.org/tablesd/duit2019.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Germany 2018/19
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹1. Bundesliga, see §1bl›
-‹DFB Pokal, see §dfbpokal›
-‹2. Bundesliga, see §2bl›
-‹3. Liga, see §3bl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== 1. Bundesliga  ‹§1bl›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34  24  6  4  88-32  78  [C]  Champions
@@ -571,13 +566,13 @@ Union Berlin    0-0 Stuttgart
 
 NB: 1.FC Union Berlin promoted, VfB Stuttgart relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== DFB Pokal  ‹§dfbpokal›
 
-<!-- start pre -->
 Round 1
 [Aug 17]
 Magdeburg              0-1 Darmstadt 98
@@ -664,13 +659,13 @@ Werder Bremen          2-3 Bayern München
 
 Final [May 25, Berlin]
 RB Leipzig             0-3 Bayern München
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. Bundesliga  ‹§2bl›
 
-<!-- start pre -->
 Final Table:
 
  1.1.FC Köln                    34  19  6  9  84-47  63  [R]  Promoted
@@ -705,13 +700,13 @@ Second Leg [May 28]
 Ingolstadt      2-3 Wiesbaden
 
 NB: SV Wehen Wiesbaden promoted, FC Ingolstadt 04 relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 3. Liga  ‹§3bl›
 
-<!-- start pre -->
 Final Table:
 
  1.VfL Osnabrück                38  22 10  6  56-31  76       Promoted
@@ -753,51 +748,10 @@ Bayern II       4-1 Wolfsburg II
 
 NB: FC Bayern München II promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2017/18, see page duit2018›
 
-‹2019/20, see page duit2020›
 
-‹list of champions, see page duitchamp›
-
-‹all-time table, see page duialltime›
-
-‹list of 2nd level champions, see page duit2champ›
-
-‹list of amateur champions, see page duitamachamp›
-
-‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
-
-‹oberliga nord 1945-1963, see page duit-ol-nord4563›
-
-‹oberliga süd 1945-1963, see page duit-ol-sued4563›
-
-‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
-
-‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
-
-‹oberliga west 1945-1963, see page duit-ol-west4563›
-
-‹regionalliga nord 63-74, see page dui3nordhist›
-
-‹regionalliga süd 63-74, see page dui3suedhist›
-
-‹regionalliga west 63-74, see page dui3westhist›
-
-‹list of cup finals, see page duitcuphist›
-
-‹list of super and league cup finals, see page duitsupcuphist›
-
-‹list of topscorers, see page duittops›
-
-‹list of 2nd level topscorers, see page duit2tops›
-
-‹list of foundation dates, see page duitfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Hungary 2024/25
      source: https://rsssf.org/tablesh/hong2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Hungary 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹NB I, see §nb1›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== NB I  ‹§nb1›
 
-<!-- start pre -->
 Final Table:
 
  1.Ferencvárosi TC            33  20  9  4  64-31  69  [C]  Champions
@@ -402,21 +400,10 @@ Final Table:
 11.Fehérvár FC                33   8  7 18  34-52  31       Relegated
 12.Kecskeméti TE              33   4 13 16  31-53  25       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page hong2024›.
 
-‹list of champions, see page hongchamp›.
 
-‹list of final tables, see page honghist›.
-
-‹list of cup winners, see page hongcuphist›.
-
-‹list of super cup finals, see page hongsupcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

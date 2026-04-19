@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2010
      source: https://rsssf.org/tablesb/braz2010.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Brazil 2010
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Série A, see §sa›
-‹Copa do Brasil, see §cb›
-‹Série B, see §sb›
-‹Série C, see §sc›
-‹Série D, see §sd›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Série A  ‹§sa›
 
-<!-- start pre -->
 Participants
 
 Atlético C Goianiense (Goiânia-GO)      Fluminense FC (Rio de Janeiro-RJ)
@@ -968,16 +962,16 @@ Table:
 
 
 Topscorer: Jonas (Grêmio), 23 goals.
-     Neymar (Santos), 17 goals.
+      Neymar (Santos), 17 goals.
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa do Brasil  ‹§cb›
 
-<!-- start pre -->
 Participants:
 
 Clubs classified due to state competitions performance:
@@ -1323,13 +1317,13 @@ FINAL
 SANTOS Champions of Copa do Brasil 2010 and classified to Copa Libertadores 2011.
 
 Topscorer: Neymar (Santos), 11 goals.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série B  ‹§sb›
 
-<!-- start pre -->
 Participants
 
 América FC (Belo Horizonte-MG)          ADRC Icasa (Juazeiro do Norte-CE)
@@ -1924,15 +1918,15 @@ Table:
 (+) - Teams promoted from 2009 Série C (3rd level)
 
 Topscorer: Alessandro (Ipatinga), 21 goals.
-     Fábio Júnior (América-MG), 19 goals.
+      Fábio Júnior (América-MG), 19 goals.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série C  ‹§sc›
 
-<!-- start pre -->
 Participants
 
 ABC Futebol Clube (Natal-RN)
@@ -1974,75 +1968,75 @@ Table:
 
 Round 1
 [Jul 18]
-Fortaleza    0-0  Águia
+Fortaleza     0-0  Águia
 [Jul 20]
-Paysandu    6-2  Rio Branco
+Paysandu     6-2  Rio Branco
  [Fabrício 10'p, Bruno Rangel 14',63',90'+1', Marquinho 57', Alexandre Carioca 79';
   Valdir Papel 8'p,68']
 
 Round 2
 [Jul 24]
-Águia      1-1  São Raimundo
+Águia        1-1  São Raimundo
  [Felipe Mamão 44'; Soares 51']
 [Jul 25]
-Rio Branco    0-0  Fortaleza
+Rio Branco     0-0  Fortaleza
 
 Round 3
 [Jul 28]
-São Raimundo    2-3  Fortaleza
+São Raimundo     2-3  Fortaleza
  [Soares 4', Branco 45'+2'; André Leonel 30',45', Tatu 39']
 [Aug 1]
-Paysandu    2-0  Águia
+Paysandu     2-0  Águia
  [Bosco 6',90'+4'p]
 
 Round 4
 [Aug 7]
-Fortaleza    1-1  Paysandu
+Fortaleza     1-1  Paysandu
  [Tatu 82'; Sandro 58']
 [Aug 8]
-Rio Branco    3-3  São Raimundo
+Rio Branco     3-3  São Raimundo
  [Testinha 18', Marcelo Maciel 22',90'+3'; Branco 43',58', Michell 77']
 
 Round 5
 [Aug 14]
-Águia      4-0  Rio Branco
+Águia        4-0  Rio Branco
  [Bernardo 47', Felipe Mamão 60',64',69']
 [Aug 15]
-São Raimundo    0-2  Paysandu
+São Raimundo     0-2  Paysandu
  [Bruno Rangel 30',65']
 
 Round 6
 [Aug 18]
-São Raimundo    1-1  Rio Branco
+São Raimundo     1-1  Rio Branco
  [Soares 50'; Testinha 85']
 [Aug 22]
-Paysandu    1-1  Fortaleza
+Paysandu     1-1  Fortaleza
  [Paulão 18'; Finazzi 85']
 
 Round 7
 [Aug 28]
-Águia      2-1  Paysandu
+Águia        2-1  Paysandu
  [Ari 6', Felipe Mamão 79'; Thiago Potiguar 36']
 [Aug 29]
-Fortaleza    2-1  São Raimundo
+Fortaleza     2-1  São Raimundo
  [Finazzi 16', Régis 34'; Paulo Rangel 86']
 
 Round 8 [Sep 5]
-Paysandu    1-0  São Raimundo
+Paysandu     1-0  São Raimundo
  [Bruno Rangel 28']
-Rio Branco    2-1  Águia
+Rio Branco     2-1  Águia
  [Ivan 76', Anselmo 82'; Darlan 85']
 
 Round 9 [Sep 11]
-Fortaleza    1-1  Rio Branco
+Fortaleza     1-1  Rio Branco
  [Capixaba 2'og; Marcelo Braz 20']
-São Raimundo    0-2  Águia
+São Raimundo     0-2  Águia
  [Vander 21', Torrô 69']
 
 Round 10 [Sep 19]
-Rio Branco    3-1  Paysandu
+Rio Branco     3-1  Paysandu
  [Juliano César 18',37', Marcelo Braz 50'; Bruno Rangel 74'p]
-Águia      1-1  Fortaleza
+Águia        1-1  Fortaleza
  [Torrô 80'; Tatu 77']
 
 Table:
@@ -2067,65 +2061,65 @@ Table:
 5.Alecrim         8  2  4  2   9-10  10  Relegated
 
 Round 1 [Jul 18]
-ABC      3-1  CRB
+ABC        3-1  CRB
  [Cascata 32', Zulu 64', João Paulo 68'; Ewerthon 52']
-Salgueiro    2-2  Alecrim
+Salgueiro     2-2  Alecrim
  [Clébson 39', Paulo Rangel 72'; Helinho 10', André Cassaco 81']
 
 Round 2
 [Jul 24]
-CRB      1-1  Salgueiro
+CRB        1-1  Salgueiro
  [Edmar 9'; Júnior Maranhão 87']
 [Jul 25]
-Alecrim    1-0  Campinense
+Alecrim     1-0  Campinense
  [Somália 72']
 
 Round 3 [Aug 1]
-Campinense    2-0  Salgueiro
+Campinense     2-0  Salgueiro
  [José Maria 12', Alemão 31']
-ABC      1-1  Alecrim
+ABC        1-1  Alecrim
  [Ederson 50'; Nêgo 59']
 
 Round 4
 [Aug 7]
-CRB      2-1  Campinense
+CRB        2-1  Campinense
  [Dio 10', Everton 70'; Tarrafaz 50'p]
 [Aug 8]
-Salgueiro    0-3  ABC
+Salgueiro     0-3  ABC
  [Leonardo 31', Cascata 79'p, Renatinho Potiguar 88']
 
 Round 5 [Aug 15]
-Campinense    1-0  ABC
+Campinense     1-0  ABC
  [Bruno Recife 41']
-Alecrim    3-2  CRB
+Alecrim     3-2  CRB
  [André Cassaco 9', Nivaldo 74', Nêgo 87'; Ewerthon 27', Júnior Amorim 68']
 
 Round 6 [Aug 22]
-Campinense    0-1  CRB
+Campinense     0-1  CRB
  [André Cunha 54']
-ABC      3-1  Salgueiro
+ABC        3-1  Salgueiro
  [Cascata 51',86', João Paulo 90'+3'; Edu Chiquita 16']
 
 Round 7 [Aug 29]
-Salgueiro    2-1  Campinense
+Salgueiro     2-1  Campinense
  [Edu Chiquita 14'. Léo Gama 58'; Binho 80']
-Alecrim    1-1  ABC
+Alecrim     1-1  ABC
  [André Cassaco 63'; Bileu 81']
 
 Round 8 [Sep 5]
-CRB      0-0  Alecrim
-ABC      0-0  Campinense
+CRB        0-0  Alecrim
+ABC        0-0  Campinense
 
 Round 9 [Sep 12]
-Salgueiro    3-0  CRB
+Salgueiro     3-0  CRB
  [Fagner 69', Júnior Ferrim 74', Beá 88']
-Campinense    2-1  Alecrim
+Campinense     2-1  Alecrim
  [Henrique 17', Gílson Costa 75'; João Paulo 35']
 
 Round 10 [Sep 19]
-CRB      1-0  ABC
+CRB        1-0  ABC
  [Luciano Dias 68']
-Alecrim    0-2  Salgueiro
+Alecrim     0-2  Salgueiro
  [Júnior Ferrim 70', Fagner 90'+3']
 
 Table:
@@ -2150,69 +2144,69 @@ Table:
 5.Gama            8  0  5  3   5-11   5  Relegated
 
 Round 1 [Jul 18]
-Gama      1-4  Macaé
+Gama        1-4  Macaé
  [Bachin 1'; Osmar 45', Bruno Luiz 54',90'+1', Rafael Aguiar 90'+3']
-Luverdense    2-1  Ituiutaba
+Luverdense     2-1  Ituiutaba
  [Fernando 28'p, Jackson 90'+2'; Fabiano 77']
 
 Round 2 [Jul 25]
-Macaé      1-1  Luverdense      [played in Rio de Janeiro]
+Macaé        1-1  Luverdense         [played in Rio de Janeiro]
  [Kim 23'; Fernando 71']
-Ituiutaba    2-0  Marília
+Ituiutaba     2-0  Marília
  [Totonho 31', Ualisson Mineiro 73']
 
 Round 3
 [Jul 28]
-Marília    1-0  Luverdense
+Marília     1-0  Luverdense
  [Ray 60']
 [Aug 1]
-Gama      0-0  Ituiutaba
+Gama        0-0  Ituiutaba
 
 Round 4
 [Aug 7]
-Macaé      3-1  Marília
+Macaé        3-1  Marília
  [Edivaldo 4', Gedeil 16', André Gomes 45'; Basílio 50']
 [Aug 8]
-Luverdense    2-0  Gama
+Luverdense     2-0  Gama
  [Lacerda 55', Fabinho 86']
 
 Round 5
 [Aug 11]
-Marília    2-2  Gama
+Marília     2-2  Gama
  [Ray 48', Everton 89'; Bachin 39', Elivélton 73']
 [Aug 15]
-Ituiutaba    1-0  Macaé
+Ituiutaba     1-0  Macaé
  [Cléber Carioca 90'+2']
 
 Round 6
 [Aug 21]
-Marília    0-1  Macaé
+Marília     0-1  Macaé
  [Kim 27'p]
 [Aug 22]
-Gama      1-1  Luverdense
+Gama        1-1  Luverdense
  [Doda 30'; Júnior Rocha 80']
 
 Round 7 [Aug 29]
-Ituiutaba   0-0  Gama
-Luverdense   2-2  Marília
+Ituiutaba    0-0  Gama
+Luverdense    2-2  Marília
  [Renan 51', Fernando 66'; Adalto 39', Léozinho 61']
 
 Round 8
 [Sep 1]
-Gama      0-0  Marília
+Gama        0-0  Marília
 [Sep 4]
-Macaé      0-0  Ituiutaba
+Macaé        0-0  Ituiutaba
 
 Round 9 [Sep 12]
-Luverdense    3-1  Macaé
+Luverdense     3-1  Macaé
  [Otávio 10'og, Lacerda 13', Fabinho 37'; Edivaldo 64']
-Marília    1-2  Ituiutaba
+Marília     1-2  Ituiutaba
  [Leandro Diniz 62'; Sharlei 51', Stanley 79']
 
 Round 10 [Sep 19]
-Macaé      2-1  Gama
+Macaé        2-1  Gama
  [Bruno Luiz 6', Gedeil 45'+1'; Pedrão 74']
-Ituiutaba    3-1  Luverdense
+Ituiutaba     3-1  Luverdense
  [Peri 52',67', Stanley 79'; Roger 80']
 
 Table:
@@ -2228,85 +2222,85 @@ Table:
 Group D
 
 Table:
-1.Criciúma    8  3  3  2   7- 4  12  Qualified
-2.Chapecoense    8  3  2  3   9- 9  11  Qualified
+1.Criciúma     8  3  3  2   7- 4  12  Qualified
+2.Chapecoense     8  3  2  3   9- 9  11  Qualified
 ---------------------------------------
-3.Caxias     8  2  4  2   6- 6  10
-4.Brasil    8  2  4  2   4- 5  10
+3.Caxias      8  2  4  2   6- 6  10
+4.Brasil     8  2  4  2   4- 5  10
 - - - - - - - - - - - - - - - - - - - -
-5.Juventude    8  1  5  2   6- 8   8  Relegated
+5.Juventude     8  1  5  2   6- 8   8  Relegated
 
 Round 1
 [Jul 17]
-Brasil      1-0  Caxias
+Brasil        1-0  Caxias
  [Jair 85']
 [Jul 18]
-Juventude   1-1  Criciúma
+Juventude    1-1  Criciúma
  [Cristiano 62'; Evaldo 52']
 
 Round 2
 [Jul 24]
-Caxias      2-1  Chapecoense
+Caxias        2-1  Chapecoense
  [Aloísio 31', Marcelo Costa 69'; Neílson 59']
 [Jul 25]
-Criciúma    2-0  Brasil
+Criciúma     2-0  Brasil
  [Márcio Guerreiro 45'+2', Lincom 53']
 
 Round 3
 [Jul 31]
-Chapecoense    3-2  Brasil
+Chapecoense     3-2  Brasil
  [Eduardo Erê 1', Silvinho 10', Rogério 85'; Marques 30', Cléberson 33']
 [Aug 1]
-Juventude    0-0  Caxias
+Juventude     0-0  Caxias
 
 Round 4
 [Aug 7]
-Brasil       0-0  Juventude
+Brasil         0-0  Juventude
 [Aug 8]
-Criciúma    2-0  Chapecoense
+Criciúma     2-0  Chapecoense
  [Márcio Guerreiro 13', Lincom 68']
 
 Round 5 [Aug 15]
-Caxias      1-0  Criciúma
+Caxias        1-0  Criciúma
  [Cláudio Luiz 76']
-Chapecoense    2-0  Juventude
+Chapecoense     2-0  Juventude
  [Felipe Pinto 15', Neílson 88']
 
 Round 6 [Aug 22]
-Chapecoense    1-0  Criciúma
+Chapecoense     1-0  Criciúma
  [Rogério 36']
-Juventude    0-1  Brasil
+Juventude     0-1  Brasil
  [Vanderlei 86']
 
 Round 7 [Aug 29]
-Caxias      2-2  Juventude
+Caxias        2-2  Juventude
  [Palacios 78', 90'+4'; Celsinho 18', Ismael 19']
-Brasil      0-0  Chapecoense
+Brasil        0-0  Chapecoense
 
 Round 8 [Sep 5]
-Juventude    2-1  Chapecoense
+Juventude     2-1  Chapecoense
  [Fred 22', Ismael 53'; Rodrigo 90']
-Criciúma    1-0  Caxias
+Criciúma     1-0  Caxias
  [Lins 90']
 
 Round 9 [Sep 12]
-Brasil      0-0  Criciúma
-Chapecoense    1-1  Caxias
+Brasil        0-0  Criciúma
+Chapecoense     1-1  Caxias
  [Eduardo Erê 10'; Edenílson 40']
 
 Round 10 [Sep 19]
-Criciúma    1-1  Juventude
+Criciúma     1-1  Juventude
  [Diogo Oliveira 44'; Fausto 60']
-Caxias      0-0  Brasil
+Caxias        0-0  Brasil
 
 Table:
-1.Criciúma    8  3  3  2   7- 4  12  Qualified
-2.Chapecoense    8  3  2  3   9- 9  11  Qualified
+1.Criciúma     8  3  3  2   7- 4  12  Qualified
+2.Chapecoense     8  3  2  3   9- 9  11  Qualified
 ---------------------------------------
-3.Caxias     8  2  4  2   6- 6  10
-4.Brasil    8  2  4  2   4- 5  10
+3.Caxias      8  2  4  2   6- 6  10
+4.Brasil     8  2  4  2   4- 5  10
 - - - - - - - - - - - - - - - - - - - -
-5.Juventude    8  1  5  2   6- 8   8  Relegated
+5.Juventude     8  1  5  2   6- 8   8  Relegated
 
 
 QUARTERFINALS:
@@ -2314,89 +2308,89 @@ QUARTERFINALS:
 (Os vencedores são semifinalistas e sobem)
 
 [Oct 9]
-Chapecoense   1-1  Ituiutaba
+Chapecoense    1-1  Ituiutaba
  [Fábio Nunes 16'; Totonho 38']
-Salgueiro   1-1  Paysandu
+Salgueiro    1-1  Paysandu
  [Beá 44'p; Lúcio Bala 72']
 [Oct 10]
-Macaé     3-2  Criciúma
+Macaé       3-2  Criciúma
  [Róbson 63', Otávio 69', Serginho 71'; Fábio Santana 18', Marcos Denner 45'+1']
 [Oct 16]
-Águia     0-1  ABC
+Águia       0-1  ABC
  [Claudemir 88']
 
 [Oct 16]
-Ituiutaba   0-0  Chapecoense
+Ituiutaba    0-0  Chapecoense
 [Oct 17]
-Paysandu   2-3  Salgueiro
+Paysandu    2-3  Salgueiro
  [Bruno Rangel 11', Paulão 68'; Fagner 19', Júnior Ferrim 59', Edu Chiquita 66']
 [Oct 23]
-Criciúma   2-0  Macaé
+Criciúma    2-0  Macaé
  [Marcos Denner 25', Roni 82']
 [Oct 24]
-ABC     3-1  Águia
+ABC       3-1  Águia
  [Leandrão 60', Jackson 78', Claudemir 90'; Jaime 90'+4']
 
 
 SEMIFINALS:
 
 [Oct 30]
-Criciúma   1-1  Ituiutaba
+Criciúma    1-1  Ituiutaba
  [Lincom 66'; Totonho 88']
-Salgueiro   1-1  ABC        [played in Recife]
+Salgueiro    1-1  ABC            [played in Recife]
  [Jackson 29'; Jackson 21']
 
 [Nov 6]
-Ituiutaba   1-1  Criciúma        [pen. 4-2] [played in Uberlândia]
+Ituiutaba    1-1  Criciúma            [pen. 4-2] [played in Uberlândia]
  [Peri 50'; Lucca 84']
-ABC     2-0  Salgueiro
+ABC       2-0  Salgueiro
  [Leandrão 17',50']
 
 
 FINALS:
 
 [Nov 13]
-Ituiutaba   0-1  ABC        [played in Uberlândia]
+Ituiutaba    0-1  ABC            [played in Uberlândia]
  [Cascata 71']
 
 [Nov 20]
-ABC    0-0  Ituiutaba
+ABC      0-0  Ituiutaba
 
 *** ABC are Brazil 2010 champions - 3rd level ***
 
 Final standings:
- 1.ABC     14  7  5  2  19- 8  26  Champions; promoted
+ 1.ABC       14  7  5  2  19- 8  26  Champions; promoted
 ---------------------------------------
- 2.Ituiutaba     14  4  8  2  12- 8  20  Promoted
- 3.Criciúma     12  4  5  3  13- 9  17  Semifinalists; promoted
- 4.Salgueiro     12  4  4  4  16-18  16  Semifinalists; promoted
+ 2.Ituiutaba      14  4  8  2  12- 8  20  Promoted
+ 3.Criciúma      12  4  5  3  13- 9  17  Semifinalists; promoted
+ 4.Salgueiro      12  4  4  4  16-18  16  Semifinalists; promoted
 - - - - - - - - - - - - - - - - - - - -
- 5.Macaé     10  5  2  3  15-12  17
- 6.Paysandu     10  4  3  3  18-13  15
+ 5.Macaé      10  5  2  3  15-12  17
+ 6.Paysandu      10  4  3  3  18-13  15
  7.Chapecoense   10  3  4  3  10-10  13
- 8.Águia     10  3  3  4  12-11  12  Quarterfinalists
- 9.Luverdense      8  3  3  2  12-10  12
-10.Fortaleza     8  2  6  0   9- 7  12
-11.CRB       8  3  2  3   8-11  11
-12.Campinense     8  3  1  4   7- 7  10
-13.Caxias     8  2  4  2   6- 6  10
-14.Alecrim     8  2  4  2   9-10  10  Relegated
-15.Brasil     8  2  4  2   4- 5  10
-16.Rio Branco     8  2  4  2  12-17  10
-17.Juventude     8  1  5  2   6- 8   8  Relegated
-18.Marília     8  1  3  4   7-12   6
-19.Gama     8  0  5  3   5-11   5  Relegated
+ 8.Águia      10  3  3  4  12-11  12  Quarterfinalists
+ 9.Luverdense       8  3  3  2  12-10  12
+10.Fortaleza      8  2  6  0   9- 7  12
+11.CRB         8  3  2  3   8-11  11
+12.Campinense      8  3  1  4   7- 7  10
+13.Caxias      8  2  4  2   6- 6  10
+14.Alecrim      8  2  4  2   9-10  10  Relegated
+15.Brasil      8  2  4  2   4- 5  10
+16.Rio Branco      8  2  4  2  12-17  10
+17.Juventude      8  1  5  2   6- 8   8  Relegated
+18.Marília      8  1  3  4   7-12   6
+19.Gama      8  0  5  3   5-11   5  Relegated
 20.São Raimundo   8  0  3  5   8-15   3  Relegated
 
 Topscorer: Bruno Rangel (Paysandu), 8 goals.
-     Cascata (ABC) and Felipe Mamão (Águia), 5 goals.
-<!-- end pre -->
+      Cascata (ABC) and Felipe Mamão (Águia), 5 goals.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série D  ‹§sd›
 
-<!-- start pre -->
 Participants
 
 Relegated from the Série C 2009:
@@ -2502,393 +2496,393 @@ FIRST STAGE:
 (Os 2 primeiros de cada grupo se classificam)
 
 Group A1
-América FC (Manaus-AM)      Cristal AC (Macapá-AP)
-Cametá SC (PA)        C do Remo (Belém-PA)
+América FC (Manaus-AM)         Cristal AC (Macapá-AP)
+Cametá SC (PA)            C do Remo (Belém-PA)
 
 obs: Cametá SC replaced Baré EC (Boa Vista-RR), which withdrew from the championship
      Cristal AC replaced Santana EC (Santana-AP), which withdrew from the championship
 
 Round 1
 [Jul 18]
-América-AM   3-1  Cristal
+América-AM    3-1  Cristal
 [Jul 19]
-Remo     2-1  Cametá
+Remo       2-1  Cametá
 
 Round 2 [Jul 25]
-Cametá     3-3  América-AM
-Cristal     0-0  Remo
+Cametá       3-3  América-AM
+Cristal       0-0  Remo
 
 Round 3 [Aug 1]
-América-AM   1-1  Remo
-Cristal     2-1  Cametá
+América-AM    1-1  Remo
+Cristal       2-1  Cametá
 
 Round 4 [Aug 8]
-Remo     1-0  América-AM
-Cametá     2-0  Cristal
+Remo       1-0  América-AM
+Cametá       2-0  Cristal
 
 Round 5 [Aug 15]
-América-AM   0-0  Cametá
-Remo     4-0  Cristal
+América-AM    0-0  Cametá
+Remo       4-0  Cristal
 
 Round 6 [Aug 22]
-Cristal     1-2  América-AM
-Cametá     3-1  Remo
+Cristal       1-2  América-AM
+Cametá       3-1  Remo
 
 Table:
-1.Remo      6  3  2  1   9- 5  11  Qualified
-2.América-AM      6  2  3  1   9- 7   9  Qualified
+1.Remo       6  3  2  1   9- 5  11  Qualified
+2.América-AM       6  2  3  1   9- 7   9  Qualified
 ---------------------------------------
-3.Cametá      6  2  2  2  10- 8   8
-4.Cristal      6  1  1  4   4-12   4
+3.Cametá       6  2  2  2  10- 8   8
+4.Cristal       6  1  1  4   4-12   4
 
 
 Group A2
-Mixto EC (Cuiabá-MT)      Vilhena EC - VEC (RO)
-Nauás EC (Cruzeiro do Sul-AC)    SE Vila Aurora (Rondonópolis-MT)
+Mixto EC (Cuiabá-MT)         Vilhena EC - VEC (RO)
+Nauás EC (Cruzeiro do Sul-AC)      SE Vila Aurora (Rondonópolis-MT)
 
 Round 1 [Jul 18]
-Nauás     0-2  VEC
-Mixto     1-1  Vila Aurora
+Nauás       0-2  VEC
+Mixto       1-1  Vila Aurora
 
 Round 2 [Jul 25]
-Vila Aurora   2-2  Nauás
-VEC     1-2  Mixto
+Vila Aurora    2-2  Nauás
+VEC       1-2  Mixto
 
 Round 3 [Aug 1]
-Nauás     0-2  Mixto
-Vila Aurora   2-0  VEC
+Nauás       0-2  Mixto
+Vila Aurora    2-0  VEC
 
 Round 4 [Aug 8]
-VEC     0-1  Vila Aurora
-Mixto     5-1  Nauás
+VEC       0-1  Vila Aurora
+Mixto       5-1  Nauás
 
 Round 5 [Aug 15]
-Nauás     0-1  Vila Aurora
-Mixto     1-0  VEC
+Nauás       0-1  Vila Aurora
+Mixto       1-0  VEC
 
 Round 6 [Aug 22]
-VEC    WO-0  Nauás    [awd 3-0]
-Vila Aurora   1-2  Mixto
+VEC      WO-0  Nauás      [awd 3-0]
+Vila Aurora    1-2  Mixto
 
 Table:
-1.Mixto      6  5  1  0  13- 4  16  Qualified
-2.Vila Aurora    6  3  2  1   8- 5  11  Qualified
+1.Mixto       6  5  1  0  13- 4  16  Qualified
+2.Vila Aurora     6  3  2  1   8- 5  11  Qualified
 ---------------------------------------
-3.VEC        6  2  0  4   6- 6   6
-4.Nauás      6  0  1  5   3-15   1
+3.VEC          6  2  0  4   6- 6   6
+4.Nauás       6  0  1  5   3-15   1
 
 
 Group A3
-EC Flamengo (Teresina-PI)    JV Lideral FC (Imperatriz-MA)
-Guarany SC (Sobral-CE)      Sampaio Corrêa FC (São Luís-MA)
+EC Flamengo (Teresina-PI)      JV Lideral FC (Imperatriz-MA)
+Guarany SC (Sobral-CE)         Sampaio Corrêa FC (São Luís-MA)
 
 Round 1 [Jul 18]
-JV Lideral   0-0  Flamengo
-Guarany     0-0  Sampaio Corrêa
+JV Lideral    0-0  Flamengo
+Guarany       0-0  Sampaio Corrêa
 
 Round 2 [Jul 25]
-Flamengo   2-2  Guarany
-Sampaio Corrêa   1-2  JV Lideral
+Flamengo    2-2  Guarany
+Sampaio Corrêa    1-2  JV Lideral
 
 Round 3 [Aug 1]
-Guarany     4-0  JV Lideral
-Flamengo   0-1  Sampaio Corrêa
+Guarany       4-0  JV Lideral
+Flamengo    0-1  Sampaio Corrêa
 
 Round 4
 [Aug 7]
-JV Lideral   3-0  Guarany
+JV Lideral    3-0  Guarany
 [Aug 8]
-Sampaio Corrêa   5-1  Flamengo
+Sampaio Corrêa    5-1  Flamengo
 
 Round 5
 [Aug 14]
-JV Lideral   0-0  Sampaio Corrêa
+JV Lideral    0-0  Sampaio Corrêa
 [Aug 15]
-Guarany     5-0  Flamengo
+Guarany       5-0  Flamengo
 
 Round 6 [Aug 22]
-Sampaio Corrêa   2-2  Guarany
-Flamengo   1-1  JV Lideral
+Sampaio Corrêa    2-2  Guarany
+Flamengo    1-1  JV Lideral
 
 Table:
-1.Guarany    6  2  3  1  13- 7   9  Qualified
+1.Guarany     6  2  3  1  13- 7   9  Qualified
 2.Sampaio Corrêa  6  2  3  1   9- 5   9  Qualified
 ---------------------------------------
-3.JV Lideral    6  2  3  1   6- 6   9
-4.Flamengo    6  0  3  3   4-14   2
+3.JV Lideral     6  2  3  1   6- 6   9
+4.Flamengo     6  0  3  3   4-14   2
 
 
 Group A4
-AD Confiança (Aracaju-SE)    ACD Potiguar (Mossoró-RN)
-C Sportivo Alagoano - CSA (Maceió-AL)  Santa Cruz FC (Recife-PE)
+AD Confiança (Aracaju-SE)      ACD Potiguar (Mossoró-RN)
+C Sportivo Alagoano - CSA (Maceió-AL)   Santa Cruz FC (Recife-PE)
 
 obs: ACD Potiguar replaced AC Coríntians (Caicó-RN), which withdrew from the championship
      CSA replaced Murici FC (Murici-AL), which withdrew from the championship
 
 Round 1 [Jul 18]
-Santa Cruz   0-1  CSA
-Confiança   1-0  Potiguar
+Santa Cruz    0-1  CSA
+Confiança    1-0  Potiguar
 
 Round 2 [Jul 25]
-Potiguar   0-1  Santa Cruz
-CSA     3-1  Confiança
+Potiguar    0-1  Santa Cruz
+CSA       3-1  Confiança
 
 Round 3 [Aug 1]
-Santa Cruz   0-0  Confiança
-Potiguar   3-4  CSA
+Santa Cruz    0-0  Confiança
+Potiguar    3-4  CSA
 
 Round 4 [Aug 8]
-Confiança   1-1  Santa Cruz
-CSA     2-0  Potiguar
+Confiança    1-1  Santa Cruz
+CSA       2-0  Potiguar
 
 Round 5 [Aug 15]
-Confiança   1-2  CSA
-Santa Cruz   2-0  Potiguar
+Confiança    1-2  CSA
+Santa Cruz    2-0  Potiguar
 
 Round 6 [Aug 22]
-CSA     1-2  Santa Cruz
-Potiguar   0-2  Confiança
+CSA       1-2  Santa Cruz
+Potiguar    0-2  Confiança
 
 Table:
-1.CSA      6  5  0  1  13- 7  15  Qualified
-2.Santa Cruz    6  3  2  1   6- 3  11  Qualified
+1.CSA        6  5  0  1  13- 7  15  Qualified
+2.Santa Cruz     6  3  2  1   6- 3  11  Qualified
 ---------------------------------------
-3.Confiança    6  2  2  2   6- 6   8
-4.Potiguar    6  0  0  6   3-12   0
+3.Confiança     6  2  2  2   6- 6   8
+4.Potiguar     6  0  0  6   3-12   0
 
 
 Group A5
-Central SC (Caruaru-PE)      SE River Plate (Carmópolis-SE)
-Fluminense de FFC (Feira de Santana-BA)  Treze FC (Campina Grande-PB)
+Central SC (Caruaru-PE)         SE River Plate (Carmópolis-SE)
+Fluminense de FFC (Feira de Santana-BA)   Treze FC (Campina Grande-PB)
 
 Round 1 [Jul 18]
-Central     0-1  Fluminense
-Treze     1-0  River Plate
+Central       0-1  Fluminense
+Treze       1-0  River Plate
 
 Round 2 [Jul 25]
-River Plate   3-3  Central
-Fluminense   3-2  Treze
+River Plate    3-3  Central
+Fluminense    3-2  Treze
 
 Round 3 [Aug 1]
-Central     0-1  Treze
-River Plate   1-1  Fluminense
+Central       0-1  Treze
+River Plate    1-1  Fluminense
 
 Round 4 [Aug 8]
-Fluminense   2-3  River Plate
-Treze     4-1  Central
+Fluminense    2-3  River Plate
+Treze       4-1  Central
 
 Round 5
 [Aug 14]
-Treze     2-1  Fluminense
+Treze       2-1  Fluminense
 [Aug 15]
-Central     5-2  River Plate
+Central       5-2  River Plate
 
 Round 6 [Aug 22]
-Fluminense   2-1  Central
-River Plate   1-0  Treze
+Fluminense    2-1  Central
+River Plate    1-0  Treze
 
 Table:
-1.Treze      6  4  0  2  10- 6  12  Qualified
-2.Fluminense      6  3  1  2  10- 9  10  Qualified
+1.Treze       6  4  0  2  10- 6  12  Qualified
+2.Fluminense       6  3  1  2  10- 9  10  Qualified
 ---------------------------------------
-3.River Plate      6  2  2  2  10-12   8
-4.Central      6  1  1  4  10-13   4
+3.River Plate       6  2  2  2  10-12   8
+4.Central       6  1  1  4  10-13   4
 
 
 Group A6
-Araguaína FR (TO)      Brasília FC (DF)
-A Botafogo FC (Brasília-DF)    Ceilândia EC (DF)
+Araguaína FR (TO)         Brasília FC (DF)
+A Botafogo FC (Brasília-DF)      Ceilândia EC (DF)
 
 Round 1
 [Jul 18]
-Ceilândia   2-0  Brasília
+Ceilândia    2-0  Brasília
 [Jul 20]
-Botafogo-DF   0-0  Araguaína
+Botafogo-DF    0-0  Araguaína
 
 Round 2
 [Jul 25]
-Brasília   2-1  Botafogo-DF
+Brasília    2-1  Botafogo-DF
 [Jul 26]
-Araguaína   2-1  Ceilândia
+Araguaína    2-1  Ceilândia
 
 Round 3 [Aug 1]
-Ceilândia   2-2  Botafogo-DF
-Brasília   2-2  Araguaína
+Ceilândia    2-2  Botafogo-DF
+Brasília    2-2  Araguaína
 
 Round 4
 [Aug 7]
-Botafogo-DF   1-1  Ceilândia
+Botafogo-DF    1-1  Ceilândia
 [Aug 9]
-Araguaína   1-1  Brasília
+Araguaína    1-1  Brasília
 
 Round 5 [Aug 14]
-Botafogo-DF   0-0  Brasília
-Ceilândia   1-0  Araguaína
+Botafogo-DF    0-0  Brasília
+Ceilândia    1-0  Araguaína
 
 Round 6 [Aug 22]
-Brasília   2-0  Ceilândia
-Araguaína   1-0  Botafogo-DF
+Brasília    2-0  Ceilândia
+Araguaína    1-0  Botafogo-DF
 
 Table:
-1.Brasília      6  2  3  1   7- 6   9  Qualified
-2.Araguaína      6  2  3  1   6- 5   9  Qualified
+1.Brasília       6  2  3  1   7- 6   9  Qualified
+2.Araguaína       6  2  3  1   6- 5   9  Qualified
 ---------------------------------------
-3.Ceilândia      6  2  2  2   7- 7   8
-4.Botafogo-DF      6  0  4  2   4- 6   4
+3.Ceilândia       6  2  2  2   7- 7   8
+4.Botafogo-DF       6  0  4  2   4- 6   4
 
 
 Group A7
-América FC (Rio de Janeiro-RJ)    Rio Branco AC (Cariacica-ES)
-Camaçari FC (BA)      Uberaba SC (MG)
+América FC (Rio de Janeiro-RJ)      Rio Branco AC (Cariacica-ES)
+Camaçari FC (BA)         Uberaba SC (MG)
 
 obs: Uberaba SC replaced EC Democrata (G. Valadares-MG), which withdrew from the championship
 
 Round 1 [Jul 18]
-Camaçari   1-1  Rio Branco
-Uberaba     4-2  América-RJ
+Camaçari    1-1  Rio Branco
+Uberaba       4-2  América-RJ
 
 Round 2 [Jul 24]
-América-RJ   2-1  Camaçari
-Rio Branco   2-0  Uberaba
+América-RJ    2-1  Camaçari
+Rio Branco    2-0  Uberaba
 
 Round 3
 [Jul 31]
-América-RJ   3-2  Rio Branco
+América-RJ    3-2  Rio Branco
 [Aug 1]
-Camaçari   1-3  Uberaba
+Camaçari    1-3  Uberaba
 
 Round 4 [Aug 7]
-Rio Branco   4-1  América-RJ
-Uberaba     4-0  Camaçari
+Rio Branco    4-1  América-RJ
+Uberaba       4-0  Camaçari
 
 Round 5 [Aug 15]
-Camaçari   0-2  América-RJ
-Uberaba     6-1  Rio Branco
+Camaçari    0-2  América-RJ
+Uberaba       6-1  Rio Branco
 
 Round 6 [Aug 22]
-Rio Branco   4-1  Camaçari
-América-RJ   1-1  Uberaba
+Rio Branco    4-1  Camaçari
+América-RJ    1-1  Uberaba
 
 Table:
-1.Uberaba      6  4  1  1  18- 7  13  Qualified
-2.Rio Branco      6  3  1  2  14-12  10  Qualified
+1.Uberaba       6  4  1  1  18- 7  13  Qualified
+2.Rio Branco       6  3  1  2  14-12  10  Qualified
 ---------------------------------------
-3.América-RJ      6  3  1  2  11-12  10
-4.Camaçari      6  0  1  5   4-16   1
+3.América-RJ       6  3  1  2  11-12  10
+4.Camaçari       6  0  1  5   4-16   1
 
 
 Group A8
-Botafogo FC (Ribeirão Preto-SP)       Madureira EC (Rio de Janeiro-RJ)
-CE Nova Esperança - CENE (Campo Grande-MS)  Tupi FBC (Juiz de Fora-MG)
+Botafogo FC (Ribeirão Preto-SP)          Madureira EC (Rio de Janeiro-RJ)
+CE Nova Esperança - CENE (Campo Grande-MS)   Tupi FBC (Juiz de Fora-MG)
 
 Round 1 [Jul 18]
-Madureira   1-0  Tupi
-CENE     0-1  Botafogo-SP
+Madureira    1-0  Tupi
+CENE       0-1  Botafogo-SP
 
 Round 2 [Jul 24]
-Tupi      1-1  CENE
-Botafogo-SP    0-1  Madureira
+Tupi        1-1  CENE
+Botafogo-SP     0-1  Madureira
 
 Round 3 [Aug 1]
-Madureira    1-1  CENE
-Botafogo-SP    1-1  Tupi
+Madureira     1-1  CENE
+Botafogo-SP     1-1  Tupi
 
 Round 4 [Aug 7]
-Tupi      1-0  Botafogo-SP
-CENE      4-2  Madureira
+Tupi        1-0  Botafogo-SP
+CENE        4-2  Madureira
 
 Round 5 [Aug 14]
-Madureira   4-3  Botafogo-SP
-CENE     1-1  Tupi
+Madureira    4-3  Botafogo-SP
+CENE       1-1  Tupi
 
 Round 6 [Aug 22]
-Tupi     3-0  Madureira
-Botafogo-SP   0-1  CENE
+Tupi       3-0  Madureira
+Botafogo-SP    0-1  CENE
 
 Table:
-1.Madureira      6  3  1  2   9-11  10  Qualified
-2.Tupi      6  2  3  1   7- 4   9  Qualified
+1.Madureira       6  3  1  2   9-11  10  Qualified
+2.Tupi       6  2  3  1   7- 4   9  Qualified
 ---------------------------------------
-2.CENE      6  2  3  1   8- 6   9
-4.Botafogo-SP      6  1  1  4   5- 8   4
+2.CENE       6  2  3  1   8- 6   9
+4.Botafogo-SP       6  1  1  4   5- 8   4
 
 
 Group A9
-Joinville EC (SC)    Operário Ferroviário EC (Ponta Grossa-PR)
-Oeste FC (Itápolis-SP)    EC São José (Porto Alegre-RS)
+Joinville EC (SC)      Operário Ferroviário EC (Ponta Grossa-PR)
+Oeste FC (Itápolis-SP)      EC São José (Porto Alegre-RS)
 
 Round 1 [Jul 18]
-São José   1-0  Operário
-Joinville   2-1  Oeste
+São José    1-0  Operário
+Joinville    2-1  Oeste
 
 Round 2
 [Jul 24]
-Oeste      1-0  São José
+Oeste        1-0  São José
 [Jul 25]
-Operário    1-0  Joinville
+Operário     1-0  Joinville
 
 Round 3 [Aug 1]
-São José    1-1  Joinville
-Oeste      0-0  Operário
+São José     1-1  Joinville
+Oeste        0-0  Operário
 
 Round 4 [Aug 8]
-Joinville    2-1  São José
-Operário    1-0  Oeste
+Joinville     2-1  São José
+Operário     1-0  Oeste
 
 Round 5
 [Aug 14]
-São José   3-1  Oeste
+São José    3-1  Oeste
 [Aug 15]
-Joinville   2-0  Operário
+Joinville    2-0  Operário
 
 Round 6 [Aug 22]
-Operário   1-0  São José
-Oeste     0-0  Joinville
+Operário    1-0  São José
+Oeste       0-0  Joinville
 
 Table:
-1.Joinville    6  3  2  1   7- 4  11  Qualified
-2.Operário    6  3  1  2   3- 3  10  Qualified
+1.Joinville     6  3  2  1   7- 4  11  Qualified
+2.Operário     6  3  1  2   3- 3  10  Qualified
 ---------------------------------------
-3.São José    6  2  1  3   6- 6   7
-4.Oeste      6  1  2  3   3- 6   5
+3.São José     6  2  1  3   6- 6   7
+4.Oeste        6  1  2  3   3- 6   5
 
 
 Group A10
-Iraty SC (Irati-PR)    CA Metropolitano (Blumenau-SC)
-CN Marcílio Dias (Itajaí-SC)  EC Pelotas (RS)
+Iraty SC (Irati-PR)      CA Metropolitano (Blumenau-SC)
+CN Marcílio Dias (Itajaí-SC)   EC Pelotas (RS)
 
 Round 1
 [Jul 17]
-Marcílio Dias   0-2  Metropolitano
+Marcílio Dias    0-2  Metropolitano
 [Jul 18]
-Iraty     2-1  Pelotas
+Iraty       2-1  Pelotas
 
 Round 2 [Jul 25]
-Metropolitano    2-0  Iraty
-Pelotas    4-0  Marcílio Dias
+Metropolitano     2-0  Iraty
+Pelotas     4-0  Marcílio Dias
 
 Round 3 [Aug 1]
-Iraty      1-0  Marcílio Dias
-Metropolitano    1-0  Pelotas
+Iraty        1-0  Marcílio Dias
+Metropolitano     1-0  Pelotas
 
 Round 4 [Aug 8]
-Pelotas    1-0  Metropolitano
-Marcílio Dias    0-0  Iraty
+Pelotas     1-0  Metropolitano
+Marcílio Dias     0-0  Iraty
 
 Round 5 [Aug 15]
-Iraty     3-3  Metropolitano
-Marcílio Dias   1-1  Pelotas
+Iraty       3-3  Metropolitano
+Marcílio Dias    1-1  Pelotas
 
 Round 6 [Aug 22]
-Pelotas   2-2  Iraty
-Metropolitano   1-1  Marcílio Dias
+Pelotas    2-2  Iraty
+Metropolitano    1-1  Marcílio Dias
 
 Table:
-1.Metropolitano    6  3  2  1   9- 5  11  Qualified
-2.Iraty      6  2  3  1   8- 8   9  Qualified
+1.Metropolitano     6  3  2  1   9- 5  11  Qualified
+2.Iraty        6  2  3  1   8- 8   9  Qualified
 ---------------------------------------
-3.Pelotas    6  2  2  2   9- 6   8
-4.Marcílio Dias    6  0  3  3   2- 9   3
+3.Pelotas     6  2  2  2   9- 6   8
+4.Marcílio Dias     6  0  3  3   2- 9   3
 
 
 
@@ -2897,34 +2891,34 @@ SECOND STAGE:
 First leg:
 
 [Sep 4]
-Rio Branco   1-1  Madureira
-Tupi     2-2  Uberaba
-Araguaina   1-1  Treze
+Rio Branco    1-1  Madureira
+Tupi       2-2  Uberaba
+Araguaina    1-1  Treze
 [Sep 5]
-Iraty     0-2  Joinville
-Santa Cruz   4-3  Guarany
-Fluminense   1-0  Brasília
-Operário   1-0  Metropolitano
-Sampaio Corrêa   5-0  CSA
-América-AM   3-1  Mixto
-Vila Aurora   0-0  Remo
+Iraty       0-2  Joinville
+Santa Cruz    4-3  Guarany
+Fluminense    1-0  Brasília
+Operário    1-0  Metropolitano
+Sampaio Corrêa    5-0  CSA
+América-AM    3-1  Mixto
+Vila Aurora    0-0  Remo
 
 Second leg:
 (Qualified in bold)
 (Classificados em negrito)
 
 [Sep 11]
-Madureira   2-1  Rio Branco
-Treze     2-2  Araguaina
+Madureira    2-1  Rio Branco
+Treze       2-2  Araguaina
 [Sep 12]
-Guarany   2-0  Santa Cruz
-Brasília   3-0  Fluminense
-Uberaba   2-0  Tupi
-Joinville   2-0  Iraty
-Metropolitano   2-3  Operário
-CSA     2-2  Sampaio Corrêa
-Remo     1-1  Vila Aurora
-Mixto     4-2  América-AM
+Guarany    2-0  Santa Cruz
+Brasília    3-0  Fluminense
+Uberaba    2-0  Tupi
+Joinville    2-0  Iraty
+Metropolitano    2-3  Operário
+CSA       2-2  Sampaio Corrêa
+Remo       1-1  Vila Aurora
+Mixto       4-2  América-AM
 
 
 THIRD STAGE:
@@ -2932,19 +2926,19 @@ THIRD STAGE:
 (Os vencedores dos jogos e os outros 3 melhores passam às Quartas-de-Final)
 
 [Sep 25]
-Uberaba   1-3  Madureira
-Araguaina   4-3  Brasília
+Uberaba    1-3  Madureira
+Araguaina    4-3  Brasília
 [Sep 26]
-Guarany   3-2  Sampaio Corrêa
-Joinville   0-0  Operário
-América-AM   1-0  Vila Aurora
+Guarany    3-2  Sampaio Corrêa
+Joinville    0-0  Operário
+América-AM    1-0  Vila Aurora
 
 [Oct 2]
-Madureira  0-0  Uberaba
-Operário  0-1  Joinville
-Brasília  1-2  Araguaina
-Sampaio Corrêa  1-1  Guarany
-Vila Aurora  3-0  América-AM
+Madureira   0-0  Uberaba
+Operário   0-1  Joinville
+Brasília   1-2  Araguaina
+Sampaio Corrêa   1-1  Guarany
+Vila Aurora   3-0  América-AM
 
 
 QUARTERFINALS:
@@ -2952,17 +2946,17 @@ QUARTERFINALS:
 (Os vencedores sobem)
 
 [Oct 11]
-América-AM   2-1  Joinville (1)
-Operário  2-4  Madureira
-Uberaba   0-0  Araguaína
-Vila Aurora  0-2  Guarany
+América-AM    2-1  Joinville (1)
+Operário   2-4  Madureira
+Uberaba    0-0  Araguaína
+Vila Aurora   0-2  Guarany
 
 [Oct 16]
-Araguaína   0-0  Uberaba      [pen. 3-2]
-Madureira  6-2  Operário
+Araguaína    0-0  Uberaba         [pen. 3-2]
+Madureira   6-2  Operário
 [Oct 17]
-Guarany   2-1  Vila Aurora
-Joinville   1-1  América-AM  (1)
+Guarany    2-1  Vila Aurora
+Joinville    1-1  América-AM  (1)
 
 (1) O América escalou jogadores irregulares nas duas partidas. O Joinville entrou com um recurso no STJD. Enquanto, o recurso
 não era julgado, a CBF deu continuidade ao campeonato.
@@ -2970,21 +2964,21 @@ não era julgado, a CBF deu continuidade ao campeonato.
 SEMIFINALS:
 
 [Oct 24]
-Araguaina   2-2  Guarany
-América-AM   1-2  Madureira        [played in Guaratinguetá-SP]
+Araguaina    2-2  Guarany
+América-AM    1-2  Madureira            [played in Guaratinguetá-SP]
 
 [Oct 30]
-Madureira  0-2  América-AM
-Guarany    0-0  Araguaína
+Madureira   0-2  América-AM
+Guarany      0-0  Araguaína
 
 
 FINALS:
 
 [Nov 7]
-América-AM   1-1  Guarany        [played in Santarém-PA]
+América-AM    1-1  Guarany            [played in Santarém-PA]
 
 [Nov 14]
-Guarany    4-1  América-AM
+Guarany      4-1  América-AM
 
 *** GUARANY-CE are Brazil 2010 4th level (Série D) champions ***
 
@@ -2998,69 +2992,58 @@ Classificação Geral. As Semifinais e Finais tiveram seus resultados mantidos.
 
 Final standings:
 
- 1.Guarany       16  7  7  2  33-19  28  Champions; promoted
+ 1.Guarany        16  7  7  2  33-19  28  Champions; promoted
 -----------------------------------------
- 2.Madureira       14  8  3  3  27-21  27  Promoted
- 3.Araguaína       14  4  9  1  17-14  21  Semifinalists; promoted
- 4.Joinville       12  6  4  2  14- 7  22  Promoted
+ 2.Madureira        14  8  3  3  27-21  27  Promoted
+ 3.Araguaína        14  4  9  1  17-14  21  Semifinalists; promoted
+ 4.Joinville        12  6  4  2  14- 7  22  Promoted
 - - - - - - - - - - - - - - - - - - - - -
- 5.Uberaba       12  5  5  2  23-12  20
- 6.Operário      12  5  2  5  11-16  17  Quarterfinalists
+ 5.Uberaba        12  5  5  2  23-12  20
+ 6.Operário       12  5  2  5  11-16  17  Quarterfinalists
  7.Vila Aurora     12  4  4  4  13-11  16  Quarterfinalists
- 8.América-AM       16  6  5  5  23-24  13  Finalists, but lost 10 points and was disqualified
+ 8.América-AM        16  6  5  5  23-24  13  Finalists, but lost 10 points and was disqualified
 - - - - - - - - - - - - - - - - - - - - -
  9.Sampaio Corrêa  10  3  5  2  19-11  14  Third Stage
-10.Brasília     10  3  3  4  14-13  12  Third Stage
+10.Brasília      10  3  3  4  14-13  12  Third Stage
 - - - - - - - - - - - - - - - - - - - - -
-11.Mixto      8  6  1  1  18- 9  19
-12.CSA        8  5  1  2  15-14  16
-13.Treze      8  4  2  2  13- 9  14
-14.Santa Cruz      8  4  2  2  10- 8  14
-15.Fluminense      8  4  1  3  11-12  13
-16.Remo        8  3  4  1  10- 6  13
+11.Mixto       8  6  1  1  18- 9  19
+12.CSA          8  5  1  2  15-14  16
+13.Treze       8  4  2  2  13- 9  14
+14.Santa Cruz       8  4  2  2  10- 8  14
+15.Fluminense       8  4  1  3  11-12  13
+16.Remo          8  3  4  1  10- 6  13
 17.Metropolitano    8  3  3  2  11- 8  12
-18.Rio Branco      8  3  2  3  16-15  11
-19.Tupi        8  2  4  2   9- 8  10  Second Stage
-20.Iraty      8  2  3  3   8-12   9  Second Stage
+18.Rio Branco       8  3  2  3  16-15  11
+19.Tupi          8  2  4  2   9- 8  10  Second Stage
+20.Iraty       8  2  3  3   8-12   9  Second Stage
 - - - - - - - - - - - - - - - - - - - - -
-21.América-RJ      6  3  1  2  11-12  10
-22.CENE        6  2  3  1   8- 6   9
-22.JV Lideral      6  2  3  1   6- 6   9
-24.Pelotas      6  2  2  2   9- 6   8
-25.Cametá      6  2  2  2  10- 8   8
-26.Ceilândia      6  2  2  2   7- 7   8
-27.Confiança      6  2  2  2   6- 6   8
-28.River Plate      6  2  2  2  10-12   8
-29.São José      6  2  1  3   6- 6   7
-30.VEC        6  2  0  4   6- 6   6
-31.Oeste      6  1  2  3   3- 6   5
-32.Central      6  1  1  4  10-13   4
-33.Botafogo-SP      6  1  1  4   5- 8   4
-34.Cristal      6  1  1  4   4-12   4
-35.Botafogo-DF      6  0  4  2   4- 6   4
+21.América-RJ       6  3  1  2  11-12  10
+22.CENE          6  2  3  1   8- 6   9
+22.JV Lideral       6  2  3  1   6- 6   9
+24.Pelotas       6  2  2  2   9- 6   8
+25.Cametá       6  2  2  2  10- 8   8
+26.Ceilândia       6  2  2  2   7- 7   8
+27.Confiança       6  2  2  2   6- 6   8
+28.River Plate       6  2  2  2  10-12   8
+29.São José       6  2  1  3   6- 6   7
+30.VEC          6  2  0  4   6- 6   6
+31.Oeste       6  1  2  3   3- 6   5
+32.Central       6  1  1  4  10-13   4
+33.Botafogo-SP       6  1  1  4   5- 8   4
+34.Cristal       6  1  1  4   4-12   4
+35.Botafogo-DF       6  0  4  2   4- 6   4
 36.Marcílio Dias    6  0  3  3   2- 9   3
-37.Flamengo      6  0  3  3   4-14   3
-38.Camaçari      6  0  1  5   4-16   1
-39.Nauás      6  0  1  5   3-15   1
-40.Potiguar      6  0  0  6   3-12   0
+37.Flamengo       6  0  3  3   4-14   3
+38.Camaçari       6  0  1  5   4-16   1
+39.Nauás       6  0  1  5   3-15   1
+40.Potiguar       6  0  0  6   3-12   0
 
 Topscorer: Danilo Pitbull (Guarany), 11 goals.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2009, see page braz09›
 
-‹2011, see page braz2011›
 
-‹list of champions, see page brazchamp›.
-
-‹list of 2nd division champions, see page braz2champ›.
-
-‹list of cup winners, see page brazcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

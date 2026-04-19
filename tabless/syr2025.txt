@@ -1,4 +1,5 @@
   <!--
+     title:  Syria 2024/25
      source: https://rsssf.org/tabless/syr2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Syria 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹First Division, see §first›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== First Division  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Championship Playoff, see §chpo›
 
 Regular Stage  ‹§reg›
@@ -203,19 +201,10 @@ Final Table:
 
 NB: bonus points regular stage (based on position) between square brackets
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page syr2024›
 
-‹list of champions, see page syrchamp›
 
-‹list of cup winners, see page syrcuphist›
-
-‹list of foundation dates, see page syrfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

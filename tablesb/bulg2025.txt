@@ -1,4 +1,5 @@
   <!--
+     title:  Bulgaria 2024/25
      source: https://rsssf.org/tablesb/bulg2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Bulgaria 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Prva profesionalna Liga, see §afg›
-‹Kupa, see §kupa›
-‹Vtora profesionalna liga, see §bfg›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Prva profesionalna Liga  ‹§afg›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -680,13 +676,13 @@ Lokomotiv P        3-0 Marek 1915
 
 NB: all remain at former level
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Kupa  ‹§kupa›
 
-<!-- start pre -->
 1/8 Finals
 [Dec 13]
 Lokomotiv Mezdra   0-1 Botev V
@@ -726,13 +722,13 @@ Ludogorets         2-0 Botev V
 
 Final [May 22]
 Ludogorets         1-0 CSKA
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Vtora profesionalna liga  ‹§bfg›
 
-<!-- start pre -->
 Final Table:
 
  1.Dobrudzha 1919 (Dobrich)           38  25 10  3  75-22  85       Promoted
@@ -763,25 +759,10 @@ Final Table:
 
 Promoted: Septemvri 98 (Tervel), Sevlievo (Sevlievo), Vihren (Sandanski), Chernomorets 1919 (Burgas);
           however, Septemvri 98 declined promotion
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page bulg2024›.
 
-‹list of champions, see page bulgchamp›.
 
-‹list of final tables, see page bulghist›.
-
-‹all-time table, see page bulgalltime›.
-
-‹list of cup finals, see page bulgcuphist›.
-
-‹list of topscorers, see page bulgtops›.
-
-‹list of name changes, see page bulg-names›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

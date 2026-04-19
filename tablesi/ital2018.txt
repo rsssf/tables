@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2017/18
      source: https://rsssf.org/tablesi/ital2018.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Italy 2017/18
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Serie B, see §serieb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.Juventus FC         38  30  5  3  86-24  95  [C]  Champions
@@ -613,13 +609,13 @@ Final Table:
 19.Hellas Verona FC    38   7  4 27  30-78  25  [P]  Relegated
 20.Benevento Calcio    38   6  3 29  33-84  21  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
-<!-- start pre -->
 Round 1
 [Jul 29]
 Arezzo          0-1 Triestina
@@ -821,13 +817,13 @@ Juventus: Buffon, Cuadrado, Barzagli, Benatia, Asamoah, Khedira, Pjanic (Marchis
 Milan: G. Donnarumma, Calabria, Bonucci, Romagnoli, Rodriguez, Kessie, Locatelli (Montolivo 80),
   Bonaventura, Suso (Borini 68), Cutrone (Kalinic 62), Calhanoglu. Tr.: Gattuso.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Season  ‹§2reg›
@@ -904,35 +900,10 @@ Second Leg [Jun 8]
 Ascoli          0-0 Virtus Entella
 
 NB: Virtus Entella (Chiavari) relegated on worse record regular season
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2016/17, see page ital2017›.
-
-‹2018/19, see page ital2019›.
 
 
 
-‹list of champions, see page italchamp›.
 
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

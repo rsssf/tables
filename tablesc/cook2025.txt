@@ -1,4 +1,5 @@
   <!--
+     title:  Cook Islands 2025
      source: https://rsssf.org/tablesc/cook2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Cook Islands 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Rarotonga, see §rarotonga›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Rarotonga  ‹§rarotonga›
 
-<!-- start pre -->
 ‹Round Cup, see §raroround› | ‹Knock-Out Tournament, see §raroko›
 
 Round Cup 2025  ‹§raroround›
@@ -157,17 +155,10 @@ Nikao Sokattak      3-2 Matavera-Ngatangiia
 Final [Nov 15]
 Tupapa Maraerenga   5-0 Nikao Sokattak
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page cook2024›
 
-‹list of champions, see page cookchamp›
 
-‹list of cup winners, see page cookcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

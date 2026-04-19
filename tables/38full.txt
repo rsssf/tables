@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1938 finals
      source: https://rsssf.org/tables/38full.html
     -->
   
@@ -29,7 +30,6 @@ actually played (4 for the first time). ESP withdrew due to civil war.
 Qualifications drawn 14 Mar 1937 at Paris, finals drawn 5 Mar 1938 at
 Paris.
 
-<!-- start pre -->
 
 == Eightfinals  ‹§8fin›
 
@@ -67,7 +67,9 @@ Lehner, Stroh, Sczepan (c), Hahnemann, Neumer
 
 NOTE: Some sources award Lörtscher's own goal to Lehner
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 05.06.38  (17.00) Toulouse, Stade Chapou
 
@@ -98,7 +100,9 @@ Bogdan, Moldoveanu, Baratki, Prassler, Dobai
 
 0:1 Dobay 39, 1:1 Socorro 51, 2:1 Fernández 53
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 05.06.38  (18.30) Le Havre, Stade de la Cavée Verte
 
@@ -113,7 +117,9 @@ Wels, Van der Veen, Smit, Vente, de Harder
 
 1:0 Koštálek 93, 2:0 Zeman 111, 3:0 Nejedlý 118
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 05.06.38  (?) Lyon
 
@@ -121,7 +127,9 @@ SWE - AUT
 
 Match cancelled because of the Austrian Anschluß in March 1938.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 05.06.38  (17.00) Paris, Stade Olympique de Colombes
 
@@ -136,7 +144,9 @@ de Wouwer, Voorhoof, Isemborghs, Braine, Buyle
 
 1:0 Veinante 1 (35 sec), 2:0 Nicolas 16, 2:1 Isemborghs 38, 3:1 Nicolas 69
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 05.06.38  (17.00) Reims, Stade Velodrome Municipal
 
@@ -152,7 +162,9 @@ Soedarmadji, Zomers, Pattiwael, Taihitu
 1:0 Kohut 13, 2:0 Toldi 15, 3:0 Sárosi 28, 4:0 Zsengellér 35, 5:0 Zsengellér
 78, 6:0 Sárosi 89
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 05.06.38  (17.00) Marseille, Stade Velodrome
 
@@ -168,7 +180,9 @@ Frantzen, Kvammen, Brynildsen, Isaksen, Brustad
 
 1:0 Ferraris 2, 1:1 Brustad 83, 2:1 Piola 94
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 05.06.38  (17.30) Strasbourg, Stade de la Meinau
 
@@ -200,7 +214,9 @@ Aston, Heisserer, Nicolas, Delfour, Veinante
 
 1:0 Colaussi 9, 1:1 Heisserer 10, 2:1 Piola 51 h, 3:1 Piola 72
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 12.06.38  (17.00) Antibes, Stade du Fort Carré
 
@@ -217,7 +233,9 @@ Ferrer, Fernández, Socorro, Tunas, Alonzo
 44, 5:0 Keller 60, 6:0 H.Andersson 61 h, 7:0 Nyberg 84, 8:0 H.Andersson 89
 (42 Abrahamsson saved a penalty by Fernández)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 12.06.38  (17.00) Lille, Stade Victor Boucquey
 
@@ -233,7 +251,9 @@ Walaschek, Bickel, Abegglen III, Grassi
 
 1:0 Sárosi 40 h, 2:0 Zsengeller 90
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 12.06.38  (17.00) Bordeaux, Parc de Lescure
 
@@ -283,7 +303,9 @@ Wetterström, Keller (c), H.Andersson, Jonasson, Nyberg
 
 NOTE: Some sources give Jakobson's own goal as Zsengellér's
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 16.06.38  (18.00) Marseille, Stade Velodrome
 
@@ -430,4 +452,3 @@ Józef Ignacy Kaluza and/or Tadeusz Forys may be cited as trainer
 instead of or along with Marian Spoida. Forys was the director of
 the national team and Kaluza the manager.
 
-<!-- end pre -->

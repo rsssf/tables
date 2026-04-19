@@ -1,4 +1,5 @@
   <!--
+     title:  East Timor 2025
      source: https://rsssf.org/tableso/oosttim2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == East Timor 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga Futebol de Timor Leste - Primeira Divisaun, see §lfa›
-‹Segunda Divisaun, see §2d›
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
 
 ==== Liga Futebol de Timor Leste - Primeira Divisaun  ‹§lfa›
 
-<!-- start pre -->
 Final Table:
 
  1.Karketu Dili FC                          9   6  2  1  18- 2  20  [C]              Champions
@@ -134,13 +132,13 @@ Final Table:
 
 [*] Atlético Ultramar/Coração FC were renamed Coração FC
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Segunda Divisaun  ‹§2d›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Aitana                                6   4  1  1   9- 5  13  [R]              Promoted
@@ -229,19 +227,10 @@ Final Table:
  6.Zebra CF (Baucau)                        6   1  2  3   8-12   5                   Relegated
  7.Kablaki FC (Manufahi, Same district)     6   1  0  5  10-16   3                   Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page oosttim2024›
 
-‹2026, see page oosttim2026›
 
-‹list of champions, see page oosttimchamp›
-
-‹list of cup winners, see page oosttimcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

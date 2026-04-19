@@ -1,4 +1,5 @@
   <!--
+     title:  England 2015/16
      source: https://rsssf.org/tablese/eng2016.html
     -->
   
@@ -6,20 +7,12 @@
 
 == England 2015/16
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
-‹Cup Tournaments, see §cups›
-‹Championship, see §champ›
-‹Division 1, see §first›
-‹Division 2, see §second›
-‹Conference, see §conf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§premier›
 
-<!-- start pre -->
 ‹Premier League 2015/16 Match Details, see page eng2016det›
 
 Final Table:
@@ -651,13 +644,13 @@ Final Table:
 20.Aston Villa             38   3  8 27  27-76  17  Relegated
 
 ‹Premier League 2015/16 Match Details, see page eng2016det›
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§cups›
 
-<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
 FA Cup  ‹§facup›
@@ -1000,13 +993,13 @@ Manchester City         3-1 Everton
 Final [Feb 28, London]
 Liverpool               1-1 Manchester City         [aet, 1-3 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Championship  ‹§champ›
 
-<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Stage  ‹§2reg›
@@ -1060,13 +1053,13 @@ Hull          0-2 Derby
 Final [May 28]
 Hull          1-0 Sheffield W
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 1  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 Regular Stage  ‹§3reg›
@@ -1120,13 +1113,13 @@ Millwall      1-1 Bradford
 Final [May 29]
 Millwall      1-3 Barnsley
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2  ‹§second›
 
-<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 Regular Stage  ‹§4reg›
@@ -1182,13 +1175,13 @@ Accrington    2-2 Wimbledon     [aet]
 Final [May 30]
 Plymouth      0-2 Wimbledon
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Conference  ‹§conf›
 
-<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 Regular Stage  ‹§5reg›
@@ -1244,33 +1237,10 @@ Braintree     0-2 Grimsby       [aet]
 Final [May 15]
 Forest Green  1-3 Grimsby
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2014/15, see page eng2015›.
 
-‹Premier League 2015/16 Match Details, see page eng2016det›
 
-‹2016/17, see page eng2017›.
-
-‹list of champions, see page engchamp›.
-
-‹list of 2nd division champions, see page eng2champ›.
-
-‹list of full tables, see page ../engpaul/FLA/league›.
-
-‹list of divisional movements, see page engall›.
-
-‹list of cup winners, see page engcuphist›.
-
-‹list of super cup (charity shield) winners, see page engsupcuphist›.
-
-‹list of league cup winners, see page engleagcuphist›.
-
-‹list of league trophy winners, see page engassmembcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

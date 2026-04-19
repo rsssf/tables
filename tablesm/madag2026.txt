@@ -1,4 +1,5 @@
   <!--
+     title:  Madagascar 2025/26
      source: https://rsssf.org/tablesm/madag2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Madagascar 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Pureplay Football League 2025/26, see §pro›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Pureplay Football League 2025/26  ‹§pro›
 
-<!-- start pre -->
 Tables:
 
 Conférence Nord
@@ -281,17 +279,10 @@ Conférence Sud
  7.COSPN                                 11   1  2  8  11-25   5  [P]
  8.Antimo Record                         10   1  1  8   8-21   4  [P]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page madag2025›
 
-‹list of champions, see page madagchamp›
 
-‹list of cup winners, see page madagcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

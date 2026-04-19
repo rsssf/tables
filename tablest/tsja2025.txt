@@ -1,4 +1,5 @@
   <!--
+     title:  Chad 2024/25
      source: https://rsssf.org/tablest/tsja2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Chad 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Championnat National Intégral 2025, see §chnat›
-‹Regional Leagues 2024/25, see §reg›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Championnat National Intégral 2025  ‹§chnat›
 
-<!-- start pre -->
 NB: to be played May 31-Jun 15
 
 Participants :
@@ -25,15 +22,15 @@ Participants :
    AS PSI (N'Djaména)
    Foullah Edifice FC (N'Djaména)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regional Leagues 2024/25  ‹§reg›
 
 ‹Zône 7, see §z7›
 
-<!-- start pre -->
 Zône 7 (Ligue Provinciale de Football de N'Djaména)  ‹§z7›
 
 Division 1
@@ -419,17 +416,10 @@ Final Table:
 -------------------------------------------------------------
 14.Tourbillon FC                      26   1  7 18  15-44  10       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page tsja2024›
 
-‹list of champions, see page tsjachamp›
 
-‹list of cup winners, see page tsjacuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

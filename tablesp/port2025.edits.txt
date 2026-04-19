@@ -1,0 +1,27 @@
+-- removing nav(igation) section:
+
+‹Liga Portugal, see §liga1›
+‹League Cup, see §leaguecup›
+
+
+-- removing nav(igation) section:
+
+‹2023/24, see page port2024›
+
+‹list of champions, see page portchamp›.
+
+‹list of final tables, see page porthist›.
+
+‹list of 2nd division champions, see page port2champ›.
+
+‹list of cup finals, see page portcuphist›.
+
+‹list of league cup finals, see page portleagcuphist›.
+
+‹list of super cup finals, see page portsupcuphist›.
+
+‹all-time table, see page portallt›.
+
+‹list of topscorers, see page porttops›.
+
+

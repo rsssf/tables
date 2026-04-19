@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1990/91
      source: https://rsssf.org/tablesd/duit91.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1990/91
 
-<!-- start pre -->
 
 Final Table
 
@@ -699,9 +699,10 @@ Andreas MÖLLER (Frankfurt) - 16
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Greenland 2025
      source: https://rsssf.org/tablesg/groenl2025.html
     -->
   
@@ -6,20 +7,12 @@
 
 == Greenland 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Angutit Inersimasut Isikkamik arsarluni NP 2025, see §gm›
-‹Nan Cup 2025, see §nan›
-‹Qeqertalik Cup 2025, see §qeqer›
-‹Upernavik District Cup 2025, see §upd›
-‹Avani Cup 2025, see §avani›
-‹Friendly Match, see §friend›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Angutit Inersimasut Isikkamik arsarluni NP 2025  ‹§gm›
 
-<!-- start pre -->
 ‹Qualifying Stage, see §qual› | ‹Slutrunden, see §final›
 
 Qualifying Stage  ‹§qual›
@@ -164,13 +157,13 @@ Nicki R. Olesen              (Nagtoralik)
 Bastian Rosing               (IT-79)
 Niels Erik Eriksen           (G-44)
 Søren Kreutzmann             (B-67)       [player of the Year]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Nan Cup 2025  ‹§nan›
 
-<!-- start pre -->
 NB: played in Nanortalik, Jun 29-Jul 4
 
 Group Stage
@@ -206,13 +199,13 @@ Kalak-44          lt  Eqaluk-54
 
 Final [Jul 4]
 Arssak-50         4-2 Siuteroq-43
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Qeqertalik Cup 2025  ‹§qeqer›
 
-<!-- start pre -->
 Played in Niaqornaarsuk over the Easter holidays on a snowcovered pitch
 
 [Apr 17]
@@ -245,13 +238,13 @@ Aqisseq Oldboys   bt  Sarfaq-62 I
 
 Final [Apr 21]
 Aqisseq Oldboys   3-0 A-69
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Upernavik District Cup 2025  ‹§upd›
 
-<!-- start pre -->
 NB: played in Upernavik
 
 Group Stage
@@ -311,13 +304,13 @@ Terianniaq-58     bt  TAS-64
 
 Final Match [Aug 20]
 UB-83             2-0 N-71
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Avani Cup 2025  ‹§avani›
 
-<!-- start pre -->
 NB: played in Uummannaq; started Aug 25
 
 Group Stage
@@ -337,32 +330,21 @@ Final Table:
 
 Final [Aug 29]
 Eqaluk-56         6-5 Amaroq
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Friendly Match  ‹§friend›
 
-<!-- start pre -->
 [Jun 20]
 FC Tugto          6-5 Forsvaret Arktisk Kommando XI
 
 NB: the visitors were a Danish military team
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page groenl2024›
 
-‹list of champions, see page groenlchamp›
 
-‹list of various cup tournaments, see page groenlcups›
-
-‹list of foundation dates, see page groenlfound›
-
-‹list of women champions, see page groenl-womchamp›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

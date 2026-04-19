@@ -1,4 +1,5 @@
   <!--
+     title:  American Samoa 2024
      source: https://rsssf.org/tablesa/amsamoa2024.html
     -->
   
@@ -6,15 +7,12 @@
 
 == American Samoa 2024
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹FFAS National League 2024, see §ffas›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== FFAS National League 2024  ‹§ffas›
 
-<!-- start pre -->
 Final Table:
 
  1.Pago Youth                   20  18  1  1 198-24  55       Champions
@@ -241,17 +239,10 @@ Final Table:
 
 NB: four more losses than wins as two matches were awarded a 0-0 loss against both
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023, see page amsamoa2023›
 
-‹list of champions, see page amsamoachamp›
 
-‹list of shield winners, see page amsamoacuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

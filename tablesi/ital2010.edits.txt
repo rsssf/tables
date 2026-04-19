@@ -1,0 +1,46 @@
+-- removing nav(igation) section:
+
+‹Serie A, see §seriea›
+‹Coppa Italia, see §coppa›
+‹Super Cup, see §supcoppa›
+‹Serie B, see §serieb›
+‹Prima Divisione, see §prima›
+‹Seconda Divisione, see §seconda›
+‹Serie D, see §seried›
+
+
+-- removing nav(igation) section:
+
+‹2008/09 (first level), see page ital09›.
+
+‹2008/09 (second level), see page ital2-09›.
+
+‹2008/09 (third level), see page ital3-09›.
+
+‹2008/09 (fourth level), see page ital4-09›.
+
+‹2008/09 (fifth level), see page ital5-09›.
+
+‹2010/11, see page ital2011›.
+
+
+
+‹list of champions, see page italchamp›.
+
+‹list of 2nd division champions, see page ital2champ›.
+
+‹list of 3rd division champions, see page ital3champ›.
+
+‹list of final tables, see page italhist›.
+
+‹list of cup winners, see page italcuphist›.
+
+‹list of super cup winners, see page italsupcuphist›.
+
+‹list of topscorers, see page italtops›.
+
+‹list of 2nd division topscorers, see page ital2tops›.
+
+‹list of 3rd division topscorers, see page ital3tops›.
+
+

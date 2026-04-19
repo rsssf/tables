@@ -1,8 +1,8 @@
   <!--
+     title:  n/a
      source: https://rsssf.org/tablesb/braz93.html
     -->
   
-<!-- start pre -->
 CAMPEONATO BRASILEIRO DE 1993
 1993 BRAZILIAN CHAMPIONSHIP
 
@@ -1343,4 +1343,3 @@ Cruzeiro EC were the 1993 Copa do Brasil champions
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->

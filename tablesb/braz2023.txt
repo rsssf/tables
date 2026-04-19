@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2023
      source: https://rsssf.org/tablesb/braz2023.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Brazil 2023
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Série A, see §sa›
-‹Copa do Brasil, see §cb›
-‹Série B, see §sb›
-‹Série C, see §sc›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Série A  ‹§sa›
 
-<!-- start pre -->
 Final Table:
 
  1.Palmeiras             38  20 10  8  64-33  70  [C]  Champions
@@ -735,13 +730,13 @@ Final Table:
 19.Coritiba              38   8  6 24  41-73  30       Relegated
 20.América/MG            38   5  9 24  42-81  24       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa do Brasil 2023  ‹§cb›
 
-<!-- start pre -->
 1/8 Finals
 
 First Legs [May 17]
@@ -805,13 +800,13 @@ Flamengo        0-1 São Paulo
 Second Leg [Sep 24]
 São Paulo       1-1 Flamengo
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série B  ‹§sb›
 
-<!-- start pre -->
 Final Table:
 
  1.Vitória               38  22  6 10  50-31  72  [P]  Promoted
@@ -823,7 +818,7 @@ Final Table:
  6.Mirassol              38  18  9 11  42-31  63  [P]
  7.Sport Recife          38  17 12  9  59-40  63
  8.Vila Nova             38  17 10 11  49-30  61
- 9.CRB             38  16  9 13  45-39  57
+ 9.CRB               38  16  9 13  45-39  57
 10.Guarani               38  15 12 11  42-33  57
 11.Ceará                 38  13 11 14  40-45  50  [R]
 12.Botafogo/SP           38  12 11 15  25-42  47  [P]
@@ -837,13 +832,13 @@ Final Table:
 19.Londrina              38   7 10 21  31-58  31       Relegated
 20.ABC                   38   5 13 20  28-51  28  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série C  ‹§sc›
 
-<!-- start pre -->
 First Stage (Grupo A)
 
 Final Table:
@@ -858,7 +853,7 @@ Final Table:
  8.São Bernardo          19   7  8  4  20-17  29  [P]  Qualified
  - - - - - - - - - - - - - - - - - - - - - - - -
  9.Confiança             19   8  4  7  23-26  28
-10.Náutico           19   6  9  4  25-24  27  [R]
+10.Náutico            19   6  9  4  25-24  27  [R]
 11.Remo                  19   6  7  6  20-18  25
 12.CSA                   19   5  9  5  15-13  24  [R]
 13.Ypiranga              19   6  5  8  26-23  23
@@ -900,21 +895,10 @@ Brusque         1-2 Amazonas
 Promoted from 4th level: Ferroviário AC (Fortaleza), Ferroviária (Araraquara),
                          Athletic (São João del-Rei), Caxias (Caxias do Sul)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2022, see page braz2022›
 
-‹2024, see page braz2024›
 
-‹list of champions, see page brazchamp›.
-
-‹list of 2nd division champions, see page braz2champ›.
-
-‹list of cup winners, see page brazcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

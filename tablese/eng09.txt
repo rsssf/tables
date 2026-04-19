@@ -1,4 +1,5 @@
   <!--
+     title:  England 2008/09
      source: https://rsssf.org/tablese/eng09.html
     -->
   
@@ -6,7 +7,6 @@
 
 == England 2008/09
 
-<!-- start pre -->
 Premiership
 
 Final Table:
@@ -5666,9 +5666,10 @@ AFC Totton    1-2 Didcot        [aet]
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

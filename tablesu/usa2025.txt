@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2025
      source: https://rsssf.org/tablesu/usa2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == USA 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Major League Soccer, see §mls› (Division 1)
-‹US Open Cup, see §open›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Major League Soccer  ‹§mls›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
 Regular Season  ‹§reg›
@@ -142,13 +139,13 @@ San Diego FC           1-3 Vancouver Whitecaps
 MLS Cup [Dec 6, Fort Lauderdale]
 Inter Miami            3-1 Vancouver Whitecaps
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== US Open Cup  ‹§open›
 
-<!-- start pre -->
 1/8 Finals
 [May 20]
 New England Revolution 1-3 Chicago Fire
@@ -179,25 +176,10 @@ Minnesota United       1-2 Austin FC              [aet]
 Final [Oct 1]
 Austin FC              1-2 Nashville SC
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page usa2024›
 
-‹list of professional first division champions, see page usachamp›
 
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

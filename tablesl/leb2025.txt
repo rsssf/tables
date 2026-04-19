@@ -1,4 +1,5 @@
   <!--
+     title:  Lebanon 2024/25
      source: https://rsssf.org/tablesl/leb2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Lebanon 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹First Division, see §first›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== First Division  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Championship Group, see §champ› | ‹Relegation Group, see §rel›
 
 Regular Stage  ‹§reg›
@@ -426,19 +424,10 @@ Final Table:
 
 NB: bonus points regular stage (halved, rounded upwards) between square brackets
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page leb2024›
 
-‹list of champions, see page lebchamp›
 
-‹list of cup winners, see page lebcuphist›
-
-‹list of topscorers, see page lebtops›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

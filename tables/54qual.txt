@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1954 qualifications
      source: https://rsssf.org/tables/54qual.html
     -->
   
@@ -24,7 +25,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 16 teams entered, including SUI (hosts) and ISL after deadline. POL withdrew
 after seeding. Eleven places divided between winners of five groups of
@@ -224,4 +224,3 @@ Group 13 (1954)  ‹§gr13›
 
 - both matches in Japan
 
-<!-- end pre -->

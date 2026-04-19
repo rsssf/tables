@@ -1,0 +1,24 @@
+-- removing nav(igation) section:
+
+‹Allsvenskan, see §allsvenskan›
+‹Svenska Cupen 2026/27, see §cupen›
+‹Superettan, see §superettan›
+‹Ettan, see §d1›
+‹Tvåan, see §d2›
+
+
+-- removing nav(igation) section:
+
+‹2025, see page zwed2025›
+
+‹list of champions, see page zwedchamp›
+
+‹list of final tables, see page zwedhist›
+
+‹all-time table, see page zwedalltime›
+
+‹list of cup finals, see page zwedcuphist›
+
+‹list of topscorers, see page zwedtops›
+
+

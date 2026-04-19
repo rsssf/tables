@@ -1,4 +1,5 @@
   <!--
+     title:  Ethiopia 2025/26
      source: https://rsssf.org/tablese/ethi2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Ethiopia 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ethiopia Premier League, see §epl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ethiopia Premier League  ‹§epl›
 
-<!-- start pre -->
 Table:
 
  1.Sidama Coffee                      24  12  9  3  30-14  45
@@ -472,19 +470,10 @@ Table:
 
 [*] Suhul Shire were renamed Midre Genet Shire
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page ethi2025›
 
-‹list of champions, see page ethichamp›
 
-‹list of cup winners, see page ethicuphist›
-
-‹list of super cup winners, see page ethisupcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

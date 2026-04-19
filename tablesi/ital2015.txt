@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2014/15
      source: https://rsssf.org/tablesi/ital2015.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Italy 2014/15
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Serie B, see §serieb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.Juventus FC         38  26  9  3  72-24  87  Champions
@@ -654,13 +650,13 @@ Final Table:
 
 NB: Parma 7 points deducted for financial reasons
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
-<!-- start pre -->
 Round 1 [Aug 10]
 Benevento       2-0 Correggese
   [Doninelli 68, Padella 90]
@@ -871,13 +867,13 @@ Juventus: Storari, Barzagli, Bonucci, Chiellini, Evra, Lichtsteiner
   (Padoin 115), Pogba (Pereyra 77), Pirlo, Vidal, Tevez, Llorente
   (Matri 84). Tr.: Allegri
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› |  ‹Relegation Playoff, see §2rel›
 
 Regular Season  ‹§2reg›
@@ -955,35 +951,10 @@ Modena          1-1 Virtus Entella
 NB: Virtus Entella relegated due to worse regular season record but later reprieved due
     to bankruptcy of Parma (Serie A) and forced demotion of Catania (due to match fixing)
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2013/14, see page ital2014›.
-
-‹2015/16, see page ital2016›.
 
 
 
-‹list of champions, see page italchamp›.
 
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

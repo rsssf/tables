@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 2011/12
      source: https://rsssf.org/tablesd/duit2012.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Germany 2011/12
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹1. Bundesliga, see §1bl›
-‹DFB Pokal, see §dfbpokal›
-‹2. Bundesliga, see §2bl›
-‹3. Liga, see §3bl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== 1. Bundesliga  ‹§1bl›
 
-<!-- start pre -->
 Final Table:
 
  1.Borussia Dortmund            34  25  6  3  80-25  81  Champions
@@ -50,13 +45,13 @@ Second Leg [May 15]
 Düsseldorf      2-2 Hertha
 
 NB: Fortuna Düsseldorf promoted, Hertha BSC relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== DFB Pokal  ‹§dfbpokal›
 
-<!-- start pre -->
 
 Round 1
 [Jul 29]
@@ -145,13 +140,13 @@ Borussia M'gladbach    0-0 Bayern München         [aet, 2-4 pen]
 Final [May 12, Berlin]
 Borussia Dortmund      5-2 Bayern München
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. Bundesliga  ‹§2bl›
 
-<!-- start pre -->
 
 Final Table:
 
@@ -188,13 +183,13 @@ Karlsruhe       2-2 Regensburg
 
 NB: Jahn Regensburg promoted, Karlsruher SC relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 3. Liga  ‹§3bl›
 
-<!-- start pre -->
 Final Table:
 
  1.SV Sandhausen                38  19  9 10  57-42  66  Promoted
@@ -222,51 +217,10 @@ Final Table:
 20.SV Werder Bremen II          38   4 10 24  29-70  22  Relegated
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2010/11, see page duit2011›
 
-‹2012/13, see page duit2013›
 
-‹list of champions, see page duitchamp›
-
-‹all-time table, see page duialltime›
-
-‹list of 2nd level champions, see page duit2champ›
-
-‹list of amateur champions, see page duitamachamp›
-
-‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
-
-‹oberliga nord 1945-1963, see page duit-ol-nord4563›
-
-‹oberliga süd 1945-1963, see page duit-ol-sued4563›
-
-‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
-
-‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
-
-‹oberliga west 1945-1963, see page duit-ol-west4563›
-
-‹regionalliga nord 63-74, see page dui3nordhist›
-
-‹regionalliga süd 63-74, see page dui3suedhist›
-
-‹regionalliga west 63-74, see page dui3westhist›
-
-‹list of cup finals, see page duitcuphist›
-
-‹list of super and league cup finals, see page duitsupcuphist›
-
-‹list of topscorers, see page duittops›
-
-‹list of 2nd level topscorers, see page duit2tops›
-
-‹list of foundation dates, see page duitfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

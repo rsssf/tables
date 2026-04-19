@@ -1,4 +1,5 @@
   <!--
+     title:  India 2024/25
      source: https://rsssf.org/tablesi/india2025.html
     -->
   
@@ -6,18 +7,12 @@
 
 == India 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹ISL 2024/25, see §circus›
-‹Santosh Trophy 2024, see §santosh›
-‹Durand Cup 2024, see §durand›
-‹Governor's Gold Cup (Sikkim) 2024, see §sikkimgov›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== ISL 2024/25  ‹§circus›
 
-<!-- start pre -->
 ‹Regular Stage, see §circreg› | ‹Playoff Stage, see §circpo›
 
 Regular Stage  ‹§circreg›
@@ -377,13 +372,13 @@ Mohun Bagan         2-0 Jamshedpur FC
 Final [Apr 12]
 Mohun Bagan         2-1 Bengaluru FC        [aet]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 78th Santosh Trophy 2024  ‹§santosh›
 
-<!-- start pre -->
 Group Stage
 
 NB: Telangana (hosts), Goa and Services (finalists 2023/24) qualified
@@ -629,13 +624,13 @@ Final [Dec 31]
 West Bengal         1-0 Kerala
   [Robi Hansda 90+4]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Durand Cup 2024  ‹§durand›
 
-<!-- start pre -->
 Group Stage
 
 Final Tables:
@@ -695,13 +690,13 @@ Mohun Bagan         2-2 Bengaluru FC        [4-3 pen]
 Final [Aug 31]
 Mohun Bagan         2-2 NorthEast United FC [3-4 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Governor's Gold Cup (Sikkim) 2024  ‹§sikkimgov›
 
-<!-- start pre -->
 NB: played in Gangtok, Sikkim
 
 1/8 Finals
@@ -734,41 +729,10 @@ Final [Nov 24]
 NorthEast United FC 0-0 Gangtok Himalayan   [4-3 pen]
 
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2023/24., see page india2024›
-
-‹2025/26., see page india2026›
 
 
 
-‹list of champions, see page indiachamp›.
 
-‹list of topscorers, see page indiatops›.
-
-‹list of calcutta league champions, see page indiacalchamp›.
-
-‹list of delhi league champions, see page indiadelhichamp›.
-
-‹list of goa league champions, see page indiagoachamp›.
-
-‹list of manipur league champions, see page india-manichamp›
-
-‹list of federation cup finals, see page indiacuphist›.
-
-‹list of super cup finals, see page indiasupcuphist›.
-
-‹list of santosh trophy finals, see page indiasantoshhist›.
-
-‹list of durand cup finals, see page indiadurandcuphist›.
-
-‹list of ifa shield finals, see page india-ifahist›.
-
-‹list of rovers cup finals, see page indiaroverscuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

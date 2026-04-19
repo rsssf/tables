@@ -1,4 +1,5 @@
   <!--
+     title:  Rodrigues 2024/25
      source: https://rsssf.org/tablesr/rodri2025.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Rodrigues 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Super League 2024/25, see §super›
-‹Rodrigues Day Cup 2024, see §rodcup›
-‹Independence Cup 2024/25, see §indepcup›
-‹RRFA Division 1 2024/25, see §div1›
-‹RRFA Division 2 2024/25, see §div2›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Super League 2024/25  ‹§super›
 
-<!-- start pre -->
 Final Table:
 
  1.Saint-Etienne SC             8   7  1  0  32- 4  22  [C]  Champions
@@ -27,13 +21,13 @@ Final Table:
  4.L'Oiseau de l'Est            8   1  0  7   3-17   3
  5.Port Sud-Est Dragons         8   1  0  7   3-27   3
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Rodrigues Day Cup 2024  ‹§rodcup›
 
-<!-- start pre -->
 Round 1
 [Sep 4]
 Petite Butte Commandos       1-1 Plaine Coco Ramblers Foot    [5-4 pen]
@@ -90,11 +84,9 @@ Final [Oct 13]
 Roche Bon Dieu Saint-Etienne 3-2 Sharks Baladirou
 
 NB: Roche-Bon-Dieu Saint-Etienne SC qualified for round 1 of the ‹MFA Cup, see page ../tablesm/mauri2025.html#mfa›
-<!-- end pre -->
 
 ==== Independence Cup 2024/25  ‹§indepcup›
 
-<!-- start pre -->
 Round 1
 [Jan 14]
 Mourouk SC                   2-3 Pavé La Bonté
@@ -151,13 +143,13 @@ Coromandel Flamingo          2-3 Rodrigues Football TC U20
 Final [Mar 12]
 Sharks Baladirou             1-1 Rivière Coco Rising SC       [4-5 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== RRFA Division 1 2024/25  ‹§div1›
 
-<!-- start pre -->
 Final Table:
 
  1.Ramblers SC                  8   6  2  0  19- 5  20
@@ -166,13 +158,13 @@ Final Table:
  4.La Ferme Hearts              8   2  1  5   8-17   7
  5.U-20                         8   1  2  5  11-19   5
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== RRFA Division 2 2024/25  ‹§div2›
 
-<!-- start pre -->
 Final Table:
 
  1.U-17                        10   6  0  4  28-19  18
@@ -181,19 +173,10 @@ Final Table:
  4.Petite Butte Commandos SC   10   4  1  5  12-14  13
  5.Baie Topaze West Striker    10   3  3  4  23-22  12
  6.Lataniers SC                10   2  5  3  20-23  11
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page rodri2024›
 
-‹2025/26, see page rodri2026›
 
-‹list of champions, see page rodrichamp›
-
-‹list of cup winners, see page rodricuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Central African Republic 2024/25
      source: https://rsssf.org/tablesc/cafr2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Central African Republic 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ligue de Bangui 2024/25, see §bangui›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ligue de Bangui 2024/25  ‹§bangui›
 
-<!-- start pre -->
 ‹Première Division 2024/25, see §prem› | ‹Coupe du 1er Décembre 2024, see §1dec›
 
 Première Division 2024/25  ‹§prem›
@@ -209,17 +207,10 @@ Olympique Réal  0-0 DFC8            [3-5 pen]
 Final [Dec 1]
 Tempête Mocaf   1-0 DFC8
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page cafr2024›
 
-‹list of champions, see page cafrchamp›
 
-‹list of cup winners, see page cafrcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2021/22
      source: https://rsssf.org/tablesi/ital2022.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Italy 2021/22
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Serie B, see §serieb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.Milan AC            38  26  8  4  69-31  86       Champions
@@ -640,13 +636,13 @@ Final Table:
 19.Genoa CFC           38   4 16 18  27-60  28       Relegated
 20.Venezia FC          38   6  9 23  34-69  27  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
-<!-- start pre -->
 Preliminary Round
 [Aug 7]
 Como            2-2 Catanzaro       [aet, 3-4 pen]
@@ -783,13 +779,13 @@ Juventus: Perin, Danilo (41 Morata), De Ligt, Chiellini (84 Arthur), Alex Sandro
 Inter: Handanovic, Skriniar, De Vrij, D'Ambrosio (63 Dimarco), Darmian (63 Dumfries), Barella,
   Brozovic, Calhanoglu (90 Vidal), Perisic, Lautaro (90 Sanchez), Dzeko (63 Correa). Tr.: Inzaghi S.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
 
 Regular Season  ‹§2reg›
@@ -862,33 +858,10 @@ Vicenza         1-0 Cosenza
 
 Second Leg [May 20]
 Cosenza         2-0 Vicenza
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2020/21, see page ital2021›.
 
-‹2022/23, see page ital2023›.
 
-‹list of champions, see page italchamp›.
-
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

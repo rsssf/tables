@@ -1,4 +1,5 @@
   <!--
+     title:  WORLD CUP 1934 - QUALIFYING
      source: https://rsssf.org/tables/34qual.html
     -->
   
@@ -6,9 +7,10 @@
 
 == WORLD CUP 1934 - QUALIFYING
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 EUROPE
 
 GROUP 1 [ESTONIA, LITHUANIA, SWEDEN]
@@ -711,13 +713,10 @@ RATNER, Shimon 'Lumek'               McREA, James
 
 Referee: GOODSBY, Frederick John [ENGLAND]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹World Cup 1934 Qualifying (overview file), see page 34q›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 == About this document  ‹§about›
 

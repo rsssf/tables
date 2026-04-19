@@ -1,4 +1,5 @@
   <!--
+     title:  Orkney 2025
      source: https://rsssf.org/tableso/orkney2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Orkney 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹A-League, see §aleague›
-‹Cup Tournaments, see §cups›
-‹B-League, see §bleague›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== A-League  ‹§aleague›
 
-<!-- start pre -->
 Final Table:
 
  1.Stromness         10   7  3  0  22-11  24  Champions
@@ -87,13 +83,13 @@ Final Table:
 --------------------------------------------
  6.Hotspurs          10   2  1  7  11-16   7  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§cups›
 
-<!-- start pre -->
 ‹Parish Cup, see §parish›
 ‹Isaac Newlands Cup, see §newlands›
 ‹Heddle Cup, see §heddle› | ‹Thomson Cup, see §thomson› | ‹Oxy Cup, see §oxy› | ‹Craigmyle Cup, see §craigmyle› | ‹Thornley Binders Cup, see §thornley› | ‹Reid Cup, see §reid›
@@ -281,13 +277,13 @@ Dounby                1-1 Thorfinn              [4-2 pen]
 
 Final [Sep 2]
 Rovers                0-3 Dounby
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== B-League  ‹§bleague›
 
-<!-- start pre -->
 Final Table :
 
  1.South Ronaldsay   12  11  1  0  48-18  34  [N]  Promoted
@@ -299,17 +295,10 @@ Final Table :
  6.Harray            12   3  2  7  24-44  11
  7.Wanderers         12   1  2  9  20-55   5
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page orkney2024›
 
-‹list of champions, see page orkneychamp›
 
-‹list of cup winners, see page orkneycuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

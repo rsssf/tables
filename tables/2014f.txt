@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2014
      source: https://rsssf.org/tables/2014f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 2014 (Brazil, June 12 - July 13, 2014)
 
-<!-- start pre -->
 Automatically qualified: Brazil (hosts)
 
 
@@ -183,7 +183,6 @@ Scorer: 113' Götze 1-0.
 Topscorer: Rodríguez (Colombia) 6 goals.
 
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 2014full›
 
@@ -197,7 +196,9 @@ Topscorer: Rodríguez (Colombia) 6 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

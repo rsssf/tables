@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2016/17
      source: https://rsssf.org/tablesi/ital2017.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Italy 2016/17
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Serie B, see §serieb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.Juventus FC         38  29  4  5  77-27  91        [C]  Champions
@@ -621,13 +617,13 @@ Final Table:
 19.US Città di Palermo 38   6  8 24  33-77  26             Relegated
 20.Delfino Pescara     38   3  9 26  37-81  18        [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
-<!-- start pre -->
 Round 1
 [Jul 29]
 Livorno         1-3 Juve Stabia
@@ -837,13 +833,13 @@ Juventus: Neto, Barzagli, Bonucci, Chiellini, Dani Alves,
   Marchisio, Rincon, Alex Sandro, Dybala (Lemina 79), Mandzukic,
   Higuain. Tr.: Allegri
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Season  ‹§2reg›
@@ -913,35 +909,10 @@ Benevento       1-0 Carpi
 
 NB: Benevento Calcio promoted
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2015/16, see page ital2016›.
-
-‹2017/18, see page ital2018›.
 
 
 
-‹list of champions, see page italchamp›.
 
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

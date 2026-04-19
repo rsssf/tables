@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2014
      source: https://rsssf.org/tablesb/braz2014.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Brazil 2014
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Série A, see §sa›
-‹Copa do Brasil, see §cb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Série A  ‹§sa›
 
-<!-- start pre -->
 Final Table:
 
  1.Cruzeiro              38  24  8  6  67-38  80  Champions
@@ -625,13 +622,13 @@ Final Table:
 20.Criciúma              38   7 11 20  28-56  32  Relegated
 
 Promoted: Joinville, Ponte Preta, Vasco da Gama, Avaí
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa do Brasil  ‹§cb›
 
-<!-- start pre -->
 Participants:
 
 Clubs classified to Taça Libertadores da América (and bye to 1/8 Finals):
@@ -1020,12 +1017,12 @@ Third Round
   the 7 best placed in Brazilian Championship 2013 will be qualified to Copa
   Sul-Americana 2014:
 
-  1. Vitória (BA) - 5th in Brazilian Championship 2013
-  2. Goiás (GO) - 6th in Brazilian Championship 2013
-  3. São Paulo (SP) - 9th in Brazilian Championship 2013
-  4. Bahia (BA) - 12th in Brazilian Championship 2013
-  5. Internacional (RS) - 13th in Brazilian Championship 2013
-  6. Criciúma (SC) - 14th in Brazilian Championship 2013
+   1. Vitória (BA) - 5th in Brazilian Championship 2013
+   2. Goiás (GO) - 6th in Brazilian Championship 2013
+   3. São Paulo (SP) - 9th in Brazilian Championship 2013
+   4. Bahia (BA) - 12th in Brazilian Championship 2013
+   5. Internacional (RS) - 13th in Brazilian Championship 2013
+   6. Criciúma (SC) - 14th in Brazilian Championship 2013
         7. Fluminense (RJ) - 15th in Brazilian Championship 2013
 
 1/8 Finals
@@ -1095,21 +1092,10 @@ FINAL
 ATLÉTICO MINEIRO Champions of Copa do Brasil 2014 and classified to Copa Libertadores 2015.
 
 Topscorers: Bill (Ceará), Gabriel (Santos), Léo Gamalho (Santa Cruz), 6 goals
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2013, see page braz2013›
 
-‹2015, see page braz2015›
 
-‹list of champions, see page brazchamp›.
-
-‹list of 2nd division champions, see page braz2champ›.
-
-‹list of cup winners, see page brazcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

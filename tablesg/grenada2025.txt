@@ -1,4 +1,5 @@
   <!--
+     title:  Grenada 2025
      source: https://rsssf.org/tablesg/grenada2025.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Grenada 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier Division, see §prem›
-‹Waggy T Super Knockout 2025, see §waggy›
-‹Division I, see §div1›
-‹Division II, see §div2›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier Division  ‹§prem›
 
-<!-- start pre -->
 Table (includes disputed result Dec 14):
 
  1.St. John's Sports             18  13  5  0  40-14  44       Champions
@@ -237,13 +232,13 @@ Table (includes disputed result Dec 14):
 10.Shamrock                      17   2  4 11  22-38  10       Relegated
 
 NB: remaining matches apparently cancelled due to irrelevance
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Waggy T Super Knockout 2024  ‹§waggy›
 
-<!-- start pre -->
 NB: 15th edition; 24 participating teams
 
 Round 1
@@ -294,13 +289,13 @@ Paradise              1-2 Camerhogne
 
 Final [Dec 6]
 St. John's Sports     3-4 Hurricanes            [aet]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division I  ‹§div1›
 
-<!-- start pre -->
 Table:
 
  1.St. Andrew's Football League  21  14  5  2  60-20  47       Promoted
@@ -319,13 +314,13 @@ Table:
 12.Springs                       22   2  1 19  20-62   7       Relegated
 
 NB: remaining matches apparently cancelled due to irrelevance
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division II  ‹§div2›
 
-<!-- start pre -->
 Table:
 
  1.South Stars                   18  14  1  3  60-19  43  [N]  Promoted
@@ -341,17 +336,10 @@ Table:
  -.Belle Vue Rangers             16   0  0 16   6-86   0
 
 NB: remaining matches apparently cancelled due to irrelevance
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page grenada2024›
 
-‹list of champions, see page grenadachamp›
 
-‹list of cup winners, see page grenadawaggyhist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

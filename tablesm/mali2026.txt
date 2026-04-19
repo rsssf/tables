@@ -1,4 +1,5 @@
   <!--
+     title:  Mali 2025/26
      source: https://rsssf.org/tablesm/mali2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Mali 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ligue 1, see §premiere›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ligue 1  ‹§premiere›
 
-<!-- start pre -->
 Table:
 
  1.Djoliba Athlétic Club (Bamako)          16  11  3  2  23- 6  36
@@ -258,19 +256,10 @@ Table:
 13.US Bougouni                             16   3  3 10   6-22  12
 14.FC Mali Coura (Samanyana)               16   2  3 11   9-20   9  [P]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page mali2025›
 
-‹list of champions., see page malichamp›
 
-‹list of cup winners., see page malicuphist›
-
-‹list of main clubs., see page maliclublist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

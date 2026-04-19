@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1954
      source: https://rsssf.org/tables/54f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1954 (Switzerland, June 16-July 4)
 
-<!-- start pre -->
 
 FIRST PHASE
 
@@ -75,7 +75,6 @@ Scorers: 6' Puskás 0-1; 9' Czibor 0-2; 11' Morlock 1-2; 18' Rahn 2-2;
 
 Topscorer: Kocsis (Hungary) 11 goals.
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 54full›
 
@@ -89,7 +88,9 @@ Topscorer: Kocsis (Hungary) 11 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

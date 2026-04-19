@@ -1,0 +1,22 @@
+-- removing nav(igation) section:
+
+‹Série A, see §sa›
+‹Copa do Brasil, see §cb›
+‹Série B, see §sb›
+‹Série C, see §sc›
+‹Série D, see §sd›
+
+
+-- removing nav(igation) section:
+
+‹2009, see page braz09›
+
+‹2011, see page braz2011›
+
+‹list of champions, see page brazchamp›.
+
+‹list of 2nd division champions, see page braz2champ›.
+
+‹list of cup winners, see page brazcuphist›.
+
+

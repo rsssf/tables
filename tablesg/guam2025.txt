@@ -1,4 +1,5 @@
   <!--
+     title:  Guam 2025
      source: https://rsssf.org/tablesg/guam2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Guam 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹G-League Haya, see §div1›
-‹G-League Lagu, see §div2›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== G-League Haya  ‹§div1›
 
-<!-- start pre -->
 ‹Group Stage, see §gps› | ‹Playoff Stage, see §po›
 
 Group Stage  ‹§gps›
@@ -226,13 +223,13 @@ Sidekick                3-3 BOG Strykers            [1-4 pen]
 Final [Oct 12]
 Rovers                  5-4 Wings
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== G-League Lagu  ‹§div2›
 
-<!-- start pre -->
 Final Table:
 
  1.NAPA Rovers FC II               12   9  0  3  74-30  27
@@ -336,17 +333,10 @@ Final Table:
  5.Crushers FC                     12   5  2  5  41-32  17
  6.Dededo SC                       12   4  1  7  20-48  13
  7.Guam Shipyard II                12   0  0 12   9-74   0
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page guam2024›
 
-‹list of champions, see page guamchamp›
 
-‹list of cup winners, see page guamcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

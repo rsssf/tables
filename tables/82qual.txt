@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1982 qualifications
      source: https://rsssf.org/tables/82qual.html
     -->
   
@@ -24,7 +25,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 33 teams entered, including ESP (hosts). ISR alloted to European zone due
 to political tensions with Middle Eastern countries. Winners and runners
@@ -785,4 +785,3 @@ n runda - finał grupowy (1981)                                                 
 
 3 teams entered, allotted to the Asian zone (see ‹Group 13, see §gr13› for results).
 
-<!-- end pre -->

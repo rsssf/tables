@@ -1,4 +1,5 @@
   <!--
+     title:  Andorra 2024/25
      source: https://rsssf.org/tablesa/ando2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Andorra 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera Divisió, see §primera›
-‹Copa Constitució, see §consti›
-‹Segona Divisió, see §segona›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera Divisió  ‹§primera›
 
-<!-- start pre -->
 Final Table:
 
  1.Inter Club d'Escaldes         27  18  8  1  84-19  62       Champions
@@ -305,13 +301,13 @@ Second Leg [May 28]
 Esperança          w/o City Escaldes
 
 NB: bpth remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa Constitució  ‹§consti›
 
-<!-- start pre -->
 Preliminary Round
 [Jan 11]
 UE Santa Coloma    5-0 City Escaldes
@@ -340,13 +336,13 @@ Atlètic Club       2-1 Rànger's FC
 
 Final [May 25]
 Inter Club         1-0 Atlètic Club
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Segona Divisió  ‹§segona›
 
-<!-- start pre -->
 Final Table:
 
  1.CE Carroi                     16  11  2  3  40-14  35  [R]  Promoted
@@ -360,23 +356,10 @@ Final Table:
 
 NB: Atlètic Amèrica were denied a top level license, so City Escaldes took their
     place in the promotion playoff
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page ando2024›.
 
-‹list of champions, see page andochamp›.
 
-‹list of final tables, see page andohist›.
-
-‹all-time table, see page andoalltime›.
-
-‹list of final placings, see page andoplall›.
-
-‹list of cup winners, see page andocuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

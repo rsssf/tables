@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1991/92
      source: https://rsssf.org/tablesd/duit92.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1991/92
 
-<!-- start pre -->
 
 Final Table
 
@@ -781,9 +781,10 @@ VfB Stuttgart 1991/92
       Eyjölfur SVERRISSON    31  (2192) + 3 [ISL]
          Fritz WALTER        38  (3188) +22
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

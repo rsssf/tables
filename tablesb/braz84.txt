@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 1984 (Taça de Ouro and Taça de Prata)
      source: https://rsssf.org/tablesb/braz84.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 1984 (Taça de Ouro and Taça de Prata)
 
-<!-- start pre -->
 Copa Brasil - 1984 [Brazilian Championship]
 
 Participants
@@ -1520,9 +1520,10 @@ Uberlândia and Remo Qualify To The 1985 Taça De Ouro
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

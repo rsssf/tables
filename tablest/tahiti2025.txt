@@ -1,4 +1,5 @@
   <!--
+     title:  French Polynesia 2024/25
      source: https://rsssf.org/tablest/tahiti2025.html
     -->
   
@@ -6,24 +7,12 @@
 
 == French Polynesia 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Division 1, see §div1›
-‹Division 2, see §div2›
-‹Mooréa, see §moorea›
-‹Huahine, see §huahine›
-‹Raiatea, see §raiatea›
-‹Marquesas Islands, see §marq›
 
-‹Cup Tournaments, see §coupes›
 
-Note that the point system in French Polynesia is 4/win, 2/draw, 1/loss.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ==== Division 1  ‹§div1›
 
-<!-- start pre -->
 Final Table:
 
  1.AS Vénus            27  24  1  2 121-32 100             Champions
@@ -323,13 +312,13 @@ Final Table:
 ----------------------------------------------
 10.AS Manu Ura         27   0  1 26  27-201 27  [-1]  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2  ‹§div2›
 
-<!-- start pre -->
 Final Table:
 
  1.AS Tefana 2         18  13  4  1  75-19  60  [-1]       Ineligible for promotion
@@ -342,13 +331,13 @@ Final Table:
  7.AS Excelsior        18   2  5 11  27-55  28  [-1]
  -.AS Taiarapu FC 2    withdrew
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2 - Mooréa  ‹§moorea›
 
-<!-- start pre -->
 First Stage
 
 Final Table:
@@ -378,26 +367,26 @@ Final Table:
 NB: Tiare Tahiti 2 bonus points for winning first stage;
     teams obtained administrative bonus points at the end of the competition
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Huahine  ‹§huahine›
 
-<!-- start pre -->
 Final Table:
 
  1.Team Mato            6   6  0  0  93- 9  24
  2.AS Fauna Nui         6   3  0  3  21-30  15
  3.AS A Rohi No Te Tama 6   2  0  4  22-59  12
  4.AS Maroe             6   1  0  5  13-51   8  [-1]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Raiatea  ‹§raiatea›
 
-<!-- start pre -->
 Final Table:
 
  1.AS Samine            6   5  0  1  36- 7  20  [-1]
@@ -405,13 +394,13 @@ Final Table:
  3.TRM                  6   0  0  6   1-43   5  [-1]
  -.AS Tapu FC           excluded; all results annulled
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Marquesas Islands  ‹§marq›
 
-<!-- start pre -->
 ‹Championnat Marquises Nord, see §mnord› | ‹Championnat Marquises Sud, see §msud›
 
 Championnat Marquises Nord  ‹§mnord›
@@ -434,13 +423,13 @@ Final Table:
  4.AS Team Tahuata      4   1  0  3   7-19   7
  5.AS Mahitoa           4   0  0  4   4-19   4
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§coupes›
 
-<!-- start pre -->
 ‹Coupe du Polynésie 2025, see §coupepoly› | ‹Trophée des Champions 2025, see §trchamps›
 
 Coupe du Polynésie 2025  ‹§coupepoly›
@@ -515,25 +504,10 @@ Trophée des Champions 2025  ‹§trchamps›
 Final [Sep 13]
 Vénus           2-2 Pirae           [2-4 pen (no extra time)]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page tahiti2024›
 
-‹2025/26, see page tahiti2026›
 
-‹list of champions, see page tahitichamp›
-
-‹list of cup winners, see page tahiticuphist›
-
-‹list of coupe des champions winners, see page tahitichampcuphist›
-
-‹foundation dates, see page tahitifound›
-
-‹french overseas territories cup, see page ../tablesf/franseaterrcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

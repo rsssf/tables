@@ -1,0 +1,28 @@
+-- removing nav(igation) section:
+
+‹Liga MX, see §pdn›
+‹Copa MX 2019/20, see §copa›
+‹Campeón de Campeones, see §campcamp›
+‹Supercopa MX, see §supcopa›
+‹Ascenso MX, see §ascenso›
+
+
+-- removing nav(igation) section:
+
+‹2018/19, see page mex2019›.
+
+‹2020/21, see page mex2021›.
+
+‹list of champions, see page mexchamp›.
+
+‹list of final tables, see page mexhist›.
+
+‹list of divisional movements, see page mexall›.
+
+‹list of cup winners, see page mexcuphist›.
+
+‹list of super cup winners, see page mexsupcup›.
+
+‹list of topscorers, see page mextops›.
+
+

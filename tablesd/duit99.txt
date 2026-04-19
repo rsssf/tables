@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1998/99
      source: https://rsssf.org/tablesd/duit99.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1998/99
 
-<!-- start pre -->
 
 Final Table
 
@@ -1101,9 +1101,10 @@ SG Hoechst - SG Quelle F"urth 0-2
 
 ‹list of foundation dates, see page duitfound›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

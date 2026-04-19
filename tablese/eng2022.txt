@@ -1,4 +1,5 @@
   <!--
+     title:  England 2021/22
      source: https://rsssf.org/tablese/eng2022.html
     -->
   
@@ -6,19 +7,12 @@
 
 == England 2021/22
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
-‹Championship, see §champ›
-‹Division 1, see §first›
-‹Division 2, see §second›
-‹National League, see §conf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Manchester City         38  29  6  3  99-26  93  [C]  Champions
@@ -667,13 +661,13 @@ Final Table:
 19.Watford                 38   6  5 27  34-77  23  [P]  Relegated
 20.Norwich City            38   5  7 26  23-84  22  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Championship  ‹§champ›
 
-<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Stage  ‹§2reg›
@@ -726,13 +720,13 @@ Nottingham    1-2 Sheffield U   [aet, 3-2 pen]
 [May 29]
 Huddersfield  0-1 Nottingham
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 1  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 Regular Stage  ‹§3reg›
@@ -786,13 +780,13 @@ Sheffield W   1-1 Sunderland
 Final [May 21]
 Wycombe       0-2 Sunderland
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2  ‹§second›
 
-<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 Regular Stage  ‹§4reg›
@@ -846,13 +840,13 @@ Port Vale     1-0 Swindon       [aet, 6-5 pen]
 Final [May 28]
 Mansfield     0-3 Port Vale
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== National League  ‹§conf›
 
-<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 Regular Stage  ‹§5reg›
@@ -907,31 +901,10 @@ Solihull      3-1 Chesterfield
 Final [Jun 5]
 Solihull      1-2 Grimsby       [aet]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2020/21, see page eng2021›.
 
-‹2022/23, see page eng2023›.
 
-‹list of champions, see page engchamp›.
-
-‹list of 2nd division champions, see page eng2champ›.
-
-‹list of full tables, see page ../engpaul/FLA/league›.
-
-‹list of divisional movements, see page engall›.
-
-‹list of cup winners, see page engcuphist›.
-
-‹list of super cup (charity shield) winners, see page engsupcuphist›.
-
-‹list of league cup winners, see page engleagcuphist›.
-
-‹list of league trophy winners, see page engassmembcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

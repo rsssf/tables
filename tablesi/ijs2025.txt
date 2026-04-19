@@ -1,4 +1,5 @@
   <!--
+     title:  Iceland 2025
      source: https://rsssf.org/tablesi/ijs2025.html
     -->
   
@@ -6,21 +7,12 @@
 
 == Iceland 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Urvalsdeild, see §urvals›
-‹Cup Tournaments, see §cups›
-‹1. deild, see §1dd›
-‹2. deild, see §2dd›
-‹3. deild, see §3dd›
-‹4. deild, see §4dd›
-‹5. deild, see §5dd›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Urvalsdeild  ‹§urvals›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -684,13 +676,13 @@ Topscorers (overall):
 14 Orvar Eggertsson (Stjarnan)
 13 Hallgrimur Mar Steingrimsson (KA)
 13 Eidur Gauti Saebjornsson (KR)
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§cups›
 
-<!-- start pre -->
 ‹Cup 2025, see §cup› | ‹Fotbolti.net Cup 2025, see §lowleagcup›
 ‹League Cup (A deild) 2025, see §leagcup›
 ‹Super Cup 2025/26, see §sup›
@@ -1511,22 +1503,22 @@ Topscorers (overall):
 4 Emil Atlason (Stjarnan)
 4 Jonatan Ingi Jonsson (Valur)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Super Cup 2025/26  ‹§sup›
 
-<!-- start pre -->
 [Mar 29, 2026]
 Víkingur R.     4-0 Vestri
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1. deild  ‹§1dd›
 
-<!-- start pre -->
 Final Table:
 
  1.Þor A.          22  14  3  5  51-31  45       Promoted
@@ -1817,7 +1809,7 @@ HK              1-0 Leiknir R.
   [Dusan Brkovic 24og]
 ÍR              2-2 Njarðvík
   [Odinn Bjarkason 56, Sigurjon Mar Markusson 63og;
-   David Helgi Aronsson 37, Oumar Diouck 89]  .
+   David Helgi Aronsson 37, Oumar Diouck 89]   .
 Keflavík        2-2 Þor A.
   [Asgeir Pall Gudmundsson 21, Marin Brigic 68; Christian Jakobsen 36,
    Sigfus Fannar Gunnarsson 58]
@@ -2042,13 +2034,13 @@ Topscorers overall:
 12 Dagur Orri Gardarsson (HK)
 12 Dominik Radic (Njarðvík)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. deild  ‹§2dd›
 
-<!-- start pre -->
 Final Table:
 
  1.Ægir            22  14  2  6  60-35  44       Promoted
@@ -2308,7 +2300,7 @@ Kormákur/Hvöt   5-1 KFA
 Ægir            6-3 KFG
   [Dimitrije Cokic 12, 61, Atli Rafn GudJartsson 21, Jordan Adeyemo 26,
    Bjarki Runar Joninuson 78, Stefan Dabetic 82; Jon Arnar Barddal 3, 86,
-     Stefan Dabetic 59og]
+      Stefan Dabetic 59og]
 Haukar          2-2 Dalvík/Reynir
   [Oliver Thorkelsson 24, Fannar Oli Fridleifsson 90+4;
    Miguel Joao De Freitas Goncalves 15, Saevar Thor Fylkisson 84]
@@ -2445,7 +2437,7 @@ Grótta          3-2 Víkingur Ó.
    Kristofer Dan Thordarson 64; Ivan Lopez Cristobal 35,
    Hektor Bergmann Gardarsson 38]
 Kári            0-4 Ægir
-  [Atli Rafn Gudbjartsson 7,   90+1pen, Jordan Adeyemo 43,
+  [Atli Rafn Gudbjartsson 7,    90+1pen, Jordan Adeyemo 43,
    Bjarki Runar Joninuson 62]
 Kormákur/Hvöt   0-2 Þróttur V.
   [Runar Ingi Eysteinsson 11, Eythor Orri Omarsson 90+4]
@@ -2519,13 +2511,13 @@ Topscorers:
 11 Bjarki Runar Joninuson (Ægir)
 10 Fannar Oli Fridleifsson (Haukar)
 10 Marteinn Mar Sverrisson (KFA)
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 3. deild  ‹§3dd›
 
-<!-- start pre -->
 Final Table:
 
  1.Hvíti riddarinn 22  15  3  4  72-33  48       Promoted
@@ -3050,13 +3042,13 @@ Topscorers:
 16 Kolbeinn Tumi Sveinsson (Tindastóll)
 15 Hilmar Thor Solbergsson (Hvíti riddarinn)
 15 Svetislav Milosevic (Tindastólll)
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 4. deild  ‹§4dd›
 
-<!-- start pre -->
 Final Table:
 
  1.KÁ Ásvellir     18  13  5  0  78-25  44       Promoted
@@ -3438,13 +3430,13 @@ Topscorers:
 16 Petur Oskarsson (Elliði)
 15 Agust Jens Birgisson (KÁ Ásvellir)
 14 Haukur Asberg Hilmarsson (KH)
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 5. deild  ‹§5dd›
 
-<!-- start pre -->
 ‹Group Stage, see §5grp› | ‹Promotion Playoff, see §5play›
 
 Group Stage  ‹§5grp›
@@ -4046,27 +4038,10 @@ Topscorers (overall):
 21 Alexander Aron Davorsson (Álafoss)
 21 Patrekur Orri Gudjonsson (Álafoss)
 15 Helgi Valur Smarason (KFR)
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page ijs2024›.
 
-‹list of champions, see page ijschamp›.
 
-‹list of final tables, see page ijshist›.
-
-‹list of second division champions, see page ijs2champ›.
-
-‹list of second division final tables, see page ijs2hist›.
-
-‹list of cup finals, see page ijscuphist›.
-
-‹list of super cup finals, see page ijssupcuphist›.
-
-‹list of league cup finals, see page ijsleagcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

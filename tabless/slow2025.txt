@@ -1,4 +1,5 @@
   <!--
+     title:  Slovakia 2024/25
      source: https://rsssf.org/tabless/slow2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Slovakia 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Fortuna liga, see §corgon›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Fortuna liga  ‹§corgon›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -472,19 +470,10 @@ Final Table:
 -----------------------------------------------------------
 12.MFK Dukla Banská Bystrica        32   5  7 20  35-60  22       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page slow2024›.
 
-‹list of champions, see page slowchamp›.
 
-‹list of cup winners, see page slowcuphist›.
-
-‹list of topscorers, see page slowtops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

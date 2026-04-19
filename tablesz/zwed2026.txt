@@ -1,4 +1,5 @@
   <!--
+     title:  Sweden 2026
      source: https://rsssf.org/tablesz/zwed2026.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Sweden 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Allsvenskan, see §allsvenskan›
-‹Svenska Cupen 2026/27, see §cupen›
-‹Superettan, see §superettan›
-‹Ettan, see §d1›
-‹Tvåan, see §d2›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Allsvenskan  ‹§allsvenskan›
 
-<!-- start pre -->
 Current Table:
 
  1.AIK (Solna)                     0  0  0  0   0-0    0
@@ -79,13 +73,13 @@ First Leg [Nov]
 
 Second Leg [Nov]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Svenska Cupen 2026/27  ‹§cupen›
 
-<!-- start pre -->
 Group Stage
 
 Current Tables:
@@ -106,13 +100,13 @@ Group 7
 
 Group 8
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Superettan  ‹§superettan›
 
-<!-- start pre -->
 Current Table:
 
  1.Falkenbergs FF                  0  0  0  0   0-0    0
@@ -143,13 +137,13 @@ First Legs [Nov]
 
 Second Legs [Nov]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Ettan  ‹§d1›
 
-<!-- start pre -->
 South
 
 Current Table:
@@ -216,13 +210,13 @@ Final Round - First Legs
 Final Round - Second Legs
 [Nov]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Tvåan  ‹§d2›
 
-<!-- start pre -->
 Götaland South
 
 Current Table:
@@ -382,23 +376,10 @@ Norrland - Relegation Group
 
 Starts in July
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page zwed2025›
 
-‹list of champions, see page zwedchamp›
 
-‹list of final tables, see page zwedhist›
-
-‹all-time table, see page zwedalltime›
-
-‹list of cup finals, see page zwedcuphist›
-
-‹list of topscorers, see page zwedtops›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

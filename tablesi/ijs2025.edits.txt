@@ -1,0 +1,30 @@
+-- removing nav(igation) section:
+
+‹Urvalsdeild, see §urvals›
+‹Cup Tournaments, see §cups›
+‹1. deild, see §1dd›
+‹2. deild, see §2dd›
+‹3. deild, see §3dd›
+‹4. deild, see §4dd›
+‹5. deild, see §5dd›
+
+
+-- removing nav(igation) section:
+
+‹2024, see page ijs2024›.
+
+‹list of champions, see page ijschamp›.
+
+‹list of final tables, see page ijshist›.
+
+‹list of second division champions, see page ijs2champ›.
+
+‹list of second division final tables, see page ijs2hist›.
+
+‹list of cup finals, see page ijscuphist›.
+
+‹list of super cup finals, see page ijssupcuphist›.
+
+‹list of league cup finals, see page ijsleagcuphist›.
+
+

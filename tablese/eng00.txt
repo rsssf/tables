@@ -1,4 +1,5 @@
   <!--
+     title:  England 1999/2000
      source: https://rsssf.org/tablese/eng00.html
     -->
   
@@ -6,7 +7,6 @@
 
 == England 1999/2000
 
-<!-- start pre -->
 
 Premiership
 
@@ -5077,9 +5077,10 @@ Final Table:
 
 ‹list of league cup winners, see page engleagcuphist›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

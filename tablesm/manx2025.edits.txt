@@ -1,0 +1,20 @@
+-- removing nav(igation) section:
+
+‹Premier League, see §premier›
+‹Cup Tournaments, see §cups›
+‹Division Two, see §div2›
+
+
+-- removing nav(igation) section:
+
+‹2023/24, see page manx2024›
+
+‹list of champions, see page manxchamp›
+
+‹list of 2nd level champions, see page manx2champ›
+
+‹list of cup winners, see page manxcuphist›
+
+‹list of foundation dates, see page manxfound›
+
+

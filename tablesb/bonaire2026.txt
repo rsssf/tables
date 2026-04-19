@@ -1,4 +1,5 @@
   <!--
+     title:  Bonaire 2025/26
      source: https://rsssf.org/tablesb/bonaire2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Bonaire 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Kampionato 2025/26, see §kamp›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Kampionato 2025/26  ‹§kamp›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Eredivisie, see §kaya6› | ‹Eredivisie Final, see §kaya2› | ‹Tweede Divisie, see §kopaffb› | ‹Tweede Divisie Final, see §tweef›
 
 Regular Season  ‹§reg›
@@ -290,15 +288,10 @@ Arriba Perú          -  Estrellas
 
 Tweede Divisie Final  ‹§tweef›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page bonaire2024›
 
-‹list of champions, see page bonairechamp›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1954 finals
      source: https://rsssf.org/tables/54full.html
     -->
   
@@ -39,7 +40,6 @@ Matches were extended by an extra-time whenever there happened to be a
 draw after normal time. If the draw persisted after the extra time,
 the result was final.
 
-<!-- start pre -->
 
 == Group A - BRA FRA JUG MEX  ‹§gra›
 
@@ -58,7 +58,9 @@ Glovacki, Strappe, Dereuddre, Vincent
 
 NOTE: Match preceded by WC opening ceremony
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 16.06.54  (18.00) Geneva, Les Charmilles
 
@@ -73,7 +75,9 @@ Lamadrid, Balcázar, Arellano
 
 1:0 Baltazar 24, 2:0 Didi 29 f, 3:0 Pinga 34, 4:0 Pinga 42, 5:0 Julinho 90
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.06.54  (17.00) Lausanne, La Pontaise
 
@@ -88,7 +92,9 @@ Mitić (c), Vukas, Dvornić, Zebec
 
 0:1 Zebec 49, 1:1 Didi 69
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.06.54  (17.10) Geneva, Les Charmilles
 
@@ -126,7 +132,9 @@ Nak-woon, Woo Sang-kwoo, Choi Chung-min
 1:0 Puskás 11, 2:0 Lantos 16 f, 3:0 Kocsis 24, 4:0 Kocsis 31, 5:0 Kocsis 49,
 6:0 Czibor 59, 7:0 Palotás 76, 8:0 Palotás 83, 9:0 Puskás 89
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 17.06.54  (18.00) Berne, Wankdorf Stadion
 
@@ -139,7 +147,9 @@ Burhan, Lefter
 
 0:1 Suat 3, 1:1 Schäfer 12, 2:1 Klodt 51, 3:1 O.Walter 80, 4:1 Morlock 84
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 20.06.54  (16.50) Basle, St. Jakob Stadion
 
@@ -156,7 +166,9 @@ Eckel, F.Walter (c), Pfaff, Herrmann
 5:1 Hidegkuti 56, 6:1 Kocsis 69, 7:1 J.Tóth 75, 7:2 Rahn 76, 8:2 Kocsis 79,
 8:3 Hermann 84
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 20.06.54  (17.00) Geneva, Les Charmilles
 
@@ -173,7 +185,9 @@ Sang-kwon, Chung Kook-chin
 1:0 Suat 18, 2:0 Lefter 18, 3:0 Suat 30, 4:0 Burhan 38, 5:0 Burhan 64, 6:0
 Burhan 70 h, 7:0 Erol 76
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 1. HUN^         2  2 0 0  4 17-3
 2. TUR          2  1 0 1  2  8-4
@@ -211,7 +225,9 @@ Fernie, Mochan, Brown, Ormond
 
 1:0 Probst 32
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 16.06.54  (18.00) Berne, Wankdorf Stadion
 
@@ -226,7 +242,9 @@ Kačáni, Pažický, Pešek
 
 1:0 Miguez 70 h, 2:0 Schiaffino 84 f
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.06.54  (17.00) Zürich, Sportzplatz Hardturm
 
@@ -241,7 +259,9 @@ Kačáni, Pažický, Kraus
 
 1:0 Stojaspal 3, 2:0 Probst 4, 3:0 Probst 21, 4:0 Probst 24, 5:0 Stojaspal 65
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.06.54  (16.50) Basel, St.Jakob Stadion
 
@@ -278,7 +298,9 @@ Coppens, Anoul, P.van Den Bosch
 0:1 Anoul 6, 1:1 Broadis 25, 2:1 Lofthouse 37 h, 3:1 Broadis 62, 3:2 Anoul
 72 h, 3:3 Coppens 76, 4:3 Lofthouse 92, 4:4 Dickinson 93 o
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 17.06.54  (17.50) Lausanne, La Pontaise
 
@@ -293,7 +315,9 @@ Boniperti (c), Galli, Pandolfini, Lorenzi
 
 1:0 Ballaman 18 h, 1:1 Boniperti 44, 2:1 Hügi 79
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 20.06.54  (17.10) Berne, Wankdorf Stadion
 
@@ -308,7 +332,9 @@ Vonlanthen, Antenen, Meier, Fatton
 
 1:0 Mullen 43, 2:0 Wilshaw 69
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 20.06.54  (17.00) Lugano, Stadio Comunale di Cornaredo
 
@@ -331,7 +357,9 @@ Anoul 81
 
 NOTE: Playoff needed between ITA and SUI
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 23.06.54  (18.00) Basel, St.Jakob Stadion (playoff)
 
@@ -363,7 +391,9 @@ Vonlanthen, Hügi, Ballaman, Fatton
 3:3 Wagner 28, 4:3 Ocwirk 32, 5:3 A.Körner 34, 5:4 Ballaman 41, 6:4 Wagner
 52, 6:5 Hügi 60, 7:5 Probst 77 (42 A.Körner missed penalty)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 26.06.54  (17.00) Basle, St.Jakob Stadion
 
@@ -379,7 +409,9 @@ Broadis, Lofthouse, Wilshaw, Finney
 1:0 Borges 5, 1:1 Lofthouse 16, 2:1 Varela 44, 3:1 Schiaffino 47, 3:2
 Finney 67, 4:2 Ambrois 78
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 27.06.54  (17.00) Berne, Wankdorfstadion
 
@@ -397,7 +429,9 @@ Julinho 65, 4:2 Kocsis 88 h
 
 sent off: Bozsik (71) / N.Santos (71), Humberto (79)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 27.06.54  (17.00) Geneva, Les Charmilles
 
@@ -428,7 +462,9 @@ Ambrois, Hohberg, Schiaffino, Borges
 1:0 Czibor 12, 2:0 Hidegkuti 47 h, 2:1 Hohberg 76, 2:2 Hohberg 87, 3:2 Kocsis
 109 h, 4:2 Kocsis 117 h
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 30.06.54  (18.00) Basel, St.Jakob Stadion
 
@@ -444,7 +480,9 @@ Wagner, Stojaspal, Probst, A.Körner
 1:0 Schäfer 31, 2:0 Morlock 47 h, 2:1 Probst 52, 3:1 F.Walter 56 p, 4:1 O.Walter
 61 h, 5:1 F.Walter 65 p, 6:1 O.Walter 89 h
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == Third place match  ‹§3place›
 
@@ -550,4 +588,3 @@ captain     Turgay TUR     22y 33d   Varela URU         36y279d
 coach       Cejp CZE       30y129d   Sceisler ITA       60y261d
 referee     Zsolt HUN      32y364d   Vianna BRA         51y264d
 
-<!-- end pre -->

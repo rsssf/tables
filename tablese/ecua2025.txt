@@ -1,4 +1,5 @@
   <!--
+     title:  Ecuador 2025
      source: https://rsssf.org/tablese/ecua2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Ecuador 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Copa Ecuador, see §copa›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -83,13 +80,13 @@ Final Table:
 15.Técnico Universitario             36   8  9 19  31-54  33       Relegated
 16.Vinotinto FC                      36   8  8 20  40-51  32  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa Ecuador 2025  ‹§copa›
 
-<!-- start pre -->
 1/8 Finals
 [Sep 10]
 Aucas                 1-1 Dep. Cuenca           [8-9 pen]
@@ -133,35 +130,10 @@ LDU de Quito          0-1 Emelec                 [5-4 pen]
 Final [Dec 18, Quito]
 LDU de Quito          2-3 Universidad Católica
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page ecua2024›
 
-‹list of champions, see page ecuachamp›
 
-‹list of 2nd and 3rd level champions, see page ecua2champ›
-
-‹list of amateur champions guayas and pichinchas, see page ecua-amachamp›
-
-‹list of champions interandinos, see page ecuaandeschamp›
-
-‹list of champions costa, see page ecuacostachamp›
-
-‹list of provincial champions, see page ecuaprovchamp›
-
-‹list of final tables, see page ecuahist›
-
-‹all-time table, see page ecuaalltime›
-
-‹list of top scorers, see page ecuatops›
-
-‹list of 2nd level top scorers, see page ecua2tops›
-
-‹list of foundation dates clubs, see page ecuafound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

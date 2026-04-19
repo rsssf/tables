@@ -1,4 +1,5 @@
   <!--
+     title:  Crimea and South Eastern Ukraine 2025
      source: https://rsssf.org/tablesz/zooekr2025.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Crimea and South Eastern Ukraine 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Commonwealth United Championship, see §bezetoekr›
-‹Commonwealth United Cup, see §bezetoekrc›
-‹Commonwealth Winter Cup, see §bezetoekrwc›
-‹Crimea, see §krim›
-‹Donetsk PR, see §dpr›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Commonwealth United Championship 2025  ‹§bezetoekr›
 
-<!-- start pre -->
 Final Table:
 
  1.Šahtjór (Donéck)            18  16  1  1  66-15   49      Champions
@@ -349,13 +343,13 @@ Top scorers:
   Valérij Háčin (Zaporóžje Region S)    8
   Elvín Talíbov (Šahtjór Don)           8
   Nikoláj Vereténnikov (Zaporóžje RS)   8
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Commonwealth United Cup 2025  ‹§bezetoekrc›
 
-<!-- start pre -->
 PRELIMINARY STAGE
 
 [Oct 4]
@@ -504,13 +498,13 @@ Top scorers:
 4.Júrij Jakúnin (Sevastópoĺ-2)     4
   Jarosláv Júdin (Černomórec)      4
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Commonwealth Winter Cup 2025  ‹§bezetoekrwc›
 
-<!-- start pre -->
 Group Stage
 
 Round 1 [Feb 24]
@@ -558,13 +552,13 @@ Final [Mar 8]
 
 Šahtjór (Donéck)  0-2  Rubín (Yálta)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Crimea 2025  ‹§krim›
 
-<!-- start pre -->
 CFU Premier League 2025  ‹§krimpl›
 
 Final Table:
@@ -1537,13 +1531,13 @@ Final Table:
 
 CYPTC = Children and Youth Physical Training Club
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Donetsk PR 2025  ‹§dpr›
 
-<!-- start pre -->
 Winter League 2024/25  ‹§dwchamp›
 
 Round 1
@@ -1868,25 +1862,10 @@ NB: Played between the best clubs of Donetsk PR and Lugansk PR.
 Dinamo (Lugansk)  0-0 0-1  Donbass Power (Komsonoĺskoje)  [agg 0-1]
   [V.Ĺgovskij]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024 (crimea), see page ../tablesk/krim2024›
 
-‹2024 (south eastern ukraine), see page zooekr2024›
 
-‹2026, see page zooekr2026›
-
-‹list of champions (crimea), see page ../tablesk/krimchamp›
-
-‹list of champions (south eastern ukraine), see page zooekrchamp›
-
-‹list of cup winners (crimea), see page ../tablesk/krimcuphist›
-
-‹list of cup winners (south eastern ukraine), see page zooekrcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

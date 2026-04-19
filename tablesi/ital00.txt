@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 1999/2000
      source: https://rsssf.org/tablesi/ital00.html
     -->
   
@@ -6,13 +7,10 @@
 
 == Italy 1999/2000
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Extended file with line-ups (under construction), see page ital00ext›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
 
 First Level (Serie A)
 
@@ -614,7 +612,7 @@ Cagliari       2-3 Parma
   [Daniele Berretta 51, Tiziano De Patre 63; Diego Fuser 3, Marcio Amoroso 4, Mario Stanic 80]
 Lazio          2-1 Roma
   [Pavel Nedved 25, Juan Veron 28; Vincenzo Montella 3]
-Lecce         1-0 Inter
+Lecce          1-0 Inter
   [David Sesa 23]
 Perugia        1-2 Fiorentina
   [Milan Rapajic 14; Gabriel Batistuta 7, Enrico Chiesa 69]
@@ -4104,9 +4102,10 @@ Group D
 
 ‹list of 3rd division topscorers, see page ital3tops›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1974/75
      source: https://rsssf.org/tablesd/duit75.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1974/75
 
-<!-- start pre -->
 
 Final Table
 
@@ -676,9 +676,10 @@ Borussia Mönchengladbach 1974/75
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

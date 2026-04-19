@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1996/97
      source: https://rsssf.org/tablesd/duit97.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1996/97
 
-<!-- start pre -->
 
 Final Table
 
@@ -1058,9 +1058,10 @@ Team relegated from 2.Bundesliga to Regionalliga Süd:
 ‹list of foundation dates, see page duitfound›
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

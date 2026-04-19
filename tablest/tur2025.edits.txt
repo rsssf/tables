@@ -1,0 +1,24 @@
+-- removing nav(igation) section:
+
+‹Süper Lig, see §super›
+
+
+-- removing nav(igation) section:
+
+‹2023/24, see page tur2024›.
+
+‹list of champions, see page turkchamp›.
+
+‹alltime table, see page turkalltime›.
+
+‹list of cup finals, see page turkcuphist›.
+
+‹list of super cup (president's cup) finals, see page turksupcuphist›.
+
+‹list of prime minister's cup finals, see page turkvarcuphist›.
+
+‹list of final tables, see page turkhist›.
+
+‹list of topscorers, see page turktops›.
+
+

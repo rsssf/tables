@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1980/81
      source: https://rsssf.org/tablesd/duit81.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1980/81
 
-<!-- start pre -->
 
 Final Table
 
@@ -630,9 +630,10 @@ Topscorers: Karl-Heinz RUMMENIGGE (Bayern) - 29, Manfred BURGSMÜLLER
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

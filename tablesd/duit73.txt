@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1972/73
      source: https://rsssf.org/tablesd/duit73.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1972/73
 
-<!-- start pre -->
 
 Final Table
 
@@ -629,9 +629,10 @@ FC Bayern München 1972/73
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

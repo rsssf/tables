@@ -1,4 +1,5 @@
   <!--
+     title:  Niger 2025/26
      source: https://rsssf.org/tablesn/niger2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Niger 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Superligue, see §l1›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Superligue  ‹§l1›
 
-<!-- start pre -->
 Table:
 
  1.US Gendarmerie Nationale (Niamey) 15  10  5  0  24- 5  35
@@ -261,17 +259,10 @@ Table:
 15.AS Renaissance (Niamey)           15   2  4  9  11-23  10
 16.Olympic FC (Niamey)               15   2  4  9   8-24  10
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page niger2025›
 
-‹list of champions, see page nigerchamp›
 
-‹list of cup winners, see page nigercuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

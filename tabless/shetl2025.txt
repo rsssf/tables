@@ -1,4 +1,5 @@
   <!--
+     title:  Shetland Islands 2025
      source: https://rsssf.org/tabless/shetl2025.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Shetland Islands 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ocean Kinetics Premier League, see §prem›
-‹Cup Tournaments, see §cups›
-‹DITT Reserve League, see §leagueb›
-‹Jewsons Championship, see §jewson›
-‹Championship League Cup, see §chlc›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ocean Kinetics Premier League  ‹§prem›
 
-<!-- start pre -->
 Final Table:
 
  1.Whitedale         12   9  0  3  44-26  27       ‹Championship Playoff, see §chpo›
@@ -136,13 +130,13 @@ Championship Playoff   ‹§chpo›
 
 [Sep 8]
 Whitedale      2-4 Spurs
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§cups›
 
-<!-- start pre -->
 ‹Highland Fuels Cup, see §fuel› | ‹Manson Cup, see §manson› | ‹Madrid Cup, see §madrid› | ‹Fraser Cup, see §fraser› |  ‹Bloomfield Cup, see §bloom› | ‹Parish Cup, see §parish› | ‹County Shield, see §shield›
 
 Highland Fuels Cup  ‹§fuel›
@@ -281,13 +275,13 @@ Ness           4-3 Whitedale
 
 Final [Aug 30]
 Celtic         2-3 Ness
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== DITT Reserve League  ‹§leagueb›
 
-<!-- start pre -->
 Final Table:
 
  1.Whitedale B       14  11  1  2  43-16  34
@@ -298,13 +292,13 @@ Final Table:
  6.Delting           14   5  2  7  32-50  17
  7.Thistle B         14   4  1  9  30-45  13
  8.Scalloway B       14   1  0 13  17-41   3
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Jewsons Championship  ‹§jewson›
 
-<!-- start pre -->
 Final Table:
 
  1.North Isles       10   8  1  1  53-11  25
@@ -313,13 +307,13 @@ Final Table:
  4.Southside Impact  10   3  1  6  23-33  10
  5.Wastside Rebels   10   3  1  6  22-33  10
  6.Banks             10   0  2  8   9-56   2
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Championship League Cup  ‹§chlc›
 
-<!-- start pre -->
 Final Table:
 
  1.Bressay Sharks     4   3  1  0  13- 7  10
@@ -327,17 +321,10 @@ Final Table:
  3.Southside Impact   4   2  1  1  15-11   7
  4.Wastside Rebels    4   1  1  2   6- 8   4
  5.Banks              4   0  0  4   1-14   0
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page shetl2024›
 
-‹list of champions, see page shetlchamp›
 
-‹list of cup winners, see page shetlcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

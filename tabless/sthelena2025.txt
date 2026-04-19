@@ -1,4 +1,5 @@
   <!--
+     title:  Saint Helena 2025
      source: https://rsssf.org/tabless/sthelena2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Saint Helena 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹SHFA League, see §shfa›
-‹Knock-out Competition, see §shko›
-‹SHFA District League, see §dist›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== SHFA League  ‹§shfa›
 
-<!-- start pre -->
 Final Table:
 
  1.Bellboys              14  14  0  0 152-10  42       Champions
@@ -146,13 +142,13 @@ Topscorers:
 29 Kyle Shoesmith (Wirebirds)
 25 Rico Benjamin (Rovers)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Knock-out Competition  ‹§shko›
 
-<!-- start pre -->
 Round 1 [Nov 23]
 Bellboys             9-1 Fugees
 Rovers               8-2 La Verde
@@ -164,13 +160,13 @@ Rovers              12-1 Wirebirds
 
 Final [Dec 13]
 Rovers               bt  Bellboys
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== SHFA District League  ‹§dist›
 
-<!-- start pre -->
 NB: played as knock-out tournament due to time constraints
 
 Semifinals
@@ -185,17 +181,10 @@ Longwood             3-8 Jamestown
 Final [Dec 6]
 Half Tree Hollow     8-1 St Paul's
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page sthelena2024›
 
-‹list of champions, see page sthelenachamp›
 
-‹list of cup winners, see page sthelenacuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

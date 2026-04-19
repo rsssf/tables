@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2014 Qualifying
      source: https://rsssf.org/tables/2014q.html
     -->
   
@@ -16,11 +17,12 @@
     <LI>‹Oceania, see §oce›
 </LI></UL></MENU>
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Europe  ‹§eur›
 
-<!-- start pre -->
 Group A
 
  1.BELGIUM      10  8  2  0 18- 4 26
@@ -404,13 +406,13 @@ Second Legs
 19-11-13 Bucuresti       Romania       1-1 Greece
 
 NB: Croatia, France, Greece and Portugal qualified.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== South America  ‹§sam›
 
-<!-- start pre -->
 
 NB: 5th placed team qualify for playoff against 5th placed team Asia (Jordan)
 
@@ -503,13 +505,13 @@ AFC/CONMEBOL Playoff
 20-11-13 Montevideo      Uruguay       0-0 Jordan
 
 NB: Uruguay qualified.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Africa  ‹§afr›
 
-<!-- start pre -->
 
 First Stage
 
@@ -764,13 +766,13 @@ Second Legs
 19-11-13 Cairo           Egypt         2-1 Ghana
 
 NB: Algeria, Cameroon, Ghana, Ivory Coast and Nigeria qualified.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Asia  ‹§asi›
 
-<!-- start pre -->
 
 First Stage
 
@@ -1014,13 +1016,13 @@ AFC/CONMEBOL Playoff
 20-11-13 Montevideo      Uruguay       0-0 Jordan
 
 NB: Uruguay qualified.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== North and Central America  ‹§nca›
 
-<!-- start pre -->
 
 First Stage
 
@@ -1274,13 +1276,13 @@ CONCACAF/OFC Playoff
 20-11-13 Wellington      New Zealand   2-4 Mexico
 
 NB: Mexico qualified.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Oceania  ‹§oce›
 
-<!-- start pre -->
 
 Qualifying Stage
 
@@ -1372,13 +1374,14 @@ CONCACAF/OFC Playoff
 20-11-13 Wellington      New Zealand   2-4 Mexico
 
 NB: Mexico qualified.
-<!-- end pre -->
 
 ‹Overview File, see page ../tablesw/worldcup›
 
 ‹2014 Final Tournament, see page 2014f›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

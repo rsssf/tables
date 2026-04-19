@@ -1,4 +1,5 @@
   <!--
+     title:  Saint Lucia 2025
      source: https://rsssf.org/tabless/stlucia2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Saint Lucia 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Semi-Professional League 2025, see §facup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Semi-Professional League 2025  ‹§facup›
 
-<!-- start pre -->
 Tier 1  ‹§spt1›
 
 Group Stage
@@ -80,17 +78,10 @@ Final Replay [Nov 15]
 Anse-la-Raye            3-0 Vieux Fort North
 
 NB: both finalists promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page stlucia2024›
 
-‹list of champions, see page stluciachamp›
 
-‹list of cup winners, see page stluciacuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

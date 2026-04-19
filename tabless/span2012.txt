@@ -1,4 +1,5 @@
   <!--
+     title:  Spain 2011/12
      source: https://rsssf.org/tabless/span2012.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Spain 2011/12
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §laliga›
-‹Copa del Rey, see §coparey›
-‹Segunda División, see §segunda›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
-<!-- start pre -->
 Final Table:
 
  1.Real Madrid CF                38  32  4  2 121-32 100  Champions
@@ -40,13 +36,13 @@ Final Table:
 18.Villarreal CF                 38   9 14 15  39-53  41  Relegated
 19.Sporting de Gijón             38  10  7 21  42-69  37  Relegated
 20.Racing de Santander           38   4 15 19  28-63  27  Relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa del Rey  ‹§coparey›
 
-<!-- start pre -->
 Round 1 [Aug 31]
 CD Manacor                1-4 CE L'Hospitalet
 CD Tudelano               2-2 SD Ponferradina           [aet, 4-5 pen]
@@ -217,13 +213,13 @@ FC Barcelona              2-0 Valencia CF
 Final [May 25, Madrid]
 Athletic Club (Bilbao)    0-3 FC Barcelona
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- start pre -->
 Final Table:
 
  1.RC Deportivo (La Coruña)      42  29  4  9  76-45  91  Promoted
@@ -278,35 +274,10 @@ Second Leg [Jun 16]
 Valladolid                1-1 Alcorcón
 
 NB: Real Valladolid promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2010/11, see page span2011›.
 
-‹2012/13, see page span2013›.
 
-‹list of champions, see page spanchamp›.
-
-‹list of 2nd level champions, see page span2champ›.
-
-‹list of cup winners, see page spancuphist›.
-
-‹list of super cup winners, see page spansupcuphist›.
-
-‹list of league cup winners, see page spanleagcuphist›.
-
-‹list of copa rfef winners, see page spanrfefcuphist›.
-
-‹list of final tables, see page spanhist›.
-
-‹all-time table, see page spanalltime›.
-
-‹list of top scorers, see page spantops›.
-
-‹list of foundation dates, see page spanfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

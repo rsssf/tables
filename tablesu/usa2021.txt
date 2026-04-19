@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2021
      source: https://rsssf.org/tablesu/usa2021.html
     -->
   
@@ -6,15 +7,12 @@
 
 == USA 2021
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Major League Soccer, see §mls› (Division 1)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Major League Soccer  ‹§mls›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
 Regular Season  ‹§reg›
@@ -805,27 +803,10 @@ Portland Timbers       2-0 Real Salt Lake
 MLS Cup [Dec 11]
 Portland Timbers       1-1 New York City FC       [aet, 2-4 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2020, see page usa2020›
 
-‹2022, see page usa2022›
 
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

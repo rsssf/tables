@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2014 - Match Details
      source: https://rsssf.org/tables/2014full.html
     -->
   
@@ -6,9 +7,10 @@
 
 == World Cup 2014 - Match Details
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 
 World Cup 2014, Final Tournament
 
@@ -1334,13 +1336,13 @@ Official Awards
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == Statistics  ‹§stats›
 
-<!-- start pre -->
 GOALS:
 171 in 64 matches, for an average of 2.67 per match (2010: 145 for
 average of 2.26)
@@ -1359,11 +1361,12 @@ Claudio Marchisio (ITA), Wilson Palacios (HON), Pepe (POR), Maxi Pereira (URU),
 Ante Rebic (CRO), Alex Song (CAM), Antonio Valencia (ECU)
 Spectators: 3.429 million (average 53,592)
 
-<!-- end pre -->
 
 ‹overview 2014 final tournament, see page 2014f›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

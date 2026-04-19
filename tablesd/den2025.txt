@@ -1,4 +1,5 @@
   <!--
+     title:  Denmark 2024/25
      source: https://rsssf.org/tablesd/den2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Denmark 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Superligaen, see §ligaen›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Superligaen  ‹§ligaen›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -470,19 +468,10 @@ Final Table:
 11.Lyngby BK                 32   5 12 15  26-43  27       Relegated
 12.AaB                       32   5  9 18  34-67  24  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page den2024›
 
-‹list of champions, see page denchamp›
 
-‹list of cup finals, see page dencuphist›
-
-‹list of super cup finals, see page densupcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

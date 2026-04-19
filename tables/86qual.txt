@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1986 qualifications
      source: https://rsssf.org/tables/86qual.html
     -->
   
@@ -26,7 +27,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 33 teams entered, including ITA (champions). Winners and runners up of
 four groups of five teams and wiiners three groups of four teams progress
@@ -857,4 +857,3 @@ Group 15 (1985)  ‹§gr15›
 3.NZE   6   7  3  1  2  13- 7
 4.TAI   6   0  0  0  6   1-36
 
-<!-- end pre -->

@@ -1,4 +1,5 @@
   <!--
+     title:  French Polynesia 2025/26
      source: https://rsssf.org/tablest/tahiti2026.html
     -->
   
@@ -6,20 +7,12 @@
 
 == French Polynesia 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Division 1, see §div1›
-‹Mooréa, see §moorea›
 
-‹Cup Tournaments, see §coupes›
 
-Note that the point system in French Polynesia is 4/win, 2/draw, 1/loss.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ==== Division 1  ‹§div1›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -322,13 +315,13 @@ Table:
 
 NB: Tahiti U-16 were supposed to enter but eventually did not
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2 - Mooréa  ‹§moorea›
 
-<!-- start pre -->
 First Stage
 
 Final Table:
@@ -498,13 +491,13 @@ Table:
 
 NB: Tohie'a 2 bonus points for winning first stage
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§coupes›
 
-<!-- start pre -->
 ‹Coupe du Polynésie 2026, see §coupepoly› | ‹Island Cups 2025/26, see §coupeiles›
 
 Coupe du Polynésie 2026  ‹§coupepoly›
@@ -576,23 +569,10 @@ Second Legs
 Tohie'a          -  Mira 2
 Tiare Hinano     -  Tiare Tahiti
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page tahiti2025›
 
-‹list of champions, see page tahitichamp›
 
-‹list of cup winners, see page tahiticuphist›
-
-‹list of coupe des champions winners, see page tahitichampcuphist›
-
-‹foundation dates, see page tahitifound›
-
-‹french overseas territories cup, see page ../tablesf/franseaterrcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

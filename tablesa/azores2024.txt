@@ -1,4 +1,5 @@
   <!--
+     title:  Azores 2023/24
      source: https://rsssf.org/tablesa/azores2024.html
     -->
   
@@ -6,11 +7,12 @@
 
 == Azores 2023/24
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Campeonato de Futebol dos Açores 2023/24  ‹§meo›
 
-<!-- start pre -->
 Participants:
 TEAM                              CITY                ISLAND
 Vitória Clube do Pico da Pedra    Pico da Pedra       São Miguel
@@ -207,13 +209,13 @@ Final Table:
  9.FC Urzelinense              18   1  2 15  15-58   5  Relegated  [2 1 1 0 3-2 4]
 10.Benfica Águia Sport         18   0  5 13  15-42   5  Relegated  [2 0 1 1 2-3 1]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments 2023/24  ‹§cups›
 
-<!-- start pre -->
 Taça de São Miguel
 
 Final [May 1]
@@ -224,17 +226,10 @@ Taça da Ilha da Terceira
 Final [Apr 6?]
 JD Lajense           1-2 Angrense
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2022/23, see page azores2023›
 
-‹list of champions, see page azoreschamp›
 
-‹list of cup winners, see page azorescuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

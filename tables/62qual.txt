@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1962 qualifications
      source: https://rsssf.org/tables/62qual.html
     -->
   
@@ -29,7 +30,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 28 teams entered, including ISR and ETH. ROM withdrew after seeding
 Winners of seven groups progress into the finals. Winners of groups 8 and
@@ -344,4 +344,3 @@ Playoff of groups 10 and 16  ‹§play2›
 26.11. Seoul      KOR-JUG 1:3 (0:2) Ju Pang-sun - Galić (2), Jerkovic (Mak
                                     Xeun Fei HKG)
 
-<!-- end pre -->

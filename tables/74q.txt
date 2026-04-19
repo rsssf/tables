@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1974 Qualifying
      source: https://rsssf.org/tables/74q.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1974 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: West Germany
 Qualified as holders: Brazil
 
@@ -344,7 +344,6 @@ Final
 Playoff:
 13.11.73  Hong Kong       Australia        1-0 South Korea
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 74qual›
 
@@ -354,7 +353,9 @@ Playoff:
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

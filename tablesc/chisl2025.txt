@@ -1,4 +1,5 @@
   <!--
+     title:  Channel Islands 2024/25
      source: https://rsssf.org/tablesc/chisl2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Channel Islands 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Inter-Island Club Competitions, see §interisland›
-‹Guernsey, see §guernsey›
-‹Jersey, see §jersey›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Inter-Island Club Competitions  ‹§interisland›
 
-<!-- start pre -->
 ‹Upton Park Cup, see §upton›
 ‹Jeremie Cup, see §jeremie› | ‹Wheway Memorial Trophy, see §wheway› | ‹John Leatt Trophy, see §leatt›
 
@@ -70,13 +66,13 @@ John Leatt Trophy (U-16 Upton Park)  ‹§leatt›
 [May 18, Springfield, Jersey]
 Grouville             6-3 Rovers
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Guernsey  ‹§guernsey›
 
-<!-- start pre -->
 ‹Premiership, see §gprem› | ‹Guernsey FA Cup, see §gfacup›
 
 Premiership (Priaulx)  ‹§gprem›
@@ -110,13 +106,13 @@ Rovers                   3-2 St. Martin's
 Final [May 24]
 Northerners              3-2 Rovers
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Jersey  ‹§jersey›
 
-<!-- start pre -->
 ‹Premiership, see §jprem› | ‹Various Cup Tournaments, see §cups›
 
 Premiership  ‹§jprem›
@@ -180,21 +176,10 @@ Jersey Wanderers      2-1 Grouville
      Charlie Payn (c) (Harry Ecobichon 77), Andre Nunes, Jake Mulholland, Logan McGhee
      (Evan Nobes 69); manager: Dave Fitton; coach: Bob Kearsey;
    ref: Harry Walker; Toni Cardoso, Kenan Bryan; Charlie Balcombe]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page chisl2024›
 
-‹list of champions, see page chislchamp›
 
-‹list of champions lower divisions Guernsey, see page chisl2champ›
-
-‹list of cup winners, see page chislcuphist›
-
-‹list of foundation dates, see page chislfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

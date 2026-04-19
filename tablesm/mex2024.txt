@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2023/24
      source: https://rsssf.org/tablesm/mex2024.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Mexico 2023/24
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga MX, see §pdn›
-‹Campeón de Campeones, see §campcamp›
-‹Supercopa de la Liga MX (SuperCopa LMX), see §supcopa›
-‹Liga Expansión MX, see §ascenso›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga MX  ‹§pdn›
 
-<!-- start pre -->
 ‹Apertura 2023, see §1aper› | ‹Clausura 2024, see §1clau›
 
 Apertura 2023  ‹§1aper›
@@ -493,7 +488,7 @@ Final Table:
 18.Necaxa                              17   3  6  8  18-27  15
 
 Topscorers
-Player       Team    Goals
+Player          Team      Goals
 Harold Preciado          Santos         11
 Guillermo Martínez       Puebla         10
 Andre-pierre Gignac      Tigres          9
@@ -1088,7 +1083,7 @@ Final Table:
 18.Puebla                              17   1  2 14  18-43   5
 
 Topscorers
-Player       Team    Goals
+Player          Team      Goals
 Diber Cambindo           Necaxa           8
 Federico Viñas           León             8
 Uriel Antuna             Cruz Azul        8
@@ -1108,7 +1103,7 @@ Guillermo Martínez       Pumas            6
 
 Relegation Table
 
-Team      Average
+Team         Average
 América                 2.0392
 Monterrey               1.8431
 Tigres                  1.7353
@@ -1249,22 +1244,22 @@ Henry Josué Martín                      FW
 Julián Quiñones                         FW (Colombia/Mexico)
 Javairo Dilrosun                        FW (Netherlands)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Campeón de Campeones  ‹§campcamp›
 
-<!-- start pre -->
 Not held; América automatically won the trophy as winners of ‹Apertura 2023, see §1aper› and ‹Clausura 2024, see §1clau›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Supercopa de la Liga MX (SuperCopa LMX)  ‹§supcopa›
 
-<!-- start pre -->
 Between Tigres (‹Campeón de Campeones 2022-23, see page mex2023.html#campcamp›) and América (‹Campeón de Campeones 2023-24, see §campcamp›).
 
 Over one single leg [Jun 30]
@@ -1273,13 +1268,13 @@ América              2-1 Tigres
   [Javairo Dilrosun 23, Henry Josué Martín 34; Juan Brunetta 6]
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga Expansión MX  ‹§ascenso›
 
-<!-- start pre -->
 ‹Apertura 2023, see §2aper› | ‹Clausura 2024, see §2clau› | ‹Campeón de Campeones, see §2campcamp›
 
 Apertura 2023  ‹§2aper›
@@ -1934,23 +1929,23 @@ Gabriel Rodríguez     Cancún FC           9
 
 Relegation Table
 
-Team      Average
-Atlante                 1.7872
-Club Celaya              1.7660
-Leones Negros           1.7234
-Venados FC              1.5213
-Atlético Morelia      1.4894
-Cimarrones              1.4681
-Mineros                 1.3404
-Tapatío      1.3298
-Alebrijes               1.2872
-Cancún FC             1.2660
-Tepatitlán FC            1.2447
-Dorados Sinaloa         1.2234
+Team         Average
+Atlante                  1.7872
+Club Celaya               1.7660
+Leones Negros            1.7234
+Venados FC               1.5213
+Atlético Morelia       1.4894
+Cimarrones               1.4681
+Mineros                  1.3404
+Tapatío        1.3298
+Alebrijes                1.2872
+Cancún FC              1.2660
+Tepatitlán FC             1.2447
+Dorados Sinaloa          1.2234
 ------------------------------
-Correcaminos UAT        1.2128 (*)
+Correcaminos UAT         1.2128 (*)
 La Paz                  1.2021 (*)
-Tlaxcala FC              1.0745 (*)
+Tlaxcala FC               1.0745 (*)
 ------------------------------
 
 (*) Due to suspension of Promotion and Relegation the last 3 teams of the relegation table were fined with:
@@ -2031,27 +2026,10 @@ Estadio de la Ciudad de los Deportes (Azulgrana), Ciudad de México
 Atlante          0-0 Cancún FC        [aet; 1-3pen]
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2022/23, see page mex2023›.
 
-‹2024/25, see page mex2025›.
 
-‹list of champions, see page mexchamp›.
-
-‹list of final tables, see page mexhist›.
-
-‹list of divisional movements, see page mexall›.
-
-‹list of cup winners, see page mexcuphist›.
-
-‹list of super cup winners, see page mexsupcup›.
-
-‹list of topscorers, see page mextops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

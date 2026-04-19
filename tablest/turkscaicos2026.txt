@@ -1,4 +1,5 @@
   <!--
+     title:  Turks and Caicos Islands 2025/26
      source: https://rsssf.org/tablest/turkscaicos2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Turks and Caicos Islands 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Provo Premier League 2025/26, see §ppl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Provo Premier League 2025/26  ‹§ppl›
 
-<!-- start pre -->
 ‹Apertura, see §aper› | ‹Clausura, see §clau› | ‹Final, see §fin›
 
 Apertura  ‹§aper›
@@ -199,17 +197,10 @@ PPL Final  ‹§fin›
 
 NB: between SWA Sharks FC (winners ‹Apertura, see §aper›) and winners ‹Clausura, see §clau›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page turkscaicos2025›
 
-‹list of champions, see page turkscaicoschamp›
 
-‹list of cup winners, see page turkscaicoscuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

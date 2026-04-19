@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2012
      source: https://rsssf.org/tablesu/usa2012.html
     -->
   
@@ -6,16 +7,12 @@
 
 == USA 2012
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Major League Soccer, see §mls› (Division 1)
-‹US Open Cup, see §open›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Major League Soccer  ‹§mls›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
 Regular Season  ‹§reg›
@@ -123,13 +120,13 @@ Los Angeles Galaxy         3-1 Houston Dynamo
 
 NB: both finalists had to qualify through the wild card games; both had also
     contested the 2011 final, also won by Los Angeles Galaxy
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== US Open Cup  ‹§open›
 
-<!-- start pre -->
 Fourth Round [Jun 5]
 Carolina RailHawks         1-2 Chivas USA
 D.C. United                1-2 Philadelphia Union         [aet]
@@ -152,27 +149,10 @@ Seattle Sounders           4-1 Chivas USA
 
 Final [Aug 8]
 Sporting Kansas City       1-1 Seattle Sounders           [aet, 3-2 pen]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2011, see page usa2011›
 
-‹2013, see page usa2013›
 
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Georgia 2026
      source: https://rsssf.org/tablesg/geor2026.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Georgia 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Crystalbet Erovnuli Liga, see §umaglesi›
-‹Crystalbet Erovnuli Liga 2, see §erovnuli2›
-‹Liga 3, see §liga3›
-‹Liga 4, see §liga4›
-‹Regionuli Liga, see §liga5›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Crystalbet Erovnuli Liga  ‹§umaglesi›
 
-<!-- start pre -->
 Table:
 
  1.Spaeri (Tbilisi)        5   3  0  2  11- 8   9  [P]
@@ -344,13 +338,13 @@ Meshaxte     -  Gagra GU
 Dila         -  Spaeri
 Dinamo Tb    -  Samgurali
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Crystalbet Erovnuli Liga 2  ‹§erovnuli2›
 
-<!-- start pre -->
 Table:
 
  1.Merani (Martvili)        5   2  2  1   6- 4   8
@@ -673,13 +667,13 @@ Merani Mart  -  Samtredia
 Telavi       -  Odishi 1919
 Kolxeti Pht  -  Gori
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga 3  ‹§liga3›
 
-<!-- start pre -->
 Table:
 
  1.Gonio (Batumi)               4   3  1  0   5- 1  10  [R]
@@ -1100,13 +1094,13 @@ Gonio          -  Kolxeti Xobi
 Iberia-2       -  Iberia 2010
 Lokomotivi     -  Iveria Xash
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga 4  ‹§liga4›
 
-<!-- start pre -->
 Table:
 
  1.West Georgia (Batumi)     1   1  0  0   6- 2   3  [P]
@@ -1480,13 +1474,13 @@ Baxmaro        -  Samcxe
 Borjomi        -  West Georgia
 Lokomotivi-2   -  Aragvi-2
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regionuli Liga  ‹§liga5›
 
-<!-- start pre -->
 Departed: Algeti-2 (Marneuli), FC Borjomi-2, BSU (Batumi), Chibati (Lanchxuti),
           FC Chilovani, Chixura (Sachxere), Samegrelo (Chxorocqu),
           Shturmi-2 (Sartichala), Vazisubani (Tbilisi), FC Xoni 2024.
@@ -2013,21 +2007,10 @@ Odishi-2      -  Sapovnela
 
 PROMOTION PLAYOFF  ‹§5prom›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page geor2025›
 
-‹list of champions, see page georchamp›.
 
-‹list of cup winners, see page georcuphist›.
-
-‹list of super cup winners, see page georsupcuphist›.
-
-‹list of topscorers, see page geortops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

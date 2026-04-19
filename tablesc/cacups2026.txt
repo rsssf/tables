@@ -1,4 +1,5 @@
   <!--
+     title:  Central American Club Competitions 2025/26
      source: https://rsssf.org/tablesc/cacups2026.html
     -->
   
@@ -6,7 +7,9 @@
 
 == Central American Club Competitions 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 <menu>
 <li>‹Copa Centroamericana 2025, see §copacen›</li>
@@ -17,11 +20,12 @@
 
 ‹overview, see page ca1› | ‹2024/25, see page cacups2024›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === Copa Centroamericana 2025  ‹§copacen›
 
-<!-- start pre -->
 Qualified teams:
 
 Belize (1):      Verdes FC (2024-25 Belize Premier League Super Cup winners).
@@ -235,13 +239,13 @@ LD Alajuelense           CRi  Xelajú MC                Gua   1-1  1-1  2-2 aet 
 
 LD Alajuelense qualified to Round of 16 ‹CONCACAF Champions Cup 2026, see §cc›
 Xelajú MC, Olimpia and Real España qualified to Round 1 ‹CONCACAF Champions Cup 2026, see §cc›
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === CONCACAF Champions Cup 2026  ‹§cc›
 
-<!-- start pre -->
 North American zone:
 
 Mexico qualification (6):  Round of 16:
@@ -352,11 +356,12 @@ FC Cincinnati            USA  Tigres UANL              Mex    -    -    -
 x 2nd leg in Puebla
 y 2nd leg in Spokane
 
-<!-- end pre -->
 
 ‹overview, see page ca1› | ‹2024/25, see page cacups2025›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

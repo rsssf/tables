@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2006 - Match Details
      source: https://rsssf.org/tables/2006full.html
     -->
   
@@ -6,7 +7,9 @@
 
 == World Cup 2006 - Match Details
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 <menu>
 <ul>
@@ -32,11 +35,12 @@
 </ul>
 </menu>
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group A  ‹§gra›
 
-<!-- start pre -->
 [Jun 9]
 
 In Munich (FIFA World Cup Stadium)
@@ -157,13 +161,13 @@ Man-of-the-Match: Bartosz Bosacki (Poland).
      2.ECUADOR            3   2   0   1   5   3   6
      3.Poland             3   1   0   2   2   4   3
      4.Costa Rica         3   0   0   3   3   9   0
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group B  ‹§grb›
 
-<!-- start pre -->
 [Jun 10]
 
 In Dortmund (FIFA World Cup Stadium)
@@ -279,13 +283,13 @@ Man-of-the-Match: Julio Dos Santos (Paraguay).
      2.SWEDEN             3   1   2   0   3   2   5
      3.Paraguay           3   1   0   2   2   2   3
      4.Trinidad & Tobago  3   0   1   2   0   4   1
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group C  ‹§grc›
 
-<!-- start pre -->
 [Jun 10]
 
 In Hamburg (FIFA World Cup Stadium)
@@ -408,13 +412,13 @@ Man-of-the-Match: Aruna Dindane (Ivory Coast).
      2.NETHERLANDS        3   2   1   0   3   1   7
      3.Ivory Coast        3   1   0   2   5   6   3
      4.Serbia-Montenegro  3   0   0   3   2  10   0
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group D  ‹§grd›
 
-<!-- start pre -->
 [Jun 11]
 
 In Nuremberg (Franken-Stadion)
@@ -529,13 +533,13 @@ Man-of-the-Match: Ze Kalanga (Angola).
      2.MEXICO             3   1   1   1   4   3   4
      3.Angola             3   0   2   1   1   2   2
      4.Iran               3   0   1   2   2   6   1
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group E  ‹§gre›
 
-<!-- start pre -->
 [Jun 12]
 
 In Gelsenkirchen (FIFA World Cup Stadium)
@@ -656,13 +660,13 @@ Man-of-the-Match: Stephen Appiah (Ghana).
      2.GHANA              3   2   0   1   4   3   6
      3.Czech Republic     3   1   0   2   3   4   3
      4.United States      3   0   1   2   2   6   1
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group F  ‹§grf›
 
-<!-- start pre -->
 [Jun 12]
 
 In Kaiserslautern (Fritz-Walter-Stadion)
@@ -776,13 +780,13 @@ Man-of-the-Match: Harry Kewell (Australia).
      2.AUSTRALIA          3   1   1   1   5   5   4
      3.Croatia            3   0   2   1   2   3   2
      4.Japan              3   0   1   2   2   7   1
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group G  ‹§grg›
 
-<!-- start pre -->
 [Jun 13]
 
 In Frankfurt (FIFA World Cup Stadium)
@@ -901,13 +905,13 @@ Man-of-the-Match: Alexander Frei (Switzerland).
      2.FRANCE             3   1   2   0   3   1   5
      3.Korea Republic     3   1   1   1   3   4   4
      4.Togo               3   0   0   3   1   6   0
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group H  ‹§grh›
 
-<!-- start pre -->
 [Jun 14]
 
 In Leipzig (Zentralstadion)
@@ -1023,13 +1027,13 @@ Man-of-the-Match: Anatoliy Tymoschuk (Ukraine).
      2.UKRAINE            3   2   0   1   5   4   6
      3.Tunisia            3   0   1   2   3   6   1
      4.Saudi Arabia       3   0   1   2   2   7   1
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1/8 Finals  ‹§8f›
 
-<!-- start pre -->
 [Jun 24]
 
 In Munich (FIFA World Cup Stadium)
@@ -1188,13 +1192,13 @@ FRA: 16-Fabien Barthez; 19-Willy Sagnol, 15-Lilian Thuram, 5-William
 Booked: ESP - Puyol 82.
         FRA - Vieira 68, Ribery 87, Zidane 90+.
 Man-of-the-Match: Patrick Vieira (France).
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Quarterfinals  ‹§qf›
 
-<!-- start pre -->
 [Jun 30]
 
 In Berlin (Olympiastadion)
@@ -1285,13 +1289,13 @@ FRA: 16-Fabien Barthez; 19-Willy Sagnol, 15-Lilian Thuram, 5-William
 Booked: BRA - Cafu 25, Juan 45, Ronaldo 45+2, Lucio 75.
         FRA - Sagnol 74, Saha 87, Thuram 88.
 Man-of-the-Match: Zinedine Zidane (France).
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Semifinals  ‹§sf›
 
-<!-- start pre -->
 [Jul 4]
 
 In Dortmund (FIFA World Cup Stadium)
@@ -1332,13 +1336,13 @@ FRA: 16-Fabien Barthez; 19-Willy Sagnol, 15-Lilian Thuram, 5-William
 Booked: POR - Carvalho 82.
         FRA - Saha 87.
 Man-of-the-Match: Lilian Thuram (France).
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Third Place Match  ‹§3m›
 
-<!-- start pre -->
 [Jul 8]
 
 In Stuttgart (Gottlieb-Daimler-Stadion)
@@ -1358,13 +1362,13 @@ POR: 1-Ricardo Pereira; 2-Paulo Ferreira, 5-Fernando Meira, 4-Ricardo
 Booked: GER - Frings 7, Schweinsteiger 78.
         POR - Ricardo Costa 24, Costinha 33, Paulo Ferreira 60.
 Man-of-the-Match: Bastian Schweinsteiger (Germany).
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Final  ‹§fin›
 
-<!-- start pre -->
 [Jul 9]
 
 In Berlin (Olympiastadion)
@@ -1408,13 +1412,13 @@ How the penalty shootout played out:
 4-3 France: Willy Sagnol converts his penalty.
 5-3 Italy: Fabio Grosso beats Barthez who dives right, with the ball
     going to his left.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == Goalscorers  ‹§scorers›
 
-<!-- start pre -->
 5 - Miroslav Klose (Germany);
 3 - Thierry Henry (France), Zinedine Zidane (France), Fernando Torres
     (Spain), Lukas Podolski (Germany), Maxi Rodriguez (Argentina),
@@ -1464,13 +1468,13 @@ OG - Carlos Gamarra (Paraguay), Brent Sancho (Trinidad & Tobago),
     Study Group as the scorer of their first goal in the second round
     match against Mexico even though he appeared not to have made
     contact with the ball.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == Awards  ‹§awards›
 
-<!-- start pre -->
 Tournament's Best Player:
 adidas Golden Ball - Zinedine Zidane (France) - 2,012 points
 adidas Silver Ball - Fabio Cannavaro (Italy) - 1,977 points
@@ -1483,13 +1487,13 @@ Gillette Best Young Player - Lukas Podolski (Germany)
 Most Entertaining Team - Portugal
 Lev Yashin (Best Goalkeeper) - Gianluigi Buffon (Italy)
 FIFA Fair Play Trophy - Brazil and Spain
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == Statistics  ‹§stats›
 
-<!-- start pre -->
 GOALS:
 147 in 64 matches, for an average of 2.30 per match (2002: 161 for
 average of 2.52)
@@ -1512,13 +1516,13 @@ Perez (MEX), Polak (CZE), Pope (USA), Rooney (ENG), Simic (CRO),
 Simunic (CRO), Sobolewski (POL),  Ujfalusi (CZE), Vashchuk (UKR),
 Zidane (FRA)
 Spectators: 3.367 million (average 52,609)
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == Squads  ‹§squads›
 
-<!-- start pre -->
 NB: below are the squad lists as submitted by the May 15 FIFA deadline;
     various changes happened since which have not yet been included here.
 
@@ -1989,11 +1993,12 @@ MF: DaMarcus Beasley (PSV Eindhoven), Bobby Convey (Reading), Clint
 FW: Brian Ching (Houston), Eddie Johnson (Kansas City Wizards), Brian
     McBride (Fulham), Josh Wolff (Kansas City Wizards).
 
-<!-- end pre -->
 
 ‹overview 2006 final tournament, see page 2006f›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

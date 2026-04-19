@@ -1,4 +1,5 @@
   <!--
+     title:  Saint Kitts and Nevis 2025/26
      source: https://rsssf.org/tabless/stkitts2026.html
     -->
   
@@ -6,16 +7,13 @@
 
 == Saint Kitts and Nevis 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Saint Kitts, see §kitts›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Saint Kitts  ‹§kitts›
 
 ‹SKNFA Digicel Super League 2025/26, see §sknsuper›
-<!-- start pre -->
 SKNFA Digicel Super League 2025/26  ‹§sknsuper›
 
 ‹Regular Phase, see §reg› | ‹Super Four, see §fin4› | ‹Championship Final, see §sknsupchfin›
@@ -245,17 +243,10 @@ Second Leg [May 16]
 Third Leg [May 20, if necessary]
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page stkitts2025›
 
-‹list of champions, see page stkittschamp›
 
-‹list of cup winners, see page stkittscuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

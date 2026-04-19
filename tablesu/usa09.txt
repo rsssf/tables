@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2009
      source: https://rsssf.org/tablesu/usa09.html
     -->
   
@@ -6,9 +7,10 @@
 
 == USA 2009
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 Major League Soccer
 
 Regular Season
@@ -1339,9 +1341,10 @@ CHAMPIONSHIP:            Pali defeated Washington 2-1
 
 ‹MLS all-time table, see page usaalltime›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

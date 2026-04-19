@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 2000/01
      source: https://rsssf.org/tablesd/duit01.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 2000/01
 
-<!-- start pre -->
 NB: this file contains 1st to 3rd level; there is also a file on the
     ‹4th level 2000/01, see page duit4-01›.
 
@@ -1625,9 +1625,10 @@ SpVgg Ansbach                (Bayern)
 
 ‹list of foundation dates, see page duitfound›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

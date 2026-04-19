@@ -1,4 +1,5 @@
   <!--
+     title:  New Zealand 2025
      source: https://rsssf.org/tablesn/nz2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == New Zealand 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹National League 2025, see §nat›
-‹Chatham Cup 2025, see §chat›
-‹Regional Leagues (Lower Levels), see §lreg›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== National League 2025  ‹§nat›
 
-<!-- start pre -->
 ‹Regional Leagues (Top Level), see §reg› | ‹Championship Phase, see §champ›
 Regional Leagues (Top Level)  ‹§reg›
 
@@ -228,13 +224,13 @@ Final  ‹§chfin›
 Final [Dec 13, Newtown Park, Wellington]
 Wellington Olympic  2-2 Auckland City       [aet, 6-7 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Chatham Cup 2025  ‹§chat›
 
-<!-- start pre -->
 Round 4
 Northern Region
 [Jul 4]
@@ -266,13 +262,13 @@ Eastern Suburbs         1-1 Wellington Olympic      [aet, 3-4 pen]
 
 Final [Sep 7, North Harbour Stadium, Albany]
 Wellington Olympic      4-2 Auckland United
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regional Leagues (Lower Levels)  ‹§lreg›
 
-<!-- start pre -->
 ‹Northern League, see §lnorth› | ‹Central League, see §lcentr› | ‹Southern League, see §lsouth›
 
 Northern League (Federation 1, 2 en 3)  ‹§lnorth›
@@ -474,29 +470,10 @@ Halswell United         3-1 2-3 FC Nelson
 Halswell United         1-4 0-3 Northern
 
 NB: Northern Association FC promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page nz2024›
 
-‹list of champions, see page nzchamp›.
 
-‹list of final tables, see page nzhist›.
-
-‹all-time tables, see page nzalltime›.
-
-‹list of cup winners, see page nzcuphist›.
-
-‹list of brown shield winners, see page nz-brownhist›.
-
-‹list of fa trophy winners, see page nz-trophyhist›.
-
-‹list of various cup finals, see page nz-varcuphist›
-
-‹list of inter-island matches, see page nz-interisland›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

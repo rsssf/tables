@@ -1,4 +1,5 @@
   <!--
+     title:  Sierra Leone 2025/26
      source: https://rsssf.org/tabless/sier2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Sierra Leone 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League 2025/26, see §premier›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League 2025/26  ‹§premier›
 
-<!-- start pre -->
 Table:
 
  1.Star Sport Academy   19  10  8  1  23- 9  38
@@ -390,17 +388,10 @@ Table:
 17.Diamond Stars        19   4  5 10  16-27  17
 18.Luawa                19   2  8  9  11-24  14
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page sier2025›
 
-‹list of champions, see page sierchamp›
 
-‹list of cup winners, see page siercuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

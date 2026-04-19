@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 2016/17
      source: https://rsssf.org/tablesd/duit2017.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Germany 2016/17
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹1. Bundesliga, see §1bl›
-‹DFB Pokal, see §dfbpokal›
-‹2. Bundesliga, see §2bl›
-‹3. Liiga, see §3bl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== 1. Bundesliga  ‹§1bl›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34  25  7  2  89-22  82  [C]  Champions
@@ -562,13 +557,13 @@ Second Leg [May 29]
 Braunschweig    0-1 Wolfsburg
 
 NB: both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== DFB Pokal  ‹§dfbpokal›
 
-<!-- start pre -->
 Round 1
 [Aug 19]
 Carl Zeiss Jena        0-5 Bayern München
@@ -656,13 +651,13 @@ Bayern München         2-3 Borussia Dortmund
 
 Final [May 27, Berlin]
 Borussia Dortmund      2-1 Eintracht Frankfurt
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. Bundesliga  ‹§2bl›
 
-<!-- start pre -->
 Final Table:
 
  1.VfB Stuttgart                34  21  6  7  63-37  69  [R]  Promoted
@@ -700,13 +695,13 @@ NB: TSV 1860 München relegated, Jahn Regensburg promoted;
     as TSV 1860 München cannot fulful the license conditions for the third level,
     they are demoted to the fourth level
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 3. Liga  ‹§3bl›
 
-<!-- start pre -->
 Final Table:
 
  1.MSV Duisburg                 38  18 14  6  52-32  68        [R]  Promoted
@@ -754,51 +749,10 @@ Carl Zeiss Jena 0-1 Viktoria Köln
 
 NB: SpVgg Unterhaching, SV Meppen and Carl Zeiss Jena promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2015/16, see page duit2016›
 
-‹2017/18, see page duit2018›
 
-‹list of champions, see page duitchamp›
-
-‹all-time table, see page duialltime›
-
-‹list of 2nd level champions, see page duit2champ›
-
-‹list of amateur champions, see page duitamachamp›
-
-‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
-
-‹oberliga nord 1945-1963, see page duit-ol-nord4563›
-
-‹oberliga süd 1945-1963, see page duit-ol-sued4563›
-
-‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
-
-‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
-
-‹oberliga west 1945-1963, see page duit-ol-west4563›
-
-‹regionalliga nord 63-74, see page dui3nordhist›
-
-‹regionalliga süd 63-74, see page dui3suedhist›
-
-‹regionalliga west 63-74, see page dui3westhist›
-
-‹list of cup finals, see page duitcuphist›
-
-‹list of super and league cup finals, see page duitsupcuphist›
-
-‹list of topscorers, see page duittops›
-
-‹list of 2nd level topscorers, see page duit2tops›
-
-‹list of foundation dates, see page duitfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

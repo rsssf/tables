@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1978 qualifications
      source: https://rsssf.org/tables/78qual.html
     -->
   
@@ -24,7 +25,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 32 teams entered, including GER (champions). Winners of nine groups
 (four groups of four teams and five groups of three teams) progress into
@@ -692,4 +692,3 @@ Second Round
 
 2 teams entered, alloted to the Asian zone (see ‹§gr13›Group 13)
 
-<!-- end pre -->

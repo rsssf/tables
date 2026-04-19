@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2022/23
      source: https://rsssf.org/tablesi/ital2023.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Italy 2022/23
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Serie B, see §serieb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.SSC Napoli          38  28  6  4  77-28  90                   Champions
@@ -681,13 +677,13 @@ Spezia          1-3 Hellas Verona
 
 NB: Spezia relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
-<!-- start pre -->
 Preliminary Round
 [Jul 30]
 Südtirol        1-3 Feralpisalò
@@ -823,13 +819,13 @@ Inter: Handanovic, Darmian, Acerbi, Bastoni (57 de Vrij), Dumfries, Barella, Bro
   Calhanoglu (83 Gagliardini), Dimarco (67 Gosens), Lautaro Martinez (83 Correa), Dzeko
   (57 Lukaku). Tr.: S. Inzaghi
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
 
 Regular Season  ‹§2reg›
@@ -906,33 +902,10 @@ Second Leg [Jun 1]
 Brescia         1-1 Cosenza
 
 NB: Brescia relegated but reinstated after exclusion Reggina
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2021/22, see page ital2022›.
 
-‹2023/24, see page ital2024›.
 
-‹list of champions, see page italchamp›.
-
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

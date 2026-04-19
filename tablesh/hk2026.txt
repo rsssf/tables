@@ -1,4 +1,5 @@
   <!--
+     title:  Hongkong 2025/26
      source: https://rsssf.org/tablesh/hk2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Hongkong 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Hong Kong Premier League, see §first›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Hong Kong Premier League  ‹§first›
 
-<!-- start pre -->
 Table:
 
  1.Crownity North District  4   3  0  1   8- 3   9
@@ -75,25 +73,10 @@ Table:
  9.KC Southern              3   0  1  2   2- 6   1
 10.Hong Kong Football Club  4   0  0  4   1-10   0
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page hk2025›.
 
-‹list of champions, see page hkchamp›.
 
-‹list of 2nd level champions, see page hk2champ›.
-
-‹list of senior shield winners and runners-up, see page hkshieldhist›.
-
-‹list of fa cup winners, see page hkfacuphist›.
-
-‹list of viceroy cup winners and runners-up, see page hkviceroyhist›.
-
-‹list of foundation dates, see page hkfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

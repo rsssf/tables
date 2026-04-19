@@ -1,4 +1,5 @@
   <!--
+     title:  Spain 2012/13
      source: https://rsssf.org/tabless/span2013.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Spain 2012/13
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §laliga›
-‹Copa del Rey, see §coparey›
-‹Segunda División, see §segunda›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Barcelona                  38  32  4  2 115-40 100  Champions
@@ -644,13 +640,13 @@ Final Table:
 18.RCD Mallorca (Palma de M.)    38   9  9 20  43-72  36  Relegated
 19.RC Deportivo (La Coruña)      38   8 11 19  47-70  35  Relegated
 20.Real Zaragoza                 38   9  7 22  37-62  34  Relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa del Rey  ‹§coparey›
 
-<!-- start pre -->
 Round 1
 [Aug 29]
 SD Noja                   3-2 SD Amorebieta             [aet]
@@ -824,13 +820,13 @@ Sevilla FC                2-2 Atlético de Madrid
 Final [May 17, Madrid]
 Real Madrid CF            1-2 Atlético de Madrid        [aet]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- start pre -->
 Final Table:
 
  1.Elche CF                      42  23 13  6  54-27  82  Promoted
@@ -886,35 +882,10 @@ Almería                   3-0 Girona
 
 NB: UD Almería promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2011/12, see page span2012›.
 
-‹2013/14, see page span2014›.
 
-‹list of champions, see page spanchamp›.
-
-‹list of 2nd level champions, see page span2champ›.
-
-‹list of cup winners, see page spancuphist›.
-
-‹list of super cup winners, see page spansupcuphist›.
-
-‹list of league cup winners, see page spanleagcuphist›.
-
-‹list of copa rfef winners, see page spanrfefcuphist›.
-
-‹list of final tables, see page spanhist›.
-
-‹all-time table, see page spanalltime›.
-
-‹list of top scorers, see page spantops›.
-
-‹list of foundation dates, see page spanfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

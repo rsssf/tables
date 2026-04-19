@@ -1,0 +1,22 @@
+-- removing nav(igation) section:
+
+‹Kategoria Superiore, see §super›
+‹Kupa e Shqipërisë, see §kupa›
+‹Liga e parë, see §pare›
+‹Liga e dytë, see §dyte›
+‹Liga e tretë, see §trete›
+
+
+-- removing nav(igation) section:
+
+‹2023/24, see page alba2024›.
+
+‹list of champions, see page albachamp›.
+
+‹list of cup winners, see page albacuphist›.
+
+‹list of super cup winners, see page albasupcuphist›.
+
+‹list of foundation dates, see page albafound›.
+
+

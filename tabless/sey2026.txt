@@ -1,4 +1,5 @@
   <!--
+     title:  Seychelles 2025/26
      source: https://rsssf.org/tabless/sey2026.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Seychelles 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §prem›
-‹Premier League Tournament, see §plt›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§prem›
 
-<!-- start pre -->
 Table:
 
  1.Foresters (Mont Fleuri)                 14  10  0  4  30-16  30
@@ -245,13 +242,13 @@ St Michel           -  Revengers
 Lightstars          -  St Louis
 Foresters           -  Côte d'Or
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Premier League Tournament  ‹§plt›
 
-<!-- start pre -->
 NB: novel pre-season tournament between top level clubs
 
 Group Stage
@@ -363,17 +360,10 @@ PTL Bazar Brothers 3-2 Lightstars
 Final [Oct 18]
 PTL Bazar Brothers 1-2 Real Maldives
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page sey2025›
 
-‹list of champions, see page seychamp›
 
-‹list of cup winners, see page seycuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

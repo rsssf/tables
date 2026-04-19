@@ -1,4 +1,5 @@
   <!--
+     title:  Guinea Bissau 2025/26
      source: https://rsssf.org/tablesg/gbis2026.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Guinea Bissau 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹I Divisão, see §1div›
-‹Campeonato Nacional da 2.ª Divisão, see §2div›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== I Divisão  ‹§1div›
 
-<!-- start pre -->
 NB: Sporting Clube da Guiné-Bissau only club to have never been relegated.
 
 Participants:
@@ -235,13 +232,13 @@ Table:
 15.FC Tigre de Fronteira    12   2  1  9   5-26   7
 16.Flamengo de Pefine       12   1  3  8   9-19   6
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Campeonato Nacional da 2.ª Divisão  ‹§2div›
 
-<!-- start pre -->
 Participants:
 Team                                           City         Province
 Ajuda Sport Clube                              Bissau          Sector Autónomo de Bissau
@@ -280,143 +277,136 @@ First stage
 Tables:
 
 Série A
- 1.GDR Quelelé       3   2  1  0   4- 1   7
+ 1.GDR Quelelé         3   2  1  0   4- 1   7
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Academia MEPA     3   2  1  0   4- 1   7
- 3.Estrela Negra Bissau     3   2  0  1   7- 2   6
- 4.FB/Ténis Clube     3   1  1  1   3- 3   4
- 5.Bijagós FC       3   1  1  1   1- 1   4
- 6.Ajuda Sport Clube     3   0  2  1   2- 4   2
- 7.FC Safim          3   0  2  1   2- 4   2
- 8.UDR Ondame       3   0  0  3   2- 9   0
+ 2.Academia MEPA      3   2  1  0   4- 1   7
+ 3.Estrela Negra Bissau      3   2  0  1   7- 2   6
+ 4.FB/Ténis Clube      3   1  1  1   3- 3   4
+ 5.Bijagós FC         3   1  1  1   1- 1   4
+ 6.Ajuda Sport Clube      3   0  2  1   2- 4   2
+ 7.FC Safim           3   0  2  1   2- 4   2
+ 8.UDR Ondame         3   0  0  3   2- 9   0
 
 Série B
- 1.Vitória FC Cacheu     3   2  1  0   6- 2   7 [A]
+ 1.Vitória FC Cacheu      3   2  1  0   6- 2   7 [A]
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.CDR Farim       3   2  1  0   3- 1   7
- 3.ADR Mansabá       3   1  2  0   3- 2   5
- 4.SC Pitche       3   1  1  1   3- 3   4
- 5.Binar FC       3   1  0  2   2- 3   3
+ 2.CDR Farim         3   2  1  0   3- 1   7
+ 3.ADR Mansabá         3   1  2  0   3- 2   5
+ 4.SC Pitche         3   1  1  1   3- 3   4
+ 5.Binar FC         3   1  0  2   2- 3   3
  6.Nuno Tristão FC         3   0  2  1   0- 1   2 [R]
- 7.Académico Ingoré FC     3   0  2  1   3- 6   2
- 8.Atlético de Bissorã     3   0  1  2   1- 3   1
+ 7.Académico Ingoré FC      3   0  2  1   3- 6   2
+ 8.Atlético de Bissorã      3   0  1  2   1- 3   1
 
 Série C
- 1.Sporting de Bafatá     3   3  0  0   7- 1   9
+ 1.Sporting de Bafatá      3   3  0  0   7- 1   9
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.FC Tombali       3   2  1  0   3- 1   7
- 3.FC Os Lagartos     3   2  0  1   5- 1   6
- 4.FC Quinara       3   1  1  1   1- 1   4
+ 2.FC Tombali         3   2  1  0   3- 1   7
+ 3.FC Os Lagartos      3   2  0  1   5- 1   6
+ 4.FC Quinara         3   1  1  1   1- 1   4
  5.Djata FC Fulacunda      3   1  0  2   4- 7   3
- 6.Estrela Cantanhêz FC     3   1  0  2   2- 6   3
- 7.Futebol Clube Buba     3   0  1  2   1- 3   1
+ 6.Estrela Cantanhêz FC      3   1  0  2   2- 6   3
+ 7.Futebol Clube Buba      3   0  1  2   1- 3   1
  8.Estrela Negra Bolama    3   0  1  2   0- 3   1
 
 Round 1
 Série A
 [Mar 22]
-FC Safim   0-2 EN Bissau
-Ajuda Sport   1-3 GDR Quelelé
-FB/Ténis Clube   3-2 UDR Ondame
+FC Safim    0-2 EN Bissau
+Ajuda Sport    1-3 GDR Quelelé
+FB/Ténis Clube    3-2 UDR Ondame
 [Mar 23]
-Academia MEPA   1-0 Bijagós FC
+Academia MEPA    1-0 Bijagós FC
 Série B [Mar 22]
-Binar FC         1-2 CDR Farim      [at Bissau]
+Binar FC         1-2 CDR Farim         [at Bissau]
 Nuno Tristão FC  0-0 Acad. Ingoré
-ADR Mansabá   0-0 Atlético Bissorã
-Vitória Cacheu   1-1 SC Pitche
+ADR Mansabá    0-0 Atlético Bissorã
+Vitória Cacheu    1-1 SC Pitche
 Série C [Mar 22]
-EN Bolama   0-1 FC Tombali
+EN Bolama    0-1 FC Tombali
 FC Buba          0-1 Sporting Bafatá
 Djata Fulacunda  1-2 Est. Cantanhêz
-Os Lagartos   1-0 FC Quinara
+Os Lagartos    1-0 FC Quinara
 
 Round 2
 Série A
 [Mar 27]
-GDR Quelelé   0-0 FB/Ténis Clube
-EN Bissau   5-0 UDR Ondame
+GDR Quelelé    0-0 FB/Ténis Clube
+EN Bissau    5-0 UDR Ondame
 [Mar 28]
-Bijagós FC   0-0 Ajuda Sport
-FC Safim   1-1 Academia MEPA
+Bijagós FC    0-0 Ajuda Sport
+FC Safim    1-1 Academia MEPA
 Série B
 [Mar 28]
-CDR Farim   1-0 SC Pitche
-Acad. Ingoré   2-2 ADR Mansabá
+CDR Farim    1-0 SC Pitche
+Acad. Ingoré    2-2 ADR Mansabá
 Atlético Bissorã 0-1 Vitória Cacheu
 [Mar 29]
-Binar FC         1-0 Nuno Tristão FC      [at Bissau]
+Binar FC         1-0 Nuno Tristão FC        [at Bissau]
 Série C [Mar 28]
 FC Tombali       0-0 FC Quinara
 Est. Cantanhêz   0-4 Os Lagartos
 Sporting Bafatá  5-1 Djata Fulacunda
-EN Bolama   0-0 FC Buba
+EN Bolama    0-0 FC Buba
 
 Round 3
 Série A
 [Apr 1]
-FB/Ténis Clube   0-1 Bijagós FC
+FB/Ténis Clube    0-1 Bijagós FC
 [Apr 3]
-UDR Ondame   0-1 GDR Quelelé     [at Bissau]
-Ajuda Sport   1-1 FC Safim
-Academia MEPA   2-0 EN Bissau
+UDR Ondame    0-1 GDR Quelelé       [at Bissau]
+Ajuda Sport    1-1 FC Safim
+Academia MEPA    2-0 EN Bissau
 Série B [Apr 3]
 Nuno Tristão FC  0-0 CDR Farim
-SC Pitche   2-1 Atlético Bissorã
-Vitória Cacheu   4-1 Acad. Ingoré
-ADR Mansabá   1-0 Binar FC
+SC Pitche    2-1 Atlético Bissorã
+Vitória Cacheu    4-1 Acad. Ingoré
+ADR Mansabá    1-0 Binar FC
 Série C [Apr 3]
 FC Buba          1-2 FC Tombali
 Djata Fulacunda  2-0 EN Bolama
-Os Lagartos   0-1 Sporting Bafatá
-FC Quinara   1-0 Est. Cantanhêz
+Os Lagartos    0-1 Sporting Bafatá
+FC Quinara    1-0 Est. Cantanhêz
 
 Tables:
 
 Série A
- 1.GDR Quelelé       3   2  1  0   4- 1   7
+ 1.GDR Quelelé         3   2  1  0   4- 1   7
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Academia MEPA     3   2  1  0   4- 1   7
- 3.Estrela Negra Bissau     3   2  0  1   7- 2   6
- 4.FB/Ténis Clube     3   1  1  1   3- 3   4
- 5.Bijagós FC       3   1  1  1   1- 1   4
- 6.Ajuda Sport Clube     3   0  2  1   2- 4   2
- 7.FC Safim          3   0  2  1   2- 4   2
- 8.UDR Ondame       3   0  0  3   2- 9   0
+ 2.Academia MEPA      3   2  1  0   4- 1   7
+ 3.Estrela Negra Bissau      3   2  0  1   7- 2   6
+ 4.FB/Ténis Clube      3   1  1  1   3- 3   4
+ 5.Bijagós FC         3   1  1  1   1- 1   4
+ 6.Ajuda Sport Clube      3   0  2  1   2- 4   2
+ 7.FC Safim           3   0  2  1   2- 4   2
+ 8.UDR Ondame         3   0  0  3   2- 9   0
 
 Série B
- 1.Vitória FC Cacheu     3   2  1  0   6- 2   7 [A]
+ 1.Vitória FC Cacheu      3   2  1  0   6- 2   7 [A]
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.CDR Farim       3   2  1  0   3- 1   7
- 3.ADR Mansabá       3   1  2  0   3- 2   5
- 4.SC Pitche       3   1  1  1   3- 3   4
- 5.Binar FC       3   1  0  2   2- 3   3
+ 2.CDR Farim         3   2  1  0   3- 1   7
+ 3.ADR Mansabá         3   1  2  0   3- 2   5
+ 4.SC Pitche         3   1  1  1   3- 3   4
+ 5.Binar FC         3   1  0  2   2- 3   3
  6.Nuno Tristão FC         3   0  2  1   0- 1   2 [R]
- 7.Académico Ingoré FC     3   0  2  1   3- 6   2
- 8.Atlético de Bissorã     3   0  1  2   1- 3   1
+ 7.Académico Ingoré FC      3   0  2  1   3- 6   2
+ 8.Atlético de Bissorã      3   0  1  2   1- 3   1
 
 Série C
- 1.Sporting de Bafatá     3   3  0  0   7- 1   9
+ 1.Sporting de Bafatá      3   3  0  0   7- 1   9
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.FC Tombali       3   2  1  0   3- 1   7
- 3.FC Os Lagartos     3   2  0  1   5- 1   6
- 4.FC Quinara       3   1  1  1   1- 1   4
+ 2.FC Tombali         3   2  1  0   3- 1   7
+ 3.FC Os Lagartos      3   2  0  1   5- 1   6
+ 4.FC Quinara         3   1  1  1   1- 1   4
  5.Djata FC Fulacunda      3   1  0  2   4- 7   3
- 6.Estrela Cantanhêz FC     3   1  0  2   2- 6   3
- 7.Futebol Clube Buba     3   0  1  2   1- 3   1
+ 6.Estrela Cantanhêz FC      3   1  0  2   2- 6   3
+ 7.Futebol Clube Buba      3   0  1  2   1- 3   1
  8.Estrela Negra Bolama    3   0  1  2   0- 3   1
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page gbis2025›
 
-‹list of champions, see page gbischamp›
 
-‹list of cup winners, see page gbiscuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1970
      source: https://rsssf.org/tables/70f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1970 (Mexico, May 31-June 21)
 
-<!-- start pre -->
 
 FIRST PHASE
 
@@ -79,7 +79,6 @@ Scorers: 18' Pelé 1-0; 37' Boninsegna 1-1; 66' Gérson 2-1;=20
 
 Topscorer: Müller (West Germany) 10 goals.
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 70full›
 
@@ -93,7 +92,9 @@ Topscorer: Müller (West Germany) 10 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

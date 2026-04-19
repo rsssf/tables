@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1994 qualifications
      source: https://rsssf.org/tables/94qual.html
     -->
   
@@ -23,7 +24,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 39 teams entered, including GER (champions) and ISR. LIE withdrew before
 seeding. JUG expulsed due to UN sanctions after seeding. Winners and
@@ -1221,4 +1221,3 @@ Second Round - winner plays against group 9 runners-up
 06.06. Melbourne  AUS-NZE 3:0 (2:0) Veart 1, A.Vidmar 3, Zelic 49 (Uilenberg
                                     HOL)
 
-<!-- end pre -->

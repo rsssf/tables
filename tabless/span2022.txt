@@ -1,4 +1,5 @@
   <!--
+     title:  Spain 2021/22
      source: https://rsssf.org/tabless/span2022.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Spain 2021/22
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §laliga›
-‹Segunda División, see §segunda›
-‹Primera RFEF, see §1rfef›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División  ‹§laliga›
 
-<!-- start pre -->
 Final Table:
 
  1.Real Madrid CF                38  26  8  4  80-31  86       Champions
@@ -660,13 +656,13 @@ Final Table:
 19.Levante UD (Valencia)         38   8 11 19  51-76  35       Relegated
 20.Deportivo Alavés (Vitoria)    38   8  7 23  31-65  31       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Segunda División  ‹§segunda›
 
-<!-- start pre -->
 Final Table:
 
  1.UD Almería                    42  24  9  9  68-35  81       Promoted
@@ -719,13 +715,13 @@ Girona                    0-0 Tenerife
 Second Leg [Jun 19]
 Tenerife                  1-3 Girona
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Primera RFEF  ‹§1rfef›
 
-<!-- start pre -->
 ‹Grupo 1, see §3g1› | ‹Grupo 2, see §3g2› | ‹Final, see §3gf› | ‹Promotion Playoff, see §3gp›
 
 Grupo 1  ‹§3g1›
@@ -814,35 +810,10 @@ Promoted from 4th level: AD Ceuta FC, Córdoba CF, CD Eldense, CF Intercity (Ali
                          CF La Nucía, AD Mérida, Real Murcia CF, CD Numancia (Soria),
                          CA Osasuna B (Pamplona), Pontevedra CF
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2020/21, see page span2021›.
 
-‹2022/23, see page span2023›.
 
-‹list of champions, see page spanchamp›.
-
-‹list of 2nd level champions, see page span2champ›.
-
-‹list of cup winners, see page spancuphist›.
-
-‹list of super cup winners, see page spansupcuphist›.
-
-‹list of league cup winners, see page spanleagcuphist›.
-
-‹list of copa rfef winners, see page spanrfefcuphist›.
-
-‹list of final tables, see page spanhist›.
-
-‹all-time table, see page spanalltime›.
-
-‹list of top scorers, see page spantops›.
-
-‹list of foundation dates, see page spanfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

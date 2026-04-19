@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2015/16
      source: https://rsssf.org/tablesm/mex2016.html
     -->
   
@@ -6,20 +7,12 @@
 
 == Mexico 2015/16
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga MX, see §pdn›
-‹Copa MX Apertura 2015, see §copa›
-‹Copa MX Clausura 2016, see §copac›
-‹Campeón de Campeones, see §campcamp›
-‹Supercopa MX, see §supcopa›
-‹Ascenso MX, see §ascenso›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga MX  ‹§pdn›
 
-<!-- start pre -->
 
 ‹Apertura 2015, see §1aper› | ‹Clausura 2016, see §1clau›
 
@@ -472,19 +465,19 @@ Final Table:
 18.Dorados                             17   3  6  8  13-29  15
 
 Topscorers:
-Player      Team    Goals  Country
-Mauro Boselli           León            13   Argentina
-Emanuel Villa    Querétaro  13   Argentina
-Dayro Moreno    Tijuana    12   Colombia
-Rogelio Funes Mori  Monterrey  11   Argentina
-André-Pierre Gignac  Tigres    11   France
-Silvio Romero    Jaguares  10   Argentina
-Omar Bravo    Guadalajara  10   Mexico
-Edwin Andrés Cardona  Monterrey  10   Colombia
-Enrique Triverio  Toluca    10   Argentina
-Ismael Sosa    Pumas    10   Argentina
-Fernando Uribe    Toluca     9   Colombia
-Eduardo Herrera    Pumas     9   Mexico
+Player         Team      Goals   Country
+Mauro Boselli           León            13    Argentina
+Emanuel Villa      Querétaro   13    Argentina
+Dayro Moreno      Tijuana      12    Colombia
+Rogelio Funes Mori   Monterrey   11    Argentina
+André-Pierre Gignac   Tigres      11    France
+Silvio Romero      Jaguares   10    Argentina
+Omar Bravo      Guadalajara   10    Mexico
+Edwin Andrés Cardona   Monterrey   10    Colombia
+Enrique Triverio   Toluca      10    Argentina
+Ismael Sosa      Pumas      10    Argentina
+Fernando Uribe      Toluca       9    Colombia
+Eduardo Herrera      Pumas       9    Mexico
 
 Playoffs  ‹§applay›
 
@@ -543,40 +536,40 @@ Pumas              4-1 Tigres             [aet, 2-4 pen]
   [Eduardo Herrera 44, Matías Britos 54, Silvio Torales 87, Gerardo Alcoba 118;
    André-Pierre Gignac 103]
 Penalty shootout:
-Pumas        Tigres
-Fidel Martínez (M)    André-Pierre Gignac
-Ismael Sosa      Anselmo Vendrechovski
-Luis Fernando Fuentes    José Arturo Rivas
-Javier Cortés (M)    Israel Jiménez
+Pumas            Tigres
+Fidel Martínez (M)      André-Pierre Gignac
+Ismael Sosa         Anselmo Vendrechovski
+Luis Fernando Fuentes      José Arturo Rivas
+Javier Cortés (M)      Israel Jiménez
 
 Tigres UANL roster team
 
-Nahuel Guzmán    GK (Argentina)
-Enrique Palos    GK
-Anselmo Vendrechovski  DEF (Brazil)
-Hugo Ayala    DEF
-Israel Jiménez    DEF
-Jorge Torres Nilo  DEF
-Jorge Estrada    DEF
-Alonso Zamora    DEF
-Antonio Briseño    DEF
-José Arturo Rivas  DEF
-Edgar Gerardo Lugo  MDF
-Egidio Arévalo    MDF (Uruguay)
-Guido Pizarro    MDF (Argentina)
-Javier Aquino    MDF
-Jesús Alberto Dueñas  MDF
-Amaury Escoto    MDF
-Joffre Guerrón    MDF (Ecuador)
-José Francisco Torres  MDF (Mexico/USA)
-Jürgen Damm    MDF
-Jorge Espericueta  MDF
-Manuel Viniegra    MDF
-Damián Ariel Álvarez  MDF (Argentina/Mexico)
-André-Pierre Gignac  FWD (France)
-Rafael Sobis    FWD (Brazil)
-Enrique Esqueda    FWD
-Ikechukwu Uche    FWD (Nigeria)
+Nahuel Guzmán      GK (Argentina)
+Enrique Palos      GK
+Anselmo Vendrechovski   DEF (Brazil)
+Hugo Ayala      DEF
+Israel Jiménez      DEF
+Jorge Torres Nilo   DEF
+Jorge Estrada      DEF
+Alonso Zamora      DEF
+Antonio Briseño      DEF
+José Arturo Rivas   DEF
+Edgar Gerardo Lugo   MDF
+Egidio Arévalo      MDF (Uruguay)
+Guido Pizarro      MDF (Argentina)
+Javier Aquino      MDF
+Jesús Alberto Dueñas   MDF
+Amaury Escoto      MDF
+Joffre Guerrón      MDF (Ecuador)
+José Francisco Torres   MDF (Mexico/USA)
+Jürgen Damm      MDF
+Jorge Espericueta   MDF
+Manuel Viniegra      MDF
+Damián Ariel Álvarez   MDF (Argentina/Mexico)
+André-Pierre Gignac   FWD (France)
+Rafael Sobis      FWD (Brazil)
+Enrique Esqueda      FWD
+Ikechukwu Uche      FWD (Nigeria)
 
 Coach: Ricardo Ferreti (BRA)
 
@@ -1042,40 +1035,40 @@ Final Table:
 18.Jaguares                            17   3  3 11  16-33  12
 
 Topscorers
-Player      Team    Goals
-André-Pierre Gignac  Tigres    13
-Mauro Boselli    León     9
-Oribe Peralta    América     9
-Jorge Benítez    Cruz Azul   9
-Dayro Moreno    Tijuana     8
-Silvio Romero    Jaguares   8
-Rogelio Funes Mori  Monterrey   7
-Dorlan Pabón    Monterrey   7
-Carlos Sánchez    Monterrey   7
-Carlos Alberto Peña  Guadalajara   7
+Player         Team      Goals
+André-Pierre Gignac   Tigres      13
+Mauro Boselli      León       9
+Oribe Peralta      América       9
+Jorge Benítez      Cruz Azul    9
+Dayro Moreno      Tijuana       8
+Silvio Romero      Jaguares    8
+Rogelio Funes Mori   Monterrey    7
+Dorlan Pabón      Monterrey    7
+Carlos Sánchez      Monterrey    7
+Carlos Alberto Peña   Guadalajara    7
 
 Relegation Table
 
-Team      Average
-América      1.7549
-Toluca      1.6275
-Tigres      1.5490
-Monterrey    1.5098
-Cruz Azul    1.5000
-León      1.4804
-Santos      1.4706
-Pachuca      1.3922
-Pumas      1.3627
-Jaguares    1.3431
-Querétaro    1.3235
-Guadalajara    1.2157
-Tijuana      1.2157
-Atlas      1.2059
-Morelia      1.1961
-Puebla      1.1961
-Veracruz    1.1765
+Team         Average
+América         1.7549
+Toluca         1.6275
+Tigres         1.5490
+Monterrey      1.5098
+Cruz Azul      1.5000
+León         1.4804
+Santos         1.4706
+Pachuca         1.3922
+Pumas         1.3627
+Jaguares      1.3431
+Querétaro      1.3235
+Guadalajara      1.2157
+Tijuana         1.2157
+Atlas         1.2059
+Morelia         1.1961
+Puebla         1.1961
+Veracruz      1.1765
 ------------------------------
-Dorados      0.8529 relegated
+Dorados         0.8529 relegated
 
 Playoffs  ‹§clplay›
 
@@ -1139,43 +1132,43 @@ Monterrey          1-1 Pachuca
 
 
 Club Pachuca Roster team
-Oscar Pérer    GK
-Alfonso Blanco    GK
-Aquivaldo Mosquera  DEF (México/Colombia)
-Emmanuel García    DEF
-Francisco Flores  DEF
-Hugo Isaac Rodríguez  DEF
-Stefan Medina    DEF (Colombia)
-José Martínez    DEF
-Omar González    DEF
-Omar Esparza    DEF
-Oscar Murillo    DEF (Colombia)
-Osvaldo Rodríguez  DEF
-Erick Gutiérrez    MDF
-Iván Ochoa    MDF
-Jonathan Urretaviscaya  MDF (Uruguay)
-Jorge Hernández    MDF
-Lucas Silva    MDF (México/Brazil)
-Manuel Pérez    MDF
-Rodolfo Pizarro    MDF
-Víctor Guzmán    MDF
-Ariel Nahuelpan    FWD (México/Argentina)
-Franco Jara    FWD (Argentina)
-Gustavo Ramírez    FWD
-Hirving Lozano    FWD
-Juan Calero    FWD
-Rubén Botta    FWD (Argentina)
-Simon Steven Almeida  FWD
+Oscar Pérer      GK
+Alfonso Blanco      GK
+Aquivaldo Mosquera   DEF (México/Colombia)
+Emmanuel García      DEF
+Francisco Flores   DEF
+Hugo Isaac Rodríguez   DEF
+Stefan Medina      DEF (Colombia)
+José Martínez      DEF
+Omar González      DEF
+Omar Esparza      DEF
+Oscar Murillo      DEF (Colombia)
+Osvaldo Rodríguez   DEF
+Erick Gutiérrez      MDF
+Iván Ochoa      MDF
+Jonathan Urretaviscaya   MDF (Uruguay)
+Jorge Hernández      MDF
+Lucas Silva      MDF (México/Brazil)
+Manuel Pérez      MDF
+Rodolfo Pizarro      MDF
+Víctor Guzmán      MDF
+Ariel Nahuelpan      FWD (México/Argentina)
+Franco Jara      FWD (Argentina)
+Gustavo Ramírez      FWD
+Hirving Lozano      FWD
+Juan Calero      FWD
+Rubén Botta      FWD (Argentina)
+Simon Steven Almeida   FWD
 
 Coach: Diego Alonso (URU)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa MX Apertura 2015  ‹§copa›
 
-<!-- start pre -->
 ‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
@@ -1283,36 +1276,36 @@ Coras              2-2 Morelia
 
 Second Legs
 [Aug 4]
-Morelia            1-0 Coras     [agg 3-2; Morelia won a extra point]
+Morelia            1-0 Coras       [agg 3-2; Morelia won a extra point]
   [Mauro Cejas 68pen]
-Cruz Azul          0-1 Venados     [agg 1-1]
+Cruz Azul          0-1 Venados       [agg 1-1]
   [Freddy Jesús Martín 83]
-Puebla             2-0 Celaya     [agg 2-0; Puebla won a extra point]
+Puebla             2-0 Celaya       [agg 2-0; Puebla won a extra point]
   [Ezequiel Rescaldani 44, 52]
-Zacatepec S. XXi   1-2 Tijuana     [agg 2-4; Tijuana won a extra point]
+Zacatepec S. XXi   1-2 Tijuana       [agg 2-4; Tijuana won a extra point]
   [Luis Menes 9; Humberto Osorio 10, Alfredo David Moreno 62]
-Veracruz           2-1 Lobos BUAP   [agg 4-1; Veracruz won a extra point]
+Veracruz           2-1 Lobos BUAP    [agg 4-1; Veracruz won a extra point]
   [Aníbal Zurdo 15, Luis Alberto Sánchez 59; Marvin Piñón 12]
-Atlante            3-2 Pachuca     [agg 4-3; Atlante won a extra point]
+Atlante            3-2 Pachuca       [agg 4-3; Atlante won a extra point]
   [Carlos Cauich 26, Carlos Garcés 70, 79; Guillermo Martínez 50, Jonathan Urretaviscaya 58]
-Murciélagos        1-0 Dorados     [agg 3-1; Murciélagos won a extra point]
+Murciélagos        1-0 Dorados       [agg 3-1; Murciélagos won a extra point]
   [Leandro Luján 63]
 [Aug 5]
-Alebrijes          1-1 Pumas     [agg 3-2; Alebrijes won a extra point]
+Alebrijes          1-1 Pumas       [agg 3-2; Alebrijes won a extra point]
   [Jesús Alberto Moreno 34; Javier Cortés 39]
 León               3-3 Atlético San Luis [agg 5-4; León won a extra point]
   [Miguel Sabah 14, Miguel Ibarra 25, Hernán Darío Burbano 89; Leonardo Villagra 3,
    Orlando Pineda 59, Othoniel Arce 70]
-Necaxa             1-1 Toluca     [agg 3-5; Toluca won a extra point]
+Necaxa             1-1 Toluca       [agg 3-5; Toluca won a extra point]
   [Luis Gorocito 79; Roberto Nicolás Saucedo 45]
-Mineros            0-1 Guadalajara   [agg 0-3; Guadalajara won a extra point]
+Mineros            0-1 Guadalajara    [agg 0-3; Guadalajara won a extra point]
   [Ricardo Michel Vázquez 66]
-Atlas              1-0 Leones Negros   [agg 1-0; Atlas won a extra point]
+Atlas              1-0 Leones Negros    [agg 1-0; Atlas won a extra point]
   [Martín Barragán 27pen]
 [Sep 5]
-Monterrey          1-0 Correcaminos UAT   [agg 4-1; Monterrey won a extra point]
+Monterrey          1-0 Correcaminos UAT    [agg 4-1; Monterrey won a extra point]
   [Efraín Juárez 7]
-Tapachula          2-2 Jaguares     [agg 2-3; Jaguares won a extra point]
+Tapachula          2-2 Jaguares       [agg 2-3; Jaguares won a extra point]
   [Ismael Valadez 68pen, Bruno Costa 78; José Cervantes 30og, Daniel González 87]
 
 Series 2
@@ -1353,33 +1346,33 @@ Jaguares           3-3 Alebrijes
 
 Second Legs
 [Aug 25]
-Celaya             0-2 Veracruz     [agg 2-3; Veracruz won a extra point]
+Celaya             0-2 Veracruz       [agg 2-3; Veracruz won a extra point]
   [Alan Zamora 56, 64]
-Cruz Azul          1-0 Atlante     [agg 3-0; Cruz Azul won a extra point]
+Cruz Azul          1-0 Atlante       [agg 3-0; Cruz Azul won a extra point]
   [Antonio Michael Pedroza 86]
-León               2-1 Correcaminos UAT   [agg 5-2; León won a extra point]
+León               2-1 Correcaminos UAT    [agg 5-2; León won a extra point]
   [Cristian Alejandro Torres 81, Diego Novaretti 84; Eder Pacheco 49]
-Mineros            0-0 Morelia     [agg 1-2; Morelia won a extra point]
+Mineros            0-0 Morelia       [agg 1-2; Morelia won a extra point]
 Monterrey          1-1 Atlético San Luis [agg 2-3; Atlético San Luis won a extra point]
   [Aldo de Nigris 61; Juan David Castro 84]
-Tapachula          2-0 Pumas     [agg 2-3; Pumas won a extra point]
+Tapachula          2-0 Pumas       [agg 2-3; Pumas won a extra point]
   [Oscar David Sánchez 85, Federico Haberkorn 90]
-Venados            1-0 Pachuca     [agg 2-4; Pachuca won a extra point]
+Venados            1-0 Pachuca       [agg 2-4; Pachuca won a extra point]
   [Víctor Guzmán 25og]
-Lobos BUAP         0-1 Puebla     [agg 5-1; Lobos BUAP won a extra point]
+Lobos BUAP         0-1 Puebla       [agg 5-1; Lobos BUAP won a extra point]
   [Ezequiel Rescaldani 90]
-Dorados            3-0 Leones Negros   [agg 5-1; Dorados won a extra point]
+Dorados            3-0 Leones Negros    [agg 5-1; Dorados won a extra point]
   [Raúl Enríquez 19pen, Christian Suárez 31, Martín Bravo 91]
 [Aug 26]
-Alebrijes          2-0 Jaguares     [agg 5-3; Alebrijes won a extra point]
+Alebrijes          2-0 Jaguares       [agg 5-3; Alebrijes won a extra point]
   [Alberto Ramírez 37, Juan Manuel Cavallo 44]
-Toluca             3-1 Zacatepec S. XXI   [agg 4-2; Toluca won a extra point]
+Toluca             3-1 Zacatepec S. XXI    [agg 4-2; Toluca won a extra point]
   [Omar Arellano Riverón 2, 32, Carlos Esquivel 93; Diego Calderón 27]
-Atlas              2-0 Murciélagos   [agg 4-1; Atlas won a extra point]
+Atlas              2-0 Murciélagos    [agg 4-1; Atlas won a extra point]
   [Rodrigo Godínez 11, Rodolfo Vilchis 41]
-Guadalajara        1-1 Coras     [agg 2-1; Guadalajara won a extra point]
+Guadalajara        1-1 Coras       [agg 2-1; Guadalajara won a extra point]
   [Marco Fabián de la Mora 24; Fernando Fonseca 86]
-Tijuana            4-3 Necaxa     [agg 6-4; Tijuana won a extra point]
+Tijuana            4-3 Necaxa       [agg 6-4; Tijuana won a extra point]
   [Felipe Flores 37, José Alberto García 49, José Antonio Madueña 65, Alfredo David Moreno 89pen;
    Ramsés Carrillo 32, Víctor Hugo Lojero 35, 41pen]
 
@@ -1420,33 +1413,33 @@ Toluca             3-0 Tijuana
 
 Second Legs
 [Sep 22]
-Venados            0-1 Atlante     [agg 0-2; Atlante won a extra point]
+Venados            0-1 Atlante       [agg 0-2; Atlante won a extra point]
   [Sonny Guadarrama 61]
-Atlético San Luis  3-1 Correcaminos UAT   [agg 4-3; Atlético San Luis won a extra point]
+Atlético San Luis  3-1 Correcaminos UAT    [agg 4-3; Atlético San Luis won a extra point]
   [Sergio Fernández 66, Felipe Ponce 68, Othoniel Arce 80pen; Daniel Duarte 14]
-Necaxa             3-1 Zacatepec S. XXI   [agg 5-6; Zacatepec won a extra point]
+Necaxa             3-1 Zacatepec S. XXI    [agg 5-6; Zacatepec won a extra point]
   [Rodrigo Prieto 48, Jesús Antonio Isijara 66, Kevin Chaurand 70; Diego Calderón 13]
-Mineros            2-0 Coras     [agg 2-1; Mineros won a extra point]
+Mineros            2-0 Coras       [agg 2-1; Mineros won a extra point]
   [Julián Cardozo 50, Sergio Santana 58pen]
-Tijuana            2-2 Toluca     [agg 2-5; Toluca won a extra point]
+Tijuana            2-2 Toluca       [agg 2-5; Toluca won a extra point]
   [Gabriel Hauche 5, Felipe Flores 59pen; Roberto Nicolás Saucedo 51, Erbin Trejo 80pen]
-Celaya             1-2 Lobos BUAP   [agg 1-4; Lobos BUAP won a extra point]
+Celaya             1-2 Lobos BUAP    [agg 1-4; Lobos BUAP won a extra point]
   [Alejandro Martínez 16; Marvin Piñon 67, Francisco Acuña 87]
-Murciélagos        1-1 Leones Negros   [agg 1-3; Leones Negros won a extra point]
+Murciélagos        1-1 Leones Negros    [agg 1-3; Leones Negros won a extra point]
   [Xavier Barreras 40; Jonathan Quintero 68]
-Monterrey          2-2 León     [agg 3-7; León won a extra point]
+Monterrey          2-2 León       [agg 3-7; León won a extra point]
   [Julio Cruz 53, Cándido Ramírez 59; Gonzalo Ríos 38, Cristian Alejandro Torres 91]
-Pumas              3-2 Jaguares     [agg 4-4; Jaguares won a extra point on away goals]
+Pumas              3-2 Jaguares       [agg 4-4; Jaguares won a extra point on away goals]
   [Silvio Torales 9, Luis Fernando Quintana 16, Daniel Ludueña 34; Abraham Darío Carreño 85, 87]
 [Sep 23]
-Alebrijes          3-1 Tapachula   [agg 3-2; Alebrijes won a extra point]
+Alebrijes          3-1 Tapachula    [agg 3-2; Alebrijes won a extra point]
   [Vinicio Angulo 31, Jesús Alberto Moreno 47, Arturo Ledezma 85; Erick Palafox 60]
-Puebla             0-0 Veracruz     [agg 0-0]
-Pachuca            1-0 Cruz Azul   [agg 2-2; Pachuca won a extra point on away goal]
+Puebla             0-0 Veracruz       [agg 0-0]
+Pachuca            1-0 Cruz Azul    [agg 2-2; Pachuca won a extra point on away goal]
   [Franco Jara 8pen]
-Morelia            1-2 Guadalajara   [agg 2-2; Guadalajara won a extra point on away goals]
+Morelia            1-2 Guadalajara    [agg 2-2; Guadalajara won a extra point on away goals]
   [Joel Huiqui 69; Isaac Brizuela 17, 50]
-Atlas              1-0 Dorados     [agg 1-1]
+Atlas              1-0 Dorados       [agg 1-1]
   [Javier Salas 41og]
 
 
@@ -1518,10 +1511,10 @@ Toluca            3-0 Alebrijes
   [Darío Botinelli 23pen, Omar Arellano Riverón 76, Lucas Lobos 88pen]
 León              2-0 Cruz Azul
   [Carlos Alberto Peña 21, Guillermo Burdisso 46]
-Guadalajara       1-1 Veracruz    [6-5pen]
+Guadalajara       1-1 Veracruz      [6-5pen]
   [Ángel Zaldivar 64; Daniel Alberto Villalba 45]
 [Oct 21]
-Atlas             2-2 Tijuana    [5-4pen]
+Atlas             2-2 Tijuana      [5-4pen]
   [Gonzalo Bergessio 9, Franco Arizala 63; José Alberto García 40, Carlos Alberto Guzmán 44]
 
 Semifinals
@@ -1545,63 +1538,63 @@ Guadalajara Cup Champions
 
 
 Topscorers
-Player      Team    Goals
-Alberto Jesús Moreno  Alebrijes  5
-Silvio Torales    Pumas    5
-Miguel Sabah    León    4
-Francisco Acuña    Lobos BUAP  4
-Carlos Alberto Peña  León    4
-Othoniel Arce    A. San Luis  3
-Daniel González    Jaguares  3
-Abraham Darío Carreño  Jaguares  3
-Marvin Piñón    Lobos BUAP  3
-Rogelio Funes Mori  Monterrey  3
-Mauro Cejas    Morelia    3
+Player         Team      Goals
+Alberto Jesús Moreno   Alebrijes   5
+Silvio Torales      Pumas      5
+Miguel Sabah      León      4
+Francisco Acuña      Lobos BUAP   4
+Carlos Alberto Peña   León      4
+Othoniel Arce      A. San Luis   3
+Daniel González      Jaguares   3
+Abraham Darío Carreño   Jaguares   3
+Marvin Piñón      Lobos BUAP   3
+Rogelio Funes Mori   Monterrey   3
+Mauro Cejas      Morelia      3
 
 
 
 Guadalajara roster team
 
-José Antonio Rodríguez    GK
-Rodolfo Cota      GK
-Carlos Salcido      DEF
-Carlos Salcedo      DEF
-Carlos Villanueva    DEF
-Edwin Hernández      DEF
-Hedgardo Marín      DEF
-Jair Pereira      DEF
-Juan Basulto      DEF
-Miguel Ángel Ponce    DEF
-Oswaldo Alanís      DEF
-Raúl López      DEF
-Giovani Casillas    MDF
-Israel Castro      MDF
-Jesús Sánchez      MDF
-Jorge Enríquez      MDF
-José David Ramírez    MDF
-Marco Fabián de la Mora    MDF
-Michael Pérez      MDF
-Ángel Reyna      FWD
-Isaac Brizuela      FWD
-Ángel Zaldívar      FWD
-Carlos Fierro      FWD
-Carlos Cisneros      FWD
-Javier López      FWD
-Omar Bravo      FWD
-Ricardo Michel Vázquez    FWD
+José Antonio Rodríguez      GK
+Rodolfo Cota         GK
+Carlos Salcido         DEF
+Carlos Salcedo         DEF
+Carlos Villanueva      DEF
+Edwin Hernández         DEF
+Hedgardo Marín         DEF
+Jair Pereira         DEF
+Juan Basulto         DEF
+Miguel Ángel Ponce      DEF
+Oswaldo Alanís         DEF
+Raúl López         DEF
+Giovani Casillas      MDF
+Israel Castro         MDF
+Jesús Sánchez         MDF
+Jorge Enríquez         MDF
+José David Ramírez      MDF
+Marco Fabián de la Mora      MDF
+Michael Pérez         MDF
+Ángel Reyna         FWD
+Isaac Brizuela         FWD
+Ángel Zaldívar         FWD
+Carlos Fierro         FWD
+Carlos Cisneros         FWD
+Javier López         FWD
+Omar Bravo         FWD
+Ricardo Michel Vázquez      FWD
 
 Coach: Matías Almeyda (ARG)
 
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa MX Clausura 2016  ‹§copac›
 
-<!-- start pre -->
 ‹Group Stage, see §copacgrp› | ‹Playoff Stage, see §copacplay›
 
 NB: the Cup Tournament is played by 11 teams from the Liga MX (first level) and
@@ -1930,66 +1923,66 @@ Veracruz Cup Champions
 
 
 Topscorers
-Player      Team    Goals
-Joffre Guerrón    Cruz Azul   7
-Leonardo Villagra  Atl. San Luis   6
-Vicente Matías Vuoso  Cruz Azul   4
-Aldo De Nigris    Monterrey   4
-Franco Arizala    Atlas     3
-Jorge Benítez    Cruz Azul   3
-Marco Antonio Bueno  León     3
-Alejandro Gagliardi  Morelia     3
-Rodolfo Vilchis    Morelia     3
-Miguel Ángel Sansores  Morelia     3
-Jahir Alejandro Barraza  Necaxa     3
-Oscar Fernández    Necaxa     3
-Juan Manuel Cavallo  Alebrijes   3
-Dayro Moreno    Tijuana     3
-Julián Quiñónez    Venados     3
-Juan Carlos Enríquez  Mineros     3
-Hugo Cid    Veracruz   3
+Player         Team      Goals
+Joffre Guerrón      Cruz Azul    7
+Leonardo Villagra   Atl. San Luis    6
+Vicente Matías Vuoso   Cruz Azul    4
+Aldo De Nigris      Monterrey    4
+Franco Arizala      Atlas       3
+Jorge Benítez      Cruz Azul    3
+Marco Antonio Bueno   León       3
+Alejandro Gagliardi   Morelia       3
+Rodolfo Vilchis      Morelia       3
+Miguel Ángel Sansores   Morelia       3
+Jahir Alejandro Barraza   Necaxa       3
+Oscar Fernández      Necaxa       3
+Juan Manuel Cavallo   Alebrijes    3
+Dayro Moreno      Tijuana       3
+Julián Quiñónez      Venados       3
+Juan Carlos Enríquez   Mineros       3
+Hugo Cid      Veracruz    3
 
 
 Veracruz roster team
-Edgar Hernández    GK
-Sergio García    GK
-Alejandro Berber  DEF
-Carlos Calvo    DEF
-Darvin Chávez    DEF
-Horacio Cervantes  DEF
-Hugo Cid    DEF
-Jesús Arturo Paganoni  DEF
-Juan Fernández    DEF
-Leobardo López    DEF
-Rodrigo Godínez    DEF
-Rodrigo Noya    DEF
-Alan Zamora    MDF
-Edgar Andrade    MDF
-Edgar Gerardo Lugo  MDF
-Emilio López    MDF
-Fernando Meneses  MDF (Chile)
-Gabriel Peñalba    MDF (Argentina)
-Luis Antonio Martínez  MDF
-Oscar Vera    MDF
-Sebastián Saucedo  MDF
-Cristian Martínez Borja  FWD (Mexico/Colombia)
-Daniel Alberto Villalba  FWD (Argentina)
-Enrique Esqueda    FWD
-Inri Manzo    FWD
-Juan Ángel Albín  FWD (Uruguay)
-Julio César Furch  FWD (Argentina)
-Salvador Tafolla  FWD
+Edgar Hernández      GK
+Sergio García      GK
+Alejandro Berber   DEF
+Carlos Calvo      DEF
+Darvin Chávez      DEF
+Horacio Cervantes   DEF
+Hugo Cid      DEF
+Jesús Arturo Paganoni   DEF
+Juan Fernández      DEF
+Leobardo López      DEF
+Rodrigo Godínez      DEF
+Rodrigo Noya      DEF
+Alan Zamora      MDF
+Edgar Andrade      MDF
+Edgar Gerardo Lugo   MDF
+Emilio López      MDF
+Fernando Meneses   MDF (Chile)
+Gabriel Peñalba      MDF (Argentina)
+Luis Antonio Martínez   MDF
+Oscar Vera      MDF
+Sebastián Saucedo   MDF
+Cristian Martínez Borja   FWD (Mexico/Colombia)
+Daniel Alberto Villalba   FWD (Argentina)
+Enrique Esqueda      FWD
+Inri Manzo      FWD
+Juan Ángel Albín   FWD (Uruguay)
+Julio César Furch   FWD (Argentina)
+Salvador Tafolla   FWD
 
 Coach: Carlos Reinoso [CHI]
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Campeón de Campeones  ‹§campcamp›
 
-<!-- start pre -->
 Between winners of Liga MX Apertura 2015 (Tigres) and winners of Liga MX Clausura 2016 (Pachuca)
 
 Final
@@ -1999,13 +1992,13 @@ Stub Hub Center, Carson, California, USA
 Tigres           1-0 Pachuca
   [Ismael Sosa 25]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Supercopa MX  ‹§supcopa›
 
-<!-- start pre -->
 Between winners of Copa MX Apertura 2015 (Guadalajara) and winners of Copa MX Clausura 2016 (Veracruz)
 
 Final
@@ -2017,13 +2010,13 @@ Guadalajara       2-0 Veracruz
 
 Guadalajara qualified to Preliminary Round of Copa Libertadores 2017
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Ascenso MX  ‹§ascenso›
 
-<!-- start pre -->
 ‹Apertura 2015, see §2aper› | ‹Clausura 2016, see §2clau› | ‹Promotion Playoff, see §2prom›
 
 Apertura 2015  ‹§2aper›
@@ -2652,27 +2645,10 @@ FC Juárez         0-2 Necaxa
 
 Necaxa promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2014/15, see page mex2015›.
 
-‹2016/17, see page mex2017›.
 
-‹list of champions, see page mexchamp›.
-
-‹list of final tables, see page mexhist›.
-
-‹list of divisional movements, see page mexall›.
-
-‹list of cup winners, see page mexcuphist›.
-
-‹list of super cup winners, see page mexsupcup›.
-
-‹list of topscorers, see page mextops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

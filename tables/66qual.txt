@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1966 qualifications
      source: https://rsssf.org/tables/66qual.html
     -->
   
@@ -25,7 +26,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 31 teams entered, icluding ENG (hosts) and two Asian teams - ISR
 and SYR (later withdrew solidarising with African teams). Nine groups with
@@ -383,4 +383,3 @@ Group 14 (1965) - withdrawn African teams: ALG, CAM, EGY, ETH, GĄB, GHA, GUI,  
 
 - both matches in CAM
 
-<!-- end pre -->

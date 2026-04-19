@@ -1,4 +1,5 @@
   <!--
+     title:  Abkhazia 2026
      source: https://rsssf.org/tablesa/abchaz2026.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Abkhazia 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Aphsny Super Liga, see §leag›
-‹Aphsny National Football League, see §anfl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Aphsny Super Liga  ‹§leag›
 
-<!-- start pre -->
 NB: 33rd season
 
 Table:
@@ -133,13 +130,13 @@ Ercaxu  -  Ritca
 Bzyph   -  Bzana
 Afon T  -  Sadz
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== National Aphsny Football League  ‹§anfl›
 
-<!-- start pre -->
 Table:
 
  1.FC Čhlow               1   1  0  0   5- 1   3
@@ -180,19 +177,10 @@ Table:
 11.Kistrik (Lyxny)        1   0  0  1   0- 2   0
 12.Ercaxŭ-2 (Očamčyra)    1   0  0  1   1- 5   0  [N]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page abchaz2025›
 
-‹list of champions, see page abchazchamp›
 
-‹list of cup winners, see page abchazcuphist›
-
-‹list of super cup winners, see page abchazsupcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

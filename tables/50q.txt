@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1950 Qualifying
      source: https://rsssf.org/tables/50q.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1950 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: Brazil
 Qualified as holders: Italy
 
@@ -80,7 +80,6 @@ Philippines and Indonesia withdrew.
 2nd round
 India had a walkover, qualified, but withdrew.
 
-<!-- end pre -->
 
 ‹Additional Infos, see page 50qual›
 
@@ -92,7 +91,9 @@ India had a walkover, qualified, but withdrew.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

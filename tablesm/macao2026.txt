@@ -1,4 +1,5 @@
   <!--
+     title:  Macao 2026
      source: https://rsssf.org/tablesm/macao2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Macao 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹1a Divisão, see §primeira›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== 1a Divisão  ‹§primeira›
 
-<!-- start pre -->
 ‹Regular Stage, see §1reg› | ‹Playoff Stage, see §1po›
 
 Regular Stage  ‹§1reg›
@@ -145,17 +143,10 @@ Championship Playoff  ‹§1champ›
 
 Relegation Playoff  ‹§1rel›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page macao2025›
 
-‹list of champions, see page macaochamp›
 
-‹list of cup winners, see page macaocuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

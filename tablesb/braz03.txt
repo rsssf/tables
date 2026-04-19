@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2003
      source: https://rsssf.org/tablesb/braz03.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 2003
 
-<!-- start pre -->
 Participants
 
 C Atlético Mineiro (Belo Horizonte-MG)      Grêmio FBPA (Porto Alegre-RS)
@@ -1883,9 +1883,10 @@ Alecsandro      (Vitória for Criciúma)                          1
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1965/66
      source: https://rsssf.org/tablesd/duit66.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1965/66
 
-<!-- start pre -->
 
 Final Table
 
@@ -592,9 +592,10 @@ TSV 1860 München 1965/66
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

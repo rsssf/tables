@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2016/17
      source: https://rsssf.org/tablesm/mex2017.html
     -->
   
@@ -6,20 +7,12 @@
 
 == Mexico 2016/17
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga MX, see §pdn›
-‹Copa MX Apertura 2016, see §copa›
-‹Copa MX Clausura 2017, see §copac›
-‹Campeón de Campeones, see §campcamp›
-‹Supercopa MX, see §supcopa›
-‹Ascenso MX, see §ascenso›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga MX  ‹§pdn›
 
-<!-- start pre -->
 
 ‹Apertura 2016, see §1aper› | ‹Clausura 2017, see §1clau›
 
@@ -467,7 +460,7 @@ Final Table:
 18.Jaguares                            17   2  3 12   9-30   9
 
 Topscorers
-Player      Team    Goals
+Player         Team      Goals
 Dayro Moreno           Tijuana        11  [Colombia]
 Raúl Ruidiaz           Morelia        11  [Peru]
 Silvio Romero          América        10  [Argentina]
@@ -551,27 +544,27 @@ Guido Pizarro                   Javier Gí¼émez (M)
 
 Tigres UANL roster team
 
-Nahuel Guzmán    GK (Argentina)
-Enrique Palos    GK
-Anselmo Vendrechovski  DEF (Brazil)
-Hugo Ayala    DEF
-Israel Jiménez    DEF
-Jorge Torres Nilo  DEF
-Jorge Estrada    DEF
-José Arturo Rivas  DEF
-Guido Pizarro    MDF (Argentina)
-Alberto Acosta         MDF
-Javier Aquino    MDF
-Jesús Alberto Dueñas  MDF
-Luis Rodríguez    MDF
-Jí¼rgen Damm    MDF
-Jorge Espericueta  MDF
-Manuel Viniegra    MDF
-Damián Ariel Álvarez  MDF (Argentina/Mexico)
-André-Pierre Gignac  FWD (France)
-Ismael Sosa    FWD (Argentina)
-Andy Delort    FWD (France)
-Julián Quiñónes    FWD (Colombia)
+Nahuel Guzmán      GK (Argentina)
+Enrique Palos      GK
+Anselmo Vendrechovski   DEF (Brazil)
+Hugo Ayala      DEF
+Israel Jiménez      DEF
+Jorge Torres Nilo   DEF
+Jorge Estrada      DEF
+José Arturo Rivas   DEF
+Guido Pizarro      MDF (Argentina)
+Alberto Acosta          MDF
+Javier Aquino      MDF
+Jesús Alberto Dueñas   MDF
+Luis Rodríguez      MDF
+Jí¼rgen Damm      MDF
+Jorge Espericueta   MDF
+Manuel Viniegra      MDF
+Damián Ariel Álvarez   MDF (Argentina/Mexico)
+André-Pierre Gignac   FWD (France)
+Ismael Sosa      FWD (Argentina)
+Andy Delort      FWD (France)
+Julián Quiñónes      FWD (Colombia)
 
 Coach: Ricardo Ferreti (BRA)
 
@@ -1044,23 +1037,23 @@ Final Table:
 18.Puebla                              17   4  4  9  18-25  16
 
 Topscorers
-Player      Team    Goals
-Raúl Ruidiaz    Morelia    9
-Oribe Peralta    América    8
-Gustavo M. Alustiza  Atlas    8
-André-Pierre Gignac  Tigres    8
-Avilés Hurtado    Tijuana    8
-Nicolás Castillo  Pumas    8
-Mauro Boselli    León    7
-Edwin Andrés Cardona  Monterrey  6
-Dorlan Pabón    Monterrey  6
-Edson Puch    Necaxa    6
-Camilo Sanvezzo    Querétaro  6
-Jonathan Rodríguez  Santos    6
+Player         Team      Goals
+Raúl Ruidiaz      Morelia      9
+Oribe Peralta      América      8
+Gustavo M. Alustiza   Atlas      8
+André-Pierre Gignac   Tigres      8
+Avilés Hurtado      Tijuana      8
+Nicolás Castillo   Pumas      8
+Mauro Boselli      León      7
+Edwin Andrés Cardona   Monterrey   6
+Dorlan Pabón      Monterrey   6
+Edson Puch      Necaxa      6
+Camilo Sanvezzo      Querétaro   6
+Jonathan Rodríguez   Santos      6
 
 Relegation Table
 
-Team      Average
+Team         Average
 América                1.6569
 Tigres                 1.6373
 Monterrey              1.5980
@@ -1143,41 +1136,41 @@ Guadalajara        2-1 Tigres
   [Alan Pulido 16, José Juan Vázquez 70; Ismael Sosa 88]
 
 CD Guadalajara Roster team
-Rodolfo Cota    GK
-Miguel Ángel Jiménez  GK
-Oswaldo Alanís    DEF
-Carlos Salcido    DEF
-Jair Pereira    DEF
-Edwin Hernández    DEF
-Hedgardo Marín    DEF
-Miguel Ángel Ponce  DEF
-Jesús Sánchez    DEF
-Miguel Basulto    DEF
-Orbelín Pineda    MDF
-Néstor Calderón    MDF
-Isaac Brizuela    MDF
-Rodolfo Pizarro    MDF
-José Juan Vázquez  MDF
-Carlos Cisneros    MDF
-Alan Cervantes    MDF
-Alejandro Zendejas  MDF
-Michael Pérez    MDF
-Michelle Benítez  MDF
-Alan Pulido    FWD
-Javier Eduardo López  FWD
-Ángel Zaldívar    FWD
-Carlos Fierro    FWD
-Guillermo Martínez  FWD
-Edson Torres    FWD
+Rodolfo Cota      GK
+Miguel Ángel Jiménez   GK
+Oswaldo Alanís      DEF
+Carlos Salcido      DEF
+Jair Pereira      DEF
+Edwin Hernández      DEF
+Hedgardo Marín      DEF
+Miguel Ángel Ponce   DEF
+Jesús Sánchez      DEF
+Miguel Basulto      DEF
+Orbelín Pineda      MDF
+Néstor Calderón      MDF
+Isaac Brizuela      MDF
+Rodolfo Pizarro      MDF
+José Juan Vázquez   MDF
+Carlos Cisneros      MDF
+Alan Cervantes      MDF
+Alejandro Zendejas   MDF
+Michael Pérez      MDF
+Michelle Benítez   MDF
+Alan Pulido      FWD
+Javier Eduardo López   FWD
+Ángel Zaldívar      FWD
+Carlos Fierro      FWD
+Guillermo Martínez   FWD
+Edson Torres      FWD
 
 Coach: Matías Almeyda (ARG)
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa MX Apertura 2016  ‹§copa›
 
-<!-- start pre -->
 ‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
 NB: the Cup Tournament is played by 12 teams from the Liga MX (first level) and
@@ -1492,56 +1485,56 @@ Luis Miguel Noriega             Orbelín Pineda
 Querétaro Cup champions
 
 Topscorers
-Player      Team    Goals
-Fernando Uribe          Toluca      6
-Camilo Sanvezzo    Querétaro    5
-Leandro Carrijo    FC Juárez    4
-Carlos Cauich    Atlante      4
-Joao Robin Rojas  Cruz Azul    4
-Michael Arroyo    América      3
-Jonatan Cristaldo  Cruz Azul    3
-Raúl Enríquez    FC Juárez    3
-Julio César Furch  Veracruz    3
-Joffre Guerrón    Cruz Azul    3
-Miguel Gutiérrez  Mineros      3
-Miguel Ángel Sansores  Morelia      3
-Martín Eduardo Zúñiga  Jaguares    3
+Player         Team      Goals
+Fernando Uribe           Toluca        6
+Camilo Sanvezzo      Querétaro     5
+Leandro Carrijo      FC Juárez     4
+Carlos Cauich      Atlante        4
+Joao Robin Rojas   Cruz Azul     4
+Michael Arroyo      América        3
+Jonatan Cristaldo   Cruz Azul     3
+Raúl Enríquez      FC Juárez     3
+Julio César Furch   Veracruz     3
+Joffre Guerrón      Cruz Azul     3
+Miguel Gutiérrez   Mineros        3
+Miguel Ángel Sansores   Morelia        3
+Martín Eduardo Zúñiga   Jaguares     3
 
 
 Querétaro roster team
 
 Tiago Volpi                     GK (Brazil)
-Edgar Hernández      GK
-Dionicio Escalante    DEF
-George Corral      DEF
-Jonathan Bornstein    DEF (USA)
-Juan Forlín      DEF (Argentina)
-Miguel Ángel Martínez    DEF (Argentina)
-Nery Domínguez      DEF (Argentina)
-Armando Zamorano    MDF
-Jaime Gómez      MDF
-Luis Gil      MDF (USA/Mexico)
-Luis Miguel Noriega    MDF
-Marco Antonio Jiménez    MDF
-Mario Osuna      MDF
-Neri Raúl Cardozo    MDF (Argentina)
-Yerson Candelo      MDF (Colombia)
-Andrés Rentería      FWD (Colombia)
-íngel Sepúlveda      FWD
-Edgar Benítez      FWD (Paraguay)
-Emanuel Villa      FWD (Argentina)
+Edgar Hernández         GK
+Dionicio Escalante      DEF
+George Corral         DEF
+Jonathan Bornstein      DEF (USA)
+Juan Forlín         DEF (Argentina)
+Miguel Ángel Martínez      DEF (Argentina)
+Nery Domínguez         DEF (Argentina)
+Armando Zamorano      MDF
+Jaime Gómez         MDF
+Luis Gil         MDF (USA/Mexico)
+Luis Miguel Noriega      MDF
+Marco Antonio Jiménez      MDF
+Mario Osuna         MDF
+Neri Raúl Cardozo      MDF (Argentina)
+Yerson Candelo         MDF (Colombia)
+Andrés Rentería         FWD (Colombia)
+íngel Sepúlveda         FWD
+Edgar Benítez         FWD (Paraguay)
+Emanuel Villa         FWD (Argentina)
 
 Coach: Víctor Manuel Vucetich
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa MX Clausura 2017  ‹§copac›
 
-<!-- start pre -->
 ‹Group Stage, see §copacgrp› | ‹Playoff Stage, see §copacplay›
 
 NB: the Cup Tournament is played by 15 teams from the Liga MX (first level) and
@@ -1898,59 +1891,59 @@ Orbelín Pineda                  Luis Gabriel Rey (M)
 Guadalajara Cup champions
 
 Topscorers
-Player      Team    Goals
-Rogelio Funes Mori  Monterrey  7
-Martín Cauteruccio  Cruz Azul  4
-Yimmi Chará    Monterrey  4
-Félix Minolta    Jaguares  4
-Cristian Penilla  Morelia    4
-Edwin Andrés Cardona  Monterrey  3
-Lucas Da Silva    FC Juárez  3
-Julio César Furch  Santos    3
-Javier Eduardo López  Guadalajara  3
-Diego Riolfo    Necaxa    3
-Silvio Romero    América    3
-Enrique Triverio  Toluca    3
+Player         Team      Goals
+Rogelio Funes Mori   Monterrey   7
+Martín Cauteruccio   Cruz Azul   4
+Yimmi Chará      Monterrey   4
+Félix Minolta      Jaguares   4
+Cristian Penilla   Morelia      4
+Edwin Andrés Cardona   Monterrey   3
+Lucas Da Silva      FC Juárez   3
+Julio César Furch   Santos      3
+Javier Eduardo López   Guadalajara   3
+Diego Riolfo      Necaxa      3
+Silvio Romero      América      3
+Enrique Triverio   Toluca      3
 
 
 CD Guadalajara Roster team
 
-Rodolfo Cota    GK
-Miguel Ángel Jiménez  GK
-Oswaldo Alanís    DEF
-Carlos Salcido    DEF
-Jair Pereira    DEF
-Edwin Hernández    DEF
-Hedgardo Marín    DEF
-Miguel Ángel Ponce  DEF
-Jesús Sánchez    DEF
-Miguel Basulto    DEF
-Orbelín Pineda    MDF
-Néstor Calderón    MDF
-Isaac Brizuela    MDF
-Rodolfo Pizarro    MDF
-José Juan Vázquez  MDF
-Carlos Cisneros    MDF
-Alan Cervantes    MDF
-Alejandro Zendejas  MDF
-Michael Pérez    MDF
-Michelle Benítez  MDF
-Alan Pulido    FWD
-Javier Eduardo López  FWD
-Ángel Zaldívar    FWD
-Carlos Fierro    FWD
-Guillermo Martínez  FWD
-Edson Torres    FWD
+Rodolfo Cota      GK
+Miguel Ángel Jiménez   GK
+Oswaldo Alanís      DEF
+Carlos Salcido      DEF
+Jair Pereira      DEF
+Edwin Hernández      DEF
+Hedgardo Marín      DEF
+Miguel Ángel Ponce   DEF
+Jesús Sánchez      DEF
+Miguel Basulto      DEF
+Orbelín Pineda      MDF
+Néstor Calderón      MDF
+Isaac Brizuela      MDF
+Rodolfo Pizarro      MDF
+José Juan Vázquez   MDF
+Carlos Cisneros      MDF
+Alan Cervantes      MDF
+Alejandro Zendejas   MDF
+Michael Pérez      MDF
+Michelle Benítez   MDF
+Alan Pulido      FWD
+Javier Eduardo López   FWD
+Ángel Zaldívar      FWD
+Carlos Fierro      FWD
+Guillermo Martínez   FWD
+Edson Torres      FWD
 
 Coach: Matías Almeyda (ARG)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Campeón de Campeones  ‹§campcamp›
 
-<!-- start pre -->
 Between winners of Liga MX Apertura 2016 (Tigres) and winners of Liga MX Clausura 2017 (Guadalajara)
 Final
 
@@ -1959,13 +1952,13 @@ Stub Hub Center, Carson, California, USA
 Tigres           1-0 Guadalajara
   [Eduardo Jesús Vargas 61]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Supercopa MX  ‹§supcopa›
 
-<!-- start pre -->
 Between winners of Copa MX Apertura 2016 (Querétaro) and winners of Copa MX Clausura 2017 (Guadalajara)
 
 NB: América as best aggregate record in Cup Tournaments (Apertura 2016 and Clausura 2017 replaces Guadalajara
@@ -1977,13 +1970,13 @@ Stub Hub Center, Carson, California, USA
 Querétaro        2-0 América
   [Emanuel Villa 12pen, Hiram Mier 62]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Ascenso MX  ‹§ascenso›
 
-<!-- start pre -->
 ‹Apertura 2016, see §2aper› | ‹Clausura 2017, see §2clau› | ‹Promotion Playoff, see §2prom›
 
 Apertura 2016  ‹§2aper›
@@ -2648,29 +2641,29 @@ Final Table:
 18.Murciélagos FC                      17   3  5  9  13-23   14
 
 Topscorer
-Player      Team    Goals
-Diego Rafael Jiménez  Lobos BUAP  10
+Player         Team      Goals
+Diego Rafael Jiménez   Lobos BUAP   10
 
 Relegation Table
 
-Team      Average
-Mineros      1.7111
-Dorados      1.7059
-Potros UAEM    1.6765
-FC Juárez    1.5469
-Alebrijes    1.5222
-Lobos BUAP    1.4889
-Coras      1.4667
-Atlante      1.4444
-Leones Negros    1.4062
-Cafetaleros    1.3444
-Celaya      1.2889
-Correcaminos UAT  1.2778
-Zacatepec    1.2556
-Cimarrones    1.1250
-Venados      1.1222
-Murciélagos    1.1222
-Tampico Madero    0.9706
+Team         Average
+Mineros         1.7111
+Dorados         1.7059
+Potros UAEM      1.6765
+FC Juárez      1.5469
+Alebrijes      1.5222
+Lobos BUAP      1.4889
+Coras         1.4667
+Atlante         1.4444
+Leones Negros      1.4062
+Cafetaleros      1.3444
+Celaya         1.2889
+Correcaminos UAT   1.2778
+Zacatepec      1.2556
+Cimarrones      1.1250
+Venados         1.1222
+Murciélagos      1.1222
+Tampico Madero      0.9706
 -----------------------------
 Loros                  0.8235 (relegated)
 
@@ -2727,27 +2720,10 @@ Second Leg [May 20]
 Dorados           2-2 Lobos BUAP
 
 Lobos BUAP promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2015/16, see page mex2016›.
 
-‹2017/18, see page mex2018›.
 
-‹list of champions, see page mexchamp›.
-
-‹list of final tables, see page mexhist›.
-
-‹list of divisional movements, see page mexall›.
-
-‹list of cup winners, see page mexcuphist›.
-
-‹list of super cup winners, see page mexsupcup›.
-
-‹list of topscorers, see page mextops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

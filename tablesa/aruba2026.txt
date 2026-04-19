@@ -1,4 +1,5 @@
   <!--
+     title:  Aruba 2025/26
      source: https://rsssf.org/tablesa/aruba2026.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Aruba 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Division di Honor, see §honor›
-‹Copa Betico Croes, see §betico›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Division di Honor  ‹§honor›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Gold League (Calle 6), see §play6›
 
 Regular Stage  ‹§reg›
@@ -178,13 +175,13 @@ Table:
  5.SV La Fama                   3   0  0  3   5-10   0
  6.SV Racing Club Aruba         3   0  0  3   4- 9   0
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa Libertador Betico Croes  ‹§betico›
 
-<!-- start pre -->
 1/8 Finals
 [Jan 8]
 Atlantico       0-3 Riverplate
@@ -218,17 +215,10 @@ Bubali          2-5 Dakota
 
 Final [Feb 13]
 La Fama         2-4 Dakota
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page aruba2025›
 
-‹list of champions, see page arubachamp›
 
-‹list of cup winners, see page arubacuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

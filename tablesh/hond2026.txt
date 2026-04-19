@@ -1,4 +1,5 @@
   <!--
+     title:  Honduras 2025/26
      source: https://rsssf.org/tablesh/hond2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Honduras 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §primera›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División  ‹§primera›
 
-<!-- start pre -->
 ‹Campeonato Apertura 2025, see §1aper› | ‹Campeonato Clausura 2026, see §1clau›
 
 Campeonato Apertura 2025  ‹§1aper›
@@ -355,25 +353,10 @@ Olimpia       1-0 Marathón
 
 Campeonato Clausura 2026  ‹§1clau›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page hond2025›
 
-‹list of champions, see page hondchamp›.
 
-‹list of final tables, see page hondhist›.
-
-‹all-time table, see page hondalltime›.
-
-‹list of divisional movements, see page hondall›.
-
-‹list of cup winners, see page hondcuphist›.
-
-‹list of topscorers, see page hondtops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Tunisia 2024/25
      source: https://rsssf.org/tablest/tun2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Tunisia 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ligue Professionnelle 1, see §lfp1›
-‹Coupe de Tunisie, see §coupe›
-‹Ligue Professionnelle 2, see §lfp2›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ligue Professionnelle 1  ‹§lfp1›
 
-<!-- start pre -->
 Final Table:
 
  1.Espérance de Tunis              30  19  9  2  57-22  66  [C]  Champions
@@ -430,13 +426,13 @@ Final Table:
 15.EGS Gafsa                       30   6  4 20  24-43  22       Relegated
 16.US Tataouine                    30   5  4 21  19-53  19       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coupe de Tunisie  ‹§coupe›
 
-<!-- start pre -->
 1/16 Finals
 [Apr 3]
 CS Khenis                 0-1 JS Mannouba               [aet]
@@ -489,13 +485,13 @@ US Ben Guerdane           0-3 Espérance de Tunis
 Final [Jun 1]
 Espérance de Tunis        1-0 Stade Tunisien
   [Onuche Ogbelu 64]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Ligue Professionnelle 2  ‹§lfp2›
 
-<!-- start pre -->
 Final Tables:
 
 Groupe A
@@ -540,23 +536,10 @@ Final  ‹§2fin›
 AS Marsa            3-1 JS Kairouanaise
 
 NB: both finalists promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page tun2024›
 
-‹list of champions, see page tunchamp›
 
-‹list of final tables, see page tunhist›
-
-‹all-time table, see page tunalltime›
-
-‹list of topscorers, see page tuntops›
-
-‹list of cup finals, see page tuncuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

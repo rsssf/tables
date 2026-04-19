@@ -1,4 +1,5 @@
   <!--
+     title:  Monaco 2022/23
      source: https://rsssf.org/tablesm/monaco2023.html
     -->
   
@@ -9,7 +10,6 @@
 Note that the point system in Monaco is 4/win, 2/draw, 1/loss.
 NB: matches played in the Stade Didier Deschamps, Cap d'Ail (France).
 
-<!-- start pre -->
 Preliminary Stage  ‹§prelim›
 
 Final Table:
@@ -132,17 +132,10 @@ NB: as winners of the Challence Prince Rainier III 2023, M.I. Monaco S.A.M. qual
     the second edition of the ‹Trophée des Champions Foot Entreprises 2023, see page montcfe2023›, played against
     the champions of Côte d'Azur 2023
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2021/22, see page monaco2022›
 
-‹list of champions, see page monacochamp›
 
-‹list of cup winners, see page monacocuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

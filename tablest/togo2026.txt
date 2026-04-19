@@ -1,4 +1,5 @@
   <!--
+     title:  Togo 2025/26
      source: https://rsssf.org/tablest/togo2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Togo 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Championnat National de 1ère Division, see §premier›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Championnat National de 1ère Division  ‹§premier›
 
-<!-- start pre -->
 Table:
 
  1.ASC Kara de Kara                      19  14  3  2  33-10  45  [C]
@@ -261,17 +259,10 @@ Table:
 13.Gomido FC de Kpalimé                  19   4  5 10   9-16  17
 14.Espoir FC (Zio)                       19   3  8  8   9-20  17
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page togo2025›
 
-‹list of champions, see page togochamp›
 
-‹list of cup winners, see page togocuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

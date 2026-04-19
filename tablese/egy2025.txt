@@ -1,4 +1,5 @@
   <!--
+     title:  Egypt 2024/25
      source: https://rsssf.org/tablese/egy2025.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Egypt 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹First Level, see §1l›
-‹Egypt Cup, see §cup›
-‹League Cup, see §lc›
-‹Second Level, see §2l›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== First Level  ‹§1l›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -536,13 +531,13 @@ Final Table:
 17.Ismaily (Ismailiya)          25   5  8 12  18-28  23       Relegated
 18.Ghazl Al-Mehalla             25   6  5 14  20-36  23  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Egypt Cup 2024/25  ‹§cup›
 
-<!-- start pre -->
 
 1/16 Finals
 [Jan 2]
@@ -595,13 +590,13 @@ Zamalek       2-1 Ceramica Cl
 
 Final [Jun 5]
 Zamalek       1-1 Pyramids      [aet, 8-7 pen]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== League Cup  ‹§lc›
 
-<!-- start pre -->
 Quarterfinals
 
 First Legs
@@ -637,13 +632,13 @@ Ismaily       2-0 ENNPI
 Final [Jun 12]
 Ceramica Cl   2-0 National Bank
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Second Division A  ‹§2l›
 
-<!-- start pre -->
 Final Table:
 
  1.Mokawloon al-Arab (Cairo)    38  22 11  5  54-33  77  [R]  Promoted
@@ -670,17 +665,10 @@ Final Table:
 20.Sporting (Alexandria)        38   5 14 19  26-47  29  [P]  Relegated
 
 Promoted: FC Masar, El-Entag El-Harby, Maleyat Kafr El-Zayat
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page egy2024›
 
-‹list of champions, see page egychamp›
 
-‹list of cup winners, see page egycuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

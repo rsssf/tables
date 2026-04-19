@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2004/05
      source: https://rsssf.org/tablesm/mex05.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Mexico 2004/05
 
-<!-- start pre -->
 Primera División Nacional
 
 Apertura 2004
@@ -2318,9 +2318,10 @@ Víctor Lojero América Coapa 20
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

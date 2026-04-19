@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1979/80
      source: https://rsssf.org/tablesd/duit80.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1979/80
 
-<!-- start pre -->
 
 Final Table
 
@@ -630,9 +630,10 @@ FC Bayern München 1979/80
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

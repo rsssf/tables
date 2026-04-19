@@ -1,4 +1,5 @@
   <!--
+     title:  Oman 2024/25
      source: https://rsssf.org/tableso/oman2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Oman 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹OFA Oman Mobile League, see §oml›
-‹First Division, see §om1st›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== OFA Oman Mobile League  ‹§oml›
 
-<!-- start pre -->
 Final Table:
 
  1.Seeb             22  16  3  3  46-17  51  [C]  Champions
@@ -297,13 +294,13 @@ Final Table:
 -------------------------------------------
 12.Sur              22   4  6 12  12-27  18       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== First Division  ‹§om1st›
 
-<!-- start pre -->
 First Stage
 
 Group A
@@ -350,17 +347,10 @@ Relegation Playoff  ‹§om2rpo›
 [Jan 10]
 Fanja      awd Mudhaibi   [Mudhaibi forfeited]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page oman2024›
 
-‹list of champions, see page omanchamp›
 
-‹list of cup winners, see page omancuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

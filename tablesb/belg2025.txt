@@ -1,4 +1,5 @@
   <!--
+     title:  Belgium 2024/25
      source: https://rsssf.org/tablesb/belg2025.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Belgium 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Pro League, see §pro›
-‹Cup, see §cup›
-‹Challenger Pro League, see §tweede›
-‹1e Nationale, see §div1›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Pro League  ‹§pro›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -728,13 +723,13 @@ Second Leg [May 23]
 Cercle Brugge     3-1 Patro Eisden
 
 NB: both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup  ‹§cup›
 
-<!-- start pre -->
 1/16 Finals
 [Oct 29]
 Patro             4-1 Charleroi
@@ -795,13 +790,13 @@ Antwerp           2-2 Anderlecht
 Final [May 4]
 Club Brugge       2-1 Anderlecht
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Challenger Pro League  ‹§tweede›
 
-<!-- start pre -->
 Final Table:
 
  1.SV Zulte-Waregem                 28  18  5  5  55-30  59       Promoted
@@ -853,13 +848,13 @@ Patro Eisden      1-1 Lokeren-Temse
 
 NB: Patro Eisden Maasmechelen qualified for ‹promotion/relegation playoff, see §prorel›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1e Nationale  ‹§div1›
 
-<!-- start pre -->
 Vlaanderen (VV)
 
 Final Table:
@@ -940,27 +935,10 @@ NB: bonus points regular stage (halved, rounded upward) between square brackets
     ranked below a club which did not profit from rounding
 
 Promoted: Crossing Schaerbeek, RFC Meux, RSC Habay-la-Neuve
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page belg2024›
 
-‹list of champions, see page belgchamp›.
 
-‹final tables (1st and 2nd level), see page belghist›.
-
-‹final tables (3rd level), see page belg3hist›.
-
-‹list of cup finals, see page belgcuphist›.
-
-‹list of super cup finals, see page belgsupcuphist›.
-
-‹list of topscorers, see page belgtops›.
-
-‹all-time table, see page belgalltime›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

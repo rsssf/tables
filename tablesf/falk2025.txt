@@ -1,4 +1,5 @@
   <!--
+     title:  Falkland Islands 2024/25
      source: https://rsssf.org/tablesf/falk2025.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Falkland Islands 2024/25
 
-<!-- start pre -->
 Stanley Services Ltd 11-a-side League 2024/25  ‹§xi›
 
 Table:
@@ -57,15 +57,10 @@ Table:
  3.Fortuna Mustangs        3   1  0  2  11-12   3
  4.CFL Hunters             4   1  0  3  15-20   3
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page falk2024›
 
-‹list of champions, see page falkchamp›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

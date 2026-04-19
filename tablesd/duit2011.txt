@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 2010/11
      source: https://rsssf.org/tablesd/duit2011.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Germany 2010/11
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹1. Bundesliga, see §1bl›
-‹DFB Pokal, see §dfbpokal›
-‹2. Bundesliga, see §2bl›
-‹3. Liga, see §3bl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== 1. Bundesliga  ‹§1bl›
 
-<!-- start pre -->
 
 Final Table:
 
@@ -544,13 +539,13 @@ VfL Bochum           1-1  Borussia M'gladbach
 
 NB: both remain at former level
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== DFB Pokal  ‹§dfbpokal›
 
-<!-- start pre -->
 Round 1
 [Aug 13]
 SV Wilhelmshaven       0-4  Eintracht Frankfurt
@@ -640,13 +635,13 @@ Final [May 21, Berlin]
 MSV Duisburg           0-5  FC Schalke 04
     (18' Draxler, 22' Huntelaar, 42' Höwedes, 55' Jurado, 70' Huntelaar)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. Bundesliga  ‹§2bl›
 
-<!-- start pre -->
 Final Table:
 
  1. Hertha BSC            34 23  5  6  69-28  74  Promoted
@@ -1209,13 +1204,13 @@ VfL Osnabrück         1-3  Dynamo Dresden        [aet]
 
 NB: Dynamo Dresden promoted, VfL Osnabrück relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 3. Liga  ‹§3bl›
 
-<!-- start pre -->
 Final Table:
 
  1.Eintracht Braunschweig 38 26  7  5  81-22  85  Promoted
@@ -1832,51 +1827,10 @@ Final Table:
 [*1] TuS Koblenz refrained from renewing license for 3. Liga
 [*2] Rot Weiss Ahlen moved to last position because of financial problems
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2009/10, see page duit2010›
 
-‹2011/12, see page duit2012›
 
-‹list of champions, see page duitchamp›
-
-‹all-time table, see page duialltime›
-
-‹list of 2nd level champions, see page duit2champ›
-
-‹list of amateur champions, see page duitamachamp›
-
-‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
-
-‹oberliga nord 1945-1963, see page duit-ol-nord4563›
-
-‹oberliga süd 1945-1963, see page duit-ol-sued4563›
-
-‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
-
-‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
-
-‹oberliga west 1945-1963, see page duit-ol-west4563›
-
-‹regionalliga nord 63-74, see page dui3nordhist›
-
-‹regionalliga süd 63-74, see page dui3suedhist›
-
-‹regionalliga west 63-74, see page dui3westhist›
-
-‹list of cup finals, see page duitcuphist›
-
-‹list of super and league cup finals, see page duitsupcuphist›
-
-‹list of topscorers, see page duittops›
-
-‹list of 2nd level topscorers, see page duit2tops›
-
-‹list of foundation dates, see page duitfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

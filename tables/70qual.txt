@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1970 qualifications
      source: https://rsssf.org/tables/70qual.html
     -->
   
@@ -29,7 +30,6 @@
 progressing into the finals. Teams finishing on level points had a play-off
 game.
 
-<!-- start pre -->
 
 Group 1 (1968-69)  ‹§gr1›
 
@@ -510,4 +510,3 @@ Third Round
 
 2 teams entered, allotted to the Asian zone (see ‹Group 14, see §gr14›)
 
-<!-- end pre -->

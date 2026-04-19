@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2004
      source: https://rsssf.org/tablesu/usa04.html
     -->
   
@@ -6,15 +7,10 @@
 
 == USA 2004
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2004 MLS overview, see page usa04det›
 
-‹2004 other leagues overview, see page usa2-04det›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
 USA 2004 PRO SOCCER LEAGUE STANDINGS
 
 
@@ -364,37 +360,10 @@ FINAL:             Toronto Croatia defeated Vaughan 4-0
 OPEN CANADA CUP:  Windsor Border Stars defeated Ottawa St. Anthony Italia 1-1 (PK)
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2003, see page usa03›
 
-‹2003/04, see page usa0304›
 
-‹2004 MLS overview, see page usa04det›
-
-‹2004 other leagues overview, see page usa2-04det›
-
-‹2004/05, see page usa0405›
-
-‹2005, see page usa05›
-
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Spain 2014/15
      source: https://rsssf.org/tabless/span2015.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Spain 2014/15
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §laliga›
-‹Copa del Rey, see §coparey›
-‹Segunda División, see §segunda›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Barcelona                  38  30  4  4 110-21  94  Champions
@@ -655,13 +651,13 @@ Final Table:
 
 NB: after the season, Elche were demoted because of extravagant tax debts; because
     of this, Eibar remain at the top level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa del Rey  ‹§coparey›
 
-<!-- start pre -->
 Round 1 [Sep 3]
 UD Somozas                3-0 CD Varea
 SD Leioa (Lejona)         1-0 Sestao River Club
@@ -832,13 +828,13 @@ RCD Espanyol              0-2 Athletic Club (Bilbao)
 Final [May 30, Barcelona]
 FC Barcelona              3-1 Athletic Club (Bilbao)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- start pre -->
 Final Table:
 
  1.Real Betis Balompié (Sevilla) 42  25  9  8  73-40  84  Promoted
@@ -894,35 +890,10 @@ Second Leg [Jun 21]
 Las Palmas                2-0 Zaragoza
 
 NB: Las Palmas promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2013/14, see page span2014›.
 
-‹2015/16, see page span2016›.
 
-‹list of champions, see page spanchamp›.
-
-‹list of 2nd level champions, see page span2champ›.
-
-‹list of cup winners, see page spancuphist›.
-
-‹list of super cup winners, see page spansupcuphist›.
-
-‹list of league cup winners, see page spanleagcuphist›.
-
-‹list of copa rfef winners, see page spanrfefcuphist›.
-
-‹list of final tables, see page spanhist›.
-
-‹all-time table, see page spanalltime›.
-
-‹list of top scorers, see page spantops›.
-
-‹list of foundation dates, see page spanfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

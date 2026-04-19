@@ -1,4 +1,5 @@
   <!--
+     title:  Russia 2025/26
      source: https://rsssf.org/tablesr/rus2026.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Russia 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §1l› | ‹Premier League Details, see §1ldet›
-‹Russian Cup, see §kubok› | ‹Russian Cup Details, see §cupdet›
-‹First League, see §2l› |
-‹Second League - Division A, see §3la›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Russian Premier League  ‹§1l›
 
-<!-- start pre -->
 MIR RUSSIAN PREMIER LEAGUE 2025/26
 ==================================
 
@@ -716,13 +711,13 @@ Rubin      -  Pari NN
 Baltika    -  Dinamo Ms
 Dinamo Mh  -  Spartak
 Soci       -  Ahmat
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Premier League - Details  ‹§1ldet›
 
-<!-- start pre -->
 Round 1
 -------
 
@@ -3077,13 +3072,13 @@ Referee: Sergéj Karasjóv (Moskvá}
 05.04.26. SovComBank Arena, Nížnij Nóvgorod. Att: 7,725. +5°C, rain.
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Russian Cup 2025/26  ‹§kubok›
 
-<!-- start pre -->
 D1 = Russian Premier League (RPL)
 D2 = First League
 D3 = Second League Division A
@@ -3885,13 +3880,13 @@ Yellow cards: K.Piačénin 37, G.Chinedu 56, F.Costanza 85, V.Hubúlov 90+4 - A.
 Referee: Vladímir Moskaljóv (Vorónež)
 19.03.26. Solidárnosť Samára Aréna, Samára. Att: 14,720. +4°C.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== First League  ‹§2l›
 
-<!-- start pre -->
 MELBET PERVAJA LIGA (First League) 2025/26
 ==========================================
 
@@ -4751,13 +4746,13 @@ Spartak Ks  -  Ufa
 Celjabinsk  -  Sinnik
 Cernomorec  -  Ural
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Second League - Division A  ‹§3la›
 
-<!-- start pre -->
 ‹Golden Group, see §3gg› | ‹Silver Group, see §3gs›
 
 Golden Group  ‹§3gg›
@@ -5631,25 +5626,10 @@ Dinamo Brj  -  Dinamo Sta
 Dinamo Kir  -  Dinamo-2 M
 Amcar       -  Dinamo Vla
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2024/25, see page rus2025›.
-
-‹2025 (4th to 6th level), see page rus2025b›.
-
-‹2026 (4th to 6th level), see page rus2026b›.
-
-‹list of champions, see page ruschamp›.
-
-‹list of final tables, see page rushist›.
-
-‹list of cup winners, see page ruscuphist›.
 
 
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 == About this document  ‹§about›
 

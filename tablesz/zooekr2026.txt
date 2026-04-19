@@ -1,4 +1,5 @@
   <!--
+     title:  Crimea and South Eastern Ukraine 2026
      source: https://rsssf.org/tablesz/zooekr2026.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Crimea and South Eastern Ukraine 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Crimea, see §krim›
-‹Donetsk PR, see §dpr›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Crimea 2026  ‹§krim›
 
-<!-- start pre -->
 CFU Premier League 2026  ‹§krimpl›
 
 Table:
@@ -290,13 +287,13 @@ Stalker      -  Orbita
 Temp         -  Saq
 NK-Stroj     -  ARS Gazelle
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Donetsk PR 2026  ‹§dpr›
 
-<!-- start pre -->
 Winter Championship 2025/26  ‹§dwchamp›
 
 FIRST STAGE
@@ -432,21 +429,10 @@ Top scorers:
   Dmítrij Stecjún (Mariúpoĺ)      7
 5.Nikoláj Piskovój (Šahtjór-2)    6
 6.Nikíta Dómnin (Šahtjór-2)       5
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page zooekr2025›
 
-‹list of champions (crimea), see page ../tablesk/krimchamp›
 
-‹list of champions (south eastern ukraine), see page zooekrchamp›
-
-‹list of cup winners (crimea), see page ../tablesk/krimcuphist›
-
-‹list of cup winners (south eastern ukraine), see page zooekrcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

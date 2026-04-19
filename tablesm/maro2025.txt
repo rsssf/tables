@@ -1,4 +1,5 @@
   <!--
+     title:  Morocco 2024/25
      source: https://rsssf.org/tablesm/maro2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Morocco 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹GNF I, see §gnf1›
-‹GNF II, see §gnf2›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== GNF I  ‹§gnf1›
 
-<!-- start pre -->
 Final Table:
 
  1.RS Berkane           30  21  7  2  49-14  70       Champions
@@ -484,13 +481,13 @@ JS Soualem         0-3 Olympique Dcheira
 HUS Agadir         1-0 Raja Béni Mellal
 
 NB: Olympique Dcheira promoted, JS Soualem relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== GNF II  ‹§gnf2›
 
-<!-- start pre -->
 Final Table:
 
  1.KAC Marrakech        30  13 14  3  40-20  53       Promoted
@@ -532,19 +529,10 @@ MC Oujda           2-0 Ass. Al-Mansoria
 
 NB: US Boujaâd promoted, CAY Berrechid relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page maro2024›
 
-‹list of champions, see page marochamp›
 
-‹list of cup winners, see page marocuphist›
-
-‹list of topscorers, see page marotops›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

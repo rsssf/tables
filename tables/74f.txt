@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1974
      source: https://rsssf.org/tables/74f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1974 (West Germany, June 13-July 7)
 
-<!-- start pre -->
 
 FIRST PHASE
 
@@ -81,7 +81,6 @@ Scorers: 2' Neeskens (p) 0-1; 25' Breitner (p) 1-1; 43' Müller 2-1.
 
 Topscorer: Lato (Poland) 7 goals.
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 74full›
 
@@ -95,7 +94,9 @@ Topscorer: Lato (Poland) 7 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

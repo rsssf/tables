@@ -1,4 +1,5 @@
   <!--
+     title:  Djibouti 2024/25
      source: https://rsssf.org/tablesd/dji2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Djibouti 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Division 1, see §div1›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Championnat national de la 1ère division  ‹§div1›
 
-<!-- start pre -->
 Final Table:
 
  1.AS Ali Sabieh/Djibouti Télécom   18  12  4  2  44-17  40       Champions
@@ -249,18 +247,10 @@ Final Table:
 NB: two more losses than wins due to award match round 17
 
 Promoted: Obock, AJJ/Sapeurs Pompiers
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page dji2024›.
 
-‹list of champions, see page djichamp›.
 
-‹list of cup winners, see page djicuphist›.
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

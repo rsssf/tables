@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1958 finals
      source: https://rsssf.org/tables/58full.html
     -->
   
@@ -37,7 +38,6 @@ the base of points, goal difference was disregarded. This led to playoff
 matches in three groups (curiosly, teams with worse g/d won, in one case
 it was equal).
 
-<!-- start pre -->
 
 == Group A - ARG CZE GER NIR  ‹§gra›
 
@@ -54,7 +54,9 @@ Borovička, Hertl, Kraus
 
 1:0 Cush 20
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 08.06.58  (19.00) Malmö, Malmö Stadion
 
@@ -69,7 +71,9 @@ Menendez, Rojas, Cruz
 
 0:1 Carbatta 3, 1:1 Rahn 33, 2:1 Seeler 42, 3:1 Rahn 79
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.58  (19.00) Halmstad, Örjans Vall
 
@@ -84,7 +88,9 @@ Bingham, Cush, Coyle, McIlroy, McParland
 
 0:1 McParland 4, 1:1 Corbatta 36 p, 2:1 Menéndez 66, 3:1 Avio 80
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.58  (19.00) Hälsingborg, Olympiavalle
 
@@ -112,7 +118,9 @@ Bingham, Cush, Casey, McIlroy, McParland
 
 0:1 McParland 19, 1:1 Rahn 21, 1:2 McParland 60, 2:2 Seeler 79
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.06.58  (19.00) Hälsingborg, Olympiavalle
 
@@ -163,7 +171,9 @@ Veselinović, Milutinović, Šekularac, Rajkov
 
 0:1 Petaković 13, 1:1 Murray 48
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 08.06.58  (19.00) Norrköping, Idrottsparken
 
@@ -180,7 +190,9 @@ Aguero (c), Parodi, Romero, Re, Amarilla
 Romero 50, 3:3 Piantoni 31, 4:3 Wisnieski 62, 5:2 Fontaine 66, 6:2 Kopa 70,
 7:3 Vincent 84
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.58  (19.00) Norrköping, Idrottsparken
 
@@ -195,7 +207,9 @@ Robertson, Mudie, Collins, Fernie
 
 1:0 Aguero 4, 1:1 Mudie 23, 2:1 Re 44, 3:1 Parodi 74, 3:2 Collins 76
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.58  Västeraas, Arosvallen
 
@@ -211,7 +225,9 @@ Fontaine, Kopa, Piantoni, Vincent
 0:1 Fontaine 5, 1:1 Petaković 16, 2:1 Vaselinović 65, 2:2 Fontaine 85, 3:2
 Vaselinović 87
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.06.58  (19.00) Örebro, Eyravallen
 
@@ -226,7 +242,9 @@ Mudie, Collins, Baird
 
 1:0 Kopa 22, 2:0 Fontaine 45, 2:1 Baird 66 (23 Howie missed penalty)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.06.58  (19.00) Eskilstuna, Tunavallen
 
@@ -264,7 +282,9 @@ Reyes, Calderón, Gutiérrez, Sesma
 
 NOTE: Match preceded by WC opening ceremony
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 08.06.58  (19.00) Sandviken, Jernvallen
 
@@ -279,7 +299,9 @@ Medwin, J.Charles, Allchurch, Jones
 
 1:0 Bozsik 4, 1:1 J.Charles 26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.58  (19.00) Solna, Raasunda Stadion
 
@@ -294,7 +316,9 @@ Medwin, J.Charles, Allchurch, Jones
 
 0:1 Allchurch 32, 1:1 Belmonte 69
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 12.06.58  (19.00) Solna, Raasunda Stadion
 
@@ -309,7 +333,9 @@ Tichy, Bundzsák, Fenyvesi
 
 1:0 Hamrin 34, 2:0 Hamrin 55, 2:1 Tichy 78 (69 Liedholm missed penalty)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.06.58  (14.00) Solna, Raasunda Stadion
 
@@ -322,7 +348,9 @@ Berndtsson, Selmonsson, Källgren, Löfgren, Skoglund
 WAL: Kelsey - Williams, Hopkins, Sullivan - M.Charles, Bowen (c) - Vernon,
 Hewitt, J.Charles, Allchurch, Jones
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.06.58  (19.00) Sandviken, Jernvallen
 
@@ -372,7 +400,9 @@ Senekowitsch, Buzek, A.Körner, Schleger
 
 1:0 Atlafini 37, 2:0 N.Santos 48 f, 3:0 Atlafini 80
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 08.06.58  (19.00) Gothenburg, Nya Ullevi Stadion
 
@@ -387,7 +417,9 @@ V.Ivanov, Simonian (c), Salnikov, Ilyin
 
 0:1 Simonian 13, 0:2 A.Ivanov 56, 1:2 Kevan 65 h, 2:2 Finney 84 p
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.58  (19.00) Boraas, Ryavallen
 
@@ -404,7 +436,9 @@ P.Kozlicek, Buzek, A.Körner, Senekowitsch
 
 NOTE: Some sources award Ilyin's goal to V.Ivanov
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.58  (19.00) Gothenburg, Nya Ullevi Stadion
 
@@ -417,7 +451,9 @@ Mazola, Váva, Zagalo
 ENG: McDonald - Howe, Banks, Clamp - Wright (c), Slater - Douglas, Robson,
 Kevan, Haynes, A'Court
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.06.58  (19.00) Boraas, June 15th - Ryavallen
 
@@ -432,7 +468,9 @@ Kevan, Haynes, A'Court
 
 1:0 Koller 15, 1:1 Haynes 56, 2:1 A.Körner 71, 2:2 Kevan 74
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.06.58  (19.00) Gothenburg, Nya Ullevi Stadion
 
@@ -480,7 +518,9 @@ V.Ivanov, Simonian (c), Salnikov, Ilyin
 
 1:0 Hamrin 48 h, 2:0 Simonsson 87
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.06.58  (19.00) Malmö, Malmö Stadion
 
@@ -495,7 +535,9 @@ Ognjanović, Milutinović, Veselinović, Rajkov
 
 1:0 Rahn 12 f
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.06.58  (19.00) Norrköping, Idrottsparken
 
@@ -510,7 +552,9 @@ Casey, Scott, McIlroy, McParland
 
 1:0 Wisnieski 43, 2:0 Fontaine 55 h, 3:0 Fontaine 63, 4:0 Plantoni 70
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.06.58  (19.00) Gothenburg, Nya Ullevi Stadion
 
@@ -541,7 +585,9 @@ Fontaine, Kopa, Piantoni, Vincent
 1:0 Vává 2, 1:1 Fontaine 9, 2:1 Didi 39, 3:1 Pelé 53, 4:1 Pelé 64, 5:1 Pelé
 76, 5:2 Plantoni 83
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 24.06.58  (19.00) Gothenburg, Nya Ullevi
 
@@ -661,4 +707,3 @@ captain     Aguero PAR     22y349d   Hidegkuti HUN      36y104d
 coach       Trellez MEX    38y312d   Herberger GER      61y 92d
 referee     Codesal URU    30y231d   Mowatt SCO         50y 72d
 
-<!-- end pre -->

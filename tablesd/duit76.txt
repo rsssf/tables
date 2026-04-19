@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1975/76
      source: https://rsssf.org/tablesd/duit76.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1975/76
 
-<!-- start pre -->
 
 Final Table
 
@@ -631,9 +631,10 @@ Borussia Mönchengladbach 1975/76
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2023/24
      source: https://rsssf.org/tablesi/ital2024.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Italy 2023/24
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Serie B, see §serieb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Internazionale   38  29  7  2  89-22  94             Champions
@@ -681,13 +677,13 @@ Final Table:
 19.US Sassuolo         38   7  9 22  43-75  30             Relegated
 20.US Salernitana      38   2 11 25  32-81  17             Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
-<!-- start pre -->
 Preliminary Round
 [Aug 5]
 Catanzaro       1-0 Foggia
@@ -695,7 +691,7 @@ Catanzaro       1-0 Foggia
 [Aug 6]
 Cesena          2-2 Virtus Entella  [aet, 6-5 pen]
   [Shpendi 17, Ciofi 45; Meazzi 51, 56]
-Reggiana  6-2 Pescara
+Reggiana   6-2 Pescara
   [Lanini 38pen, 65pen, Portanova 41, 53, Girma 42, Vido 83; Accornero 13,
    Cuppone 27]
 Feralpisalò     2-1 Vicenza
@@ -828,13 +824,13 @@ Atalanta: Carnesecchi, De Roon (65 Toloi), Hien (59 Scalvini), Djimsiti,
   Zappacosta (59 Hateboer), Ederson, Koopmeiners, Ruggeri, Pasalic (59 Miranchuk)
   De Ketelaere (46 Touré), Lookman. Tr.: Gasperini
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
 
 Regular Season  ‹§2reg›
@@ -905,33 +901,10 @@ Bari            1-1 Ternana
 
 Second Leg [Jun 23]
 Ternana         0-3 Bari
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2022/23, see page ital2023›.
 
-‹2024/25, see page ital2025›.
 
-‹list of champions, see page italchamp›.
-
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

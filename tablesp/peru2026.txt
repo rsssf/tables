@@ -1,4 +1,5 @@
   <!--
+     title:  Peru 2026
      source: https://rsssf.org/tablesp/peru2026.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Peru 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §primera›
-‹Segunda División, see §segunda›
-‹Liga Distrital de Arequipa, see §areq›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División  ‹§primera›
 
-<!-- start pre -->
 ‹Apertura Tournament, see §aper› | ‹Clausura Tournament, see §clau› | ‹Aggregate Table, see §anual› | ‹Championship Playoff, see §1fin›
 
 Apertura Tournament  ‹§aper›
@@ -44,223 +40,223 @@ Table:
 
 Round 1
 [Jan 30]
-Sport Huancayo    1-2 Alianza Lima      [IPD Huancayo Stadium, Huancayo]
+Sport Huancayo      1-2 Alianza Lima         [IPD Huancayo Stadium, Huancayo]
   [Nahuel Luján 45+1; Paolo Guerrero 36pen, Alan Cantero 95]
-U.T.C.      2-0 Atlético Grau      [Heroes de San Ramón Stadium, Cajamarca]
+U.T.C.         2-0 Atlético Grau         [Heroes de San Ramón Stadium, Cajamarca]
   [Marcos Lliuya 2, Adolfo Muñoz 53]
 [Jan 31]
-Sport Boys    1-1 Dep. Los Chankas      [Miguel Grau Stadium, Callao]
+Sport Boys      1-1 Dep. Los Chankas         [Miguel Grau Stadium, Callao]
   [Jostin Alarcón 78; Abdiel Ayarza 30]
-Juan Pablo II    3-3 FC Cajamarca      [Juan Pablo II Stadium, Chongoyape]
+Juan Pablo II      3-3 FC Cajamarca         [Juan Pablo II Stadium, Chongoyape]
   [Christian Cueva 53pen, Adán Henricks 96, Martín Alaniz 102pen; Hernán Barcos 38, 107pen, Arley Rodríguez 73]
-FBC Melgar    2-0 Cienciano        [Monumental UNSA Stadium, Arequipa]
+FBC Melgar      2-0 Cienciano            [Monumental UNSA Stadium, Arequipa]
   [Cristian Bordacahar 28, Jeriel de Santis 93]
 [Feb 1]
-Deportivo Garcilaso  1-1 Sporting Cristal      [Inca Garcilaso de la Vega, Cusco]
+Deportivo Garcilaso   1-1 Sporting Cristal         [Inca Garcilaso de la Vega, Cusco]
   [Adrián Ascues 57; Santiago González 79]
-Alianza Atlético  1-0 Cusco FC        [Campeones del 36 Stadium, Sullana]
+Alianza Atlético   1-0 Cusco FC            [Campeones del 36 Stadium, Sullana]
   [Williams Guzmán 66]
-Universitario    2-0 A.D.T.        [Monumental "U" Stadium, Lima]
+Universitario      2-0 A.D.T.            [Monumental "U" Stadium, Lima]
   [Álex Valera 55, Martín Pérez Guedes 57]
 [Feb 2]
-Comerciantes Unidos  1-0 Dep. Moquegua      [Juan Maldonado Stadium, Cutervo]
+Comerciantes Unidos   1-0 Dep. Moquegua         [Juan Maldonado Stadium, Cutervo]
   [Rodrigo Vilca 50]
 
 Round 2
 [Feb 6]
-Dep. Moquegua    2-3 U.T.C.        [Hugo Sotil Stadium, Lima]
+Dep. Moquegua      2-3 U.T.C.            [Hugo Sotil Stadium, Lima]
   [Jeferson Collazos 27pen, Juan Lojas 41og, Kevin Ruiz 53; Junior Huerto 78, Marlon de Jesús 81pen]
 [Feb 7]
-A.D.T.      1-0 Sport Boys        [Unión Tarma Stadium, Tarma]
+A.D.T.         1-0 Sport Boys            [Unión Tarma Stadium, Tarma]
   [Hideyoshi Arakaki 45]
-Atlético Grau    0-0 Sport Huancayo      [Campeones del 36 Stadium, Sullana]
-Cusco FC    1-1 Universitario      [Inca Garcilaso de la Vega, Cusco]
+Atlético Grau      0-0 Sport Huancayo         [Campeones del 36 Stadium, Sullana]
+Cusco FC      1-1 Universitario         [Inca Garcilaso de la Vega, Cusco]
   [Facundo Callejo 90pen; Álex Valera 58]
 [Feb 8]
-Sporting Cristal  1-2 FBC Melgar        [Alberto Gallardo Stadium, Lima]
+Sporting Cristal   1-2 FBC Melgar            [Alberto Gallardo Stadium, Lima]
   [Felipe Vizeu 86; Bernardo Cuesta 53, Cristian Bordacahar 97]
-Dep. Los Chankas  1-0 Alianza Atlético      [Los Chankas Stadium, Andahuaylas]
+Dep. Los Chankas   1-0 Alianza Atlético         [Los Chankas Stadium, Andahuaylas]
   [Gol: Marlon Torres 76]
-Cienciano    6-1 Juan Pablo II      [Inca Garcilaso de la Vega, Cusco]
+Cienciano      6-1 Juan Pablo II         [Inca Garcilaso de la Vega, Cusco]
   [Neri Bandiera 18, Carlos Garcés 23, 45+4, 60, Matías Succar 68, Alejanro Hohberg 89; Iago Iriarte 13]
-Alianza Lima    2-1 Comerciantes Unidos      [Alejandro Villanueva Stadium, Lima]
+Alianza Lima      2-1 Comerciantes Unidos         [Alejandro Villanueva Stadium, Lima]
   [Renzo Garcés 42, Paolo Guerrero 87pen; Wilter Ayoví 47]
 [Feb 9]
-FC Cajamarca    1-1 Deportivo Garcilaso      [Heroes de San Ramón Stadium, Cajamarca]
+FC Cajamarca      1-1 Deportivo Garcilaso         [Heroes de San Ramón Stadium, Cajamarca]
   [Hernán Barcos 50; Héctor Salazar 93]
 
 Round 3
 [Feb 13]
-U.T.C.      1-0 Cusco FC        [Heroes de San Ramón Stadium, Cajamarca]
+U.T.C.         1-0 Cusco FC            [Heroes de San Ramón Stadium, Cajamarca]
   [Marlon de Jesús 78pen]
-Universitario    2-1 Cienciano        [Monumental "U" Stadium, Lima]
+Universitario      2-1 Cienciano            [Monumental "U" Stadium, Lima]
   [Jairo Concha 36, Álex Valera 62; Alejandro Hohberg 80]
 [Feb 14]
-Deportivo Garcilaso  1-0 A.D.T.        [Inca Garcilaso de la Vega, Cusco]
+Deportivo Garcilaso   1-0 A.D.T.            [Inca Garcilaso de la Vega, Cusco]
   [Francisco Arancibia 9]
-Juan Pablo II    0-2 Sporting Cristal      [Juan Pablo II Stadium, Chongoyape]
+Juan Pablo II      0-2 Sporting Cristal         [Juan Pablo II Stadium, Chongoyape]
   [Felipe Vizeu 9, Luis Iberico 92]
-Sport Boys    1-0 Atlético Grau      [Miguel Grau Stadium, Callao]
+Sport Boys      1-0 Atlético Grau         [Miguel Grau Stadium, Callao]
   [Luis Urruti 59]
-Alianza Atlético  0-0 Alianza Lima      [IPD Mansiche Stadium, Trujillo]
+Alianza Atlético   0-0 Alianza Lima         [IPD Mansiche Stadium, Trujillo]
 [Feb 15]
-Sport Huancayo    2-0 FC Cajamarca      [IPD Huancayo Stadium, Huancayo]
+Sport Huancayo      2-0 FC Cajamarca         [IPD Huancayo Stadium, Huancayo]
   [Yorleys Mena 9, Hugo Ángeles 39]
-Comerciantes Unidos  1-1 Dep. Los Chankas      [Juan Maldonado Stadium, Cutervo]
+Comerciantes Unidos   1-1 Dep. Los Chankas         [Juan Maldonado Stadium, Cutervo]
   [Matías Sen 39; Oshiro Takeuchi 25]
-FBC Melgar    4-0 Dep. Moquegua      [Monumental UNSA Stadium, Arequipa]
+FBC Melgar      4-0 Dep. Moquegua         [Monumental UNSA Stadium, Arequipa]
   [Pablo Erustes 44, Jhonny Vidales 49pen, Bernardo Cuesta 64, 87]
 
 Round 4
 [Feb 20]
-Alianza Lima    1-0 Sport Boys        [Alejandro Villanueva Stadium, Lima]
+Alianza Lima      1-0 Sport Boys            [Alejandro Villanueva Stadium, Lima]
   [Renzo Garcés 31]
 [Feb 21]
-FC Cajamarca    3-1 FBC Melgar        [Heroes de San Ramón Stadium, Cajamarca]
+FC Cajamarca      3-1 FBC Melgar            [Heroes de San Ramón Stadium, Cajamarca]
   [Hernán Barcos 77, 87, 92; Alec Deneumostier 44]
-Sporting Cristal  2-2 Universitario      [Alberto Gallardo Stadium, Lima]
+Sporting Cristal   2-2 Universitario         [Alberto Gallardo Stadium, Lima]
   [Leandro Sosa 69, Yoshimar Yotún 92pen; José Carabalí 9, Álex Valera 30pen]
-Cienciano    1-1 Alianza Atlético      [Inca Garcilaso de la Vega, Cusco]
+Cienciano      1-1 Alianza Atlético         [Inca Garcilaso de la Vega, Cusco]
   [Neri Bandiera 8; Valentín Robaldo 25]
 [Feb 22]
-A.D.T.      2-2 U.T.C.        [Unión Tarma Stadium, Tarma]
+A.D.T.         2-2 U.T.C.            [Unión Tarma Stadium, Tarma]
   [Luis Benites 30pen, 80; Bruno Duarte 89, Michel Rasmussen 95]
-Dep. Los Chankas  3-2 Sport Huancayo      [Los Chankas Stadium, Andahuaylas]
+Dep. Los Chankas   3-2 Sport Huancayo         [Los Chankas Stadium, Andahuaylas]
   [Franco Torres 8, 63pen, 77; Yorleys Mena 33pen, 46]
-Atlético Grau    1-2 Juan Pablo II      [Campeones del 36 Stadium, Sullana]
+Atlético Grau      1-2 Juan Pablo II         [Campeones del 36 Stadium, Sullana]
   [Emiliano Franco 32; Martín Alaniz 53, Jack Durán 94]
-Cusco FC    3-1 Comerciantes Unidos      [Inca Garcilaso de la Vega, Cusco]
+Cusco FC      3-1 Comerciantes Unidos         [Inca Garcilaso de la Vega, Cusco]
   [Facundo Callejo 21, Iván Colman 58, Gabriel Carabajal 97; Jean Olivares 6]
 [Feb 23]
-Dep. Moquegua    1-0 Deportivo Garcilaso      [Hugo Sotil Stadium, Lima]
+Dep. Moquegua      1-0 Deportivo Garcilaso         [Hugo Sotil Stadium, Lima]
   [Kevin Ruiz 57]
 
 Round 5
 [Feb 27]
-Alianza Atlético  0-0 A.D.T.        [Campeones del 36 Stadium, Sullana]
-FBC Melgar    1-2 Dep. Los Chankas      [Monumental UNSA Stadium, Arequipa]
+Alianza Atlético   0-0 A.D.T.            [Campeones del 36 Stadium, Sullana]
+FBC Melgar      1-2 Dep. Los Chankas         [Monumental UNSA Stadium, Arequipa]
   [Matías Zegarra 38; Abdiel Ayarza 84, 92]
-Deportivo Garcilaso  2-3 Cienciano        [Inca Garcilaso de la Vega, Cusco]
+Deportivo Garcilaso   2-3 Cienciano            [Inca Garcilaso de la Vega, Cusco]
   [Luiz da Silva 56pen, Sharif Ramírez 92; Alejandro Hohberg 42pen, Neri Bandiera 67, Matías Succar 96]
 [Feb 28]
-Sport Huancayo    2-1 Sporting Cristal      [IPD Huancayo Stadium, Huancayo]
+Sport Huancayo      2-1 Sporting Cristal         [IPD Huancayo Stadium, Huancayo]
   [Ricardo Salcedo 54, Franco Caballero 77; Jair Moretti 83]
-U.T.C.      0-1 Alianza Lima      [Heroes de San Ramón Stadium, Cajamarca]
+U.T.C.         0-1 Alianza Lima         [Heroes de San Ramón Stadium, Cajamarca]
   [Renzo Garcés 92]
-Sport Boys    0-0 Dep. Moquegua      [Miguel Grau Stadium, Callao]
+Sport Boys      0-0 Dep. Moquegua         [Miguel Grau Stadium, Callao]
 [Mar 1]
-Comerciantes Unidos  3-1 Atlético Grau      [Juan Maldonado Stadium, Cutervo]
+Comerciantes Unidos   3-1 Atlético Grau         [Juan Maldonado Stadium, Cutervo]
   [Matías Sen 18pen, 33, Josuee Herrera 79; Raúl Ruidíaz 69pen]
-Juan Pablo II    2-1 Cusco FC        [Juan Pablo II Stadium, Chongoyape]
+Juan Pablo II      2-1 Cusco FC            [Juan Pablo II Stadium, Chongoyape]
   [Maximiliano Juambeltz 28, Jair Toledo 62; José Manzaneda 19]
-Universitario    1-0 FC Cajamarca      [Monumental "U" Stadium, Lima]
+Universitario      1-0 FC Cajamarca         [Monumental "U" Stadium, Lima]
   [Lisandro Alzugaray 66]
 
 Round 6
 [Mar 6]
-Atlético Grau    1-0 FC Cajamarca      [Campeones del 36 Stadium, Sullana]
+Atlético Grau      1-0 FC Cajamarca         [Campeones del 36 Stadium, Sullana]
   [Patricio Álvarez 36pen]
 [Mar 7]
-Dep. Moquegua    2-1 Sport Huancayo      [25 de Noviembre Stadium, Moquegua]
+Dep. Moquegua      2-1 Sport Huancayo         [25 de Noviembre Stadium, Moquegua]
   [Édgar Lastre 50, Yorman Zapata 61; Yorleys Mena 20]
-Comerciantes Unidos  1-2 U.T.C.        [Juan Maldonado Stadium, Cutervo]
+Comerciantes Unidos   1-2 U.T.C.            [Juan Maldonado Stadium, Cutervo]
   [Rodrigo Vilca 27; David Camacho 16, Jhosep Núñez 83]
-Sporting Cristal  3-1 Alianza Atlético      [Alberto Gallardo Stadium, Lima]
+Sporting Cristal   3-1 Alianza Atlético         [Alberto Gallardo Stadium, Lima]
   [Luis Iberico 20, Irven Ávila 37, Ian Wisdom 96; Franco Coronel 82]
-Cusco FC    1-0 Deportivo Garcilaso      [Inca Garcilaso de la Vega, Cusco]
+Cusco FC      1-0 Deportivo Garcilaso         [Inca Garcilaso de la Vega, Cusco]
   [Marlon Ruidías 84]
 [Mar 8]
-A.D.T.      2-3 Juan Pablo II      [Unión Tarma Stadium, Tarma]
+A.D.T.         2-3 Juan Pablo II         [Unión Tarma Stadium, Tarma]
   [Jonathan Bauman 54, Joao Rojas 64; Maximiliano Juambeltz 13, Nilton Ramírez 45+2, Paolo Fuentes 85]
-Dep. Los Chankas  3-1 Universitario      [Los Chankas Stadium, Andahuaylas]
+Dep. Los Chankas   3-1 Universitario         [Los Chankas Stadium, Andahuaylas]
   [Franco Torres 5, Abdiel Ayarza 71, Marlon Torres 97; Williams Riveros 65]
 [Mar 9]
-Cienciano    3-1 Sport Boys        [Inca Garcilaso de la Vega, Cusco]
+Cienciano      3-1 Sport Boys            [Inca Garcilaso de la Vega, Cusco]
   [Carlos Garcés 16, Alejandro Hohberg 85, Cristian Souza 88; Luciano Nequecaur 52]
-Alianza Lima    3-1 FBC Melgar        [Alejandro Villanueva Stadium, Lima]
+Alianza Lima      3-1 FBC Melgar            [Alejandro Villanueva Stadium, Lima]
   [Paolo Guerrero 30, Jairo Vélez 66, Renzo Garcés 84; Jhonny Vidales 43pen]
 
 Round 7
 [Mar 13]
-FC Cajamarca    3-4 Comerciantes Unidos      [Heroes de San Ramón Stadium, Cajamarca]
+FC Cajamarca      3-4 Comerciantes Unidos         [Heroes de San Ramón Stadium, Cajamarca]
   [Brandon Palacios 19, Arley Rodríguez 31, Hernán Barcos 35; Maximiliano Pérez 54pen, Wilter Ayoví 70, José Parodi 74, Juan Rodríguez 79]
 [Mar 14]
-Sport Huancayo    0-1 A.D.T.        [IPD Huancayo Stadium, Huancayo]
+Sport Huancayo      0-1 A.D.T.            [IPD Huancayo Stadium, Huancayo]
   [Josué Alvino 70]
-Juan Pablo II    2-3 Dep. Los Chankas      [Juan Pablo II Stadium, Chongoyape]
+Juan Pablo II      2-3 Dep. Los Chankas         [Juan Pablo II Stadium, Chongoyape]
   [Arón Sánchez 60, Paolo Fuentes 97; Oshiro Takeuchi 19, Franco Torres 45+5, Kenyi Barrios 87]
-Deportivo Garcilaso  1-1 Alianza Lima      [Inca Garcilaso de la Vega, Cusco]
+Deportivo Garcilaso   1-1 Alianza Lima         [Inca Garcilaso de la Vega, Cusco]
   [Héctor Salazar 61, Agustín Gómez 81og]
-Universitario    2-0 U.T.C.        [Monumental "U" Stadium, Lima]
+Universitario      2-0 U.T.C.            [Monumental "U" Stadium, Lima]
   [Lisandro Alzugaray 61, Álex Valera 101pen]
 [Mar 15]
-Sporting Cristal  3-0 Sport Boys        [Alberto Gallardo Stadium, Lima]
+Sporting Cristal   3-0 Sport Boys            [Alberto Gallardo Stadium, Lima]
   [Maxloren Castro 16, Miguel Araujo 49, Irven Ávila 54]
-FBC Melgar    0-0 Atlético Grau      [Monumental UNSA Stadium, Arequipa]
-Alianza Atlético  3-0 Dep. Moquegua      [Campeones del 36 Stadium, Sullana]
+FBC Melgar      0-0 Atlético Grau         [Monumental UNSA Stadium, Arequipa]
+Alianza Atlético   3-0 Dep. Moquegua         [Campeones del 36 Stadium, Sullana]
   [Franco Coronel 32, Franchesco Flores 68, Jimmy Perez 74]]
-Cusco FC    1-2 Cienciano        [Inca Garcilaso de la Vega, Cusco]
+Cusco FC      1-2 Cienciano            [Inca Garcilaso de la Vega, Cusco]
   [Facundo Callejo 45+2; Alejandro Hohberg 75, Carlos Garcés 89]
 
 Round 8
 [Mar 20]
-A.D.T.      1-1 FBC Melgar        [Unión Tarma Stadium, Tarma]
+A.D.T.         1-1 FBC Melgar            [Unión Tarma Stadium, Tarma]
   [Jordan Guivin 31; Nicolás Quagliata 69]
-Cienciano    3-0 FC Cajamarca      [Inca Garcilaso de la Vega, Cusco]
+Cienciano      3-0 FC Cajamarca         [Inca Garcilaso de la Vega, Cusco]
   [Carlos Garcés 1, 20, Neri Bandiera 41]
 [Mar 21]
-Dep. Moquegua    1-2 Cusco FC        [25 de Noviembre Stadium, Moquegua]
+Dep. Moquegua      1-2 Cusco FC            [25 de Noviembre Stadium, Moquegua]
   [Édgar Lastre 65; Juan Tévez 22, Facundo Callejo 94]
-Comerciantes Unidos  0-0 Universitario      [Juan Maldonado Stadium, Cutervo]
-Dep. Los Chankas  3-2 Sporting Cristal      [Los Chankas Stadium, Andahuaylas]
+Comerciantes Unidos   0-0 Universitario         [Juan Maldonado Stadium, Cutervo]
+Dep. Los Chankas   3-2 Sporting Cristal         [Los Chankas Stadium, Andahuaylas]
   [Jarlín Quintero 12, Franco Torres 35, Abdiel Ayarza 79; Miguel Araujo 42, Luis Iberico 97]
-Alianza Lima    2-0 Juan Pablo II      [Alejandro Villanueva Stadium, Lima]
+Alianza Lima      2-0 Juan Pablo II         [Alejandro Villanueva Stadium, Lima]
   [Eryc Castillo 63, 92]
 [Mar 22]
-U.T.C.      1-1 Alianza Atlético      [Heroes de San Ramón Stadium, Cajamarca]
+U.T.C.         1-1 Alianza Atlético         [Heroes de San Ramón Stadium, Cajamarca]
   [David Camacho 35; Franco Coronel 88]
-Atlético Grau    0-0 Deportivo Garcilaso      [Campeones del 36 Stadium, Sullana]
-Sport Boys    3-0 Sport Huancayo      [Miguel Grau Stadium, Callao]
+Atlético Grau      0-0 Deportivo Garcilaso         [Campeones del 36 Stadium, Sullana]
+Sport Boys      3-0 Sport Huancayo         [Miguel Grau Stadium, Callao]
   [Hernán da Campo 9, Luciano Nequecaur 60; Jimmy Valoyes 32og]
 
 Round 9
 [Apr 3]
-Sporting Cristal  1-2 Dep. Moquegua      [Alberto Gallardo Stadium, Lima]
+Sporting Cristal   1-2 Dep. Moquegua         [Alberto Gallardo Stadium, Lima]
   [Gerald Távara 53pen; Édgar Lastre 15, Cristian Mejía 46]
-Alianza Atlético  2-2 Atlético Grau      [Campeones del 36 Stadium, Sullana]
+Alianza Atlético   2-2 Atlético Grau         [Campeones del 36 Stadium, Sullana]
   [Joel Lupú 51, Jorge del Castillo 93; Rodrigo Tapia 40, Issac Camargo 56]
-Cienciano    3-2 A.D.T.        [Inca Garcilaso de la Vega, Cusco]
+Cienciano      3-2 A.D.T.            [Inca Garcilaso de la Vega, Cusco]
   [Alejandro Hohberg 5, 53pen, Carlos Garcés 38pen; Aylton Mazzo 7, Jordan Guivin 19]
 [Apr 4]
-Deportivo Garcilaso  3-2 Sport Boys        [Inca Garcilaso de la Vega, Cusco]
+Deportivo Garcilaso   3-2 Sport Boys            [Inca Garcilaso de la Vega, Cusco]
   [Francisco Arancibia 8, Luiz da Silva 89, 91; Luis Urruti 34, Luciano Nequecaur 59]
-FBC Melgar    1-3 Cusco FC        [Monumental UNSA Stadium, Arequipa]
+FBC Melgar      1-3 Cusco FC            [Monumental UNSA Stadium, Arequipa]
   [Jesús Alcántar 21; Gabriel Carabajal 1, Facundo Callejo 4pen, 62]
-Universitario    1-0 Alianza Lima      [Monumental "U" Stadium, Lima]
+Universitario      1-0 Alianza Lima         [Monumental "U" Stadium, Lima]
   [Martín Pérez Guedes 52]
 [Apr 5]
-Sport Huancayo    1-1 Comerciantes Unidos      [IPD Huancayo Stadium, Huancayo]
+Sport Huancayo      1-1 Comerciantes Unidos         [IPD Huancayo Stadium, Huancayo]
   [Franco Caballero 74]
-Juan Pablo II    2-1 U.T.C.        [Juan Pablo II Stadium, Chongoyape]
+Juan Pablo II      2-1 U.T.C.            [Juan Pablo II Stadium, Chongoyape]
   [Paolo Fuentes 10, Maximiliano Juambeltz 45+3; Marlon de Jesús 79]
 [Apr 6]
-FC Cajamarca    0-1 Dep. Los Chankas      [Heroes de San Ramón Stadium, Cajamarca]
+FC Cajamarca      0-1 Dep. Los Chankas         [Heroes de San Ramón Stadium, Cajamarca]
   [Adrián Quiroz 10]
 
 Round 10
 [Apr 14]
-Dep. Moquegua     -  Juan Pablo II      [25 de Noviembre Stadium, Moquegua]
-A.D.T.       -  Alianza Lima      [Unión Tarma Stadium, Tarma]
-Sport Boys     -  FBC Melgar        [Miguel Grau Stadium, Callao]
+Dep. Moquegua       -  Juan Pablo II         [25 de Noviembre Stadium, Moquegua]
+A.D.T.          -  Alianza Lima         [Unión Tarma Stadium, Tarma]
+Sport Boys       -  FBC Melgar            [Miguel Grau Stadium, Callao]
 [Apr 15]
-U.T.C.       -  Sport Huancayo      [Heroes de San Ramón Stadium, Cajamarca]
+U.T.C.          -  Sport Huancayo         [Heroes de San Ramón Stadium, Cajamarca]
 [Apr 22]
-Comerciantes Unidos   -  Alianza Atlético      [Juan Maldonado Stadium, Cutervo]
-Atlético Grau     -  Sporting Cristal      [Campeones del 36 Stadium, Sullana]
-Cusco FC     -  FC Cajamarca      [Inca Garcilaso de la Vega, Cusco]
-Universitario     -  Deportivo Garcilaso      [Monumental "U" Stadium, Lima]
+Comerciantes Unidos    -  Alianza Atlético         [Juan Maldonado Stadium, Cutervo]
+Atlético Grau       -  Sporting Cristal         [Campeones del 36 Stadium, Sullana]
+Cusco FC       -  FC Cajamarca         [Inca Garcilaso de la Vega, Cusco]
+Universitario       -  Deportivo Garcilaso         [Monumental "U" Stadium, Lima]
 [Apr 23]
-Dep. Los Chankas   -  Cienciano        [Los Chankas Stadium, Andahuaylas]
+Dep. Los Chankas    -  Cienciano            [Los Chankas Stadium, Andahuaylas]
 
 Table:
                                         P -  W -  D -  L - GF - GA - PTS
@@ -285,93 +281,93 @@ Table:
 
 Round 11
 [Apr 17]
-Dep. Los Chankas   -  Atlético Grau      [Los Chankas Stadium, Andahuaylas]
+Dep. Los Chankas    -  Atlético Grau         [Los Chankas Stadium, Andahuaylas]
 [Apr 18]
-FC Cajamarca     -  A.D.T.        [Heroes de San Ramón Stadium, Cajamarca]
-Juan Pablo II     -  Comerciantes Unidos      [Juan Pablo II Stadium, Chongoyape]
-Sport Huancayo     -  Deportivo Garcilaso      [IPD Huancayo Stadium, Huancayo]
-Alianza Lima     -  Cusco FC        [Alejandro Villanueva Stadium, Lima]
+FC Cajamarca       -  A.D.T.            [Heroes de San Ramón Stadium, Cajamarca]
+Juan Pablo II       -  Comerciantes Unidos         [Juan Pablo II Stadium, Chongoyape]
+Sport Huancayo       -  Deportivo Garcilaso         [IPD Huancayo Stadium, Huancayo]
+Alianza Lima       -  Cusco FC            [Alejandro Villanueva Stadium, Lima]
 [Apr 19]
-Sporting Cristal   -  U.T.C.        [Alberto Gallardo Stadium, Lima]
-Alianza Atlético   -  Sport Boys        [Campeones del 36 Stadium, Sullana]
-FBC Melgar     -  Universitario      [Monumental UNSA Stadium, Arequipa]
-Cienciano     -  Dep. Moquegua      [Inca Garcilaso de la Vega, Cusco]
+Sporting Cristal    -  U.T.C.            [Alberto Gallardo Stadium, Lima]
+Alianza Atlético    -  Sport Boys            [Campeones del 36 Stadium, Sullana]
+FBC Melgar       -  Universitario         [Monumental UNSA Stadium, Arequipa]
+Cienciano       -  Dep. Moquegua         [Inca Garcilaso de la Vega, Cusco]
 
 Round 12
 [Apr 25]
-Dep. Moquegua     -  FC Cajamarca      [25 de Noviembre Stadium, Moquegua]
-Comerciantes Unidos   -  Sporting Cristal      [Juan Maldonado Stadium, Cutervo]
-Sport Boys     -  Juan Pablo II      [Miguel Grau Stadium, Callao]
+Dep. Moquegua       -  FC Cajamarca         [25 de Noviembre Stadium, Moquegua]
+Comerciantes Unidos    -  Sporting Cristal         [Juan Maldonado Stadium, Cutervo]
+Sport Boys       -  Juan Pablo II         [Miguel Grau Stadium, Callao]
 [Apr 26]
-U.T.C.       -  Cienciano        [Heroes de San Ramón Stadium, Cajamarca]
-Cusco FC     -  Sport Huancayo      [Inca Garcilaso de la Vega, Cusco]
-Atlético Grau     -  Alianza Lima      [Mansiche Stadium, Trujillo]
-Universitario     -  Alianza Atlético      [Monumental "U" Stadium, Lima]
+U.T.C.          -  Cienciano            [Heroes de San Ramón Stadium, Cajamarca]
+Cusco FC       -  Sport Huancayo         [Inca Garcilaso de la Vega, Cusco]
+Atlético Grau       -  Alianza Lima         [Mansiche Stadium, Trujillo]
+Universitario       -  Alianza Atlético         [Monumental "U" Stadium, Lima]
 [Apr 27]
-A.D.T.       -  Dep. Los Chankas      [Unión Tarma Stadium, Tarma]
-Deportivo Garcilaso   -  FBC Melgar        [Inca Garcilaso de la Vega, Cusco]
+A.D.T.          -  Dep. Los Chankas         [Unión Tarma Stadium, Tarma]
+Deportivo Garcilaso    -  FBC Melgar            [Inca Garcilaso de la Vega, Cusco]
 
 Round 13
 [May 2]
-FC Cajamarca     -  Sport Boys        [Heroes de San Ramón Stadium, Cajamarca]
-A.D.T.       -  Atlético Grau      [Unión Tarma Stadium, Tarma]
-Cienciano     -  Comerciantes Unidos      [Inca Garcilaso de la Vega, Cusco]
-Alianza Lima     -  Dep. Moquegua      [Alejandro Villanueva Stadium, Lima]
+FC Cajamarca       -  Sport Boys            [Heroes de San Ramón Stadium, Cajamarca]
+A.D.T.          -  Atlético Grau         [Unión Tarma Stadium, Tarma]
+Cienciano       -  Comerciantes Unidos         [Inca Garcilaso de la Vega, Cusco]
+Alianza Lima       -  Dep. Moquegua         [Alejandro Villanueva Stadium, Lima]
 [May 3]
-Sporting Cristal   -  Cusco FC        [Alberto Gallardo Stadium, Lima]
-Juan Pablo II     -  Universitario      [Mansiche Stadium, Trujillo]
-Alianza Atlético   -  Sport Huancayo      [Campeones del 36 Stadium, Sullana]
-FBC Melgar     -  U.T.C.        [Monumental UNSA Stadium, Arequipa]
+Sporting Cristal    -  Cusco FC            [Alberto Gallardo Stadium, Lima]
+Juan Pablo II       -  Universitario         [Mansiche Stadium, Trujillo]
+Alianza Atlético    -  Sport Huancayo         [Campeones del 36 Stadium, Sullana]
+FBC Melgar       -  U.T.C.            [Monumental UNSA Stadium, Arequipa]
 [May 4]
-Dep. Los Chankas   -  Deportivo Garcilaso      [Los Chankas Stadium, Andahuaylas]
+Dep. Los Chankas    -  Deportivo Garcilaso         [Los Chankas Stadium, Andahuaylas]
 
 Round 14
 []
-Cusco FC     -  Dep. Los Chankas
-U.T.C.       -  FC Cajamarca
-Alianza Lima     -  Sporting Cristal
-Deportivo Garcilaso   -  Alianza Atlético
-Sport Huancayo     -  Juan Pablo II
-Atlético Grau     -  Cienciano
-Sport Boys     -  Universitario
-Dep. Moquegua     -  A.D.T.
-Comerciantes Unidos   -  FBC Melgar
+Cusco FC       -  Dep. Los Chankas
+U.T.C.          -  FC Cajamarca
+Alianza Lima       -  Sporting Cristal
+Deportivo Garcilaso    -  Alianza Atlético
+Sport Huancayo       -  Juan Pablo II
+Atlético Grau       -  Cienciano
+Sport Boys       -  Universitario
+Dep. Moquegua       -  A.D.T.
+Comerciantes Unidos    -  FBC Melgar
 
 Round 15
 []
-Juan Pablo II     -  Alianza Atlético
-A.D.T.       -  Comerciantes Unidos
-FBC Melgar     -  Sport Huancayo
-Cienciano     -  Alianza Lima
-Deportivo Garcilaso   -  U.T.C.
-Universitario     -  Atlético Grau
-FC Cajamarca     -  Sporting Cristal
-Dep. Los Chankas   -  Dep. Moquegua
-Sport Boys     -  Cusco FC
+Juan Pablo II       -  Alianza Atlético
+A.D.T.          -  Comerciantes Unidos
+FBC Melgar       -  Sport Huancayo
+Cienciano       -  Alianza Lima
+Deportivo Garcilaso    -  U.T.C.
+Universitario       -  Atlético Grau
+FC Cajamarca       -  Sporting Cristal
+Dep. Los Chankas    -  Dep. Moquegua
+Sport Boys       -  Cusco FC
 
 Round 16
 []
-Cusco FC     -  Atlético Grau
-Juan Pablo II     -  FBC Melgar
-Alianza Atlético   -  FC Cajamarca
-U.T.C.       -  Sport Boys
-Alianza Lima     -  Dep. Los Chankas
-Sport Huancayo     -  Cienciano
-Sporting Cristal   -  A.D.T.
-Dep. Moquegua     -  Universitario
-Comerciantes Unidos   -  Deportivo Garcilaso
+Cusco FC       -  Atlético Grau
+Juan Pablo II       -  FBC Melgar
+Alianza Atlético    -  FC Cajamarca
+U.T.C.          -  Sport Boys
+Alianza Lima       -  Dep. Los Chankas
+Sport Huancayo       -  Cienciano
+Sporting Cristal    -  A.D.T.
+Dep. Moquegua       -  Universitario
+Comerciantes Unidos    -  Deportivo Garcilaso
 
 Round 17
 []
-A.D.T.       -  Cusco FC
-FBC Melgar     -  Alianza Atlético
-Cienciano     -  Sporting Cristal
-Deportivo Garcilaso   -  Juan Pablo II
-Atlético Grau     -  Dep. Moquegua
-Universitario     -  Sport Huancayo
-FC Cajamarca     -  Alianza Lima
-Dep. Los Chankas   -  U.T.C.
-Sport Boys     -  Comerciantes Unidos
+A.D.T.          -  Cusco FC
+FBC Melgar       -  Alianza Atlético
+Cienciano       -  Sporting Cristal
+Deportivo Garcilaso    -  Juan Pablo II
+Atlético Grau       -  Dep. Moquegua
+Universitario       -  Sport Huancayo
+FC Cajamarca       -  Alianza Lima
+Dep. Los Chankas    -  U.T.C.
+Sport Boys       -  Comerciantes Unidos
 
 
 Clausura Tournament  ‹§clau›
@@ -381,13 +377,13 @@ Championship Playoff  ‹§1fin›
 
 NB: between winners ‹Apertura, see §aper› and ‹Clausura, see §clau›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Segunda División  ‹§segunda›
 
-<!-- start pre -->
 ‹First Stage, see §2reg› | ‹Second Stage, see §2sec› | ‹Playoff, see §2poff›
 
 First Stage  ‹§2reg›
@@ -421,47 +417,47 @@ Group 2
 
 Round 1
 [Mar 27]
-FC San Marcos    0-3 Unión Comercio      [Rosas Pampa Stadium, Huaraz]
+FC San Marcos      0-3 Unión Comercio         [Rosas Pampa Stadium, Huaraz]
 [Mar 28]
-A.D.A. Jaén    1-1 Academia Cantolao      [Victor Montoya Stadium, Jaen]
-Univ. San Martín de P.  1-1 Pirata FC        [Villa Santa Field, Lima]
-Ayacucho FC    0-2 Alianza Universidad      [Las Americas Stadium, Huamanga]
-EMD Binacional    1-1 Santos FC        [Guillermo Briceño Stadium, Juliaca]
+A.D.A. Jaén      1-1 Academia Cantolao         [Victor Montoya Stadium, Jaen]
+Univ. San Martín de P.   1-1 Pirata FC            [Villa Santa Field, Lima]
+Ayacucho FC      0-2 Alianza Universidad         [Las Americas Stadium, Huamanga]
+EMD Binacional      1-1 Santos FC            [Guillermo Briceño Stadium, Juliaca]
 [Mar 29]
-Dep. Llacuabamba  3-0 Carlos A. Mannucci      [Municipal Stadium, Huamachuco]
-Unión Minas    0-0 Bentín Tacna Heróica    [IPD Huancayo Stadium, Huancayo]
-Comerciantes FC    3-2 Sport Huancayo "B"      [Villa Emprendedora Field, Iquitos]
-Univ. César Vallejo  bye
-Estudiantil CNI    bye
+Dep. Llacuabamba   3-0 Carlos A. Mannucci         [Municipal Stadium, Huamachuco]
+Unión Minas      0-0 Bentín Tacna Heróica      [IPD Huancayo Stadium, Huancayo]
+Comerciantes FC      3-2 Sport Huancayo "B"         [Villa Emprendedora Field, Iquitos]
+Univ. César Vallejo   bye
+Estudiantil CNI      bye
 
 Round 2
 [Mar 3]
-Academia Cantolao  5-1 FC San Marcos      [Hugo Sotil Stadium, Lima]
+Academia Cantolao   5-1 FC San Marcos         [Hugo Sotil Stadium, Lima]
 [Mar 4]
-Alianza Universidad  1-2 Comerciantes FC      [Heraclio Tapia Stadium, Huanuco]
-Santos FC    0-0 Ayacucho FC        [Municipal Stadium, Nasca]
+Alianza Universidad   1-2 Comerciantes FC         [Heraclio Tapia Stadium, Huanuco]
+Santos FC      0-0 Ayacucho FC            [Municipal Stadium, Nasca]
 [Mar 5]
-Carlos A. Mannucci  2-1 Univ. San Martín de P.    [Mansiche Stadium, Trujillo]
-Unión Comercio    1-0 Univ. César Vallejo      [Carlos Vidaurre Stadium, Tarapoto]
-Bentín Tacna Heróica  2-1 EMD Binacional      [Jorge Basadre Stadium, Tacna]
-Estudiantil CNI    0-0 Unión Minas        [La Gran Saposoa Stadium, Saposoa]
+Carlos A. Mannucci   2-1 Univ. San Martín de P.      [Mansiche Stadium, Trujillo]
+Unión Comercio      1-0 Univ. César Vallejo         [Carlos Vidaurre Stadium, Tarapoto]
+Bentín Tacna Heróica   2-1 EMD Binacional         [Jorge Basadre Stadium, Tacna]
+Estudiantil CNI      0-0 Unión Minas            [La Gran Saposoa Stadium, Saposoa]
 [Mar 6]
-Pirata FC    0-1 A.D.A. Jaén        [Complejo 9 de Octubre Field, Chiclayo]
-Dep. Llacuabamba  bye
-Sport Huancayo "B"  bye
+Pirata FC      0-1 A.D.A. Jaén            [Complejo 9 de Octubre Field, Chiclayo]
+Dep. Llacuabamba   bye
+Sport Huancayo "B"   bye
 
 Round 3
 []
-A.D.A. Jaén     -  Carlos A. Mannucci
-Univ. César Vallejo   -  Academia Cantolao
-Univ. San Martín de P.   -  Dep. Llacuabamba
-FC San Marcos     -  Pirata FC
-Ayacucho FC     -  Bentín Tacna Heróica
-Comerciantes FC     -  Santos FC
-Sport Huancayo "B"   -  Alianza Universidad
-EMD Binacional     -  Estudiantil CNI
-Unión Comercio    bye
-Unión Minas    bye
+A.D.A. Jaén       -  Carlos A. Mannucci
+Univ. César Vallejo    -  Academia Cantolao
+Univ. San Martín de P.    -  Dep. Llacuabamba
+FC San Marcos       -  Pirata FC
+Ayacucho FC       -  Bentín Tacna Heróica
+Comerciantes FC       -  Santos FC
+Sport Huancayo "B"    -  Alianza Universidad
+EMD Binacional       -  Estudiantil CNI
+Unión Comercio      bye
+Unión Minas      bye
 
 Tables:
 
@@ -492,210 +488,210 @@ Group 2
 
 Round 4
 []
-Carlos A. Mannucci   -  FC San Marcos
-Dep. Llacuabamba   -  A.D.A. Jaén
-Academia Cantolao   -  Unión Comercio
-Pirata FC     -  Univ. César Vallejo
-Bentín Tacna Heróica   -  Comerciantes FC
-Santos FC     -  Sport Huancayo "B"
-Unión Minas     -  EMD Binacional
-Estudiantil CNI     -  Ayacucho FC
-Univ. San Martín de P.  bye
-Alianza Universidad  bye
+Carlos A. Mannucci    -  FC San Marcos
+Dep. Llacuabamba    -  A.D.A. Jaén
+Academia Cantolao    -  Unión Comercio
+Pirata FC       -  Univ. César Vallejo
+Bentín Tacna Heróica    -  Comerciantes FC
+Santos FC       -  Sport Huancayo "B"
+Unión Minas       -  EMD Binacional
+Estudiantil CNI       -  Ayacucho FC
+Univ. San Martín de P.   bye
+Alianza Universidad   bye
 
 Round 5
 []
-A.D.A. Jaén     -  Univ. San Martín de P.
-Univ. César Vallejo   -  Carlos A. Mannucci
-FC San Marcos     -  Dep. Llacuabamba
-Unión Comercio     -  Pirata FC
-Ayacucho FC     -  Unión Minas
-Comerciantes FC     -  Estudiantil CNI
-Alianza Universidad   -  Santos FC
-Sport Huancayo "B"   -  Bentín Tacna Heróica
-Academia Cantolao  bye
-EMD Binacional    bye
+A.D.A. Jaén       -  Univ. San Martín de P.
+Univ. César Vallejo    -  Carlos A. Mannucci
+FC San Marcos       -  Dep. Llacuabamba
+Unión Comercio       -  Pirata FC
+Ayacucho FC       -  Unión Minas
+Comerciantes FC       -  Estudiantil CNI
+Alianza Universidad    -  Santos FC
+Sport Huancayo "B"    -  Bentín Tacna Heróica
+Academia Cantolao   bye
+EMD Binacional      bye
 
 Round 6
 []
-Carlos A. Mannucci   -  Unión Comercio
-Dep. Llacuabamba   -  Univ. César Vallejo
-Univ. San Martín de P.   -  FC San Marcos
-Pirata FC     -  Academia Cantolao
-Bentín Tacna Heróica   -  Alianza Universidad
-Unión Minas     -  Comerciantes FC
-Estudiantil CNI     -  Sport Huancayo "B"
-EMD Binacional     -  Ayacucho FC
-A.D.A. Jaén    bye
-Santos FC    bye
+Carlos A. Mannucci    -  Unión Comercio
+Dep. Llacuabamba    -  Univ. César Vallejo
+Univ. San Martín de P.    -  FC San Marcos
+Pirata FC       -  Academia Cantolao
+Bentín Tacna Heróica    -  Alianza Universidad
+Unión Minas       -  Comerciantes FC
+Estudiantil CNI       -  Sport Huancayo "B"
+EMD Binacional       -  Ayacucho FC
+A.D.A. Jaén      bye
+Santos FC      bye
 
 Round 7
 []
-Univ. César Vallejo   -  Univ. San Martín de P.
-Academia Cantolao   -  Carlos A. Mannucci
-FC San Marcos     -  A.D.A. Jaén
-Unión Comercio     -  Dep. Llacuabamba
-Santos FC     -  Bentín Tacna Heróica
-Comerciantes FC     -  EMD Binacional
-Alianza Universidad   -  Estudiantil CNI
-Sport Huancayo "B"   -  Unión Minas
-Pirata FC    bye
-Ayacucho FC    bye
+Univ. César Vallejo    -  Univ. San Martín de P.
+Academia Cantolao    -  Carlos A. Mannucci
+FC San Marcos       -  A.D.A. Jaén
+Unión Comercio       -  Dep. Llacuabamba
+Santos FC       -  Bentín Tacna Heróica
+Comerciantes FC       -  EMD Binacional
+Alianza Universidad    -  Estudiantil CNI
+Sport Huancayo "B"    -  Unión Minas
+Pirata FC      bye
+Ayacucho FC      bye
 
 Round 8
 []
-Carlos A. Mannucci   -  Pirata FC
-A.D.A. Jaén     -  Univ. César Vallejo
-Dep. Llacuabamba   -  Academia Cantolao
-Univ. San Martín de P.   -  Unión Comercio
-Ayacucho FC     -  Comerciantes FC
-Unión Minas     -  Alianza Universidad
-Estudiantil CNI     -  Santos FC
-EMD Binacional     -  Sport Huancayo "B"
-FC San Marcos    bye
-Bentín Tacna Heróica  bye
+Carlos A. Mannucci    -  Pirata FC
+A.D.A. Jaén       -  Univ. César Vallejo
+Dep. Llacuabamba    -  Academia Cantolao
+Univ. San Martín de P.    -  Unión Comercio
+Ayacucho FC       -  Comerciantes FC
+Unión Minas       -  Alianza Universidad
+Estudiantil CNI       -  Santos FC
+EMD Binacional       -  Sport Huancayo "B"
+FC San Marcos      bye
+Bentín Tacna Heróica   bye
 
 Round 9
 []
-Univ. César Vallejo   -  FC San Marcos
-Academia Cantolao   -  Univ. San Martín de P.
-Pirata FC     -  Dep. Llacuabamba
-Unión Comercio     -  A.D.A. Jaén
-Bentín Tacna Heróica   -  Estudiantil CNI
-Santos FC     -  Unión Minas
-Alianza Universidad   -  EMD Binacional
-Sport Huancayo "B"   -  Ayacucho FC
-Carlos A. Mannucci  bye
-Comerciantes FC    bye
+Univ. César Vallejo    -  FC San Marcos
+Academia Cantolao    -  Univ. San Martín de P.
+Pirata FC       -  Dep. Llacuabamba
+Unión Comercio       -  A.D.A. Jaén
+Bentín Tacna Heróica    -  Estudiantil CNI
+Santos FC       -  Unión Minas
+Alianza Universidad    -  EMD Binacional
+Sport Huancayo "B"    -  Ayacucho FC
+Carlos A. Mannucci   bye
+Comerciantes FC      bye
 
 Round 10
 []
-Academia Cantolao   -  A.D.A. Jaén
-Carlos A. Mannucci   -  Dep. Llacuabamba
-Pirata FC     -  Univ. San Martín de P.
-Unión Comercio     -  FC San Marcos
-Alianza Universidad   -  Ayacucho FC
-Bentín Tacna Heróica   -  Unión Minas
-Sport Huancayo "B"   -  Comerciantes FC
-Santos FC     -  EMD Binacional
-Univ. César Vallejo  bye
-Estudiantil CNI    bye
+Academia Cantolao    -  A.D.A. Jaén
+Carlos A. Mannucci    -  Dep. Llacuabamba
+Pirata FC       -  Univ. San Martín de P.
+Unión Comercio       -  FC San Marcos
+Alianza Universidad    -  Ayacucho FC
+Bentín Tacna Heróica    -  Unión Minas
+Sport Huancayo "B"    -  Comerciantes FC
+Santos FC       -  EMD Binacional
+Univ. César Vallejo   bye
+Estudiantil CNI      bye
 
 Round 11
 []
-Univ. San Martín de P.   -  Carlos A. Mannucci
-FC San Marcos     -  Academia Cantolao
-A.D.A. Jaén     -  Pirata FC
-Univ. César Vallejo   -  Unión Comercio
-EMD Binacional     -  Bentín Tacna Heróica
-Ayacucho FC     -  Santos FC
-Unión Minas     -  Estudiantil CNI
-Comerciantes FC     -  Alianza Universidad
-Dep. Llacuabamba  bye
-Sport Huancayo "B"  bye
+Univ. San Martín de P.    -  Carlos A. Mannucci
+FC San Marcos       -  Academia Cantolao
+A.D.A. Jaén       -  Pirata FC
+Univ. César Vallejo    -  Unión Comercio
+EMD Binacional       -   Bentín Tacna Heróica
+Ayacucho FC       -   Santos FC
+Unión Minas       -   Estudiantil CNI
+Comerciantes FC       -  Alianza Universidad
+Dep. Llacuabamba   bye
+Sport Huancayo "B"   bye
 
 Round 12
 []
-Carlos A. Mannucci   -  A.D.A. Jaén
-Academia Cantolao   -  Univ. César Vallejo
-Dep. Llacuabamba   -  Univ. San Martín de P.
-Pirata FC     -  FC San Marcos
-Bentín Tacna Heróica   -  Ayacucho FC
-Santos FC     -  Comerciantes FC
-Alianza Universidad   -  Sport Huancayo "B"
-Estudiantil CNI     -  EMD Binacional
-Unión Comercio    bye
-Unión Minas    bye
+Carlos A. Mannucci    -  A.D.A. Jaén
+Academia Cantolao    -  Univ. César Vallejo
+Dep. Llacuabamba    -  Univ. San Martín de P.
+Pirata FC       -  FC San Marcos
+Bentín Tacna Heróica    -  Ayacucho FC
+Santos FC       -  Comerciantes FC
+Alianza Universidad    -  Sport Huancayo "B"
+Estudiantil CNI       -  EMD Binacional
+Unión Comercio      bye
+Unión Minas      bye
 
 Round 13
 []
-FC San Marcos     -  Carlos A. Mannucci
-A.D.A. Jaén     -  Dep. Llacuabamba
-Unión Comercio     -  Academia Cantolao
-Univ. César Vallejo   -  Pirata FC
-Comerciantes FC     -  Bentín Tacna Heróica
-Sport Huancayo "B"   -  Santos FC
-EMD Binacional     -  Unión Minas
-Ayacucho FC     -  Estudiantil CNI
-Univ. San Martín de P.  bye
-Alianza Universidad  bye
+FC San Marcos       -  Carlos A. Mannucci
+A.D.A. Jaén       -  Dep. Llacuabamba
+Unión Comercio       -  Academia Cantolao
+Univ. César Vallejo    -  Pirata FC
+Comerciantes FC       -  Bentín Tacna Heróica
+Sport Huancayo "B"    -  Santos FC
+EMD Binacional       -  Unión Minas
+Ayacucho FC       -  Estudiantil CNI
+Univ. San Martín de P.   bye
+Alianza Universidad   bye
 
 Round 14
 []
-Univ. San Martín de P.   -  A.D.A. Jaén
-Carlos A. Mannucci   -  Univ. César Vallejo
-Dep. Llacuabamba   -  FC San Marcos
-Pirata FC     -  Unión Comercio
-Unión Minas     -  Ayacucho FC
-Estudiantil CNI     -  Comerciantes FC
-Santos FC     -  Alianza Universidad
-Bentín Tacna Heróica   -  Sport Huancayo "B"
-Academia Cantolao  bye
-EMD Binacional    bye
+Univ. San Martín de P.    -  A.D.A. Jaén
+Carlos A. Mannucci    -  Univ. César Vallejo
+Dep. Llacuabamba    -  FC San Marcos
+Pirata FC       -  Unión Comercio
+Unión Minas       -  Ayacucho FC
+Estudiantil CNI       -  Comerciantes FC
+Santos FC       -  Alianza Universidad
+Bentín Tacna Heróica    -  Sport Huancayo "B"
+Academia Cantolao   bye
+EMD Binacional      bye
 
 Round 15
 []
-Unión Comercio     -  Carlos A. Mannucci
-Univ. César Vallejo   -  Dep. Llacuabamba
-FC San Marcos     -  Univ. San Martín de P.
-Academia Cantolao   -  Pirata FC
-Alianza Universidad   -  Bentín Tacna Heróica
-Comerciantes FC     -  Unión Minas
-Sport Huancayo "B"   -  Estudiantil CNI
-Ayacucho FC     -  EMD Binacional
-A.D.A. Jaén    bye
-Santos FC    bye
+Unión Comercio       -  Carlos A. Mannucci
+Univ. César Vallejo    -  Dep. Llacuabamba
+FC San Marcos       -  Univ. San Martín de P.
+Academia Cantolao    -  Pirata FC
+Alianza Universidad    -  Bentín Tacna Heróica
+Comerciantes FC       -  Unión Minas
+Sport Huancayo "B"    -  Estudiantil CNI
+Ayacucho FC       -  EMD Binacional
+A.D.A. Jaén      bye
+Santos FC      bye
 
 Round 16
 []
-Univ. San Martín de P.   -  Univ. César Vallejo
-Carlos A. Mannucci   -  Academia Cantolao
-A.D.A. Jaén     -  FC San Marcos
-Dep. Llacuabamba   -  Unión Comercio
-Bentín Tacna Heróica   -  Santos FC
-EMD Binacional     -  Comerciantes FC
-Estudiantil CNI     -  Alianza Universidad
-Unión Minas     -  Sport Huancayo "B"
-Pirata FC    bye
-Ayacucho FC    bye
+Univ. San Martín de P.    -  Univ. César Vallejo
+Carlos A. Mannucci    -  Academia Cantolao
+A.D.A. Jaén       -  FC San Marcos
+Dep. Llacuabamba    -  Unión Comercio
+Bentín Tacna Heróica    -  Santos FC
+EMD Binacional       -  Comerciantes FC
+Estudiantil CNI       -  Alianza Universidad
+Unión Minas       -  Sport Huancayo "B"
+Pirata FC      bye
+Ayacucho FC      bye
 
 Round 17
 []
-Pirata FC     -  Carlos A. Mannucci
-Univ. César Vallejo   -  A.D.A. Jaén
-Academia Cantolao   -  Dep. Llacuabamba
-Unión Comercio     -  Univ. San Martín de P.
-Comerciantes FC     -  Ayacucho FC
-Alianza Universidad   -  Unión Minas
-Santos FC     -  Estudiantil CNI
-Sport Huancayo "B"   -  EMD Binacional
-FC San Marcos    bye
-Bentín Tacna Heróica  bye
+Pirata FC       -  Carlos A. Mannucci
+Univ. César Vallejo    -  A.D.A. Jaén
+Academia Cantolao    -  Dep. Llacuabamba
+Unión Comercio       -  Univ. San Martín de P.
+Comerciantes FC       -  Ayacucho FC
+Alianza Universidad    -  Unión Minas
+Santos FC       -  Estudiantil CNI
+Sport Huancayo "B"    -  EMD Binacional
+FC San Marcos      bye
+Bentín Tacna Heróica   bye
 
 Round 18
 []
-FC San Marcos     -  Univ. César Vallejo
-Univ. San Martín de P.   -  Academia Cantolao
-Dep. Llacuabamba   -  Pirata FC
-A.D.A. Jaén     -  Unión Comercio
-Estudiantil CNI     -  Bentín Tacna Heróica
-Unión Minas     -  Santos FC
-EMD Binacional     -  Alianza Universidad
-Ayacucho FC     -  Sport Huancayo "B"
-Carlos A. Mannucci  bye
-Comerciantes FC    bye
+FC San Marcos       -  Univ. César Vallejo
+Univ. San Martín de P.    -  Academia Cantolao
+Dep. Llacuabamba    -  Pirata FC
+A.D.A. Jaén       -  Unión Comercio
+Estudiantil CNI       -  Bentín Tacna Heróica
+Unión Minas       -  Santos FC
+EMD Binacional       -  Alianza Universidad
+Ayacucho FC       -  Sport Huancayo "B"
+Carlos A. Mannucci   bye
+Comerciantes FC      bye
 
 
 Second Stage  ‹§2sec›
 
 Playoff  ‹§2poff›
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga Distrital de Arequipa (Cercado)  ‹§areq›
 
-<!-- start pre -->
 Table:
                                         P -  W -  D -  L - GF - GA - PTS
  1. Sportivo Huracán                    8 -  7 -  0 -  1 - 26 -  7 -  21
@@ -712,84 +708,84 @@ Table:
 
 Round 1
 [Feb 21]
-Academia Cantolao  1-2 ADEPA La Esperanza
-White Star    1-2 FBC Piérola
-Dep. Temperley    0-5 Tiznados FC
-Arequipa FBC    0-4 Sportivo Huracán
-FBC Aurora    0-1 Atl. Universidad
-Sptvo. Huracancito  bye
+Academia Cantolao   1-2 ADEPA La Esperanza
+White Star      1-2 FBC Piérola
+Dep. Temperley      0-5 Tiznados FC
+Arequipa FBC      0-4 Sportivo Huracán
+FBC Aurora      0-1 Atl. Universidad
+Sptvo. Huracancito   bye
 
 Round 2
 [Mar 7]
-White Star    2-2 Arequipa FBC
-Academia Cantolao  2-1 FBC Piérola
-Dep. Temperley    0-2 Atl. Universidad
-Tiznados FC    0-3 Sptvo. Huracancito
-FBC Aurora    1-3 Sportivo Huracán
-ADEPA La Esperanza  bye
+White Star      2-2 Arequipa FBC
+Academia Cantolao   2-1 FBC Piérola
+Dep. Temperley      0-2 Atl. Universidad
+Tiznados FC      0-3 Sptvo. Huracancito
+FBC Aurora      1-3 Sportivo Huracán
+ADEPA La Esperanza   bye
 
 Round 3
 [Mar 14]
-ADEPA La Esperanza  0-7 Sptvo. Huracancito
-Tiznados FC    0-2 Atl. Universidad
-Dep. Temperley    2-3 Sportivo Huracán
-Academia Cantolao  1-1 Arequipa FBC
-FBC Aurora    2-0 White Star
-FBC Piérola    bye
+ADEPA La Esperanza   0-7 Sptvo. Huracancito
+Tiznados FC      0-2 Atl. Universidad
+Dep. Temperley      2-3 Sportivo Huracán
+Academia Cantolao   1-1 Arequipa FBC
+FBC Aurora      2-0 White Star
+FBC Piérola      bye
 
 Round 4
 [Mar 21]
-Atl. Universidad  0-0 Sptvo. Huracancito
-ADEPA La Esperanza  0-2 FBC Piérola
-Tiznados FC    0-2 Sportivo Huracán
-Dep. Temperley    0-1 White Star
-Academia Cantolao  3-3 FBC Aurora
-Arequipa FBC    bye
+Atl. Universidad   0-0 Sptvo. Huracancito
+ADEPA La Esperanza   0-2 FBC Piérola
+Tiznados FC      0-2 Sportivo Huracán
+Dep. Temperley      0-1 White Star
+Academia Cantolao   3-3 FBC Aurora
+Arequipa FBC      bye
 
 Round 5
 [Mar 25]
-FBC Piérola    0-3 Sptvo. Huracancito
-Atl. Universidad  1-3 Sportivo Huracán
-ADEPA La Esperanza  2-2 Arequipa FBC
-Tiznados FC    1-2 White Star
-Dep. Temperley    0-1 Academia Cantolao
-FBC Aurora    bye
+FBC Piérola      0-3 Sptvo. Huracancito
+Atl. Universidad   1-3 Sportivo Huracán
+ADEPA La Esperanza   2-2 Arequipa FBC
+Tiznados FC      1-2 White Star
+Dep. Temperley      0-1 Academia Cantolao
+FBC Aurora      bye
 
 Round 6
 [Mar 28]
-Sportivo Huracán  1-3 Sptvo. Huracancito
-FBC Piérola    6-3 Arequipa FBC
-Atl. Universidad  2-0 White Star
-ADEPA La Esperanza  1-6 FBC Aurora
-Tiznados FC    1-1 Academia Cantolao
-Dep. Temperley    bye
+Sportivo Huracán   1-3 Sptvo. Huracancito
+FBC Piérola      6-3 Arequipa FBC
+Atl. Universidad   2-0 White Star
+ADEPA La Esperanza   1-6 FBC Aurora
+Tiznados FC      1-1 Academia Cantolao
+Dep. Temperley      bye
 
 Round 7
 [Apr 2]
-Arequipa FBC    0-7 Sptvo. Huracancito
-Sportivo Huracán  6-0 White Star
-FBC Piérola    3-4 FBC Aurora
-Atl. Universidad  3-1 Academia Cantolao
-ADEPA La Esperanza  1-5 Dep. Temperley
-Tiznados FC    bye
+Arequipa FBC      0-7 Sptvo. Huracancito
+Sportivo Huracán   6-0 White Star
+FBC Piérola      3-4 FBC Aurora
+Atl. Universidad   3-1 Academia Cantolao
+ADEPA La Esperanza   1-5 Dep. Temperley
+Tiznados FC      bye
 
 Round 8
 [Apr 4]
-White Star    0-2 Sptvo. Huracancito
-Arequipa FBC    0-6 FBC Aurora
-Sportivo Huracán  4-0 Academia Cantolao
-FBC Piérola    3-0 Dep. Temperley
-ADEPA La Esperanza  2-2 Tiznados FC
-Atl. Universidad  bye
+White Star      0-2 Sptvo. Huracancito
+Arequipa FBC      0-6 FBC Aurora
+Sportivo Huracán   4-0 Academia Cantolao
+FBC Piérola      3-0 Dep. Temperley
+ADEPA La Esperanza   2-2 Tiznados FC
+Atl. Universidad   bye
 
 Round 9
 [Apr 11]
-FBC Aurora     -  Sptvo. Huracancito
-White Star     -  Academia Cantolao
-Arequipa FBC     -  Dep. Temperley
-FBC Piérola     -  Tiznados FC
-Atl. Universidad   -  ADEPA La Esperanza
-Sportivo Huracán  bye
+FBC Aurora       -  Sptvo. Huracancito
+White Star       -  Academia Cantolao
+Arequipa FBC       -  Dep. Temperley
+FBC Piérola       -  Tiznados FC
+Atl. Universidad    -  ADEPA La Esperanza
+Sportivo Huracán   bye
 
 Table:
                                         P -  W -  D -  L - GF - GA - PTS
@@ -807,51 +803,26 @@ Table:
 
 Round 10
 []
-Academia Cantolao   -  Sptvo. Huracancito
-FBC Aurora     -  Dep. Temperley
-Arequipa FBC     -  Tiznados FC
-Sportivo Huracán   -  ADEPA La Esperanza
-FBC Piérola     -  Atl. Universidad
-White Star    bye
+Academia Cantolao    -  Sptvo. Huracancito
+FBC Aurora       -  Dep. Temperley
+Arequipa FBC       -  Tiznados FC
+Sportivo Huracán    -  ADEPA La Esperanza
+FBC Piérola       -  Atl. Universidad
+White Star      bye
 
 Round 11
 []
-Dep. Temperley     -  Sptvo. Huracancito
-FBC Aurora     -  Tiznados FC
-White Star     -  ADEPA La Esperanza
-Arequipa FBC     -  Atl. Universidad
-Sportivo Huracán   -  FBC Piérola
-Academia Cantolao  bye
+Dep. Temperley       -  Sptvo. Huracancito
+FBC Aurora       -  Tiznados FC
+White Star       -  ADEPA La Esperanza
+Arequipa FBC       -  Atl. Universidad
+Sportivo Huracán    -  FBC Piérola
+Academia Cantolao   bye
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page peru2025›
 
-‹list of champions, see page peruchamp›.
 
-‹all-time table descentralizado, see page perualltime›.
-
-‹copa peru history, see page perucuphist›.
-
-‹list of 2nd division champions, see page peru2champ›.
-
-‹list of regional champions, see page peruregchamp›.
-
-‹list of departmental champions, see page perudeptchamp›.
-
-‹list of final tables, see page peruhist›.
-
-‹list of 2nd division final tables, see page peru2hist›.
-
-‹list of divisional movements, see page peruall›.
-
-‹list of foundation dates, see page perufound›.
-
-‹list of topscorers, see page perutops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

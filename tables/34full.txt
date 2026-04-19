@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1934 finals
      source: https://rsssf.org/tables/34full.html
     -->
   
@@ -28,7 +29,6 @@ Napoli, Torino, Trieste) Decided at 8 Oct 1932. Entries deadline 28 Feb
 (CHI, PER, TUR withdrew). Qualifications drawn 22 May 1933 at Paris. Finals
 drawn 3 May 1934 at Rome.
 
-<!-- start pre -->
 
 == Eightfinals  ‹§8fin›
 
@@ -46,7 +46,9 @@ Florie - Ryan, Nilsen, Donelli, Dick, Maclean
 1:0 Schiavio 18, 2:0 Orsi 20, 3:0 Schiavio 29, 3:1 Donelli 67, 4:1 Ferrari
 63, 5:1 Schiavio 64 h, 6:1 Orsi 69, 7:1 Meazza 89
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 27.05.34  (16.30) Trieste, Stadio Littorio
 
@@ -61,7 +63,9 @@ Bindea, Covaci, Sepi, Bodola, Dobai
 
 0:1 Dobay 11, 1:1 Puč 50, 2:1 Nejedlý 67
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 27.05.34  (16.30) Florence, Stadio Giovanni Berta
 
@@ -77,7 +81,9 @@ Claessens - Devries, Voorhoof, Capelle, Grimmonprez, Heremans
 1:0 Kobierski 25, 1:1 Voorhoof 29, 1:2 Voorhoof 43, 2:2 Sifling 49, 3:2
 Conen 66, 4:2 Conen 70, 5:2 Conen 87
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 27.05.34   (16.30) Torino, Stadio Mussolini
 
@@ -93,7 +99,9 @@ Keller, Alcazar, Nicolas, Rio, Aston
 0:1 Nicolas 18, 1:1 Sindelar 44, 2:1 Schall 93, 3:1 Bican 109, 3:2 Verriest
 118 p
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 27.05.34  (16.30) Genova, Stadio Marassi
 
@@ -109,7 +117,9 @@ Luizinho, de Brito, Leónidas, Armadinho, Patesko
 1:0 Iraragorii 18 p, 2:0 Lángara 25, 3:0 Lángara 29, 3:1 Leónidas 55
 (62 Zamora saved a penalty by Brito)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 27.05.34  (16.30) Milano, Stadio San Siro
 
@@ -125,7 +135,9 @@ Heel (c) - Wels, Vente, Bakhuys, Smit, Van Nellen
 1:0 Kielholz 7, 1:1 Smit 19, 2:1 Kielholz 29, 3:1 Abegglen 69, 3:2
 Vente 84
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 27.05.34  (16.30) Bologna, Stadio Littoriale
 
@@ -140,7 +152,9 @@ Rúa, Wilde, De Vincenzi, Galateo, Irañeta
 
 0:1 Belis 4 f, 1:1 Jonasson 9, 1:2 Galateo 46, 2:2 Jonasson 67, 3:2 Kroon 79
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 27.05.34  (16.30) Naples, Stadio Ascarelli
 
@@ -171,7 +185,9 @@ Dunker, Gustafsson, Jonasson, Keller, Kroon
 
 1:0 Hohmann 60, 2:0 Hohmann 63, 2:1 Dunker 82
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 31.05.34  Bologna, Stadio Littoriale
 
@@ -188,7 +204,9 @@ Avar, Sarosi, Toldi, Kemenyi
 
 sent off: Markos (80)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 31.05.34  Florence, Stadio Giovanni Berta
 
@@ -218,7 +236,9 @@ Ventolrá, Regueiro, Campanal, Chacho, Bosch
 
 1:0 Meazza 11 h
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 31.05.34  (16.30) Torino, Stadio Mussolini
 
@@ -249,7 +269,9 @@ Bican, Sindelar, Schall, Viertl
 
 1:0 Guaita 19
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 03.06.34  (16.30) Rome, Stadio del PNF
 
@@ -360,4 +382,3 @@ captain     Martim BRA     23y 36d   Zamora ESP         33y130d
 coach       Nádas HUN      around 33 Meisl AUT          52y203d
 referee     Eklind SWE     28y224d   Birlem GER         46y137d
 
-<!-- end pre -->

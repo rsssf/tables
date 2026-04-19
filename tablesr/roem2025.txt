@@ -1,4 +1,5 @@
   <!--
+     title:  Romania 2024/25
      source: https://rsssf.org/tablesr/roem2025.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Romania 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga 1, see §liga1›
-‹Cupa României, see §cupa›
-‹Supercupa României, see §sup›
-‹Liga a 2-a, see §liga2›
-‹Liga a 3-a, see §liga3›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga 1  ‹§liga1›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -750,13 +744,13 @@ Metaloglobus   1-0 Politehnica
 Unirea         1-0 Voluntari      [aet, 4-3 pen]
 
 NB: Metaloglobus București promoted, Politehnica Iași relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cupa României  ‹§cupa›
 
-<!-- start pre -->
 Group Stage
 
 Final Tables:
@@ -819,23 +813,23 @@ CFR Cluj       4-1 Farul
 Final [May 14, Arad]
 CFR Cluj       3-2 Hermannstadt
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Supercupa României  ‹§sup›
 
-<!-- start pre -->
 [Jul 5, București]
 FCSB           2-1 CFR Cluj
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga a 2-a  ‹§liga2›
 
-<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Playoff Stage, see §2play›
 
 Regular Stage  ‹§2reg›
@@ -926,13 +920,13 @@ Second Leg [May 24]
 Chindia        3-2 Dumbrăvița
 
 NB: CSC Dumbrăvița relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga a 3-a  ‹§liga3›
 
-<!-- start pre -->
 Baraj   ‹§3baraj›
 
 NB: Sporting Liești, CSO Băicoi and CSO Filiași excluded for failing
@@ -983,23 +977,10 @@ SSU Politehnica Timișoara      1-2 CSM Olimpia Satu Mare
 NB: ACS FC Bacău, CS Dinamo București, CS Tunari, CS Gloria 2018 Bistrița-Năsăud
     and CSM Olimpia Satu Mare promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page roem2024›.
 
-‹list of champions, see page roemchamp›.
 
-‹list of cup finals, see page roemcuphist›.
-
-‹list of super cup finals, see page roemsupcuphist›.
-
-‹list of league cup finals, see page roemleagcuphist›.
-
-‹all-time table, see page roemalltime›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

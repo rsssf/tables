@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2024
      source: https://rsssf.org/tablesb/braz2024.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Brazil 2024
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Série A, see §sa›
-‹Copa do Brasil, see §cb›
-‹Série B, see §sb›
-‹Série C, see §sc›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Série A  ‹§sa›
 
-<!-- start pre -->
 Final Table:
 
  1.Botafogo              38  23 10  5  59-29  79       Champions
@@ -635,13 +630,13 @@ Final Table:
 19.Atlético/GO           38   7  9 22  29-58  30  [P]  Relegated
 20.Cuiabá                38   6 12 20  29-49  30       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa do Brasil 2024  ‹§cb›
 
-<!-- start pre -->
 1/8 Finals
 
 First Legs
@@ -708,13 +703,13 @@ Flamengo        3-1 Atlético/MG
 Second Leg [Nov 10]
 Atlético/MG     0-1 Flamengo
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série B  ‹§sb›
 
-<!-- start pre -->
 Final Table:
 
  1.Santos                38  20  8 10  57-32  68  [R]  Promoted
@@ -733,20 +728,20 @@ Final Table:
 13.Paysandu              38  12 14 12  41-43  50  [P]
 14.Botafogo/SP           38  11 12 15  36-51  45
 15.Chapecoense           38  11 11 16  34-45  44
-16.CRB             38  11 10 17  38-45  43
+16.CRB               38  11 10 17  38-45  43
 ------------------------------------------------
 17.Ponte Preta           38  10  8 20  37-55  38       Relegated
 18.Ituano                38  11  4 23  43-63  37       Relegated
 19.Brusque               38   8 12 18  24-44  36  [P]  Relegated
 20.Guarani               38   8  9 21  33-53  33       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série C  ‹§sc›
 
-<!-- start pre -->
 First Stage (Grupo A)
 
 Final Table:
@@ -760,7 +755,7 @@ Final Table:
  7.Londrina              19   7  8  4  24-21  29  [R]  Qualified
  8.Remo                  19   8  2  9  21-23  26       Qualified
  - - - - - - - - - - - - - - - - - - - - - - - -
- 9.Náutico           19   6  7  6  34-25  25
+ 9.Náutico            19   6  7  6  34-25  25
 10.CSA                   19   6  7  6  22-26  25
 11.Figueirense           19   6  6  7  19-21  24
 12.Tombense              19   5  8  6  22-21  23  [R]
@@ -802,21 +797,10 @@ Athletic        0-2 Volta Redonda
 
 Promoted from 4th level: Retrô (Camaragibe), Anápolis, Maringá, Olímpica (Itabaiana)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023, see page braz2023›
 
-‹2025, see page braz2025›
 
-‹list of champions, see page brazchamp›.
-
-‹list of 2nd division champions, see page braz2champ›.
-
-‹list of cup winners, see page brazcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

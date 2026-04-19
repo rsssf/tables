@@ -1,4 +1,5 @@
   <!--
+     title:  Intercontinental Championship and FIFA Confederations Cup
      source: https://rsssf.org/tablesi/intconcup.html
     -->
   
@@ -6,7 +7,9 @@
 
 == Intercontinental Championship and FIFA Confederations Cup
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 The first two editions, called "King Fahd Cup" or
 "Intercontinental Championship", were not official at the time.
@@ -17,11 +20,12 @@ The "‹Artemio Franchi Trophy, see page ../tablesa/artfranfin›",
 contested twice in 1985 and 1993 and revived as "Finalissima" in 2022,
 can be considered a precursor.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Palmares
 
-<!-- start pre -->
 ‹1992, see §92› [*] Argentina
 ‹1995, see §95› [*] Denmark
 ‹1997, see §97›     Brazil
@@ -34,11 +38,9 @@ can be considered a precursor.
 ‹2017, see §17›     Germany
 
 [*] unofficial at the time but later recognised by FIFA
-<!-- end pre -->
 
 ==== Finals
 
-<!-- start pre -->
 ‹1992, see §92› [*] Argentina    3-1 Saudi Arabia
 ‹1995, see §95› [*] Denmark      2-0 Argentina
 ‹1997, see §97›     Brazil       6-0 Australia
@@ -51,17 +53,13 @@ can be considered a precursor.
 ‹2017, see §17›     Germany      1-0 Chile
 
 [*] unofficial at the time but later recognised by FIFA
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹All-Time Tables, see page intconcup-allt›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Intercontinental Championship 1992  ‹§92›
 
-<!-- start pre -->
 ‹link to detailed file, see page intconcup92›
 
 Participants:
@@ -81,13 +79,13 @@ USA          5-2 Ivory Coast
 
 Final
 Argentina    3-1 Saudi Arabia
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Intercontinental Championship 1995  ‹§95›
 
-<!-- start pre -->
 ‹link to detailed file, see page intconcup95›
 
 Participants:
@@ -127,13 +125,13 @@ Mexico win 5-4 on penalties
 
 Final
 Denmark      2-0 Argentina
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== FIFA Confederations Cup 1997  ‹§97›
 
-<!-- start pre -->
 ‹link to detailed file, see page intconcup97›
 
 Participants:
@@ -183,13 +181,13 @@ Third Place Match
 
 Final
 21/12/97 Brazil       6-0 Australia
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== FIFA Confederations Cup 1999  ‹§99›
 
-<!-- start pre -->
 ‹link to detailed file, see page intconcup99›
 
 Participants:
@@ -250,13 +248,13 @@ Third Place Match (in Guadalajara)
 
 Final (in Ciudad de México)
  4/ 8/99 Mexico       4-3 Brazil
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== FIFA Confederations Cup 2001  ‹§01›
 
-<!-- start pre -->
 ‹link to detailed file, see page intconcup01›
 
 Participants:
@@ -311,13 +309,13 @@ Third Place Match
 
 Final
 10/ 6/01 Yokohama Japan        0-1 France
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== FIFA Confederations Cup 2003  ‹§03›
 
-<!-- start pre -->
 ‹link to detailed file, see page intconcup03›
 
 Participants:
@@ -375,13 +373,13 @@ Third Place Match
 
 Final
 29/ 6/03 St.Denis   France       1-0 Cameroon       [asdet]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== FIFA Confederations Cup 2005  ‹§05›
 
-<!-- start pre -->
 ‹link to detailed file, see page intconcup05›
 
 Participants:
@@ -433,13 +431,13 @@ Third Place Match
 
 Final
 29/ 6/05 Frankfurt  Brazil       4-1 Argentina
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== FIFA Confederations Cup 2009  ‹§09›
 
-<!-- start pre -->
 ‹link to detailed file, see page intconcup09›
 
 Participants:
@@ -488,13 +486,13 @@ Third Place Match
 Final
 28/ 6/09 Johannesburg Brazil       3-2 USA
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== FIFA Confederations Cup 2013  ‹§13›
 
-<!-- start pre -->
 ‹link to detailed file, see page intconcup2013›
 
 Participants:
@@ -543,13 +541,13 @@ Third Place Match
 Final
 30/ 6/13 Rio de Janeiro       Brazil       3-0 Spain
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== FIFA Confederations Cup 2017  ‹§17›
 
-<!-- start pre -->
 ‹link to detailed file, see page intconcup2017›
 
 Participants:
@@ -597,9 +595,10 @@ Third Place Match
 Final
  2/ 7/17 Sankt Peterburg      Chile        0-1 Germany
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

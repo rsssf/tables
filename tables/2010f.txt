@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2010
      source: https://rsssf.org/tables/2010f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 2010 (South Africa, June 11 - July 11, 2010)
 
-<!-- start pre -->
 Automatically qualified: South Africa (hosts)
 
 
@@ -183,7 +183,6 @@ Red card: Heitinga (109', second yellow).
 Topscorers: Forlán (Uruguay), Th. Müller (Germany), Sneijder (Netherlands),
             Villa (Spain) 5 goals.
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 2010full›
 
@@ -197,7 +196,9 @@ Topscorers: Forlán (Uruguay), Th. Müller (Germany), Sneijder (Netherlands),
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

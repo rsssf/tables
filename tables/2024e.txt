@@ -1,4 +1,5 @@
   <!--
+     title:  European Championship 2024
      source: https://rsssf.org/tables/2024e.html
     -->
   
@@ -6,7 +7,9 @@
 
 == European Championship 2024
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === Index of groups
 
@@ -25,13 +28,14 @@
 <li>‹Final Tournament, see §fin›
 </ul>
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === Qualifying Stage
 
 ==== Group A  ‹§grpa›
 
-<!-- start pre -->
 25- 3-23 Glasgow        Scotland           3-0 Cyprus
 25- 3-23 Málaga         Spain              3-0 Norway
 28- 3-23 Batumi         Georgia            1-1 Norway
@@ -59,11 +63,9 @@
  4.Georgia             8  2  2  4  12-18   8
  5.Cyprus              8  0  0  8   3-28   0
 
-<!-- end pre -->
 
 ==== Group B  ‹§grpb›
 
-<!-- start pre -->
 24- 3-23 Saint-Denis    France             4-0 Netherlands
 24- 3-23 Faro/Loulé     Gibraltar          0-3 Greece
 27- 3-23 Rotterdam      Netherlands        3-0 Gibraltar
@@ -91,11 +93,9 @@
  4.Ireland             8  2  0  6   9-10   6
  5.Gibraltar           8  0  0  8   0-41   0
 
-<!-- end pre -->
 
 ==== Group C  ‹§grpc›
 
-<!-- start pre -->
 23- 3-23 Napoli         Italy              1-2 England
 23- 3-23 Skopje         North Macedonia    2-1 Malta
 26- 3-23 London         England            2-0 Ukraine
@@ -123,11 +123,9 @@
  4.North Macedonia     8  2  2  4  10-20   8
  5.Malta               8  0  0  8   2-20   0
 
-<!-- end pre -->
 
 ==== Group D  ‹§grpd›
 
-<!-- start pre -->
 25- 3-23 Yerevan        Armenia            1-2 Turkey
 25- 3-23 Split          Croatia            1-1 Wales
 28- 3-23 Bursa          Turkey             0-2 Croatia
@@ -155,11 +153,9 @@
  4.Armenia             8  2  2  4   9-11   8
  5.Latvia              8  1  0  7   5-19   3
 
-<!-- end pre -->
 
 ==== Group E  ‹§grpe›
 
-<!-- start pre -->
 24- 3-23 Praha          Czech Republic     3-1 Poland
 24- 3-23 Chișinău       Moldova            1-1 Faroe Islands
 27- 3-23 Chișinău       Moldova            0-0 Czech Republic
@@ -187,11 +183,9 @@
  4.Moldova             8  2  4  2   7-10  10
  5.Faroe Islands       8  0  2  6   2-13   2
 
-<!-- end pre -->
 
 ==== Group F  ‹§grpf›
 
-<!-- start pre -->
 24- 3-23 Linz           Austria            4-1 Azerbaijan
 24- 3-23 Solna          Sweden             0-3 Belgium
 27- 3-23 Linz           Austria            2-1 Estonia
@@ -219,11 +213,9 @@
  4.Azerbaijan          8  2  1  5   7-17   7
  5.Estonia             8  0  1  7   2-22   1
 
-<!-- end pre -->
 
 ==== Group G  ‹§grpg›
 
-<!-- start pre -->
 24- 3-23 Razgrad        Bulgaria           0-1 Montenegro
 24- 3-23 Beograd        Serbia             2-0 Lithuania
 27- 3-23 Budapest       Hungary            3-0 Bulgaria
@@ -251,11 +243,9 @@
  4.Lithuania           8  1  3  4   8-14   6
  5.Bulgaria            8  0  4  4   7-14   4
 
-<!-- end pre -->
 
 ==== Group H  ‹§grph›
 
-<!-- start pre -->
 23- 3-23 Astana         Kazakhstan         1-2 Slovenia
 23- 3-23 København      Denmark            3-1 Finland
 23- 3-23 Serravalle     San Marino         0-2 Northern Ireland
@@ -294,11 +284,9 @@
  5.Northern Ireland   10  3  0  7   9-13   9
  6.San Marino         10  0  0 10   3-31   0
 
-<!-- end pre -->
 
 ==== Group I  ‹§grpi›
 
-<!-- start pre -->
 25- 3-23 Novi Sad       Belarus            0-5 Switzerland
 25- 3-23 Tel-Aviv       Israel             1-1 Kosovo
 25- 3-23 Andorra La V.  Andorra            0-2 Romania
@@ -337,11 +325,9 @@
  5.Kosovo             10  2  5  3  10-10  11
  6.Andorra            10  0  2  8   3-20   2
 
-<!-- end pre -->
 
 ==== Group J  ‹§grpj›
 
-<!-- start pre -->
 23- 3-23 Zenica         Bosnia Herzegovina 3-0 Iceland
 23- 3-23 Lisboa         Portugal           4-0 Liechtenstein
 23- 3-23 Trnava         Slovakia           0-0 Luxembourg
@@ -380,13 +366,13 @@
  5.Bosnia Herzegovina 10  3  0  7   9-20   9
  6.Liechtenstein      10  0  0 10   1-28   0
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== UEFA Nations League Playoffs  ‹§nlpo›
 
-<!-- start pre -->
 ‹League A, see page 2023uefanl.html#lga› Playoff Qualifiers:
 Group 1: Croatia            (‹qualified directly, see §grpd›)
 Group 2: Spain              (‹qualified directly, see §grpa›)
@@ -480,13 +466,13 @@ Further Ranking:
       6: San Marino
       7: Liechtenstein
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === Final Tournament (in Germany)  ‹§fin›
 
-<!-- start pre -->
 June 14 - July 14, 2024
 
 Stadiums: Berlin (Olympiastadion, 71.000)
@@ -655,15 +641,10 @@ Final
                          [Williams 47, Oyarzabal 86; Palmer 73]
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹European Championship Overview File, see page ../tablese/eurochamp›
 
-‹2021, see page 2020e›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

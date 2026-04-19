@@ -1,4 +1,5 @@
   <!--
+     title:  Bahrain 2024/25
      source: https://rsssf.org/tablesb/bah2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Bahrain 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Muharraq          22  16  3  3  54-17  51       Champions
@@ -285,17 +283,10 @@ Final Table:
 11.East Riffa        22   4  8 10  21-31  20       Relegated
 12.Manama            22   2  7 13  15-48  13       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page bah2024›
 
-‹list of champions, see page bahchamp›
 
-‹list of cup winners, see page bahcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

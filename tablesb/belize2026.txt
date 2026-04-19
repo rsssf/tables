@@ -1,4 +1,5 @@
   <!--
+     title:  Belize 2025/26
      source: https://rsssf.org/tablesb/belize2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Belize 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League of Belize 2025/26, see §plb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League of Belize 2025/26  ‹§plb›
 
-<!-- start pre -->
 ‹Opening Season 2025, see §fall› | ‹Closing Season 2026, see §spring›
 
 Opening Season 2025  ‹§fall›
@@ -303,19 +301,10 @@ Table:
 
 Playoff Stage  ‹§splay›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page belize2025›
 
-‹list of champions, see page belizechamp›
 
-‹club directory, see page belizeclub›
-
-‹list of topscorers, see page belizetops›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

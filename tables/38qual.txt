@@ -1,4 +1,5 @@
   <!--
+     title:  WORLD CUP 1938 - QUALIFYING
      source: https://rsssf.org/tables/38qual.html
     -->
   
@@ -6,9 +7,10 @@
 
 == WORLD CUP 1938 - QUALIFYING
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 GROUP 1 [ESTONIA, FINLAND, GERMANY, SWEDEN]
 
 16/06/1937, Stockholm, Solna Råsunda Stadion, 19.544
@@ -556,9 +558,10 @@ BUTLER, Jack                         GLENDENNING, Bob
 
 Referee: JEWELL, Arthur [ENGLAND]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

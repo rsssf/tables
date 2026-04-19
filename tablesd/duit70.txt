@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1969/70
      source: https://rsssf.org/tablesd/duit70.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1969/70
 
-<!-- start pre -->
 
 Final Table
 
@@ -653,9 +653,10 @@ Borussia Mönchengladbach 1969/70
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

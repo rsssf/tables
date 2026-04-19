@@ -1,4 +1,5 @@
   <!--
+     title:  Cape Verde Islands 2025/26
      source: https://rsssf.org/tablesk/kaapv2026.html
     -->
   
@@ -6,21 +7,12 @@
 
 == Cape Verde Islands 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Campeonato Nacional, see §nacional›
-‹Taça Nacional, see §taca›
-Island Competitions:
-‹Boa Vista, see §boavista› | ‹Brava, see §brava› |
-‹Fogo, see §fogo› | ‹Maio, see §maio› | ‹Sal, see §sal› |
-‹Santiago, see §santiago› | ‹Santo Antão, see §santoantao› |
-‹São Nicolau, see §saonicolau› | ‹São Vicente, see §saovicente›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 === Campeonato Nacional  ‹§nacional›
 
-<!-- start pre -->
 Championship played out in a tournament between the champions of the nine
 islands (the 10th island (Santa Luzia) is not inhabited).
 
@@ -43,31 +35,31 @@ First stage
 NB: Six rounds.
 
 Round 1 [Apr 25,26]
-Académico do Sal   -  CD Benfica
-CD Scorpion Vermelho   -  GD Palmeira
-Rep. Santo Antão Sul   -  SC Atlético
-SC África Show     -  Cutelinho FC
-CD Onze Unidos     -  CS Mindelense
-UD Santo Crucifixo   -  Rep. Santiago Sul
+Académico do Sal    -  CD Benfica
+CD Scorpion Vermelho    -  GD Palmeira
+Rep. Santo Antão Sul    -  SC Atlético
+SC África Show       -  Cutelinho FC
+CD Onze Unidos       -  CS Mindelense
+UD Santo Crucifixo    -  Rep. Santiago Sul
 
 Final stage
 -----------
 
 Final [Jul 4, Estádio Municipal João Serra, Ponta do Sol]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === Taça Nacional  ‹§taca›
 
-<!-- start pre -->
 Cup played out in a tournament between the winners of the nine
 islands (the 10th island (Santa Luzia) is not inhabited).
 
 Participants
 Boa Vista:         Sport Sal-Rei Clube
-Brava:       Clube Desportivo Benfica (Nossa Senhora do Monte)
+Brava:         Clube Desportivo Benfica (Nossa Senhora do Monte)
 Fogo:              Associação Desportiva Cultural Juventus (Curral Grande)
 Maio:
 Sal:               Académico do Aeroporto do Sal (Espargos)
@@ -79,28 +71,28 @@ São Nicolau:       Futebol Clube Belo Horizonte (Juncalinho-Ribeira Brava)
 São Vicente:
 
 Round 1 [Apr 18]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Boa Vista  ‹§boavista›
 
-<!-- start pre -->
 Teams:
-Associação Académica e Operária da Boa Vista  [Sal-Rei]
-Sport Sal-Rei Clube        [Sal-Rei]
-Sporting Clube da Boa Vista      [Sal-Rei]
-Sport Clube África Show        [Rabil]
-Clube Desportivo da Estância de Baixo    [Estância de Baixo]
-Juventude Clube do Norte      [João Galego]
-Onze Estrelas Clube de Bofareira    [Bofareira]
-Sport Clube Sanjoanense       [Fundo das Figueiras]
+Associação Académica e Operária da Boa Vista   [Sal-Rei]
+Sport Sal-Rei Clube            [Sal-Rei]
+Sporting Clube da Boa Vista         [Sal-Rei]
+Sport Clube África Show            [Rabil]
+Clube Desportivo da Estância de Baixo      [Estância de Baixo]
+Juventude Clube do Norte         [João Galego]
+Onze Estrelas Clube de Bofareira      [Bofareira]
+Sport Clube Sanjoanense          [Fundo das Figueiras]
 
 Supertaça Saulo Soares 2024/25
  - - - - - - - - - - - - - - -
 
 [Dec 6, Estádio Municipal Arsénio Ramos, Sal-Rei]
-Sal-Rei    0-1 Académica  [aet]
+Sal-Rei      0-1 Académica   [aet]
 
 
 Torneio de Abertura
@@ -108,81 +100,81 @@ Torneio de Abertura
 
 Final table:
 
- 1.Desportivo    7   3  4  0  11- 5  13 winner
- 2.Sal-Rei    7   3  3  1  14- 6  12
- 3.Sporting    7   4  0  3  14-16  12
- 4.África Show    7   3  2  2  13- 8  11
- 5.Juventude    7   3  2  2  12- 8  11
- 6.Académica    7   3  1  3   7- 6  10
+ 1.Desportivo     7   3  4  0  11- 5  13 winner
+ 2.Sal-Rei     7   3  3  1  14- 6  12
+ 3.Sporting     7   4  0  3  14-16  12
+ 4.África Show     7   3  2  2  13- 8  11
+ 5.Juventude     7   3  2  2  12- 8  11
+ 6.Académica     7   3  1  3   7- 6  10
  7.Onze Estrelas  7   3  0  4   6-11   9
- 8.Sanjoanense    7   0  0  7   2-19   0
+ 8.Sanjoanense     7   0  0  7   2-19   0
 
 Round 1
 [Nov 1]
-Juventude  1-2 Académica
-Onze Estrelas  1-3 Sal-Rei
+Juventude   1-2 Académica
+Onze Estrelas   1-3 Sal-Rei
 [Nov 2]
-Sanjoanense  1-2 Sporting
-África Show  1-1 Desportivo
+Sanjoanense   1-2 Sporting
+África Show   1-1 Desportivo
 
 Round 2
 [Nov 4]
-Académica  0-1 Onze Estrelas
-Sal-Rei    0-0 Juventude
+Académica   0-1 Onze Estrelas
+Sal-Rei      0-0 Juventude
 [Nov 5]
-Sporting  2-6 África Show
-Desportivo  3-1 Sanjoanense
+Sporting   2-6 África Show
+Desportivo   3-1 Sanjoanense
 
 Round 3
 [Nov 8]
-Onze Estrelas  0-3 Juventude
-Sal-Rei    1-0 Académica
+Onze Estrelas   0-3 Juventude
+Sal-Rei      1-0 Académica
 [Nov 9]
-África Show  2-0 Sanjoanense
-Desportivo  2-0 Sporting
+África Show   2-0 Sanjoanense
+Desportivo   2-0 Sporting
 
 Round 4
 [Nov 11]
-Sal-Rei    1-1 Desportivo
-África Show  1-0 Onze Estrelas
+Sal-Rei      1-1 Desportivo
+África Show   1-0 Onze Estrelas
 [Nov 12]
-Juventude  2-0 Sanjoanense
-Académica  1-3 Sporting
+Juventude   2-0 Sanjoanense
+Académica   1-3 Sporting
 
 Round 5
 [Nov 15]
-Sanjoanense  0-1 Onze Estrelas
-Desportivo  0-0 Académica
+Sanjoanense   0-1 Onze Estrelas
+Desportivo   0-0 Académica
 [Nov 16]
-Sporting  2-1 Sal-Rei
-África Show  1-2 Juventude
+Sporting   2-1 Sal-Rei
+África Show   1-2 Juventude
 
 Round 6
 [Nov 18]
-Sal-Rei    6-0 Sanjoanense
-Desportivo  3-1 Onze Estrelas
+Sal-Rei      6-0 Sanjoanense
+Desportivo   3-1 Onze Estrelas
 [Nov 19]
-Académica  1-0 África Show
-Juventude  3-4 Sporting
+Académica   1-0 África Show
+Juventude   3-4 Sporting
 
 Round 7
 [Nov 22]
-Juventude  1-1 Desportivo
-Sporting  1-2 Onze Estrelas
+Juventude   1-1 Desportivo
+Sporting   1-2 Onze Estrelas
 [Nov 23]
-África Show  2-2 Sal-Rei
-Sanjoanense  0-3 Académica
+África Show   2-2 Sal-Rei
+Sanjoanense   0-3 Académica
 
 Final table:
 
- 1.Desportivo    7   3  4  0  11- 5  13 winner
- 2.Sal-Rei    7   3  3  1  14- 6  12
- 3.Sporting    7   4  0  3  14-16  12
- 4.África Show    7   3  2  2  13- 8  11
- 5.Juventude    7   3  2  2  12- 8  11
- 6.Académica    7   3  1  3   7- 6  10
+ 1.Desportivo     7   3  4  0  11- 5  13 winner
+ 2.Sal-Rei     7   3  3  1  14- 6  12
+ 3.Sporting     7   4  0  3  14-16  12
+ 4.África Show     7   3  2  2  13- 8  11
+ 5.Juventude     7   3  2  2  12- 8  11
+ 6.Académica     7   3  1  3   7- 6  10
  7.Onze Estrelas  7   3  0  4   6-11   9
- 8.Sanjoanense    7   0  0  7   2-19   0
+ 8.Sanjoanense     7   0  0  7   2-19   0
 
 
 Campeonato Regional
@@ -190,138 +182,138 @@ Campeonato Regional
 
 Final table:
 
- 1.África Show   14  13  1  0  38- 9  40 champions
- 2.Sal-Rei   14   8  3  3  29-16  27 [C]
- 3.Juventude   14   7  3  4  23-13  24
- 4.Académica   14   7  1  6  22-15  22
- 5.Sporting   14   4  2  8  24-33  14
- 6.Sanjoanense   14   4  1  9  15-36  13
+ 1.África Show    14  13  1  0  38- 9  40 champions
+ 2.Sal-Rei    14   8  3  3  29-16  27 [C]
+ 3.Juventude    14   7  3  4  23-13  24
+ 4.Académica    14   7  1  6  22-15  22
+ 5.Sporting    14   4  2  8  24-33  14
+ 6.Sanjoanense    14   4  1  9  15-36  13
  7.Onze Estrelas 14   4  0 10  23-38  12
- 8.Desportivo   14   3  1 10  15-29  10
+ 8.Desportivo    14   3  1 10  15-29  10
 
 Round 1
 [Dec 13]
-Académica  1-0 Sanjoanense
-Juventude  0-1 África Show
+Académica   1-0 Sanjoanense
+Juventude   0-1 África Show
 [Dec 14]
-Sal-Rei    1-2 Sporting
-Desportivo  2-3 Onze Estrelas
+Sal-Rei      1-2 Sporting
+Desportivo   2-3 Onze Estrelas
 
 Round 2
 [Dec 20]
-Sporting  0-4 Juventude
-Sanjoanense  1-0 Desportivo
+Sporting   0-4 Juventude
+Sanjoanense   1-0 Desportivo
 [Dec 21]
-África Show  4-0 Onze Estrelas
-Sal-Rei    2-1 Académica
+África Show   4-0 Onze Estrelas
+Sal-Rei      2-1 Académica
 
 Round 3
 [Dec 27]
-Sporting  5-1 Onze Estrelas
-Académica  0-1 Desportivo
+Sporting   5-1 Onze Estrelas
+Académica   0-1 Desportivo
 [Dec 28]
-Juventude  1-1 Sal-Rei
-Sanjoanense  1-5 África Show
+Juventude   1-1 Sal-Rei
+Sanjoanense   1-5 África Show
 
 Round 4
 [Jan 3]
-Juventude  2-1 Onze Estrelas
-África Show  1-0 Académica
+Juventude   2-1 Onze Estrelas
+África Show   1-0 Académica
 [Jan 4]
-Sporting  2-2 Sanjoanense
-Desportivo  2-5 Sal-Rei
+Sporting   2-2 Sanjoanense
+Desportivo   2-5 Sal-Rei
 
 Round 5
 [Jan 10]
-Desportivo  2-3 África Show
-Onze Estrelas  2-4 Sal-Rei
+Desportivo   2-3 África Show
+Onze Estrelas   2-4 Sal-Rei
 [Jan 11]
-Juventude  6-1 Sanjoanense
-Académica  2-1 Sporting
+Juventude   6-1 Sanjoanense
+Académica   2-1 Sporting
 
 Round 6
 [Jan 17]
-África Show  1-1 Sal-Rei
-Desportivo  2-2 Sporting
+África Show   1-1 Sal-Rei
+Desportivo   2-2 Sporting
 [Jan 18]
-Juventude  0-1 Académica
-Onze Estrelas  2-1 Sanjoanense
+Juventude   0-1 Académica
+Onze Estrelas   2-1 Sanjoanense
 
 Round 7
 [Jan 24]
-África Show  5-2 Sporting
-Sanjoanense  0-1 Sal-Rei
+África Show   5-2 Sporting
+Sanjoanense   0-1 Sal-Rei
 [Jan 25]
-Onze Estrelas  3-1 Académica
-Desportivo  0-1 Juventude
+Onze Estrelas   3-1 Académica
+Desportivo   0-1 Juventude
 
 Round 8
 [Feb 7]
-Onze Estrelas  1-3 Desportivo
-Sporting  0-5 Sal-Rei
+Onze Estrelas   1-3 Desportivo
+Sporting   0-5 Sal-Rei
 [Feb 8]
-África Show  2-0 Juventude
-Sanjoanense  2-1 Académica
+África Show   2-0 Juventude
+Sanjoanense   2-1 Académica
 
 Round 9
 [Feb 14]
-Académica  2-0 Sal-Rei
-Onze Estrelas  1-2 África Show
+Académica   2-0 Sal-Rei
+Onze Estrelas   1-2 África Show
 [Feb 15]
-Desportivo  1-0 Sanjoanense
-Juventude  2-1 Sporting
+Desportivo   1-0 Sanjoanense
+Juventude   2-1 Sporting
 
 Round 10
 [Feb 21]
-África Show  7-0 Sanjoanense
-Sal-Rei    1-1 Juventude
+África Show   7-0 Sanjoanense
+Sal-Rei      1-1 Juventude
 [Feb 22]
-Desportivo  0-4 Académica
-Onze Estrelas  2-1 Sporting
+Desportivo   0-4 Académica
+Onze Estrelas   2-1 Sporting
 
 Round 11
 [Feb 28]
-Académica  0-1 África Show
-Sanjoanense  2-4 Sporting
+Académica   0-1 África Show
+Sanjoanense   2-4 Sporting
 [Mar 1]
-Onze Estrelas  1-3 Juventude
+Onze Estrelas   1-3 Juventude
 [Mar 4]
-Sal-Rei    2-0  Desportivo
+Sal-Rei      2-0  Desportivo
 
 Round 12
 [Mar 7]
-Sporting  1-4 Académica
-Sanjoanense  1-0 Juventude
+Sporting   1-4 Académica
+Sanjoanense   1-0 Juventude
 [Mar 8]
-Sal-Rei    2-1 Onze Estrelas
-África Show  2-1 Desportivo
+Sal-Rei      2-1 Onze Estrelas
+África Show   2-1 Desportivo
 
 Round 13
 [Mar 14]
-Sanjoanense  4-3 Onze Estrelas
-Académica  1-1 Juventude
+Sanjoanense   4-3 Onze Estrelas
+Académica   1-1 Juventude
 [Mar 15]
-Sporting  3-0 Desportivo
-Sal-Rei    1-3 África Show
+Sporting   3-0 Desportivo
+Sal-Rei      1-3 África Show
 
 Round 14
 [Mar 21]
-Juventude  2-1 Desportivo
-Académica  4-2 Onze Estrelas
+Juventude   2-1 Desportivo
+Académica   4-2 Onze Estrelas
 [Mar 22]
-Sal-Rei    3-0 Sanjoanense
-Sporting  0-1 África Show
+Sal-Rei      3-0 Sanjoanense
+Sporting   0-1 África Show
 
 Final table:
 
- 1.África Show   14  13  1  0  38- 9  40 champions
- 2.Sal-Rei   14   8  3  3  29-16  27 [C]
- 3.Juventude   14   7  3  4  23-13  24
- 4.Académica   14   7  1  6  22-15  22
- 5.Sporting   14   4  2  8  24-33  14
- 6.Sanjoanense   14   4  1  9  15-36  13
+ 1.África Show    14  13  1  0  38- 9  40 champions
+ 2.Sal-Rei    14   8  3  3  29-16  27 [C]
+ 3.Juventude    14   7  3  4  23-13  24
+ 4.Académica    14   7  1  6  22-15  22
+ 5.Sporting    14   4  2  8  24-33  14
+ 6.Sanjoanense    14   4  1  9  15-36  13
  7.Onze Estrelas 14   4  0 10  23-38  12
- 8.Desportivo   14   3  1 10  15-29  10
+ 8.Desportivo    14   3  1 10  15-29  10
 
 NB: África Show's first ever championship.
 
@@ -331,44 +323,44 @@ Taça Bubista
 
 Round 1
 [Nov 29]
-África Show  2-1 Sporting
-Sanjoanense  1-2 Desportivo
+África Show   2-1 Sporting
+Sanjoanense   1-2 Desportivo
 [Nov 30]
-Sal-Rei    1-0 Onze Estrelas
+Sal-Rei      1-0 Onze Estrelas
 [Dec 10]
-Juventude  2-2 Académica    [3-5 pen]
+Juventude   2-2 Académica      [3-5 pen]
 
 Semifinals
 [Jan 31]
-África Show  0-1 Sal-Rei
+África Show   0-1 Sal-Rei
 [Feb 1]
-Académica  3-1 Desportivo
+Académica   3-1 Desportivo
 
 Final [Mar 28, Estádio Municipal Arsénio Ramos, Sal-Rei]
-Sal-Rei    0-0 Académica    [5-4 pen]
+Sal-Rei      0-0 Académica      [5-4 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Brava  ‹§brava›
 
-<!-- start pre -->
 Other teams: Sport Clube Juventude Portuária da Furna (Furna),
              Grupo Desportivo Corôa da Brava (Mato) and Sporting
              Clube da Brava (Lém).
 
 Participants:
-Sport Clube Morabeza       [Nova Sintra]
-Associação Académica da Brava     [Nova Sintra]
-Clube Desportivo Nô Pintcha     [Furna]
-Clube Desportivo Benfica      [Nossa Senhora do Monte]
+Sport Clube Morabeza          [Nova Sintra]
+Associação Académica da Brava       [Nova Sintra]
+Clube Desportivo Nô Pintcha       [Furna]
+Clube Desportivo Benfica        [Nossa Senhora do Monte]
 
 Supertaça Dja Braba 2023/24
 - - - - - - - - - - - - - -
 
 [Dec 14, Estádio Municipal Aquiles d'Oliveira, Nova Sintra]
-Morabeza  5-0 Nô Pintcha
+Morabeza   5-0 Nô Pintcha
  [Sérgio, Da, Deu, Fufuco, Nazi]
 
 
@@ -377,29 +369,29 @@ Torneio de Abertura
 
 Final table:
 
- 1.Morabeza   3   2  1  0   8- 4   7 winner
- 2.Nô Pintcha   3   2  1  0   7- 3   7
- 3.CD Benfica   3   1  0  2   3- 5   3
- 4.Académica   3   0  0  3   3- 9   0
+ 1.Morabeza    3   2  1  0   8- 4   7 winner
+ 2.Nô Pintcha    3   2  1  0   7- 3   7
+ 3.CD Benfica    3   1  0  2   3- 5   3
+ 4.Académica    3   0  0  3   3- 9   0
 
 Round 1 [Dec 21]
-Morabeza  3-1 CD Benfica
-Académica  1-4 Nô Pintcha
+Morabeza   3-1 CD Benfica
+Académica   1-4 Nô Pintcha
 
 Round 2 [Dec 28]
-CD Benfica   2-1 Académica
-Nô Pintcha  2-2 Morabeza
+CD Benfica    2-1 Académica
+Nô Pintcha   2-2 Morabeza
 
 Round 3 [Jan 4]
-Morabeza  3-1 Académica
-Nô Pintcha  1-0 CD Benfica
+Morabeza   3-1 Académica
+Nô Pintcha   1-0 CD Benfica
 
 Final table:
 
- 1.Morabeza   3   2  1  0   8- 4   7 winner
- 2.Nô Pintcha   3   2  1  0   7- 3   7
- 3.CD Benfica   3   1  0  2   3- 5   3
- 4.Académica   3   0  0  3   3- 9   0
+ 1.Morabeza    3   2  1  0   8- 4   7 winner
+ 2.Nô Pintcha    3   2  1  0   7- 3   7
+ 3.CD Benfica    3   1  0  2   3- 5   3
+ 4.Académica    3   0  0  3   3- 9   0
 
 
 Campeonato Regional
@@ -407,41 +399,41 @@ Campeonato Regional
 
 Final table:
 
- 1.CD Benfica   6   5  1  0  21- 3  16 champions
- 2.Nô Pintcha   6   3  1  2  12-10  10
- 3.Morabeza   6   2  1  3   9-12   7 [C]
- 4.Académica   6   0  1  5   4-21   1
+ 1.CD Benfica    6   5  1  0  21- 3  16 champions
+ 2.Nô Pintcha    6   3  1  2  12-10  10
+ 3.Morabeza    6   2  1  3   9-12   7 [C]
+ 4.Académica    6   0  1  5   4-21   1
 
 Round 1 [Jan 11]
-Académica  1-2 Morabeza
-CD Benfica   2-1 Nô Pintcha
+Académica   1-2 Morabeza
+CD Benfica    2-1 Nô Pintcha
 
 Round 2 [Jan 18]
-Morabeza  1-3 CD Benfica
-Nô Pintcha  3-1 Académica
+Morabeza   1-3 CD Benfica
+Nô Pintcha   3-1 Académica
 
 Round 3 [Feb 1]
-Morabeza  3-1 Nô Pintcha
-Académica  0-4 CD Benfica
+Morabeza   3-1 Nô Pintcha
+Académica   0-4 CD Benfica
 
 Round 4 [Feb 22]
-Nô Pintcha  1-1 CD Benfica
-Morabeza  1-1 Académica
+Nô Pintcha   1-1 CD Benfica
+Morabeza   1-1 Académica
 
 Round 5 [Mar 8]
-Académica  1-3 Nô Pintcha
-CD Benfica   3-0 Morabeza
+Académica   1-3 Nô Pintcha
+CD Benfica    3-0 Morabeza
 
 Round 6 [Mar 22]
-CD Benfica   8-0 Académica  [abd, Académica 6 players]
-Nô Pintcha  3-2 Morabeza
+CD Benfica    8-0 Académica   [abd, Académica 6 players]
+Nô Pintcha   3-2 Morabeza
 
 Final table:
 
- 1.CD Benfica   6   5  1  0  21- 3  16 champions
- 2.Nô Pintcha   6   3  1  2  12-10  10
- 3.Morabeza   6   2  1  3   9-12   7 [C]
- 4.Académica   6   0  1  5   4-21   1
+ 1.CD Benfica    6   5  1  0  21- 3  16 champions
+ 2.Nô Pintcha    6   3  1  2  12-10  10
+ 3.Morabeza    6   2  1  3   9-12   7 [C]
+ 4.Académica    6   0  1  5   4-21   1
 
 NB: CD Benfica's first ever championship.
 
@@ -454,50 +446,50 @@ First stage
 
 Final table:
 
- 1.Morabeza   3   2  1  0   6- 3   7 qualified to final
+ 1.Morabeza    3   2  1  0   6- 3   7 qualified to final
 - - - - - - - - - - - - - - - - - - - -
- 2.CD Benfica   3   1  2  0   6- 5   5 semifinals
- 3.Nô Pintcha   3   0  2  1   2- 4   2 semifinals
+ 2.CD Benfica    3   1  2  0   6- 5   5 semifinals
+ 3.Nô Pintcha    3   0  2  1   2- 4   2 semifinals
 ---------------------------------------
- 4.Académica   3   0  1  2   2- 4   1
+ 4.Académica    3   0  1  2   2- 4   1
 
 Round 1 [Jan 25]
-Nô Pintcha  2-2 CD Benfica
-Académica  1-2 Morabeza
+Nô Pintcha   2-2 CD Benfica
+Académica   1-2 Morabeza
 
 Round 2 [Feb 8]
-Morabeza  2-0 Nô Pintcha
-CD Benfica   2-1 Académica
+Morabeza   2-0 Nô Pintcha
+CD Benfica    2-1 Académica
 
 Round 3 [Feb 15]
-Académica  0-0 Nô Pintcha
-CD Benfica   2-2 Morabeza
+Académica   0-0 Nô Pintcha
+CD Benfica    2-2 Morabeza
 
 Final table:
 
- 1.Morabeza   3   2  1  0   6- 3   7 qualified to final
+ 1.Morabeza    3   2  1  0   6- 3   7 qualified to final
 - - - - - - - - - - - - - - - - - - - -
- 2.CD Benfica   3   1  2  0   6- 5   5 semifinals
- 3.Nô Pintcha   3   0  2  1   2- 4   2 semifinals
+ 2.CD Benfica    3   1  2  0   6- 5   5 semifinals
+ 3.Nô Pintcha    3   0  2  1   2- 4   2 semifinals
 ---------------------------------------
- 4.Académica   3   0  1  2   2- 4   1
+ 4.Académica    3   0  1  2   2- 4   1
 
 Final stage
 ===========
 
 Semifinals [Mar 1]
-CD Benfica   1-0 Nô Pintcha
+CD Benfica    1-0 Nô Pintcha
 
 Final [Mar 15, Estádio Municipal Aquiles d'Oliveira, Nova Sintra]
-CD Benfica      0-0 Morabeza  [1-0 aet]
+CD Benfica      0-0 Morabeza   [1-0 aet]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Fogo  ‹§fogo›
 
-<!-- start pre -->
 NB: Juventude Futebol Clube (Cidade de São Filipe), Clube Futebol Atlântico (Cutelo-Cidade de São Filipe),
 Nova Era Futebol Club (Terra Branca-Cidade de São Filipe), Associação Grito d'Povo FC (Ribeira do Ilhéu-Vila dos Mosteiros),
 Associação Desportiva Unidos do Norte (São Jorge-Cidade de São Filipe), Associação Desportiva, Cultural e Recreativa
@@ -512,7 +504,7 @@ NB: 8th edition.
 NB: 1st and 2nd level 2024/25 champions
 
 [Oct 18, Campo de São Lourenço]
-Botafogo   1-0 Desportivo
+Botafogo    1-0 Desportivo
  [Willian 90+2']
 
 
@@ -520,7 +512,7 @@ Supertaça 2024/25
 - - - - - - - - -
 
 [Oct 25, Campo de São Lourenço]
-Botafogo   2-0 Académica
+Botafogo    2-0 Académica
 
 
 Campeonato Regional
@@ -529,210 +521,210 @@ Campeonato Regional
 1ª Divisão
 
 Participants:
-Associação Académica do Fogo            Cidade de São Filipe
-Botafogo Futebol Clube              Cidade de São Filipe
-Valência Futebol Clube              Cidade de São Filipe
-Vulcânico Clube do Fogo              Cidade de São Filipe
-Associação Desportiva Cultural Juventus          Curral Grande-Cidade de São Filipe
-Luzabril Futebol Club              Luzia Nunes-Cidade de São Filipe
-Futebol Clube Nô Pintcha            Vila dos Mosteiros
-Cutelinho Futebol Clube              Mosteiros de Trás-Vila dos Mosteiros
-Desportivo Futebol Clube            Cova Figueira-Santa Catarina do Fogo
-Futebol Clube Baxada               Cova Figueira-Santa Catarina do Fogo
+Associação Académica do Fogo                 Cidade de São Filipe
+Botafogo Futebol Clube                    Cidade de São Filipe
+Valência Futebol Clube                    Cidade de São Filipe
+Vulcânico Clube do Fogo                    Cidade de São Filipe
+Associação Desportiva Cultural Juventus              Curral Grande-Cidade de São Filipe
+Luzabril Futebol Club                    Luzia Nunes-Cidade de São Filipe
+Futebol Clube Nô Pintcha                 Vila dos Mosteiros
+Cutelinho Futebol Clube                    Mosteiros de Trás-Vila dos Mosteiros
+Desportivo Futebol Clube                 Cova Figueira-Santa Catarina do Fogo
+Futebol Clube Baxada                     Cova Figueira-Santa Catarina do Fogo
 
 Final table:
 
- 1.Cutelinho     18  14  4  0  49-12  46 champions
- 2.Botafogo     18  13  4  1  52-12  43 [C]
- 3.Académica     17  10  6  1  45-16  36
- 4.Vulcânico     17  10  4  3  36-17  34
+ 1.Cutelinho      18  14  4  0  49-12  46 champions
+ 2.Botafogo      18  13  4  1  52-12  43 [C]
+ 3.Académica      17  10  6  1  45-16  36
+ 4.Vulcânico      17  10  4  3  36-17  34
  5.Curral Grande   17   6  4  7  27-33  22
- 6.Luzabril FC     17   5  2 10  26-35  17
- 7.Nô Pintcha     17   4  3 10  13-24  15
- 8.Valencia     17   4  2 11  22-41  14 [*]
+ 6.Luzabril FC      17   5  2 10  26-35  17
+ 7.Nô Pintcha      17   4  3 10  13-24  15
+ 8.Valencia      17   4  2 11  22-41  14 [*]
 ------------------------------------------
  9.Desportivo      17   3  2 12  19-50  11 [*] relegated [P]
-10.Baxada     17   1  1 15  15-64   4 relegated [P]
+10.Baxada      17   1  1 15  15-64   4 relegated [P]
 
  [*] w/o goals rd 16.
 
 Round 1
 [Nov 1]
 Curral Grande   2-2 Baxada
-Vulcânico  4-1 Desportivo
-Nô Pintcha  0-1 Cutelinho
+Vulcânico   4-1 Desportivo
+Nô Pintcha   0-1 Cutelinho
 [Nov 2]
-Botafogo   5-1 Valencia
-Académica  4-1 Luzabril FC
+Botafogo    5-1 Valencia
+Académica   4-1 Luzabril FC
 
 Round 2
 [Nov 8]
-Valencia  1-1 Nô Pintcha
-Desportivo   1-2 Botafogo
-Cutelinho  1-1 Académica
+Valencia   1-1 Nô Pintcha
+Desportivo    1-2 Botafogo
+Cutelinho   1-1 Académica
 [Nov 9]
 Curral Grande   1-6 Vulcânico
-Baxada    1-0 Luzabril FC
+Baxada      1-0 Luzabril FC
 
 Round 3
 [Nov 15]
-Vulcânico  2-0 Baxada
-Botafogo   2-1 Curral Grande
-Nô Pintcha  2-1 Desportivo
+Vulcânico   2-0 Baxada
+Botafogo    2-1 Curral Grande
+Nô Pintcha   2-1 Desportivo
 [Nov 16]
-Luzabril FC  1-3 Cutelinho
-Académica  1-0 Valencia
+Luzabril FC   1-3 Cutelinho
+Académica   1-0 Valencia
 
 Round 4
 [Nov 20]
-Baxada    2-3 Cutelinho
+Baxada      2-3 Cutelinho
 [Nov 21]
-Desportivo   1-6 Académica
+Desportivo    1-6 Académica
 [Nov 22]
 Curral Grande   2-0 Nô Pintcha
-Vulcânico  0-0 Botafogo
+Vulcânico   0-0 Botafogo
 [Nov 23]
-Valencia  0-2 Luzabril FC
+Valencia   0-2 Luzabril FC
 
 Round 5
 [Nov 29]
-Botafogo   6-0 Baxada
-Luzabril FC  3-0 Desportivo
-Nô Pintcha  0-1 Vulcânico
+Botafogo    6-0 Baxada
+Luzabril FC   3-0 Desportivo
+Nô Pintcha   0-1 Vulcânico
 [Nov 30]
-Académica  3-2 Curral Grande
-Cutelinho  4-0 Valencia
+Académica   3-2 Curral Grande
+Cutelinho   4-0 Valencia
 
 Round 6
 [Dec 6]
-Botafogo   0-0 Nô Pintcha
-Desportivo   1-2 Cutelinho
-Vulcânico  0-0 Académica
-Baxada    0-3 Valencia
+Botafogo    0-0 Nô Pintcha
+Desportivo    1-2 Cutelinho
+Vulcânico   0-0 Académica
+Baxada      0-3 Valencia
 [Dec 7]
 Curral Grande   3-2 Luzabril FC
 
 Round 7
 [Dec 13]
-Luzabril FC  0-2 Vulcânico
-Nô Pintcha  2-1 Baxada
-Académica  1-3 Botafogo
-Cutelinho  3-0 Curral Grande
+Luzabril FC   0-2 Vulcânico
+Nô Pintcha   2-1 Baxada
+Académica   1-3 Botafogo
+Cutelinho   3-0 Curral Grande
 [Dec 14]
-Valencia  4-2 Desportivo
+Valencia   4-2 Desportivo
 
 Round 8
 [Dec 27]
 Curral Grande   2-0 Valencia
-Vulcânico  1-1 Cutelinho
-Nô Pintcha  0-2 Académica
-Baxada    1-4 Desportivo
+Vulcânico   1-1 Cutelinho
+Nô Pintcha   0-2 Académica
+Baxada      1-4 Desportivo
 [Dec 28]
-Botafogo   5-0 Luzabril FC
+Botafogo    5-0 Luzabril FC
 
 Round 9
 [Jan 10]
-Luzabril FC  5-0 Nô Pintcha
-Académica  8-2 Baxada    [abd due Baxada's insufficient players]
-Cutelinho  1-1 Botafogo
-Desportivo   2-2 Curral Grande
+Luzabril FC   5-0 Nô Pintcha
+Académica   8-2 Baxada      [abd due Baxada's insufficient players]
+Cutelinho   1-1 Botafogo
+Desportivo    2-2 Curral Grande
 [Jan 11]
-Valencia  1-2 Vulcânico
+Valencia   1-2 Vulcânico
 
 Round 10
 [Jan 17]
-Baxada    0-3 Curral Grande
-Desportivo   0-4 Vulcânico
-Luzabril FC  1-3 Académica
-Cutelinho  3-0 Nô Pintcha
+Baxada      0-3 Curral Grande
+Desportivo    0-4 Vulcânico
+Luzabril FC   1-3 Académica
+Cutelinho   3-0 Nô Pintcha
 [Jan 18]
-Valencia  0-7 Botafogo
+Valencia   0-7 Botafogo
 
 Round 11
 [Jan 24]
-Botafogo   5-1 Desportivo
-Académica  1-1 Cutelinho
-Nô Pintcha  2-0 Valencia
+Botafogo    5-1 Desportivo
+Académica   1-1 Cutelinho
+Nô Pintcha   2-0 Valencia
 [Jan 25]
-Luzabril FC  4-1 Baxada
-Vulcânico  4-1 Curral Grande
+Luzabril FC   4-1 Baxada
+Vulcânico   4-1 Curral Grande
 
 Round 12
 [Jan 31]
-Curral Grande  0-2 Botafogo
-Valencia  0-3 Académica
-Desportivo   2-1 Nô Pintcha
+Curral Grande   0-2 Botafogo
+Valencia   0-3 Académica
+Desportivo    2-1 Nô Pintcha
 [Feb 1]
-Cutelinho  3-0 Luzabril FC
-Baxada    awd Vulcânico    [0-3 awarded; Baxada dns]
+Cutelinho   3-0 Luzabril FC
+Baxada      awd Vulcânico      [0-3 awarded; Baxada dns]
 
 Round 13
 [Feb 7]
-Académica  6-0 Desportivo
-Botafogo   3-0 Vulcânico
-Nô Pintcha  0-1 Curral Grande
+Académica   6-0 Desportivo
+Botafogo    3-0 Vulcânico
+Nô Pintcha   0-1 Curral Grande
 [Feb 8]
-Luzabril FC  4-2 Valencia
-Cutelinho  7-2 Baxada
+Luzabril FC   4-2 Valencia
+Cutelinho   7-2 Baxada
 
 Round 14
 [Feb 21]
-Valencia  0-2 Cutelinho
-Vulcânico  2-1 Nô Pintcha
-Desportivo   0-0 Luzabril FC
+Valencia   0-2 Cutelinho
+Vulcânico   2-1 Nô Pintcha
+Desportivo    0-0 Luzabril FC
 [Feb 22]
 Curral Grande   1-1 Académica
-Baxada    1-4 Botafogo
+Baxada      1-4 Botafogo
 
 Round 15
 [Feb 28]
-Luzabril FC  awd Curral Grande     [0-3 awarded; Luzabril refuses change socks]
-Académica  4-2 Vulcânico
-Nô Pintcha  1-2 Botafogo
+Luzabril FC   awd Curral Grande      [0-3 awarded; Luzabril refuses change socks]
+Académica   4-2 Vulcânico
+Nô Pintcha   1-2 Botafogo
 [Mar 1]
-Valencia  7-1 Baxada
-Cutelinho  7-0 Desportivo
+Valencia   7-1 Baxada
+Cutelinho   7-0 Desportivo
 
 Round 16
 [Mar 7]
-Vulcânico  2-2 Luzabril FC
-Botafogo   1-1 Académica
-Desportivo   n/p Valencia    [police dns]
+Vulcânico   2-2 Luzabril FC
+Botafogo    1-1 Académica
+Desportivo    n/p Valencia      [police dns]
 [Mar 8]
 Curral Grande   0-3 Cutelinho
-Baxada    awd Nô Pintcha    [0-3 awarded; Baxada dns]
+Baxada      awd Nô Pintcha      [0-3 awarded; Baxada dns]
 [Mar 21]
-Desportivo   lt  Valencia
+Desportivo    lt  Valencia
 
 Round 17
 [Mar 14]
-Valencia  3-3 Curral Grande
-Luzabril FC  1-3 Botafogo
-Desportivo   3-1 Baxada
-Cutelinho  2-1 Vulcânico
+Valencia   3-3 Curral Grande
+Luzabril FC   1-3 Botafogo
+Desportivo    3-1 Baxada
+Cutelinho   2-1 Vulcânico
 [Mar 15]
-Académica  0-0 Nô Pintcha
+Académica   0-0 Nô Pintcha
 
 Round 18 [Mar 28]
-Botafogo   1-2 Cutelinho
-Nô Pintcha  n/p Luzabril FC    [canceled]
-Baxada    n/p Académica    [canceled]
-Curral Grande   n/p Desportivo     [canceled]
-Vulcânico  n/p Valencia    [canceled]
+Botafogo    1-2 Cutelinho
+Nô Pintcha   n/p Luzabril FC      [canceled]
+Baxada      n/p Académica      [canceled]
+Curral Grande   n/p Desportivo       [canceled]
+Vulcânico   n/p Valencia      [canceled]
 
 Final table:
 
- 1.Cutelinho     18  14  4  0  49-12  46 champions
- 2.Botafogo     18  13  4  1  52-12  43 [C]
- 3.Académica     17  10  6  1  45-16  36
- 4.Vulcânico     17  10  4  3  36-17  34
+ 1.Cutelinho      18  14  4  0  49-12  46 champions
+ 2.Botafogo      18  13  4  1  52-12  43 [C]
+ 3.Académica      17  10  6  1  45-16  36
+ 4.Vulcânico      17  10  4  3  36-17  34
  5.Curral Grande   17   6  4  7  27-33  22
- 6.Luzabril FC     17   5  2 10  26-35  17
- 7.Nô Pintcha     17   4  3 10  13-24  15
- 8.Valencia     17   4  2 11  22-41  14 [*]
+ 6.Luzabril FC      17   5  2 10  26-35  17
+ 7.Nô Pintcha      17   4  3 10  13-24  15
+ 8.Valencia      17   4  2 11  22-41  14 [*]
 ------------------------------------------
  9.Desportivo      17   3  2 12  19-50  11 [*] relegated [P]
-10.Baxada     17   1  1 15  15-64   4 relegated [P]
+10.Baxada      17   1  1 15  15-64   4 relegated [P]
 
  [*] w/o goals rd 16.
 
@@ -740,90 +732,90 @@ Final table:
 2ª Divisão
 
 Participants:
-União Futebol Clube              São Lourenço-Cidade de São Filipe
-Associação FC Brasilim de Monte Vaca          Domingos Ledo-Cidade de São Filipe
-Associação Amigos do Berço Comum [aka ABC] Futebol Clube    Patim-Cidade de São Filipe
-Grupo Cultural Desportivo Recreativo Parque Real      Cabeça Fundão-Santa Catarina do Fogo
-Futebol Clube Esperança              Achada Furna-Santa Catarina do Fogo
-Futebol Clube Pavense              Figueira Pavão-Santa Catarina do Fogo
+União Futebol Clube                    São Lourenço-Cidade de São Filipe
+Associação FC Brasilim de Monte Vaca              Domingos Ledo-Cidade de São Filipe
+Associação Amigos do Berço Comum [aka ABC] Futebol Clube     Patim-Cidade de São Filipe
+Grupo Cultural Desportivo Recreativo Parque Real        Cabeça Fundão-Santa Catarina do Fogo
+Futebol Clube Esperança                    Achada Furna-Santa Catarina do Fogo
+Futebol Clube Pavense                    Figueira Pavão-Santa Catarina do Fogo
 
 Round 1
 [Dec 26]
-União FC  3-0 FC Esperança
+União FC   3-0 FC Esperança
 [Dec 27]
-Parque Real  2-6 ABC Patim
+Parque Real   2-6 ABC Patim
 [Dec 28]
-FC Brasilim  0-1 FC Pavense
+FC Brasilim   0-1 FC Pavense
 
 Round 2
 [Jan 10]
-Parque Real  1-4 FC Brasilim
+Parque Real   1-4 FC Brasilim
 [Jan 11]
-ABC Patim  2-1 FC Esperança
-FC Pavense  0-1 União FC
+ABC Patim   2-1 FC Esperança
+FC Pavense   0-1 União FC
 
 Round 3
 [Jan 17]
-União FC  3-0 Parque Real
+União FC   3-0 Parque Real
 [Jan 18]
-FC Brasilim  0-2 ABC Patim
+FC Brasilim   0-2 ABC Patim
 FC Esperança    3-3 FC Pavense
 
 Round 4
 [Jan 22]
-FC Brasilim  1-4 União FC
+FC Brasilim   1-4 União FC
 [Jan 23]
-ABC Patim  2-1 FC Pavense
+ABC Patim   2-1 FC Pavense
 [Jan 24]
-Parque Real  0-3 FC Esperança
+Parque Real   0-3 FC Esperança
 
 Round 5
 [Jan 31]
-FC Pavense  3-0 Parque Real
+FC Pavense   3-0 Parque Real
 [Feb 1]
 FC Esperança    0-2 FC Brasilim
-União FC  3-3 ABC Patim
+União FC   3-3 ABC Patim
 
 Round 6
 [Feb 8]
-FC Esperança  0-2 União FC
+FC Esperança   0-2 União FC
 [date?]
-FC Pavense  1-1 FC Brasilim
-ABC Patim  awd Parque Real    [3-0 awarded; Parque Real dns]
+FC Pavense   1-1 FC Brasilim
+ABC Patim   awd Parque Real      [3-0 awarded; Parque Real dns]
 
 Round 7 [Feb 15]
-União FC  4-1 FC Pavense
-FC Esperança  1-1 ABC Patim
-FC Brasilim  awd Parque Real    [3-0 awarded; Parque Real dns]
+União FC   4-1 FC Pavense
+FC Esperança   1-1 ABC Patim
+FC Brasilim   awd Parque Real      [3-0 awarded; Parque Real dns]
 
 Round 8
 [Feb 22]
-ABC Patim  4-2 FC Brasilim
+ABC Patim   4-2 FC Brasilim
 [date?]
-Parque Real  awd União FC    [0-3 awarded; Parque Real dns]
-FC Pavense   -  FC Esperança
+Parque Real   awd União FC      [0-3 awarded; Parque Real dns]
+FC Pavense    -  FC Esperança
 
 Round 9 [Feb 28, Mar 1]
-FC Pavense   -  ABC Patim
-FC Esperança   -  Parque Real
-União FC   -  FC Brasilim
+FC Pavense    -  ABC Patim
+FC Esperança    -  Parque Real
+União FC    -  FC Brasilim
 
 Round 10
 [Mar 1]
-ABC Patim  1-1 União FC
+ABC Patim   1-1 União FC
 [Mar 29]
-Parque Real   -  FC Pavense
-FC Brasilim   -  FC Esperança
+Parque Real    -  FC Pavense
+FC Brasilim    -  FC Esperança
 
 Table:
 
- 1.União FC       9   7  2  0  24- 6  23 champions/promoted [R]
- 2.ABC Patim       9   6  3  0  24-11  21 promoted
+ 1.União FC        9   7  2  0  24- 6  23 champions/promoted [R]
+ 2.ABC Patim        9   6  3  0  24-11  21 promoted
 -------------------------------------------
  3.FC Brasilim       8   3  1  4  13-13  10
- 4.FC Pavense       7   2  2  3  10-11   8 [A]
- 5.FC Esperança       7   1  2  4   8-13   5 [A]
- 6.Parque Real       8   0  0  8   3-28   0
+ 4.FC Pavense        7   2  2  3  10-11   8 [A]
+ 5.FC Esperança        7   1  2  4   8-13   5 [A]
+ 6.Parque Real        8   0  0  8   3-28   0
 
 
 Taça Fogo
@@ -831,38 +823,38 @@ Taça Fogo
 
 Round 1
 [Dec 20]
-Académica  n/p Desportivo    [Desportivo withdrew]
-Valencia  n/p Baxada    [Baxada withdrew]
-Nô Pintcha  abd Luzabril FC    [awarded?; 2-1, abd half-time]
-Cutelinho  1-1 Curral Grande     [2-4 pen]
+Académica   n/p Desportivo      [Desportivo withdrew]
+Valencia   n/p Baxada      [Baxada withdrew]
+Nô Pintcha   abd Luzabril FC      [awarded?; 2-1, abd half-time]
+Cutelinho   1-1 Curral Grande      [2-4 pen]
 FC Esperança    0-3 União FC
 FC Pavense      1-4 Vulcânico
 [Dec 21]
-Botafogo   7-1 FC Brasilim
-ABC Patim  6-2 Parque Real
+Botafogo    7-1 FC Brasilim
+ABC Patim   6-2 Parque Real
 
 Round 2
 [Jan 3]
-Académica  2-1 Nô Pintcha
-Valencia  3-2 União FC
+Académica   2-1 Nô Pintcha
+Valencia   3-2 União FC
 [Jan 4]
-Botafogo   5-1 ABC Patim
-Curral Grande   0-0 Vulcânico    [4-2 pen]
+Botafogo    5-1 ABC Patim
+Curral Grande   0-0 Vulcânico      [4-2 pen]
 
 Semifinals [Feb 14]
 Valencia        0-2 Curral Grande
-Académica  0-1 Botafogo
+Académica   0-1 Botafogo
 
 Final [Mar 21, Campo de São Lourenço]
 Curral Grande   3-1 Botafogo
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Maio  ‹§maio›
 
-<!-- start pre -->
 Supertaça Djarmai
 - - - - - - - - -
 
@@ -872,11 +864,11 @@ NB: not played.
 Campeonato Regional
 - - - - - - - - - -
 
-Teams                Municipality
-Beira-Mar Futebol Club           Vila do Maio [aka Porto Inglês]
-Sport Club Morrerense (Morro)         Vila do Maio [aka Porto Inglês]
-Cruzeiro Sport Club (Calheta)         Vila do Maio [aka Porto Inglês]
-Club Desportivo Onze Unidos         Vila do Maio [aka Porto Inglês]
+Teams                       Municipality
+Beira-Mar Futebol Club                Vila do Maio [aka Porto Inglês]
+Sport Club Morrerense (Morro)             Vila do Maio [aka Porto Inglês]
+Cruzeiro Sport Club (Calheta)             Vila do Maio [aka Porto Inglês]
+Club Desportivo Onze Unidos             Vila do Maio [aka Porto Inglês]
 
 other teams: Associação Académico 83 (Farol), Barreirense Futebol Clube (Barreiro),
              Associação Académica da Calheta do Maio, Associação Sport Club
@@ -886,65 +878,65 @@ other teams: Associação Académico 83 (Farol), Barreirense Futebol Clube (Barr
 
 Final table:
 
- 1.CD Onze Unidos   6   5  1  0  16- 2  16 champions
- 2.Beira-Mar FC     6   3  2  1  10-12  11 [A]
- 3.Cruzeiro SC     6   2  0  4  10-10   6 [A]
- 4.SC Morrerense   6   0  1  5   3-15   1
+ 1.CD Onze Unidos    6   5  1  0  16- 2  16 champions
+ 2.Beira-Mar FC       6   3  2  1  10-12  11 [A]
+ 3.Cruzeiro SC       6   2  0  4  10-10   6 [A]
+ 4.SC Morrerense    6   0  1  5   3-15   1
 
 Round 1 [Feb 15]
-SC Morrerense  1-2 Beira-Mar FC
-CD Onze Unidos  2-0 Cruzeiro SC
+SC Morrerense   1-2 Beira-Mar FC
+CD Onze Unidos   2-0 Cruzeiro SC
 
 Round 2 [Feb 22]
-Beira-Mar FC  1-1 CD Onze Unidos
+Beira-Mar FC   1-1 CD Onze Unidos
 Cruzeiro SC     4-0 SC Morrerense
 
 Round 3 [Mar 1]
-CD Onze Unidos  1-0 SC Morrerense
-Beira-Mar FC  2-1 Cruzeiro SC
+CD Onze Unidos   1-0 SC Morrerense
+Beira-Mar FC   2-1 Cruzeiro SC
 
 Round 4 [Mar 15]
-Cruzeiro SC  0-2 CD Onze Unidos
-Beira-Mar FC  1-1 SC Morrerense
+Cruzeiro SC   0-2 CD Onze Unidos
+Beira-Mar FC   1-1 SC Morrerense
 
 Round 5 [Mar 22]
-SC Morrerense  1-4 Cruzeiro SC
-CD Onze Unidos  7-1 Beira-Mar FC
+SC Morrerense   1-4 Cruzeiro SC
+CD Onze Unidos   7-1 Beira-Mar FC
 
 Round 6 [Mar 29]
 Cruzeiro SC     1-3 Beira-Mar FC
-SC Morrerense  awd CD Onze Unidos  [0-3 awarded; abd 0-1 due Morrerense minimum             number of players]
+SC Morrerense   awd CD Onze Unidos   [0-3 awarded; abd 0-1 due Morrerense minimum                   number of players]
 
 Final table:
 
- 1.CD Onze Unidos   6   5  1  0  16- 2  16 champions
- 2.Beira-Mar FC     6   3  2  1  10-12  11 [A]
- 3.Cruzeiro SC     6   2  0  4  10-10   6 [A]
- 4.SC Morrerense   6   0  1  5   3-15   1
+ 1.CD Onze Unidos    6   5  1  0  16- 2  16 champions
+ 2.Beira-Mar FC       6   3  2  1  10-12  11 [A]
+ 3.Cruzeiro SC       6   2  0  4  10-10   6 [A]
+ 4.SC Morrerense    6   0  1  5   3-15   1
 
 
 Taça "Djar'Mai" [aka Taça Dock Luzia]
 - - - - - - - - - - - - - - - - - - -
 
 Round 1 [Mar 8]
-Beira-Mar FC  1-4 Cruzeiro SC
-CD Onze Unidos  2-0 SC Morrerense
+Beira-Mar FC   1-4 Cruzeiro SC
+CD Onze Unidos   2-0 SC Morrerense
 
 Final [Apr 4, Estádio Municipal Dau d'Segunda, Porto Inglês]
-CD Onze Unidos   -  Cruzeiro SC
+CD Onze Unidos    -  Cruzeiro SC
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Sal  ‹§sal›
 
-<!-- start pre -->
 Supertaça Sança Gomes 2024/25
 - - - - - - - - - - - - - - -
 
 [Nov 1 2025, Estádio Municipal Marcelo Leitão, Espargos]
-Palmeira  8-0 Pretória
+Palmeira   8-0 Pretória
  [Kichon (2), Badju (2), Ponta, Leo II, Dery, Esgoto]
 
 
@@ -955,14 +947,14 @@ Campeonato Regional
 **********
 
 Participants:
-Académico do Aeroporto do Sal      Espargos
-Associação Académica do Sal      Espargos
-Grupo Desportivo Gaviões      Hortelã
+Académico do Aeroporto do Sal         Espargos
+Associação Académica do Sal         Espargos
+Grupo Desportivo Gaviões         Hortelã
 Associação de Moradores e Amigos de Palha Verde Palha Verde
-Grupo Desportivo da Palmeira      Palmeira
-Sport Clube Verdun         Pedra de Lume
-Sport Clube Santa Maria        Santa Maria
-Grupo Desportivo Florença       Santa Maria
+Grupo Desportivo da Palmeira         Palmeira
+Sport Clube Verdun             Pedra de Lume
+Sport Clube Santa Maria            Santa Maria
+Grupo Desportivo Florença          Santa Maria
 
 Final table:
 
@@ -972,121 +964,121 @@ Final table:
  4.Académica     14   5  3  6  23-16  18
  5.Verdun        14   5  2  7  10-19  17
  6.Palha Verde   14   4  2  8  10-26  14
- 7.Florença   14   2  5  7  13-26  11 [P]
+ 7.Florença    14   2  5  7  13-26  11 [P]
 ----------------------------------------
  8.Gaviões       14   2  3  9   9-29   9 relegated
 
 Round 1
 [Nov 8]
-Verdun    1-0 Gaviões
-Académica  3-1 Santa Maria
+Verdun      1-0 Gaviões
+Académica   3-1 Santa Maria
 [Nov 9]
-Académico  2-0 Palha Verde
-Florença  1-4 Palmeira
+Académico   2-0 Palha Verde
+Florença   1-4 Palmeira
 
 Round 2
 [Nov 15]
-Gaviões    0-2 Académico
-Palmeira  2-1 Académica
+Gaviões      0-2 Académico
+Palmeira   2-1 Académica
 [Nov 16]
-Palha Verde  1-0 Verdun
-Santa Maria  2-2 Florença
+Palha Verde   1-0 Verdun
+Santa Maria   2-2 Florença
 
 Round 3
 [Nov 22]
-Florença  0-2 Académica
-Santa Maria  2-2 Palmeira
-Verdun    0-2 Académico
+Florença   0-2 Académica
+Santa Maria   2-2 Palmeira
+Verdun      0-2 Académico
 [Nov 23]
-Palha Verde  2-1 Gaviões
+Palha Verde   2-1 Gaviões
 
 Round 4
 [Nov 29]
-Palmeira  3-1 Gaviões
-Académico  2-1 Académica
-Palha Verde  1-0 Santa Maria
+Palmeira   3-1 Gaviões
+Académico   2-1 Académica
+Palha Verde   1-0 Santa Maria
 [Nov 30]
-Verdun    1-0 Florença
+Verdun      1-0 Florença
 
 Round 5
 [Dec 6]
-Palmeira  5-1 Académico
-Florença  1-1 Palha Verde
+Palmeira   5-1 Académico
+Florença   1-1 Palha Verde
 [Dec 7]
-Académica  0-0 Verdun
-Santa Maria  3-1 Gaviões
+Académica   0-0 Verdun
+Santa Maria   3-1 Gaviões
 
 Round 6
 [Dec 13]
-Verdun    1-4 Palmeira
-Académico  0-1 Santa Maria
+Verdun      1-4 Palmeira
+Académico   0-1 Santa Maria
 [Dec 14]
-Gaviões    0-0 Florença
-Palha Verde  1-3 Académica
+Gaviões      0-0 Florença
+Palha Verde   1-3 Académica
 
 Round 7
 [Jan 10]
-Florença  0-6 Académico
-Académica  0-0 Gaviões
+Florença   0-6 Académico
+Académica   0-0 Gaviões
 [Jan 11]
-Santa Maria  1-0 Verdun
-Palmeira  4-0 Palha Verde
+Santa Maria   1-0 Verdun
+Palmeira   4-0 Palha Verde
 
 Round 8
 [Jan 17]
-Santa Maria  1-1 Académica
-Palmeira  0-0 Florença
+Santa Maria   1-1 Académica
+Palmeira   0-0 Florença
 [Jan 18]
-Palha Verde  0-3 Académico
-Gaviões    0-0 Verdun
+Palha Verde   0-3 Académico
+Gaviões      0-0 Verdun
 
 Round 9
 [Jan 24]
-Verdun    2-0 Palha Verde
-Académica  0-3 Palmeira
+Verdun      2-0 Palha Verde
+Académica   0-3 Palmeira
 [Jan 25]
-Florença  0-1 Santa Maria
-Académico  5-0 Gaviões
+Florença   0-1 Santa Maria
+Académico   5-0 Gaviões
 
 Round 10
 [Jan 31]
-Gaviões    3-0 Palha Verde
-Académico  2-0 Verdun
+Gaviões      3-0 Palha Verde
+Académico   2-0 Verdun
 [Feb 1]
-Académica  4-0 Florença
-Palmeira  4-0 Santa Maria
+Académica   4-0 Florença
+Palmeira   4-0 Santa Maria
 
 Round 11
 [Feb 7]
-Académica  0-2 Académico
-Santa Maria  1-1 Palha Verde
+Académica   0-2 Académico
+Santa Maria   1-1 Palha Verde
 [Feb 8]
-Florença  3-0 Verdun
-Gaviões    0-3 Palmeira
+Florença   3-0 Verdun
+Gaviões      0-3 Palmeira
 
 Round 12
 [Feb 21]
-Gaviões    1-3 Santa Maria
-Académico  0-1 Palmeira
-Palha Verde  0-2 Florença
+Gaviões      1-3 Santa Maria
+Académico   0-1 Palmeira
+Palha Verde   0-2 Florença
 [Feb 22]
-Verdun    2-1 Académica
+Verdun      2-1 Académica
 
 Round 13
 [Feb 28]
-Académica  1-2 Palha Verde
-Florença  1-2 Gaviões
+Académica   1-2 Palha Verde
+Florença   1-2 Gaviões
 [Mar 4]
-Santa Maria  0-2 Académico
-Palmeira  4-0 Verdun
+Santa Maria   0-2 Académico
+Palmeira   4-0 Verdun
 
 Round 14
 [Mar 7]
-Gaviões    0-6 Académica
+Gaviões      0-6 Académica
 [Mar 8]
-Verdun    3-1 Santa Maria
-Académico  3-3 Florença
-Palha Verde  1-3 Palmeira
+Verdun      3-1 Santa Maria
+Académico   3-3 Florença
+Palha Verde   1-3 Palmeira
 
 Final table:
 
@@ -1096,7 +1088,7 @@ Final table:
  4.Académica     14   5  3  6  23-16  18
  5.Verdun        14   5  2  7  10-19  17
  6.Palha Verde   14   4  2  8  10-26  14
- 7.Florença   14   2  5  7  13-26  11 [P]
+ 7.Florença    14   2  5  7  13-26  11 [P]
 ----------------------------------------
  8.Gaviões       14   2  3  9   9-29   9 relegated
 
@@ -1119,145 +1111,145 @@ NB: Grupo Desportivo Oásis Atlântico (Santa Maria)
 
 Final table:
 
- 1.Fonte Riba   14  10  2  2  25- 6  32 champions/promoted
+ 1.Fonte Riba    14  10  2  2  25- 6  32 champions/promoted
 ----------------------------------------
  2.Juventude     14  10  1  3  37-13  31
  3.Chã de Matias 14   8  1  5  21-17  25
  4.Rua D'Salina  14   6  4  4  21-18  22
  5.JURF          14   6  1  7  10-23  19
- 6.Nova Geração   14   4  2  8  16-19  14
- 7.Pretória   14   3  2  9   9-21  11 [R]
- 8.ASGUI   14   2  1 11  11-33   7
+ 6.Nova Geração    14   4  2  8  16-19  14
+ 7.Pretória    14   3  2  9   9-21  11 [R]
+ 8.ASGUI    14   2  1 11  11-33   7
 
 Round 1
 [Nov 7]
-Chã de Matias  2-0 Nova Geração
+Chã de Matias   2-0 Nova Geração
 [Nov 9]
-Pretória  1-1 Rua D'Salina
-Fonte Riba  4-0 Juventude
-ASGUI    0-1 JURF
+Pretória   1-1 Rua D'Salina
+Fonte Riba   4-0 Juventude
+ASGUI      0-1 JURF
 
 Round 2
 [Nov 15]
-Rua D'Salina  1-4 Fonte Riba
+Rua D'Salina   1-4 Fonte Riba
 [Nov 16]
-JURF    0-3 Chã de Matias
+JURF      0-3 Chã de Matias
 Nova Geração    1-2 ASGUI
-Juventude  1-1 Pretória
+Juventude   1-1 Pretória
 
 Round 3
 [Nov 22]
-Juventude  0-3 Rua D'Salina
+Juventude   0-3 Rua D'Salina
 [Nov 23]
-Pretória  0-1 Fonte Riba
-ASGUI    1-2 Chã de Matias
+Pretória   0-1 Fonte Riba
+ASGUI      1-2 Chã de Matias
 Nova Geração    0-1 JURF
 
 Round 4
 [Nov 28]
-Pretória  1-2 ASGUI
+Pretória   1-2 ASGUI
 [Nov 29]
-JURF    1-3 Rua D'Salina
+JURF      1-3 Rua D'Salina
 [Nov 30]
-Fonte Riba  1-1 Chã de Matias
-Juventude  1-0 Nova Geração
+Fonte Riba   1-1 Chã de Matias
+Juventude   1-0 Nova Geração
 
 Round 5
 [Dec 6]
-JURF    0-1 Fonte Riba
-ASGUI    0-4 Juventude
+JURF      0-1 Fonte Riba
+ASGUI      0-4 Juventude
 [Dec 7]
 Nova Geração    1-1 Rua D'Salina
-Chã de Matias  1-2 Pretória
+Chã de Matias   1-2 Pretória
 
 Round 6
 [Dec 12]
-Juventude  3-0 Chã de Matias
+Juventude   3-0 Chã de Matias
 [Dec 13]
-Rua D'Salina  2-1 ASGUI
+Rua D'Salina   2-1 ASGUI
 [Dec 14]
-Pretória  0-1 JURF
-Fonte Riba  1-1 Nova Geração
+Pretória   0-1 JURF
+Fonte Riba   1-1 Nova Geração
 
 Round 7
 [Jan 10]
-JURF    1-0 Juventude
-ASGUI    0-2 Fonte Riba
+JURF      1-0 Juventude
+ASGUI      0-2 Fonte Riba
 [Jan 11]
 Nova Geração    2-0 Pretória
-Chã de Matias  0-4 Rua D'Salina
+Chã de Matias   0-4 Rua D'Salina
 
 Round 8
 [Jan 17]
-Juventude  1-0 Fonte Riba
-Rua D'Salina  2-0 Pretória
+Juventude   1-0 Fonte Riba
+Rua D'Salina   2-0 Pretória
 [Jan 18]
-JURF    3-1 ASGUI
+JURF      3-1 ASGUI
 Nova Geração    2-1 Chã de Matias
 
 Round 9
 [Jan 23]
-Fonte Riba  2-0 Rua D'Salina
+Fonte Riba   2-0 Rua D'Salina
 [Jan 24]
-ASGUI    1-2 Nova Geração
+ASGUI      1-2 Nova Geração
 [Jan 25]
-Chã de Matias  1-0 JURF
-Pretória  0-4 Juventude
+Chã de Matias   1-0 JURF
+Pretória   0-4 Juventude
 
 Round 10
 [Jan 30]
-JURF    0-3 Nova Geração
+JURF      0-3 Nova Geração
 [Jan 31]
-Chã de Matias  5-0 ASGUI
-Rua D'Salina  0-5 Juventude
+Chã de Matias   5-0 ASGUI
+Rua D'Salina   0-5 Juventude
 [Feb 1]
-Fonte Riba  1-0 Pretória
+Fonte Riba   1-0 Pretória
 
 Round 11
 [Feb 7]
-ASGUI    1-2 Pretória
-Rua D'Salina  0-0 JURF
+ASGUI      1-2 Pretória
+Rua D'Salina   0-0 JURF
 [Feb 8]
 Nova Geração    2-3 Juventude
-Chã de Matias  1-0 Fonte Riba
+Chã de Matias   1-0 Fonte Riba
 
 Round 12
 [Feb 20]
-Juventude  6-1 ASGUI
+Juventude   6-1 ASGUI
 [Feb 22]
-Pretória  1-2 Chã de Matias
-Fonte Riba  5-0 JURF
-Rua D'Salina  3-1 Nova Geração
+Pretória   1-2 Chã de Matias
+Fonte Riba   5-0 JURF
+Rua D'Salina   3-1 Nova Geração
 
 Round 13
 [Feb 27]
-Nova Geração  1-2 Fonte Riba
+Nova Geração   1-2 Fonte Riba
 [Feb 28]
-Chã de Matias  1-3 Juventude
-ASGUI    1-1 Rua D'Salina
+Chã de Matias   1-3 Juventude
+ASGUI      1-1 Rua D'Salina
 [Mar 1]
-JURF    2-0 Pretória
+JURF      2-0 Pretória
 
 Round 14
 [Mar 6]
-Pretória  1-0 Nova Geração
+Pretória   1-0 Nova Geração
 [Mar 7]
-Fonte Riba  1-0 ASGUI
+Fonte Riba   1-0 ASGUI
 [Mar 8]
-Juventude  6-0 JURF
-Rua D'Salina  0-1 Chã de Matias
+Juventude   6-0 JURF
+Rua D'Salina   0-1 Chã de Matias
 
 Final table:
 
- 1.Fonte Riba   14  10  2  2  25- 6  32 champions/promoted
+ 1.Fonte Riba    14  10  2  2  25- 6  32 champions/promoted
 ----------------------------------------
  2.Juventude     14  10  1  3  37-13  31
  3.Chã de Matias 14   8  1  5  21-17  25
  4.Rua D'Salina  14   6  4  4  21-18  22
  5.JURF          14   6  1  7  10-23  19
- 6.Nova Geração   14   4  2  8  16-19  14
- 7.Pretória   14   3  2  9   9-21  11 [R]
- 8.ASGUI   14   2  1 11  11-33   7
+ 6.Nova Geração    14   4  2  8  16-19  14
+ 7.Pretória    14   3  2  9   9-21  11 [R]
+ 8.ASGUI    14   2  1 11  11-33   7
 
 
 Taça Dja D'Sal
@@ -1265,31 +1257,31 @@ Taça Dja D'Sal
 
 Round 1
 [Dec 19]
-JURF    1-2 Verdun
+JURF      1-2 Verdun
 [Dec 20]
-Académico  6-0 ASGUI
-Rua D'Salina  2-0 Pretória
-Palmeira  3-1 Santa Maria
-Palha Verde  2-0 Fonte Riba
+Académico   6-0 ASGUI
+Rua D'Salina   2-0 Pretória
+Palmeira   3-1 Santa Maria
+Palha Verde   2-0 Fonte Riba
 [Dec 21]
 Nova Geração    2-1 Chã de Matias
-Juventude  0-2 Académica
-Florença  1-2 Gaviões
+Juventude   0-2 Académica
+Florença   1-2 Gaviões
 
 Round 2
 [Dec 27]
-Verdun    1-0 Gaviões
-Palmeira  2-1 Académica
+Verdun      1-0 Gaviões
+Palmeira   2-1 Académica
 [Dec 28]
 Nova Geração    1-2 Rua D'Salina
-Académico  6-1 Palha Verde
+Académico   6-1 Palha Verde
 
 Semifinals [Feb 14]
-Verdun    1-5 Palmeira
-Rua D'Salina  0-1 Académico
+Verdun      1-5 Palmeira
+Rua D'Salina   0-1 Académico
 
 Final [Mar 14, Estádio Municipal Marcelo Leitão, Espargos]
-Académico  1-1 Palmeira    [2-1 aet]
+Académico   1-1 Palmeira      [2-1 aet]
  [Ai og 79, Tonas 120+1; Emanuel 49]
 
 Referees: Leônidas Graça, Djery Lopes, Francisco Teixeira and Emanuel Alves.
@@ -1307,7 +1299,7 @@ Champions Cup
 NB: 1st and 2nd level champions
 
 [Mar 21, Estádio Municipal Marcelo Leitão, Espargos]
-Palmeira  2-0 Fonte Riba
+Palmeira   2-0 Fonte Riba
  [Badju 4, Leo Silva 53]
 
 Referees: Fredson Delgado, Aladir Pires, Celso Miranda and Rosineida Fonseca.
@@ -1318,13 +1310,13 @@ GD Palmeira: Macroid, Mestre, Emanuel, Leo Diniz, Titan, Leo Silva, Dery Brandã
 FC Fonte Riba: Cau, Ju, Tcheps, Djuninh, Bruninh, Wilson, Denil, Nitó, Notcha,
                Cristian and Dalton. Coach: Flávio Lima.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Santiago  ‹§santiago›
 
-<!-- start pre -->
 Taça Grupo Amantes Futebol Tarrafal [aka GAFT Cup]
 - - - - - - - - - - - - - - - - - -
 
@@ -1337,74 +1329,74 @@ Santiago Norte
 Grupo A
 
 [Oct 4]
-Delta FC  1-1 Varandinha
+Delta FC   1-1 Varandinha
 [Oct 11]
-E. Amadores  3-2 Delta FC
+E. Amadores   3-2 Delta FC
 [Oct 16]
-Varandinha  2-2 E. Amadores
+Varandinha   2-2 E. Amadores
 
 Final table:
 
  1.Estrela dos Amadores   2   1  1  0   5- 4   4 qualified
  - - - - - - - - - - - - - - - - - - - - - - - -
  2.Varandinha do Tarrafal 2   0  2  0   3- 3   2
- 3.Delta FC      2   0  1  1   3- 4   1
+ 3.Delta FC        2   0  1  1   3- 4   1
 
 Grupo B
 
 [Oct 4]
 AJAC Calheta    0-0 Grémio Nhagar
 [Oct 11]
-Scorpion  0-0 AJAC Calheta
+Scorpion   0-0 AJAC Calheta
 [Oct 16]
-Grémio Nhagar  2-0 Scorpion
+Grémio Nhagar   2-0 Scorpion
 
 Final table:
 
- 1.Grémio de Nhagar    2   1  1  0   2- 0   4 qualified
+ 1.Grémio de Nhagar     2   1  1  0   2- 0   4 qualified
  - - - - - - - - - - - - - - - - - - - - - - - -
- 2.AJAC da Calheta    2   0  2  0   0- 0   2
- 3.Scorpion Vermelho    2   0  1  1   0- 2   1
+ 2.AJAC da Calheta     2   0  2  0   0- 0   2
+ 3.Scorpion Vermelho     2   0  1  1   0- 2   1
 
 Santiago Sul
 
 Grupo C
 
 [Oct 7]
-Celtic    0-0 Benfica Praia
-Boavista  0-0 Académica
+Celtic      0-0 Benfica Praia
+Boavista   0-0 Académica
 [Oct 9]
-Benfica Praia  1-3 Boavista
-Desportivo  0-0 Celtic
+Benfica Praia   1-3 Boavista
+Desportivo   0-0 Celtic
 [Oct 11]
-Boavista  1-0 Desportivo
-Académica  4-1 Benfica Praia
+Boavista   1-0 Desportivo
+Académica   4-1 Benfica Praia
 [Oct 15]
-Desportivo  0-0 Académica
-Celtic    0-1 Boavista
+Desportivo   0-0 Académica
+Celtic      0-1 Boavista
 [Oct 16]
-Académica  1-1 Celtic
-Benfica Praia  0-1 Desportivo
+Académica   1-1 Celtic
+Benfica Praia   0-1 Desportivo
 
 Final table:
 
- 1.Boavista      4   3  1  0   5- 1  10 qualified
- 2.Académica da Praia    4   1  3  0   5- 2   6 qualified
+ 1.Boavista        4   3  1  0   5- 1  10 qualified
+ 2.Académica da Praia     4   1  3  0   5- 2   6 qualified
  - - - - - - - - - - - - - - - - - - - - - - - -
  3.Desportivo da Praia    4   1  2  1   1- 1   5
- 4.Celtic      4   0  3  1   1- 2   3
- 5.Benfica da Praia    4   0  1  3   2- 8   1
+ 4.Celtic        4   0  3  1   1- 2   3
+ 5.Benfica da Praia     4   0  1  3   2- 8   1
 
 Final stage
 
 NB: played at Estádio 25 de Julho, Pedra Badejo-Santa Cruz
 
 Semifinals [Oct 18]
-Boavista  2-0 E. Amadores
-Grémio Nhagar  0-2 Académica
+Boavista   2-0 E. Amadores
+Grémio Nhagar   0-2 Académica
 
 Final [Oct 19]
-Académica  2-0 Boavista
+Académica   2-0 Boavista
 
 ‹Zona Norte, see §stgnorte› | ‹Zona Sul, see §stgsul›
 
@@ -1446,133 +1438,133 @@ Associação Desportiva Flor Jovem (Calheta-São Miguel)
 
 Final table:
 
- 1.CD Scorpion Vermelho   14  12  2  0  29- 5  38 champions [C]
- 2.AJAC de Calheta   14   7  5  3  26-14  23 [P]
- 3.Delta Cultura FC   14   6  3  5  21-22  21
- 4.Grémio de Nhagar       14   6  2  6  25-15  20
- 5.CD Estrela Amadores   14   6  1  7  22-23  19
- 6.AD Flor Jovem   14   5  2  7  16-22  17 [P]
+ 1.CD Scorpion Vermelho    14  12  2  0  29- 5  38 champions [C]
+ 2.AJAC de Calheta    14   7  5  3  26-14  23 [P]
+ 3.Delta Cultura FC    14   6  3  5  21-22  21
+ 4.Grémio de Nhagar        14   6  2  6  25-15  20
+ 5.CD Estrela Amadores    14   6  1  7  22-23  19
+ 6.AD Flor Jovem    14   5  2  7  16-22  17 [P]
 ------------------------------------------------
- 7.Varandinha       14   4  2  7  15-26  14 relegated
- 8.GD Benfica     14   2  1 11  16-43   7 relegated
+ 7.Varandinha         14   4  2  7  15-26  14 relegated
+ 8.GD Benfica       14   2  1 11  16-43   7 relegated
 
 Round 1
 [Nov 8]
 CD Scorpion Vermelho 1-0 GD Benfica
-Grémio Nhagar       2-0 AD Flor Jovem
+Grémio Nhagar        2-0 AD Flor Jovem
 [Nov 9]
-AJAC de Calheta       2-0 GD Varandinha
+AJAC de Calheta        2-0 GD Varandinha
 Estrela dos Amadores 3-1 Delta FC
 
 Round 2
 [Nov 15]
-AD Flor Jovem       0-0 AJAC de Calheta
-GD Varandinha       1-0 Estrela dos Amadores
+AD Flor Jovem        0-0 AJAC de Calheta
+GD Varandinha        1-0 Estrela dos Amadores
 [Nov 16]
-GD Benfica       2-3 Delta FC
+GD Benfica        2-3 Delta FC
 CD Scorpion Vermelho 2-0 Grémio Nhagar
 
 Round 3 [Nov 22]
 Estrela dos Amadores 3-0 AD Flor Jovem
-Grémio Nhagar       5-2 GD Benfica
-AJAC de Calheta       0-1 CD Scorpion Vermelho
-Delta FC       1-1 GD Varandinha
+Grémio Nhagar        5-2 GD Benfica
+AJAC de Calheta        0-1 CD Scorpion Vermelho
+Delta FC        1-1 GD Varandinha
 
 Round 4
 [Nov 29]
-Grémio Nhagar       3-0 AJAC de Calheta
-AD Flor Jovem       1-3 Delta FC
+Grémio Nhagar        3-0 AJAC de Calheta
+AD Flor Jovem        1-3 Delta FC
 [Nov 30]
-GD Benfica       1-5 GD Varandinha
+GD Benfica        1-5 GD Varandinha
 CD Scorpion Vermelho 2-0 Estrela dos Amadores
 
 Round 5
 [Dec 6]
-GD Varandinha       4-1 AD Flor Jovem
-AJAC de Calheta       2-2 GD Benfica
+GD Varandinha        4-1 AD Flor Jovem
+AJAC de Calheta        2-2 GD Benfica
 Estrela dos Amadores 1-0 Grémio Nhagar
 [Dec 7]
-Delta FC       1-2 CD Scorpion Vermelho
+Delta FC        1-2 CD Scorpion Vermelho
 
 Round 6
 [Dec 13]
-GD Benfica       0-1 AD Flor Jovem
+GD Benfica        0-1 AD Flor Jovem
 [Dec 14]
-Grémio Nhagar       1-2 Delta FC
+Grémio Nhagar        1-2 Delta FC
 CD Scorpion Vermelho 2-1 GD Varandinha
-AJAC de Calheta       1-0 Estrela dos Amadores
+AJAC de Calheta        1-0 Estrela dos Amadores
 
 Round 7
 [Dec 20]
 Estrela dos Amadores 4-0 GD Benfica
-GD Varandinha       2-0 Grémio Nhagar
-AD Flor Jovem       0-1 CD Scorpion Vermelho
+GD Varandinha        2-0 Grémio Nhagar
+AD Flor Jovem        0-1 CD Scorpion Vermelho
 [Dec 21]
-Delta FC       1-1 AJAC de Calheta
+Delta FC        1-1 AJAC de Calheta
 
 Round 8 [Dec 28]
-GD Varandinha       1-1 AJAC de Calheta
-AD Flor Jovem       2-1 Grémio Nhagar
-GD Benfica       1-4 CD Scorpion Vermelho
-Delta FC       0-1 Estrela dos Amadores
+GD Varandinha        1-1 AJAC de Calheta
+AD Flor Jovem        2-1 Grémio Nhagar
+GD Benfica        1-4 CD Scorpion Vermelho
+Delta FC        0-1 Estrela dos Amadores
 
 Round 9
 [Jan 10]
-Grémio Nhagar       1-1 CD Scorpion Vermelho
-AJAC de Calheta       2-0 AD Flor Jovem
+Grémio Nhagar        1-1 CD Scorpion Vermelho
+AJAC de Calheta        2-0 AD Flor Jovem
 [Jan 13]
-Delta FC       3-1 GD Benfica
-Estrela dos Amadores awd GD Varandinha         [3-0 awarded; Varandinha dns]
+Delta FC        3-1 GD Benfica
+Estrela dos Amadores awd GD Varandinha           [3-0 awarded; Varandinha dns]
 
 Round 10
 [Jan 24]
-GD Varandinha       awd Delta FC         [0-3 awarded; Varandinha dns]
-GD Benfica       1-2 Grémio Nhagar
+GD Varandinha        awd Delta FC           [0-3 awarded; Varandinha dns]
+GD Benfica        1-2 Grémio Nhagar
 [Jan 25]
 CD Scorpion Vermelho 2-0 AJAC de Calheta
-AD Flor Jovem       3-2 Estrela dos Amadores
+AD Flor Jovem        3-2 Estrela dos Amadores
 
 Round 11 [Feb 7]
-Delta FC       1-1 AD Flor Jovem
-AJAC de Calheta       0-0 Grémio Nhagar
+Delta FC        1-1 AD Flor Jovem
+AJAC de Calheta        0-0 Grémio Nhagar
 Estrela dos Amadores 1-1 CD Scorpion Vermelho
-GD Varandinha       awd GD Benfica         [0-3 awarded; Varandinha dns]
+GD Varandinha        awd GD Benfica           [0-3 awarded; Varandinha dns]
 
 Round 12
 [Feb 21]
-GD Benfica       1-8 AJAC de Calheta
-Grémio Nhagar       6-0 Estrela dos Amadores
+GD Benfica        1-8 AJAC de Calheta
+Grémio Nhagar        6-0 Estrela dos Amadores
 [Feb 22]
 CD Scorpion Vermelho 4-0 Delta FC
-AD Flor Jovem       awd GD Varandinha         [3-0 awarded; Varandinha dns]
+AD Flor Jovem        awd GD Varandinha           [3-0 awarded; Varandinha dns]
 
 Round 13
 [Mar 7]
 Estrela dos Amadores 3-6 AJAC de Calheta
-Delta FC       2-1 Grémio Nhagar
+Delta FC        2-1 Grémio Nhagar
 [Mar 8]
-AD Flor Jovem       4-0 GD Benfica
-GD Varandinha       awd CD Scorpion Vermelho   [0-3 awarded; Varandinha dns]
+AD Flor Jovem        4-0 GD Benfica
+GD Varandinha        awd CD Scorpion Vermelho    [0-3 awarded; Varandinha dns]
 
 Round 14
 [Mar 21]
-GD Benfica       2-1 Estrela dos Amadores
+GD Benfica        2-1 Estrela dos Amadores
 CD Scorpion Vermelho 3-0 AD Flor Jovem
 [Mar 22]
-Grémio Nhagar       awd GD Varandinha         [3-0 awarded; Varandinha dns]
-AJAC de Calheta       3-0 Delta FC
+Grémio Nhagar        awd GD Varandinha           [3-0 awarded; Varandinha dns]
+AJAC de Calheta        3-0 Delta FC
 
 Final table:
 
- 1.CD Scorpion Vermelho   14  12  2  0  29- 5  38 champions [C]
- 2.AJAC de Calheta   14   7  5  3  26-14  23 [P]
- 3.Delta Cultura FC   14   6  3  5  21-22  21
- 4.Grémio de Nhagar       14   6  2  6  25-15  20
- 5.CD Estrela Amadores   14   6  1  7  22-23  19
- 6.AD Flor Jovem   14   5  2  7  16-22  17 [P]
+ 1.CD Scorpion Vermelho    14  12  2  0  29- 5  38 champions [C]
+ 2.AJAC de Calheta    14   7  5  3  26-14  23 [P]
+ 3.Delta Cultura FC    14   6  3  5  21-22  21
+ 4.Grémio de Nhagar        14   6  2  6  25-15  20
+ 5.CD Estrela Amadores    14   6  1  7  22-23  19
+ 6.AD Flor Jovem    14   5  2  7  16-22  17 [P]
 ------------------------------------------------
- 7.Varandinha       14   4  2  7  15-26  14 relegated
- 8.GD Benfica     14   2  1 11  16-43   7 relegated
+ 7.Varandinha         14   4  2  7  15-26  14 relegated
+ 8.GD Benfica       14   2  1 11  16-43   7 relegated
 
 
 2ª Divisão
@@ -1589,91 +1581,91 @@ União Desportiva Cultural dos Picos (Picos-São Salvador do Mundo)
 
 Final table:
 
- 1.Beira Mar     10   8  2  0  49-10  26 champions/promoted [R]
- 2.São Lourenço     10   6  2  2  29-24  20 [1-0-1 7-6 3] promoted
+ 1.Beira Mar       10   8  2  0  49-10  26 champions/promoted [R]
+ 2.São Lourenço       10   6  2  2  29-24  20 [1-0-1 7-6 3] promoted
 ------------------------------------------------
- 3.EFD 100Tital     10   6  2  2  22-18  20 [1-0-1 6-7 3]
- 4.ADAC de Cancelo   10   2  3  5  17-26   9
- 5.Juventude FC     10   1  1  8  14-35   4 [1-1-0 5-4 4]
- 6.UDC Picos     10   0  4  6  14-32   4 [0-1-1 4-5 1] [A]
+ 3.EFD 100Tital       10   6  2  2  22-18  20 [1-0-1 6-7 3]
+ 4.ADAC de Cancelo    10   2  3  5  17-26   9
+ 5.Juventude FC      10   1  1  8  14-35   4 [1-1-0 5-4 4]
+ 6.UDC Picos       10   0  4  6  14-32   4 [0-1-1 4-5 1] [A]
 
 Round 1
 [Nov 22]
-ADAC de Cancelo     2-2 São Lourenço
-EFD 100Tital     1-6 Beira Mar
+ADAC de Cancelo      2-2 São Lourenço
+EFD 100Tital      1-6 Beira Mar
 [Jan 11]
-UDC Picos     2-3 Juventude FC
+UDC Picos      2-3 Juventude FC
 
 Round 2
 [Nov 29]
 Juventude FC       2-3 ADAC de Cancelo
-Beira Mar     8-0 São Lourenço
+Beira Mar      8-0 São Lourenço
 [Nov 30]
-EFD 100Tital     3-1  UDC Picos
+EFD 100Tital      3-1  UDC Picos
 
 Round 3
 [Dec 6]
-São Lourenço     3-2 Juventude FC
-UDC Picos     1-7 Beira Mar
+São Lourenço      3-2 Juventude FC
+UDC Picos      1-7 Beira Mar
 [Dec 7]
-ADAC de Cancelo     0-1 EFD 100Tital
+ADAC de Cancelo      0-1 EFD 100Tital
 
 Round 4
-EFD 100Tital     5-3 São Lourenço
-UDC Picos     1-1 ADAC de Cancelo
+EFD 100Tital      5-3 São Lourenço
+UDC Picos      1-1 ADAC de Cancelo
 [Dec 14]
-Beira Mar     5-1 Juventude FC
+Beira Mar      5-1 Juventude FC
 
 Round 5
 [Dec 20]
-Juventude FC     0-1 EFD 100Tital
+Juventude FC      0-1 EFD 100Tital
 [Dec 21]
-ADAC de Cancelo     1-7 Beira Mar
-São Lourenço     4-1 UDC Picos
+ADAC de Cancelo      1-7 Beira Mar
+São Lourenço      4-1 UDC Picos
 
 Round 6
 [Jan 10]
-Juventude FC     2-2 UDC Picos
+Juventude FC      2-2 UDC Picos
 [Jan 11]
-São Lourenço     4-0 ADAC de Cancelo
+São Lourenço      4-0 ADAC de Cancelo
 [Jan 13]
-Beira Mar     1-1 EFD 100Tital
+Beira Mar      1-1 EFD 100Tital
 
 Round 7 [Jan 24]
-São Lourenço     2-2 Beira Mar
-ADAC de Cancelo     5-0 Juventude FC
-UDC Picos     1-1 EFD 100Tital
+São Lourenço      2-2 Beira Mar
+ADAC de Cancelo      5-0 Juventude FC
+UDC Picos      1-1 EFD 100Tital
 
 Round 8
 [Feb 7]
 Juventude FC       1-2 São Lourenço
-EFD 100Tital     3-1 ADAC de Cancelo
+EFD 100Tital      3-1 ADAC de Cancelo
 [Feb 8]
-Beira Mar     3-0 UDC Picos
+Beira Mar      3-0 UDC Picos
 
 Round 9
 [Feb 21]
-ADAC de Cancelo     3-3 UDC Picos
-Juventude FC     2-7 Beira Mar
+ADAC de Cancelo      3-3 UDC Picos
+Juventude FC      2-7 Beira Mar
 [Feb 22]
-São Lourenço     4-1 EFD 100Tital
+São Lourenço      4-1 EFD 100Tital
 
 Round 10
 [Mar 7]
-EFD 100Tital     5-1 Juventude FC
-UDC Picos     2-5 São Lourenço
+EFD 100Tital      5-1 Juventude FC
+UDC Picos      2-5 São Lourenço
 [Mar 8]
-Beira Mar     3-1 ADAC de Cancelo
+Beira Mar      3-1 ADAC de Cancelo
 
 Final table:
 
- 1.Beira Mar     10   8  2  0  49-10  26 champions/promoted [R]
- 2.São Lourenço     10   6  2  2  29-24  20 [1-0-1 7-6 3] promoted
+ 1.Beira Mar       10   8  2  0  49-10  26 champions/promoted [R]
+ 2.São Lourenço       10   6  2  2  29-24  20 [1-0-1 7-6 3] promoted
 ------------------------------------------------
- 3.EFD 100Tital     10   6  2  2  22-18  20 [1-0-1 6-7 3]
- 4.ADAC de Cancelo   10   2  3  5  17-26   9
- 5.Juventude FC     10   1  1  8  14-35   4 [1-1-0 5-4 4]
- 6.UDC Picos     10   0  4  6  14-32   4 [0-1-1 4-5 1] [A]
+ 3.EFD 100Tital       10   6  2  2  22-18  20 [1-0-1 6-7 3]
+ 4.ADAC de Cancelo    10   2  3  5  17-26   9
+ 5.Juventude FC      10   1  1  8  14-35   4 [1-1-0 5-4 4]
+ 6.UDC Picos       10   0  4  6  14-32   4 [0-1-1 4-5 1] [A]
 
 
 Taça Regional
@@ -1681,37 +1673,37 @@ Taça Regional
 
 Round 1
 [Jan 17]
-Beira Mar       9-1 UDC Picos
-ADAC de Cancelo       2-2 AD Flor Jovem       [3-4 pen]
-São Lourenço       1-4 AJAC de Calheta
-Grémio Nhagar       3-0 Delta FC
+Beira Mar        9-1 UDC Picos
+ADAC de Cancelo        2-2 AD Flor Jovem        [3-4 pen]
+São Lourenço        1-4 AJAC de Calheta
+Grémio Nhagar        3-0 Delta FC
 Estrela dos Amadores 5-0 Juventude FC
-EFD 100Tital       2-0 GD Benfica
-GD Varandinha       bye
+EFD 100Tital        2-0 GD Benfica
+GD Varandinha        bye
 CD Scorpion Vermelho bye
 
 Round 2
 [Jan 31]
-Grémio Nhagar       6-1  Beira Mar
-GD Varandinha       awd EFD 100Tital       [0-3 awarded; Varandinha dns]
-AJAC de Calheta       1-0 CD Scorpion Vermelho
+Grémio Nhagar        6-1  Beira Mar
+GD Varandinha        awd EFD 100Tital        [0-3 awarded; Varandinha dns]
+AJAC de Calheta        1-0 CD Scorpion Vermelho
 [Feb 1]
-AD Flor Jovem       2-1 Estrela dos Amadores
+AD Flor Jovem        2-1 Estrela dos Amadores
 
 Semifinals
 
 First leg
 [Feb 14]
-Grémio Nhagar       2-0 EFD 100Tital
+Grémio Nhagar        2-0 EFD 100Tital
 [Feb 15]
-AJAC de Calheta       3-0 AD Flor Jovem
+AJAC de Calheta        3-0 AD Flor Jovem
 
 Second leg [Mar 15]
-EFD 100Tital       2-2 Grémio Nhagar      [2-4 agg]
-AD Flor Jovem       1-2 AJAC de Calheta  [1-5 agg]
+EFD 100Tital        2-2 Grémio Nhagar        [2-4 agg]
+AD Flor Jovem        1-2 AJAC de Calheta   [1-5 agg]
 
 Final [Mar 29, Estádio 25 de Julho, Pedra Badejo-Santa Cruz]
-Grémio Nhagar       2-2 AJAC de Calheta  [aet; 4-3 pen]
+Grémio Nhagar        2-2 AJAC de Calheta   [aet; 4-3 pen]
 
 Zona Sul  ‹§stgsul›
 
@@ -1721,14 +1713,14 @@ Taça dos Campeões
 NB: 1st and 2nd level 2024/25 champions
 
 [Oct 22, Estádio da Várzea, Cidade da Praia]
-Boavista  1-1 Desportivo    [4-3 pen]
+Boavista   1-1 Desportivo      [4-3 pen]
 
 
 Supertaça "Praia" 2024/25
 - - - - - - - - - - - - -
 
 [Oct 26, Estádio da Várzea, Cidade da Praia]
-Boavista  ppd Sporting
+Boavista   ppd Sporting
 
 
 Campeonato Regional - 1.ª Divisão
@@ -1751,266 +1743,266 @@ Grupo Desportivo e Cultural da Praia (Cidade da Praia)
 
 Table:
 
- 1.CD Travadores  20  15  4  1  44- 9  49
- 2.Boavista FC    20  14  6  0  38- 3  48 [C]
- 3.Desportivo da Praia  20  11  6  3  27-17  39 [P]
- 4.Sporting da Praia  20   8 10  2  28-11  34
- 5.Académica da Praia  20   5  9  6  12-11  24
- 6.AD Ribeira Grande  20   6  6  8  24-26  24
- 7.AD Bairro    20   5  7  8  14-20  22
- 8.Vitória    20   5  7  8  20-36  22
- 9.GDRC Celtic    20   4  9  7  16-19  21
-10.AD Relâmpago    20   5  2 13  14-36  17
+ 1.CD Travadores   20  15  4  1  44- 9  49
+ 2.Boavista FC      20  14  6  0  38- 3  48 [C]
+ 3.Desportivo da Praia   20  11  6  3  27-17  39 [P]
+ 4.Sporting da Praia   20   8 10  2  28-11  34
+ 5.Académica da Praia   20   5  9  6  12-11  24
+ 6.AD Ribeira Grande   20   6  6  8  24-26  24
+ 7.AD Bairro      20   5  7  8  14-20  22
+ 8.Vitória      20   5  7  8  20-36  22
+ 9.GDRC Celtic      20   4  9  7  16-19  21
+10.AD Relâmpago      20   5  2 13  14-36  17
 -----------------------------------------------
-11.Benfica FC    20   3  5 12  19-36  14
-12.Unidos do Norte FC  20   2  3 15  10-42   9 relegated [P]
+11.Benfica FC      20   3  5 12  19-36  14
+12.Unidos do Norte FC   20   2  3 15  10-42   9 relegated [P]
 
 Round 1
 [Oct 31]
-Travadores  1-1 Sporting
-Benfica    1-1 Académica
+Travadores   1-1 Sporting
+Benfica      1-1 Académica
 [Nov 1]
-Relâmpago  0-3 Boavista
-Vitória    1-1 Celtic
+Relâmpago   0-3 Boavista
+Vitória      1-1 Celtic
 [Nov 2]
-Unidos do Norte  0-0 Bairro
+Unidos do Norte   0-0 Bairro
 Ribeira Grande  1-3 Desportivo
 
 Round 2
 [Nov 7]
-Sporting  1-1 Benfica
-Desportivo  1-1 Unidos do Norte
+Sporting   1-1 Benfica
+Desportivo   1-1 Unidos do Norte
 [Nov 8]
-Académica  3-0 Relâmpago
-Bairro    0-1 Vitória
+Académica   3-0 Relâmpago
+Bairro      0-1 Vitória
 [Nov 9]
-Celtic    1-1 Travadores
-Boavista  5-1 Ribeira Grande
+Celtic      1-1 Travadores
+Boavista   5-1 Ribeira Grande
 
 Round 3
 [Nov 14]
 Ribeira Grande  3-1 Unidos do Norte
-Benfica    1-1 Celtic
+Benfica      1-1 Celtic
 [Nov 15]
-Relâmpago  0-3 Sporting
-Boavista  1-0 Académica
+Relâmpago   0-3 Sporting
+Boavista   1-0 Académica
 [Nov 16]
-Vitória    1-4 Desportivo
-Travadores  2-1 Bairro
+Vitória      1-4 Desportivo
+Travadores   2-1 Bairro
 
 Round 4
 [Nov 21]
-Celtic    3-1 Relâmpago
-Sporting  0-0 Boavista
+Celtic      3-1 Relâmpago
+Sporting   0-0 Boavista
 [Nov 22]
-Desportivo  0-0 Travadores
-Unidos do Norte  0-2 Vitória
+Desportivo   0-0 Travadores
+Unidos do Norte   0-2 Vitória
 [Nov 23]
-Bairro    1-0 Benfica
-Académica  1-1 Ribeira Grande
+Bairro      1-0 Benfica
+Académica   1-1 Ribeira Grande
 
 Round 5
 [Nov 28]
-Benfica    1-3 Desportivo
+Benfica      1-3 Desportivo
 Ribeira Grande  2-2 Vitória
 [Nov 29]
-Boavista  1-0 Celtic
-Travadores  2-0 Unidos do Norte
+Boavista   1-0 Celtic
+Travadores   2-0 Unidos do Norte
 [Nov 30]
-Académica  1-0 Sporting
-Relâmpago  0-2 Bairro
+Académica   1-0 Sporting
+Relâmpago   0-2 Bairro
 
 Round 6
 [Dec 5]
-Celtic    0-0 Académica
-Desportivo  1-0 Relâmpago
+Celtic      0-0 Académica
+Desportivo   1-0 Relâmpago
 [Dec 6]
-Sporting  1-0 Ribeira Grande
-Bairro    0-1 Boavista
+Sporting   1-0 Ribeira Grande
+Bairro      0-1 Boavista
 [Dec 7]
-Unidos do Norte  1-2 Benfica
-Vitória    0-4 Travadores
+Unidos do Norte   1-2 Benfica
+Vitória      0-4 Travadores
 
 Round 7
 [Dec 12]
-Relâmpago  1-0 Unidos do Norte
-Académica  1-0 Bairro
+Relâmpago   1-0 Unidos do Norte
+Académica   1-0 Bairro
 [Dec 13]
-Benfica    2-2 Vitória
+Benfica      2-2 Vitória
 Ribeira Grande  1-2 Travadores
 [Dec 14]
-Boavista  0-0 Desportivo
-Sporting  0-0 Celtic
+Boavista   0-0 Desportivo
+Sporting   0-0 Celtic
 
 Round 8
 [Dec 19]
-Unidos do Norte  0-4 Boavista
-Bairro    1-1 Sporting
+Unidos do Norte   0-4 Boavista
+Bairro      1-1 Sporting
 [Dec 20]
-Celtic    0-0 Ribeira Grande
-Travadores  2-1 Benfica
+Celtic      0-0 Ribeira Grande
+Travadores   2-1 Benfica
 [Dec 21]
-Vitória    1-0 Relâmpago
-Desportivo  0-0 Académica
+Vitória      1-0 Relâmpago
+Desportivo   0-0 Académica
 
 Round 9
 [Jan 9]
-Boavista  0-0 Vitória
-Celtic    0-0 Bairro
+Boavista   0-0 Vitória
+Celtic      0-0 Bairro
 [Jan 10]
 Ribeira Grande  3-0 Benfica
-Sporting  0-0 Desportivo
+Sporting   0-0 Desportivo
 [Jan 11]
-Relâmpago  0-5 Travadores
-Académica  0-1 Unidos do Norte
+Relâmpago   0-5 Travadores
+Académica   0-1 Unidos do Norte
 
 Round 10
 [Jan 16]
-Vitória    1-1 Académica
-Travadores  0-0 Boavista
+Vitória      1-1 Académica
+Travadores   0-0 Boavista
 [Jan 17]
-Unidos do Norte  2-6 Sporting
+Unidos do Norte   2-6 Sporting
 Ribeira Grande  1-2 Bairro
 [Jan 18]
-Desportivo  1-0 Celtic
-Benfica    0-2 Relâmpago
+Desportivo   1-0 Celtic
+Benfica      0-2 Relâmpago
 
 Round 11
 [Jan 23]
-Bairro    1-2 Desportivo
-Relâmpago  0-3 Ribeira Grande
+Bairro      1-2 Desportivo
+Relâmpago   0-3 Ribeira Grande
 [Jan 24]
-Académica  0-1 Travadores
-Sporting  3-1 Vitória
+Académica   0-1 Travadores
+Sporting   3-1 Vitória
 [Jan 25]
-Celtic    1-0 Unidos do Norte
-Boavista  2-1 Benfica
+Celtic      1-0 Unidos do Norte
+Boavista   2-1 Benfica
 
 Round 12
 [Jan 30]
-Sporting  0-1 Travadores
-Académica  0-0 Benfica
+Sporting   0-1 Travadores
+Académica   0-0 Benfica
 [Jan 31]
-Boavista  3-0 Relâmpago
-Celtic    4-1 Vitória
+Boavista   3-0 Relâmpago
+Celtic      4-1 Vitória
 [Feb 1]
-Bairro    1-1 Unidos do Norte
-Desportivo  2-1 Ribeira Grande
+Bairro      1-1 Unidos do Norte
+Desportivo   2-1 Ribeira Grande
 
 Round 13
 [Feb 6]
-Benfica    0-3 Sporting
-Unidos do Norte  1-0 Desportivo
+Benfica      0-3 Sporting
+Unidos do Norte   1-0 Desportivo
 [Feb 7]
-Relâmpago  1-1 Académica
-Vitória    1-0 Bairro
+Relâmpago   1-1 Académica
+Vitória      1-0 Bairro
 [Feb 8]
-Travadores  1-0 Celtic
+Travadores   1-0 Celtic
 Ribeira Grande  0-3 Boavista
 
 Round 14
 [Feb 13]
-Unidos do Norte  0-1 Ribeira Grande
-Celtic    2-0 Benfica
+Unidos do Norte   0-1 Ribeira Grande
+Celtic      2-0 Benfica
 [Feb 14]
-Sporting  1-0 Relâmpago
-Académica  0-1 Boavista
+Sporting   1-0 Relâmpago
+Académica   0-1 Boavista
 [Feb 15]
-Desportivo  2-2 Vitória
-Bairro    1-3 Travadores
+Desportivo   2-2 Vitória
+Bairro      1-3 Travadores
 
 Round 15
 [Feb 20]
-Relâmpago  2-1 Celtic
-Boavista  0-0 Sporting
+Relâmpago   2-1 Celtic
+Boavista   0-0 Sporting
 [Feb 21]
-Vitória    1-0 Unidos do Norte
-Travadores  1-2 Desportivo
+Vitória      1-0 Unidos do Norte
+Travadores   1-2 Desportivo
 [Feb 22]
-Benfica    0-1 Bairro
+Benfica      0-1 Bairro
 Ribeira Grande  1-0 Académica
 
 Round 16
 [Feb 27]
-Desportivo  2-1 Benfica
-Vitória    0-0 Ribeira Grande
+Desportivo   2-1 Benfica
+Vitória      0-0 Ribeira Grande
 [Feb 28]
-Celtic    1-1 Boavista
-Unidos do Norte  0-6 Travadores
+Celtic      1-1 Boavista
+Unidos do Norte   0-6 Travadores
 [Mar 1]
-Sporting  0-0 Académica
-Bairro    0-0 Relâmpago
+Sporting   0-0 Académica
+Bairro      0-0 Relâmpago
 
 Round 17
 [Mar 6]
-Académica  2-1 Celtic
-Relâmpago  1-2 Desportivo
+Académica   2-1 Celtic
+Relâmpago   1-2 Desportivo
 [Mar 7]
 Ribeira Grande  1-1 Sporting
-Boavista  5-0 Bairro
+Boavista   5-0 Bairro
 [Mar 8]
-Benfica    4-1 Unidos do Norte
-Travadores  4-1 Vitória
+Benfica      4-1 Unidos do Norte
+Travadores   4-1 Vitória
 
 Round 18
 [Mar 13]
-Unidos do Norte  1-3 Relâmpago
-Bairro    0-0 Académica
+Unidos do Norte   1-3 Relâmpago
+Bairro      0-0 Académica
 [Mar 14]
-Vitória    0-4 Benfica
-Travadores  3-0 Ribeira Grande
+Vitória      0-4 Benfica
+Travadores   3-0 Ribeira Grande
 [Mar 15]
-Desportivo  0-3 Boavista
-Celtic    0-4 Sporting
+Desportivo   0-3 Boavista
+Celtic      0-4 Sporting
 
 Round 19
 [Mar 20]
-Boavista  3-0 Unidos do Norte  [abd at half time; result stood]
-Sporting  1-1 Bairro
+Boavista   3-0 Unidos do Norte   [abd at half time; result stood]
+Sporting   1-1 Bairro
 [Mar 21]
 Ribeira Grande  0-0 Celtic
-Benfica    0-4 Travadores
+Benfica      0-4 Travadores
 [Mar 22]
-Relâmpago  3-2 Vitória
-Académica  0-1 Desportivo
+Relâmpago   3-2 Vitória
+Académica   0-1 Desportivo
 
 Round 20
 [Mar 27]
-Vitória    0-2 Boavista
-Bairro    2-0 Celtic
+Vitória      0-2 Boavista
+Bairro      2-0 Celtic
 [Mar 28]
-Benfica    0-4 Ribeira Grande
-Desportivo  1-2 Sporting
+Benfica      0-4 Ribeira Grande
+Desportivo   1-2 Sporting
 [Mar 29]
-Travadores  1-0 Relâmpago
+Travadores   1-0 Relâmpago
 Unidos do Norte 0-1 Académica
 
 Round 21
 [Apr 10]
-Académica   -  Vitória
-Boavista   -  Travadores
+Académica    -  Vitória
+Boavista    -  Travadores
 [Apr 11]
-Sporting   -  Unidos do Norte
-Bairro     -  Ribeira Grande
+Sporting    -  Unidos do Norte
+Bairro       -  Ribeira Grande
 [Apr 12]
-Celtic     -  Desportivo
-Relâmpago   -  Benfica
+Celtic       -  Desportivo
+Relâmpago    -  Benfica
 
 Table:
 
- 1.CD Travadores  20  15  4  1  44- 9  49
- 2.Boavista FC    20  14  6  0  38- 3  48 [C]
- 3.Desportivo da Praia  20  11  6  3  27-17  39 [P]
- 4.Sporting da Praia  20   8 10  2  28-11  34
- 5.Académica da Praia  20   5  9  6  12-11  24
- 6.AD Ribeira Grande  20   6  6  8  24-26  24
- 7.AD Bairro    20   5  7  8  14-20  22
- 8.Vitória    20   5  7  8  20-36  22
- 9.GDRC Celtic    20   4  9  7  16-19  21
-10.AD Relâmpago    20   5  2 13  14-36  17
+ 1.CD Travadores   20  15  4  1  44- 9  49
+ 2.Boavista FC      20  14  6  0  38- 3  48 [C]
+ 3.Desportivo da Praia   20  11  6  3  27-17  39 [P]
+ 4.Sporting da Praia   20   8 10  2  28-11  34
+ 5.Académica da Praia   20   5  9  6  12-11  24
+ 6.AD Ribeira Grande   20   6  6  8  24-26  24
+ 7.AD Bairro      20   5  7  8  14-20  22
+ 8.Vitória      20   5  7  8  20-36  22
+ 9.GDRC Celtic      20   4  9  7  16-19  21
+10.AD Relâmpago      20   5  2 13  14-36  17
 -----------------------------------------------
-11.Benfica FC    20   3  5 12  19-36  14
-12.Unidos do Norte FC  20   2  3 15  10-42   9 relegated [P]
+11.Benfica FC      20   3  5 12  19-36  14
+12.Unidos do Norte FC   20   2  3 15  10-42   9 relegated [P]
 
 
 Campeonato Regional - 2.ª Divisão
@@ -2030,191 +2022,191 @@ Grupo Desportivo Recreativo e Cultural Kumunidade (Cidade da Praia)
 
 Final table:
 
- 1.CD Vila Nova     16  10  4  2  46- 8  34 champions/promoted
- 2.GD Fiorentina  16  10  3  3  37-16  33 [1-0-1 2-2 3] promoted [R]
+ 1.CD Vila Nova       16  10  4  2  46- 8  34 champions/promoted
+ 2.GD Fiorentina   16  10  3  3  37-16  33 [1-0-1 2-2 3] promoted [R]
 -----------------------------------------------
- 3.ADSC Tchadense  16  10  3  3  27-11  33 [1-0-1 2-2 3]
- 4.Os Garridos Clube   16   9  4  3  26-12  31
- 5.ADFC Asa Grande  16   5  3  8  24-31  18
- 6.Tira Chapéu    16   4  5  7  15-36  17
- 7.Eugénio Lima FC  16   4  4  8  20-22  16
- 8.GDRC São Filipe  16   3  4  9  12-25  13 [R]
- 9.GDRC Kumunidade  16   1  2 13  11-57   5
+ 3.ADSC Tchadense   16  10  3  3  27-11  33 [1-0-1 2-2 3]
+ 4.Os Garridos Clube    16   9  4  3  26-12  31
+ 5.ADFC Asa Grande   16   5  3  8  24-31  18
+ 6.Tira Chapéu      16   4  5  7  15-36  17
+ 7.Eugénio Lima FC   16   4  4  8  20-22  16
+ 8.GDRC São Filipe   16   3  4  9  12-25  13 [R]
+ 9.GDRC Kumunidade   16   1  2 13  11-57   5
 
 Round 1
 [Nov 15]
-Tchadense  5-0 Kumunidade
+Tchadense   5-0 Kumunidade
 Tira Chapéu     3-0 Asa Grande
 [Nov 16]
-Vila Nova  1-0 São Filipe
-Os Garridos  1-0 Eugénio Lima
-Fiorentina  bye
+Vila Nova   1-0 São Filipe
+Os Garridos   1-0 Eugénio Lima
+Fiorentina   bye
 
 Round 2
 [Nov 22]
-Eugénio Lima  0-0 Fiorentina
-São Filipe  0-1 Tchadense
+Eugénio Lima   0-0 Fiorentina
+São Filipe   0-1 Tchadense
 [Nov 23]
-Kumunidade  1-2 Tira Chapéu
-Asa Grande  1-1 Os Garridos
-Vila Nova  bye
+Kumunidade   1-2 Tira Chapéu
+Asa Grande   1-1 Os Garridos
+Vila Nova   bye
 
 Round 3
 [Nov 29]
-Kumunidade  0-3 São Filipe
-Fiorentina  2-3 Asa Grande
+Kumunidade   0-3 São Filipe
+Fiorentina   2-3 Asa Grande
 [Nov 30]
 Tira Chapéu     1-1 Os Garridos
-Vila Nova  1-1 Eugénio Lima
-Tchadense  bye
+Vila Nova   1-1 Eugénio Lima
+Tchadense   bye
 
 Round 4
 [Dec 6]
-Asa Grande  1-2 Vila Nova
-Eugénio Lima  0-1 Tchadense
+Asa Grande   1-2 Vila Nova
+Eugénio Lima   0-1 Tchadense
 [Dec 7]
-São Filipe  0-0 Tira Chapéu
-Os Garridos  0-1 Fiorentina
-Kumunidade  bye
+São Filipe   0-0 Tira Chapéu
+Os Garridos   0-1 Fiorentina
+Kumunidade   bye
 
 Round 5
 [Dec 13]
-Kumunidade  0-2 Eugénio Lima
+Kumunidade   0-2 Eugénio Lima
 Tira Chapéu     1-1 Fiorentina
 [Dec 14]
-Tchadense  3-1 Asa Grande
-Vila Nova  2-0 Os Garridos
-São Filipe  bye
+Tchadense   3-1 Asa Grande
+Vila Nova   2-0 Os Garridos
+São Filipe   bye
 
 Round 6
 [Dec 20]
-Asa Grande  3-0 Kumunidade
-Fiorentina  1-0 Vila Nova
+Asa Grande   3-0 Kumunidade
+Fiorentina   1-0 Vila Nova
 [Dec 21]
-Os Garridos  1-2 Tchadense
-Eugénio Lima  0-0 São Filipe
+Os Garridos   1-2 Tchadense
+Eugénio Lima   0-0 São Filipe
 Tira Chapéu     bye
 
 Round 7
 [Jan 10]
-Tchadense  2-0 Fiorentina
-São Filipe  1-2 Asa Grande
+Tchadense   2-0 Fiorentina
+São Filipe   1-2 Asa Grande
 [Jan 11]
 Tira Chapéu     0-4 Vila Nova
-Kumunidade  0-1 Os Garridos
-Eugénio Lima  bye
+Kumunidade   0-1 Os Garridos
+Eugénio Lima   bye
 
 Round 8
 [Jan 17]
-Fiorentina  5-1 Kumunidade
-Vila Nova  0-0 Tchadense
+Fiorentina   5-1 Kumunidade
+Vila Nova   0-0 Tchadense
 [Jan 18]
 Tira Chapéu     3-2 Eugénio Lima
-Os Garridos  1-0 São Filipe
-Asa Grande  bye
+Os Garridos   1-0 São Filipe
+Asa Grande   bye
 
 Round 9
 [Jan 24]
-Eugénio Lima  0-0 Asa Grande
-São Filipe  1-1 Fiorentina
+Eugénio Lima   0-0 Asa Grande
+São Filipe   1-1 Fiorentina
 [Jan 25]
-Kumunidade  0-5 Vila Nova
-Tchadense  1-1 Tira Chapéu
-Os Garridos  bye
+Kumunidade   0-5 Vila Nova
+Tchadense   1-1 Tira Chapéu
+Os Garridos   bye
 
 Round 10
 [Jan 31]
-São Filipe  0-3 Vila Nova
-Asa Grande  2-1 Tira Chapéu
+São Filipe   0-3 Vila Nova
+Asa Grande   2-1 Tira Chapéu
 [Feb 1]
-Kumunidade  1-4 Tchadense
-Eugénio Lima  1-2 Os Garridos
-Fiorentina  bye
+Kumunidade   1-4 Tchadense
+Eugénio Lima   1-2 Os Garridos
+Fiorentina   bye
 
 Round 11
 [Feb 7]
-Tira Chapéu   0-0 Kumunidade
-Os Garridos  2-1 Asa Grande
+Tira Chapéu    0-0 Kumunidade
+Os Garridos   2-1 Asa Grande
 [Feb 8]
-Tchadense  3-1 São Filipe
-Fiorentina  2-1 Eugénio Lima
-Vila Nova  bye
+Tchadense   3-1 São Filipe
+Fiorentina   2-1 Eugénio Lima
+Vila Nova   bye
 
 Round 12
 [Feb 14]
-São Filipe  1-2 Kumunidade
-Asa Grande  1-2 Fiorentina
+São Filipe   1-2 Kumunidade
+Asa Grande   1-2 Fiorentina
 [Feb 15]
-Eugénio Lima  0-1 Vila Nova
-Os Garridos  3-0 Tira Chapéu
-Tchadense  bye
+Eugénio Lima   0-1 Vila Nova
+Os Garridos   3-0 Tira Chapéu
+Tchadense   bye
 
 Round 13
 [Feb 21]
-Tchadense  0-2 Eugénio Lima
-Fiorentina  2-5 Os Garridos
+Tchadense   0-2 Eugénio Lima
+Fiorentina   2-5 Os Garridos
 [Feb 22]
 Tira Chapéu     1-2 São Filipe
-Vila Nova  7-1 Asa Grande
-Kumunidade  bye
+Vila Nova   7-1 Asa Grande
+Kumunidade   bye
 
 Round 14
 [Feb 28]
-Fiorentina  4-0 Tira Chapéu
-Os Garridos  1-1 Vila Nova
+Fiorentina   4-0 Tira Chapéu
+Os Garridos   1-1 Vila Nova
 [Mar 1]
-Eugénio Lima  4-3 Kumunidade
-Asa Grande  0-1 Tchadense
-São Filipe  bye
+Eugénio Lima   4-3 Kumunidade
+Asa Grande   0-1 Tchadense
+São Filipe   bye
 
 Round 15
 [Mar 7]
-Vila Nova  0-2 Fiorentina
-Tchadense  0-1 Os Garridos
+Vila Nova   0-2 Fiorentina
+Tchadense   0-1 Os Garridos
 [Mar 8]
-Kumunidade  2-2 Asa Grande
-São Filipe  3-2 Eugénio Lima
+Kumunidade   2-2 Asa Grande
+São Filipe   3-2 Eugénio Lima
 Tira Chapéu     bye
 
 Round 16
 [Mar 14]
-Asa Grande  3-0 São Filipe
-Os Garridos  6-0 Kumunidade
+Asa Grande   3-0 São Filipe
+Os Garridos   6-0 Kumunidade
 [Mar 15]
-Fiorentina  2-0 Tchadense
+Fiorentina   2-0 Tchadense
 Vila Nova      11-0 Tira Chapéu
-Eugénio Lima  bye
+Eugénio Lima   bye
 
 Round 17
 [Mar 21]
-Kumunidade  1-7 Fiorentina
-Tchadense  1-1 Vila Nova
+Kumunidade   1-7 Fiorentina
+Tchadense   1-1 Vila Nova
 [Mar 22]
-Eugénio Lima  1-2 Tira Chapéu
-São Filipe  0-0 Os Garridos
-Asa Grande  bye
+Eugénio Lima   1-2 Tira Chapéu
+São Filipe   0-0 Os Garridos
+Asa Grande   bye
 
 Round 18
 [Mar 28]
-Tira Chapéu   0-3 Tchadense    [abd, due Tira Chapéu minimum number
-Fiorentina  5-0 São Filipe    of players; result stood]
+Tira Chapéu    0-3 Tchadense      [abd, due Tira Chapéu minimum number
+Fiorentina   5-0 São Filipe      of players; result stood]
 [Mar 29]
-Asa Grande  3-4 Eugénio Lima
-Vila Nova  7-0 Kumunidade
-Os Garridos  bye
+Asa Grande   3-4 Eugénio Lima
+Vila Nova   7-0 Kumunidade
+Os Garridos   bye
 
 Final table:
 
- 1.CD Vila Nova     16  10  4  2  46- 8  34 champions/promoted
- 2.GD Fiorentina  16  10  3  3  37-16  33 [1-0-1 2-2 3] promoted [R]
+ 1.CD Vila Nova       16  10  4  2  46- 8  34 champions/promoted
+ 2.GD Fiorentina   16  10  3  3  37-16  33 [1-0-1 2-2 3] promoted [R]
 -----------------------------------------------
- 3.ADSC Tchadense  16  10  3  3  27-11  33 [1-0-1 2-2 3]
- 4.Os Garridos Clube   16   9  4  3  26-12  31
- 5.ADFC Asa Grande  16   5  3  8  24-31  18
- 6.Tira Chapéu    16   4  5  7  15-36  17
- 7.Eugénio Lima FC  16   4  4  8  20-22  16
- 8.GDRC São Filipe  16   3  4  9  12-25  13 [R]
- 9.GDRC Kumunidade  16   1  2 13  11-57   5
+ 3.ADSC Tchadense   16  10  3  3  27-11  33 [1-0-1 2-2 3]
+ 4.Os Garridos Clube    16   9  4  3  26-12  31
+ 5.ADFC Asa Grande   16   5  3  8  24-31  18
+ 6.Tira Chapéu      16   4  5  7  15-36  17
+ 7.Eugénio Lima FC   16   4  4  8  20-22  16
+ 8.GDRC São Filipe   16   3  4  9  12-25  13 [R]
+ 9.GDRC Kumunidade   16   1  2 13  11-57   5
 
 
 Taça Regional [aka Taça Município da Praia]
@@ -2222,63 +2214,63 @@ Taça Regional [aka Taça Município da Praia]
 
 Round 1
 [Dec 27]
-Académica  5-1 Benfica
-Boavista  5-1 Kumunidade
+Académica   5-1 Benfica
+Boavista   5-1 Kumunidade
 [Dec 28]
-Asa Grande  1-0 Tchadense
-Os Garridos  1-2 Vila Nova
+Asa Grande   1-0 Tchadense
+Os Garridos   1-2 Vila Nova
 Tira Chapéu     1-2 Unidos do Norte
 Ribeira Grande  1-3 Travadores
-Relâmpago  bye
-Bairro    bye
-Desportivo  bye
-Fiorentina  bye
-Vitória    bye
-Celtic    bye
-São Filipe  bye
-Sporting  bye
-Eugénio Lima  bye
+Relâmpago   bye
+Bairro      bye
+Desportivo   bye
+Fiorentina   bye
+Vitória      bye
+Celtic      bye
+São Filipe   bye
+Sporting   bye
+Eugénio Lima   bye
 
 Round 2
 [Jan 3]
-Relâmpago  0-0 Bairro    [2-4 pen]
-Desportivo  1-1 Fiorentina    [5-4 pen]
+Relâmpago   0-0 Bairro      [2-4 pen]
+Desportivo   1-1 Fiorentina      [5-4 pen]
 [Jan 4]
-Unidos do Norte  1-1 Asa Grande    [3-2 pen]
-Vila Nova  0-2 Travadores
-Celtic    5-0 São Filipe
-Sporting  2-0 Eugénio Lima
+Unidos do Norte   1-1 Asa Grande      [3-2 pen]
+Vila Nova   0-2 Travadores
+Celtic      5-0 São Filipe
+Sporting   2-0 Eugénio Lima
 [Jan 20]
-Académica  1-0 Boavista
-Vitória    bye
+Académica   1-0 Boavista
+Vitória      bye
 
 Round 3
 [Jan 28]
-Bairro    0-1 Desportivo
+Bairro      0-1 Desportivo
 [Feb 17]
-Vitória    0-2 Celtic
+Vitória      0-2 Celtic
 [Feb 25]
-Unidos do Norte  0-4 Travadores
+Unidos do Norte   0-4 Travadores
 [Feb 26]
-Sporting  1-0 Académica
+Sporting   1-0 Académica
 
 Semifinals
 [Mar 11]
-Desportivo  0-0 Celtic    [4-2 pen]
+Desportivo   0-0 Celtic      [4-2 pen]
 [Mar 18]
-Sporting  0-0 Travadores    [7-6 pen]
+Sporting   0-0 Travadores      [7-6 pen]
 
 Final [Apr 4, Estádio da Várzea, Cidade da Praia]
-Desportivo  2-0 Sporting
+Desportivo   2-0 Sporting
  [Kenny, Rachid]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Santo Antão  ‹§santoantao›
 
-<!-- start pre -->
 ‹Zona Norte, see §antnorte› | ‹Zona Sul, see §antsul›
 
 Zona Norte  ‹§antnorte›
@@ -2296,8 +2288,8 @@ other teams: Paulense Desportivo Clube (Cidade das Pombas-Paúl), Torreense Spor
              Clube (Ribeira da Torre-Ribeira Grande), Clube Desportivo São Pedro
              Apóstolo (Chã de Igreja-Vale da Garça-São Pedro Apóstolo-Ribeira Grande),
              ADRV-IUJ Associação Desportiva, Recreativa e Voluntariado Irmãos Unidos
-       da Juventude do Vale do Paúl (Cabo da Ribeira-Paúl), União Desportiva de
-           Janela (Janela-Paúl) and Sinagoga Futebol Clube (Sinagoga-Ribeira Grande).
+        da Juventude do Vale do Paúl (Cabo da Ribeira-Paúl), União Desportiva de
+            Janela (Janela-Paúl) and Sinagoga Futebol Clube (Sinagoga-Ribeira Grande).
 
 NB: Vila da Ribeira Grande also known as Povoação - Ribeira Grande
 
@@ -2306,7 +2298,7 @@ Supertaça "Nené" 2024/25
 - - - - - - - - - - - -
 
 [Estádio Municipal João Serra, Ponta do Sol]
-Paulense  n/p CD Beira Mar
+Paulense   n/p CD Beira Mar
 
 NB: The Football Association of the Northern Region of Santo Antão did not schedule the
     super cup match due to the non-participation of current champion Paulense, which
@@ -2324,68 +2316,68 @@ Campeonato Regional
 
 Table:
 
- 1.Solpontense       7   5  1  1  14- 8  16
+ 1.Solpontense        7   5  1  1  14- 8  16
  2.Santo Crucifixo   7   5  0  2  12- 7  15
- 3.Foguetões       8   4  1  3  15-12  13
- 4.Rosariense       7   2  2  3   9-10   8 [A]
+ 3.Foguetões        8   4  1  3  15-12  13
+ 4.Rosariense        7   2  2  3   9-10   8 [A]
  5.CD Beira Mar      7   0  0  7   6-19   0
 
 Round 1 [Jan 25]
-Foguetões  0-2 Santo Crucifixo
-Solpontense  1-0 Rosariense
+Foguetões   0-2 Santo Crucifixo
+Solpontense   1-0 Rosariense
 CD Beira Mar    bye
 
 Round 2 [Jan 31]
-Santo Crucifixo  1-0 CD Beira Mar
-Solpontense  0-1 Foguetões
-Rosariense  bye
+Santo Crucifixo   1-0 CD Beira Mar
+Solpontense   0-1 Foguetões
+Rosariense   bye
 
 Round 3 [Feb 7]
-Solpontense  2-0 CD Beira Mar
-Rosariense  3-3 Foguetões
-Santo Crucifixo  bye
+Solpontense   2-0 CD Beira Mar
+Rosariense   3-3 Foguetões
+Santo Crucifixo   bye
 
 Round 4 [Feb 14]
 CD Beira Mar    0-3 Foguetões
-Rosariense  2-1 Santo Crucifixo
-Solpontense  bye
+Rosariense   2-1 Santo Crucifixo
+Solpontense   bye
 
 Round 5 [Feb 21]
-Santo Crucifixo  1-3 Solpontense
+Santo Crucifixo   1-3 Solpontense
 CD Beira Mar    1-2 Rosariense
-Foguetões  bye
+Foguetões   bye
 
 Round 6 [Feb 28]
-Santo Crucifixo  2-1 Foguetões
-Rosariense  0-0 Solpontense
+Santo Crucifixo   2-1 Foguetões
+Rosariense   0-0 Solpontense
 CD Beira Mar    bye
 
 Round 7 [Mar 7]
-Foguetões  2-3 Solpontense
+Foguetões   2-3 Solpontense
 CD Beira Mar    0-3 Santo Crucifixo
-Rosariense  bye
+Rosariense   bye
 
 Round 8 [Mar 21]
-Foguetões  2-1 Rosariense
+Foguetões   2-1 Rosariense
 CD Beira Mar    4-5 Solpontense
-Santo Crucifixo  bye
+Santo Crucifixo   bye
 
 Round 9 [Mar 28]
-Santo Crucifixo  2-1 Rosariense
-Foguetões  3-1 CD Beira Mar
-Solpontense  bye
+Santo Crucifixo   2-1 Rosariense
+Foguetões   3-1 CD Beira Mar
+Solpontense   bye
 
 Round 10 [Apr 2]
-Rosariense   -  CD Beira Mar
-Solpontense   -  Santo Crucifixo
-Foguetões  bye
+Rosariense    -  CD Beira Mar
+Solpontense    -  Santo Crucifixo
+Foguetões   bye
 
 Table:
 
- 1.Solpontense       7   5  1  1  14- 8  16
+ 1.Solpontense        7   5  1  1  14- 8  16
  2.Santo Crucifixo   7   5  0  2  12- 7  15
- 3.Foguetões       8   4  1  3  15-12  13
- 4.Rosariense       7   2  2  3   9-10   8 [A]
+ 3.Foguetões        8   4  1  3  15-12  13
+ 4.Rosariense        7   2  2  3   9-10   8 [A]
  5.CD Beira Mar      7   0  0  7   6-19   0
 
 
@@ -2398,43 +2390,43 @@ First stage
 Final table:
 
  1.Santo Crucifixo   4   3  0  1   7- 4   9 qualified
- 2.Rosariense       4   2  1  1   4- 3   7 qualified
- 3.Solpontense       4   1  2  1   7- 7   5 qualified
- 4.Foguetões       4   1  2  1   5- 5   5 qualified
+ 2.Rosariense        4   2  1  1   4- 3   7 qualified
+ 3.Solpontense        4   1  2  1   7- 7   5 qualified
+ 4.Foguetões        4   1  2  1   5- 5   5 qualified
 - - - - - - - - - - - - - - - - - - - - - -
  5.CD Beira Mar      4   0  1  3   1- 5   1
 
 Round 1 [Jan 4]
-Foguetões  2-2 Solpontense
-Santo Crucifixo  1-0 CD Beira Mar
-Rosariense  bye
+Foguetões   2-2 Solpontense
+Santo Crucifixo   1-0 CD Beira Mar
+Rosariense   bye
 
 Round 2 [Jan 10]
-Santo Crucifixo  1-3 Foguetões
-Solpontense  1-1 Rosariense
+Santo Crucifixo   1-3 Foguetões
+Solpontense   1-1 Rosariense
 CD Beira Mar    bye
 
 Round 3 [Jan 13]
 CD Beira Mar    0-0 Foguetões
-Rosariense  0-2 Santo Crucifixo
-Solpontense  bye
+Rosariense   0-2 Santo Crucifixo
+Solpontense   bye
 
 Round 4 [Jan 17]
-Rosariense  2-0 Foguetões
+Rosariense   2-0 Foguetões
 CD Beira Mar    1-3 Solpontense
-Santo Crucifixo  bye
+Santo Crucifixo   bye
 
 Round 5 [Jan 20]
-Solpontense  1-3 Santo Crucifixo
+Solpontense   1-3 Santo Crucifixo
 CD Beira Mar    0-1 Rosariense
-Foguetões  bye
+Foguetões   bye
 
 Final table:
 
  1.Santo Crucifixo   4   3  0  1   7- 4   9 qualified
- 2.Rosariense       4   2  1  1   4- 3   7 qualified
- 3.Solpontense       4   1  2  1   7- 7   5 qualified
- 4.Foguetões       4   1  2  1   5- 5   5 qualified
+ 2.Rosariense        4   2  1  1   4- 3   7 qualified
+ 3.Solpontense        4   1  2  1   7- 7   5 qualified
+ 4.Foguetões        4   1  2  1   5- 5   5 qualified
 - - - - - - - - - - - - - - - - - - - - - -
  5.CD Beira Mar      4   0  1  3   1- 5   1
 
@@ -2442,21 +2434,21 @@ Final stage
 -----------
 
 Semifinals [Mar 14]
-Foguetões  1-1 Rosariense    [5-3 pen]
-Santo Crucifixo  0-0 Solpontense    [1-4 pen]
+Foguetões   1-1 Rosariense      [5-3 pen]
+Santo Crucifixo   0-0 Solpontense      [1-4 pen]
 
 Final [Apr 4, Estádio Municipal João Serra, Ponta do Sol]
-Solpontense   -  Foguetões
+Solpontense    -  Foguetões
 
 Zona Sul  ‹§antsul›
 
 NB: Porto Novo district
 
 Other teams: Grupo Desportivo, Recreativo e Cultural Fiorentina (Cidade
-             do Porto Novo), Associação Santo André Futebol Clube
-           (Ribeira da Cruz-Porto Novo), Clube Sportivo Marítimo
-       (Cidade do Porto Novo) and Sporting Clube do Porto Novo (Cidade do
-       Porto Novo), Associação Jovens Unidos do Tarrafal (AJUT).
+              do Porto Novo), Associação Santo André Futebol Clube
+            (Ribeira da Cruz-Porto Novo), Clube Sportivo Marítimo
+        (Cidade do Porto Novo) and Sporting Clube do Porto Novo (Cidade do
+        Porto Novo), Associação Jovens Unidos do Tarrafal (AJUT).
 
 Participants:
 Associação Académica do Porto Novo (Cidade do Porto Novo)
@@ -2472,7 +2464,7 @@ Supertaça "Filipe de Bitú" 2024/25
 NB: 14th edition.
 
 [Dec 13, Estádio Municipal, Porto Novo]
-Sanjoanenses  4-2 Lajedos FC
+Sanjoanenses   4-2 Lajedos FC
  [Peixe (2), Xolote, Metcha; Cabeça, Capi (owngoal)]
 
 
@@ -2481,65 +2473,65 @@ Campeonato Regional
 
 Table:
 
- 1.Académica    7   6  0  1  26- 2  18
- 2.Sanjoanenses    7   6  0  1  18- 8  18 [C]
- 3.Inter    7   3  0  4   8-12   9 [A]
- 4.Tarrafal    6   1  1  4   8-14   4
+ 1.Académica     7   6  0  1  26- 2  18
+ 2.Sanjoanenses     7   6  0  1  18- 8  18 [C]
+ 3.Inter     7   3  0  4   8-12   9 [A]
+ 4.Tarrafal     6   1  1  4   8-14   4
  5.Lajedos FC     7   0  1  6   7-31   1
 
 Round 1 [Feb 7]
-Sanjoanenses  0-3 Académica
-Tarrafal  0-1 Inter
-Lajedos FC  bye
+Sanjoanenses   0-3 Académica
+Tarrafal   0-1 Inter
+Lajedos FC   bye
 
 Round 2 [Feb 14]
-Lajedos FC  2-5 Tarrafal
-Inter    0-2 Sanjoanenses
-Académica  bye
+Lajedos FC   2-5 Tarrafal
+Inter      0-2 Sanjoanenses
+Académica   bye
 
 Round 3 [Feb 21]
-Académica  1-0 Inter
-Sanjoanenses  4-1 Lajedos FC
-Tarrafal  bye
+Académica   1-0 Inter
+Sanjoanenses   4-1 Lajedos FC
+Tarrafal   bye
 
 Round 4 [Feb 28]
-Lajedos FC  0-10 Académica
-Tarrafal  2-4  Sanjoanenses
-Inter    bye
+Lajedos FC   0-10 Académica
+Tarrafal   2-4  Sanjoanenses
+Inter      bye
 
 Round 5 [Mar 7]
-Inter    2-1 Lajedos FC
-Académica  2-0 Tarrafal
-Sanjoanenses  bye
+Inter      2-1 Lajedos FC
+Académica   2-0 Tarrafal
+Sanjoanenses   bye
 
 Round 6 [Mar 14]
-Inter    4-0 Tarrafal
-Académica  0-1 Sanjoanenses
-Lajedos FC  bye
+Inter      4-0 Tarrafal
+Académica   0-1 Sanjoanenses
+Lajedos FC   bye
 
 Round 7 [Mar 21]
-Sanjoanenses  4-1 Inter
-Tarrafal  1-1 Lajedos FC
-Académica  bye
+Sanjoanenses   4-1 Inter
+Tarrafal   1-1 Lajedos FC
+Académica   bye
 
 Round 8 [Mar 28]
-Lajedos FC  1-3 Sanjoanenses
-Inter    0-4 Académica
-Tarrafal  bye
+Lajedos FC   1-3 Sanjoanenses
+Inter      0-4 Académica
+Tarrafal   bye
 
 Round 9
 [Apr 4]
-Académica  6-1 Lajedos FC
+Académica   6-1 Lajedos FC
 [tba]
-Sanjoanenses   -  Tarrafal
-Inter    bye
+Sanjoanenses    -  Tarrafal
+Inter      bye
 
 Table:
 
- 1.Académica    7   6  0  1  26- 2  18
- 2.Sanjoanenses    7   6  0  1  18- 8  18 [C]
- 3.Inter    7   3  0  4   8-12   9 [A]
- 4.Tarrafal    6   1  1  4   8-14   4
+ 1.Académica     7   6  0  1  26- 2  18
+ 2.Sanjoanenses     7   6  0  1  18- 8  18 [C]
+ 3.Inter     7   3  0  4   8-12   9 [A]
+ 4.Tarrafal     6   1  1  4   8-14   4
  5.Lajedos FC     7   0  1  6   7-31   1
 
 
@@ -2551,44 +2543,44 @@ First stage
 
 Final table:
 
- 1.Sanjoanenses    4   2  2  0  13- 2   8 qualified
- 2.Académica    4   2  2  0   9- 3   8 qualified
- 3.Inter    4   2  1  1   6- 4   7 qualified
- 4.Tarrafal    4   0  2  2   2-10   2 qualified
+ 1.Sanjoanenses     4   2  2  0  13- 2   8 qualified
+ 2.Académica     4   2  2  0   9- 3   8 qualified
+ 3.Inter     4   2  1  1   6- 4   7 qualified
+ 4.Tarrafal     4   0  2  2   2-10   2 qualified
 ----------------------------------------
  5.Lajedos FC     4   0  1  3   2-13   1
 
 Round 1 [Dec 20]
-Sanjoanenses  3-0 Inter
-Tarrafal  1-1 Lajedos FC
-Académica  bye
+Sanjoanenses   3-0 Inter
+Tarrafal   1-1 Lajedos FC
+Académica   bye
 
 Round 2 [Dec 27]
-Académica  5-0 Tarrafal
-Lajedos FC  0-8 Sanjoanenses
-Inter    bye
+Académica   5-0 Tarrafal
+Lajedos FC   0-8 Sanjoanenses
+Inter      bye
 
 Round 3 [Jan 3]
-Inter    2-0 Lajedos FC
-Sanjoanenses  1-1 Académica
-Tarrafal  bye
+Inter      2-0 Lajedos FC
+Sanjoanenses   1-1 Académica
+Tarrafal   bye
 
 Round 4 [Jan 10]
-Tarrafal  1-1 Sanjoanenses
-Académica  1-1 Inter
-Lajedos FC  bye
+Tarrafal   1-1 Sanjoanenses
+Académica   1-1 Inter
+Lajedos FC   bye
 
 Round 5 [Jan 17]
-Lajedos FC  1-2 Académica
-Inter    3-0 Tarrafal
-Sanjoanenses  bye
+Lajedos FC   1-2 Académica
+Inter      3-0 Tarrafal
+Sanjoanenses   bye
 
 Final table:
 
- 1.Sanjoanenses    4   2  2  0  13- 2   8 qualified
- 2.Académica    4   2  2  0   9- 3   8 qualified
- 3.Inter    4   2  1  1   6- 4   7 qualified
- 4.Tarrafal    4   0  2  2   2-10   2 qualified
+ 1.Sanjoanenses     4   2  2  0  13- 2   8 qualified
+ 2.Académica     4   2  2  0   9- 3   8 qualified
+ 3.Inter     4   2  1  1   6- 4   7 qualified
+ 4.Tarrafal     4   0  2  2   2-10   2 qualified
 ----------------------------------------
  5.Lajedos FC     4   0  1  3   2-13   1
 
@@ -2597,20 +2589,20 @@ Final stage
 
 Semifinals
 [Mar 18]
-Sanjoanenses  2-0 Tarrafal
+Sanjoanenses   2-0 Tarrafal
 [Apr 1]
-Académica  2-2 Inter  [4-5 pen]
+Académica   2-2 Inter   [4-5 pen]
 
 Final [tba, Estádio Municipal, Porto Novo]
-Sanjoanenses   -  Inter
+Sanjoanenses    -  Inter
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== São Nicolau  ‹§saonicolau›
 
-<!-- start pre -->
 NB: Futebol Clube Talho (Talho-Ribeira Brava) and Associação Cultural, Recreativa,
     Desportiva e Social Académica da Preguiça (Preguiça-Ribeira Brava) don't take part.
 
@@ -2628,7 +2620,7 @@ Supertaça 2024/25
 - - - - - - - - -
 
 [Nov 29, Estádio Municipal Di Deus, Ribeira Brava]
-FC Ultramarina  2-2 SC Atlético     [2-3 pen]
+FC Ultramarina   2-2 SC Atlético      [2-3 pen]
  [Leo Piscaia, Gian; Ké, Djefry]
 
 
@@ -2637,131 +2629,131 @@ Campeonato Regional
 
 Final table:
 
- 1.SC Atlético     14  13  1  0  39- 1  40 champions
- 2.FC Praia Branca   14  11  2  1  39-11  35
- 3.FC Ultramarina   14   8  2  4  26-14  26 [C]
- 4.FC Belo Horizonte   14   7  2  5  36-20  23
- 5.AJE-Chã Poça     14   4  1  9  14-38  13
- 6.Mancha Verde     14   3  2  9  14-32  11
- 7.CD Ribeira Brava   14   2  3  9  15-39   9 [A]
- 8.AJAT-SN     14   0  3 11  11-39   3
+ 1.SC Atlético       14  13  1  0  39- 1  40 champions
+ 2.FC Praia Branca    14  11  2  1  39-11  35
+ 3.FC Ultramarina    14   8  2  4  26-14  26 [C]
+ 4.FC Belo Horizonte    14   7  2  5  36-20  23
+ 5.AJE-Chã Poça       14   4  1  9  14-38  13
+ 6.Mancha Verde       14   3  2  9  14-32  11
+ 7.CD Ribeira Brava    14   2  3  9  15-39   9 [A]
+ 8.AJAT-SN       14   0  3 11  11-39   3
 
 Round 1
 [Dec 13]
-FC Ultramarina        0-2 SC Atlético
+FC Ultramarina         0-2 SC Atlético
 FC Belo Horizonte     6-2 AJE-Chã Poça
 [Dec 14]
-AJAT-SN          0-2 CD Ribeira Brava
+AJAT-SN            0-2 CD Ribeira Brava
 FC Praia Branca       6-0 Mancha Verde
 
 Round 2
 [Dec 20]
 CD Ribeira Brava      0-3 FC Ultramarina
-SC Atlético        0-0 FC Praia Branca
-AJE-Chã Poça        2-1 Mancha Verde
+SC Atlético         0-0 FC Praia Branca
+AJE-Chã Poça         2-1 Mancha Verde
 [Dec 21]
 FC Belo Horizonte     3-2 AJAT-SN
 
 Round 3
 [Dec 27]
-AJAT-SN          0-2 AJE-Chã Poça
-FC Ultramarina        2-1 FC Belo Horizonte
-Mancha Verde        0-5 SC Atlético
+AJAT-SN            0-2 AJE-Chã Poça
+FC Ultramarina         2-1 FC Belo Horizonte
+Mancha Verde         0-5 SC Atlético
 [Dec 28]
 FC Praia Branca       3-0 CD Ribeira Brava
 
 Round 4
 [Jan 3]
-AJE-Chã Poça        0-4 SC Atlético
-AJAT-SN          0-4 FC Ultramarina
+AJE-Chã Poça         0-4 SC Atlético
+AJAT-SN            0-4 FC Ultramarina
 FC Belo Horizonte     1-2 FC Praia Branca
 [Jan 4]
 CD Ribeira Brava      2-2 Mancha Verde
 
 Round 5 [Jan 17]
-FC Ultramarina        3-0 AJE-Chã Poça
-Mancha Verde        0-1 FC Belo Horizonte
+FC Ultramarina         3-0 AJE-Chã Poça
+Mancha Verde         0-1 FC Belo Horizonte
 FC Praia Branca       2-1 AJAT-SN
-SC Atlético        3-0 CD Ribeira Brava
+SC Atlético         3-0 CD Ribeira Brava
 
 Round 6
 [Jan 24]
-AJAT-SN          1-1 Mancha Verde
-AJE-Chã Poça        2-1 CD Ribeira Brava
+AJAT-SN            1-1 Mancha Verde
+AJE-Chã Poça         2-1 CD Ribeira Brava
 FC Belo Horizonte     0-1 SC Atlético
 [Jan 25]
-FC Ultramarina        1-2 FC Praia Branca
+FC Ultramarina         1-2 FC Praia Branca
 
 Round 7
 [Jan 31]
-Mancha Verde        0-2 FC Ultramarina
-SC Atlético        2-0 AJAT-SN
+Mancha Verde         0-2 FC Ultramarina
+SC Atlético         2-0 AJAT-SN
 FC Praia Branca       2-0 AJE-Chã Poça
 [Feb 1]
 CD Ribeira Brava      0-2 FC Belo Horizonte
 
 Round 8
 [Feb 7]
-Mancha Verde        1-2 FC Praia Branca
+Mancha Verde         1-2 FC Praia Branca
 CD Ribeira Brava      2-2 AJAT-SN
-AJE-Chã Poça        0-2 FC Belo Horizonte
+AJE-Chã Poça         0-2 FC Belo Horizonte
 [Feb 8]
-SC Atlético        1-0 FC Ultramarina
+SC Atlético         1-0 FC Ultramarina
 
 Round 9
 [Feb 21]
-Mancha Verde        4-1 AJE-Chã Poça
-FC Ultramarina        2-2 CD Ribeira Brava
+Mancha Verde         4-1 AJE-Chã Poça
+FC Ultramarina         2-2 CD Ribeira Brava
 [Feb 22]
-AJAT-SN          1-6 FC Belo Horizonte
+AJAT-SN            1-6 FC Belo Horizonte
 FC Praia Branca       0-1 SC Atlético
 
 Round 10
 [Feb 28]
 CD Ribeira Brava      1-4 FC Praia Branca
-SC Atlético        1-0 Mancha Verde
-AJE-Chã Poça        1-1 AJAT-SN
+SC Atlético         1-0 Mancha Verde
+AJE-Chã Poça         1-1 AJAT-SN
 [Mar 1]
 FC Belo Horizonte     2-2 FC Ultramarina
 
 Round 11 [Mar 7]
-SC Atlético        awd AJE-Chã Poça          [5-0 awarded; 1-0 abd 23' AJE-Chã Poça FC Praia Branca          3-3 FC Belo Horizonte  refuses to play]
-Mancha Verde        0-3 CD Ribeira Brava
-FC Ultramarina        2-1 AJAT-SN
+SC Atlético         awd AJE-Chã Poça           [5-0 awarded; 1-0 abd 23' AJE-Chã Poça FC Praia Branca          3-3 FC Belo Horizonte   refuses to play]
+Mancha Verde         0-3 CD Ribeira Brava
+FC Ultramarina         2-1 AJAT-SN
 
 Round 12 [Mar 14]
 CD Ribeira Brava      0-6 SC Atlético
-AJAT-SN          1-4 FC Praia Branca
+AJAT-SN            1-4 FC Praia Branca
 FC Belo Horizonte     1-2 Mancha Verde
-AJE-Chã Poça        0-1 FC Ultramarina
+AJE-Chã Poça         0-1 FC Ultramarina
 
 Round 13
 [Mar 20]
 FC Praia Branca       2-0 FC Ultramarina
 [Mar 22]
 CD Ribeira Brava      1-3 AJE-Chã Poça
-Mancha Verde        2-1 AJAT-SN
+Mancha Verde         2-1 AJAT-SN
 [Mar 28]
-SC Atlético        2-1 FC Belo Horizonte
+SC Atlético         2-1 FC Belo Horizonte
 
 Round 14
 [Mar 28]
-AJE-Chã Poça        1-7 FC Praia Branca
-FC Ultramarina        4-1 Mancha Verde
+AJE-Chã Poça         1-7 FC Praia Branca
+FC Ultramarina         4-1 Mancha Verde
 [Apr 4]
-AJAT-SN          0-6 SC Atlético
+AJAT-SN            0-6 SC Atlético
 FC Belo Horizonte     7-1 CD Ribeira Brava
 
 Final table:
 
- 1.SC Atlético     14  13  1  0  39- 1  40 champions
- 2.FC Praia Branca   14  11  2  1  39-11  35
- 3.FC Ultramarina   14   8  2  4  26-14  26 [C]
- 4.FC Belo Horizonte   14   7  2  5  36-20  23
- 5.AJE-Chã Poça     14   4  1  9  14-38  13
- 6.Mancha Verde     14   3  2  9  14-32  11
- 7.CD Ribeira Brava   14   2  3  9  15-39   9 [A]
- 8.AJAT-SN     14   0  3 11  11-39   3
+ 1.SC Atlético       14  13  1  0  39- 1  40 champions
+ 2.FC Praia Branca    14  11  2  1  39-11  35
+ 3.FC Ultramarina    14   8  2  4  26-14  26 [C]
+ 4.FC Belo Horizonte    14   7  2  5  36-20  23
+ 5.AJE-Chã Poça       14   4  1  9  14-38  13
+ 6.Mancha Verde       14   3  2  9  14-32  11
+ 7.CD Ribeira Brava    14   2  3  9  15-39   9 [A]
+ 8.AJAT-SN       14   0  3 11  11-39   3
 
 
 Taça São Nicolau
@@ -2771,25 +2763,25 @@ Round 1
 [Jan 10]
 CD Ribeira Brava      2-1 AJE-Chã Poça
 FC Belo Horizonte     2-1 FC Praia Branca
-FC Ultramarina        4-1 AJAT-SN
+FC Ultramarina         4-1 AJAT-SN
 [Jan 11]
-Mancha Verde        0-3 SC Atlético
+Mancha Verde         0-3 SC Atlético
 
 Semifinals [Feb 14]
 CD Ribeira Brava      2-5 FC Belo Horizonte
-SC Atlético        3-2 FC Ultramarina
+SC Atlético         3-2 FC Ultramarina
 
 Final [Mar 21, Estádio Municipal Di Deus, Ribeira Brava]
 FC Belo Horizonte     2-0 SC Atlético
  [Cladiston Kady 16, Sálvio 48]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== São Vicente  ‹§saovicente›
 
-<!-- start pre -->
 Supertaça 2024/25
 - - - - - - - - -
 
@@ -2809,36 +2801,36 @@ Grupo A
  1.CS Mindelense     3   3  0  0  22- 0   9 qualified
 -------------------------------------------
  2.SC Ribeira Bote   3   2  0  1   3- 7   6
- 3.Estoril       3   1  0  2   3-10   3
+ 3.Estoril        3   1  0  2   3-10   3
  4.SC Corinthians    3   0  0  3   1-12   0
 
 Grupo B
  1.GD Amarante       3   3  0  0   9- 3   9 qualified
 -------------------------------------------
- 2.FC Derby       3   2  0  1   7- 4   6
+ 2.FC Derby        3   2  0  1   7- 4   6
  3.ADRC São Pedro    3   1  0  2   5-10   3
- 4.GS Castilho       3   0  0  3   3- 7   0
+ 4.GS Castilho        3   0  0  3   3- 7   0
 
 Grupo C
- 1.Académica       3   3  0  0   8- 0   9 qualified
+ 1.Académica        3   3  0  0   8- 0   9 qualified
 -------------------------------------------
  2.ADRC Ponta d'Pom  3   1  1  1   4- 4   4
  3.Falcões do Norte  3   1  0  2   3- 7   3
- 4.Uni Mindelo       3   0  1  2   3- 7   1
+ 4.Uni Mindelo        3   0  1  2   3- 7   1
 
 Grupo D
- 1.Batuque FC       2   2  0  0   4- 1   6 qualified
+ 1.Batuque FC        2   2  0  0   4- 1   6 qualified
 -------------------------------------------
  2.ADRC Calhau       1   0  0  1   1- 2   0
  3.FC Salamansa      1   0  0  1   0- 2   0
 
 Round 1
 [Nov 29]
-SC Ribeira Bote    2-1 Estoril
-SC Corinthians    0-9 CS Mindelense
-FC Derby    2-1 GS Castilho
+SC Ribeira Bote     2-1 Estoril
+SC Corinthians     0-9 CS Mindelense
+FC Derby     2-1 GS Castilho
 [Nov 30]
-GD Amarante    5-1 ADRC São Pedro
+GD Amarante     5-1 ADRC São Pedro
 ADRC Ponta d'Pom  2-2 Uni Mindelo
 Falcões do Norte  0-4 Académica
 Batuque FC        2-1 ADRC Calhau
@@ -2847,25 +2839,25 @@ FC Salamansa      bye
 Round 2
 [Dec 6]
 ADRC Ponta d'Pom  2-1 Falcões do Norte
-Uni Mindelo    0-3 Académica
+Uni Mindelo     0-3 Académica
 FC Salamansa      0-2 Batuque FC
 [Dec 7]
-SC Ribeira Bote    1-0 SC Corinthians
-Estoril      0-7 CS Mindelense
-FC Derby    1-2 GD Amarante
+SC Ribeira Bote     1-0 SC Corinthians
+Estoril        0-7 CS Mindelense
+FC Derby     1-2 GD Amarante
 GS Castilho       1-3 ADRC São Pedro
-ADRC Calhau    bye
+ADRC Calhau     bye
 
 Round 3
 [Dec 13]
-GD Amarante    2-1 GS Castilho
-ADRC São Pedro     1-4 FC Derby
-Académica    1-0 ADRC Ponta d'Pom
+GD Amarante     2-1 GS Castilho
+ADRC São Pedro      1-4 FC Derby
+Académica     1-0 ADRC Ponta d'Pom
 [Dec 14]
 Falcões do Norte  2-1 Uni Mindelo
-ADRC Calhau     -  FC Salamansa
-SC Corinthians    1-2 Estoril
-CS Mindelense    6-0 SC Ribeira Bote
+ADRC Calhau      -  FC Salamansa
+SC Corinthians     1-2 Estoril
+CS Mindelense     6-0 SC Ribeira Bote
 Batuque FC        bye
 
 Tables:
@@ -2874,25 +2866,25 @@ Grupo A
  1.CS Mindelense     3   3  0  0  22- 0   9 qualified
 -------------------------------------------
  2.SC Ribeira Bote   3   2  0  1   3- 7   6
- 3.Estoril       3   1  0  2   3-10   3
+ 3.Estoril        3   1  0  2   3-10   3
  4.SC Corinthians    3   0  0  3   1-12   0
 
 Grupo B
  1.GD Amarante       3   3  0  0   9- 3   9 qualified
 -------------------------------------------
- 2.FC Derby       3   2  0  1   7- 4   6
+ 2.FC Derby        3   2  0  1   7- 4   6
  3.ADRC São Pedro    3   1  0  2   5-10   3
- 4.GS Castilho       3   0  0  3   3- 7   0
+ 4.GS Castilho        3   0  0  3   3- 7   0
 
 Grupo C
- 1.Académica       3   3  0  0   8- 0   9 qualified
+ 1.Académica        3   3  0  0   8- 0   9 qualified
 -------------------------------------------
  2.ADRC Ponta d'Pom  3   1  1  1   4- 4   4
  3.Falcões do Norte  3   1  0  2   3- 7   3
- 4.Uni Mindelo       3   0  1  2   3- 7   1
+ 4.Uni Mindelo        3   0  1  2   3- 7   1
 
 Grupo D
- 1.Batuque FC       2   2  0  0   4- 1   6 qualified
+ 1.Batuque FC        2   2  0  0   4- 1   6 qualified
 -------------------------------------------
  2.ADRC Calhau       1   0  0  1   1- 2   0
  3.FC Salamansa      1   0  0  1   0- 2   0
@@ -2904,17 +2896,17 @@ Semifinals
 [Dec 17]
 Batuque FC        0-1 CS Mindelense
 [Dec 18]
-Académica    2-0 GD Amarante
+Académica     2-0 GD Amarante
 
 Final Dec 21, Campo do Centro de Estágios, Mindelo]
-Académica    0-0 CS Mindelense  [4-1 pen]
+Académica     0-0 CS Mindelense   [4-1 pen]
 
 
 Play-off level 1/level 2
  - - - - - - - - - - - -
 
 [Dec 28]
-Salamansa    1-2 Falcões do Norte
+Salamansa     1-2 Falcões do Norte
 
 NB: Falcões do Norte promoted; Salamansa relegated.
 
@@ -2937,22 +2929,22 @@ Table:
 
  1.CS Mindelense    13  10  3  0  32-13  33 champions [C]
  2.GD Amarante      13   7  4  2  27-12  25
- 3.Batuque FC      13   5  6  2  15-11  21
- 4.Académica      13   3  5  5  16-11  14
- 5.FC Derby      13   3  5  5  19-26  14
+ 3.Batuque FC       13   5  6  2  15-11  21
+ 4.Académica       13   3  5  5  16-11  14
+ 5.FC Derby       13   3  5  5  19-26  14
  6.ADRC Ponta d'Pom 13   2  5  6  14-23  11 [P]
 - - - - - - - - - - - - - - - - - - - - - -
  7.Falcões do Norte 13   3  2  8  12-22  11 [P]
 -------------------------------------------
- 8.GS Castilho      13   2  4  7  16-33  10
+ 8.GS Castilho       13   2  4  7  16-33  10
 
 Round 1
 [Jan 3]
 Falcões do Norte  1-2 GS Castilho
-CS Mindelense    5-2 FC Derby
+CS Mindelense     5-2 FC Derby
 [Jan 4]
-GD Amarante    1-1 ADRC Ponta d'Pom
-Académica    0-2 Batuque FC
+GD Amarante     1-1 ADRC Ponta d'Pom
+Académica     0-2 Batuque FC
 
 Round 2
 [Jan 10]
@@ -2960,114 +2952,114 @@ ADRC Ponta d'Pom  0-2 Académica
 GS Castilho       2-2 Batuque FC
 [Jan 11]
 Falcões do Norte  1-5 CS Mindelense
-FC Derby    2-2 GD Amarante
+FC Derby     2-2 GD Amarante
 
 Round 3
 [Jan 17]
-CS Mindelense    3-1 GS Castilho
-GD Amarante    3-0 Falcões do Norte
+CS Mindelense     3-1 GS Castilho
+GD Amarante     3-0 Falcões do Norte
 [Jan 18]
-Académica    2-0 FC Derby
+Académica     2-0 FC Derby
 Batuque FC        0-1 ADRC Ponta d'Pom
 
 Round 4
 [Jan 24]
 Falcões do Norte  0-0 Académica
-CS Mindelense    1-0 GD Amarante
+CS Mindelense     1-0 GD Amarante
 [Jan 25]
 GS Castilho       2-2 ADRC Ponta d'Pom
-FC Derby    1-1 Batuque FC
+FC Derby     1-1 Batuque FC
 
 Round 5
 [Jan 31]
 ADRC Ponta d'Pom  2-4 FC Derby
-Académica    2-3 CS Mindelense
+Académica     2-3 CS Mindelense
 [Feb 1]
 Batuque FC        1-0 Falcões do Norte
-GD Amarante    4-0 GS Castilho
+GD Amarante     4-0 GS Castilho
 
 Round 6
 [Feb 7]
-CS Mindelense    0-0 Batuque FC
+CS Mindelense     0-0 Batuque FC
 GS Castilho       1-3 FC Derby
 [Feb 8]
-GD Amarante    0-0 Académica
+GD Amarante     0-0 Académica
 Falcões do Norte  3-1 ADRC Ponta d'Pom
 
 Round 7
 [Feb 14]
 Batuque FC        0-0 GD Amarante
-FC Derby    1-1 Falcões do Norte
+FC Derby     1-1 Falcões do Norte
 [Feb 15]
-Académica    7-0 GS Castilho
+Académica     7-0 GS Castilho
 ADRC Ponta d'Pom  1-2 CS Mindelense
 
 Round 8
 [Feb 21]
 Batuque FC        1-0 Académica
-FC Derby    2-5 CS Mindelense
+FC Derby     2-5 CS Mindelense
 [Feb 22]
 ADRC Ponta d'Pom  0-3 GD Amarante
 GS Castilho       2-0 Falcões do Norte
 
 Round 9
 [Feb 28]
-GD Amarante    3-0 FC Derby
+GD Amarante     3-0 FC Derby
 Batuque FC        1-1 GS Castilho
 [Mar 1]
-CS Mindelense    1-0 Falcões do Norte
-Académica    0-0 ADRC Ponta d'Pom
+CS Mindelense     1-0 Falcões do Norte
+Académica     0-0 ADRC Ponta d'Pom
 
 Round 10
 [Mar 7]
 GS Castilho       0-2 CS Mindelense
 ADRC Ponta d'Pom  1-2 Batuque FC
 [Mar 8]
-FC Derby    0-0 Académica
+FC Derby     0-0 Académica
 Falcões do Norte  1-2 GD Amarante
 
 Round 11
 [Mar 14]
 ADRC Ponta d'Pom  2-2 GS Castilho
-Académica    1-2 Falcões do Norte
+Académica     1-2 Falcões do Norte
 [Mar 15]
 Batuque FC        2-1 FC Derby
-GD Amarante    2-3 CS Mindelense
+GD Amarante     2-3 CS Mindelense
 
 Round 12
 [Mar 21]
 Falcões do Norte  2-1 Batuque FC
-FC Derby    1-1 ADRC Ponta d'Pom
+FC Derby     1-1 ADRC Ponta d'Pom
 [Mar 22]
 GS Castilho       2-4 GD Amarante
-CS Mindelense    0-0 Académica
+CS Mindelense     0-0 Académica
 
 Round 13
 [Mar 28]
 Batuque FC        2-2 CS Mindelense
 ADRC Ponta d'Pom  2-1 Falcões do Norte
 [Mar 29]
-Académica    2-3 GD Amarante
-FC Derby    2-1 GS Castilho
+Académica     2-3 GD Amarante
+FC Derby     2-1 GS Castilho
 
 Round 14
-GS Castilho      -  Académica
-GD Amarante     -  Batuque FC
-CS Mindelense     -  ADRC Ponta d'Pom
+GS Castilho       -  Académica
+GD Amarante      -  Batuque FC
+CS Mindelense      -  ADRC Ponta d'Pom
 Falcões do Norte   -  FC Derby
 
 Table:
 
  1.CS Mindelense    13  10  3  0  32-13  33 champions [C]
  2.GD Amarante      13   7  4  2  27-12  25
- 3.Batuque FC      13   5  6  2  15-11  21
- 4.Académica      13   3  5  5  16-11  14
- 5.FC Derby      13   3  5  5  19-26  14
+ 3.Batuque FC       13   5  6  2  15-11  21
+ 4.Académica       13   3  5  5  16-11  14
+ 5.FC Derby       13   3  5  5  19-26  14
  6.ADRC Ponta d'Pom 13   2  5  6  14-23  11 [P]
 - - - - - - - - - - - - - - - - - - - - - -
  7.Falcões do Norte 13   3  2  8  12-22  11 [P]
 -------------------------------------------
- 8.GS Castilho      13   2  4  7  16-33  10
+ 8.GS Castilho       13   2  4  7  16-33  10
 
 
 Campeonato Regional - 2.ª Divisão [aka Mindel League]
@@ -3084,127 +3076,127 @@ Estoril Futebol Clube de Monte Sossego
 
 Table:
 
- 1.FC Salamansa     11   7  4  0  28- 9  25 [R]
+ 1.FC Salamansa      11   7  4  0  28- 9  25 [R]
 -----------------------------------------------
- 2.SC Ribeira Bote  10   7  1  2  19- 7  22
+ 2.SC Ribeira Bote   10   7  1  2  19- 7  22
 - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Uni Mindelo    10   4  3  3  11-12  15
- 4.ADRC Calhau    10   3  5  2  15-14  14
- 5.ADRC São Pedro  11   3  3  5  18-28  12
- 6.Estoril    10   0  5  5   9-22   5
- 7.SC Corinthians  10   1  1  8  11-19   4
+ 3.Uni Mindelo      10   4  3  3  11-12  15
+ 4.ADRC Calhau      10   3  5  2  15-14  14
+ 5.ADRC São Pedro   11   3  3  5  18-28  12
+ 6.Estoril      10   0  5  5   9-22   5
+ 7.SC Corinthians   10   1  1  8  11-19   4
 
 Round 1
 [Jan 10]
-Estoril      0-1 Uni Mindelo
+Estoril        0-1 Uni Mindelo
 [Jan 11]
-ADRC São Pedro     0-5 SC Ribeira Bote
-ADRC Calhau    1-1 FC Salamansa
-SC Corinthians    bye
+ADRC São Pedro      0-5 SC Ribeira Bote
+ADRC Calhau     1-1 FC Salamansa
+SC Corinthians     bye
 
 Round 2
 [Jan 17]
-SC Corinthians    1-2 ADRC Calhau
+SC Corinthians     1-2 ADRC Calhau
 [Jan 18]
 FC Salamansa      5-3 Estoril
-Uni Mindelo    2-0 ADRC São Pedro
-SC Ribeira Bote    bye
+Uni Mindelo     2-0 ADRC São Pedro
+SC Ribeira Bote     bye
 
 Round 3
 [Jan 24]
-SC Ribeira Bote    1-2 Uni Mindelo
+SC Ribeira Bote     1-2 Uni Mindelo
 [Jan 25]
-Estoril      0-4 SC Corinthians
-ADRC São Pedro     1-1 FC Salamansa
-ADRC Calhau    bye
+Estoril        0-4 SC Corinthians
+ADRC São Pedro      1-1 FC Salamansa
+ADRC Calhau     bye
 
 Round 4
 [Jan 31]
-ADRC Calhau    1-1 Estoril
+ADRC Calhau     1-1 Estoril
 [Feb 1]
 FC Salamansa      2-0 SC Ribeira Bote
-SC Corinthians    3-4 ADRC São Pedro
-Uni Mindelo    bye
+SC Corinthians     3-4 ADRC São Pedro
+Uni Mindelo     bye
 
 Round 5
 [Feb 7]
-Uni Mindelo    1-2 FC Salamansa
+Uni Mindelo     1-2 FC Salamansa
 [Feb 8]
-ADRC São Pedro     1-3 ADRC Calhau
-SC Ribeira Bote    1-0 SC Corinthians
-Estoril      bye
+ADRC São Pedro      1-3 ADRC Calhau
+SC Ribeira Bote     1-0 SC Corinthians
+Estoril        bye
 
 Round 6
 [Feb 14]
-Estoril      0-4 ADRC São Pedro
+Estoril        0-4 ADRC São Pedro
 [Feb 15]
-SC Corinthians    0-1 Uni Mindelo
-ADRC Calhau    1-3 SC Ribeira Bote
+SC Corinthians     0-1 Uni Mindelo
+ADRC Calhau     1-3 SC Ribeira Bote
 FC Salamansa      bye
 
 Round 7
 [Feb 21]
-SC Corinthians    0-1 FC Salamansa
+SC Corinthians     0-1 FC Salamansa
 [Feb 22]
-Uni Mindelo    0-0 ADRC Calhau
-SC Ribeira Bote    2-0 Estoril
-ADRC São Pedro     bye
+Uni Mindelo     0-0 ADRC Calhau
+SC Ribeira Bote     2-0 Estoril
+ADRC São Pedro      bye
 
 Round 8
 [Feb 27]
 FC Salamansa      4-1 ADRC Calhau
 [Feb 28]
-SC Ribeira Bote    3-0 ADRC São Pedro
-Uni Mindelo    1-1 Estoril
-SC Corinthians    bye
+SC Ribeira Bote     3-0 ADRC São Pedro
+Uni Mindelo     1-1 Estoril
+SC Corinthians     bye
 
 Round 9
 [Mar 7]
-ADRC Calhau    3-0 SC Corinthians
-ADRC São Pedro     2-2 Uni Mindelo
+ADRC Calhau     3-0 SC Corinthians
+ADRC São Pedro      2-2 Uni Mindelo
 [Mar 8]
-Estoril      2-2 FC Salamansa
-SC Ribeira Bote    bye
+Estoril        2-2 FC Salamansa
+SC Ribeira Bote     bye
 
 Round 10
 [Mar 14]
-Uni Mindelo    1-2 SC Ribeira Bote
+Uni Mindelo     1-2 SC Ribeira Bote
 [Mar 15]
-SC Corinthians    1-1 Estoril
+SC Corinthians     1-1 Estoril
 FC Salamansa      6-0 ADRC São Pedro
-ADRC Calhau    bye
+ADRC Calhau     bye
 
 Round 11
 [Mar 21]
-ADRC São Pedro     4-1 SC Corinthians
+ADRC São Pedro      4-1 SC Corinthians
 [Mar 22]
-Estoril      1-1 ADRC Calhau
-SC Ribeira Bote    0-0 FC Salamansa
-Uni Mindelo    bye
+Estoril        1-1 ADRC Calhau
+SC Ribeira Bote     0-0 FC Salamansa
+Uni Mindelo     bye
 
 Round 12 [Mar 29]
 FC Salamansa      4-0 Uni Mindelo
-ADRC Calhau    2-2 ADRC São Pedro
-SC Corinthians    1-2 SC Ribeira Bote
-Estoril      bye
+ADRC Calhau     2-2 ADRC São Pedro
+SC Corinthians     1-2 SC Ribeira Bote
+Estoril        bye
 
 Round 13
-ADRC São Pedro      -  Estoril
-Uni Mindelo     -  SC Corinthians
-SC Ribeira Bote     -  ADRC Calhau
+ADRC São Pedro       -  Estoril
+Uni Mindelo      -  SC Corinthians
+SC Ribeira Bote      -  ADRC Calhau
 FC Salamansa      bye
 
 Table:
 
- 1.FC Salamansa     11   7  4  0  28- 9  25 [R]
+ 1.FC Salamansa      11   7  4  0  28- 9  25 [R]
 -----------------------------------------------
- 2.SC Ribeira Bote  10   7  1  2  19- 7  22
+ 2.SC Ribeira Bote   10   7  1  2  19- 7  22
 - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Uni Mindelo    10   4  3  3  11-12  15
- 4.ADRC Calhau    10   3  5  2  15-14  14
- 5.ADRC São Pedro  11   3  3  5  18-28  12
- 6.Estoril    10   0  5  5   9-22   5
- 7.SC Corinthians  10   1  1  8  11-19   4
+ 3.Uni Mindelo      10   4  3  3  11-12  15
+ 4.ADRC Calhau      10   3  5  2  15-14  14
+ 5.ADRC São Pedro   11   3  3  5  18-28  12
+ 6.Estoril      10   0  5  5   9-22   5
+ 7.SC Corinthians   10   1  1  8  11-19   4
 
 
 Taça Regional
@@ -3213,50 +3205,41 @@ Taça Regional
 Round 1
 [Jan 20]
 Falcões do Norte  0-1 SC Ribeira Bote
-Amarante    1-4 Mindelense
+Amarante     1-4 Mindelense
 [Jan 22]
-Castilho    2-3 FC Salamansa
-Estoril      0-2 Batuque
+Castilho     2-3 FC Salamansa
+Estoril        0-2 Batuque
 [Jan 28]
-SC Corinthians    2-2 Uni Mindelo   [1-3 pen]
+SC Corinthians     2-2 Uni Mindelo    [1-3 pen]
 [Feb 5]
-ADRC Calhau    2-5 Ponta d'Pom
+ADRC Calhau     2-5 Ponta d'Pom
 [Feb 25]
-Derby      2-1 Académica
-ADRC São Pedro     bye
+Derby        2-1 Académica
+ADRC São Pedro      bye
 
 Round 2
 [Mar 3]
 FC Salamansa      1-2 Batuque
 [Mar 4]
-Uni Mindelo    1-3 SC Ribeira Bote
+Uni Mindelo     1-3 SC Ribeira Bote
 [Mar 11]
-Derby      3-1 Ponta d'Pom
+Derby        3-1 Ponta d'Pom
 [Mar 12]
-ADRC São Pedro     0-1 Mindelense
+ADRC São Pedro      0-1 Mindelense
 
 Semifinals
 [Mar 19]
-Derby      1-2 Mindelense
+Derby        1-2 Mindelense
 [Mar 25]
-Batuque      1-2 SC Ribeira Bote
+Batuque        1-2 SC Ribeira Bote
 
 Final [Apr 11, Campo do Centro de Estágios, Mindelo]
-Mindelense     -  SC Ribeira Bote
+Mindelense      -  SC Ribeira Bote
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page kaapv2025›.
 
-‹list of champions, see page kaapvchamp›.
 
-‹list of cup winners, see page kaapvcuphist›.
-
-‹list of regional champions and cup winners, see page kaapvregchamp›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

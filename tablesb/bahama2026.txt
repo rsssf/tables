@@ -1,4 +1,5 @@
   <!--
+     title:  Bahamas 2025/26
      source: https://rsssf.org/tablesb/bahama2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Bahamas 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹BFA Senior League 2025/26, see §senior›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== BFA Senior League 2025/26  ‹§senior›
 
-<!-- start pre -->
 Table:
 
  1.Univ. of the Bahamas Mingoes   13   9  3  1  47-11  30
@@ -193,17 +191,10 @@ Table:
  -.Baha Juniors FC                withdrew or excluded after round 16;
    results rounds 10-16 annulled   8   2  2  4  10-14   8
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page bahama2025›
 
-‹list of champions, see page bahamachamp›
 
-‹list of cup winners, see page bahamacuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

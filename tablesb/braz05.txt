@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2005
      source: https://rsssf.org/tablesb/braz05.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 2005
 
-<!-- start pre -->
 Participants
 
 C Atlético Mineiro (Belo Horizonte-MG)      Goiás EC (Goiânia-GO)
@@ -1651,9 +1651,10 @@ Renan           (São Paulo for Santos)                 1
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

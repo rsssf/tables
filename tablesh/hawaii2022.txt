@@ -1,4 +1,5 @@
   <!--
+     title:  Hawaii 2021/22
      source: https://rsssf.org/tablesh/hawaii2022.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Hawaii 2021/22
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Oahu 2021/22, see §oahu›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Oahu 2021/22  ‹§oahu›
 
-<!-- start pre -->
 ‹Division One, see §oahudiv1› | ‹Robledo Cup 2021/22, see §robledo› | ‹Division Two, see §oahudiv2›
 
 Division One  ‹§oahudiv1›
@@ -633,17 +631,10 @@ Lanikai Thursday    0-3 Vaiete SC
 Final [May 22]
 Soccer Team FC      4-1 Vaiete SC
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2019/20, see page hawaii2020›
 
-‹2022/23, see page hawaii2023›
 
-‹list of champions, see page hawaiichamp›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

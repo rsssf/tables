@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2024
      source: https://rsssf.org/tablesu/usa2024.html
     -->
   
@@ -6,16 +7,12 @@
 
 == USA 2024
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Major League Soccer, see §mls› (Division 1)
-‹US Open Cup, see §open›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Major League Soccer  ‹§mls›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
 Regular Season  ‹§reg›
@@ -774,13 +771,13 @@ Los Angeles Galaxy     1-0 Seattle Sounders
 MLS Cup [Dec 7, Carson]
 Los Angeles Galaxy     2-1 New York Red Bulls
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== US Open Cup  ‹§open›
 
-<!-- start pre -->
 1/8 Finals
 [May 21]
 Charleston Battery     0-0 Atlanta United         [aet, 4-5 pen]
@@ -810,27 +807,10 @@ Seattle Sounders       0-1 Los Angeles FC
 Final [Sep 25]
 Los Angeles FC         3-1 Sporting Kansas City   [aet]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023, see page usa2023›
 
-‹2025, see page usa2025›
 
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

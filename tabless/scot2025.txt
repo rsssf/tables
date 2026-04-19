@@ -1,4 +1,5 @@
   <!--
+     title:  Scotland 2024/25
      source: https://rsssf.org/tabless/scot2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Scotland 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premiership, see §premier›
-‹Highland Amateur Cup 2025, see §hama›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premiership  ‹§premier›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
 Regular Stage  ‹§reg›
@@ -477,13 +474,13 @@ Final Table:
 -----------------------------------------------
 12.Saint Johnstone      38   9  5 24  38-68  32       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Highland Amateur Cup 2025  ‹§hama›
 
-<!-- start pre -->
 Preliminary Round
 North Section
 [Apr 19]
@@ -603,39 +600,10 @@ Carloway FC                    0-1 Inver FC
 Final [Sep 6, Mosset Park, Forres]
 Maryburgh AFC                  3-1 Inver FC
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page scot2024›.
 
-‹list of champions, see page scotchamp›.
 
-‹list of 2nd division champions, see page scot2champ›.
-
-‹list of 3rd division champions, see page scot3champ›.
-
-‹list of 4th division champions, see page scot4champ›.
-
-‹list of highland league champions, see page scot-highchamp›.
-
-‹list of east of scotland league champions, see page scot-eastchamp›.
-
-‹list of south of scotland league champions, see page scot-southchamp›.
-
-‹all-time table, see page scotalltime›.
-
-‹list of divisional movements, see page scotall›.
-
-‹list of cup winners, see page scotcuphist›.
-
-‹list of league cup winners, see page scotleagcuphist›.
-
-‹list of qualifying cup winners, see page scotqualcuphist›.
-
-‹list of glasgow cup winners, see page scot-glasgowcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

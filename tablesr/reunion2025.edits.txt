@@ -1,0 +1,22 @@
+-- removing nav(igation) section:
+
+‹Régional 1, see §div1›
+‹Cup Tournaments, see §cup›
+‹Régional 2, see §sup2›
+
+Note that the point system on Réunion is 4/win, 2/draw, 1/loss.
+
+
+-- removing nav(igation) section:
+
+‹2024, see page reunion2024›
+
+‹list of champions, see page reunionchamp›
+
+‹list of final tables, see page reunionhist›
+
+‹list of winners coupe de la reunion, see page reunioncuphist›
+
+‹list of french sea territories cup winners, see page ../tablesf/franseaterrcuphist›
+
+

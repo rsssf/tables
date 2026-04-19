@@ -1,4 +1,5 @@
   <!--
+     title:  Mauritius 2025/26
      source: https://rsssf.org/tablesm/mauri2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Mauritius 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §prem›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League 2025/26  ‹§prem›
 
-<!-- start pre -->
 Table:
 
  1.La Cure Waves                          14  12  0  2  44-15  36
@@ -173,17 +171,10 @@ Table:
  9.US Beau-Bassin/Rose Hill               14   1  4  9  13-37   7  [P]
 10.Pointe-aux-Sables Mates SC             14   0  1 13   8-50   1       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page mauri2025›
 
-‹list of champions, see page maurichamp›
 
-‹list of cup winners, see page mauricuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

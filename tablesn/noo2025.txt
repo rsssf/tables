@@ -1,4 +1,5 @@
   <!--
+     title:  Norway 2025
      source: https://rsssf.org/tablesn/noo2025.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Norway 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Eliteserien, see §premier›
-‹Cup, see §cup›
-‹1. ligaen, see §ligaen›
-‹2. ligaen, see §2ligaen›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Eliteserien  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Viking FK             30  22  5  3  77-36  71       Champions
@@ -59,13 +54,13 @@ Second Leg [Dec 11]
 Aalesund          0-1 Bryne
 
 NB: Aalesunds FK promoted, Bryne FK relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup  ‹§cup›
 
-<!-- start pre -->
 First Round
 [Mar 26]
 Innstranda        0-8 Bodø/Glimt
@@ -218,13 +213,13 @@ Lillestrøm        2-0 Kristiansund BK
 Final [Dec 6]
 Lillestrøm        3-1 Sarpsborg 08
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1. ligaen  ‹§ligaen›
 
-<!-- start pre -->
 Final Table:
 
  1.Lillestrøm SK         30  25  5  0  87-18  80  [R]  Promoted
@@ -269,13 +264,13 @@ Second Leg [Nov 29]
 Brattvåg          2-1 Moss              [aet, 2-4 pen]
 
 NB: all clubs remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. ligaen  ‹§2ligaen›
 
-<!-- start pre -->
 Avdeling 1
 
 Final Table:
@@ -325,19 +320,10 @@ Final Table:
 Promoted: IK Junkeren (Bodø), SK Trygg/Lade, Lørenskog IF,
           IL Bjarg (Bergen), FK Vidar (Stavanger), Kvik Halden FK
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page noo2024›.
 
-‹list of champions, see page noochamp›.
 
-‹list of cup finals, see page noocuphist›.
-
-‹RSSSF Norwegian Football Server - Link to Lars Aarhus›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

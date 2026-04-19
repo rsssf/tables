@@ -1,0 +1,40 @@
+-- removing nav(igation) section:
+
+‹LPF Opening Tournament - Torneo Apertura de la LPF de AFA 2026, see §1apertura›
+‹LPF Closing Tournament - Torneo Clausura de la LPF de AFA 2026, see §1clausura›
+‹LPF Annual Table - Tabla Anual de la LPF de AFA 2026, see §1first›
+‹AFA National cup: Copa Argentina 2026, see §nationalcup›
+
+
+-- removing nav(igation) section:
+
+‹2025, see page arg2025›.
+
+
+
+‹2025/26 (regional 4th level), see page arg4-reg2026›.
+
+
+
+‹list of champions, see page argchamp›.
+
+
+‹list of cup finals, see page argcuphist›.
+
+
+‹list of final tables, see page arghist›.
+
+
+‹all-time tables, see page argalltime›.
+
+
+‹list of 2nd level champions, see page arg2champ›.
+
+
+‹divisional movements, see page argall›.
+
+
+‹topscorers, see page argtops›.
+
+
+

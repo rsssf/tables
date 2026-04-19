@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1990
      source: https://rsssf.org/tables/90f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1990 (Italy, June 8-July 8)
 
-<!-- start pre -->
 
 FIRST PHASE
 
@@ -118,7 +118,6 @@ Red cards: Monzón (65', direct red), Dezotti (87', direct red).
 
 Topscorer: Schillaci (Italy) 6 goals.
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 90full›
 
@@ -132,7 +131,9 @@ Topscorer: Schillaci (Italy) 6 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

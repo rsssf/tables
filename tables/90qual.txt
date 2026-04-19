@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1990 qualifications
      source: https://rsssf.org/tables/90qual.html
     -->
   
@@ -25,7 +26,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 33 teams entered, including ITA (hosts). Winners and runners-up of four
 groups of five teams and winners of three groups of four teams progress
@@ -813,4 +813,3 @@ Second Round (1989)
 15.10. Bogota     COL-ISR 1:0 (0:0) Uzuriaga 73 (Vautrot FRA)
 30.10. Tel-Aviv   ISR-COL 0:0       (Codesal Mendez MEX)
 
-<!-- end pre -->

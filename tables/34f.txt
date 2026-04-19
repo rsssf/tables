@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1934
      source: https://rsssf.org/tables/34f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1934 (Italy, May 27-June 10)
 
-<!-- start pre -->
 1/8 FINALS
 
 27.05.34  Firenze  Germany          5-2 Belgium
@@ -62,7 +62,6 @@ Scorers: 71' Puc 0-1; 81' Orsi 1-1; 95' Schiavio 2-1.
 
 Topscorer: Nejedlý (Czechoslovakia) 5 goals.
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 34full›
 
@@ -76,7 +75,9 @@ Topscorer: Nejedlý (Czechoslovakia) 5 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

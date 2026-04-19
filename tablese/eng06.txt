@@ -1,4 +1,5 @@
   <!--
+     title:  England 2005/06
      source: https://rsssf.org/tablese/eng06.html
     -->
   
@@ -6,7 +7,6 @@
 
 == England 2005/06
 
-<!-- start pre -->
 Premiership
 
 Final Table:
@@ -961,409 +961,409 @@ FA Cup 2005/06
 
 
 1st Qualifying Round
-Oldham Town      1-2 Great Harwood Town
-Wakefield Emley   1-2 Blyth Spartans
-Armthorpe Welfare   3-1 Mossley
-Goole       5-3 Clitheroe
-Billingham Synthonia   4-2 Retford United
-Trafford     4-1 Yorkshire Amateur
-Kendal Town     2-3 Witton Albion
-Durham City     0-2 Hebburn Town
-Runcorn FC Halton   2-3 Skelmersdale United
-Curzon Ashton     0-2 Chester Le Street Town
-Burscough     3-2 Ashton United
-Pickering Town     1-2 Farsley Celtic
-Cammell Laird     2-1 Radcliffe Borough
-Stocksbridge PS   1-3 Ossett Town
-Chorley     0-0 Bishop Auckland
-Dunston Fed. Brewery   4-1 Thackley
-Woodley Sports     2-4 Prescot Cables    (at Hyde United FC)
-Seaham Red Star   0-4 Consett
-Bradford Park Avenue   1-1 Padiham
-Marine       4-0 Cheadle Town
-St Helens Town     3-3 Northallerton Town
-Frickley Athletic   2-0 Chadderton
-Gateshead     4-0 Warrington Town
-Guiseley     0-1 Salford City
-Rossendale United   2-2 Billingham Town
-Thornaby     4-3 West Auckland Town
-Newcastle Blue Star   1-2 Whitby Town       (at Whitby Town)
-North Ferriby United   3-1 Brigg Town
-Whitley Bay     1-2 Ramsbottom United
-Willenhall Town   1-1 Malvern Town
-Bedworth United   1-1 Solihull Borough
-Stratford Town     1-3 Glapwell
-Bromsgrove Rovers   2-0 Newcastle Town
-Ilkeston Town     1-0 Coalville Town
-Kidsgrove Athletic   0-1 Leamington
-Staveley MW     2-1 Norton United
-Halesowen Town     5-3 South Normanton Athletic
-Leek Town     7-0 Long Eaton United
-Westfields     1-2 Belper Town
-Oadby Town     3-3 Oldbury United
-Boldmere St Michaels   0-3 Nantwich Town
-Matlock Town     4-0 Pegasus Juniors
-Cradley Town     0-6 Eastwood Town
-Grantham Town     4-0 Lincoln United
-Chasetown     2-1 Gedling Town
-AFC Telford United   1-1 Rugby Town
-Corby Town     2-0 Shepshed Dynamo        (at Kettering Town)
-Chesham United     0-1 Brackley Town
-St Margaretsbury   0-0 Billericay Town
-Northwood     3-0 March Town United
-Rothwell Town     1-3 Wivenhoe Town
-Welwyn Garden City   3-2 Beaconsfield SYCOB
-Ruislip Manor     1-1 Redbridge
-Wroxham     2-0 Diss Town
-Woodford United   5-0 Harwich & Parkeston
-East Thurrock United   1-2 Harrow Borough
-Hampton & Richmond   3-0 Witham Town
-Halstead Town     1-3 Lowestoft Town
-Aveley       1-2 Burnham Ramblers
-Brentwood Town     3-1 Great Wakering Rovers
-Barkingside     1-6 Maldon Town
-Brook House     9-1 Clacton Town
-Bedford Town     2-2 AFC Sudbury
-AFC Hornchurch     2-0 Stansted
-Cogenhoe United   4-2 Clapton
-Heybridge Swifts   1-0 Arlesey Town
-Stanway Rovers     0-0 Wealdstone
-Chelmsford City   1-1 Harlow Town
-Ipswich Wanderers   1-1 Hemel Hempstead
-Potton United     0-1 Leyton
-Hitchin Town     4-1 Waltham Forest
-Enfield Town     3-0 Waltham Abbey
-Bury Town     2-2 Boreham Wood
-Northampton Spencer   1-2 Aylesbury United
-Staines Town     1-1 Dunstable Town
-Hendon       6-0 Biggleswade United
-Southall     6-3 Mildenhall Town
-Banbury United     2-1 King's Lynn
-Berkhamsted Town   3-0 Barton Rovers
-Cheshunt     1-2 Braintree Town
-Slough Town     4-1 Oxford City
-Camberley Town     1-0 Epsom & Ewell
-Cray Wanderers     4-1 Kingstonian
-Fleet Town     3-2 Thatcham Town
-Lordswood     1-2 AFC Totton
-Didcot Town     0-0 Herne Bay
-Bashley     0-1 Dover Athletic
-Burgess Hill Town   0-4 Walton & Hersham
-Abingdon United   1-1 Dulwich Hamlet
-Banstead Athletic   3-0 Moneyfields
-Three Bridges     1-3 Chipstead
-Croydon Athletic   1-3 Ramsgate
-Bedfont     1-4 Bromley
-Horsham YMCA     1-2 Croydon
-AFC Wimbledon     2-2 Ashford Town (Mx)
-Ashford Town     0-3 Windsor & Eton
-Maidstone United   1-2 Burnham
-Folkestone Invicta   3-1 Egham Town
-Chessington & Hook   0-3 Hassocks
-Wick       0-4 Worthing
-Eastbourne Town   1-2 Gosport Borough
-Margate     4-0 Cowes Sports
-Dorking     1-3 Deal Town
-Fisher Athletic   6-2 Tooting & Mitcham
-Chatham Town     3-4 Leatherhead
-Metropolitan Police   2-0 Tunbridge Wells
-Hastings United   3-3 Tonbridge Angels
-Swindon Supermarine   1-0 Melksham Town
-Fairford Town     0-1 Bishops Cleeve
-Liskeard Athletic   1-1 Bitton
-Cirencester Town   5-3 Wimborne Town
-Bath City     1-0 Cinderford Town
-Clevedon Town     1-1 Salisbury City
-Taunton Town     3-0 Odd Down
-Paulton Rovers     3-2 Barnstaple Town
-Chippenham Town   4-1 Falmouth Town
-Penzance     0-1 Bemerton Heath H
-Gloucester City   0-0 Christchurch
-Tiverton Town     1-1 Evesham United
-Yate Town     2-0 Bodmin Town
-Merthyr Tydfil     3-2 St Blazey
-Bournemouth     1-1 Mangotsfield United
-Oldbury United    0-3 Oadby Town
-Rugby Town    2-3 AFC Telford United
-Hamworthy United   0-2 Team Bath
-Highworth Town    2-1 Elmore
+Oldham Town        1-2 Great Harwood Town
+Wakefield Emley    1-2 Blyth Spartans
+Armthorpe Welfare    3-1 Mossley
+Goole          5-3 Clitheroe
+Billingham Synthonia    4-2 Retford United
+Trafford       4-1 Yorkshire Amateur
+Kendal Town       2-3 Witton Albion
+Durham City       0-2 Hebburn Town
+Runcorn FC Halton    2-3 Skelmersdale United
+Curzon Ashton       0-2 Chester Le Street Town
+Burscough       3-2 Ashton United
+Pickering Town       1-2 Farsley Celtic
+Cammell Laird       2-1 Radcliffe Borough
+Stocksbridge PS    1-3 Ossett Town
+Chorley       0-0 Bishop Auckland
+Dunston Fed. Brewery    4-1 Thackley
+Woodley Sports       2-4 Prescot Cables      (at Hyde United FC)
+Seaham Red Star    0-4 Consett
+Bradford Park Avenue    1-1 Padiham
+Marine          4-0 Cheadle Town
+St Helens Town       3-3 Northallerton Town
+Frickley Athletic    2-0 Chadderton
+Gateshead       4-0 Warrington Town
+Guiseley       0-1 Salford City
+Rossendale United    2-2 Billingham Town
+Thornaby       4-3 West Auckland Town
+Newcastle Blue Star    1-2 Whitby Town          (at Whitby Town)
+North Ferriby United    3-1 Brigg Town
+Whitley Bay       1-2 Ramsbottom United
+Willenhall Town    1-1 Malvern Town
+Bedworth United    1-1 Solihull Borough
+Stratford Town       1-3 Glapwell
+Bromsgrove Rovers    2-0 Newcastle Town
+Ilkeston Town       1-0 Coalville Town
+Kidsgrove Athletic    0-1 Leamington
+Staveley MW       2-1 Norton United
+Halesowen Town       5-3 South Normanton Athletic
+Leek Town       7-0 Long Eaton United
+Westfields       1-2 Belper Town
+Oadby Town       3-3 Oldbury United
+Boldmere St Michaels    0-3 Nantwich Town
+Matlock Town       4-0 Pegasus Juniors
+Cradley Town       0-6 Eastwood Town
+Grantham Town       4-0 Lincoln United
+Chasetown       2-1 Gedling Town
+AFC Telford United    1-1 Rugby Town
+Corby Town       2-0 Shepshed Dynamo          (at Kettering Town)
+Chesham United       0-1 Brackley Town
+St Margaretsbury    0-0 Billericay Town
+Northwood       3-0 March Town United
+Rothwell Town       1-3 Wivenhoe Town
+Welwyn Garden City    3-2 Beaconsfield SYCOB
+Ruislip Manor       1-1 Redbridge
+Wroxham       2-0 Diss Town
+Woodford United    5-0 Harwich & Parkeston
+East Thurrock United    1-2 Harrow Borough
+Hampton & Richmond    3-0 Witham Town
+Halstead Town       1-3 Lowestoft Town
+Aveley          1-2 Burnham Ramblers
+Brentwood Town       3-1 Great Wakering Rovers
+Barkingside       1-6 Maldon Town
+Brook House       9-1 Clacton Town
+Bedford Town       2-2 AFC Sudbury
+AFC Hornchurch       2-0 Stansted
+Cogenhoe United    4-2 Clapton
+Heybridge Swifts    1-0 Arlesey Town
+Stanway Rovers       0-0 Wealdstone
+Chelmsford City    1-1 Harlow Town
+Ipswich Wanderers    1-1 Hemel Hempstead
+Potton United       0-1 Leyton
+Hitchin Town       4-1 Waltham Forest
+Enfield Town       3-0 Waltham Abbey
+Bury Town       2-2 Boreham Wood
+Northampton Spencer    1-2 Aylesbury United
+Staines Town       1-1 Dunstable Town
+Hendon          6-0 Biggleswade United
+Southall       6-3 Mildenhall Town
+Banbury United       2-1 King's Lynn
+Berkhamsted Town    3-0 Barton Rovers
+Cheshunt       1-2 Braintree Town
+Slough Town       4-1 Oxford City
+Camberley Town       1-0 Epsom & Ewell
+Cray Wanderers       4-1 Kingstonian
+Fleet Town       3-2 Thatcham Town
+Lordswood       1-2 AFC Totton
+Didcot Town       0-0 Herne Bay
+Bashley       0-1 Dover Athletic
+Burgess Hill Town    0-4 Walton & Hersham
+Abingdon United    1-1 Dulwich Hamlet
+Banstead Athletic    3-0 Moneyfields
+Three Bridges       1-3 Chipstead
+Croydon Athletic    1-3 Ramsgate
+Bedfont       1-4 Bromley
+Horsham YMCA       1-2 Croydon
+AFC Wimbledon       2-2 Ashford Town (Mx)
+Ashford Town       0-3 Windsor & Eton
+Maidstone United    1-2 Burnham
+Folkestone Invicta    3-1 Egham Town
+Chessington & Hook    0-3 Hassocks
+Wick          0-4 Worthing
+Eastbourne Town    1-2 Gosport Borough
+Margate       4-0 Cowes Sports
+Dorking       1-3 Deal Town
+Fisher Athletic    6-2 Tooting & Mitcham
+Chatham Town       3-4 Leatherhead
+Metropolitan Police    2-0 Tunbridge Wells
+Hastings United    3-3 Tonbridge Angels
+Swindon Supermarine    1-0 Melksham Town
+Fairford Town       0-1 Bishops Cleeve
+Liskeard Athletic    1-1 Bitton
+Cirencester Town    5-3 Wimborne Town
+Bath City       1-0 Cinderford Town
+Clevedon Town       1-1 Salisbury City
+Taunton Town       3-0 Odd Down
+Paulton Rovers       3-2 Barnstaple Town
+Chippenham Town    4-1 Falmouth Town
+Penzance       0-1 Bemerton Heath H
+Gloucester City    0-0 Christchurch
+Tiverton Town       1-1 Evesham United
+Yate Town       2-0 Bodmin Town
+Merthyr Tydfil       3-2 St Blazey
+Bournemouth       1-1 Mangotsfield United
+Oldbury United      0-3 Oadby Town
+Rugby Town      2-3 AFC Telford United
+Hamworthy United    0-2 Team Bath
+Highworth Town      2-1 Elmore
 
 1st Qualifying Round Replays
-Bishop Auckland    2-1 Chorley
-Padinham    1-4 Bradford Park Avenue
-Northallerton Town  2-3 St Helens Town
-Solihull Borough  3-2 Bedworth United
-Malvern Town    1-0 Willenhall Town
-Billingham Town    2-3 Rossendale United
-Billericay Town    2-3 St Margaretsbury    aet
-Redbridge    2-1 Ruislip Manor
-AFC Sudbury    2-1 Bedford Town    aet
-Wealdstone    3-0 Stanway Rovers
-Harlow Town    0-1 Chelmsford City
-Hemel Hempstead    4-1 Ipswich Wanderers
-Boreham Wood    4-2 Bury Town
-Dunstable Town    0-1 Staines Town    aet
-Dulwich Hamlet    3-2 Abingdon United
-Ashford Town (Mx)  0-2 AFC Wimbledon
-Tonbridge Angels  2-1 Hastings United
-Herne Bay    2-6 Didcot Town
-Bitton      1-0 Liskeard Athletic
-Salisbury City    4-2 Clevedon Town
-Christchurch    4-0 Gloucester City
-Mangotsfield United  7-0 Bournemouth
-Evesham United    0-1 Tiverton Town
+Bishop Auckland      2-1 Chorley
+Padinham      1-4 Bradford Park Avenue
+Northallerton Town   2-3 St Helens Town
+Solihull Borough   3-2 Bedworth United
+Malvern Town      1-0 Willenhall Town
+Billingham Town      2-3 Rossendale United
+Billericay Town      2-3 St Margaretsbury      aet
+Redbridge      2-1 Ruislip Manor
+AFC Sudbury      2-1 Bedford Town      aet
+Wealdstone      3-0 Stanway Rovers
+Harlow Town      0-1 Chelmsford City
+Hemel Hempstead      4-1 Ipswich Wanderers
+Boreham Wood      4-2 Bury Town
+Dunstable Town      0-1 Staines Town      aet
+Dulwich Hamlet      3-2 Abingdon United
+Ashford Town (Mx)   0-2 AFC Wimbledon
+Tonbridge Angels   2-1 Hastings United
+Herne Bay      2-6 Didcot Town
+Bitton         1-0 Liskeard Athletic
+Salisbury City      4-2 Clevedon Town
+Christchurch      4-0 Gloucester City
+Mangotsfield United   7-0 Bournemouth
+Evesham United      0-1 Tiverton Town
 2nd Qualifying Round
-Consett        1-5 Ossett Town
-Billingham Synthonia   0-3 North Ferriby United
-Blyth Spartans      1-0 Prescot Cables
-Armthorpe Welfare   0-2 Rossendale United
-Dunston Fed. Brewery   1-1 Thornaby
-Trafford      1-1 Whitby Town
-Harrogate Town      3-0 Great Harwood Town
-Chester Le Street Town   1-3 Leigh RMI
-Marine        1-1 Cammell Laird
-Worksop Town      0-1 Witton Albion
-Skelmersdale United   0-0 Bishop Auckland
-Hyde United      2-1 Lancaster City
-St Helens Town      0-2 Alfreton Town
-Vauxhall Motors   2-0 Ramsbottom United
-Barrow        5-1 Hebburn Town
-Farsley Celtic      2-0 Bradford Park Avenue
-Gainsborough Trinity   2-2 Goole
-Frickley Athletic   1-4 Northwich Victoria
-Droylsden      1-2 Burscough
-Salford City      1-0 Gateshead
-Stalybridge Celtic   0-0 Workington
-Bromsgrove Rovers   3-1 Hinckley United
-Leamington      2-2 Oadby Town
-Chasetown      3-3 Belper Town
-Brackley Town      1-1 Banbury United
-Eastwood Town      1-1 Cambridge City
-Nuneaton Borough   3-1 AFC Telford United
-Matlock Town      2-0 Corby Town
-Glapwell      0-1 Halesowen Town
-Redditch United   1-1 Woodford United
-Malvern Town      1-4 Histon
-Hednesford Town   2-0 Moor Green
-Leek Town      1-0 Grantham Town
-Kettering Town      1-0 Stafford Rangers
-Cogenhoe United   3-2 Staveley MW
-Solihull Borough   3-0 Ilkeston Town
-Nantwich Town      0-1 Hucknall Town
-Thurrock      3-2 Hemel Hempstead
-Boreham Wood      0-2 Welling United
-Wivenhoe Town      1-4 Heybridge Swifts
-Bognor Regis Town   1-1 Basingstoke Town
-Yeading      3-0 Maidenhead United
-Hendon        0-0 Metropolitan Police
-AFC Hornchurch      1-4 Worthing
-Burnham      1-1 Lowestoft Town
-Bromley      2-1 Chipstead
-Staines Town      1-1 Croydon
-Redbridge      2-2 Eastbourne Borough
-Deal Town      1-3 Hitchin Town
-Chelmsford City   1-0 Dover Athletic
-AFC Wimbledon      0-3 Walton & Hersham
-Cray Wanderers      4-1 Camberley Town
-Leyton        0-1 Lewes
-St Margaretsbury   0-1 Folkestone Invicta
-Braintree Town      2-0 Didcot Town
-Brentwood Town      1-2 Windsor & Eton
-Wroxham      2-0 Slough Town
-Fisher Athletic   2-3 Tonbridge Angels
-Northwood      0-0 Aylesbury United
-Margate      1-0 Carshalton Athletic
-Hayes        1-1 Brook House
-Welwyn Garden City   4-2 AFC Sudbury
-Hassocks      0-1 Dulwich Hamlet
-Ramsgate      1-0 Southall
-Farnborough Town   3-0 Berkhamsted Town
-Enfield Town      1-1 St Albans City
-Sutton United      2-0 Maldon Town
-Banstead Athletic   1-4 Wealdstone
-Harrow Borough      2-1 Burnham Ramblers
-Hampton & Richmond   1-1 Leatherhead
-Fleet Town      0-2 Bishop's Stortford
-Highworth Town      1-7 Tiverton Town
-Yate Town      0-2 Salisbury City
-Christchurch      0-2 Cirencester Town
-Worcester City      7-0 Bemerton Heath H
-Taunton Town      1-1 Merthyr Tydfil
-Gosport Borough   3-4 Bath City
-Mangotsfield United   4-2 Swindon Supermarine
-Bishops Cleeve      3-0 Bitton
-Dorchester Town   4-2 Team Bath
-Weston Super Mare   2-2 Weymouth
-Chippenham Town   4-0 Newport County
-AFC Totton      2-1 Paulton Rovers
-Eastleigh      0-0 Havant & Waterlooville
+Consett          1-5 Ossett Town
+Billingham Synthonia    0-3 North Ferriby United
+Blyth Spartans        1-0 Prescot Cables
+Armthorpe Welfare    0-2 Rossendale United
+Dunston Fed. Brewery    1-1 Thornaby
+Trafford        1-1 Whitby Town
+Harrogate Town        3-0 Great Harwood Town
+Chester Le Street Town    1-3 Leigh RMI
+Marine           1-1 Cammell Laird
+Worksop Town        0-1 Witton Albion
+Skelmersdale United    0-0 Bishop Auckland
+Hyde United        2-1 Lancaster City
+St Helens Town        0-2 Alfreton Town
+Vauxhall Motors    2-0 Ramsbottom United
+Barrow           5-1 Hebburn Town
+Farsley Celtic        2-0 Bradford Park Avenue
+Gainsborough Trinity    2-2 Goole
+Frickley Athletic    1-4 Northwich Victoria
+Droylsden        1-2 Burscough
+Salford City        1-0 Gateshead
+Stalybridge Celtic    0-0 Workington
+Bromsgrove Rovers    3-1 Hinckley United
+Leamington        2-2 Oadby Town
+Chasetown        3-3 Belper Town
+Brackley Town        1-1 Banbury United
+Eastwood Town        1-1 Cambridge City
+Nuneaton Borough    3-1 AFC Telford United
+Matlock Town        2-0 Corby Town
+Glapwell        0-1 Halesowen Town
+Redditch United    1-1 Woodford United
+Malvern Town        1-4 Histon
+Hednesford Town    2-0 Moor Green
+Leek Town        1-0 Grantham Town
+Kettering Town        1-0 Stafford Rangers
+Cogenhoe United    3-2 Staveley MW
+Solihull Borough    3-0 Ilkeston Town
+Nantwich Town        0-1 Hucknall Town
+Thurrock        3-2 Hemel Hempstead
+Boreham Wood        0-2 Welling United
+Wivenhoe Town        1-4 Heybridge Swifts
+Bognor Regis Town    1-1 Basingstoke Town
+Yeading        3-0 Maidenhead United
+Hendon           0-0 Metropolitan Police
+AFC Hornchurch        1-4 Worthing
+Burnham        1-1 Lowestoft Town
+Bromley        2-1 Chipstead
+Staines Town        1-1 Croydon
+Redbridge        2-2 Eastbourne Borough
+Deal Town        1-3 Hitchin Town
+Chelmsford City    1-0 Dover Athletic
+AFC Wimbledon        0-3 Walton & Hersham
+Cray Wanderers        4-1 Camberley Town
+Leyton           0-1 Lewes
+St Margaretsbury    0-1 Folkestone Invicta
+Braintree Town        2-0 Didcot Town
+Brentwood Town        1-2 Windsor & Eton
+Wroxham        2-0 Slough Town
+Fisher Athletic    2-3 Tonbridge Angels
+Northwood        0-0 Aylesbury United
+Margate        1-0 Carshalton Athletic
+Hayes           1-1 Brook House
+Welwyn Garden City    4-2 AFC Sudbury
+Hassocks        0-1 Dulwich Hamlet
+Ramsgate        1-0 Southall
+Farnborough Town    3-0 Berkhamsted Town
+Enfield Town        1-1 St Albans City
+Sutton United        2-0 Maldon Town
+Banstead Athletic    1-4 Wealdstone
+Harrow Borough        2-1 Burnham Ramblers
+Hampton & Richmond    1-1 Leatherhead
+Fleet Town        0-2 Bishop's Stortford
+Highworth Town        1-7 Tiverton Town
+Yate Town        0-2 Salisbury City
+Christchurch        0-2 Cirencester Town
+Worcester City        7-0 Bemerton Heath H
+Taunton Town        1-1 Merthyr Tydfil
+Gosport Borough    3-4 Bath City
+Mangotsfield United    4-2 Swindon Supermarine
+Bishops Cleeve        3-0 Bitton
+Dorchester Town    4-2 Team Bath
+Weston Super Mare    2-2 Weymouth
+Chippenham Town    4-0 Newport County
+AFC Totton        2-1 Paulton Rovers
+Eastleigh        0-0 Havant & Waterlooville
 
 2nd Qualifying Round Replays
-Thornaby    2-1 Dunston Federation Brewery
-Whitby Town    6-0 Trafford
-Cammell Laird    3-1 Marine
-Bishop Auckland    1-2 Skelmersdale United
-Goole      1-2 Gainsborough Trinity
-Workington    2-1 Stalybridge Celtic    aet
-Oadby Town    1-1 Leamington      aet, 2-4 pen
-Belper Town    1-4 Chasetown
-Banbury United    5-2 Brackley Town
-Cambridge City    3-1 Eastwood Town
-Woodford United    2-2 Redditch United    aet, 10-9 pen
-Basingstoke Town  2-1 Bognor Regis Town
-Metropolitan Police  1-0 Hendon
-Lowestoft Town    1-1 Burnham      aet, 2-4 pen
-Croydon      1-2 Staines Town
-Eastbourne Borough  5-1 Redbridge
-Aylesbury United  2-0 Northwood
-Brook House    0-4 Hayes
-Merthyr Tydfil    2-1 Taunton Town
-Weymouth    1-0 Weston Super Mare
-Havant & Waterlooville  4-1 Eastleigh
-Leatherhead    2-1 Hampton & Richmond
-St Albans City    3-0 Enfield Town
+Thornaby      2-1 Dunston Federation Brewery
+Whitby Town      6-0 Trafford
+Cammell Laird      3-1 Marine
+Bishop Auckland      1-2 Skelmersdale United
+Goole         1-2 Gainsborough Trinity
+Workington      2-1 Stalybridge Celtic      aet
+Oadby Town      1-1 Leamington         aet, 2-4 pen
+Belper Town      1-4 Chasetown
+Banbury United      5-2 Brackley Town
+Cambridge City      3-1 Eastwood Town
+Woodford United      2-2 Redditch United      aet, 10-9 pen
+Basingstoke Town   2-1 Bognor Regis Town
+Metropolitan Police   1-0 Hendon
+Lowestoft Town      1-1 Burnham         aet, 2-4 pen
+Croydon         1-2 Staines Town
+Eastbourne Borough   5-1 Redbridge
+Aylesbury United   2-0 Northwood
+Brook House      0-4 Hayes
+Merthyr Tydfil      2-1 Taunton Town
+Weymouth      1-0 Weston Super Mare
+Havant & Waterlooville   4-1 Eastleigh
+Leatherhead      2-1 Hampton & Richmond
+St Albans City      3-0 Enfield Town
 
 3rd Qualifying Round
-Northwich Victoria    1-0 North Ferriby United
-Vauxhall Motors   4-3 Skelmersdale United
-Leigh RMI      1-1 Gainsborough Trinity
-Rossendale United   0-1 Blyth Spartans
-Leek Town      2-1 Thornaby
-Matlock Town      3-6 Ossett Town
-Harrogate Town      2-0 Witton Albion
-Hucknall Town      2-2 Cammell Laird
-Alfreton Town      2-1 Whitby Town
-Burscough      2-0 Workington
-Salford City      0-1 Farsley Celtic
-Hyde United      2-3 Barrow
-Thurrock      1-0 Solihull Borough
-Banbury United      3-4 Hednesford Town
-Leamington      2-0 Woodford United
-Cogenhoe United   1-1 Chasetown
-Hayes        2-0 Bishop's Stortford
-Wroxham      1-1 Aylesbury United
-Cambridge City      4-1 Hitchin Town
-Heybridge Swifts   1-1 Braintree Town
-Harrow Borough      0-1 Welling United
-Wealdstone      2-4 Burnham
-Halesowen Town      0-2 Bromsgrove Rovers
-Histon        2-1 Welwyn Garden City
-St Albans City      0-0 Kettering Town
-Nuneaton Borough   1-1 Chelmsford City
-Bishops Cleeve      1-1 AFC Totton
-Metropolitan Police   3-3 Eastbourne Borough
-Bromley      0-0 Mangotsfield United
-Worcester City      3-0 Tonbridge Angels
-Cirencester Town   2-1 Havant & Waterlooville
-Worthing      2-4 Basingstoke Town
-Yeading      1-1 Dorchester Town
-Merthyr Tydfil      2-1 Salisbury City
-Folkestone Invicta   2-0 Staines Town
-Tiverton Town      2-1 Windsor & Eton
-Leatherhead      0-2 Farnborough Town
-Chippenham Town   1-0 Sutton United
-Ramsgate      1-0 Walton & Hersham
-Margate      0-3 Cray Wanderers
-Lewes        1-0 Dulwich Hamlet
-Weymouth      1-0 Bath City
+Northwich Victoria     1-0 North Ferriby United
+Vauxhall Motors    4-3 Skelmersdale United
+Leigh RMI        1-1 Gainsborough Trinity
+Rossendale United    0-1 Blyth Spartans
+Leek Town        2-1 Thornaby
+Matlock Town        3-6 Ossett Town
+Harrogate Town        2-0 Witton Albion
+Hucknall Town        2-2 Cammell Laird
+Alfreton Town        2-1 Whitby Town
+Burscough        2-0 Workington
+Salford City        0-1 Farsley Celtic
+Hyde United        2-3 Barrow
+Thurrock        1-0 Solihull Borough
+Banbury United        3-4 Hednesford Town
+Leamington        2-0 Woodford United
+Cogenhoe United    1-1 Chasetown
+Hayes           2-0 Bishop's Stortford
+Wroxham        1-1 Aylesbury United
+Cambridge City        4-1 Hitchin Town
+Heybridge Swifts    1-1 Braintree Town
+Harrow Borough        0-1 Welling United
+Wealdstone        2-4 Burnham
+Halesowen Town        0-2 Bromsgrove Rovers
+Histon           2-1 Welwyn Garden City
+St Albans City        0-0 Kettering Town
+Nuneaton Borough    1-1 Chelmsford City
+Bishops Cleeve        1-1 AFC Totton
+Metropolitan Police    3-3 Eastbourne Borough
+Bromley        0-0 Mangotsfield United
+Worcester City        3-0 Tonbridge Angels
+Cirencester Town    2-1 Havant & Waterlooville
+Worthing        2-4 Basingstoke Town
+Yeading        1-1 Dorchester Town
+Merthyr Tydfil        2-1 Salisbury City
+Folkestone Invicta    2-0 Staines Town
+Tiverton Town        2-1 Windsor & Eton
+Leatherhead        0-2 Farnborough Town
+Chippenham Town    1-0 Sutton United
+Ramsgate        1-0 Walton & Hersham
+Margate        0-3 Cray Wanderers
+Lewes           1-0 Dulwich Hamlet
+Weymouth        1-0 Bath City
 
 3rd Qualifying Round
-Northwich Victoria    1-0 North Ferriby United
-Vauxhall Motors   4-3 Skelmersdale United
-Leigh RMI      1-1 Gainsborough Trinity
-Rossendale United   0-1 Blyth Spartans
-Leek Town      2-1 Thornaby
-Matlock Town      3-6 Ossett Town
-Harrogate Town      2-0 Witton Albion
-Hucknall Town      2-2 Cammell Laird
-Alfreton Town      2-1 Whitby Town
-Burscough      2-0 Workington
-Salford City      0-1 Farsley Celtic
-Hyde United      2-3 Barrow
-Thurrock      1-0 Solihull Borough
-Banbury United      3-4 Hednesford Town
-Leamington      2-0 Woodford United
-Cogenhoe United   1-1 Chasetown
-Hayes        2-0 Bishop's Stortford
-Wroxham      1-1 Aylesbury United
-Cambridge City      4-1 Hitchin Town
-Heybridge Swifts   1-1 Braintree Town
-Harrow Borough      0-1 Welling United
-Wealdstone      2-4 Burnham
-Halesowen Town      0-2 Bromsgrove Rovers
-Histon        2-1 Welwyn Garden City
-St Albans City      0-0 Kettering Town
-Nuneaton Borough   1-1 Chelmsford City
-Bishops Cleeve      1-1 AFC Totton
-Metropolitan Police   3-3 Eastbourne Borough
-Bromley      0-0 Mangotsfield United
-Worcester City      3-0 Tonbridge Angels
-Cirencester Town   2-1 Havant & Waterlooville
-Worthing      2-4 Basingstoke Town
-Yeading      1-1 Dorchester Town
-Merthyr Tydfil      2-1 Salisbury City
-Folkestone Invicta   2-0 Staines Town
-Tiverton Town      2-1 Windsor & Eton
-Leatherhead      0-2 Farnborough Town
-Chippenham Town   1-0 Sutton United
-Ramsgate      1-0 Walton & Hersham
-Margate      0-3 Cray Wanderers
-Lewes        1-0 Dulwich Hamlet
-Weymouth      1-0 Bath City
+Northwich Victoria     1-0 North Ferriby United
+Vauxhall Motors    4-3 Skelmersdale United
+Leigh RMI        1-1 Gainsborough Trinity
+Rossendale United    0-1 Blyth Spartans
+Leek Town        2-1 Thornaby
+Matlock Town        3-6 Ossett Town
+Harrogate Town        2-0 Witton Albion
+Hucknall Town        2-2 Cammell Laird
+Alfreton Town        2-1 Whitby Town
+Burscough        2-0 Workington
+Salford City        0-1 Farsley Celtic
+Hyde United        2-3 Barrow
+Thurrock        1-0 Solihull Borough
+Banbury United        3-4 Hednesford Town
+Leamington        2-0 Woodford United
+Cogenhoe United    1-1 Chasetown
+Hayes           2-0 Bishop's Stortford
+Wroxham        1-1 Aylesbury United
+Cambridge City        4-1 Hitchin Town
+Heybridge Swifts    1-1 Braintree Town
+Harrow Borough        0-1 Welling United
+Wealdstone        2-4 Burnham
+Halesowen Town        0-2 Bromsgrove Rovers
+Histon           2-1 Welwyn Garden City
+St Albans City        0-0 Kettering Town
+Nuneaton Borough    1-1 Chelmsford City
+Bishops Cleeve        1-1 AFC Totton
+Metropolitan Police    3-3 Eastbourne Borough
+Bromley        0-0 Mangotsfield United
+Worcester City        3-0 Tonbridge Angels
+Cirencester Town    2-1 Havant & Waterlooville
+Worthing        2-4 Basingstoke Town
+Yeading        1-1 Dorchester Town
+Merthyr Tydfil        2-1 Salisbury City
+Folkestone Invicta    2-0 Staines Town
+Tiverton Town        2-1 Windsor & Eton
+Leatherhead        0-2 Farnborough Town
+Chippenham Town    1-0 Sutton United
+Ramsgate        1-0 Walton & Hersham
+Margate        0-3 Cray Wanderers
+Lewes           1-0 Dulwich Hamlet
+Weymouth        1-0 Bath City
 
 3rd Qualifying Round Replays
-Dorchester Town    3-2 Yeading
-Mangotsfield United  0-1 Bromley
-Eastbourne Borough  3-2 Metropolitan Police
-AFC Totton    0-4 Bishops Cleeve
-Chelmsford City    1-2 Nuneaton Borough    aet
-Kettering Town    4-0 St Albans City
-Braintree Town    3-1 Heybridge Swifts
-Aylesbury United  4-2 Wroxham
-Chasetown    4-3 Cogenhoe United    aet
-Cammell Laird    0-1 Hucknall Town
+Dorchester Town      3-2 Yeading
+Mangotsfield United   0-1 Bromley
+Eastbourne Borough   3-2 Metropolitan Police
+AFC Totton      0-4 Bishops Cleeve
+Chelmsford City      1-2 Nuneaton Borough      aet
+Kettering Town      4-0 St Albans City
+Braintree Town      3-1 Heybridge Swifts
+Aylesbury United   4-2 Wroxham
+Chasetown      4-3 Cogenhoe United      aet
+Cammell Laird      0-1 Hucknall Town
 
 4th Qualifying Round
-Harrogate Town    1-0 Scarborough
-Tamworth    3-1 Altrincham
-Southport    1-0 Kidderminster Harriers
-Hucknall Town    0-0 Burscough
-Blyth Spartans    2-2 Chasetown
-Northwich Victoria  4-1 Barrow
-Gainsborough Trinity  0-4 York City
-Ossett Town    2-3 Leamington
-Accrington Stanley  1-1 Worcester City
-Hednesford Town    3-0 Vauxhall Motors
-Halifax Town    2-0 Farsley Celtic
-Burton Albion    2-0 Leek Town
-Hereford United    0-0 Alfreton Town
-Bromsgrove Rovers  0-2 Morecambe
-Crawley Town    0-1 Braintree Town
-Canvey Island    1-1 Burnham
-Kettering Town    3-0 Gravesend & Northfleet
-Dorchester Town    1-2 Welling United
-Bromley      0-1 Aldershot Town
-Histon      3-1 Hayes
-Grays Athletic    2-0 Cray Wanderers
-Nuneaton Borough  0-0 Tiverton Town
-Exeter City    0-1 Stevenage Borough
-Woking      3-0 Thurrock
-Basingstoke Town  0-1 Chippenham Town
-Cambridge City    2-1 Lewes
-Merthyr Tydfil    2-0 Farnborough Town
-Aylesbury United  0-2 Folkestone Invicta
-Forest Green Rovers  2-3 Dagenham & Redbridge
-Ramsgate    3-0 Cirencester Town
-Weymouth    2-1 Cambridge United
-Bishops Cleeve    0-1 Eastbourne Borough
+Harrogate Town      1-0 Scarborough
+Tamworth      3-1 Altrincham
+Southport      1-0 Kidderminster Harriers
+Hucknall Town      0-0 Burscough
+Blyth Spartans      2-2 Chasetown
+Northwich Victoria   4-1 Barrow
+Gainsborough Trinity   0-4 York City
+Ossett Town      2-3 Leamington
+Accrington Stanley   1-1 Worcester City
+Hednesford Town      3-0 Vauxhall Motors
+Halifax Town      2-0 Farsley Celtic
+Burton Albion      2-0 Leek Town
+Hereford United      0-0 Alfreton Town
+Bromsgrove Rovers   0-2 Morecambe
+Crawley Town      0-1 Braintree Town
+Canvey Island      1-1 Burnham
+Kettering Town      3-0 Gravesend & Northfleet
+Dorchester Town      1-2 Welling United
+Bromley         0-1 Aldershot Town
+Histon         3-1 Hayes
+Grays Athletic      2-0 Cray Wanderers
+Nuneaton Borough   0-0 Tiverton Town
+Exeter City      0-1 Stevenage Borough
+Woking         3-0 Thurrock
+Basingstoke Town   0-1 Chippenham Town
+Cambridge City      2-1 Lewes
+Merthyr Tydfil      2-0 Farnborough Town
+Aylesbury United   0-2 Folkestone Invicta
+Forest Green Rovers   2-3 Dagenham & Redbridge
+Ramsgate      3-0 Cirencester Town
+Weymouth      2-1 Cambridge United
+Bishops Cleeve      0-1 Eastbourne Borough
 
 4th Qualifying Round replay
-Burscough    6-2 Hucknall Town
-Chasetown    1-0 Blyth Spartans
-Worcester City    3-2 Accrington Stanley
-Alfreton Town    1-1 Hereford United    3-4 pen
-Burnham      2-1 Canvey Island
-Tiverton Town    0-1 Nuneaton Borough
+Burscough      6-2 Hucknall Town
+Chasetown      1-0 Blyth Spartans
+Worcester City      3-2 Accrington Stanley
+Alfreton Town      1-1 Hereford United      3-4 pen
+Burnham         2-1 Canvey Island
+Tiverton Town      0-1 Nuneaton Borough
 
 First Round
 [Nov 4]
@@ -2617,146 +2617,146 @@ Preston North End          3-1 Ipswich Town
 
 Round 38
 [Mar 11]
-Brighton       0-0 Preston North End
-Coventry City       2-0 Sheffield United
-Crewe Alexandra       1-1 Southampton
-Derby County       3-0 Burnley
-Hull City       1-0 Plymouth Argyle
-Ipswich Town       1-1 Millwall
-Leeds United       2-2 Norwich
-Luton Town       1-2 Leicester City
-Reading         0-0 Watford
-Sheffield Wednesday     1-1 Queens Park Rangers
-Wolverhampton Wanderers     2-0 Cardiff
+Brighton         0-0 Preston North End
+Coventry City         2-0 Sheffield United
+Crewe Alexandra         1-1 Southampton
+Derby County         3-0 Burnley
+Hull City         1-0 Plymouth Argyle
+Ipswich Town         1-1 Millwall
+Leeds United         2-2 Norwich
+Luton Town         1-2 Leicester City
+Reading            0-0 Watford
+Sheffield Wednesday      1-1 Queens Park Rangers
+Wolverhampton Wanderers      2-0 Cardiff
 [Mar 13]
-Stoke         0-0 Crystal Palace
+Stoke            0-0 Crystal Palace
 
 Round 39
 [Mar 18]
-Coventry City       1-1 Leeds United
-Crystal Palace       2-2 Ipswich Town
-Hull City       1-0 Crewe Alexandra
-Luton Town       1-0 Derby County
-Millwall       0-1 Leicester City
-Norwich         2-1 Sheffield United
-Plymouth Argyle       0-1 Cardiff
-Queens Park Rangers     1-1 Brighton
-Reading         1-1 Wolverhampton Wanderers
-Sheffield Wednesday     2-0 Preston North End
-Stoke         1-0 Burnley
+Coventry City         1-1 Leeds United
+Crystal Palace         2-2 Ipswich Town
+Hull City         1-0 Crewe Alexandra
+Luton Town         1-0 Derby County
+Millwall         0-1 Leicester City
+Norwich            2-1 Sheffield United
+Plymouth Argyle         0-1 Cardiff
+Queens Park Rangers      1-1 Brighton
+Reading            1-1 Wolverhampton Wanderers
+Sheffield Wednesday      2-0 Preston North End
+Stoke            1-0 Burnley
 [Mar 20]
-Southampton       1-3 Watford
+Southampton         1-3 Watford
 
 Round 40
 [Mar 24]
-Burnley         2-0 Norwich
+Burnley            2-0 Norwich
 [Mar 25]
-Brighton       1-1 Luton Town
-Cardiff         1-1 Queens Park Rangers
-Crewe Alexandra       4-1 Coventry City
-Derby County       2-1 Crystal Palace
-Ipswich Town       1-1 Hull City
-Leeds United       0-0 Stoke City
-Leicester City       1-1 Reading
-Preston North End     0-0 Plymouth Argyle
-Sheffield United     3-0 Southampton
-Watford         0-2 Millwall
-Wolverhampton Wanderers     1-3 Sheffield Wednesday
+Brighton         1-1 Luton Town
+Cardiff            1-1 Queens Park Rangers
+Crewe Alexandra         4-1 Coventry City
+Derby County         2-1 Crystal Palace
+Ipswich Town         1-1 Hull City
+Leeds United         0-0 Stoke City
+Leicester City         1-1 Reading
+Preston North End      0-0 Plymouth Argyle
+Sheffield United      3-0 Southampton
+Watford            0-2 Millwall
+Wolverhampton Wanderers      1-3 Sheffield Wednesday
 
 Round 41
 [Mar 31]
-Crystal Palace       3-1 Watford
+Crystal Palace         3-1 Watford
 [Apr 1]
-Hull City       1-0 Leeds
-Coventry City       0-1 Preston North End
-Luton Town       1-0 Ipswich Town
-Millwall       0-2 Brighton
-Norwich         2-1 Leicester City
-Plymouth Argyle       2-0 Wolverhampton Wanderers
-Queens Park Rangers     1-2 Crewe Alexandra
-Reading         5-0 Derby County
-Sheffield Wednesday     0-0 Burnley
-Southampton       3-2 Cardiff
-Stoke         1-1 Sheffield United
+Hull City         1-0 Leeds
+Coventry City         0-1 Preston North End
+Luton Town         1-0 Ipswich Town
+Millwall         0-2 Brighton
+Norwich            2-1 Leicester City
+Plymouth Argyle         2-0 Wolverhampton Wanderers
+Queens Park Rangers      1-2 Crewe Alexandra
+Reading            5-0 Derby County
+Sheffield Wednesday      0-0 Burnley
+Southampton         3-2 Cardiff
+Stoke            1-1 Sheffield United
 
 Round 42
 [Apr 7]
-Leicester City       2-0 Crystal Palace
+Leicester City         2-0 Crystal Palace
 [Apr 8]
-Brighton       0-2 Southampton
-Burnley         1-0 Queens Park Rangers
-Cardiff         2-5 Reading
-Crewe Alexandra       2-0 Sheffield Wednesday
-Derby County       1-0 Millwall
-Ipswich Town       1-2 Stoke
-Leeds United       0-0 Plymouth Argyle
-Preston North End     2-0 Norwich
-Sheffield United     3-2 Hull City
-Wolverhampton Wanderes     2-2 Coventry City
+Brighton         0-2 Southampton
+Burnley            1-0 Queens Park Rangers
+Cardiff            2-5 Reading
+Crewe Alexandra         2-0 Sheffield Wednesday
+Derby County         1-0 Millwall
+Ipswich Town         1-2 Stoke
+Leeds United         0-0 Plymouth Argyle
+Preston North End      2-0 Norwich
+Sheffield United      3-2 Hull City
+Wolverhampton Wanderes      2-2 Coventry City
 [Apr 9]
-Watford         1-1 Luton Town
+Watford            1-1 Luton Town
 
 Round 43
 [Apr 14]
-Cardiff         0-1 Sheffield United
-Wolverhampton Wanderes     1-1 Watford
+Cardiff            0-1 Sheffield United
+Wolverhampton Wanderes      1-1 Watford
 [Apr 15]
-Crystal Palace       2-2 Crewe Alexandra
-Hull City       0-0 Burnley
-Ipswich Town       1-2 Brighton
-Leeds United       1-1 Reading
-Leicester City       1-2 Preston North End
-Luton Town       1-2 Coventry City
-Millwall       1-1 Plymouth Argyle
-Queens Park Rangers     1-1 Derby County
-Stoke         0-1 Southampton
-Sheffield Wednesday     1-0 Norwich
+Crystal Palace         2-2 Crewe Alexandra
+Hull City         0-0 Burnley
+Ipswich Town         1-2 Brighton
+Leeds United         1-1 Reading
+Leicester City         1-2 Preston North End
+Luton Town         1-2 Coventry City
+Millwall         1-1 Plymouth Argyle
+Queens Park Rangers      1-1 Derby County
+Stoke            0-1 Southampton
+Sheffield Wednesday      1-0 Norwich
 
 Round 44
 [Apr 17]
-Brighton       0-2 Sheffield Wednesday
-Burnley         0-0 Crystal Palace
-Coventry City       1-1 Leicester City
-Crewe Alexandra       1-1 Cardiff
-Derby County       1-1 Hull City
-Norwich         3-2 Queens Park Rangers
-Plymouth Argyle       1-2 Luton Town
-Preston North End     2-0 Wolverhampton Wanderes
-Reading         3-1 Stoke City
-Southampton       2-0 Millwall
-Watford         2-1 Ipswich Town
+Brighton         0-2 Sheffield Wednesday
+Burnley            0-0 Crystal Palace
+Coventry City         1-1 Leicester City
+Crewe Alexandra         1-1 Cardiff
+Derby County         1-1 Hull City
+Norwich            3-2 Queens Park Rangers
+Plymouth Argyle         1-2 Luton Town
+Preston North End      2-0 Wolverhampton Wanderes
+Reading            3-1 Stoke City
+Southampton         2-0 Millwall
+Watford            2-1 Ipswich Town
 [Apr 18]
-Sheffield United     1-1 Leeds United
+Sheffield United      1-1 Leeds United
 
 Round 45
 [Apr 22]
-Cardiff         0-1 Norwich
-Crystal Palace       2-1 Southampton
-Hull City       1-1 Preston North End
-Ipswich Town       2-0 Derby County
-Leeds United       1-0 Crewe Alexandra
-Leicester City       1-0 Plymouth Argyle
-Luton Town       1-1 Sheffield United
-Millwall       1-0 Burnley
-Queens Park Rangers     1-2 Watford
-Sheffield Wednesday     1-1 Reading
-Stoke         0-1 Coventry City
-Wolverhampton Wanderes     1-0 Brighton
+Cardiff            0-1 Norwich
+Crystal Palace         2-1 Southampton
+Hull City         1-1 Preston North End
+Ipswich Town         2-0 Derby County
+Leeds United         1-0 Crewe Alexandra
+Leicester City         1-0 Plymouth Argyle
+Luton Town         1-1 Sheffield United
+Millwall         1-0 Burnley
+Queens Park Rangers      1-2 Watford
+Sheffield Wednesday      1-1 Reading
+Stoke            0-1 Coventry City
+Wolverhampton Wanderes      1-0 Brighton
 
 Round 46
 [Apr 29]
-Brighton       1-5 Stoke
-Burnley         1-1 Luton Town
-Coventry City       3-1 Cardiff
-Crewe Alexandra       4-2 Millwall
-Derby County       0-2 Sheffield Wednesday
-Norwich         1-2 Wolverhampton Wanderes
-Plymouth Argyle       2-1 Ipswich Town
-Preston North End     2-0 Leeds United
-Reading         2-1 Queens Park Rangers
-Sheffield United     1-0 Crystal Palace
-Southampton       2-0 Leicester
-Watford         0-0 Hull City
+Brighton         1-5 Stoke
+Burnley            1-1 Luton Town
+Coventry City         3-1 Cardiff
+Crewe Alexandra         4-2 Millwall
+Derby County         0-2 Sheffield Wednesday
+Norwich            1-2 Wolverhampton Wanderes
+Plymouth Argyle         2-1 Ipswich Town
+Preston North End      2-0 Leeds United
+Reading            2-1 Queens Park Rangers
+Sheffield United      1-0 Crystal Palace
+Southampton         2-0 Leicester
+Watford            0-0 Hull City
 
 Final Table:
 
@@ -3222,33 +3222,33 @@ Doncaster Rovers        0-0 Brentford
 
 Round 26
 [Dec 31]
-Gillingham    3-0 MK Dons
-Yeovil Town    1-1 Briston City
-Swindon Town    0-0 Swansea City
-Brentford    0-2 Colchester United
-Norttingham Forest  0-0 Chesterfield
-Southend United    2-1 Bournemouth
-Wallsall    2-0 Blackpool
-Port Vale    0-2 Tranmere Rovers
-Barnsley    2-2 Huddersfield Town
-Oldham Athletic    2-1 Hartlepool United
-Rotherham United  1-0 Doncaster Rovers
-Scunthorpe United  0-0 Bradford City
+Gillingham      3-0 MK Dons
+Yeovil Town      1-1 Briston City
+Swindon Town      0-0 Swansea City
+Brentford      0-2 Colchester United
+Norttingham Forest   0-0 Chesterfield
+Southend United      2-1 Bournemouth
+Wallsall      2-0 Blackpool
+Port Vale      0-2 Tranmere Rovers
+Barnsley      2-2 Huddersfield Town
+Oldham Athletic      2-1 Hartlepool United
+Rotherham United   1-0 Doncaster Rovers
+Scunthorpe United   0-0 Bradford City
 
 Round 46
 [May 6]
-Blackpool    3-3 Gillingham
-Bournemouth    2-2 Brentford
-Bradford City    1-1 Nottingham Forest
-Chesterfield    0-4 Swansea City
-Hartlepool United  1-1 Port Vale
-Oldham Athletic    1-1 Scunthorpe United
-Rotheram United    0-0 MK Dons
-Southend United    1-0 Bristol City
-Swindon Town    0-0 Huddersfield Town
-Tranmere Rovers    0-2 Doncaster Rovers
-Wallsall    1-2 Barnsley
-Yeovil Town    0-0 Colchester United
+Blackpool      3-3 Gillingham
+Bournemouth      2-2 Brentford
+Bradford City      1-1 Nottingham Forest
+Chesterfield      0-4 Swansea City
+Hartlepool United   1-1 Port Vale
+Oldham Athletic      1-1 Scunthorpe United
+Rotheram United      0-0 MK Dons
+Southend United      1-0 Bristol City
+Swindon Town      0-0 Huddersfield Town
+Tranmere Rovers      0-2 Doncaster Rovers
+Wallsall      1-2 Barnsley
+Yeovil Town      0-0 Colchester United
 
 Final Table:
 
@@ -4024,7 +4024,7 @@ Final Table:
 
  1.Carlisle United           46  25 11 10  84-42  86  Promoted
  2.Northampton Town          46  22 17  7  63-37  83  Promoted
- 3.Leyton Orient             46  22 15   9  67-51  81  Promoted
+ 3.Leyton Orient             46  22 15    9  67-51  81  Promoted
 ----------------------------------------------------
  4.Grimsby Town              46  22 12 12  64-44  78  Promotion Playoff
  5.Cheltenham Town           46  19 15 12  65-53  72  Promotion Playoff
@@ -4135,9 +4135,10 @@ Halifax Town            2-3 Hereford                [aet]
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

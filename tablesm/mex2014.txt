@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2013/14
      source: https://rsssf.org/tablesm/mex2014.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Mexico 2013/14
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga MX, see §pdn›
-‹Copa MX Apertura 2013, see §copa›
-‹Copa MX Clausura 2014, see §copac›
-‹Supercopa MX, see §supcopa›
-‹Ascenso MX, see §ascenso›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga MX  ‹§pdn›
 
-<!-- start pre -->
 Changes before season
 
 -Jaguares Chiapas moved to Querétaro
@@ -479,7 +473,7 @@ Final Table:
 18.Pumas                               17   1  8  8   8-21  11
 
 Topscorers
-Player      Team    Goals
+Player         Team      Goals
 Pablo César Velázquez   Toluca          12
 Mauro Boselli           León            11
 Humberto Andrés Suazo   Monterrey       10
@@ -558,26 +552,26 @@ América            1-3 León
 
 Club León roster team
 
-William Yarbrough  GK
-Christuan Martínez  GK
-Juan Ignacio González  DEF
-Rafael Márquez    DEF
-Jonny Magallón    DEF
-Edwin Hernández    DEF
-Onay Pineda    DEF
-Luis Antonio Delgado  DEF
-Carlos Alberto Peña  MDF
-Luis Arturo Montes  MDF
-Aldo Rocha    MDF
-Eisner Loboa    MDF (Colombia)
-José Juan Vázquez  MDF
-Fernando Navarro  MDF
-Hernán Darío Burbano  MDF (Colombia)
-Elías Hernández    FWD
-Mauricio Castañeda  FWD
-Franco Arizala    FWD (Colombia)
-Matías Britos    FWD (Uruguay)
-Mauro Boselli    FWD (Argentina)
+William Yarbrough   GK
+Christuan Martínez   GK
+Juan Ignacio González   DEF
+Rafael Márquez      DEF
+Jonny Magallón      DEF
+Edwin Hernández      DEF
+Onay Pineda      DEF
+Luis Antonio Delgado   DEF
+Carlos Alberto Peña   MDF
+Luis Arturo Montes   MDF
+Aldo Rocha      MDF
+Eisner Loboa      MDF (Colombia)
+José Juan Vázquez   MDF
+Fernando Navarro   MDF
+Hernán Darío Burbano   MDF (Colombia)
+Elías Hernández      FWD
+Mauricio Castañeda   FWD
+Franco Arizala      FWD (Colombia)
+Matías Britos      FWD (Uruguay)
+Mauro Boselli      FWD (Argentina)
 
 Coach: Gustavo Matosas (URU)
 
@@ -1048,7 +1042,7 @@ Final Table:
 
 
 Topscorers:
-Player      Team    Goals
+Player         Team      Goals
 Enner Valencia          Pachuca         12
 Martín Bravo            Pumas            9
 Michael Arroyo          Atlante          8
@@ -1063,26 +1057,26 @@ Darío Benedetto         Tijuana          6
 
 Relegation Table
 
-Team      Average
-Cruz Azul    1.7059
-Santos      1.6961
-América      1.6863
-Morelia      1.5882
-Tigres      1.5784
-León      1.5000
-Toluca      1.5000
-Tijuana      1.4314
-Monterrey    1.4216
-Querétaro    1.3627
-Pachuca      1.3333
-Pumas      1.2647
-Guadalajara    1.1471
-Jaguares    1.1275
-Puebla      1.0784
-Atlas      1.0686
-Veracruz    1.0588
+Team         Average
+Cruz Azul      1.7059
+Santos         1.6961
+América         1.6863
+Morelia         1.5882
+Tigres         1.5784
+León         1.5000
+Toluca         1.5000
+Tijuana         1.4314
+Monterrey      1.4216
+Querétaro      1.3627
+Pachuca         1.3333
+Pumas         1.2647
+Guadalajara      1.1471
+Jaguares      1.1275
+Puebla         1.0784
+Atlas         1.0686
+Veracruz      1.0588
 ------------------------------
-Atlante      0.9608 relegated
+Atlante         0.9608 relegated
 
 Playoffs  ‹§clplay›
 
@@ -1150,44 +1144,44 @@ Pachuca            0-2 León               [aet]
 
 Club León roster team
 
-William Yarbrough  GK
-Christian Martínez  GK
-Juan Ignacio González  DEF
-Rafael Márquez    DEF
-Jonny Magallón    DEF
-Edwin Hernández    DEF
-Fernando Navarro  DEF
-Juan Carlos Pineda  DEF
-Luis Antonio Delgado  DEF
-Arturo Ortiz    DEF
-Cristian Torres    DEF
-Carlos Alberto Peña  MDF
-Luis Arturo Montes  MDF
-Aldo Rocha    MDF
-Eisner Loboa    MDF (Colombia)
-Juan José Vázquez  MDF
-Fernando Navarro  MDF
-José María Cárdenas  MDF
-Luis Miguel Franco  MDF
-Dennis Flores    MDF
-Elías Hernández    FWD
+William Yarbrough   GK
+Christian Martínez   GK
+Juan Ignacio González   DEF
+Rafael Márquez      DEF
+Jonny Magallón      DEF
+Edwin Hernández      DEF
+Fernando Navarro   DEF
+Juan Carlos Pineda   DEF
+Luis Antonio Delgado   DEF
+Arturo Ortiz      DEF
+Cristian Torres      DEF
+Carlos Alberto Peña   MDF
+Luis Arturo Montes   MDF
+Aldo Rocha      MDF
+Eisner Loboa      MDF (Colombia)
+Juan José Vázquez   MDF
+Fernando Navarro   MDF
+José María Cárdenas   MDF
+Luis Miguel Franco   MDF
+Dennis Flores      MDF
+Elías Hernández      FWD
 Miguel Sabah            FWD
-Mauricio Castañeda  FWD
-Franco Arizala    FWD (Colombia)
-Matías Britos    FWD (Uruguay)
-Mauro Boselli    FWD (Argentina)
-Nelson Maz    FWD (Uruguay)
-Mauricio Castañeda  FWD
+Mauricio Castañeda   FWD
+Franco Arizala      FWD (Colombia)
+Matías Britos      FWD (Uruguay)
+Mauro Boselli      FWD (Argentina)
+Nelson Maz      FWD (Uruguay)
+Mauricio Castañeda   FWD
 
 Coach: Gustavo Matosas (ARG)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa MX Apertura 2013  ‹§copa›
 
-<!-- start pre -->
 ‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
@@ -1560,7 +1554,7 @@ Monarcas Morelia Cup champions
 
 
 Topscorers:
-Player       Team    Goals
+Player          Team      Goals
 Jahir Alejandro Barraza  Atlas           6
 Luis Guillermo Madrigal  Monterrey       5
 Carlos Darwin Quintero   Santos          5
@@ -1575,42 +1569,42 @@ Luis Tejada              Veracruz        3
 
 
 Monarcas Morelia roster team
-Federico Vilar    GK (Argentina)
-Carlos Rodríguez  GK
-Enrique Pérez    DEF
-Luis Fernando Silva  DEF
-Juan Carlos Arellano  DEF
-Joel Huiqui    DEF
-José Antonio Olvera  DEF
-Víctor Hugo Martínez  DEF
-Rodrigo Godínez    DEF
-Jesús Castillo    DEF
-Rodrigo Salinas    MDF
-Armando Zamorano  MDF
-Carlos Adrián Morales  MDF
-José María Cárdenas  MDF
-Jorge Zárate    MDF
-Christian Valdez  MDF
-Edgar Andrade    MDF
-José Hibert Ruiz  MDF
-Santiago Trellez  FWD (Colombia)
-Juan José Govea    FWD (Ecuador)
-Aldo Leao Ramírez  FWD (Colombia)
-Eder Guerrero    FWD
-Ever Guzmán    FWD
-Jefferson Montero  FWD (Ecuador)
-Héctor Raúl Mancilla  FWD (Chile)
-Luis Gerardo Arroyo  FWD
+Federico Vilar      GK (Argentina)
+Carlos Rodríguez   GK
+Enrique Pérez      DEF
+Luis Fernando Silva   DEF
+Juan Carlos Arellano   DEF
+Joel Huiqui      DEF
+José Antonio Olvera   DEF
+Víctor Hugo Martínez   DEF
+Rodrigo Godínez      DEF
+Jesús Castillo      DEF
+Rodrigo Salinas      MDF
+Armando Zamorano   MDF
+Carlos Adrián Morales   MDF
+José María Cárdenas   MDF
+Jorge Zárate      MDF
+Christian Valdez   MDF
+Edgar Andrade      MDF
+José Hibert Ruiz   MDF
+Santiago Trellez   FWD (Colombia)
+Juan José Govea      FWD (Ecuador)
+Aldo Leao Ramírez   FWD (Colombia)
+Eder Guerrero      FWD
+Ever Guzmán      FWD
+Jefferson Montero   FWD (Ecuador)
+Héctor Raúl Mancilla   FWD (Chile)
+Luis Gerardo Arroyo   FWD
 
 Coach: Carlos Julio Bustos [ARG]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa MX Clausura 2014  ‹§copac›
 
-<!-- start pre -->
 ‹Group Stage, see §copacgrp› | ‹Playoff Stage, see §copacplay›
 
 NB: the Cup Tournament is played by 11 teams from the Liga MX (first level) and
@@ -1932,7 +1926,7 @@ Tigres            3-0 Alebrijes
 Tigres UANL Cup Champions
 
 Topscorers:
-Player      Team    Goals
+Player         Team      Goals
 Alan Pulido             Tigres            9
 Emanuel Herrera         Tigres            6
 Eial Strahman           Mérida            5
@@ -1973,13 +1967,13 @@ Uvaldo Luna                FWD (USA)
 Coach: Ricardo Ferreti (BRA)
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Supercopa MX  ‹§supcopa›
 
-<!-- start pre -->
 
 First edition of this tournament held between the winners of Copa MX Apertura 2013 (Morelia) and
 Copa MX Clausura 2014 (Tigres); the champion qualify to Preliminary Round of Copa Libertadores 2015.
@@ -1994,13 +1988,13 @@ Second Leg
 [Jul 12]
 Tigres             3-1 Morelia
   [Hernán Darío Burbano 15, Anselmo Vendrechovski 63pen, 81; Duvier Orlando Riascos 77]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Ascenso MX  ‹§ascenso›
 
-<!-- start pre -->
 ‹Apertura 2013, see §2aper› | ‹Clausura 2014, see §2clau› | ‹Promotion Playoff, see §2prom›
 
 Apertura 2013  ‹§2aper›
@@ -2570,23 +2564,23 @@ Final Table:
 
 Relegation Table
 
-Team      Average
-Necaxa      1.7381
-Correcaminos UAT  1.6429
-Alebrijes    1.6429
-Delfines    1.6071
-Estudiantes UAT    1.4643
-Lobos BUAP    1.4524
-Leones Negros    1.4167
-Mérida      1.3929
-Atlético San Luis  1.3095
-Dorados      1.2619
-Celaya      1.1667
-Altamira    1.1190
-Cruz Azul Hidalgo  1.0238
-Ballenas     1.0000
+Team         Average
+Necaxa         1.7381
+Correcaminos UAT   1.6429
+Alebrijes      1.6429
+Delfines      1.6071
+Estudiantes UAT      1.4643
+Lobos BUAP      1.4524
+Leones Negros      1.4167
+Mérida         1.3929
+Atlético San Luis   1.3095
+Dorados         1.2619
+Celaya         1.1667
+Altamira      1.1190
+Cruz Azul Hidalgo   1.0238
+Ballenas       1.0000
 ------------------------------
-Zacatepec 1948    0.9524 (relegated)
+Zacatepec 1948      0.9524 (relegated)
 
 
 Playoff Stage  ‹§2clauplay›
@@ -2645,27 +2639,10 @@ Second Leg [May 10]
 Leones Negros     1-1 Estudiantes UAG  [aet; 4-3pen]
 
 Leones Negros promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2012/13, see page mex2013›.
 
-‹2014/15, see page mex2015›.
 
-‹list of champions, see page mexchamp›.
-
-‹list of final tables, see page mexhist›.
-
-‹list of divisional movements, see page mexall›.
-
-‹list of cup winners, see page mexcuphist›.
-
-‹list of super cup winners, see page mexsupcup›.
-
-‹list of topscorers, see page mextops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

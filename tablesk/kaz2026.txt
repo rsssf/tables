@@ -1,4 +1,5 @@
   <!--
+     title:  Kazakhstan 2026
      source: https://rsssf.org/tablesk/kaz2026.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Kazakhstan 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
-‹Bırınşı Liga, see §first›
-‹Ekinşi Lïgası, see §second›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== QFL Olimpbet Premier League  ‹§premier›
 
-<!-- start pre -->
 Table:
 
  1.Qairat (Almaty)        4   3  1  0   6- 0  10  [C]
@@ -420,13 +416,13 @@ Ulytau    -  Atyrau
 Jenis     -  Qaisar
 Jetisu    -  Astana
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Bırınşı Liga (Second Level)  ‹§first›
 
-<!-- start pre -->
 Departed: Departed: AKAS (Almaty), FK Jetısai, SD Family (Astana).
 
 Table:
@@ -726,13 +722,13 @@ Ontustik A  -  Turan
 Sahtor      -  Qairat-2
 Jaiyq       -  Arys
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Ekinsi Lïgaşı  ‹§second›
 
-<!-- start pre -->
 Departed: Jeyran (Almaty), Maqtaaral (Atakent), SD Family-2 (Astana).
 
 Tables:
@@ -921,23 +917,10 @@ Oqjetpes-2    -  Ertis-2
 Ulytau-2      -  Qyzyljar-2
 VPR           -  Jetisu-2
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page kaz2025›
 
-‹list of champions, see page kazchamp›.
 
-‹list of 2nd level champions, see page kaz2champ›.
-
-‹list of cup winners, see page kazcuphist›.
-
-‹list of super cup winners, see page kazsupcuphist›.
-
-‹list of topscorers, see page kaztops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

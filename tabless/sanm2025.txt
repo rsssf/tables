@@ -1,4 +1,5 @@
   <!--
+     title:  San Marino 2024/25
      source: https://rsssf.org/tabless/sanm2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == San Marino 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Campionato Dilettanti 2024/25, see §campionato›
-‹Supercoppa 2025, see §super›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Campionato Dilettanti 2024/25  ‹§campionato›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -500,27 +497,20 @@ Cosmos           4-2 San Giovanni
 Second Place Match [May 17]
 La Fiorita       1-0 Tre Fiori
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Supercoppa 2025  ‹§super›
 
-<!-- start pre -->
 [Dec 23, Acquaviva]
 Virtus           1-0 Tre Fiori
   [Benincasa 32]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page sanm2024›.
 
-‹list of champions, see page sanmchamp›.
 
-‹list of cup winners, see page sanmcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

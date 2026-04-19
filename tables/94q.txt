@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1994 Qualifying
      source: https://rsssf.org/tables/94q.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1994 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: USA
 Qualified as holders: Germany
 
@@ -647,7 +647,6 @@ Australia required to play off with runner up of North and Central America.
 31.07.93  Edmonton        Canada           2-1 Australia
 15.08.93  Sydney          Australia        2-1 Canada          (aet; Australia wins 4-1 on penalties)
 Australia required to play off with second of South America Group 1 (see above).
-<!-- end pre -->
 
 ‹Detailed Infos, see page 94qual›
 
@@ -657,7 +656,9 @@ Australia required to play off with second of South America Group 1 (see above).
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

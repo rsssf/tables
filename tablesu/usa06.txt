@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2006
      source: https://rsssf.org/tablesu/usa06.html
     -->
   
@@ -6,9 +7,10 @@
 
 == USA 2006
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 Major League Soccer
 
 Regular Season
@@ -577,31 +579,10 @@ Grand Rapids Alliance       10   1   8   1             4
 CHAMPIONSHIP:  Sacramento defeated Princeton 2-0
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2005, see page usa05›
 
-‹2005/06, see page usa0506›
 
-‹2006/07, see page usa0607›
-
-‹2007, see page usa07›
-
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

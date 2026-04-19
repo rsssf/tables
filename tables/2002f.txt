@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2002
      source: https://rsssf.org/tables/2002f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 2002 (South Korea and Japan, 31 May-30 June 2002)
 
-<!-- start pre -->
 Automatically qualified: South Korea and Japan (hosts), France (holders)
 
 FIRST PHASE
@@ -178,7 +178,6 @@ Attendance: 69,029.
 Scorers: 67' Ronaldo 1-0; 79' Ronaldo 2-0.
 
 Topscorer: Ronaldo (Brazil) 8 goals.
-<!-- end pre -->
 
 ‹Detailed Infos, see page 2002full›
 
@@ -196,7 +195,9 @@ Topscorer: Ronaldo (Brazil) 8 goals.
 
 ‹Info on Qualified Countries, see page 2002f-countries›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

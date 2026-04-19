@@ -1,4 +1,5 @@
   <!--
+     title:  FIFA Club World Cup 2025
      source: https://rsssf.org/tablesf/fifa-wcc2025.html
     -->
   
@@ -6,7 +7,9 @@
 
 == FIFA Club World Cup 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 The qualification criteria were based on both performance in the last four Champions Cups
 for each federation and continental Club Rankings.  No country could enter more than two
@@ -16,9 +19,10 @@ clubs had won the Copa Libertadores in those four seasons, whereas the reigning 
 of three of the strongest European leagues (Liverpool, England; Napoli, Italy; and
 Barcelona, Spain) did not participate.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 Participants
 AFC              Al-Hilal (Saudi Arabia), Urawa Red Diamonds (Japan), Al-Ain (UAE),
                  Ulsan HD (South Korea)
@@ -328,7 +332,6 @@ Africa      -  -  -  -   -   -   ----
 ========================================
 World       3  0  1  2   1  17   16.7
 
-<!-- end pre -->
 
 ‹overview file., see page fifawcc›
 
@@ -338,7 +341,9 @@ World       3  0  1  2   1  17   16.7
 
 ‹2025 (FIFA Intercontinental Cup)., see page fifa-icc2025›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

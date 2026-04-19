@@ -1,4 +1,5 @@
   <!--
+     title:  Malta 2024/25
      source: https://rsssf.org/tablesm/malt2025.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Malta 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
-‹FA Trophy, see §trophy›
-‹Challenge League, see §first›
-‹National Amateur League I, see §second›
-‹National Amateur League II, see §third›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§premier›
 
-<!-- start pre -->
 ‹Opening Round, see §op› | ‹Closing Round, see §cl› | ‹Final Four, see §chfin4› | ‹Relegation Playoff, see §relfin4›
 
 Opening Round  ‹§op›
@@ -597,13 +591,13 @@ NB: as Balzan finished among the bottom-2 in both tournaments, they are relegate
 Naxxar L.     1-0 Melita
 
 NB: Melita relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== FA Trophy  ‹§trophy›
 
-<!-- start pre -->
 NB: Gozo clubs in italics
 
 1/8 Finals
@@ -634,13 +628,13 @@ Birkirkara    2-1 Floriana
 Final [May 18]
 Birkirkara    1-2 Hibernians
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Challenge League  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Playoff Stage, see §2play›
 
 Regular Stage  ‹§2reg›
@@ -697,13 +691,13 @@ Final Table:
 15.Lija Athletic            22   5  4 13  25-38  19       Relegated
 16.Senglea Athletic         22   3  5 14  20-38  14       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== National Amateur League I  ‹§second›
 
-<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Playoff Stage, see §3play›
 
 Regular Stage  ‹§3reg›
@@ -765,13 +759,13 @@ Final Table:
 15.Rabat Ajax               24   2  3 19  21-73   9       Relegated
 16.Msida St. Joseph         24   0  5 19  18-65   5  [R]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== National Amateur League II  ‹§third›
 
-<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prpo›
 
 Regular Stage  ‹§4reg›
@@ -802,25 +796,10 @@ Final Table:
  3.St. George's             21  12  3  6  37-27  39  [R]
  4.Kalkara United           21  11  4  6  39-18  37  [R]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page malt2024›.
 
-‹list of final tables, see page malthist›.
 
-‹list of champions, see page maltchamp›.
-
-‹list of cup winners, see page maltcuphist›.
-
-‹list of super cup winners, see page maltsupcuphist›.
-
-‹list of top scorers, see page malttops›.
-
-‹foundation dates clubs, see page maltfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

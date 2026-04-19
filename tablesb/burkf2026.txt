@@ -1,4 +1,5 @@
   <!--
+     title:  Burkina Faso 2025/26
      source: https://rsssf.org/tablesb/burkf2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Burkina Faso 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ligue 1, see §premiere›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ligue 1  ‹§premiere›
 
-<!-- start pre -->
 Table:
 
  1.Rahimo FC (Bobo-Dioulasso)           24  16  8  0  39-13  56  [C]
@@ -416,21 +414,10 @@ Table:
 
 [*] full name: Sporting Football des Cascades de Tenakourou
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page burkf2025›.
 
-‹list of champions, see page burkfchamp›.
 
-‹list of cup winners, see page burkfcuphist›.
-
-‹list of winners coupe des leaders, see page burkfleadcuphist›.
-
-‹list of super cup winners, see page burkfsupcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

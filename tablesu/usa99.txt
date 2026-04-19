@@ -1,4 +1,5 @@
   <!--
+     title:  USA 1999
      source: https://rsssf.org/tablesu/usa99.html
     -->
   
@@ -6,7 +7,6 @@
 
 == USA 1999
 
-<!-- start pre -->
                      MAJOR LEAGUE SOCCER (1st Division)
 
 Tables:
@@ -795,9 +795,10 @@ CHAMPIONSHIP:  Sacramento defeated Dallas 7-6
 
 ‹MLS all-time table, see page usaalltime›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

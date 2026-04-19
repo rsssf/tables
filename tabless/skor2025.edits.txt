@@ -1,0 +1,24 @@
+-- removing nav(igation) section:
+
+‹K League 1, see §k1›
+‹Korea FA Cup, see §kfacup›
+‹K League 2, see §k2›
+
+
+-- removing nav(igation) section:
+
+‹2024, see page skor2024›
+
+‹list of champions, see page skorchamp›
+
+‹list of final tables, see page skorhist›
+
+‹list of 2nd level champions, see page skor2champ›
+
+‹list of cup winners, see page skorcuphist›
+
+‹data on stadiums, see page skorstadia›
+
+‹list of top scorers, see page skortops›
+
+

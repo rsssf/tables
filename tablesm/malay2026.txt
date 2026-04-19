@@ -1,4 +1,5 @@
   <!--
+     title:  Malaysia 2025/26
      source: https://rsssf.org/tablesm/malay2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Malaysia 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga Super 2025/26, see §super›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga Super 2025/26  ‹§super›
 
-<!-- start pre -->
 Table:
 
  1.Darul Ta'zim FC (Johor)            20  20  0  0  93- 7  60  [C]  Champions
@@ -335,19 +333,10 @@ Table:
 NB: Kedah Darul Aman FC and Perak FC expelled due to financial problems;
     Sri Pahang FC withdrew
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page malay2025›.
 
-‹list of cup winners, see page malaycuphist›.
 
-‹list of champions, see page malaychamp›.
-
-‹list of 2nd level champions, see page malay2champ›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

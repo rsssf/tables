@@ -1,4 +1,5 @@
   <!--
+     title:  Faroe Islands 2026
      source: https://rsssf.org/tablesf/far2026.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Faroe Islands 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Betrideildin, see §voda›
-‹1. deild, see §1d›
-‹2. deild, see §2d›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Betrideildin  ‹§voda›
 
-<!-- start pre -->
 Table:
 
  1.AB               2   2  0  0   5- 0   6  [P]
@@ -105,13 +101,13 @@ B68            -  HB
 NSÍ            -  EB/Streymur
 Skála          -  Víkingur
 07 Vestur      -  B36
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1. deild  ‹§1d›
 
-<!-- start pre -->
 Table:
 
  1.FC Suðuroy       2   2  0  0   8- 2   6  [R]
@@ -209,13 +205,13 @@ HB II          -  B71
 ÍF             -  NSÍ II
 TB             -  Víkingur II
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. deild  ‹§2d›
 
-<!-- start pre -->
 Table:
 
  1.KÍ II            0   0  0  0   0- 0   0  [R]
@@ -275,27 +271,10 @@ Table:
 10.B71 II           0   0  0  0   0- 0   0  [N]
 11.NSÍ III          0   0  0  0   0- 0   0  [N]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page far2025›.
 
-‹list of champions, see page farchamp›.
 
-‹list of final tables, see page farhist›.
-
-‹all-time table, see page faralltime›.
-
-‹2nd level all-time table, see page far2alltime›.
-
-‹list of cup winners, see page farcuphist›.
-
-‹list of super cup winners, see page farsupcuphist›.
-
-‹list of topscorers, see page fartops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

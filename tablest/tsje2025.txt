@@ -1,4 +1,5 @@
   <!--
+     title:  Czech Republic 2024/25
      source: https://rsssf.org/tablest/tsje2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Czech Republic 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Chance liga, see §1gamb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Chance liga  ‹§1gamb›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -484,7 +482,7 @@ Round 33
 [May 10]
 Jablonec          4-0 Olomouc
 Slavia            2-1 Sparta
-Plzeň               1-2 Ostrava
+Plzeň                1-2 Ostrava
 
 Round 34 [May 18]
 Ostrava           3-2 Sparta
@@ -586,23 +584,10 @@ Final Table:
 -----------------------------------------------------
 16.SK Dynamo České Budějovice 35   0  6 29  16-86   6       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page tsje2024›.
 
-‹list of champions, see page tsjechamp›.
 
-‹list of cup winners, see page tsjecuphist›.
-
-‹list of topscorers, see page tsjetops›.
-
-‹list of all-time topscorers, see page tsjetops-allt›.
-
-‹list of 2nd level topscorers, see page tsje2tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Bolivia 2025
      source: https://rsssf.org/tablesb/bol2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Bolivia 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹División Profesional, see §prim›
-‹Copa Paceña, see §copa›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== División Profesional  ‹§prim›
 
-<!-- start pre -->
 Final Table:
 
  1.Always Ready               30  22  5  3  91-34  71       Champions
@@ -707,13 +704,13 @@ Second Leg [Dec 23]
 ABB               2-0 IN San Juan       [5-3 pen]
 
 NB: both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa Paceña  ‹§copa›
 
-<!-- start pre -->
 Group Stage
 
 Final Tables:
@@ -1002,23 +999,10 @@ Nacional Potosí   0-2 Bolívar
 Second Leg [Dec 22]
 Bolívar           1-4 Nacional Potosí
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page bol2024›.
 
-‹list of champions, see page bolchamp›.
 
-‹list of final tables, see page bolhist›.
-
-‹list of cup winners, see page bolcuphist›.
-
-‹list of departmental champions, see page boldeptchamp›.
-
-‹list of topscorers, see page boltops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

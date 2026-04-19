@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1954 - Qualifying
      source: https://rsssf.org/tables/54q-det.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1954 - Qualifying
 
-<!-- start pre -->
 
 EUROPE
 
@@ -1355,11 +1355,12 @@ Referee: HARAN, John [ENGLAND]
 
 
 
-<!-- end pre -->
 
 ‹World Cup 1954 qualifying overview file, see page 54q›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

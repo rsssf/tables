@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1950 qualifications
      source: https://rsssf.org/tables/50qual.html
     -->
   
@@ -21,7 +22,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 17 teams entered (including ISR and SYR), ITA exempted as defending champion.
 AUT and BEL were withdrew after seeding. TUR withdrew after playing one
@@ -168,4 +168,3 @@ Group 10  ‹§gr10›
 
 IND had a walkover.
 
-<!-- end pre -->

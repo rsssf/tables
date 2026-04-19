@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1993/94
      source: https://rsssf.org/tablesd/duit94.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1993/94
 
-<!-- start pre -->
 
 
 Final Table
@@ -719,9 +719,10 @@ FC Bayern München 1993/94
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

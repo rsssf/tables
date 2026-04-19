@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1930
      source: https://rsssf.org/tables/30f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1930 (Uruguay, July 13-30)
 
-<!-- start pre -->
 FIRST PHASE
 
 Group A
@@ -66,7 +66,6 @@ Scorers: 12' Dorado 1-0; 20' Peucelle 1-1; 38' Stábile 1-2; 58' Cea 2-2;
          68' Iriarte 3-2; 89' Castro 4-2.
 
 Topscorer: Stábile (Argentina) 8 goals.
-<!-- end pre -->
 
 ‹Detailed Infos, see page 30full›
 
@@ -78,7 +77,9 @@ Topscorer: Stábile (Argentina) 8 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

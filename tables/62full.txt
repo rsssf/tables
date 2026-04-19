@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1962 finals
      source: https://rsssf.org/tables/62full.html
     -->
   
@@ -31,7 +32,6 @@ Dec 1959. 56 teams entered, 51 actually played (9 for the first time).
 Qualifications drawn 28 Feb 1960 in Basel. Finals drawn 18 Jan 1962
 in Santiago.
 
-<!-- start pre -->
 
 == Group A - COL JUG URU ZSR  ‹§gra›
 
@@ -48,7 +48,9 @@ Coll - Aceros, Klinger, Gamboa, Arias
 
 0:1 Zuluaga 19 p, 1:1 Cubilla 57, 2:1 Sasia 74
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 31.05.62  (15.00) Arica, Estadio Carlos Dittborn
 
@@ -64,7 +66,9 @@ JUG: Šoškić - Durković, Jusufi, Marković - Popović, Matuš - Mujić (c),
 
 1:0 Ivanov 52 h, 2:0 Ponedelnik 84
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 02.06.62  (15.00) Arica, Estadio Carlos Dittborn
 
@@ -81,7 +85,9 @@ Rocha, Cabrera, Sasia, Perez
 
 sent off: Popović (71) / Cabrera (71)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 03.06.62  (18.00) Arica, Estadio Carlos Dittborn
 
@@ -97,7 +103,9 @@ Aceros, Klinger, Rada, H.González
 1:0 Ivanov 8, 2:0 Chislenko 10, 3:0 Ivanov 12, 3:1 Aceros 21, 4:1 Ponedelnik
 57, 4:2 Coll 63 c (!), 4:3 Rada 72, 4:4 Klinger 77
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 06.06.62  (15.00) Arica, Estadio Carlos Dittborn
 
@@ -112,7 +120,9 @@ Cortes - Cubilla, Cabrera, Sasia, Pérez
 
 1:0 Mamikin 38, 1:1 Sasia 54 f, 2:1 Ivanov 89
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 07.06.62  (15.00) Arica, Estadio Carlos Dittborn
 
@@ -149,7 +159,9 @@ Pottier, Eschmann, Wüthrich, Antenen (c)
 
 NOTE: Match preceded by WC opening ceremony
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 31.05.62  (15.00) Santiago, Estadio Nacional
 
@@ -162,7 +174,9 @@ Rivera, Altafini, Sivori, Menichelli
 GER: Fahrian - Nowak, Schnellinger, Schulz, Erhardt - Szymaniak, Sturm -
 Haller, Seeler, Brülls, Schäfer (c)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 02.06.62  (15.00) Santiago, Estadio Nacional
 
@@ -179,7 +193,9 @@ Maschio, Altafini, Mora (c), Menichelli
 
 sent off: Ferrini (8), David (41)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 03.06.62  (15.00) Santiago, Estadio Nacional
 
@@ -194,7 +210,9 @@ Dürr, Eschmann, Wüthrich, Antenen (c)
 
 1:0 Brülls 45, 2:0 Seeler 60, 2:1 Schneiter 74
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 06.06.62  (15.00) Santiago, Estadio Nacional
 
@@ -209,7 +227,9 @@ Ramirez, Landa, Moreno, L.Sánchez
 
 1:0 Szymaniak 21 p, 2:0 Seeler 80 h
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 07.06.62  (15.00) Santiago, Estadio Nacional
 
@@ -244,7 +264,9 @@ del'Aguila, H.Hernández, Jasso, Diaz
 
 1:0 Zagalo 56 h, 2:0 Pele 73
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 31.05.62  (15.00) Vina del Mar, Estadio Sausalito
 
@@ -259,7 +281,9 @@ Martinez, Puskás, Suárez, Gento
 
 1:0 Štibrányi 60
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 02.06.62  (15.00) Vina del Mar, Estadio Sausalito
 
@@ -272,7 +296,9 @@ Didi, Vavá, Pelé, Zagalo
 CZE: Schrojf - Lála, Novák (c), Pluskal, Popluhar - Masopust, Štibrányi -
 Scherer, Kvašňák, Adamec, Jelinek
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 03.06.62  (15.00) Vina del Mar, Estadio Sausalito
 
@@ -287,7 +313,9 @@ del'Aguila, H.Hernández, Jasso, Diaz
 
 1:0 Peiró 89
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 06.06.62  (15.00) Vina del Mar, Estadio Sausalito
 
@@ -336,7 +364,9 @@ Velitchkov, Iliev, Yakimov, Kolev
 
 1:0 Facundo 4
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 31.06.62  (15.00) Rancagua, Estadio Braden
 
@@ -351,7 +381,9 @@ Greaves, Hitchens, Haynes (c), R.Charlton
 
 1:0 Tichy 17, 1:1 Flowers 60 p, 2:1 Albert 71
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 02.06.62  (15.00) Rancagua, Estadio Braden
 
@@ -366,7 +398,9 @@ Sosa, Sanfilippo, Belen
 
 1:0 Flowers 18 p, 2:0 R.Charlton 42, 3:0 Greaves 67, 3:1 Sanfilipo 81
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 03.06.62  Rancagua, Estadio Braden
 
@@ -384,7 +418,9 @@ Albert 54, 5:1 Asparoukhov 64, 6:1 Tichy 70
 
 NOTE: Some sources award Asparoukhov's goal to Sokolov
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 06.06.62  Rancagua, Estadio Braden
 
@@ -397,7 +433,9 @@ Oleniak, Facundo, Pagani, Gonzalez
 HUN: Grosics (c) - Matrai, Sárosi, Solymosi - Mészöly, Sipos - Kuharszki,
 Göröcs, Monostroi, Tichy, Rakosi
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 07.06.62  Rancagua, June 7th - Estadio Braden
 
@@ -430,7 +468,9 @@ Ivanov, Ponedelnik, Mamikin, Meschki
 
 1:0 L.Sánchez 11 f, 1:1 Chislenko 26, 2:1 Rojas 27
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 10.06.62  (14.30) Santiago, Estadio Nacional
 
@@ -445,7 +485,9 @@ Haller, Seeler, Szymaniak, Schäfer (c)
 
 1:0 Radaković 87
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 10.06.62  (14.30) Vina del Mar, Estadio Sausalito
 
@@ -461,7 +503,9 @@ Greaves, Hitchens, Haynes (c), R.Charlton
 1:0 Garrincha 30 h, 1:1 Hitchens 38, 2:1 Vavá 53 h, 3:1 Garrincha 59
 (66 Springett saved a penalty by Garrincha)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 10.06.62  (14.30) Rancagua, Estadio Braden
 
@@ -494,7 +538,9 @@ Rojas, Ramirez, Landa - Tobar, L.Sánchez
 
 sent off: Garrincha (83) / Landa (80)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 13.06.62  (14.30) Vina del Mar, Estadio Sausalito
 
@@ -609,4 +655,3 @@ captain     Toro CHI       23y254d   Grocsis HUN        36y126d
 coach       Chakarov BUL   34y279d   Herberger GER      65y 74d
 referee     Yamasaki PER   33y 30d   Dusch GER          49y176d
 
-<!-- end pre -->

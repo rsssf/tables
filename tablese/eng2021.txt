@@ -1,4 +1,5 @@
   <!--
+     title:  England 2020/21
      source: https://rsssf.org/tablese/eng2021.html
     -->
   
@@ -6,20 +7,12 @@
 
 == England 2020/21
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
-‹Cup Tournaments, see §cups›
-‹Championship, see §champ›
-‹Division 1, see §first›
-‹Division 2, see §second›
-‹National League, see §conf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Manchester City         38  27  5  6  83-32  86       Champions
@@ -676,13 +669,13 @@ Final Table:
 18.Fulham                  38   5 13 20  27-53  28  [P]  Relegated
 19.West Bromwich Albion    38   5 11 22  35-76  26  [P]  Relegated
 20.Sheffield United        38   7  2 29  20-63  23       Relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§cups›
 
-<!-- start pre -->
 ‹FA Cup, see §facup›
 
 FA Cup  ‹§facup›
@@ -852,13 +845,13 @@ Leicester City          1-0 Southampton
 Final [May 15, London]
 Chelsea                 0-1 Leicester City
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Championship  ‹§champ›
 
-<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Stage  ‹§2reg›
@@ -913,13 +906,13 @@ Final [May 29, Wembley; att; 11,689]
 Brentford     2-0 Swansea
   [Toney 10pen, Marcondes 20]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 1  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 Regular Stage  ‹§3reg›
@@ -973,13 +966,13 @@ Sunderland    2-1 Lincoln
 Final [May 30]
 Blackpool     2-1 Lincoln
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2  ‹§second›
 
-<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 Regular Stage  ‹§4reg›
@@ -1036,13 +1029,13 @@ Final [May 31, Wembey; att: 9,083]
 Morecambe     1-0 Newport       [aet]
   [Mendes Gomes 107pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== National League  ‹§conf›
 
-<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 Regular Stage  ‹§5reg›
@@ -1104,31 +1097,10 @@ Torquay       1-1 Hartlepool    [aet, 4-5 pen]
   [Covolan Cauagnari 90+5; Armstrong 35]
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2019/20, see page eng2020›.
 
-‹2021/22, see page eng2022›.
 
-‹list of champions, see page engchamp›.
-
-‹list of 2nd division champions, see page eng2champ›.
-
-‹list of full tables, see page ../engpaul/FLA/league›.
-
-‹list of divisional movements, see page engall›.
-
-‹list of cup winners, see page engcuphist›.
-
-‹list of super cup (charity shield) winners, see page engsupcuphist›.
-
-‹list of league cup winners, see page engleagcuphist›.
-
-‹list of league trophy winners, see page engassmembcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

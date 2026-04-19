@@ -1,0 +1,24 @@
+-- removing nav(igation) section:
+
+‹Liga 1, see §liga1›
+‹Cupa României, see §cupa›
+‹Supercupa României, see §sup›
+‹Liga a 2-a, see §liga2›
+‹Liga a 3-a, see §liga3›
+
+
+-- removing nav(igation) section:
+
+‹2023/24, see page roem2024›.
+
+‹list of champions, see page roemchamp›.
+
+‹list of cup finals, see page roemcuphist›.
+
+‹list of super cup finals, see page roemsupcuphist›.
+
+‹list of league cup finals, see page roemleagcuphist›.
+
+‹all-time table, see page roemalltime›.
+
+

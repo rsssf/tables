@@ -1,0 +1,21 @@
+-- removing nav(igation) section:
+
+‹Régional 1, see §honneur›
+‹Cup Tournaments, see §cups›
+‹Régional 2, see §prom›
+‹Régional 3, see §reg3›
+
+Note that the point system in French Guyana is 4/win, 2/draw, 1/loss.
+
+
+-- removing nav(igation) section:
+
+‹2023/24, see page frguy2024›.
+
+‹list of champions French Guyana, see page frguychamp›.
+
+‹list of cup winners French Guyana, see page frguycuphist›.
+
+‹list of d.o.m. cup winners, see page franseaterrcuphist›.
+
+

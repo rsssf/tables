@@ -1,0 +1,10 @@
+-- removing nav(igation) section:
+
+‹Europe, see §eur› |
+‹South America, see §sam› |
+‹Africa, see §afr› |
+‹Asia, see §asi› |
+‹North and Central America, see §nca› |
+‹Oceania, see §oce›
+
+

@@ -1,4 +1,5 @@
   <!--
+     title:  Poland 2024/25
      source: https://rsssf.org/tablesp/pol2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Poland 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ekstraklasa, see §ekstra›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ekstraklasa  ‹§ekstra›
 
-<!-- start pre -->
 Final Table:
 
  1.Lech Poznań                       34  22  4  8  68-31  70       Champions
@@ -560,25 +558,10 @@ Final Table:
 17.Śląsk Wrocław                     34   6 12 16  38-53  30       Relegated
 18.Puszcza Niepołomice               34   6 10 18  37-63  28       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page pol2024›.
 
-‹list of champions, see page polchamp›.
 
-‹list of final tables (includes 2nd level), see page polhist›.
-
-‹list of 2nd level champions, see page pol2champ›.
-
-‹list of cup finals, see page polcuphist›.
-
-‹list of league cup finals, see page polleagcuphist›.
-
-‹list of super cup finals, see page polsupcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

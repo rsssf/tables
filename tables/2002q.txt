@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2002 Qualifying
      source: https://rsssf.org/tables/2002q.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 2002 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: Japan and South Korea
 Qualified as holders: France
 
@@ -2328,13 +2328,14 @@ NB: Guinea were excluded on March 19, 2001, after the Guinean sports minister
     stayed in the same hotel as the Botswanan match officials, contravening FIFA
     rules
 
-<!-- end pre -->
 
 ‹2002 Final Tournament, see page 2002f›
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

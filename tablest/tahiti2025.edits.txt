@@ -1,0 +1,31 @@
+-- removing nav(igation) section:
+
+‹Division 1, see §div1›
+‹Division 2, see §div2›
+‹Mooréa, see §moorea›
+‹Huahine, see §huahine›
+‹Raiatea, see §raiatea›
+‹Marquesas Islands, see §marq›
+
+‹Cup Tournaments, see §coupes›
+
+Note that the point system in French Polynesia is 4/win, 2/draw, 1/loss.
+
+
+-- removing nav(igation) section:
+
+‹2023/24, see page tahiti2024›
+
+‹2025/26, see page tahiti2026›
+
+‹list of champions, see page tahitichamp›
+
+‹list of cup winners, see page tahiticuphist›
+
+‹list of coupe des champions winners, see page tahitichampcuphist›
+
+‹foundation dates, see page tahitifound›
+
+‹french overseas territories cup, see page ../tablesf/franseaterrcuphist›
+
+

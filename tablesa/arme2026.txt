@@ -1,4 +1,5 @@
   <!--
+     title:  Armenia 2025/26
      source: https://rsssf.org/tablesa/arme2026.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Armenia 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §prem›
-‹Cup, see §cup›
-‹First League, see §first›
-‹Amateur League A, see §ama›
-‹Amateur League B, see §amb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Armenian Premier League  ‹§prem›
 
-<!-- start pre -->
 Table:
 
  1.Pyunik (Yerevan)          17  12  2  3  28-12  38      [1-0]
@@ -411,13 +405,13 @@ Pyunik     -  Van
 Ararat-Ar  -  Gandzasar
 Urartu     -  Noah
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Hayastani Gavat (Cup of Armenia) 2025/26  ‹§cup›
 
-<!-- start pre -->
 Preliminary Round
 
 [Sep 16]
@@ -479,13 +473,13 @@ Andranik (Sevan)       -   -   Urartu (Yerevan)
 [Apr 16, 29]
 Ararat-Arm (Yerevan)   -   -   Noah (Yerevan)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Arrajin Khumb (First League)  ‹§first›
 
-<!-- start pre -->
 Table:
 
  1.Sardarapat (Armavir)        22  18  2  2  61-13  56  [N]
@@ -1123,13 +1117,13 @@ Andranik     -  Araks
 Ararat-Ar-2  -  Hayq
 Mika         -  Noah-2
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Siroghakan A Liga (Amateur League A, Third Level)  ‹§ama›
 
-<!-- start pre -->
 Final Tables:
 
 Group A
@@ -1341,13 +1335,13 @@ Top scorers:
   Davit Ghandilyan (EcoVille)         5
   Vardan Vardanyan (Ejmiacin)         5
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Siroghakan B Liga (Amateur League B, Third Level)  ‹§amb›
 
-<!-- start pre -->
 Departed: Araks-2 (Ararat)
 
 Tables:
@@ -1497,21 +1491,10 @@ Top scorers:
   Abiola D. Olalere (Yeghegnadzor)   4  [Nigeria]
   Hanwa Mate Ongalo (UWC)            4  [Kenya]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page arme2025›.
 
-‹list of champions, see page armechamp›.
 
-‹all-time table, see page armealltime›.
-
-‹list of cup winners, see page armecuphist›.
-
-‹list of topscorers, see page armetops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

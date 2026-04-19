@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2022 Qualifying
      source: https://rsssf.org/tables/2022q.html
     -->
   
@@ -16,11 +17,12 @@
     <LI>‹Oceania, see §oce›
 </LI></UL></MENU>
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Europe  ‹§eur›
 
-<!-- start pre -->
 Group A
 
  1.SERBIA        8  6  2  0 18- 9 20
@@ -397,13 +399,13 @@ Final
 29-  3-22 Oporto         Portugal      2-0 North Macedonia
 
 NB: Wales, Poland and Portugal qualified
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== South America  ‹§sam›
 
-<!-- start pre -->
 NB: 5th placed team qualify for playoff against AFC 5th placed team (Australia)
 
  1.BRAZIL       17 14  3  0 40- 5 45
@@ -514,13 +516,13 @@ AFC/CONMEBOL Playoff
 13- 6-22 Al-Rayyan       Australia     0-0 Peru          [aet, 5-4 pen.]
 
 NB: Australia qualified
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Africa  ‹§afr›
 
-<!-- start pre -->
 First Round
 
 First Legs
@@ -775,13 +777,13 @@ Second Legs
 
 NB: Senegal, Cameroon, Ghana, Morocco and Tunisia qualified
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Asia  ‹§asi›
 
-<!-- start pre -->
 First Round
 
 NB: the first stage also served as qualifying stage for the ‹2023 Asian Cup, see page 2023asch›
@@ -1139,13 +1141,13 @@ AFC/CONMEBOL Playoff
 13- 6-22 Al-Rayyan       Australia     0-0 Peru          [aet, 5-4 pen.]
 
 NB: Australia qualified
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== North and Central America  ‹§nca›
 
-<!-- start pre -->
 
 Mexico, United States, Costa Rica, Jamaica and Honduras byes to third round.
 
@@ -1347,13 +1349,13 @@ OFC/CONCACAF Playoff
 
 NB: Costa Rica qualified
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Oceania  ‹§oce›
 
-<!-- start pre -->
 
 Preliminary Round
 
@@ -1404,13 +1406,14 @@ OFC/CONCACAF Playoff
 
 NB: Costa Rica qualified
 
-<!-- end pre -->
 
 ‹Overview File, see page ../tablesw/worldcup›
 
 ‹2022 Final Tournament, see page 2022f›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

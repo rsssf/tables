@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1978 finals
      source: https://rsssf.org/tables/78full.html
     -->
   
@@ -31,7 +32,6 @@ Rosario). Decided at FIFA Congress in Tokyo 8 Oct 1964 and in London 6 July
 actually played. Qualifications drawn 19 Nov 1975 in Guatemala. Finals
 drawn 14 Jan 1978 in Buenos Aires.
 
-<!-- start pre -->
 
 == Group A - ARG FRA HUN ITA  ‹§gra›
 
@@ -50,7 +50,9 @@ Guillou, Lacombe (74 Berdoll) - Platini, Six (76 Rouyer)
 
 booked: Tardelli / Platini, Michel
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 02.06.78  (19.15) Buenos Aires, Estadio Monumental
 
@@ -68,7 +70,9 @@ Zombori, Pintér, Csapó - Tórócsik, Nagy
 booked: Passarella / Tórócsik, Nyilasi
 sent off: Tórócsik (88), Nyilasi (89)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 06.06.78  (13.45) Mar del Plata, Estadio Mar del Plata
 
@@ -85,7 +89,9 @@ Pintér, Csapó - Fazekas (46 Hálasz), Nagy (46 A.Tóth)
 
 booked: Zombori, Martos
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 06.06.78  (19.15) Buenos Aires, Estadio Monumental
 
@@ -102,7 +108,9 @@ Michel, Rocheteau, Bathenay, Lacombe - Platini, Six
 
 booked: Six
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 10.06.78  (14.30) Mar del Plata, Estadio Mar del Plata
 
@@ -120,7 +128,9 @@ Nyilasi - Tórócsik, Nagy (73 Csapó)
 NOTE: Match delayed due to both teams wearing identical kits; the
 French eventually donned the kits of a local Atletico Kimbeira team.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 10.06.78  (19.15) Buenos Aires, Estadio Monumental
 
@@ -157,7 +167,9 @@ Abramczik - Fischer, Beer
 
 NOTE: Match preceded by WC opening ceremony
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 02.06.78  (16.45) Rosario, Estadio Rosario
 
@@ -172,7 +184,9 @@ de la Torre, Cuéllar, Rangel - Isiordia, Sánchez
 
 0:1 Vásquez-Ayala 45 p, 1:1 Kaabi 55, 2:1 Ghommidh 79, 3:1 Dhouieb 87
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 06.06.78  (16.45) Rosario, Estadio Rosario
 
@@ -187,7 +201,9 @@ Agrebi - Témime (c), Akib
 
 1:0 Lato 43
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 06.06.78  (16.45) Cordoba, Estadio Cordoba
 
@@ -205,7 +221,9 @@ de la Torre, Cuéllar, Rangel - Lopez-Zarza (46 Lugo), Sánchez
 
 booked: Bonhof / Vásquez-Ayala
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 10.06.78  (16.45) Cordoba, Estadio Cordoba
 
@@ -220,7 +238,9 @@ Rummenigge - Fischer, D.Müller
 
 booked: Tarak / H.Müller
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 10.06.78  (16.45) Rosario, Estadio Rosario
 
@@ -257,7 +277,9 @@ Linderoth, L.Larsson (81 Edström), B.Larsson - Sjöberg, Wendt
 
 booked: Oscar
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 NOTE: BRA fielded an official protest complaining on Mr. Thomas'
 partial refereeing and his premature ending of the match; the protest
@@ -276,7 +298,9 @@ Asensi, Cardeñosa (41 Leal), Rexach (60 Quini) - Ruben Cano, Dani
 
 1:0 Schachner 10, 1:1 Dani 21, 2:1 Krankl 77
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 07.06.78  (13.45) Buenos Aires, Estadio José Amalfitani
 
@@ -291,7 +315,9 @@ SWE: Hellström - Borg, R.Andersson, Nordqvist (c), Erlandsson - Tapper
 
 1:0 Krankl 42 p
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 07.06.78  (13.45) Mar del Plata, Estadio Mar del Plata
 
@@ -306,7 +332,9 @@ San José, Asensi, Cardeñosa, Leal - Juanito, Santillana
 
 booked: Leal
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.78  (13.45) Mar del Plata, Estadio Mar del Plata
 
@@ -321,7 +349,9 @@ Hickersberger (61 Weber), Krieger (84 Happich) - Krankl, Jara
 
 1:0 Roberto 40
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.78  (13.45) Buenos Aires, Estadio José Amalfitani
 
@@ -363,7 +393,9 @@ Ghassempour, Sadeghi, Nayebagha - Djahani, Faraki (51 Rowshan)
 
 booked: Eskandarian
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 03.06.78  (16.45) Cordoba, Estadio Cordoba
 
@@ -384,7 +416,9 @@ booked: Velasquez
 NOTE: Johnston expulsed from the tournament after failed anti-dope
 testing
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 07.06.78  (16.45) Mendoza, Estadio Mendoza
 
@@ -400,7 +434,9 @@ Cubillas, Muñante - La Rosa (63 Sotil), Oblitas
 
 booked: R.Van de Kerkhof / Muñante
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 07.06.78  (16.45) Cordoba, Estadio Cordoba
 
@@ -417,7 +453,9 @@ Macari, Hartford, Dalglish (74 Harper) - Jordan, Robertson
 
 booked: Eskandarian
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.78  (16.45) Mendoza, Estadio Mendoza
 
@@ -434,7 +472,9 @@ Kerkhof - Rep, Rensenbrink.
 0:1 Rensenbrink 34 p, 1:1 Dalglish 44, 2:1 Gemmill 47 p, 3:1 Gemmill 68, 3:2
 Rep 72
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 11.06.78  (16.45) Cordoba, Estadio Cordoba
 
@@ -468,7 +508,9 @@ ITA: Zoff (c) - Gentile, Bellugi, Scirea, Cabrini - Benetti, Antognoni
 GER: Maier - Vogts (c), Rüssmann, Zimmermann (54 Konopka), Dietz - Kaltz,
 Bonhof, Flohe (69 Beer), Rummenigge - Fischer, Hölzenbein
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 14.06.78  (13.45) Cordoba, Estadio Cordoba
 
@@ -485,7 +527,9 @@ Krieger, Prohaska, Kreuz - Krankl, Jara
 1:0 Brandts 7 h, 2:0 Rensenbrink 35 p, 3:0 Rep 37, 4:0 Rep 53, 4:1 Obermayer
 70, 5:1 W.Van de Kerkhof 87
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 18.06.78  (16.45) Cordoba, Estadio Cordoba
 
@@ -506,7 +550,9 @@ sent off: Nanninga (88)
 NOTE: Together with the ITA-AUT match, the 300th (or 301th) game
 of the World Cup
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 18.06.78  (16.45) Buenos Aires, Estadio Monumental
 
@@ -524,7 +570,9 @@ Krieger, Prohaska, Kreuz - Krankl, Schachner (63 Pirkner)
 NOTE: Together with the HOL-GER match, the 300th (or 301th) game
 of the World Cup
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 21.06.78  (13.45) Buenos Aires, Estadio Monumental
 
@@ -542,7 +590,9 @@ Graziani), Zaccarelli, Tardelli, Causio (46 C.Sala) - Rossi, Bettega
 
 booked: Rep, Haan / Benetti, Tardelli, Cabrini
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 21.06.78  (13.45) Cordoba, Estadio Cordoba
 
@@ -580,7 +630,9 @@ Cueto, Cubillas, Munante - La Rosa, Oblitas (46 P.Rojas)
 
 1:0 Dirceu 15 f, 2:0 Dirceu 28, 3:0 Zico 73 p
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 14.06.78  (19.15) Rosario, Estadio Rosario
 
@@ -597,7 +649,9 @@ Nawałka, Deyna (c), Boniek, Masztaler (65 Mazur) - Lato, Szarmach
 
 booked: Gallego / Maculewicz
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 18.06.78  (13.45) Mendoza, Estadio Mendoza
 
@@ -614,7 +668,9 @@ Cubillas, Munante (46 R.Rojas) - La Rosa (73 Sotil), Oblitas.
 
 booked: Boniek, Gorgoń / Quiroga, Manzo
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 18.06.78  (19.15) Rosario, Estadio Rosario
 
@@ -629,7 +685,9 @@ Chicão, Dirceu - Mendonça (67 Zico), Gil, Roberto
 
 booked: Villa / Chicão, Edinho, Zico
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 21.06.78  (16.45) Mendoza, Estadio Mendoza
 
@@ -646,7 +704,9 @@ Boniek, Kasperczak (65 Lubański) - Lato, Szarmach
 
 booked: Mendonça, Cerezo
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 21.06.78  (19.15) Rosario, Estadio Rosario
 
@@ -773,4 +833,3 @@ captain     Kereki HUN     24y324d   Zoff ITA           36y116d
 coach       Chetali TUN    38y333d   Barón HUN          53y295d
 referee     Coelho BRA     35y146d   Gordon SCO         48y124d
 
-<!-- end pre -->

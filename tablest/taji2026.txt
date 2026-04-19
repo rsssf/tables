@@ -1,4 +1,5 @@
   <!--
+     title:  Tajikistan 2026
      source: https://rsssf.org/tablest/taji2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Tajikistan 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ligai Olī, see §lmf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ligai Olī  ‹§lmf›
 
-<!-- start pre -->
 Table:
 
  1.Vaxsh (Boxtar)              2   2  0  0   4- 1   6
@@ -308,17 +306,10 @@ Parvoz       -  KMVA
 Istiqlol     -  Istaravshan
 Regar-TadAZ  -  Sardor
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page taji2025›
 
-‹list of champions, see page tajichamp›.
 
-‹list of cup winners, see page tajicuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

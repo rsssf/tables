@@ -1,4 +1,5 @@
   <!--
+     title:  Cambodia 2025/26
      source: https://rsssf.org/tablesc/cambod2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Cambodia 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Cambodia Premier League, see §cpl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Cambodia Premier League 2025/26  ‹§cpl›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Championship Playoff, see §top6› | ‹Relegation Playoff, see §bot5›
 
 Regular Stage  ‹§reg›
@@ -364,19 +362,10 @@ Table:
 10.Life FC Sihanoukville            24   4  1 19  22-56  13
 11.ISI Dangkor Senchey FC           24   3  4 17  23-57  13
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page cambod2025›
 
-‹list of champions, see page cambodchamp›
 
-‹list of cup winners, see page cambodcuphist›
-
-‹list of super cup winners, see page cambodsupcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

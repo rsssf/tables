@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2000/01
      source: https://rsssf.org/tablesi/ital01.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Italy 2000/01
 
-<!-- start pre -->
 
 First Level (Serie A)
 
@@ -2395,11 +2395,11 @@ Alessandria 1-1 Cesena
 Brescello   0-2 Pisa
 Carrarese   1-1 Albinoleffe
 Lecco       1-0 Como
-Livorno     5-0  Reggiana
+Livorno     5-0   Reggiana
 Lucchese    2-1 Alzano
 Modena      4-1 Spezia
-Spal        2-0  Lumezzane
-Varese      2-3  Arezzo
+Spal        2-0   Lumezzane
+Varese      2-3   Arezzo
 
 Round 24 [Feb 25]
 Arezzo      3-2 Carrarese
@@ -2408,7 +2408,7 @@ Cesena      2-2 Albinoleffe
 Como        0-0 Livorno
 Lumezzane   1-1 Alzano
 Modena      2-0 Lucchese
-Pisa        0-0  Lecco
+Pisa        0-0   Lecco
 Spal        1-0 Reggiana
 Spezia      1-2 Varese
 
@@ -2447,7 +2447,7 @@ Varese      1-0 Pisa
 
 Round 28 [Mar 25]
 Arezzo      1-1 Lucchese
-Brescello   4-1  Reggiana
+Brescello   4-1   Reggiana
 Lecco       2-1 Alzano
 Lumezzane   2-1 Alessandria
 Modena      0-0 Como
@@ -2484,10 +2484,10 @@ Albinoleffe 1-2 Varese
 Alessandria 0-0 Reggiana
 Alzano      0-2 Como
 Brescello   2-3 Lumezzane
-Cesena      3-2  Carrarese
-Lecco       2-1  Spal
+Cesena      3-2   Carrarese
+Lecco       2-1   Spal
 Lucchese    1-0 Livorno
-Pisa        1-1  Modena
+Pisa        1-1   Modena
 Spezia      2-0 Arezzo
 
 Round 32 [Apr 29]
@@ -2503,24 +2503,24 @@ Varese      1-1 Lumezzane
 
 Round 33 [May 6]
 Albinoleffe 1-0 Lucchese
-Alessandria 2-1  Carrarese
+Alessandria 2-1   Carrarese
 Alzano      0-0 Livorno
-Brescello   0-1  Modena
-Cesena      3-2  Spal
-Lecco       1-1  Varese
-Lumezzane   3-3  Arezzo
-Pisa        1-1  Reggiana
-Spezia      1-2  Como
+Brescello   0-1   Modena
+Cesena      3-2   Spal
+Lecco       1-1   Varese
+Lumezzane   3-3   Arezzo
+Pisa        1-1   Reggiana
+Spezia      1-2   Como
 
 Round 34 [May 13]
 Arezzo      3-2 Cesena
 Carrarese   3-4 Alzano
-Como        2-1  Pisa
-Livorno     0-0  Albinoleffe
+Como        2-1   Pisa
+Livorno     0-0   Albinoleffe
 Lucchese    3-1 Alessandria
 Modena      2-0 Lecco
-Reggiana    2-2  Lumezzane
-Spal        2-2  Spezia
+Reggiana    2-2   Lumezzane
+Spal        2-2   Spezia
 Varese      0-0 Brescello
 
 Final Table:
@@ -2868,48 +2868,48 @@ Torres           4-2 Ascoli
 Savoia           1-1 Messina
 
 Round 17 [Jan 7]
-Ascoli     3-3 Palermo
+Ascoli       3-3 Palermo
 Atletico Catania 1-2 L'Aquila
 Castel di Sangro 1-2 Torres
-Fidelis Andria   1-1 Benevento
-Giulianova   0-3 Lodigiani
-Messina     0-0 Avellino
-Nocerina   1-0 Fermana
-Vis Pesaro   3-0 Savoia
-Viterbese   2-1 Catania
+Fidelis Andria    1-1 Benevento
+Giulianova    0-3 Lodigiani
+Messina       0-0 Avellino
+Nocerina    1-0 Fermana
+Vis Pesaro    3-0 Savoia
+Viterbese    2-1 Catania
 
 Round 18 [Jan 14]
-Fidelis Andria   0-1 Atletico Catania
-Palermo     1-0 Castel di Sangro
-Avellino   1-1 Fermana
-Savoia     0-0 Giulianova
-Benevento   2-1 L'Aquila
-Torres           1-1 Lodigiani
-Ascoli     2-0 Nocerina
-Catania     2-1 Vis Pesaro
-Messina     2-2 Viterbese
+Fidelis Andria    0-1 Atletico Catania
+Palermo       1-0 Castel di Sangro
+Avellino    1-1 Fermana
+Savoia       0-0 Giulianova
+Benevento    2-1 L'Aquila
+Torres            1-1 Lodigiani
+Ascoli       2-0 Nocerina
+Catania       2-1 Vis Pesaro
+Messina       2-2 Viterbese
 
 Round 19 [Jan 21]
-Viterbese   0-1 Ascoli
-Lodigiani   1-1 Avellino
+Viterbese    0-1 Ascoli
+Lodigiani    1-1 Avellino
 Castel di Sangro 3-0 Benevento
-Fermana     2-1 Catania
-Nocerina   0-3 Fidelis Andria
-Vis Pesaro   0-0 Messina
-Giulianova   2-2 Palermo
+Fermana       2-1 Catania
+Nocerina    0-3 Fidelis Andria
+Vis Pesaro    0-0 Messina
+Giulianova    2-2 Palermo
 Atletico Catania 2-3 Torres
-L'Aquila   1-2 Savoia
+L'Aquila    1-2 Savoia
 
 Round 20 [Jan 28]
-Savoia     1-0 Atletico Catania
-Fidelis Andria   1-1 Avellino
-Catania     2-0 Castel di Sangro
-Messina     2-1 Fermana
-Ascoli     1-0 Giulianova
-Torres           1-1 L'Aquila
-Benevento   1-0 Lodigiani
-Palermo     2-0 Vis Pesaro
-Nocerina   0-3 Viterbese
+Savoia       1-0 Atletico Catania
+Fidelis Andria    1-1 Avellino
+Catania       2-0 Castel di Sangro
+Messina       2-1 Fermana
+Ascoli       1-0 Giulianova
+Torres            1-1 L'Aquila
+Benevento    1-0 Lodigiani
+Palermo       2-0 Vis Pesaro
+Nocerina    0-3 Viterbese
 
 Round 21 [Feb 4]
 Vis Pesaro       1-1 Ascoli
@@ -2920,7 +2920,7 @@ Atletico Catania 0-1 Messina
 Castel di Sangro 0-0 Nocerina
 Avellino         0-0 Palermo
 Giulianova       3-1 Torres
-Lodigiani   0-1 Savoia
+Lodigiani    0-1 Savoia
 
 Round 22
 [Feb 11]
@@ -2929,14 +2929,14 @@ Savoia           2-1 Benevento
 Ascoli           2-0 Castel di Sangro
 Torres           0-0 Fermana
 Atletico Catania 0-2 Giulianova
-Fidelis Andria   0-1 L'Aquila
+Fidelis Andria    0-1 L'Aquila
 Palermo          2-1 Lodigiani
 Vis Pesaro       0-0 Viterbese
 [Feb 12]
 Messina          0-2 Catania
 
 Round 23 [Feb 18]
-Catania     2-1 Ascoli
+Catania       2-1 Ascoli
 Fermana          1-0 Atl.Catania
 Lodigiani        1-1 L'Aquila
 Fidelis Andria   0-1 Messina
@@ -2980,7 +2980,7 @@ Palermo          1-0 Savoia
 Lodigiani        1-0 Viterbese
 
 Round 27 [Mar 18]
-Catania           2-1 Atl.Catania
+Catania            2-1 Atl.Catania
 Ascoli           0-1 Avellino
 Messina          2-1 Castelsangro
 Savoia           0-2 Fermana
@@ -3130,74 +3130,74 @@ Atl.Catania and Nocerina relegated to Serie C2
 Fourth Level (Serie C2)
 
 Group A
- 1.Padova     69 34 20  9  5 52-26 Promoted
+ 1.Padova      69 34 20  9  5 52-26 Promoted
 --------------------------------------
- 2.Pro Patria      63 34 17 12  5 37-21 Promotion Playoff
- 3.Mestre     63 34 18  9  7 41-27 Promotion Playoff
+ 2.Pro Patria       63 34 17 12  5 37-21 Promotion Playoff
+ 3.Mestre      63 34 18  9  7 41-27 Promotion Playoff
  4.Pro Vercelli   61 34 17 10  7 52-34 Promotion Playoff
- 5.Triestina     55 34 15 10  9 50-37 Promotion Playoff
+ 5.Triestina      55 34 15 10  9 50-37 Promotion Playoff
 --------------------------------------
- 6.Mantova     52 34 14 10 10 48-38
- 7.Cremonese     47 34 11 14  9 51-42
- 8.Biellese     46 34 11 13 10 40-33
- 9.Montichiari     45 34 12  9 13 41-42
-10.Meda     44 34 12  8 14 44-40
-11.Sudtirol     43 34 11 10 13 45-53
-12.Sassuolo     41 34 11  8 15 41-52
-13.Pro Sesto     41 34 10 11 13 26-38
+ 6.Mantova      52 34 14 10 10 48-38
+ 7.Cremonese      47 34 11 14  9 51-42
+ 8.Biellese      46 34 11 13 10 40-33
+ 9.Montichiari      45 34 12  9 13 41-42
+10.Meda      44 34 12  8 14 44-40
+11.Sudtirol      43 34 11 10 13 45-53
+12.Sassuolo      41 34 11  8 15 41-52
+13.Pro Sesto      41 34 10 11 13 26-38
 --------------------------------------
-14.Legnano     40 34 10 10 14 31-35 Relegation Playoff
-15.Fiorenzuola     36 34  7 15 12 34-42 Relegation Playoff
-16.Novara     28 34  6 10 18 25-45 Relegation Playoff
-17.Moncalieri     25 34  3 16 15 25-50 Relegation Playoff
+14.Legnano      40 34 10 10 14 31-35 Relegation Playoff
+15.Fiorenzuola      36 34  7 15 12 34-42 Relegation Playoff
+16.Novara      28 34  6 10 18 25-45 Relegation Playoff
+17.Moncalieri      25 34  3 16 15 25-50 Relegation Playoff
 --------------------------------------
-18.Sandonà     20 34  2 14 18 18-46 Relegated
+18.Sandonà      20 34  2 14 18 18-46 Relegated
 
 Group B
- 1.Lanciano     63 33 16 15  2 39-24 Promoted
+ 1.Lanciano      63 33 16 15  2 39-24 Promoted
 --------------------------------------
- 2.Chieti     63 34 16 15  3 38-18 Promotion Playoff
- 3.Rimini     60 34 16 12  6 42-23 Promotion Playoff
- 4.Prato     52 34 13 13  8 42-33 Promotion Playoff
- 5.Teramo     52 34 14 10 10 42-35 Promotion Playoff
+ 2.Chieti      63 34 16 15  3 38-18 Promotion Playoff
+ 3.Rimini      60 34 16 12  6 42-23 Promotion Playoff
+ 4.Prato      52 34 13 13  8 42-33 Promotion Playoff
+ 5.Teramo      52 34 14 10 10 42-35 Promotion Playoff
 --------------------------------------
  6.Sangiovannese  48 34 11 15  8 36-26
- 7.Gualdo     46 34 12 10 12 40-41
+ 7.Gualdo      46 34 12 10 12 40-41
  8.Castelnuovo G. 45 34 11 12 11 40-37
- 9.Sanmarino     44 34 11 11 12 36-37
-10.Rondinella     42 33 10 12 11 38-36
-11.Imolese     42 34 10 12 12 36-41
-12.Gubbio     39 34  9 12 13 30-36
-13.Montevarchi     37 34  6 19  9 16-21
+ 9.Sanmarino      44 34 11 11 12 36-37
+10.Rondinella      42 33 10 12 11 38-36
+11.Imolese      42 34 10 12 12 36-41
+12.Gubbio      39 34  9 12 13 30-36
+13.Montevarchi      37 34  6 19  9 16-21
 --------------------------------------
-14.Faenza     36 34  8 12 14 27-35 Relegation Playoff
-15.Russi     36 34  9  9 16 32-45 Relegation Playoff
-16.Viareggio     35 34  9  8 17 29-46 Relegation Playoff
-17.Maceratese     33 34  5 18 11 21-38 Relegation Playoff
+14.Faenza      36 34  8 12 14 27-35 Relegation Playoff
+15.Russi      36 34  9  9 16 32-45 Relegation Playoff
+16.Viareggio      35 34  9  8 17 29-46 Relegation Playoff
+17.Maceratese      33 34  5 18 11 21-38 Relegation Playoff
 --------------------------------------
 18.Castel S. P.   30 34  7  9 18 32-44 Relegated
 
 Group C
- 1.Taranto     63 34 17 12  5 43-24 Promoted
+ 1.Taranto      63 34 17 12  5 43-24 Promoted
 --------------------------------------
- 2.Campobasso     61 34 18  7  9 49-33 Promotion Playoff
- 3.Catanzaro     54 34 13 16  5 49-35 Promotion Playoff
- 4.Puteolana     53 34 15  9 10 35-25 Promotion Playoff
- 5.Sora     52 34 13 13  8 35-30 Promotion Playoff
+ 2.Campobasso      61 34 18  7  9 49-33 Promotion Playoff
+ 3.Catanzaro      54 34 13 16  5 49-35 Promotion Playoff
+ 4.Puteolana      53 34 15  9 10 35-25 Promotion Playoff
+ 5.Sora      52 34 13 13  8 35-30 Promotion Playoff
 --------------------------------------
  6.Igea Virtus    48 34 11 15  8 40-29
- 7.Nardò     45 34 11 12 11 36-38
+ 7.Nardò      45 34 11 12 11 36-38
  8.Juveterranova  45 34 12  9 13 35-35
- 9.Fasano     44 34 12  8 14 37-44
-10.Foggia     44 34 12  8 14 40-39
-11.Giugliano     42 34 10 12 12 30-38
+ 9.Fasano      44 34 12  8 14 37-44
+10.Foggia      44 34 12  8 14 40-39
+11.Giugliano      42 34 10 12 12 30-38
 12.Juve Stabia    42 34  8 18  8 32-30
 13.Sant`Anastasia 42 34 11  9 14 30-40
 --------------------------------------
-14.Acireale     42 34 11  9 14 29-33 Relegation Playoff
-15.Tricase     41 34  9 14 11 44-43 Relegation Playoff
-16.Turris     35 34  7 14 13 28-40 Relegation Playoff
-17.Cavese     34 34  7 13 14 26-40 Relegation Playoff
+14.Acireale      42 34 11  9 14 29-33 Relegation Playoff
+15.Tricase      41 34  9 14 11 44-43 Relegation Playoff
+16.Turris      35 34  7 14 13 28-40 Relegation Playoff
+17.Cavese      34 34  7 13 14 26-40 Relegation Playoff
 --------------------------------------
 18.Castrovillari  27 34  7  6 21 29-51 Relegated
 
@@ -3222,9 +3222,10 @@ Group C
 ‹list of 3rd division topscorers, see page ital3tops›.
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Vanuatu 2024/25
      source: https://rsssf.org/tablesv/vanuatu2025.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Vanuatu 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹VFF Champions League 2025, see §nsl›
-‹PVFA Lik - Super League 2024/25, see §pvfasuper›
-‹PVFA Lik - Premier League 2024/25, see §pvfapremier›
-‹PVFA Lik - Champions Cup, see §chamcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== VFF Champions League 2025  ‹§nsl›
 
-<!-- start pre -->
 ‹Group Stage, see §nslgrp› | ‹Playoff Stage, see §nslsemi›
 
 NB: all matches at VFF Freshwater Stadium, Port Vila
@@ -79,13 +74,13 @@ Waterfall             3-0 Police
 Final [Jun 21]
 Galaxy                2-1 M3 United             [aet]
   [Bong Kalo 27pen, 2-1; Kerry Iawak 90]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== PVFA Lik - Super League 2024/25  ‹§pvfasuper›
 
-<!-- start pre -->
 Final Table:
 
  1.Galaxy FC              10   6  3  1  20- 9  21       [2 1 1 0 2-1 4]  ‹Champions, see §nsl›
@@ -193,13 +188,13 @@ Second Leg [Apr 9]
 Naka                  2-1 Erakor Golden Star    [aet]
 
 NB: both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== PVFA Lik - Premia Divisen 2024/25  ‹§pvfapremier›
 
-<!-- start pre -->
 Final Table:
 
  1.Yatel FC               10   9  1  0  37- 4  28                        Promoted
@@ -309,28 +304,21 @@ Lakotau               1-4 Pango Green Bird
 
 NB: both remain at former level
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== PVFA Lik - Champions Cup 2025  ‹§chamcup›
 
-<!-- start pre -->
 NB: between the winners of the Super League and the Premier League
 
 [Apr 5]
 Galaxy                0-1 Yatel
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page vanuatu2024›
 
-‹2025/26, see page vanuatu2026›
 
-‹list of champions, see page vanuatuchamp›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

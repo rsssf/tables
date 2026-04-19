@@ -1,4 +1,5 @@
   <!--
+     title:  Moldova 2025/26
      source: https://rsssf.org/tablesm/mold2026.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Moldova 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Superliga 2025/26, see §nat›
-‹Cupa Moldovei 2025/26, see §cupa›
-‹Liga 1, see §diva›
-‹Liga 2, see §divb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Superliga 2025/26  ‹§nat›
 
-<!-- start pre -->
 NB: 35th edition
 
 ‹Faza 1, see §ph1› | ‹Faza 2, see §ph2›
@@ -549,13 +544,13 @@ Round 10 [May 9]
 Floresti     -  Politehnica
 Spartanii S  -  Iskra
 Real         -  Stauceni
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cupa Orange 2025/26  ‹§cupa›
 
-<!-- start pre -->
 First Preliminary Round [Sep 3. Total Att: 750; Average: 125]
 
 LOCOMOTIVA (Ocnița)     2-1  Real Succes (Chișinău)
@@ -662,13 +657,13 @@ Petrocub (Hîncești)     1-0  -   CSF Bălți
 Sheriff (Tiraspol)      2-0  -   Dacia Buiuc (Chișinău)
   [Jayder Asprilla 33, 39. Att: 712]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga 1 2025/26  ‹§diva›
 
-<!-- start pre -->
 Departed: Speranis (Nisporeni)
 
 ‹Faza 1, see §1ph1›
@@ -1120,13 +1115,13 @@ Oguz       -  Falesti
 Ungheni    -  Zimbru-2
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga 2 2024/25  ‹§divb›
 
-<!-- start pre -->
 ‹Seria Nord, see §2nord› | ‹Seria Sud, see §2sud›
 
 Seria Nord  ‹§2nord›
@@ -1632,19 +1627,10 @@ Atletic        -  Socol
 National       -  Ungheni-2
 Congaz         -  Cahul
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page mold2025›.
 
-‹list of champions, see page moldchamp›.
 
-‹list of cup winners, see page moldcuphist›.
-
-‹list of topscorers, see page moldtops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

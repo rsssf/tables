@@ -1,4 +1,5 @@
   <!--
+     title:  Isle of Man 2024/25
      source: https://rsssf.org/tablesm/manx2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Isle of Man 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
-‹Cup Tournaments, see §cups›
-‹Division Two, see §div2›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Peel                        24  16  3  5  89-40  51       Champions
@@ -33,13 +29,13 @@ Final Table:
 ------------------------------------------------------
 12.St. George's                24   5  3 16  38-68  18       Relegated
 13.Marown                      24   1  1 22  21-95   4       Relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§cups›
 
-<!-- start pre -->
 Association Cup   ‹§facup›
 
 Preliminary Round [Jan 4]
@@ -188,13 +184,13 @@ Douglas Royal      0-2 R.Y.C.&O.B.
 Final [Apr 18]
 Braddan            2-1 R.Y.C.&O.B.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division Two  ‹§div2›
 
-<!-- start pre -->
 Final Table:
 
  1.Braddan                     20  16  3  1  89-27  51  [R]  Promoted
@@ -210,21 +206,10 @@ Final Table:
 10.Malew                       20   2  2 16  37-62   8
 11.Douglas & District          20   0  3 17  26-99   3
  -.Gymnasium                   withdrew or excluded
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page manx2024›
 
-‹list of champions, see page manxchamp›
 
-‹list of 2nd level champions, see page manx2champ›
-
-‹list of cup winners, see page manxcuphist›
-
-‹list of foundation dates, see page manxfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

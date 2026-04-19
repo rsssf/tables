@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2010 Qualifying
      source: https://rsssf.org/tables/2010q.html
     -->
   
@@ -18,7 +19,9 @@
 
 ‹Match Details, see page 2010q-det›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Europe  ‹§eur›
 
@@ -408,13 +411,13 @@ Playoff
 18-11-09 Maribor         Slovenia      1-0 Russia
   [Dedic 44]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== South America  ‹§sam›
 
-<!-- start pre -->
 
  1.BRAZIL       18  9  7  2 33-11 34
  2.CHILE        18 10  3  5 32-22 33
@@ -611,13 +614,13 @@ CONCACAF/CONMEBOL Playoff
   [Sebastián Abreu 70; Walter Centeno 74]
 
 ‹Match Details, see page 2010q-det.html#sam›
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Africa  ‹§afr›
 
-<!-- start pre -->
 
 CAF has 5 automatic places (not including South Africa)
 
@@ -1097,13 +1100,13 @@ Group E
   [Gervinho 16, 31 Tiene 67]
 
 ‹Match Details, see page 2010q-det.html#afr›
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Asia  ‹§asi›
 
-<!-- start pre -->
 
 Laos, Bhutan, Brunei and the Philippines did not enter.
 
@@ -1467,13 +1470,13 @@ AFC/OFC Playoff
   [Fallon 45]
 
 ‹Match Details, see page 2010q-det.html#asi›
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== North and Central America  ‹§nca›
 
-<!-- start pre -->
 
 First Stage
 
@@ -1760,13 +1763,13 @@ CONCACAF/CONMEBOL Playoff
   [Sebastián Abreu 70; Walter Centeno 74]
 
 ‹Match Details, see page 2010q-det.html#nca›
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Oceania  ‹§oce›
 
-<!-- start pre -->
 
 The top three teams from the ‹2007 South Pacific Games, see page ../tabless/southpac07.html#men› (New Caledonia, Fiji, and Vanuatu)
 joined New Zealand in a four-team pool. The top team will play a home and away matches
@@ -1814,13 +1817,14 @@ AFC/OFC Playoff
   [Fallon 45]
 
 ‹Match Details, see page 2010q-det.html#oce›
-<!-- end pre -->
 
 ‹Overview File, see page ../tablesw/worldcup›
 
 ‹2010 Final Tournament, see page 2010f›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

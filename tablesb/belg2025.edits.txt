@@ -1,0 +1,27 @@
+-- removing nav(igation) section:
+
+‹Pro League, see §pro›
+‹Cup, see §cup›
+‹Challenger Pro League, see §tweede›
+‹1e Nationale, see §div1›
+
+
+-- removing nav(igation) section:
+
+‹2023/24, see page belg2024›
+
+‹list of champions, see page belgchamp›.
+
+‹final tables (1st and 2nd level), see page belghist›.
+
+‹final tables (3rd level), see page belg3hist›.
+
+‹list of cup finals, see page belgcuphist›.
+
+‹list of super cup finals, see page belgsupcuphist›.
+
+‹list of topscorers, see page belgtops›.
+
+‹all-time table, see page belgalltime›.
+
+

@@ -1,4 +1,5 @@
   <!--
+     title:  Gozo 2024/25
      source: https://rsssf.org/tablesg/gozo2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Gozo 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹L-Ewwel Diviżjoni, see §first›>
-‹GFA Cup, see §gfa›
-‹It-Tieni Diviżjoni, see §second›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== L-Ewwel Diviżjoni  ‹§first›
 
-<!-- start pre -->
 Final Table:
 
  1.Qala Saints                  18  15  0  3  54-14  45       Champions
@@ -218,13 +214,13 @@ Promotion/Relegation Playoff  ‹§prorel›
 Għajnsielem   4-1 Sannat L.
 
 NB: both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== GFA Cup  ‹§gfa›
 
-<!-- start pre -->
 Preliminary Round
 [Oct 25]
 Kerċem A.     6-0 St. Laurence S.
@@ -255,13 +251,13 @@ Victoria W.   1-1 Kerċem A.     [aet, 7-8 pen]
 Final [Apr 27]
 Nadur Y.      3-0 Kerċem A.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== It-Tieni Diviżjoni  ‹§second›
 
-<!-- start pre -->
 Table:
 
  1.Kerċem Ajax                  14  14  0  0  61- 2  42  [R]  Promoted
@@ -273,21 +269,10 @@ Table:
  5.Żebbuġ Rovers                14   4  3  7  24-41  15
  6.Għarb Rangers                13   1  2 10  15-41   5
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page gozo2024›
 
-‹list of champions, see page gozochamp›
 
-‹list of final tables, see page gozohist›
-
-‹list of 2nd and 3rd level champions, see page gozo2champ›
-
-‹list of cup winners, see page gozocuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

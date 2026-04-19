@@ -1,4 +1,5 @@
   <!--
+     title:  Bermuda 2025/26
      source: https://rsssf.org/tablesb/berm2026.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Bermuda 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier Division, see §premier›
-‹Cup Tournaments, see §cups›
-‹First Division, see §first›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier Division  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Dandy Town Hornets     18  14  1  3  39-16  43       Champions
@@ -219,13 +215,13 @@ Final Table:
  9.YMSC Bluebirds         18   2  4 12  33-54  10       Relegated
 10.Boulevard Blazers      18   2  3 13  20-59   9  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§cups›
 
-<!-- start pre -->
 ‹FA Challenge Cup 2025/26, see §facup› | ‹Friendship Trophy 2025/26, see §friend› | ‹Dudley Eve Trophy 2025, see §dudley› | ‹Shield 2025/26, see §shield›
 
 FA Challenge Cup 2025/26  ‹§facup›
@@ -370,13 +366,13 @@ Somerset Trojans         0-0 Robin Hood               [aet, 1-4 pen]
 Final [Jan 1]
 Somerset Eagles          2-2 Robin Hood               [aet, 5-4 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== First Division  ‹§first›
 
-<!-- start pre -->
 Final Table:
 
  1.Somerset Trojans       12   9  2  1  24- 4  29       Promoted
@@ -388,17 +384,10 @@ Final Table:
  6.Wolves                 12   3  3  6  14-22  12  [R]
  7.Vasco da Gama          12   1  0 11  11-40   3
  -.Hamilton Parish        withdrew or excluded     [R]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page berm2025›
 
-‹list of champions, see page bermchamp›
 
-‹list of cup winners, see page bermcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

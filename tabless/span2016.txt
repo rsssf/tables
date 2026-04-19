@@ -1,4 +1,5 @@
   <!--
+     title:  Spain 2015/16
      source: https://rsssf.org/tabless/span2016.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Spain 2015/16
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §laliga›
-‹Copa del Rey, see §coparey›
-‹Segunda División, see §segunda›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Barcelona                  38  29  4  5 112-29  91  [C]  Champions
@@ -639,13 +635,13 @@ Final Table:
 18.Rayo Vallecano                38   9 11 18  52-73  38  Relegated
 19.Getafe CF                     38   9  9 20  37-67  36  Relegated
 20.Levante UD (Valencia)         38   8  8 22  37-70  32  Relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa del Rey  ‹§coparey›
 
-<!-- start pre -->
 Round 1
 [Aug 27]
 Mérida AD                 0-3 Peña Sport FC
@@ -818,13 +814,13 @@ RC Celta de Vigo          2-2 Sevilla FC
 
 Final [May 22, Madrid]
 FC Barcelona              2-0 Sevilla FC                [aet]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- start pre -->
 Final Table:
 
  1.Deportivo Alavés (Vitoria)    42  21 12  9  49-35  75  Promoted
@@ -880,35 +876,10 @@ Second Leg [Jun 18]
 Girona                    0-1 Osasuna
 
 NB: Osasuna promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2014/15, see page span2015›.
 
-‹2016/17, see page span2017›.
 
-‹list of champions, see page spanchamp›.
-
-‹list of 2nd level champions, see page span2champ›.
-
-‹list of cup winners, see page spancuphist›.
-
-‹list of super cup winners, see page spansupcuphist›.
-
-‹list of league cup winners, see page spanleagcuphist›.
-
-‹list of copa rfef winners, see page spanrfefcuphist›.
-
-‹list of final tables, see page spanhist›.
-
-‹all-time table, see page spanalltime›.
-
-‹list of top scorers, see page spantops›.
-
-‹list of foundation dates, see page spanfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

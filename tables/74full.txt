@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1974 finals
      source: https://rsssf.org/tables/74full.html
     -->
   
@@ -31,7 +32,6 @@ Congress in London at 6 Jul 1966. Entries deadline 30 Jun 1971. 99 teams
 entered, 92 actually played. Qualifications drawn 17 Jul 1971 at Düsseldorf.
 Finals drawn 5 Jan 1974 at Frankfurt.
 
-<!-- start pre -->
 
 == Group A - AUS CHI DDR GER  ‹§gra›
 
@@ -51,7 +51,9 @@ CHI: Vallejos - Garcia, Quintano, Arias, Figueroa - Rodriguez
 booked: Garcia, Caszely, Rainoso
 sent-off: Caszely (67)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 14.06.94  (19.30) Hamburg, Volksparkstadion
 
@@ -68,7 +70,9 @@ Rooney, Mackay - Warren, Alston, Buljevic
 
 booked: Kische, Wätzlich, Vogel
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 18.06.74  (16.00) Hamburg, Volksparkstadion
 
@@ -85,7 +89,9 @@ Mackay - Campbell (46 Abonyi), Alston, Buljevic (61 Ollerton)
 
 booked: Mackay
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 18.06.74  (19.30) Berlin, Olympiastadion
 
@@ -102,7 +108,9 @@ Valdéz (c - 46 Yavár), Ahumada - Veliz, Reinoso, Paéz
 
 booked: Kische / Paéz, Velis
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 22.06.74  (16.00)  Berlin, Olympiastadion
 
@@ -118,7 +126,9 @@ CHI: Vallejos -  Garcia, Quintano, Arias, Figueroa -  Caszely, Valdéz
 booked: Richards
 sent-off: Richards (83)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 22.06.74  (19.30) Hamburg, Volksparkstadion
 
@@ -155,7 +165,9 @@ Oblak, Aćimović, Petković - Šurjak, Džajić (c)
 
 Booked: Aćimović, Oblak
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 14.06.74  (19.30) Dortmund, Westfalenstadion
 
@@ -172,7 +184,9 @@ Mana, N'daye - Kidumu (c - 78 Kibonge), Kakoko
 
 booked: Holton / Kidumu
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 18.06.74  (19.30) Frankfurt, Waldstadion
 
@@ -188,7 +202,9 @@ Hay, Lorimer - Jordan, Morgan.
 
 booked: Rivelino, F.Marinho, M.Marinho
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 18.06.74  (19.30) Gelsenkirchen, Parkstadion
 
@@ -207,7 +223,9 @@ Kembo, Mana, N'daye - Kidumu (c), Kakoko (46 Mayanga)
 booked: E.Hadžiabdić
 sent off: N'daye (23)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 22.06.74  (18.00) Frankfurt, Waldstadion
 
@@ -224,7 +242,9 @@ JUG: Marić - Buljan, Katalinski, Bogićević, E.Hadžiabdić - Bajević
 
 booked: Jordan, Hay / Katalinski, Oblak, Bajević
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 22.06.74  (18.00) Gelsenkirchen, Parkstadion
 
@@ -265,7 +285,9 @@ Montero-Castillo, Rocha, Cubilla (68 Milar) - Morena, Mantegazza
 booked; Mantegazza, Forlán, Masnik
 sent off: Morena (89)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.06.74  (16.00) Düsseldorf, Rheinstadion
 
@@ -278,7 +300,9 @@ BUL: Goranov - Z.Vassilev, Ivkov, Velitchkov, Kolev - Penev, Voinov
 SWE: Hellström - Olsson, Karlsson, Larsson (c), Andersson - Kindvall
 (72 Magnusson), Tapper, Grahn, Torstensson - Sandberg, Edström
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.06.74  (19.30) Dortmund, Westfalenstadion
 
@@ -293,7 +317,9 @@ Tapper (61 Persson), Grahn, Ejderstedt - Sandberg, Edström
 
 booked: Rep / Grahn, Nordqvist, Persson, Andersson
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.06.74  (19.30) Hannover, Niedersachsenstadion
 
@@ -310,7 +336,9 @@ Rocha, Garisto (72 Masnik) - Morena, Mantegazza (83 Cardaccio), Corbo
 
 booked: Z.Vasilliev / Espárrago
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 23.06.74  (16.00) Dortmund, Westfalenstadion
 
@@ -327,7 +355,9 @@ Panov (46 Borisov), Stoyanov (57 Mikhailov) - Z.Vassilev, Ivkov.
 
 booked: Jansen, Van Hanegem, Cruijff / Denev
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 23.06.74  (16.00) Düsseldorf, Rheinstadion
 
@@ -369,7 +399,9 @@ booked: Bayonne
 NOTE: antidope control tested positive for Jean-Joseph, who has been
 expulsed from the tournament
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.06.74  (18.00) Stuttgart, Neckarstadion
 
@@ -386,7 +418,9 @@ Babington, Brindisi (46 Houseman) - Kempes, Ayala, Balbuena.
 
 booked: Babington, Perfumo
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.06.74  (19.30) Stuttgart, Neckarstadion
 
@@ -403,7 +437,9 @@ Mazzola, Capello, Rivera (87 Causio) - Benetti, Anastasi, Riva
 
 booked: Babington / Benetti
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.06.74  (19.30) München, Olympiastadion
 
@@ -421,7 +457,9 @@ Antoine, Désir, Vorbe, François - Saint-Vil (46 Racine), Sanon
 
 booked: Bayonne
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 23.06.74  (16.00) München, Olympiastadion
 
@@ -438,7 +476,9 @@ Désir, Vorbe, Louis, Saint-Vil (54 F.Leandre) - Racine, Sanon
 
 booked: Babington, Heredia / F.Leandre
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 23.06.74  (16.00) Stuttgart, Neckarstadion
 
@@ -479,7 +519,9 @@ Löwe), Sparwasser, Hamann (46 Irmscher) - Kische, Hoffmann
 
 booked: Jairzinho, Dirceu, Cesar Carpegiani / Streich, Hamann
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 22.06.74  (19.30) Gelsenkirchen, Parkstadion
 
@@ -496,7 +538,9 @@ Squeo, Houseman (65 Kempes), Yazalde - Ayala, Balbuena
 
 booked: Neeskens, Suurbier / Perfumo
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 30.06.74  (16.00) Gelsenkirchen, Parkstadion
 
@@ -511,7 +555,9 @@ Lauck (81 Kreische), Sparwasser, Löwe (66 Ducke) - Kische, Hoffmann
 
 1:0 Neeskens 8, 2:0 Rensenbrink 59
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 30.06.74  (16.00 Hannover, Niedersachsenstadion
 
@@ -528,7 +574,9 @@ Babington, Brindisi (c) - Ayala, Balbuena, Kempes (46 Houseman)
 
 booked: Houseman
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 03.07.74  (19.30) Dortmund, Westfalenstadion
 
@@ -547,7 +595,9 @@ Carpegiani, Rivelino, Dirceu, Valdomiro - Jairzinho, Paulo Cesar Lima
 booked: Rep / Zé Maria, Pereira
 sent off: Pereira (84)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 03.07.74  (19.30) Gelsenkirchen, Parkstadion
 
@@ -584,7 +634,9 @@ Tapper (82 Ahlström), Larsson, Torstensson - Sandberg, Edström
 
 booked: Gorgoń, Szarmach
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 26.06.74  (18.00) Düsseldorf, Rheinstadion
 
@@ -601,7 +653,9 @@ Popivoda, Aćimović, Šurjak - Karasi, Džajić (c - 84 Petković)
 
 booked: Overath, Vogts / Buljan, E.Hadžiabdić
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 30.06.74  (18.00) Frankfurt, Waldstadion
 
@@ -617,7 +671,9 @@ Jerković),
 
 1:0 Deyna 27 p, 1:1 Karasi 43, 2:1 Lato 63 h
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 30.06.74  (19.30) Düsseldorf, Rheinstadion
 
@@ -635,7 +691,9 @@ Tapper, Larsson (31 Ejderstedt) - Torstensson, Sandberg, Edström
 
 booked: Grahn
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 03.07.74  (19.30) Düsseldorf, Rheinstadion
 
@@ -652,7 +710,9 @@ JUG: Marić, Buljan, E.Hadžiabdić, Bogićević, Katalinski - Pavlović
 
 booked: Katalinski, Karasi
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 03.07.74  (16.30) Frankfurt, Waldstadion
 
@@ -773,4 +833,3 @@ captain     Brindisi ARG   23y265d   Facchetti ITA      31y340d
 coach       Rasic AUS      38y180d   Valcareggi ITA     62y111d
 referee     Delgado COL    33y148d   Scheurer SUI       49y 36d
 
-<!-- end pre -->

@@ -1,0 +1,24 @@
+-- removing nav(igation) section:
+
+‹Yemen League Division One 2023/24, see §div1›
+‹Sanaa League 2023, see §sanaa›
+‹Aden Premier League 2023/24, see §aden›
+‹Other Regional Leagues 2023/24, see §regio›
+‹Aden Capital Cup 2023, see §acc23›
+‹Aden Capital Cup 2024, see §acc24›
+‹Ali Mohsen Al-Muraisi Cup 2023, see §amam23›
+‹Ali Mohsen Al-Muraisi Cup 2024, see §amam24›
+‹Hadhramaut Cup 2024, see §hadramaut›
+
+
+-- removing nav(igation) section:
+
+‹2022/23, see page yemen2023›
+
+‹list of champions, see page yemenchamp›
+
+‹list of cup winners, see page yemencuphist›
+
+‹list of topscorers, see page yementops›
+
+

@@ -1,4 +1,5 @@
   <!--
+     title:  Nepal 2025
      source: https://rsssf.org/tablesn/nepal2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Nepal 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Nepal Super League, see §nsl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Nepal Super League 2025  ‹§nsl›
 
-<!-- start pre -->
 NB: third ever edition
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
@@ -118,15 +116,10 @@ Dhangadhi           0-1 Pokhara Thunders
 Final [Apr 26]
 Lalitpur City       2-1 Pokhara Thunders
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023, see page nepal2023›.
 
-‹list of champions, see page nepalchamp›.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

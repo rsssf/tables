@@ -1,0 +1,17 @@
+-- removing nav(igation) section:
+
+‹Ligue 1, see §premiere›
+‹Coupe Nationale, see §coupe›
+‹Ligue 2, see §deuxieme›
+‹Ligues Inter-Régions, see §troisieme›
+
+
+-- removing nav(igation) section:
+
+‹2024/25, see page alg2025›.
+
+‹list of champions, see page algchamp›.
+
+‹list of cup finals, see page algcuphist›.
+
+

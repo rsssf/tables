@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2012/13
      source: https://rsssf.org/tablesm/mex2013.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Mexico 2012/13
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga MX, see §pdn›
-‹Copa MX Apertura 2012, see §copa›
-‹Copa MX Clausura 2013, see §copac›
-‹Ascenso MX, see §ascenso›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga MX  ‹§pdn›
 
-<!-- start pre -->
 NB: for this season the Primera División Nacional changed name to Liga MX
 
 ‹Apertura 2012, see §1aper› | ‹Clausura 2013, see §1clau›
@@ -466,22 +461,22 @@ Final Table:
 18.Querétaro                           17   1  4 12  11-30   7
 
 Topscorers:
-Player      Team    Goals
-Esteban Paredes    Atlante    11
-Christian Benítez  América    11
-Luis Gabriel Rey  Jaguares   8
-Nelson Maz    León     8
-Miguel Sabah    Morelia     8
-Duvier Orlando Riascos  Tijuana     8
-Mariano Pavone    Cruz Azul   7
-Carlos Darwin Quintero  Santos     7
-Héctor Raúl Mancilla    Atlas     6
-Rafael Márquez Lugo  Guadalajara   6
-Carlos Alberto Peña  León     6
-Matías Britos    León     6
-Humberto Andrés Suazo  Monterrey   6
-Lucas Lobos    Tigres     6
-Luis Tejada    Toluca     6
+Player         Team      Goals
+Esteban Paredes      Atlante      11
+Christian Benítez   América      11
+Luis Gabriel Rey   Jaguares    8
+Nelson Maz      León       8
+Miguel Sabah      Morelia       8
+Duvier Orlando Riascos   Tijuana       8
+Mariano Pavone      Cruz Azul    7
+Carlos Darwin Quintero   Santos       7
+Héctor Raúl Mancilla    Atlas       6
+Rafael Márquez Lugo   Guadalajara    6
+Carlos Alberto Peña   León       6
+Matías Britos      León       6
+Humberto Andrés Suazo   Monterrey    6
+Lucas Lobos      Tigres       6
+Luis Tejada      Toluca       6
 
 
 Playoffs  ‹§applay›
@@ -543,26 +538,26 @@ Toluca             0-2 Tijuana
 
 Club Tijuana Roster Team
 
-Cirilo Saucedo      GK
-Adrián Zermeño      GK
-Javier Marcelo Gandolfi    DEF [Argentina]
-Juan Carlos Núñez    DEF
-Pablo César Aguilar    DEF [Paraguay]
-Edgar Eduardo Castillo    DEF [USA/Mexico]
-Joshua Ábrego      DEF
-Gregory Garza      DEF [USA]
-Alfredo González Tahuilán  DEF
-Fernando Arce      MDF
-Cristian Pellerano    MDF [Argentina]
-Leandro Augusto Oldoni    MDF [Brazil/Mexico]
-Joe Corona      MDF [USA/Mexico]
-Richard Ruiz      MDF
-Fidel Martínez      MDF [Ecuador]
-Jorge Hernández      MDF
-Alfredo David Moreno    FWD [Argentina/Mexico]
-Duvier Orlando Riascos    FWD [Colombia]
-Raúl Nava      FWD
-Raúl Enríquez      FWD
+Cirilo Saucedo         GK
+Adrián Zermeño         GK
+Javier Marcelo Gandolfi      DEF [Argentina]
+Juan Carlos Núñez      DEF
+Pablo César Aguilar      DEF [Paraguay]
+Edgar Eduardo Castillo      DEF [USA/Mexico]
+Joshua Ábrego         DEF
+Gregory Garza         DEF [USA]
+Alfredo González Tahuilán   DEF
+Fernando Arce         MDF
+Cristian Pellerano      MDF [Argentina]
+Leandro Augusto Oldoni      MDF [Brazil/Mexico]
+Joe Corona         MDF [USA/Mexico]
+Richard Ruiz         MDF
+Fidel Martínez         MDF [Ecuador]
+Jorge Hernández         MDF
+Alfredo David Moreno      FWD [Argentina/Mexico]
+Duvier Orlando Riascos      FWD [Colombia]
+Raúl Nava         FWD
+Raúl Enríquez         FWD
 
 Coach: Antonio Mohamed [ARG]
 
@@ -1034,26 +1029,26 @@ NB: Querétaro are relegated and thus not eligible to enter the quarterfinals
 
 Relegation Table
 
-Team      Average
-Cruz Azul    1.7059
-Tigres      1.7059
-Santos      1.6471
-Morelia      1.6275
-América      1.5980
-Monterrey    1.5686
-Pumas      1.5000
-Tijuana      1.4853
-León      1.4412
-Pachuca      1.3529
-Toluca      1.3431
-Guadalajara    1.2843
-Jaguares    1.2843
-San Luis    1.1176
-Atlas      1.0980
-Atlante      1.0882
-Puebla      1.0784
+Team         Average
+Cruz Azul      1.7059
+Tigres         1.7059
+Santos         1.6471
+Morelia         1.6275
+América         1.5980
+Monterrey      1.5686
+Pumas         1.5000
+Tijuana         1.4853
+León         1.4412
+Pachuca         1.3529
+Toluca         1.3431
+Guadalajara      1.2843
+Jaguares      1.2843
+San Luis      1.1176
+Atlas         1.0980
+Atlante         1.0882
+Puebla         1.0784
 ------------------------------
-Querétaro    1.0196  Relegated
+Querétaro      1.0196  Relegated
 
 Playoffs  ‹§clplay›
 
@@ -1115,46 +1110,46 @@ América            2-1 Cruz Azul          [aet, 4-2pen]
 
 Penalty shootout:
 
-América        Cruz Azul
-Raúl Alonso Jiménez    Javier Orozco (M)
-Christian Benítez    Alejandro Castro (M)
-Oswaldo David Martínez    Rogelio Chávez
-Miguel Layún      Gerardo Flores
+América            Cruz Azul
+Raúl Alonso Jiménez      Javier Orozco (M)
+Christian Benítez      Alejandro Castro (M)
+Oswaldo David Martínez      Rogelio Chávez
+Miguel Layún         Gerardo Flores
 
 
 Club América roster team
 
-Moisés Muñoz      GK
-Hugo González      GK
-Francisco Javier Rodríguez  DEF
-Aquivaldo Mosquera    DEF (Colombia)
-Juan Carlos Valenzuela    DEF
-Efraín Juárez      DEF
-Diego Reyes      DEF
-Adrián Aldrete      DEF
-Miguel Layún      DEF
-Paul Nicolás Aguilar    DEF
-Juan Carlos Medina    MDF
-Jesús Antonio Molina    MDF
-Christian Bermúdez    MDF
-Oswaldo David Martínez    MDF (Paraguay)
-Rubens Sambueza      MDF (Argentina)
-Antonio López      FWD
-Narciso Mina      FWD (Ecuador)
-Raúl Alonso Jiménez    FWD
-Christian Benítez    FWD (Ecuador)
+Moisés Muñoz         GK
+Hugo González         GK
+Francisco Javier Rodríguez   DEF
+Aquivaldo Mosquera      DEF (Colombia)
+Juan Carlos Valenzuela      DEF
+Efraín Juárez         DEF
+Diego Reyes         DEF
+Adrián Aldrete         DEF
+Miguel Layún         DEF
+Paul Nicolás Aguilar      DEF
+Juan Carlos Medina      MDF
+Jesús Antonio Molina      MDF
+Christian Bermúdez      MDF
+Oswaldo David Martínez      MDF (Paraguay)
+Rubens Sambueza         MDF (Argentina)
+Antonio López         FWD
+Narciso Mina         FWD (Ecuador)
+Raúl Alonso Jiménez      FWD
+Christian Benítez      FWD (Ecuador)
 
 Coach: Miguel Herrera
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa MX Apertura 2012  ‹§copa›
 
-<!-- start pre -->
 ‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and 14 teams
@@ -1266,33 +1261,33 @@ Altamira          3-2 Atlas
 
 Second Legs
 [Jul 31]
-León              4-0 Dorados     [agg 5-2; León won a extra point]
+León              4-0 Dorados      [agg 5-2; León won a extra point]
   [Juan José Calderón 17, José Juan Vázquez 73, Juan Ignacio González 83, Luis Nieves 88]
-Necaxa            3-0 Jaguares    [agg 3-1; Necaxa won a extra point]
+Necaxa            3-0 Jaguares     [agg 3-1; Necaxa won a extra point]
   [Danny Manuel Santoya 34, 38, 62]
-Mérida            0-1 Tijuana     [agg 0-1; Tijuana won a extra point]
+Mérida            0-1 Tijuana      [agg 0-1; Tijuana won a extra point]
   [Adolfo Domínguez 50]
-Correcaminos UAT  2-2 Querétaro   [agg 4-3; Correcaminos UAT won a extra point]
+Correcaminos UAT  2-2 Querétaro    [agg 4-3; Correcaminos UAT won a extra point]
   [Jorge Armando Mora 78, Eder Pacheco 81; Emmanuel Tapia 58, Alberto Jorge García 90+2]
-Estudiantes       0-3 Morelia     [agg 1-4; Morelia won a extra point]
+Estudiantes       0-3 Morelia      [agg 1-4; Morelia won a extra point]
   [Ángel Sepúlveda 4, Antonio Pedroza 72, 86]
-Atlas             1-1 Altamira    [agg 3-4; Altamira won a extra point]
+Atlas             1-1 Altamira     [agg 3-4; Altamira won a extra point]
   [Flavio Jesús Santos 73pen; Ignacio del Moral 56]
-San Luis          2-0 Pumas Morelos   [agg 4-1; San Luis won a extra point]
+San Luis          2-0 Pumas Morelos    [agg 4-1; San Luis won a extra point]
   [Santiago Tréllez 61, Sebastián Fernández 65]
-Pumas             0-0 Celaya      [agg 0-0]
-Lobos BUAP        2-2 Toluca      [agg 5-3; Lobos BUAP won a extra point]
+Pumas             0-0 Celaya       [agg 0-0]
+Lobos BUAP        2-2 Toluca       [agg 5-3; Lobos BUAP won a extra point]
   [Omar Alejandro Tejeda 54, José Cruz Gutiérrez 87; Héctor Acosta 43, Antonio Naelson 69]
 [Aug 1]
-Neza              2-1 Cruz Azul   [agg 2-4; Cruz Azul won a extra point]
+Neza              2-1 Cruz Azul    [agg 2-4; Cruz Azul won a extra point]
   [José Rodolfo Reyes 8, Diego Andrei Mejía 69; Javier Orozco 5]
-Pachuca           3-0 Leones Negros   [agg 3-1; Pachuca won a extra point]
+Pachuca           3-0 Leones Negros    [agg 3-1; Pachuca won a extra point]
   [Félix Borja 11, Luis Alberto Sánchez 48, José Francisco Torres 89]
-Puebla            0-2 Irapuato    [agg 2-5; Irapuato won a extra point]
+Puebla            0-2 Irapuato     [agg 2-5; Irapuato won a extra point]
   [Iñigo Rey 73, Carlos Balcázar 77]
 [Aug 2]
-La Piedad         0-0 Atlante     [agg 1-1; La Piedad won a extra point on away goal]
-América           3-1 Veracruz    [agg 4-2; América won a extra point]
+La Piedad         0-0 Atlante      [agg 1-1; La Piedad won a extra point on away goal]
+América           3-1 Veracruz     [agg 4-2; América won a extra point]
   [Rosinei Adolfo 39, Martín Eduardo Zúñiga 56, Miguel Layún 57; Gustavo Adrián Ruelas 30]
 
 Series 2
@@ -1334,33 +1329,33 @@ Correcaminos UAT  4-3 América
 
 Second Legs
 [Aug 21]
-Estudiantes       0-3 León       [agg 1-4; León won a extra point]
+Estudiantes       0-3 León         [agg 1-4; León won a extra point]
   [Othoniel Arce 20, 54, Edgar Iván Pacheco 75pen]
-Leones Negros     1-1 Atlante     [agg 1-2; Atlante won a extra point]
+Leones Negros     1-1 Atlante       [agg 1-2; Atlante won a extra point]
   [Néstor Díaz 71; Luis Eduardo Rodríguez 90+3]
-Jaguares          1-1 Pumas Morelos   [agg 1-3; Pumas Morelos won a extra point]
+Jaguares          1-1 Pumas Morelos    [agg 1-3; Pumas Morelos won a extra point]
   [Edgar Mariano Trujillo 44pen; Dante Garay 45]
-Querétaro         2-2 Veracruz     [agg 5-2; Querétaro won a extra point]
+Querétaro         2-2 Veracruz       [agg 5-2; Querétaro won a extra point]
   [Armando Pulido 39, Juan Carlos Enríquez 54; Pablo Gabriel Torres 74, 87]
-Morelia           6-0 Dorados      [agg 8-3; Morelia won a extra point]
+Morelia           6-0 Dorados        [agg 8-3; Morelia won a extra point]
   [Antonio Pedroza 15, 60, Carlos Ochoa 25, Jefferson Montero 70, 72, 78]
-Cruz Azul         0-0 Altamira     [agg 1-0; Cruz Azul won a extra point]
+Cruz Azul         0-0 Altamira       [agg 1-0; Cruz Azul won a extra point]
 Pachuca           1-1 La Piedad [agg 4-1; Pachuca won a extra point]
   [Miguel Ángel Herrera 76; Emmanuel Sánchez 69]
-Necaxa            1-0 San Luis    [agg 2-1; Necaxa won a extra point]
+Necaxa            1-0 San Luis      [agg 2-1; Necaxa won a extra point]
   [Daniel Márquez 46]
-Tijuana           2-1 Celaya    [agg 3-3]
+Tijuana           2-1 Celaya      [agg 3-3]
   [Raúl Enríquez 13, Richard Ruiz 23; Julio César Pardini 20]
-Lobos BUAP        0-2 Puebla    [agg 0-4; Puebla won a extra point]
+Lobos BUAP        0-2 Puebla      [agg 0-4; Puebla won a extra point]
   [Jair García 27, Brayan Martínez 30]
 [Aug 22]
-Neza              2-1 Atlas    [agg 3-2; Neza won a extra point]
+Neza              2-1 Atlas      [agg 3-2; Neza won a extra point]
   [Miguel Ángel Sansores 9, Ismael Pineda 90+2; Jahir Barraza 11]
-Mérida            3-1 Pumas    [agg 3-2; Mérida won a extra point]
+Mérida            3-1 Pumas      [agg 3-2; Mérida won a extra point]
   [Diego Rafael Jiménez 5, Marco Antonio Gómez 43, Rodrigo Noya 87; Eduardo Herrera 77]
 Toluca            4-1 Irapuato          [agg 5-1; Toluca won a extra point]
   [Edy Germán Brambila 42, Edgar Benítez 44, 78, 82pen; José Israel Valadez 53]
-América           6-0 Correcaminos UAT  [agg 9-4; América won a extra point]
+América           6-0 Correcaminos UAT   [agg 9-4; América won a extra point]
   [Daniel Montenegro 51, José María Cárdenas 54, 74, Martín Eduardo Zúñiga 59, 76, 89]
 
 Series 3
@@ -1402,33 +1397,33 @@ Puebla            1-0 Toluca
 
 Second Legs
 [Sep 18]
-Neza              2-1 Altamira    [agg 2-2; Altamira won a extra point on away goal]
+Neza              2-1 Altamira      [agg 2-2; Altamira won a extra point on away goal]
   [Rodrigo Prieto 84, Diego Andrei Mejía 90+3; Oscar Fernández 4]
-Pumas Morelos     2-2 Necaxa    [agg 2-4; Necaxa won a extra point]
+Pumas Morelos     2-2 Necaxa      [agg 2-4; Necaxa won a extra point]
   [David Izazola 77, 78; Horacio Cervantes 28, Jesús Isijara 45]
-Estudiantes       0-3 Dorados    [agg 0-5; Dorados won a extra point]
+Estudiantes       0-3 Dorados      [agg 0-5; Dorados won a extra point]
   [Juan de Díos Hernández 4, 62, Daley Mena 90]
-Leones Negros     1-2 La Piedad    [agg 1-6; La Piedad won a extra point]
+Leones Negros     1-2 La Piedad      [agg 1-6; La Piedad won a extra point]
   [Jovanni Hurtado 75; Oscar Emilio Rojas 51, Fernando González 59]
-Mérida            3-0 Celaya    [agg 5-1; Mérida won a extra point]
+Mérida            3-0 Celaya      [agg 5-1; Mérida won a extra point]
   [Marco Antonio Gómez 27, Sonny Guadarrama 39, Aarón Reyes 80]
-Toluca            2-0 Puebla    [agg 2-1; Toluca won a extra point]
+Toluca            2-0 Puebla      [agg 2-1; Toluca won a extra point]
   [Francisco Pizano 49og, Carlos Esquivel 75]
-Morelia           0-0 León    [agg 2-2; Morelia won a extra point on away goals]
-Cruz Azul         1-1 Atlas    [agg 1-2; Atlas won a extra point]
+Morelia           0-0 León      [agg 2-2; Morelia won a extra point on away goals]
+Cruz Azul         1-1 Atlas      [agg 1-2; Atlas won a extra point]
   [Javier Orozco 12; Sergio Santana 28pen]
-Correcaminos UAT  3-0 Veracruz    [agg 4-1; Correcaminos UAT won a extra point]
+Correcaminos UAT  3-0 Veracruz      [agg 4-1; Correcaminos UAT won a extra point]
   [Andrés Nicolás Olivera 20, Roberto Nurse 52, 67]
-Irapuato          2-1 Lobos BUAP  [agg 2-5; Lobos BUAP won a extra point]
+Irapuato          2-1 Lobos BUAP   [agg 2-5; Lobos BUAP won a extra point]
   [Josué Perea 53, Abraham Ávalos 88; Ismael Iñiguez 43]
 [Sep 19]
-Jaguares          1-1 San Luis    [agg 3-2; San Luis won a extra point]
+Jaguares          1-1 San Luis      [agg 3-2; San Luis won a extra point]
   [Yasser Corona 54; César Villaluz 90+3]
-Querétaro         1-0 América    [agg 2-4; América won a extra point]
+Querétaro         1-0 América      [agg 2-4; América won a extra point]
   [Diego Guastavino 67]
-Pachuca           1-0 Atlante    [agg 2-0; Pachuca won a extra point]
+Pachuca           1-0 Atlante      [agg 2-0; Pachuca won a extra point]
   [Alberto Medina 5]
-Tijuana           2-1 Pumas    [agg 4-3; Tijuana won a extra point]
+Tijuana           2-1 Pumas      [agg 4-3; Tijuana won a extra point]
   [Pablo César Aguilar 18, Raúl Enríquez 68; Alfonso Nieto 33]
 
 
@@ -1502,11 +1497,11 @@ One single leg played
 [Sep 25]
 Dorados           3-2 San Luis
   [Daley Mena 2, Juan de Díos Hernández 4, 15; Diego Ordaz 50, Guillermo Rojas 56]
-Neza              1-1 Pachuca  [4-3pen]
+Neza              1-1 Pachuca   [4-3pen]
   [José Antonio Rosas 65; Raúl Meráz 63]
-Necaxa            1-1 Toluca  [5-3pen]
+Necaxa            1-1 Toluca   [5-3pen]
   [Danny Manuel Santoya 80; Edgar Benítez 15]
-Correcaminos UAT  5-5 Tijuana  [7-6pen]
+Correcaminos UAT  5-5 Tijuana   [7-6pen]
   [Lampros Kontogiannis 41, Andrés Nicolás Olivera 66, 69, Sergio Rosas 82, Roberto Nurse 90+1;
    Raúl Nava 2, 42, Fidel Martínez 29, Raúl Enríquez 52, José Alfredo González Tahuilán 90+5]
 
@@ -1515,68 +1510,68 @@ One single leg played
 [Oct 24]
 Necaxa            1-2 Dorados
   [Víctor Hugo Lojero 79; Gustavo Adrián Ramírez 75, Juan de Díos Hernández 83]
-Correcaminos UAT  1-1 Neza  [4-3pen]
+Correcaminos UAT  1-1 Neza   [4-3pen]
   [Rolando Sena 60; Julio César Atilano 35]
 
 Final
 One single leg played [Oct 31]
 Estadio Marte R. Gómez
-Correcaminos UAT  2-2 Dorados  [4-5pen]
+Correcaminos UAT  2-2 Dorados   [4-5pen]
   [Rodolfo Espinoza 43, Roberto Nurse 81; Lorenzo Ramírez 4, Alfredo Frausto 90]
 
 Dorados de Sinaloa Cup champions
 
 
 Topscorers:
-Player      Team    Goals
-Juan de Díos Hernández  Dorados    7
-Edgar Benítez    Toluca    6
-Roberto Nurse    Correcaminos  6
-Martín Zúñiga    América    5
-Aparecido de Lima  Lobos BUAP  5
-Jahir Barraza    Atlas    4
-Javier Orozco    Atlas    4
-Antonio Pedroza    Morelia    4
-Jefferson Montero  Morelia    4
-Danny Santoya    Necaxa    4
-Emmanuel Tapia    Querétaro  4
-Daley Mena    Dorados    4
-Andrés Nicolás Olivera  Correcaminos  4
+Player         Team      Goals
+Juan de Díos Hernández   Dorados      7
+Edgar Benítez      Toluca      6
+Roberto Nurse      Correcaminos   6
+Martín Zúñiga      América      5
+Aparecido de Lima   Lobos BUAP   5
+Jahir Barraza      Atlas      4
+Javier Orozco      Atlas      4
+Antonio Pedroza      Morelia      4
+Jefferson Montero   Morelia      4
+Danny Santoya      Necaxa      4
+Emmanuel Tapia      Querétaro   4
+Daley Mena      Dorados      4
+Andrés Nicolás Olivera   Correcaminos   4
 
 
 Dorados de Sinaloa roster team
 
-Alfredo Frausto    GK
-Tomás Adriano    GK
-Fernando López    DEF
-Elio Castro    DEF
-Gerardo Omar Castillo  DEF
-Sergio Roberto Quiróz  DEF
-Oscar Ibarra    DEF
-José Luis Contreras  DEF
-Enrique Escudero  MDF
-Carlos Pinto    MDF
-Paulo César Chávez  MDF
-Juan de Díos Hernández  MDF
-Daley Mena    MDF
-Héctor Velázquez  MDF
-Javier Güemez    MDF
-Lorenzo Ramírez    MDF
-Cuauhtemoc Blanco  FWD
-Gustavo Ramírez    FWD
-Juan Pablo Mejía  FWD
-Mario Padilla    FWD
+Alfredo Frausto      GK
+Tomás Adriano      GK
+Fernando López      DEF
+Elio Castro      DEF
+Gerardo Omar Castillo   DEF
+Sergio Roberto Quiróz   DEF
+Oscar Ibarra      DEF
+José Luis Contreras   DEF
+Enrique Escudero   MDF
+Carlos Pinto      MDF
+Paulo César Chávez   MDF
+Juan de Díos Hernández   MDF
+Daley Mena      MDF
+Héctor Velázquez   MDF
+Javier Güemez      MDF
+Lorenzo Ramírez      MDF
+Cuauhtemoc Blanco   FWD
+Gustavo Ramírez      FWD
+Juan Pablo Mejía   FWD
+Mario Padilla      FWD
 
 Coach: Francisco Ramírez
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa MX Clausura 2013  ‹§copac›
 
-<!-- start pre -->
 ‹Group Stage, see §copacgrp› | ‹Playoff Stage, see §copacplay›
 
 
@@ -1923,67 +1918,67 @@ Cruz Azul Cup Champions
 
 
 Topscorers:
-Player      Team    Goals
-Narciso Mina    América    8
-Gustavo M. Alustiza  Puebla    7
-Jerónimo Amione    Atlante    4
-Alberto Jorge García  Atlante    4
-Ezequiel Orozco    Necaxa    4
-Antonio López    América    3
-Jahir Barraza    Atlas    3
-Teófilo Gutiérrez  Cruz Azul  3
-Pablo Hutt    Cruz Azul Hgo.  3
-Luis Gerardo Arroyo  Neza FC    3
-Daniel Ludueña    Pachuca    3
-Fernando Cavenaghi  Pachuca    3
-Juan Ezequiel Cuevas  San Luis  3
-Luis Javier García  Pumas    3
+Player         Team      Goals
+Narciso Mina      América      8
+Gustavo M. Alustiza   Puebla      7
+Jerónimo Amione      Atlante      4
+Alberto Jorge García   Atlante      4
+Ezequiel Orozco      Necaxa      4
+Antonio López      América      3
+Jahir Barraza      Atlas      3
+Teófilo Gutiérrez   Cruz Azul   3
+Pablo Hutt      Cruz Azul Hgo.   3
+Luis Gerardo Arroyo   Neza FC      3
+Daniel Ludueña      Pachuca      3
+Fernando Cavenaghi   Pachuca      3
+Juan Ezequiel Cuevas   San Luis   3
+Luis Javier García   Pumas      3
 
 
 Cruz Azul roster team
 
-José de Jesús Corona  GK
-Yosgart Gutiérrez  GK
-Luis Amaranto Perea  DEF [Colombia]
-Néstor Araujo    DEF
-Gerardo Flores    DEF
-Alejandro Castro  DEF
-Julio César Domínguez  DEF
-Jair Pereira    DEF
-Rogelio Chávez    DEF
-Alan Vidal    DEF
-Gerardo Torrado    MDF
-Israel Castro    MDF
-Javier Aquino    MDF
-Héctor Gutiérrez  MDF
-Diego Franco    MDF
-Raúl Vidal    MDF
-Christian Giménez  MDF [Argentina]
-Alam Bello    MDF
-Nicolás Bertolo    MDF [Argentina]
-Manuel Alejandro Vela  FWD
-Javier Orozco    FWD
-Pablo Barrera    FWD
-Jesús Lara    FWD
-Francisco Flores  FWD
-Carlos Naranjo    FWD
-Jesús Lara    FWD
-Moisés Hipolito    FWD
-Diego Martínez    FWD
-Mariano Pavone    FWD [Argentina]
-Teófilo Gutiérrez  FWD [Colombia]
+José de Jesús Corona   GK
+Yosgart Gutiérrez   GK
+Luis Amaranto Perea   DEF [Colombia]
+Néstor Araujo      DEF
+Gerardo Flores      DEF
+Alejandro Castro   DEF
+Julio César Domínguez   DEF
+Jair Pereira      DEF
+Rogelio Chávez      DEF
+Alan Vidal      DEF
+Gerardo Torrado      MDF
+Israel Castro      MDF
+Javier Aquino      MDF
+Héctor Gutiérrez   MDF
+Diego Franco      MDF
+Raúl Vidal      MDF
+Christian Giménez   MDF [Argentina]
+Alam Bello      MDF
+Nicolás Bertolo      MDF [Argentina]
+Manuel Alejandro Vela   FWD
+Javier Orozco      FWD
+Pablo Barrera      FWD
+Jesús Lara      FWD
+Francisco Flores   FWD
+Carlos Naranjo      FWD
+Jesús Lara      FWD
+Moisés Hipolito      FWD
+Diego Martínez      FWD
+Mariano Pavone      FWD [Argentina]
+Teófilo Gutiérrez   FWD [Colombia]
 
 Coach: Guillermo Vázquez Herrera
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Ascenso MX  ‹§ascenso›
 
-<!-- start pre -->
 NB: for this season the  Liga de Ascenso changed name to Ascenso MX
 
 ‹Apertura 2012, see §2aper› | ‹Clausura 2013, see §2clau› | ‹Promotion Playoff, see §2prom›
@@ -2588,23 +2583,23 @@ Table:
 
 Relegation Table
 
-Team      Average
-Necaxa      1.7679
-Estudiantes    1.5000
-Neza      1.4659
-Lobos BUAP    1.4545
-Correcaminos UAT  1.4318
-Irapuato     1.3182
-Dorados      1.3068
-Veracruz    1.3036
-La Piedad    1.2955
-Celaya      1.2500
-Altamira    1.2273
-Leones Negros    1.2045
-Mérida      1.1818
-Cruz Azul Hidalgo  1.1023
+Team         Average
+Necaxa         1.7679
+Estudiantes      1.5000
+Neza         1.4659
+Lobos BUAP      1.4545
+Correcaminos UAT   1.4318
+Irapuato       1.3182
+Dorados         1.3068
+Veracruz      1.3036
+La Piedad      1.2955
+Celaya         1.2500
+Altamira      1.2273
+Leones Negros      1.2045
+Mérida         1.1818
+Cruz Azul Hidalgo   1.1023
 ------------------------------
-Pumas Morelos    1.0909 (relegated]
+Pumas Morelos      1.0909 (relegated]
 
 
 
@@ -2667,27 +2662,10 @@ Neza              0-1 La Piedad  [aet; 3-5pen]
 
 La Piedad promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2011/12, see page mex2012›.
 
-‹2013/14, see page mex2014›.
 
-‹list of champions, see page mexchamp›.
-
-‹list of final tables, see page mexhist›.
-
-‹list of divisional movements, see page mexall›.
-
-‹list of cup winners, see page mexcuphist›.
-
-‹list of super cup winners, see page mexsupcup›.
-
-‹list of topscorers, see page mextops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

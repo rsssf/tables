@@ -1,4 +1,5 @@
   <!--
+     title:  Bougainville 2025
      source: https://rsssf.org/tablesp/png-bgv2025.html
     -->
   
@@ -6,11 +7,12 @@
 
 == Bougainville 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Arawa FA B-League 2025  ‹§arawa›
 
-<!-- start pre -->
 Regular Stage  ‹§reg›
 
 Round 1
@@ -132,17 +134,10 @@ Poraka               2-1 Extract              [aet]
 Final [Sep 21]
 Bougainville United  0-1 Poraka
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page png-bgv2024›
 
-‹list of champions, see page pngchamp.html#bgv›
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

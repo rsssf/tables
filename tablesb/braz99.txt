@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 1999 Championship
      source: https://rsssf.org/tablesb/braz99.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 1999 Championship
 
-<!-- start pre -->
 Table:
 
  1.Corinthians     21 14  2  5 49-31 44  Qualified
@@ -594,9 +594,10 @@ Atlético/PR qualified.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

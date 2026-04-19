@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2016
      source: https://rsssf.org/tablesu/usa2016.html
     -->
   
@@ -6,16 +7,12 @@
 
 == USA 2016
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Major League Soccer, see §mls› (Division 1)
-‹US Open Cup, see §open›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Major League Soccer  ‹§mls›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
 Regular Season  ‹§reg›
@@ -603,13 +600,13 @@ Toronto FC             5-2 Montreal Impact        [aet]
 MLS Cup [Dec 10, BMO Field, Toronto]
 Toronto FC             0-0 Seattle Sounders       [aet, 4-5 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== US Open Cup  ‹§open›
 
-<!-- start pre -->
 Third Round [Jun 1]
 Fort Lauderdale Strikers (NASL) 1-1 Richmond Kickers (USL)          [aet, 2-0 pen]
 Jacksonville Armada FC (NASL)   2-1 Charleston Battery (USL)        [aet]
@@ -674,27 +671,10 @@ LA Galaxy                       1-2 FC Dallas                       [aet]
 Final [Sep 13, Frisco, Texas]
 FC Dallas                       4-2 New England Revolution
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2015, see page usa2015›
 
-‹2017, see page usa2017›
 
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

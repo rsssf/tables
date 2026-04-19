@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1966 Qualifying
      source: https://rsssf.org/tables/66q.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1966 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: England
 Qualified as holders: Brazil
 
@@ -239,7 +239,6 @@ winners Asia and 3 second round winners Africa
 21.11.65  Phnom Penh      North Korea      6-1 Australia
 24.11.65  Phnom Penh      Australia        1-3 North Korea
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 66qual›
 
@@ -249,7 +248,9 @@ winners Asia and 3 second round winners Africa
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

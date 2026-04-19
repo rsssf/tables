@@ -1,4 +1,5 @@
   <!--
+     title:  Brunei 2025/26
      source: https://rsssf.org/tablesb/brunei2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Brunei 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga Super Brunei 2025/26, see §bsl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga Super Brunei 2025/26  ‹§bsl›
 
-<!-- start pre -->
 Table:
 
  1.Kasuka FC                   9   9  0  0  78- 3  27  [C]
@@ -181,17 +179,10 @@ Table:
 
 NB: Akse Bersatu, DPMM II and Panchor Murai do not enter
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page brunei2025›
 
-‹list of champions, see page bruneichamp›
 
-‹list of cup winners, see page bruneicuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

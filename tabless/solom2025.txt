@@ -1,4 +1,5 @@
   <!--
+     title:  Solomon Islands 2025
      source: https://rsssf.org/tabless/solom2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Solomon Islands 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹S-League 2025, see §sleague›
-‹Solomon Cup Tournament 2025, see §solomcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== S-League  ‹§sleague›
 
-<!-- start pre -->
 NB: all matches in Honiara;
     Henderson Eels, Real Kakamora and Solomon Warriors do not enter this season
 
@@ -290,13 +287,13 @@ Final Table:
 11.FC Juniper Tree                   22   4  2 16  25-91  14
 12.Southern United                   22   1  4 17  15-59   7
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Solomon Cup Tournament 2022  ‹§solomcup›
 
-<!-- start pre -->
 NB: all matches in Honiara
 
 Group Stage
@@ -362,17 +359,10 @@ Final [Jul 25]
 Malaita Eagles        0-3 Makira Ulawa
   [Andrew Hanua 41, Jeffery Bule 45+1, Andrew Hanua 77]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page solom2024›.
 
-‹list of champions, see page solomchamp›.
 
-‹list of cup winners, see page solomcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2006 Qualifying
      source: https://rsssf.org/tables/2006q.html
     -->
   
@@ -18,7 +19,9 @@
 
 ‹Match Details, see page 2006q-det›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Europe  ‹§eur›
 
@@ -700,9 +703,10 @@ Second Legs
   [Tuncay Sanli 22, 36, 89, Necati Ates 52pen; Alexander Frei 2pen, Marco Streller 84]
 16-11-05 Praha           Czech Rep.  1-0 Norway
   [Tomas Rosicky 35]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== South America  ‹§sam›
 
@@ -962,9 +966,10 @@ CSF/OFC Playoff
   [Dario Rodriguez 37]
 16-11-05 Sydney          Australia   1-0 Uruguay        [aet, 4-2 pen]
   [Marco Bresciano 35]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Africa  ‹§afr›
 
@@ -1440,9 +1445,10 @@ Group winners qualify for World Cup 2006.
 
 NB: the qualifying tournament doubles as qualifying tournament for the
     ‹African Nations Cup 2006, see page 06a›
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Asia  ‹§asi›
 
@@ -1842,9 +1848,10 @@ CONCACAF/AFC Playoff
   [Dennis Lawrence 49]
 
 ‹Match Details, see page 2006q-det.html#asi›
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== North and Central America  ‹§nca›
 
@@ -2159,9 +2166,10 @@ CONCACAF/AFC Playoff
 
 ‹Match Details, see page 2006q-det.html#nca›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Oceania  ‹§oce›
 
@@ -2299,7 +2307,6 @@ CSF/OFC Playoff
 
 
 
-<!-- end pre -->
 
 ‹2006 Final Tournament, see page 2006f›
 
@@ -2309,7 +2316,9 @@ CSF/OFC Playoff
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

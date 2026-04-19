@@ -1,4 +1,5 @@
   <!--
+     title:  Mayotte 2025
      source: https://rsssf.org/tablesm/mayo2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Mayotte 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Régional 1, see §honneur›
-‹Cup Tournaments, see §cup›
-‹Régional 2, see §reg2›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Régional 1 2025  ‹§honneur›
 
-<!-- start pre -->
 Final Table:
 
  1.Bandrélé FC                      22  12  8  2  47-22  44            Champions
@@ -33,13 +29,13 @@ Final Table:
 11.AJ Kani Kéli                     22   2  1 19   8-61   6  [-1]      Relegated
 12.ASC Kawéni                       22   3  4 15  23-52  -3 [-16] [C]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments 2025  ‹§cup›
 
-<!-- start pre -->
 ‹Coupe de France 2025, see §mfrance›
 
 Coupe de France 2025  ‹§mfrance›
@@ -69,13 +65,13 @@ AJM Jumeaux M'zoisia   0-1 L'Espérance d'Iloni
 Final [Oct 11]
 L'Espérance d'Iloni    0-1 Bandrélé FC
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Régional 2 2025  ‹§reg2›
 
-<!-- start pre -->
 Final(?) Table:
 
  1.Etincelles (Hamjago)             22  13  5  4  41-19  44       [P]  Promoted
@@ -94,17 +90,10 @@ Final(?) Table:
 12.FC de Dembeni                    22   2  8 12  25-42  11  [-3]      Relegated
 
 Promoted: USCJ Koungou, AJ Mtsahara, Feu du Centre, FC de Chiconi
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page mayo2024›
 
-‹list of champions, see page mayochamp›
 
-‹list of cup winners, see page mayocuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

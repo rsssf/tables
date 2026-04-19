@@ -1,4 +1,5 @@
   <!--
+     title:  French Guyana 2024/25
      source: https://rsssf.org/tablesf/frguy2025.html
     -->
   
@@ -6,20 +7,12 @@
 
 == French Guyana 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Régional 1, see §honneur›
-‹Cup Tournaments, see §cups›
-‹Régional 2, see §prom›
-‹Régional 3, see §reg3›
 
-Note that the point system in French Guyana is 4/win, 2/draw, 1/loss.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ==== Régional 1  ‹§honneur›
 
-<!-- start pre -->
 Final Table:
 
  1.US Sinnamary         16  14  1  1  55-11  59        [P]  Champions
@@ -50,13 +43,13 @@ Second Leg [Jun 29]
 SC Kouroucien          0-2 Cosma Foot
 
 NB: Cosma Foot promoted, SC Kouroucien relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments 2024/25  ‹§cups›
 
-<!-- start pre -->
 ‹Coupe de Guyane 2024/25, see §guyane› | ‹Coupe de France 2024, see §gfrance›
 
 Coupe de Guyane 2024/25  ‹§guyane›
@@ -151,13 +144,13 @@ AS Etoile Matoury      3-0 FC Charvein
 
 Final [Nov 23]
 AS Etoile Matoury      awd Aigle d'Or Mana        [awarded 3-0]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Régional 2  ‹§prom›
 
-<!-- start pre -->
 ‹Poule Centre/Est, see §est› | ‹Poule Ouest, see §ouest› | ‹Final, see §2final›
 
 Poule Centre/Est  ‹§est›
@@ -207,13 +200,13 @@ Dynamo de Soula        1-2 Cosma Foot
 
 NB: Cosma Foot qualified for ‹promotion/relegation playoff, see §prorel›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Régional 3  ‹§reg3›
 
-<!-- start pre -->
 ‹Poule A, see §3a› | ‹Poule B, see §3b›
 
 Poule A  ‹§3a›
@@ -238,19 +231,10 @@ Final Table:
  4.AS Saint-Laurent      9   2  2  5  16-18  17
  5.RC du Maroni 2        9   2  2  5  19-32  17
  6.ASC Ouest 2           9   1  1  7  12-40  11  [-2]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page frguy2024›.
 
-‹list of champions French Guyana, see page frguychamp›.
 
-‹list of cup winners French Guyana, see page frguycuphist›.
-
-‹list of d.o.m. cup winners, see page franseaterrcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

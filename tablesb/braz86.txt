@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 1986
      source: https://rsssf.org/tablesb/braz86.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 1986
 
-<!-- start pre -->
 COPA BRASIL
 
 First Phase
@@ -1980,9 +1980,10 @@ Final Table
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

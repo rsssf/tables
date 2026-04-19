@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1995/96
      source: https://rsssf.org/tablesd/duit96.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1995/96
 
-<!-- start pre -->
 
 Final Table
 
@@ -759,9 +759,10 @@ Borussia Dortmund 1995/96
 
 ‹list of foundation dates, see page duitfound›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

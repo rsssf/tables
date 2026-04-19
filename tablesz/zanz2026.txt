@@ -1,4 +1,5 @@
   <!--
+     title:  Zanzibar 2025/26
      source: https://rsssf.org/tablesz/zanz2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Zanzibar 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹PBZ Premier League 2025/26, see §zpl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== PBZ Premier League 2025/26  ‹§zpl›
 
-<!-- start pre -->
 Table:
 
  1.KVZ FC                21  12  4  5  37-22  40       [Unguja]
@@ -390,17 +388,10 @@ Table:
 15.Junguni United FC     21   2  4 15  16-50  10       [Pemba]
 16.New Stone Town        21   1  0 20  13-60   3  [P]  [Pemba]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page zanz2025›
 
-‹list of champions, see page zanzchamp›
 
-‹list of cup winners, see page zanzcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

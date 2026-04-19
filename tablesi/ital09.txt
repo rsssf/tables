@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2008/09
      source: https://rsssf.org/tablesi/ital09.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Italy 2008/09
 
-<!-- start pre -->
 First Level (Serie A)
 
 Final Table:
@@ -1074,9 +1074,10 @@ Final Table:
 
 ‹list of 3rd division topscorers, see page ital3tops›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

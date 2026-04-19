@@ -1,4 +1,5 @@
   <!--
+     title:  Ireland 2025
      source: https://rsssf.org/tablesi/ier2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Ireland 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹SSE Airtricity League, see §premier›
-‹FAI Cup, see §faicup›
-‹First Division, see §first›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== SSE Airtricity League  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Shamrock Rovers           36  19  9  8  56-33  66
@@ -38,13 +34,13 @@ Promotion/Relegation Playoff  ‹§prorel›
 Bray            1-2 Waterford
 
 NB: both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== FAI Cup  ‹§faicup›
 
-<!-- start pre -->
 Preliminary Round
 [May 11]
 North End United            1-4 Castlebar Celtic
@@ -114,13 +110,13 @@ Shamrock                    6-1 Kerry
 
 Final [Nov 9]
 Shamrock                    2-0 Cork
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== First Division  ‹§first›
 
-<!-- start pre -->
 Final Table:
 
  1.Dundalk                   36  23 10  3  74-31  79  [R]  Promoted
@@ -154,35 +150,10 @@ Final [Nov 2]
 Bray            1-0 Treaty United
 
 NB: Bray Wanderers ‹play off, see §prorel› against 9th team top flight (Waterford)
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page ier2024›.
 
-‹list of champions, see page ierchamp›.
 
-‹list of final tables, see page ierhist›.
-
-‹all-time table, see page ieralltime›.
-
-‹list of champions (2nd level), see page ier2champ›.
-
-‹list of final tables (2nd level), see page ier2hist›.
-
-‹list of cup winners, see page iercuphist›.
-
-‹list of league cup winners, see page ierleagcuphist›.
-
-‹list of dublin city cup winners, see page ierdublincityhist›.
-
-‹list of top four cup winners, see page iertop4hist›.
-
-‹list of league of ireland shield winners, see page iershieldhist›.
-
-‹list of topscorers, see page iertops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

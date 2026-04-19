@@ -1,4 +1,5 @@
   <!--
+     title:  Israel 2024/25
      source: https://rsssf.org/tablesi/isra2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Israel 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ligat Ha'Al, see §haal›
-‹Toto Cup, see §toto›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ligat Ha'Al  ‹§haal›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -559,13 +556,13 @@ Final Table:
 
 NB: match Bnei-Sakhnin in round 2 declared void
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Toto Cup  ‹§toto›
 
-<!-- start pre -->
 Group Stage
 
 Group A
@@ -591,7 +588,7 @@ Maccabi Haifa               3-0 Hapoel Beer Sheva
 NB: winners to Toto Cup semifinals, losers to 7th place match
 
 13th Place Match [Aug 18]
-Hapoel Haifa                2-4  MS Ashdod
+Hapoel Haifa                2-4   MS Ashdod
 
 11th Place Match [Aug 17]
 Maccabi Bnei Reineh         0-0 Hapoel Jerusalem            [4-5 pen]
@@ -614,23 +611,10 @@ Maccabi Tel Aviv            2-1 Bnei Sakhnin
 Final [Dec 25]
 Maccabi Tel Aviv            3-1 Maccabi Haifa
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page isra2024›.
 
-‹list of champions, see page israchamp›.
 
-‹list of final tables, see page israhist›.
-
-‹list of cup finals, see page isracuphist›.
-
-‹partial all-time table, see page israalltime›.
-
-‹list of topscorers, see page isratops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Swaziland (Eswatini) 2025/26
      source: https://rsssf.org/tabless/swaz2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Swaziland (Eswatini) 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹MTN Premier League, see §premier›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== MTN Premier League  ‹§premier›
 
-<!-- start pre -->
 Table:
 
  1.Nsingizini Hotspurs              21  15  2  4  28- 8  47  [C]
@@ -336,17 +334,10 @@ Table:
 [*1] Illovo were renamed Ubombo Sugar
 [*2] Manzini Wanderers were readmitted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page swaz2025›.
 
-‹list of champions, see page swazchamp›.
 
-‹list of cup winners, see page swazcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

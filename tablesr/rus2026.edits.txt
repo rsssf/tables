@@ -1,0 +1,25 @@
+-- removing nav(igation) section:
+
+‹Premier League, see §1l› | ‹Premier League Details, see §1ldet›
+‹Russian Cup, see §kubok› | ‹Russian Cup Details, see §cupdet›
+‹First League, see §2l› |
+‹Second League - Division A, see §3la›
+
+
+-- removing nav(igation) section:
+
+‹2024/25, see page rus2025›.
+
+‹2025 (4th to 6th level), see page rus2025b›.
+
+‹2026 (4th to 6th level), see page rus2026b›.
+
+‹list of champions, see page ruschamp›.
+
+‹list of final tables, see page rushist›.
+
+‹list of cup winners, see page ruscuphist›.
+
+
+
+

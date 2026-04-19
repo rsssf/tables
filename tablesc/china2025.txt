@@ -1,4 +1,5 @@
   <!--
+     title:  China 2025
      source: https://rsssf.org/tablesc/china2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == China 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹China Super League, see §csl›
-‹FA Cup, see §cup›
-‹China League One, see §cl1›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== China Super League  ‹§csl›
 
-<!-- start pre -->
 Final Table:
 
  1.Shanghai Port                       30  20  6  4  72-44  66  [C]  Champions
@@ -37,13 +33,13 @@ Final Table:
 15.Meizhou Hakka                       30   5  6 19  36-71  21       Relegated
 16.Changchun Yatai                     30   4  7 19  26-52  19       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== FA Cup  ‹§cup›
 
-<!-- start pre -->
 1/8 Finals
 [Jun 20]
 Shandong Taishan          1-3 Chengdu Rongcheng
@@ -74,13 +70,13 @@ Beijing Guoan             7-0 Yunnan Yukun
 Final [Dec 6, Suzhou]
 Beijing Guoan             3-0 Henan FC
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== China League One  ‹§cl1›
 
-<!-- start pre -->
 Final Table:
 
  1.Liaoning Tieren                     30  20  8  2  64-27  68       Promoted
@@ -105,21 +101,10 @@ Final Table:
 [*1] Heilongjiang Ice City (Harbin) relocated to Dingnan and were renamed Jiangxi Dingnan United
 [*2] Guangxi Pingguo Haliao were renamed Guangxi Pingguo
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page china2024›
 
-‹list of champions, see page chinachamp›
 
-‹list of final tables 1951-89, see page chinahist›
-
-‹list of cup winners, see page chinacuphist›
-
-‹list of super cup winners, see page chinasupercuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

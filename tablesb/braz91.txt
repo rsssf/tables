@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 1991
      source: https://rsssf.org/tablesb/braz91.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 1991
 
-<!-- start pre -->
 
 First Level - Série A
 
@@ -544,8 +544,7 @@ Alberto e João Santos (Franklin); Sílvio e Mazinho.
 Técnico: Carlos Alberto Parreira.
 SÃO PAULO: Zetti, Zé Teodoro, Antônio Carlos, Ricardo Rocha e Leonardo; Ronaldo, Bernardo,
 Cafu e Raí; Macedo e Müller (Flávio).
-Técnico: Telê Santana. <!-- end pre -->
-
+Técnico: Telê Santana. 
 <!-- start pre -->São Paulo FC Were The 1991 Brazilian Champions
 
 Final Table
@@ -1491,9 +1490,10 @@ Criciúma EC were the 1991 Copa do Brasil winners.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document
 

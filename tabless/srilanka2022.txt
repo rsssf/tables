@@ -1,4 +1,5 @@
   <!--
+     title:  Sri Lanka 2021/22
      source: https://rsssf.org/tabless/srilanka2022.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Sri Lanka 2021/22
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Super League 2021/22, see §super›
-‹Champions League 2022, see §champ›
-‹Independence Trophy 2022, see §indep›
-‹Silver Cup 2022, see §silver›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Super League 2021/22  ‹§super›
 
-<!-- start pre -->
 NB: start was announced for Apr 2020 but postponed to Nov 2020
     due to Covid-19 pandemic; it eventually started Apr 2021;
     inaugural edition, with 10 selected clubs;
@@ -147,13 +142,13 @@ Topscorers:
    Mohamed Rahman (Red Star FC)
  6 Waseem Razeek (Upcountry Lions)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Champions League 2022  ‹§champ›
 
-<!-- start pre -->
 NB: served as second level competition
 
 Final Table:
@@ -173,13 +168,13 @@ Final Table:
 13.New Star SC (Colombo)          13   2  5  6  15-22  11
 14.Solid SC (Anuradhapura)        13   0  4  9  13-46   4
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Independence Trophy 2022 (Ceylon Provincial League 2022)  ‹§indep›
 
-<!-- start pre -->
 NB: inaugural edition
 
 8 participating teams:
@@ -275,31 +270,22 @@ Eastern                   0-0 Northern
 Final [Mar 5]
 Northern                  3-1 Southern
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Silver Cup 2022  ‹§silver›
 
-<!-- start pre -->
 [Feb ?]
 Henamulla United SC       bt  Old Anandian SC
 
 Final [Aug 20]
 Old Wesleyites SC          -  Super Star SC
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2020/21, see page srilanka2021›
 
-‹2023, see page srilanka2023›
 
-‹list of champions, see page srilankachamp›
-
-‹list of cup winners, see page srilankacuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

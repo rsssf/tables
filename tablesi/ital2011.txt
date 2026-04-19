@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2010/11
      source: https://rsssf.org/tablesi/ital2011.html
     -->
   
@@ -6,20 +7,12 @@
 
 == Italy 2010/11
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Serie B, see §serieb›
-‹Prima Divisione, see §prima›
-‹Seconda Divisione, see §seconda›
-‹Serie D, see §seried›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.Milan AC            38  24 10  4  65-24  82  Champions
@@ -1046,13 +1039,13 @@ Final Table:
 19.Brescia Calcio      38   7 11 20  34-52  32  Relegated
 20.AS Bari             38   5  9 24  27-56  24  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
-<!-- start pre -->
 First Round
 [Aug 8]
 Benevento           5-1 Este
@@ -1261,13 +1254,13 @@ Palermo: Sirigu, Cassani, Goian (24 Carrozzieri), Munoz,
  Balzaretti, Acquah (55 Miccoli), Migliaccio, Nocerino,
  Pastore, Ilicic, Hernandez (78 Pinilla). Tr.: Rossi
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
 
 Regular Season  ‹§2reg›
@@ -1894,13 +1887,13 @@ AlbinoLeffe 2-2 Piacenza
 
 NB: Piacenza relegated on worse regular season record
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Prima Divisione  ‹§prima›
 
-<!-- start pre -->
 ‹Gruppo A, see §3a› | ‹Gruppo B, see §3b›
 
 Gruppo A  ‹§3a›
@@ -2769,13 +2762,13 @@ Round 14
 16' Marco Carparelli (1-0); 61' Carlo Mammarella (1-1)
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Seconda Divisione  ‹§seconda›
 
-<!-- start pre -->
 ‹Gruppo A, see §4a› | ‹Gruppo B, see §4b› | ‹Gruppo C, see §4c›
 
 Gruppo A  ‹§4a›
@@ -3758,13 +3751,13 @@ Round 11
 [14/11/2010] Vigor Lametia                                 4-1 Melfi
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie D  ‹§seried›
 
-<!-- start pre -->
 ‹Gruppo A, see §5a› | ‹Gruppo B, see §5b› | ‹Gruppo C, see §5c› | ‹Gruppo D, see §5d› | ‹Gruppo E, see §5e› |
 ‹Gruppo F, see §5f› | ‹Gruppo G, see §5g› | ‹Gruppo H, see §5h› | ‹Gruppo I, see §5i› |
 
@@ -5269,35 +5262,10 @@ Nissa Football Club A.S.D               0-0 Noto
 Real Nocera Superiore                   3-1 Atletico Nola
 Rossanese A.S.D.                        0-1 A.C.R. Messina S.R.L.
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2009/10, see page ital2010›.
-
-‹2011/12, see page ital2012›.
 
 
 
-‹list of champions, see page italchamp›.
 
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

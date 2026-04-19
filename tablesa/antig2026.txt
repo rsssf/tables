@@ -1,4 +1,5 @@
   <!--
+     title:  Antigua and Barbuda 2025/26
      source: https://rsssf.org/tablesa/antig2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Antigua and Barbuda 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier Division, see §premier›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier Division  ‹§premier›
 
-<!-- start pre -->
 Table:
 
  1.All Saints United        17  14  2  1  55-14  44  [C]
@@ -253,19 +251,10 @@ Table:
 11.Ottos Rangers            17   2  1 14  18-53   7  [P]
 12.Jennings United          17   2  0 15   9-56   6  [P]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page antig2025›
 
-‹list of champions, see page antigchamp›
 
-‹list of cup winners, see page antigcuphist›
-
-‹ctv warriors cup overview, see page antigctvcup›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

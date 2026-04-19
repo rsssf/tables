@@ -1,4 +1,5 @@
   <!--
+     title:  Albania 2024/25
      source: https://rsssf.org/tablesa/alba2025.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Albania 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Kategoria Superiore, see §super›
-‹Kupa e Shqipërisë, see §kupa›
-‹Liga e parë, see §pare›
-‹Liga e dytë, see §dyte›
-‹Liga e tretë, see §trete›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Kategoria Superiore  ‹§super›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Top-4 Playoff, see §top4›
 
 Regular Stage  ‹§reg›
@@ -415,13 +409,13 @@ Final [May 4, Elbasan]
 Tirana        1-0 Pogradeci
 
 NB: both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Kupa e Shqipërisë  ‹§kupa›
 
-<!-- start pre -->
 Prelimninary Round [Sep 25]
 Naftëtari     4-2 Basania
 Murlani       3-5 Albanët
@@ -498,13 +492,13 @@ Partizani     0-2 Egnatia       [aet]
 
 Final [May 1, Elbasan]
 Egnatia       2-2 Dinamo        [aet, 4-5 pen]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga e parë  ‹§pare›
 
-<!-- start pre -->
 Final Table:
 
  1.AF Vora                  33  24  4  5  55-24  76       Promoted
@@ -545,13 +539,13 @@ Kukësi        1-0 Oriku
 Kastrioti     1-0 Luzi 2008
 
 NB: all clubs remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga e dytë  ‹§dyte›
 
-<!-- start pre -->
 ‹Group A, see §g2a› | ‹Group B, see §g2b› | ‹Championship Final, see §2fin›
 
 Group A  ‹§g2a›
@@ -629,13 +623,13 @@ NB: Gramshi remain at third level
 Turbina       0-3 Partizani B
 
 NB: Partizani B promoted, Turbina relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga e tretë  ‹§trete›
 
-<!-- start pre -->
 ‹Group A, see §g3a› | ‹Group B, see §g3b› | ‹Championship Final, see §3fin›
 
 Group A  ‹§g3a›
@@ -683,21 +677,10 @@ Partizani B   3-0 Albpetrol
 
 NB: Partizani B qualified for ‹Promotion/Relegation Playoff, see §3prorel›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page alba2024›.
 
-‹list of champions, see page albachamp›.
 
-‹list of cup winners, see page albacuphist›.
-
-‹list of super cup winners, see page albasupcuphist›.
-
-‹list of foundation dates, see page albafound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

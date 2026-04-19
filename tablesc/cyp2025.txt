@@ -1,4 +1,5 @@
   <!--
+     title:  Cyprus 2024/25
      source: https://rsssf.org/tablesc/cyp2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Cyprus 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹First Division, see §first›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== 2024/25 Cypriot First Division  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -553,29 +551,12 @@ Final Table:
 13.Nea Salamina Ammakhostou     33   6  8 19  31-62  26       Relegated
 14.ALS Omonia 29th May          33   3  5 25  23-65  14  [P]  Relegated
 
-<!-- end pre -->
 
 
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2023/24, see page cyp2024›.
-
-
-‹list of champions, see page cypchamp›.
-
-
-‹list of final tables, see page cyphist›.
-
-
-‹list of cup finals, see page cypcuphist›.
-
-
-‹list of super cup finals, see page cypsupcuphist›.
 
 
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

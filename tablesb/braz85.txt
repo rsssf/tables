@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 1985 (Taça de Ouro and Taça de Prata)
      source: https://rsssf.org/tablesb/braz85.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 1985 (Taça de Ouro and Taça de Prata)
 
-<!-- start pre -->
 PARTICIPANTS
 
 Teams chosen by record on CBF's historical ranking (20 berths)
@@ -1739,9 +1739,10 @@ Tuna Luso qualified for the 1986 Brazilian championship
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

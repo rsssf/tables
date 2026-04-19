@@ -1,4 +1,5 @@
   <!--
+     title:  Burundi 2025/26
      source: https://rsssf.org/tablesb/buru2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Burundi 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ligue A, see §liguea›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ligue A  ‹§liguea›
 
-<!-- start pre -->
 Table:
 
  1.Aigle Noir CS (Makamba)             27  19  8  0  59-23  65  [C]  Champions
@@ -437,17 +435,10 @@ Table:
 
 [*] BG Green Farmers were renamed BG Green Maze
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page buru2025›.
 
-‹list of champions, see page buruchamp›.
 
-‹list of cup winners, see page burucuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

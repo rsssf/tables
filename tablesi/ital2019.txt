@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2018/19
      source: https://rsssf.org/tablesi/ital2019.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Italy 2018/19
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Serie B, see §serieb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.Juventus FC         38  28  6  4  70-30  90  [C]                   Champions
@@ -668,13 +664,13 @@ NB: Chievo 3 points deducted for financial irregularities;
     Parma had originally been deducted 5 points for a match fixing attempt last season,
       but this was revoked on appeal
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
-<!-- start pre -->
 Round 1
 [Jul 28]
 Casertana       2-0 Az Picerno
@@ -723,7 +719,7 @@ Carpi           0-2 Ternana
   [Vantaggiato 12, Rivas 45+1]
 Spezia          2-1 Sambenedettese
   [Pierini 66, Bartolomei 82; Gelonese 77]
-Trapani         1-2 Cosenza      [aet]
+Trapani         1-2 Cosenza       [aet]
   [Evacuo 63; Di Piazza 58, Azzinnari 93]
 [Aug 5]
 Benevento       3-1 Imolese
@@ -757,7 +753,7 @@ Foggia          1-3 Catania
 Salernitana     6-1 Rezzato
   [Bocalon 33, 68, Vuletich 62, Volpicelli 81, Odjer 84, Castiglia 90+1; Bruno 60]
 [Aug 7]
-Lecce           1-0 Feralpisalò      [aet]
+Lecce           1-0 Feralpisalò       [aet]
   [Palombi 94]
 
 Round 3
@@ -877,13 +873,13 @@ Atalanta: Gollini, Palomino, Djimsiti, Masiello, Hateboer, de Roon (Pasalic 84),
   (Gosens 84), Ilicic, Gomez, Zapata (Barrow 84). Tr.: Gasperini.
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Season  ‹§2reg›
@@ -963,33 +959,10 @@ Venezia         1-0 Salernitana     [aet, 2-4 pen]
 
 NB: Venezia relegated but reprieved after Palermo were demoted after all
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2017/18, see page ital2018›.
 
-‹2019/20, see page ital2020›.
 
-‹list of champions, see page italchamp›.
-
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

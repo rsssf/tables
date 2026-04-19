@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 2014/15
      source: https://rsssf.org/tablesd/duit2015.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Germany 2014/15
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹1. Bundesliga, see §1bl›
-‹DFB Pokal, see §dfbpokal›
-‹2. Bundesliga, see §2bl›
-‹3. Liga, see §3bl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== 1. Bundesliga  ‹§1bl›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34  25  4  5  80-18  79  Champions
@@ -559,13 +554,13 @@ Second Leg [Jun 1]
 Karlsruhe       1-2 Hamburg         [aet]
 
 NB: both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== DFB Pokal  ‹§dfbpokal›
 
-<!-- start pre -->
 Round 1
 [Aug 15]
 Chemnitz               5-5 Mainz                  [aet, 5-4 pen]
@@ -652,13 +647,13 @@ Arminia Bielefeld      0-4 Wolfsburg
 
 Final [May 30, Berlin]
 Borussia Dortmund      1-3 Wolfsburg
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. Bundesliga  ‹§2bl›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Ingolstadt 04             34  17 13  4  53-32  64  Promoted
@@ -697,13 +692,13 @@ Second Leg [Jun 2]
 1860 München    2-1 Kiel
 
 NB: both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 3. Liga  ‹§3bl›
 
-<!-- start pre -->
 Final Table:
 
  1.DSC Arminia Bielefeld        38  22  8  8  75-41  74  Promoted
@@ -746,51 +741,10 @@ Würzburg        0-1 Saarbrücken     [aet, 6-5 pen]
 
 NB: SV Werder Bremen II, 1.FC Magdeburg and FC Würzburger Kickers promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2013/14, see page duit2014›
 
-‹2015/16, see page duit2016›
 
-‹list of champions, see page duitchamp›
-
-‹all-time table, see page duialltime›
-
-‹list of 2nd level champions, see page duit2champ›
-
-‹list of amateur champions, see page duitamachamp›
-
-‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
-
-‹oberliga nord 1945-1963, see page duit-ol-nord4563›
-
-‹oberliga süd 1945-1963, see page duit-ol-sued4563›
-
-‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
-
-‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
-
-‹oberliga west 1945-1963, see page duit-ol-west4563›
-
-‹regionalliga nord 63-74, see page dui3nordhist›
-
-‹regionalliga süd 63-74, see page dui3suedhist›
-
-‹regionalliga west 63-74, see page dui3westhist›
-
-‹list of cup finals, see page duitcuphist›
-
-‹list of super and league cup finals, see page duitsupcuphist›
-
-‹list of topscorers, see page duittops›
-
-‹list of 2nd level topscorers, see page duit2tops›
-
-‹list of foundation dates, see page duitfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

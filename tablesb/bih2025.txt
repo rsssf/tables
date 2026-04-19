@@ -1,4 +1,5 @@
   <!--
+     title:  Bosnia-Hercegovina 2024/25
      source: https://rsssf.org/tablesb/bih2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Bosnia-Hercegovina 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premijer Liga, see §premijer›
-‹Kup, see §kup›
-‹Prva Liga, see §prva›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premijer Liga 2024/25  ‹§premijer›
 
-<!-- start pre -->
 Final Table:
 
  1.HŠK Zrinjski (Mostar)            33  26  4  3  74-17  82            Champions
@@ -418,13 +414,13 @@ Final Table:
 12.FK Sloboda (Tuzla)               33   1  7 25  21-71   7  [-3] [P]  Relegated
 
 NB: Sloboda 3 points deducted for walking off in round 28
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments 2024/25  ‹§kup›
 
-<!-- start pre -->
 ‹BiH Kup, see §bhkup›
 
 BiH Kup  ‹§bhkup›
@@ -502,13 +498,13 @@ Sarajevo          4-0 Široki Brijeg
 
 Second Leg [May 14]
 Široki Brijeg     1-1 Sarajevo
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Prva Liga  ‹§prva›
 
-<!-- start pre -->
 ‹Prva Liga FBiH, see §prvabih› | ‹Prva Liga RS, see §prvasrpska›
 
 Prva Liga FBiH  ‹§prvabih›
@@ -566,17 +562,10 @@ NB: Rudar (Prijedor) promoted instead of Laktaši;
 
 Promoted from third level: FK Omarska, FK Vlasenica
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page bih2024›.
 
-‹list of champions, see page bihchamp›.
 
-‹list of cup winners, see page bihcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

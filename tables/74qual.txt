@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1974 qualifications
      source: https://rsssf.org/tables/74qual.html
     -->
   
@@ -27,7 +28,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 33 teams entered, including GER (hosts). Winners of nine groups (five
 groups of four teams and four groups of three teams) progressing to finals,
@@ -636,4 +636,3 @@ Fourth Round - Continental final
 
 2 teams entered, allotted to the Asian zone (see ‹Group 15, see §gr15›)
 
-<!-- end pre -->

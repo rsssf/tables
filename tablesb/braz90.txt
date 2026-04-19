@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 1990
      source: https://rsssf.org/tablesb/braz90.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 1990
 
-<!-- start pre -->
 CAMPEONATO BRASILEIRO DE 1990
 1990 BRAZILIAN CHAMPIONSHIP (1st LEVEL)
 
@@ -1523,7 +1523,7 @@ AGAIN EXTINGUISH THE THIRD LEVEL AND INCREASE THE NUMBER OF PARTICIPANTS
 IN THE SECOND LEVEL (FROM 24 TO 64)
 
 
-II COPA DO BRASIL  (BRAZIL'S CUP)
+II COPA DO BRASIL   (BRAZIL'S CUP)
 
 PARTICIPANTS
 
@@ -1619,9 +1619,10 @@ CR Flamengo were the 1990 Copa do Brasil champions
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

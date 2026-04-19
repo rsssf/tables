@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1998 Qualifying
      source: https://rsssf.org/tables/98q.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1998 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: France
 Qualified as holders: Brazil
 
@@ -880,7 +880,6 @@ Group 5 [Morocco]
 26.10.97  Libreville      Gabon              n/p Sierra Leone    [declared void after repeated travel
                                                                   problems of Sierra Leone]
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 98qual›
 
@@ -893,7 +892,9 @@ Group 5 [Morocco]
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 1992
      source: https://rsssf.org/tablesb/braz92.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 1992
 
-<!-- start pre -->
 
 FIRST LEVEL
 
@@ -1658,9 +1658,10 @@ SC Internacional were the 1992 Copa do Brasil winners
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

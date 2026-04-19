@@ -1,4 +1,5 @@
   <!--
+     title:  Luxembourg 2024/25
      source: https://rsssf.org/tablesl/lux2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Luxembourg 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Nationaldivision (BGL Ligue), see §national›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Nationaldivision (BGL Ligue)  ‹§national›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Differdange 03                         30  25  3  2  69- 7  78  [C]  Champions
@@ -430,21 +428,10 @@ Final Table:
 15.CS Fola Esch/Alzette                      30   4  1 25  18-78  13       Relegated
 16.FC Mondercange                            30   3  3 24  21-74  12       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page lux2024›.
 
-‹list of champions, see page luxchamp›.
 
-‹list of all final tables, see page luxhist›.
-
-‹list of cup finals, see page luxcuphist›.
-
-‹list of topscorers, see page luxtops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  England 2022/23
      source: https://rsssf.org/tablese/eng2023.html
     -->
   
@@ -6,19 +7,12 @@
 
 == England 2022/23
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
-‹Championship, see §champ›
-‹Division 1, see §first›
-‹Division 2, see §second›
-‹National League, see §conf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Manchester City         38  28  5  5  94-33  89       [C]  Champions
@@ -642,13 +636,13 @@ Final Table:
 19.Leeds United            38   7 10 21  48-78  31            Relegated
 20.Southampton             38   6  7 25  36-73  25            Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Championship  ‹§champ›
 
-<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Stage  ‹§2reg›
@@ -702,13 +696,13 @@ Middlesbrough 0-1 Coventry
 [May 27]
 Luton         1-1 Coventry      [aet, 6-5 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 1  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 Regular Stage  ‹§3reg›
@@ -762,13 +756,13 @@ Barnsley      1-0 Bolton
 Final [May 29]
 Sheffield W   1-0 Barnsley      [aet]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2  ‹§second›
 
-<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 Regular Stage  ‹§4reg›
@@ -820,13 +814,13 @@ Carlisle      3-1 Bradford      [aet]
 Final [May 28]
 Stockport     1-1 Carlisle      [aet, 4-5 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== National League  ‹§conf›
 
-<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 Regular Stage  ‹§5reg›
@@ -881,31 +875,10 @@ Chesterfield  3-2 Bromley       [aet]
 Final [May 13]
 Notts County  2-2 Chesterfield  [aet, 4-3 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2021/22, see page eng2022›.
 
-‹2023/24, see page eng2024›.
 
-‹list of champions, see page engchamp›.
-
-‹list of 2nd division champions, see page eng2champ›.
-
-‹list of full tables, see page ../engpaul/FLA/league›.
-
-‹list of divisional movements, see page engall›.
-
-‹list of cup winners, see page engcuphist›.
-
-‹list of super cup (charity shield) winners, see page engsupcuphist›.
-
-‹list of league cup winners, see page engleagcuphist›.
-
-‹list of league trophy winners, see page engassmembcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

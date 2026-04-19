@@ -1,4 +1,5 @@
   <!--
+     title:  England 2004/05
      source: https://rsssf.org/tablese/eng05.html
     -->
   
@@ -6,7 +7,6 @@
 
 == England 2004/05
 
-<!-- start pre -->
 Premiership
 
 Final Table:
@@ -5623,9 +5623,10 @@ Carlisle United            1-0 Stevenage Borough
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

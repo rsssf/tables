@@ -1,4 +1,5 @@
   <!--
+     title:  Copa América 2024
      source: https://rsssf.org/tables/2024sa.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Copa América 2024
 
-<!-- start pre -->
 Held in United States of America, June 20-July 14, 2024
 
 NB: in addition to the 10 traditional particants from South America, 6 CONCACAF
@@ -108,13 +108,14 @@ Final
 Jul 14 Argentina       1-0 Colombia               [aet] Miami Gardens, FL
         [Lautaro Martinez 112]
 
-<!-- end pre -->
 
 ‹Overview File, see page ../tabless/sachamp›
 
 ‹2021, see page 2021sa›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

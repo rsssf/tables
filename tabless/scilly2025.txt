@@ -1,4 +1,5 @@
   <!--
+     title:  Scilly Islands 2024/25
      source: https://rsssf.org/tabless/scilly2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Scilly Islands 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹League, see §league›
-‹Other Competitions, see §other›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== League  ‹§league›
 
-<!-- start pre -->
 NB: all matches at Garrison Field, St Mary's, Isles of Scilly.
 
 Table:
@@ -58,13 +55,13 @@ Table:
 
 NB: on average, 8 goals were scored per match; apart from match 8 (in which
     Gunners scored only once) both scored at least twice in every match
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Other Competitions  ‹§other›
 
-<!-- start pre -->
 Charity Shield 2024 [Oct 13]
 Garrison Gunners        4-3 Woolpack Wanderers
 
@@ -77,17 +74,10 @@ Scillonian Club Cup 2025
 
 [Apr 6]
 Garrison Gunners         -  Woolpack Wanderers
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹list of champions, see page scilly.html#champ›
 
-‹list of cup winners, see page scilly.html#cups›
 
-‹2023/24, see page scilly2024›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

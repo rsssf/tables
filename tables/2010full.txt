@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2010 - Match Details
      source: https://rsssf.org/tables/2010full.html
     -->
   
@@ -6,9 +7,10 @@
 
 == World Cup 2010 - Match Details
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 
 == World Cup 2010, Final Tournament
 
@@ -1311,9 +1313,10 @@ Official Awards
 Note: Diego Forlán (Uruguay) was ranked fourth; he also had 5 goals and 1 'assist', but in 654 minutes (according to FIFA's own count).
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == Statistics  ‹§stats›
 
@@ -1338,11 +1341,12 @@ Felipe Melo (BRA), Suarez (URU), Yahia (ALG)
 Spectators: 3.178 million (average 49,670)
 
 
-<!-- end pre -->
 
 ‹overview 2010 final tournament, see page 2010f›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

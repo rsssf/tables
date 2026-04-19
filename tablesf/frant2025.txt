@@ -1,4 +1,5 @@
   <!--
+     title:  French Antilles 2024/25
      source: https://rsssf.org/tablesf/frant2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == French Antilles 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ligue des Antilles (Coupe VYV) 2025, see §ligant›
-‹Guadeloupe, see §guad› | ‹Martinique, see §mart› | ‹Saint-Barthélemy, see §stbarth› | ‹Saint-Martin, see §stmartin›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 === Ligue des Antilles 2025  ‹§ligant›
 
-<!-- start pre -->
 NB: also known as Coupe VYV; 22nd edition (6th as Coupe VYV)
 
 French Guyane
@@ -102,9 +99,10 @@ AS Gosier              0-1 Golden Lion
 
 ‹2024, see page frant2024.html#ligant›
 ‹list of winners, see page ../tablesm/martinguadchamp›
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === Guadeloupe  ‹§guad›
 
@@ -116,7 +114,6 @@ Note that the point system in Guadeloupe is 4/win, 2/draw, 1/loss.
 
 ==== Régional 1 2024/25  ‹§guadreg1›
 
-<!-- start pre -->
 Final Table:
 
  1.CSM (Moule)                                24  15  4  5  43-24  73       [C]  Champions
@@ -136,11 +133,9 @@ Final Table:
  -.US Cambrefort                              excluded
 
 NB: CERFA exempt from relegation
-<!-- end pre -->
 
 ==== Cup Tournaments 2024/25  ‹§guadcups›
 
-<!-- start pre -->
 ‹Coupe de Guadeloupe 2025, see §guadcoupeguad›| ‹Coupe de France 2024, see §guadcoupefrance›
 
 Coupe de Guadeloupe 2025  ‹§guadcoupeguad›
@@ -246,11 +241,9 @@ CS Moulien             2-1 US Baie-Mahault
 
 Final [Nov 10]
 Jeunesse Evolution     0-0 CS Moulien             [7-6 pen]
-<!-- end pre -->
 
 ==== Régional 2 2024/25  ‹§guadreg2›
 
-<!-- start pre -->
 ‹Poule A, see §guad2a› | ‹Poule B, see §guad2b› | ‹Final, see §guad2final›
 
 Poule A  ‹§guad2a›
@@ -301,9 +294,10 @@ Promotion Playoff  ‹§guad2play›
 Club Amical Marquisat  3-3 UNAR                   [aet, 4-3 pen]
 
 NB: Club Amical Marquisat promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === Martinique  ‹§mart›
 
@@ -316,7 +310,6 @@ Note that the point system in Martinique is 4/win, 2/draw, 1/loss.
 
 ==== Régional 1 2024/25  ‹§martreg1›
 
-<!-- start pre -->
 Final Table:
 
  1.RC Saint-Joseph                            26  19  6  1  65-14  89            Champions
@@ -336,11 +329,9 @@ Final Table:
 14.US Diamantinoise                           26   3  5 18  29-75  40            Relegated
 
 Promoted: Inter de Sainte-Anne, US Robert, AS Morne-des-Esses
-<!-- end pre -->
 
 ==== Cup Tournaments 2024/25  ‹§martcups›
 
-<!-- start pre -->
 ‹Coupe de Martinique 2025, see §martcoupem› | ‹Coupe de France 2024, see §martcoupefrance›
 
 Coupe de Martinique 2025  ‹§martcoupem›
@@ -457,11 +448,9 @@ Samaritaine            1-0 Espoir
 
 Final [Nov 16]
 RC St.-Joseph          2-1 Samaritaine
-<!-- end pre -->
 
 ==== Régional 2 2024/25  ‹§martreg2›
 
-<!-- start pre -->
 ‹Poule A, see §mart2a› | ‹Poule B, see §mart2b› | ‹Final, see §mart2final›
 
 Poule A  ‹§mart2a›
@@ -524,11 +513,9 @@ Relegation Playoff  ‹§mart2down›
 US Marinoise           4-2 Silver Star
 
 NB: Silver Star relegated
-<!-- end pre -->
 
 ==== Régional 3 2024/25  ‹§martreg3›
 
-<!-- start pre -->
 ‹Poule A, see §mart3a› | ‹Poule B, see §mart3b›
 
 Poule A  ‹§mart3a›
@@ -560,16 +547,16 @@ Final Table:
  7.CS Bélimois (Lamentin)                     14   2  2 10  16-40  18  [-4]
  8.L'Intrépide Club (Fort-de-France)          14   0  1 13  13-54  14  [-1]
  -.Solidarité                                 excluded or withdrew
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === Saint-Barthélemy  ‹§stbarth›
 
 ‹Ligue 2025, see §stmstbl›
 ‹Coupe de St.-Barth 2025, see §stbcoupe›
 
-<!-- start pre -->
 Ligue 2025  ‹§stmstbl›
 
 Round 1
@@ -631,9 +618,10 @@ ASPSB                  1-4 Gustavia
 Final [May 10]
 Arawak                 5-2 Diables Rouges
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 === Saint-Martin  ‹§stmartin›
 
@@ -641,7 +629,6 @@ Arawak                 5-2 Diables Rouges
 
 Note that the point system in Saint-Martin is 4/win, 2/draw, 1/loss.
 
-<!-- start pre -->
 Saint-Martin (Ligue) 2025  ‹§stmstml›
 
 Final Table:
@@ -651,25 +638,10 @@ Final Table:
  3.Juventus Saint-Martin                       9   3  2  4  22-20  20
  4.Orléans Attackers                           9   1  1  7  13-32  12  [-1]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24 (French Antilles), see page frant2024›.
 
-‹list of champions Guadeloupe, see page ../tablesg/guadchamp›.
 
-‹list of cup finals Guadeloupe, see page ../tablesg/guadcuphist›.
-
-‹list of champions Martinique, see page ../tablesm/martinchamp›.
-
-‹list of known cup winners Martinique, see page ../tablesm/martincuphist›.
-
-‹list of champions Saint-Martin and Saint-Barth, see page ../tabless/stmartinchamp›.
-
-‹list of d.o.m. cup winners, see page franseaterrcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

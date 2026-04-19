@@ -1,4 +1,5 @@
   <!--
+     title:  African Nations Championship 2024/25
      source: https://rsssf.org/tables/2024anch.html
     -->
   
@@ -6,7 +7,6 @@
 
 == African Nations Championship 2024/25
 
-<!-- start pre -->
 NB: eighth edition of tournament for squads composed of players active in African leagues.
 
 Qualified as hosts: Kenya, Tanzania, Uganda
@@ -344,13 +344,14 @@ Final
 30 Aug 2025 Madagascar            2-3 Morocco
              [Manohantsoa 9, Rakotondraibe 68; Mehri 27, Lamlioui 44, 80]
 
-<!-- end pre -->
 
 ‹overview file, see page 00allanch›
 
 ‹2022/23, see page 2022anch›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

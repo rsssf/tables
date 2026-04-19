@@ -1,4 +1,5 @@
   <!--
+     title:  South Sudan 2025/26
      source: https://rsssf.org/tablesz/zsoed2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == South Sudan 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹South Sudan Premier League 2025/26, see §prem›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== South Sudan Premier League 2025/26  ‹§prem›
 
-<!-- start pre -->
 NB: all matches played in Juba
 
 Table:
@@ -357,19 +355,10 @@ Table:
 13.Bentiu City SC (Bentiu)   21   4  3 14  28-69  15
 14.Lion Hunters FC (Yei)     21   1  3 17  21-75   6
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25., see page zsoed2025›
 
-‹list of champions., see page zsoedhonours.html#champ›
 
-‹list of cup winners., see page zsoedhonours.html#cup›
-
-‹list of super cup winners., see page zsoedhonours.html#sup›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

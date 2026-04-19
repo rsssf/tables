@@ -1,4 +1,5 @@
   <!--
+     title:  British Virgin Islands 2025/26
      source: https://rsssf.org/tablesb/brmaagd2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == British Virgin Islands 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹BVIFA National League 2025/26, see §natleag›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== BVIFA National League 2025/26  ‹§natleag›
 
-<!-- start pre -->
 Table:
 
  1.Lion Heart              17  12  2  3  58-20  38
@@ -285,15 +283,10 @@ Table:
 NB: Positive withdrew or excluded after round 15; all remaining
     matches awarded 0-3 against them
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page brmaagd2025›
 
-‹list of champions, see page brmaagdchamp›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

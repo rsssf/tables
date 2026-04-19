@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2015
      source: https://rsssf.org/tablesu/usa2015.html
     -->
   
@@ -6,16 +7,12 @@
 
 == USA 2015
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Major League Soccer, see §mls› (Division 1)
-‹US Open Cup, see §open›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Major League Soccer  ‹§mls›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
 Regular Season  ‹§reg›
@@ -624,13 +621,13 @@ New York Red Bulls     1-0 Columbus Crew
 MLS Cup [Dec 6]
 Columbus Crew          1-2 Portland Timbers
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== US Open Cup  ‹§open›
 
-<!-- start pre -->
 Fifth Round
 [Jun 30]
 Chicago Fire           3-1 Charlotte Independence
@@ -659,27 +656,10 @@ Sporting Kansas City   3-1 Real Salt Lake
 Final [Sep 30, Chester, Pa.]
 Philadelphia Union     1-1 Sporting Kansas City   [aet, 6-7 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2014, see page usa2014›
 
-‹2016, see page usa2016›
 
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2023
      source: https://rsssf.org/tablesu/usa2023.html
     -->
   
@@ -6,16 +7,12 @@
 
 == USA 2023
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Major League Soccer, see §mls› (Division 1)
-‹US Open Cup, see §open›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Major League Soccer  ‹§mls›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
 Regular Season  ‹§reg›
@@ -790,13 +787,13 @@ Los Angeles FC         2-0 Houston Dynamo
 MLS Cup [Dec 9]
 Columbus Crew          2-1 Los Angeles FC
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== US Open Cup  ‹§open›
 
-<!-- start pre -->
 1/8 Finals
 [May 23]
 Inter Miami            2-1 Nashville SC
@@ -824,27 +821,10 @@ Houston Dynamo         3-1 Real Salt Lake         [aet]
 Final [Sep 27]
 Inter Miami            1-2 Houston Dynamo
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2022, see page usa2022›
 
-‹2024, see page usa2024›
 
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

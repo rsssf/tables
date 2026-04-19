@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2019
      source: https://rsssf.org/tablesb/braz2019.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Brazil 2019
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Série A, see §sa›
-‹Copa do Brasil, see §cb›
-‹Supercopa do Brasil, see §supcb›
-‹Série B, see §sb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Série A  ‹§sa›
 
-<!-- start pre -->
 Final Table:
 
  1.Flamengo              38  28  6  4  86-37  90       Champions
@@ -643,13 +638,13 @@ Final Table:
 20.Avaí                  38   3 11 24  18-62  20  [P]  Relegated
 
 Promoted: Bragantino, Sport Recife, Coritiba, Atlético Goianiense
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa do Brasil  ‹§cb›
 
-<!-- start pre -->
 Participants
 
 ABC/RN - ABC Futebol Clube (Natal/RN)
@@ -1069,35 +1064,35 @@ Athletico/PR          1-0  Internacional/RS
 Internacional/RS      1-2  Athletico/PR
   [Nico López 30; Léo Cittadini 23, Rony 90+6]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Supercopa do Brasil 2020  ‹§supcb›
 
-<!-- start pre -->
 NB: between 2019 champions and cup winners
 
 [Feb 16, 2020, Brasília]
 Flamengo/RJ           3-0  Athletico/PR
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série B  ‹§sb›
 
-<!-- start pre -->
 Final Table:
 
- 1.Bragantino           38  22  9  7  64-27  75  [P]  Promoted
+ 1.Bragantino            38  22  9  7  64-27  75  [P]  Promoted
  2.Sport Recife          38  17 17  4  49-29  68  [R]  Promoted
  3.Coritiba              38  18 12  8  48-34  66       Promoted
  4.Atlético/GO           38  15 17  6  44-29  62       Promoted
 ------------------------------------------------
  5.América/MG            38  17 10 11  42-34  61  [R]
- 6.Paraná           38  14 14 10  34-33  56  [R]
- 7.CRB             38  15 10 13  44-43  55
+ 6.Paraná            38  14 14 10  34-33  56  [R]
+ 7.CRB               38  15 10 13  44-43  55
  8.Cuiabá                38  13 13 12  43-40  52  [P]
  9.Botafogo/SP           38  13 11 14  38-38  50  [P]
 10.Operário Ferroviário  38  13 11 14  32-41  50  [P]
@@ -1105,31 +1100,20 @@ Final Table:
 12.Vitória               38  11 12 15  42-48  45  [R]
 13.Guarani               38  12  8 18  27-37  44
 14.Brasil de Pelotas     38  11 11 16  31-47  44
-15.Oeste           38   8 17 13  41-49  41
+15.Oeste            38   8 17 13  41-49  41
 16.Figueirense           38   7 20 11  31-38  41
 ------------------------------------------------
 17.Londrina              38  11  6 21  37-53  39       Relegated
 18.São Bento             38  10  9 19  46-54  39       Relegated
-19.Criciúma           38   8 15 15  30-38  39       Relegated
+19.Criciúma            38   8 15 15  30-38  39       Relegated
 20.Vila Nova             38   7 18 13  27-40  39       Relegated
 
 Promoted: Náutico, Sampaio Corrêa, Confiança, Juventude (Caxias)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2018, see page braz2018›
 
-‹2020/21, see page braz2020›
 
-‹list of champions, see page brazchamp›.
-
-‹list of 2nd division champions, see page braz2champ›.
-
-‹list of cup winners, see page brazcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

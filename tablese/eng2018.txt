@@ -1,4 +1,5 @@
   <!--
+     title:  England 2017/18
      source: https://rsssf.org/tablese/eng2018.html
     -->
   
@@ -6,20 +7,12 @@
 
 == England 2017/18
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
-‹Cup Tournaments, see §cups›
-‹Championship, see §champ›
-‹Division 1, see §first›
-‹Division 2, see §second›
-‹National League, see §conf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§premier›
 
-<!-- start pre -->
 ‹Premier League 2017/18 Match Details, see page eng2018det›
 
 Final Table:
@@ -633,13 +626,13 @@ Final Table:
 20.West Bromwich Albion    38   6 13 19  31-56  31       Relegated
 
 ‹Premier League 2017/18 Match Details, see page eng2018det›
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§cups›
 
-<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
 FA Cup  ‹§facup›
@@ -957,7 +950,7 @@ Leicester City          3-1 Leeds United
 Swansea City            0-2 Manchester United
 Manchester City         0-0 Wolverhampton Wanderers [aet, 3-1 pen]
 [Oct 25]
-Chelsea                  2-1 Everton
+Chelsea                   2-1 Everton
 Tottenham Hotspur       2-3 West Ham United
 
 Quarterfinals
@@ -985,13 +978,13 @@ Arsenal                 2-1 Chelsea
 Final [Feb 25, London]
 Manchester City         3-0 Arsenal
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Championship  ‹§champ›
 
-<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Stage  ‹§2reg›
@@ -1045,13 +1038,13 @@ Aston Villa   0-0 Middlesbrough
 Final [May 26]
 Fulham        1-0 Aston Villa
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 1  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 Regular Stage  ‹§3reg›
@@ -1105,13 +1098,13 @@ Rotherham     2-0 Scunthorpe
 Final [May 27]
 Shrewsbury    1-2 Rotherham     [aet]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2  ‹§second›
 
-<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 Regular Stage  ‹§4reg›
@@ -1163,13 +1156,13 @@ Notts C       1-4 Coventry
 Final [May 28]
 Exeter        1-3 Coventry
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== National League  ‹§conf›
 
-<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 Regular Stage  ‹§5reg›
@@ -1225,33 +1218,10 @@ Sutton        2-3 Boreham Wood
 Final [May 12]
 Tranmere      2-1 Boreham Wood
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2016/17, see page eng2017›.
 
-‹Premier League 2017/18 Match Details, see page eng2018det›
 
-‹2018/19, see page eng2019›.
-
-‹list of champions, see page engchamp›.
-
-‹list of 2nd division champions, see page eng2champ›.
-
-‹list of full tables, see page ../engpaul/FLA/league›.
-
-‹list of divisional movements, see page engall›.
-
-‹list of cup winners, see page engcuphist›.
-
-‹list of super cup (charity shield) winners, see page engsupcuphist›.
-
-‹list of league cup winners, see page engleagcuphist›.
-
-‹list of league trophy winners, see page engassmembcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

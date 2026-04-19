@@ -1,0 +1,30 @@
+-- removing nav(igation) section:
+
+‹Super League, see §super›
+‹Schweizer Cup, see §cup›
+‹Challenge League, see §challenge›
+‹Promotion League, see §1prom›
+‹First League - Classic, see §1class›
+
+
+-- removing nav(igation) section:
+
+‹2024/25, see page zwit2025›.
+
+‹list of champions, see page zwitchamp›.
+
+‹list of final tables 1898-1930, see page zwithist-reg›.
+
+‹list of final tables since 1930, see page zwithist›.
+
+‹all-time table, see page zwitalltime›.
+
+‹list of cup finals, see page zwitcuphist›.
+
+‹list of league cup finals, see page zwitleagcuphist›.
+
+‹list of super cup finals, see page zwitsupcuphist›.
+
+‹list of topscorers, see page zwittops›.
+
+

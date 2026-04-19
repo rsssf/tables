@@ -1,4 +1,5 @@
   <!--
+     title:  England 2014/15
      source: https://rsssf.org/tablese/eng2015.html
     -->
   
@@ -6,20 +7,12 @@
 
 == England 2014/15
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
-‹Cup Tournaments, see §cups›
-‹Championship, see §champ›
-‹Division 1, see §first›
-‹Division 2, see §second›
-‹Conference, see §conf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Chelsea                 38  26  9  3  73-32  87  Champions
@@ -617,13 +610,13 @@ Final Table:
 19.Burnley                 38   7 12 19  28-53  33  Relegated
 20.Queens Park Rangers     38   8  6 24  42-73  30  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§cups›
 
-<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
 FA Cup  ‹§facup›
@@ -973,13 +966,13 @@ Sheffield United        2-2 Tottenham Hotspur
 Final [Mar 1, London]
 Chelsea                 2-0 Tottenham Hotspur
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Championship  ‹§champ›
 
-<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Stage  ‹§2reg›
@@ -1033,13 +1026,13 @@ Norwich       3-1 Ipswich
 Final [May 25]
 Norwich       2-0 Middlesbrough
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 1  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 Regular Stage  ‹§3reg›
@@ -1091,13 +1084,13 @@ Swindon       5-5 Sheffield U
 Final [May 24]
 Preston       4-0 Swindon
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2  ‹§second›
 
-<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 Regular Stage  ‹§4reg›
@@ -1149,13 +1142,13 @@ Southend      3-1 Stevenage     [aet]
 Final [May 23]
 Wycombe       1-1 Southend      [aet, 6-7 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Conference  ‹§conf›
 
-<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 Regular Stage  ‹§5reg›
@@ -1209,31 +1202,10 @@ Grimsby       3-0 Eastleigh
 Final [May 17]
 Bristol R     1-1 Grimsby       [aet, 5-3 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2013/14, see page eng2014›.
 
-‹2015/16, see page eng2016›.
 
-‹list of champions, see page engchamp›.
-
-‹list of 2nd division champions, see page eng2champ›.
-
-‹list of full tables, see page ../engpaul/FLA/league›.
-
-‹list of divisional movements, see page engall›.
-
-‹list of cup winners, see page engcuphist›.
-
-‹list of super cup (charity shield) winners, see page engsupcuphist›.
-
-‹list of league cup winners, see page engleagcuphist›.
-
-‹list of league trophy winners, see page engassmembcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

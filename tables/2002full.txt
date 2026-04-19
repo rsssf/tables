@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2002 - Match Details
      source: https://rsssf.org/tables/2002full.html
     -->
   
@@ -29,11 +30,12 @@
 </ul>
 </menu>
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group A  ‹§gra›
 
-<!-- start pre -->
 
 31/05/2002, Seoul (South Korea), Seoul World Cup Stadium, 62561
 World Cup
@@ -153,13 +155,13 @@ Table:
  2.SENEGAL          3  1  2  0   5- 4  5
  3.Uruguay          3  0  2  1   4- 5  2
  4.France           3  0  1  2   0- 3  1
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group B  ‹§grb›
 
-<!-- start pre -->
 02/06/2002, Gwangju (South Korea), Gwangju World Cup Stadium, 28598
 World Cup
 SPAIN               3 (Raúl 44', Valerón 74', Hierro 87' pen)
@@ -277,13 +279,13 @@ Table:
  2.PARAGUAY         3  1  1  1   6- 6  4
  3.South Africa     3  1  1  1   5- 5  4
  4.Slovenia         3  0  0  3   2- 7  0
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group C  ‹§grc›
 
-<!-- start pre -->
 03/06/2002, Ulsan (South Korea), Munsu Football Stadium, 33842
 World Cup
 BRAZIL              2 (Ronaldo 50', Rivaldo 87' pen)
@@ -390,13 +392,13 @@ Table:
  2.TURKEY           3  1  1  1   5- 3  4
  3.Costa Rica       3  1  1  1   5- 6  4
  4.China            3  0  0  3   0- 9  0
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group D  ‹§grd›
 
-<!-- start pre -->
 04/06/2002, Busan, Busan Asiad Main Stadium, 48760
 World Cup
 SOUTH KOREA         2 (Hwang Seon-Hong 26', Yoo Sang-Cheol 53')
@@ -511,13 +513,13 @@ Table:
  2.USA              3  1  1  1   5- 6  4
  3.Portugal         3  1  0  2   6- 4  3
  4.Poland           3  1  0  2   3- 7  3
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group E  ‹§gre›
 
-<!-- start pre -->
 01/06/2002, Niigata (Japan), Niigata Stadium, 33679
 World Cup
 IRELAND             1 (Matt Holland 52')
@@ -635,13 +637,13 @@ Table:
  2.IRELAND          3  1  2  0   5- 2  5
  3.Cameroon         3  1  1  1   2- 3  4
  4.Saudi Arabia     3  0  0  3   0-12  0
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group F  ‹§grf›
 
-<!-- start pre -->
 02/06/2002, Saitama (Japan), Saitama Stadium 2002, 52721
 World Cup
 ENGLAND             1 (Sol Campbell 24')
@@ -754,13 +756,13 @@ Table:
  2.ENGLAND          3  1  2  0   2- 1  5
  3.Argentina        3  1  1  1   2- 2  4
  4.Nigeria          3  0  1  2   1- 3  1
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group G  ‹§grg›
 
-<!-- start pre -->
 03/06/2002, Niigata (Japan), Niigata Stadium Big Swan, 32239
 World Cup
 CROATIA             0
@@ -880,13 +882,13 @@ Table:
  2.ITALY            3  1  1  1   4- 3  4
  3.Croatia          3  1  0  2   2- 3  3
  4.Ecuador          3  1  0  2   2- 4  3
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Group H  ‹§grh›
 
-<!-- start pre -->
 04/06/2002, Saitama, Saitama Stadium 2002, 55256
 World Cup
 JAPAN               2 (Takayuji Suzuki 59', Junichi Inamoto 67')
@@ -1004,13 +1006,13 @@ Table:
  2.BELGIUM          3  1  2  0   6- 5  5
  3.Russia           3  1  0  2   4- 4  3
  4.Tunisia          3  0  1  2   1- 5  1
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1/8 Finals  ‹§8f›
 
-<!-- start pre -->
 15/06/2002, Seogwipo (South Korea), Jeju World Cup Stadium, 25176
 World Cup
 GERMANY             1 (Oliver Neuville 88')
@@ -1164,13 +1166,13 @@ Cards:              South Korea: Kim Tae-Young [Y 17'], Song Jong-Gook [Y 80'],
                     Italy: Francesco Coco [Y 4'], Francesco Totti [Y 22' YR 103'],
                            Damiano Tommasi [Y 55'], Cristiano Zanetti [Y 59'].
 Note:               Gianluigi Buffon saved a penalty by Ahn Jung-Hwan at 4'.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Quarterfinals  ‹§qf›
 
-<!-- start pre -->
 21/06/2002, Shizuoka (Japan), Shizuoka Stadium ECOPA, 47436
 World Cup
 ENGLAND             1 (Michael Owen 23')
@@ -1244,13 +1246,13 @@ Coaches:            Senegal: Bruno Metsu (France).
                     Turkey: Şenol Güneş.
 Cards:              Senegal: Omar Daf [Y 12'], Aliou Cissé [Y 63'].
                     Turkey: Emre Belözoğlu [Y 22'], İlhan Mansız [Y 87'].
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Semifinals  ‹§sf›
 
-<!-- start pre -->
 25/06/2002, Seoul, Seoul World Cup Stadium, 65256
 World Cup
 SOUTH KOREA         0
@@ -1285,13 +1287,13 @@ Coaches:            Brazil: Luiz Felipe Scolari.
                     Turkey: Şenol Güneş.
 Cards:              Brazil: Gilberto Silva [Y 41'].
                     Turkey: Tugay Kerimoğlu [Y 59'], Hasan Şaş [Y 90'].
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Third Place Match  ‹§3m›
 
-<!-- start pre -->
 29/06/2002, Daegu, Daegu World Cup Stadium, 63483
 World Cup
 SOUTH KOREA         2 (Lee Eul-Yong 9', Song Jong-Gook 90+')
@@ -1309,13 +1311,13 @@ Coaches:            South Korea: Guus Hiddink (Netherlands).
                     Turkey: Şenol Güneş.
 Cards:              South Korea: Lee Eul-Yong [Y 23'].
                     Turkey: Tugay Kerimoğlu [Y 50'], Rüştü Reçber [Y 83'].
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Final  ‹§fin›
 
-<!-- start pre -->
 30/06/2002, Yokohama (Japan), International Stadium Yokohama, 69029
 World Cup
 GERMANY             0
@@ -1332,13 +1334,13 @@ Coaches:            Germany: Rudi Völler.
                     Brazil: Luiz Felipe Scolari.
 Cards:              Germany: Miroslav Klose [Y 9'].
                     Brazil: Roque Júnior [Y 6'].
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == Squads  ‹§squads›
 
-<!-- start pre -->
 
 ‹Argentina, see §arg›.
 ‹Belgium, see §bel›.
@@ -2238,13 +2240,13 @@ Tony Sanneh
 Eddie Pope
 Coach: Bruce Arena (USA).
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == Oldest and youngest  ‹§records›
 
-<!-- start pre -->
                Youngest                        Oldest
 player         Opabunmi, NGR     17 y 101 d    Heintze, DEN      38 y 293 d
 goalkeeper     Enyeama, NGR      19 y 287 d    Seaman, ENG       38 y 275 d
@@ -2256,13 +2258,13 @@ captain        Márquez, MEX      23 y 110 d    Heintze, DEN      38 y 293 d
 coach          Katanec, SLO      38 y 321 d    Maldini, PAR      70 y 110 d
 referee        Shield, AUS       28 y 281 d    Sánchez, ARG      45 y 103 d
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == Awards  ‹§awards›
 
-<!-- start pre -->
 Tournament's Best Player:
 adidas Golden Ball - Oliver Kahn (Germany)
 adidas Silver Ball - Ronaldo (Brazil)
@@ -2276,11 +2278,12 @@ Most Entertaining Team - South Korea
 Lev Yashin (Best Goalkeeper) - Oliver Kahn (Germany)
 FIFA Fair Play Trophy - Belgium
 
-<!-- end pre -->
 
 ‹overview 2002 final tournament, see page 2002f›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

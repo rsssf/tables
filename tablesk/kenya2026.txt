@@ -1,4 +1,5 @@
   <!--
+     title:  Kenya 2025/26
      source: https://rsssf.org/tablesk/kenya2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Kenya 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Kenya Premier League, see §kpl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Kenya Premier League 2025/26  ‹§kpl›
 
-<!-- start pre -->
 Table:
 
  1.Gor Mahia (Nairobi)               25  17  5  3  44-18  56
@@ -453,19 +451,10 @@ Table:
 17.Bidco United (Thika)              26   4 10 12  16-29  22
 18.Sofapaka (Nairobi)                26   3  6 17  15-36  15
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page kenya2025›
 
-‹list of champions, see page kenyachamp›
 
-‹list of cup winners, see page kenyacuphist›
-
-‹list of foundation dates, see page kenyafound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

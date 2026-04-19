@@ -1,0 +1,33 @@
+-- removing nav(igation) section:
+
+‹Serie A, see §seriea›
+‹Copa Ecuador, see §copa›
+
+
+-- removing nav(igation) section:
+
+‹2024, see page ecua2024›
+
+‹list of champions, see page ecuachamp›
+
+‹list of 2nd and 3rd level champions, see page ecua2champ›
+
+‹list of amateur champions guayas and pichinchas, see page ecua-amachamp›
+
+‹list of champions interandinos, see page ecuaandeschamp›
+
+‹list of champions costa, see page ecuacostachamp›
+
+‹list of provincial champions, see page ecuaprovchamp›
+
+‹list of final tables, see page ecuahist›
+
+‹all-time table, see page ecuaalltime›
+
+‹list of top scorers, see page ecuatops›
+
+‹list of 2nd level top scorers, see page ecua2tops›
+
+‹list of foundation dates clubs, see page ecuafound›
+
+

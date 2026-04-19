@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2011/12
      source: https://rsssf.org/tablesm/mex2012.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Mexico 2011/12
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División Nacional, see §pdn›
-‹Liga de Ascenso, see §ascenso›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División Nacional  ‹§pdn›
 
-<!-- start pre -->
 ‹Apertura 2011, see §1aper› | ‹Clausura 2012, see §1clau›
 
 Apertura 2011  ‹§1aper›
@@ -481,17 +478,17 @@ Table:
 
 
 Topscorers
-Player      Team    Goals
-Iván Alonso    Toluca    11
-Carlos Bueno    Querétaro  10
-Oribe Peralta    Santos    10
-Christian Benítez  América     8
-Jackson Martínez  Jaguares   8
-Marco Fabián    Guadalajara   8
-Enrique Esqueda    Pachuca     8
-Luis Gabriel Rey  Jaguares   7
-Hérculez Gómez    Estudiantes   7
-Miguel Sabah    Morelia     7
+Player         Team      Goals
+Iván Alonso      Toluca      11
+Carlos Bueno      Querétaro   10
+Oribe Peralta      Santos      10
+Christian Benítez   América       8
+Jackson Martínez   Jaguares    8
+Marco Fabián      Guadalajara    8
+Enrique Esqueda      Pachuca       8
+Luis Gabriel Rey   Jaguares    7
+Hérculez Gómez      Estudiantes    7
+Miguel Sabah      Morelia       7
 
 
 Playoffs  ‹§applay›
@@ -558,21 +555,21 @@ Tigres            3-1 Santos
 
 Tigres UANL roster team
 
-Enrique Palos    GK
-Hugo Ayala    DEF
-Israel Jiménez    DEF
-Jorge Torres Nilo  DEF
-Anselmo Vendrechovski  DEF (Brazil)
-Carlos Salcido    DEF
-José Rivas    DEF
-Lucas Lobos    MDF (Argentina)
-Manuel Viniegra    MDF
-Danilo Verón    MDF (Brazil)
-David Toledo    MDF
-Edgar Iván Pacheco  MDF
-Damián Ariel Álvarez  MDF (Argentina)
-Héctor Raúl Mancilla  FWD (Chile)
-Alan Pulido    FWD
+Enrique Palos      GK
+Hugo Ayala      DEF
+Israel Jiménez      DEF
+Jorge Torres Nilo   DEF
+Anselmo Vendrechovski   DEF (Brazil)
+Carlos Salcido      DEF
+José Rivas      DEF
+Lucas Lobos      MDF (Argentina)
+Manuel Viniegra      MDF
+Danilo Verón      MDF (Brazil)
+David Toledo      MDF
+Edgar Iván Pacheco   MDF
+Damián Ariel Álvarez   MDF (Argentina)
+Héctor Raúl Mancilla   FWD (Chile)
+Alan Pulido      FWD
 
 Coach: Ricardo Ferreti (BRA)
 
@@ -1043,40 +1040,40 @@ Table:
 
 Relegation Table
 
-Team      Average
-Monterrey    1.7647
-Cruz Azul    1.7353
-Santos Laguna    1.6765
-Morelia      1.6373
-Tigres       1.5588
-América      1.5196
-Toluca      1.4706
-Pumas      1.4314
-Pachuca      1.4314
-Guadalajara    1.4020
-Tijuana      1.3529
-Jaguares    1.2745
-Puebla      1.2059
-San Luis    1.1569
-Atlante      1.1471
-Querétaro    1.0980
-Atlas      1.0784
-Estudiantes    0.9902 (relegated)
+Team         Average
+Monterrey      1.7647
+Cruz Azul      1.7353
+Santos Laguna      1.6765
+Morelia         1.6373
+Tigres          1.5588
+América         1.5196
+Toluca         1.4706
+Pumas         1.4314
+Pachuca         1.4314
+Guadalajara      1.4020
+Tijuana         1.3529
+Jaguares      1.2745
+Puebla         1.2059
+San Luis      1.1569
+Atlante         1.1471
+Querétaro      1.0980
+Atlas         1.0784
+Estudiantes      0.9902 (relegated)
 
 
 Topscorers
-Player      Team    Goals
-Iván Alonso    Toluca    14
-Christian Benítez  América    14
-Aldo de Nigris    Monterrey   9
-Miguel Sabah    Morelia     9
-Oribe Peralta    Santos     9
-Emanuel Villa    Cruz Azul   8
-Jackson Martínez  Jaguares   8
-Luis Gabriel Rey  Jaguares   8
-Lucas Lobos    Tigres     8
-Humberto Suazo    Monterrey   7
-José Sand    Tijuana     7
+Player         Team      Goals
+Iván Alonso      Toluca      14
+Christian Benítez   América      14
+Aldo de Nigris      Monterrey    9
+Miguel Sabah      Morelia       9
+Oribe Peralta      Santos       9
+Emanuel Villa      Cruz Azul    8
+Jackson Martínez   Jaguares    8
+Luis Gabriel Rey   Jaguares    8
+Lucas Lobos      Tigres       8
+Humberto Suazo      Monterrey    7
+José Sand      Tijuana       7
 
 
 Playoffs  ‹§clplay›
@@ -1145,36 +1142,36 @@ Santos             2-1 Monterrey
 
 Santos Laguna roster team
 
-Oswaldo Sánchez    GK
-Miguel Becerra    GK
-Jorge Iván Estrada  DEF
-Santiago Hoyos    DEF (Argentina)
-Aarón Galindo    DEF
-Felipe Baloy    DEF (Panama)
-Osmar Mares    DEF
-Rodolfo Salinas    MDF
-Daniel Ludueña    MDF
-Juan Pablo Rodríguez  MDF
-Marc Crossas    MDF (Spain)
-Carlos Adrián Morales  MDF
-Christian Suárez  FWD (Ecuador)
-Oribe Peralta    FWD
-Carlos Darwin Quintero  FWD (Colombia)
-Cándido Ramírez    FWD
-Hérculez Gómez    FWD (USA)
-Carlos Ochoa    FWD
+Oswaldo Sánchez      GK
+Miguel Becerra      GK
+Jorge Iván Estrada   DEF
+Santiago Hoyos      DEF (Argentina)
+Aarón Galindo      DEF
+Felipe Baloy      DEF (Panama)
+Osmar Mares      DEF
+Rodolfo Salinas      MDF
+Daniel Ludueña      MDF
+Juan Pablo Rodríguez   MDF
+Marc Crossas      MDF (Spain)
+Carlos Adrián Morales   MDF
+Christian Suárez   FWD (Ecuador)
+Oribe Peralta      FWD
+Carlos Darwin Quintero   FWD (Colombia)
+Cándido Ramírez      FWD
+Hérculez Gómez      FWD (USA)
+Carlos Ochoa      FWD
 
 Coach: Benjamín Galindo
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga de Ascenso  ‹§ascenso›
 
-<!-- start pre -->
 ‹Apertura 2011, see §2aper› | ‹Clausura 2012, see §2clau› | ‹Promotion Playoff, see §2prom›
 
 Apertura 2011  ‹§2aper›
@@ -1817,27 +1814,10 @@ León              5-0 Correcaminos UAT
 
 
 León promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2010/11, see page mex2011›.
 
-‹2012/13, see page mex2013›.
 
-‹list of champions, see page mexchamp›.
-
-‹list of final tables, see page mexhist›.
-
-‹list of divisional movements, see page mexall›.
-
-‹list of cup winners, see page mexcuphist›.
-
-‹list of super cup winners, see page mexsupcup›.
-
-‹list of topscorers, see page mextops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

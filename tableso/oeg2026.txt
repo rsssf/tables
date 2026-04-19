@@ -1,4 +1,5 @@
   <!--
+     title:  Uganda 2025/26
      source: https://rsssf.org/tableso/oeg2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Uganda 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹StarTimes Uganda Premier League, see §fsl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== StarTimes Uganda Premier League  ‹§fsl›
 
-<!-- start pre -->
 Table:
 
  1.Vipers SC              21  15  5  1  42-14  50  [C]
@@ -401,17 +399,10 @@ NB: hosting rights in Round-3 were to be reversed from fixtures in Round-1;
 Out of protest against this convoluted and fairly nonsensical new format,
 Vipers refused to play its fixtures in the first three rounds;
 after that, on Oct 18, the FUFA Executive Committee suspended the new format.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page oeg2025›
 
-‹list of champions, see page oegchamp›.
 
-‹list of cup winners, see page oegcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,0 +1,32 @@
+-- removing nav(igation) section:
+
+‹Serie A, see §seriea›
+‹Coppa Italia, see §coppa›
+‹Serie B, see §serieb›
+
+
+-- removing nav(igation) section:
+
+‹2020/21, see page ital2021›.
+
+‹2022/23, see page ital2023›.
+
+‹list of champions, see page italchamp›.
+
+‹list of 2nd division champions, see page ital2champ›.
+
+‹list of 3rd division champions, see page ital3champ›.
+
+‹list of final tables, see page italhist›.
+
+‹list of cup winners, see page italcuphist›.
+
+‹list of super cup winners, see page italsupcuphist›.
+
+‹list of topscorers, see page italtops›.
+
+‹list of 2nd division topscorers, see page ital2tops›.
+
+‹list of 3rd division topscorers, see page ital3tops›.
+
+

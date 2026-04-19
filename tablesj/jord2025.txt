@@ -1,4 +1,5 @@
   <!--
+     title:  Jordan 2024/25
      source: https://rsssf.org/tablesj/jord2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Jordan 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Jordan Professional League 2024/25, see §jpl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Jordan Professional League 2024/25  ‹§jpl›
 
-<!-- start pre -->
 Final Table:
 
  1.Al-Hussein                  22  16  5  1  53-15  53  [C]  Champions
@@ -311,17 +309,10 @@ Final Table:
 11.FC Ma'an                    22   5  3 14  20-39  18       Relegated
 12.Mgaear Al-Sarhan            22   3  4 15  16-44  13       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page jord2024›
 
-‹list of champions, see page jordchamp›
 
-‹list of cup winners, see page jordcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

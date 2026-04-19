@@ -1,4 +1,5 @@
   <!--
+     title:  Bangladesh 2025/26
      source: https://rsssf.org/tablesb/bang2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Bangladesh 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Bangladesh Premier League 2025/26, see §nat›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Bangladesh Premier League 2025/26  ‹§nat›
 
-<!-- start pre -->
 NB: eighteenth edition
 
 Table:
@@ -124,17 +122,10 @@ Table:
  9.Arambagh KS (Dhaka)                   7   1  2  4   4- 9   5  [P]
 10.Fakirerpool Young Men's Club (Dhaka)  7   1  2  4   4-14   5
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page bang2025›
 
-‹list of champions, see page bangchamp›
 
-‹list of cup winners, see page bangcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

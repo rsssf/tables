@@ -1,4 +1,5 @@
   <!--
+     title:  England 2002/03
      source: https://rsssf.org/tablese/eng03.html
     -->
   
@@ -6,7 +7,6 @@
 
 == England 2002/03
 
-<!-- start pre -->
 Premiership
 
 Final Table:
@@ -1240,27 +1240,27 @@ Sunderland             2-2 Blackburn [aet 3-0 pens: Phillips 10,McCann 79; Flitc
 
 Fifth Round
 [Sat Feb 15]
-Manchester Utd    0-2 Arsenal [Edu 34,Wiltord 52 - 67,209]
-Sheffield Utd    2-0 Walsall [Mooney 37,Ndlovu 56 - 17,510]
-Southampton    2-0 Norwich [A Svensson 71,Tessem 74 - 31,103]
-Sunderland    0-1 Watford [Smith 66p - 26,916]
+Manchester Utd      0-2 Arsenal [Edu 34,Wiltord 52 - 67,209]
+Sheffield Utd      2-0 Walsall [Mooney 37,Ndlovu 56 - 17,510]
+Southampton      2-0 Norwich [A Svensson 71,Tessem 74 - 31,103]
+Sunderland      0-1 Watford [Smith 66p - 26,916]
 [Sun Feb 16]
-Crystal P    1-2 Leeds [Gray 35; Kell 33,Kewell 73 - 24,512]
-Fulham      1-1 Burnley [Malbranque 45; Moore 4 - 13,062]
-Stoke City    0-2 Chelsea [Hasselbaink 52,Gronkjaer 76 - 26,615]
-Wolverhampton    3-1 Rochdale [Ndah 32,Miller 79,Proudlock 90; Melaugh 52 - 23,921]
+Crystal P      1-2 Leeds [Gray 35; Kell 33,Kewell 73 - 24,512]
+Fulham         1-1 Burnley [Malbranque 45; Moore 4 - 13,062]
+Stoke City      0-2 Chelsea [Hasselbaink 52,Gronkjaer 76 - 26,615]
+Wolverhampton      3-1 Rochdale [Ndah 32,Miller 79,Proudlock 90; Melaugh 52 - 23,921]
 
 5th Rnd Replay
 [Wed 26 Feb]
-Burnley      3-0 Fulham [Taylor 27,I Moore 35,Diallo 52 - 11,635]
+Burnley         3-0 Fulham [Taylor 27,I Moore 35,Diallo 52 - 11,635]
 
 Quarter Finals
 [Sat 8 Mar]
-Arsenal      2-2 Chelsea [Jeffers 37,Henry 45; Terry 3,Lampard 84 - 38,104]
+Arsenal         2-2 Chelsea [Jeffers 37,Henry 45; Terry 3,Lampard 84 - 38,104]
 [Sun 9 Mar]
-Sheffield Utd    1-0 Leeds [Kabba 78 - 24,633]
-Watford      2-0 Burnley [Marsden 56,Butler og 81 - 31,715]
-Southampton    2-0 Wolves [Smith 74,Glass 80 - 20,336]
+Sheffield Utd      1-0 Leeds [Kabba 78 - 24,633]
+Watford         2-0 Burnley [Marsden 56,Butler og 81 - 31,715]
+Southampton      2-0 Wolves [Smith 74,Glass 80 - 20,336]
 
 Quarter Final Replay
 [Tue Mar 25]
@@ -2897,8 +2897,8 @@ Tranmere       3-0 QPR [Haworth 54,Jones 60,71 - 8,434]
 Wigan          2-0 Swindon [Teale 42,Ellington 90 - 6,114]
 Wycombe        1-2 Luton [Dixon 65; Howard 21,34 - 7,740]
 [Sun Dec 29]
-Cardiff         4-0 Huddersfield [Bowen 19,64,Earnshaw 44,73 - 13,703]
-Crewe         1-2 Oldham [Hulse 56; Corazzin 26,Eyres 61p - 9,006]
+Cardiff          4-0 Huddersfield [Bowen 19,64,Earnshaw 44,73 - 13,703]
+Crewe          1-2 Oldham [Hulse 56; Corazzin 26,Eyres 61p - 9,006]
 
 [Wed Jan 1]
 Barnsley       1-2 Northampton [Lumsdon 24; Lumsdon og 45,Stamp 70 - 9,531]
@@ -2932,7 +2932,7 @@ QPR            1-0 Barnsley [Pacquette 11 - 11,217]
 (Other games postponed due to frozen pitches)
 
 [Tue Jan 14]
-Oldham         2-1 Brentford [Hall 22,Duxbury 46; O'Connor 28 - 5,039]
+Oldham          2-1 Brentford [Hall 22,Duxbury 46; O'Connor 28 - 5,039]
 
 [Sat Jan 18]
 Barnsley       2-3 Luton [Betsy 1,Dyer 76p; Spring 45,Thorpe 50,64 - 9,079]
@@ -2949,9 +2949,9 @@ Wigan          2-1 Colchester [De Vos 44,Liddell 74p; Keith 90p - 5,792]
 Wycombe        2-2 Oldham [Harris 71,Brown 83p; Andrews 26,Carss 84 - 6,226]
 
 [Tue Jan 21]
-Notts C         3-2 Stockport [Stallard 55,Heffernan 67,Caskey 75; Beckett 15,30 - 4,392]
+Notts C          3-2 Stockport [Stallard 55,Heffernan 67,Caskey 75; Beckett 15,30 - 4,392]
 [Wed Jan 22]
-Swindon         1-1 Blackpool [Mgiloranzi 20;Taylor 61 - 4,787]
+Swindon          1-1 Blackpool [Mgiloranzi 20;Taylor 61 - 4,787]
 
 [Sat Jan 25]
 Bristol C      1-1 Stockport [Roberts 50; Beckett 22 - 10,831]
@@ -2971,7 +2971,7 @@ Swindon        2-1 Wigan [Invincibile 24,Gurney 35; McCulloch 55 - 5,238]
 Mansfield      1-2 Wigan [Christie 50; Ellington 39,Liddell 43 - 5,524]
 
 [Fri 31 Jan]
-Cardiff         1-1 Oldham [Bowen 35; Eyres 87 - 12,579]
+Cardiff          1-1 Oldham [Bowen 35; Eyres 87 - 12,579]
 [Sat 1 Feb]
 Barnsley       1-1 Swindon [Fallon 14; Invincibile 34 - 8,661]
 Blackpool      0-0 Bristol C [7,290]
@@ -4836,9 +4836,10 @@ Doncaster Rovers promoted to Fourth Level
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

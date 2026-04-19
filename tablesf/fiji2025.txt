@@ -1,4 +1,5 @@
   <!--
+     title:  Fiji 2025
      source: https://rsssf.org/tablesf/fiji2025.html
     -->
   
@@ -6,21 +7,12 @@
 
 == Fiji 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §nfl›
-‹Senior League, see §pdfl›
-‹Interdistrict Championship, see §idc›
-‹FACT 2025, see §fact›
-‹Battle of the Giants 2025, see §bog›
-‹Champion vs Champion 2025/26, see §cvc›
-‹National Club Championship 2025, see §ncc›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§nfl›
 
-<!-- start pre -->
 NB: for district representations
 
 Final Table:
@@ -224,13 +216,13 @@ Final Table:
 --------------------------------------------
 10.Tavua             18   0  3 15  12-51   3  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Senior League  ‹§pdfl›
 
-<!-- start pre -->
 ‹Viti Levu Zone, see §viti› | ‹Vanua Levu Zone, see §vanua› | ‹Final, see §final›
 
 Viti Levu Zone  ‹§viti›
@@ -265,13 +257,13 @@ Seaqaqa            0-1 Tailevu Naitasiri
 
 NB: Tailevu Naitasiri promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Interdistrict Championship  ‹§idc›
 
-<!-- start pre -->
 Super Premier Division Section
 
 NB: all matches at Govind Park, Ba
@@ -378,13 +370,13 @@ Rakiraki           2-2 Bua                [7-6 pen]
 Final [Oct 12]
 Lami               2-6 Rakiraki           [aet]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== FACT 2025  ‹§fact›
 
-<!-- start pre -->
 NB: all matches at HFC Bank Stadium, Suva
 
 Group Stage
@@ -442,13 +434,13 @@ Suva               0-1 Rewa
 Final [Jun 8]
 Labasa             1-1 Rewa               [aet, 3-1 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Battle of the Giants 2025  ‹§bog›
 
-<!-- start pre -->
 NB: all matches at Subrail Park, Labasa
 
 Group Stage
@@ -506,25 +498,25 @@ Rewa               6-0 Lautoka
 Final [Aug 10]
 Labasa             2-1 Rewa
   [Rusiate Doidoi 17, Simione Ragoneturaga 64; Josaia Sela 34]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Champion vs Champion 2025/26  ‹§cvc›
 
-<!-- start pre -->
 First Leg [Feb 8, 2026; Ratu Cakobau Park, Nausori]
 Rewa               1-0 Labasa
 
 Second Leg [Feb 14, 2026; Subrail Park, Labasa]
 Labasa             0-0 Rewa
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== National Club Championship 2025  ‹§ncc›
 
-<!-- start pre -->
 Qualifiying Stage
 
 NB: holders Northpole FC automatically qualified for final stage
@@ -603,19 +595,10 @@ Group B
 Final [Dec 14]
 4R                0-3 Northpole
   [Ratu Anare 13, Rusiate Doidoi 44, Ilisoni Lolaivalu 84]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page fiji2024›
 
-‹2026, see page fiji2026›
 
-‹list of champions, see page fijichamp›
-
-‹list of cup winners, see page fijicuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

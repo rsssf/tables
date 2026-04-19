@@ -1,4 +1,5 @@
   <!--
+     title:  Latvia 2026
      source: https://rsssf.org/tablesl/let2026.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Latvia 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Virslīga, see §virs›
-‹1. Līga, see §first›
-‹2. Līga, see §second›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Virslīga  ‹§virs›
 
-<!-- start pre -->
 Table:
 
  1.RFS (Rīga)             3   3  0  0   7- 1   9
@@ -428,13 +424,13 @@ Super Nova  -  Daugavpils
 Grobina     -  Liepaja
 Riga        -  RFS
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1. Līga  ‹§first›
 
-<!-- start pre -->
 Table:
 
  1.FC Valmiera            2   2  0  0   8- 2   6  [P]
@@ -522,7 +518,7 @@ Mahamadou Dembélé (Valmiera)    2  [Mali]
 Emīls Dūmiņš (Smiltene/BJSS)    2
 Gustavs Krieviņš (Mārupe)       2
 Rūdolfs Muižnieks (Leevon PPK)  2
-Mikaze Nagasawa  (RFS-2)         2  [Japan]
+Mikaze Nagasawa   (RFS-2)         2  [Japan]
 
 Round 3
 [Apr 10]
@@ -795,13 +791,13 @@ Metta          -  Marupe
 JDFS Alberts   -  Ventspils
 Riga Mariners  -  Leevon PPK
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. Līga  ‹§second›
 
-<!-- start pre -->
 ‹A Grupa, see §2a› | ‹B Grupa, see §2b›
 
 A Grupa  ‹§2a›
@@ -1162,19 +1158,10 @@ Speks VSS     -  Augsdaugava
 [Sep 20]
 Daugavpils-2  -  Alberts-2
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page let2025›.
 
-‹list of champions, see page letchamp›.
 
-‹list of cup winners, see page letcuphist›.
-
-‹list of topscorers, see page lettops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Kuwait 2024/25
      source: https://rsssf.org/tablesk/kuw2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Kuwait 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §prem›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§prem›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Championship Group, see §champ› | ‹Relegation Group, see §rel›
 
 Regular Stage  ‹§reg›
@@ -312,17 +310,10 @@ Final Table:
  9.Khitan          21   2  6 13  14-36  12       Relegated
 10.Al-Yarmouk      21   2  6 13  25-51  12  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page kuw2024›
 
-‹list of champions, see page kuwchamp›
 
-‹list of cup winners, see page kuwcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

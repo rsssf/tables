@@ -1,4 +1,5 @@
   <!--
+     title:  Azerbaijan 2025/26
      source: https://rsssf.org/tablesa/azer2026.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Azerbaijan 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Misli Premyer Liqası, see §premyer›
-‹Bizon Azärbaycan Kuboku, see §kuboku›
-‹Azärbaycan Liqa 1, see §liqa1›
-‹Azärbaycan Liqa 2, see §liqa2›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Misli Premyer Liqası  ‹§premyer›
 
-<!-- start pre -->
 Table:
 
  1.Sabah (Bakı)          25  19  5  1  60-17  62
@@ -608,13 +603,13 @@ Imisli    -  Karvan
 Sumqayit  -  Qarabag
 Araz      -  Zira
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Bizon Azärbaycan Kuboku  ‹§kuboku›
 
-<!-- start pre -->
 First Qualifying Round
 
 [Oct 9]
@@ -711,13 +706,13 @@ Qarabağ (Ağdam)  2-2  -   Sabah (Bakı)
   [1. Kady Borges 29, 60 - Umarali Rahmonaliyev 23, 65 pen. Att: 21,000]
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Azärbaycan Liqa 1  ‹§liqa1›
 
-<!-- start pre -->
 Table:
 
  1.Şäfa (Bakı)           20  13  6  1  45-18  45
@@ -1135,13 +1130,13 @@ Promotion/Relegation Playoff Liqa 1/Liqa 2 [May 27]
 
 Promotion/Relegation Playoff Premyer Liqa/Liqa 1 [May 28]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Azärbaycan Liqa 2  ‹§liqa2›
 
-<!-- start pre -->
 First Stage
 
 Table:
@@ -1435,19 +1430,10 @@ Round 27
 
 Promotion/Relegation Playoff Liqa 2/Region Liqa [May 29]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page azer2025›.
 
-‹list of champions, see page azerchamp›.
 
-‹list of cup winners, see page azercuphist›.
-
-‹list of super cup winners, see page azersupcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

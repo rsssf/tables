@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2018
      source: https://rsssf.org/tablesu/usa2018.html
     -->
   
@@ -6,16 +7,12 @@
 
 == USA 2018
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Major League Soccer, see §mls› (Division 1)
-‹US Open Cup, see §open›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Major League Soccer  ‹§mls›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
 Regular Season  ‹§reg›
@@ -670,13 +667,13 @@ MLS Cup [Dec 8, Mercedes-Benz Stadium, Atlanta]
 Atlanta United FC      2-0 Portland Timbers
   [Josef Martínez 39, Franco Escobar 54]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== US Open Cup  ‹§open›
 
-<!-- start pre -->
 Third Round
 [May 22]
 North Carolina FC (USL)         4-1 Ocean City Nor'easters (PDL)
@@ -739,27 +736,10 @@ Houston Dynamo                  3-3 Los Angeles FC                  [aet, 7-6 pe
 
 Final [Sep 26, BBVA Compass Stadium, Houston, Texas]
 Houston Dynamo                  3-0 Philadelphia Union
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2017, see page usa2017›
 
-‹2019, see page usa2019›
 
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

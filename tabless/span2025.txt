@@ -1,4 +1,5 @@
   <!--
+     title:  Spain 2024/25
      source: https://rsssf.org/tabless/span2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Spain 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §laliga›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División  ‹§laliga›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Barcelona                  38  28  4  6 102-39  88       Champions
@@ -685,33 +683,10 @@ Final Table:
 19.UD Las Palmas                 38   8  8 22  40-61  32       Relegated
 20.Real Valladolid               38   4  4 30  26-90  16  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page span2024›.
 
-‹list of champions, see page spanchamp›.
 
-‹list of 2nd level champions, see page span2champ›.
-
-‹list of cup winners, see page spancuphist›.
-
-‹list of super cup winners, see page spansupcuphist›.
-
-‹list of league cup winners, see page spanleagcuphist›.
-
-‹list of copa rfef winners, see page spanrfefcuphist›.
-
-‹list of final tables, see page spanhist›.
-
-‹all-time table, see page spanalltime›.
-
-‹list of top scorers, see page spantops›.
-
-‹list of foundation dates, see page spanfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

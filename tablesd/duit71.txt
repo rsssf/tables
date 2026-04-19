@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1970/71
      source: https://rsssf.org/tablesd/duit71.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1970/71
 
-<!-- start pre -->
 
 Final Table
 
@@ -602,9 +602,10 @@ Borussia Mönchengladbach 1970/71
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

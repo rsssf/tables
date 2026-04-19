@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2009/10
      source: https://rsssf.org/tablesm/mex2-2010.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Mexico 2009/10
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División Nacional, see §pdn›
-‹Torneo Interliga 2010, see §inter›
-‹Liga de Ascenso, see §ascenso›
-‹Liga Premier de Ascenso and Liga de Ascenso de Nuevos Talentos, see §ascenso2›
-‹Tercera Division Profesional, see §tercera›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División Nacional  ‹§pdn›
 
-<!-- start pre -->
 ‹Apertura 2009, see §1aper› | ‹Clausura 2010, see §1clau› | ‹Tabla Anual 2009/10, see §1agg›
 
 Apertura 2009  ‹§1aper›
@@ -1127,13 +1121,13 @@ Tabla Anual 2009/10  ‹§1agg›
 17.San Luis                            34   8 11 15  39-53  35
 18.Indios                              34   4  8 21  17-55  21
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Torneo Interliga 2010  ‹§inter›
 
-<!-- start pre -->
 NB: to decide 2 more Mexican teams in Copa Libertadores 2010
 
 
@@ -1200,13 +1194,13 @@ Puebla            2-3 Estudiantes
 
 NB: winners semifinals qualify for Copa Libertadores 2010
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga de Ascenso  ‹§ascenso›
 
-<!-- start pre -->
 ‹Apertura 2009, see §2aper› | ‹Clausura 2010, see §2clau› | ‹Relegation Table, see §2releg›
 
 Apertura 2009  ‹§2aper›
@@ -1989,13 +1983,13 @@ Guerreros de Hermosillo    98    39      30      20       89 0,9082 Relegated
 
 NB: Guerreros de Hermosillo eventually allowed to remain at 2nd level
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga Premier de Ascenso and Liga de Ascenso de Nuevos Talentos  ‹§ascenso2›
 
-<!-- start pre -->
 ‹Liga Premier de Ascenso, see §premiera› | ‹Liga de Ascenso de Nuevos Talentos, see §asctalent›
 
 Liga Premier de Ascenso  ‹§premiera›
@@ -2328,13 +2322,13 @@ Correcaminos UAT promoted to Liga Premier de Ascenso 2010-11
 Alto Rendimiento Tuzo FC Excelsior relegated to Fourth Level,
 later revoked by Mexican FA
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Tercera Division Profesional  ‹§tercera›
 
-<!-- start pre -->
 
 Group 1
  1 Chetumal FC                               30 21  5  4  79-28 71 (3) Qualified to Liguilla de Ascenso
@@ -2845,27 +2839,10 @@ Guadalajara champions.
 "Filiales" cannot promote to Third Level
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2008/09, see page mex09›.
 
-‹2010/11, see page mex2011›.
 
-‹list of champions, see page mexchamp›.
-
-‹list of final tables, see page mexhist›.
-
-‹list of divisional movements, see page mexall›.
-
-‹list of cup winners, see page mexcuphist›.
-
-‹list of super cup winners, see page mexsupcup›.
-
-‹list of topscorers, see page mextops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

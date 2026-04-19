@@ -1,4 +1,5 @@
   <!--
+     title:  Curaçao 2025/26
      source: https://rsssf.org/tablesc/curacao2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Curaçao 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Promé Divishon, see §curpaga›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Promé Divishon  ‹§curpaga›
 
-<!-- start pre -->
 ‹Regular Season, see §reg›
 
 Regular Season  ‹§reg›
@@ -239,17 +237,10 @@ Table:
  9.Sport Club Atlétiko Saliña          17   3  4 10  12-32  13
 10.SV SUBT (Kintjan, Willemstad)       17   1  2 14  15-59   5
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page curacao2025›
 
-‹list of champions, see page curacaochamp›
 
-‹list of cup winners, see page curacaocuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

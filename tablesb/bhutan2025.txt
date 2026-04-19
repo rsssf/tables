@@ -1,4 +1,5 @@
   <!--
+     title:  Bhutan 2025
      source: https://rsssf.org/tablesb/bhutan2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Bhutan 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League 2025, see §nat›
-‹Premier League Qualifiers 2025, see §plq›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League 2025  ‹§nat›
 
-<!-- start pre -->
 Final Table:
 
  1.Paro FC                   18  16  1  1  74-17  49  [C]  Champions
@@ -275,13 +272,13 @@ Final Table:
  9.Southern City FC          18   3  1 14  15-59  10  [‹P, see §plq›]
 10.Samtse FC                 18   2  2 14  22-87   8
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Premier League Qualifiers 2025  ‹§plq›
 
-<!-- start pre -->
 Final Table:
 
  1.Southern City FC (Gelephu) 5   4  0  1  10- 5  12  [2-1]  ‹Qualified, see §nat›
@@ -342,15 +339,10 @@ Final Table:
  5.BFF Academy U-16           5   1  1  3   3-12   4
  6.Namlha FC                  5   0  1  4   3-18   1
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page bhutan2024›
 
-‹list of champions, see page bhutanchamp›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

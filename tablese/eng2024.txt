@@ -1,4 +1,5 @@
   <!--
+     title:  England 2023/24
      source: https://rsssf.org/tablese/eng2024.html
     -->
   
@@ -6,19 +7,12 @@
 
 == England 2023/24
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
-‹Championship, see §champ›
-‹Division 1, see §first›
-‹Division 2, see §second›
-‹National League, see §conf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Manchester City         38  28  7  3  96-34  91  [C]  Champions
@@ -649,13 +643,13 @@ Final Table:
 NB: Everton 8 points deducted for financial reasons;
     Nottingham Forest 4 points deducted for financial reasons
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Championship  ‹§champ›
 
-<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Stage  ‹§2reg›
@@ -707,13 +701,13 @@ Southampton   3-1 West Bromwich
 Final [May 26]
 Leeds         0-1 Southampton
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 1  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 Regular Stage  ‹§3reg›
@@ -770,13 +764,13 @@ Peterborough  1-1 Oxford
 Final [May 18]
 Bolton        0-2 Oxford
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2  ‹§second›
 
-<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 Regular Stage  ‹§4reg›
@@ -830,13 +824,13 @@ Milton Keynes 1-5 Crawley
 Final [May 19]
 Crawley       2-0 Crewe
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== National League  ‹§conf›
 
-<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 Regular Stage  ‹§5reg›
@@ -896,31 +890,10 @@ Bromley       3-1 Altrincham
 Final [May 5]
 Bromley       2-2 Solihull      [aet, 4-3 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2022/23, see page eng2023›.
 
-‹2024/25, see page eng2025›.
 
-‹list of champions, see page engchamp›.
-
-‹list of 2nd division champions, see page eng2champ›.
-
-‹list of full tables, see page ../engpaul/FLA/league›.
-
-‹list of divisional movements, see page engall›.
-
-‹list of cup winners, see page engcuphist›.
-
-‹list of super cup (charity shield) winners, see page engsupcuphist›.
-
-‹list of league cup winners, see page engleagcuphist›.
-
-‹list of league trophy winners, see page engassmembcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

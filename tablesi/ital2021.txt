@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2020/21
      source: https://rsssf.org/tablesi/ital2021.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Italy 2020/21
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Serie B, see §serieb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Internazionale   38  28  7  3  89-35  91                        Champions
@@ -631,13 +627,13 @@ Final Table:
 19.FC Crotone          38   6  5 27  45-92  23  [P]                   Relegated
 20.Parma Calcio        38   3 11 24  39-83  20                        Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
-<!-- start pre -->
 Round 1
 [Sep 22]
 Südtirol        2-1 Latte Dolce
@@ -710,7 +706,7 @@ Entella         2-1 AlbinoLeffe
   [Koutsoupias 30, Petrovic 38; Gosu 90+2]
 Pisa            2-0 Juve Stabia
   [Sibilli 7, 50pen]
-SPAL            0-0 Bari            [aet, 4-2 pen]
+SPAL             0-0 Bari            [aet, 4-2 pen]
 Pordenone       3-0 Casarano
   [Rossetti 20, Butic 35pen, Secli 76]
 Salernitana     3-0 Südtirol
@@ -832,13 +828,13 @@ Atalanta: Gollini, Toloi (76 Djimsiti), Romero, Palomino, Hateboer (76 Ilicic), 
 Juventus: Buffon, Cuadrado, De Ligt, Chiellini, Danilo, McKennie, Bentancur, Rabiot, Chiesa (74 Dybala),
   Kulusevski (83 Bonucci), Cristiano Ronaldo. Tr.: Pirlo
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Season  ‹§2reg›
@@ -899,33 +895,10 @@ Cittadella      0-1 Venezia
 
 Second Leg [May 27]
 Venezia         1-1 Cittadella
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2019/20, see page ital2020›.
 
-‹2021/22, see page ital2022›.
 
-‹list of champions, see page italchamp›.
-
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  England 2013/14
      source: https://rsssf.org/tablese/eng2014.html
     -->
   
@@ -6,20 +7,12 @@
 
 == England 2013/14
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
-‹Cup Tournaments, see §cups›
-‹Championship, see §champ›
-‹Division 1, see §first›
-‹Division 2, see §second›
-‹Conference, see §conf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Manchester City         38  27  5  6 102-37  86  Champions
@@ -618,13 +611,13 @@ Final Table:
 19.Fulham                  38   9  5 24  40-85  32  Relegated
 20.Cardiff City            38   7  9 22  32-74  30  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§cups›
 
-<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
 FA Cup  ‹§facup›
@@ -970,13 +963,13 @@ Manchester United       2-1 Sunderland              [aet, 1-2 pen]
 Final [Mar 2, London]
 Manchester City         3-1 Sunderland
   [Yaya Touré 55, Nasri 56, Jesús Navas 90; Borini 10]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Championship  ‹§champ›
 
-<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Stage  ‹§2reg›
@@ -1030,13 +1023,13 @@ QPR           2-1 Wigan         [aet]
 Final [May 24]
 Derby         0-1 QPR
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 1  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 Regular Stage  ‹§3reg›
@@ -1088,13 +1081,13 @@ Rotherham     3-1 Preston
 Final [May 25]
 Leyton        2-2 Rotherham     [aet, 3-4 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2  ‹§second›
 
-<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 Regular Stage  ‹§4reg›
@@ -1148,13 +1141,13 @@ Southend      2-2 Burton
 Final [May 26]
 Fleetwood     1-0 Burton
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Conference  ‹§conf›
 
-<!-- start pre -->
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
@@ -1213,31 +1206,10 @@ Gateshead     3-1 Grimsby
 Final [May 18]
 Cambridge     2-1 Gateshead
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2012/13, see page eng2013›.
 
-‹2014/15, see page eng2015›.
 
-‹list of champions, see page engchamp›.
-
-‹list of 2nd division champions, see page eng2champ›.
-
-‹list of full tables, see page ../engpaul/FLA/league›.
-
-‹list of divisional movements, see page engall›.
-
-‹list of cup winners, see page engcuphist›.
-
-‹list of super cup (charity shield) winners, see page engsupcuphist›.
-
-‹list of league cup winners, see page engleagcuphist›.
-
-‹list of league trophy winners, see page engassmembcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

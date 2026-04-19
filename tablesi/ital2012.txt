@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2011/12
      source: https://rsssf.org/tablesi/ital2012.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Italy 2011/12
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Serie B, see §serieb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.Juventus FC         38  23 15  0  68-20  84  Champions
@@ -64,13 +60,13 @@ AC Siena             2-2 1-1 3-0 0-1 2-0 0-0 0-2 0-1 1-4 0-1 3-0 1-1 0-2 4-1 0-2
 Udinese Calcio       0-0 2-0 0-0 2-1 4-1 2-0 2-0 0-0 1-2 1-3 2-1 2-2 3-0 1-0 3-1 2-0 2-0 2-1     2-1
 AC Chievo Verona     0-0 0-1 2-0 3-2 1-0 1-0 2-1 0-0 0-1 0-2 1-0 1-0 2-2 1-0 1-2 0-0 0-3 1-1 0-0
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
-<!-- start pre -->
 First Round
 [Aug 6]
 Piacenza            3-0 Pontedera
@@ -282,13 +278,13 @@ Juventus: Storari, Barzagli, Bonucci, Caceres, Pirlo,
  Del Piero (68 Vucinic), Borriello (72 Quagliarella).
  Tr.: Conte
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
 
 Regular Season  ‹§2reg›
@@ -380,35 +376,10 @@ Empoli      3-2 Vicenza
 NB: Vicenza relegated but later readmitted to Serie B due to the forced
     relegation of Lecce to the third level
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2010/11, see page ital2011›.
-
-‹2012/13, see page ital2013›.
 
 
 
-‹list of champions, see page italchamp›.
 
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

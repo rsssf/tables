@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 1987
      source: https://rsssf.org/tablesb/braz87.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 1987
 
-<!-- start pre -->
 Originally a championship with 28 teams was to be organized by the CBF;
 however, Botafogo and Coritiba, who had been left out, went to a sports
 court and there won the right to participate.  This of course led to many
@@ -270,10 +270,10 @@ Goals Atlético-MG: Chiquinho, Renato and Batista. Fluminense: Assis.
 FINAL TABLE - FIRST STAGE
 GROUP A
 TEAM              Pts   P   W   D   L   GF   GA   DIF
-1-ATLÉTICO-MG    14    8   6   2   0   14    3    11     Qualified
+1-ATLÉTICO-MG     14    8   6   2   0   14    3    11     Qualified
 2-GRÊMIO          12    8   5   2   1    8    1     7
 3-PALMEIRAS        9    8   4   1   3    6    7    -1
-4-BOTAFOGO     9    8   2   5   1    6    4     2
+4-BOTAFOGO      9    8   2   5   1    6    4     2
 5-BAHIA            7    8   3   1   4    6   10    -4
 6-FLAMENGO         7    8   2   3   3    6    8    -2
 7-SANTA CRUZ       6    8   1   4   3    4   10    -6
@@ -527,14 +527,14 @@ Goal Careca.
 FINAL TABLE - SEGUNDO STAGE
 GROUP A
 TEAM              Pts   P   W   D   L   GF   GA   DIF
-1-ATLÉTICO-MG     11    7   4   3   0    7    2      5     *
-2-FLAMENGO        10    7   4   2   1   10    4      6     Qualified
-3-PALMEIRAS        7    7   3   1   3    5    6     -1
-4-BOTAFOGO         6    7   2   2   3    5    5      0
-5-GRÊMIO           6    7   2   2   3    6    7     -1
-6-BAHIA            6    7   1   4   2    5    8     -3
-7-SANTA CRUZ       5    7   2   1   4    6   10     -4
-8-CORINTHIANS      5    7   1   3   3    5    7     -2
+1-ATLÉTICO-MG     11    7   4   3   0    7    2       5     *
+2-FLAMENGO        10    7   4   2   1   10    4       6     Qualified
+3-PALMEIRAS        7    7   3   1   3    5    6      -1
+4-BOTAFOGO         6    7   2   2   3    5    5       0
+5-GRÊMIO           6    7   2   2   3    6    7      -1
+6-BAHIA            6    7   1   4   2    5    8      -3
+7-SANTA CRUZ       5    7   2   1   4    6   10      -4
+8-CORINTHIANS      5    7   1   3   3    5    7      -2
 
 GROUP B
 TEAM              Pts   P   W   D   L   GF   GA   DIF
@@ -592,7 +592,7 @@ CR Flamengo were the 1987 Brazilian champions.
 
 BRAZILIAN CHAMPIONSHIP 1987 - FINAL TABLE
 TEAM              Pts   P   W   D   L   GF   GA   DIF
-1-FLAMENGO    24   19   9   6   4   22   15     7
+1-FLAMENGO     24   19   9   6   4   22   15     7
 2-INTERNACIONAL   18   19   6   6   7   14   12     2
 3-ATLÉTICO-MG     25   17  10   5   2   23    9    14
 4-CRUZEIRO        21   17   6   9   2   16    7     9
@@ -642,99 +642,99 @@ GROUPS A AND B
 1st Stage
 
 [Sep 13]
-Bangu           1-1  Joinville
-Criciúma        1-2  Ceará
-Treze           0-0  Atlético-PR
-CSA             0-1  Guarani
+Bangu           1-1   Joinville
+Criciúma        1-2   Ceará
+Treze           0-0   Atlético-PR
+CSA             0-1   Guarani
 
 [Sep 16]
-Vitória         3-1  Joinville
-Internacional   1-0  Ceará
-Sport           1-1  Atlético-PR
-Treze           1-3  Guarani
+Vitória         3-1   Joinville
+Internacional   1-0   Ceará
+Sport           1-1   Atlético-PR
+Treze           1-3   Guarani
 
 [Sep 17]
-Criciúma        2-0  Náutico
+Criciúma        2-0   Náutico
 [Sep 19]
-Rio Branco      0-1  CSA
-Vitória         1-2  Atlético-PR
+Rio Branco      0-1   CSA
+Vitória         1-2   Atlético-PR
 
 [Sep 20]
-Internacional   2-1  Treze
-Atlético-GO     1-0  Ceará
-Sport           2-0  Guarani
-Criciúma        1-0  Bangu
-Joinville       2-1  Náutico
+Internacional   2-1   Treze
+Atlético-GO     1-0   Ceará
+Sport           2-0   Guarani
+Criciúma        1-0   Bangu
+Joinville       2-1   Náutico
 
 [Sep 23]
-Atlético-PR     1-2  Bangu
-Joinville       0-0  Treze
-Atlético-GO     3-1  CSA
-Sport           3-0  Criciúma
+Atlético-PR     1-2   Bangu
+Joinville       0-0   Treze
+Atlético-GO     3-1   CSA
+Sport           3-0   Criciúma
 
 [Sep 24]
-Náutico         0-1  Rio Branco
+Náutico         0-1   Rio Branco
 
 [Sep 27]
-Ceará           1-1  Rio Branco
-Náutico         2-1  Atlético-GO
-Bangu           1-0  Internacional
-Guarani         0-1  Vitória
-Joinville       0-1  Sport
-Treze           2-1  Criciúma
-Atlético-PR     1-1  CSA
+Ceará           1-1   Rio Branco
+Náutico         2-1   Atlético-GO
+Bangu           1-0   Internacional
+Guarani         0-1   Vitória
+Joinville       0-1   Sport
+Treze           2-1   Criciúma
+Atlético-PR     1-1   CSA
 
 [Sep 30]
-Portuguesa      1-1  Sport
-Internacional   0-0  Vitória
-Bangu           0-0  Guarani
-CSA             1-2  Criciúma
-Treze           3-1  Atlético-GO
+Portuguesa      1-1   Sport
+Internacional   0-0   Vitória
+Bangu           0-0   Guarani
+CSA             1-2   Criciúma
+Treze           3-1   Atlético-GO
 [Oct 1]
-Ceará           1-0  Joinville
+Ceará           1-0   Joinville
 
 [Oct 3]
-Internacional   0-1  Náutico
+Internacional   0-1   Náutico
 [Oct 4]
-CSA             3-2  Joinville
-Criciúma        2-1  Vitória
-Atlético-GO     0-0  Sport
-Bangu           1-0  Rio Branco
-Ceará           1-1  Portuguesa
+CSA             3-2   Joinville
+Criciúma        2-1   Vitória
+Atlético-GO     0-0   Sport
+Bangu           1-0   Rio Branco
+Ceará           1-1   Portuguesa
 
 [Oct 7]
-CSA             0-2  Internacional
-Rio Branco      0-1  Sport
+CSA             0-2   Internacional
+Rio Branco      0-1   Sport
 [Oct 8]
-Náutico         2-1  Portuguesa
+Náutico         2-1   Portuguesa
 [Oct 10]
-Atlético-GO     1-0  Bangu
+Atlético-GO     1-0   Bangu
 
 [Oct 11]
-Rio Branco      2-1  Treze
-Sport           4-0  Internacional
-Guarani         4-2  Náutico
-Vitória         2-1  Portuguesa
-Ceará           0-1  Atlético-PR
+Rio Branco      2-1   Treze
+Sport           4-0   Internacional
+Guarani         4-2   Náutico
+Vitória         2-1   Portuguesa
+Ceará           0-1   Atlético-PR
 
 [Oct 13]
-Portuguesa      1-0  Treze
+Portuguesa      1-0   Treze
 [Oct 14]
-Atlético-PR     2-0  Náutico
-Rio Branco      0-0  Vitória
+Atlético-PR     2-0   Náutico
+Rio Branco      0-0   Vitória
 
 [Oct 15]
-Portuguesa      1-0  Bangu
+Portuguesa      1-0   Bangu
 
 [Oct 18]
-Portuguesa      4-0  CSA
-Guarani         1-0  Ceará
-Vitória         0-0  Atlético-GO
+Portuguesa      4-0   CSA
+Guarani         1-0   Ceará
+Vitória         0-0   Atlético-GO
 
 TIE-BRAKING GAME FOR FIRST PLACE IN GROUP A
 
 [Oct 21]
-Guarani        0-2  Atlético-PR
+Guarani        0-2   Atlético-PR
 
 FINAL TABLE - 1st Stage
 GROUP A
@@ -765,99 +765,99 @@ for being relegated to the Yellow Module and withdrew from the competition.
 GROUP A
 
 [Oct 21]
-Rio Branco      0-0  Atlético-GO
+Rio Branco      0-0   Atlético-GO
 
 [Oct 24]
-Atlético-GO     0-2  Criciúma
+Atlético-GO     0-2   Criciúma
 
 [Oct 25]
-Rio Branco      0-0  Internacional
-Guarani         2-0  Portuguesa
-Joinville       1-2  Atlético-PR
+Rio Branco      0-0   Internacional
+Guarani         2-0   Portuguesa
+Joinville       1-2   Atlético-PR
 
 [Oct 28]
-Atlético-PR     0-1  Portuguesa
-Criciúma        3-0  Rio Branco
-Internacional   1-0  Atlético-GO
-Joinville       0-2  Guarani
+Atlético-PR     0-1   Portuguesa
+Criciúma        3-0   Rio Branco
+Internacional   1-0   Atlético-GO
+Joinville       0-2   Guarani
 
 [Nov 1]
-Joinville       0-0  Rio Branco
-Guarani         2-0  Criciúma
-Portuguesa      1-0  Atlético-GO
-Internacional   1-1  Atlético-PR
+Joinville       0-0   Rio Branco
+Guarani         2-0   Criciúma
+Portuguesa      1-0   Atlético-GO
+Internacional   1-1   Atlético-PR
 
 [Nov 4]
-Criciúma        2-0  Joinville
-Atlético-PR     3-0  Atlético-GO
+Criciúma        2-0   Joinville
+Atlético-PR     3-0   Atlético-GO
 
 [Nov 8]
-Internacional   0-0  Joinville
-Atlético-GO     1-0  Guarani
-Atlético-PR     1-1  Rio Branco
-Portuguesa      0-0  Criciúma
+Internacional   0-0   Joinville
+Atlético-GO     1-0   Guarani
+Atlético-PR     1-1   Rio Branco
+Portuguesa      0-0   Criciúma
 
 [Nov 11]
-Rio Branco      2-3  Guarani
-Atlético-GO     0-0  Joinville
-Portuguesa      1-0  Internacional
+Rio Branco      2-3   Guarani
+Atlético-GO     0-0   Joinville
+Portuguesa      1-0   Internacional
 
 [Nov 15]
-Guarani         0-0  Atlético-PR
-Criciúma        0-0  Internacional
-Joinville       1-0  Portuguesa
+Guarani         0-0   Atlético-PR
+Criciúma        0-0   Internacional
+Joinville       1-0   Portuguesa
 
 [Nov 18]
-Guarani         0-0  Internacional
-Criciúma        1-1  Atlético-PR
-Portuguesa      0-1  Rio Branco
+Guarani         0-0   Internacional
+Criciúma        1-1   Atlético-PR
+Portuguesa      0-1   Rio Branco
 
 GROUP B
 
 [Oct 21]
-Bangu           2-0  Ceará
-Vitória         0-0  CSA
+Bangu           2-0   Ceará
+Vitória         0-0   CSA
 
 [Oct 25]
-CSA             1-1  Náutico
-Sport           2-1  Ceará
+CSA             1-1   Náutico
+Sport           2-1   Ceará
 
 [Oct 28]
-Bangu           2-0  Sport
-Ceará           0-2  Treze
+Bangu           2-0   Sport
+Ceará           0-2   Treze
 
 [Nov 1]
-Treze           1-1  Vitória
-CSA             0-0  Bangu
-Náutico         0-1  Sport
+Treze           1-1   Vitória
+CSA             0-0   Bangu
+Náutico         0-1   Sport
 
 [Nov 4]
-Náutico         2-2  Vitória
-Treze           0-0  Bangu
+Náutico         2-2   Vitória
+Treze           0-0   Bangu
 
 [Nov 8]
-Sport           0-0  Vitória
-Ceará           1-0  Náutico
-Treze           2-1  CSA
+Sport           0-0   Vitória
+Ceará           1-0   Náutico
+Treze           2-1   CSA
 
 [Nov 11]
-CSA             0-1  Sport
+CSA             0-1   Sport
 
 [Nov 14]
-Vitória         1-0  Ceará
+Vitória         1-0   Ceará
 [Nov 15]
-Sport           2-1  Treze
-Bangu           3-0  Náutico
+Sport           2-1   Treze
+Bangu           3-0   Náutico
 
 [Nov 18]
-Ceará           2-0  CSA
-Vitória         3-1  Bangu
-Náutico         2-1  Treze
+Ceará           2-0   CSA
+Vitória         3-1   Bangu
+Náutico         2-1   Treze
 
 TIE-BRAKING GAME FOR SECOND PLACE IN GROUP B
 
 [Nov 22]
-Bangu           1-1  Vitória
+Bangu           1-1   Vitória
 Overtime:Bangu 0-0 Vitória
 Penalties Shootouts: Bangu 4x3 Vitória
 
@@ -867,17 +867,17 @@ GROUP A
 TEAM              Pts   P   W   D   L   GF   GA   DIF
 1-Guarani         10    7   4   2   1    9    3     6     Qualified
 2-Criciúma         9    7   3   3   1    8    3     5
-3-Atlético-PR      8    7   2  4   1    8    5     3
-4-Portuguesa       7    7   3  1   3    3    4    -1
-5-Internacional    7    7   1  5   1    2    2     0
-6-Rio Branco       6    7   2  2   3    4    7    -3
-7-Joinville        5    7   1  3   3    2    6    -4
-8-Atlético-GO      4    7   1  2   4    1    7    -6
+3-Atlético-PR      8    7   2   4   1    8    5     3
+4-Portuguesa       7    7   3   1   3    3    4    -1
+5-Internacional    7    7   1   5   1    2    2     0
+6-Rio Branco       6    7   2   2   3    4    7    -3
+7-Joinville        5    7   1   3   3    2    6    -4
+8-Atlético-GO      4    7   1   2   4    1    7    -6
 
 GROUP B
 TEAM              Pts   P   W   D   L   GF   GA   DIF
 1-Sport            6    9   4   1   1    6    4     2     *
-2-Bangu            6    8   3   2   1    8    3     5    Qualified
+2-Bangu            6    8   3   2   1    8    3     5     Qualified
 3-Vitória          6    8   2   4   0    7    4     3
 4-Treze            6    6   2   2   2    7    6     1
 5-Náutico          6    4   1   2   3    5    9    -4
@@ -892,26 +892,26 @@ extra point in the semifinals.
 SEMIFINALS
 1st Leg
 [Nov 28]
-Atlético-PR     0-0  Guarani
+Atlético-PR     0-0   Guarani
 [Nov 29]
-Bangu           3-2  Sport
+Bangu           3-2   Sport
 
 2nd Leg
 [Dec 2]
-Guarani         0-0  Atlético-PR
+Guarani         0-0   Atlético-PR
 Overtime: Guarani 1-0 Atlético-PR
 [Dec 3]
-Sport           3-1  Bangu
+Sport           3-1   Bangu
 
 FINALS
 
 1st leg
 [Dec 6]
-Guarani         2-0  Sport
+Guarani         2-0   Sport
 
 2nd leg
 [Dec 13]
-Sport           3-0  Guarani
+Sport           3-0   Guarani
 Overtime: Sport 0x0 Guarani
 Penalties shootouts: Sport 11x11 Guarani
 
@@ -927,13 +927,13 @@ Recife (probably Guarani 0-0 Sport and Sport 1-0 Guarani).
 
 FINAL TABLE (doesn't include the tie-breaking games)
 TEAM              Pts   P   W   D   L   GF   GA   DIF
-1-Sport Recife    26   18  11   4   3   27   12    15    Promoted
-2-Guarani         24   18  10   4   4   21   12     9    Promoted
-3-Bangu           18   16   7   4   5   17   13     4    Promoted
-4-Atlético-PR     18   16   5   8   3   16   11     5    Promoted
-5-Criciúma        17   14   7   3   4   17   12     5    Promoted
-6-Vitória         17   14   5   7   2   15   10     5    Promoted
-7-Portuguesa      15   14   6   3   5   13   10     3    Promoted
+1-Sport Recife    26   18  11   4   3   27   12    15     Promoted
+2-Guarani         24   18  10   4   4   21   12     9     Promoted
+3-Bangu           18   16   7   4   5   17   13     4     Promoted
+4-Atlético-PR     18   16   5   8   3   16   11     5     Promoted
+5-Criciúma        17   14   7   3   4   17   12     5     Promoted
+6-Vitória         17   14   5   7   2   15   10     5     Promoted
+7-Portuguesa      15   14   6   3   5   13   10     3     Promoted
 8-Internacional   14   14   4   6   4    7    9    -2
 9-Treze           12   14   4   4   6   15   16    -1
 10-Rio Branco     12   14   4   4   6    8   12    -4
@@ -962,20 +962,20 @@ Operário FC (Campo Grande, MS)
 CE Operário Varzeagrandense (Várzea Grande, MT)
 Sobradinho EC (Sobradinho, DF)
 
-Mixto 2x1 Operário (MS)      Operário (MS) 0x1 Mixto
-Operário (MT) 2x0 Sobradinho    Sobradinho x Operário (MT) (ñ houve)
+Mixto 2x1 Operário (MS)         Operário (MS) 0x1 Mixto
+Operário (MT) 2x0 Sobradinho      Sobradinho x Operário (MT) (ñ houve)
 
-Mixto 1x1 Operário (MT)      Operário (MT) 0x0 Mixto
-Operário (MS) 4x0 Sobradinho    Sobradinho 0x1 Operário (MS)
+Mixto 1x1 Operário (MT)         Operário (MT) 0x0 Mixto
+Operário (MS) 4x0 Sobradinho      Sobradinho 0x1 Operário (MS)
 
-Mixto 0x0 Sobradinho      Sobradinho 0x1 Mixto
-Operário (MS) 1x0 Operário (MT)    Operário (MT) 1x2 Operário (MS)
+Mixto 0x0 Sobradinho         Sobradinho 0x1 Mixto
+Operário (MS) 1x0 Operário (MT)      Operário (MT) 1x2 Operário (MS)
 
-1. Mixto    9
-2. Operário (MS)  8
+1. Mixto      9
+2. Operário (MS)   8
 -------------------------
-3. Operário (MT)  4
-4. Sobradinho    1
+3. Operário (MT)   4
+4. Sobradinho      1
 
 Group B
 
@@ -985,20 +985,20 @@ AE Catuense (Alagoinhas, BA)
 Central SC (Caruaru, PE)
 CRB (Maceió, AL)
 
-Auto Esporte 0x3 Catuense    Catuense 0x2 Auto Esporte
-Central 0x1 CRB        CRB 2x4 Central
+Auto Esporte 0x3 Catuense      Catuense 0x2 Auto Esporte
+Central 0x1 CRB            CRB 2x4 Central
 
-Auto Esporte 0x0 CRB      CRB 2x1 Auto Esporte
-Catuense 2x0 Central      Central 0x1 Catuense
+Auto Esporte 0x0 CRB         CRB 2x1 Auto Esporte
+Catuense 2x0 Central         Central 0x1 Catuense
 
-Auto Esporte 1x0 Central    Central 2x4 Auto Esporte
-Catuense 2x0 CRB      CRB 1x3 Catuense
+Auto Esporte 1x0 Central      Central 2x4 Auto Esporte
+Catuense 2x0 CRB         CRB 1x3 Catuense
 
-1. Catuense    10
-2. Auto Esporte     7
+1. Catuense      10
+2. Auto Esporte       7
 --------------------------
-3. CRB       5
-4. Central     2
+3. CRB          5
+4. Central       2
 
 Group C
 
@@ -1008,20 +1008,20 @@ América FC (Natal, RN)
 Botafogo FC (João Pessoa, PB)
 Fortaleza EC (Fortaleza, CE)
 
-ABC 2x4 América        América 0x0 ABC
-Botafogo 2x1 Fortaleza      Fortaleza 2x0 Botafogo
+ABC 2x4 América            América 0x0 ABC
+Botafogo 2x1 Fortaleza         Fortaleza 2x0 Botafogo
 
-ABC 1x2 Botafogo      Botafogo 2x2 ABC
-América 1x1 Fortaleza      Fortaleza 0x0 América
+ABC 1x2 Botafogo         Botafogo 2x2 ABC
+América 1x1 Fortaleza         Fortaleza 0x0 América
 
-ABC 1x2 Fortaleza      Fortaleza 0x1 ABC
-América 3x1 Botafogo       Botafogo 1x0 América
+ABC 1x2 Fortaleza         Fortaleza 0x1 ABC
+América 3x1 Botafogo          Botafogo 1x0 América
 
-1. Botafogo    7
-2. América    7
+1. Botafogo      7
+2. América      7
 -------------------------
-3. Fortaleza    6
-4. ABC      4
+3. Fortaleza      6
+4. ABC         4
 
 Group D
 
@@ -1034,20 +1034,20 @@ Sampaio Corrêa FC (São Luís)
 (*) Flamengo abandoned and was replaced by Serrano SC from Vitória da
 Conquista (BA)
 
-Ferroviário 1x0 Serrano      Serrano 0x0 Ferroviário
-Maranhão 0x1 Sampaio Corrêa    Sampaio Corrêa 1x1 Maranhão
+Ferroviário 1x0 Serrano         Serrano 0x0 Ferroviário
+Maranhão 0x1 Sampaio Corrêa      Sampaio Corrêa 1x1 Maranhão
 
-Ferroviário 2x0 Maranhão    Maranhão 3x1 Ferroviário
-Sampaio Corrêa 0x1 Serrano    Serrano 0x0 Sampaio Corrêa
+Ferroviário 2x0 Maranhão      Maranhão 3x1 Ferroviário
+Sampaio Corrêa 0x1 Serrano      Serrano 0x0 Sampaio Corrêa
 
-Ferroviário 3x1 Sampaio Corrêa    Sampaio Corrêa 1x0 Ferroviário
-Maranhão 2x1 Serrano      Serrano 1x0 Maranhão
+Ferroviário 3x1 Sampaio Corrêa      Sampaio Corrêa 1x0 Ferroviário
+Maranhão 2x1 Serrano         Serrano 1x0 Maranhão
 
-1. Ferroviário    7
-2. Serrano    6
+1. Ferroviário      7
+2. Serrano      6
 -------------------------
-3. Sampaio Corrêa  6
-4. Maranhão    4
+3. Sampaio Corrêa   6
+4. Maranhão      4
 
 Group E
 
@@ -1057,20 +1057,20 @@ Moto Clube (São Luís, MA)
 Piauí EC (Teresina, PI)
 Ríver AC (Teresina, PI)
 
-Imperatriz 1x1 Piauí      Piauí 1x0 Imperatriz
-Moto Clube 3x1 Ríver      Ríver 1x3 Moto Clube
+Imperatriz 1x1 Piauí         Piauí 1x0 Imperatriz
+Moto Clube 3x1 Ríver         Ríver 1x3 Moto Clube
 
-Imperatriz 0x0 Ríver      Ríver 1x2 Imperatriz
-Moto Clube 0x0 Piauí      Piauí 0x0 Moto Clube
+Imperatriz 0x0 Ríver         Ríver 1x2 Imperatriz
+Moto Clube 0x0 Piauí         Piauí 0x0 Moto Clube
 
-Imperatriz 0x2 Moto Clube    Moto Clube 2x0 Imperatriz
-Piauí 2x0 Ríver        Ríver 1x0 Piauí
+Imperatriz 0x2 Moto Clube      Moto Clube 2x0 Imperatriz
+Piauí 2x0 Ríver            Ríver 1x0 Piauí
 
-1. Moto Clube    8
-2. Piauí    7
+1. Moto Clube      8
+2. Piauí      7
 -------------------------
-3. Imperatriz    6
-4. Ríver      3
+3. Imperatriz      6
+4. Ríver         3
 
 Group F
 
@@ -1080,39 +1080,39 @@ Paysandú SC (Belém, PA)
 Atlético Rio Negro Clube (Manaus, AM)
 Tuna Luso Brasileira (Belém, PA)
 
-Nacional 2x1 Rio Negro      Rio Negro 3x0 Nacional
-Paysandú 0x1 Tuna Luso      Tuna Luso 2x3 Paysandú
+Nacional 2x1 Rio Negro         Rio Negro 3x0 Nacional
+Paysandú 0x1 Tuna Luso         Tuna Luso 2x3 Paysandú
 
-Nacional 1x2 Paysandú      Paysandú 2x0 Nacional
-Rio Negro 0x1 Tuna Luso      Tuna Luso 1x0 Rio Negro
+Nacional 1x2 Paysandú         Paysandú 2x0 Nacional
+Rio Negro 0x1 Tuna Luso         Tuna Luso 1x0 Rio Negro
 
-Nacional 1x1 Tuna Luso      Tuna Luso 0x2 Nacional
-Paysandú 3x1 Rio Negro      Rio Negro 1x1 Paysandú
+Nacional 1x1 Tuna Luso         Tuna Luso 0x2 Nacional
+Paysandú 3x1 Rio Negro         Rio Negro 1x1 Paysandú
 
-1. Paysandú    9
-2. Tuna Luso    7
+1. Paysandú      9
+2. Tuna Luso      7
 -------------------------
-3. Nacional    5
-4. Rio Negro    3
+3. Nacional      5
+4. Rio Negro      3
 
 2nd Phase
 
-1st leg (18-19/11)      2nd leg (21-22/11)
-Auto Esporte (PB) 0x1 Mixto (MT)  Mixto (MT) 3x0 Auto Esporte (PB)
-Operário (MS) 2x0 Catuense (BA)    Catuense (BA) 2x2 Operário (MS)
-Sampaio Corrêa (MA) 1x1 Botafogo (PB)  Botafogo (PB) 0x0 Sampaio Corrêa (MA) (1)
-América (RN) 1x0 Ferroviário (CE)  Ferroviário (CE) 0x2 América (RN)
-Tuna Luso (PA) 2x0 Moto Clube (MA)  Moto Clube (MA) 2x0 Tuna Luso (PA) (2)
-Piauí (PI) 1x1 Paysandú (PA)    Paysandú (PA) 2x0 Piauí (PI)
+1st leg (18-19/11)         2nd leg (21-22/11)
+Auto Esporte (PB) 0x1 Mixto (MT)   Mixto (MT) 3x0 Auto Esporte (PB)
+Operário (MS) 2x0 Catuense (BA)      Catuense (BA) 2x2 Operário (MS)
+Sampaio Corrêa (MA) 1x1 Botafogo (PB)   Botafogo (PB) 0x0 Sampaio Corrêa (MA) (1)
+América (RN) 1x0 Ferroviário (CE)   Ferroviário (CE) 0x2 América (RN)
+Tuna Luso (PA) 2x0 Moto Clube (MA)   Moto Clube (MA) 2x0 Tuna Luso (PA) (2)
+Piauí (PI) 1x1 Paysandú (PA)      Paysandú (PA) 2x0 Piauí (PI)
 (1) 0x0 on extra time. Botafogo won by 3x2 on penalties.
 (2) Tuna Luso won by 3x0 on extra time.
 
 3rd Phase
 
-1st leg (25-26/11)      2nd leg (28-29/11)
-Tuna Luso 2x2 Paysandú      Paysandú 1x0 Tuna Luso
-Operário 2x0 Mixto      Mixto 2x2 Operário
-América 1x0 Botafogo      Botafogo 2x0 América
+1st leg (25-26/11)         2nd leg (28-29/11)
+Tuna Luso 2x2 Paysandú         Paysandú 1x0 Tuna Luso
+Operário 2x0 Mixto         Mixto 2x2 Operário
+América 1x0 Botafogo         Botafogo 2x0 América
 
 Final Phase
 
@@ -1125,10 +1125,10 @@ Botafogo 0x0 Operário
 30/01
 Operário 2x1 Paysandú
 
-1. Operário    3
+1. Operário      3
 -------------------------
-2. Paysandú    2
-3. Botafogo    1
+2. Paysandú      2
+3. Botafogo      1
 
 Operário is promoted to the 2nd level.
 
@@ -1146,20 +1146,20 @@ Clube Esportivo BG (Bento Gonçalves, RS)
 EC Pinheiros (Curitiba, PR)
 FC Santa Cruz (Santa Cruz do Sul, RS)
 
-Chapecoense 0x0 Pinheiros    Pinheiros 0x1 Chapecoense
-Esportivo 0x0 Santa Cruz    Santa Cruz 1x0 Esportivo
+Chapecoense 0x0 Pinheiros      Pinheiros 0x1 Chapecoense
+Esportivo 0x0 Santa Cruz      Santa Cruz 1x0 Esportivo
 
 Esportivo 1x1 Chapecoense               Chapecoense 2x1 Esportivo
 Santa Cruz 1x0 Pinheiros                Pinheiros 1x1 Santa Cruz
 
-Chapecoense 2x2 Santa Cruz    Santa Cruz 0x0 Chapecoense
+Chapecoense 2x2 Santa Cruz      Santa Cruz 0x0 Chapecoense
 Pinheiros 4x1 Esportivo                 Esportivo x Pinheiros (not played)
 
-1. Santa Cruz    8
-2. Chapecoense    8
+1. Santa Cruz      8
+2. Chapecoense      8
 -------------------------
-3. Pinheiros    4
-4. Esportivo    2
+3. Pinheiros      4
+4. Esportivo      2
 
 Group B
 
@@ -1169,8 +1169,8 @@ SER Caxias (Caxias do Sul, RS)
 EC Juventude (Caxias do Sul, RS)
 Londrina EC (Londrina, PR)
 
-Avaí 2x1 Londrina      Londrina 0x0 Avaí
-Caxias 1x1 Juventude      Juventude 1x0 Caxias
+Avaí 2x1 Londrina         Londrina 0x0 Avaí
+Caxias 1x1 Juventude         Juventude 1x0 Caxias
 
 Juventude 0x0 Avaí                      Avaí 1x1 Juventude
 Caxias 2x1 Londrina                     Londrina 0x2 Caxias
@@ -1178,11 +1178,11 @@ Caxias 2x1 Londrina                     Londrina 0x2 Caxias
 Caxias 1x0 Avaí                         Avaí 1x0 Caxias
 Londrina 1x0 Juventude                  Juventude 3x1 Londrina
 
-1. Caxias       7
-2. Juventude    7
+1. Caxias         7
+2. Juventude      7
 -------------------------
-3. Avaí      7
-4. Londrina    3
+3. Avaí         7
+4. Londrina      3
 
 Group C
 
@@ -1192,8 +1192,8 @@ Associação Desportiva FVRD (Vitória, ES)
 Estrela do Norte FC (Cachoeiro do Itapemirim, ES)
 CA Juventus (São Paulo, SP)
 
-Americano 0x0 Juventus      Juventus 0x0 Americano
-Desportiva 3x0 Estrela do Norte    Estrela do Norte 1x0 Desportiva
+Americano 0x0 Juventus         Juventus 0x0 Americano
+Desportiva 3x0 Estrela do Norte      Estrela do Norte 1x0 Desportiva
 
 Estrela do Norte 1x0 Americano          Americano 1x0 Estrela do Norte
 Desportiva 1x1 Juventus                 Juventus 0x0 Desportiva
@@ -1201,11 +1201,11 @@ Desportiva 1x1 Juventus                 Juventus 0x0 Desportiva
 Americano 1x1 Desportiva                Desportiva 0x1 Americano
 Estrela do Norte 0x1 Juventus           Juventus 4x0 Estrela do Norte
 
-1. Juventus    8
-2. Americano    7
+1. Juventus      8
+2. Americano      7
 -------------------------
-3. Desportiva    5
-4. Estrela do Norte  4
+3. Desportiva      5
+4. Estrela do Norte   4
 
 Group D
 
@@ -1215,7 +1215,7 @@ Botafogo FC (Ribeirão Preto, SP)
 Goytacaz FC (Campos, RJ)
 Tupi FC (Juiz de Fora, MG)
 
-América 1x0 Goytacaz      Goytacaz 2x1 América
+América 1x0 Goytacaz         Goytacaz 2x1 América
 Tupi 4x0 Botafogo                       Botafogo 1x0 Tupi
 
 América 2x1 Tupi                        Tupi 1x0 América
@@ -1224,11 +1224,11 @@ Goytacaz 2x1 Botafogo                   Botafogo 2x1 Goytacaz
 Botafogo 2x0 América                    América 0x0 Botafogo
 Goytacaz 0x1 Tupi                       Tupi 2x0 Goytacaz
 
-1. Tupi      8
-2. Botafogo    7
+1. Tupi         8
+2. Botafogo      7
 -------------------------
-3. América    5
-4. Goytacaz    4
+3. América      5
+4. Goytacaz      4
 
 Group E
 
@@ -1238,14 +1238,14 @@ EC Santo André (Santo André, SP)
 Uberaba SC (Uberaba, MG)
 Uberlândia EC (Uberlândia, MG)
 
-Itumbiara 0x1 Santo André    Santo André 0x0 Itumbiara
-Uberaba 0x1 Uberlândia      Uberlândia 0x0 Uberaba
+Itumbiara 0x1 Santo André      Santo André 0x0 Itumbiara
+Uberaba 0x1 Uberlândia         Uberlândia 0x0 Uberaba
 
 Uberlândia 2x0 Itumbiara                Itumbiara 0x0 Uberlândia
 Uberaba 1x0 Santo André                 Santo André 0x0 Uberaba
 
 Itumbiara 0x1 Uberaba                   Uberaba 0x0 Itumbiara
-Santo André 0x2 Uberlândia    Uberlândia 0x1 Santo André
+Santo André 0x2 Uberlândia      Uberlândia 0x1 Santo André
 
 1. Uberlândia           8
 2. Uberaba              7
@@ -1261,14 +1261,14 @@ Brasília EC (Brasília, DF)
 Corumbaense FC (Corumbá, MS)
 AA Ponte Preta (Campinas, SP)
 
-Anapolina 2x0 Corumbaense    Corumbaense 2x0 Anapolina
-Brasília 1x3 Ponte Preta    Ponte Preta 2x0 Brasília
+Anapolina 2x0 Corumbaense      Corumbaense 2x0 Anapolina
+Brasília 1x3 Ponte Preta      Ponte Preta 2x0 Brasília
 
-Anapolina 0x0 Ponte Preta    Ponte Preta 2x0 Anapolina
-Brasília 3x2 Corumbaense    Corumbaense 2x0 Brasília
+Anapolina 0x0 Ponte Preta      Ponte Preta 2x0 Anapolina
+Brasília 3x2 Corumbaense      Corumbaense 2x0 Brasília
 
 Brasília 1x1 Anapolina                  Anapolina 0x0 Brasília
-Corumbaense 2x2 Ponte Preta    Ponte Preta 3x0 Corumbaense
+Corumbaense 2x2 Ponte Preta      Ponte Preta 3x0 Corumbaense
 
 1. Ponte Preta         10
 2. Corumbaense          5
@@ -1278,20 +1278,20 @@ Corumbaense 2x2 Ponte Preta    Ponte Preta 3x0 Corumbaense
 
 2nd Phase
 
-1st leg (18/11)        2nd leg (21/11)
-Juventude (RS) 2x1 Chapecoense (SC)  Chapecoense (SC) 1x1 Juventude (RS)
-Santa Cruz (RS) 1x1 Caxias (RS)    Caxias (RS) 1x0 Snta Cruz (RS)
-Botafogo (SP) 1x0 Juventus (SP)    Juventus (SP) 1x0 Botafogo (SP) (1)
-Americano (RJ) 1x0 Tupi (MG)    Tupi (MG) 0x1 Americano (RJ)
-Corumbaense (MS) 1x0 Uberlândia (MG)  Uberlândia (MG) 2x1 Corumbaense (MS) (2)
-Uberaba (MG) 2x0 Ponte Preta (SP)  Ponte Preta (SP) 3x0 Uberaba (MG)
+1st leg (18/11)            2nd leg (21/11)
+Juventude (RS) 2x1 Chapecoense (SC)   Chapecoense (SC) 1x1 Juventude (RS)
+Santa Cruz (RS) 1x1 Caxias (RS)      Caxias (RS) 1x0 Snta Cruz (RS)
+Botafogo (SP) 1x0 Juventus (SP)      Juventus (SP) 1x0 Botafogo (SP) (1)
+Americano (RJ) 1x0 Tupi (MG)      Tupi (MG) 0x1 Americano (RJ)
+Corumbaense (MS) 1x0 Uberlândia (MG)   Uberlândia (MG) 2x1 Corumbaense (MS) (2)
+Uberaba (MG) 2x0 Ponte Preta (SP)   Ponte Preta (SP) 3x0 Uberaba (MG)
 (1) On extra time 0x0. Botafogo won by 5x4 on penalties.
 (2) Uberlândia won by 3x0 on extra time.
 
 3rd Phase
 
-1st leg (25/11)        2nd leg (28-29/11)
-Uberlândia 5x0 Ponte Preta    Ponte Preta 3x0 Uberlândia
+1st leg (25/11)            2nd leg (28-29/11)
+Uberlândia 5x0 Ponte Preta      Ponte Preta 3x0 Uberlândia
 Americano 3x1 Botafogo                  Botafogo 1x0 Americano
 Juventude 1x0 Caxias                    Caxias 1x1 Juventude
 
@@ -1306,10 +1306,10 @@ Americano 2x0 Uberlândia
 24/01
 Juventude 0x2 Uberlândia
 
-1. Americano    3
+1. Americano      3
 -------------------------
-2. Uberlândia    2
-3. Juventude    1
+2. Uberlândia      2
+3. Juventude      1
 
 Americano is promoted to the 2nd level.
 
@@ -1321,9 +1321,10 @@ Americano is promoted to the 2nd level.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

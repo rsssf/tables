@@ -1,4 +1,5 @@
   <!--
+     title:  Ivory Coast 2025/26
      source: https://rsssf.org/tablesi/ivo2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Ivory Coast 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ligue 1 MTN, see §ligue1›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ligue 1 MTN  ‹§ligue1›
 
-<!-- start pre -->
 Table:
 
  1.ASEC Mimosas (Abidjan)                22  14  4  4  42-18  46
@@ -388,23 +386,10 @@ Table:
 15.ES Agboville                          22   5  7 10  14-24  22  [P]
 16.Inova SCA (Abidjan)                   22   6  4 12   9-22  22
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page ivo2025›
 
-‹list of champions, see page ivochamp›
 
-‹list of cup winners, see page ivocuphist›
-
-‹list of league cup winners, see page ivoleagcuphist›
-
-‹list of super cup winners, see page ivosupcuphist›
-
-‹list of topscorers, see page ivotops›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

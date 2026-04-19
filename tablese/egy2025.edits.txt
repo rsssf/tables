@@ -1,0 +1,17 @@
+-- removing nav(igation) section:
+
+‹First Level, see §1l›
+‹Egypt Cup, see §cup›
+‹League Cup, see §lc›
+‹Second Level, see §2l›
+
+
+-- removing nav(igation) section:
+
+‹2023/24, see page egy2024›
+
+‹list of champions, see page egychamp›
+
+‹list of cup winners, see page egycuphist›
+
+

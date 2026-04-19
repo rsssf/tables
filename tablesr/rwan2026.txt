@@ -1,4 +1,5 @@
   <!--
+     title:  Rwanda 2025/26
      source: https://rsssf.org/tablesr/rwan2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Rwanda 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Rwanda Premier League, see §premiere›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Rwanda Premier League  ‹§premiere›
 
-<!-- start pre -->
 Table:
 
  1.Al-Hilal (Omdurman)           24  17  3  4  56-18  54  [*]
@@ -460,17 +458,10 @@ Table:
 [*] Al-Hilal and Al-Merreikh were admitted after round 7;
     in 2024/25 they had played in ‹Mauritania, see page ../tablesm/maur2025.html#prem›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page rwan2025›
 
-‹list of champions, see page rwanchamp›
 
-‹list of cup winners, see page rwancuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

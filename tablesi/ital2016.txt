@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2015/16
      source: https://rsssf.org/tablesi/ital2016.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Italy 2015/16
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Serie B, see §serieb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.Juventus FC         38  29  4  5  75-20  91  [C]  Champions
@@ -618,13 +614,13 @@ Final Table:
 19.Frosinone Calcio    38   8  7 23  35-76  31  [P]  Relegated
 20.Hellas Verona FC    38   5 13 20  34-63  28  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
-<!-- start pre -->
 Round 1 [Aug 2]
 Casertana       1-0 Lecco           [aet]
   [Diakité 110]
@@ -827,13 +823,13 @@ Juventus: Neto, Rugani, Barzagli, Chiellini, Lichtsteiner (Cuadrado 75),
   Lemina, Hernanes (Morata 108), Pogba, Evra (Alex Sandro 62), Dybala,
   Mandzukic. Tr.: Allegri
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› |  ‹Relegation Playoff, see §2rel›
 
 Regular Season  ‹§2reg›
@@ -909,35 +905,10 @@ Salernitana     1-0 Virtus Lanciano
 
 NB: Virtus Lanciano relegated
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2014/15, see page ital2015›.
-
-‹2016/17, see page ital2017›.
 
 
 
-‹list of champions, see page italchamp›.
 
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

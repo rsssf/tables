@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2006 Qualifying - Match Details
      source: https://rsssf.org/tables/2006q-det.html
     -->
   
@@ -6,20 +7,12 @@
 
 == World Cup 2006 Qualifying - Match Details
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Europe, see §eur› |
-‹South America, see §sam› |
-‹Africa, see §afr› |
-‹Asia, see §asi› |
-‹North and Central America, see §nca› |
-‹Oceania, see §oce›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Europe  ‹§eur›
 
-<!-- start pre -->
 GROUP 1
 
 [Aug 18, 2004]
@@ -2359,13 +2352,13 @@ LEADING GOALSCORERS:
     Koller (Czech Republic), Miroslav Karhan (Slovakia), Zlatan
     Ibrahimovic (Sweden).
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== South America  ‹§sam›
 
-<!-- start pre -->
      Standings            P   W   D   L   F   A   Pts
      1.Argentina         13   8   4   1  24  12   28
      2.Brazil            13   6   6   1  21  12   24
@@ -3406,13 +3399,13 @@ LEADING GOALSCORERS:
     (Venezuela), Kaka (Brazil), Edison Mendez (Ecuador), Hernan Crespo
     (Argentina), Diego Forlan (Uruguay);
 4 - Nolberto Solano (Peru), Jefferson Farfan (Peru).
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Africa  ‹§afr›
 
-<!-- start pre -->
 GROUP 1
 
 [Jun 5]
@@ -3668,13 +3661,13 @@ BOT: 16-Modiri Marumo; 2-Ndiapo Letsholathebe, 3-Khumo Motlhabane
      4.Kenya              0   0   0   0   0   0    0
      6.Botswana           1   0   0   1   1   4    0
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Asia  ‹§asi›
 
-<!-- start pre -->
 GROUP 1
 
 [Feb 18]
@@ -4520,13 +4513,13 @@ LEADING GOALSCORERS:
     (China), Ali Daei (Iran), Chen Jui-te (Taiwan), Roberto Beshe
     (Palestine), Ibrahim Al-Shahrani (Saudi Arabia), Redjep Agabaev
     (Turkmenistan).
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== North and Central America  ‹§nca›
 
-<!-- start pre -->
 GROUP 1
 
 [Aug 18]
@@ -5176,13 +5169,13 @@ LEADING GOALSCORERS:
      Tobago), Paulo Wanchope (Costa Rica), Roberto Brown (Panama);
  5 - David Suazo (Honduras).
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Oceania  ‹§oce›
 
-<!-- start pre -->
 First Round
 
 Group 1
@@ -5842,13 +5835,14 @@ Final Table:
 6.Vanuatu          5  1  0  4  5- 9  3
 
 
-<!-- end pre -->
 
 ‹2006 Qualifying - Overview, see page 2006q›
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

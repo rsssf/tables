@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2020/21
      source: https://rsssf.org/tablesb/braz2020.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Brazil 2020/21
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Série A, see §sa›
-‹Copa do Brasil, see §cb›
-‹Supercopa do Brasil, see §supcb›
-‹Série B, see §sb›
-‹Série C, see §sc›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Série A  ‹§sa›
 
-<!-- start pre -->
 Final Table:
 
  1.Flamengo              38  21  8  9  68-48  71  [C]  Champions
@@ -642,13 +636,13 @@ Final Table:
 19.Coritiba              38   7 10 21  31-54  31  [P]  Relegated
 20.Botafogo              38   5 12 21  32-62  27       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa do Brasil 2020/21  ‹§cb›
 
-<!-- start pre -->
 Participants
 
 ABC/RN - ABC Futebol Clube (Natal/RN)
@@ -991,23 +985,23 @@ Grêmio/RS                 0-1  Palmeiras/SP
 2nd Leg [Mar 7, 2021]
 Palmeiras/SP              2-0  Grêmio/RS
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Supercopa do Brasil 2021  ‹§supcb›
 
-<!-- start pre -->
 [Apr 11, 2021, Brasília]
 Flamengo/RJ               2-2  Palmeiras/SP              [6-5 pen (no extra time)]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série B  ‹§sb›
 
-<!-- start pre -->
 Final Table:
 
  1.Chapecoense           38  20 13  5  42-21  73  [R]  Promoted
@@ -1020,28 +1014,28 @@ Final Table:
  7.Ponte Preta           38  16  9 13  54-49  57
  8.Operário Ferroviário  38  15 12 11  40-34  57
  9.Avaí                  38  16  7 15  45-49  55  [R]
-10.CRB             38  15  7 16  48-47  52
+10.CRB               38  15  7 16  48-47  52
 11.Cruzeiro              38  14 13 11  39-32  49  [R]  [-6]
 12.Brasil de Pelotas     38  11 16 11  31-33  49
 13.Guarani               38  13  9 16  41-48  48
 14.Vitória               38  11 15 12  45-45  48
 15.Confiança             38  12 10 16  38-46  46  [P]
-16.Náutico           38  10 14 14  35-42  44  [P]
+16.Náutico            38  10 14 14  35-42  44  [P]
 ------------------------------------------------
 17.Figueirense           38   9 12 17  35-49  39       Relegated
-18.Paraná           38   9 10 19  34-50  37       Relegated
+18.Paraná            38   9 10 19  34-50  37       Relegated
 19.Botafogo/SP           38   8 10 20  26-39  34       Relegated
-20.Oeste           38   7  8 23  28-60  29       Relegated
+20.Oeste            38   7  8 23  28-60  29       Relegated
 
 Promoted: Vila Nova, Remo, Brusque, Londrina
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série C  ‹§sc›
 
-<!-- start pre -->
 First Stage
 
 Final Tables:
@@ -1069,7 +1063,7 @@ Group B
  5.Tombense              18   7  6  5  21-18  27
  6.Volta Redonda         18   5  8  5  31-23  23
  7.São José              18   5  5  8  15-23  20
- 8.Criciúma           18   4  7  7  20-25  19  [R]
+ 8.Criciúma            18   4  7  7  20-25  19  [R]
 ------------------------------------------------
  9.São Bento             18   3  8  7  13-19  17  [R]  Relegated
 10.Boa Esporte           18   2  9  7  17-23  15       Relegated
@@ -1102,21 +1096,10 @@ Remo            2-3 Vila Nova
 
 Promoted from 4th level: Altos, Floresta, Mirassol, Novorizontino
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2019, see page braz2019›
 
-‹2021, see page braz2021›
 
-‹list of champions, see page brazchamp›.
-
-‹list of 2nd division champions, see page braz2champ›.
-
-‹list of cup winners, see page brazcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

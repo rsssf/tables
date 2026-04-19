@@ -1,4 +1,5 @@
   <!--
+     title:  Canada 2025
      source: https://rsssf.org/tablesc/can2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Canada 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Canadian Championship 2025, see §amway›
-‹Canadian Premier League 2025, see §cpl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Canadian Championship 2025  ‹§amway›
 
-<!-- start pre -->
 NB: no extra time played after draw
 
 Preliminary Round
@@ -66,13 +63,13 @@ Atlético Ottawa      1-0 Vancouver FC
 Final [Oct 1, BC Place, Vancouver]
 Vancouver Whitecaps  4-2 Vancouver FC
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Canadian Premier League 2024  ‹§cpl›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -108,27 +105,10 @@ Forge FC             0-1 Cavalry FC
 Final [Nov 9]
 Atlético Ottawa      2-1 Cavalry FC           [aet]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page can2024›
 
-‹list of champions, see page canchamp›
 
-‹cpsl overview, see page ../usadave/cpslii›
-
-‹csl overview, see page ../usadave/csl2›
-
-‹list of winners canadian national challenge cup, see page ../usadave/cncc›
-
-‹list of university champions, see page canunichamp›
-
-‹list of champions and cup winners quebec, see page ../tablesq/quebechonours›
-
-‹list of cup winners newfoundland and labrador, see page can-nlcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

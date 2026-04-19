@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2014
      source: https://rsssf.org/tablesu/usa2014.html
     -->
   
@@ -6,16 +7,12 @@
 
 == USA 2014
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Major League Soccer, see §mls› (Division 1)
-‹US Open Cup, see §open›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Major League Soccer  ‹§mls›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
 Regular Season  ‹§reg›
@@ -624,13 +621,13 @@ MLS Cup 2013  ‹§mlscup›
 [Dec 7]
 Los Angeles Galaxy     2-1 New England Revolution [aet]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== US Open Cup  ‹§open›
 
-<!-- start pre -->
 Fifth Round
 [Jun 24]
 Philadelphia Union     2-1 New York Cosmos        [aet]
@@ -659,27 +656,10 @@ Seattle Sounders       6-0 Chicago Fire
 
 Final [Sep 16, Chester, Pennsylvania]
 Philadelphia Union     1-3 Seattle Sounders       [aet]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2013, see page usa2013›
 
-‹2015, see page usa2015›
 
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

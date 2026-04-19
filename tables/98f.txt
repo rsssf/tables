@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1998
      source: https://rsssf.org/tables/98f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1998 (France, June 10-July 12)
 
-<!-- start pre -->
 
 FIRST PHASE
 
@@ -133,7 +133,6 @@ Red card: Desailly (68', second yellow).
 
 Topscorer: Suker (Croatia) 6 goals.
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 98full›
 
@@ -147,7 +146,9 @@ Topscorer: Suker (Croatia) 6 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

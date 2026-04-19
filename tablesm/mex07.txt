@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2006/07
      source: https://rsssf.org/tablesm/mex07.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Mexico 2006/07
 
-<!-- start pre -->
 Primera División Nacional
 
 Apertura 2006
@@ -2970,9 +2970,10 @@ Gallos de Pelea de Canal 5 champion Clausura 2007
 
 ‹list of topscorers, see page mextops›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Zambia 2025/26
      source: https://rsssf.org/tablesz/zamb2026.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Zambia 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Super League, see §premier›
-‹Cups, see §cups›
-‹National Division One, see §natdiv1›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Super League  ‹§premier›
 
-<!-- start pre -->
 Table:
 
  1.Power Dynamos (Kitwe)               25  16  7  2  39-15  55  [C]
@@ -644,13 +640,13 @@ Table:
 
 [*] Prison Leopards were renamed FC Leopards
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cups  ‹§cups›
 
-<!-- start pre -->
 ‹ABSA Cup 2026, see §absa›
 
 ABSA Cup 2026  ‹§absa›
@@ -694,13 +690,13 @@ Nchanga Rangers          -  Power Dynamos
 Chirundu United          -  Zanaco
 Red Arrows               -  Play It Forward
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== National Division One  ‹§natdiv1›
 
-<!-- start pre -->
 Table:
 
  1.Makeni All Stars                    29  16  8  5  43-24  56  [P]
@@ -1347,17 +1343,10 @@ Table:
 
 [*] promoted side Solwezi Academy sold their place to Locus FC (Lusaka)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page zamb2025›
 
-‹list of champions, see page zambchamp›
 
-‹list of cup winners, see page zambcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

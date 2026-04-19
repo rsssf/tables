@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1998 qualifications
      source: https://rsssf.org/tables/98qual.html
     -->
   
@@ -26,7 +27,6 @@
 <LI>‹Africa, see §africa› - ‹Africa - Line-Ups, see page 98-qual-det.html#afr›
 </UL>
 
-<!-- start pre -->
 
 == Europe  ‹§europe›
 
@@ -1554,4 +1554,3 @@ order to avoid confusion.
 3.GHA   6   6  1  3  2   7- 7
 4.GAB   5   1  0  1  4   1-11
 
-<!-- end pre -->

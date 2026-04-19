@@ -1,4 +1,5 @@
   <!--
+     title:  Cayman Islands 2025/26
      source: https://rsssf.org/tablesc/cayman2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Cayman Islands 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹CIFA Premier League 2025/26, see §premier›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== CIFA Premier League 2025/26  ‹§premier›
 
-<!-- start pre -->
 Table:
 
  1.Elite SC                    15  13  2  0  51- 7  41  [C]
@@ -188,19 +186,10 @@ Table:
 11.Latinos FC                  15   2  1 12  18-47   7  [P]
 12.Cayman Brac FC              15   0  1 14   8-67   1
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page cayman2025›
 
-‹list of champions, see page caymanchamp›
 
-‹list of second level champions, see page cayman2champ›
-
-‹list of cup winners, see page caymancuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

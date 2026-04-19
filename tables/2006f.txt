@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2006
      source: https://rsssf.org/tables/2006f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 2006 (Germany, June 9 - July 9, 2006)
 
-<!-- start pre -->
 Automatically qualified: Germany (hosts)
 
 
@@ -186,7 +186,6 @@ Red card: Zidane (110', direct red).
 
 Topscorer: Klose (Germany) 5 goals.
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 2006full›
 
@@ -200,7 +199,9 @@ Topscorer: Klose (Germany) 5 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

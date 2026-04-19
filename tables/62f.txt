@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1962
      source: https://rsssf.org/tables/62f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1962 (Chile, May 30-June 17)
 
-<!-- start pre -->
 
 FIRST PHASE
 
@@ -79,7 +79,6 @@ Scorers: 15' Masopust 0-1; 17' Amarildo 1-1; 69' Zito 2-1; 78' Vavá 3-1.
 Topscorers: Albert (Hungary), Garrincha (Brazil), V. Ivanov (Soviet Union),
             Jerkovic (Yugoslavia), L. Sánchez (Chile), Vavá (Brazil) 4 goals.
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 62full›
 
@@ -93,7 +92,9 @@ Topscorers: Albert (Hungary), Garrincha (Brazil), V. Ivanov (Soviet Union),
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

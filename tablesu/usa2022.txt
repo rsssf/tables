@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2022
      source: https://rsssf.org/tablesu/usa2022.html
     -->
   
@@ -6,16 +7,12 @@
 
 == USA 2022
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Major League Soccer, see §mls› (Division 1)
-‹US Open Cup, see §open›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Major League Soccer  ‹§mls›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
 Regular Season  ‹§reg›
@@ -754,13 +751,13 @@ Los Angeles FC         3-0 Austin FC
 MLS Cup [Nov 5, Banc of California Stadium, Los Angeles]
 Los Angeles FC         3-3 Philadelphia Union     [aet, 3-0 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== US Open Cup  ‹§open›
 
-<!-- start pre -->
 1/8 Finals [May 25]
 Orlando City           1-1 Inter Miami            [aet, 4-2 pen]
 Louisville City FC     1-2 Nashville SC
@@ -787,27 +784,10 @@ Sacramento Republic FC 0-0 Sporting Kansas City   [aet, 5-4 pen]
 Final [Sep 7]
 Orlando City           3-0 Sacramento Republic FC
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2021, see page usa2021›
 
-‹2023, see page usa2023›
 
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,0 +1,34 @@
+-- removing nav(igation) section:
+
+‹SSE Airtricity League, see §premier›
+‹FAI Cup, see §faicup›
+‹First Division, see §first›
+
+
+-- removing nav(igation) section:
+
+‹2024, see page ier2024›.
+
+‹list of champions, see page ierchamp›.
+
+‹list of final tables, see page ierhist›.
+
+‹all-time table, see page ieralltime›.
+
+‹list of champions (2nd level), see page ier2champ›.
+
+‹list of final tables (2nd level), see page ier2hist›.
+
+‹list of cup winners, see page iercuphist›.
+
+‹list of league cup winners, see page ierleagcuphist›.
+
+‹list of dublin city cup winners, see page ierdublincityhist›.
+
+‹list of top four cup winners, see page iertop4hist›.
+
+‹list of league of ireland shield winners, see page iershieldhist›.
+
+‹list of topscorers, see page iertops›.
+
+

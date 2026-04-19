@@ -1,4 +1,5 @@
   <!--
+     title:  Central African Republic 2023/24
      source: https://rsssf.org/tablesc/cafr2024.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Central African Republic 2023/24
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Championnat National 2024, see §chnat›
-‹Ligue de Bangui 2023/24, see §bangui›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Championnat National 2024  ‹§chnat›
 
-<!-- start pre -->
 NB: fourth ever edition; played in Bambari
 
 Participants:
@@ -70,13 +67,13 @@ Final Table:
 Topscorer:
  9 Loïc Kaya (Tempête Mocaf)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Ligue de Bangui 2023/24  ‹§bangui›
 
-<!-- start pre -->
 ‹Première Division, see §prem› | ‹Deuxième Division, see §deux›
 
 Première Division 2023/24  ‹§prem›
@@ -150,19 +147,10 @@ Table (missing results round 4):
  3.AS Douanes            5   2  0  3   8- 7   6  [P]
  4.EC Begoua             5   0  0  5   0-13   0
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2022/23, see page cafr2023›
 
-‹2024/25, see page cafr2025›
 
-‹list of champions, see page cafrchamp›
-
-‹list of cup winners, see page cafrcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

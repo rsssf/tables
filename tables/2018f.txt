@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 2018
      source: https://rsssf.org/tables/2018f.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 2018 (Russia, June 14 - July 15, 2018)
 
-<!-- start pre -->
 Automatically qualified: Russia (hosts)
 
 
@@ -181,7 +181,6 @@ Scorers: 18' Mandzukic (og) 1-0; 28' Perisic 1-1; 38' Griezmann (pen) 2-1;
 
 Topscorer: Kane (England) 6 goals.
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 2018full›
 
@@ -195,7 +194,9 @@ Topscorer: Kane (England) 6 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

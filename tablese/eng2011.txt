@@ -1,4 +1,5 @@
   <!--
+     title:  England 2010/11
      source: https://rsssf.org/tablese/eng2011.html
     -->
   
@@ -6,20 +7,12 @@
 
 == England 2010/11
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premiership, see §premier›
-‹Cup Tournaments, see §cups›
-‹Championship, see §champ›
-‹Division 1, see §first›
-‹Division 2, see §second›
-‹Conference, see §conf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premiership  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Manchester United       38  23 11  4  78-37  80  Champions
@@ -229,13 +222,13 @@ West Ham United      0-3  1-2  0-1  1-1  0-0  1-3  1-3  1-1  1-1  3-1  1-3  2-4 
 Wigan Athletic       2-2  1-2  2-1  4-3  0-4  1-1  0-6  1-1  1-1  1-1  0-2  0-4  0-1  2-2  1-1  0-0  1-0  3-2       2-0
 Wolverhampton Wand.  0-2  1-2  1-0  2-3  4-0  2-3  1-0  0-3  1-1  0-3  2-1  2-1  1-1  2-1  3-2  3-3  3-1  1-1  1-2
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§cups›
 
-<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
 FA Cup  ‹§facup›
@@ -579,13 +572,13 @@ Birmingham City         3-1 West Ham United         [aet]
 Final [Feb 27, London]
 Arsenal                 1-2 Birmingham City
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Championship  ‹§champ›
 
-<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Stage  ‹§2reg›
@@ -667,13 +660,13 @@ Final [May 30]
 Swansea       4-2 Reading
 
 NB: Swansea City promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 1  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 Regular Stage  ‹§3reg›
@@ -757,13 +750,13 @@ Final [May 29]
 Huddersfield  0-3 Peterborough
 
 NB: Peterborough United promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2  ‹§second›
 
-<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 Regular Stage  ‹§4reg›
@@ -847,13 +840,13 @@ Final [May 28]
 Stevenage     1-0 Torquay
 
 NB: Stevenage promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Conference  ‹§conf›
 
-<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 Regular Stage  ‹§5reg›
@@ -916,31 +909,10 @@ Wimbledon     0-0 Luton         [aet, 4-3 pen]
 
 NB: AFC Wimbledon promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2009/10, see page eng2010›.
 
-‹2011/12, see page eng2012›.
 
-‹list of champions, see page engchamp›.
-
-‹list of 2nd division champions, see page eng2champ›.
-
-‹list of full tables, see page ../engpaul/FLA/league›.
-
-‹list of divisional movements, see page engall›.
-
-‹list of cup winners, see page engcuphist›.
-
-‹list of super cup (charity shield) winners, see page engsupcuphist›.
-
-‹list of league cup winners, see page engleagcuphist›.
-
-‹list of league trophy winners, see page engassmembcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

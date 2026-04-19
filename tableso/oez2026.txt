@@ -1,4 +1,5 @@
   <!--
+     title:  Uzbekistan 2026
      source: https://rsssf.org/tableso/oez2026.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Uzbekistan 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Super Liga, see §oliy›
-‹O'zbekiston Kubogi, see §cup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Super Liga  ‹§oliy›
 
-<!-- start pre -->
 Table:
 
  1.Neftchi (Farg'ona)     5   5  0  0  16- 1  15  [C]
@@ -473,13 +470,13 @@ Dinamo       -  Surxon
 OKMK         -  Andijon
 Paxtakor     -  So'g'diyona
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== O'zbekiston Kubogi  ‹§cup›
 
-<!-- start pre -->
 First Qualifying Round
 
 [Mar 22]
@@ -509,7 +506,6 @@ ARAL ACADEMY (Nókis)      3-1  Ahmedov FK (Toshkent)
 Azur (Samarqand)          0-1  FC GULISTON
 Oqtepa (Toshkent)         3-3  HAVOKAND (Qo'qon)      [pen 2-3]
 
-<!-- end pre -->
 
 ‹2025, see page oez2025›
 
@@ -525,7 +521,9 @@ Oqtepa (Toshkent)         3-3  HAVOKAND (Qo'qon)      [pen 2-3]
 
 ‹Name Changes, see page oez-names›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

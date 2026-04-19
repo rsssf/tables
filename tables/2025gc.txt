@@ -1,4 +1,5 @@
   <!--
+     title:  CONCACAF Championship, Gold Cup 2025
      source: https://rsssf.org/tables/2025gc.html
     -->
   
@@ -6,9 +7,10 @@
 
 == CONCACAF Championship, Gold Cup 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 Qualified to Group Stage (from CONCACAF Nations League 2024-25):
 Mexico, Panama, Canada, USA, El Salvador, Curaçao, Haiti and Dominican Republic.
 
@@ -204,7 +206,6 @@ USA            1-2 Mexico
   [Chris Richards 4; Raúl Alonso Jiménez 27, Edson Álvarez 77]
 
 
-<!-- end pre -->
 
 ‹overview file, see page ../tablesg/goldcupall›
 
@@ -212,7 +213,9 @@ USA            1-2 Mexico
 
 ‹2024-2025 Nations League, see page 2025concanl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

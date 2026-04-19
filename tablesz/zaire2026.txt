@@ -1,4 +1,5 @@
   <!--
+     title:  Congo-Kinshasa (DR Congo) 2025/26
      source: https://rsssf.org/tablesz/zaire2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Congo-Kinshasa (DR Congo) 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Linafoot 2025/26, see §lina›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Linafoot 2025/26  ‹§lina›
 
-<!-- start pre -->
 ‹Group Stage, see §grp›
 
 Group Stage  ‹§grp›
@@ -790,18 +788,10 @@ NB: on Feb 14, DC Motema Pembe had 24 points deducted by FIFA decision
      of FC Litekwa at the second level
 [*3] these clubs from Eastern Congo play home matches in Kindu or Kinshasa
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2024/25, see page zaire2025›
-
-‹list of champions, see page zairechamp›
-
-‹list of cup winners, see page zairecuphist›
 
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
 
 == About this document  ‹§about›
 

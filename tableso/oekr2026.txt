@@ -1,4 +1,5 @@
   <!--
+     title:  Ukraine 2025/26
      source: https://rsssf.org/tableso/oekr2026.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Ukraine 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ukrainian Premier League, see §upl›
-‹Ukrainian Cup, see §kubok›
-‹Ukrainian First League (Persha Liha), see §persha›
-‹Ukrainian Second League (Druha Liha), see §druga›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== VBet Premier League 2025/26  ‹§upl›
 
-<!-- start pre -->
 Table:
 
  1.LNZ (Čerkásy)               21  15  2  4  30-12  47      [4-1]
@@ -684,13 +679,13 @@ Sachtar      -  Kolos
 Epicenter    -  Poltava
 Obolon       -  LNZ
 Olexandrija  -  Kryvbas
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Vbet Ukrainian Cup 2025/26  ‹§kubok›
 
-<!-- start pre -->
 D1 = Ukrainian Premier League (UPL)
 D2 = Perša Liha
 D3 = Druha Liha
@@ -871,13 +866,13 @@ SEMIFINALS [Apr 21-23]
 Metalíst 1925 (Chárkiv) [D1]    -   FC Černíhiv [D2]
 Bukovýna (Černivcí) [D2]        -   Dynámo (Kýjiv) [D1]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Ukrainian First League (Persha Liha) 2025/26  ‹§persha›
 
-<!-- start pre -->
 Table:
 
  1.Bukovýna (Černivcí)             21  18  3  0  49-15  57
@@ -1513,13 +1508,13 @@ Ahrobiznes    -  Cernihiv
 Probij        -  Prykarpattja
 Phoenix       -  Viktorija
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Ukrainian Second League (Druha Liha) 2025/26  ‹§druga›
 
-<!-- start pre -->
 Departed: Metalíst'1925-B (Chárkiv), Metalúrh (Zaporížžja),
           Revéra 1908 (Iváno-Frankívśk), Vorsklá-2 (Poltáva).
 
@@ -2497,19 +2492,10 @@ Hirnyk-Sport   -  Trostjanec
 Penuel         -  Lokomotyv
 Dinaz          -  Kolos-2
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page oekr2025›.
 
-‹list of champions, see page oekrchamp›.
 
-‹list of cup winners, see page oekrcuphist›.
-
-‹list of topscorers, see page oekrtops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

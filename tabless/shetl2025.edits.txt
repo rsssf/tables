@@ -1,0 +1,18 @@
+-- removing nav(igation) section:
+
+‹Ocean Kinetics Premier League, see §prem›
+‹Cup Tournaments, see §cups›
+‹DITT Reserve League, see §leagueb›
+‹Jewsons Championship, see §jewson›
+‹Championship League Cup, see §chlc›
+
+
+-- removing nav(igation) section:
+
+‹2024, see page shetl2024›
+
+‹list of champions, see page shetlchamp›
+
+‹list of cup winners, see page shetlcuphist›
+
+

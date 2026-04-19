@@ -1,4 +1,5 @@
   <!--
+     title:  Montenegro 2024/25
      source: https://rsssf.org/tablesm/monteg2025.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Montenegro 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Prva Crnogorska Fudbal Liga, see §1cfl›
-‹Kup Crne Gore, see §kcg›
-‹Druga Liga, see §druga›
-‹Treća Liga, see §treca›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Prva Crnogorska Fudbal Liga  ‹§1cfl›
 
-<!-- start pre -->
 Table:
 
  1.Budućnost (Podgorica)    35  26  6  3  90-29  84       Champions
@@ -350,13 +345,13 @@ Arsenal         4-0 Lovćen
 Rudar           0-1 Jezero
 
 NB: all remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Kup Crne Gore  ‹§kcg›
 
-<!-- start pre -->
 Round 1
 [Nov 5]
 Igalo           1-2 Budućnost
@@ -390,13 +385,13 @@ Mornar          2-2 Iskra
 
 Final [May 29]
 Mornar          0-1 Dečić
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Druga Liga  ‹§druga›
 
-<!-- start pre -->
 Final Table:
 
  1.Mladost (Donja Gorica)   32  21  7  4  54-24  70  [R]  Promoted
@@ -422,13 +417,13 @@ Kom             3-1 Sloga
 
 NB: Ibar relegated, Internacional Podgorica promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Treća Liga  ‹§treca›
 
-<!-- start pre -->
 Baraža za Drugu Ligu  ‹§drubar›
 
 NB: promotion playoff between three regional league winners; draws are followed
@@ -453,19 +448,10 @@ Final Table:
  2.Internacional Podgorica   2   1 0/0 1   2- 2   3  [R]  ‹Promotion Playoff, see §2prorel›
  3.Sloga (Stari Bar)         2   0 0/1 1   1- 2   1       ‹Promotion Playoff, see §2prorel›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page monteg2024›
 
-‹list of champions, see page montegchamp›
 
-‹list of cup winners, see page montegcuphist›
-
-‹list of foundation dates, see page montegfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

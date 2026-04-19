@@ -1,4 +1,5 @@
   <!--
+     title:  Qatar 2024/25
      source: https://rsssf.org/tablesq/qat2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Qatar 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Qatar Stars League, see §qsl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Qatar Stars League  ‹§qsl›
 
-<!-- start pre -->
 Final Table:
 
  1.Al-Sadd       22  17  1  4  62-23  52  [C]  Champions
@@ -287,21 +285,10 @@ Final Table:
 ----------------------------------------
 12.Khor          22   3  4 15  21-42  13  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page qat2024›
 
-‹list of champions, see page qatchamp›
 
-‹list of cup winners, see page qatcuphist›
-
-‹list of topscorers, see page qattops›
-
-‹list of foundation dates, see page qatfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

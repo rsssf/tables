@@ -1,4 +1,5 @@
   <!--
+     title:  Brazilian Championship 1994
      source: https://rsssf.org/tablesb/braz94.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazilian Championship 1994
 
-<!-- start pre -->
 PARTICIPANTS
 
 Esporte Clube BAHIA (Salvador-BA)
@@ -2221,9 +2221,10 @@ Novorizontino and Ferroviária promoted.
 ‹list of 2nd division champions, see page braz2champ›.
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

@@ -1,0 +1,15 @@
+-- removing nav(igation) section:
+
+‹Division 1, see §div1›
+
+
+-- removing nav(igation) section:
+
+‹2023/24, see page dji2024›.
+
+‹list of champions, see page djichamp›.
+
+‹list of cup winners, see page djicuphist›.
+<!-- end pre -->
+
+

@@ -1,4 +1,5 @@
   <!--
+     title:  Singapore 2025/26
      source: https://rsssf.org/tabless/sing2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Singapore 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹S-League, see §sleague›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== S-League  ‹§sleague›
 
-<!-- start pre -->
 Table:
 
  1.Lion City Sailors         5   5  0  0  22- 2  15  [C]
@@ -99,19 +97,10 @@ Table:
 
 NB: Young Lions are the Singapore youth side
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page sing2025›
 
-‹list of champions, see page singchamp›
 
-‹list of cup winners, see page singcuphist›
-
-‹list of foundation dates, see page singfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

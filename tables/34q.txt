@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1934 Qualifying
      source: https://rsssf.org/tables/34q.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1934 Qualifying
 
-<!-- start pre -->
 Hosts: Italy (not automatically qualified)
 Holders: Uruguay (did not enter)
 
@@ -73,7 +73,6 @@ Turkey withdrew
 16.03.34  Cairo           Egypt            7-1 Palestina
 06.04.34  Tel-Aviv        Palestina        1-4 Egypt
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 34qual›
 
@@ -83,7 +82,9 @@ Turkey withdrew
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Asian Nations Cup 2024
      source: https://rsssf.org/tables/2023asch.html
     -->
   
@@ -10,7 +11,6 @@
 
 ==== Qualifying Tournament
 
-<!-- start pre -->
 NB: all countries which reached the third stage of the ‹Asian section, see page 2022q.html#asi› of the
     2022 World Cup qualifying tournament are automatically qualified for the
     final tournament of the 2023 Asian Nations Cup: Syria, China, Australia,
@@ -125,13 +125,13 @@ Group F
  3.Singapore         3  1  0  2  7- 5  3
  4.Myanmar           3  0  0  3  2-12  0
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Final Tournament
 
-<!-- start pre -->
 NB: in Qatar
 
 Qualified: Qatar (as hosts);
@@ -312,15 +312,10 @@ Semifinals
 Final
 10- 2-2024 Lusail        Qatar        3-1 Jordan
                           [Afif 22pen, 73pen, 90+5pen; Al-Naimat 67]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹overview, see page ../tablesa/asiachamp›
 
-‹2019, see page 2019asch›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

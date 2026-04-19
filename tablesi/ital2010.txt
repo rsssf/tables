@@ -1,4 +1,5 @@
   <!--
+     title:  Italy 2009/10
      source: https://rsssf.org/tablesi/ital2010.html
     -->
   
@@ -6,21 +7,12 @@
 
 == Italy 2009/10
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Serie A, see §seriea›
-‹Coppa Italia, see §coppa›
-‹Super Cup, see §supcoppa›
-‹Serie B, see §serieb›
-‹Prima Divisione, see §prima›
-‹Seconda Divisione, see §seconda›
-‹Serie D, see §seried›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Serie A  ‹§seriea›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Internazionale   38 24 10  4  75-34  82  Champions
@@ -1068,13 +1060,13 @@ Final Table:
 19.AC Siena            38  7 10 21  40-67  31  Relegated
 20.AS Livorno Calcio   38  7  8 23  27-61  29  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coppa Italia  ‹§coppa›
 
-<!-- start pre -->
 
 Round 1
 [Aug 2]
@@ -1297,13 +1289,13 @@ Inter: Julio Cesar, Cordoba (39 Samuel), Maicon, Materazzi, Chivu,
 ref: Rizzoli
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Super Cup 2010  ‹§supcoppa›
 
-<!-- start pre -->
 
 [Aug 21, stadio San Siro, Milan]
 Inter                 3-1 Roma
@@ -1317,13 +1309,13 @@ Inter: Julio Cesar, Maicon, Lucio, Samuel, Chivu, Zanetti (46 Stankovic),
       trainer: Benitez
 ref: Bergonzi
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie B  ‹§serieb›
 
-<!-- start pre -->
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2rel›
 
 Regular Season  ‹§2reg›
@@ -2267,13 +2259,13 @@ Calcio Padova s.p.a.                   - Unione Sportiva Triestina Calcio s.p.a.
 In playoff tie if both teams are at the same level of goals the tie breaker is the final position in regular season
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Prima Divisione  ‹§prima›
 
-<!-- start pre -->
 ‹Gruppo A, see §3a› | ‹Gruppo B, see §3b›
 ‹Super Cup Prima Divisione, see §3sup› | ‹Promotion Playoff, see §3prom› | ‹Relegation Playoff, see §3rel›
 
@@ -2281,11 +2273,11 @@ Gruppo A  ‹§3a›
 
 Final Table:
 
- 1.Novara Calcio S.P.A.                   34 18 13  3 52-24 67  ‹Promoted, see §3sup›
- 2.A.S. Varese 1910 S.P.A.                34 17 11  6 53-34 62  ‹Promotion Playoff, see §3prom›
- 3.A.C. Arezzo S.P.A.                     34 17 10  7 54-35 61  ‹Promotion Playoff, see §3prom›
- 4.U.S. Cremonese S.P.A.                  34 16 13  5 62-47 61  ‹Promotion Playoff, see §3prom›
- 5.Benevento Calcio S.P.A.                34 16  8 10 50-37 56  ‹Promotion Playoff, see §3prom›
+ 1.Novara Calcio S.P.A.                   34 18 13  3 52-24 67   ‹Promoted, see §3sup›
+ 2.A.S. Varese 1910 S.P.A.                34 17 11  6 53-34 62   ‹Promotion Playoff, see §3prom›
+ 3.A.C. Arezzo S.P.A.                     34 17 10  7 54-35 61   ‹Promotion Playoff, see §3prom›
+ 4.U.S. Cremonese S.P.A.                  34 16 13  5 62-47 61   ‹Promotion Playoff, see §3prom›
+ 5.Benevento Calcio S.P.A.                34 16  8 10 50-37 56   ‹Promotion Playoff, see §3prom›
  6.A.C. Lumezzane S.P.A.                  34 14 10 10 45-38 52
  7.A.S.C. Figline S.R.L.                  34 12 10 12 45-44 45
  8.U.S. Alessandria 1912 S.R.L.           34 12  7 15 35-46 43
@@ -2294,11 +2286,11 @@ Final Table:
 11.Perugia Calcio S.P.A.                  34 12  6 16 31-38 40
 12.Calcio Como S.R.L.                     34  9 13 12 27-34 40
 13.Foligno Calcio S.R.L.                  34 10  9 15 53-56 39
-14.F.C. Esperia Viareggio S.R.L.          34  8 14 12 29-39 38  ‹Relegation Playoff, see §3rel›
-15.U.S. Pergocrema 1932 S.R.L.            34  9  9 16 35-44 36  ‹Relegation Playoff, see §3rel›
-16.Aurora Pro Patria 1919 S.R.L.          34  7 14 13 37-49 35  ‹Relegation Playoff, see §3rel›
-17.Paganese Calcio 1926 S.R.L.            34  8  9 17 33-48 33  ‹Relegation Playoff, see §3rel›
-18.Calcio Lecco 1912 S.P.A.               34  8  7 19 34-53 31  Relegated
+14.F.C. Esperia Viareggio S.R.L.          34  8 14 12 29-39 38   ‹Relegation Playoff, see §3rel›
+15.U.S. Pergocrema 1932 S.R.L.            34  9  9 16 35-44 36   ‹Relegation Playoff, see §3rel›
+16.Aurora Pro Patria 1919 S.R.L.          34  7 14 13 37-49 35   ‹Relegation Playoff, see §3rel›
+17.Paganese Calcio 1926 S.R.L.            34  8  9 17 33-48 33   ‹Relegation Playoff, see §3rel›
+18.Calcio Lecco 1912 S.P.A.               34  8  7 19 34-53 31   Relegated
 
 Perugia Calcio S.P.A. two points deducted for administrative irregularities
 A.S.C. Figline S.R.L. one point deducted for administrative irregularities
@@ -2681,11 +2673,11 @@ Gruppo B  ‹§3b›
 
 Final Table:
 
- 1.C. Portogruaro Summaga S.R.L.          34 16 11  7 39-26 59  ‹Promoted, see §3sup›
- 2.Delfino Pescara 1936 S.R.L.            34 15 13  6 39-25 58  ‹Promotion Playoff, see §3prom›
- 3.Hellas Verona F.C. S.P.A.              34 13 16  5 38-20 55  ‹Promotion Playoff, see §3prom›
- 4.Rimini Calcio F.C. S.R.L.              34 15  6 13 39-36 51  ‹Promotion Playoff, see §3prom›
- 5.A.C. Reggiana 1919 S.P.A.              34 13 10 11 45-38 49  ‹Promotion Playoff, see §3prom›
+ 1.C. Portogruaro Summaga S.R.L.          34 16 11  7 39-26 59   ‹Promoted, see §3sup›
+ 2.Delfino Pescara 1936 S.R.L.            34 15 13  6 39-25 58   ‹Promotion Playoff, see §3prom›
+ 3.Hellas Verona F.C. S.P.A.              34 13 16  5 38-20 55   ‹Promotion Playoff, see §3prom›
+ 4.Rimini Calcio F.C. S.R.L.              34 15  6 13 39-36 51   ‹Promotion Playoff, see §3prom›
+ 5.A.C. Reggiana 1919 S.P.A.              34 13 10 11 45-38 49   ‹Promotion Playoff, see §3prom›
  6.Ternana Calcio S.P.A.                  34 14  7 13 34-34 49
  7.Spal 1907 S.P.A.                       34 10 15  9 37-29 45
  8.Taranto Sport S.R.L.                   34 10 15  9 26-24 45
@@ -2694,11 +2686,11 @@ Final Table:
 11.S.S. Cavese 1919 S.R.L.                34  9 16  9 25-25 43
 12.Cosenza Calcio 1914 S.R.L.             34 10 13 11 43-45 43
 13.Ravenna Calcio S.R.L.                  34  9 13 12 38-36 40
-14.A.S. Andria Bat S.R.L.                 34  9 13 12 31-35 40  ‹Relegation Playoff, see §3rel›
-15.U.S. Foggia S.P.A.                     34  9 14 11 27-37 40  ‹Relegation Playoff, see §3rel›
-16.Pescina Vallegiovenco S.R.L.           34  8 10 16 32-49 34  ‹Relegation Playoff, see §3rel›
-17.Potenza Sport Club S.R.L.              34  8 10 16 30-48 34  ‹Relegation Playoff, see §3rel›
-18.Giulianova Calcio S.R.L.               34  6 14 14 28 43 32  Relegated
+14.A.S. Andria Bat S.R.L.                 34  9 13 12 31-35 40   ‹Relegation Playoff, see §3rel›
+15.U.S. Foggia S.P.A.                     34  9 14 11 27-37 40   ‹Relegation Playoff, see §3rel›
+16.Pescina Vallegiovenco S.R.L.           34  8 10 16 32-49 34   ‹Relegation Playoff, see §3rel›
+17.Potenza Sport Club S.R.L.              34  8 10 16 30-48 34   ‹Relegation Playoff, see §3rel›
+18.Giulianova Calcio S.R.L.               34  6 14 14 28 43 32   Relegated
 
 Potenza Sport Club S.R.L. relegated at the bottom position due to the attempt to fix the result of match against Salernitana of 2007-2008 C1 League
 U.S. Foggia S.P.A. one point deducted for administrative irregularities
@@ -3117,13 +3109,13 @@ C. Portogruaro Summaga S.R.L.          - Novara Calcio S.P.A.                   
 
 Novara Calcio S.P.A. wins the Prima Divisione Lega Pro Supercup 2009-2010
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Seconda Divisione  ‹§seconda›
 
-<!-- start pre -->
 ‹Gruppo A, see §4a› | ‹Gruppo B, see §4b› | ‹Gruppo C, see §4c›
 ‹Super Cup Seconda Divisione, see §4sup› | ‹Promotion Playoff, see §4prom› | ‹Relegation Playoff, see §4rel›
 
@@ -3131,11 +3123,11 @@ Gruppo A  ‹§4a›
 
 Final Table:
 
- 1.Fussballclub Südtirol S.R.L.          34 18  9  7 33-23 63  ‹Promoted, see §4sup›
- 2.Spezia Calcio S.R.L.                  34 16 12  6 47-27 60  ‹Promotion Playoff, see §4prom›
- 3.A.C. Legnano S.R.L.                   34 16 11  7 49-31 57  ‹Promotion Playoff, see §4prom›
- 4.A.C. Pavia S.R.L.                     34 15 12  7 49-32 57  ‹Promotion Playoff, see §4prom›
- 5.Feralpisalo' S.R.L.                   34 14 15  5 41-32 57  ‹Promotion Playoff, see §4prom›
+ 1.Fussballclub Südtirol S.R.L.          34 18  9  7 33-23 63   ‹Promoted, see §4sup›
+ 2.Spezia Calcio S.R.L.                  34 16 12  6 47-27 60   ‹Promotion Playoff, see §4prom›
+ 3.A.C. Legnano S.R.L.                   34 16 11  7 49-31 57   ‹Promotion Playoff, see §4prom›
+ 4.A.C. Pavia S.R.L.                     34 15 12  7 49-32 57   ‹Promotion Playoff, see §4prom›
+ 5.Feralpisalo' S.R.L.                   34 14 15  5 41-32 57   ‹Promotion Playoff, see §4prom›
  6.Polisportiva Alghero S.R.L.           34 15 12  7 43-25 56
  7.A.C. Rodengo Saiano S.R.L.            34 12 14  8 40-32 49
  8.Olbia Calcio S.R.L.                   34  8 18  8 32-27 42
@@ -3144,11 +3136,11 @@ Final Table:
 11.Valenzana Calcio S.R.L.               34  9 14 11 24-29 41
 12.U.S. Pro Vercelli Calcio S.R.L.       34 11  8 15 31-37 41
 13.F.C. Canavese S.R.L.                  34  9 13 12 31-39 40
-14.A.C. Mezzocorona S.R.L.               34 11  6 17 42-46 39  ‹Relegation Playoff, see §4rel›
-15.S.S. Villacidrese Calcio S.R.L.       34 10  9 15 38-43 39  ‹Relegation Playoff, see §4rel›
-16.A.C. Carpenedolo S.R.L.               34  9  8 17 34-50 35  ‹Relegation Playoff, see §4rel›
-17.A.S. Pro Belvedere Vercelli S.R.L.    34  5 13 16 15-39 28  ‹Relegation Playoff, see §4rel›
-18.A.C. Pro Sesto S.R.L.                 34  5  7 22 24-58 20  Relegated
+14.A.C. Mezzocorona S.R.L.               34 11  6 17 42-46 39   ‹Relegation Playoff, see §4rel›
+15.S.S. Villacidrese Calcio S.R.L.       34 10  9 15 38-43 39   ‹Relegation Playoff, see §4rel›
+16.A.C. Carpenedolo S.R.L.               34  9  8 17 34-50 35   ‹Relegation Playoff, see §4rel›
+17.A.S. Pro Belvedere Vercelli S.R.L.    34  5 13 16 15-39 28   ‹Relegation Playoff, see §4rel›
+18.A.C. Pro Sesto S.R.L.                 34  5  7 22 24-58 20   Relegated
 
 A.C. Legnano S.R.L. two points deducted for administrative irregularities
 A.C. Pro Sesto S.R.L.two points deducted for administrative irregularities
@@ -3534,11 +3526,11 @@ Gruppo B  ‹§4b›
 
 Final Table:
 
- 1.A.S. Lucchese Libertas 1905 S.R.L.    34 19 11  4 58-34 68  ‹Promoted, see §4sup›
- 2.San Marino Calcio S.R.L.              34 15 11  8 58-41 56  ‹Promotion Playoff, see §4prom›
- 3.A.S. Gubbio 1910 S.R.L.               34 15 10  9 40-27 55  ‹Promotion Playoff, see §4prom›
- 4.Alma Juventus Fano 1906 S.R.L.        34 14 13  7 36-24 55  ‹Promotion Playoff, see §4prom›
- 5.A.C. Sangiovannese 1927 S.P.A.        34 13 15  6 42-33 54  ‹Promotion Playoff, see §4prom›
+ 1.A.S. Lucchese Libertas 1905 S.R.L.    34 19 11  4 58-34 68   ‹Promoted, see §4sup›
+ 2.San Marino Calcio S.R.L.              34 15 11  8 58-41 56   ‹Promotion Playoff, see §4prom›
+ 3.A.S. Gubbio 1910 S.R.L.               34 15 10  9 40-27 55   ‹Promotion Playoff, see §4prom›
+ 4.Alma Juventus Fano 1906 S.R.L.        34 14 13  7 36-24 55   ‹Promotion Playoff, see §4prom›
+ 5.A.C. Sangiovannese 1927 S.P.A.        34 13 15  6 42-33 54   ‹Promotion Playoff, see §4prom›
  6.A.C. Prato S.P.A.                     34 14 10 10 50-37 52
  7.Bassano Virtus 55 S.T. S.R.L.         34 12 15  7 48-35 51
  8.A.C. Sangiustese S.R.L.               34 12  7 15 34-43 43
@@ -3547,11 +3539,11 @@ Final Table:
 11.S.S. Sacilese Calcio S.R.L.           34  9 13 12 35-39 40
 12.F.C. Pro Vasto S.R.L.                 34  9 13 12 38-47 40
 13.A.S.G. Nocerina S.R.L.                34  8 14 12 37-37 38
-14.A.C. Giacomense S.R.L.                34  9 10 15 31-45 37  ‹Relegation Playoff, see §4rel›
-15.U.S. Poggibonsi S.R.L.                34  8 12 14 36-50 36  ‹Relegation Playoff, see §4rel›
-16.A.C. Bellaria Igea Marina S.R.L.      34  8 11 15 27-40 35  ‹Relegation Playoff, see §4rel›
-17.Valdelsa F. Colligiana S.R.L.         34  8 12 14 33-41 35  ‹Relegation Playoff, see §4rel›
-18.Carrarese Calcio S.R.L.               34  7 12 15 37-57 33  Relegated
+14.A.C. Giacomense S.R.L.                34  9 10 15 31-45 37   ‹Relegation Playoff, see §4rel›
+15.U.S. Poggibonsi S.R.L.                34  8 12 14 36-50 36   ‹Relegation Playoff, see §4rel›
+16.A.C. Bellaria Igea Marina S.R.L.      34  8 11 15 27-40 35   ‹Relegation Playoff, see §4rel›
+17.Valdelsa F. Colligiana S.R.L.         34  8 12 14 33-41 35   ‹Relegation Playoff, see §4rel›
+18.Carrarese Calcio S.R.L.               34  7 12 15 37-57 33   Relegated
 
 Valdelsa F. Colligiana S.R.L. one point deducted for administrative irregularities
 A.S.G. Nocerina S.R.L.-A.C. Giacomense S.R.L. awarded 3-0 for home team for the irregular position of player Luca Errico disqulified. Match originally finished 1-1
@@ -3934,11 +3926,11 @@ Gruppo C  ‹§4c›
 
 Final Table:
 
- 1.S.S. Juve Stabia S.P.A.               34 22  7  5 65-28 73  ‹Promoted, see §4sup›
- 2.F.C. Catanzaro S.P.A.                 34 22  6  6 61-29 69  ‹Promotion Playoff, see §4prom›
- 3.A.S. Cisco Calcio Roma S.R.L.         34 19 11  4 52-23 68  ‹Promotion Playoff, see §4prom›
- 4.F.B. Brindisi 1912 S.R.L.             34 16  9  9 55-35 57  ‹Promotion Playoff, see §4prom›
- 5.S.S. Barletta Calcio S.R.L.           34 15 12  7 35-31 56  ‹Promotion Playoff, see §4prom›
+ 1.S.S. Juve Stabia S.P.A.               34 22  7  5 65-28 73   ‹Promoted, see §4sup›
+ 2.F.C. Catanzaro S.P.A.                 34 22  6  6 61-29 69   ‹Promotion Playoff, see §4prom›
+ 3.A.S. Cisco Calcio Roma S.R.L.         34 19 11  4 52-23 68   ‹Promotion Playoff, see §4prom›
+ 4.F.B. Brindisi 1912 S.R.L.             34 16  9  9 55-35 57   ‹Promotion Playoff, see §4prom›
+ 5.S.S. Barletta Calcio S.R.L.           34 15 12  7 35-31 56   ‹Promotion Playoff, see §4prom›
  6.U.S. Siracusa S.R.L.                  34 16  6 12 40-29 54
  7.Gela Calcio S.P.A.                    34 13 10 11 34-26 49
  8.S.S. Cassino S.R.L.                   34 14  6 14 40-43 48
@@ -3947,11 +3939,11 @@ Final Table:
 11.S.F. Aversa Normanna S.R.L.           34 10 12 12 34-37 42
 12.S.S. Manfredonia Calcio S.R.L.        34 11  9 14 33-42 42
 13.S.S. Scafatese Calcio S.R.L.          34  9 14 11 35-37 41
-14.A.C. Isola Liri S.R.L.                34  9  8 17 23-44 35  ‹Relegation Playoff, see §4rel›
-15.A.S. Noicattaro Calcio S.R.L.         34  8 10 16 30-50 34  ‹Relegation Playoff, see §4rel›
-16.U.S. Vibonese Calcio S.R.L.           34  7 11 16 27-47 31  ‹Relegation Playoff, see §4rel›
-17.Vico Equense Calcio 1958 S.R.L.       34  5 11 18 21-37 26  ‹Relegation Playoff, see §4rel›
-18.F.C. Igea Virtus Barcellona S.R.L.    34  1 10 23 24-74  8  Relegated
+14.A.C. Isola Liri S.R.L.                34  9  8 17 23-44 35   ‹Relegation Playoff, see §4rel›
+15.A.S. Noicattaro Calcio S.R.L.         34  8 10 16 30-50 34   ‹Relegation Playoff, see §4rel›
+16.U.S. Vibonese Calcio S.R.L.           34  7 11 16 27-47 31   ‹Relegation Playoff, see §4rel›
+17.Vico Equense Calcio 1958 S.R.L.       34  5 11 18 21-37 26   ‹Relegation Playoff, see §4rel›
+18.F.C. Igea Virtus Barcellona S.R.L.    34  1 10 23 24-74  8   Relegated
 
 F.C. Catanzaro S.P.A. three points deducted for administrative irregularities
 F.C. Igea Virtus Barcellona S.R.L. two points deducted for administrative irregularities
@@ -4385,7 +4377,7 @@ Seconda Divisione Supercup  ‹§4sup›
 
 Table:
 
- 1 A.S. Lucchese Libertas 1905 S.R.L. 6 2 2 0 0 7 2  5  Winner
+ 1 A.S. Lucchese Libertas 1905 S.R.L. 6 2 2 0 0 7 2  5   Winner
  2 S.S. Juve Stabia S.P.A.            3 2 1 0 1 4 5 -1
  3 Fussballclub Südtirol S.R.L.       0 2 0 0 2 1 5 -4
 
@@ -4399,13 +4391,13 @@ Round 3
 A.S. Lucchese Libertas 1905 S.R.L. 4-2 S.S. Juve Stabia S.P.A.
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Serie D  ‹§seried›
 
-<!-- start pre -->
 ‹Gruppo A, see §5a› | ‹Gruppo B, see §5b› | ‹Gruppo C, see §5c› | ‹Gruppo D, see §5d› | ‹Gruppo E, see §5e› |
 ‹Gruppo F, see §5f› | ‹Gruppo G, see §5g› | ‹Gruppo H, see §5h› | ‹Gruppo I, see §5i› |
 ‹Amateur Championship, see §5champ› | ‹Promotion Playoff, see §5prom› | ‹Relegation Playoff, see §5rel›
@@ -4414,11 +4406,11 @@ Gruppo A  ‹§5a›
 
 Final Table:
 
- 1.Savona 1907 Fbc S.R.L.                  34 27  4  3 84-23 85  ‹Promoted, see §5champ›
- 2.Virtus Entella                          34 19 10  5 55-20 67  ‹Repechage Playoff, see §5prom›
- 3.Casale Calcio S.R.L.                    34 19 10  5 53-29 67  ‹Repechage Playoff, see §5prom›
- 4.Albese Calcio                           34 15 11  8 51-37 56  ‹Repechage Playoff, see §5prom›
- 5.Sarzanese Calcio 1906 Srl               34 13 15  6 43-28 54  ‹Repechage Playoff, see §5prom›
+ 1.Savona 1907 Fbc S.R.L.                  34 27  4  3 84-23 85   ‹Promoted, see §5champ›
+ 2.Virtus Entella                          34 19 10  5 55-20 67   ‹Repechage Playoff, see §5prom›
+ 3.Casale Calcio S.R.L.                    34 19 10  5 53-29 67   ‹Repechage Playoff, see §5prom›
+ 4.Albese Calcio                           34 15 11  8 51-37 56   ‹Repechage Playoff, see §5prom›
+ 5.Sarzanese Calcio 1906 Srl               34 13 15  6 43-28 54   ‹Repechage Playoff, see §5prom›
  6.Acqui 1911                              34 11 16  7 39-34 49
  7.Lavagnese 1919                          34 12 12 10 47-34 48
  8.Borgorosso Arenzano                     34 13  6 15 55-56 45
@@ -4427,11 +4419,11 @@ Final Table:
 11.Cuneo 1905 S.R.L.                       34  9 15 10 37-35 42
 12.Calcio Chieri 1955                      34  8 15 11 47-50 39
 13.Vigevano Calcio S.R.L.                  34 10  9 15 36-49 39
-14.Rivoli                                  34  9 10 15 44-59 36  ‹Relegation Playoff, see §5rel›
-15.Pro Settimo E Eureka                    34  7 12 15 36-56 33  ‹Relegation Playoff, see §5rel›
-16.Derthona F.B.C. 1908 Srl                34  6 10 18 34-54 28  Relegated
-17.F.S. Sestrese Calcio 1919               34  6  9 19 27-59 27  Relegated
-18.Valle D Aosta Calcio Srl                34  3  8 23 28-74 16  Relegated
+14.Rivoli                                  34  9 10 15 44-59 36   ‹Relegation Playoff, see §5rel›
+15.Pro Settimo E Eureka                    34  7 12 15 36-56 33   ‹Relegation Playoff, see §5rel›
+16.Derthona F.B.C. 1908 Srl                34  6 10 18 34-54 28   Relegated
+17.F.S. Sestrese Calcio 1919               34  6  9 19 27-59 27   Relegated
+18.Valle D Aosta Calcio Srl                34  3  8 23 28-74 16   Relegated
 
 Rivoli one point deducted for failing the payment of previous coach Paolo Diliberto
 Vigevano Calcio S.R.L.-Virtus Entella awarded 3-0 for the away team because of the lack of minimum number of young players for 13 minutes. Match originally finished 1-1
@@ -4815,11 +4807,11 @@ Gruppo B  ‹§5b›
 
 Final Table:
 
- 1.Tritium 1908                            34 24  8  2 68-24 80  ‹Promoted, see §5champ›
- 2.Alzano Cene 1909 S.R.L.                 34 13 16  5 53-41 55  ‹Repechage Playoff, see §5prom›
- 3.Ponte S.P. Isola Ssd Arl                34 15  9 10 53-42 54  ‹Repechage Playoff, see §5prom›
- 4.Darfo Boario S.R.L.Ssd.                 34 14 12  8 42-36 54  ‹Repechage Playoff, see §5prom›
- 5.Renate                                  34 15  9 10 47-41 54  ‹Repechage Playoff, see §5prom›
+ 1.Tritium 1908                            34 24  8  2 68-24 80   ‹Promoted, see §5champ›
+ 2.Alzano Cene 1909 S.R.L.                 34 13 16  5 53-41 55   ‹Repechage Playoff, see §5prom›
+ 3.Ponte S.P. Isola Ssd Arl                34 15  9 10 53-42 54   ‹Repechage Playoff, see §5prom›
+ 4.Darfo Boario S.R.L.Ssd.                 34 14 12  8 42-36 54   ‹Repechage Playoff, see §5prom›
+ 5.Renate                                  34 15  9 10 47-41 54   ‹Repechage Playoff, see §5prom›
  6.Calcio Colognese                        34 13 12  9 47-38 51
  7.Insubria Asd                            34 14  8 12 53-49 50
  8.Voghera S.R.L.                          34 12 12 10 63-50 48
@@ -4827,12 +4819,12 @@ Final Table:
 10.Pizzighettone S.R.L.                    34 12  9 13 50-49 45
 11.Olginatese                              34 11  9 14 52-59 42
 12.Solbiatese Arnocalcio Srl               34  9 15 10 42-44 42
-13.Sestese Calcio                          34 10 11 13 34-43 41  ‹Relegation Playoff, see §5rel›
-14.Fiorenzuola 1922 S.R.L.                 34  8 13 13 44-49 37  ‹Relegation Playoff, see §5rel›
-15.Caratese                                34  8 12 14 26-36 36  ‹Relegation Playoff, see §5rel›
-16.Borgosesia Calcio S.R.L.                34  8  9 17 30-49 33  ‹Relegation Playoff, see §5rel›
-17.Caravaggio                              34  7  8 19 40-60 29  Relegated
-18.S.B.C. Oltrepo                          34  3 13 18 22-54 21  Relegated
+13.Sestese Calcio                          34 10 11 13 34-43 41   ‹Relegation Playoff, see §5rel›
+14.Fiorenzuola 1922 S.R.L.                 34  8 13 13 44-49 37   ‹Relegation Playoff, see §5rel›
+15.Caratese                                34  8 12 14 26-36 36   ‹Relegation Playoff, see §5rel›
+16.Borgosesia Calcio S.R.L.                34  8  9 17 30-49 33   ‹Relegation Playoff, see §5rel›
+17.Caravaggio                              34  7  8 19 40-60 29   Relegated
+18.S.B.C. Oltrepo                          34  3 13 18 22-54 21   Relegated
 
 S.B.C. Oltrepo one point deducted for fielding the player Stefano Rossini in irregular position during the games S.B.C. Oltrepo-Solbiatese Arnocalcio Srl, Sestese Calcio-S.B.C. Oltrepo e S.B.C. Oltrepo-Caravaggio
 
@@ -5214,11 +5206,11 @@ Gruppo C  ‹§5c›
 
 Final Table:
 
- 1.Montichiari S.P.A.                      38 25  9  4 64-23 84  ‹Promoted, see §5champ›
- 2.Este S.R.L.                             38 21 13  4 69-41 76  ‹Repechage Playoff, see §5prom›
- 3.Unione Venezia S.R.L.                   38 21 12  5 71-43 75  ‹Repechage Playoff, see §5prom›
- 4.Citta Di Jesolo S.R.L.                  38 21  7 10 88-57 70  ‹Repechage Playoff, see §5prom›
- 5.Union Quinto                            38 17 13  8 63-41 64  ‹Repechage Playoff, see §5prom›
+ 1.Montichiari S.P.A.                      38 25  9  4 64-23 84   ‹Promoted, see §5champ›
+ 2.Este S.R.L.                             38 21 13  4 69-41 76   ‹Repechage Playoff, see §5prom›
+ 3.Unione Venezia S.R.L.                   38 21 12  5 71-43 75   ‹Repechage Playoff, see §5prom›
+ 4.Citta Di Jesolo S.R.L.                  38 21  7 10 88-57 70   ‹Repechage Playoff, see §5prom›
+ 5.Union Quinto                            38 17 13  8 63-41 64   ‹Repechage Playoff, see §5prom›
  6.Pordenone Calcio Ssd Srl                38 14 18  6 58-43 60
  7.Calcio Montebelluna Srl                 38 15 15  8 57-41 60
  8.Tamai                                   38 14 15  9 50-41 57
@@ -5230,10 +5222,10 @@ Final Table:
 14.Nuova Verolese Calcio Asd               38 12 10 16 40-63 46
 15.Citta Di Concordia                      38 10 14 14 41-56 44
 16.Domegliara S.R.L.                       38  9 17 12 48-54 44
-17.Palazzolo S.R.L.                        38  6 11 21 44-73 29  Relegated
-18.Manzanese                               38  5  9 24 29-55 24  Relegated
-19.Porfido Albiano                         38  4 11 23 37-84 23  Relegated
-20.Montecchio Maggiore Srl                 38  3  8 27 33-77 17  Relegated
+17.Palazzolo S.R.L.                        38  6 11 21 44-73 29   Relegated
+18.Manzanese                               38  5  9 24 29-55 24   Relegated
+19.Porfido Albiano                         38  4 11 23 37-84 23   Relegated
+20.Montecchio Maggiore Srl                 38  3  8 27 33-77 17   Relegated
 
 Round 1
 Belluno 1905 S.R.L.                     2-2 Pordenone Calcio Ssd Srl
@@ -5695,11 +5687,11 @@ Gruppo D  ‹§5d›
 
 Final Table:
 
- 1.Pisa 1909 S.S.D.R.L.                    38 24 10  4 66-24 82  ‹Promoted, see §5champ›
- 2.Carpi F.C. 1909 Srl                     38 18 11  9 59-35 65  ‹Repechage Playoff, see §5prom›
- 3.Bikkembergs Fossombr. Srl               38 18 11  9 49-32 65  ‹Repechage Playoff, see §5prom›
- 4.Chioggia Sottomarina                    38 16 13  9 63-40 61  ‹Repechage Playoff, see §5prom›
- 5.Santarcangelo                           38 16 13  9 48-38 61  ‹Repechage Playoff, see §5prom›
+ 1.Pisa 1909 S.S.D.R.L.                    38 24 10  4 66-24 82   ‹Promoted, see §5champ›
+ 2.Carpi F.C. 1909 Srl                     38 18 11  9 59-35 65   ‹Repechage Playoff, see §5prom›
+ 3.Bikkembergs Fossombr. Srl               38 18 11  9 49-32 65   ‹Repechage Playoff, see §5prom›
+ 4.Chioggia Sottomarina                    38 16 13  9 63-40 61   ‹Repechage Playoff, see §5prom›
+ 5.Santarcangelo                           38 16 13  9 48-38 61   ‹Repechage Playoff, see §5prom›
  6.Rosignano Sei Rose                      38 14 17  7 45-36 59
  7.Russi S.R.L. Ssd                        38 13 18  7 53-38 57
  8.Virtus Castelfrancocalcio               38 15 11 12 43-38 56
@@ -5710,11 +5702,11 @@ Final Table:
 13.Mobilieri Ponsacco Calcio               38 10 15 13 39-48 45
 14.Cecina                                  38 10 15 13 30-40 45
 15.Castellana Castelgoffredo               38 10 15 13 42-49 45
-16.Valleverdericcione Fc Srl               38  9 12 17 43-58 39  ‹Relegation Playoff, see §5rel›
-17.Castel S.Pietro Terme Srl               38  6 18 14 34-50 36  ‹Relegation Playoff, see §5rel›
-18.Adriese                                 38  7 13 18 34-64 34  Relegated
-19.Boca Pietri Carpi A.S.D.                38  6 11 21 38-66 29  Relegated
-20.Castellarano F.C. S.R.L.                38  4 12 22 36-71 24  Relegated
+16.Valleverdericcione Fc Srl               38  9 12 17 43-58 39   ‹Relegation Playoff, see §5rel›
+17.Castel S.Pietro Terme Srl               38  6 18 14 34-50 36   ‹Relegation Playoff, see §5rel›
+18.Adriese                                 38  7 13 18 34-64 34   Relegated
+19.Boca Pietri Carpi A.S.D.                38  6 11 21 38-66 29   Relegated
+20.Castellarano F.C. S.R.L.                38  4 12 22 36-71 24   Relegated
 
 Valleverdericcione Fc Srl-Pisa 1909 S.S.D.R.L. awarded 3-0 for away team due to irregular position of player Cristiano Lapi disqualified. Match originally finished 0-0
 Cecina-Pisa 1909 S.S.D.R.L. awarded 0-3 for both teams for crowd trouble
@@ -6179,11 +6171,11 @@ Gruppo E  ‹§5e›
 
 Final Table:
 
- 1.Gavorrano                               34 19  5 10 56-38 62  ‹Promoted, see §5champ›
- 2.Guidonia Montecelio                     34 17  6 11 61-43 57  ‹Repechage Playoff, see §5prom›
- 3.Castel Rigone                           34 15 10  9 54-33 55  ‹Repechage Playoff, see §5prom›
- 4.Group C.Di Castello Srl                 34 16  7 11 51-35 55  ‹Repechage Playoff, see §5prom›
- 5.Monterotondo Calcio Srl                 34 15  9 10 54-38 54  ‹Repechage Playoff, see §5prom›
+ 1.Gavorrano                               34 19  5 10 56-38 62   ‹Promoted, see §5champ›
+ 2.Guidonia Montecelio                     34 17  6 11 61-43 57   ‹Repechage Playoff, see §5prom›
+ 3.Castel Rigone                           34 15 10  9 54-33 55   ‹Repechage Playoff, see §5prom›
+ 4.Group C.Di Castello Srl                 34 16  7 11 51-35 55   ‹Repechage Playoff, see §5prom›
+ 5.Monterotondo Calcio Srl                 34 15  9 10 54-38 54   ‹Repechage Playoff, see §5prom›
  6.Deruta                                  34 15  6 13 41-33 51
  7.Sansepolcro Calcio S.R.L.               34 13 12  9 42-38 51
  8.Sestese Calcio A.S.D.                   34 13  7 14 40-50 46
@@ -6191,12 +6183,12 @@ Final Table:
 10.Forcoli                                 34 12  8 14 36-37 44
 11.Montevarchi C.A. 1902 Srl               34 11 10 13 34-33 42
 12.Fortis Juventus 1909                    34 11  9 14 34-45 42
-13.Orvietana Calcio S.R.L.                 34 10 11 13 34-43 41  ‹Relegation Playoff, see §5rel›
-14.Pontevecchio Srl                        34 11  8 15 42-47 41  ‹Relegation Playoff, see §5rel›
-15.Monteriggioni A.S.D.                    34 10 10 14 34-48 40  ‹Relegation Playoff, see §5rel›
-16.Sporting Terni                          34 10 10 14 42-57 40  ‹Relegation Playoff, see §5rel›
-17.Calenzano A.S.D.                        34 10  8 16 27-38 38  Relegated
-18.Sangimignanosport Scoopsd               34  7 12 15 27-47 33  Relegated
+13.Orvietana Calcio S.R.L.                 34 10 11 13 34-43 41   ‹Relegation Playoff, see §5rel›
+14.Pontevecchio Srl                        34 11  8 15 42-47 41   ‹Relegation Playoff, see §5rel›
+15.Monteriggioni A.S.D.                    34 10 10 14 34-48 40   ‹Relegation Playoff, see §5rel›
+16.Sporting Terni                          34 10 10 14 42-57 40   ‹Relegation Playoff, see §5rel›
+17.Calenzano A.S.D.                        34 10  8 16 27-38 38   Relegated
+18.Sangimignanosport Scoopsd               34  7 12 15 27-47 33   Relegated
 
 Montevarchi C.A. 1902 Srl one point deducted for administrative irregularities
 
@@ -6578,24 +6570,24 @@ Gruppo F  ‹§5f›
 
 Final Table:
 
- 1.Chieti Calcio A.R.L.                    34 20  7  7 54-31 67  ‹Promoted, see §5champ›
- 2.Santegidiese S.R.L.                     34 18  9  7 62-38 63  ‹Repechage Playoff, see §5prom›
- 3.Atessa Val Di Sangro Arl                34 18  9  7 61-41 63  ‹Repechage Playoff, see §5prom›
- 4.Laquila Calcio 1927                     34 18  7  9 52-28 61  ‹Repechage Playoff, see §5prom›
- 5.Civitanovese Calcio S.R.L               34 15 13  6 42-30 58  ‹Repechage Playoff, see §5prom›
+ 1.Chieti Calcio A.R.L.                    34 20  7  7 54-31 67   ‹Promoted, see §5champ›
+ 2.Santegidiese S.R.L.                     34 18  9  7 62-38 63   ‹Repechage Playoff, see §5prom›
+ 3.Atessa Val Di Sangro Arl                34 18  9  7 61-41 63   ‹Repechage Playoff, see §5prom›
+ 4.Laquila Calcio 1927                     34 18  7  9 52-28 61   ‹Repechage Playoff, see §5prom›
+ 5.Civitanovese Calcio S.R.L               34 15 13  6 42-30 58   ‹Repechage Playoff, see §5prom›
  6.Atletico Trivento S.R.L.                34 15 13  6 42-20 57
  7.Recanatese                              34 12 16  6 33-19 51
  8.Olympia Agnonese A.S.D.                 34 12 14  8 52-46 50
  9.Casoli                                  34 11 11 12 41-42 44
 10.Nuovo Campobasso Calc.Srl               34 11 10 13 35-29 43
 11.Miglianico Calcio                       34 11  8 15 36-50 41
-12.Renato Curi Angolana Srl                34 11  8 15 41-50 41  Preliminary ‹Relegation Playoff, see §5rel›
-13.Bojano                                  34 11 10 13 33-42 41  Preliminary ‹Relegation Playoff, see §5rel›
-14.Luco Canistro S.R.L.                    34 10 10 14 40-42 40  ‹Relegation Playoff, see §5rel›
-15.Morro D Oro Calcio S.R.L.               34 11  6 17 41-55 39  ‹Relegation Playoff, see §5rel›
-16.Centobuchi Calcio S.R.L.                34 10  7 17 33-51 37  ‹Relegation Playoff, see §5rel›
-17.Elpidiense Cascinare                    34  2  9 23 18-66 15  Relegated
-18.Real Montecchio A.S.D.                  34  1 11 22 19-55 14  Relegated
+12.Renato Curi Angolana Srl                34 11  8 15 41-50 41   Preliminary ‹Relegation Playoff, see §5rel›
+13.Bojano                                  34 11 10 13 33-42 41   Preliminary ‹Relegation Playoff, see §5rel›
+14.Luco Canistro S.R.L.                    34 10 10 14 40-42 40   ‹Relegation Playoff, see §5rel›
+15.Morro D Oro Calcio S.R.L.               34 11  6 17 41-55 39   ‹Relegation Playoff, see §5rel›
+16.Centobuchi Calcio S.R.L.                34 10  7 17 33-51 37   ‹Relegation Playoff, see §5rel›
+17.Elpidiense Cascinare                    34  2  9 23 18-66 15   Relegated
+18.Real Montecchio A.S.D.                  34  1 11 22 19-55 14   Relegated
 
 Atletico Trivento S.R.L. one point deducted for administrative irregularities
 Recanatese one point deducted for administrative irregularities
@@ -6979,11 +6971,11 @@ Gruppo G  ‹§5g›
 
 Final Table:
 
- 1.Fondi Calcio S.R.L.                     34 18 10  6 59-26 64  ‹Promoted, see §5champ›
- 2.Gaeta S.R.L.                            34 17  9  8 62-41 60  ‹Repechage Playoff, see §5prom›
- 3.Pomezia Calcio Ssd A.R.L.               34 17  7 10 53-43 58  ‹Repechage Playoff, see §5prom›
- 4.Sanluri Calcio                          34 15 12  7 49-44 57  ‹Repechage Playoff, see §5prom›
- 5.Selargius Calcio                        34 16  8 10 57-45 56  ‹Repechage Playoff, see §5prom›
+ 1.Fondi Calcio S.R.L.                     34 18 10  6 59-26 64   ‹Promoted, see §5champ›
+ 2.Gaeta S.R.L.                            34 17  9  8 62-41 60   ‹Repechage Playoff, see §5prom›
+ 3.Pomezia Calcio Ssd A.R.L.               34 17  7 10 53-43 58   ‹Repechage Playoff, see §5prom›
+ 4.Sanluri Calcio                          34 15 12  7 49-44 57   ‹Repechage Playoff, see §5prom›
+ 5.Selargius Calcio                        34 16  8 10 57-45 56   ‹Repechage Playoff, see §5prom›
  6.Flaminia Civitacastellana               34 12 15  7 45-30 51
  7.Rondinelle Latina Ssd Srl               34 13 11 10 50-48 50
  8.Viterbese Calcio S.R.L.                 34 11 16  7 34-26 49
@@ -6991,12 +6983,12 @@ Final Table:
 10.Budoni                                  34 11 11 12 51-48 44
 11.Tavolara Calcio Srl                     34 10 11 13 38-41 41
 12.Cynthia 1920                            34 11  7 16 39-47 40
-13.Boville Ernica                          34  8 15 11 40-46 39  ‹Relegation Playoff, see §5rel›
-14.Astrea                                  34 10  7 17 46-63 37  ‹Relegation Playoff, see §5rel›
-15.Castelsardo S.R.L.                      34  8 12 14 37-49 36  ‹Relegation Playoff, see §5rel›
-16.Arzachena                               34  9  7 18 36-53 34  ‹Relegation Playoff, see §5rel›
-17.Rieti S.R.L.                            34  8  9 17 53-75 33  Relegated
-18.Morolo Calcio                           34  8  6 20 26-48 30  Relegated
+13.Boville Ernica                          34  8 15 11 40-46 39   ‹Relegation Playoff, see §5rel›
+14.Astrea                                  34 10  7 17 46-63 37   ‹Relegation Playoff, see §5rel›
+15.Castelsardo S.R.L.                      34  8 12 14 37-49 36   ‹Relegation Playoff, see §5rel›
+16.Arzachena                               34  9  7 18 36-53 34   ‹Relegation Playoff, see §5rel›
+17.Rieti S.R.L.                            34  8  9 17 53-75 33   Relegated
+18.Morolo Calcio                           34  8  6 20 26-48 30   Relegated
 
 Flaminia Civitacastellana-Arzachena awarded 3-0 for home team due to irregular position of player Giulio China disqualified. Match originally finished 0-0
 
@@ -7378,11 +7370,11 @@ Gruppo H  ‹§5h›
 
 Final Table:
 
- 1.Neapolis Mugnano S.R.L.                 36 24  7  5 71-32 79  ‹Promoted, see §5champ›
- 2.Pianura                                 36 20 10  6 64-36 70  ‹Repechage Playoff, see §5prom›
- 3.Virtus Casarano                         36 19 12  5 62-31 69  ‹Repechage Playoff, see §5prom›
- 4.Forza E Coraggio Bn                     36 18  9  9 63-48 63  ‹Repechage Playoff, see §5prom›
- 5.S.Antonio Abate                         36 17  9 10 58-43 60  ‹Repechage Playoff, see §5prom›
+ 1.Neapolis Mugnano S.R.L.                 36 24  7  5 71-32 79   ‹Promoted, see §5champ›
+ 2.Pianura                                 36 20 10  6 64-36 70   ‹Repechage Playoff, see §5prom›
+ 3.Virtus Casarano                         36 19 12  5 62-31 69   ‹Repechage Playoff, see §5prom›
+ 4.Forza E Coraggio Bn                     36 18  9  9 63-48 63   ‹Repechage Playoff, see §5prom›
+ 5.S.Antonio Abate                         36 17  9 10 58-43 60   ‹Repechage Playoff, see §5prom›
  6.Casertana Calcio                        36 18  4 14 43-34 58
  7.Calcio Pomigliano                       36 15 10 11 43-41 55
  8.Francavilla (Francavilla sul Sinni)     36 16  7 13 54-46 55
@@ -7391,12 +7383,12 @@ Final Table:
 11.Turris 1944 A.S.D.                      36 14  5 17 55-62 47
 12.Ostuni Sport                            36 12  8 16 45-55 44
 13.Angri Calcio 1927 A.S.D.                36  9 13 14 38-60 40
-14.Bitonto                                 36  8 13 15 37-51 37  ‹Relegation Playoff, see §5rel›
-15.Bacoli Sibillaflegrea Srl               36  8 13 15 37-51 37  ‹Relegation Playoff, see §5rel›
-16.Ischia Isolaverde                       36  9  9 18 30-48 36  ‹Relegation Playoff, see §5rel›
-17.Comprens. Sport Pisticci                36  9  8 19 30-50 35  ‹Relegation Playoff, see §5rel›
-18.Francavilla Calcio (Francavilla Fontana)36  7 10 19 33-46 31  Relegated
-19.Calcio Fasano                           36  4 11 21 25-57 23  Relegated
+14.Bitonto                                 36  8 13 15 37-51 37   ‹Relegation Playoff, see §5rel›
+15.Bacoli Sibillaflegrea Srl               36  8 13 15 37-51 37   ‹Relegation Playoff, see §5rel›
+16.Ischia Isolaverde                       36  9  9 18 30-48 36   ‹Relegation Playoff, see §5rel›
+17.Comprens. Sport Pisticci                36  9  8 19 30-50 35   ‹Relegation Playoff, see §5rel›
+18.Francavilla Calcio (Francavilla Fontana)36  7 10 19 33-46 31   Relegated
+19.Calcio Fasano                           36  4 11 21 25-57 23   Relegated
 
 Francavilla (Francavilla sul Sinni)-Calcio Fasano awarded 3-0 for the home team because of the lack of minimum number of young players for 9 seconds. Match originally finished 0-0
 
@@ -7822,12 +7814,12 @@ Gruppo I  ‹§5i›
 
 Final Table:
 
- 1.Milazzo                                 34 21  5  8 44-27 68  ‹Promoted, see §5champ›
- 2.Trapani Calcio                          34 21  4  9 59-29 67  ‹Repechage Playoff, see §5prom›
- 3.Rosarno                                 34 18 10  6 41-22 64  ‹Repechage Playoff, see §5prom›
- 4.Vigor Lamezia S.R.L.                    34 17  9  8 55-33 60  ‹Repechage Playoff, see §5prom›
- 5.Avellino Calcio.12                      34 17  8  9 56-35 59  Preliminary ‹Repechage Playoff, see §5prom›
- 6.Rossanese A.S.D.                        34 16 11  7 39-26 59  Preliminary ‹Repechage Playoff, see §5prom›
+ 1.Milazzo                                 34 21  5  8 44-27 68   ‹Promoted, see §5champ›
+ 2.Trapani Calcio                          34 21  4  9 59-29 67   ‹Repechage Playoff, see §5prom›
+ 3.Rosarno                                 34 18 10  6 41-22 64   ‹Repechage Playoff, see §5prom›
+ 4.Vigor Lamezia S.R.L.                    34 17  9  8 55-33 60   ‹Repechage Playoff, see §5prom›
+ 5.Avellino Calcio.12                      34 17  8  9 56-35 59   Preliminary ‹Repechage Playoff, see §5prom›
+ 6.Rossanese A.S.D.                        34 16 11  7 39-26 59   Preliminary ‹Repechage Playoff, see §5prom›
  7.Sapri Calcio S.R.L.                     34 14  8 12 44-39 50
  8.Nissa Football Club A.S.D               34 13  8 13 39-36 47
  9.Modica Calcio                           34 14  5 15 47-51 47
@@ -7835,11 +7827,11 @@ Final Table:
 11.Hinterreggio                            34 10 12 12 45-50 42
 12.Mazara 1946                             34 11  8 15 33-43 41
 13.A.C.R. Messina S.R.L.                   34 10 11 13 41-38 41
-14.Palazzolo A.S.D.                        34 11  9 14 48-49 40  ‹Relegation Playoff, see §5rel›
-15.Viribus Unitis                          34  7 12 15 34-52 33  ‹Relegation Playoff, see §5rel›
-16.Acicatena                               34  6  7 21 23-57 25  Relegated
-17.Castrovillari Calcio                    34  5 10 19 34-61 24  Relegated
-18.Adrano Calcio O.N.L.U.S.                34  5  7 22 27-72 21  Relegated
+14.Palazzolo A.S.D.                        34 11  9 14 48-49 40   ‹Relegation Playoff, see §5rel›
+15.Viribus Unitis                          34  7 12 15 34-52 33   ‹Relegation Playoff, see §5rel›
+16.Acicatena                               34  6  7 21 23-57 25   Relegated
+17.Castrovillari Calcio                    34  5 10 19 34-61 24   Relegated
+18.Adrano Calcio O.N.L.U.S.                34  5  7 22 27-72 21   Relegated
 
 Sapri Calcio S.R.L.-Adrano Calcio O.N.L.U.S. awarded 3-0 for home team due to the absence of away term  Adrano Calcio O.N.L.U.S. one point deducted
 Palazzolo A.S.D. two points deducted for the attempt to fix the result of second leg previous season ‹Relegation Playoff, see §5rel› against A.C.D.Citta Di Vittoria
@@ -8376,7 +8368,7 @@ Group A
 
 Final Table:
 
- 1.Pomezia Calcio Ssd A.R.L.          2 1 0 1 9-7 3  Qualified
+ 1.Pomezia Calcio Ssd A.R.L.          2 1 0 1 9-7 3   Qualified
  2.Union Quinto                       2 1 0 1 6-4 3
  3.Castel Rigone                      2 1 0 1 4-8 3
 
@@ -8393,7 +8385,7 @@ Group B
 
 Final Table:
 
- 1.Carpi F.C. 1909 Srl                2 2 0 0 5-2 6  Qualified
+ 1.Carpi F.C. 1909 Srl                2 2 0 0 5-2 6   Qualified
  2.Vigor Lamezia S.R.L.               2 0 1 1 2-3 1
  3.Renate                             2 0 1 1 2-4 1
 
@@ -8410,7 +8402,7 @@ Group C
 
 Final Table:
 
- 1.Pianura                            2 1 1 0 5-0 4  Qualified
+ 1.Pianura                            2 1 1 0 5-0 4   Qualified
  2.Casale Calcio S.R.L.               2 0 2 0 1-1 2
  3.Santegidiese S.R.L.                2 0 1 1 1-6 1
 
@@ -8474,43 +8466,10 @@ Viribus Unitis                    - Palazzolo A.S.D.                  1-1       
 
 The relegation playoff are played if the difference between team is less than 9 points. In the relegation playoff were played if the difference In relegation playoff ties if both teams are at the same level of goals the tie breaker is the final
 position in regular season
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2008/09 (first level), see page ital09›.
-
-‹2008/09 (second level), see page ital2-09›.
-
-‹2008/09 (third level), see page ital3-09›.
-
-‹2008/09 (fourth level), see page ital4-09›.
-
-‹2008/09 (fifth level), see page ital5-09›.
-
-‹2010/11, see page ital2011›.
 
 
 
-‹list of champions, see page italchamp›.
 
-‹list of 2nd division champions, see page ital2champ›.
-
-‹list of 3rd division champions, see page ital3champ›.
-
-‹list of final tables, see page italhist›.
-
-‹list of cup winners, see page italcuphist›.
-
-‹list of super cup winners, see page italsupcuphist›.
-
-‹list of topscorers, see page italtops›.
-
-‹list of 2nd division topscorers, see page ital2tops›.
-
-‹list of 3rd division topscorers, see page ital3tops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

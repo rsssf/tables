@@ -1,0 +1,15 @@
+-- removing nav(igation) section:
+
+‹League, see §league›
+‹Other Competitions, see §other›
+
+
+-- removing nav(igation) section:
+
+‹list of champions, see page scilly.html#champ›
+
+‹list of cup winners, see page scilly.html#cups›
+
+‹2023/24, see page scilly2024›
+
+

@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1962 Qualifying
      source: https://rsssf.org/tables/62q.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1962 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: Chile
 Qualified as holders: Brazil
 
@@ -186,7 +186,6 @@ Indonesia withdrew
 11.06.61  Tokyo         Japan            0-2 South Korea
 South Korea required to play off with the winner of Europe Group 10 (see above).
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 62qual›
 
@@ -198,7 +197,9 @@ South Korea required to play off with the winner of Europe Group 10 (see above).
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

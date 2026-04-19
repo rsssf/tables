@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2024/25
      source: https://rsssf.org/tablesm/mex2025.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Mexico 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga MX, see §pdn›
-‹Campeón de Campeones, see §campcamp›
-‹Liga Expansión MX, see §ascenso›
-‹Liga 4, see §lig4›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga MX  ‹§pdn›
 
-<!-- start pre -->
 ‹Apertura 2024, see §1aper› | ‹Clausura 2025, see §1clau›
 
 Apertura 2024  ‹§1aper›
@@ -462,7 +457,7 @@ Final Table:
 18.Santos Laguna                       17   2  4 11  12-30  10
 
 Topscorers
-Player       Team    Goals
+Player          Team      Goals
 Joao Paulo Dias          Toluca         13
 Ángel Sepúlveda          Cruz Azul       9
 Henry Martín             América         8
@@ -1062,7 +1057,7 @@ Final Table:
 18.Santos Laguna                       17   2  1 14  15-36   7
 
 Topscorers
-Player         Team    Goals
+Player            Team      Goals
 Uros Durdevic              Atlas           12
 José Zúñiga                Tijuana         12
 Joao Paulo Dias "Paulinho" Toluca          12
@@ -1082,7 +1077,7 @@ Juan Brunetta              Tigres           6
 
 Relegation Table
 
-Team      Average
+Team         Average
 América                 2.0392
 Monterrey               1.9510
 Toluca                  1.8039
@@ -1221,26 +1216,26 @@ Oswaldo Virgen                          FW
 
 Coach: Antonio Mohamed (ARG)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Campeón de Campeones  ‹§campcamp›
 
-<!-- start pre -->
 Between the winners of Apertura 2024 (América) and Clausura 2025 (Toluca)
 
 Over one single leg [Jul 20]
 Dignity Health Sports Park, Carson
 América               1-3 Toluca
   [Alejandro Zendejas 1; Franco Romero 11, Bruno Méndez 45+5, Joao Paulo Dias "Paulinho" 69]
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga Expansión MX  ‹§ascenso›
 
-<!-- start pre -->
 ‹Apertura 2024, see §2aper› | ‹Clausura 2025, see §2clau›
 
 Apertura 2024  ‹§2aper›
@@ -1844,23 +1839,23 @@ Jesús Ocejo           Leones Negros       13
 
 Relegation Table
 
-Team      Average
-Atlante                 1.9000
-Leones Negros           1.8333
-Club Celaya              1.8000
-Venados FC              1.6000
-Tapatío      1.5222
-Jaiba Brava              1.5000
-Mineros                 1.4333
-Atlético Morelia      1.3667
-Cancún FC             1.3333
-Tepatitlán FC            1.2667
-Correcaminos UAT        1.1556
+Team         Average
+Atlante                  1.9000
+Leones Negros            1.8333
+Club Celaya               1.8000
+Venados FC               1.6000
+Tapatío        1.5222
+Jaiba Brava               1.5000
+Mineros                  1.4333
+Atlético Morelia       1.3667
+Cancún FC              1.3333
+Tepatitlán FC             1.2667
+Correcaminos UAT         1.1556
 La Paz                  1.1333
 ------------------------------
-Dorados Sinaloa         0.9889 (*)
-Alebrijes               0.9778 (*)
-Tlaxcala FC              0.9778 (*)
+Dorados Sinaloa          0.9889 (*)
+Alebrijes                0.9778 (*)
+Tlaxcala FC               0.9778 (*)
 
 (*) Due to suspension of Promotion and Relegation the last 3 teams of the relegation table were fined with:
 
@@ -1926,13 +1921,13 @@ Tapatío          1-0 Leones Negros
 Second leg [Jun 7]
 Estadio Jalisco, Guadalajara
 Leones Negros    1-2 Tapatío
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga 4  ‹§lig4›
 
-<!-- start pre -->
 Group Stage
 
 Final Standings:
@@ -1966,27 +1961,10 @@ Final [Apr 20]
 Lázaro Cardenas  1-2 Leones Naranjas
 
 NB: Leones Naranjas FC promoted to Tercera Division
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page mex2024›.
 
-‹2025/26, see page mex2026›.
 
-‹list of champions, see page mexchamp›.
-
-‹list of final tables, see page mexhist›.
-
-‹list of divisional movements, see page mexall›.
-
-‹list of cup winners, see page mexcuphist›.
-
-‹list of super cup winners, see page mexsupcup›.
-
-‹list of topscorers, see page mextops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Botswana 2025/26
      source: https://rsssf.org/tablesb/bots2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Botswana 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹FNB Premiership, see §premier›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== FNB Premiership  ‹§premier›
 
-<!-- start pre -->
 Table:
 
  1.Gaborone United (Gaborone)               24  18  5  1  46-10  59  [C]
@@ -403,17 +401,10 @@ Table:
 
 [*] VTM FC sold its place to Black Lions
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page bots2025›
 
-‹list of champions, see page botschamp›
 
-‹list of cup winners, see page botscuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

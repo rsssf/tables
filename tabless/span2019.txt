@@ -1,4 +1,5 @@
   <!--
+     title:  Spain 2018/19
      source: https://rsssf.org/tabless/span2019.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Spain 2018/19
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §laliga›
-‹Copa del Rey, see §coparey›
-‹Segunda División, see §segunda›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División  ‹§laliga›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Barcelona                  38  26  9  3  90-36  87  [C]  Champions
@@ -672,13 +668,13 @@ Final Table:
 18.Girona FC                     38   9 10 19  37-53  37       Relegated
 19.SD Huesca                     38   7 12 19  43-65  33  [P]  Relegated
 20.Rayo Vallecano                38   8  8 22  41-70  32  [P]  Relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa del Rey  ‹§coparey›
 
-<!-- start pre -->
 Round 1 [Sep 5]
 CD Mensajero              0-3 SD Compostela
 UD Poblense               1-4 Ontinyent CF
@@ -853,13 +849,13 @@ Valencia CF               1-0 Real Betis Balompié
 
 Final [May 25, Sevilla]
 FC Barcelona              1-2 Valencia CF
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- start pre -->
 Final Table:
 
  1.CA Osasuna (Pamplona)         42  26  9  7  59-35  87       Promoted
@@ -916,35 +912,10 @@ Second Leg [Jun 23]
 Mallorca                  3-0 Deportivo
 
 NB: RCD Mallorca promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2017/18, see page span2018›.
 
-‹2019/20, see page span2020›.
 
-‹list of champions, see page spanchamp›.
-
-‹list of 2nd level champions, see page span2champ›.
-
-‹list of cup winners, see page spancuphist›.
-
-‹list of super cup winners, see page spansupcuphist›.
-
-‹list of league cup winners, see page spanleagcuphist›.
-
-‹list of copa rfef winners, see page spanrfefcuphist›.
-
-‹list of final tables, see page spanhist›.
-
-‹all-time table, see page spanalltime›.
-
-‹list of top scorers, see page spantops›.
-
-‹list of foundation dates, see page spanfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

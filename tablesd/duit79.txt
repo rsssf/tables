@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1978/79
      source: https://rsssf.org/tablesd/duit79.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1978/79
 
-<!-- start pre -->
 
 Final Table
 
@@ -640,9 +640,10 @@ Hamburger SV 1978/79
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Mongolia 2025/26
      source: https://rsssf.org/tablesm/mong2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Mongolia 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹National Premier League, see §nfl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ündesnii Deed Lig (National Premier League)  ‹§nfl›
 
-<!-- start pre -->
 Table:
 
  1.Central Stallions            9   7  2  0  27- 7  23  [*]
@@ -134,17 +132,10 @@ Table:
 
 [*] Tuv Azarganuud were renamed Central Stallions before the season
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page mong2025›
 
-‹list of champions, see page mongchamp›
 
-‹list of cup winners, see page mongcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

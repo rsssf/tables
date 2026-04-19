@@ -1,0 +1,19 @@
+-- removing nav(igation) section:
+
+‹Prva Crnogorska Fudbal Liga, see §1cfl›
+‹Kup Crne Gore, see §kcg›
+‹Druga Liga, see §druga›
+‹Treća Liga, see §treca›
+
+
+-- removing nav(igation) section:
+
+‹2023/24, see page monteg2024›
+
+‹list of champions, see page montegchamp›
+
+‹list of cup winners, see page montegcuphist›
+
+‹list of foundation dates, see page montegfound›
+
+

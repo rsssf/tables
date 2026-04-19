@@ -1,4 +1,5 @@
   <!--
+     title:  Chile 2025
      source: https://rsssf.org/tablesc/chile2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Chile 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §primera›
-‹Copa Chile 2025, see §copa›
-‹Primera B, see §segunda›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División 2025  ‹§primera›
 
-<!-- start pre -->
 Final Table:
 
  1.Coquimbo Unido                      30  23  6  1  49-17  75       Champions
@@ -37,13 +33,13 @@ Final Table:
 15.Deportes Iquique                    30   6  6 18  34-60  24       Relegated
 16.Unión Española (Santiago)           30   6  3 21  33-58  21       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa Chile 2025  ‹§copa›
 
-<!-- start pre -->
 1/8 Finals
 
 First Legs
@@ -111,13 +107,13 @@ La Serena            1-6 Limache
 Final [Dec 10]
 Huachipato           1-1 Limache              [4-3 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Primera B  ‹§segunda›
 
-<!-- start pre -->
 Final Table:
 
  1.Universidad de Concepción           30  17  4  9  41-26  55       Promoted
@@ -179,31 +175,10 @@ Second Leg [Dec 7]
 Cobreloa             2-3 Dep. Concepción
 
 NB: Deportes Concepción promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page chile2024›
 
-‹list of champions, see page chilechamp›.
 
-‹list of liguilla pre-libertadores champions, see page chileligchamp›.
-
-‹list of 2nd division champions, see page chile2champ›.
-
-‹list of 3rd division champions, see page chile3champ›.
-
-‹list of 4th division champions, see page chile4champ›.
-
-‹list of final tables, see page chilehist›.
-
-‹all-time table, see page chilealltime›.
-
-‹list of cup finals, see page chilecuphist›.
-
-‹list of topscorers, see page chiletops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

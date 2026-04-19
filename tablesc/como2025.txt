@@ -1,4 +1,5 @@
   <!--
+     title:  Comoros 2024/25
      source: https://rsssf.org/tablesc/como2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Comoros 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Championnat des Comores 2025, see §champ›
-‹Coupe des Comores 2024/25, see §coupe›
-‹Regional Leagues 2024/25, see §regional›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Championnat des Comores 2025  ‹§champ›
 
-<!-- start pre -->
 Participants:
 Champions ‹Mwali, see §mwali›:    Fomboni FC
 Champions ‹Ndzuani, see §ndzuani›:  FC Djomakawé (Ongojou)
@@ -37,13 +33,13 @@ Final Table:
  2.FC Djomakawé (Ongojou)                2   0  2  0   3- 3   2  [P]
  3.Fomboni FC                            2   0  1  1   2- 4   1
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Coupe des Comores 2025  ‹§coupe›
 
-<!-- start pre -->
 NB: 40th edition
 
 ‹Regional Stage, see §cpreg› | ‹National Stage, see §cpnat›
@@ -283,13 +279,13 @@ Belle Lumière (Djoiezi)     0-1 Djabal FC (Iconi)
 Final [Jun 18]
 Fomboni FC                  0-1 Djabal FC (Iconi)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regional Leagues 2024/25  ‹§regional›
 
-<!-- start pre -->
 ‹Mwali, see §mwali› | ‹Ndzuani, see §ndzuani› | ‹Ngazidja, see §ngazidja›
 
 Mwali (Mohéli)  ‹§mwali›
@@ -441,17 +437,10 @@ Reported Final Table:
 NB: Etoile du Sud withdrew or excluded at halfway stage;
     FC Hahaya withdrew or excluded towards the end of the season;
     total goal difference +2
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page como2024›
 
-‹list of champions, see page comochamp›
 
-‹list of cup winners, see page comocuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Anguilla 2025
      source: https://rsssf.org/tablesa/anguilla2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Anguilla 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹AFA Football League, see §prem›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== AFA Football League 2025  ‹§prem›
 
-<!-- start pre -->
 Final Table:
 
  1.Roaring Lions FC          18  16  1  1  86- 8  49       Champions
@@ -240,15 +238,10 @@ Final Table:
  9.West End Predators        18   4  1 13  26-82  13
 10.East Enders FC            18   3  2 13  13-25  11  [N]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page anguilla2024›
 
-‹list of champions, see page anguillachamp›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

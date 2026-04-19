@@ -1,4 +1,5 @@
   <!--
+     title:  Serbia 2024/25
      source: https://rsssf.org/tabless/serv2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Serbia 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Superliga, see §super›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Superliga  ‹§super›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -632,25 +630,10 @@ Final Table:
 NB: first tie-breaker points in regular stage;
     Tekstilac 6 points deducted for "irregular match" against IMT
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page serv2024›.
 
-‹list of champions, see page ../tablesj/joegchamp›.
 
-‹list of final tables, see page ../tablesj/joeghist›.
-
-‹list of cup winners, see page ../tablesj/joegcuphist›.
-
-‹list of topscorers, see page ../tablesj/joegtops›.
-
-‹all-time table since 1992, see page ../tablesj/joegalltime3›.
-
-‹2nd level all-time tables, see page ../tablesj/joeg2alltime›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

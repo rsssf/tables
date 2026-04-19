@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1938 Qualifying
      source: https://rsssf.org/tables/38q.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1938 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: France
 Qualified as holders: Italy
 
@@ -141,7 +141,6 @@ withdrawal of Argentina (see group 10).
 
 29.05.38  Bordeaux    Cuba             w/o Argentina
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 38qual›
 
@@ -151,7 +150,9 @@ withdrawal of Argentina (see group 10).
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

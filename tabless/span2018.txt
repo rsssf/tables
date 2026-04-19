@@ -1,4 +1,5 @@
   <!--
+     title:  Spain 2017/18
      source: https://rsssf.org/tabless/span2018.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Spain 2017/18
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §laliga›
-‹Copa del Rey, see §coparey›
-‹Segunda División, see §segunda›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División  ‹§laliga›
 
-<!-- start pre -->
 Final Table:
 
  1.FC Barcelona                  38  28  9  1  99-29  93       Champions
@@ -657,13 +653,13 @@ Final Table:
 18.RC Deportivo (La Coruña)      38   6 11 21  38-76  29       Relegated
 19.UD Las Palmas                 38   5  7 26  24-74  22       Relegated
 20.Málaga CF                     38   5  5 28  24-61  20       Relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa del Rey  ‹§coparey›
 
-<!-- start pre -->
 Round 1
 [Aug 30]
 CD Calahorra              1-0 Real Unión de Irún
@@ -838,13 +834,13 @@ Valencia CF               0-2 FC Barcelona
 
 Final [Apr 21, Madrid]
 Sevilla FC                0-5 FC Barcelona
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- start pre -->
 Final Table:
 
  1.Rayo Vallecano                42  21 13  8  67-48  76       Promoted
@@ -901,35 +897,10 @@ Second Leg [Jun 16]
 Valladolid                1-1 Numancia
 
 NB: Real Valladolid promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2016/17, see page span2017›.
 
-‹2018/19, see page span2019›.
 
-‹list of champions, see page spanchamp›.
-
-‹list of 2nd level champions, see page span2champ›.
-
-‹list of cup winners, see page spancuphist›.
-
-‹list of super cup winners, see page spansupcuphist›.
-
-‹list of league cup winners, see page spanleagcuphist›.
-
-‹list of copa rfef winners, see page spanrfefcuphist›.
-
-‹list of final tables, see page spanhist›.
-
-‹all-time table, see page spanalltime›.
-
-‹list of top scorers, see page spantops›.
-
-‹list of foundation dates, see page spanfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

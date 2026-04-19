@@ -1,4 +1,5 @@
   <!--
+     title:  Kyrgyzstan 2026
      source: https://rsssf.org/tablesk/kyrg2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Kyrgyzstan 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Jogorku Lıga, see §prem›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Jogorku Lıga  ‹§prem›
 
-<!-- start pre -->
 Table:
 
  1.Muras United (Manas)       4   3  1  0   6- 3  10
@@ -305,17 +303,10 @@ Alga          -  Dordoy
 Asia Talas    -  Abdis-Ata
 Bishkek City  -  Muras United
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page kyrg2025›
 
-‹list of champions, see page kyrgchamp›.
 
-‹list of cup winners, see page kyrgcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

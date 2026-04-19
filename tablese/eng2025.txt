@@ -1,4 +1,5 @@
   <!--
+     title:  England 2024/25
      source: https://rsssf.org/tablese/eng2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == England 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Liverpool               38  25  9  4  86-41  84       Champions
@@ -626,29 +624,10 @@ Final Table:
 19.Ipswich Town            38   4 10 24  36-82  22  [P]  Relegated
 20.Southampton             38   2  6 30  26-86  12  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page eng2024›.
 
-‹list of champions, see page engchamp›.
 
-‹list of 2nd division champions, see page eng2champ›.
-
-‹list of full tables, see page ../engpaul/FLA/league›.
-
-‹list of divisional movements, see page engall›.
-
-‹list of cup winners, see page engcuphist›.
-
-‹list of super cup (charity shield) winners, see page engsupcuphist›.
-
-‹list of league cup winners, see page engleagcuphist›.
-
-‹list of league trophy winners, see page engassmembcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

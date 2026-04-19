@@ -1,4 +1,5 @@
   <!--
+     title:  Nigeria 2025/26
      source: https://rsssf.org/tablesn/nig2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Nigeria 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹NPFL 2025/26, see §nfl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== NPFL 2025/26  ‹§nfl›
 
-<!-- start pre -->
 Table:
 
  1.Rivers United (Port Harcourt)     32  15 10  7  33-25  55
@@ -562,17 +560,10 @@ NB: total goal difference -6 as both Kano Pillars and Kwara United had 3 points
     and 3 goals deducted because of incidents in their matches (resp. against
     Shooting Stars in round 8 and Rivers United in round 22)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page nig2025›
 
-‹list of champions, see page nigchamp›
 
-‹list of cup winners, see page nigcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

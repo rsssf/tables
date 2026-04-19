@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2011
      source: https://rsssf.org/tablesu/usa2011.html
     -->
   
@@ -6,16 +7,12 @@
 
 == USA 2011
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Major League Soccer, see §mls› (Division 1)
-‹US Open Cup, see §open›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Major League Soccer  ‹§mls›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
 Regular Season  ‹§reg›
@@ -111,13 +108,13 @@ MLS Cup 2011  ‹§mlscup›
 [Nov 20, Home Depot Center, Carson City, California]
 Los Angeles Galaxy     1-0 Houston Dynamo
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== US Open Cup  ‹§open›
 
-<!-- start pre -->
 Third Round [Jun 28]
 Columbus Crew          1-2 Richmond Kickers
 Rochester Rhinos       0-1 Chicago Fire
@@ -142,27 +139,10 @@ Seattle Sounders       1-0 FC Dallas
 
 Final [Oct 4]
 Seattle Sounders       2-0 Chicago Fire
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2010, see page usa2010›
 
-‹2012, see page usa2012›
 
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

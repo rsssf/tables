@@ -1,4 +1,5 @@
   <!--
+     title:  Congo (Brazzaville) 2025
      source: https://rsssf.org/tablesk/kong2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Congo (Brazzaville) 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Championnat National Ligue 1, see §lig1›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Championnat National Ligue 1  ‹§lig1›
 
-<!-- start pre -->
 NB: tournament organised by the commission ad hoc installed by the
     ministry of sports; not recognised by the national FA, CAF or
     FIFA; a number of clubs refused to enter or did so belatedly.
@@ -351,17 +349,10 @@ Final Table:
 
 Final Stage  ‹§fin›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page kong2024›
 
-‹list of champions, see page kongchamp›
 
-‹list of cup winners, see page kongcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

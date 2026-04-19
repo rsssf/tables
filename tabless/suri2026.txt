@@ -1,4 +1,5 @@
   <!--
+     title:  Surinam 2025/26
      source: https://rsssf.org/tabless/suri2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Surinam 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Suriname Major League 2025/26, see §first›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Suriname Major League 2025/26  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Championship Playoff, see §chpo›
 
 Regular Stage  ‹§reg›
@@ -351,21 +349,10 @@ Semifinals (over 2 legs)
 
 Final (over 1 leg)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page suri2025›.
 
-‹list of champions, see page surichamp›.
 
-‹list of district tournaments champions, see page suri3champ›.
-
-‹list of (super) cup finals, see page suricuphist›.
-
-‹list of foundation dates, see page surifound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

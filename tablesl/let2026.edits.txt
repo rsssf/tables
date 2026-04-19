@@ -1,0 +1,18 @@
+-- removing nav(igation) section:
+
+‹Virslīga, see §virs›
+‹1. Līga, see §first›
+‹2. Līga, see §second›
+
+
+-- removing nav(igation) section:
+
+‹2025, see page let2025›.
+
+‹list of champions, see page letchamp›.
+
+‹list of cup winners, see page letcuphist›.
+
+‹list of topscorers, see page lettops›.
+
+

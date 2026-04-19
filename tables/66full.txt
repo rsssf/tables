@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1966 finals
      source: https://rsssf.org/tables/66full.html
     -->
   
@@ -32,7 +33,6 @@ first time), 53 actually played (SAF banned for apartheid politics).
 Qualifications drawn 31 Jan 1964 in Zürich. Finals drawn 6 Jan 1966 in
 London.
 
-<!-- start pre -->
 
 == Group A - ENG FRA MEX URU  ‹§gra›
 
@@ -47,7 +47,9 @@ R.Charlton, Hunt, Connelly
 URU: Mazurkiewicz - Troche (c), Manicera, Ubiña, Goncalves - Caetano, Cortes -
 Viera, Silva, Rocha, Pérez
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 13.07.66  (19.30) London, Wembley Stadium
 
@@ -62,7 +64,9 @@ Borja, Fragoso, Padilla
 
 0:1 Borja 40 h, 1:1 Hausser 62
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.07.66  (19.30) London, White City
 
@@ -77,7 +81,9 @@ Simon, Bonnel - Herbet, Gondet, Hausser
 
 0:1 de Bourgoing 15 p, 1:1 Rocha 27, 2:1 Cortés 32
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 16.07.66  (15.00) London, Wembley Stadium
 
@@ -92,7 +98,9 @@ Jauregui - Reyes, Borja, Padilla
 
 1:0 R.Charlton 38, 2:0 Hunt 75
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.07.66  (16.30) London, Wembley Stadium
 
@@ -105,7 +113,9 @@ Cortés, Viera - Sacia, Rocha, Pérez
 MEX: Carbajal - Chaires, Peña (c), Mercado, Núñes - Hernández,
 Diaz, Cisneros - Reyes, Borja, Padilla
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 20.07.66 (19.30) London, Wembley Stadium
 
@@ -141,7 +151,9 @@ Künzli, Hosp, Schindelholz
 1:0 Held 16, 2:0 Haller 20, 3:0 Beckenbauer 40, 4:0 Beckenbauer 52, 5:0 Haller
 78 p
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 13.07.66  (19.30) Birmingham, Villa Park
 
@@ -156,7 +168,9 @@ Peiro - Suarez, Gento (c)
 
 1:0 Artime 65, 1:1 Pirri 72, 2:1 Artime 79
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.07.66  (19.30) Sheffield, Hillsborough
 
@@ -171,7 +185,9 @@ Stierli, Gottardi - Kühn, Hosp, Quentin
 
 0:1 Quentin 29, 1:1 Sanchis 58, 2:1 Amancio 75 h
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 16.07.66  (15.00) Birmingham, Villa Park
 
@@ -186,7 +202,9 @@ Overath - Seeler (c), Held, Brülls
 
 sent off: Albrecht (67)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.07.66  (19.30) Sheffield, Hillsborough
 
@@ -201,7 +219,9 @@ Kühn, Hosp, Quentin
 
 1:0 Artime 52, 2:0 Onega 81
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 20.07.66  (19.30) Birmingham, Villa Park
 
@@ -236,7 +256,9 @@ Yakimov - Dermendyev, Asparoukhov, Kolev
 
 1:0 Pelé 14 f, 2:0 Garrincha 63 f
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 13.07.66  (19.30) Manchester, Old Trafford
 
@@ -251,7 +273,9 @@ Albert, Farkas, Rakosi
 
 1:0 Augusto 2 h, 1:1 Bene 59, 2:1 Augusto 65 h, 3:1 Torres 89
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 16.07.66  (15.00) Manchester, Old Trafford
 
@@ -266,7 +290,9 @@ Dermendyev, Asparoukhov, Kostov
 
 1:0 Vutzov 7 s, 2:0 Eusebio 38, 3:0 Torres 82 h
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.07.66  (19.30) Liverpool, Goodison Park
 
@@ -281,7 +307,9 @@ Garrincha - Tostão, Alcindo, Jairzinho
 
 1:0 Bene 2, 1:1 Tostão 14, 2:1 Farkas 64, 3:1 Mészöly 72 p
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.07.66  (19.30) Liverpool, Goodison Park
 
@@ -296,7 +324,9 @@ Silva, Pelé, Parana
 
 1:0 Simóes 15 h, 2:0 Eusebio 36 h, 2:1 Rildo 73, 3:1 Eusebio 85
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 20.07.66  (19.30) Manchester, Old Trafford
 
@@ -332,7 +362,9 @@ Kang Byong-woon, Kim Young-il
 
 1:0 Malafeev 31, 2:0 Banichevski 33, 3:0 Malafeev 88
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 13.07.66  (19.30) Sunderland, Roker Park
 
@@ -347,7 +379,9 @@ Araya - Tobar, Fouilloux, L.Sánchez
 
 1:0 Mazzola 9, 2:0 Barison 86
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 15.07.66  (19.30) Middlesbrough, Ayresome Park
 
@@ -363,7 +397,9 @@ Kim Seung-il
 
 1:0 Marcos 26 p, 1:1 Park Seung-zin 88
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 16.07.66  (15.00) Sunderland, Roker Park
 
@@ -378,7 +414,9 @@ Bulgarelli - Mazzola, Meroni, Pascutti
 
 1:0 Chislenko 57
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 19.07.66  (19.30) Middlesbrough, Ayresome Park
 
@@ -394,7 +432,9 @@ Bulgarelli (c), Mazzola, Rivera, Barison
 
 1:0 Park Doo-ik 41
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 20.07.66  (19.30) Sunderland, Roker Park
 
@@ -431,7 +471,9 @@ Solari, Artime - González, Más
 
 sent off: Rattin (35)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 23.07.66  (15.00) Sheffield, Hillsborough
 
@@ -450,7 +492,9 @@ sent off: Troche (49), Silva (54)
 
 NOTE: Some sources award the last goal to Held
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 23.07.66  (15.00) Liverpool, Goodison Park
 
@@ -468,7 +512,9 @@ Park Doo-ik, Yang Seung-kook
 1:3 Eusebio 27, 2:3 Eusebio 42 p, 3:3 Eusebio 57, 4:3 Eusebio 59 p, 5:3
 Augusto 79 h
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 23.07.66  (15.00) Sunderland, Roker Park
 
@@ -500,7 +546,9 @@ Chislenko, Banichevski, Malafeev, Porkujan
 
 sent off: Chislenko (44)
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 26.07.66  (19.30) London, Wembley Stadium
 
@@ -611,4 +659,3 @@ captain     Pena MEX       24y233d   Yashin ZSR         36y279d
 coach       Myung KLD      around 37 Feola BRA          56y219d
 referee     Marques BRA    36y174d   Rumenchev BUL      47y188d
 
-<!-- end pre -->

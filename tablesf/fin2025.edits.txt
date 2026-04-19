@@ -1,0 +1,37 @@
+-- removing nav(igation) section:
+
+‹Veikkausliiga, see §veik›
+‹Suomen Cup, see §suomen›
+‹Ykkösliiga, see §yks›
+‹Ykkönen, see §ykko›
+
+
+-- removing nav(igation) section:
+
+‹2024, see page fin2024›.
+
+‹list of champions, see page finchamp›.
+
+‹list of final tables, see page finhist›.
+
+‹all-time table, see page finalltime›.
+
+‹divisional movements, see page finall›.
+
+‹list of top scorers, see page fintops›.
+
+‹list of 2nd level champions, see page fin2champ›.
+
+‹list of 2nd level final tables, see page fin2hist›.
+
+‹2nd level all-time table, see page fin2alltime›.
+
+‹list of 2nd level top scorers, see page fin2tops›.
+
+‹list of 3rd level champions, see page fin3champ›.
+
+‹list of cup finals, see page fincuphist›.
+
+‹list of league cup finals, see page finleagcuphist›.
+
+

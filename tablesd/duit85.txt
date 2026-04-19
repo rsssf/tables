@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1984/85
      source: https://rsssf.org/tablesd/duit85.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1984/85
 
-<!-- start pre -->
 
 Final Table
 
@@ -682,9 +682,10 @@ FC Bayern München 1984/85
         Holger WILLMER       29  (2464) + 3
         Roland WOHLFAHRT     32  (2657) +12
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

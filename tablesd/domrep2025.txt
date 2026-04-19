@@ -1,4 +1,5 @@
   <!--
+     title:  Dominican Republic 2025/26
      source: https://rsssf.org/tablesd/domrep2025.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Dominican Republic 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga Dominicana de Fútbol 2025/26, see §mayor›
-‹Copa Liga Dominicana de Fútbol 2025, see §cldf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga Dominicana de Fútbol 2025  ‹§mayor›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Liguilla, see §lig›
 
 Regular Stage  ‹§reg›
@@ -330,13 +327,13 @@ Table:
  5.Moca FC                               10   2  3  5   8-12   9
  6.Universidad Organización y Métodos    10   1  2  7  11-22   5
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa Liga Dominicana de Fútbol 2025  ‹§cldf›
 
-<!-- start pre -->
 NB: this was a transitional tournament as the league changes to a fall-spring
     season; it apparently is not an official league championship;
     Jarabacoa returned after a FIFA ban prevented them from entering in 2024,
@@ -527,17 +524,10 @@ Delfines del Este        1-1 Cibao FC                 [remaining 34']
 Second Leg [May 24]
 Cibao FC                 1-0 Delfines del Este
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page domrep2024›
 
-‹list of champions, see page domrepchamp›
 
-‹list of cup winners, see page domrepcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

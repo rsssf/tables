@@ -1,4 +1,5 @@
   <!--
+     title:  England 1993/94
      source: https://rsssf.org/tablese/eng94.html
     -->
   
@@ -6,7 +7,6 @@
 
 == England 1993/94
 
-<!-- start pre -->
 Premiership
 
 Final Table:
@@ -1235,9 +1235,10 @@ Pos Team                  P   W   D   L   F   A  GD Pts
 ‹list of league cup winners, see page engleagcuphist›.
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

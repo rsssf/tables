@@ -1,4 +1,5 @@
   <!--
+     title:  France 2024/25
      source: https://rsssf.org/tablesf/fran2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == France 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Ligue 1, see §l1›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Ligue 1  ‹§l1›
 
-<!-- start pre -->
 Final Table:
 
  1.Paris-Saint-Germain FC    34  26  6  2  92-35  84  [C]  Champions
@@ -556,29 +554,10 @@ Final Table:
 17.AS Saint-Etienne          34   8  6 20  39-77  30  [P]  Relegated
 18.Montpellier-Hérault SC    34   4  4 26  23-79  16       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page fran2024›.
 
-‹list of champions, see page franchamp›.
 
-‹list of final tables, see page franfullhist›.
-
-‹list of 2nd level final tables, see page fran2hist›.
-
-‹list of 3rd level final tables, see page fran3hist›.
-
-‹list of topscorers, see page frantops›.
-
-‹list of 2nd level topscorers, see page fran2tops›.
-
-‹list of cup winners, see page francuphist›.
-
-‹list of league cup finals, see page franleagcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

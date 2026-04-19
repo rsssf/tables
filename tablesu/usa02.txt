@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2002
      source: https://rsssf.org/tablesu/usa02.html
     -->
   
@@ -6,7 +7,6 @@
 
 == USA 2002
 
-<!-- start pre -->
 MAJOR LEAGUE SOCCER (1st Division)
 
 Tables:
@@ -674,31 +674,10 @@ ROGERS CUP:                  Ottawa defeated North York 2-0
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2001, see page usa01›
 
-‹2001/02, see page usa0102›
 
-‹2002/03, see page usa0203›
-
-‹2003, see page usa03›
-
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

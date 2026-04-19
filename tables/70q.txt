@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1970 Qualifying
      source: https://rsssf.org/tables/70q.html
     -->
   
@@ -6,7 +7,6 @@
 
 == World Cup 1970 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: Mexico
 Qualified as holders: England
 
@@ -265,7 +265,6 @@ North Korea withdrew.
 04.12.69  Ramat Gan         Israel           1-0 Australia
 14.12.69  Sydney            Australia        1-1 Israel
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 70qual›
 
@@ -275,7 +274,9 @@ North Korea withdrew.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

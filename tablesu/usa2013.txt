@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2013
      source: https://rsssf.org/tablesu/usa2013.html
     -->
   
@@ -6,16 +7,12 @@
 
 == USA 2013
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Major League Soccer, see §mls› (Division 1)
-‹US Open Cup, see §open›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Major League Soccer  ‹§mls›
 
-<!-- start pre -->
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
 Regular Season  ‹§reg›
@@ -598,13 +595,13 @@ MLS Cup 2013  ‹§mlscup›
 Sporting Kansas City   1-1 Real Salt Lake         [aet, 7-6 pen]
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== US Open Cup  ‹§open›
 
-<!-- start pre -->
 Fourth Round
 [Jun 12]
 New England Revolution 4-2 New York Red Bulls
@@ -630,27 +627,10 @@ Real Salt Lake         2-1 Portland Timbers
 Final [Oct 1, Rio Tinto Stadium, Sandy, Utah]
 Real Salt Lake         0-1 DC United
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2012, see page usa2012›
 
-‹2014, see page usa2014›
 
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

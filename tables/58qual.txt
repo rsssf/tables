@@ -1,4 +1,5 @@
   <!--
+     title:  World Cup 1958 qualifications
      source: https://rsssf.org/tables/58qual.html
     -->
   
@@ -26,7 +27,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 31 teams entered, including GER (champions) and SWE (host). CYP and TUR
 alloted to a mixed Euro-Afro-Asian zone, both withdrew after seeding.
@@ -344,5 +344,4 @@ Play-off game for ISR (1958)
 15.01. Tel-Aviv     ISR-WAL 0:2 (0:1) Allchurch, Bowen (Guigue FRA)
 05.02. Cardiff      WAL-ISR 2:0 (0:0) Allchurch, C.Jones (Schipper HOL)
 
-<!-- end pre -->
 

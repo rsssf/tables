@@ -1,4 +1,5 @@
   <!--
+     title:  Paraguay 2026
      source: https://rsssf.org/tablesp/para2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Paraguay 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §prim›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División  ‹§prim›
 
-<!-- start pre -->
 ‹Torneo Apertura 2026, see §1aper› | ‹Torneo Clausura 2026, see §1clau›
 
 Torneo Apertura 2026  ‹§1aper›
@@ -317,29 +315,10 @@ Table:
 
 Torneo Clausura 2025  ‹§1clau›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page para2025›
 
-‹list of champions, see page parachamp›.
 
-‹league history 1906-1964, see page parahist›.
-
-‹list of 2nd level champions, see page para2champ›.
-
-‹list of 3rd level champions, see page para3champ›.
-
-‹list of 4th level champions, see page para4champ›.
-
-‹list of interligas champions, see page para-interligachamp›.
-
-‹list of topscorers, see page paratops›.
-
-‹foundation dates clubs, see page parafound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

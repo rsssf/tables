@@ -1,4 +1,5 @@
   <!--
+     title:  USA 2007
      source: https://rsssf.org/tablesu/usa07.html
     -->
   
@@ -6,9 +7,10 @@
 
 == USA 2007
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 Major League Soccer
 
 Regular Season
@@ -731,31 +733,10 @@ Salinas Valley Samba        14   3   7   4            13
 Real San Jose               14   1   9   4             7
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2006, see page usa06›
 
-‹2006/07, see page usa0607›
 
-‹2007/08, see page usa0708›
-
-‹2008, see page usa08›
-
-‹list of professional first division champions, see page usachamp›
-
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
-
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
-
-‹list of us open cup winners, see page usacuphist›
-
-‹list of (all) cup winners, see page usa-allcuphist›
-
-‹MLS all-time table, see page usaalltime›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

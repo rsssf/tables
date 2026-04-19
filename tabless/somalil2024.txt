@@ -1,4 +1,5 @@
   <!--
+     title:  Somaliland 2023/24
      source: https://rsssf.org/tabless/somalil2024.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Somaliland 2023/24
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Somaliland Champions League 2024, see §scl›
-‹Regional Leagues 2023/24, see §reg›
-‹Cup Tournaments 2023/24, see §cups›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Horyaalka Horyaalada Somaliland (Somaliland Champions League) 2024  ‹§scl›
 
-<!-- start pre -->
 ‹First Stage, see §grp1› | ‹Knockout Stage, see §ko›
 
 NB: all matches at Cabdalle Stadium, Berbera
@@ -174,13 +170,13 @@ DP World (Berbera)            0-0 Dawladda Hoose (Burco)        [4-5 pen]
 Final [Mar 5]
 Asluubta (Hargeysa)           0-3 Dawladda Hoose (Burco)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regional Leagues 2023/24  ‹§reg›
 
-<!-- start pre -->
 ‹Hargeysa, see §harg› | ‹Berbera, see §berb› | ‹Gabiley, see §gab› | ‹Sanaag, see §san› | ‹Toghdeer, see §togh›
 
 Hargeysa 2023/24  ‹§harg›
@@ -462,13 +458,13 @@ Table:
 
 Winners: Biyaha FC (cannot be promoted as first team already at first level)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments 2023/24  ‹§cups›
 
-<!-- start pre -->
 XKC Cup 2023/24
 
 Preliminary Round [Aug ?]
@@ -555,7 +551,6 @@ Gaashaan                      1-2 Dawlaada Hoose
 Final [Jan 13, 2024]
 Maaliyada                     0-1 Dawlaada Hoose
 
-<!-- end pre -->
 
 ‹2022/23, see page somalil2022›
 
@@ -565,7 +560,9 @@ Maaliyada                     0-1 Dawlaada Hoose
 
 ‹list of regions cup winners, see page somalilregcuphist›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

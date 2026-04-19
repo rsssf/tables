@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2008/09
      source: https://rsssf.org/tablesm/mex09.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Mexico 2008/09
 
-<!-- start pre -->
 Primera División Nacional
 
 Apertura 2008
@@ -3133,9 +3133,10 @@ Monarcas Morelia champions.
 
 ‹list of topscorers, see page mextops›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

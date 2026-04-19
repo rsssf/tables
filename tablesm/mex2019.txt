@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2018/19
      source: https://rsssf.org/tablesm/mex2019.html
     -->
   
@@ -6,20 +7,12 @@
 
 == Mexico 2018/19
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga MX, see §pdn›
-‹Copa MX Apertura 2018, see §copa›
-‹Copa MX Clausura 2019, see §copac›
-‹Campeón de Campeones, see §campcamp›
-‹Supercopa MX, see §supcopa›
-‹Ascenso MX, see §ascenso›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga MX  ‹§pdn›
 
-<!-- start pre -->
 ‹Apertura 2018, see §1aper› | ‹Clausura 2019, see §1clau›
 
 Apertura 2018  ‹§1aper›
@@ -1047,7 +1040,7 @@ NB: Veracruz were deducted 6 points (of which 2 in the Apertura season as they
     on Apr 15, 2019
 
 Topscorers
-Player       Team    Goals
+Player          Team      Goals
 Ángel Mena               León           14
 Brian Fernández          Necaxa         12
 Milton Caraglio          Cruz Azul      11
@@ -1065,7 +1058,7 @@ Pedro Canelo             Toluca          6
 
 Relegation Table
 
-Team      Average
+Team         Average
 Tigres                  1.7745
 Monterrey               1.7451
 América                 1.6961
@@ -1156,7 +1149,7 @@ León               0-0 Tigres
 
 Tigres UANL roster team
 
-Nahuel Guzmán      GK  (Argentina)
+Nahuel Guzmán        GK  (Argentina)
 Eduardo Fernández         GK
 Israel Jiménez            DEF
 Carlos Salcedo            DEF
@@ -1182,13 +1175,13 @@ Enner Valencia            FWD (Ecuador)
 
 Coach: Ricardo "Tuca" Ferreti (BRA)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa MX Apertura 2018  ‹§copa›
 
-<!-- start pre -->
 ‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
 NB: the Cup Tournament is played by 16 teams from the Liga MX (first level) and
@@ -1535,7 +1528,7 @@ Monterrey          0-2 Cruz Azul
 Cruz Azul cup champions
 
 Topscorers
-Player      Team    Goals
+Player         Team      Goals
 Martín Cauteruccio     Cruz Azul      6
 Franco Jara            Pachuca        5
 Cecilio Domínguez      América        4
@@ -1583,13 +1576,13 @@ Martín Zúñiga         FWD
 Coach: Pedro Caixinha (POR)
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa MX Clausura 2019  ‹§copac›
 
-<!-- start pre -->
 ‹Group Stage, see §copacgrp› | ‹Playoff Stage, see §copacplay›
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
@@ -1960,13 +1953,13 @@ Oribe Peralta        FWD
 
 Coach: Miguel Herrera
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Campeón de Campeones  ‹§campcamp›
 
-<!-- start pre -->
 
 Between winners of Liga MX Apertura 2018 (América) and winners of Liga MX
 Clausura 2019 (Tigres), winners qualified to "Campeones Cup" against MLS Cup 2018
@@ -1978,13 +1971,13 @@ One single leg played [Jul 14]
 Dignity Health Sports Park, Carson, California USA
 América         0-0 Tigres      [6-5pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Supercopa MX  ‹§supcopa›
 
-<!-- start pre -->
 
 Between winners of Copa MX Apertura 2018 (Cruz Azul) and winners of Copa MX
 Clausura 2019 (América); Necaxa replaced América as América qualified to
@@ -1997,13 +1990,13 @@ Dignity Health Sports Park, Carson, California USA
 Cruz Azul       4-0 Necaxa
   [Milton Caraglio 19, Elías Hernández 43, Edgar Méndez 46, Juan Escobar 86]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Ascenso MX  ‹§ascenso›
 
-<!-- start pre -->
 ‹Apertura 2018, see §2aper› | ‹Clausura 2019, see §2clau› | ‹Promotion Playoff, see §2prom›
 
 Apertura 2018  ‹§2aper›
@@ -2591,23 +2584,23 @@ Nicolás Ibáñez        A. de San Luis    11
 
 Relegation Table
 
-Team      Average
-Mineros                 1.8804
-Dorados Sinaloa         1.5870
-Atlético de San Luis    1.5862
-Alebrijes               1.5652
-FC Juárez               1.5326
-Cimarrones              1.4891
-Celaya FC               1.4239
-Atlético Zacatepec      1.4239
-Atlante                 1.4022
-Potros UAEM             1.2500
-Leones Negros           1.2283
-Correcaminos UAT        1.1739
-Cafetaleros             1.1630
-Venados FC              1.1522
+Team         Average
+Mineros                  1.8804
+Dorados Sinaloa          1.5870
+Atlético de San Luis     1.5862
+Alebrijes                1.5652
+FC Juárez                1.5326
+Cimarrones               1.4891
+Celaya FC                1.4239
+Atlético Zacatepec       1.4239
+Atlante                  1.4022
+Potros UAEM              1.2500
+Leones Negros            1.2283
+Correcaminos UAT         1.1739
+Cafetaleros              1.1630
+Venados FC               1.1522
 ----------------------------
-Tampico Madero          1.0761 (relegated)
+Tampico Madero           1.0761 (relegated)
 
 NB: Tampico Madero remain at second level after paying USD $800,000
 
@@ -2663,27 +2656,10 @@ NB: FC Juárez bought the license of Lobos B.U.A.P. and also was promoted;
     Lobos B.U.A.P. take the place of FC Juárez at the second level but its
     franchise was frozen one year.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2017/18, see page mex2018›.
 
-‹2019/20, see page mex2020›.
 
-‹list of champions, see page mexchamp›.
-
-‹list of final tables, see page mexhist›.
-
-‹list of divisional movements, see page mexall›.
-
-‹list of cup winners, see page mexcuphist›.
-
-‹list of super cup winners, see page mexsupcup›.
-
-‹list of topscorers, see page mextops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1999/2000
      source: https://rsssf.org/tablesd/duit00.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1999/2000
 
-<!-- start pre -->
 NB: this file contains 1st to 3rd level; there is also a file on the
     ‹4th level 1999/00, see page duit4-00›.
 
@@ -1743,9 +1743,10 @@ VfB Hüls                    3-0   Borussia Neunkirchen     [in Köln]
 
 ‹list of foundation dates, see page duitfound›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

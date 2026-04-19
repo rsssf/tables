@@ -1,4 +1,5 @@
   <!--
+     title:  Nepal 2023
      source: https://rsssf.org/tablesn/nepal2023.html
     -->
   
@@ -6,16 +7,12 @@
 
 == Nepal 2023
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹A Division League, see §adiv›
-‹Nepal Super League, see §nsl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== A Division League '2079/80'  ‹§adiv›
 
-<!-- start pre -->
 Final Table:
 
  1.Church Boys United                     26  13  9  4  34-15  48  [P]              ‹Champions, see page ../miscellaneous/eedd›
@@ -388,13 +385,13 @@ Final Table:
 
 NB: Church Boys United won the title at the ‹third, second and first level, see page ../miscellaneous/eedd.html#321› in consecutive
     seasons, thereby emulating the feat of Manang Marshyangdi 37 years earlier.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Nepal Super League 2023  ‹§nsl›
 
-<!-- start pre -->
 NB: second ever edition
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
@@ -428,17 +425,10 @@ Pokhara Thunders    1-2 Lalitpur City       [aet]
 Final [Dec 30, Dashrath Stadium]
 Dhangadhi           2-3 Lalitpur City
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2021/22, see page nepal2022›.
 
-‹2025, see page nepal2025›.
 
-‹list of champions, see page nepalchamp›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

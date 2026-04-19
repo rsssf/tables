@@ -1,4 +1,5 @@
   <!--
+     title:  Libya 2024/25
      source: https://rsssf.org/tablesl/lib2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Libya 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §div1›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§div1›
 
-<!-- start pre -->
 ‹Group Stage, see §grp› | ‹Final Stage, see §fin› | ‹Relegation Playoff, see §relpo›
 
 Group Stage  ‹§grp›
@@ -1056,19 +1054,10 @@ Final Table:
  4.Al-Dahra Tripoli             6   0  3  3   8-13   3  [P]        Relegated
 
 NB: Al Dahra apparently were later reprieved from relegation
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page lib2024›
 
-‹list of champions, see page libchamp›
 
-‹list of cup winners, see page libcuphist›
-
-‹list of super cup winners, see page libsupcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

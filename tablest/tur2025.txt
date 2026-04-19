@@ -1,4 +1,5 @@
   <!--
+     title:  Turkey 2024/25
      source: https://rsssf.org/tablest/tur2025.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Turkey 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Süper Lig, see §super›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Süper Lig  ‹§super›
 
-<!-- start pre -->
 Final Table:
 
  1.Galatasaray AŞ İstanbul     36  30  5  1  91-31  95  [C]  Champions
@@ -690,27 +688,10 @@ NB: Adana Demirspor had 3 points deducted due to infringements in the
     licensing proces, 3 more points deducted for walking off in round 23,
     and another 6 points by a FIFA decision for failing to pay fees
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023/24, see page tur2024›.
 
-‹list of champions, see page turkchamp›.
 
-‹alltime table, see page turkalltime›.
-
-‹list of cup finals, see page turkcuphist›.
-
-‹list of super cup (president's cup) finals, see page turksupcuphist›.
-
-‹list of prime minister's cup finals, see page turkvarcuphist›.
-
-‹list of final tables, see page turkhist›.
-
-‹list of topscorers, see page turktops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

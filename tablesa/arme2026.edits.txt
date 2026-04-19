@@ -1,0 +1,22 @@
+-- removing nav(igation) section:
+
+‹Premier League, see §prem›
+‹Cup, see §cup›
+‹First League, see §first›
+‹Amateur League A, see §ama›
+‹Amateur League B, see §amb›
+
+
+-- removing nav(igation) section:
+
+‹2024/25, see page arme2025›.
+
+‹list of champions, see page armechamp›.
+
+‹all-time table, see page armealltime›.
+
+‹list of cup winners, see page armecuphist›.
+
+‹list of topscorers, see page armetops›.
+
+

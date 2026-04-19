@@ -1,4 +1,5 @@
   <!--
+     title:  Guatemala 2025/26
      source: https://rsssf.org/tablesg/guat2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Guatemala 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga Nacional, see §nacional›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga Nacional  ‹§nacional›
 
-<!-- start pre -->
 ‹Campeonato Apertura 2025, see §1aper› | ‹Campeonato Clausura 2026, see §1clau›
 
 Campeonato Apertura 2025  ‹§1aper›
@@ -337,19 +335,10 @@ Regular Stage  ‹§1claureg›
 Playoff Stage  ‹§1clauplay›
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25., see page guat2025›
 
-‹list of champions., see page guatchamp›
 
-‹all-time table., see page guatalltime›
-
-‹list of cup winners., see page guatcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

@@ -1,4 +1,5 @@
   <!--
+     title:  England 2016/17
      source: https://rsssf.org/tablese/eng2017.html
     -->
   
@@ -6,20 +7,12 @@
 
 == England 2016/17
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier League, see §premier›
-‹Cup Tournaments, see §cups›
-‹Championship, see §champ›
-‹Division 1, see §first›
-‹Division 2, see §second›
-‹Conference, see §conf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier League  ‹§premier›
 
-<!-- start pre -->
 ‹Premier League 2016/17 Match Details, see page eng2017det›
 
 Final Table:
@@ -656,13 +649,13 @@ Final Table:
 20.Sunderland              38   6  6 26  29-69  24       Relegated
 
 ‹Premier League 2016/17 Match Details, see page eng2017det›
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§cups›
 
-<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
 FA Cup  ‹§facup›
@@ -1009,13 +1002,13 @@ Hull City               2-1 Manchester United
 
 Final [Feb 26, London]
 Manchester United       3-2 Southampton
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Championship  ‹§champ›
 
-<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Stage  ‹§2reg›
@@ -1069,13 +1062,13 @@ Sheffield W   1-1 Huddersfield  [aet, 3-4 pen]
 Final [May 29]
 Reading       0-0 Huddersfield  [aet, 3-4 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 1  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 Regular Stage  ‹§3reg›
@@ -1125,13 +1118,13 @@ Fleetwood     0-0 Bradford
 Final [May 20]
 Bradford      0-1 Millwall
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2  ‹§second›
 
-<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 Regular Stage  ‹§4reg›
@@ -1181,13 +1174,13 @@ Exeter        3-2 Carlisle
 Final [May 28]
 Exeter        1-2 Blackpool
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Conference  ‹§conf›
 
-<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 Regular Stage  ‹§5reg›
@@ -1243,33 +1236,10 @@ Forest Green  2-0 Dagenham & R.
 Final [May 14]
 Tranmere      1-3 Forest Green
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2015/16, see page eng2016›.
 
-‹Premier League 2016/17 Match Details, see page eng2017det›
 
-‹2017/18, see page eng2018›.
-
-‹list of champions, see page engchamp›.
-
-‹list of 2nd division champions, see page eng2champ›.
-
-‹list of full tables, see page ../engpaul/FLA/league›.
-
-‹list of divisional movements, see page engall›.
-
-‹list of cup winners, see page engcuphist›.
-
-‹list of super cup (charity shield) winners, see page engsupcuphist›.
-
-‹list of league cup winners, see page engleagcuphist›.
-
-‹list of league trophy winners, see page engassmembcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

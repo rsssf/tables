@@ -1,4 +1,5 @@
   <!--
+     title:  Réunion 2025
      source: https://rsssf.org/tablesr/reunion2025.html
     -->
   
@@ -6,19 +7,12 @@
 
 == Réunion 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Régional 1, see §div1›
-‹Cup Tournaments, see §cup›
-‹Régional 2, see §sup2›
 
-Note that the point system on Réunion is 4/win, 2/draw, 1/loss.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ==== Régional 1  ‹§div1›
 
-<!-- start pre -->
 Final Table:
 
  1.JS Saint-Pierroise              26  17  6  3  42-21  83       Champions
@@ -44,13 +38,13 @@ Promotion/Relegation Playoff  ‹§prorel›
 AS Saint-Louisienne    1-0 Ravine Blanche Club
 
 NB. both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments 2025  ‹§cup›
 
-<!-- start pre -->
 ‹Coupe de la Réunion 2025, see §rcup›
 
 Coupe de la Réunion 2025  ‹§rcup›
@@ -80,13 +74,13 @@ St.-Pauloise FC         1-0 St.-Denis FC
 Final [Oct 5]
 AS Jeanne d'Arc         1-0 St.-Pauloise FC
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Régional 2  ‹§reg2›
 
-<!-- start pre -->
 Final Tables:
 
 Poule A
@@ -141,21 +135,10 @@ Poule C
 13.JS Sainte-Annoise               26   5  8 13  27-47  49
 14.Jean Petit FC SJ                26   7  2 17  24-47  49
 NB: two more losses than wins; presumably one match awarded loss to both
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page reunion2024›
 
-‹list of champions, see page reunionchamp›
 
-‹list of final tables, see page reunionhist›
-
-‹list of winners coupe de la reunion, see page reunioncuphist›
-
-‹list of french sea territories cup winners, see page ../tablesf/franseaterrcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

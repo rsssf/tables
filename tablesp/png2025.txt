@@ -1,4 +1,5 @@
   <!--
+     title:  Papua New Guinea 2025
      source: https://rsssf.org/tablesp/png2025.html
     -->
   
@@ -6,11 +7,9 @@
 
 == Papua New Guinea 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹National Competitions 2025, see §natc›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 === National Competitions 2025  ‹§natc›
 
@@ -18,7 +17,6 @@
 
 ==== Premier Soccer League 2025  ‹§psl›
 
-<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 Regular Stage  ‹§reg›
@@ -288,17 +286,10 @@ Lae City                w/o Hekari United           [Hekari United dns]
 
 Final [Dec 14, Port Moresby]
 Gulf Komara             3-1 Morobe Wawens
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page png2024›
 
-‹list of champions, see page pngchamp›
 
-‹list of cup winners, see page pngcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

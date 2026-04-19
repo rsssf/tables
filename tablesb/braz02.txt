@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2002
      source: https://rsssf.org/tablesb/braz02.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Brazil 2002
 
-<!-- start pre -->
 Participants
 
 C Atlético Mineiro (Belo Horizonte-MG)      Guarani FC (Campinas-SP)
@@ -946,9 +946,10 @@ Coach: CARLOS ALBERTO PARREIRA         Coach: Émerson LEÃO
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

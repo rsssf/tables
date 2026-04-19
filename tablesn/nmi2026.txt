@@ -1,4 +1,5 @@
   <!--
+     title:  Northern Marianas 2026
      source: https://rsssf.org/tablesn/nmi2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Northern Marianas 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Marianas Soccer League 1, see §msl1›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Marianas Soccer League 1  ‹§msl1›
 
-<!-- start pre -->
 NB: the abundance of 5-0 results is caused by the so-called "skunk rule", which
     stipulates that a match cannot be won by a goal differential exceeding five.
 
@@ -61,15 +59,10 @@ Table:
  4.Men's Development Team       4   0  1  3   3-16   1
  5.Latte FC                     4   0  1  3   2-15   1  [N]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2025, see page nmi2025›
 
-‹list of champions, see page nmarianaschamp›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

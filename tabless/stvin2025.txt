@@ -1,4 +1,5 @@
   <!--
+     title:  Saint Vincent and the Grenadines 2024/25
      source: https://rsssf.org/tabless/stvin2025.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Saint Vincent and the Grenadines 2024/25
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premier Division 2024/25, see §prem›>
-‹Tier II 2024/25, see §tier2›
-‹Regional Competitions 2024, see §reg24›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premier Division 2024/25  ‹§prem›
 
-<!-- start pre -->
 Final Table:
 
  1.North Leeward Predators   18  13  2  3  44-18  41       Champions
@@ -240,13 +236,13 @@ Final Table:
  9.Sion Hill                 18   4  3 11  28-53  15       Relegated
 10.SV United                 18   3  4 11  22-35  13  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Tier II 2024/25  ‹§tier2›
 
-<!-- start pre -->
 NB: played in two groups, top-4 of both qualifying for knockout stage
 
 Tables (Jun 14):
@@ -305,13 +301,13 @@ Final [Aug 8]
 System 3                2-1 Bequia United
 
 NB: both finalists promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Regional Competitions 2024  ‹§reg24›
 
-<!-- start pre -->
 ‹Arnos Vale, see §arnos24›
 
 Arnos Vale  ‹§arnos24›
@@ -326,17 +322,10 @@ Start: Aug 11; 8 participants:
    Hope International
    Pastures United FC
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2022/23, see page stvin2023›
 
-‹list of champions, see page stvinchamp›
 
-‹list of foundation dates, see page stvinfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

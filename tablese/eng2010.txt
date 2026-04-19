@@ -1,4 +1,5 @@
   <!--
+     title:  England 2009/10
      source: https://rsssf.org/tablese/eng2010.html
     -->
   
@@ -6,20 +7,12 @@
 
 == England 2009/10
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Premiership, see §premier›
-‹Cup Tournaments, see §cups›
-‹Championship, see §champ›
-‹Division 1, see §first›
-‹Division 2, see §second›
-‹Conference, see §conf›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Premiership  ‹§premier›
 
-<!-- start pre -->
 Final Table:
 
  1.Chelsea                 38  27  5  6 103-32  86  Champions
@@ -759,13 +752,13 @@ Final Table:
 20.Portsmouth              38   7  7 24  34-66  19  [-9]  Relegated
 
 NB: Portsmouth 9 points deducted for financial reasons
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Cup Tournaments  ‹§cups›
 
-<!-- start pre -->
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup› | ‹Football League Trophy, see §assmemb›
 
 FA Cup  ‹§facup›
@@ -1331,13 +1324,13 @@ Southampton   3-1 Milton Keynes
 
 Overall Final [Mar 28, Wembley]
 Carlisle      1-4 Southampton
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Championship  ‹§champ›
 
-<!-- start pre -->
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 Regular Stage  ‹§2reg›
@@ -2170,13 +2163,13 @@ Final [May 22]
 Blackpool     3-2 Cardiff
 
 NB: Blackpool promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 1  ‹§first›
 
-<!-- start pre -->
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 Regular Stage  ‹§3reg›
@@ -3000,13 +2993,13 @@ Final [May 29]
 Millwall      1-0 Swindon
 
 NB: Millwall promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Division 2  ‹§second›
 
-<!-- start pre -->
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 Regular Stage  ‹§4reg›
@@ -3814,13 +3807,13 @@ Final [May 30]
 Rotherham     2-3 Dagenham & R
 
 NB: Dagenham & Redbridge promoted
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Conference  ‹§conf›
 
-<!-- start pre -->
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 Regular Stage  ‹§5reg›
@@ -4679,31 +4672,10 @@ Oxford        3-1 York
 
 NB: Oxford promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2008/09, see page eng09›.
 
-‹2010/11, see page eng2011›.
 
-‹list of champions, see page engchamp›.
-
-‹list of 2nd division champions, see page eng2champ›.
-
-‹list of full tables, see page ../engpaul/FLA/league›.
-
-‹list of divisional movements, see page engall›.
-
-‹list of cup winners, see page engcuphist›.
-
-‹list of super cup (charity shield) winners, see page engsupcuphist›.
-
-‹list of league cup winners, see page engleagcuphist›.
-
-‹list of league trophy winners, see page engassmembcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

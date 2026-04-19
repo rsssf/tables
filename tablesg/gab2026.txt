@@ -1,4 +1,5 @@
   <!--
+     title:  Gabon 2026
      source: https://rsssf.org/tablesg/gab2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Gabon 2026
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹LINAF National Foot 1, see §div1›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== LINAF National Foot 1  ‹§div1›
 
-<!-- start pre -->
 Table:
 
  1.AS Stade Mandji (Port-Gentil)           5   4  1  0   8- 1  13
@@ -120,17 +118,10 @@ Table:
 13.Vautour Club (Libreville)               4   0  2  2   2- 5   2
 14.AS Dikaki (Fougamou)                    5   0  1  4   2-12   1
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page gab2025›
 
-‹list of champions, see page gabchamp›
 
-‹list of cup winners, see page gabcuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

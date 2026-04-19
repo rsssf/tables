@@ -1,4 +1,5 @@
   <!--
+     title:  Germany 1967/68
      source: https://rsssf.org/tablesd/duit68.html
     -->
   
@@ -6,7 +7,6 @@
 
 == Germany 1967/68
 
-<!-- start pre -->
 
 Final Table
 
@@ -602,9 +602,10 @@ Topscorers: Hannes LÖHR (Köln) - 27, Franz BRUNGS (Nürnberg) -
 
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

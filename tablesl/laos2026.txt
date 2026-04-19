@@ -1,4 +1,5 @@
   <!--
+     title:  Laos 2025/26
      source: https://rsssf.org/tablesl/laos2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Laos 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Lao League 1 2025/26, see §lao›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Lao League 1 2025/26  ‹§lao›
 
-<!-- start pre -->
 Final Table:
 
  1.Ezra FC                18  15  1  2  63-16  46  [C]  Champions
@@ -230,17 +228,10 @@ Final Table:
 [*2] Champasak FC were renamed Champasak Avenir FC
 [*3] Master 7 FC were renamed BIS Master FC
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page laos2025›.
 
-‹list of champions, see page laoschamp›.
 
-‹list of cup winners, see page laoscuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

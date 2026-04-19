@@ -1,4 +1,5 @@
   <!--
+     title:  European Women Championship 2025
      source: https://rsssf.org/tablese/eur-women2025.html
     -->
   
@@ -10,13 +11,13 @@
 
 ==== Qualifying Tournament
 
-<!-- start pre -->
 NB: Switzerland qualified as hosts of ‹Final Tournament, see §final›.
     The qualification tournament was played in the same format of the
     ‹Women Nations League, see page ../tablesu/uefawnl› following the results of the ‹2023-24 edition, see page ../tables/2024wuefanl›.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 <ul>
 <li>‹League A, see §lga›</li>
@@ -26,11 +27,12 @@ NB: Switzerland qualified as hosts of ‹Final Tournament, see §final›.
 <li>‹Final Tournament, see §final›</li>
 </ul>
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== League A  ‹§lga›
 
-<!-- start pre -->
 Group 1
  5- 4-24 Oslo          Norway              4-0 Finland
  5- 4-24 Cosenza       Italy               2-0 Netherlands
@@ -110,13 +112,13 @@ Group 4
 NB: top-2 of each group qualified to the Final Tournament;
     bottom-2 of each group advanced to Playoff round, in addition last team of
     each group relegated to League B for the 2025 Women's Nations League edition.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== League B  ‹§lgb›
 
-<!-- start pre -->
 Group 1
  5- 4-24 Szeged        Hungary             1-1 Azerbaijan
  5- 4-24 Zürich        Switzerland         3-1 Turkey
@@ -198,13 +200,13 @@ NB: Group winners promoted to League A for the 2025 Women's Nations League editi
     qualified) advanced to Playoff round.
     Last team of each group and the worst third placed team relegated to League C
     for the 2025 Women's Nations League edition.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== League C  ‹§lgc›
 
-<!-- start pre -->
 Group 1
  5- 4-24 Dasaki Achnas Cyprus              0-3 Belarus
  5- 4-24 Tbilisi       Georgia             2-2 Lithuania
@@ -295,13 +297,13 @@ Group 5
 
 NB: Group winners promoted to League B for the 2025 Women's Nations League edition.
     Group winners and the best three runners-up teams advanced to Playoff round.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Playoffs  ‹§play›
 
-<!-- start pre -->
 First Round
 
 25-10-24 București     Romania             1-2 Poland
@@ -370,13 +372,13 @@ Second Round
  3-12-24 Stockholm     Sweden              6-0 Serbia
 
 NB: second round winners qualified for ‹Final Tournament, see §final›
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Final Tournament  ‹§final›
 
-<!-- start pre -->
 Switzerland, 2-27 July, 2025
 
 Venues
@@ -494,17 +496,10 @@ Final
 27 Jul 2025 England         1-1 Spain                            [aet, 3-1 pen; Basel]
              [Russo 57; Caldentey 25]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹overview file, see page eur-women›
 
-‹2019 (World Cup Qualifying), see page eur-women-qual2019›
 
-‹2023 (World Cup Qualifying), see page eur-women-qual2023›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

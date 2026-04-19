@@ -1,4 +1,5 @@
   <!--
+     title:  Namibia 2025/26
      source: https://rsssf.org/tablesn/nami2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Namibia 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Namibia Premiership, see §npl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Namibia Premiership  ‹§npl›
 
-<!-- start pre -->
 Table:
 
  1.African Stars             26  14  8  4  39-17  50  [C]
@@ -354,17 +352,10 @@ Table:
 15.Tigers FC                 26   4  9 13  16-36  21
 16.Life Fighters             26   4  6 16  21-49  18  [P]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25, see page nami2025›
 
-‹list of champions, see page namichamp›
 
-‹list of cup winners, see page namicuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

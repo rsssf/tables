@@ -1,4 +1,5 @@
   <!--
+     title:  Madeira 2023/24
      source: https://rsssf.org/tablesm/madeira2024.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Madeira 2023/24
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Divisão Honra, see §hon›
-‹Taça da Madeira, see §taca›
-‹1ª Divisão, see §1div›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Divisão Honra  ‹§hon›
 
-<!-- start pre -->
 Participants:
 Clube Desportivo Nacional (team B)                          Funchal
 Clube Desportivo 1º de Maio                                 Funchal
@@ -279,13 +275,13 @@ Final Table:
 11.ADRC Os Xavelhas         22   4  9  9  19-30  21  [P]  [2 0 1 1 1-2 1]  Relegated
 12.CS Juventude de Gaula    22   1  5 16  25-49   8                        Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Taça da Madeira  ‹§taca›
 
-<!-- start pre -->
 Round 1 [Dec 9]
 AD Porto da Cruz       0-2 Choupana FC
 Sporting da Madeira    0-4 Santacruzense
@@ -317,13 +313,13 @@ Os Xavelhas            1-1 1º Maio Funchal        [5-3 pen]
 Final [May 12]
 Juventude de Gaula     2-2 Os Xavelhas            [aet, 3-2 pen]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 1ª Divisão  ‹§1div›
 
-<!-- start pre -->
 Participants:
 Sporting Clube da Madeira                                   Funchal
 União da Bola Futebol Clube                                 Funchal
@@ -515,7 +511,6 @@ Final Table:
  9.CF Carvalheiro           18   4  3 11  24-38  15
 10.UD Santana               18   2  1 15  10-56   7
 
-<!-- end pre -->
 
 ‹2022/23, see page madeira2023›
 
@@ -525,7 +520,9 @@ Final Table:
 
 ‹list of final tables, see page madeirahist›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == About this document  ‹§about›
 

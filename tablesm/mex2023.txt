@@ -1,4 +1,5 @@
   <!--
+     title:  Mexico 2022/23
      source: https://rsssf.org/tablesm/mex2023.html
     -->
   
@@ -6,17 +7,12 @@
 
 == Mexico 2022/23
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga MX, see §pdn›
-‹Campeón de Campeones, see §campcamp›
-‹Liga Expansión MX, see §ascenso›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga MX  ‹§pdn›
 
-<!-- start pre -->
 ‹Apertura 2022, see §1aper› | ‹Clausura 2023, see §1clau›
 
 Apertura 2022  ‹§1aper›
@@ -1097,7 +1093,7 @@ Final Table:
     standings over the last three seasons
 
 Topscorers
-Player       Team    Goals
+Player          Team      Goals
 Henry Josué Martín       América        14
 Julián Quiñones          Atlas          12
 Rogelio Funes Mori       Monterrey      12
@@ -1110,7 +1106,7 @@ André-Pierre Gignac      Tigres          7
 
 Relegation Table
 
-Team      Average
+Team         Average
 América                 1.9902
 Monterrey               1.7647
 León                    1.6471
@@ -1251,13 +1247,13 @@ Isaías Galván                           FW
 
 Coach: Robert Dante Siboldi (URU)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Campeón de Campeones  ‹§campcamp›
 
-<!-- start pre -->
 Between the winners of ‹Apertura 2022, see §1aper› (Pachuca) and ‹Clausura 2023, see §1clau› (Tigres)
 
 Over one single leg [Jun 25]
@@ -1265,13 +1261,13 @@ Dignity Health Sports Park, Carson
 Pachuca              1-2 Tigres
   [Israel Luna 78; Fernando Gorriarán 31, Nicolás Ibáñez 76]
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Liga Expansión MX  ‹§ascenso›
 
-<!-- start pre -->
 ‹Apertura 2022, see §2aper› | ‹Clausura 2023, see §2clau›
 
 Apertura 2022  ‹§2aper›
@@ -1625,7 +1621,7 @@ NB: Teams 1st to 4th qualify to quarterfinals;
     clubs finishing 5th to 12th qualify to Reclasificación.
 
 Topscorer:
-Player      Team    Goals
+Player         Team      Goals
 Diego Rafael Jiménez    Cimarrones       12
 
 Playoff Stage  ‹§2aperplay›
@@ -2042,25 +2038,25 @@ Ricardo Marín         Celaya            10
 
 Relegation Table
 
-Team      Average
-Club Celaya              1.9167
-Atlante                 1.7500
-Atlético Morelia      1.7083
-Cimarrones              1.5938
-Tapatío      1.3750
-Tepatitlán FC            1.3646
-Leones Negros           1.3542
-Mineros                 1.3542
-Dorados Sinaloa         1.2917
-Venados FC              1.2813
-Alebrijes               1.2604
-Tlaxcala FC              1.2396
+Team         Average
+Club Celaya               1.9167
+Atlante                  1.7500
+Atlético Morelia       1.7083
+Cimarrones               1.5938
+Tapatío        1.3750
+Tepatitlán FC             1.3646
+Leones Negros            1.3542
+Mineros                  1.3542
+Dorados Sinaloa          1.2917
+Venados FC               1.2813
+Alebrijes                1.2604
+Tlaxcala FC               1.2396
 Raya2 Expansión         1.2353
-Cancún FC             1.1875
-La Paz            1.1458
+Cancún FC              1.1875
+La Paz              1.1458
 ------------------------------
-Durango      1.1176 (*)
-Correcaminos UAT        1.0833 (*)
+Durango         1.1176 (*)
+Correcaminos UAT         1.0833 (*)
 Pumas Tabasco           1.0152 (*)
 
 (*) Due to suspension of Promotion and Relegation the last 3 teams of the relegation table were fined with:
@@ -2142,27 +2138,10 @@ Changes for the next season:
 Raya2 Expansión and Pumas Morelos dissolved
 
 Due to not meeting some requirements demanded by the league, Durango returns to the third level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2021/22, see page mex2022›.
 
-‹2023/24, see page mex2024›.
 
-‹list of champions, see page mexchamp›.
-
-‹list of final tables, see page mexhist›.
-
-‹list of divisional movements, see page mexall›.
-
-‹list of cup winners, see page mexcuphist›.
-
-‹list of super cup winners, see page mexsupcup›.
-
-‹list of topscorers, see page mextops›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

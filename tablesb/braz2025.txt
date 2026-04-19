@@ -1,4 +1,5 @@
   <!--
+     title:  Brazil 2025
      source: https://rsssf.org/tablesb/braz2025.html
     -->
   
@@ -6,18 +7,12 @@
 
 == Brazil 2025
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Série A, see §sa›
-‹Copa do Brasil, see §cb›
-‹Série B, see §sb›
-‹Série C, see §sc›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Série A  ‹§sa›
 
-<!-- start pre -->
 Final Table:
 
  1.Flamengo              38  23 10  5  78-27  79       Champions
@@ -42,13 +37,13 @@ Final Table:
 19.Juventude             38   9  8 21  35-69  35       Relegated
 20.Sport Recife          38   2 11 25  28-75  17  [P]  Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa do Brasil 2025  ‹§cb›
 
-<!-- start pre -->
 Quarterfinals
 
 First Legs
@@ -86,13 +81,13 @@ Corinthians     0-0 Vasco da Gama
 
 Second Leg [Dec 21]
 Vasco da Gama   1-2 Corinthians
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série B  ‹§sb›
 
-<!-- start pre -->
 Final Table:
 
  1.Coritiba              38  19 11  8  39-23  68       Promoted
@@ -103,7 +98,7 @@ Final Table:
  5.Criciúma              38  17 10 11  47-33  61  [R]
  6.Goiás                 38  17 10 11  42-37  61
  7.Novorizontino         38  15 15  8  43-32  60
- 8.CRB             38  16  8 14  45-40  56
+ 8.CRB               38  16  8 14  45-40  56
  9.Avaí                  38  14 14 10  50-40  56
 10.Cuiabá                38  14 12 12  43-44  54  [R]
 11.Atlético/GO           38  13 13 12  39-38  52  [R]
@@ -118,20 +113,20 @@ Final Table:
 19.Volta Redonda         38   8 12 18  26-43  36  [P]  Relegated
 20.Paysandu              38   5 13 20  36-52  28       Relegated
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série C  ‹§sc›
 
-<!-- start pre -->
 First Stage (Grupo A)
 
 Final Table:
 
  1.Caxias                19  12  1  6  26-21  37       Qualified
  2.Ponte Preta           19  11  3  5  20-16  36  [R]  Qualified
- 3.Náutico           19  10  6  3  25- 7  36       Qualified
+ 3.Náutico            19  10  6  3  25- 7  36       Qualified
  4.Londrina              19   8  6  5  27-19  30       Qualified
  5.São Bernardo          19   8  6  5  19-15  30       Qualified
  6.Brusque               19   8  4  7  20-17  28  [R]  Qualified
@@ -165,7 +160,7 @@ Grupo B
 
 Grupo C
  1.Ponte Preta            6   4  1  1   7- 3  13  [R]  Promoted
- 2.Náutico            6   2  2  2   5- 6   8       Promoted
+ 2.Náutico             6   2  2  2   5- 6   8       Promoted
 ------------------------------------------------
  3.Guarani                6   2  1  3   6- 7   7  [R]
  4.Brusque                6   2  0  4   6- 8   6  [R]
@@ -180,19 +175,10 @@ Ponte Preta     2-0 Londrina
 
 Promoted from 4th level: Barra (Balneário Camboriú), Santa Cruz (Recife),
                          Maranhão (São Luís), Inter de Limeira
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024, see page braz2024›
 
-‹list of champions, see page brazchamp›.
 
-‹list of 2nd division champions, see page braz2champ›.
-
-‹list of cup winners, see page brazcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 

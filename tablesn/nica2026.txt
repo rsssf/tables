@@ -1,4 +1,5 @@
   <!--
+     title:  Nicaragua 2025/26
      source: https://rsssf.org/tablesn/nica2026.html
     -->
   
@@ -6,15 +7,12 @@
 
 == Nicaragua 2025/26
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Liga Nicaragüense de Fútbol, see §primera›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Liga Nicaragüense de Fútbol  ‹§primera›
 
-<!-- start pre -->
 ‹Apertura, see §1aper› | ‹Clausura, see §1clau›
 
 Torneo Apertura  ‹§1aper›
@@ -257,17 +255,10 @@ Regular Stage  ‹§1claureg›
 
 Final Stage  ‹§1claufinal›
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2024/25., see page nica2025›
 
-‹list of champions., see page nicachamp›
 
-‹list of cup winners., see page nicacuphist›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 == About this document  ‹§about›
 
