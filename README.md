@@ -7,7 +7,7 @@ tables pages converted to (plain) text  e.g.
 - [rsssf.org/tables/30f.html](https://rsssf.org/tables/30f.html)       => [./tables/30f.txt](tables/30f.txt) 
 - [rsssf.org/tables/86full.html](https://rsssf.org/tables/86full.html) => [./tables/86full.txt](tables/86full.txt)
 
-and many more, see the [tables a-z index page »](INDEX.md)
+and many more, see the [.txt tables a-z index page »](INDEX.md)
 
 
 ## why?
@@ -39,8 +39,15 @@ why not use "uniform" proper wikipedia like article structures - that is, one h1
 instead of the current ad-hoc zoo of h2 & h4 combos, or bold and underline "hand-crafted headers" or whatnot 
 and all without fear of losing the history (since all changes are tracked via git allowing easy restore and time travel all the way back to its origin).  
 
+for an experimental first try of an alternate (rsssf tables) online page view 
+(with auto-generated table of contents 
+and view/edit button to the git-backed .txt source and more), 
+start at the [.html tables a-z index page »](https://rsssf.github.io/tables/tables/)
+
+
+
 
 
 ## scripts & tools
 
-find the scripts & tools used in [/scripts »](https://github.com/rsssf/scripts)
+looking for the scripts & tools used? see [/scripts »](https://github.com/rsssf/scripts)

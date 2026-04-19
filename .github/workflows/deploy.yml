@@ -24,11 +24,11 @@ jobs:
       run: |
         gem install cocos
    
-   
+
     - name: Build pages
       run: |
         git clone https://github.com/rsssf/scripts.git
-        ruby ./scripts/mkpages/mkpages.rb --rootdir . --outdir ./_site
+        ruby ./scripts/mkpages/mkpages.rb --index --rootdir . --outdir ./_site
       
     - name: Upload static files as artifact
       id: deployment
