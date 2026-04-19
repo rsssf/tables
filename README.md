@@ -42,7 +42,7 @@ and all without fear of losing the history (since all changes are tracked via gi
 for an experimental first try of an alternate (rsssf tables) online page view 
 (with auto-generated table of contents 
 and view/edit button to the git-backed .txt source and more), 
-start at the [.html tables a-z index page »](https://rsssf.github.io/tables/tables/)
+start at the [.html tables a-z index page »](https://rsssf.github.io/tables/)
 
 
 
