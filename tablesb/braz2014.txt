@@ -1,8 +1,9 @@
   <!--
-     title:  Brazil 2014
-     source: https://rsssf.org/tablesb/braz2014.html
+     title:   Brazil 2014
+     source:  https://rsssf.org/tablesb/braz2014.html
+     author:  RSSSF Brazil
+     updated: 13 May 2015    
     -->
-  
 
 
 == Brazil 2014
@@ -1093,19 +1094,3 @@ ATLÉTICO MINEIRO Champions of Copa do Brasil 2014 and classified to Copa Libert
 
 Topscorers: Bill (Ceará), Gabriel (Santos), Léo Gamalho (Santa Cruz), 6 goals
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
-
-Author: RSSSF Brazil
-Last updated: 13 May 2015
-
-
-(C) Copyright RSSSF and RSSSF Brazil 2014/15
-You are free to copy
-this document in whole or part provided that proper acknowledgement is given to
-the author. All rights reserved.

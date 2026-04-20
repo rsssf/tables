@@ -1,8 +1,9 @@
   <!--
-     title:  Scilly Islands 2024/25
-     source: https://rsssf.org/tabless/scilly2025.html
+     title:   Scilly Islands 2024/25
+     source:  https://rsssf.org/tabless/scilly2025.html
+     author:  Hans Schöggl
+     updated: 8 Apr 2025    
     -->
-  
 
 
 == Scilly Islands 2024/25
@@ -75,21 +76,3 @@ Scillonian Club Cup 2025
 [Apr 6]
 Garrison Gunners         -  Woolpack Wanderers
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Hans Schöggl
-
-Last updated: 8 Apr 2025
-
-
-(C) Copyright Hans Schöggl and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

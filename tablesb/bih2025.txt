@@ -1,8 +1,9 @@
   <!--
-     title:  Bosnia-Hercegovina 2024/25
-     source: https://rsssf.org/tablesb/bih2025.html
+     title:   Bosnia-Hercegovina 2024/25
+     source:  https://rsssf.org/tablesb/bih2025.html
+     author:  Karel Stokkermans
+     updated: 8 Jan 2026    
     -->
-  
 
 
 == Bosnia-Hercegovina 2024/25
@@ -563,23 +564,3 @@ NB: Rudar (Prijedor) promoted instead of Laktaši;
 Promoted from third level: FK Omarska, FK Vlasenica
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 8 Jan 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

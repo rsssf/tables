@@ -1,8 +1,9 @@
   <!--
-     title:  Peru 2026
-     source: https://rsssf.org/tablesp/peru2026.html
+     title:   Peru 2026
+     source:  https://rsssf.org/tablesp/peru2026.html
+     author:  Carlos Manuel Nieto Tarazona
+     updated: 7 Apr 2026    
     -->
-  
 
 
 == Peru 2026
@@ -820,21 +821,3 @@ Sportivo Huracán    -  FBC Piérola
 Academia Cantolao   bye
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Carlos Manuel Nieto Tarazona for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Carlos Manuel Nieto Tarazona
-
-Last updated: 7 Apr 2026
-
-
-(C) Copyright Carlos Manuel Nieto Tarazona and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

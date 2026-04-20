@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2001/02
-     source: https://rsssf.org/tablesi/ital02.html
+     title:   Italy 2001/02
+     source:  https://rsssf.org/tablesi/ital02.html
+     authors: Misha Miladinovich, Giacomo Giusti and Alberto Novello
+     updated: 11 Jan 2003    
     -->
-  
 
 
 == Italy 2001/02
@@ -3743,25 +3744,3 @@ Nardò and Tricase relegated.
 ‹list of 3rd division topscorers, see page ital3tops›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Misha Miladinovich, Giacomo Giusti
-and Alberto Novello for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Misha Miladinovich,
-Giacomo Giusti
-and Alberto Novello
-
-Last updated: 11 Jan 2003
-
-
-(C) Copyright Misha Miladinovich, Giacomo Giusti,
-Alberto Novello and RSSSF 2001/03
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

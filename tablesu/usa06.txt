@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2006
-     source: https://rsssf.org/tablesu/usa06.html
+     title:   USA 2006
+     source:  https://rsssf.org/tablesu/usa06.html
+     author:  David A. Litterer
+     updated: 11 Sep 2019    
     -->
-  
 
 
 == USA 2006
@@ -580,21 +581,3 @@ CHAMPIONSHIP:  Sacramento defeated Princeton 2-0
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by David A. Litterer for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: David A. Litterer
-
-Last updated: 11 Sep 2019
-
-
-(C) Copyright David A. Litterer and RSSSF 2006/19
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 1963/64
-     source: https://rsssf.org/tablesd/duit64.html
+     title:   Germany 1963/64
+     source:  https://rsssf.org/tablesd/duit64.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001    
     -->
-  
 
 
 == Germany 1963/64
@@ -499,24 +500,3 @@ Topscorers: Uwe SEELER (Hamburger SV) - 30, Timo KONIETZKA
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-With thanks to Gerd Heuser
-
-Prepared and maintained by Gwidon Naskrent
-for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author:
-Gwidon Naskrent
-
-Last updated: 1 Apr 2001
-
-(c) Copyright Gwidon Naskrent and RSSSF 2000/01
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

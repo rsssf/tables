@@ -1,8 +1,9 @@
   <!--
-     title:  Guyana 2025
-     source: https://rsssf.org/tablesg/guyana2025.html
+     title:   Guyana 2025
+     source:  https://rsssf.org/tablesg/guyana2025.html
+     author:  Karel Stokkermans
+     updated: 12 Jan 2026    
     -->
-  
 
 
 == Guyana 2025
@@ -310,23 +311,3 @@ Final [Jan 1]
 Western Tigers        1-0 Slingerz
   [Kevon Woodley 89]
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by  Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 12 Jan 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

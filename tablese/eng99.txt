@@ -1,8 +1,9 @@
   <!--
-     title:  England 1998/99
-     source: https://rsssf.org/tablese/eng99.html
+     title:   England 1998/99
+     source:  https://rsssf.org/tablese/eng99.html
+     author:  RSSSF
+     updated: 20 Dec 1999    
     -->
-  
 
 
 == England 1998/99
@@ -1121,24 +1122,3 @@ Accrington Stanley..........42  9  9 24  47:77  36
 ‹list of league cup winners, see page engleagcuphist›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Andreas Exenberger
-for the league Cup information
-and to Stephen Mulrine
-for the Conference feeders
-
-Prepared and maintained by the ‹RSSSF, see page ../nersssf›
-
-
-Author: RSSSF
-Last updated: 20 Dec 1999
-
-
-(C) Copyright RSSSF 1999
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the RSSSF. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Asian Nations Cup 2024
-     source: https://rsssf.org/tables/2023asch.html
+     title:   Asian Nations Cup 2024
+     source:  https://rsssf.org/tables/2023asch.html
+     author:  Roberto Di Maggio
+     updated: 19 Feb 2024    
     -->
-  
 
 
 == Asian Nations Cup 2024
@@ -313,21 +314,3 @@ Final
 10- 2-2024 Lusail        Qatar        3-1 Jordan
                           [Afif 22pen, 73pen, 90+5pen; Al-Naimat 67]
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Roberto Di Maggio
-
-Last updated: 19 Feb 2024
-
-
-(C) Copyright Roberto Di Maggio and RSSSF 224
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

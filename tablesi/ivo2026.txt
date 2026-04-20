@@ -1,8 +1,9 @@
   <!--
-     title:  Ivory Coast 2025/26
-     source: https://rsssf.org/tablesi/ivo2026.html
+     title:   Ivory Coast 2025/26
+     source:  https://rsssf.org/tablesi/ivo2026.html
+     author:  Karel Stokkermans
+     updated: 2 Apr 2026    
     -->
-  
 
 
 == Ivory Coast 2025/26
@@ -387,21 +388,3 @@ Table:
 16.Inova SCA (Abidjan)                   22   6  4 12   9-22  22
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Apr 2026
-
-
-(C) Copyright  Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1994 qualifications
-     source: https://rsssf.org/tables/94qual.html
+     title:   World Cup 1994 qualifications
+     source:  https://rsssf.org/tables/94qual.html
+    
     -->
-  
 
 
 = World Cup 1994 qualifications

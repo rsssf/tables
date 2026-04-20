@@ -1,8 +1,9 @@
   <!--
-     title:  Denmark 2024/25
-     source: https://rsssf.org/tablesd/den2025.html
+     title:   Denmark 2024/25
+     source:  https://rsssf.org/tablesd/den2025.html
+     author:  Karel Stokkermans
+     updated: 26 May 2025    
     -->
-  
 
 
 == Denmark 2024/25
@@ -469,20 +470,3 @@ Final Table:
 12.AaB                       32   5  9 18  34-67  24  [P]  Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-Last updated: 26 May 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

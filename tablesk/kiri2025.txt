@@ -1,8 +1,9 @@
   <!--
-     title:  Kiribati 2024/25
-     source: https://rsssf.org/tablesk/kiri2025.html
+     title:   Kiribati 2024/25
+     source:  https://rsssf.org/tablesk/kiri2025.html
+     author:  Hans Schöggl
+     updated: 14 Jan 2026    
     -->
-  
 
 
 == Kiribati 2024/25
@@ -535,24 +536,3 @@ Final [Jul 12]
 SB Rainbow I     2-1 Tekinati FC
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Main source:
-‹Kiribati Islands Football Federation›
-
-Prepared and maintained by Hans Schöggl
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Hans Schöggl
-
-Last updated: 14 Jan 2026
-
-
-(C) Copyright Hans Schöggl and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

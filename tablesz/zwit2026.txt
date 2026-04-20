@@ -1,8 +1,9 @@
   <!--
-     title:  Switzerland 2025/26
-     source: https://rsssf.org/tablesz/zwit2026.html
+     title:   Switzerland 2025/26
+     source:  https://rsssf.org/tablesz/zwit2026.html
+     author:  Erik Garin
+     updated: 3 Mar 2026    
     -->
-  
 
 
 == Switzerland 2025/26
@@ -941,21 +942,3 @@ Scorers :
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Erik Garin
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Erik Garin
-
-Last updated: 3 Mar 2026
-
-
-(C) Copyright Erik Garin and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

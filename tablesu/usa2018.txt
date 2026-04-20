@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2018
-     source: https://rsssf.org/tablesu/usa2018.html
+     title:   USA 2018
+     source:  https://rsssf.org/tablesu/usa2018.html
+     author:  Karel Stokkermans
+     updated: 10 Jan 2020    
     -->
-  
 
 
 == USA 2018
@@ -737,21 +738,3 @@ Houston Dynamo                  3-3 Los Angeles FC                  [aet, 7-6 pe
 Final [Sep 26, BBVA Compass Stadium, Houston, Texas]
 Houston Dynamo                  3-0 Philadelphia Union
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 10 Jan 2020
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2018/20
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

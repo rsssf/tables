@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1978 qualifications
-     source: https://rsssf.org/tables/78qual.html
+     title:   World Cup 1978 qualifications
+     source:  https://rsssf.org/tables/78qual.html
+    
     -->
-  
 
 
 = World Cup 1978 qualifications

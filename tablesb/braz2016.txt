@@ -1,8 +1,9 @@
   <!--
-     title:  Brazil 2016
-     source: https://rsssf.org/tablesb/braz2016.html
+     title:   Brazil 2016
+     source:  https://rsssf.org/tablesb/braz2016.html
+     author:  RSSSF Brazil
+     updated: 8 Dec 2025    
     -->
-  
 
 
 == Brazil 2016
@@ -1105,19 +1106,3 @@ Final Table:
 
 Promoted: Boa Esporte (Varginha), Guarani, ABC, Juventude (Caxias)
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
-
-Author: RSSSF Brazil
-Last updated: 8 Dec 2025
-
-
-(C) Copyright RSSSF and RSSSF Brazil 2016/25
-You are free to copy
-this document in whole or part provided that proper acknowledgement is given to
-the author. All rights reserved.

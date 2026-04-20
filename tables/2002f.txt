@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 2002
-     source: https://rsssf.org/tables/2002f.html
+     title:   World Cup 2002
+     source:  https://rsssf.org/tables/2002f.html
+     author:  Karel Stokkermans
+     updated: 5 Jul 2018    
     -->
-  
 
 
 == World Cup 2002 (South Korea and Japan, 31 May-30 June 2002)
@@ -195,21 +196,3 @@ Topscorer: Ronaldo (Brazil) 8 goals.
 
 ‹Info on Qualified Countries, see page 2002f-countries›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-Last updated: 5 Jul 2018
-
-
-(C) Copyright Karel Stokkermans
-and RSSSF 1999/2018
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

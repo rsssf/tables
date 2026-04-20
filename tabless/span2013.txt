@@ -1,8 +1,9 @@
   <!--
-     title:  Spain 2012/13
-     source: https://rsssf.org/tabless/span2013.html
+     title:   Spain 2012/13
+     source:  https://rsssf.org/tabless/span2013.html
+     author:  Karel Stokkermans
+     updated: 13 Sep 2018    
     -->
-  
 
 
 == Spain 2012/13
@@ -883,21 +884,3 @@ Almería                   3-0 Girona
 NB: UD Almería promoted
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 13 Sep 2018
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2013/18
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

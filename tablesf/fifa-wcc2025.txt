@@ -1,8 +1,9 @@
   <!--
-     title:  FIFA Club World Cup 2025
-     source: https://rsssf.org/tablesf/fifa-wcc2025.html
+     title:   FIFA Club World Cup 2025
+     source:  https://rsssf.org/tablesf/fifa-wcc2025.html
+     author:  Roberto Di Maggio
+     updated: 8 Jan 2026    
     -->
-  
 
 
 == FIFA Club World Cup 2025
@@ -341,21 +342,3 @@ World       3  0  1  2   1  17   16.7
 
 ‹2025 (FIFA Intercontinental Cup)., see page fifa-icc2025›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Roberto Di Maggio
-
-Last updated: 8 Jan 2026
-
-
-(C) Copyright Roberto Di Maggio and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

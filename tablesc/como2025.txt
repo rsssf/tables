@@ -1,8 +1,9 @@
   <!--
-     title:  Comoros 2024/25
-     source: https://rsssf.org/tablesc/como2025.html
+     title:   Comoros 2024/25
+     source:  https://rsssf.org/tablesc/como2025.html
+     author:  Karel Stokkermans
+     updated: 28 Jun 2025    
     -->
-  
 
 
 == Comoros 2024/25
@@ -438,23 +439,3 @@ NB: Etoile du Sud withdrew or excluded at halfway stage;
     FC Hahaya withdrew or excluded towards the end of the season;
     total goal difference +2
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind and Hans Schöggl
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 28 Jun 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

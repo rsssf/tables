@@ -1,8 +1,9 @@
   <!--
-     title:  Lesotho 2025/26
-     source: https://rsssf.org/tablesl/leso2026.html
+     title:   Lesotho 2025/26
+     source:  https://rsssf.org/tablesl/leso2026.html
+     author:  Karel Stokkermans
+     updated: 2 Apr 2026    
     -->
-  
 
 
 == Lesotho 2025/26
@@ -383,21 +384,3 @@ Table:
 16.Maroala FC                        24   3  5 16  15-46  14  [P]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Apr 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

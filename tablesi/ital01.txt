@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2000/01
-     source: https://rsssf.org/tablesi/ital01.html
+     title:   Italy 2000/01
+     source:  https://rsssf.org/tablesi/ital01.html
+     authors: Alberto Novello and Daniel Dalence
+     updated: 1 Sep 2005    
     -->
-  
 
 
 == Italy 2000/01
@@ -3223,23 +3224,3 @@ Group C
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Alberto Novello
-and Daniel Dalence for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Alberto Novello
-and Daniel Dalence
-
-Last updated: 1 Sep 2005
-
-
-(C) Copyright Alberto Novello, Daniel Dalence and RSSSF 2000/05
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

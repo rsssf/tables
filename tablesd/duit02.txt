@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2001/02
-     source: https://rsssf.org/tablesd/duit02.html
+     title:   Germany 2001/02
+     source:  https://rsssf.org/tablesd/duit02.html
+     authors: Karel Stokkermans and Pierre Winkler
+     updated: 1 Jun 2005    
     -->
-  
 
 
 == Germany 2001/02
@@ -2509,22 +2510,3 @@ Promoted from 4th level: FC Augsburg, SC Pfullendorf, Borussia Neunkirchen,
 ‹list of foundation dates, see page duitfound›
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Pierre Winkler
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Karel Stokkermans
-and Pierre Winkler
-
-Last updated: 1 Jun 2005
-
-
-(C) Copyright Karel Stokkermans, Pierre Winkler and RSSSF 2001/05
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

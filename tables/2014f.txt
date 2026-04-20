@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 2014
-     source: https://rsssf.org/tables/2014f.html
+     title:   World Cup 2014
+     source:  https://rsssf.org/tables/2014f.html
+     author:  Karel Stokkermans
+     updated: 20 Dec 2022    
     -->
-  
 
 
 == World Cup 2014 (Brazil, June 12 - July 13, 2014)
@@ -196,20 +197,3 @@ Topscorer: Rodríguez (Colombia) 6 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-Last updated: 20 Dec 2022
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2014/22
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

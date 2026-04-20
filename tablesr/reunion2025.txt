@@ -1,8 +1,9 @@
   <!--
-     title:  Réunion 2025
-     source: https://rsssf.org/tablesr/reunion2025.html
+     title:   Réunion 2025
+     source:  https://rsssf.org/tablesr/reunion2025.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 23 Dec 2025    
     -->
-  
 
 
 == Réunion 2025
@@ -136,21 +137,3 @@ Poule C
 14.Jean Petit FC SJ                26   7  2 17  24-47  49
 NB: two more losses than wins; presumably one match awarded loss to both
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hans Schöggl and Karel Stokkermans
-
-Last updated: 23 Dec 2025
-
-
-(C) Copyright Hans Schöggl, Karel Stokkermans and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

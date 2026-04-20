@@ -1,8 +1,9 @@
   <!--
-     title:  American Samoa 2024
-     source: https://rsssf.org/tablesa/amsamoa2024.html
+     title:   American Samoa 2024
+     source:  https://rsssf.org/tablesa/amsamoa2024.html
+     author:  Karel Stokkermans
+     updated: 8 Jan 2025    
     -->
-  
 
 
 == American Samoa 2024
@@ -240,21 +241,3 @@ Final Table:
 NB: four more losses than wins as two matches were awarded a 0-0 loss against both
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 8 Jan 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

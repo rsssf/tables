@@ -1,8 +1,9 @@
   <!--
-     title:  England 2022/23
-     source: https://rsssf.org/tablese/eng2023.html
+     title:   England 2022/23
+     source:  https://rsssf.org/tablese/eng2023.html
+     author:  Karel Stokkermans
+     updated: 15 Jun 2025    
     -->
-  
 
 
 == England 2022/23
@@ -876,23 +877,3 @@ Final [May 13]
 Notts County  2-2 Chesterfield  [aet, 4-3 pen]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Sven Baum
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 15 Jun 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2022/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

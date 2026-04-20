@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2021
-     source: https://rsssf.org/tablesu/usa2021.html
+     title:   USA 2021
+     source:  https://rsssf.org/tablesu/usa2021.html
+     author:  Karel Stokkermans
+     updated: 30 Jun 2022    
     -->
-  
 
 
 == USA 2021
@@ -804,21 +805,3 @@ MLS Cup [Dec 11]
 Portland Timbers       1-1 New York City FC       [aet, 2-4 pen]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 30 Jun 2022
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2021/22
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

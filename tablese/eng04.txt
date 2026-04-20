@@ -1,8 +1,9 @@
   <!--
-     title:  England 2003/04
-     source: https://rsssf.org/tablese/eng04.html
+     title:   England 2003/04
+     source:  https://rsssf.org/tablese/eng04.html
+     authors: Ian King and Matthew Perry
+     updated: 15 Feb 2006    
     -->
-  
 
 
 == England 2003/04
@@ -6603,28 +6604,3 @@ Chris Sharpling      (Woking for Margate)                        1
 ‹list of league trophy winners, see page engassmembcuphist›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-In memoriam Markus Soleim
-
-With thanks to Gurgen Mahari
-for goal scorers information for Conference
-and to Christopher Bird for an addition
-
-Prepared and maintained by Ian King and Matthew Perry for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ian King
-and Matthew Perry
-
-Last updated: 15 Feb 2006
-
-
-(C) Copyright Ian King, Matthew Perry and RSSSF 2003/06
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

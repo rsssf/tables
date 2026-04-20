@@ -1,8 +1,9 @@
   <!--
-     title:  Azerbaijan 2025/26
-     source: https://rsssf.org/tablesa/azer2026.html
+     title:   Azerbaijan 2025/26
+     source:  https://rsssf.org/tablesa/azer2026.html
+     author:  Theodore Dreiman
+     updated: 7 Apr 2026    
     -->
-  
 
 
 == Azerbaijan 2025/26
@@ -1431,21 +1432,3 @@ Round 27
 Promotion/Relegation Playoff Liqa 2/Region Liqa [May 29]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Theodore Dreiman for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Theodore Dreiman
-
-Last updated: 7 Apr 2026
-
-
-(C) Copyright Theodore Dreiman and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

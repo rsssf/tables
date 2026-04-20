@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2003
-     source: https://rsssf.org/tablesu/usa03.html
+     title:   USA 2003
+     source:  https://rsssf.org/tablesu/usa03.html
+     authors: Ian King and David A. Litterer
+     updated: 11 Sep 2019    
     -->
-  
 
 
 == USA 2003
@@ -802,22 +803,3 @@ ROGERS CUP:                Brampton defeated Vaughan 1-0
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Ian King and David A. Litterer for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ian King
-and David A. Litterer
-
-Last updated: 11 Sep 2019
-
-
-(C) Copyright Ian King, David A. Litterer and RSSSF 2003/19
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

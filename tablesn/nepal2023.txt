@@ -1,8 +1,9 @@
   <!--
-     title:  Nepal 2023
-     source: https://rsssf.org/tablesn/nepal2023.html
+     title:   Nepal 2023
+     source:  https://rsssf.org/tablesn/nepal2023.html
+     author:  Karel Stokkermans
+     updated: 14 Nov 2025    
     -->
-  
 
 
 == Nepal 2023
@@ -426,21 +427,3 @@ Final [Dec 30, Dashrath Stadium]
 Dhangadhi           2-3 Lalitpur City
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 14 Nov 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2023/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

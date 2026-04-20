@@ -1,8 +1,9 @@
   <!--
-     title:  Brazil 2007
-     source: https://rsssf.org/tablesb/braz07.html
+     title:   Brazil 2007
+     source:  https://rsssf.org/tablesb/braz07.html
+     author:  RSSSF Brazil
+     updated: 16 May 2008    
     -->
-  
 
 
 == Brazil 2007
@@ -994,18 +995,3 @@ Champions, teams placed 5-11 (excluding Fluminense) qualify to 2008 Sudamericana
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
-
-Author: RSSSF Brazil
-Last updated: 16 May 2008
-
-(C) Copyright RSSSF and RSSSF Brazil 2007/08
-You are free to copy
-this document in whole or part provided that proper acknowledgement is given to
-the author. All rights reserved.

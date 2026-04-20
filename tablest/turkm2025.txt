@@ -1,8 +1,9 @@
   <!--
-     title:  Turkmenistan 2025
-     source: https://rsssf.org/tablest/turkm2025.html
+     title:   Turkmenistan 2025
+     source:  https://rsssf.org/tablest/turkm2025.html
+     author:  Theodore Dreiman
+     updated: 2 Apr 2026    
     -->
-  
 
 
 == Turkmenistan 2025
@@ -508,21 +509,3 @@ Final Table:
  6.FC Aşgabat              5   1  1  3   4- 8   4  [0 1 1 1-2 1]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Theodore Dreiman
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Theodore Dreiman
-
-Last updated: 2 Apr 2026
-
-
-(C) Copyright Theodore Dreiman and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

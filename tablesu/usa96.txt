@@ -1,8 +1,9 @@
   <!--
-     title:  USA 1996
-     source: https://rsssf.org/tablesu/usa96.html
+     title:   USA 1996
+     source:  https://rsssf.org/tablesu/usa96.html
+     author:  Dave Litterer
+     updated: 7 Aug 2004    
     -->
-  
 
 
 == USA 1996
@@ -1084,24 +1085,3 @@ DC United 3-0 Rochester Raging Rhinos
 ‹MLS all-time table, see page usaalltime›
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Jeremy Goodwin for
-match results MLS
-
-Prepared and maintained by Dave Litterer for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Dave Litterer
-
-Last updated: 7 Aug 2004
-
-
-(C) Copyright Dave Litterer and RSSSF 1999/2004
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

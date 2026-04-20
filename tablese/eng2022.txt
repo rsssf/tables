@@ -1,8 +1,9 @@
   <!--
-     title:  England 2021/22
-     source: https://rsssf.org/tablese/eng2022.html
+     title:   England 2021/22
+     source:  https://rsssf.org/tablese/eng2022.html
+     author:  Ian King
+     updated: 14 Jun 2023    
     -->
-  
 
 
 == England 2021/22
@@ -902,23 +903,3 @@ Final [Jun 5]
 Solihull      1-2 Grimsby       [aet]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Ian King
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Ian King
-
-Last updated: 14 Jun 2023
-
-
-(C) Copyright Ian King and RSSSF 2021/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

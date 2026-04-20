@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2021/22
-     source: https://rsssf.org/tablesi/ital2022.html
+     title:   Italy 2021/22
+     source:  https://rsssf.org/tablesi/ital2022.html
+     authors: Roberto Di Maggio and Karel Stokkermans
+     updated: 25 Sep 2022    
     -->
-  
 
 
 == Italy 2021/22
@@ -859,23 +860,3 @@ Vicenza         1-0 Cosenza
 Second Leg [May 20]
 Cosenza         2-0 Vicenza
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Roberto Di Maggio and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Roberto Di Maggio and Karel Stokkermans
-
-Last updated: 25 Sep 2022
-
-
-(C) Copyright Roberto Di Maggio, Karel Stokkermans and RSSSF 2021/22
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

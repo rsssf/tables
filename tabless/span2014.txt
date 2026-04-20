@@ -1,8 +1,9 @@
   <!--
-     title:  Spain 2013/14
-     source: https://rsssf.org/tabless/span2014.html
+     title:   Spain 2013/14
+     source:  https://rsssf.org/tabless/span2014.html
+     author:  Karel Stokkermans
+     updated: 29 Sep 2020    
     -->
-  
 
 
 == Spain 2013/14
@@ -890,21 +891,3 @@ Las Palmas                1-1 Córdoba
 NB: Córdoba promoted
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 29 Sep 2020
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2013/20
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

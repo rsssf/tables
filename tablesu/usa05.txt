@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2005
-     source: https://rsssf.org/tablesu/usa05.html
+     title:   USA 2005
+     source:  https://rsssf.org/tablesu/usa05.html
+     authors: David A. Litterer and Antonio Zea
+     updated: 11 Sep 2019    
     -->
-  
 
 
 == USA 2005
@@ -841,23 +842,3 @@ FINAL:   Detroit defeated Sonoma 1-0
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by David A. Litterer and
-Antonio Zea for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: David A. Litterer
-and Antonio Zea
-
-Last updated: 11 Sep 2019
-
-
-(C) Copyright David A. Litterer, Antonio Zea and RSSSF 2005/19
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

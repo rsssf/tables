@@ -1,8 +1,9 @@
   <!--
-     title:  Spain 2019/20
-     source: https://rsssf.org/tabless/span2020.html
+     title:   Spain 2019/20
+     source:  https://rsssf.org/tabless/span2020.html
+     author:  Karel Stokkermans
+     updated: 8 Apr 2021    
     -->
-  
 
 
 == Spain 2019/20
@@ -887,21 +888,3 @@ Girona                    0-1 Elche
 
 NB: Elche CF promoted
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 8 Apr 2021
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2019/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

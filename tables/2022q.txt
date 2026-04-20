@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 2022 Qualifying
-     source: https://rsssf.org/tables/2022q.html
+     title:   World Cup 2022 Qualifying
+     source:  https://rsssf.org/tables/2022q.html
+     author:  Roberto Di Maggio
+     updated: 19 Feb 2024    
     -->
-  
 
 
 == World Cup 2022 Qualifying
@@ -1411,20 +1412,3 @@ NB: Costa Rica qualified
 
 ‹2022 Final Tournament, see page 2022f›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Roberto Di Maggio
-
-Last updated: 19 Feb 2024
-
-(c) CopyrighRoberto Di Maggio and RSSSF 2022/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

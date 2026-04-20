@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 1994 Qualifying
-     source: https://rsssf.org/tables/94q.html
+     title:   World Cup 1994 Qualifying
+     source:  https://rsssf.org/tables/94q.html
+     authors: Karel Stokkermans and Sergio Henrique Jarreta
+     updated: 30 Dec 2019    
     -->
-  
 
 
 == World Cup 1994 Qualifying
@@ -656,24 +657,3 @@ Australia required to play off with second of South America Group 1 (see above).
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-
-
-
-
-== About this document  ‹§about›
-
-With thanks to Stephen Halchuk and Neil Morrison
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 30 Dec 2019
-
-
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2019
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

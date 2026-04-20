@@ -1,8 +1,9 @@
   <!--
-     title:  Solomon Islands 2025
-     source: https://rsssf.org/tabless/solom2025.html
+     title:   Solomon Islands 2025
+     source:  https://rsssf.org/tabless/solom2025.html
+     author:  Karel Stokkermans
+     updated: 11 Mar 2026    
     -->
-  
 
 
 == Solomon Islands 2025
@@ -360,21 +361,3 @@ Malaita Eagles        0-3 Makira Ulawa
   [Andrew Hanua 41, Jeffery Bule 45+1, Andrew Hanua 77]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 11 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

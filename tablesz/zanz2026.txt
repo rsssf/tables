@@ -1,8 +1,9 @@
   <!--
-     title:  Zanzibar 2025/26
-     source: https://rsssf.org/tablesz/zanz2026.html
+     title:   Zanzibar 2025/26
+     source:  https://rsssf.org/tablesz/zanz2026.html
+     author:  Karel Stokkermans
+     updated: 5 Apr 2026    
     -->
-  
 
 
 == Zanzibar 2025/26
@@ -389,21 +390,3 @@ Table:
 16.New Stone Town        21   1  0 20  13-60   3  [P]  [Pemba]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 5 Apr 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Spain 2022/23
-     source: https://rsssf.org/tabless/span2023.html
+     title:   Spain 2022/23
+     source:  https://rsssf.org/tabless/span2023.html
+     author:  Karel Stokkermans
+     updated: 21 Nov 2023    
     -->
-  
 
 
 == Spain 2022/23
@@ -852,21 +853,3 @@ Promoted from 4th level: Antequera CF, CD Arenteiro (O Carballiño), Atlético d
                          Real Club Recreativo de Huelva, Sestao River Club, SD Tarazona, CD Teruel
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 21 Nov 2023
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2022/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

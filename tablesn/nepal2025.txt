@@ -1,8 +1,9 @@
   <!--
-     title:  Nepal 2025
-     source: https://rsssf.org/tablesn/nepal2025.html
+     title:   Nepal 2025
+     source:  https://rsssf.org/tablesn/nepal2025.html
+     author:  Karel Stokkermans
+     updated: 27 Apr 2025    
     -->
-  
 
 
 == Nepal 2025
@@ -117,21 +118,3 @@ Final [Apr 26]
 Lalitpur City       2-1 Pokhara Thunders
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 27 Apr 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

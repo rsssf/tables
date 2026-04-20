@@ -1,8 +1,9 @@
   <!--
-     title:  Indonesia 2025/26
-     source: https://rsssf.org/tablesi/indo2026.html
+     title:   Indonesia 2025/26
+     source:  https://rsssf.org/tablesi/indo2026.html
+     author:  Karel Stokkermans
+     updated: 5 Apr 2026    
     -->
-  
 
 
 == Indonesia 2025/26
@@ -512,21 +513,3 @@ Dewa United            2-0 Liga Indonesia All Star
 Final [Jul 13, Stadion Si Jalak Harupat, Kutawaringin, Kabupaten Bandung]
 Port FC                2-1 Oxford United
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 5 Apr 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

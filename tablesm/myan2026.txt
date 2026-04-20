@@ -1,8 +1,9 @@
   <!--
-     title:  Myanmar 2025/26
-     source: https://rsssf.org/tablesm/myan2026.html
+     title:   Myanmar 2025/26
+     source:  https://rsssf.org/tablesm/myan2026.html
+     author:  Karel Stokkermans
+     updated: 19 Mar 2026    
     -->
-  
 
 
 == Myanmar 2025/26
@@ -316,21 +317,3 @@ Final Table:
 12.Yarmanya United           22   1  3 18  17-80   6  [N]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 19 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

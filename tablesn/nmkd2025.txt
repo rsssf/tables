@@ -1,8 +1,9 @@
   <!--
-     title:  North Macedonia 2024/25
-     source: https://rsssf.org/tablesn/nmkd2025.html
+     title:   North Macedonia 2024/25
+     source:  https://rsssf.org/tablesn/nmkd2025.html
+     author:  Karel Stokkermans
+     updated: 26 May 2025    
     -->
-  
 
 
 == North Macedonia 2024/25
@@ -349,21 +350,3 @@ NB: Gostivari and Voska both withdrew after walking off (in rounds 29 and 28
     season and will have to restart at the lowest league level in 2026/27
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 26 May 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

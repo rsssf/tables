@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 1996/97
-     source: https://rsssf.org/tablesd/duit97.html
+     title:   Germany 1996/97
+     source:  https://rsssf.org/tablesd/duit97.html
+     authors: Gwidon Naskrent and Frank Ballesteros
+     updated: 11 May 2005    
     -->
-  
 
 
 == Germany 1996/97
@@ -1059,25 +1060,3 @@ Team relegated from 2.Bundesliga to Regionalliga Süd:
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Dinant Abbink for a correction
-
-Prepared and maintained by Gwidon Naskrent and Frank Ballesteros
-for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors:
-Gwidon Naskrent
-and Frank Ballesteros
-
-Last updated: 11 May 2005
-
-(c) Copyright Gwidon Naskrent, Frank Ballesteros and RSSSF 2001/05
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Djibouti 2024/25
-     source: https://rsssf.org/tablesd/dji2025.html
+     title:   Djibouti 2024/25
+     source:  https://rsssf.org/tablesd/dji2025.html
+     author:  Karel Stokkermans
+     updated: 4 Jun 2025    
     -->
-  
 
 
 == Djibouti 2024/25
@@ -248,23 +249,3 @@ NB: two more losses than wins due to award match round 17
 
 Promoted: Obock, AJJ/Sapeurs Pompiers
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Shafi'i Mohyaddin Abokar
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 4 Jun 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

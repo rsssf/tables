@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2016
-     source: https://rsssf.org/tablesu/usa2016.html
+     title:   USA 2016
+     source:  https://rsssf.org/tablesu/usa2016.html
+     author:  Karel Stokkermans
+     updated: 10 Jan 2020    
     -->
-  
 
 
 == USA 2016
@@ -672,21 +673,3 @@ Final [Sep 13, Frisco, Texas]
 FC Dallas                       4-2 New England Revolution
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 10 Jan 2020
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2016/20
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

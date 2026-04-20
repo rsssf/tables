@@ -1,8 +1,9 @@
   <!--
-     title:  Cayman Islands 2025/26
-     source: https://rsssf.org/tablesc/cayman2026.html
+     title:   Cayman Islands 2025/26
+     source:  https://rsssf.org/tablesc/cayman2026.html
+     author:  Karel Stokkermans
+     updated: 19 Mar 2026    
     -->
-  
 
 
 == Cayman Islands 2025/26
@@ -187,21 +188,3 @@ Table:
 12.Cayman Brac FC              15   0  1 14   8-67   1
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 19 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

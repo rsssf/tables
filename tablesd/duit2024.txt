@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2023/24
-     source: https://rsssf.org/tablesd/duit2024.html
+     title:   Germany 2023/24
+     source:  https://rsssf.org/tablesd/duit2024.html
+     author:  Karel Stokkermans
+     updated: 11 Oct 2024    
     -->
-  
 
 
 == Germany 2023/24
@@ -630,21 +631,3 @@ Hannover II     3-2 Würzburg        [aet, 5-4 pen]
 NB: Hannover 96 II promoted
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 11 Oct 2024
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2023/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

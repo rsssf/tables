@@ -1,8 +1,9 @@
   <!--
-     title:  CONCACAF Championship, Gold Cup 2025
-     source: https://rsssf.org/tables/2025gc.html
+     title:   CONCACAF Championship, Gold Cup 2025
+     source:  https://rsssf.org/tables/2025gc.html
+     author:  Erik Francisco Lugo
+     updated: 7 Jul 2025    
     -->
-  
 
 
 == CONCACAF Championship, Gold Cup 2025
@@ -213,20 +214,3 @@ USA            1-2 Mexico
 
 ‹2024-2025 Nations League, see page 2025concanl›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Erik Francisco Lugo
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Erik Francisco Lugo
-
-Last updated: 7 Jul 2025
-
-(C) Copyright Erik Francisco Lugo and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

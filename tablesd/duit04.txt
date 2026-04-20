@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2003/04
-     source: https://rsssf.org/tablesd/duit04.html
+     title:   Germany 2003/04
+     source:  https://rsssf.org/tablesd/duit04.html
+     author:  Lars Kubusch
+     updated: 8 Aug 2004    
     -->
-  
 
 
 == Germany 2003/04
@@ -4073,21 +4074,3 @@ Hertha BSC Berlin   2-3   VFC Plauen
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Lars Kubusch for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Lars Kubusch
-
-Last updated: 8 Aug 2004
-
-
-(C) Copyright Lars Kubusch and RSSSF 2003/04
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2010/11
-     source: https://rsssf.org/tablesd/duit2011.html
+     title:   Germany 2010/11
+     source:  https://rsssf.org/tablesd/duit2011.html
+     author:  Jan Schoenmakers
+     updated: 25 Mar 2024    
     -->
-  
 
 
 == Germany 2010/11
@@ -1828,23 +1829,3 @@ Final Table:
 [*2] Rot Weiss Ahlen moved to last position because of financial problems
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Jan Schoenmakers
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Jan Schoenmakers
-
-Last updated: 25 Mar 2024
-
-
-(C) Copyright Jan Schoenmakers and RSSSF 2011/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

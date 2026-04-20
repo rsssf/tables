@@ -1,0 +1,20 @@
+
+
+== About this document  ‹§about›
+
+NB: the FA of Abkhazia is not recognised by UEFA or FIFA (and neither
+is the state); inclusion of results here exclusively serves football statistical
+purposes
+
+Prepared and maintained by Theodore Dreiman
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Theodore Dreiman
+
+Last updated: 5 Apr 2026
+
+
+(C) Copyright Theodore Dreiman and RSSSF 2026
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

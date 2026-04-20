@@ -1,8 +1,9 @@
   <!--
-     title:  Cape Verde Islands 2025/26
-     source: https://rsssf.org/tablesk/kaapv2026.html
+     title:   Cape Verde Islands 2025/26
+     source:  https://rsssf.org/tablesk/kaapv2026.html
+     author:  José Batalha
+     updated: 7 Apr 2026    
     -->
-  
 
 
 == Cape Verde Islands 2025/26
@@ -3237,21 +3238,3 @@ Final [Apr 11, Campo do Centro de Estágios, Mindelo]
 Mindelense      -  SC Ribeira Bote
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by José Batalha for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: José Batalha
-
-Last updated: 7 Apr 2026
-
-
-(C) Copyright José Batalha and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

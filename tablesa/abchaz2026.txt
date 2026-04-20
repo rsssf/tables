@@ -1,8 +1,9 @@
   <!--
-     title:  Abkhazia 2026
-     source: https://rsssf.org/tablesa/abchaz2026.html
+     title:   Abkhazia 2026
+     source:  https://rsssf.org/tablesa/abchaz2026.html
+     author:  Theodore Dreiman
+     updated: 5 Apr 2026    
     -->
-  
 
 
 == Abkhazia 2026
@@ -178,25 +179,3 @@ Table:
 12.Ercaxŭ-2 (Očamčyra)    1   0  0  1   1- 5   0  [N]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-NB: the FA of Abkhazia is not recognised by UEFA or FIFA (and neither
-is the state); inclusion of results here exclusively serves football statistical
-purposes
-
-Prepared and maintained by Theodore Dreiman
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Theodore Dreiman
-
-Last updated: 5 Apr 2026
-
-
-(C) Copyright Theodore Dreiman and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

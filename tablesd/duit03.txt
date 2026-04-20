@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2002/03
-     source: https://rsssf.org/tablesd/duit03.html
+     title:   Germany 2002/03
+     source:  https://rsssf.org/tablesd/duit03.html
+     authors: Pierre Winkler, Daniel Dalence Garcia and Manuel Schmidt
+     updated: 1 Jun 2005    
     -->
-  
 
 
 == Germany 2002/03
@@ -2303,26 +2304,3 @@ Group Bayern Süd
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Pierre Winkler,
-Daniel Dalence Garcia and Manuel Schmidt for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors:
-Pierre Winkler,
-Daniel Dalence Garcia
-and Manuel Schmidt
-
-Last updated: 1 Jun 2005
-
-
-(C) Copyright Pierre Winkler, Daniel Dalence Garcia,
-Manuel Schmidt and RSSSF 2002/05
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

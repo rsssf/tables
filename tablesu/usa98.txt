@@ -1,8 +1,9 @@
   <!--
-     title:  USA 1998
-     source: https://rsssf.org/tablesu/usa98.html
+     title:   USA 1998
+     source:  https://rsssf.org/tablesu/usa98.html
+     author:  Dave Litterer
+     updated: 25 Oct 2003    
     -->
-  
 
 
 == USA 1998
@@ -468,21 +469,3 @@ Oct 30: Chicago Fire (MLS) 2-1 Columbus Crew (MLS)            [Virginia Beach]
 ‹MLS all-time table, see page usaalltime›
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Dave Litterer for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Dave Litterer
-
-Last updated: 25 Oct 2003
-
-
-(C) Copyright Dave Litterer and RSSSF 1999/2003
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

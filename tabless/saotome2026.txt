@@ -1,8 +1,9 @@
   <!--
-     title:  São Tomé e Príncipe 2026
-     source: https://rsssf.org/tabless/saotome2026.html
+     title:   São Tomé e Príncipe 2026
+     source:  https://rsssf.org/tabless/saotome2026.html
+     author:  José Batalha
+     updated: 21 Jan 2026    
     -->
-  
 
 
 == São Tomé e Príncipe 2026
@@ -176,21 +177,3 @@ Final [Jan 16, Estádio Regional 13 de Junho, Santo António]
  [Kessy 26, 45; Valdemar Managem]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by José Batalha for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: José Batalha
-
-Last updated: 21 Jan 2026
-
-
-(C) Copyright José Batalha and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

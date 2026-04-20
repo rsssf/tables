@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 1999/2000
-     source: https://rsssf.org/tablesi/ital00.html
+     title:   Italy 1999/2000
+     source:  https://rsssf.org/tablesi/ital00.html
+     authors: Davide Rota, Ken Butler and Misha Miladinovich
+     updated: 12 Dec 2011    
     -->
-  
 
 
 == Italy 1999/2000
@@ -4103,28 +4104,3 @@ Group D
 ‹list of 3rd division topscorers, see page ital3tops›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Südtirol thanks to Andreas Exenberger
-
-Additional scorer information thanks to Marcos Cabaleiro Pérez
-
-Prepared and maintained by Davide Rota, Ken Butler and Misha Miladinovich for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Davide Rota,
-Ken Butler
-and Misha Miladinovich
-
-Last updated: 12 Dec 2011
-
-
-(C) Copyright Davide Rota, Ken Butler,
-Misha Miladinovich and RSSSF 1999/2011
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

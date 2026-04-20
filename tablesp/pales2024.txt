@@ -1,8 +1,9 @@
   <!--
-     title:  Palestina 2023/24
-     source: https://rsssf.org/tablesp/pales2024.html
+     title:   Palestina 2023/24
+     source:  https://rsssf.org/tablesp/pales2024.html
+     author:  Karel Stokkermans
+     updated: 12 Oct 2024    
     -->
-  
 
 
 == Palestina 2023/24
@@ -251,21 +252,3 @@ Table at abandonment:
 12.Al-Hilal Gaza              6   0  1  5   7-13   1
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 12 Oct 2024
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2023/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

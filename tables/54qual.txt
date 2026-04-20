@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1954 qualifications
-     source: https://rsssf.org/tables/54qual.html
+     title:   World Cup 1954 qualifications
+     source:  https://rsssf.org/tables/54qual.html
+    
     -->
-  
 
 
 = World Cup 1954 qualifications

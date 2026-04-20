@@ -1,8 +1,9 @@
   <!--
-     title:  Central American Club Competitions 2025/26
-     source: https://rsssf.org/tablesc/cacups2026.html
+     title:   Central American Club Competitions 2025/26
+     source:  https://rsssf.org/tablesc/cacups2026.html
+     author:  Erik Francisco Lugo
+     updated: 3 Mar 2026    
     -->
-  
 
 
 == Central American Club Competitions 2025/26
@@ -359,20 +360,3 @@ y 2nd leg in Spokane
 
 ‹overview, see page ca1› | ‹2024/25, see page cacups2025›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Erik Francisco Lugo
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Erik Francisco Lugo
-
-Last updated: 3 Mar 2026
-
-(C) Copyright Erik Francisco Lugo and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

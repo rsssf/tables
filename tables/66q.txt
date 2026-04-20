@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 1966 Qualifying
-     source: https://rsssf.org/tables/66q.html
+     title:   World Cup 1966 Qualifying
+     source:  https://rsssf.org/tables/66q.html
+     authors: Karel Stokkermans and Sergio Henrique Jarreta
+     updated: 31 Dec 2005    
     -->
-  
 
 
 == World Cup 1966 Qualifying
@@ -248,22 +249,3 @@ winners Asia and 3 second round winners Africa
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 31 Dec 2005
-
-
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2005
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

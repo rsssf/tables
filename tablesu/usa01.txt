@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2001
-     source: https://rsssf.org/tablesu/usa01.html
+     title:   USA 2001
+     source:  https://rsssf.org/tablesu/usa01.html
+     author:  Dave Litterer
+     updated: 11 Jan 2003    
     -->
-  
 
 
 == USA 2001
@@ -649,23 +650,3 @@ CHAMPIONSHIP:     Dallas defeated San Diego 6-3, ___
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-MLS results thanks to Ian King
-
-Prepared and maintained by Dave Litterer for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Dave Litterer
-
-Last updated: 11 Jan 2003
-
-
-(C) Copyright Dave Litterer and RSSSF 2001/03
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

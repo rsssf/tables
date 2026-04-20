@@ -1,8 +1,9 @@
   <!--
-     title:  England 2009/10
-     source: https://rsssf.org/tablese/eng2010.html
+     title:   England 2009/10
+     source:  https://rsssf.org/tablese/eng2010.html
+     author:  Ian King
+     updated: 23 Dec 2020    
     -->
-  
 
 
 == England 2009/10
@@ -4673,23 +4674,3 @@ Oxford        3-1 York
 NB: Oxford promoted
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind, Ian Kay and Giorgio Abraini for corrections
-
-Prepared and maintained by Ian King for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Ian King
-
-Last updated: 23 Dec 2020
-
-
-(C) Copyright Ian King and RSSSF 2009/20
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Gabon 2026
-     source: https://rsssf.org/tablesg/gab2026.html
+     title:   Gabon 2026
+     source:  https://rsssf.org/tablesg/gab2026.html
+     author:  Karel Stokkermans
+     updated: 2 Apr 2026    
     -->
-  
 
 
 == Gabon 2026
@@ -119,21 +120,3 @@ Table:
 14.AS Dikaki (Fougamou)                    5   0  1  4   2-12   1
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Apr 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

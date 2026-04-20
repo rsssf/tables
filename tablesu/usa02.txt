@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2002
-     source: https://rsssf.org/tablesu/usa02.html
+     title:   USA 2002
+     source:  https://rsssf.org/tablesu/usa02.html
+     author:  Dave Litterer
+     updated: 11 Sep 2019    
     -->
-  
 
 
 == USA 2002
@@ -675,21 +676,3 @@ ROGERS CUP:                  Ottawa defeated North York 2-0
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Dave Litterer for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Dave Litterer
-
-Last updated: 11 Sep 2019
-
-
-(C) Copyright Dave Litterer and RSSSF 2002/19
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Brazil 2012
-     source: https://rsssf.org/tablesb/braz2012.html
+     title:   Brazil 2012
+     source:  https://rsssf.org/tablesb/braz2012.html
+     author:  RSSSF Brazil
+     updated: 7 Jun 2013    
     -->
-  
 
 
 == Brazil 2012
@@ -1915,19 +1916,3 @@ Table:
 
 Topscorer: Zé Carlos (Criciúma), 27 goals.
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
-
-Author: RSSSF Brazil
-Last updated: 7 Jun 2013
-
-
-(C) Copyright RSSSF and RSSSF Brazil 2012/13
-You are free to copy
-this document in whole or part provided that proper acknowledgement is given to
-the author. All rights reserved.

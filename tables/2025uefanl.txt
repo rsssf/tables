@@ -1,8 +1,9 @@
   <!--
-     title:  UEFA Nations League 2024/25
-     source: https://rsssf.org/tables/2025uefanl.html
+     title:   UEFA Nations League 2024/25
+     source:  https://rsssf.org/tables/2025uefanl.html
+     author:  Roberto Di Maggio
+     updated: 23 Jan 2026    
     -->
-  
 
 
 == UEFA Nations League 2024/25
@@ -376,20 +377,3 @@ Group 2
  3.Andorra             4  0  1  3   0- 4  1
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Roberto Di Maggio
-Last updated: 23 Jan 2026
-
-
-(C) Copyright Roberto Di Maggio and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

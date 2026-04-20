@@ -1,8 +1,9 @@
   <!--
-     title:  Oceanian Nations Cup 2024
-     source: https://rsssf.org/tables/2024oc.html
+     title:   Oceanian Nations Cup 2024
+     source:  https://rsssf.org/tables/2024oc.html
+     author:  Roberto Di Maggio
+     updated: 9 Jul 2024    
     -->
-  
 
 
 == Oceanian Nations Cup 2024
@@ -78,21 +79,3 @@ Final (at Port Vila)
 
 ‹2016, see page 2016oc›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Roberto Di Maggio
-
-Last updated: 9 Jul 2024
-
-
-(C) Copyright Roberto Di Maggio and RSSSF 2024
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

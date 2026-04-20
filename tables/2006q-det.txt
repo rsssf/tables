@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 2006 Qualifying - Match Details
-     source: https://rsssf.org/tables/2006q-det.html
+     title:   World Cup 2006 Qualifying - Match Details
+     source:  https://rsssf.org/tables/2006q-det.html
+     authors: Hamdan Saaid and Andre Zlotkowski
+     updated: 5 Apr 2005    
     -->
-  
 
 
 == World Cup 2006 Qualifying - Match Details
@@ -5840,22 +5841,3 @@ Final Table:
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hamdan Saaid and Andre Zlotkowski
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hamdan Saaid
-and Andre Zlotkowski
-
-Last updated: 5 Apr 2005
-
-
-(C) Copyright Hamdan Saaid, Andre Zlotkowski and RSSSF 2003/05
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

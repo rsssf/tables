@@ -1,8 +1,9 @@
   <!--
-     title:  Uzbekistan 2026
-     source: https://rsssf.org/tableso/oez2026.html
+     title:   Uzbekistan 2026
+     source:  https://rsssf.org/tableso/oez2026.html
+     author:  Theodore Dreiman
+     updated: 7 Apr 2026    
     -->
-  
 
 
 == Uzbekistan 2026
@@ -521,21 +522,3 @@ Oqtepa (Toshkent)         3-3  HAVOKAND (Qo'qon)      [pen 2-3]
 
 ‹Name Changes, see page oez-names›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Theodore Dreiman
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Theodore Dreiman
-
-Last updated: 7 Apr 2026
-
-
-(C) Copyright Theodore Dreiman and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

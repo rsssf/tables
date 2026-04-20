@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2013/14
-     source: https://rsssf.org/tablesi/ital2014.html
+     title:   Italy 2013/14
+     source:  https://rsssf.org/tablesi/ital2014.html
+     author:  Karel Stokkermans
+     updated: 14 Jan 2021    
     -->
-  
 
 
 == Italy 2013/14
@@ -915,21 +916,3 @@ Varese      2-2 Novara
 
 NB: Novara relegated
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 14 Jan 2021
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2013/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2000/01
-     source: https://rsssf.org/tablesd/duit01.html
+     title:   Germany 2000/01
+     source:  https://rsssf.org/tablesd/duit01.html
+     author:  Karel Stokkermans
+     updated: 21 Feb 2002    
     -->
-  
 
 
 == Germany 2000/01
@@ -1626,21 +1627,3 @@ SpVgg Ansbach                (Bayern)
 ‹list of foundation dates, see page duitfound›
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 21 Feb 2002
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2000/02
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

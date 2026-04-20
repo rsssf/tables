@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 1938 Qualifying
-     source: https://rsssf.org/tables/38q.html
+     title:   World Cup 1938 Qualifying
+     source:  https://rsssf.org/tables/38q.html
+     authors: Karel Stokkermans and Sergio Henrique Jarreta
+     updated: 6 Mar 2026    
     -->
-  
 
 
 == World Cup 1938 Qualifying
@@ -150,23 +151,3 @@ withdrawal of Argentina (see group 10).
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Jérôme Perani
-
-Prepared and maintained by Karel Stokkermans and Sergio Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 6 Mar 2026
-
-
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

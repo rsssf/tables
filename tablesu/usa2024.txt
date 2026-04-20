@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2024
-     source: https://rsssf.org/tablesu/usa2024.html
+     title:   USA 2024
+     source:  https://rsssf.org/tablesu/usa2024.html
+     author:  Karel Stokkermans
+     updated: 7 Dec 2025    
     -->
-  
 
 
 == USA 2024
@@ -808,21 +809,3 @@ Final [Sep 25]
 Los Angeles FC         3-1 Sporting Kansas City   [aet]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 7 Dec 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

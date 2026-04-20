@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 1992/93
-     source: https://rsssf.org/tablesd/duit93.html
+     title:   Germany 1992/93
+     source:  https://rsssf.org/tablesd/duit93.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001    
     -->
-  
 
 
 == Germany 1992/93
@@ -682,24 +683,3 @@ Werder Bremen 1992/93
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-With thanks to Gerd Heuser
-
-Prepared and maintained by Gwidon Naskrent
-for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author:
-Gwidon Naskrent
-
-Last updated: 1 Apr 2001
-
-(c) Copyright Gwidon Naskrent and RSSSF 2001
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

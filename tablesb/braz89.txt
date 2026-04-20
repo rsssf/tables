@@ -1,8 +1,9 @@
   <!--
-     title:  Brazil 1989
-     source: https://rsssf.org/tablesb/braz89.html
+     title:   Brazil 1989
+     source:  https://rsssf.org/tablesb/braz89.html
+     author:  RSSSF Brazil
+     updated: 2 Apr 2005    
     -->
-  
 
 
 == Brazil 1989
@@ -1790,22 +1791,3 @@ Grêmio FBPA were the 1989 winners of the Copa do Brasil.
 ‹list of 2nd division champions, see page braz2champ›.
 
 
-
-
-
-
-== About this document
-
-Thanks to Ricardo Pontes.
-
-Source: Placar magazine.
-
-Prepared and maintained by RSSSF Brazil for the ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
-
-Author: RSSSF Brazil
-Last updated: 2 Apr 2005
-
-(C) Copyright RSSSF and RSSSF Brazil 1995/2005
-You are free to copy
-this document in whole or part provided that proper acknowledgement is given to
-RSSSF Brazil. All rights reserved.

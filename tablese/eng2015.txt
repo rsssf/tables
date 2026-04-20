@@ -1,8 +1,9 @@
   <!--
-     title:  England 2014/15
-     source: https://rsssf.org/tablese/eng2015.html
+     title:   England 2014/15
+     source:  https://rsssf.org/tablese/eng2015.html
+     authors: Ian King and Karel Stokkermans
+     updated: 14 Jan 2021    
     -->
-  
 
 
 == England 2014/15
@@ -1203,23 +1204,3 @@ Final [May 17]
 Bristol R     1-1 Grimsby       [aet, 5-3 pen]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Ian King and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ian King and Karel Stokkermans
-
-Last updated: 14 Jan 2021
-
-
-(C) Copyright Ian King, Karel Stokkermans and RSSSF 2014/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

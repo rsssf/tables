@@ -1,8 +1,9 @@
   <!--
-     title:  Isle of Man 2024/25
-     source: https://rsssf.org/tablesm/manx2025.html
+     title:   Isle of Man 2024/25
+     source:  https://rsssf.org/tablesm/manx2025.html
+     author:  Colin Moore
+     updated: 12 Feb 2026    
     -->
-  
 
 
 == Isle of Man 2024/25
@@ -207,23 +208,3 @@ Final Table:
 11.Douglas & District          20   0  3 17  26-99   3
  -.Gymnasium                   withdrew or excluded
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Hans Schöggl
-
-Prepared and maintained by Colin Moore for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Colin Moore
-
-Last updated: 12 Feb 2026
-
-
-(C) Copyright Colin Moore and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

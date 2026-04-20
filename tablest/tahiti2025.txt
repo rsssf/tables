@@ -1,8 +1,9 @@
   <!--
-     title:  French Polynesia 2024/25
-     source: https://rsssf.org/tablest/tahiti2025.html
+     title:   French Polynesia 2024/25
+     source:  https://rsssf.org/tablest/tahiti2025.html
+     author:  Karel Stokkermans
+     updated: 6 Oct 2025    
     -->
-  
 
 
 == French Polynesia 2024/25
@@ -505,21 +506,3 @@ Final [Sep 13]
 Vénus           2-2 Pirae           [2-4 pen (no extra time)]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 6 Oct 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2022
-     source: https://rsssf.org/tablesu/usa2022.html
+     title:   USA 2022
+     source:  https://rsssf.org/tablesu/usa2022.html
+     author:  Karel Stokkermans
+     updated: 6 Dec 2024    
     -->
-  
 
 
 == USA 2022
@@ -785,21 +786,3 @@ Final [Sep 7]
 Orlando City           3-0 Sacramento Republic FC
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 6 Dec 2024
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2022/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

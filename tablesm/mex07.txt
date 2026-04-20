@@ -1,8 +1,9 @@
   <!--
-     title:  Mexico 2006/07
-     source: https://rsssf.org/tablesm/mex07.html
+     title:   Mexico 2006/07
+     source:  https://rsssf.org/tablesm/mex07.html
+     authors: Juan Pablo Andrés, Erik Francisco Lugo and José de Jesus Mora Rivera
+     updated: 22 Jan 2009    
     -->
-  
 
 
 == Mexico 2006/07
@@ -2971,26 +2972,3 @@ Gallos de Pelea de Canal 5 champion Clausura 2007
 ‹list of topscorers, see page mextops›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Juan Pablo Andrés,
-Erik Francisco Lugo, José de Jesus Mora Rivera for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Juan Pablo Andrés,
-Erik Francisco Lugo
-and José de Jesus Mora Rivera
-
-Last updated: 22 Jan 2009
-
-
-(C) Copyright Juan Pablo Andrés, Erik Francisco Lugo,
-José de Jesus Mora Rivera
-and RSSSF 2006/09
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

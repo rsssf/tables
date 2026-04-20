@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1950 finals
-     source: https://rsssf.org/tables/50full.html
+     title:   World Cup 1950 finals
+     source:  https://rsssf.org/tables/50full.html
+    
     -->
-  
 
 
 = World Cup 1950

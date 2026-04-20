@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2004/05
-     source: https://rsssf.org/tablesd/duit05.html
+     title:   Germany 2004/05
+     source:  https://rsssf.org/tablesd/duit05.html
+     authors: Lars Kubusch, Daniel Dalence, Roberto Di Maggio and Anthony Zea
+     updated: 17 Aug 2005    
     -->
-  
 
 
 == Germany 2004/05
@@ -3579,28 +3580,3 @@ Carl Zeiss Jena promoted to Regionalliga.
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Goalscorers info 2nd and 3rd level thanks to Gurgen Mahari
-
-Prepared and maintained by Lars Kubusch, Daniel Dalence, Roberto
-Di Maggio and Anthony Zea for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Lars Kubusch,
-Daniel Dalence,
-Roberto Di Maggio
-and Anthony Zea
-
-Last updated: 17 Aug 2005
-
-
-(C) Copyright Lars Kubusch, Daniel Dalence, Roberto di Maggio,
-Anthony Zea and RSSSF 2004/05
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

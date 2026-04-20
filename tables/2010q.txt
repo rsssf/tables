@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 2010 Qualifying
-     source: https://rsssf.org/tables/2010q.html
+     title:   World Cup 2010 Qualifying
+     source:  https://rsssf.org/tables/2010q.html
+     authors: Ian King, Erik Francisco Lugo, Karel Stokkermans and Andre Zlotkowski
+     updated: 12 Sep 2013    
     -->
-  
 
 
 == World Cup 2010 Qualifying
@@ -1822,22 +1823,3 @@ AFC/OFC Playoff
 
 ‹2010 Final Tournament, see page 2010f›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Ian King, Erik Francisco Lugo,
-Karel Stokkermans and Andre Zlotkowski for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ian King, Erik Francisco Lugo, Karel Stokkermans and Andre Zlotkowski
-Last updated: 12 Sep 2013
-
-
-(C) Copyright Ian King, Erik Francisco Lugo, Karel Stokkermans, Andre Zlotkowski
-and RSSSF 2007/13
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

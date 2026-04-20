@@ -1,8 +1,9 @@
   <!--
-     title:  Togo 2025/26
-     source: https://rsssf.org/tablest/togo2026.html
+     title:   Togo 2025/26
+     source:  https://rsssf.org/tablest/togo2026.html
+     author:  Karel Stokkermans
+     updated: 2 Apr 2026    
     -->
-  
 
 
 == Togo 2025/26
@@ -260,21 +261,3 @@ Table:
 14.Espoir FC (Zio)                       19   3  8  8   9-20  17
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Apr 2026
-
-
-(C) CopyrightKarel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

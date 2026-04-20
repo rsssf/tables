@@ -1,8 +1,9 @@
   <!--
-     title:  England 2019/20
-     source: https://rsssf.org/tablese/eng2020.html
+     title:   England 2019/20
+     source:  https://rsssf.org/tablese/eng2020.html
+     author:  Karel Stokkermans
+     updated: 12 Jun 2025    
     -->
-  
 
 
 == England 2019/20
@@ -1238,23 +1239,3 @@ Final [Aug 2]
 Harrogate     3-1 Notts County
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind and Sven Baum
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 12 Jun 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2019/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

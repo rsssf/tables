@@ -1,8 +1,9 @@
   <!--
-     title:  Gambia 2025/26
-     source: https://rsssf.org/tablesg/gamb2026.html
+     title:   Gambia 2025/26
+     source:  https://rsssf.org/tablesg/gamb2026.html
+     author:  Karel Stokkermans
+     updated: 16 Mar 2026    
     -->
-  
 
 
 == Gambia 2025/26
@@ -288,21 +289,3 @@ Table:
 16.Today Makes Tomorrow FC             17   3  7  7  10-17  16
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 16 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Benin 2025/26
-     source: https://rsssf.org/tablesb/benin2026.html
+     title:   Benin 2025/26
+     source:  https://rsssf.org/tablesb/benin2026.html
+     author:  Karel Stokkermans
+     updated: 2 Apr 2026    
     -->
-  
 
 
 == Benin 2025/26
@@ -382,21 +383,3 @@ Table:
 18.Dadjè FC (Aplahoué)                         22   3  5 14  15-43  14  [C]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Apr 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

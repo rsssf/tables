@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 1982
-     source: https://rsssf.org/tables/82f.html
+     title:   World Cup 1982
+     source:  https://rsssf.org/tables/82f.html
+     authors: Karel Stokkermans and Sergio Henrique Jarreta
+     updated: 5 Jul 2018    
     -->
-  
 
 
 == World Cup 1982 (Spain, June 13-July 11)
@@ -121,22 +122,3 @@ Topscorer: Rossi (Italy) 6 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 5 Jul 2018
-
-
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2018
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

@@ -1,0 +1,22 @@
+
+
+== About this document  ‹§about›
+
+Thanks to  James Allnutt, Juan Pablo Andrés, Thomas Berse,
+Jérôme Faugeras, Francisco Fernández, Peter Godfrey, Chris McKain,
+Neil Morrison, Milad Niqui, Jarek Owsianski, Márcio Ramos,
+Erdinç Sivritepe, Martín Tabeira and Andre Zlotkowski
+for supplying additional information and corrections
+
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+Last updated: 27 Nov 2024
+
+
+(C) Copyright Karel Stokkermans
+and RSSSF 1999/2024
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

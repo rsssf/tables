@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2019/20
-     source: https://rsssf.org/tablesd/duit2020.html
+     title:   Germany 2019/20
+     source:  https://rsssf.org/tablesd/duit2020.html
+     author:  Karel Stokkermans
+     updated: 8 Oct 2020    
     -->
-  
 
 
 == Germany 2019/20
@@ -755,21 +756,3 @@ Verl            1-1 Lok Leipzig
 
 NB: SC Verl promoted
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 8 Oct 2020
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2019/20
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

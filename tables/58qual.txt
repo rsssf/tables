@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1958 qualifications
-     source: https://rsssf.org/tables/58qual.html
+     title:   World Cup 1958 qualifications
+     source:  https://rsssf.org/tables/58qual.html
+    
     -->
-  
 
 
 = World Cup 1958 qualifications

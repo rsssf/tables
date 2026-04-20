@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 2018 Qualifying
-     source: https://rsssf.org/tables/2018q.html
+     title:   World Cup 2018 Qualifying
+     source:  https://rsssf.org/tables/2018q.html
+     authors: Ian King and Karel Stokkermans
+     updated: 5 Jul 2018    
     -->
-  
 
 
 == World Cup 2018 Qualifying
@@ -1406,20 +1407,3 @@ NB: Peru qualified.
 
 ‹2018 Final Tournament, see page 2018f›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Ian King and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ian King and Karel Stokkermans
-
-Last updated: 5 Jul 2018
-
-(c) Copyright Ian King, Karel Stokkermans and RSSSF 2015/18
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2002/03
-     source: https://rsssf.org/tablesi/ital03.html
+     title:   Italy 2002/03
+     source:  https://rsssf.org/tablesi/ital03.html
+     authors: Giacomo Giusti, Francesco Gullo and Dario Desio
+     updated: 31 Aug 2003    
     -->
-  
 
 
 == Italy 2002/03
@@ -3648,24 +3649,3 @@ Group C   Tivoli 1919  Gela Juve Terranova 0-0   2-0
 ‹list of 3rd division topscorers, see page ital3tops›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Giacomo Giusti,
-Francesco Gullo and Dario Desio for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Giacomo Giusti,
-Francesco Gullo
-and Dario Desio
-Last updated: 31 Aug 2003
-
-
-(C) Copyright Giacomo Giusti, Francesco Gullo,
-Dario Desio and RSSSF 2002/03
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

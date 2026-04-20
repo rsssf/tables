@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1982 qualifications
-     source: https://rsssf.org/tables/82qual.html
+     title:   World Cup 1982 qualifications
+     source:  https://rsssf.org/tables/82qual.html
+    
     -->
-  
 
 
 = World Cup 1982 qualifications

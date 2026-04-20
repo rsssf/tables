@@ -1,8 +1,9 @@
   <!--
-     title:  Mexico 2025/26
-     source: https://rsssf.org/tablesm/mex2026.html
+     title:   Mexico 2025/26
+     source:  https://rsssf.org/tablesm/mex2026.html
+     author:  Erik Francisco Lugo
+     updated: 19 Dec 2025    
     -->
-  
 
 
 == Mexico 2025/26
@@ -105,20 +106,3 @@ Regular Stage  ‹§clreg›
 Playoffs (Liguilla)  ‹§clplay›
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Erik Francisco Lugo
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Erik Francisco Lugo
-
-Last updated: 19 Dec 2025
-
-(C) Copyright Erik Francisco Lugo and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

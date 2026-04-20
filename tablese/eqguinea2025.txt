@@ -1,8 +1,9 @@
   <!--
-     title:  Equatorial Guinea 2024/25
-     source: https://rsssf.org/tablese/eqguinea2025.html
+     title:   Equatorial Guinea 2024/25
+     source:  https://rsssf.org/tablese/eqguinea2025.html
+     author:  Karel Stokkermans
+     updated: 6 Mar 2026    
     -->
-  
 
 
 == Equatorial Guinea 2024/25
@@ -818,23 +819,3 @@ Grupo B
  8.Estrellas de Kié-Ntem     7   1  2  4   6-15   5
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to John Scoltock and Hans Schöggl
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 6 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

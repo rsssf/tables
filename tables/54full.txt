@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1954 finals
-     source: https://rsssf.org/tables/54full.html
+     title:   World Cup 1954 finals
+     source:  https://rsssf.org/tables/54full.html
+    
     -->
-  
 
 
 = World Cup 1954

@@ -1,8 +1,9 @@
   <!--
-     title:  Aruba 2025/26
-     source: https://rsssf.org/tablesa/aruba2026.html
+     title:   Aruba 2025/26
+     source:  https://rsssf.org/tablesa/aruba2026.html
+     author:  Karel Stokkermans
+     updated: 22 Mar 2026    
     -->
-  
 
 
 == Aruba 2025/26
@@ -216,21 +217,3 @@ Bubali          2-5 Dakota
 Final [Feb 13]
 La Fama         2-4 Dakota
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 22 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

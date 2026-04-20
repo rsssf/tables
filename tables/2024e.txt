@@ -1,8 +1,9 @@
   <!--
-     title:  European Championship 2024
-     source: https://rsssf.org/tables/2024e.html
+     title:   European Championship 2024
+     source:  https://rsssf.org/tables/2024e.html
+     author:  Roberto Di Maggio
+     updated: 28 Oct 2024    
     -->
-  
 
 
 == European Championship 2024
@@ -642,20 +643,3 @@ Final
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Roberto Di Maggio
-Last updated: 28 Oct 2024
-
-
-(C) Copyright Roberto Di Maggio and RSSSF 2024
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  England 2007/08
-     source: https://rsssf.org/tablese/eng08.html
+     title:   England 2007/08
+     source:  https://rsssf.org/tablese/eng08.html
+     author:  Ian King
+     updated: 21 May 2009    
     -->
-  
 
 
 == England 2007/08
@@ -4741,21 +4742,3 @@ NB: Eastbourne Borough promoted to fifth level
 ‹list of league trophy winners, see page engassmembcuphist›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Ian King for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Ian King
-
-Last updated: 21 May 2009
-
-
-(C) Copyright Ian King and RSSSF 2007/09
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2015/16
-     source: https://rsssf.org/tablesd/duit2016.html
+     title:   Germany 2015/16
+     source:  https://rsssf.org/tablesd/duit2016.html
+     author:  Karel Stokkermans
+     updated: 9 May 2019    
     -->
-  
 
 
 == Germany 2015/16
@@ -742,21 +743,3 @@ Waldhof         0-2 Lotte
 NB: FSV Zwickau, Jahn Regensburg and Sportfreunde Lotte promoted
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 9 May 2019
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2015/19
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

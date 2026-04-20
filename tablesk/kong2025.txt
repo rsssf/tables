@@ -1,8 +1,9 @@
   <!--
-     title:  Congo (Brazzaville) 2025
-     source: https://rsssf.org/tablesk/kong2025.html
+     title:   Congo (Brazzaville) 2025
+     source:  https://rsssf.org/tablesk/kong2025.html
+     author:  Karel Stokkermans
+     updated: 8 Apr 2025    
     -->
-  
 
 
 == Congo (Brazzaville) 2025
@@ -350,21 +351,3 @@ Final Table:
 Final Stage  ‹§fin›
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 8 Apr 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

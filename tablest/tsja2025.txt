@@ -1,8 +1,9 @@
   <!--
-     title:  Chad 2024/25
-     source: https://rsssf.org/tablest/tsja2025.html
+     title:   Chad 2024/25
+     source:  https://rsssf.org/tablest/tsja2025.html
+     author:  Karel Stokkermans
+     updated: 25 Apr 2025    
     -->
-  
 
 
 == Chad 2024/25
@@ -417,21 +418,3 @@ Final Table:
 14.Tourbillon FC                      26   1  7 18  15-44  10       Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 25 Apr 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

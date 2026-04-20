@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2016/17
-     source: https://rsssf.org/tablesi/ital2017.html
+     title:   Italy 2016/17
+     source:  https://rsssf.org/tablesi/ital2017.html
+     author:  Karel Stokkermans
+     updated: 31 Aug 2017    
     -->
-  
 
 
 == Italy 2016/17
@@ -910,21 +911,3 @@ Benevento       1-0 Carpi
 NB: Benevento Calcio promoted
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 31 Aug 2017
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2016/17
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

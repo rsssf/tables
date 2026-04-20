@@ -1,8 +1,9 @@
   <!--
-     title:  Anguilla 2025
-     source: https://rsssf.org/tablesa/anguilla2025.html
+     title:   Anguilla 2025
+     source:  https://rsssf.org/tablesa/anguilla2025.html
+     author:  Karel Stokkermans
+     updated: 3 Jul 2025    
     -->
-  
 
 
 == Anguilla 2025
@@ -239,21 +240,3 @@ Final Table:
 10.East Enders FC            18   3  2 13  13-25  11  [N]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 3 Jul 2025
-
-
-(C) Copyrigh Karel Stokkermans and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

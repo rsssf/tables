@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2017/18
-     source: https://rsssf.org/tablesd/duit2018.html
+     title:   Germany 2017/18
+     source:  https://rsssf.org/tablesd/duit2018.html
+     author:  Karel Stokkermans
+     updated: 9 May 2019    
     -->
-  
 
 
 == Germany 2017/18
@@ -746,23 +747,3 @@ Waldhof         awd Uerdingen       [abandoned at 1-2 in 82'; awarded 0-2]
 NB: TSV 1860 München, Energie Cottbus and KFC Uerdingen 05 promoted
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Florian Andrews for corrections
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 9 May 2019
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2017/19
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

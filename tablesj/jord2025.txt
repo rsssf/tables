@@ -1,8 +1,9 @@
   <!--
-     title:  Jordan 2024/25
-     source: https://rsssf.org/tablesj/jord2025.html
+     title:   Jordan 2024/25
+     source:  https://rsssf.org/tablesj/jord2025.html
+     author:  Karel Stokkermans
+     updated: 5 May 2025    
     -->
-  
 
 
 == Jordan 2024/25
@@ -310,21 +311,3 @@ Final Table:
 12.Mgaear Al-Sarhan            22   3  4 15  16-44  13       Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 5 May 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

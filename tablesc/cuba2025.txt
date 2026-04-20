@@ -1,8 +1,9 @@
   <!--
-     title:  Cuba 2025
-     source: https://rsssf.org/tablesc/cuba2025.html
+     title:   Cuba 2025
+     source:  https://rsssf.org/tablesc/cuba2025.html
+     author:  Karel Stokkermans
+     updated: 2 Feb 2026    
     -->
-  
 
 
 == Cuba 2025
@@ -415,23 +416,3 @@ Final  ‹§fin›
 La Habana           2-1 Santiago de Cuba
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Adri van Veen
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Feb 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

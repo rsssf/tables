@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1970 qualifications
-     source: https://rsssf.org/tables/70qual.html
+     title:   World Cup 1970 qualifications
+     source:  https://rsssf.org/tables/70qual.html
+    
     -->
-  
 
 
 = World Cup 1970 qualifications

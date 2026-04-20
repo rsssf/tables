@@ -1,8 +1,9 @@
   <!--
-     title:  Vanuatu 2024/25
-     source: https://rsssf.org/tablesv/vanuatu2025.html
+     title:   Vanuatu 2024/25
+     source:  https://rsssf.org/tablesv/vanuatu2025.html
+     author:  Karel Stokkermans
+     updated: 16 Oct 2025    
     -->
-  
 
 
 == Vanuatu 2024/25
@@ -316,21 +317,3 @@ NB: between the winners of the Super League and the Premier League
 [Apr 5]
 Galaxy                0-1 Yatel
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 16 Oct 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

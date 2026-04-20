@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 1954
-     source: https://rsssf.org/tables/54f.html
+     title:   World Cup 1954
+     source:  https://rsssf.org/tables/54f.html
+     authors: Karel Stokkermans and Sergio Henrique Jarreta
+     updated: 22 Oct 1999    
     -->
-  
 
 
 == World Cup 1954 (Switzerland, June 16-July 4)
@@ -88,22 +89,3 @@ Topscorer: Kocsis (Hungary) 11 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 22 Oct 1999
-
-
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/1999
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Nigeria 2025/26
-     source: https://rsssf.org/tablesn/nig2026.html
+     title:   Nigeria 2025/26
+     source:  https://rsssf.org/tablesn/nig2026.html
+     author:  Karel Stokkermans
+     updated: 2 Apr 2026    
     -->
-  
 
 
 == Nigeria 2025/26
@@ -561,21 +562,3 @@ NB: total goal difference -6 as both Kano Pillars and Kwara United had 3 points
     Shooting Stars in round 8 and Rivers United in round 22)
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Apr 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

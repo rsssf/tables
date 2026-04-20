@@ -1,8 +1,9 @@
   <!--
-     title:  (West) Samoa 2025
-     source: https://rsssf.org/tabless/samoa2025a.html
+     title:   (West) Samoa 2025
+     source:  https://rsssf.org/tabless/samoa2025a.html
+     author:  Karel Stokkermans
+     updated: 23 Dec 2025    
     -->
-  
 
 
 == (West) Samoa 2025
@@ -297,23 +298,3 @@ Final [Dec 13]
 Samoa Invitational   -  Savaii Invitational
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Hans Schöggl
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 23 Dec 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

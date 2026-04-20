@@ -1,8 +1,9 @@
   <!--
-     title:  Women's World Cup 2023 (Australia and New Zealand)
-     source: https://rsssf.org/tablesw/wwc2023f.html
+     title:   Women's World Cup 2023 (Australia and New Zealand)
+     source:  https://rsssf.org/tablesw/wwc2023f.html
+     author:  Roberto Di Maggio
+     updated: 20 Aug 2023    
     -->
-  
 
 
 == Women's World Cup 2023 (Australia and New Zealand)
@@ -241,21 +242,3 @@ Final
 
 ‹2019, see page wwc2019f›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Roberto Di Maggio
-
-Last updated: 20 Aug 2023
-
-
-(C) Copyright Roberto Di Maggio and RSSSF 2023
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

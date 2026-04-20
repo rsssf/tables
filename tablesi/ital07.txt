@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2006/07
-     source: https://rsssf.org/tablesi/ital07.html
+     title:   Italy 2006/07
+     source:  https://rsssf.org/tablesi/ital07.html
+     author:  Andrea Ferrigno
+     updated: 7 Sep 2007    
     -->
-  
 
 
 == Italy 2006/07
@@ -1059,22 +1060,3 @@ NB: Siena had 1 point deducted on Oct 19 due to late payment of
 ‹list of 3rd division topscorers, see page ital3tops›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Andrea Ferrigno for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author:
-Andrea Ferrigno
-
-Last updated: 7 Sep 2007
-
-
-(C) Copyright Andrea Ferrigno and RSSSF 2006/07
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

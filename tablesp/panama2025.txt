@@ -1,5 +1,5 @@
   <!--
-     title:  Panama 2025
-     source: https://rsssf.org/tablesp/panama2025.html
+     title:   Panama 2025
+     source:  https://rsssf.org/tablesp/panama2025.html
+    
     -->
-  

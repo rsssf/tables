@@ -1,8 +1,9 @@
   <!--
-     title:  England 2004/05
-     source: https://rsssf.org/tablese/eng05.html
+     title:   England 2004/05
+     source:  https://rsssf.org/tablese/eng05.html
+     authors: Ian King and Matthew Perry
+     updated: 23 Nov 2007    
     -->
-  
 
 
 == England 2004/05
@@ -5624,24 +5625,3 @@ Carlisle United            1-0 Stevenage Borough
 ‹list of league trophy winners, see page engassmembcuphist›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-With thanks to Christopher Bird and Scott McGinnis
-
-Prepared and maintained by Ian King and Matthew Perry for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ian King
-and Matthew Perry
-
-Last updated: 23 Nov 2007
-
-
-(C) Copyright Ian King, Matthew Perry and RSSSF 2004/07
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

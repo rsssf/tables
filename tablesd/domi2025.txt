@@ -1,8 +1,9 @@
   <!--
-     title:  Dominica 2025
-     source: https://rsssf.org/tablesd/domi2025.html
+     title:   Dominica 2025
+     source:  https://rsssf.org/tablesd/domi2025.html
+     author:  Karel Stokkermans
+     updated: 19 Mar 2026    
     -->
-  
 
 
 == Dominica 2025
@@ -231,21 +232,3 @@ Final Table:
 10.DS FC (Pointe Michel)                          18   1  1 16  16-89   4  [P]  Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 19 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

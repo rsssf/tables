@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 1970 Qualifying
-     source: https://rsssf.org/tables/70q.html
+     title:   World Cup 1970 Qualifying
+     source:  https://rsssf.org/tables/70q.html
+     authors: Karel Stokkermans and Sergio Henrique Jarreta
+     updated: 13 Nov 2006    
     -->
-  
 
 
 == World Cup 1970 Qualifying
@@ -274,22 +275,3 @@ North Korea withdrew.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 13 Nov 2006
-
-
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2006
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

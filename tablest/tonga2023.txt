@@ -1,8 +1,9 @@
   <!--
-     title:  Tonga 2023
-     source: https://rsssf.org/tablest/tonga2023.html
+     title:   Tonga 2023
+     source:  https://rsssf.org/tablest/tonga2023.html
+     author:  Karel Stokkermans
+     updated: 6 Nov 2023    
     -->
-  
 
 
 == Tonga 2023
@@ -40,21 +41,3 @@ Navutoka            1-3 Veitongo
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 6 Nov 2023
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2023
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

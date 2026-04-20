@@ -1,8 +1,9 @@
   <!--
-     title:  French Guyana 2024/25
-     source: https://rsssf.org/tablesf/frguy2025.html
+     title:   French Guyana 2024/25
+     source:  https://rsssf.org/tablesf/frguy2025.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 4 Jul 2025    
     -->
-  
 
 
 == French Guyana 2024/25
@@ -232,21 +233,3 @@ Final Table:
  5.RC du Maroni 2        9   2  2  5  19-32  17
  6.ASC Ouest 2           9   1  1  7  12-40  11  [-2]
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hans Schöggl and Karel Stokkermans
-
-Last updated: 4 Jul 2025
-
-
-(C) Copyright Hans Schöggl, Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

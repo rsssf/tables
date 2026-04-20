@@ -1,8 +1,9 @@
   <!--
-     title:  Tajikistan 2026
-     source: https://rsssf.org/tablest/taji2026.html
+     title:   Tajikistan 2026
+     source:  https://rsssf.org/tablest/taji2026.html
+     author:  Theodore Dreiman
+     updated: 24 Mar 2026    
     -->
-  
 
 
 == Tajikistan 2026
@@ -307,21 +308,3 @@ Istiqlol     -  Istaravshan
 Regar-TadAZ  -  Sardor
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Theodore Dreiman
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Theodore Dreiman
-
-Last updated: 24 Mar 2026
-
-
-(C) Copyright Theodore Dreiman and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

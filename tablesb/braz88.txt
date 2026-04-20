@@ -1,8 +1,9 @@
   <!--
-     title:  Brazil 1988<
-     source: https://rsssf.org/tablesb/braz88.html
+     title:   Brazil 1988
+     source:  https://rsssf.org/tablesb/braz88.html
+     authors: Ricardo Pontes and Marcelo Leme de Arruda
+     updated: 2 Apr 2005    
     -->
-  
 
 
 == Brazil 1988
@@ -1965,25 +1966,3 @@ clubs.
 ‹list of 2nd division champions, see page braz2champ›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-‹Source, see page ../sources›: [pla].
-
-Prepared and maintained by Ricardo Pontes and Marcelo Leme de Arruda
-for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ricardo Pontes and Marcelo Leme de Arruda
-
-Last updated: 2 Apr 2005
-
-
-(C) Copyright Ricardo Pontes, Marcelo Leme de Arruda and RSSSF 1999/2005
-
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

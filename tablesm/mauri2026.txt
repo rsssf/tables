@@ -1,8 +1,9 @@
   <!--
-     title:  Mauritius 2025/26
-     source: https://rsssf.org/tablesm/mauri2026.html
+     title:   Mauritius 2025/26
+     source:  https://rsssf.org/tablesm/mauri2026.html
+     author:  Karel Stokkermans
+     updated: 16 Mar 2026    
     -->
-  
 
 
 == Mauritius 2025/26
@@ -172,21 +173,3 @@ Table:
 10.Pointe-aux-Sables Mates SC             14   0  1 13   8-50   1       Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 16 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

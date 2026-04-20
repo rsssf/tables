@@ -1,8 +1,9 @@
   <!--
-     title:  Northern Ireland 2024/25
-     source: https://rsssf.org/tablesn/nil2025.html
+     title:   Northern Ireland 2024/25
+     source:  https://rsssf.org/tablesn/nil2025.html
+     author:  Karel Stokkermans
+     updated: 3 May 2025    
     -->
-  
 
 
 == Northern Ireland 2024/25
@@ -496,23 +497,3 @@ Final Table:
 12.Loughgall             38   5  7 26  36-85  22       Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 3 May 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Gozo 2024/25
-     source: https://rsssf.org/tablesg/gozo2025.html
+     title:   Gozo 2024/25
+     source:  https://rsssf.org/tablesg/gozo2025.html
+     author:  Karel Stokkermans
+     updated: 9 Oct 2025    
     -->
-  
 
 
 == Gozo 2024/25
@@ -270,21 +271,3 @@ Table:
  6.Għarb Rangers                13   1  2 10  15-41   5
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 9 Oct 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

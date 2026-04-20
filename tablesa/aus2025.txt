@@ -1,8 +1,9 @@
   <!--
-     title:  Australia 2024/25
-     source: https://rsssf.org/tablesa/aus2025.html
+     title:   Australia 2024/25
+     source:  https://rsssf.org/tablesa/aus2025.html
+     authors: Adri van Veen and Karel Stokkermans
+     updated: 19 Dec 2025    
     -->
-  
 
 
 == Australia 2024/25
@@ -1301,21 +1302,3 @@ Final Table:
 11. South Perth United       22   5  3 14  36-73  18
 12. Peel United              22   1  1 20  13-98   4
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Adri van Veen and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Adri van Veen and Karel Stokkermans
-
-Last updated: 19 Dec 2025
-
-
-(C) Copyright Adri van Veen, Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Guinea Bissau 2025/26
-     source: https://rsssf.org/tablesg/gbis2026.html
+     title:   Guinea Bissau 2025/26
+     source:  https://rsssf.org/tablesg/gbis2026.html
+     author:  José Batalha
+     updated: 9 Apr 2026    
     -->
-  
 
 
 == Guinea Bissau 2025/26
@@ -404,21 +405,3 @@ Série C
  8.Estrela Negra Bolama    3   0  1  2   0- 3   1
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by José Batalha
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: José Batalha
-
-Last updated: 9 Apr 2026
-
-
-(C) Copyright José Batalha and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

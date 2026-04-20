@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1974 qualifications
-     source: https://rsssf.org/tables/74qual.html
+     title:   World Cup 1974 qualifications
+     source:  https://rsssf.org/tables/74qual.html
+    
     -->
-  
 
 
 = World Cup 1974 qualifications

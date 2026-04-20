@@ -1,8 +1,9 @@
   <!--
-     title:  Sierra Leone 2025/26
-     source: https://rsssf.org/tabless/sier2026.html
+     title:   Sierra Leone 2025/26
+     source:  https://rsssf.org/tabless/sier2026.html
+     author:  Karel Stokkermans
+     updated: 16 Mar 2026    
     -->
-  
 
 
 == Sierra Leone 2025/26
@@ -389,23 +390,3 @@ Table:
 18.Luawa                19   2  8  9  11-24  14
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Hans Schöggl
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 16 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

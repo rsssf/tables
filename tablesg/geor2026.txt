@@ -1,8 +1,9 @@
   <!--
-     title:  Georgia 2026
-     source: https://rsssf.org/tablesg/geor2026.html
+     title:   Georgia 2026
+     source:  https://rsssf.org/tablesg/geor2026.html
+     author:  Theodore Dreiman
+     updated: 7 Apr 2026    
     -->
-  
 
 
 == Georgia 2026
@@ -2008,21 +2009,3 @@ Odishi-2      -  Sapovnela
 PROMOTION PLAYOFF  ‹§5prom›
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Theodore Dreiman for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Theodore Dreiman
-
-Last updated: 7 Apr 2026
-
-
-(C) Copyright Theodore Dreiman and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

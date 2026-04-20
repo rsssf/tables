@@ -1,8 +1,9 @@
   <!--
-     title:  Somalia 2025/26
-     source: https://rsssf.org/tabless/soma2026.html
+     title:   Somalia 2025/26
+     source:  https://rsssf.org/tabless/soma2026.html
+     author:  Karel Stokkermans
+     updated: 16 Feb 2026    
     -->
-  
 
 
 == Somalia 2025/26
@@ -118,21 +119,3 @@ Final [Feb 2]
 Muqdisho City      3-2 Horseed            [aet]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 16 Feb 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

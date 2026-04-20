@@ -1,8 +1,9 @@
   <!--
-     title:  England 2006/07
-     source: https://rsssf.org/tablese/eng07.html
+     title:   England 2006/07
+     source:  https://rsssf.org/tablese/eng07.html
+     author:  Ian King
+     updated: 22 Aug 2008    
     -->
-  
 
 
 == England 2006/07
@@ -4268,23 +4269,3 @@ Salisbury City          1-0 Braintree Town
 ‹list of league trophy winners, see page engassmembcuphist›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Dinant Abbink
-
-Prepared and maintained by Ian King for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Ian King
-
-Last updated: 22 Aug 2008
-
-
-(C) Copyright Ian King and RSSSF 2006/08
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

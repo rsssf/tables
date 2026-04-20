@@ -1,8 +1,9 @@
   <!--
-     title:  England 2020/21
-     source: https://rsssf.org/tablese/eng2021.html
+     title:   England 2020/21
+     source:  https://rsssf.org/tablese/eng2021.html
+     author:  Ian King
+     updated: 15 Jun 2025    
     -->
-  
 
 
 == England 2020/21
@@ -1098,23 +1099,3 @@ Torquay       1-1 Hartlepool    [aet, 4-5 pen]
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind and Sven Baum
-
-Prepared and maintained by Ian King
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Ian King
-
-Last updated: 15 Jun 2025
-
-
-(C) Copyright Ian King and RSSSF 2020/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

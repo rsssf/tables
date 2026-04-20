@@ -1,8 +1,9 @@
   <!--
-     title:  Sweden 2026
-     source: https://rsssf.org/tablesz/zwed2026.html
+     title:   Sweden 2026
+     source:  https://rsssf.org/tablesz/zwed2026.html
+     author:  Martin Arenlind
+     updated: 23 Feb 2026    
     -->
-  
 
 
 == Sweden 2026
@@ -377,21 +378,3 @@ Norrland - Relegation Group
 Starts in July
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Martin Arenlind for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Martin Arenlind
-
-Last updated: 23 Feb 2026
-
-
-(C) Copyright Martin Arenlind and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

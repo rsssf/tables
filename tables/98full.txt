@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1998 finals
-     source: https://rsssf.org/tables/98full.html
+     title:   World Cup 1998 finals
+     source:  https://rsssf.org/tables/98full.html
+    
     -->
-  
 
 
 = World Cup 1998

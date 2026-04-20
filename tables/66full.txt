@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1966 finals
-     source: https://rsssf.org/tables/66full.html
+     title:   World Cup 1966 finals
+     source:  https://rsssf.org/tables/66full.html
+    
     -->
-  
 
 
 = World Cup 1966

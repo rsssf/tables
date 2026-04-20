@@ -1,8 +1,9 @@
   <!--
-     title:  Kosovo 2024/25
-     source: https://rsssf.org/tablesk/kosovo2025.html
+     title:   Kosovo 2024/25
+     source:  https://rsssf.org/tablesk/kosovo2025.html
+     author:  Karel Stokkermans
+     updated: 26 May 2025    
     -->
-  
 
 
 == Kosovo 2024/25
@@ -394,21 +395,3 @@ Final Table:
  9.Suhareka (Suharekë)          36  12  7 17  49-62  43  [P]  Relegated
 10.Feronikeli (Drenas)          36   3  6 27  24-64  15       Relegated
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 26 May 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

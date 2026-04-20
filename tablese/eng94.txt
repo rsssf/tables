@@ -1,8 +1,9 @@
   <!--
-     title:  England 1993/94
-     source: https://rsssf.org/tablese/eng94.html
+     title:   England 1993/94
+     source:  https://rsssf.org/tablese/eng94.html
+     author:  Michael Heneghan
+     updated: 7 Jul 2004    
     -->
-  
 
 
 == England 1993/94
@@ -1236,21 +1237,3 @@ Pos Team                  P   W   D   L   F   A  GD Pts
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Michael Heneghan
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Michael Heneghan
-
-Last updated: 7 Jul 2004
-
-
-(C) Copyright Michael Heneghan and RSSSF 2004
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Mexico 2024/25
-     source: https://rsssf.org/tablesm/mex2025.html
+     title:   Mexico 2024/25
+     source:  https://rsssf.org/tablesm/mex2025.html
+     author:  Erik Francisco Lugo
+     updated: 19 Dec 2025    
     -->
-  
 
 
 == Mexico 2024/25
@@ -1962,22 +1963,3 @@ Lázaro Cardenas  1-2 Leones Naranjas
 
 NB: Leones Naranjas FC promoted to Tercera Division
 
-
-
-
-
-== About this document  ‹§about›
-
-Information on fourth level thanks to Hans Schöggl
-
-Prepared and maintained by Erik Francisco Lugo
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Erik Francisco Lugo
-
-Last updated: 19 Dec 2025
-
-(C) Copyright Erik Francisco Lugo and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

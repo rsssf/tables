@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1998 qualifications
-     source: https://rsssf.org/tables/98qual.html
+     title:   World Cup 1998 qualifications
+     source:  https://rsssf.org/tables/98qual.html
+    
     -->
-  
 
 
 = World Cup 1998 qualifications

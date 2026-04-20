@@ -1,8 +1,9 @@
   <!--
-     title:  Bougainville 2025
-     source: https://rsssf.org/tablesp/png-bgv2025.html
+     title:   Bougainville 2025
+     source:  https://rsssf.org/tablesp/png-bgv2025.html
+     author:  Karel Stokkermans
+     updated: 23 Sep 2025    
     -->
-  
 
 
 == Bougainville 2025
@@ -135,23 +136,3 @@ Final [Sep 21]
 Bougainville United  0-1 Poraka
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Main source: ‹Arawa FootBall Association›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 23 Sep 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

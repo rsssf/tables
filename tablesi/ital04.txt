@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2003/04
-     source: https://rsssf.org/tablesi/ital04.html
+     title:   Italy 2003/04
+     source:  https://rsssf.org/tablesi/ital04.html
+     authors: Andrea Ferrigno and Giacomo Giusti
+     updated: 19 Aug 2005    
     -->
-  
 
 
 == Italy 2003/04
@@ -4840,27 +4841,3 @@ position in regular season
 ‹list of 3rd division topscorers, see page ital3tops›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Antonio Zea for cup data and to
-Gurgen Mahari
-for scorers list 2nd and 3rd levels
-
-Prepared and maintained by Andrea Ferrigno and
-Giacomo Giusti for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors:
-Andrea Ferrigno and Giacomo Giusti
-
-Last updated: 19 Aug 2005
-
-
-(C) Copyright Andrea Ferrigno, Giacomo Giusti and RSSSF 2003/05
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Israel 2024/25
-     source: https://rsssf.org/tablesi/isra2025.html
+     title:   Israel 2024/25
+     source:  https://rsssf.org/tablesi/isra2025.html
+     authors: Roberto Di Maggio and Karel Stokkermans
+     updated: 26 May 2025    
     -->
-  
 
 
 == Israel 2024/25
@@ -612,21 +613,3 @@ Final [Dec 25]
 Maccabi Tel Aviv            3-1 Maccabi Haifa
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio and Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Roberto Di Maggio and Karel Stokkermans
-
-Last updated: 26 May 2025
-
-
-(C) Copyright Roberto Di Maggio, Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 2002 - Match Details
-     source: https://rsssf.org/tables/2002full.html
+     title:   World Cup 2002 - Match Details
+     source:  https://rsssf.org/tables/2002full.html
+     author:  Erlan Manaschev
+     updated: 3 Jul 2008    
     -->
-  
 
 
 == World Cup 2002 - Match Details
@@ -2281,28 +2282,3 @@ FIFA Fair Play Trophy - Belgium
 
 ‹overview 2002 final tournament, see page 2002f›
 
-
-
-
-
-== About this document  ‹§about›
-
-With thanks to Neil Morrison
-for adding squads, special characters and improving lay-out,
-to Thomas Søfting
-for oldest/youngest info,
-and to Roberto Di Maggio
-for awards info
-
-Prepared and maintained by Erlan Manaschev
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Erlan Manaschev
-
-Last updated: 3 Jul 2008
-
-
-(C) Copyright Erlan Manaschev and RSSSF 2003/08
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

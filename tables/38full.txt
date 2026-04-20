@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1938 finals
-     source: https://rsssf.org/tables/38full.html
+     title:   World Cup 1938 finals
+     source:  https://rsssf.org/tables/38full.html
+    
     -->
-  
 
 
 = World Cup 1938 finals

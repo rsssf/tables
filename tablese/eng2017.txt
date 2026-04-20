@@ -1,8 +1,9 @@
   <!--
-     title:  England 2016/17
-     source: https://rsssf.org/tablese/eng2017.html
+     title:   England 2016/17
+     source:  https://rsssf.org/tablese/eng2017.html
+     authors: Roberto Di Maggio and Karel Stokkermans
+     updated: 14 Jan 2021    
     -->
-  
 
 
 == England 2016/17
@@ -1237,23 +1238,3 @@ Final [May 14]
 Tranmere      1-3 Forest Green
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Roberto Di Maggio and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Roberto Di Maggio and Karel Stokkermans
-
-Last updated: 14 Jan 2021
-
-
-(C) Copyright Roberto Di Maggio, Karel Stokkermans and RSSSF 2016/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

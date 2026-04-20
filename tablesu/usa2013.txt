@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2013
-     source: https://rsssf.org/tablesu/usa2013.html
+     title:   USA 2013
+     source:  https://rsssf.org/tablesu/usa2013.html
+     author:  Karel Stokkermans
+     updated: 25 Feb 2021    
     -->
-  
 
 
 == USA 2013
@@ -628,23 +629,3 @@ Final [Oct 1, Rio Tinto Stadium, Sandy, Utah]
 Real Salt Lake         0-1 DC United
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 25 Feb 2021
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2013/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

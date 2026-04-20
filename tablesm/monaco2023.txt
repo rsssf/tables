@@ -1,8 +1,9 @@
   <!--
-     title:  Monaco 2022/23
-     source: https://rsssf.org/tablesm/monaco2023.html
+     title:   Monaco 2022/23
+     source:  https://rsssf.org/tablesm/monaco2023.html
+     author:  Carlos Santos
+     updated: 21 Sep 2023    
     -->
-  
 
 
 == Monaco 2022/23
@@ -133,23 +134,3 @@ NB: as winners of the Challence Prince Rainier III 2023, M.I. Monaco S.A.M. qual
     the champions of Côte d'Azur 2023
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Source: http://www.cocpr3.com/
-
-Prepared and maintained by Carlos Santos for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Carlos Santos
-
-Last updated: 21 Sep 2023
-
-
-(C) Copyright Carlos Santos and RSSSF 2023
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

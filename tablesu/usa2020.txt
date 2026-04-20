@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2020
-     source: https://rsssf.org/tablesu/usa2020.html
+     title:   USA 2020
+     source:  https://rsssf.org/tablesu/usa2020.html
+     author:  Karel Stokkermans
+     updated: 12 May 2021    
     -->
-  
 
 
 == USA 2020
@@ -801,21 +802,3 @@ Final [Aug 11]
 Orlando City SC        1-2 Portland Timbers
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 12 May 2021
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2020/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

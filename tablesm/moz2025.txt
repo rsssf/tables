@@ -1,8 +1,9 @@
   <!--
-     title:  Mozambique 2025
-     source: https://rsssf.org/tablesm/moz2025.html
+     title:   Mozambique 2025
+     source:  https://rsssf.org/tablesm/moz2025.html
+     author:  José Batalha
+     updated: 21 Mar 2026    
     -->
-  
 
 
 == Mozambique 2025
@@ -4577,21 +4578,3 @@ Final table:
  ..Real 25 de Milange                 DISQUALIFIED     [8 1-1-6 5-15 4] [A]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by José Batalha for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: José Batalha
-
-Last updated: 21 Mar 2026
-
-
-(C) Copyright José Batalha and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2019
-     source: https://rsssf.org/tablesu/usa2019.html
+     title:   USA 2019
+     source:  https://rsssf.org/tablesu/usa2019.html
+     author:  Karel Stokkermans
+     updated: 12 Mar 2020    
     -->
-  
 
 
 == USA 2019
@@ -756,21 +757,3 @@ Minnesota United                2-1 Portland Timbers
 Final [Aug 27, Mercedes-Benz Stadium, Atlanta, Georgia]
 Atlanta United FC               2-1 Minnesota United FC
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 12 Mar 2020
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2019/20
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

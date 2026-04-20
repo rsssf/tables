@@ -1,8 +1,9 @@
   <!--
-     title:  Netherlands 2025/26
-     source: https://rsssf.org/tablesn/ned2026.html
+     title:   Netherlands 2025/26
+     source:  https://rsssf.org/tablesn/ned2026.html
+     author:  Karel Stokkermans
+     updated: 7 Apr 2026    
     -->
-  
 
 
 == Netherlands 2025/26
@@ -481,21 +482,3 @@ Conference League Playoff  ‹§1eur›
 Nacompetitie  ‹§2nac›
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 7 Apr 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

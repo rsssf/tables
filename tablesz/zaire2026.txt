@@ -1,8 +1,9 @@
   <!--
-     title:  Congo-Kinshasa (DR Congo) 2025/26
-     source: https://rsssf.org/tablesz/zaire2026.html
+     title:   Congo-Kinshasa (DR Congo) 2025/26
+     source:  https://rsssf.org/tablesz/zaire2026.html
+     author:  Karel Stokkermans
+     updated: 2 Apr 2026    
     -->
-  
 
 
 == Congo-Kinshasa (DR Congo) 2024/25
@@ -789,23 +790,3 @@ NB: on Feb 14, DC Motema Pembe had 24 points deducted by FIFA decision
 [*3] these clubs from Eastern Congo play home matches in Kindu or Kinshasa
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Apr 2026
-
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

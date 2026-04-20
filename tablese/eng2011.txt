@@ -1,8 +1,9 @@
   <!--
-     title:  England 2010/11
-     source: https://rsssf.org/tablese/eng2011.html
+     title:   England 2010/11
+     source:  https://rsssf.org/tablese/eng2011.html
+     authors: Ian King, Karel Stokkermans and Jan Schoenmakers
+     updated: 5 Feb 2015    
     -->
-  
 
 
 == England 2010/11
@@ -910,23 +911,3 @@ Wimbledon     0-0 Luton         [aet, 4-3 pen]
 NB: AFC Wimbledon promoted
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Ian Kay for a correction
-
-Prepared and maintained by Ian King, Karel Stokkermans and Jan Schoenmakers for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ian King, Karel Stokkermans and Jan Schoenmakers
-
-Last updated: 5 Feb 2015
-
-
-(C) Copyright Ian King, Karel Stokkermans, Jan Schoenmakers and RSSSF 2010/15
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

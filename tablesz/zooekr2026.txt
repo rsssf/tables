@@ -1,8 +1,9 @@
   <!--
-     title:  Crimea and South Eastern Ukraine 2026
-     source: https://rsssf.org/tablesz/zooekr2026.html
+     title:   Crimea and South Eastern Ukraine 2026
+     source:  https://rsssf.org/tablesz/zooekr2026.html
+     author:  Theodore Dreiman
+     updated: 7 Apr 2026    
     -->
-  
 
 
 == Crimea and South Eastern Ukraine 2026
@@ -430,25 +431,3 @@ Top scorers:
 5.Nikoláj Piskovój (Šahtjór-2)    6
 6.Nikíta Dómnin (Šahtjór-2)       5
 
-
-
-
-
-== About this document  ‹§about›
-
-NB: neither the Donetsk PR nor the Lugansk PR is recognised by UEFA or FIFA, nor
-is the separation of Crimea from Ukraine;
-inclusion of results here exclusively serves football statistical purposes
-
-Prepared and maintained by Theodore Dreiman
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Theodore Dreiman
-
-Last updated: 7 Apr 2026
-
-
-(C) Copyright Theodore Dreiman and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

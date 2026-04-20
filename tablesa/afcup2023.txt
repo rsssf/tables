@@ -1,8 +1,9 @@
   <!--
-     title:  African Club Competitions 2022/23
-     source: https://rsssf.org/tablesa/afcup2023.html
+     title:   African Club Competitions 2022/23
+     source:  https://rsssf.org/tablesa/afcup2023.html
+     author:  Karel Stokkermans
+     updated: 19 Sep 2023    
     -->
-  
 
 
 == African Club Competitions 2022/23
@@ -387,21 +388,3 @@ Young Africans           Tan  USM Alger                Alg   1-2  1-0  2-2*
 Final (Sep 15, Taif (Saudi Arabia))
 Al-Ahly (Cairo)          Egy  USM Alger                Alg   0-1
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 19 Sep 2023
-
-
-(c) Copyright Karel Stokkermans and RSSSF 2022/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

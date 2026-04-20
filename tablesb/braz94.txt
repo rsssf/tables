@@ -1,8 +1,9 @@
   <!--
-     title:  Brazilian Championship 1994
-     source: https://rsssf.org/tablesb/braz94.html
+     title:   Brazilian Championship 1994
+     source:  https://rsssf.org/tablesb/braz94.html
+     authors: Ricardo Pontes and Marcelo Leme de Arruda
+     updated: 27 Jul 1999    
     -->
-  
 
 
 == Brazilian Championship 1994
@@ -2222,23 +2223,3 @@ Novorizontino and Ferroviária promoted.
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-‹Source, see page ../sources›: [pla].
-
-Prepared and maintained by Ricardo Pontes and Marcelo Leme de Arruda
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ricardo Pontes
-and Marcelo Leme de Arruda
-Last updated: 27 Jul 1999
-
-
-(C) Copyright Ricardo Pontes, Marcelo Leme de Arruda and RSSSF 1999
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

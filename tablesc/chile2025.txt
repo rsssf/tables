@@ -1,8 +1,9 @@
   <!--
-     title:  Chile 2025
-     source: https://rsssf.org/tablesc/chile2025.html
+     title:   Chile 2025
+     source:  https://rsssf.org/tablesc/chile2025.html
+     author:  Karel Stokkermans
+     updated: 19 Dec 2025    
     -->
-  
 
 
 == Chile 2025
@@ -176,21 +177,3 @@ Cobreloa             2-3 Dep. Concepción
 
 NB: Deportes Concepción promoted
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 19 Dec 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

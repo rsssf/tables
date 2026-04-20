@@ -1,8 +1,9 @@
   <!--
-     title:  Slovenia 2024/25
-     source: https://rsssf.org/tabless/slov2025.html
+     title:   Slovenia 2024/25
+     source:  https://rsssf.org/tabless/slov2025.html
+     author:  Karel Stokkermans
+     updated: 26 May 2025    
     -->
-  
 
 
 == Slovenia 2024/25
@@ -409,21 +410,3 @@ Final Table:
 10.Nafta 1903 (Lendava)         36   6 10 20  33-69  28  [P]  Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 26 May 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

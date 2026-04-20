@@ -1,8 +1,9 @@
   <!--
-     title:  African Nations Cup 2025/26
-     source: https://rsssf.org/tables/2025a.html
+     title:   African Nations Cup 2025/26
+     source:  https://rsssf.org/tables/2025a.html
+     author:  Roberto Di Maggio
+     updated: 19 Mar 2026    
     -->
-  
 
 
 == African Nations Cup 2025/26
@@ -461,20 +462,3 @@ NB: on 17- 3-2026, the CAF Appeal Board awarded the match as a 3-0 win to Morocc
     which Brahim Diaz missed the penalty and Senegal won in extra time.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Roberto Di Maggio
-Last updated: 19 Mar 2026
-
-
-(C) Copyright Roberto Di Maggio and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

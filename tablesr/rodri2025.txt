@@ -1,8 +1,9 @@
   <!--
-     title:  Rodrigues 2024/25
-     source: https://rsssf.org/tablesr/rodri2025.html
+     title:   Rodrigues 2024/25
+     source:  https://rsssf.org/tablesr/rodri2025.html
+     author:  Hans Schöggl
+     updated: 16 Oct 2025    
     -->
-  
 
 
 == Rodrigues 2024/25
@@ -174,24 +175,3 @@ Final Table:
  5.Baie Topaze West Striker    10   3  3  4  23-22  12
  6.Lataniers SC                10   2  5  3  20-23  11
 
-
-
-
-
-== About this document  ‹§about›
-
-Sources: https://www.facebook.com/profile.php?id=100090243157571,
-https://mauri.leaguerepublic.com/displayCompetition/488285305/470188368/982881738/1.html
-
-Prepared and maintained by Hans Schöggl for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Hans Schöggl
-
-Last updated: 16 Oct 2025
-
-
-(C) Copyright Hans Schöggl and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

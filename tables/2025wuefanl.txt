@@ -1,8 +1,9 @@
   <!--
-     title:  UEFA Women's Nations League 2025
-     source: https://rsssf.org/tables/2025wuefanl.html
+     title:   UEFA Women's Nations League 2025
+     source:  https://rsssf.org/tables/2025wuefanl.html
+     author:  Roberto Di Maggio
+     updated: 8 Jan 2026    
     -->
-  
 
 
 == UEFA Women's Nations League 2025
@@ -348,20 +349,3 @@ League B - League C  ‹§prbc›
 
 All teams remained in their respective leagues
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Roberto Di Maggio
-Last updated: 8 Jan 2026
-
-
-(C) Copyright Roberto Di Maggio and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

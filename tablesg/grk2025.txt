@@ -1,8 +1,9 @@
   <!--
-     title:  Greece 2024/25
-     source: https://rsssf.org/tablesg/grk2025.html
+     title:   Greece 2024/25
+     source:  https://rsssf.org/tablesg/grk2025.html
+     author:  Karel Stokkermans
+     updated: 26 May 2025    
     -->
-  
 
 
 == Greece 2024/25
@@ -544,21 +545,3 @@ Final Table:
 14.PAS Lamia               36   4  8 24  21-64  20       Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 26 May 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

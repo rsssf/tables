@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2013/14
-     source: https://rsssf.org/tablesd/duit2014.html
+     title:   Germany 2013/14
+     source:  https://rsssf.org/tablesd/duit2014.html
+     author:  Karel Stokkermans
+     updated: 2 Aug 2018    
     -->
-  
 
 
 == Germany 2013/14
@@ -718,21 +719,3 @@ Wolfsburg II    0-1 Großaspach
 NB: 1.FSV Mainz 05 II, Fortuna Köln and SG Sonnenhof Großaspach promoted
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Aug 2018
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2013/18
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

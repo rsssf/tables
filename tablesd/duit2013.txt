@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2012/13
-     source: https://rsssf.org/tablesd/duit2013.html
+     title:   Germany 2012/13
+     source:  https://rsssf.org/tablesd/duit2013.html
+     author:  Karel Stokkermans
+     updated: 2 Aug 2018    
     -->
-  
 
 
 == Germany 2012/13
@@ -1248,21 +1249,3 @@ Kassel          1-2 Kiel
 
 NB: RB Leipzig, Holstein Kiel and Elversberg promoted
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Aug 2018
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2012/18
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

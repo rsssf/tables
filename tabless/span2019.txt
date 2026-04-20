@@ -1,8 +1,9 @@
   <!--
-     title:  Spain 2018/19
-     source: https://rsssf.org/tabless/span2019.html
+     title:   Spain 2018/19
+     source:  https://rsssf.org/tabless/span2019.html
+     author:  Karel Stokkermans
+     updated: 28 Jan 2021    
     -->
-  
 
 
 == Spain 2018/19
@@ -913,23 +914,3 @@ Mallorca                  3-0 Deportivo
 
 NB: RCD Mallorca promoted
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 28 Jan 2021
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2018/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

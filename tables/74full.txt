@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1974 finals
-     source: https://rsssf.org/tables/74full.html
+     title:   World Cup 1974 finals
+     source:  https://rsssf.org/tables/74full.html
+    
     -->
-  
 
 
 = World Cup 1974 finals

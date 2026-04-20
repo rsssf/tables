@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 1965/66
-     source: https://rsssf.org/tablesd/duit66.html
+     title:   Germany 1965/66
+     source:  https://rsssf.org/tablesd/duit66.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001    
     -->
-  
 
 
 == Germany 1965/66
@@ -593,24 +594,3 @@ TSV 1860 München 1965/66
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-With thanks to Gerd Heuser
-
-Prepared and maintained by Gwidon Naskrent
-for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author:
-Gwidon Naskrent
-
-Last updated: 1 Apr 2001
-
-(c) Copyright Gwidon Naskrent and RSSSF 2000/01
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2011/12
-     source: https://rsssf.org/tablesd/duit2012.html
+     title:   Germany 2011/12
+     source:  https://rsssf.org/tablesd/duit2012.html
+     author:  Karel Stokkermans
+     updated: 23 Sep 2021    
     -->
-  
 
 
 == Germany 2011/12
@@ -218,21 +219,3 @@ Final Table:
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 23 Sep 2021
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2012/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

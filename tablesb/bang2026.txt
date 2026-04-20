@@ -1,8 +1,9 @@
   <!--
-     title:  Bangladesh 2025/26
-     source: https://rsssf.org/tablesb/bang2026.html
+     title:   Bangladesh 2025/26
+     source:  https://rsssf.org/tablesb/bang2026.html
+     author:  Karel Stokkermans
+     updated: 23 Dec 2025    
     -->
-  
 
 
 == Bangladesh 2025/26
@@ -123,21 +124,3 @@ Table:
 10.Fakirerpool Young Men's Club (Dhaka)  7   1  2  4   4-14   5
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 23 Dec 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

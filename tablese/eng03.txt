@@ -1,8 +1,9 @@
   <!--
-     title:  England 2002/03
-     source: https://rsssf.org/tablese/eng03.html
+     title:   England 2002/03
+     source:  https://rsssf.org/tablese/eng03.html
+     authors: Ian King, Matthew Perry and Markus Soleim
+     updated: 15 Feb 2006    
     -->
-  
 
 
 == England 2002/03
@@ -4837,26 +4838,3 @@ Doncaster Rovers promoted to Fourth Level
 ‹list of league trophy winners, see page engassmembcuphist›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-With thanks to Christopher Bird
-
-Prepared and maintained by Ian King, Matthew Perry
-and Markus Soleim for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ian King,
-Matthew Perry
-and Markus Soleim
-
-Last updated: 15 Feb 2006
-
-
-(C) Copyright Ian King, Matthew Perry, Markus Soleim and RSSSF 2002/06
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

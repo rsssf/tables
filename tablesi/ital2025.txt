@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2024/25
-     source: https://rsssf.org/tablesi/ital2025.html
+     title:   Italy 2024/25
+     source:  https://rsssf.org/tablesi/ital2025.html
+     authors: Roberto Di Maggio and Karel Stokkermans
+     updated: 10 Jun 2025    
     -->
-  
 
 
 == Italy 2024/25
@@ -792,21 +793,3 @@ Bologna         1-0 Milan
   [Ndoye 53]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Roberto Di Maggio and Karel Stokkermans
-
-Last updated: 10 Jun 2025
-
-
-(C) Copyright Roberto Di Maggio, Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

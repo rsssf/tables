@@ -1,8 +1,9 @@
   <!--
-     title:  Guam 2025
-     source: https://rsssf.org/tablesg/guam2025.html
+     title:   Guam 2025
+     source:  https://rsssf.org/tablesg/guam2025.html
+     author:  Karel Stokkermans
+     updated: 12 Oct 2025    
     -->
-  
 
 
 == Guam 2025
@@ -334,21 +335,3 @@ Final Table:
  6.Dededo SC                       12   4  1  7  20-48  13
  7.Guam Shipyard II                12   0  0 12   9-74   0
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 12 Oct 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

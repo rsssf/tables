@@ -1,0 +1,18 @@
+
+
+== About this document  ‹§about›
+
+Source: Moldovan Football Federation (fmf.md)
+
+Prepared and maintained by Theodore Dreiman
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Theodore Dreiman
+
+Last updated: 7 Apr 2026
+
+
+(C) Copyright Theodore Dreiman and RSSSF 2025/26
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

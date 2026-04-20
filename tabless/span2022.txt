@@ -1,8 +1,9 @@
   <!--
-     title:  Spain 2021/22
-     source: https://rsssf.org/tabless/span2022.html
+     title:   Spain 2021/22
+     source:  https://rsssf.org/tabless/span2022.html
+     author:  Karel Stokkermans
+     updated: 28 Jun 2023    
     -->
-  
 
 
 == Spain 2021/22
@@ -811,21 +812,3 @@ Promoted from 4th level: AD Ceuta FC, Córdoba CF, CD Eldense, CF Intercity (Ali
                          CA Osasuna B (Pamplona), Pontevedra CF
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 28 Jun 2023
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2021/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

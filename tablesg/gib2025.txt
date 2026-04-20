@@ -1,8 +1,9 @@
   <!--
-     title:  Gibraltar 2024/25
-     source: https://rsssf.org/tablesg/gib2025.html
+     title:   Gibraltar 2024/25
+     source:  https://rsssf.org/tablesg/gib2025.html
+     author:  Karel Stokkermans
+     updated: 5 May 2025    
     -->
-  
 
 
 == Gibraltar 2024/25
@@ -353,21 +354,3 @@ Final Table:
  5.FC Bruno's Magpies         25  12  1 12  52-38  37
  6.Lions Gibraltar FC         25   8  4 13  35-49  28
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 5 May 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

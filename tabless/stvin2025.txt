@@ -1,8 +1,9 @@
   <!--
-     title:  Saint Vincent and the Grenadines 2024/25
-     source: https://rsssf.org/tabless/stvin2025.html
+     title:   Saint Vincent and the Grenadines 2024/25
+     source:  https://rsssf.org/tabless/stvin2025.html
+     author:  Karel Stokkermans
+     updated: 14 Aug 2025    
     -->
-  
 
 
 == Saint Vincent and the Grenadines 2024/25
@@ -323,23 +324,3 @@ Start: Aug 11; 8 participants:
    Pastures United FC
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Hans Schöggl
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 14 Aug 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

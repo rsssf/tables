@@ -1,8 +1,9 @@
   <!--
-     title:  Bolivia 2025
-     source: https://rsssf.org/tablesb/bol2025.html
+     title:   Bolivia 2025
+     source:  https://rsssf.org/tablesb/bol2025.html
+     author:  Tim Venables
+     updated: 21 Mar 2026    
     -->
-  
 
 
 == Bolivia 2025
@@ -1000,21 +1001,3 @@ Second Leg [Dec 22]
 Bolívar           1-4 Nacional Potosí
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Tim Venables for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Tim Venables
-
-Last updated: 21 Mar 2026
-
-
-(C) Copyright Tim Venables and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

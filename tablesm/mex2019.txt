@@ -1,8 +1,9 @@
   <!--
-     title:  Mexico 2018/19
-     source: https://rsssf.org/tablesm/mex2019.html
+     title:   Mexico 2018/19
+     source:  https://rsssf.org/tablesm/mex2019.html
+     author:  Erik Francisco Lugo
+     updated: 18 Feb 2021    
     -->
-  
 
 
 == Mexico 2018/19
@@ -2657,23 +2658,3 @@ NB: FC Juárez bought the license of Lobos B.U.A.P. and also was promoted;
     franchise was frozen one year.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Erik Francisco Lugo
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Erik Francisco Lugo
-
-Last updated: 18 Feb 2021
-
-(C) Copyright Erik Francisco Lugo
-and RSSSF 2018/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

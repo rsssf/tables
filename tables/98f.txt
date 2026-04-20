@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 1998
-     source: https://rsssf.org/tables/98f.html
+     title:   World Cup 1998
+     source:  https://rsssf.org/tables/98f.html
+     author:  Karel Stokkermans
+     updated: 5 Jul 2018    
     -->
-  
 
 
 == World Cup 1998 (France, June 10-July 12)
@@ -146,21 +147,3 @@ Topscorer: Suker (Croatia) 6 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-Last updated: 5 Jul 2018
-
-
-(C) Copyright Karel Stokkermans
-and RSSSF 1999/2018
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

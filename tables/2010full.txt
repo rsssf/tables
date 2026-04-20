@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 2010 - Match Details
-     source: https://rsssf.org/tables/2010full.html
+     title:   World Cup 2010 - Match Details
+     source:  https://rsssf.org/tables/2010full.html
+     author:  Neil Morrison
+     updated: 21 Jun 2024    
     -->
-  
 
 
 == World Cup 2010 - Match Details
@@ -1344,24 +1345,3 @@ Spectators: 3.178 million (average 49,670)
 
 ‹overview 2010 final tournament, see page 2010f›
 
-
-
-
-
-== About this document  ‹§about›
-
-Statistic overview thanks to Roberto Di Maggio;
-thanks to Eren Kocyigit for a correction
-
-Prepared and maintained by Neil Morrison
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Neil Morrison
-
-Last updated: 21 Jun 2024
-
-
-(C) Copyright Neil Morrison and RSSSF 2010/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

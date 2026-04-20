@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 2010
-     source: https://rsssf.org/tables/2010f.html
+     title:   World Cup 2010
+     source:  https://rsssf.org/tables/2010f.html
+     author:  Karel Stokkermans
+     updated: 20 Jun 2024    
     -->
-  
 
 
 == World Cup 2010 (South Africa, June 11 - July 11, 2010)
@@ -196,23 +197,3 @@ Topscorers: Forlán (Uruguay), Th. Müller (Germany), Sneijder (Netherlands),
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Eren Kocyigit for a correction
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-Last updated: 20 Jun 2024
-
-
-(C) Copyright Karel Stokkermans
-and RSSSF 2010/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

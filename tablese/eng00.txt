@@ -1,8 +1,9 @@
   <!--
-     title:  England 1999/2000
-     source: https://rsssf.org/tablese/eng00.html
+     title:   England 1999/2000
+     source:  https://rsssf.org/tablese/eng00.html
+     authors: Ken Butler, Stephen Mulrine and Andreas Exenberger
+     updated: 15 Apr 2001    
     -->
-  
 
 
 == England 1999/2000
@@ -5078,27 +5079,3 @@ Final Table:
 ‹list of league cup winners, see page engleagcuphist›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Scorer information thanks to Marcos Cabaleiro Pérez
-
-Prepared and maintained by
-Ken Butler, Stephen Mulrine and Andreas Exenberger for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ken Butler,
-Stephen Mulrine
-and
-Andreas Exenberger
-
-Last updated: 15 Apr 2001
-
-
-(C) Copyright Ken Butler, Stephen Mulrine, Andreas Exenberger and RSSSF 1999/2001
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

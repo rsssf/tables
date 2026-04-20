@@ -1,8 +1,9 @@
   <!--
-     title:  Copa América 2024
-     source: https://rsssf.org/tables/2024sa.html
+     title:   Copa América 2024
+     source:  https://rsssf.org/tables/2024sa.html
+     author:  Roberto Di Maggio
+     updated: 24 Jul 2024    
     -->
-  
 
 
 == Copa América 2024
@@ -113,20 +114,3 @@ Jul 14 Argentina       1-0 Colombia               [aet] Miami Gardens, FL
 
 ‹2021, see page 2021sa›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Roberto Di Maggio
-Last updated: 24 Jul 2024
-
-
-(C) Copyright Roberto Di Maggio and RSSSF 2024
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

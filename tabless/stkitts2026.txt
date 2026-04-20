@@ -1,8 +1,9 @@
   <!--
-     title:  Saint Kitts and Nevis 2025/26
-     source: https://rsssf.org/tabless/stkitts2026.html
+     title:   Saint Kitts and Nevis 2025/26
+     source:  https://rsssf.org/tabless/stkitts2026.html
+     author:  Karel Stokkermans
+     updated: 22 Mar 2026    
     -->
-  
 
 
 == Saint Kitts and Nevis 2025/26
@@ -244,21 +245,3 @@ Third Leg [May 20, if necessary]
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 22 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

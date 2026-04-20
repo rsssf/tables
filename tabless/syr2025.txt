@@ -1,8 +1,9 @@
   <!--
-     title:  Syria 2024/25
-     source: https://rsssf.org/tabless/syr2025.html
+     title:   Syria 2024/25
+     source:  https://rsssf.org/tabless/syr2025.html
+     author:  Karel Stokkermans
+     updated: 14 Jul 2025    
     -->
-  
 
 
 == Syria 2024/25
@@ -202,21 +203,3 @@ Final Table:
 NB: bonus points regular stage (based on position) between square brackets
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 14 Jul 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

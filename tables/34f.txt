@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 1934
-     source: https://rsssf.org/tables/34f.html
+     title:   World Cup 1934
+     source:  https://rsssf.org/tables/34f.html
+     authors: Karel Stokkermans and Sergio Henrique Jarreta
+     updated: 20 Jun 2002    
     -->
-  
 
 
 == World Cup 1934 (Italy, May 27-June 10)
@@ -75,22 +76,3 @@ Topscorer: Nejedlý (Czechoslovakia) 5 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 20 Jun 2002
-
-
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2002
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

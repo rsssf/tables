@@ -1,8 +1,9 @@
   <!--
-     title:  Sri Lanka 2021/22
-     source: https://rsssf.org/tabless/srilanka2022.html
+     title:   Sri Lanka 2021/22
+     source:  https://rsssf.org/tabless/srilanka2022.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 19 Mar 2025    
     -->
-  
 
 
 == Sri Lanka 2021/22
@@ -283,21 +284,3 @@ Henamulla United SC       bt  Old Anandian SC
 Final [Aug 20]
 Old Wesleyites SC          -  Super Star SC
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hans Schöggl and Karel Stokkermans
-
-Last updated: 19 Mar 2025
-
-
-(C) Copyright Hans Schöggl, Karel Stokkermans and RSSSF 2020/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

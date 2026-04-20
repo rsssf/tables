@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 2014 Qualifying
-     source: https://rsssf.org/tables/2014q.html
+     title:   World Cup 2014 Qualifying
+     source:  https://rsssf.org/tables/2014q.html
+     authors: Karel Stokkermans, Juan Pablo Andrés and Erik Francisco Lugo
+     updated: 1 Feb 2023    
     -->
-  
 
 
 == World Cup 2014 Qualifying
@@ -1379,22 +1380,3 @@ NB: Mexico qualified.
 
 ‹2014 Final Tournament, see page 2014f›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans, Juan Pablo Andrés
-and Erik Francisco Lugo for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Karel Stokkermans, Juan Pablo Andrés and Erik Francisco Lugo
-
-Last updated: 1 Feb 2023
-
-(c) Copyright Karel Stokkermans,
-Juan Pablo Andrés, Erik Francisco Lugo and RSSSF 2011/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

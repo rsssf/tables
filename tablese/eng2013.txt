@@ -1,8 +1,9 @@
   <!--
-     title:  England 2012/13
-     source: https://rsssf.org/tablese/eng2013.html
+     title:   England 2012/13
+     source:  https://rsssf.org/tablese/eng2013.html
+     author:  Karel Stokkermans
+     updated: 5 Feb 2015    
     -->
-  
 
 
 == England 2012/13
@@ -1223,21 +1224,3 @@ NB: Newport County promoted
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 5 Feb 2015
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2013/15
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

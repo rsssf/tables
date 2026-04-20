@@ -1,8 +1,9 @@
   <!--
-     title:  Mayotte 2025
-     source: https://rsssf.org/tablesm/mayo2025.html
+     title:   Mayotte 2025
+     source:  https://rsssf.org/tablesm/mayo2025.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 12 Jan 2026    
     -->
-  
 
 
 == Mayotte 2025
@@ -91,21 +92,3 @@ Final(?) Table:
 
 Promoted: USCJ Koungou, AJ Mtsahara, Feu du Centre, FC de Chiconi
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hans Schöggl and Karel Stokkermans
-
-Last updated: 12 Jan 2026
-
-
-(C) Copyright Hans Schöggl, Karel Stokkermans and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

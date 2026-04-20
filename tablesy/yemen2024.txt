@@ -1,8 +1,9 @@
   <!--
-     title:  Yemen 2023/24
-     source: https://rsssf.org/tablesy/yemen2024.html
+     title:   Yemen 2023/24
+     source:  https://rsssf.org/tablesy/yemen2024.html
+     authors: Davide Angelini, Hans Schöggl and Karel Stokkermans
+     updated: 11 Dec 2025    
     -->
-  
 
 
 == Yemen 2023/24
@@ -865,23 +866,3 @@ Final [Oct 2024, Olympic Stadium, Seiyun]
 Al-Baraq SC (Tarim)  1-1 Mukalla              [4-3 pen]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Davide Angelini, Hans Schöggl
-and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Davide Angelini, Hans Schöggl and Karel Stokkermans
-
-Last updated: 11 Dec 2025
-
-
-(C) Copyright Davide Angelini, Hans Schöggl, Karel Stokkermans
-and RSSSF 2023/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

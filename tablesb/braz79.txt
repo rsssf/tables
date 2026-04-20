@@ -1,8 +1,9 @@
   <!--
-     title:  V COPA BRASIL - 1979 [Brazilian Championship]
-     source: https://rsssf.org/tablesb/braz79.html
+     title:   V COPA BRASIL - 1979 [Brazilian Championship]
+     source:  https://rsssf.org/tablesb/braz79.html
+     author:  Ricardo Pontes
+     updated: 2 Apr 2005    
     -->
-  
 
 
 == V COPA BRASIL - 1979 [Brazilian Championship]
@@ -1998,25 +1999,3 @@ Table
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-‹Source, see page ../sources›: [pla]
-
-Prepared and maintained by Ricardo Pontes
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author:
-Ricardo Pontes
-
-Last updated: 2 Apr 2005
-
-
-(C) Copyright Ricardo Pontes
-and RSSSF 1998/2005
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

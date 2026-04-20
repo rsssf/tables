@@ -1,8 +1,9 @@
   <!--
-     title:  England 2008/09
-     source: https://rsssf.org/tablese/eng09.html
+     title:   England 2008/09
+     source:  https://rsssf.org/tablese/eng09.html
+     author:  Ian King
+     updated: 8 May 2014    
     -->
-  
 
 
 == England 2008/09
@@ -5667,23 +5668,3 @@ AFC Totton    1-2 Didcot        [aet]
 ‹list of league trophy winners, see page engassmembcuphist›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Ian Kay for a correction
-
-Prepared and maintained by Ian King for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Ian King
-
-Last updated: 8 May 2014
-
-
-(C) Copyright Ian King and RSSSF 2008/14
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

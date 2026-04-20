@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2017
-     source: https://rsssf.org/tablesu/usa2017.html
+     title:   USA 2017
+     source:  https://rsssf.org/tablesu/usa2017.html
+     author:  Karel Stokkermans
+     updated: 10 Jan 2020    
     -->
-  
 
 
 == USA 2017
@@ -723,21 +724,3 @@ Final [Sep 20, Children's Mercy Park, Kansas City, Kansas]
 Sporting Kansas City            2-1 New York Red Bulls
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 10 Jan 2020
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2017/20
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

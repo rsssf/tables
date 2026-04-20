@@ -1,8 +1,9 @@
   <!--
-     title:  Brazil 2013
-     source: https://rsssf.org/tablesb/braz2013.html
+     title:   Brazil 2013
+     source:  https://rsssf.org/tablesb/braz2013.html
+     author:  RSSSF Brazil
+     updated: 15 May 2014    
     -->
-  
 
 
 == Brazil 2013
@@ -1477,19 +1478,3 @@ FLAMENGO Champions of Copa do Brasil 2013 and classified to Copa Libertadores 20
 
 Topscorer: Luís Fabiano (São Paulo), 9 goals.
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
-
-Author: RSSSF Brazil
-Last updated: 15 May 2014
-
-
-(C) Copyright RSSSF and RSSSF Brazil 2013/14
-You are free to copy
-this document in whole or part provided that proper acknowledgement is given to
-the author. All rights reserved.

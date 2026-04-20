@@ -1,8 +1,9 @@
   <!--
-     title:  USA 2009
-     source: https://rsssf.org/tablesu/usa09.html
+     title:   USA 2009
+     source:  https://rsssf.org/tablesu/usa09.html
+     author:  David A. Litterer
+     updated: 7 May 2010    
     -->
-  
 
 
 == USA 2009
@@ -1342,23 +1343,3 @@ CHAMPIONSHIP:            Pali defeated Washington 2-1
 ‹MLS all-time table, see page usaalltime›
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Ian King
-
-Prepared and maintained by David A. Litterer for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: David A. Litterer
-
-Last updated: 7 May 2010
-
-
-(C) Copyright David A. Litterer and RSSSF 2009/10
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

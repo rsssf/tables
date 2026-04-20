@@ -1,8 +1,9 @@
   <!--
-     title:  Somaliland 2023/24
-     source: https://rsssf.org/tabless/somalil2024.html
+     title:   Somaliland 2023/24
+     source:  https://rsssf.org/tabless/somalil2024.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 6 Nov 2025    
     -->
-  
 
 
 == Somaliland 2023/24
@@ -560,29 +561,3 @@ Maaliyada                     0-1 Dawlaada Hoose
 
 ‹list of regions cup winners, see page somalilregcuphist›
 
-
-
-
-
-== About this document  ‹§about›
-
-Sources included: https://www.facebook.com/profile.php?id=61550428079847,
-https://www.facebook.com/XKCSL/,
-https://www.facebook.com/somalilandfootballfederation,
-https://www.facebook.com/BarnaamijkaCiyaarahaGobolkaGabiley/,
-https://www.facebook.com/profile.php?id=61555580861201,
-https://www.facebook.com/Ceerigaabosportspage,
-https://www.facebook.com/slntvone
-
-Prepared and maintained by Hans Schöggl and Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hans Schöggl and Karel Stokkermans
-
-Last updated: 6 Nov 2025
-
-
-(C) Copyright Hans Schöggl, Karel Stokkermans and RSSSF 2023/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

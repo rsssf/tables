@@ -1,8 +1,9 @@
   <!--
-     title:  Barbados 2026
-     source: https://rsssf.org/tablesb/barb2026.html
+     title:   Barbados 2026
+     source:  https://rsssf.org/tablesb/barb2026.html
+     author:  Patrick Beckles
+     updated: 19 Mar 2026    
     -->
-  
 
 
 == Barbados 2026
@@ -147,21 +148,3 @@ Table:
 10.Wotton                        10   0  0 10   9-43   0
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Patrick Beckles for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Patrick Beckles
-
-Last updated: 19 Mar 2026
-
-
-(C) Copyright Patrick Beckles and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

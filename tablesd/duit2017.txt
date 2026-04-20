@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2016/17
-     source: https://rsssf.org/tablesd/duit2017.html
+     title:   Germany 2016/17
+     source:  https://rsssf.org/tablesd/duit2017.html
+     author:  Karel Stokkermans
+     updated: 7 Jan 2021    
     -->
-  
 
 
 == Germany 2016/17
@@ -750,23 +751,3 @@ Carl Zeiss Jena 0-1 Viktoria Köln
 NB: SpVgg Unterhaching, SV Meppen and Carl Zeiss Jena promoted
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 7 Jan 2021
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2016/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

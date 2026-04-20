@@ -1,8 +1,9 @@
   <!--
-     title:  Germany 2024/25
-     source: https://rsssf.org/tablesd/duit2025.html
+     title:   Germany 2024/25
+     source:  https://rsssf.org/tablesd/duit2025.html
+     author:  Karel Stokkermans
+     updated: 26 May 2025    
     -->
-  
 
 
 == Germany 2024/25
@@ -554,21 +555,3 @@ Final Table:
 18.VfL Bochum                   34   6  7 21  33-67  25       Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 26 May 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

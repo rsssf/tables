@@ -1,8 +1,9 @@
   <!--
-     title:  Portugal 2024/25
-     source: https://rsssf.org/tablesp/port2025.html
+     title:   Portugal 2024/25
+     source:  https://rsssf.org/tablesp/port2025.html
+     authors: Roberto Di Maggio and Karel Stokkermans
+     updated: 17 May 2025    
     -->
-  
 
 
 == Portugal 2024/25
@@ -607,21 +608,3 @@ Final [Jan 11]
 Sporting          1-1 Benfica           [6-7 pen]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio and Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Roberto Di Maggio and Karel Stokkermans
-
-Last updated: 17 May 2025
-
-
-(C) Copyright Roberto Di Maggio, Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

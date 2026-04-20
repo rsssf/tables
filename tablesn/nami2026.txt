@@ -1,8 +1,9 @@
   <!--
-     title:  Namibia 2025/26
-     source: https://rsssf.org/tablesn/nami2026.html
+     title:   Namibia 2025/26
+     source:  https://rsssf.org/tablesn/nami2026.html
+     author:  Karel Stokkermans
+     updated: 21 Mar 2026    
     -->
-  
 
 
 == Namibia 2025/26
@@ -353,21 +354,3 @@ Table:
 16.Life Fighters             26   4  6 16  21-49  18  [P]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 21 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author.  All rights reserved.

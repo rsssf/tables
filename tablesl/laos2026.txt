@@ -1,8 +1,9 @@
   <!--
-     title:  Laos 2025/26
-     source: https://rsssf.org/tablesl/laos2026.html
+     title:   Laos 2025/26
+     source:  https://rsssf.org/tablesl/laos2026.html
+     author:  Karel Stokkermans
+     updated: 14 Mar 2026    
     -->
-  
 
 
 == Laos 2025/26
@@ -229,21 +230,3 @@ Final Table:
 [*3] Master 7 FC were renamed BIS Master FC
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 14 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

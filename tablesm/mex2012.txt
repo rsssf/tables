@@ -1,8 +1,9 @@
   <!--
-     title:  Mexico 2011/12
-     source: https://rsssf.org/tablesm/mex2012.html
+     title:   Mexico 2011/12
+     source:  https://rsssf.org/tablesm/mex2012.html
+     authors: Erik Francisco Lugo and Juan Pablo Andrés
+     updated: 18 Feb 2021    
     -->
-  
 
 
 == Mexico 2011/12
@@ -1815,25 +1816,3 @@ León              5-0 Correcaminos UAT
 
 León promoted
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Erik Francisco Lugo
-and Juan Pablo Andrés
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Erik Francisco Lugo
-and Juan Pablo Andrés
-
-Last updated: 18 Feb 2021
-
-(C) Copyright Erik Francisco Lugo, Juan Pablo Andrés
-and RSSSF 2011/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Mexico 2023/24
-     source: https://rsssf.org/tablesm/mex2024.html
+     title:   Mexico 2023/24
+     source:  https://rsssf.org/tablesm/mex2024.html
+     author:  Erik Francisco Lugo
+     updated: 2 Dec 2024    
     -->
-  
 
 
 == Mexico 2023/24
@@ -2027,22 +2028,3 @@ Atlante          0-0 Cancún FC        [aet; 1-3pen]
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Erik Francisco Lugo
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Erik Francisco Lugo
-
-Last updated: 2 Dec 2024
-
-(C) Copyright Erik Francisco Lugo and RSSSF 2023/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

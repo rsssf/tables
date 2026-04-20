@@ -1,8 +1,9 @@
   <!--
-     title:  England 2015/16
-     source: https://rsssf.org/tablese/eng2016.html
+     title:   England 2015/16
+     source:  https://rsssf.org/tablese/eng2016.html
+     authors: Ian King, Roberto Di Maggio and Karel Stokkermans
+     updated: 18 Jul 2019    
     -->
-  
 
 
 == England 2015/16
@@ -1238,22 +1239,3 @@ Final [May 15]
 Forest Green  1-3 Grimsby
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Ian King, Roberto Di Maggio
-and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ian King, Roberto Di Maggio and Karel Stokkermans
-
-Last updated: 18 Jul 2019
-
-
-(C) Copyright Ian King, Roberto Di Maggio, Karel Stokkermans and RSSSF 2015/19
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

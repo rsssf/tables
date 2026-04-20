@@ -1,8 +1,9 @@
   <!--
-     title:  Fiji 2026
-     source: https://rsssf.org/tablesf/fiji2026.html
+     title:   Fiji 2026
+     source:  https://rsssf.org/tablesf/fiji2026.html
+     author:  Karel Stokkermans
+     updated: 22 Mar 2026    
     -->
-  
 
 
 == Fiji 2026
@@ -79,21 +80,3 @@ Table:
 10.Nadroga            4   0  1  3   5-14   1
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 22 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

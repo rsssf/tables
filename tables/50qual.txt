@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1950 qualifications
-     source: https://rsssf.org/tables/50qual.html
+     title:   World Cup 1950 qualifications
+     source:  https://rsssf.org/tables/50qual.html
+    
     -->
-  
 
 
 = World Cup 1950 qualifications

@@ -1,8 +1,9 @@
   <!--
-     title:  Spain 2017/18
-     source: https://rsssf.org/tabless/span2018.html
+     title:   Spain 2017/18
+     source:  https://rsssf.org/tabless/span2018.html
+     author:  Karel Stokkermans
+     updated: 29 Sep 2020    
     -->
-  
 
 
 == Spain 2017/18
@@ -898,21 +899,3 @@ Valladolid                1-1 Numancia
 
 NB: Real Valladolid promoted
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 29 Sep 2020
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2017/20
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

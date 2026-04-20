@@ -1,8 +1,9 @@
   <!--
-     title:  Azores 2023/24
-     source: https://rsssf.org/tablesa/azores2024.html
+     title:   Azores 2023/24
+     source:  https://rsssf.org/tablesa/azores2024.html
+     author:  José Batalha
+     updated: 9 May 2024    
     -->
-  
 
 
 == Azores 2023/24
@@ -227,26 +228,3 @@ Final [Apr 6?]
 JD Lajense           1-2 Angrense
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Sources included:
-‹Futebol Açores›
-
-Thanks to Hans Schöggl
-
-Prepared and maintained by José Batalha for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: José Batalha
-
-Last updated: 9 May 2024
-
-
-(C) Copyright José Batalha and RSSSF 2023/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

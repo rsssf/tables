@@ -1,8 +1,9 @@
   <!--
-     title:  Turkey 2024/25
-     source: https://rsssf.org/tablest/tur2025.html
+     title:   Turkey 2024/25
+     source:  https://rsssf.org/tablest/tur2025.html
+     author:  Karel Stokkermans
+     updated: 2 Jun 2025    
     -->
-  
 
 
 == Turkey 2024/25
@@ -689,21 +690,3 @@ NB: Adana Demirspor had 3 points deducted due to infringements in the
     and another 6 points by a FIFA decision for failing to pay fees
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Jun 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

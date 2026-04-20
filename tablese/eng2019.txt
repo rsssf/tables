@@ -1,8 +1,9 @@
   <!--
-     title:  England 2018/19
-     source: https://rsssf.org/tablese/eng2019.html
+     title:   England 2018/19
+     source:  https://rsssf.org/tablese/eng2019.html
+     authors: Karel Stokkermans and Roberto Di Maggio
+     updated: 7 Jul 2022    
     -->
-  
 
 
 == England 2018/19
@@ -1247,24 +1248,3 @@ Final [May 11]
 Fylde         0-3 Salford
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind and Ian Kay
-
-Prepared and maintained by Karel Stokkermans and Roberto Di Maggio
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Karel Stokkermans and Roberto Di Maggio
-
-Last updated: 7 Jul 2022
-
-
-(C) Copyright Karel Stokkermans, Roberto Di Maggio
-and RSSSF 2018/22
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

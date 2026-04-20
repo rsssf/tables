@@ -1,8 +1,9 @@
   <!--
-     title:  Argentina 2026
-     source: https://rsssf.org/tablesa/arg2026.html
+     title:   Argentina 2026
+     source:  https://rsssf.org/tablesa/arg2026.html
+     author:  Osvaldo José Gorgazzi
+     updated: 9 Apr 2026    
     -->
-  
 
 
 == Argentina 2026
@@ -1086,21 +1087,4 @@ Final:
 [TBD]
 TBD                                     -        TBD                                TBD
 
-
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Osvaldo José Gorgazzi for
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-Author: Osvaldo José Gorgazzi
-Last updated: 9 Apr 2026
-
-
-(C) Copyright Osvaldo José Gorgazzi and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
 

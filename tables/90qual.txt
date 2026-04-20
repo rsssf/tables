@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1990 qualifications
-     source: https://rsssf.org/tables/90qual.html
+     title:   World Cup 1990 qualifications
+     source:  https://rsssf.org/tables/90qual.html
+    
     -->
-  
 
 
 = World Cup 1990 qualifications

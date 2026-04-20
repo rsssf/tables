@@ -1,8 +1,9 @@
   <!--
-     title:  Saudi Arabia 2024/25
-     source: https://rsssf.org/tabless/sau2025.html
+     title:   Saudi Arabia 2024/25
+     source:  https://rsssf.org/tabless/sau2025.html
+     author:  Karel Stokkermans
+     updated: 27 May 2025    
     -->
-  
 
 
 == Saudi Arabia 2024/25
@@ -554,21 +555,3 @@ Final Table:
 18.Al-Ra'ed        34   6  3 25  41-66  21       Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 27 May 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

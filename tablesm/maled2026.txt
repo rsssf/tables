@@ -1,8 +1,9 @@
   <!--
-     title:  Maldives 2025/26
-     source: https://rsssf.org/tablesm/maled2026.html
+     title:   Maldives 2025/26
+     source:  https://rsssf.org/tablesm/maled2026.html
+     author:  Karel Stokkermans
+     updated: 27 Mar 2026    
     -->
-  
 
 
 == Maldives 2025/26
@@ -46,21 +47,3 @@ Valencia        1-4 2-0 0-1 0-3 0-2 1-7 0-1 0-0 xxx 1-0
 Victory         1-1 2-2 4-1 0-3 0-4 0-3 0-1 0-2 1-1 xxx
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 27 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

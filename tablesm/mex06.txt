@@ -1,8 +1,9 @@
   <!--
-     title:  Mexico 2005/06
-     source: https://rsssf.org/tablesm/mex06.html
+     title:   Mexico 2005/06
+     source:  https://rsssf.org/tablesm/mex06.html
+     authors: Juan Pablo Andrés, Erik Francisco Lugo and José de Jesus Mora Rivera
+     updated: 22 Jan 2009    
     -->
-  
 
 
 == Mexico 2005/06
@@ -2305,26 +2306,3 @@ Santos Laguna "B" champion Clausura 2006
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Juan Pablo Andrés,
-Erik Francisco Lugo, José de Jesus Mora Rivera for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Juan Pablo Andrés,
-Erik Francisco Lugo
-and José de Jesus Mora Rivera
-
-Last updated: 22 Jan 2009
-
-
-(C) Copyright Juan Pablo Andrés, Erik Francisco Lugo,
-José de Jesus Mora Rivera
-and RSSSF 2005/09
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

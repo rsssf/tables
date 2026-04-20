@@ -1,8 +1,9 @@
   <!--
-     title:  England 2023/24
-     source: https://rsssf.org/tablese/eng2024.html
+     title:   England 2023/24
+     source:  https://rsssf.org/tablese/eng2024.html
+     author:  Karel Stokkermans
+     updated: 11 Oct 2024    
     -->
-  
 
 
 == England 2023/24
@@ -891,21 +892,3 @@ Final [May 5]
 Bromley       2-2 Solihull      [aet, 4-3 pen]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 11 Oct 2024
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2023/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

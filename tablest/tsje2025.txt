@@ -1,8 +1,9 @@
   <!--
-     title:  Czech Republic 2024/25
-     source: https://rsssf.org/tablest/tsje2025.html
+     title:   Czech Republic 2024/25
+     source:  https://rsssf.org/tablest/tsje2025.html
+     author:  Karel Stokkermans
+     updated: 28 May 2025    
     -->
-  
 
 
 == Czech Republic 2024/25
@@ -585,21 +586,3 @@ Final Table:
 16.SK Dynamo České Budějovice 35   0  6 29  16-86   6       Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 28 May 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

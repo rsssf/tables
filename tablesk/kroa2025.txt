@@ -1,8 +1,9 @@
   <!--
-     title:  Croatia 2024/25
-     source: https://rsssf.org/tablesk/kroa2025.html
+     title:   Croatia 2024/25
+     source:  https://rsssf.org/tablesk/kroa2025.html
+     author:  Brunislav Matasović
+     updated: 31 Jul 2025    
     -->
-  
 
 
 == Croatia 2024/25
@@ -15703,21 +15704,3 @@ Rnd  Date         Home Team                    Away Team                    F   
  22    8.6.2025.  Udarnik Zablatje             Sabarija Subotica Podravska   5   1
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Brunislav Matasović for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Brunislav Matasović
-
-Last updated: 31 Jul 2025
-
-
-(C) Copyright Brunislav Matasović and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

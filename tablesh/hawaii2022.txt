@@ -1,8 +1,9 @@
   <!--
-     title:  Hawaii 2021/22
-     source: https://rsssf.org/tablesh/hawaii2022.html
+     title:   Hawaii 2021/22
+     source:  https://rsssf.org/tablesh/hawaii2022.html
+     author:  Carlos Santos
+     updated: 17 May 2023    
     -->
-  
 
 
 == Hawaii 2021/22
@@ -632,23 +633,3 @@ Final [May 22]
 Soccer Team FC      4-1 Vaiete SC
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Source: ‹Major Island Soccer Organization›
-
-Prepared and maintained by Carlos Santos for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Carlos Santos
-
-Last updated: 17 May 2023
-
-
-(C) Copyright Carlos Santos and RSSSF 2021/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

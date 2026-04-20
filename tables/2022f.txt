@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 2022
-     source: https://rsssf.org/tables/2022f.html
+     title:   World Cup 2022
+     source:  https://rsssf.org/tables/2022f.html
+     author:  Roberto Di Maggio
+     updated: 20 Dec 2022    
     -->
-  
 
 
 == World Cup 2022 (Qatar, November 20 - December 18, 2022)
@@ -195,21 +196,3 @@ Topscorer: Mbappé (France) 8 goals.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Roberto Di Maggio
-Last updated: 20 Dec 2022
-
-
-(C) Copyright Roberto Di Maggio
-and RSSSF 2022
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2011/12
-     source: https://rsssf.org/tablesi/ital2012.html
+     title:   Italy 2011/12
+     source:  https://rsssf.org/tablesi/ital2012.html
+     authors: Roberto Di Maggio, Jan Schoenmakers and Karel Stokkermans
+     updated: 14 Jan 2021    
     -->
-  
 
 
 == Italy 2011/12
@@ -377,23 +378,3 @@ NB: Vicenza relegated but later readmitted to Serie B due to the forced
     relegation of Lecce to the third level
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio, Jan Schoenmakers
-and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Roberto Di Maggio, Jan Schoenmakers and Karel Stokkermans
-
-Last updated: 14 Jan 2021
-
-
-(C) Copyright Roberto Di Maggio,
-Jan Schoenmakers, Karel Stokkermans and RSSSF 2013/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

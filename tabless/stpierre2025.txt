@@ -1,8 +1,9 @@
   <!--
-     title:  Saint-Pierre et Miquelon 2025
-     source: https://rsssf.org/tabless/stpierre2025.html
+     title:   Saint-Pierre et Miquelon 2025
+     source:  https://rsssf.org/tabless/stpierre2025.html
+     author:  Karel Stokkermans
+     updated: 9 Oct 2025    
     -->
-  
 
 
 == Saint-Pierre et Miquelon 2025
@@ -76,21 +77,3 @@ Arsac Pian Médoc 2-1 ASSP
 
 ‹2024, see page stpierre2024›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 9 Oct 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

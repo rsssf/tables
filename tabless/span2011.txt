@@ -1,8 +1,9 @@
   <!--
-     title:  Spain 2010/11
-     source: https://rsssf.org/tabless/span2011.html
+     title:   Spain 2010/11
+     source:  https://rsssf.org/tabless/span2011.html
+     author:  Anthony Zea
+     updated: 25 Mar 2024    
     -->
-  
 
 
 == Spain 2010/11
@@ -6365,23 +6366,3 @@ Topscorers:
 12 Javier "Javi" Navarro        - Ceuta
 11 Sergio Pachon                - Cádiz
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Anthony Zea
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Anthony Zea
-
-Last updated: 25 Mar 2024
-
-
-(C) Copyright Anthony Zea and RSSSF 2010/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

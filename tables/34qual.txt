@@ -1,8 +1,9 @@
   <!--
-     title:  WORLD CUP 1934 - QUALIFYING
-     source: https://rsssf.org/tables/34qual.html
+     title:   WORLD CUP 1934 - QUALIFYING
+     source:  https://rsssf.org/tables/34qual.html
+     author:  Barrie Courtney
+     updated: 4 Nov 2021    
     -->
-  
 
 
 == WORLD CUP 1934 - QUALIFYING
@@ -714,20 +715,3 @@ RATNER, Shimon 'Lumek'               McREA, James
 Referee: GOODSBY, Frederick John [ENGLAND]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Barrie Courtney for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Barrie Courtney
-
-Last updated: 4 Nov 2021
-
-
-(C) Copyright Barrie Courtney and RSSSF 2006/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

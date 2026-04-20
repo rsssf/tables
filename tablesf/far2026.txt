@@ -1,8 +1,9 @@
   <!--
-     title:  Faroe Islands 2026
-     source: https://rsssf.org/tablesf/far2026.html
+     title:   Faroe Islands 2026
+     source:  https://rsssf.org/tablesf/far2026.html
+     author:  Denis Polsinelli
+     updated: 19 Mar 2026    
     -->
-  
 
 
 == Faroe Islands 2026
@@ -272,21 +273,3 @@ Table:
 11.NSÍ III          0   0  0  0   0- 0   0  [N]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Denis Polsinelli for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Denis Polsinelli
-
-Last updated: 19 Mar 2026
-
-
-(C) Copyright Denis Polsinelli and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

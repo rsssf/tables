@@ -1,8 +1,9 @@
   <!--
-     title:  France 2024/25
-     source: https://rsssf.org/tablesf/fran2025.html
+     title:   France 2024/25
+     source:  https://rsssf.org/tablesf/fran2025.html
+     author:  Karel Stokkermans
+     updated: 23 Dec 2025    
     -->
-  
 
 
 == France 2024/25
@@ -555,23 +556,3 @@ Final Table:
 18.Montpellier-Hérault SC    34   4  4 26  23-79  16       Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 23 Dec 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

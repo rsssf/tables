@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2014/15
-     source: https://rsssf.org/tablesi/ital2015.html
+     title:   Italy 2014/15
+     source:  https://rsssf.org/tablesi/ital2015.html
+     author:  Karel Stokkermans
+     updated: 14 Jan 2021    
     -->
-  
 
 
 == Italy 2014/15
@@ -952,23 +953,3 @@ NB: Virtus Entella relegated due to worse regular season record but later reprie
     to bankruptcy of Parma (Serie A) and forced demotion of Catania (due to match fixing)
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 14 Jan 2021
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2014/21
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

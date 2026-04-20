@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2019/20
-     source: https://rsssf.org/tablesi/ital2020.html
+     title:   Italy 2019/20
+     source:  https://rsssf.org/tablesi/ital2020.html
+     authors: Roberto Di Maggio and Karel Stokkermans
+     updated: 8 Oct 2020    
     -->
-  
 
 
 == Italy 2019/20
@@ -931,22 +932,3 @@ Perugia         2-1 Pescara         [aet, 2-4 pen]
 NB: Perugia relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio
-and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Roberto Di Maggio and Karel Stokkermans
-
-Last updated: 8 Oct 2020
-
-
-(C) Copyright Roberto Di Maggio, Karel Stokkermans and RSSSF 2019/20
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

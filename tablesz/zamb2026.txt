@@ -1,8 +1,9 @@
   <!--
-     title:  Zambia 2025/26
-     source: https://rsssf.org/tablesz/zamb2026.html
+     title:   Zambia 2025/26
+     source:  https://rsssf.org/tablesz/zamb2026.html
+     author:  Kalumiana Kalumiana
+     updated: 9 Apr 2026    
     -->
-  
 
 
 == Zambia 2025/26
@@ -1344,21 +1345,3 @@ Table:
 [*] promoted side Solwezi Academy sold their place to Locus FC (Lusaka)
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Kalumiana Kalumiana for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Kalumiana Kalumiana
-
-Last updated: 9 Apr 2026
-
-
-(C) Copyright Kalumiana Kalumiana and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

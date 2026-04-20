@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2009/10
-     source: https://rsssf.org/tablesi/ital2010.html
+     title:   Italy 2009/10
+     source:  https://rsssf.org/tablesi/ital2010.html
+     authors: Giacomo Giusti and Andrea Ferrigno
+     updated: 7 Feb 2013    
     -->
-  
 
 
 == Italy 2009/10
@@ -8467,25 +8468,3 @@ Viribus Unitis                    - Palazzolo A.S.D.                  1-1       
 The relegation playoff are played if the difference between team is less than 9 points. In the relegation playoff were played if the difference In relegation playoff ties if both teams are at the same level of goals the tie breaker is the final
 position in regular season
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Giacomo Giusti
-and Andrea Ferrigno for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors:
-Giacomo Giusti
-and Andrea Ferrigno
-
-Last updated: 7 Feb 2013
-
-
-(C) Copyright Giacomo Giusti,
-Andrea Ferrigno and RSSSF 2009/13
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  World Cup 1950
-     source: https://rsssf.org/tables/50f.html
+     title:   World Cup 1950
+     source:  https://rsssf.org/tables/50f.html
+     authors: Karel Stokkermans and Sergio Henrique Jarreta
+     updated: 5 Jul 2017    
     -->
-  
 
 
 == World Cup 1950 (Brazil, June 24-July 16)
@@ -79,22 +80,3 @@ NB: FIFA credited Ademir with 2 goals (1-0 and 5-0) on July 13 vs Spain
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 5 Jul 2017
-
-
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2017
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Malaysia 2025/26
-     source: https://rsssf.org/tablesm/malay2026.html
+     title:   Malaysia 2025/26
+     source:  https://rsssf.org/tablesm/malay2026.html
+     author:  Karel Stokkermans
+     updated: 19 Mar 2026    
     -->
-  
 
 
 == Malaysia 2025/26
@@ -334,21 +335,3 @@ NB: Kedah Darul Aman FC and Perak FC expelled due to financial problems;
     Sri Pahang FC withdrew
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 19 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

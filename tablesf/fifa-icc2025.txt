@@ -1,8 +1,9 @@
   <!--
-     title:  FIFA Intercontinental Cup 2025
-     source: https://rsssf.org/tablesf/fifa-icc2025.html
+     title:   FIFA Intercontinental Cup 2025
+     source:  https://rsssf.org/tablesf/fifa-icc2025.html
+     author:  Roberto Di Maggio
+     updated: 8 Jan 2026    
     -->
-  
 
 
 == FIFA Intercontinental Cup 2025
@@ -43,21 +44,3 @@ Final
 
 ‹2024 (FIFA Intercontinental Cup)., see page fifa-icc2024›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Roberto Di Maggio
-
-Last updated: 8 Jan 2026
-
-
-(C) Copyright Roberto Di Maggio and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

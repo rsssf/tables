@@ -1,8 +1,9 @@
   <!--
-     title:  Brazil 2009
-     source: https://rsssf.org/tablesb/braz09.html
+     title:   Brazil 2009
+     source:  https://rsssf.org/tablesb/braz09.html
+     author:  RSSSF Brazil
+     updated: 13 Dec 2012    
     -->
-  
 
 
 == Brazil 2009
@@ -616,19 +617,3 @@ Final Table:
 20.Sport Recife      38  7 10 21  48-71  31  Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
-
-Author: RSSSF Brazil
-Last updated: 13 Dec 2012
-
-
-(C) Copyright RSSSF and RSSSF Brazil 2009/12
-You are free to copy
-this document in whole or part provided that proper acknowledgement is given to
-the author. All rights reserved.

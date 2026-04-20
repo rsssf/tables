@@ -1,8 +1,9 @@
   <!--
-     title:  East Timor 2025
-     source: https://rsssf.org/tableso/oosttim2025.html
+     title:   East Timor 2025
+     source:  https://rsssf.org/tableso/oosttim2025.html
+     author:  Karel Stokkermans
+     updated: 3 Mar 2026    
     -->
-  
 
 
 == East Timor 2025
@@ -228,21 +229,3 @@ Final Table:
  7.Kablaki FC (Manufahi, Same district)     6   1  0  5  10-16   3                   Relegated
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 3 Mar 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

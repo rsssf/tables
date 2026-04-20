@@ -1,8 +1,9 @@
   <!--
-     title:  Vanuatu 2025/26
-     source: https://rsssf.org/tablesv/vanuatu2026.html
+     title:   Vanuatu 2025/26
+     source:  https://rsssf.org/tablesv/vanuatu2026.html
+     author:  Karel Stokkermans
+     updated: 2 Apr 2026    
     -->
-  
 
 
 == Vanuatu 2025/26
@@ -264,21 +265,3 @@ Final Table:
  5.Vanuatu Academy        10   3  0  7  16-23   9
  6.Maan Ksakes            10   0  0 10   7-42   0
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Apr 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

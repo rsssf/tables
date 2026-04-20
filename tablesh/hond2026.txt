@@ -1,8 +1,9 @@
   <!--
-     title:  Honduras 2025/26
-     source: https://rsssf.org/tablesh/hond2026.html
+     title:   Honduras 2025/26
+     source:  https://rsssf.org/tablesh/hond2026.html
+     author:  Karel Stokkermans
+     updated: 23 Jan 2026    
     -->
-  
 
 
 == Honduras 2025/26
@@ -354,21 +355,3 @@ Olimpia       1-0 Marathón
 Campeonato Clausura 2026  ‹§1clau›
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 23 Jan 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

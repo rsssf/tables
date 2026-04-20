@@ -1,8 +1,9 @@
   <!--
-     title:  Philippines 2025/26
-     source: https://rsssf.org/tablesp/phil2026.html
+     title:   Philippines 2025/26
+     source:  https://rsssf.org/tablesp/phil2026.html
+     author:  Eli Victorio
+     updated: 9 Apr 2026    
     -->
-  
 
 
 == Philippines 2025/26
@@ -298,21 +299,3 @@ Final Series  ‹§chpo›
 NB: between the top-6 of the regular season
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Eli Victorio for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Eli Victorio
-
-Last updated: 9 Apr 2026
-
-
-(C) Copyright Eli Victorio and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

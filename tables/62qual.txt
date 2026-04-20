@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1962 qualifications
-     source: https://rsssf.org/tables/62qual.html
+     title:   World Cup 1962 qualifications
+     source:  https://rsssf.org/tables/62qual.html
+    
     -->
-  
 
 
 = World Cup 1962 qualifications

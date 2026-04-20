@@ -1,8 +1,9 @@
   <!--
-     title:  CONCACAF Nations League 2024-25
-     source: https://rsssf.org/tables/2025concanl.html
+     title:   CONCACAF Nations League 2024-25
+     source:  https://rsssf.org/tables/2025concanl.html
+     author:  Erik Francisco Lugo
+     updated: 1 Apr 2025    
     -->
-  
 
 
 == CONCACAF Nations League 2024-25
@@ -426,20 +427,3 @@ Panama                 1-2 Mexico
 
 ‹CONCACAF Nations League 2023-24, see page 2024concanl›
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Erik Francisco Lugo
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Erik Francisco Lugo
-
-Last updated: 1 Apr 2025
-
-(C) Copyright Erik Francisco Lugo and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

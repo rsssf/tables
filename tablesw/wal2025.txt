@@ -1,8 +1,9 @@
   <!--
-     title:  Wales 2024/25
-     source: https://rsssf.org/tablesw/wal2025.html
+     title:   Wales 2024/25
+     source:  https://rsssf.org/tablesw/wal2025.html
+     author:  Karel Stokkermans
+     updated: 12 Jun 2025    
     -->
-  
 
 
 == Wales 2024/25
@@ -577,23 +578,3 @@ Barry Town United       1-2 The New Saints
 Final [Feb 28, Newtown]
 Aberystwyth Town        0-1 The New Saints
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Hans Schöggl
-
-Prepared and maintained by Karel Stokkermans for
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 12 Jun 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

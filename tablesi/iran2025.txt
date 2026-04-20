@@ -1,8 +1,9 @@
   <!--
-     title:  Iran 2024/25
-     source: https://rsssf.org/tablesi/iran2025.html
+     title:   Iran 2024/25
+     source:  https://rsssf.org/tablesi/iran2025.html
+     author:  Karel Stokkermans
+     updated: 2 Jun 2025    
     -->
-  
 
 
 == Iran 2024/25
@@ -493,21 +494,3 @@ Final [May 29, Imam Khomeini Stadium, Arak]
 Esteghlal T   1-0 Malavan       [aet]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by  Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Jun 2025
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Madagascar 2025/26
-     source: https://rsssf.org/tablesm/madag2026.html
+     title:   Madagascar 2025/26
+     source:  https://rsssf.org/tablesm/madag2026.html
+     author:  Karel Stokkermans
+     updated: 2 Apr 2026    
     -->
-  
 
 
 == Madagascar 2025/26
@@ -280,21 +281,3 @@ Conférence Sud
  8.Antimo Record                         10   1  1  8   8-21   4  [P]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans for
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 2 Apr 2026
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

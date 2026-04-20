@@ -1,8 +1,8 @@
   <!--
-     title:  World Cup 1982 finals
-     source: https://rsssf.org/tables/82full.html
+     title:   World Cup 1982 finals
+     source:  https://rsssf.org/tables/82full.html
+    
     -->
-  
 
 
 = World Cup 1982 finals

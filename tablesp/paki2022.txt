@@ -1,8 +1,9 @@
   <!--
-     title:  Pakistan 2021/22
-     source: https://rsssf.org/tablesp/paki2022.html
+     title:   Pakistan 2021/22
+     source:  https://rsssf.org/tablesp/paki2022.html
+     author:  Karel Stokkermans
+     updated: 23 May 2023    
     -->
-  
 
 
 == Pakistan 2021/22 (National Tournaments)
@@ -284,21 +285,3 @@ NB: also promoted sides Baloch FC (Quetta), Gwadar Port Authority and
     Masha United (Faisalabad) declined to enter
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 23 May 2023
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2021/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

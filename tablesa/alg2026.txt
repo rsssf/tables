@@ -1,8 +1,9 @@
   <!--
-     title:  Algeria 2025/26
-     source: https://rsssf.org/tablesa/alg2026.html
+     title:   Algeria 2025/26
+     source:  https://rsssf.org/tablesa/alg2026.html
+     author:  Michel Menard
+     updated: 2 Feb 2026    
     -->
-  
 
 
 == Algeria 2025/26
@@ -921,21 +922,3 @@ Groupe Sud-Est  ‹§3se›
 16.IRB Ouargla           15   1  1 13    9-44   -2 [-6]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Michel Menard
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Michel Menard
-
-Last updated: 2 Feb 2026
-
-
-(C) Copyright Michel Menard and RSSSF 2o26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

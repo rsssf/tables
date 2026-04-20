@@ -1,8 +1,9 @@
   <!--
-     title:  Kyrgyzstan 2026
-     source: https://rsssf.org/tablesk/kyrg2026.html
+     title:   Kyrgyzstan 2026
+     source:  https://rsssf.org/tablesk/kyrg2026.html
+     author:  Theodore Dreiman
+     updated: 5 Apr 2026    
     -->
-  
 
 
 == Kyrgyzstan 2026
@@ -304,21 +305,3 @@ Asia Talas    -  Abdis-Ata
 Bishkek City  -  Muras United
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Theodore Dreiman
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Theodore Dreiman
-
-Last updated: 5 Apr 2026
-
-
-(C) Copyright Theodore Dreiman and RSSSF 2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

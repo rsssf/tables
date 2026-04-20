@@ -1,8 +1,9 @@
   <!--
-     title:  England 2017/18
-     source: https://rsssf.org/tablese/eng2018.html
+     title:   England 2017/18
+     source:  https://rsssf.org/tablese/eng2018.html
+     authors: Karel Stokkermans and Roberto Di Maggio
+     updated: 18 Jul 2019    
     -->
-  
 
 
 == England 2017/18
@@ -1219,22 +1220,3 @@ Final [May 12]
 Tranmere      2-1 Boreham Wood
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Roberto Di Maggio
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Karel Stokkermans and Roberto Di Maggio
-
-Last updated: 18 Jul 2019
-
-
-(C) Copyright Karel Stokkermans, Roberto Di Maggio
-and RSSSF 2017/19
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

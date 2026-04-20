@@ -1,8 +1,9 @@
   <!--
-     title:  Crimea and South Eastern Ukraine 2025
-     source: https://rsssf.org/tablesz/zooekr2025.html
+     title:   Crimea and South Eastern Ukraine 2025
+     source:  https://rsssf.org/tablesz/zooekr2025.html
+     author:  Theodore Dreiman
+     updated: 24 Mar 2026    
     -->
-  
 
 
 == Crimea and South Eastern Ukraine 2025
@@ -1863,25 +1864,3 @@ Dinamo (Lugansk)  0-0 0-1  Donbass Power (Komsonoĺskoje)  [agg 0-1]
   [V.Ĺgovskij]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-NB: neither the Donetsk PR nor the Lugansk PR is recognised by UEFA or FIFA, nor
-is the separation of Crimea from Ukraine;
-inclusion of results here exclusively serves football statistical purposes
-
-Prepared and maintained by Theodore Dreiman
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Theodore Dreiman
-
-Last updated: 24 Mar 2026
-
-
-(C) Copyright Theodore Dreiman and RSSSF 2024/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

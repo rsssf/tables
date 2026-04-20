@@ -1,8 +1,9 @@
   <!--
-     title:  England 2000/01
-     source: https://rsssf.org/tablese/eng01.html
+     title:   England 2000/01
+     source:  https://rsssf.org/tablese/eng01.html
+     authors: Ian King and Stephen Mulrine
+     updated: 15 Feb 2006    
     -->
-  
 
 
 == England 2000/01
@@ -2489,24 +2490,3 @@ Final Table:
 ‹list of league cup winners, see page engleagcuphist›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-With thanks to Christopher Bird and Ricardo André
-
-Prepared and maintained by Ian King and Stephen Mulrine for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ian King
-and Stephen Mulrine
-
-Last updated: 15 Feb 2006
-
-
-(C) Copyright Ian King, Stephen Mulrine and RSSSF 2000/06
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

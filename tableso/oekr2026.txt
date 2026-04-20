@@ -1,8 +1,9 @@
   <!--
-     title:  Ukraine 2025/26
-     source: https://rsssf.org/tableso/oekr2026.html
+     title:   Ukraine 2025/26
+     source:  https://rsssf.org/tableso/oekr2026.html
+     author:  Theodore Dreiman
+     updated: 7 Apr 2026    
     -->
-  
 
 
 == Ukraine 2025/26
@@ -2493,21 +2494,3 @@ Penuel         -  Lokomotyv
 Dinaz          -  Kolos-2
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Theodore Dreiman
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Theodore Dreiman
-
-Last updated: 7 Apr 2026
-
-
-(C) Copyright Theodore Dreiman and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

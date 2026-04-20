@@ -1,8 +1,9 @@
   <!--
-     title:  Spain 2023/24
-     source: https://rsssf.org/tabless/span2024.html
+     title:   Spain 2023/24
+     source:  https://rsssf.org/tabless/span2024.html
+     author:  Karel Stokkermans
+     updated: 11 Oct 2024    
     -->
-  
 
 
 == Spain 2023/24
@@ -859,23 +860,3 @@ Promoted from 4th level: Ourense CF, Bilbao Athletic, Hércules CF (Alicante),
                          Marbella FC, Yeclano Deportivo (Yecla), Zamora CF
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Karel Stokkermans
-
-Last updated: 11 Oct 2024
-
-
-(C) Copyright Karel Stokkermans and RSSSF 2023/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

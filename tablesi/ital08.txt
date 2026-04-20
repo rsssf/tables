@@ -1,8 +1,9 @@
   <!--
-     title:  Italy 2007/08
-     source: https://rsssf.org/tablesi/ital08.html
+     title:   Italy 2007/08
+     source:  https://rsssf.org/tablesi/ital08.html
+     author:  Andrea Ferrigno
+     updated: 12 Aug 2009    
     -->
-  
 
 
 == Italy 2007/08
@@ -1064,22 +1065,3 @@ NB: Cagliari had 3 points deducted for having started a juridical procedure
 ‹list of 3rd division topscorers, see page ital3tops›.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Andrea Ferrigno for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author:
-Andrea Ferrigno
-
-Last updated: 12 Aug 2009
-
-
-(C) Copyright Andrea Ferrigno and RSSSF 2007/09
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

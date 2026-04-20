@@ -1,8 +1,9 @@
   <!--
-     title:  TR Northern Cyprus 2024/25
-     source: https://rsssf.org/tablesn/ncyp2025.html
+     title:   TR Northern Cyprus 2024/25
+     source:  https://rsssf.org/tablesn/ncyp2025.html
+     author:  Şener Yelkenci
+     updated: 31 May 2025    
     -->
-  
 
 
 == TR Northern Cyprus 2024/25
@@ -651,25 +652,3 @@ Final Table:
 
 NB: bonus points regular season (halved, rounded upwards) between square brackets
 
-
-
-
-
-== About this document  ‹§about›
-
-NB: the FA of TR North Cyprus is not recognised by UEFA or FIFA (and neither
-is the state); inclusion of results here exclusively serves football statistical
-purposes
-
-Prepared and maintained by Şener Yelkenci for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Şener Yelkenci
-
-Last updated: 31 May 2025
-
-
-(C) Copyright Şener Yelkenci and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

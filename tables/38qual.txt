@@ -1,8 +1,9 @@
   <!--
-     title:  WORLD CUP 1938 - QUALIFYING
-     source: https://rsssf.org/tables/38qual.html
+     title:   WORLD CUP 1938 - QUALIFYING
+     source:  https://rsssf.org/tables/38qual.html
+     author:  Barrie Courtney
+     updated: 5 Jun 2006    
     -->
-  
 
 
 == WORLD CUP 1938 - QUALIFYING
@@ -559,20 +560,3 @@ BUTLER, Jack                         GLENDENNING, Bob
 Referee: JEWELL, Arthur [ENGLAND]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Barrie Courtney for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Barrie Courtney
-
-Last updated: 5 Jun 2006
-
-
-(C) Copyright Barrie Courtney and RSSSF 2006
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

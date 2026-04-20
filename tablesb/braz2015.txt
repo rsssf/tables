@@ -1,8 +1,9 @@
   <!--
-     title:  Brazil 2015
-     source: https://rsssf.org/tablesb/braz2015.html
+     title:   Brazil 2015
+     source:  https://rsssf.org/tablesb/braz2015.html
+     author:  RSSSF Brazil
+     updated: 29 Dec 2021    
     -->
-  
 
 
 == Brazil 2015
@@ -2408,19 +2409,3 @@ Topscorer: Zé Carlos (CRB), 19 goals.
 Promoted: Vila Nova FC (Goiânia), Londrina EC,
           Tupi FC (Juiz de Fora), GE Brasil (Pelotas)
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
-
-Author: RSSSF Brazil
-Last updated: 29 Dec 2021
-
-
-(C) Copyright RSSSF and RSSSF Brazil 2015/21
-You are free to copy
-this document in whole or part provided that proper acknowledgement is given to
-the author. All rights reserved.
