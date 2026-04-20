@@ -16,7 +16,7 @@
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -269,11 +269,11 @@ Final Table:
 11.GAK 1902                     22   4  8 10  22-36  20                   ‹Relegation Playoff, see §releg›
 12.FC Blau-Weiß Linz            22   4  3 15  20-36  15                   ‹Relegation Playoff, see §releg›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 Table:
 
@@ -313,7 +313,7 @@ Table:
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-Relegation Playoff  ‹§releg›
+====== Relegation Playoff  ‹§releg›
 
 Table:
 

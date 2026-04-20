@@ -16,7 +16,7 @@
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -274,11 +274,11 @@ Final Table:
 11.SV Ried                      22   4  4 14  21-46  16  [P]  ‹Relegation Playoff, see §releg›
 12.FC Admira Wacker Mödling     22   3  5 14  22-50  14       ‹Relegation Playoff, see §releg›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -354,7 +354,7 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-Conference League Playoff  ‹§conf›
+===== Conference League Playoff  ‹§conf›
 
 NB: between fifth placed club from the championship playoff and the
     top-2 of the relegation playoff
@@ -370,7 +370,7 @@ Austria          3-0 Wolfsberg
 Second Leg [May 30]
 Wolfsberg        1-2 Austria
 
-Relegation Playoff  ‹§releg›
+====== Relegation Playoff  ‹§releg›
 
 Final Table:
 
@@ -450,7 +450,7 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 NB: as only clubs finishing first or second at the second level are entitled to
     direct promotion, Sankt Pölten are not relegated directly but play off

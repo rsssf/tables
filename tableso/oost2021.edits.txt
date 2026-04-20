@@ -1,3 +1,9 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="champ">Championship Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="conf">Conference League Playoff</a></a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="releg">Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹Bundesliga, see §bund›

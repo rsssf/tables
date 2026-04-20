@@ -843,7 +843,7 @@ Juventus: Neto, Barzagli, Bonucci, Chiellini, Dani Alves,
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Season  ‹§2reg›
+===== Regular Season  ‹§2reg›
 
 Final Table:
 
@@ -878,7 +878,7 @@ Final Table:
 NB: as the difference between 18th and 19th place is not less than 4 points, no playoff between
     Ternana and Trapani is held
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Round 1
 [May 22]

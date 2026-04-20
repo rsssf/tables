@@ -1,3 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="2reg">Regular Season</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2rel">Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹Serie A, see §seriea›

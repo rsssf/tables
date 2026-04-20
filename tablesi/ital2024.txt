@@ -834,7 +834,7 @@ Atalanta: Carnesecchi, De Roon (65 Toloi), Hien (59 Scalvini), Djimsiti,
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
 
-Regular Season  ‹§2reg›
+===== Regular Season  ‹§2reg›
 
 Final Table:
 
@@ -865,7 +865,7 @@ Final Table:
 
 Promoted from Serie C: Mantova 1911, Cesena FC, SS Juve Stabia, Carrarese Calcio 1908
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Round 1
 [May 17]
@@ -895,7 +895,7 @@ Cremonese       0-0 Venezia
 Second Leg [Jun 2]
 Venezia         1-0 Cremonese
 
-Relegation Playoff  ‹§2releg›
+===== Relegation Playoff  ‹§2releg›
 
 First Leg [May 17]
 Bari            1-1 Ternana

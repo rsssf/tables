@@ -16,7 +16,7 @@
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -276,11 +276,11 @@ Final Table:
 
 [*] WSG Wattens were renamed WSG Tirol and play home matches in Innsbruck
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -366,7 +366,7 @@ NB: LASK were deducted 4 points for training as a group at a time this
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-Europa League Playoff  ‹§eurpo›
+===== Europa League Playoff  ‹§eurpo›
 
 Semifinal [Jul 8]
 Austria          1-0 Altach
@@ -379,7 +379,7 @@ Austria          2-3 Hartberg
 Second Leg [Jul 15]
 Hartberg         0-0 Austria
 
-Relegation Playoff  ‹§releg›
+====== Relegation Playoff  ‹§releg›
 
 Final Table:
 

@@ -873,7 +873,7 @@ NB: as Austria Kärnten did not obtain a license, the playoff between
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 Final Table:
 
@@ -895,7 +895,7 @@ Final Table:
 15.SPG Axams-Götzens            30  4  2 24  54-98  14
 16.VfB Hohenems                 30  0  1 29  19-156  1
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 Final Table:
 
@@ -919,7 +919,7 @@ Final Table:
 
 [*] Pasching did not register for promotion playoff
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 Final Table:
 

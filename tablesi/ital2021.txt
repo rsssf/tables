@@ -838,7 +838,7 @@ Juventus: Buffon, Cuadrado, De Ligt, Chiellini, Danilo, McKennie, Bentancur, Rab
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Season  ‹§2reg›
+===== Regular Season  ‹§2reg›
 
 Final Table:
 
@@ -873,7 +873,7 @@ NB: as the difference between 16th and 17th place is not less than 4 points, no
 
 Promoted from Serie C: Como 1907, AC Perugia Calcio, Ternana Calcio, US Alessandria
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Round 1 [May 13]
 Cittadella      1-0 Brescia

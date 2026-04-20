@@ -789,7 +789,7 @@ Inter: Handanovic, Skriniar, De Vrij, D'Ambrosio (63 Dimarco), Darmian (63 Dumfr
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
 
-Regular Season  ‹§2reg›
+===== Regular Season  ‹§2reg›
 
 Final Table:
 
@@ -820,7 +820,7 @@ Final Table:
 
 Promoted from Serie C: FC Südtirol (Bolzano), Modena FC 2018, SSC Bari, Palermo FC
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Round 1
 [May 13]
@@ -852,7 +852,7 @@ Monza           2-1 Pisa
 Second Leg [May 29]
 Pisa            3-4 Monza           [aet]
 
-Relegation Playoff  ‹§2releg›
+===== Relegation Playoff  ‹§2releg›
 
 First Leg [May 12]
 Vicenza         1-0 Cosenza

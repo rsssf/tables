@@ -511,7 +511,7 @@ NB: no promotion/relegation matches as only one third level club (TSV Hartberg) 
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 Final Table:
 
@@ -535,7 +535,7 @@ Final Table:
 
 Promoted: FC Kitzbühel, FC Alberschwende, SV Wals-Grünau.
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 Final Table:
 
@@ -560,7 +560,7 @@ Final Table:
 
 Promoted: Union Vöcklamarkt, Wolfsberger AC Amateure, TuS Bad Gleichenberg
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 Final Table:
 
@@ -584,7 +584,7 @@ Final Table:
 
 Promoted: FC Karabakh Wien, ASK BSC Bruck/Leitha.
 
-Relegation Playoff (reserve sides)  ‹§relpores›
+====== Relegation Playoff (reserve sides)  ‹§relpores›
 
 First Leg [Jun 14]
 St. Pölten Juniors          1-2 Mattersburg Amateure

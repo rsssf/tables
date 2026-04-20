@@ -380,7 +380,7 @@ Final Table:
 
 NB: top level extended to 12 clubs for 2018/19
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 First Leg [May 31]
 Wiener Neustadt  0-2 Sankt Pölten
@@ -520,7 +520,7 @@ NB: no relegation as second level is extended to 16 clubs for 2018/19.
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 Final Table:
 
@@ -545,7 +545,7 @@ Final Table:
 NB: Wacker II is the only team from the league to have expressed an interest in promotion
     and obtained a license for the second level
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 Final Table:
 
@@ -573,7 +573,7 @@ NB: Lafnitz, Vorwärts Steyr, Juniors and Austria Klagenfurt are the four best p
     to have expressed an interest in promotion and obtained a license for the second level;
     no more than four teams from one regional league were allowed promotion
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 Final Table:
 

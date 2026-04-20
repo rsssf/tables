@@ -833,7 +833,7 @@ Juventus: Neto, Rugani, Barzagli, Chiellini, Lichtsteiner (Cuadrado 75),
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› |  ‹Relegation Playoff, see §2rel›
 
-Regular Season  ‹§2reg›
+===== Regular Season  ‹§2reg›
 
 Final Table:
 
@@ -864,7 +864,7 @@ Final Table:
 21.FC Modena           42  11  9 22  37-55  42  Relegated
 22.Calcio Como         42   5 18 19  39-64  33  [P]  Relegated
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Round 1
 [May 24]
@@ -896,7 +896,7 @@ Trapani         1-1 Pescara
 
 NB: Pescara promoted
 
-Relegation Playoff  ‹§2rel›
+===== Relegation Playoff  ‹§2rel›
 
 First Leg [Jun 4]
 Virtus Lanciano 1-4 Salernitana

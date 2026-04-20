@@ -856,7 +856,7 @@ Penalty Kicks: Dyabala (missed), Insigne, Danilo (missed), Politano,
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Season  ‹§2reg›
+===== Regular Season  ‹§2reg›
 
 Final Table:
 
@@ -885,7 +885,7 @@ Final Table:
 19.SS Juve Stabia      38  11  8 19  47-63  41  [P]                   Relegated
 20.AS Livorno Calcio   38   5  6 27  30-67  21                        Relegated
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Round 1
 [Aug 4]
@@ -921,7 +921,7 @@ Spezia          0-1 Frosinone
 
 NB: Spezia promoted on better record regular season
 
-Relegation Playoff  ‹§2rel›
+===== Relegation Playoff  ‹§2rel›
 
 First Leg [Aug 10]
 Pescara         2-1 Perugia

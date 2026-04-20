@@ -485,7 +485,7 @@ Final Table:
 
 [*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
 
-Promotion Playoff  ‹§2prorel›
+===== Promotion Playoff  ‹§2prorel›
 
 NB: both SV Austria Salzburg (who opened insolvency proceedings during the season) and
     SK Austria Klagenfurt (who were denied a second level license for next season in
@@ -504,7 +504,7 @@ NB: both SV Austria Salzburg (who opened insolvency proceedings during the seaso
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 Final Table:
 
@@ -531,7 +531,7 @@ Promoted: SAK 1914 (Salzburg) [FC Bergheim declined promotion]
           SV Wörgl (Tirol)
           VfB Hohenems (Vorarlberg)
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 Final Table:
 
@@ -558,7 +558,7 @@ Promoted: ATSV Wolfsberg (Kärnten) [ATUS Ferlach declined promotion]
           SV Grieskirchen (Oberösterreich)
           FC Gleisdorf 09 (Steiermark)
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 Final Table:
 

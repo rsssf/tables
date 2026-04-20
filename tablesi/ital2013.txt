@@ -835,7 +835,7 @@ Lazio: Marchetti, Konko, Biava, Cana, Radu, Ledesma
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Season  ‹§2reg›
+===== Regular Season  ‹§2reg›
 
 Final Table:
 
@@ -867,7 +867,7 @@ Final Table:
 
 Promoted: Avellino, Carpi, Latina, Trapani
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 

@@ -841,7 +841,7 @@ Fiorentina: Neto, Gonzalo Rodriguez, Savic, Pasqual (56 Mati
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› |  ‹Relegation Playoff, see §2rel›
 
-Regular Season  ‹§2reg›
+===== Regular Season  ‹§2reg›
 
 Final Table:
 
@@ -878,7 +878,7 @@ NB: AC Siena were dissolved at the end of the season due to bankruptcy; the club
 
 Promoted: Virtus Entella, Pro Vercelli, Perugia, Frosinone, Vicenza
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Round 1 [Jun 3]
 Crotone     0-3 Bari
@@ -906,7 +906,7 @@ Latina      1-2 Cesena
 
 NB: Cesena promoted
 
-Relegation Playoff  ‹§2rel›
+===== Relegation Playoff  ‹§2rel›
 
 First Leg [Jun 6]
 Novara      0-2 Varese

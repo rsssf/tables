@@ -490,7 +490,7 @@ Final Table:
 
 [*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
 
-Promotion Playoff  ‹§2prorel›
+===== Promotion Playoff  ‹§2prorel›
 
 Promoted: SV Austria Salzburg (winners Regionalliga West) (directly);
           winners playoff between SK Austria Klagenfurt (winners Regionalliga Mitte)
@@ -514,7 +514,7 @@ NB: SK Austria Klagenfurt promoted
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 Final Table:
 
@@ -541,7 +541,7 @@ Promoted: USK Anif (Salzburg)
           SVG Reichenau (Tirol)
           SW Bregenz (Vorarlberg)
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 Final Table:
 
@@ -568,7 +568,7 @@ Promoted: Annabichler SV (Kärnten)
           ATSV Stadl-Paura (Oberösterreich)
           Deutschlandsberger SC (Steiermark)
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 Final Table:
 

@@ -1264,7 +1264,7 @@ Palermo: Sirigu, Cassani, Goian (24 Carrozzieri), Munoz,
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
 
-Regular Season  ‹§2reg›
+===== Regular Season  ‹§2reg›
 
 Final Table:
 
@@ -1854,7 +1854,7 @@ Final Table:
 22.Frosinone Calcio    42   8 14 20  46-64  38  Relegated
 
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -1878,7 +1878,7 @@ Novara      2-0 Padova
 
 NB: Novara promoted
 
-Relegation Playoff  ‹§2releg›
+===== Relegation Playoff  ‹§2releg›
 
 First Leg [Jun 4]
 Piacenza    0-0 AlbinoLeffe
@@ -1897,7 +1897,7 @@ NB: Piacenza relegated on worse regular season record
 
 ‹Gruppo A, see §3a› | ‹Gruppo B, see §3b›
 
-Gruppo A  ‹§3a›
+===== Gruppo A  ‹§3a›
 
 Table:
 
@@ -2330,7 +2330,7 @@ Round 14
 16' Giuseppe Meloni (1-0); 44' Giuseppe Le Noci (1-1)
 
 
-Gruppo B  ‹§3b›
+===== Gruppo B  ‹§3b›
 
 Table:
 
@@ -2772,7 +2772,7 @@ Round 14
 
 ‹Gruppo A, see §4a› | ‹Gruppo B, see §4b› | ‹Gruppo C, see §4c›
 
-Gruppo A  ‹§4a›
+===== Gruppo A  ‹§4a›
 
 Table:
 
@@ -3134,7 +3134,7 @@ Round 13
 [21/11/2010] Virtus Entella                                1-1 Pro Patria Aurora
 24' Giampaolo Calzi (0-1); 90' Gianluca Soragna (1-1)
 
-Gruppo B  ‹§4b›
+===== Gruppo B  ‹§4b›
 
 Table:
 
@@ -3442,7 +3442,7 @@ Round 11
 
 [14/11/2010] Villacidrese                                  1-2 Crociati Noceto
 
-Gruppo C  ‹§4c›
+===== Gruppo C  ‹§4c›
 
 Table:
 
@@ -3763,7 +3763,7 @@ Round 11
 ‹Gruppo F, see §5f› | ‹Gruppo G, see §5g› | ‹Gruppo H, see §5h› | ‹Gruppo I, see §5i› |
 
 
-Gruppo A  ‹§5a›
+===== Gruppo A  ‹§5a›
 
 Table:
 
@@ -3956,7 +3956,7 @@ Novese S.R.L.                           1-1 Valleeaoste St Christophe
 Rivoli                                  1-3 1913 Seregno Calcio S.R.L
 Sarzanese Calcio 1906 Srl               3-0 Chiavari Calcio Caperana
 
-Gruppo B  ‹§5b›
+===== Gruppo B  ‹§5b›
 
 Table:
 
@@ -4111,7 +4111,7 @@ Trento Calcio 1921 S.R.L.               1-2 Olginatese
 Villafranca Veronese                    4-4 Calcio Colognese
 Virtusvecomp Verona                     0-1 Alzano Cene 1909 S.R.L.
 
-Gruppo C  ‹§5c›
+===== Gruppo C  ‹§5c›
 
 Table:
 
@@ -4269,7 +4269,7 @@ Tamai                                   4-1 Opitergina
 Treviso 2009                            3-1 Unione Venezia S.R.L.
 Union Quinto                            1-2 San Paolo Padova S.R.L.
 
-Gruppo D  ‹§5d›
+===== Gruppo D  ‹§5d›
 
 Table:
 
@@ -4424,7 +4424,7 @@ Rosignano Sei Rose                      0-1 Mezzolara
 Russi S.R.L. Ssd                        0-1 Nuova Verolese Calcio Asd
 Virtus Pavullese                        1-2 Borgo A Buggiano 1920
 
-Gruppo E  ‹§5e›
+===== Gruppo E  ‹§5e›
 
 Table:
 
@@ -4579,7 +4579,7 @@ Sestese Calcio A.S.D.                   1-1 Monteriggioni A.S.D.
 Sporting Terni S.R.L.                   3-3 Montevarchi C.A. 1902 Srl
 Todi Calcio                             2-0 Fortis Juventus 1909
 
-Gruppo F  ‹§5f›
+===== Gruppo F  ‹§5f›
 
 Table:
 
@@ -4772,7 +4772,7 @@ Rimini 1912 S.S.D. A.R.L.               1-1 Teramo Calcio S.R.L.
 Santarcangelo                           1-0 Real Rimini Siti Fc Srl
 Santegidiese S.R.L.                     4-1 Bikkembergs Fossombr. Srl
 
-Gruppo G  ‹§5g›
+===== Gruppo G  ‹§5g›
 
 Table:
 
@@ -4928,7 +4928,7 @@ Sanluri Calcio                          0-1 Tavolara Calcio Srl
 Selargius Calcio                        1-3 Cynthia 1920
 Viribus Unitis S.R.L.                   1-0 Fidene S.R.L. S.S.D
 
-Gruppo H  ‹§5h›
+===== Gruppo H  ‹§5h›
 
 Table:
 
@@ -5083,7 +5083,7 @@ Ostuni Sport                            1-1 Calcio Pomigliano
 Sant Antonio Abate                      1-1 Angri Calcio 1927 A.S.D.
 Virtus Casarano                         1-2 Fortis Trani S.R.L.
 
-Gruppo I  ‹§5i›
+===== Gruppo I  ‹§5i›
 
 Table:
 

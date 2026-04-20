@@ -16,7 +16,7 @@
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -288,11 +288,11 @@ Final Table:
 11.Wattener SG Tirol            22   4  2 16  20-42  14                        ‹Relegation Playoff, see §releg›
 12.SC Austria Lustenau          22   2  4 16  13-49  10                        ‹Relegation Playoff, see §releg›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -374,7 +374,7 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-Conference League Playoff  ‹§conf›
+===== Conference League Playoff  ‹§conf›
 
 NB: between fifth placed club from the championship playoff and the
     top-2 of the relegation playoff
@@ -390,7 +390,7 @@ Austria W        2-1 Hartberg
 Second Leg [May 28]
 Hartberg         0-1 Austria W
 
-Relegation Playoff  ‹§releg›
+====== Relegation Playoff  ‹§releg›
 
 Final Table:
 
@@ -1026,7 +1026,7 @@ NB: SW Bregenz 3 points deducted for fielding 3 Brazilian players who did not ha
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 Final Table:
 
@@ -1051,7 +1051,7 @@ Final Table:
 
 NB: SPG Silz/Mötz voluntarily withdrew at the end of the season
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 Final Table:
 
@@ -1076,7 +1076,7 @@ Final Table:
 
 [*] Welser SC Hertha were renamed SPG Wels
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 Final Table:
 
@@ -1108,7 +1108,7 @@ Final Table:
 
 NB: winners qualify for ÖFB-Cup 2024/25.
 
-BFV-Cup (Burgenland) 2023/24  ‹§burgcup›
+===== BFV-Cup (Burgenland) 2023/24  ‹§burgcup›
 
 1/8 Finals
 [Oct 17]
@@ -1141,7 +1141,7 @@ SK Pama                       0-2 ASV Draßburg
 Final [May 29]
 ASV Siegendorf                1-1 ASV Draßburg                  [4-2 pen]
 
-Kärnten-Cup 2023/24  ‹§kaerncup›
+===== Kärnten-Cup 2023/24  ‹§kaerncup›
 
 1/8 Finals
 [Oct 25]
@@ -1175,7 +1175,7 @@ TSV Grafenstein               0-2 ASKÖ Köttmannsdorf
 Second Leg [Jun 4]
 ASKÖ Köttmannsdorf            1-3 TSV Grafenstein               [5-4 pen]
 
-NÖ Meistercup (Niederösterreich) 2023/24  ‹§noecup›
+===== NÖ Meistercup (Niederösterreich) 2023/24  ‹§noecup›
 
 1/8 Finals
 [Oct 25]
@@ -1209,7 +1209,7 @@ SK Korneuburg                 1-1 UFC St.Peter/Au
 Second Leg [May 20]
 UFC St. Peter/Au              1-2 SK Korneuburg
 
-OÖ-Landescup (Oberösterreich) 2023/24  ‹§ooecup›
+===== OÖ-Landescup (Oberösterreich) 2023/24  ‹§ooecup›
 
 1/8 Finals [Aug 22]
 Union Eberstalzell            2-5 SC Schwanenstadt
@@ -1235,7 +1235,7 @@ ASKÖ Oedt                     2-0 SV Bad Schallerbach
 Final [May 30]
 ASKÖ Oedt                     3-0 USC Ostermiething
 
-Salzburger Landescup 2023/24  ‹§salzcup›
+===== Salzburger Landescup 2023/24  ‹§salzcup›
 
 NB: 54 participating teams
 
@@ -1266,7 +1266,7 @@ SV Kuchl                      4-1 TSV St. Johann
 Final [May 15]
 FC Pinzgau Saalfelden         2-1 SV Kuchl
 
-Steirer-Cup 2023/24  ‹§steicup›
+===== Steirer-Cup 2023/24  ‹§steicup›
 
 1/8 Finals [Oct 24]
 SV Stein/Enns                 0-5 FC St. Margarethen/Knittelfeld
@@ -1291,7 +1291,7 @@ FC Gamlitz                    2-4 TUS Bad Gleichenberg
 Final [May 21]
 TUS Bad Gleichenberg          1-2 Deutschlandsberger SC
 
-Tirol-Cup 2023/24  ‹§tircup›
+===== Tirol-Cup 2023/24  ‹§tircup›
 
 1/8 Finals [Apr 1]
 FC Kitzbühel                  1-1 SC Münster                    [5-6 pen]
@@ -1318,7 +1318,7 @@ SVG Reichenau                 5-0 SV Hall
 Final [May 20]
 SVG Reichenau                 4-0 FC Volders
 
-VFV-Cup (Vorarlberg) 2023/24  ‹§vorcup›
+===== VFV-Cup (Vorarlberg) 2023/24  ‹§vorcup›
 
 1/8 Finals
 [Oct 25]
@@ -1349,7 +1349,7 @@ FC Alberschwende              1-3 VfB Hohenems
 Final [Jun 15]
 VfB Hohenems                  4-2 Rot-Weiß Rankweil
 
-Wiener Landescup 2023/24  ‹§wiencup›
+===== Wiener Landescup 2023/24  ‹§wiencup›
 
 1/8 Finals
 [Feb 10]

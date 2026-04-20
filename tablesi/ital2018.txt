@@ -827,7 +827,7 @@ Milan: G. Donnarumma, Calabria, Bonucci, Romagnoli, Rodriguez, Kessie, Locatelli
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Season  ‹§2reg›
+===== Regular Season  ‹§2reg›
 
 Final Table:
 
@@ -862,7 +862,7 @@ NB: third successive promotion for Parma Calcio
 
 Promoted from Serie C: AS Livorno Calcio, Calcio Padova, US Lecce, Cosenza Calcio
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Round 1 [Jun 3]
 Cittadella      2-2 Bari            [aet]
@@ -892,7 +892,7 @@ Frosinone       2-0 Palermo
 
 NB: Frosinone Calcio promoted
 
-Relegation Playoff  ‹§2rel›
+===== Relegation Playoff  ‹§2rel›
 
 First Leg [May 24]
 Virtus Entella  0-0 Ascoli

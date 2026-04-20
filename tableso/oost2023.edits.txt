@@ -1,3 +1,20 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="champ">Championship Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="conf">Conference League Playoff</a></a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="releg">Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="regwest">Regionalliga West</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="regmitte">Regionalliga Mitte</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="regost">Regionalliga Ost</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="burgcup">Burgenland-Cup 2022/23</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="kaerncup">Kärnten Cup 2022/23</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="noecup">NÖ (Niederösterreich) Cup 2022/23</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="ooecup">OÖ (Oberösterreich) Landescup 2022/23</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="salzcup">SFV (Salzburg) Cup 2022/23</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="steicup">Steirer Cup 2022/23</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="tircup">Tirol-Cup 2022/23</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="vorcup">VFV (Vorarlberg) Cup 2022/23</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="wiencup">Wiener Landescup 2022/23</a><
 -- removing nav(igation) section:
 
 ‹Bundesliga, see §bund›

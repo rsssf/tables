@@ -877,7 +877,7 @@ Juventus: Storari, Barzagli, Bonucci, Chiellini, Evra, Lichtsteiner
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› |  ‹Relegation Playoff, see §2rel›
 
-Regular Season  ‹§2reg›
+===== Regular Season  ‹§2reg›
 
 Final Table:
 
@@ -913,7 +913,7 @@ NB: Brescia (and Virtus Entella) reprieved from relegation due to bankruptcy of
 
 Promoted: Ascoli, Como, Novara and Salernitana
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Round 1 [May 26]
 Perugia         1-2 Pescara
@@ -941,7 +941,7 @@ Bologna         1-1 Pescara
 
 NB: Bologna promoted on better regular season record
 
-Relegation Playoff  ‹§2rel›
+===== Relegation Playoff  ‹§2rel›
 
 First Leg [May 30]
 Virtus Entella  2-2 Modena

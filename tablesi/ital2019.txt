@@ -883,7 +883,7 @@ Atalanta: Gollini, Palomino, Djimsiti, Masiello, Hateboer, de Roon (Pasalic 84),
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Season  ‹§2reg›
+===== Regular Season  ‹§2reg›
 
 Final Table:
 
@@ -918,7 +918,7 @@ Final Table:
 
 NB: AS Bari, AC Cesena and Avellino Calcio were excluded
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Round 1
 [May 17]
@@ -950,7 +950,7 @@ Hellas Verona   3-0 Cittadella
 
 NB: Hellas Verona promoted
 
-Relegation Playoff  ‹§2rel›
+===== Relegation Playoff  ‹§2rel›
 
 First Leg [Jun 5]
 Salernitana     2-1 Venezia

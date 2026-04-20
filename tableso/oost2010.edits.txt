@@ -1,3 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="regwest">Regionalliga West</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="regmitte">Regionalliga Mitte</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="regost">Regionalliga Ost</a><
 -- removing nav(igation) section:
 
 ‹Bundesliga, see §bund›

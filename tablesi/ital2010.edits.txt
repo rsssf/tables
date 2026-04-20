@@ -1,3 +1,28 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="2reg">Regular Season</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3a">Gruppo A</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3b">Gruppo B</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3rel">Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3sup">Prima Divisione Lega Pro Supercup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="4a">Gruppo A</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="4b">Gruppo B</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="4c">Gruppo C</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="4prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="4rel">Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="4sup">Seconda Divisione Supercup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5a">Gruppo A</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5b">Gruppo B</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5c">Gruppo C</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5d">Gruppo D</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5e">Gruppo E</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5f">Gruppo F</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5g">Gruppo G</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5h">Gruppo H</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5i">Gruppo I</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5champ">Amateur Championship</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5rel">Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹Serie A, see §seriea›

@@ -497,7 +497,7 @@ NB: Kapfenberg and Vienna were refused a license for 2014/15;
     Kapfenberg successfully appealed
 
 
-Promotion/Relegation Playoff  ‹§2prorel›
+===== Promotion/Relegation Playoff  ‹§2prorel›
 
 Participants:
 SC/ESV Parndorf (1.Liga)
@@ -523,7 +523,7 @@ NB: Parndorf relegated, LASK and FAC promoted
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 Final Table:
 
@@ -548,7 +548,7 @@ Final Table:
 
 Promoted: FC Pinzgau Saalfelden (Salzburg), FC Kitzbühel (Tirol), FC Bizau (Vorarlberg)
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 Final Table:
 
@@ -573,7 +573,7 @@ Final Table:
 
 Promoted: ATSV Wolfsberg (Kärnten), Union Gurten (Oberösterreich), SC Weiz (Steiermark)
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 Final Table:
 

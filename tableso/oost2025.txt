@@ -16,7 +16,7 @@
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -272,11 +272,11 @@ Final Table:
 11.GAK 1902                     22   3  7 12  27-45  16  [P]  [2 1 1 0 3-2 4]  ‹Relegation Playoff, see §releg›
 12.SC Rheindorf Altach          22   3  7 12  20-35  16       [2 0 1 1 2-3 1]  ‹Relegation Playoff, see §releg›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -358,7 +358,7 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-Conference League Playoff  ‹§conf›
+===== Conference League Playoff  ‹§conf›
 
 NB: between fifth placed club from the championship playoff and the
     top-2 of the relegation playoff
@@ -374,7 +374,7 @@ LASK             3-1 Rapid
 Second Leg [Jun 1]
 Rapid            3-0 LASK
 
-Relegation Playoff  ‹§releg›
+====== Relegation Playoff  ‹§releg›
 
 Final Table:
 
@@ -1017,7 +1017,7 @@ Final Table:
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 Final Table:
 
@@ -1043,7 +1043,7 @@ Final Table:
 NB: FC Dornbirn have appealed the decision to rank them last and forcibly
     demote them because of financial reasons
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 Final Table:
 
@@ -1068,7 +1068,7 @@ Final Table:
 
 [*] SPG Wels were renamed FC Hertha Wels
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 Final Table:
 
@@ -1102,7 +1102,7 @@ Final Table:
 
 NB: winners qualify for ÖFB-Cup 2025/26.
 
-BFV-Cup (Burgenland) 2024/25  ‹§burgcup›
+===== BFV-Cup (Burgenland) 2024/25  ‹§burgcup›
 
 1/8 Finals
 [Aug 14]
@@ -1136,7 +1136,7 @@ SV Wulkaprodersdorf           0-3 SC/ESV Parndorf 1919
 Final [Jun 9]
 SC/ESV Parndorf 1919          4-1 UFC Jennersdorf
 
-Kärnten-Cup 2024/25  ‹§kaerncup›
+===== Kärnten-Cup 2024/25  ‹§kaerncup›
 
 1/8 Finals [Sep 10]
 SV Spittal/Drau               3-2 SK Treibach
@@ -1169,7 +1169,7 @@ FC Lendorf                    1-2 Ferlach ATUS
 Second Leg [Jun 13]
 Ferlach ATUS                  0-1 FC Lendorf                    [2-4 pen]
 
-NÖ Meistercup (Niederösterreich) 2024/25  ‹§noecup›
+===== NÖ Meistercup (Niederösterreich) 2024/25  ‹§noecup›
 
 1/8 Finals
 [Aug 13]
@@ -1202,7 +1202,7 @@ SC Hirschwang                 5-1 SC Sitzenberg-Reidling
 Second Leg [Jun 9]
 SC Sitzenberg-Reidling        2-2 SC Hirschwang
 
-OÖ-Landescup (Oberösterreich) 2024/25  ‹§ooecup›
+===== OÖ-Landescup (Oberösterreich) 2024/25  ‹§ooecup›
 
 1/8 Finals [Aug 20]
 Union Ried/Riedmark           2-3 ASK St. Valentin
@@ -1229,7 +1229,7 @@ Union Dietach                 0-1 SV Bad Schallerbach           [aet]
 Final [May 29]
 SV Bad Schallerbach           1-3 UVB Vöcklamarkt
 
-Salzburger Landescup 2024/25  ‹§salzcup›
+===== Salzburger Landescup 2024/25  ‹§salzcup›
 
 1/8 Finals
 [Sep 4]
@@ -1259,7 +1259,7 @@ Bischofshofen SK 1933         2-1 UFC Siezenheim
 Final [May 14, St. Johann/Pg.]
 Bischofshofen SK 1933         0-1 FC Pinzgau Saalfelden
 
-Steirer-Cup 2024/25  ‹§steicup›
+===== Steirer-Cup 2024/25  ‹§steicup›
 
 1/8 Finals [Nov 16]
 TUS Bad Waltersdorf           3-4 FC Gleisdorf 09
@@ -1288,7 +1288,7 @@ FC Kindberg-Mürzhofen         1-3 SV Tillmitsch
 Final [Jun 9]
 SV Tillmitsch                 3-0 Deutschlandsberger SC
 
-Tirol-Cup 2024/25  ‹§tircup›
+===== Tirol-Cup 2024/25  ‹§tircup›
 
 1/8 Finals
 [Apr 16]
@@ -1319,7 +1319,7 @@ SVG Reichenau                 1-0 WSG Tirol Juniors
 Final [Jun 9]
 FC Wacker Innsbruck           1-1 SVG Reichenau                 [4-5 pen]
 
-VFV-Cup (Vorarlberg) 2024/25  ‹§vorcup›
+===== VFV-Cup (Vorarlberg) 2024/25  ‹§vorcup›
 
 1/8 Finals
 [Sep 3]
@@ -1350,7 +1350,7 @@ VfB Hohenems                  1-1 FC Röthis                     [aet, 8-9 pen]
 Final [Jun 4]
 FC Röthis                     1-3 FC Dornbirn 1913
 
-Wiener Landescup 2024/25  ‹§wiencup›
+===== Wiener Landescup 2024/25  ‹§wiencup›
 
 1/8 Finals
 [Feb 18]

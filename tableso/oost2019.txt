@@ -16,7 +16,7 @@
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -268,11 +268,11 @@ Final Table:
 11.SC Rheindorf Altach          22   4  6 12  30-32  18       ‹Relegation Playoff, see §releg›
 12.FC Wacker Innsbruck          22   4  5 13  17-34  17  [P]  ‹Relegation Playoff, see §releg›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -348,7 +348,7 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between square brackets),
     rounded downwards (marked by * where applicable)
 
-Europa League Playoff  ‹§eurpo›
+===== Europa League Playoff  ‹§eurpo›
 
 Semifinal [May 28]
 Rapid            2-0 Mattersburg
@@ -363,7 +363,7 @@ Sturm            0-1 Rapid
 
 NB: Sturm qualified on away goals rule
 
-Relegation Playoff  ‹§releg›
+====== Relegation Playoff  ‹§releg›
 
 Final Table:
 
@@ -585,7 +585,7 @@ Promoted: GAK, FC Dornbirn
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 Final Table:
 
@@ -611,7 +611,7 @@ NB: next season, the Regionalliga West is split in three: Eliteliga Salzburg,
     Eliteliga Tirol and Eliteliga Vorarlberg, each with 10 clubs; the top-2
     of each will then play off for promotion to the second level
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 Final Table:
 
@@ -634,7 +634,7 @@ Final Table:
 15.FC Lendorf                   30   5  5 20  32-77  20  [P]  Relegated
 16.FC Wels                      30   3  7 20  30-85  16  [P]  Relegated
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 Final Table:
 
