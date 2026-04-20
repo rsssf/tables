@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 1999/2000
-     source: https://rsssf.org/tableso/oost00.html
+     title:   Austria 1999/2000
+     source:  https://rsssf.org/tableso/oost00.html
+     authors: Andreas Exenberger, Karel Stokkermans and Gerhard Öhlinger
+     updated: 15 Jun 2022    
     -->
-  
 
 
 == Austria 1999/2000
@@ -4029,25 +4030,3 @@ additional single round robin Play offs.
 No relegation, lowest class.
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Andreas Exenberger, Karel Stokkermans
-and Gerhard Öhlinger for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Andreas Exenberger,
-Karel Stokkermans
-and Gerhard Öhlinger
-
-Last updated: 15 Jun 2022
-
-
-(C) Copyright Andreas Exenberger, Karel Stokkermans, Gerhard Öhlinger
-and RSSSF 1999/2022
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

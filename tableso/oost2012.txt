@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2011/12
-     source: https://rsssf.org/tableso/oost2012.html
+     title:   Austria 2011/12
+     source:  https://rsssf.org/tableso/oost2012.html
+     authors: Hans Schöggl, Jan Schoenmakers and Karel Stokkermans
+     updated: 7 Mar 2023    
     -->
-  
 
 
 == Austria 2011/12
@@ -320,23 +321,3 @@ Final [May 28]
 Kapfenberger SV Amateure      3-2 Deutschlandsberger SC
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl,
-Jan Schoenmakers and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hans Schöggl, Jan Schoenmakers and Karel Stokkermans
-
-Last updated: 7 Mar 2023
-
-
-(C) Copyright Hans Schöggl, Jan Schoenmakers, Karel Stokkermans
-and RSSSF 2012/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

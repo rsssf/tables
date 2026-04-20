@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 1982/83
-     source: https://rsssf.org/tableso/oost83.html
+     title:   Austria 1982/83
+     source:  https://rsssf.org/tableso/oost83.html
+     author:  Ambrosius Kutschera
+     updated: 10 Oct 2004    
     -->
-  
 
 
 == Austria 1982/83
@@ -473,20 +474,3 @@ SK Kufstein (West)
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Ambrosius Kutschera
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Ambrosius Kutschera
-Last updated: 10 Oct 2004
-
-
-(C) Copyright Ambrosius Kutschera and RSSSF 2003/04
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

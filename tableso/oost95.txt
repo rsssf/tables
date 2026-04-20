@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 1994/95
-     source: https://rsssf.org/tableso/oost95.html
+     title:   Austria 1994/95
+     source:  https://rsssf.org/tableso/oost95.html
+     authors: Ambrosius Kutschera and Karel Stokkermans
+     updated: 31 Oct 2004    
     -->
-  
 
 
 == Austria 1994/95
@@ -1123,23 +1124,3 @@ II, FC Hochfilzen, FC Ehrwald, SV Ried im Oberinntal, FC St.Anton
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Ambrosius Kutschera
-and Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Ambrosius Kutschera
-and Karel Stokkermans
-Last updated: 31 Oct 2004
-
-
-(C) Copyright Ambrosius Kutschera,
-Karel Stokkermans and RSSSF 1999/2004
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

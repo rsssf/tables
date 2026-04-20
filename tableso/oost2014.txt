@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2013/14
-     source: https://rsssf.org/tableso/oost2014.html
+     title:   Austria 2013/14
+     source:  https://rsssf.org/tableso/oost2014.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 7 Mar 2023    
     -->
-  
 
 
 == Austria 2013/14
@@ -663,22 +664,3 @@ FC Piberstein Lankowitz       3-1 SV Frohnleiten
 Final [Jun 9]
 FC Zeltweg                    1-4 FC Piberstein Lankowitz
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hans Schöggl and Karel Stokkermans
-
-Last updated: 7 Mar 2023
-
-
-(C) Copyright Hans Schöggl, Karel Stokkermans
-and RSSSF 2013/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

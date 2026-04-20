@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 1997/98
-     source: https://rsssf.org/tableso/oost98.html
+     title:   Austria 1997/98
+     source:  https://rsssf.org/tableso/oost98.html
+     author:  RSSSF
+     updated: 15 Jun 2022    
     -->
-  
 
 
 == Austria 1997/98
@@ -1789,20 +1790,3 @@ Standings (26-04)
 [Top-3 finished: 1. FC Lustenau 1b; 2. SW Bregenz Amateure; 3. FC Lauterach 1b]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by the ‹RSSSF, see page ../nersssf›
-
-
-Author: RSSSF
-
-Last updated: 15 Jun 2022
-
-
-(C) Copyright RSSSF 1999/2022
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the RSSSF. All rights reserved.

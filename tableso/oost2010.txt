@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2009/10
-     source: https://rsssf.org/tableso/oost2010.html
+     title:   Austria 2009/10
+     source:  https://rsssf.org/tableso/oost2010.html
+     authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
+     updated: 7 Mar 2023    
     -->
-  
 
 
 == Austria 2009/10
@@ -1010,24 +1011,3 @@ TUS Paldau                    3-2 SK Werndorf
 Final [Jun 19]
 SV Lafnitz                    0-2 TUS Paldau
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Andreas Exenberger, Hans Schöggl
-and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Andreas Exenberger, Hans Schöggl
-and Karel Stokkermans
-
-Last updated: 7 Mar 2023
-
-
-(C) Copyright Andreas Exenberger, Hans Schöggl, Karel Stokkermans
-and RSSSF 2009/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

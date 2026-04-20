@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2020/21
-     source: https://rsssf.org/tableso/oost2021.html
+     title:   Austria 2020/21
+     source:  https://rsssf.org/tableso/oost2021.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 7 Mar 2023    
     -->
-  
 
 
 == Austria 2020/21
@@ -1052,24 +1053,3 @@ Semifinals [Jun 2 - cancelled]
 Final [Jun 26 - cancelled]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hans Schöggl and Karel Stokkermans
-
-Last updated: 7 Mar 2023
-
-
-(C) Copyright Hans Schöggl, Karel Stokkermans
-and RSSSF 2020/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

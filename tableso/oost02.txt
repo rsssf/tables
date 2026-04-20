@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2001/02
-     source: https://rsssf.org/tableso/oost02.html
+     title:   Austria 2001/02
+     source:  https://rsssf.org/tableso/oost02.html
+     authors: Andreas Exenberger and Karel Stokkermans
+     updated: 15 Jun 2022    
     -->
-  
 
 
 == Austria 2001/02
@@ -3189,25 +3190,3 @@ No relegation, lowest class.
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Andreas Exenberger
-and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors:
-Andreas Exenberger
-and Karel Stokkermans
-
-Last updated: 15 Jun 2022
-
-
-(C) Copyright Andreas Exenberger, Karel Stokkermans
-and RSSSF 2001/22
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

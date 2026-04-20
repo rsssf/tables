@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 1991/92
-     source: https://rsssf.org/tableso/oost92.html
+     title:   Austria 1991/92
+     source:  https://rsssf.org/tableso/oost92.html
+     author:  Ambrosius Kutschera
+     updated: 16 Apr 2003    
     -->
-  
 
 
 == Austria 1991/92
@@ -486,20 +487,3 @@ Cup winners: Austria Wien
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Ambrosius Kutschera
-for the ‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Ambrosius Kutschera
-Last updated: 16 Apr 2003
-
-
-(C) Copyright Ambrosius Kutschera and RSSSF 1999/2003
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2025/26
-     source: https://rsssf.org/tableso/oost2026.html
+     title:   Austria 2025/26
+     source:  https://rsssf.org/tableso/oost2026.html
+     author:  Hans Schöggl
+     updated: 24 Mar 2026    
     -->
-  
 
 
 == Austria 2025/26
@@ -447,21 +448,3 @@ SV Ried                             1-2 LASK                                [aet
 Final [May 1, Klagenfurt]
 SCR Altach                           -  LASK
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Hans Schöggl
-
-Last updated: 24 Mar 2026
-
-
-(C) Copyright Hans Schöggl and RSSSF 2025/26
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

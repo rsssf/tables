@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2019/20
-     source: https://rsssf.org/tableso/oost2020.html
+     title:   Austria 2019/20
+     source:  https://rsssf.org/tableso/oost2020.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 7 Mar 2023    
     -->
-  
 
 
 == Austria 2019/20
@@ -658,22 +659,3 @@ Semifinals [May 5 - cancelled]
 
 Final [May 21 - cancelled]
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hans Schöggl and Karel Stokkermans
-
-Last updated: 7 Mar 2023
-
-
-(C) Copyright Hans Schöggl, Karel Stokkermans
-and RSSSF 2019/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2021/22
-     source: https://rsssf.org/tableso/oost2022.html
+     title:   Austria 2021/22
+     source:  https://rsssf.org/tableso/oost2022.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 5 Apr 2023    
     -->
-  
 
 
 == Austria 2021/22
@@ -1160,22 +1161,3 @@ SV Klöch                      0-2 SV Frauental
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hans Schöggl and Karel Stokkermans
-
-Last updated: 5 Apr 2023
-
-
-(C) Copyright Hans Schöggl, Karel Stokkermans
-and RSSSF 2021/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

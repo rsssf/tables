@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2022/23
-     source: https://rsssf.org/tableso/oost2023.html
+     title:   Austria 2022/23
+     source:  https://rsssf.org/tableso/oost2023.html
+     author:  Hans Schöggl
+     updated: 14 Jun 2024    
     -->
-  
 
 
 == Austria 2022/23
@@ -1284,23 +1285,3 @@ Final [May 24]
 SV Dinamo Helfort             0-2 Austria XIII
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Hans Schöggl for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Hans Schöggl
-
-Last updated: 14 Jun 2024
-
-
-(C) Copyright Hans Schöggl and RSSSF 2022/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

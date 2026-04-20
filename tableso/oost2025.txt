@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2024/25
-     source: https://rsssf.org/tableso/oost2025.html
+     title:   Austria 2024/25
+     source:  https://rsssf.org/tableso/oost2025.html
+     author:  Hans Schöggl
+     updated: 7 Jul 2025    
     -->
-  
 
 
 == Austria 2024/25
@@ -1381,21 +1382,3 @@ Royal Persia                  1-2 SV Dinamo Helfort
 Final [May 20]
 Red Star Penzing              0-2 SV Dinamo Helfort
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Hans Schöggl
-
-Last updated: 7 Jul 2025
-
-
-(C) Copyright Hans Schöggl and RSSSF 2024/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2016/17
-     source: https://rsssf.org/tableso/oost2017.html
+     title:   Austria 2016/17
+     source:  https://rsssf.org/tableso/oost2017.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 7 Mar 2023    
     -->
-  
 
 
 == Austria 2016/17
@@ -661,21 +662,3 @@ Final [Jun 5]
 USV Weindorf St. Anna/Aigen   0-0 Deutschlandsberger SC         [aet, 3-5 pen]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hans Schöggl and Karel Stokkermans
-
-Last updated: 7 Mar 2023
-
-
-(C) Copyright Hans Schöggl, Karel Stokkermans and RSSSF 2016/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2008/09
-     source: https://rsssf.org/tableso/oost09.html
+     title:   Austria 2008/09
+     source:  https://rsssf.org/tableso/oost09.html
+     authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
+     updated: 15 Jul 2022    
     -->
-  
 
 
 == Austria 2008/09
@@ -1033,24 +1034,3 @@ Final [Jun 17]
 Deutschlandsberger SC         2-4 FC Gleisdorf 09               [aet]
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Andreas Exenberger, Hans Schöggl
-and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Andreas Exenberger, Hans Schöggl
-and Karel Stokkermans
-
-Last updated: 15 Jul 2022
-
-
-(C) Copyright Andreas Exenberger, Hans Schöggl, Karel Stokkermans
-and RSSSF 2008/22
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

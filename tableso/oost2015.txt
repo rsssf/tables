@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2014/15
-     source: https://rsssf.org/tableso/oost2015.html
+     title:   Austria 2014/15
+     source:  https://rsssf.org/tableso/oost2015.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 7 Mar 2023    
     -->
-  
 
 
 == Austria 2014/15
@@ -667,24 +668,3 @@ FC Großklein                  1-1 SV Gnas                       [aet, 1-4 pen]
 Final [Jun 3]
 FC Piberstein Lankowitz       3-0 SV Gnas
 
-
-
-
-
-== About this document  ‹§about›
-
-Thanks to Martin Arenlind
-
-Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hans Schöggl and Karel Stokkermans
-
-Last updated: 7 Mar 2023
-
-
-(C) Copyright Hans Schöggl, Karel Stokkermans
-and RSSSF 2014/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

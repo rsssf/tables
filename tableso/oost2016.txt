@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2015/16
-     source: https://rsssf.org/tableso/oost2016.html
+     title:   Austria 2015/16
+     source:  https://rsssf.org/tableso/oost2016.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 7 Mar 2023    
     -->
-  
 
 
 == Austria 2015/16
@@ -662,22 +663,3 @@ TSV Pöllau                    2-3 SC Kalsdorf                   [aet]
 Final [Jun 3]
 SV Lafnitz                    2-0 SC Kalsdorf
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Authors: Hans Schöggl and Karel Stokkermans
-
-Last updated: 7 Mar 2023
-
-
-(C) Copyright Hans Schöggl, Karel Stokkermans
-and RSSSF 2015/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.

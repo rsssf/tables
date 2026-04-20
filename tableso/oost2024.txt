@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 2023/24
-     source: https://rsssf.org/tableso/oost2024.html
+     title:   Austria 2023/24
+     source:  https://rsssf.org/tableso/oost2024.html
+     author:  Hans Schöggl
+     updated: 10 Jun 2025    
     -->
-  
 
 
 == Austria 2023/24
@@ -1384,21 +1385,3 @@ Final [May 8]
 SV Dinamo Helfort             0-1 SV Donau
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by Hans Schöggl for the
-‹Rec.Sport.Soccer Statistics Foundation›
-
-
-Author: Hans Schöggl
-
-Last updated: 10 Jun 2025
-
-
-(C) Copyright Hans Schöggl and RSSSF 2023/25
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

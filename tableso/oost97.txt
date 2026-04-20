@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 1996/97
-     source: https://rsssf.org/tableso/oost97.html
+     title:   Austria 1996/97
+     source:  https://rsssf.org/tableso/oost97.html
+     author:  RSSSF
+     updated: 15 Jun 2022    
     -->
-  
 
 
 == Austria 1996/97
@@ -4494,19 +4495,3 @@ New clubs for 1997/98: D & K Team 93, FC Brauchbar, FC Gummibärli,
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by the ‹RSSSF, see page ../nersssf›
-
-
-Author: RSSSF
-Last updated: 15 Jun 2022
-
-
-(C) Copyright RSSSF 1999/2022
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the RSSSF. All rights reserved.

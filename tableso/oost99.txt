@@ -1,8 +1,9 @@
   <!--
-     title:  Austria 1998/99
-     source: https://rsssf.org/tableso/oost99.html
+     title:   Austria 1998/99
+     source:  https://rsssf.org/tableso/oost99.html
+     author:  RSSSF
+     updated: 15 Jun 2022    
     -->
-  
 
 
 == Austria 1998/99
@@ -2925,20 +2926,3 @@ Eighth Level
 
 
 
-
-
-
-
-== About this document  ‹§about›
-
-Prepared and maintained by the ‹RSSSF, see page ../nersssf›
-
-
-Author: RSSSF
-
-Last updated: 15 Jun 2022
-
-
-(C) Copyright RSSSF 1999/2022
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the RSSSF. All rights reserved.
