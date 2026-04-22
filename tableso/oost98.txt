@@ -2,7 +2,7 @@
      title:   Austria 1997/98
      source:  https://rsssf.org/tableso/oost98.html
      author:  RSSSF
-     updated: 15 Jun 2022    
+     updated: 15 Jun 2022
     -->
 
 

@@ -1,0 +1,8 @@
+tablese/eng93                   :  1992/93
+tablese/eng95                   :  1994/95
+tablese/engchamp                :  list of champions
+tablese/eng2champ               :  list of 2nd division champions
+engpaul/FLA/league              :  list of full tables
+tablese/engall                  :  list of divisional movements
+tablese/engcuphist              :  list of cup winners
+tablese/engleagcuphist          :  list of league cup winners

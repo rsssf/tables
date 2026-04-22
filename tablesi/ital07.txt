@@ -2,7 +2,7 @@
      title:   Italy 2006/07
      source:  https://rsssf.org/tablesi/ital07.html
      author:  Andrea Ferrigno
-     updated: 7 Sep 2007    
+     updated: 7 Sep 2007
     -->
 
 

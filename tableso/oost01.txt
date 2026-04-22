@@ -2,7 +2,7 @@
      title:   Austria 2000/01
      source:  https://rsssf.org/tableso/oost01.html
      authors: Karel Stokkermans, Gerhard Öhlinger and Andreas Exenberger
-     updated: 15 Jun 2022    
+     updated: 15 Jun 2022
     -->
 
 

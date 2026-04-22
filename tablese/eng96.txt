@@ -2,7 +2,7 @@
      title:   England 1995/96
      source:  https://rsssf.org/tablese/eng96.html
      authors: Michael Heneghan, Ken Fox, Stephen Mulrine and Rob Monger
-     updated: 7 Jul 2004    
+     updated: 7 Jul 2004
     -->
 
 

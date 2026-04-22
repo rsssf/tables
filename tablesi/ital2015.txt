@@ -2,7 +2,7 @@
      title:   Italy 2014/15
      source:  https://rsssf.org/tablesi/ital2015.html
      author:  Karel Stokkermans
-     updated: 14 Jan 2021    
+     updated: 14 Jan 2021
     -->
 
 

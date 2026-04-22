@@ -2,7 +2,7 @@
      title:   Italy 2016/17
      source:  https://rsssf.org/tablesi/ital2017.html
      author:  Karel Stokkermans
-     updated: 31 Aug 2017    
+     updated: 31 Aug 2017
     -->
 
 

@@ -2,7 +2,7 @@
      title:   England 2000/01
      source:  https://rsssf.org/tablese/eng01.html
      authors: Ian King and Stephen Mulrine
-     updated: 15 Feb 2006    
+     updated: 15 Feb 2006
     -->
 
 

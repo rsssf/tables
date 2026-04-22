@@ -2,7 +2,7 @@
      title:   England 2018/19
      source:  https://rsssf.org/tablese/eng2019.html
      authors: Karel Stokkermans and Roberto Di Maggio
-     updated: 7 Jul 2022    
+     updated: 7 Jul 2022
     -->
 
 
@@ -663,7 +663,7 @@ Final Table:
 
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-FA Cup  ‹§facup›
+===== FA Cup  ‹§facup›
 
 Round 1
 [Nov 9]
@@ -872,7 +872,7 @@ Watford                 3-2 Wolverhampton Wanderers [aet]
 Final [May 18, London]
 Manchester City         6-0 Watford
 
-League Cup  ‹§leaguecup›
+===== League Cup  ‹§leaguecup›
 
 First Round
 [Aug 14]
@@ -1011,7 +1011,7 @@ Manchester City         0-0 Chelsea                 [aet, 4-3 pen]
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Stage  ‹§2reg›
+===== Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -1045,7 +1045,7 @@ Final Table:
 
 NB: Birmingham City 9 points deducted for financial reasons
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -1071,7 +1071,7 @@ Aston Villa   2-1 Derby
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-Regular Stage  ‹§3reg›
+===== Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -1103,7 +1103,7 @@ Final Table:
 23.Scunthorpe United       46  12 10 24  53-83  46       Relegated
 24.Bradford City           46  11  8 27  49-77  41       Relegated
 
-Promotion Playoff  ‹§3prom›
+===== Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -1131,7 +1131,7 @@ Charlton      2-1 Sunderland
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-Regular Stage  ‹§4reg›
+===== Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -1163,7 +1163,7 @@ Final Table:
 23.Notts County            46   9 14 23  48-84  41       Relegated
 24.Yeovil Town             46   9 13 24  41-66  40       Relegated
 
-Promotion Playoff  ‹§4prom›
+===== Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -1191,7 +1191,7 @@ Newport       0-1 Tranmere      [aet]
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-Regular Stage  ‹§5reg›
+===== Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -1228,7 +1228,7 @@ NB: Gateshead 9 points deducted for financial reasons and later demoted;
 
 Promoted: Stockport County, Torquay United, Chorley, Woking
 
-Promotion Playoff  ‹§5prom›
+===== Promotion Playoff  ‹§5prom›
 
 Round 1
 

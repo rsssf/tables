@@ -2,7 +2,7 @@
      title:   Italy 2009/10
      source:  https://rsssf.org/tablesi/ital2010.html
      authors: Giacomo Giusti and Andrea Ferrigno
-     updated: 7 Feb 2013    
+     updated: 7 Feb 2013
     -->
 
 

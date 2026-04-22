@@ -2,7 +2,7 @@
      title:   England 2005/06
      source:  https://rsssf.org/tablese/eng06.html
      authors: Daniel Dalence, Gurgen Mahari and Ian King
-     updated: 18 May 2007    
+     updated: 18 May 2007
     -->
 
 

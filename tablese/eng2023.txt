@@ -2,7 +2,7 @@
      title:   England 2022/23
      source:  https://rsssf.org/tablese/eng2023.html
      author:  Karel Stokkermans
-     updated: 15 Jun 2025    
+     updated: 15 Jun 2025
     -->
 
 
@@ -646,7 +646,7 @@ Final Table:
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Stage  ‹§2reg›
+===== Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -678,7 +678,7 @@ Final Table:
 23.Blackpool               46  11 11 24  48-72  44            Relegated
 24.Wigan Athletic          46  10 15 21  38-65  42  [-3] [P]
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -706,7 +706,7 @@ Luton         1-1 Coventry      [aet, 6-5 pen]
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-Regular Stage  ‹§3reg›
+===== Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -738,7 +738,7 @@ Final Table:
 23.Accrington Stanley      46  11 11 24  40-77  44            Relegated
 24.Forest Green Rovers     46   6  9 31  31-89  27       [P]  Relegated
 
-Promotion Playoff  ‹§3prom›
+===== Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -766,7 +766,7 @@ Sheffield W   1-0 Barnsley      [aet]
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-Regular Stage  ‹§4reg›
+===== Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -798,7 +798,7 @@ Final Table:
 23.Hartlepool United       46   9 16 21  52-78  43            Relegated
 24.Rochdale                46   9 11 26  46-70  38            Relegated
 
-Promotion Playoff  ‹§4prom›
+===== Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -824,7 +824,7 @@ Stockport     1-1 Carlisle      [aet, 4-5 pen]
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-Regular Stage  ‹§5reg›
+===== Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -858,7 +858,7 @@ Final Table:
 
 Promoted: AFC Fylde, Ebbsfleet United, Kidderminster Harriers, Oxford City
 
-Promotion Playoff  ‹§5prom›
+===== Promotion Playoff  ‹§5prom›
 
 Round 1
 

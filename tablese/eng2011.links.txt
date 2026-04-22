@@ -1,0 +1,10 @@
+tablese/eng2010                 :  2009/10
+tablese/eng2012                 :  2011/12
+tablese/engchamp                :  list of champions
+tablese/eng2champ               :  list of 2nd division champions
+engpaul/FLA/league              :  list of full tables
+tablese/engall                  :  list of divisional movements
+tablese/engcuphist              :  list of cup winners
+tablese/engsupcuphist           :  list of super cup (charity shield) winners
+tablese/engleagcuphist          :  list of league cup winners
+tablese/engassmembcuphist       :  list of league trophy winners

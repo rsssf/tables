@@ -2,7 +2,7 @@
      title:   Austria 2023/24
      source:  https://rsssf.org/tableso/oost2024.html
      author:  Hans Schöggl
-     updated: 10 Jun 2025    
+     updated: 10 Jun 2025
     -->
 
 

@@ -2,7 +2,7 @@
      title:   Italy 2024/25
      source:  https://rsssf.org/tablesi/ital2025.html
      authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 10 Jun 2025    
+     updated: 10 Jun 2025
     -->
 
 

@@ -1,0 +1,5 @@
+tableso/oost00                      :  1999/00
+tableso/oost02                      :  2001/02
+tableso/oosthist                    :  list of final tables
+tableso/oostchamp                   :  list of champions
+tableso/oostcuphist                 :  list of cup finals

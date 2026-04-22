@@ -2,7 +2,7 @@
      title:   Austria 1994/95
      source:  https://rsssf.org/tableso/oost95.html
      authors: Ambrosius Kutschera and Karel Stokkermans
-     updated: 31 Oct 2004    
+     updated: 31 Oct 2004
     -->
 
 

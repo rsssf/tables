@@ -1,0 +1,11 @@
+tablesi/ital2019                :  2018/19
+tablesi/ital2021                :  2020/21
+tablesi/italchamp               :  list of champions
+tablesi/ital2champ              :  list of 2nd division champions
+tablesi/ital3champ              :  list of 3rd division champions
+tablesi/italhist                :  list of final tables
+tablesi/italcuphist             :  list of cup winners
+tablesi/italsupcuphist          :  list of super cup winners
+tablesi/italtops                :  list of topscorers
+tablesi/ital2tops               :  list of 2nd division topscorers
+tablesi/ital3tops               :  list of 3rd division topscorers

@@ -2,7 +2,7 @@
      title:   Italy 2013/14
      source:  https://rsssf.org/tablesi/ital2014.html
      author:  Karel Stokkermans
-     updated: 14 Jan 2021    
+     updated: 14 Jan 2021
     -->
 
 

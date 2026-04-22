@@ -2,7 +2,7 @@
      title:   Austria 1991/92
      source:  https://rsssf.org/tableso/oost92.html
      author:  Ambrosius Kutschera
-     updated: 16 Apr 2003    
+     updated: 16 Apr 2003
     -->
 
 

@@ -2,7 +2,7 @@
      title:   England 1994/95
      source:  https://rsssf.org/tablese/eng95.html
      authors: Michael Heneghan, James Ross, Stephen Mulrine and Rob Monger
-     updated: 4 Nov 2011    
+     updated: 4 Nov 2011
     -->
 
 

@@ -2,7 +2,7 @@
      title:   Austria 1992/93
      source:  https://rsssf.org/tableso/oost93.html
      authors: Ambrosius Kutschera and Karel Stokkermans
-     updated: 31 Oct 2004    
+     updated: 31 Oct 2004
     -->
 
 

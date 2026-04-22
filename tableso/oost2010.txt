@@ -2,7 +2,7 @@
      title:   Austria 2009/10
      source:  https://rsssf.org/tableso/oost2010.html
      authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
-     updated: 7 Mar 2023    
+     updated: 7 Mar 2023
     -->
 
 

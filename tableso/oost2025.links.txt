@@ -1,0 +1,7 @@
+tableso/oost2024                    :  2023/24
+tableso/oost2026                    :  2025/26
+tableso/oosthist                    :  list of final tables
+tableso/oostchamp                   :  list of champions
+tableso/oostcuphist                 :  list of cup finals
+tableso/oostsupcuphist              :  list of super cup finals
+tableso/oostfound                   :  list of foundation dates

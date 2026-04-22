@@ -2,7 +2,7 @@
      title:   England 2015/16
      source:  https://rsssf.org/tablese/eng2016.html
      authors: Ian King, Roberto Di Maggio and Karel Stokkermans
-     updated: 18 Jul 2019    
+     updated: 18 Jul 2019
     -->
 
 
@@ -654,7 +654,7 @@ Final Table:
 
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-FA Cup  ‹§facup›
+===== FA Cup  ‹§facup›
 
 Round 1
 [Nov 6]
@@ -866,7 +866,7 @@ Crystal Palace          2-1 Watford
 Final [May 21, London]
 Crystal Palace          1-2 Manchester United       [aet]
 
-League Cup  ‹§leaguecup›
+===== League Cup  ‹§leaguecup›
 
 First Round
 [Aug 11]
@@ -1003,7 +1003,7 @@ Liverpool               1-1 Manchester City         [aet, 1-3 pen]
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Stage  ‹§2reg›
+===== Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -1035,7 +1035,7 @@ Final Table:
 23.Milton Keynes Dons      46   9 12 25  39-69  39  Relegated
 24.Bolton Wanderers        46   5 15 26  41-81  30  Relegated
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -1063,7 +1063,7 @@ Hull          1-0 Sheffield W
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-Regular Stage  ‹§3reg›
+===== Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -1095,7 +1095,7 @@ Final Table:
 23.Colchester United       46   9 13 24  57-99  40  Relegated
 24.Crewe Alexandra         46   7 13 26  46-83  34  Relegated
 
-Promotion Playoff  ‹§3prom›
+===== Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -1123,7 +1123,7 @@ Millwall      1-3 Barnsley
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-Regular Stage  ‹§4reg›
+===== Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -1157,7 +1157,7 @@ Final Table:
 
 Matches P: played,  W: won,  D: drawn,  L: lost,  Pts: points
 
-Promotion Playoff  ‹§4prom›
+===== Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -1185,7 +1185,7 @@ Plymouth      0-2 Wimbledon
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-Regular Stage  ‹§5reg›
+===== Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -1219,7 +1219,7 @@ Final Table:
 
 Promoted: Solihull Moors, North Ferriby United, Sutton United, Maidstone United
 
-Promotion Playoff  ‹§5prom›
+===== Promotion Playoff  ‹§5prom›
 
 Semifinals
 

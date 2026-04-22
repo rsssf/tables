@@ -2,7 +2,7 @@
      title:   Italy 2008/09
      source:  https://rsssf.org/tablesi/ital09.html
      author:  Andrea Ferrigno
-     updated: 12 Aug 2009    
+     updated: 12 Aug 2009
     -->
 
 

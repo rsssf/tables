@@ -2,7 +2,7 @@
      title:   England 2019/20
      source:  https://rsssf.org/tablese/eng2020.html
      author:  Karel Stokkermans
-     updated: 12 Jun 2025    
+     updated: 12 Jun 2025
     -->
 
 
@@ -641,7 +641,7 @@ Final Table:
 
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-FA Cup  ‹§facup›
+===== FA Cup  ‹§facup›
 
 Round 1
 [Nov 8]
@@ -859,7 +859,7 @@ Final [Aug 1, London]
 Arsenal                 2-1 Chelsea
 
 
-League Cup  ‹§leaguecup›
+===== League Cup  ‹§leaguecup›
 
 Round 1
 [Aug 6]
@@ -996,7 +996,7 @@ Aston Villa             1-2 Manchester City
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Stage  ‹§2reg›
+===== Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -1030,7 +1030,7 @@ Final Table:
 
 NB: Wigan Athletic 12 points deducted for financial reasons
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -1058,7 +1058,7 @@ Brentford     1-2 Fulham        [aet]
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-Regular Stage  ‹§3reg›
+===== Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -1095,7 +1095,7 @@ NB: clubs are ranked according to points per match ratio at the time
 
 NB: Bolton Wanderers 12 points deducted for financial reasons
 
-Promotion Playoff  ‹§3prom›
+===== Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -1119,7 +1119,7 @@ Oxford        1-2 Wycombe
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-Regular Stage  ‹§4reg›
+===== Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -1157,7 +1157,7 @@ NB: clubs are ranked according to points per match ratio at the time
 NB: Macclesfield Town 17 points deducted for various reasons;
     only one club was relegated due to bankruptcy Bury
 
-Promotion Playoff  ‹§4prom›
+===== Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -1181,7 +1181,7 @@ Exeter        0-4 Northampton
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-Regular Stage  ‹§5reg›
+===== Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -1220,7 +1220,7 @@ NB: only three clubs relegated due to bankruptcy Bury
 
 Promoted: Kings Lynn Town, Altrincham, Wealdstone, Weymouth
 
-Promotion Playoff  ‹§5prom›
+===== Promotion Playoff  ‹§5prom›
 
 Round 1
 

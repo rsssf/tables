@@ -2,7 +2,7 @@
      title:   Austria 2021/22
      source:  https://rsssf.org/tableso/oost2022.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 5 Apr 2023    
+     updated: 5 Apr 2023
     -->
 
 

@@ -2,7 +2,7 @@
      title:   England 2004/05
      source:  https://rsssf.org/tablese/eng05.html
      authors: Ian King and Matthew Perry
-     updated: 23 Nov 2007    
+     updated: 23 Nov 2007
     -->
 
 

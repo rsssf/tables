@@ -2,7 +2,7 @@
      title:   England 2023/24
      source:  https://rsssf.org/tablese/eng2024.html
      author:  Karel Stokkermans
-     updated: 11 Oct 2024    
+     updated: 11 Oct 2024
     -->
 
 
@@ -653,7 +653,7 @@ NB: Everton 8 points deducted for financial reasons;
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Stage  ‹§2reg›
+===== Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -685,7 +685,7 @@ Final Table:
 23.Huddersfield Town       46   9 18 19  48-77  45       Relegated
 24.Rotherham United        46   5 12 29  37-89  27       Relegated
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -711,7 +711,7 @@ Leeds         0-1 Southampton
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-Regular Stage  ‹§3reg›
+===== Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -746,7 +746,7 @@ Final Table:
 NB: Reading 6 points deducted for financial reasons;
     Wigan 8 points deducted for financial reasons
 
-Promotion Playoff  ‹§3prom›
+===== Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -774,7 +774,7 @@ Bolton        0-2 Oxford
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-Regular Stage  ‹§4reg›
+===== Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -806,7 +806,7 @@ Final Table:
 23.Sutton United           46   9 15 22  59-84  42       Relegated
 24.Forest Green Rovers     46  11  9 26  44-78  42  [R]  Relegated
 
-Promotion Playoff  ‹§4prom›
+===== Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -834,7 +834,7 @@ Crawley       2-0 Crewe
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-Regular Stage  ‹§5reg›
+===== Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -870,7 +870,7 @@ NB: Southend 10 points deducted for financial reasons
 
 Promoted: Tamworth, Yeovil Town, Boston United, Braintree Town
 
-Promotion Playoff  ‹§5prom›
+===== Promotion Playoff  ‹§5prom›
 
 NB: Gateshead not admitted due to not meeting ground ownershp requirements
 

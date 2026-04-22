@@ -2,7 +2,7 @@
      title:   Austria 1990/91
      source:  https://rsssf.org/tableso/oost91.html
      author:  Ambrosius Kutschera
-     updated: 18 May 2003    
+     updated: 18 May 2003
     -->
 
 

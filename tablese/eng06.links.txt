@@ -1,0 +1,10 @@
+tablese/eng05                   :  2004/05
+tablese/eng07                   :  2006/07
+tablese/engchamp                :  list of champions
+tablese/eng2champ               :  list of 2nd division champions
+engpaul/FLA/league              :  list of full tables
+tablese/engall                  :  list of divisional movements
+tablese/engcuphist              :  list of cup winners
+tablese/engsupcuphist           :  list of super cup (charity shield) winners
+tablese/engleagcuphist          :  list of league cup winners
+tablese/engassmembcuphist       :  list of league trophy winners

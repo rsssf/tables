@@ -2,7 +2,7 @@
      title:   Italy 2020/21
      source:  https://rsssf.org/tablesi/ital2021.html
      authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 9 Jun 2022    
+     updated: 9 Jun 2022
     -->
 
 

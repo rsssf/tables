@@ -2,7 +2,7 @@
      title:   England 2020/21
      source:  https://rsssf.org/tablese/eng2021.html
      author:  Ian King
-     updated: 15 Jun 2025    
+     updated: 15 Jun 2025
     -->
 
 
@@ -679,7 +679,7 @@ Final Table:
 
 ‹FA Cup, see §facup›
 
-FA Cup  ‹§facup›
+===== FA Cup  ‹§facup›
 
 Round 1
 [Nov 6]
@@ -855,7 +855,7 @@ Chelsea                 0-1 Leicester City
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Stage  ‹§2reg›
+===== Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -887,7 +887,7 @@ Final Table:
 23.Rotherham United        46  11  9 26  44-60  42  [P]  Relegated
 24.Sheffield Wednesday     46  12 11 23  40-61  41  [-6] Relegated
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -916,7 +916,7 @@ Brentford     2-0 Swansea
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-Regular Stage  ‹§3reg›
+===== Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -948,7 +948,7 @@ Final Table:
 23.Swindon Town            46  13  4 29  55-89  43  [P]  Relegated
 24.Bristol Rovers          46  10  8 28  40-70  38       Relegated
 
-Promotion Playoff  ‹§3prom›
+===== Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -976,7 +976,7 @@ Blackpool     2-1 Lincoln
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-Regular Stage  ‹§4reg›
+===== Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -1008,7 +1008,7 @@ Final Table:
 23.Southend United         46  10 15 21  29-58  45  [R]  Relegated
 24.Grimsby Town            46  10 13 23  37-69  43       Relegated
 
-Promotion Playoff  ‹§4prom›
+===== Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -1039,7 +1039,7 @@ Morecambe     1-0 Newport       [aet]
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-Regular Stage  ‹§5reg›
+===== Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -1074,7 +1074,7 @@ Final Table:
 NB: King's Lynn Town and Barnet reprieved from relegation as no clubs were
     promoted from the sixth level (where the season was abandoned and voided)
 
-Promotion Playoff  ‹§5prom›
+===== Promotion Playoff  ‹§5prom›
 
 Round 1
 

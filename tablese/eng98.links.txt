@@ -1,0 +1,10 @@
+players/eng-prem-red-card§1998  :  Red card overview 1997/98
+players/eng-prem-red-card§1998  :  Red card overview 1997/98
+tablese/eng97                   :  1996/97
+tablese/eng99                   :  1998/99
+tablese/engchamp                :  list of champions
+tablese/eng2champ               :  list of 2nd division champions
+engpaul/FLA/league              :  list of full tables
+tablese/engall                  :  list of divisional movements
+tablese/engcuphist              :  list of cup winners
+tablese/engleagcuphist          :  list of league cup winners

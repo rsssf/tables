@@ -2,7 +2,7 @@
      title:   Austria 2006/07
      source:  https://rsssf.org/tableso/oost07.html
      authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
-     updated: 15 Jun 2022    
+     updated: 15 Jun 2022
     -->
 
 

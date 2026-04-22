@@ -2,7 +2,7 @@
      title:   England 1999/2000
      source:  https://rsssf.org/tablese/eng00.html
      authors: Ken Butler, Stephen Mulrine and Andreas Exenberger
-     updated: 15 Apr 2001    
+     updated: 15 Apr 2001
     -->
 
 

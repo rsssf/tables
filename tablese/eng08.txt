@@ -2,7 +2,7 @@
      title:   England 2007/08
      source:  https://rsssf.org/tablese/eng08.html
      author:  Ian King
-     updated: 21 May 2009    
+     updated: 21 May 2009
     -->
 
 

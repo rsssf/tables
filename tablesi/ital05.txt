@@ -2,7 +2,7 @@
      title:   Italy 2004/05
      source:  https://rsssf.org/tablesi/ital05.html
      authors: Andrea Ferrigno and Antonio Zea
-     updated: 26 Jul 2006    
+     updated: 26 Jul 2006
     -->
 
 

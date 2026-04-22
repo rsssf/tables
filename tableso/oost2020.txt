@@ -2,7 +2,7 @@
      title:   Austria 2019/20
      source:  https://rsssf.org/tableso/oost2020.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 7 Mar 2023    
+     updated: 7 Mar 2023
     -->
 
 

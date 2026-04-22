@@ -2,7 +2,7 @@
      title:   Austria 2025/26
      source:  https://rsssf.org/tableso/oost2026.html
      author:  Hans Schöggl
-     updated: 24 Mar 2026    
+     updated: 24 Mar 2026
     -->
 
 

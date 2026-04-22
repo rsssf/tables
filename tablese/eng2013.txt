@@ -2,7 +2,7 @@
      title:   England 2012/13
      source:  https://rsssf.org/tablese/eng2013.html
      author:  Karel Stokkermans
-     updated: 5 Feb 2015    
+     updated: 5 Feb 2015
     -->
 
 
@@ -627,7 +627,7 @@ Final Table:
 
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-FA Cup  ‹§facup›
+===== FA Cup  ‹§facup›
 
 Round 1
 [Nov 2]
@@ -851,7 +851,7 @@ Chelsea                 1-2 Manchester City
 Final [May 11, London]
 Manchester City         0-1 Wigan Athletic
 
-League Cup  ‹§leaguecup›
+===== League Cup  ‹§leaguecup›
 
 Round 1
 [Aug 11]
@@ -990,7 +990,7 @@ Bradford City           0-5 Swansea City
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Stage  ‹§2reg›
+===== Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -1022,7 +1022,7 @@ Final Table:
 23.Wolverhampton Wanderers 46  14  9 23  55-69  51  Relegated
 24.Bristol City            46  11  8 27  59-84  41  Relegated
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -1051,7 +1051,7 @@ NB: Crystal Palace promoted
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-Regular Stage  ‹§3reg›
+===== Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -1083,7 +1083,7 @@ Final Table:
 23.Bury                    46   9 14 23  45-73  41  Relegated
 24.Hartlepool United       46   9 14 23  39-67  41  Relegated
 
-Promotion Playoff  ‹§3prom›
+===== Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -1110,7 +1110,7 @@ NB: Yeovil Town promoted
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-Regular Stage  ‹§4reg›
+===== Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -1142,7 +1142,7 @@ Final Table:
 23.Barnet                  46  13 12 21  47-59  51  Relegated
 24.Aldershot Town          46  11 15 20  42-60  48  Relegated
 
-Promotion Playoff  ‹§4prom›
+===== Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -1168,7 +1168,7 @@ NB: Bradford City promoted
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-Regular Stage  ‹§5reg›
+===== Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -1202,7 +1202,7 @@ Final Table:
 
 Promoted: Chester, Halifax Town, Welling United, Salisbury City
 
-Promotion Playoff  ‹§5prom›
+===== Promotion Playoff  ‹§5prom›
 
 Semifinals
 

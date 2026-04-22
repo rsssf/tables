@@ -2,7 +2,7 @@
      title:   England 1992/93
      source:  https://rsssf.org/tablese/eng93.html
      author:  Michael Heneghan
-     updated: 7 Jul 2004    
+     updated: 7 Jul 2004
     -->
 
 

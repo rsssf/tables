@@ -2,7 +2,7 @@
      title:   Italy 2002/03
      source:  https://rsssf.org/tablesi/ital03.html
      authors: Giacomo Giusti, Francesco Gullo and Dario Desio
-     updated: 31 Aug 2003    
+     updated: 31 Aug 2003
     -->
 
 

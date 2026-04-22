@@ -1,0 +1,21 @@
+tablesi/ital06                  :  2005/06 (first level)
+tablesi/ital2-06                :  2005/06 (second level)
+tablesi/ital3-06                :  2005/06 (third level)
+tablesi/ital4-06                :  2005/06 (fourth level)
+tablesi/ital5-06                :  2005/06 (fifth level)
+tablesi/ital2-07                :  2006/07 (second level)
+tablesi/ital3-07                :  2006/07 (third level)
+tablesi/ital4-07                :  2006/07 (fourth level)
+tablesi/ital5-07                :  2006/07 (fifth level)
+tablesi/ital6-07                :  2006/07 (sixth level)
+tablesi/ital7-07                :  2006/07 (seventh level)
+tablesi/ital08                  :  2007/08 (first level)
+tablesi/italchamp               :  list of champions
+tablesi/ital2champ              :  list of 2nd division champions
+tablesi/ital3champ              :  list of 3rd division champions
+tablesi/italhist                :  list of final tables
+tablesi/italcuphist             :  list of cup winners
+tablesi/italsupcuphist          :  list of super cup winners
+tablesi/italtops                :  list of topscorers
+tablesi/ital2tops               :  list of 2nd division topscorers
+tablesi/ital3tops               :  list of 3rd division topscorers

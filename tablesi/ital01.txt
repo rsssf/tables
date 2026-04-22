@@ -2,7 +2,7 @@
      title:   Italy 2000/01
      source:  https://rsssf.org/tablesi/ital01.html
      authors: Alberto Novello and Daniel Dalence
-     updated: 1 Sep 2005    
+     updated: 1 Sep 2005
     -->
 
 

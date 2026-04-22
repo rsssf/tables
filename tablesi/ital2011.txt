@@ -2,7 +2,7 @@
      title:   Italy 2010/11
      source:  https://rsssf.org/tablesi/ital2011.html
      authors: Giacomo Giusti, Roberto Di Maggio and Andrea Ferrigno
-     updated: 18 Jan 2024    
+     updated: 18 Jan 2024
     -->
 
 

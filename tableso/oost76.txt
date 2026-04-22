@@ -2,7 +2,7 @@
      title:   Austria 1975/76
      source:  https://rsssf.org/tableso/oost76.html
      author:  Ambrosius Kutschera
-     updated: 12 Jul 2005    
+     updated: 12 Jul 2005
     -->
 
 

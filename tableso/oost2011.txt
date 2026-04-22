@@ -2,7 +2,7 @@
      title:   Austria 2010/11
      source:  https://rsssf.org/tableso/oost2011.html
      authors: Hans Schöggl, Jan Schoenmakers and Karel Stokkermans
-     updated: 7 Mar 2023    
+     updated: 7 Mar 2023
     -->
 
 

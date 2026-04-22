@@ -1,0 +1,15 @@
+tablesi/ital08                  :  2007/08 (first level)
+tablesi/ital2-09                :  2008/09 (second level)
+tablesi/ital3-09                :  2008/09 (third level)
+tablesi/ital4-09                :  2008/09 (fourth level)
+tablesi/ital5-09                :  2008/09 (fifth level)
+tablesi/ital2010                :  2009/10 (first level)
+tablesi/italchamp               :  list of champions
+tablesi/ital2champ              :  list of 2nd division champions
+tablesi/ital3champ              :  list of 3rd division champions
+tablesi/italhist                :  list of final tables
+tablesi/italcuphist             :  list of cup winners
+tablesi/italsupcuphist          :  list of super cup winners
+tablesi/italtops                :  list of topscorers
+tablesi/ital2tops               :  list of 2nd division topscorers
+tablesi/ital3tops               :  list of 3rd division topscorers

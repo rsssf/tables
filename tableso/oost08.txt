@@ -2,7 +2,7 @@
      title:   Austria 2007/08
      source:  https://rsssf.org/tableso/oost08.html
      authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
-     updated: 15 Jun 2022    
+     updated: 15 Jun 2022
     -->
 
 

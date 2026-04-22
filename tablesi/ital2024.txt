@@ -2,7 +2,7 @@
      title:   Italy 2023/24
      source:  https://rsssf.org/tablesi/ital2024.html
      authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 11 Oct 2024    
+     updated: 11 Oct 2024
     -->
 
 

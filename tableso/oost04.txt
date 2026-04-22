@@ -2,7 +2,7 @@
      title:   Austria 2003/04
      source:  https://rsssf.org/tableso/oost04.html
      authors: Andreas Exenberger and Karel Stokkermans
-     updated: 15 Jun 2022    
+     updated: 15 Jun 2022
     -->
 
 

@@ -2,7 +2,7 @@
      title:   England 2021/22
      source:  https://rsssf.org/tablese/eng2022.html
      author:  Ian King
-     updated: 14 Jun 2023    
+     updated: 14 Jun 2023
     -->
 
 
@@ -671,7 +671,7 @@ Final Table:
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Stage  ‹§2reg›
+===== Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -703,7 +703,7 @@ Final Table:
 23.Derby County            46  14 13 19  45-53  34 [-21] Relegated
 24.Barnsley                46   6 12 28  33-73  30       Relegated
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -730,7 +730,7 @@ Huddersfield  0-1 Nottingham
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-Regular Stage  ‹§3reg›
+===== Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -762,7 +762,7 @@ Final Table:
 23.AFC Wimbledon           46   6 19 21  49-75  37       Relegated
 24.Crewe Alexandra         46   7  8 31  37-83  29       Relegated
 
-Promotion Playoff  ‹§3prom›
+===== Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -790,7 +790,7 @@ Wycombe       0-2 Sunderland
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-Regular Stage  ‹§4reg›
+===== Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -822,7 +822,7 @@ Final Table:
 23.Oldham Athletic         46   9 11 26  46-75  38       Relegated
 24.Scunthorpe United       46   4 14 28  29-90  26       Relegated
 
-Promotion Playoff  ‹§4prom›
+===== Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -850,7 +850,7 @@ Mansfield     0-3 Port Vale
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-Regular Stage  ‹§5reg›
+===== Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -883,7 +883,7 @@ Final Table:
 
 Promoted: Gateshead, Maidstone United, York City, Dorking Wanderers
 
-Promotion Playoff  ‹§5prom›
+===== Promotion Playoff  ‹§5prom›
 
 Round 1
 

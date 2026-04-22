@@ -2,7 +2,7 @@
      title:   Italy 2001/02
      source:  https://rsssf.org/tablesi/ital02.html
      authors: Misha Miladinovich, Giacomo Giusti and Alberto Novello
-     updated: 11 Jan 2003    
+     updated: 11 Jan 2003
     -->
 
 

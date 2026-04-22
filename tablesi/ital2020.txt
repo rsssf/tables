@@ -2,7 +2,7 @@
      title:   Italy 2019/20
      source:  https://rsssf.org/tablesi/ital2020.html
      authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 8 Oct 2020    
+     updated: 8 Oct 2020
     -->
 
 

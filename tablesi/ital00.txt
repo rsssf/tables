@@ -2,7 +2,7 @@
      title:   Italy 1999/2000
      source:  https://rsssf.org/tablesi/ital00.html
      authors: Davide Rota, Ken Butler and Misha Miladinovich
-     updated: 12 Dec 2011    
+     updated: 12 Dec 2011
     -->
 
 

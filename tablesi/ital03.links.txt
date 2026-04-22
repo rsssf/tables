@@ -1,0 +1,12 @@
+tablesi/ital02                  :  2001/02 (first four levels)
+tablesi/ital5-02                :  2001/02 (fifth level)
+tablesi/ital5-03                :  2002/03 (fifth level)
+tablesi/ital04                  :  2003/04
+tablesi/italchamp               :  list of champions
+tablesi/ital2champ              :  list of 2nd division champions
+tablesi/ital3champ              :  list of 3rd division champions
+tablesi/italhist                :  list of final tables
+tablesi/italcuphist             :  list of cup winners
+tablesi/italtops                :  list of topscorers
+tablesi/ital2tops               :  list of 2nd division topscorers
+tablesi/ital3tops               :  list of 3rd division topscorers

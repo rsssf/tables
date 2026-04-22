@@ -2,7 +2,7 @@
      title:   Italy 2021/22
      source:  https://rsssf.org/tablesi/ital2022.html
      authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 25 Sep 2022    
+     updated: 25 Sep 2022
     -->
 
 

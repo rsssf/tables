@@ -1,0 +1,7 @@
+tableso/oost97                      :  1996/97
+tableso/oost99                      :  1998/99
+tableso/oosthist                    :  list of final tables
+tableso/oostchamp                   :  list of champions
+tableso/oostcuphist                 :  list of cup finals
+tableso/oostsupcuphist              :  list of super cup finals
+tableso/oostfound                   :  list of foundation dates

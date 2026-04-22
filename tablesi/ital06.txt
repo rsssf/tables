@@ -2,7 +2,7 @@
      title:   Italy 2005/06
      source:  https://rsssf.org/tablesi/ital06.html
      author:  Andrea Ferrigno
-     updated: 6 Oct 2006    
+     updated: 6 Oct 2006
     -->
 
 

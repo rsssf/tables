@@ -2,7 +2,7 @@
      title:   England 1998/99
      source:  https://rsssf.org/tablese/eng99.html
      author:  RSSSF
-     updated: 20 Dec 1999    
+     updated: 20 Dec 1999
     -->
 
 

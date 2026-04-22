@@ -2,7 +2,7 @@
      title:   Italy 2018/19
      source:  https://rsssf.org/tablesi/ital2019.html
      authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 14 Jan 2021    
+     updated: 14 Jan 2021
     -->
 
 

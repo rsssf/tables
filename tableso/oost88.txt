@@ -2,7 +2,7 @@
      title:   Austria 1987/88
      source:  https://rsssf.org/tableso/oost88.html
      author:  Ambrosius Kutschera
-     updated: 31 Aug 2003    
+     updated: 31 Aug 2003
     -->
 
 

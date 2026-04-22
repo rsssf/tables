@@ -2,7 +2,7 @@
      title:   England 2009/10
      source:  https://rsssf.org/tablese/eng2010.html
      author:  Ian King
-     updated: 23 Dec 2020    
+     updated: 23 Dec 2020
     -->
 
 
@@ -762,7 +762,7 @@ NB: Portsmouth 9 points deducted for financial reasons
 
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup› | ‹Football League Trophy, see §assmemb›
 
-FA Cup  ‹§facup›
+===== FA Cup  ‹§facup›
 
 Fourth Qualifying Round
 [Oct 24]
@@ -1035,7 +1035,7 @@ Tottenham Hotspur          0-2 Portsmouth                 [aet]
 Final [May 15, Wembley]
 Chelsea                    1-0 Portsmouth
 
-League Cup  ‹§leaguecup›
+===== League Cup  ‹§leaguecup›
 
 Round 1
 [Aug 10]
@@ -1210,7 +1210,7 @@ Man Utd: Kuszczak, Evra, Vidic, Rafael Da Silva (Neville 66), Evans,
          (Rooney 42), Berbatov.
 
 
-Football League Trophy  ‹§assmemb›
+===== Football League Trophy  ‹§assmemb›
 
 Northern Section
 
@@ -1334,7 +1334,7 @@ Carlisle      1-4 Southampton
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-Regular Stage  ‹§2reg›
+===== Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -2144,7 +2144,7 @@ Final Table:
 
 NB: Crystal Palace 10 points deducted for financial reasons
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -2173,7 +2173,7 @@ NB: Blackpool promoted
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-Regular Stage  ‹§3reg›
+===== Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -2974,7 +2974,7 @@ Final Table:
 
 NB: Southampton 10 points deducted for financial reasons
 
-Promotion Playoff  ‹§3prom›
+===== Promotion Playoff  ‹§3prom›
 
 Semifinals
 
@@ -3003,7 +3003,7 @@ NB: Millwall promoted
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-Regular Stage  ‹§4reg›
+===== Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -3788,7 +3788,7 @@ Final Table:
 23.Grimsby Town            46   9 17 20  45-71  44  Relegated
 24.Darlington              46   8  6 32  33-87  30  Relegated
 
-Promotion Playoff  ‹§4prom›
+===== Promotion Playoff  ‹§4prom›
 
 Semifinals
 
@@ -3817,7 +3817,7 @@ NB: Dagenham & Redbridge promoted
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-Regular Stage  ‹§5reg›
+===== Regular Stage  ‹§5reg›
 
 Final Table:
 
@@ -4656,7 +4656,7 @@ NB: Chester City 25 points deducted for financial reasons; they
     Gateshead 1 point deducted for abandonment round 8
 
 
-Promotion Playoff  ‹§5prom›
+===== Promotion Playoff  ‹§5prom›
 
 Semifinals
 

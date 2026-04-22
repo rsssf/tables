@@ -2,7 +2,7 @@
      title:   England 2001/02
      source:  https://rsssf.org/tablese/eng02.html
      authors: Ian King, Daniel Dalence Garcia and Matthew Perry
-     updated: 15 Feb 2006    
+     updated: 15 Feb 2006
     -->
 
 

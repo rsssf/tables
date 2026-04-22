@@ -1,3 +1,15 @@
+-- found b-enclosed line ><a href="eng2019det.html">Premier League 2018/19 Match Details</a>< - heading?
+-- found b-enclosed line ><a href="eng2019det.html">Premier League 2018/19 Match Details</a>< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="facup">FA Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="leaguecup">League Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="4reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="4prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5prom">Promotion Playoff</a><
 -- removing nav(igation) section:
 
 ‹Premier League, see §premier›
