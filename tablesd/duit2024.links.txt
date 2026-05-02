@@ -1,0 +1,20 @@
+tablesd/duit2023                :  2022/23
+tablesd/duit2025                :  2024/25
+tablesd/duitchamp               :  list of champions
+tablesd/duialltime              :  all-time table
+tablesd/duit2champ              :  list of 2nd level champions
+tablesd/duitamachamp            :  list of amateur champions
+tablesd/duit-ol-berlin4563      :  oberliga berlin 1945-1963
+tablesd/duit-ol-nord4563        :  oberliga nord 1945-1963
+tablesd/duit-ol-sued4563        :  oberliga süd 1945-1963
+tablesd/duit-ol-suedwest4563    :  oberliga südwest 1945-1963
+tablesd/duit-ol-suedwestsued4550  :  oberliga südwest süd 1945-1950
+tablesd/duit-ol-west4563        :  oberliga west 1945-1963
+tablesd/dui3nordhist            :  regionalliga nord 63-74
+tablesd/dui3suedhist            :  regionalliga süd 63-74
+tablesd/dui3westhist            :  regionalliga west 63-74
+tablesd/duitcuphist             :  list of cup finals
+tablesd/duitsupcuphist          :  list of super and league cup finals
+tablesd/duittops                :  list of topscorers
+tablesd/duit2tops               :  list of 2nd level topscorers
+tablesd/duitfound               :  list of foundation dates

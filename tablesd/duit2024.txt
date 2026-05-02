@@ -2,7 +2,7 @@
      title:   Germany 2023/24
      source:  https://rsssf.org/tablesd/duit2024.html
      author:  Karel Stokkermans
-     updated: 11 Oct 2024    
+     updated: 11 Oct 2024
     -->
 
 
@@ -532,7 +532,7 @@ Final Table:
 17.1.FC Köln                    34   5 12 17  28-60  27       Relegated
 18.SV Darmstadt 98              34   3  8 23  30-86  17  [P]  Relegated
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 23]
 Bochum          0-3 Düsseldorf
@@ -573,7 +573,7 @@ Final Table:
 17.FC Hansa Rostock             34   9  4 21  30-57  31       Relegated
 18.VfL Osnabrück                34   6 10 18  31-69  28  [P]  Relegated
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 24]
 Regensburg      2-2 Wehen Wiesbaden
@@ -615,7 +615,7 @@ Final Table:
 19.VfB Lübeck                   38   6 14 18  37-77  32  [P]  Relegated
 20.SC Freiburg II               38   8  6 24  37-64  30       Relegated
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Bayern (FC Würzburger Kickers) and the
     RL Nord (Hannover 96 II) enter the playoff; the winners of the

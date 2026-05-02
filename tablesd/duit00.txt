@@ -2,7 +2,7 @@
      title:   Germany 1999/2000
      source:  https://rsssf.org/tablesd/duit00.html
      authors: Ken Butler and Karel Stokkermans
-     updated: 21 Feb 2002    
+     updated: 21 Feb 2002
     -->
 
 

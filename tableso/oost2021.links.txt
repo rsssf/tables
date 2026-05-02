@@ -1,7 +1,7 @@
-tableso/oost2020                    :  2019/20
-tableso/oost2022                    :  2021/22
-tableso/oosthist                    :  list of final tables
-tableso/oostchamp                   :  list of champions
-tableso/oostcuphist                 :  list of cup finals
-tableso/oostsupcuphist              :  list of super cup finals
-tableso/oostfound                   :  list of foundation dates
+tableso/oost2020                :  2019/20
+tableso/oost2022                :  2021/22
+tableso/oosthist                :  list of final tables
+tableso/oostchamp               :  list of champions
+tableso/oostcuphist             :  list of cup finals
+tableso/oostsupcuphist          :  list of super cup finals
+tableso/oostfound               :  list of foundation dates

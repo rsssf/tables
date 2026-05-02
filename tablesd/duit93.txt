@@ -2,7 +2,7 @@
      title:   Germany 1992/93
      source:  https://rsssf.org/tablesd/duit93.html
      author:  Gwidon Naskrent
-     updated: 1 Apr 2001    
+     updated: 1 Apr 2001
     -->
 
 

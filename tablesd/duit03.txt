@@ -2,7 +2,7 @@
      title:   Germany 2002/03
      source:  https://rsssf.org/tablesd/duit03.html
      authors: Pierre Winkler, Daniel Dalence Garcia and Manuel Schmidt
-     updated: 1 Jun 2005    
+     updated: 1 Jun 2005
     -->
 
 

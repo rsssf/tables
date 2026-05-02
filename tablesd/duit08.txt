@@ -2,7 +2,7 @@
      title:   Germany 2007/08
      source:  https://rsssf.org/tablesd/duit08.html
      authors: Karel Stokkermans and Daniel Dalence
-     updated: 7 Nov 2008    
+     updated: 7 Nov 2008
     -->
 
 

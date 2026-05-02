@@ -1,7 +1,7 @@
-tableso/oost81                      :  1980/81
-tableso/oost83                      :  1982/83
-tableso/oosthist                    :  list of final tables
-tableso/oostchamp                   :  list of champions
-tableso/oostcuphist                 :  list of cup finals
-tableso/oostsupcuphist              :  list of super cup finals
-tableso/oostfound                   :  list of foundation dates
+tableso/oost81                  :  1980/81
+tableso/oost83                  :  1982/83
+tableso/oosthist                :  list of final tables
+tableso/oostchamp               :  list of champions
+tableso/oostcuphist             :  list of cup finals
+tableso/oostsupcuphist          :  list of super cup finals
+tableso/oostfound               :  list of foundation dates

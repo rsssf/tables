@@ -2,7 +2,7 @@
      title:   Germany 2012/13
      source:  https://rsssf.org/tablesd/duit2013.html
      author:  Karel Stokkermans
-     updated: 2 Aug 2018    
+     updated: 2 Aug 2018
     -->
 
 
@@ -526,7 +526,7 @@ Final Table:
 18.SpVgg Greuther Fürth         34   4  9 21  26-60  21  Relegated
 
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 23]
 Hoffenheim      3-1 Kaiserslautern
@@ -1188,7 +1188,7 @@ Final Table:
 NB: MSV Duisburg were refused a license; because of this Sandhausen remained at the
     second level
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 24]
 Osnabrück       1-0 Dresden
@@ -1233,7 +1233,7 @@ Final Table:
 NB: Offenbacher Kickers were refused a license; because of this Darmstadt remained
     at the third level
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 First Legs [May 29]
 RB Leipzig      2-0 Lotte

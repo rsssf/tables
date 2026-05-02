@@ -1,7 +1,7 @@
-tableso/oost74                      :  1973/74
-tableso/oost76                      :  1975/76
-tableso/oosthist                    :  list of final tables
-tableso/oostchamp                   :  list of champions
-tableso/oostcuphist                 :  list of cup finals
-tableso/oostsupcuphist              :  list of super cup finals
-tableso/oostfound                   :  list of foundation dates
+tableso/oost74                  :  1973/74
+tableso/oost76                  :  1975/76
+tableso/oosthist                :  list of final tables
+tableso/oostchamp               :  list of champions
+tableso/oostcuphist             :  list of cup finals
+tableso/oostsupcuphist          :  list of super cup finals
+tableso/oostfound               :  list of foundation dates

@@ -2,7 +2,7 @@
      title:   Germany 2021/22
      source:  https://rsssf.org/tablesd/duit2022.html
      author:  Karel Stokkermans
-     updated: 25 Sep 2022    
+     updated: 25 Sep 2022
     -->
 
 
@@ -554,7 +554,7 @@ Final Table:
 17.DSC Arminia Bielefeld        34   5 13 16  27-53  28       Relegated
 18.SpVgg Greuther Fürth         34   3  9 22  28-82  18  [P]  Relegated
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 19]
 Hertha          0-1 Hamburg
@@ -595,7 +595,7 @@ Final Table:
 17.FC Erzgebirge Aue            34   6  8 20  32-72  26       Relegated
 18.FC Ingolstadt 04             34   4  9 21  30-65  21  [P]  Relegated
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 20]
 Kaiserslautern  0-0 Dresden
@@ -637,7 +637,7 @@ Final Table:
 19.TSV Havelse                  36   5  8 23  28-71  23  [P]  Relegated
  -.Türkgücü München             withdrew during the season; all results annulled
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Nordost (BFC Dynamo) and the RL Nord (VfB Oldenburg)
     enter the playoff; the winners of the RL Bayern (SpVgg Bayreuth), the RL West

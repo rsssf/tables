@@ -2,7 +2,7 @@
      title:   Germany 2018/19
      source:  https://rsssf.org/tablesd/duit2019.html
      author:  Karel Stokkermans
-     updated: 14 Jan 2021    
+     updated: 14 Jan 2021
     -->
 
 
@@ -557,7 +557,7 @@ Final Table:
 17.Hannover 96                  34   5  6 23  31-71  21       Relegated
 18.1.FC Nürnberg                34   3 10 21  26-68  19  [P]  Relegated
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 23]
 Stuttgart       2-2 Union Berlin
@@ -692,7 +692,7 @@ Final Table:
 17.1.FC Magdeburg               34   6 13 15  35-53  31  [P]  Relegated
 18.MSV Duisburg                 34   6 10 18  39-65  28       Relegated
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 24]
 Wiesbaden       1-2 Ingolstadt
@@ -734,7 +734,7 @@ Final Table:
 19.Fortuna Köln                 38   9 12 17  38-64  39       Relegated
 20.VfR Aalen                    38   6 13 19  45-62  31       Relegated
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Nord (VfL Wolfsburg II) and the RL Bayern
     (FC Bayern München II) enter the playoff; the winners of the RL Nordost

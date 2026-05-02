@@ -2,7 +2,7 @@
      title:   Germany 2010/11
      source:  https://rsssf.org/tablesd/duit2011.html
      author:  Jan Schoenmakers
-     updated: 25 Mar 2024    
+     updated: 25 Mar 2024
     -->
 
 
@@ -530,7 +530,7 @@ Final Table:
 17. Eintracht Frankfurt   34  9  7 18  31-49  34  Relegated
 18. FC St. Pauli          34  8  5 21  35-68  29  Relegated
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 First Leg [May 19]
 Borussia M'gladbach  1-0 VfL Bochum
@@ -1195,7 +1195,7 @@ Final Table:
 17. Rot-Weiß Oberhausen   34  7  7 20  30-65  28  Relegated
 18. Arminia Bielefeld     34  4  8 22  28-65  17  [-3]  Relegated
 
-Promotion/Relegation Playoff  ‹§2prorel›
+===== Promotion/Relegation Playoff  ‹§2prorel›
 
 First Leg [May 20]
 Dynamo Dresden        1-1  VfL Osnabrück

@@ -2,7 +2,7 @@
      title:   Germany 2004/05
      source:  https://rsssf.org/tablesd/duit05.html
      authors: Lars Kubusch, Daniel Dalence, Roberto Di Maggio and Anthony Zea
-     updated: 17 Aug 2005    
+     updated: 17 Aug 2005
     -->
 
 

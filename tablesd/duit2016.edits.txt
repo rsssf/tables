@@ -1,3 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1prorel">Promotion/Relegation Playoff 1./2. Bundesliga</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prorel">Promotion/Relegation Playoff 2./3. Liga</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3pro">Promotion Playoffs for 3. Bundesliga</a><
 -- removing nav(igation) section:
 
 ‹1. Bundesliga, see §1bl›

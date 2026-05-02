@@ -2,7 +2,7 @@
      title:   Germany 2015/16
      source:  https://rsssf.org/tablesd/duit2016.html
      author:  Karel Stokkermans
-     updated: 9 May 2019    
+     updated: 9 May 2019
     -->
 
 
@@ -550,7 +550,7 @@ Final Table:
 17.VfB Stuttgart                34   9  6 19  50-75  33  Relegated
 18.Hannover 96                  34   7  4 23  31-62  25  Relegated
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 19]
 Frankfurt       1-1 Nürnberg
@@ -686,7 +686,7 @@ Final Table:
 
 NB: Sandhausen 3 points deducted for infringements of licensing conditions
 
-Promotion/Relegation Playoff 2./3. Liga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Liga  ‹§2prorel›
 
 First Leg [May 20]
 Würzburg        2-0 Duisburg
@@ -728,7 +728,7 @@ Final Table:
 19.FC Energie Cottbus           38   9 14 15  32-52  41  Relegated
 20.VfB Stuttgart II             38   7 10 21  38-63  31  Relegated
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 First Legs [May 25]
 Elversberg      1-1 Zwickau

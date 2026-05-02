@@ -2,7 +2,7 @@
      title:   Germany 1964/65
      source:  https://rsssf.org/tablesd/duit65.html
      author:  Gwidon Naskrent
-     updated: 1 Apr 2001    
+     updated: 1 Apr 2001
     -->
 
 

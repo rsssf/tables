@@ -1,7 +1,7 @@
-tableso/oost09                      :  2008/09
-tableso/oost2011                    :  2010/11
-tableso/oosthist                    :  list of final tables
-tableso/oostchamp                   :  list of champions
-tableso/oostcuphist                 :  list of cup finals
-tableso/oostsupcuphist              :  list of super cup finals
-tableso/oostfound                   :  list of foundation dates
+tableso/oost09                  :  2008/09
+tableso/oost2011                :  2010/11
+tableso/oosthist                :  list of final tables
+tableso/oostchamp               :  list of champions
+tableso/oostcuphist             :  list of cup finals
+tableso/oostsupcuphist          :  list of super cup finals
+tableso/oostfound               :  list of foundation dates

@@ -2,7 +2,7 @@
      title:   Germany 1993/94
      source:  https://rsssf.org/tablesd/duit94.html
      author:  Gwidon Naskrent
-     updated: 1 Apr 2001    
+     updated: 1 Apr 2001
     -->
 
 

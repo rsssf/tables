@@ -2,7 +2,7 @@
      title:   Germany 2020/21
      source:  https://rsssf.org/tablesd/duit2021.html
      author:  Karel Stokkermans
-     updated: 3 Feb 2022    
+     updated: 3 Feb 2022
     -->
 
 
@@ -557,7 +557,7 @@ Final Table:
 17.SV Werder Bremen             34   7 10 17  36-57  31        Relegated
 18.FC Schalke 04 Gelsenkirchen  34   3  7 24  25-86  16        Relegated
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 26]
 Köln            0-1 Kiel
@@ -697,7 +697,7 @@ Final Table:
 17.Eintracht Braunschweig       34   7 10 17  30-59  31  [P]  Relegated
 18.FC Würzburger Kickers        34   6  7 21  37-69  25  [P]  Relegated
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 27]
 Ingolstadt      3-0 Osnabrück
@@ -742,7 +742,7 @@ Final Table:
 NB: KFC Uerdingen 05 failed to obtain a license for the 2021/22 season;
     therefore SV Meppen were reprieved from relegation
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Bayern (1.FC Schweinfurt 05) and the
     RL Nord (TSV Havelse) enter the playoff; the winners of the

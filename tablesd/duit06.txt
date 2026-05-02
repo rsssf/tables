@@ -2,7 +2,7 @@
      title:   Germany 2005/06
      source:  https://rsssf.org/tablesd/duit06.html
      authors: Lars Kubusch, Daniel Dalence and Anthony Zea
-     updated: 4 Oct 2006    
+     updated: 4 Oct 2006
     -->
 
 

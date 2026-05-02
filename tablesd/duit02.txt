@@ -2,7 +2,7 @@
      title:   Germany 2001/02
      source:  https://rsssf.org/tablesd/duit02.html
      authors: Karel Stokkermans and Pierre Winkler
-     updated: 1 Jun 2005    
+     updated: 1 Jun 2005
     -->
 
 

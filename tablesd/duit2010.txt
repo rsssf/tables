@@ -2,7 +2,7 @@
      title:   Germany 2009/10
      source:  https://rsssf.org/tablesd/duit2010.html
      authors: Karel Stokkermans and Marcel Haisma
-     updated: 2 Aug 2018    
+     updated: 2 Aug 2018
     -->
 
 
@@ -524,7 +524,7 @@ Final Table:
 17.VfL Bochum                   34  6 10 18  33-64  28  Relegated
 18.Hertha BSC Berlin            34  5  9 20  34-56  24  Relegated
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 13]
 Nürnberg        1-0 Augsburg
@@ -1193,7 +1193,7 @@ Final Table:
 NB: Arminia Bielefeld had 4 points deducted at the end of
     the season for infringement of license regulations
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 14]
 Ingolstadt      1-0 Rostock

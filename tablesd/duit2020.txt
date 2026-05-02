@@ -2,7 +2,7 @@
      title:   Germany 2019/20
      source:  https://rsssf.org/tablesd/duit2020.html
      author:  Karel Stokkermans
-     updated: 8 Oct 2020    
+     updated: 8 Oct 2020
     -->
 
 
@@ -557,7 +557,7 @@ Final Table:
 17.Fortuna Düsseldorf           34   6 12 16  36-67  30       Relegated
 18.SC Paderborn 07              34   4  8 22  37-74  20  [P]  Relegated
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [Jul 2]
 Bremen          0-0 Heidenheim
@@ -698,7 +698,7 @@ Final Table:
 17.SV Wehen Wiesbaden           34   9  7 18  45-65  34  [P]  Relegated
 18.Dynamo Dresden               34   8  8 18  32-58  32       Relegated
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [Jul 7]
 Nürnberg        2-0 Ingolstadt
@@ -740,7 +740,7 @@ Final Table:
 19.SG Sonnenhof Großaspach      38   8  8 22  33-67  32       Relegated
 20.Carl Zeiss Jena              38   5  8 25  40-85  23       Relegated
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Nordost (1.FC Lok Leipzig) and the
     RL West (SV Rödinghausen, who renounced on promotion and were

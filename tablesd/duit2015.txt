@@ -2,7 +2,7 @@
      title:   Germany 2014/15
      source:  https://rsssf.org/tablesd/duit2015.html
      author:  Karel Stokkermans
-     updated: 14 Jan 2021    
+     updated: 14 Jan 2021
     -->
 
 
@@ -546,7 +546,7 @@ Final Table:
 17.SC Freiburg                  34   7 13 14  36-47  34  Relegated
 18.SC Paderborn 07              34   7 10 17  31-65  31  Relegated
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 28]
 Hamburg         1-1 Karlsruhe
@@ -684,7 +684,7 @@ NB: Aalen 2 points deducted for infringements of licensing conditions;
     Sandhausen 3 points deducted for infringements of licensing conditions
 
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 29]
 Kiel            0-0 1860 München
@@ -728,7 +728,7 @@ Final Table:
 
 NB: Unterhaching 2 points deducted for infringements of licensing conditions
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 First Legs [May 27]
 Bremen II       0-0 Mönchengladbach II

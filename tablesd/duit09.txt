@@ -2,7 +2,7 @@
      title:   Germany 2008/09
      source:  https://rsssf.org/tablesd/duit09.html
      authors: Karel Stokkermans and Marcel Haisma
-     updated: 2 Aug 2018    
+     updated: 2 Aug 2018
     -->
 
 

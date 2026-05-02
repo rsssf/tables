@@ -2,7 +2,7 @@
      title:   Germany 1996/97
      source:  https://rsssf.org/tablesd/duit97.html
      authors: Gwidon Naskrent and Frank Ballesteros
-     updated: 11 May 2005    
+     updated: 11 May 2005
     -->
 
 

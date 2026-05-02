@@ -2,7 +2,7 @@
      title:   Germany 2003/04
      source:  https://rsssf.org/tablesd/duit04.html
      author:  Lars Kubusch
-     updated: 8 Aug 2004    
+     updated: 8 Aug 2004
     -->
 
 

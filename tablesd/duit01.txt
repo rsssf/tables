@@ -2,7 +2,7 @@
      title:   Germany 2000/01
      source:  https://rsssf.org/tablesd/duit01.html
      author:  Karel Stokkermans
-     updated: 21 Feb 2002    
+     updated: 21 Feb 2002
     -->
 
 

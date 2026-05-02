@@ -2,7 +2,7 @@
      title:   Germany 2017/18
      source:  https://rsssf.org/tablesd/duit2018.html
      author:  Karel Stokkermans
-     updated: 9 May 2019    
+     updated: 9 May 2019
     -->
 
 
@@ -555,7 +555,7 @@ Final Table:
 17.Hamburger SV                 34   8  7 19  29-53  31       Relegated
 18.1.FC Köln                    34   5  7 22  35-70  22       Relegated
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 17]
 Wolfsburg       3-1 Kiel
@@ -689,7 +689,7 @@ Final Table:
 17.Eintracht Braunschweig       34   8 15 11  37-43  39       Relegated
 18.1.FC Kaiserslautern          34   9  8 17  42-55  35       Relegated
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 18]
 Karlsruhe       0-0 Aue
@@ -732,7 +732,7 @@ Final Table:
 19.Chemnitzer FC                38   8  7 23  48-74  22  [-9] Relegated
 20.Rot-Weiß Erfurt              38   5  8 25  26-78  13 [-10] Relegated
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 First Legs [May 24]
 Saarbrücken     2-3 1860 München

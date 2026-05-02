@@ -2,7 +2,7 @@
      title:   Germany 2016/17
      source:  https://rsssf.org/tablesd/duit2017.html
      author:  Karel Stokkermans
-     updated: 7 Jan 2021    
+     updated: 7 Jan 2021
     -->
 
 
@@ -549,7 +549,7 @@ Final Table:
 17.FC Ingolstadt 04             34   8  8 18  36-57  32       Relegated
 18.SV Darmstadt 98              34   7  4 23  28-63  25       Relegated
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 25]
 Wolfsburg       1-0 Braunschweig
@@ -684,7 +684,7 @@ Final Table:
 17.FC Würzburger Kickers        34   7 13 14  32-41  34  [P]  Relegated
 18.Karlsruher SC                34   5 10 19  27-56  25       Relegated
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 26]
 Regensburg      1-1 1860 München
@@ -734,7 +734,7 @@ NB: VfR Aalen and FSV Frankfurt 9 points deducted for infringements of licensing
 NB: SC Paderborn were relegated for the third season in succession; however, they were
     reprieved following the forced demotion of 1860 München to the amateur level
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 First Legs [May 28]
 Unterhaching    3-0 Elversberg

@@ -2,7 +2,7 @@
      title:   Germany 1997/98
      source:  https://rsssf.org/tablesd/duit98.html
      authors: Gwidon Naskrent and Daniel Dalence
-     updated: 7 Jun 2005    
+     updated: 7 Jun 2005
     -->
 
 

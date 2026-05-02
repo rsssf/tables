@@ -2,7 +2,7 @@
      title:   Germany 2011/12
      source:  https://rsssf.org/tablesd/duit2012.html
      author:  Karel Stokkermans
-     updated: 23 Sep 2021    
+     updated: 23 Sep 2021
     -->
 
 
@@ -37,7 +37,7 @@ Final Table:
 17.1.FC Köln                    34   8  6 20  39-75  30  Relegated
 18.1.FC Kaiserslautern          34   4 11 19  24-54  23  Relegated
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 10]
 Hertha          1-2 Düsseldorf
@@ -174,7 +174,7 @@ Final Table:
 17.TSV Alemannia Aachen         34   6 13 15  30-47  31  Relegated
 18.FC Hansa Rostock             34   5 12 17  34-63  27  Relegated
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 11]
 Regensburg      1-1 Karlsruhe

@@ -2,7 +2,7 @@
      title:   Germany 2022/23
      source:  https://rsssf.org/tablesd/duit2023.html
      author:  Karel Stokkermans
-     updated: 21 Nov 2023    
+     updated: 21 Nov 2023
     -->
 
 
@@ -553,7 +553,7 @@ Final Table:
 17.FC Schalke 04 Gelsenkirchen  34   7 10 17  35-71  31  [P]  Relegated
 18.Hertha BSC Berlin            34   7  8 19  42-69  29       Relegated
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [Jun 1]
 Stuttgart       3-0 Hamburg
@@ -594,7 +594,7 @@ Final Table:
 17.SSV Jahn Regensburg          34   8  7 19  34-58  31       Relegated
 18.SV Sandhausen                34   7  7 20  35-63  28       Relegated
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [Jun 2]
 Wehen Wiesbaden 4-0 Bielefeld
@@ -638,7 +638,7 @@ Final Table:
 
 [!] ineligible for promotion
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Bayern (SpVgg Unterhaching) and the
     RL Nordost (Energie Cottbus) enter the playoff; the winners of
