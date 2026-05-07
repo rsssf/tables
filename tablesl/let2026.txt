@@ -2,7 +2,7 @@
      title:   Latvia 2026
      source:  https://rsssf.org/tablesl/let2026.html
      author:  Theodore Dreiman
-     updated: 7 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -16,18 +16,22 @@
 
 Table:
 
- 1.RFS (Rīga)             3   3  0  0   7- 1   9
- 2.Rīga FC                3   2  0  1   7- 5   6  [C]
- 3.Auda (Ķekava)          3   2  0  1   5- 3   6
- 4.FK Liepāja             3   2  0  1   3- 2   6
- 5.FK Grobiņa             3   2  0  1   2- 2   6
- 6.Super Nova (Rīga)      3   1  1  1   4- 4   4
- 7.FS Jelgava             3   1  1  1   3- 3   4
- 8.FK Tukums 2000         3   0  1  2   3- 5   1
+ 1.RFS (Rīga)             9   7  1  1  16- 6  22
+ 2.Rīga FC                9   6  2  1  32-12  20  [C]
+ 3.Auda (Ķekava)          9   6  1  2  16-11  19
+ 4.Super Nova (Rīga)      9   4  1  4  10-13  13      [1-0]
+ 5.BFC Daugavpils         9   4  1  4  12-14  13      [0-1]
+ 6.FK Liepāja             9   3  3  3  10-11  12
+ 7.FK Grobiņa             9   2  3  4   5-10   9
+ 8.FS Jelgava             9   2  2  5   7-17   8
 - - - - - - - - - - - - - - - - - - - - - - - --
- 9.Ogre United            3   0  1  2   1- 4   1  [P]
+ 9.FK Tukums 2000         9   0  5  4  12-16   5
 ------------------------------------------------
-10.BFC Daugavpils         3   0  0  3   3- 9   0
+10.Ogre United            9   0  3  6   5-15   3  [P]
+
+Auda play home games in Rīga (25 km north of Ķekava).
+FK Grobiņa play home games in Liepāja (13 km west of Grobiņa).
+Ogre United play home games in Salaspils (19 km west of Ogre).
 
 Round 1 [Total Att: 2,879; Average: 576]
 [Mar 6]
@@ -75,94 +79,128 @@ Jelgava     0-1  Grobina
 Tukums      1-2  Super Nova
   [Raivis Ķiršs 78 - Mārcis Ošs 16, 25. Att: 305]
 
+Round 4 [Total Att: 1,608; Average: 322]
+[Apr 3]
+Daugavpils  2-0  Liepaja
+  [Rostand Ndjiki 6; Artem Harža 53. Att: 415]
+Ogre Utd    1-2  Super Nova
+  [Markuss Kalniņš 54 - Agris Glaudāns 2; Ndiaye Pathé 28. Att: 277]
+[Apr 4]
+RFS         0-1  Auda
+  [Josué Vergara 38. Att: 519]
+Jelgava     0-8  Riga
+  [Iago Siqueira 11, 71, 88; Tomáš Rataj (Jel) 23 og; Raki Aouani 63;
+   Juan Christian 79; Mohamed Badamosi 82, 85 pen. Att: 170]
+[Apr 5]
+Tukums      1-1  Grobina
+  [Leoni Gastaldelo 40 - Rolandas Baravykas 43. Att: 227]
+
+Round 5 [Total Att: 1,162; Average: 232]
+[Apr 7]
+Daugavpils  2-1  Ogre Utd
+  [Artem Harža 24; Rostand Ndjiki 44 - Kristers Čudars 57 pen. Att: 170]
+[Apr 8]
+Liepaja     1-2  Auda
+  [Fellipe Vieira 51 - Josué Vergara 9; Barthélémy Diedhiou 90. Att: 325]
+Jelgava     0-1  RFS
+  [Stefan Panić 28 pen. Missed PK: Jānis Ikaunieks (RFS) 65. Att: 223]
+[Apr 9]
+Riga        3-3  Tukums
+  [Paulo Eduardo 30; Renārs Varslavāns 45; Reginaldo Ramires 73 -
+   Ede Oloko 41, 52 pen, 87. Att: 332]
+Grobina     0-1  Super Nova
+  [Valerijs Lizunovs 80 pen. Liepāja. Att: 112]
+
+Round 6 [Total Att: 1,284; Average: 257]
+[Apr 12]
+Auda        2-3  Daugavpils
+  [Meleye Diagne Jr 46; Eduards Dašķevičs 82 - Joel Yakubu 23;
+   Mamadou Sylla 50; Rostand Ndjiki 63. Att: 153]
+Liepaja     1-1  Jelgava
+  [Rodolphe Ekou 76 - Tomáš Rataj 6. Att: 409]
+[Apr 13]
+Tukums      1-2  RFS
+  [Leoni Gastaldelo 56 - Mor Talla 2; Martins Štāls (Tuk) 90+1 og. Att: 233]
+Ogre Utd    1-1  Grobina
+  [Johnson Kabagambe 60 - Artjoms Puzirevskis 30 pen. Att: 228]
+[Apr 14]
+Super Nova  1-4  Riga
+  [Ibrahima Diop 41 - Mohamed Badamosi 2, 34;
+   Dāvis Veisbuks (SN) 42 og; Reginaldo Ramires 51. Att: 261]
+
+Round 7 [Total Att: 1,683; Average: 337]
+[Apr 16]
+Daugavpils  1-0  Jelgava
+  [Joel Yakubu 48. Att: 200]
+[Apr 17]
+Ogre Utd    1-1  Auda
+  [Moussa Ouedraogo (Aud) 90+5 og - Wally Fofana 66. Att: 219]
+Tukums      2-2  Liepaja
+  [Ruslans Deružinskis 9; Martins Štāls 90+6 - Ivans Patrikejevs 58, 84. Att: 222]
+[Apr 18]
+RFS         2-0  Super Nova
+  [Jānis Ikaunieks 48; Žiga Lipušček 65. Att: 816]
+Grobina     0-3  Riga
+  [Renārs Varslavāns 18; Iago Siqueira 36, 41. Att: 226]
+
+Round 8 [Total Att: 1,547; Average: 309]
+[Apr 21]
+Jelgava     2-3  Auda
+  [Alans Kangars 15; Roberts Meļķis 26 - Josué Vergara 34, 49; Ibrahim Hussaini 78. Att: 177]
+Tukums      1-1  Daugavpils
+  [Ede Oloko 47 - Joel Yakubu 60. Att: 210]
+[Apr 22]
+Grobina     0-1  RFS
+  [Darko Lemajić 61. Att: 126]
+Riga        4-0  Ogre Utd
+  [Orlando Galo 16; Mohamed Badamosi 43; Reginaldo Ramires 53; Salah Oulad 88. Att: 921]
+[Apr 23]
+Super Nova  1-2  Liepaja
+  [Samaté Amadou 47 - Danila Patijčuks 13; Lenards Bērziņš (SN) 33 og. Att: 113]
+
+Round 9 [Total Att: 2,404; Average: 481]
+[Apr 26]
+Auda        2-1  Tukums
+  [Eduards Dašķevičs 22; Ibrahim Hussaini 45+3 - Ede Oloko 45. Att: 83]
+[Apr 27]
+Daugavpils  0-1  Super Nova
+  [Facundo García 90. Att: 180]
+Ogre Utd    0-1  Jelgava
+  [Filip Hašek 80. Att: 103]
+[Apr 28]
+RFS         3-3  Riga
+  [Jānis Ikaunieks 13; Ismael Diomande 16; Dmitrijs Zelenkovs 65 -
+   Renārs Varslavāns 38; Mohamed Badamosi 63; Caio Martins 87. Att: 1,473]
+Liepaja     1-1  Grobina
+  [Danila Patijčuks 35 - Artjoms Puzirevskis 76. Att: 565]
+
 Table:
 
- 1.RFS (Rīga)             3   3  0  0   7- 1   9
- 2.Rīga FC                3   2  0  1   7- 5   6  [C]
- 3.Auda (Ķekava)          3   2  0  1   5- 3   6
- 4.FK Liepāja             3   2  0  1   3- 2   6
- 5.FK Grobiņa             3   2  0  1   2- 2   6
- 6.Super Nova (Rīga)      3   1  1  1   4- 4   4
- 7.FS Jelgava             3   1  1  1   3- 3   4
- 8.FK Tukums 2000         3   0  1  2   3- 5   1
+ 1.RFS (Rīga)             9   7  1  1  16- 6  22
+ 2.Rīga FC                9   6  2  1  32-12  20  [C]
+ 3.Auda (Ķekava)          9   6  1  2  16-11  19
+ 4.Super Nova (Rīga)      9   4  1  4  10-13  13      [1-0]
+ 5.BFC Daugavpils         9   4  1  4  12-14  13      [0-1]
+ 6.FK Liepāja             9   3  3  3  10-11  12
+ 7.FK Grobiņa             9   2  3  4   5-10   9
+ 8.FS Jelgava             9   2  2  5   7-17   8
 - - - - - - - - - - - - - - - - - - - - - - - --
- 9.Ogre United            3   0  1  2   1- 4   1  [P]
+ 9.FK Tukums 2000         9   0  5  4  12-16   5
 ------------------------------------------------
-10.BFC Daugavpils         3   0  0  3   3- 9   0
+10.Ogre United            9   0  3  6   5-15   3  [P]
+
+Auda play home games in Rīga (25 km north of Ķekava).
+FK Grobiņa play home games in Liepāja (13 km west of Grobiņa).
+Ogre United play home games in Salaspils (19 km west of Ogre).
 
 Top scorers:
 
-1.Mārcis OŠS (Super Nova)       3
-2.Ruslans DERUŽINSKIS (Tukums)  2
-  Djibril GUEYE (Liepāja)       2  [Senegal]
-  Filip HAŠEK (Jelgava)         2  [Czechia]
-  Ibrahim HUSSAINI (Auda)       2  [Nigeria]
-  Jānis IKAUNIEKS (RFS)         2
-  Darko LEMAJIĆ (RFS)           2  [Serbia/Montenegro]
-  Stefan PANIĆ (RFS)            2  [Serbia]
-  PAULO EDUARDO Godinho (Rīga)  2  [Brazil]
-  Reginaldo RAMIRES (Rīga)      2  [Brazil]
-  Josué VERGARA Ortega (Auda)   2  [Panama]
-
-Round 4
-[Apr 3]
-Ogre Utd    -  Super Nova
-Daugavpils  -  Liepaja
-[Apr 4]
-RFS         -  Auda
-Jelgava     -  Riga
-[Apr 5]
-Tukums      -  Grobina
-
-Round 5
-[Apr 7]
-Daugavpils  -  Ogre Utd
-[Apr 8]
-Liepaja     -  Auda
-Jelgava     -  RFS
-[Apr 9]
-Grobina     -  Super Nova
-Riga        -  Tukums
-
-Round 6
-[Apr 12]
-Auda        -  Daugavpils
-Liepaja     -  Jelgava
-[Apr 13]
-Tukums      -  RFS
-Ogre Utd    -  Grobina
-[Apr 14]
-Super Nova  -  Riga
-
-Round 7
-[Apr 16]
-Daugavpils  -  Jelgava
-[Apr 17]
-Tukums      -  Liepaja
-Ogre Utd    -  Auda
-[Apr 18]
-Grobina     -  Riga
-RFS         -  Super Nova
-
-Round 8
-[Apr 21]
-Tukums      -  Daugavpils
-Jelgava     -  Auda
-[Apr 22]
-Grobina     -  RFS
-Riga        -  Ogre Utd
-[Apr 23]
-Super Nova  -  Liepaja
-
-Round 9
-[Apr 26]
-Auda        -  Tukums
-[Apr 27]
-Daugavpils  -  Super Nova
-Ogre Utd    -  Jelgava
-[Apr 28]
-Liepaja     -  Grobina
-RFS         -  Riga
+1.Mohamed BADAMOSI (Rīga)             6  [Gambia]
+  Josué Yamir VERGARA Ortega (Auda)   6  [Panama]
+3.Joseph Ede OLOKO (Tukums)           5  [Nigeria/Benin]
+  Reginaldo RAMIRES Albertino (Rīga)  5  [Brazil]
+  Iago SIQUEIRA Augusto (Rīga)        5  [Brazil]
+6.Ibrahim HUSSAINI (Auda)             4  [Nigeria]
 
 Round 10
 [May 1]
@@ -434,24 +472,23 @@ Riga        -  RFS
 
 Table:
 
- 1.FC Valmiera            2   2  0  0   8- 2   6  [P]
+ 1.Metta (Rīga)           5   5  0  0  21- 1  15  [R]
 ------------------------------------------------
- 2.Leevon PPK (Rīga)      2   2  0  0   4- 1   6
+ 2.FC Valmiera            5   5  0  0  18- 5  15  [P]
 - - - - - - - - - - - - - - - - - - - - - - - --
- 3.SC Mārupe              1   1  0  0   4- 0   3
- 4.Metta (Rīga)           1   1  0  0   3- 1   3  [R]
- 5.Super Nova-2 (Rīga)    1   1  0  0   2- 1   3  [P]
- 6.Riga Mariners          1   1  0  0   1- 0   3
- 7.FK Smiltene/BJSS       2   0  2  0   6- 6   2
- 8.JFK Ventspils          2   0  1  1   3- 4   1
- 9.RFS-2 (Rīga)           2   0  1  1   4- 8   1
-10.JDFS Alberts (Rīga)    1   0  0  1   1- 2   0
-11.Skanstes (Rīga)        1   0  0  1   1- 2   0
-12.Rīga FC-2              1   0  0  1   1- 3   0
+ 3.Riga Mariners          5   3  2  0   9- 5  11
+ 4.Leevon PPK (Rīga)      5   3  2  0   7- 3  11
+ 5.Super Nova-2 (Rīga)    5   2  2  1   9- 7   8  [P]
+ 6.SC Mārupe              5   2  1  2  11- 5   7
+ 7.Rīga FC-2              5   2  1  2   9-10   7
+ 8.JDFS Alberts (Rīga)    4   2  0  2   6- 5   6
+ 9.FK Tukums-2/TSS        4   1  1  2   6- 8   4      [2-0]
+10.Skanstes (Rīga)        5   1  1  3   8-10   4      [0-2]
+11.FK Smiltene/BJSS       5   0  3  2   6-18   3
+12.JFK Ventspils          5   0  2  3   8-13   2
 ------------------------------------------------
-13.FK Tukums-2/TSS        1   0  0  1   1- 3   0
-14.FA Rēzekne             2   0  0  2   0- 6   0
-
+13.RFS-2 (Rīga)           5   0  1  4   5-15   1
+14.FA Rēzekne             5   0  0  5   2-20   0
 
 Round 1 [Total Att: 1,594; Average: 228]
 [Mar 20]
@@ -485,77 +522,109 @@ RFS-2          1-5  Valmiera
   [Kirils Kirsanovs 24 - Rojs Bušs 50; Mahamadou Dembélé 58;
    Vladimirs Stepanovs 61; Fraj Kayramani 78; Igors Kūlītis 90. Att: 170]
 [Apr 4]
-Marupe         -  Skanstes
-Riga Mariners  -  Super Nova-2
+Marupe         4-0  Skanstes
+  [Kristiāns Korsaks 33; Ričards Penka 56, 66; Gustavs Krieviņš 82. Att: 170]
+Riga Mariners  1-1  Super Nova-2
+  [Aļģirdas Gražis 70 pen - Jegors Čugunovs 64. Att: 52]
 [Apr 6]
-Metta          -  Riga FC-2
+Metta          2-0  Riga FC-2
+  [Kevins Cēsnieks 21 pen; Sadiq Saleh 82. Att: 171]
 [May 31]
 JDFS Alberts   -  Tukums-2/TSS
 
+Round 3 [Total Att: 1,595; Average: 228]
+[Apr 10]
+Riga FC-2      2-1  JDFS Alberts
+  [Deniss Nazarovs 12; Nazar Prudčenko 23 - Markus Prohorenkovs 16. Att: 57]
+[Apr 11]
+RFS-2          0-3  Metta
+  [Prince A. Amoah 10; Henrijs Gulbis 54; Kevins Cēsnieks (RFS) 85 og. Att: 117]
+Super Nova-2   3-1  Ventspils
+  [Alens Grikovs 15; Georgijs Bombāns 50 pen, 55 - Kasiuss Kosovs 87. Att: 115]
+Tukums-2/TSS   1-3  Riga Mariners
+  [Daniels H. Kaira 81 - Aļģirdas Gražis 43; Artjoms Pavlovskis 72; Edijs Bokāns 73. Att: 184]
+Rezekne        1-6  Skanstes
+  [Pēteris Ivenkovs 29 - Olivers Beķeris 24 pen; Markuss Sālījums 43; Deivids Baltrušaitis 48;
+   Kristers Jaunītis 50; Leonards Livčāns 85, 89. Att: 156]
+[Apr 12]
+Leevon PPK     0-0  Marupe
+  [Att: 484]
+Valmiera       4-0  Smiltene/BJSS
+  [Gleilson Lopes 34; Toki Yamamura 56; Mahamadou Dembélé 68;
+   Fraj Kayramani 77. Missed PK: Lenny Manisa (Val) 90+1. Att: 482]
+
+Round 4 [Total Att: 1,162; Average: 194]
+[Apr 4]
+Ventspils      2-2  Tukums-2/TSS
+  [Rainers Veidemanis 16; Jegors Poskrjobiševs 85 - Marko Ķere 32; Yushin Koki 45+1. Att: 125]
+[Apr 18]
+Marupe         2-3  Valmiera
+  [Maxym Olijnyk 71; Reinis Krieviņš - Mahamadou Dembélé 9;
+   Gleilson Lopes 63; Vladimirs Stepanovs 78. Att: 178]
+Smiltene/BJSS  0-0  Leevon PPK
+  [Att: 390]
+[Apr 19]
+Metta          5-0  Rezekne
+  [Kevins Cēsnieks 6; Waris O. Lawal 28, 59; Rūdolfs Kļavinskis 65; Oskars Likas 68. Att: 163]
+Skanstes       1-1  Super Nova-2
+  [Pauls Pinkulis 52 - Iļja Streļcovs 34. Att: 96]
+Riga Mariners  2-2  Riga FC-2
+  [Aļģirdas Gražis 2; Matīss Caune 37 - Brian Peña 34; Nazar Prudčenko 50. Att: 210]
+JDFS Alberts   2-0  RFS-2
+  [Matīss Zēģele 63; Markus Prohorenkovs 70. Att: 0]
+
+Round 5 [Total Att: 886; Average: 127]
+[Apr 25]
+Metta          8-0  Smiltene/BJSS
+  [Kevins Cēsnieks 18 pen; Ivo Minkevičs 23, 39; Rūdolfs Kļavinskis 41;
+   Daņiils Čiņajevs 43, 77 pen; Olivers Dzenītis 86, 89. Att: 181]
+RFS-2          1-2  Riga Mariners
+  [Kristofers Abrants 14 - Jevhen Stadnik 65; Aļģirdas Gražis 89 pen. Att: 77]
+JDFS Alberts   2-1  Marupe
+  [Rihards Ozoliņš 64; Kārlis Pirktiņš 70 - Roberts Čevers 50. Missed PKs:
+   Milans Brahmanis (Alb) 14; Markus Prohorenkovs (Alb) 35. Att: 112]
+[Apr 26]
+Valmiera       3-1  Rezekne
+  [Fraj Kayramani 56 pen; Ernests Kalniņš 90; Toki Yamamura 90+4 - Abdulrazak Shehu 83. Att: 219]
+Super Nova-2   2-3  Leevon PPK
+  [Kristers Skadmanis 11, 17 - Paul Yomi 19; Roberts Aršauskis 34, 83. Att: 96]
+Riga FC-2      4-2  Ventspils
+  [Abdu O. Mandeke 17, 22; Deniss Nazarovs 38; Nazar Prudčenko 57 -
+   Valters Liepājnieks 77 pen; Mārcis Kazainis (Rig) 83 og. Att: 73]
+[Apr 27]
+Tukums-2/TSS   2-0  Skanstes
+  [Ruslans Deružinskis 24; Yushin Koki 86. Att: 128]
+
 Table:
 
- 1.FC Valmiera            2   2  0  0   8- 2   6  [P]
+ 1.Metta (Rīga)           5   5  0  0  21- 1  15  [R]
 ------------------------------------------------
- 2.Leevon PPK (Rīga)      2   2  0  0   4- 1   6
+ 2.FC Valmiera            5   5  0  0  18- 5  15  [P]
 - - - - - - - - - - - - - - - - - - - - - - - --
- 3.SC Mārupe              1   1  0  0   4- 0   3
- 4.Metta (Rīga)           1   1  0  0   3- 1   3  [R]
- 5.Super Nova-2 (Rīga)    1   1  0  0   2- 1   3  [P]
- 6.Riga Mariners          1   1  0  0   1- 0   3
- 7.FK Smiltene/BJSS       2   0  2  0   6- 6   2
- 8.JFK Ventspils          2   0  1  1   3- 4   1
- 9.RFS-2 (Rīga)           2   0  1  1   4- 8   1
-10.JDFS Alberts (Rīga)    1   0  0  1   1- 2   0
-11.Skanstes (Rīga)        1   0  0  1   1- 2   0
-12.Rīga FC-2              1   0  0  1   1- 3   0
+ 3.Riga Mariners          5   3  2  0   9- 5  11
+ 4.Leevon PPK (Rīga)      5   3  2  0   7- 3  11
+ 5.Super Nova-2 (Rīga)    5   2  2  1   9- 7   8  [P]
+ 6.SC Mārupe              5   2  1  2  11- 5   7
+ 7.Rīga FC-2              5   2  1  2   9-10   7
+ 8.JDFS Alberts (Rīga)    4   2  0  2   6- 5   6
+ 9.FK Tukums-2/TSS        4   1  1  2   6- 8   4      [2-0]
+10.Skanstes (Rīga)        5   1  1  3   8-10   4      [0-2]
+11.FK Smiltene/BJSS       5   0  3  2   6-18   3
+12.JFK Ventspils          5   0  2  3   8-13   2
 ------------------------------------------------
-13.FK Tukums-2/TSS        1   0  0  1   1- 3   0
-14.FA Rēzekne             2   0  0  2   0- 6   0
+13.RFS-2 (Rīga)           5   0  1  4   5-15   1
+14.FA Rēzekne             5   0  0  5   2-20   0
 
 Top scorers:
 
-Rojs Bušs (Valmiera)            2
-Mahamadou Dembélé (Valmiera)    2  [Mali]
-Emīls Dūmiņš (Smiltene/BJSS)    2
-Gustavs Krieviņš (Mārupe)       2
-Rūdolfs Muižnieks (Leevon PPK)  2
-Mikaze Nagasawa   (RFS-2)         2  [Japan]
-
-Round 3
-[Apr 10]
-Riga FC-2      -  JDFS Alberts
-[Apr 11]
-Tukums-2/TSS   -  Riga Mariners
-RFS-2          -  Metta
-Super Nova-2   -  Ventspils
-Rezekne        -  Skanstes
-[Apr 12]
-Valmiera       -  Smiltene/BJSS
-Leevon PPK     -  Marupe
-
-Round 4
-[Apr 4]
-Ventspils      -  Tukums-2/TSS
-[Apr 18]
-Smiltene/BJSS  -  Leevon PPK
-Marupe         -  Valmiera
-[Apr 19]
-Skanstes       -  Super Nova-2
-Riga Mariners  -  Riga FC-2
-JDFS Alberts   -  RFS-2
-Metta          -  Rezekne
-
-Round 5
-[Apr 25]
-JDFS Alberts   -  Marupe
-Metta          -  Smiltene/BJSS
-RFS-2          -  Riga Mariners
-[Apr 26]
-Valmiera       -  Rezekne
-Riga FC-2      -  Ventspils
-Super Nova-2   -  Leevon PPK
-[Apr 27]
-Tukums-2/TSS   -  Skanstes
+1.Aļģirdas Gražis (Riga Mariners)  6
+2.Kevins Cēsnieks (Metta)          5
+3.Mahamadou Dembélé (Valmiera)     4  [Mali]
+  Fraj Kayramani (Valmiera)        4  [Tunisia]
+  Nazar Prudčenko (Rīga FC-2)      4  [Ukraine]
+6.Olivers Dzenītis (Metta)         3
+  Rūdolfs Kļavinskis (Metta)       3
+  Gustavs Krieviņš (Mārupe)        3
 
 Round 6
 [May 2]
@@ -799,30 +868,48 @@ Riga Mariners  -  Leevon PPK
 
 ==== 2. Līga  ‹§second›
 
-‹A Grupa, see §2a› | ‹B Grupa, see §2b›
 
-A Grupa  ‹§2a›
-
-Round 1 [Apr 11]
-Olaine          -  Iecava
-Jelgava-2       -  Liepaja-2/LFS
-Karosta         -  Viola
-Kekava/Auda     -  Dienvidkurzeme
-Salaspils       -  Daugava/Union
+====== A Grupa  ‹§2a›
 
 Table:
 
- 1.AFA Olaine                 0   0  0  0   0- 0   0  [R]
- 2.FS Jelgava-2               0   0  0  0   0- 0   0
+ 1.Viola (Jelgava)            1   1  0  0   4- 0   3
+ 2.AFA Olaine                 1   1  0  0   3- 0   3  [R]
 ----------------------------------------------------
- 3.FK Salaspils               0   0  0  0   0- 0   0
- 4.Karosta (Liepāja)          0   0  0  0   0- 0   0
- 5.FK Ķekava/Auda             0   0  0  0   0- 0   0
- 6.Dienvidkurzeme (Grobiņa)   0   0  0  0   0- 0   0
- 7.Viola (Jelgava)            0   0  0  0   0- 0   0
- 8.Daugava/Union (Rīga)       0   0  0  0   0- 0   0
- 9.FK Liepāja-2/LFS           0   0  0  0   0- 0   0  [P]
-10.FK Iecava                  0   0  0  0   0- 0   0  [P]
+ 3.FK Salaspils               1   1  0  0   3- 0   3
+ 4.FS Jelgava-2               1   0  1  0   1- 1   1
+ 5.FK Ķekava/Auda             1   0  1  0   1- 1   1
+ 6.Dienvidkurzeme (Grobiņa)   1   0  1  0   1- 1   1
+ 7.FK Liepāja-2/LFS           1   0  1  0   1- 1   1  [P]
+ 8.Daugava/Union (Rīga)       1   0  0  1   0- 3   0
+ 9.FK Iecava                  1   0  0  1   0- 3   0  [P]
+10.Karosta (Liepāja)          1   0  0  1   0- 4   0
+
+Round 1 [Apr 11. Total Att: 465; Average: 93]
+Olaine          3-0  Iecava
+  [K.Rūja 11; K.Salna 30; E.Ģēģers 40. Att: 73]
+Jelgava-2       1-1  Liepaja-2/LFS
+  [G.Patika 4 - R.Untulis 89. Att: 87]
+Salaspils       3-0  Daugava/Union
+  [G.Cvetkovs 7; Ja.Tkačenko 28 pen; M.Videnieks 88. Att: 150]
+Karosta         0-4  Viola
+  [K.Zuševics 4; K.Knope 24, 37; A.Trukšāns 78. Att: 52]
+Kekava/Auda     1-1  Dienvidkurzeme
+  [A.Smetanovs 77 - M.Raihs 35. Att: 103]
+
+Table:
+
+ 1.Viola (Jelgava)            1   1  0  0   4- 0   3
+ 2.AFA Olaine                 1   1  0  0   3- 0   3  [R]
+----------------------------------------------------
+ 3.FK Salaspils               1   1  0  0   3- 0   3
+ 4.FS Jelgava-2               1   0  1  0   1- 1   1
+ 5.FK Ķekava/Auda             1   0  1  0   1- 1   1
+ 6.Dienvidkurzeme (Grobiņa)   1   0  1  0   1- 1   1
+ 7.FK Liepāja-2/LFS           1   0  1  0   1- 1   1  [P]
+ 8.Daugava/Union (Rīga)       1   0  0  1   0- 3   0
+ 9.FK Iecava                  1   0  0  1   0- 3   0  [P]
+10.Karosta (Liepāja)          1   0  0  1   0- 4   0
 
 Round 2
 [Apr 18]
@@ -974,31 +1061,50 @@ Dienvidkurzeme  -  Salaspils
 Daugava/Union   -  Iecava
 Karosta         -  Kekava/Auda
 
-B Grupa  ‹§2b›
+====== B Grupa  ‹§2b›
+
+Table:
+
+ 1.BFC Daugavpils-2           1   1  0  0   6- 0   3  [P]
+ 2.Rīgas Futbola Skola        1   1  0  0   5- 1   3
+----------------------------------------------------
+ 3.Dinamo (Rīga)              1   1  0  0   1- 0   3
+ 4.JDFS Alberts-2 (Rīga)      1   0  1  0   1- 1   1
+ 5.Spēks VSS (Kocēni)         1   0  1  0   1- 1   1  [P]
+ 6.Augšdaugava (Ilūkste)      0   0  0  0   0- 0   0  [R]
+ 7.FK Cēsis                   0   0  0  0   0- 0   0  [P]
+ 8.Aliance (Rīga)             1   0  0  1   0- 1   0
+ 9.SK Babīte                  1   0  0  1   1- 5   0  [P]
+10.FK Līvāni                  1   0  0  1   0- 6   0
 
 Round 1
 [Apr 11]
-Alberts-2     -  Speks VSS
-Rigas FS      -  Babite
-Daugavpils-2  -  Livani
+Alberts-2     1-1  Speks VSS
+  [M.Spāde 68 - I.Kūlītis 27. Att: 65]
+Rigas FS      5-1  Babite
+  [A.Kroļikovs 34; B.Kadikovs 40; M.Kuĺbačnyj 45+1; E.Živjonoks (Bab) 76 og;
+   R.Andreļevskis 90 - D.R.Geidāns 15. Att: 55]
+Daugavpils-2  6-0  Livani
+  [D.W.Ayebadiepreye 18, 26, 50, 55; M.Bērziņš 27, 84. Att: 82]
 [Apr 12]
-Dinamo        -  Aliance
+Dinamo        1-0  Aliance
+  [R.Kauliņš 52. Att: 88]
 [Jun 6]
 Augsdaugava   -  Cesis
 
 Table:
 
- 1.Augšdaugava (Ilūkste)      0   0  0  0   0- 0   0  [R]
- 2.JDFS Alberts-2 (Rīga)      0   0  0  0   0- 0   0
+ 1.BFC Daugavpils-2           1   1  0  0   6- 0   3  [P]
+ 2.Rīgas Futbola Skola        1   1  0  0   5- 1   3
 ----------------------------------------------------
- 3.Rīgas Futbola skola        0   0  0  0   0- 0   0
- 4.FK Līvāni                  0   0  0  0   0- 0   0
- 5.Dinamo (Rīga)              0   0  0  0   0- 0   0
- 6.Aliance (Rīga)             0   0  0  0   0- 0   0
- 7.BFC Daugavpils-2           0   0  0  0   0- 0   0  [P]
- 8.SK Babīte                  0   0  0  0   0- 0   0  [P]
- 9.Spēks VSS (Kocēni)         0   0  0  0   0- 0   0  [P]
-10.FK Cēsis                   0   0  0  0   0- 0   0  [P]
+ 3.Dinamo (Rīga)              1   1  0  0   1- 0   3
+ 4.JDFS Alberts-2 (Rīga)      1   0  1  0   1- 1   1
+ 5.Spēks VSS (Kocēni)         1   0  1  0   1- 1   1  [P]
+ 6.Augšdaugava (Ilūkste)      0   0  0  0   0- 0   0  [R]
+ 7.FK Cēsis                   0   0  0  0   0- 0   0  [P]
+ 8.Aliance (Rīga)             1   0  0  1   0- 1   0
+ 9.SK Babīte                  1   0  0  1   1- 5   0  [P]
+10.FK Līvāni                  1   0  0  1   0- 6   0
 
 Round 2
 [Apr 18]
@@ -1158,5 +1264,12 @@ Dinamo        -  Livani
 Speks VSS     -  Augsdaugava
 [Sep 20]
 Daugavpils-2  -  Alberts-2
+
+
+Top scorers 2. Līga:
+
+1.Doukumo W. Ayebadiepreye (Daugavpils-2)  4  [Nigeria]
+2.Maksims Bērziņš (Daugavpils-2)           2
+  Kristens Knope (Viola)                   2
 
 

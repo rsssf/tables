@@ -2,7 +2,7 @@
      title:   Kyrgyzstan 2026
      source:  https://rsssf.org/tablesk/kyrg2026.html
      author:  Theodore Dreiman
-     updated: 5 Apr 2026    
+     updated: 2 May 2026
     -->
 
 
@@ -16,24 +16,27 @@
 
 Table:
 
- 1.Muras United (Manas)       4   3  1  0   6- 3  10
- 2.Alga (Bişkek)              3   2  1  0   7- 3   7
- 3.İlbirs (Bişkek)            4   2  1  1   7- 5   7
- 4.FC Özgön                   3   2  1  0   6- 4   7
- 5.Bishkek City               3   2  0  1   5- 3   6
- 6.Bars (Karakol)             2   2  0  0   4- 2   6  [C]
- 7.AsiaGoal (Bişkek)          4   1  3  0   4- 3   6
- 8.Alay (Oş)                  3   1  2  0   4- 2   5
- 9.Talant (Beş-Küñgöy)        3   1  1  1   6- 4   4
-10.Asia (Talas)               3   1  1  1   5- 6   4  [N]
-11.OşMU (Oş)                  5   0  4  1   3- 6   4
-12.Neftçi (Koçkor-Ata)        4   1  0  3   5- 6   3
-13.FC Toktogul                4   1  0  3   4- 8   3  [P]
-14.KırgızAltın (Kara-Balta)   5   0  2  3   3- 7   2
-15.Dordoy (Bişkek)            3   0  1  2   2- 6   1
-16.Abdış-Ata (Kant)           3   0  0  3   2- 5   0
+ 1.Muras United (Manas)       7   6  1  0  13- 5  19
+ 2.Alga (Bişkek)              7   5  2  0  16- 6  17
+ 3.Bars (Karakol)             6   5  1  0  14- 7  16  [C]
+ 4.Asia (Talas)               7   5  1  1  17-11  16  [N]
+ 5.FC Özgön                   6   4  1  1  13- 6  13
+ 6.Dordoy (Bişkek)            8   3  1  4  11-11  10
+ 7.İlbirs (Bişkek)            8   2  4  2  11-12  10
+ 8.OşMU (Oş)                  8   2  4  2   9-12  10
+ 9.Neftçi (Koçkor-Ata)        8   3  0  5   8- 9   9      [3-0]
+10.FC Toktogul                8   3  0  5   8-14   9  [P] [0-3]
+11.Alay (Oş)                  7   2  3  2   8- 9   9
+12.Bishkek City               7   2  2  3   6- 8   8
+13.AsiaGoal (Bişkek)          8   1  4  3   6-11   7
+14.Talant (Beş-Küñgöy)        7   1  2  4  10-12   5
+----------------------------------------------------
+15.Abdış-Ata (Kant)           7   1  0  6   5-12   3
+16.KırgızAltın (Kara-Balta)   9   0  2  7   8-18   2
 
-Round 1
+Asia play home games in Bişkek (300 km north-east of Talas).
+
+Round 1 [Total Att: 2,876; Average: 360]
 [Mar 1]
 Ilbirs        1-1  Alay
   [Taras Hevlyč 1 - Doniyor Ismoilov 66. Att: 398]
@@ -50,10 +53,10 @@ Bishkek City  1-2  Bars
 Alga          2-1  Talant
   [Volodymyr Zajimenko 57; Kimi Merk 89 - Nurmuhammad Toshpo'latov 60. Att: 398]
 [Mar 18]
-Toktogul      0-1  Muras United
-  [Erbol Atabayev 62 pen]
+Muras United  1-0  Toktogul
+  [Erbol Atabayev 62 pen. Att: 475]
 Asia Talas    3-1  Dordoy
-  [Akaki Shulaia 70; Atay Jumaşev 90+1; Mykola Ahapov 90+3 - Süyüntbek Mamıraliyev 14]
+  [Akaki Shulaia 70; Atay Jumaşev 90+1; Mykola Ahapov 90+3 - Süyüntbek Mamıraliyev 14. Att: 382]
 
 Round 2
 [Mar 6]
@@ -77,26 +80,26 @@ Bishkek City  1-0  Abdis-Ata
 [Apr 29]
 Muras United   -   Bars
 
-Round 3
+Round 3 [Total Att: 7,074; Average: 884]
 [Mar 13]
 Alay          1-1  KirgizAltin
-  [Garrett Kelly 29 - Mikhael Akatsuka 6]
+  [Garrett Kelly 29 - Mikhael Akatsuka 6. Att: 3,545]
 Dordoy        1-3  Bishkek City
-  [Illja Huĺko 85 - İslam Mejitov 57; Olexij Lobov 75; Ruslan Roziyev 81]
+  [Illja Huĺko 85 - İslam Mejitov 57; Olexij Lobov 75; Ruslan Roziyev 81. Att: 216]
 Ilbirs        2-1  Neftci
-  [Olexandr Dovhyj 69; Amantur İsakov 90+3 - Mixeil Ergemlidze 37]
+  [Olexandr Dovhyj 69; Amantur İsakov 90+3 - Mixeil Ergemlidze 37. Att: 102]
 [Mar 14]
 Toktogul      1-2  Bars
-  [Nurlanbek Sarıkbayev 71 - Magamed Üzdenov 6; Kayrat Jırgalbek-uulu 34]
+  [Nurlanbek Sarıkbayev 71 - Magamed Üzdenov 6; Kayrat Jırgalbek-uulu 34. Att: 1,345]
 OsMU          1-1  Asia Talas
-  [Uladzimir Masloŭski 28 - Xhelil Asani 26]
+  [Uladzimir Masloŭski 28 - Xhelil Asani 26. Att: 641]
 Abdis-Ata     1-2  Muras United
-  [Azamat Taşbaltayev 90+3 - Oleh Marčuk 17; Erbol Atabayev 90+1]
+  [Azamat Taşbaltayev 90+3 - Oleh Marčuk 17; Erbol Atabayev 90+1. Att: 680]
 [Mar 15]
 Ozgon         2-2  Alga
-  [Ramin Ähmädov 14, 59 - Volodymyr Zajimenko 27; Vladyslav Chomutov 90]
+  [Ramin Ähmädov 14, 59 - Volodymyr Zajimenko 27; Vladyslav Chomutov 90. Att: 93]
 AsiaGoal      1-1  Talant
-  [Nikolaj Prudnikov 27 - David Polanco 90+2]
+  [Nikolaj Prudnikov 27 - David Polanco 90+2. Att: 452]
 
 Round 4
 [Mar 18]
@@ -106,110 +109,138 @@ KirgizAltin   0-2  Ilbirs
 AsiaGoal      1-1  OsMU
   [Aziz Sıdıkov 75 - Olawale Tanimowo 90]
 Toktogul      0-3  Neftci
+[Apr 15]
+Muras United  2-0  Dordoy
 [ppd]
 Bishkek City   -   Talant
 Alga           -   Alay
 Asia Talas     -   Ozgon
-Muras United   -   Dordoy
 Abdis-Ata      -   Bars
-
-Moved Match Round 6 [Mar 30]
-Muras United  1-1  OsMU
-  [Oleh Marčuk 40 - Andrey Sidorov 90+2]
-
-Moved Match Round 11 [Mar 23]
-KirgizAltin   1-2  Muras United
-  [Islam Aĺsultanov 15 - Erbol Atabayev 53 pen; Jevhen Leščynśkyj 76]
-
-Table:
-
- 1.Muras United (Manas)       4   3  1  0   6- 3  10
- 2.Alga (Bişkek)              3   2  1  0   7- 3   7
- 3.İlbirs (Bişkek)            4   2  1  1   7- 5   7
- 4.FC Özgön                   3   2  1  0   6- 4   7
- 5.Bishkek City               3   2  0  1   5- 3   6
- 6.Bars (Karakol)             2   2  0  0   4- 2   6  [C]
- 7.AsiaGoal (Bişkek)          4   1  3  0   4- 3   6
- 8.Alay (Oş)                  3   1  2  0   4- 2   5
- 9.Talant (Beş-Küñgöy)        3   1  1  1   6- 4   4
-10.Asia (Talas)               3   1  1  1   5- 6   4  [N]
-11.OşMU (Oş)                  5   0  4  1   3- 6   4
-12.Neftçi (Koçkor-Ata)        4   1  0  3   5- 6   3
-13.FC Toktogul                4   1  0  3   4- 8   3  [P]
-14.KırgızAltın (Kara-Balta)   5   0  2  3   3- 7   2
-15.Dordoy (Bişkek)            3   0  1  2   2- 6   1
-16.Abdış-Ata (Kant)           3   0  0  3   2- 5   0
-
-Top scorers:
-
-1.Erbol Atabayev (Muras United)  3  [Kyrgyzstan/Russia]
-  Iĺja Karpuk (İlbirs)           3  [Russia]
-3.Mykola Ahapov (Asia Talas)     2  [Ukraine]
-  Ramin Ähmädov (Özgön)          2  [Azerbaijan]
-  Orxan Ä. Äliyev (Özgön)        2  [Azerbaijan]
-  Mixeil Ergemlidze (Neftçi)     2  [Georgia]
-  Taras Hevlyč (İlbirs)          2  [Ukraine]
-  Doniyor Ismoilov (Alay)        2  [Uzbekistan]
-  Solomon Kvirkvelia (Toktogul)  2  [Georgia]
-  Oleh Marčuk (Muras United)     2  [Ukraine]
-  İslam Mejitov (Bishkek City)   2
-  David Polanco (Talant)         2  [Colombia/USA]
-  Nikolaj Prudnikov (AsiaGoal)   2  [Russia/Belarus]
-  Volodymyr Zajimenko (Alga)     2  [Ukraine]
 
 Round 5
 [Apr 3]
-Ilbirs        -  Alga
-Ozgon         -  AsiaGoal
+Ilbirs        2-2  Alga
+  [Amantur İsakov 78; Iĺja Karpuk 90+7 pen - Vladyslav Chomutov 65; Igor Alves 89. Att: 480]
+Ozgon         4-0  AsiaGoal
+  [Murad Gadžimagomedov (Asi) 14 og; İldar Äläkbärov 70, 75; Ramin Ähmädov 90+5. Oş. Att: 750]
 [Apr 4]
-Abdis-Ata     -  Toktogul
-Neftci        -  KirgizAltin
-Talant        -  Muras United
+Talant        2-3  Muras United
+  [David Polanco 45+9 pen; Andrij Karvaćkyj 63 - Erbol Atabayev 26 pen, 55; Amir Japarov 70]
+Neftci        1-0  KirgizAltin
+  [Sardorbek Xursandov 29. Manas. Att: 345]
+Abdis-Ata     0-1  Toktogul
+  [Michael Stephen 28]
 [Apr 5]
-Alay          -  Asia Talas
-OsMU          -  Bishkek City
-Dordoy        -  Bars
+OsMU          2-0  Bishkek City
+  [Olawale Tanimowo 72; Sherzod Qodirov 90+4. Manas]
+Dordoy        1-2  Bars
+  [Aydar Mambetaliyev 83 - Temur Chogadze 60 pen; Emmanuel Yaghr 90+4]
+Alay          1-3  Asia Talas
+  [Garrett Kelly 23 - Aleksejs Saveļjevs 56; Atay Jumaşev 67; Mykola Ahapov 89]
 
 Round 6
 [Mar 30]
 Muras United  1-1  OsMU
-  [Oleh Marčuk 40 - Andrey Sidorov 90+2]
+  [Oleh Marčuk 40 - Andrey Sidorov 9+2. Att: 1,800]
 [Apr 10]
-Alga          -  Neftci
-Toktogul      -  KirgizAltin
+Alga          2-1  Neftci
+  [Kai Merk 18; Igor Alves 37 - Dastanbek Toktosunov 80]
+KirgizAltin   2-3  Toktogul
+  [Zaxriddin Abdilajonov 11; Islam Aĺsultanov 73 -
+   Mirbek Akmataliyev 45+1; Michael Stephen 52; Dmitri Nağıyev 69]
 [Apr 11]
-Abdis-Ata     -  Dordoy
-Asia Talas    -  Ilbirs
-Bishkek City  -  Ozgon
+Bishkek City  0-2  Ozgon
+  [Mihail Titow 14; İldar Äläkbärov 31. Kara-Balta]
+Asia Talas    4-1  Ilbirs
+  [Maksat Alıgulov 12; Mykola Ahapov 51, 71; Demur Chixladze 58 - Taras Hevlyč 61. Bishkek]
+Abdis-Ata     0-4  Dordoy
+  [Illja Huĺko 12; Ernist Batırkanov 18, 90; Süyüntbek Mamıraliyev 26.
+   Missed PK: Ernist Batırkanov (Dor) 32]
 [Apr 12]
-AsiaGoal      -  Alay
-Bars          -  Talant
+Talant        1-1  Bars
+  [Arlen Beksulov 80 - Temur Chogadze 55]
+AsiaGoal      1-2  Alay
+  [Aziz Sıdıkov 70 - Nikita M. Meĺnikov 45+3; Aliaxandr Michalienka (Asi) 84 og. Kant]
 
 Round 7
 [Apr 17]
-KirgizAltin   -  Alga
-Neftci        -  Asia Talas
+KirgizAltin   0-3  Alga
+  [Olexij Zinkevyč 25, 33; Kai Merk 40]
+Neftci        0-1  Asia Talas
+  [Lado Odishvili 86]
 [Apr 18]
-Alay          -  Bishkek City
-Ilbirs        -  AsiaGoal
-Talant        -  Abdis-Ata
+Alay          1-1  Bishkek City
+  [Garrett Kelly 52 pen - Nurislam Oruntayev 7]
+Ilbirs        1-1  AsiaGoal
+  [Amantur İsakov 39 - Maksat Jakıbaliyev 8)
+Talant        0-2  Abdis-Ata
+  [Umar Talantbekov 27; Sulayman Jumabekov 87]
 [Apr 19]
-OsMU          -  Bars
-Dordoy        -  Toktogul
+OsMU          2-5  Bars
+  [Andrey Sidorov 29; Bektur Zamirbek-uulu 90+3 - Farxat Musabekov 5;
+   Kayrat Jırgalbek-uulu 31, 53, Temur Chogadze 34; Beka Kavtaradze 81]
+Dordoy        2-0  Toktogul
+  [Tamirlan Džamalutdinov 4; Süyüntbek Mamıraliyev 40]
+[ppd]
 Ozgon         -  Muras United
 
 Round 8
-[Apr 24]
-Asia Talas    -  KirgizAltin
-Bishkek City  -  Ilbirs
 [Apr 25]
-Abdis-Ata     -  OsMU
-AsiaGoal      -  Neftci
-Muras United  -  Alay
+Alga          2-0  Toktogul
+  [Olexij Zinkevyč 20; Igor Alves 71]
 [Apr 26]
-Bars          -  Ozgon
-Dordoy        -  Talant
-Toktogul      -  Alga
+Muras United  2-0  Alay
+  [Erbol Atabayev 43; Nursultan Toktonaliyev 47]
+Asia Talas    4-3  KirgizAltin
+  [Maksat Alıgulov 11; Lado Odishvili 50; Atay Jumaşev 52; Demur Chixladze 58 -
+   Eldiyar Sardarbekov 17; Ruslan Adıl 67; Asılbek Iskakov 72]
+Talant        1-2  Dordoy
+  [David Polanco 77 - Vladyslav Kobyljanśkyj 2; Ernist Batırkanov 52. Att: 325]
+[Apr 27]
+Bishkek City  0-0  Ilbirs
+  [Kara-Balta]
+Abdis-Ata     1-2  OsMU
+  [Nodirbek Bobomurodov 83 pen - Sherzod Qodirov 45; Uladzimir Masloŭski 58]
+AsiaGoal      0-1  Neftci
+  [Dastanbek Toktosunov 90+5. Beş-Küñgöy]
+[Apr 28]
+Bars          2-1  Ozgon
+  [Albert Torras 15; Temur Chogadze 30 - Bekjan Sagınbayev (Bar) 45+7 og]
+
+Moved Match Round 11 [Mar 23]
+KirgizAltin   1-2  Muras United
+  [Islam Aĺsultanov 15 - Erbol Atabayev 53 pen; Jevhen Leščynśkyj 76. Att: 500]
+
+Table:
+
+ 1.Muras United (Manas)       7   6  1  0  13- 5  19
+ 2.Alga (Bişkek)              7   5  2  0  16- 6  17
+ 3.Bars (Karakol)             6   5  1  0  14- 7  16  [C]
+ 4.Asia (Talas)               7   5  1  1  17-11  16  [N]
+ 5.FC Özgön                   6   4  1  1  13- 6  13
+ 6.Dordoy (Bişkek)            8   3  1  4  11-11  10
+ 7.İlbirs (Bişkek)            8   2  4  2  11-12  10
+ 8.OşMU (Oş)                  8   2  4  2   9-12  10
+ 9.Neftçi (Koçkor-Ata)        8   3  0  5   8- 9   9      [3-0]
+10.FC Toktogul                8   3  0  5   8-14   9  [P] [0-3]
+11.Alay (Oş)                  7   2  3  2   8- 9   9
+12.Bishkek City               7   2  2  3   6- 8   8
+13.AsiaGoal (Bişkek)          8   1  4  3   6-11   7
+14.Talant (Beş-Küñgöy)        7   1  2  4  10-12   5
+----------------------------------------------------
+15.Abdış-Ata (Kant)           7   1  0  6   5-12   3
+16.KırgızAltın (Kara-Balta)   9   0  2  7   8-18   2
+
+Asia play home games in Bişkek (300 km north-east of Talas).
+
+Top scorers:
+
+1.Erbol Atabayev (Muras United)  6  [Kyrgyzstan/Russia]
+2.Mykola Ahapov (Asia Talas)     5  [Ukraine]
+  Temur Chogadze (Bars)          5  [Georgia]
+4.Iĺja Karpuk (İlbirs)           4  [Russia]
+  David Polanco (Talant)         4  [Colombia/USA]
+  Olexij Zinkevyč (Alga)         4  [Ukraine]
 
 Round 9
 [May 1]
@@ -303,5 +334,34 @@ Neftci        -  OsMU
 Alga          -  Dordoy
 Asia Talas    -  Abdis-Ata
 Bishkek City  -  Muras United
+
+
+
+
+
+
+==== Cup 2026  ‹§cup›
+
+First Round
+
+[Apr 21]
+KırgızAltın (K-Balta)  0-4  -   Alga (Bişkek)
+  [1. Kai Merk 42, 54; Samuel A. Adeniyi 45+1; Paul Ejeh 75]
+[Apr 22]
+FC Özgön               1-1  -   Alay (Oş)
+  [1. İldar Äläkbärov 25 - Doniyor Ismoilov 54]
+Asia (Talas)           0-1  -   Talant (Beş-Küñgöy)
+  [1. Nurmuhammad Toshpo'latov 13. Bişkek]
+Bishkek City           1-2  -   Abdış-Ata (Kant)
+  [1. Adilet Kanıbekov 60 - Nodirbek Bobomurodov 30; Sulayman Jumabekov 53. Kant]
+[Apr 23]
+İlbirs (Bişkek)        0-1  -   Bars (Karakol)
+  [1. Teýmur Çaryýew 4. Kant]
+Neftçi (Koçkor-Ata)    4-1  -   OşMU (Oş)
+  [1. Mixeil Ergemlidze 18 pen, 77; Sobit Sindarov 32;
+      Nikoloz Basheleishvili 90+6 - Olawale Tanimowo 21. Manas]
+[tba]
+FC Toktogul             -   -   Muras United (Manas)
+Dordoy (Bişkek)         -   -   AsiaGoal (Bişkek)
 
 

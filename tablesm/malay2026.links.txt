@@ -1,0 +1,7 @@
+tabless/sing2025                :  Singapore S-League
+tabless/sing2025                :  Singapore S-League
+tabless/sing2025                :  Singapore S-League
+tablesm/malay2025               :  2024/25
+tablesm/malaycuphist            :  list of cup winners
+tablesm/malaychamp              :  list of champions
+tablesm/malay2champ             :  list of 2nd level champions

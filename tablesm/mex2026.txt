@@ -2,7 +2,7 @@
      title:   Mexico 2025/26
      source:  https://rsssf.org/tablesm/mex2026.html
      author:  Erik Francisco Lugo
-     updated: 19 Dec 2025    
+     updated: 19 Dec 2025
     -->
 
 
@@ -14,11 +14,9 @@
 
 ==== Liga MX  ‹§pdn›
 
-‹Apertura 2025, see §1aper› | ‹Clausura 2026, see §1clau›
 
-Apertura 2025  ‹§1aper›
+===== Apertura 2025  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 Regular Stage  ‹§apreg›
 
@@ -97,9 +95,8 @@ Tigres               1-0 Toluca
 Second Leg [Dec 14]
 Toluca               2-1 Tigres               [aet, 9-8 pen]
 
-Clausura 2026  ‹§1clau›
+===== Clausura 2026  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 Regular Stage  ‹§clreg›
 

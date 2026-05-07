@@ -1,0 +1,3 @@
+tablesz/zanz2025                :  2024/25
+tablesz/zanzchamp               :  list of champions
+tablesz/zanzcuphist             :  list of cup winners

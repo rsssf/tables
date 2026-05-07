@@ -2,7 +2,7 @@
      title:   Guatemala 2025/26
      source:  https://rsssf.org/tablesg/guat2026.html
      author:  Karel Stokkermans
-     updated: 29 Dec 2025    
+     updated: 5 May 2026
     -->
 
 
@@ -14,13 +14,11 @@
 
 ==== Liga Nacional  ‹§nacional›
 
-‹Campeonato Apertura 2025, see §1aper› | ‹Campeonato Clausura 2026, see §1clau›
 
-Campeonato Apertura 2025  ‹§1aper›
+===== Campeonato Apertura 2025  ‹§1aper›
 
-‹Regular Stage, see §1aperreg› | ‹Playoff Stage, see §1aperplay›
 
-Regular Stage  ‹§1aperreg›
+====== Regular Stage  ‹§1aperreg›
 
 Final Table:
 
@@ -284,7 +282,7 @@ Final Table:
 11.Guastatoya                 22   6  4 12  23-37  22
 12.Comunicaciones             22   5  5 12  15-26  20
 
-Playoff Stage  ‹§1aperplay›
+====== Playoff Stage  ‹§1aperplay›
 
 Quarterfinals
 
@@ -327,13 +325,307 @@ Antigua               2-0 Municipal
 Second Leg [Dec 27]
 Municipal             1-0 Antigua
 
-Campeonato Clausura 2026  ‹§1clau›
+===== Campeonato Clausura 2026  ‹§1clau›
 
-‹Regular Stage, see §1claureg› | ‹Playoff Stage, see §1clauplay›
 
-Regular Stage  ‹§1claureg›
+====== Regular Stage  ‹§1claureg›
 
-Playoff Stage  ‹§1clauplay›
+Final Table:
 
+ 1.Xelajú MC                  22  11  6  5  34-19  39  ‹Qualified, see §1clauplay›
+ 2.Municipal                  22  11  5  6  32-21  38  ‹Qualified, see §1clauplay›
+ 3.Mixco                      22  10  6  6  30-26  36  ‹Qualified, see §1clauplay›
+ 4.Comunicaciones             22  11  2  9  28-26  35  ‹Qualified, see §1clauplay›
+ 5.Antigua GFC                22   9  7  6  34-29  34  ‹Qualified, see §1clauplay›
+ 6.Cobán Imperial             22   8  8  6  29-22  32  ‹Qualified, see §1clauplay›
+ 7.Guastatoya                 22   8  7  7  29-21  31  ‹Qualified, see §1clauplay›
+ 8.Marquense                  22   9  3 10  25-29  30  ‹Qualified, see §1clauplay›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Mictlán                    22   7  6  9  25-36  27
+10.Malacateco                 22   6  4 12  19-25  22
+11.Aurora                     22   4  8 10  14-30  20
+12.Achuapa                    22   5  4 13  17-32  19
+
+Round 1
+[Jan 20]
+Xelajú                4-0 Aurora
+[Jan 21]
+Cobán Imperial        5-1 Antigua
+Achuapa               2-3 Comunicaciones
+Malacateco            2-1 Marquense
+[Jan 22]
+Municipal             1-2 Mictlán
+Guastatoya            2-0 Mixco
+
+Round 2
+[Jan 24]
+Comunicaciones        2-3 Cobán Imperial
+Marquense             1-0 Achuapa
+[Jan 25]
+Aurora                2-2 Municipal
+Mictlán               0-0 Guastatoya
+Mixco                 1-0 Malacateco
+Antigua               1-1 Xelajú
+
+Round 3
+[Jan 27]
+Cobán Imperial        2-0 Marquense
+[Jan 28]
+Achuapa               2-0 Mixco
+Guastatoya            2-2 Aurora
+Municipal             1-0 Xelajú
+Antigua               0-1 Comunicaciones
+[Jan 29]
+Malacateco            2-0 Mictlán
+
+Round 4
+[Jan 31]
+Mixco                 1-1 Cobán Imperial
+Municipal             2-1 Guastatoya
+Xelajú                2-0 Comunicaciones
+Marquense             1-1 Antigua
+[Feb 1]
+Aurora                1-0 Malacateco
+Mictlán               0-1 Achuapa
+
+Round 5
+[Feb 6]
+Malacateco            1-3 Municipal
+[Feb 7]
+Achuapa               2-1 Aurora
+Comunicaciones        2-1 Marquense
+Guastatoya            1-0 Xelajú
+[Feb 8]
+Cobán Imperial        3-1 Mictlán
+Antigua               1-2 Mixco
+
+Round 6
+[Feb 14]
+Mixco                 2-2 Comunicaciones
+Municipal             1-1 Achuapa
+Guastatoya            1-1 Malacateco
+[Feb 15]
+Aurora                1-0 Cobán Imperial
+Mictlán               0-0 Antigua
+Xelajú                4-2 Marquense
+
+Round 7
+[Feb 17]
+Achuapa               1-0 Guastatoya
+[Feb 18]
+Cobán Imperial        0-0 Municipal
+Malacateco            1-0 Xelajú
+Antigua               2-0 Aurora
+[Feb 19]
+Comunicaciones        2-1 Mictlán
+Marquense             2-1 Mixco
+
+Round 8
+[Feb 21]
+Malacateco            1-1 Achuapa
+Municipal             4-2 Antigua
+Guastatoya            2-0 Cobán Imperial
+[Feb 22]
+Aurora                2-0 Comunicaciones
+Mictlán               2-1 Marquense
+Xelajú                2-1 Mixco
+
+Round 9
+[Feb 24]
+Cobán Imperial        2-0 Malacateco
+Antigua               2-0 Guastatoya
+[Feb 25]
+Achuapa               0-0 Xelajú
+Comunicaciones        1-0 Municipal
+Marquense             0-0 Aurora
+[Feb 26]
+Mixco                 2-2 Mictlán
+
+Round 10
+[Feb 28]
+Guastatoya            1-3 Comunicaciones
+Municipal             1-0 Marquense
+Malacateco            2-2 Antigua
+[Mar 1]
+Aurora                1-1 Mixco
+Achuapa               0-1 Cobán Imperial
+Xelajú                2-0 Mictlán
+
+Round 11
+[Mar 3]
+Comunicaciones        3-2 Malacateco
+[Mar 4]
+Mixco                 1-0 Municipal
+Marquense             2-2 Guastatoya
+Antigua               1-0 Achuapa
+[Mar 5]
+Cobán Imperial        1-1 Xelajú
+[Mar 11]
+Mictlán               2-0 Aurora
+
+Round 12
+[Mar 7]
+Mixco                 1-0 Guastatoya
+Marquense             1-0 Malacateco
+[Mar 8]
+Aurora                0-0 Xelajú
+Mictlán               2-1 Municipal
+Antigua               2-2 Cobán Imperial
+Comunicaciones        4-0 Achuapa
+
+Round 13
+[Mar 14]
+Guastatoya            3-1 Mictlán
+Malacateco            1-2 Mixco
+Xelajú                1-1 Antigua
+[Mar 15]
+Cobán Imperial        2-0 Comunicaciones
+Achuapa               1-2 Marquense
+Municipal             4-1 Aurora
+
+Round 14
+[Mar 18]
+Mixco                 1-0 Achuapa
+Mictlán               1-0 Malacateco
+Marquense             3-1 Cobán Imperial
+[Mar 19]
+Aurora                0-1 Guastatoya
+Comunicaciones        0-1 Antigua
+Xelajú                3-1 Municipal
+
+Round 15
+[Mar 21]
+Cobán Imperial        1-1 Mixco
+Achuapa               0-2 Mictlán
+[Mar 22]
+Guastatoya            1-1 Municipal
+Comunicaciones        1-3 Xelajú
+Malacateco            1-1 Aurora
+[Mar 23]
+Antigua               1-0 Marquense
+
+Round 16
+[Mar 28]
+Mixco                 2-1 Antigua
+Municipal             1-0 Malacateco
+Xelajú                1-1 Guastatoya
+[Mar 29]
+Aurora                1-0 Achuapa
+Mictlán               1-0 Cobán Imperial
+Marquense             1-0 Comunicaciones
+
+Round 17
+[Apr 1]
+Cobán Imperial        0-0 Aurora
+Antigua               8-2 Mictlán
+Marquense             1-0 Xelajú
+[Apr 2]
+Achuapa               1-2 Municipal
+Comunicaciones        1-0 Mixco
+Malacateco            1-0 Guastatoya
+
+Round 18
+[Apr 4]
+Aurora                0-2 Antigua
+[Apr 5]
+Mictlán               1-1 Comunicaciones
+Municipal             0-0 Cobán Imperial
+Xelajú                1-0 Malacateco
+[Apr 6]
+Guastatoya            3-1 Achuapa
+[Apr 7]
+Mixco                 2-1 Marquense
+
+Round 19
+[Apr 10]
+Comunicaciones        1-0 Aurora
+[Apr 11]
+Mixco                 3-1 Xelajú
+Antigua               1-0 Municipal
+Marquense             3-0 Mictlán
+[Apr 12]
+Cobán Imperial        1-1 Guastatoya
+Achuapa               1-0 Malacateco
+
+Round 20
+[Apr 15]
+Aurora                0-1 Marquense
+Guastatoya            3-0 Antigua
+Municipal             1-0 Comunicaciones
+[Apr 16]
+Mictlán               2-2 Mixco
+Malacateco            2-0 Cobán Imperial
+Xelajú                3-0 Achuapa
+
+Round 21
+[Apr 18]
+Marquense             1-3 Municipal
+[Apr 19]
+Mixco                 4-0 Aurora
+Cobán Imperial        3-1 Achuapa
+Mictlán               2-3 Xelajú
+Antigua               2-1 Malacateco
+[Apr 20]
+Comunicaciones        1-0 Guastatoya
+
+Round 22 [Apr 26]
+Aurora                1-1 Mictlán
+Municipal             3-0 Mixco
+Achuapa               2-2 Antigua
+Xelajú                2-1 Cobán Imperial
+Guastatoya            4-0 Marquense
+Malacateco            1-0 Comunicaciones
+
+Final Table:
+
+ 1.Xelajú MC                  22  11  6  5  34-19  39  ‹Qualified, see §1clauplay›
+ 2.Municipal                  22  11  5  6  32-21  38  ‹Qualified, see §1clauplay›
+ 3.Mixco                      22  10  6  6  30-26  36  ‹Qualified, see §1clauplay›
+ 4.Comunicaciones             22  11  2  9  28-26  35  ‹Qualified, see §1clauplay›
+ 5.Antigua GFC                22   9  7  6  34-29  34  ‹Qualified, see §1clauplay›
+ 6.Cobán Imperial             22   8  8  6  29-22  32  ‹Qualified, see §1clauplay›
+ 7.Guastatoya                 22   8  7  7  29-21  31  ‹Qualified, see §1clauplay›
+ 8.Marquense                  22   9  3 10  25-29  30  ‹Qualified, see §1clauplay›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Mictlán                    22   7  6  9  25-36  27
+10.Malacateco                 22   6  4 12  19-25  22
+11.Aurora                     22   4  8 10  14-30  20
+12.Achuapa                    22   5  4 13  17-32  19
+
+====== Playoff Stage  ‹§1clauplay›
+
+Quarterfinals
+
+First Legs
+[Apr 29]
+Cobán Imperial        2-0 Mixco
+Antigua               3-2 Comunicaciones
+[Mar 30]
+Marquense             1-1 Xelajú
+Guastatoya            0-1 Municipal
+
+Second Legs
+[May 2]
+Mixco                 2-0 Cobán Imperial
+Comunicaciones        2-0 Antigua
+[May 3]
+Municipal             2-0 Guastatoya
+Xelajú                2-0 Marquense
+
+NB: Mixco qualified on better record regular season
+
+Semifinals
+
+First Legs
+[May 6]
+Mixco                  -  Municipal
+[May 7]
+Comunicaciones         -  Xelajú
+
+Second Legs
+[May 9]
+Municipal              -  Mixco
+[May 10]
+Xelajú                 -  Comunicaciones
 
 

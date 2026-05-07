@@ -2,7 +2,7 @@
      title:   Zambia 2025/26
      source:  https://rsssf.org/tablesz/zamb2026.html
      author:  Kalumiana Kalumiana
-     updated: 9 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -16,25 +16,25 @@
 
 Table:
 
- 1.Power Dynamos (Kitwe)               25  16  7  2  39-15  55  [C]
- 2.Red Arrows (Lusaka)                 27  14  9  4  36-18  51
- 3.Kabwe Warriors                      26  12  7  7  25-15  43
- 4.Nchanga Rangers (Chingola)          27  12  7  8  26-19  43
- 5.Zanaco (Lusaka)                     25  12  6  7  25-16  42
- 6.Mufulira Wanderers                  27  12  6  9  19-18  42
- 7.FC MUZA (Mazabuka)                  27  11  7  9  29-24  40
- 8.Green Eagles (Choma)                25   9 10  6  21-18  37
- 9.Konkola Blades                      27   8 12  7  23-22  36  [P]
-10.Green Buffaloes (Lusaka)            27   7 12  8  24-29  33
-11.ZESCO United (Ndola)                24   9  4 11  26-23  31
-12.Nkana (Kitwe)                       27   7 10 10  17-24  31
-13.Kansanshi Dynamos                   26   6 11  9  21-23  29  [P]
-14.Mutondo Stars                       27   5 12 10  16-27  27
+ 1.Power Dynamos (Kitwe)               30  21  7  2  48-16  70  [C]  Champions
+ 2.Red Arrows (Lusaka)                 30  15 10  5  40-21  55
+ 3.Nchanga Rangers (Chingola)          31  14  7 10  29-22  49
+ 4.Kabwe Warriors                      30  14  7  9  28-21  49
+ 5.Mufulira Wanderers                  31  14  6 11  22-22  48
+ 6.Green Eagles (Choma)                30  12 11  7  27-21  47
+ 7.Zanaco (Lusaka)                     29  13  6 10  28-22  45
+ 8.FC MUZA (Mazabuka)                  31  12  9 10  31-27  45
+ 9.Konkola Blades                      31   9 14  8  28-26  41  [P]
+10.ZESCO United (Ndola)                29  10  8 11  30-26  38
+11.Kansanshi Dynamos                   30   9 11 10  27-25  38  [P]
+12.Green Buffaloes (Lusaka)            31   8 14  9  26-31  38
+13.Nkana (Kitwe)                       31   8 11 12  21-28  35
+14.Nkwazi (Lusaka)                     31   6 13 12  19-27  31
 --------------------------------------------------------------
-15.Nkwazi (Lusaka)                     26   4 12 10  15-23  24
-16.NAPSA Stars (Lusaka)                26   5  9 12  18-28  24
-17.FC Leopards (Kabwe)                 27   4 12 11  21-32  24  [P]  [*]
-18.Mines United (Kabwe)                26   2  9 15  14-41  15  [P]
+15.Mutondo Stars                       31   6 13 12  18-30  31
+16.NAPSA Stars (Lusaka)                31   6 11 14  22-33  29
+17.FC Leopards (Kabwe)                 31   5 13 13  23-36  28  [P]             [*]
+18.Mines United (Kabwe)                30   2  9 19  15-48  15  [P]  Relegated
 
 [*] Prison Leopards were renamed FC Leopards
 
@@ -464,7 +464,8 @@ Red Arrows              2-0 NAPSA Stars
   [Albert Kangwanda 55, 90]
 [Apr 8]
 Power Dynamos           3-0 Mines United
-[tba]
+  [Austin Muwowo 15, Moses Shumah 42, 71]
+[May 7]
 Green Eagles             -  Zesco United
 
 Round 21
@@ -573,9 +574,11 @@ Nchanga Rangers         1-2 Green Buffaloes
   [Pepo Ifoni 21; Felix Jere 48, Roger Kumiyamba 53og]
 Zanaco                  1-1 Konkola Blades
   [Eliya Mandanji 50; Kenan Phiri 54]
-[tba]
+[Apr 23]
+Zesco United            1-1 NAPSA Stars
+  [Emmanuel Mwanza 9; Mathews Topola 14]
+[May 6]
 Kansanshi Dynamos        -  Power Dynamos
-Zesco United             -  NAPSA Stars
 
 Round 26
 [Mar 18]
@@ -612,32 +615,104 @@ Zesco United            1-0 Green Buffaloes
   [Emmanuel Mwanza 44]
 [Apr 8]
 Kabwe Warriors          2-0 Mufulira Wanderers
+  [Saith Sakala 86, Jackson Kampamba 90+3]
 MUZA                    2-1 Nchanga Rangers
+  [Emmanuel Habasimbi 29, Francis Mashingeni 71; Mwiza Siwale 7]
 [Apr 22]
-Nkwazi                   -  Power Dynamos
-Zanaco                   -  Green Eagles
+Nkwazi                  0-1 Power Dynamos
+  [Moses Shumah 4]
+Zanaco                  1-2 Green Eagles
+  [Araina Lambert 44; Derrick Bulaya 15, 89]
+
+Round 28
+[Apr 11]
+Green Buffaloes         1-1 Mutondo Stars
+  [Francis Mwenya 39; Joseph Kiala 4pen]
+Mines United            0-1 Nkwazi
+  [Billy Ntumba 49pen]
+NAPSA Stars             1-0 Leopards
+  [Kenneth Kasanga 90]
+Power Dynamos           1-0 Nkana
+  [Moses Shumah 51]
+[Apr 12]
+Zesco United            0-0 MUZA
+Red Arrows              3-1 Kabwe Warriors
+  [Angel Lubamba 53, Ackim Mumba 87, Albert Kangwanda 90pen; Francis Banda 57]
+Nchanga Rangers         1-2 Kansanshi Dynamos
+  [Davie Zulu 90; Beby Musangala 25, Kalonji Mwepu 62]
+Green Eagles            1-1 Konkola Blades
+  [Henry Besa 25; Boyd Musonda 90+2]
+Mufulira Wanderers      2-0 Zanaco
+  [Maybin Mpoyi 10pen, Joseph Tembwe 47]
+
+Round 29
+[Apr 15]
+Nkwazi                  2-1 NAPSA Stars
+  [Carlos Kaoma 6, Adrian Chama 68; Habib Kyombo 43]
+Mutondo Stars           0-1 Green Eagles
+  [Derrick Bulaya 55]
+Nkana                   3-1 Mines United
+  [Harrison Chisala 35, Dave Daka 55, 85]
+Kabwe Warriors          0-3 Power Dynamos
+  [Moses Shumah 1, 11, David Adoko 27]
+[Apr 16]
+MUZA                    0-0 Green Buffaloes
+Kansanshi Dynamos       0-1 Zesco United
+  [Emmanuel Manda 65]
+Konkola Blades          2-0 Mufulira Wanderers
+  [Boyd Musonda 67, Raphael Silwimba 90]
+Leopards                1-0 Nchanga Rangers
+  [Maximilian Elembi 28pen]
+[May 6]
+Zanaco                   -  Red Arrows
+
+Round 30
+[Apr 29]
+Green Buffaloes         1-0 Green Eagles
+Mines United            0-1 Kabwe Warriors
+Mufulira Wanderers      1-0 Mutondo Stars
+MUZA                    0-3 Kansanshi Dynamos
+Power Dynamos           2-0 Zanaco
+Red Arrows              1-1 Konkola Blades
+Zesco United            1-1 Leopards
+Nchanga Rangers         1-0 Nkwazi
+[Apr 30]
+NAPSA Stars             1-1 Nkana
+
+Round 31
+[May 2]
+Kansanshi Dynamos       1-0 Green Buffaloes
+Konkola Blades          1-2 Power Dynamos
+Mutondo Stars           1-0 Red Arrows
+Leopards                0-2 MUZA
+Zanaco                  2-0 Mines United
+[May 3]
+Green Eagles            2-0 Mufulira Wanderers
+Nkwazi                  1-1 Zesco United
+Kabwe Warriors          1-0 NAPSA Stars
+Nkana                   0-1 Nchanga Rangers
 
 Table:
 
- 1.Power Dynamos (Kitwe)               25  16  7  2  39-15  55  [C]
- 2.Red Arrows (Lusaka)                 27  14  9  4  36-18  51
- 3.Kabwe Warriors                      26  12  7  7  25-15  43
- 4.Nchanga Rangers (Chingola)          27  12  7  8  26-19  43
- 5.Zanaco (Lusaka)                     25  12  6  7  25-16  42
- 6.Mufulira Wanderers                  27  12  6  9  19-18  42
- 7.FC MUZA (Mazabuka)                  27  11  7  9  29-24  40
- 8.Green Eagles (Choma)                25   9 10  6  21-18  37
- 9.Konkola Blades                      27   8 12  7  23-22  36  [P]
-10.Green Buffaloes (Lusaka)            27   7 12  8  24-29  33
-11.ZESCO United (Ndola)                24   9  4 11  26-23  31
-12.Nkana (Kitwe)                       27   7 10 10  17-24  31
-13.Kansanshi Dynamos                   26   6 11  9  21-23  29  [P]
-14.Mutondo Stars                       27   5 12 10  16-27  27
+ 1.Power Dynamos (Kitwe)               30  21  7  2  48-16  70  [C]  Champions
+ 2.Red Arrows (Lusaka)                 30  15 10  5  40-21  55
+ 3.Nchanga Rangers (Chingola)          31  14  7 10  29-22  49
+ 4.Kabwe Warriors                      30  14  7  9  28-21  49
+ 5.Mufulira Wanderers                  31  14  6 11  22-22  48
+ 6.Green Eagles (Choma)                30  12 11  7  27-21  47
+ 7.Zanaco (Lusaka)                     29  13  6 10  28-22  45
+ 8.FC MUZA (Mazabuka)                  31  12  9 10  31-27  45
+ 9.Konkola Blades                      31   9 14  8  28-26  41  [P]
+10.ZESCO United (Ndola)                29  10  8 11  30-26  38
+11.Kansanshi Dynamos                   30   9 11 10  27-25  38  [P]
+12.Green Buffaloes (Lusaka)            31   8 14  9  26-31  38
+13.Nkana (Kitwe)                       31   8 11 12  21-28  35
+14.Nkwazi (Lusaka)                     31   6 13 12  19-27  31
 --------------------------------------------------------------
-15.Nkwazi (Lusaka)                     26   4 12 10  15-23  24
-16.NAPSA Stars (Lusaka)                26   5  9 12  18-28  24
-17.FC Leopards (Kabwe)                 27   4 12 11  21-32  24  [P]  [*]
-18.Mines United (Kabwe)                26   2  9 15  14-41  15  [P]
+15.Mutondo Stars                       31   6 13 12  18-30  31
+16.NAPSA Stars (Lusaka)                31   6 11 14  22-33  29
+17.FC Leopards (Kabwe)                 31   5 13 13  23-36  28  [P]             [*]
+18.Mines United (Kabwe)                30   2  9 19  15-48  15  [P]  Relegated
 
 [*] Prison Leopards were renamed FC Leopards
 
@@ -648,9 +723,8 @@ Table:
 
 ==== Cups  ‹§cups›
 
-‹ABSA Cup 2026, see §absa›
 
-ABSA Cup 2026  ‹§absa›
+===== ABSA Cup 2026  ‹§absa›
 
 Preliminary Round
 [Mar 20, Godfrey Ucar Chitalu Stadium, Kabwe]
@@ -686,10 +760,23 @@ Zambezi Portland        0-3 Red Arrows
   [Alassane Diarra 62, Ackim Mumba 77, Albert Kangwanda 90+2]
 
 Quarterfinals
-MUZA                     -  Mufulira Wanderers
-Nchanga Rangers          -  Power Dynamos
-Chirundu United          -  Zanaco
-Red Arrows               -  Play It Forward
+[Apr 18, Arthur Davies Stadium, Kitwe]
+Chirundu United         1-0 Zanaco
+  [Darius Phiri 25]
+Play It Forward         1-4 Red Arrows
+  [Daison Phiri 40; Albert Kangwanda 25, 52, Alassane Diarra 63, Ackim Mumba 66]
+[Apr 19, Nkoloma Stadium, Lusaka]
+Mufulira Wanderers      0-0 MUZA                    [5-4 pen]
+Power Dynamos           2-0 Nchanga Rangers
+  [Moses Shumah 15, Dominic Chanda 75]
+
+Semifinals [Apr 25, Levy Mwanawasa Stadium, Ndola]
+Power Dynamos           0-0 Mufulira Wanderers      [2-1 pen]
+Red Arrows              2-0 Chirundu United
+  [Angel Lubamba 15, Joseph Phiri 83]
+
+Final [May 10, Levy Mwanawasa Stadium, Ndola]
+Power Dynamos            -  Red Arrows
 
 
 
@@ -700,26 +787,26 @@ Red Arrows               -  Play It Forward
 
 Table:
 
- 1.Makeni All Stars                    29  16  8  5  43-24  56  [P]
- 2.Roan United                         29  16  7  6  37-16  55  [P]
- 3.Trident (Kalumbila)                 29  15  9  5  34-17  54
- 4.Chirundu United                     29  14 11  4  32-16  53
+ 1.Roan United                         33  19  7  7  47-18  64  [P]  Promoted
+ 2.Trident (Kalumbila)                 33  18 10  5  38-17  64       Promoted
+ 3.Makeni All Stars                    33  18  9  6  49-29  63  [P]  Promoted
+ 4.Chirundu United                     32  16 11  5  37-17  59
 --------------------------------------------------------------
- 5.Forest Rangers (Ndola)              29  14  8  7  35-18  50  [R]
- 6.Aguila Stars                        29  13  9  7  45-28  48
- 7.Lumwana Radiants                    29  14  6  9  32-21  48  [R]
- 8.Kafue Celtic                        29  13  9  7  37-30  48
- 9.Atletico Lusaka                     29   9 10 10  34-31  37  [R]
-10.Jumulo FC (Kitwe)                   29   6 16  7  25-29  34
-11.Indeni (Ndola)                      29   7 13  9  25-31  34  [R]
-12.Kitwe United                        29   7 11 11  22-32  32
-13.Chipata City Council                29   7  9 13  25-42  30  [P]
-14.Locus FC (Lusaka)                   29   8  4 17  28-38  28  [*]
+ 5.Forest Rangers (Ndola)              33  16  9  8  40-24  57  [R]
+ 6.Lumwana Radiants                    33  16  7 10  39-24  55  [R]
+ 7.Kafue Celtic                        33  15 10  8  44-35  55
+ 8.Aguila Stars                        33  14 10  9  51-34  52
+ 9.Atletico Lusaka                     33  11 11 11  42-34  44  [R]
+10.Jumulo FC (Kitwe)                   33   9 15  9  31-33  42
+11.Indeni (Ndola)                      33   9 12 12  28-35  39  [R]
+12.Ndola United                        33   8 12 13  25-33  36
+13.Kitwe United                        33   8 12 13  27-37  36
+14.Locus FC (Lusaka)                   33  10  4 19  31-41  34  [*]
 --------------------------------------------------------------
-15.Chambishi                           29   6  9 14  17-25  27
-16.Ndola United                        29   5 12 12  19-29  27
-17.River Plate                         29   4 11 14  23-38  23
- -.Mpulungu Harbour                    29   2  8 19   9-57  14       Excluded
+15.Chipata City Council                33   8  9 16  28-51  33  [P]
+16.Chambishi                           32   6 10 16  17-29  28
+17.River Plate                         33   4 12 17  27-50  24       Relegated
+ -.Mpulungu Harbour                    33   2  8 23   9-69  14       Excluded
 
 [*] promoted side Solwezi Academy sold their place to Locus FC (Lusaka)
 
@@ -1013,7 +1100,7 @@ Kafue Celtic            2-1 Makeni All Stars
 [Nov 29]
 Forest Rangers          0-1 Roan United
   [Abraham Kabange 71]
-Jumulo                  2-2 Indeni
+Jumulo                  awd Indeni                  [awarded 3-0; originally 2-2]
   [Edwin Mukabe 42, Binotynho Musonda 76; Jonathan Munalula 51, Logic Chingandu 61]
 River Plate             1-1 Lumwana Radiants
   [Chibesa Chanda 51; Phillip Kabwela 87]
@@ -1319,28 +1406,104 @@ Indeni                  1-1 Chirundu United
 Lumwana Radiants        1-2 Locus
   [Steven Chola 68; Gideon Kansanshi 42, Isaac Kamoso 66]
 
+Round 30
+[Apr 11]
+Chambishi               0-0 Lumwana Radiants
+Forest Rangers          1-0 Atletico Lusaka
+  [John Kosamu 85]
+Jumulo                  0-1 Roan United
+  [Emmanuel Muchinga 22]
+Ndola United            1-0 Chirundu United
+  [Saulosi Banda 8]
+River Plate             2-3 Makeni All Stars
+  [Chisenga Lukwemba 14, 41; Ignatius Phiri 13, Cosmas Phiri 51, Joseph Chandila 80]
+Trident                 2-0 Kitwe United
+  [Dyson Phiri 44, 47]
+[Apr 12]
+Locus                   1-0 Indeni
+  [Gideon Kabanshi 66]
+Chipata City Council    1-3 Aguila Stars
+  [Dalitso Lombe 40; Keke Sipuka 65, 89, Rabson Mumba 67]
+Kafue Celtic            awd Mpulungu Harbour        [awarded 3-0, Mpulungu Harbour excluded]
+
+Round 31
+[Apr 15]
+Atletico Lusaka         1-1 Kafue Celtic
+  [Abel Nyirongo 46; Musa Chiwaya 35]
+Kitwe United            1-1 Forest Rangers
+  [Chileshe Musonda 87; John Kosamu 35]
+Roan United             4-0 River Plate
+  [David Muchinga 27pen, Semiwe Mwila 56, Wilfred Chitembo 58, 90]
+Makeni All Stars        0-0 Trident
+Mpulungu Harbour        awd Ndola United            [awarded 0-3, Mpulungu Harbour excluded]
+[Apr 16]
+Lumwana Radiants        3-1 Chipata City Council
+  [James Chilimina 9, 44, Emmanuel Mukanda 83; Nsama Mukalula 39]
+[Apr 17]
+Indeni                  2-0 Chambishi
+  [Jonathan Chilimina 9, Jonathan Munalula 83]
+Aguila Stars            1-2 Jumulo
+  [Kalolamanda Sichivula 32; Binotynho Musonda 25, Aaron Tembo 27]
+[Apr 29]
+Chirundu United         2-0 Locus
+
+Round 32
+[Apr 22]
+Kafue Celtic            2-1 Kitwe United
+  [Elias Mudolo 1, Chama Chansa 7; Hulad Banda 22]
+Chipata City Council    1-0 Indeni
+  [(Nsama Mukalula 76pen]
+River Plate             2-2 Aguila Stars
+  [Desmond Nyirenda 60, Moffat Mulela 72; Thomas Mwambazi 57, Keke Sipuka 90]
+[Apr 23]
+Forest Rangers          2-0 Makeni All Stars
+  [Nicholas Chipoya 85, 90+5]
+Ndola United            1-0 Locus
+  [Steven Chisha 61pen]
+Trident                 1-0 Roan United
+  [Sam Sikasote 26]
+[Apr 24]
+Mpulungu Harbour        awd Atletico Lusaka         [awarded 0-3, Mpulungu Harbour excluded]
+Jumulo                  2-1 Lumwana Radiants
+  [Michael Mwansa 79, 84; Agrippa Namizeko 46]
+[tba]
+Chambishi                -  Chirundu United
+
+Round 33
+[May 2]
+Aguila Stars            0-1 Trident
+Atletico Lusaka         4-1 Ndola United
+Indeni                  3-1 Jumulo
+Lumwana Radiants        awd River Plate             [awarded 3-0, River Plate forfeited]
+Roan United             5-1 Forest Rangers
+[May 3]
+Makeni All Stars        3-1 Kafue Celtic
+Chirundu United         3-0 Chipata City Council
+Locus                   2-0 Chambishi
+Kitwe United            awd Mpulungu Harbour        [awarded 3-0, Mpulungu Harbour excluded]
+
 Table:
 
- 1.Makeni All Stars                    29  16  8  5  43-24  56  [P]
- 2.Roan United                         29  16  7  6  37-16  55  [P]
- 3.Trident (Kalumbila)                 29  15  9  5  34-17  54
- 4.Chirundu United                     29  14 11  4  32-16  53
+ 1.Roan United                         33  19  7  7  47-18  64  [P]  Promoted
+ 2.Trident (Kalumbila)                 33  18 10  5  38-17  64       Promoted
+ 3.Makeni All Stars                    33  18  9  6  49-29  63  [P]  Promoted
+ 4.Chirundu United                     32  16 11  5  37-17  59
 --------------------------------------------------------------
- 5.Forest Rangers (Ndola)              29  14  8  7  35-18  50  [R]
- 6.Aguila Stars                        29  13  9  7  45-28  48
- 7.Lumwana Radiants                    29  14  6  9  32-21  48  [R]
- 8.Kafue Celtic                        29  13  9  7  37-30  48
- 9.Atletico Lusaka                     29   9 10 10  34-31  37  [R]
-10.Jumulo FC (Kitwe)                   29   6 16  7  25-29  34
-11.Indeni (Ndola)                      29   7 13  9  25-31  34  [R]
-12.Kitwe United                        29   7 11 11  22-32  32
-13.Chipata City Council                29   7  9 13  25-42  30  [P]
-14.Locus FC (Lusaka)                   29   8  4 17  28-38  28  [*]
+ 5.Forest Rangers (Ndola)              33  16  9  8  40-24  57  [R]
+ 6.Lumwana Radiants                    33  16  7 10  39-24  55  [R]
+ 7.Kafue Celtic                        33  15 10  8  44-35  55
+ 8.Aguila Stars                        33  14 10  9  51-34  52
+ 9.Atletico Lusaka                     33  11 11 11  42-34  44  [R]
+10.Jumulo FC (Kitwe)                   33   9 15  9  31-33  42
+11.Indeni (Ndola)                      33   9 12 12  28-35  39  [R]
+12.Ndola United                        33   8 12 13  25-33  36
+13.Kitwe United                        33   8 12 13  27-37  36
+14.Locus FC (Lusaka)                   33  10  4 19  31-41  34  [*]
 --------------------------------------------------------------
-15.Chambishi                           29   6  9 14  17-25  27
-16.Ndola United                        29   5 12 12  19-29  27
-17.River Plate                         29   4 11 14  23-38  23
- -.Mpulungu Harbour                    29   2  8 19   9-57  14       Excluded
+15.Chipata City Council                33   8  9 16  28-51  33  [P]
+16.Chambishi                           32   6 10 16  17-29  28
+17.River Plate                         33   4 12 17  27-50  24       Relegated
+ -.Mpulungu Harbour                    33   2  8 23   9-69  14       Excluded
 
 [*] promoted side Solwezi Academy sold their place to Locus FC (Lusaka)
 

@@ -1,3 +1,7 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="disc">Discarded New League Format</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="rd1">Round-1</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="rd2">Round-2</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="rd3">Round-3</a><
 -- removing nav(igation) section:
 
 ‹StarTimes Uganda Premier League, see §fsl›

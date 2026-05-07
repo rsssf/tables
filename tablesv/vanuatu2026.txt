@@ -2,7 +2,7 @@
      title:   Vanuatu 2025/26
      source:  https://rsssf.org/tablesv/vanuatu2026.html
      author:  Karel Stokkermans
-     updated: 2 Apr 2026    
+     updated: 16 Apr 2026
     -->
 
 
@@ -21,7 +21,7 @@ Final Table:
  3.Ifira Black Bird FC    10   5  2  3  17-11  17
  4.North Efate United FC  10   5  2  3  21-16  17
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.Naka FC                10   2  0  8  15-31   6       Relegation Playoff
+ 5.Naka FC                10   2  0  8  15-31   6       ‹Relegation Playoff, see §prorel›
 -------------------------------------------------
  6.Mauriki FC             10   1  0  9   9-36   3       Relegated
 
@@ -98,10 +98,16 @@ Final Table:
  3.Ifira Black Bird FC    10   5  2  3  17-11  17
  4.North Efate United FC  10   5  2  3  21-16  17
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.Naka FC                10   2  0  8  15-31   6       Relegation Playoff
+ 5.Naka FC                10   2  0  8  15-31   6       ‹Relegation Playoff, see §prorel›
 -------------------------------------------------
  6.Mauriki FC             10   1  0  9   9-36   3       Relegated
 
+===== Promotion/Relegation Playoff  ‹§prorel›
+
+[Apr 11]
+Erakor Golden Star    2-4 Naka
+
+NB: both remain at former level
 
 
 
@@ -113,12 +119,12 @@ Final Table:
 
  1.Tafea FC               10   8  2  0  28- 9  26       Promoted
 -------------------------------------------------
- 2.Erakor Golden Star FC  10   6  3  1  25-13  21       Promotion Playoff
+ 2.Erakor Golden Star FC  10   6  3  1  25-13  21       ‹Promotion Playoff, see §prorel›
 - - - - - - - - - - - - - - - - - - - - - - - - -
  3.Tupuji Imere FC        10   3  4  3  18-18  13  [R]
  4.Penama FC              10   3  3  4  17-23  12  [P]
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.United Malampa FC      10   3  2  5  22-20  11       Relegation Playoff
+ 5.United Malampa FC      10   3  2  5  22-20  11       ‹Relegation Playoff, see §23prorel›
 -------------------------------------------------
  6.Pango Green Bird FC    10   0  0 10   7-34   0       Relegated
 
@@ -191,15 +197,24 @@ Final Table:
 
  1.Tafea FC               10   8  2  0  28- 9  26       Promoted
 -------------------------------------------------
- 2.Erakor Golden Star FC  10   6  3  1  25-13  21       Promotion Playoff
+ 2.Erakor Golden Star FC  10   6  3  1  25-13  21       ‹Promotion Playoff, see §prorel›
 - - - - - - - - - - - - - - - - - - - - - - - - -
  3.Tupuji Imere FC        10   3  4  3  18-18  13  [R]
  4.Penama FC              10   3  3  4  17-23  12  [P]
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.United Malampa FC      10   3  2  5  22-20  11       Relegation Playoff
+ 5.United Malampa FC      10   3  2  5  22-20  11       ‹Relegation Playoff, see §23prorel›
 -------------------------------------------------
  6.Pango Green Bird FC    10   0  0 10   7-34   0       Relegated
 
+===== Promotion/Relegation Playoff  ‹§23prorel›
+
+First Match [Apr 11]
+United Malampa        1-1 Mauwia
+
+Second Match [Apr 15]
+Mauwia                3-2 United Malampa
+
+NB: Mauwia promoted, United Malampa relegated
 
 
 
@@ -212,21 +227,17 @@ Tables (Mar 27):
 Pool A
  1.Amicale CV FC          10   6  3  1  29-13  21       Semifinals
  2.Mauwia FC              10   6  1  3  22-11  19       Semifinals
-- - - - - - - - - - - - - - - - - - - - - - - - -
  3.Black Diamond FC       10   5  0  5  27-21  15
  4.Varona FC              10   4  2  4  15-15  14
  5.Taut Iamak FC          10   3  2  5  24-23  11
-- - - - - - - - - - - - - - - - - - - - - - - - -
  6.Shalom FC              10   2  0  8  14-48   6       Relegation Playoff
 
 Pool B
  1.Shepherds United FC    10   7  3  0  37- 9  24       Semifinals
  2.Lakotau FC             10   6  4  0  37-19  22       Semifinals
-- - - - - - - - - - - - - - - - - - - - - - - - -
  3.Seveners United FC      9   3  1  5  24-30  10
  4.Threeland FC           10   3  1  6  17-33  10
  5.Pele FC                 9   1  4  4  19-24   7
-- - - - - - - - - - - - - - - - - - - - - - - - -
  6.AS Tewalu FC           10   2  1  7  16-35   7       Relegation Playoff
 
 Semifinals
@@ -238,8 +249,16 @@ Amicale CV            1-3 Lakotau
 Shepherds United      1-2 Mauwia
 
 Second Legs [Apr 6]
-Mauwia                 -  Shepherds United
-Lakotau                -  Amicale CV
+Mauwia                1-2 Shepherds United      [4-2 pen]
+Lakotau               2-0 Amicale CV
+
+Third Place Match [Apr 9]
+Shepherds United      3-4 Amicale CV
+
+Final [Apr 9]
+Mauwia                1-3 Lakotau
+
+NB: Lakotau promoted, Mauwia to ‹promotion/relegation playoff, see §23prorel›
 
 Relegation Playoff
 
@@ -247,8 +266,16 @@ First Leg [Apr 2]
 AS Tewalu             6-2 Shalom
 
 Second Leg [Apr 6]
-Shalom                 -  AS Tewalu
+Shalom                3-5 AS Tewalu
 
+NB: Shalom relegated, AS Tewalu to ‹promotion/relegation playoff, see §34prorel›
+
+===== Promotion/Relegation Playoff  ‹§34prorel›
+
+[Apr 11]
+AS Tewalu             2-1 Mala
+
+NB: both remain at former level
 
 
 
@@ -258,8 +285,10 @@ Shalom                 -  AS Tewalu
 
 Final Table:
 
- 1.Tanauta                10   7  1  2  29-16  22
- 2.Mala                   10   7  1  2  26-15  22
+ 1.Tanauta                10   7  1  2  29-16  22       Promoted
+-------------------------------------------------
+ 2.Mala                   10   7  1  2  26-15  22       ‹Promotion Playoff, see §34prorel›
+- - - - - - - - - - - - - - - - - - - - - - - - -
  3.Siaraga                10   7  0  3  32-16  21
  4.Beverly Hills United   10   5  0  5  20-18  15
  5.Vanuatu Academy        10   3  0  7  16-23   9

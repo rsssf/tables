@@ -1,0 +1,4 @@
+tablest/thai2025                :  2024/25.
+tablest/thaichamp               :  list of champions.
+tablest/thaicuphist             :  list of cup winners.
+tablest/thai-queen              :  queen's cup.

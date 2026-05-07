@@ -1,0 +1,3 @@
+tablest/turkscaicos2025         :  2024/25
+tablest/turkscaicoschamp        :  list of champions
+tablest/turkscaicoscuphist      :  list of cup winners

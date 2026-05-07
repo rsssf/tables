@@ -1,0 +1,6 @@
+tablesi/ivo2025                 :  2024/25
+tablesi/ivochamp                :  list of champions
+tablesi/ivocuphist              :  list of cup winners
+tablesi/ivoleagcuphist          :  list of league cup winners
+tablesi/ivosupcuphist           :  list of super cup winners
+tablesi/ivotops                 :  list of topscorers

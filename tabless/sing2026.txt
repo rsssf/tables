@@ -2,7 +2,7 @@
      title:   Singapore 2025/26
      source:  https://rsssf.org/tabless/sing2026.html
      author:  Karel Stokkermans
-     updated: 23 Dec 2025    
+     updated: 5 May 2026
     -->
 
 
@@ -16,14 +16,14 @@
 
 Table:
 
- 1.Lion City Sailors         5   5  0  0  22- 2  15  [C]
- 2.Geylang International     5   3  1  1   7- 4  10
- 3.Tampines Rovers           4   2  2  0   8- 4   8
- 4.Balestier Khalsa          5   2  2  1   9-12   8
- 5.Albirex Niigata (S)       4   2  1  1   8- 5   7
- 6.Hougang United            5   1  0  4   4-10   3
- 7.Tanjong Pagar United      5   1  0  4   7-15   3
- 8.Young Lions               5   0  0  5   4-17   0
+ 1.Lion City Sailors        19  16  3  0  68- 9  51  [C]  Champions
+ 2.Tampines Rovers          19  13  4  2  54-19  43
+ 3.Albirex Niigata (S)      19  13  2  4  42-19  41
+ 4.Balestier Khalsa         19   9  2  8  34-43  29
+ 5.Geylang International    19   7  2 10  24-36  23
+ 6.Hougang United           19   7  0 12  23-38  21
+ 7.Young Lions              19   2  2 15  13-53   8
+ 8.Tanjong Pagar United     19   1  1 17  15-56   4
 
 NB: Young Lions are the Singapore youth side
 
@@ -54,8 +54,8 @@ Hougang United         0-2 Geylang International
 Young Lions            1-2 Balestier Khalsa
 [Sep 22]
 Tanjong Pagar United   0-7 Lion City Sailors
-[Mar 22]
-Albirex Niigata (S)     -  Tampines Rovers
+[Apr 30]
+Albirex Niigata (S)    2-1 Tampines Rovers
 
 Round 4
 [Oct 17]
@@ -75,27 +75,172 @@ Young Lions            1-3 Geylang International
 Hougang United         1-2 Tampines Rovers
 Lion City Sailors      3-0 Albirex Niigata (S)
 
+NB: round 6 played after round 21
+
+Round 7
+[Jan 16]
+Tampines Rovers        7-1 Young Lions
+[Jan 17]
+Albirex Niigata (S)    3-2 Tanjong Pagar United
+[Jan 18]
+Balestier Khalsa       2-3 Hougang United
+Geylang International  0-3 Lion City Sailors
+
+Round 8
+[Jan 23]
+Geylang International  1-3 Tampines Rovers
+[Jan 24]
+Hougang United         1-5 Lion City Sailors
+[Jan 25]
+Balestier Khalsa       0-4 Albirex Niigata (S)
+[Jan 26]
+Young Lions            1-1 Tanjong Pagar United
+
+Round 9
+[Jan 30]
+Hougang United         awd Young Lions            [awarded 0-3]
+[Jan 31]
+Tampines Rovers        2-1 Tanjong Pagar United
+[Feb 1]
+Lion City Sailors      5-1 Balestier Khalsa
+[Feb 2]
+Albirex Niigata (S)    2-0 Geylang International
+
+Round 10
+[Feb 6]
+Tanjong Pagar United   1-3 Geylang International
+[Feb 7]
+Balestier Khalsa       0-3 Tampines Rovers
+[Feb 8]
+Young Lions            0-2 Lion City Sailors
+[Feb 9]
+Albirex Niigata (S)    2-1 Hougang United
+
+Round 11
+[Feb 13]
+Balestier Khalsa       3-1 Young Lions
+[Feb 14]
+Tampines Rovers        2-1 Albirex Niigata (S)
+[Feb 15]
+Geylang International  1-2 Hougang United
+Lion City Sailors      7-0 Tanjong Pagar United
+
+Round 12
+[Feb 20]
+Balestier Khalsa       5-2 Geylang International
+[Feb 21]
+Young Lions            0-2 Albirex Niigata (S)
+[Feb 22]
+Lion City Sailors      1-1 Tampines Rovers
+[Feb 23]
+Hougang United         3-0 Tanjong Pagar United
+
+Round 13
+[Feb 26]
+Geylang International  1-1 Young Lions
+[Feb 27]
+Tampines Rovers        3-0 Hougang United
+[Feb 28]
+Albirex Niigata (S)    3-3 Lion City Sailors
+[Mar 1]
+Tanjong Pagar United   1-4 Balestier Khalsa
+
+Round 14
+[Mar 6]
+Tanjong Pagar United   0-2 Albirex Niigata (S)
+[Mar 7]
+Lion City Sailors      4-0 Geylang International
+[Mar 8]
+Young Lions            0-5 Tampines Rovers
+[Mar 9]
+Hougang United         1-2 Balestier Khalsa
+
+Round 15
+[Mar 14]
+Young Lions            0-2 Hougang United
+[Mar 15]
+Balestier Khalsa       0-3 Lion City Sailors
+Geylang International  1-0 Albirex Niigata (S)
+[Mar 16]
+Tanjong Pagar United   0-3 Tampines Rovers
+
+Round 16
+[Apr 4]
+Albirex Niigata (S)    3-2 Tampines Rovers
+Hougang United         0-1 Geylang International
+[Apr 5]
+Young Lions            0-2 Balestier Khalsa
+[Apr 6]
+Tanjong Pagar United   0-4 Lion City Sailors
+
+Round 17
+[Apr 10]
+Tanjong Pagar United   0-1 Young Lions
+[Apr 11]
+Tampines Rovers        4-3 Geylang International
+[Apr 12]
+Lion City Sailors      4-1 Hougang United
+[Apr 13]
+Balestier Khalsa       2-1 Albirex Niigata (S)
+
+Round 18
+[Apr 17]
+Tampines Rovers        2-1 Balestier Khalsa
+[Apr 18]
+Hougang United         0-4 Albirex Niigata (S)
+[Apr 19]
+Geylang International  2-1 Tanjong Pagar United
+[Apr 20]
+Lion City Sailors      2-0 Young Lions
+
+Round 19
+[Apr 24]
+Tampines Rovers        8-1 Young Lions
+[Apr 25]
+Albirex Niigata (S)    4-0 Tanjong Pagar United
+[Apr 26]
+Geylang International  0-3 Lion City Sailors
+[Apr 27]
+Balestier Khalsa       0-3 Hougang United
+
+Round 20
+[May 2]
+Geylang International  2-3 Balestier Khalsa
+[May 3]
+Tampines Rovers        0-0 Lion City Sailors
+[May 4]
+Albirex Niigata (S)    1-0 Young Lions
+[May 5]
+Tanjong Pagar United   1-2 Hougang United
+
+Round 21
+[May 9]
+Balestier Khalsa        -  Tanjong Pagar United
+Young Lions             -  Geylang International
+[May 10]
+Hougang United          -  Tampines Rovers
+Lion City Sailors       -  Albirex Niigata (S)
+
 Round 6
-[Jan 9]
+[May 15]
 Geylang International   -  Balestier Khalsa
-[Jan 10]
+[May 16]
 Albirex Niigata (S)     -  Young Lions
-[Jan 11]
+[May 17]
 Tampines Rovers         -  Lion City Sailors
-[Jan 12]
+[May 18]
 Tanjong Pagar United    -  Hougang United
 
 Table:
 
- 1.Lion City Sailors         5   5  0  0  22- 2  15  [C]
- 2.Geylang International     5   3  1  1   7- 4  10
- 3.Tampines Rovers           4   2  2  0   8- 4   8
- 4.Balestier Khalsa          5   2  2  1   9-12   8
- 5.Albirex Niigata (S)       4   2  1  1   8- 5   7
- 6.Hougang United            5   1  0  4   4-10   3
- 7.Tanjong Pagar United      5   1  0  4   7-15   3
- 8.Young Lions               5   0  0  5   4-17   0
+ 1.Lion City Sailors        19  16  3  0  68- 9  51  [C]  Champions
+ 2.Tampines Rovers          19  13  4  2  54-19  43
+ 3.Albirex Niigata (S)      19  13  2  4  42-19  41
+ 4.Balestier Khalsa         19   9  2  8  34-43  29
+ 5.Geylang International    19   7  2 10  24-36  23
+ 6.Hougang United           19   7  0 12  23-38  21
+ 7.Young Lions              19   2  2 15  13-53   8
+ 8.Tanjong Pagar United     19   1  1 17  15-56   4
 
 NB: Young Lions are the Singapore youth side
-
 

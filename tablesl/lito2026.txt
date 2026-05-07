@@ -2,7 +2,7 @@
      title:   Lithuania 2026
      source:  https://rsssf.org/tablesl/lito2026.html
      author:  Theodore Dreiman
-     updated: 7 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -16,18 +16,18 @@
 
 Table:
 
- 1.Žalgiris (Kaunas)          7   6  1  0  18- 3  19  [C]
- 2.Džiugas (Telšiai)          7   4  2  1   9- 5  14
- 3.TransInvest (Galinė)       7   3  2  2   9- 8  11  [P]
- 4.Žalgiris (Vilnius)         7   3  1  3  10- 9  10      [1-0]
- 5.Sūduva (Marijampolė)       7   2  4  1   8- 2  10      [0-1]
- 6.Hegelmann (Žemaitkiemis)   7   1  5  1   6- 6   8      [1-1]
- 7.FK Panevėžys               7   2  2  3   5-11   8      [1-1]
- 8.Banga (Gargždai)           7   2  1  4   7- 4   7
+ 1.Žalgiris (Kaunas)         10   8  1  1  28- 5  25  [C]
+ 2.TransInvest (Galinė)      10   5  2  3  16-11  17  [P] [0-0]
+ 3.Džiugas (Telšiai)         10   5  2  3  12-11  17      [0-0]
+ 4.Sūduva (Marijampolė)      10   4  4  2  13- 6  16
+ 5.Žalgiris (Vilnius)        10   4  3  3  14-10  15
+ 6.Banga (Gargždai)          10   4  2  4  12- 7  14
+ 7.FK Panevėžys              10   3  2  5   8-16  11
+ 8.Hegelmann (Žemaitkiemis)  10   1  6  3   7-13   9
 - - - - - - - - - - - - - - - - - - - - - - - - - --
- 9.FA Šiauliai                7   0  5  2   4-11   5
+ 9.FA Šiauliai               10   1  5  4   7-17   8
 ----------------------------------------------------
-10.Riteriai (Vilnius)         7   0  1  6   3-20   1
+10.Riteriai (Vilnius)        10   0  3  7   3-24   3
 
 Hegelmann play home games in Raudondvaris (15 km south-west of Žemaitkiemis).
 
@@ -142,61 +142,83 @@ Zalgiris Vl  0-3  Zalgiris Kn
 Panevezys    0-1  Dziugas
   [Ibrahim Cissé 74 pen. Att: 329]
 
+Round 8 [Total Att: 6,433; Average: 1,287]
+[Apr 10]
+Riteriai     0-0  Zalgiris Vl
+  [Missed PK: Liviu Antal (Zal) 42. Att: 682]
+[Apr 11]
+Zalgiris Kn  5-0  Hegelmann
+  [Motiejus Burba 6; Fabien Ourega 31, 58; Amine Benchaib 39; Dāvis Ikaunieks 88. Att: 4,484]
+Banga        2-1  Suduva
+  [Vaidas Magdušauskas 27, 74 - Omran Haydary 70. Att: 561]
+[Apr 12]
+Dziugas      1-0  Siauliai
+  [Deitonas Vinckus 90+3. Gargždai. Att: 213]
+TransInvest  1-2  Panevezys
+  [Jehor Hlušač 15 - Elivelto Dantas 12; Edvin Muratović 35 pen.
+   Missed PK: Xabi Auzmendi (Tra) 90+4. Att: 493]
+
+Round 9 [Total Att: 5,899; Average: 1,180]
+[Apr 17]
+Zalgiris Vl  1-1  Banga
+  [Paulius Golubickas 77 - Simão Júnior 25. Att: 2,782]
+Hegelmann    0-0  Riteriai
+  [Att: 124]
+[Apr 18]
+Zalgiris Kn  1-2  TransInvest
+  [Dāvis Ikaunieks 90+4 pen - Jehor Hlušač 40, 55. Att: 1,873]
+Siauliai     3-1  Panevezys
+  [Nedas Garbaliauskas 50; Lazar Vuković 87; Rui Batalha 90 -
+   Edvin Muratović 40 pen. Missed PK: Lazar Vuković (Sia) 87. Att: 347]
+[Apr 19]
+Suduva       3-2  Dziugas
+  [Faustas Steponavičius 14; Steve Lawson 52 pen; Lucky Tom 83 -
+   Ronald Sobowale 17; Josh Okpolokpo 70. Att: 773]
+
+Round 10 [Total Att: 2,340; Average: 468]
+[Apr 25]
+Zalgiris Kn  4-0  Riteriai
+  [Amine Benchaib 3; Gratas Sirgėdas 43; Léo Ribeiro 86; Anton Tolordava 90. Att: 883]
+Suduva       1-0  Panevezys
+  [Amadou Sabo 19. Att: 635]
+[Apr 26]
+Dziugas      0-3  Zalgiris Vl
+  [Liviu Antal 30 pen; Juryj Kiendyš 62; Bryan Teixeira 90+6. Klaipėda. Att: 225]
+Siauliai     0-4  TransInvest
+  [Stefan Milošević 26, 66; Xabi Auzmendi 35, 67. Att: 243]
+Banga        2-1  Hegelmann
+  [Rokas Filipavičius 59; Aaron Olugbogi 66 - Vilius Armanavičius 78 pen. Att: 354]
+
 Table:
 
- 1.Žalgiris (Kaunas)          7   6  1  0  18- 3  19  [C]
- 2.Džiugas (Telšiai)          7   4  2  1   9- 5  14
- 3.TransInvest (Galinė)       7   3  2  2   9- 8  11  [P]
- 4.Žalgiris (Vilnius)         7   3  1  3  10- 9  10      [1-0]
- 5.Sūduva (Marijampolė)       7   2  4  1   8- 2  10      [0-1]
- 6.Hegelmann (Žemaitkiemis)   7   1  5  1   6- 6   8      [1-1]
- 7.FK Panevėžys               7   2  2  3   5-11   8      [1-1]
- 8.Banga (Gargždai)           7   2  1  4   7- 4   7
+ 1.Žalgiris (Kaunas)         10   8  1  1  28- 5  25  [C]
+ 2.TransInvest (Galinė)      10   5  2  3  16-11  17  [P] [0-0]
+ 3.Džiugas (Telšiai)         10   5  2  3  12-11  17      [0-0]
+ 4.Sūduva (Marijampolė)      10   4  4  2  13- 6  16
+ 5.Žalgiris (Vilnius)        10   4  3  3  14-10  15
+ 6.Banga (Gargždai)          10   4  2  4  12- 7  14
+ 7.FK Panevėžys              10   3  2  5   8-16  11
+ 8.Hegelmann (Žemaitkiemis)  10   1  6  3   7-13   9
 - - - - - - - - - - - - - - - - - - - - - - - - - --
- 9.FA Šiauliai                7   0  5  2   4-11   5
+ 9.FA Šiauliai               10   1  5  4   7-17   8
 ----------------------------------------------------
-10.Riteriai (Vilnius)         7   0  1  6   3-20   1
+10.Riteriai (Vilnius)        10   0  3  7   3-24   3
 
 Hegelmann play home games in Raudondvaris (15 km south-west of Žemaitkiemis).
 
 Top scorers:
 
-1.Amine BENCHAIB (Žalgiris Kaun)    5  [Belgium/Morocco]
-2.Xabi AUZMENDI (TransInvest)       4  [Spain]
-  LÉO RIBEIRO da Cruz (Žalgiris K)  4  [Brazil]
-4.Liviu Ion ANTAL (Žalgiris Viln)   3  [Romania]
-  Denys BUNČUKOV (Džiugas)          3  [Ukraine]
+1.Amine BENCHAIB (Žalgiris Kaun)    7  [Belgium/Morocco]
+2.Xabi AUZMENDI (TransInvest)       6  [Spain]
+3.Jehor HLUŠAČ (TransInvest)        5  [Ukraine]
+  LÉO RIBEIRO da Cruz (Žalgiris K)  5  [Brazil]
+  Fabien OUREGA (Žalgiris Kaunas)   5  [France/Ivory Coast]
+6.Liviu Ion ANTAL (Žalgiris Viln)   4  [Romania]
+  Dāvis IKAUNIEKS (Žalgiris Kaun)   4  [Latvia]
+8.Denys BUNČUKOV (Džiugas)          3  [Ukraine]
+  Edvin MURATOVIĆ (Panevėžys)       3  [Luxemburg/Montenegro]
   Abdel Kader NJOYA (Hegelmann)     3  [Cameroon]
-  Fabien OUREGA (Žalgiris Kaunas)   3  [France/Ivory Coast]
-
-Round 8
-[Apr 10]
-Riteriai     -  Zalgiris Vl
-[Apr 11]
-Zalgiris Kn  -  Hegelmann
-Banga        -  Suduva
-[Apr 12]
-TransInvest  -  Panevezys
-Dziugas      -  Siauliai
-
-Round 9
-[Apr 17]
-Hegelmann    -  Riteriai
-Zalgiris Vl  -  Banga
-[Apr 18]
-Zalgiris Kn  -  TransInvest
-Siauliai     -  Panevezys
-[Apr 19]
-Suduva       -  Dziugas
-
-Round 10
-[Apr 25]
-Zalgiris Kn  -  Riteriai
-Suduva       -  Panevezys
-[Apr 26]
-Dziugas      -  Zalgiris Vl
-Siauliai     -  TransInvest
-Banga        -  Hegelmann
+  Ronald SOBOWALE (Džiugas)         3  [England/Nigeria]
 
 Round 11
 [May 1]
@@ -285,37 +307,124 @@ Dziugas      -  Suduva
 
 Preliminary Round [Apr 1]
 
-Futboliukas (Vilnius)    1-1  Venta (Kuršėnai)  [pen 4-5]
+Futboliukas (Vilnius)    1-1  VENTA (Kuršėnai)  [pen 4-5]
   [Mykolas Stankevičius 112 - Mantas Kazlauskas 103]
-Nemunas (Prienai)        0-2  Babrungas (Plungė)
+Nemunas (Prienai)        0-2  BABRUNGAS (Plungė)
   [Mohammed Tijjani 37; Eridanas Bagužas 80]
 
 First Round
 
 [Apr 10]
-Nevėžis (Kėdainiai)      -  Dainava (Alytus)
-EMD Statyba (Klaipėda)   -  Neptūnas (Klaipėda)
-FKS Ukmergė              -  Širvėna (Biržai)
-Venta (Kuršėnai)         -  Granitas (Vilnius)
-VGTU Vilkai (Širvintos)  -  Baltijos FA (Vilnius)
+Cementininkas (Akmenės)  0-10 VILNIUS FA
+  [Dominykas Liepis 2, 85 pen; Jokūbas Vėžys 6, 11; Aleksandr Tkačuk 12;
+   Luk'jan Barhan 34; Kajus Paulauskas 58, 71; Kristupas Liutvinas 58, 89]
+Nevėžis (Kėdainiai)      0-0  DAINAVA (Alytus)        [pen 2-4]
+EDM Statyba (Klaipėda)   0-12 NEPTŪNAS (Klaipėda)
+  [Darius Jurgelevičius 6; Simonas Urbys 15, 36, 42 pen, 43; Nojus Lukšys 36; Samson Bolaji 48;
+   Erikas Smulkys 53, 80; Aironas Trakšelis 57; Darius Zubauskas 75; Vilius Stonys 82]
+FKS Ukmergė              1-1  ŠIRVĖNA (Biržai)        [pen 2-4]
+  [Tomaš Gulbicki 97 - Eimantas Žižiūnas 106. Att: 200]
+VENTA (Kuršėnai)         3-2  Granitas (Vilnius)
+  [Hlib Pasevyč 10; Eimantas Stonkus 47; Vaidas Viktoravičius 73 -
+   Andrius Kondratovič 53 pen; Sunday K. Chukwueba 90+1. Šiauliai]
+VGTU Vilkai (Širvintos)  0-7  BALTIJOS FA (Vilnius)
+  [Daniel Misiūnas 7, 55; Aidas Šidlauskas 34; Rafał Kudzin 50, 75;
+   Karolis Sargiūnas 67; Žygimantas Jurevičius 88]
 [Mar 11]
-FK Šilutė                -  Be1 (Kaunas)
-Tauras (Tauragė)         -  Ekranas (Panevėžys)
-Sirijus (Klaipėda)       -  Utenis (Utena)
-OG Kaišiadorys           -  FM Klaipėda
-Tera (Vilnius)           -  Pempininkai (Klaipėda)
-Ketera (Šalčininkai)     -  Atmosfera (Mažeikiai)
-FK Šumskas               -  Viltis (Vilnius)
-Trivartis (Vilnius)      -  Sveikata (Kybartai)
-Nadruvis (Kaunas)        -  AFK (Vilnius)
+FK Šilutė                0-5  BE1 (Kaunas)
+  [Nicolas Rangel 20; Vitor Tardelli 42; Tomas Gudaitis 48, 87; Michael Thuíque 77]
+TAURAS (Tauragė)         3-0  Ekranas (Panevėžys)     [aet]
+  [Mantas Pikčiūnas 100, 119; Artem Oniščenko 104. Att: 250]
+SIRIJUS (Klaipėda)       4-1  Utenis (Utena)
+  [Martynas Velyvis 11 pen; Ainis Vilavičius 45+1; Ruben Adeti 68;
+   Jonas Stapulionis 90+1 - Victor Silva De Paiva 7. Att: 80]
+Saned (Joniškis)         0-9  BABRUNGAS (Plungė)
+  [Miko Dalha 6, 70, 90; Rokas Župerka 9; Rokas Čiuželis 11;
+   Shogo Tabata 32; Mohammed Tijjani 57, 67; Adomas Latakas 84. Plungė]
+OG Kaišiadorys           3-5  FM KLAIPĖDA             [aet]
+  [Vadym Bezverchyj 41; Noah A. Salaudeen 42; Evaldas Kugys 61 pen -
+   Mantas Bogdanovas 8, 17, 100, 112; Kornelijus Stulpinas 52. Att: 184]
+Tera (Vilnius)           2-4  PEMPININKAI (Klaipėda)
+  [Aurimas Gackas 26; Justinas Jurčiukonis 86 pen - Laurynas Gedmintas 43 pen;
+   Nojus Šimkus 54; Matas Žvaigždinas 64; Rokas Laugalys 84. Att: 10]
+Ketera (Šalčininkai)     0-2  ATMOSFERA (Mažeikiai)
+  [Taiga Horikoshi 16; Abou Ouattara 87. Vilnius]
+FK Šumskas               0-5  VILTIS (Vilnius)
+  [Tomas Chomičius 31; Matas Turevičius 40, 65; Justas Vaišnys 75; Vasaris Navickas 83. Vilnius]
+Trivartis (Vilnius)      0-5  SVEIKATA (Kybartai)
+  [Hayford Boafo 9, 38, 76; Rodrigo Lima 35; Patrikas Kukta 64 pen. Kaunas. Att: 68]
+Nadruvis (Kaunas)        0-4  AFK (Vilnius)
+  [Agnius Panka 27; Benediktas T. Butler 46, 53 pen; Osvaldas Čipkus 64. Garliava. Att: 21]
 [Mar 12]
-Švyturys (Marijampolė)   -  FK Garliava
-Gelež. Vilkas (Vilnius)  -  Minija (Kretinga)
-Imsrė (Jurbarkas)        -  FSK Radviliškis
-Inter (Nemenčinė)        -  Ataka (Vilnius)
-Kaunas City              -  Vytis (Vilnius)
+Švyturys (Marijampolė)   0-3  FK GARLIAVA
+  [Pijus Sudakovas 7; Nojus Akinis 27; Lukas Odincovas 64. Att: 250]
+Gelež. Vilkas (Vilnius)  0-12 MINIJA (Kretinga)
+  [Deividas Pipiras 6, 30; Diba Nwegbo 18, 36, 48, 55; Gustas Viganauskas (GV) 23 og;
+   Nikita Komissarov 32; Ugnius Avizovas 41, 44 pen; Makan Diawara 78; Adrijus Putvinas 89]
+Imsrė (Jurbarkas)        1-2  FSK RADVILIŠKIS         [aet]
+  [Gvidas Jonušas 87 - Agnius Juozapaitis 90+1 pen; Kristupas Mažučiūnas 98. Tauragė. Att: 70]
+Inter (Nemenčinė)        0-6  ATAKA (Vilnius)
+  [Arnas Neimantas 23; Timas Šauklys 32; Robertas Ratkevičius 34; Mouad Elamrani 48;
+   Dovydas Lučiūnas 56; Pijus Srėbalius 59. Vilnius. Att: 55]
+Kaunas City              2-2  VYTIS (Vilnius)         [pen 3-5]
+  [Stanislavas Tytyniuk 80; Paulius Smaryginas 90+4 - Markas Seliava 81, 83. Att: 85]
 [Mar 14]
-Utena (Utenos)           -  FK Jonava
+Utenos (Utena)           0-16 FK JONAVA
+  [Renatas Banevičius 1; Younes Houat 8, 14, 40, 55, 61, 71, 74; Adrian Rosero 27;
+   Aurimas Raginis 32; Hugo Figueredo 37; Tomas Dombrauskis 43; Kostas Kukta 65, 86;
+   Airidas Kabošius 70; Matas Mirončikas 72. Att: 100]
+
+Second Round
+
+[Apr 21]
+Tauras (Tauragė)          1-4  HEGELMANN (Žemaitkiemis)
+  [Jorge Eduardo 50 - Ángel Puerto 15; Carlos Duke 30; Abdel K. Njoya 39; Wesley Arcanjo 85]
+ATMOSFERA (Mažeikiai)     2-1  Žalgiris (Vilnius)
+  [Yutaro Funami 75; Kanta Seki 82 - Liviu Antal 35]
+ATAKA (Vilnius)           4-0  Širvėna (Biržai)
+  [Eligijus Merliūnas 11, 47; Mouad Elamrani 25; Pijus Srėbalius 78]
+Vytis (Vilnius)           0-4  BANGA (Gargždai)
+  [Kofi Fosuhene Asare 13, 37; Carlos "Cadu" Pires 60; Aaron Appiah 62. Att: 116]
+PEMPININKAI (Klaipėda)    2-1  Sirijus (Klaipėda)
+  [Laurynas Gedmintas 26 pen; Edgaras Anulis 53 - Ruben Adeti 63. Gargždai]
+[Apr 22]
+Neptūnas (Klaipėda)       0-2  DŽIUGAS (Telšiai)
+  [Brendan I. Asomugha 83; Ronald Sobowale 88
+Venta (Kuršėnai)          1-10 TRANSINVEST (Galinė)
+  [Orestas Lapukas 2 - Jeudi Stevenson 7, 25, 61; Tomi Adeloye 26, 49, 72, 79;
+   Tomas Steponavičius 55; Nojus Petkus 56; Aivaras Rakašius (Ven) 63 og. Att: 700]
+[Apr 28]
+MINIJA (Kretinga)         2-2  Sūduva (Marijampolė)      [pen 5-4]
+  [Deividas Pipiras 21; Diba Nwegbo 54 - Ibrahima Seck 52; Markas Beneta 83
+Sveikata (Kybartai)       0-3  ŽALGIRIS (Kaunas)
+  [Augustas Dubickas (Sve) 11 og; Yukiyoshi Karashima 14; Dāvis Ikaunieks 80. Att: 120]
+FM KLAIPĖDA               1-0  Be1 (Kaunas)
+  [Robertas Mockus 32]
+Vilnius FA                0-1  RITERIAI (Vilnius)
+  [Marko Karamarko 20]
+BALTIJOS FA (Vilnius)     1-0  Babrungas (Plungė)
+  [Rokas Vilkuotis 89. Att: 75]
+Viltis (Vilnius)          1-7  DAINAVA (Alytus)
+  [Emilis Tankūnas 53 - Vladyslav Šapoval 36; Obi J. Chinonso 39; Abou Sow 63;
+   Simas Šiaudvytis 67; Evans Appiah 71; Stanislav Morarenko 75; Illja Kotov 87. Kalinas]
+[Apr 29]
+FK Jonava                 0-4  FA ŠIAULIAI
+  [Rui Batalha 29 pen; Daniel Romanovskij 44; Nedas Garbaliauskas 45; Chidera Nwoga 73]
+AFK (Vilnius)             0-3  FK GARLIAVA
+  [Nojus Akinis 26; Justas Paštukas 52; Airimas Pilipavičius 86]
+FSK Radviliškis           0-2  FK PANEVĖŽYS
+  [Matas Rimkūnas (Rad) 75 og; Kwadwo Asamoah 77. Panevežys]
+
+Third Round [May 19-20]
+
+FM Klaipėda               -  Dainava (Alytus)
+Atmosfera (Mažeikiai)     -  FK Panevėžys
+Džiugas (Telšiai)         -  Banga (Gargždai)
+Ataka (Vilnius)           -  FA Šiauliai
+Riteriai (Vilnius)        -  Žalgiris (Kaunas)
+Baltijos FA (Vilnius)     -  FK Garliava
+Pempininkai (Klaipėda)    -  Minija (Kretinga)
+TransInvest (Galinė)      -  Hegelmann (Žemaitkiemis)
 
 
 
@@ -326,26 +435,26 @@ Utena (Utenos)           -  FK Jonava
 
 Table:
 
- 1.Minija (Kretinga)            4   4  0  0  12- 3  12
+ 1.Minija (Kretinga)            6   6  0  0  19- 4  18
 ------------------------------------------------------
- 2.Babrungas (Plungė)           4   4  0  0  10- 1  12
+ 2.Babrungas (Plungė)           6   6  0  0  13- 2  18
 - - - - - - - - - - - - - - - - - - - - - - - - - - --
- 3.Atmosfera (Mažeikiai)        4   3  0  1  10- 4   9
- 4.Tauras (Tauragė)             4   3  0  1   6- 3   9
- 5.Be1 (Kaunas)                 4   2  1  1  10- 6   7
- 6.FK Garliava                  4   2  1  1   6- 3   7  [P]
- 7.FK Jonava                    4   2  1  1   7- 6   7
- 8.TransInvest B (Galinė)       4   2  1  1   6- 7   7  [P]
- 9.Žalgiris B (Vilnius)         3   2  0  1   5- 4   6
-10.Baltijos FA (Vilnius)        4   1  1  2   2- 4   4
-11.Neptūnas (Klaipėda)          4   1  1  2   1- 4   4
-12.Dainava (Alytus)             4   0  2  2   5- 8   2  [R]
-13.FA Šiauliai B                4   0  1  3   1- 9   1
+ 3.Be1 (Kaunas)                 6   3  2  1  14- 9  11
+ 4.FK Jonava                    6   3  2  1  13- 8  11
+ 5.Žalgiris B (Vilnius)         6   3  2  1   8- 6  11
+ 6.Baltijos FA (Vilnius)        6   3  1  2   8- 6  10
+ 7.Atmosfera (Mažeikiai)        6   3  0  3  11- 9   9
+ 8.Tauras (Tauragė)             6   3  0  3   8- 8   9
+ 9.FK Garliava                  6   2  2  2   8- 6   8  [P]
+10.TransInvest B (Galinė)       6   2  2  2   8-13   8  [P]
+11.Neptūnas (Klaipėda)          6   2  1  3   5- 8   7
+12.Hegelmann B (Žemaitkiemis)   6   2  1  3   6-11   7
+13.Dainava (Alytus)             6   1  3  2   7- 8   6  [R]
 - - - - - - - - - - - - - - - - - - - - - - - - - - --
-14.Hegelmann B (Žemaitkiemis)   4   0  1  3   1-10   1
+14.FA Šiauliai B                6   0  2  4   4-14   2
 ------------------------------------------------------
-15.Žalgiris B (Kaunas)          3   0  0  3   3- 7   0
-16.Ekranas (Panevėžys)          4   0  0  4   2- 8   0
+15.Ekranas (Panevėžys)          6   0  0  6   4-13   0
+16.Žalgiris B (Kaunas)          6   0  0  6   3-14   0
 
 Round 1
 [Jul 3]
@@ -421,7 +530,8 @@ Babrungas      3-1  Dainava
 Neptunas       1-0  Tauras
   [Nojus Lukšys 21]
 [Apr 12]
-Zalgiris B Kn  -  Zalgiris B Vl
+Zalgiris B Kn  0-1  Zalgiris B Vl
+  [Vakaris Berenta 15. Att: 75]
 
 Round 5
 [Apr 3]
@@ -443,64 +553,85 @@ Baltijos FA    0-0  Dainava
 Hegelmann B    0-3  Be1
   [Michael Thuíque 31, 80; Tomas Gudaitis 68]
 
-Table:
-
- 1.Minija (Kretinga)            4   4  0  0  12- 3  12
-------------------------------------------------------
- 2.Babrungas (Plungė)           4   4  0  0  10- 1  12
-- - - - - - - - - - - - - - - - - - - - - - - - - - --
- 3.Atmosfera (Mažeikiai)        4   3  0  1  10- 4   9
- 4.Tauras (Tauragė)             4   3  0  1   6- 3   9
- 5.Be1 (Kaunas)                 4   2  1  1  10- 6   7
- 6.FK Garliava                  4   2  1  1   6- 3   7  [P]
- 7.FK Jonava                    4   2  1  1   7- 6   7
- 8.TransInvest B (Galinė)       4   2  1  1   6- 7   7  [P]
- 9.Žalgiris B (Vilnius)         3   2  0  1   5- 4   6
-10.Baltijos FA (Vilnius)        4   1  1  2   2- 4   4
-11.Neptūnas (Klaipėda)          4   1  1  2   1- 4   4
-12.Dainava (Alytus)             4   0  2  2   5- 8   2  [R]
-13.FA Šiauliai B                4   0  1  3   1- 9   1
-- - - - - - - - - - - - - - - - - - - - - - - - - - --
-14.Hegelmann B (Žemaitkiemis)   4   0  1  3   1-10   1
-------------------------------------------------------
-15.Žalgiris B (Kaunas)          3   0  0  3   3- 7   0
-16.Ekranas (Panevėžys)          4   0  0  4   2- 8   0
-
-Top scorers:
-
-1.Tomas Gudaitis (Be1)               4
-  Egidijus Gritkus (Atmosfera)       4
-3.Sergej Amirzian (Minija)           3  [Lithuania/Armenia]
-  Christopher Edwin Ellah (Dainava)  3  [Nigeria]
-  Younes Abd Erahmen Houat (Jonava)  3  [France/Algeria]
-  Julius Kasparavičius (Minija)      3
-  Min-Woo Lee (Minija)               3  [South Korea]
-  Michael Thuíque Santos (Be1)       3  [Brazil]
-
 Round 6
 [Apr 17]
-Neptunas       -  Baltijos FA
+Neptunas       1-3  Baltijos FA
+  [Simonas Urbys 71 pen - Daniel Misiūnas 66 pen; Rafał Kudzin 83 pen; Aidas Šidlauskas 90+1]
 [Apr 18]
-Tauras         -  Babrungas
-Garliava       -  Be1
-Atmosfera      -  Dainava
-Ekranas        -  Hegelmann B
+Tauras         1-2  Babrungas
+  [Chibuike Nwosu 75 - Lukas Čepkauskas 21; Shogo Tabata 35]
+Atmosfera      0-2  Dainava
+  [Cheikh Faye 62; Vladyslav Šapoval 90+3]
+Garliava       2-2  Be1
+  [Lukas Odincovas 1, 10 - Tomas Gudaitis 24; Michael Thuíque 26. Att: 100]
+Ekranas        1-3  Hegelmann B
+  [Karolis Kuodis 27 - Elingas Jonavičius 1, 48; Lukas Jonaitis 69]
 [Apr 19]
-Zalgiris B Kn  -  Minija
-TransInvest B  -  Zalgiris B Vl
-Siauliai B     -  Jonava
+Zalgiris B Kn  0-4  Minija
+  [Julius Kasparavičius 5; Kazeem Aderounmu 11; Nikita Komissarov 43; Deividas Pipiras 76. Att: 74]
+TransInvest B  2-2  Zalgiris B Vl
+  [Kiril Levšin 14; Deividas Česnauskis 81 - Danielius Velička 21; Abdulrahman Sabiya 78]
+Siauliai B     2-2  Jonava
+  [Gabrielius Micevičius 20, 22 - Younes Houat 40 pen; Renatas Banevičius 47]
 
 Round 7
 [Apr 24]
-Babrungas      -  Garliava
-Hegelmann B    -  Zalgiris B Kn
-Be1            -  Ekranas
-Zalgiris B Vl  -  Dainava
+Babrungas      1-0  Garliava
+  [Pablo Borja 11]
+Zalgiris B Vl  0-0  Dainava
+  [Missed PK: Gustas Zabita (Dai) 22]
+Be1            2-1  Ekranas
+  [William Akpan 26; Nicolas Rangel 64 - Emilis Grinkus 62. Att: 300]
+Hegelmann B    2-0  Zalgiris B Kn
+  [Lukas Jonaitis 20; Domas Sinkevičius 75]
 [Apr 25]
-Minija         -  Siauliai B
-Atmosfera      -  Neptunas
-Baltijos FA    -  Tauras
-Jonava         -  TransInvest B
+Minija         3-1  Siauliai B
+  [Deividas Pipiras 68, 83; Kentaro Oikawa 72 - Dovydas Jansonas 81]
+Atmosfera      1-3  Neptunas
+  [Kanta Seki 78 pen - Aironas Trakšelis 38; Simonas Urbys 81 pen, 90+1]
+Baltijos FA    3-1  Tauras
+  [Žygimantas Jurevičius 40; Artiom Osipovič 50; Daniel Misiūnas 73 - Mantas Pikčiūnas 61 pen]
+Jonava         4-0  TransInvest B
+  [Renatas Banevičius 41; Hugo Figueredo 45; Aidas Rybelis 58; Younes Houat 67. Att: 110]
+
+Table:
+
+ 1.Minija (Kretinga)            6   6  0  0  19- 4  18
+------------------------------------------------------
+ 2.Babrungas (Plungė)           6   6  0  0  13- 2  18
+- - - - - - - - - - - - - - - - - - - - - - - - - - --
+ 3.Be1 (Kaunas)                 6   3  2  1  14- 9  11
+ 4.FK Jonava                    6   3  2  1  13- 8  11
+ 5.Žalgiris B (Vilnius)         6   3  2  1   8- 6  11
+ 6.Baltijos FA (Vilnius)        6   3  1  2   8- 6  10
+ 7.Atmosfera (Mažeikiai)        6   3  0  3  11- 9   9
+ 8.Tauras (Tauragė)             6   3  0  3   8- 8   9
+ 9.FK Garliava                  6   2  2  2   8- 6   8  [P]
+10.TransInvest B (Galinė)       6   2  2  2   8-13   8  [P]
+11.Neptūnas (Klaipėda)          6   2  1  3   5- 8   7
+12.Hegelmann B (Žemaitkiemis)   6   2  1  3   6-11   7
+13.Dainava (Alytus)             6   1  3  2   7- 8   6  [R]
+- - - - - - - - - - - - - - - - - - - - - - - - - - --
+14.FA Šiauliai B                6   0  2  4   4-14   2
+------------------------------------------------------
+15.Ekranas (Panevėžys)          6   0  0  6   4-13   0
+16.Žalgiris B (Kaunas)          6   0  0  6   3-14   0
+
+Top scorers:
+
+1.Tomas Gudaitis (Be1)               5
+  Younes Abderahmen Houat (Jonava)   5  [France/Algeria]
+3.Egidijus Gritkus (Atmosfera)       4
+  Julius Kasparavičius (Minija)      4
+  Michael Thuíque Santos (Be1)       4  [Brazil]
+6.Kazeem Ojo Aderounmu (Minija)      3  [Nigeria]
+  Sergej Amirzian (Minija)           3  [Lithuania/Armenia]
+  Pablo Borja Duarte (Babrungas)     3  [Paraguay]
+  Christopher Edwin Ellah (Dainava)  3  [Nigeria]
+  Min-Woo Lee (Minija)               3  [South Korea]
+  Lukas Odincovas (Garliava)         3
+  Deividas Pipiras (Minija)          3
+  Simonas Urbys (Neptūnas)           3
 
 Round 8
 [May 1]
@@ -624,22 +755,23 @@ Table:
  5.Sūduva B (Marijampolė)   3   2  1  0   7- 4   7
  6.FK Šilutė                3   2  0  1   6- 4   6
  7.FK Panevėžys B           3   2  0  1   3- 2   6  [R]
- 8.Utenis (Utena)           3   1  1  1   2- 3   4
+ 8.Utenis (Utena)           4   1  2  1   3- 4   5
  9.Viltis (Vilnius)         3   1  0  2   6- 5   3
 10.Širvėna (Biržai)         3   1  0  2   4- 5   3
 11.Neptūnas B (Klaipėda)    3   1  0  2   2- 6   3
 12.Riteriai B (Vilnius)     2   0  1  1   2- 3   1  [P]
 13.Banga B (Gargždai)       3   0  1  2   1- 3   1
-14.Sirijus (Klaipėda)       2   0  0  2   2- 4   0
+14.Sveikata (Kybartai)      4   0  1  3   2- 9   1
 --------------------------------------------------
-15.Sveikata (Kybartai)      3   0  0  3   1- 8   0
+15.Sirijus (Klaipėda)       2   0  0  2   2- 4   0
 16.Dainava B (Alytus)       3   0  0  3   1-12   0
 
 Širvėna play home games in Panevėžys (68 km south-west of Biržai).
 
 Round 1
 [Apr 8]
-Utenis       -  Sveikata
+Utenis       1-1  Sveikata
+  [V.S.de Paiva 37 - R.Lima 54]
 [Jul 3]
 Nevezis      -  Riteriai B
 Panevezys B  -  Vilnius FA
@@ -725,15 +857,15 @@ Table:
  5.Sūduva B (Marijampolė)   3   2  1  0   7- 4   7
  6.FK Šilutė                3   2  0  1   6- 4   6
  7.FK Panevėžys B           3   2  0  1   3- 2   6  [R]
- 8.Utenis (Utena)           3   1  1  1   2- 3   4
+ 8.Utenis (Utena)           4   1  2  1   3- 4   5
  9.Viltis (Vilnius)         3   1  0  2   6- 5   3
 10.Širvėna (Biržai)         3   1  0  2   4- 5   3
 11.Neptūnas B (Klaipėda)    3   1  0  2   2- 6   3
 12.Riteriai B (Vilnius)     2   0  1  1   2- 3   1  [P]
 13.Banga B (Gargždai)       3   0  1  2   1- 3   1
-14.Sirijus (Klaipėda)       2   0  0  2   2- 4   0
+14.Sveikata (Kybartai)      4   0  1  3   2- 9   1
 --------------------------------------------------
-15.Sveikata (Kybartai)      3   0  0  3   1- 8   0
+15.Sirijus (Klaipėda)       2   0  0  2   2- 4   0
 16.Dainava B (Alytus)       3   0  0  3   1-12   0
 
 Širvėna play home games in Panevėžys (68 km south-west of Biržai).
@@ -747,6 +879,7 @@ Top scorers:
   Armandas Jusys (Panevėžys B)      2
   Paulius Lotužys (Šilutė)          2
   Deividas Lukošius (Šilutė)        2
+  Victor Silva de Paiva (Utenis)    2  [Brazil]
   Tomas Valukonis (Viltis)          2
   Jokūbas Vėžys (Vilnius FA)        2
   Eimantas Žižiūnas (Širvėna)       2

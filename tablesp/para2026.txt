@@ -2,7 +2,7 @@
      title:   Paraguay 2026
      source:  https://rsssf.org/tablesp/para2026.html
      author:  Tim Venables
-     updated: 9 Apr 2026    
+     updated: 7 May 2026
     -->
 
 
@@ -14,24 +14,25 @@
 
 ==== Primera División  ‹§prim›
 
-‹Torneo Apertura 2026, see §1aper› | ‹Torneo Clausura 2026, see §1clau›
 
-Torneo Apertura 2026  ‹§1aper›
+===== Torneo Apertura 2026  ‹§1aper›
 
 Table:
 
- 1.Olimpia                15  11  3  1  24- 9  36
- 2.Cerro Porteño          15  10  2  3  25-13  32
- 3.Sportivo Ameliano      15   6  6  3  18-12  24
- 4.Nacional               15   6  6  3  22-17  24
- 5.Sportivo Trinidense    15   5  7  3  19-14  22
- 6.Guaraní                15   5  6  4  21-16  21
- 7.Libertad               15   6  2  7  21-16  20
- 8.Deportivo Recoleta     15   5  4  6  20-20  19
- 9.Rubio Ñú               15   4  3  8  10-19  15
-10.2 de Mayo              15   3  5  7  11-24  14
-11.Sportivo Luqueño       15   3  3  9  16-24  12
-12.Sportivo San Lorenzo   15   0  5 10  10-33   5
+ 1.Olimpia                19  13  4  2  32-13  43  Champions
+ 2.Cerro Porteño          19  10  4  5  27-19  34
+ 3.Nacional               19   8  8  3  26-19  32
+ 4.Sportivo Ameliano      19   7  9  3  23-16  30
+ 5.Libertad               19   8  3  8  30-22  27
+ 6.Sportivo Trinidense    19   6  8  5  24-20  26
+ 7.Deportivo Recoleta     19   7  4  8  29-25  25
+ 8.Guaraní                19   6  7  6  25-21  25
+ 9.Rubio Ñú               19   6  4  9  14-21  22
+10.Sportivo Luqueño       19   5  4 10  21-28  19
+11.2 de Mayo              19   4  6  9  16-34  18
+12.Sportivo San Lorenzo   19   1  5 13  12-41   8
+
+NB: Olimpia certain of title due to superior head-to-head record w.r.t. Cerro Porteño
 
 Round 1
 [Jan 23]
@@ -298,22 +299,97 @@ Guaraní              1-0 Libertad
   [Matias Julian Lopez 39]
 [Apr 6]
 Trinidense           4-0 Rubio Ñú
+  [Sergio Adrian Mendoza 11, Fernando Raul Romero 25, Alan Tobias Morinigo 27,
+   Nicolas Andres Mana 64]
+
+Round 16
+[Apr 10]
+2 de Mayo            1-2 Sportivo Ameliano
+  [Diego Emmanuel Acosta 17; Jorge Luis Sanguina 61, Luis Maria Ayala 83]
+Sportivo San Lorenzo 1-0 Guaraní
+  [Matias Abel Agüero 72]
+[Apr 11]
+Sportivo Luqueño     2-1 Recoleta
+  [Lautaro Nicolas Comas 12, Axel Balbuena 52; Kevin Daniel Parzajuk 44]
+Nacional             0-0 Cerro Porteño
+[Apr 12]
+Rubio Ñú             0-2 Olimpia
+  [Carlos Sebastian Ferreira 16, 56]
+Libertad             1-1 Trinidense
+  [Jorge Eduardo Recalde 49; Fernando Raul Romero 70pen]
+
+Round 17
+[Apr 17]
+Trinidense           2-1 Sportivo San Lorenzo
+  [Fernando Raul Romero 11, Nelson Ariel Gauto 51; Axel Fernando Galeano 20]
+[Apr 18]
+Guaraní              2-1 Sportivo Luqueño
+  [Patricio Damian Tanda 37, Gaspar Andres Servio 96pen; Ivan Gabriel Maggi 58]
+Recoleta             5-0 2 de Mayo
+  [Allan Steven Wlk 39pen, Richart Rene Ortiz 50, 54, Wilfrido Manuel Baez 64,
+   Nicolas Marotta 87]
+[Apr 19]
+Olimpia              awd Cerro Porteño        [awarded 3-0; abandoned at 0-0 in 30' due
+[Apr 20]                                       to crowd trouble]
+Sportivo Ameliano    1-1 Nacional
+  [Elvio de Jesus Vera 11pen; Hugo Adrian Benitez 20]
+[Apr 21]
+Rubio Ñú             3-0 Libertad
+  [Lucas Daniel Montiel 22, Estiven Perez 29pen, Carlos Ruben Gimenez 38]
+
+Round 18
+[Apr 24]
+Nacional             2-1 Recoleta
+  [Roque Luis Santa Cruz 50, Ignacio Daniel Bailone 85; Allan Steven Wlk 9pen]
+Cerro Porteño        1-1 Sportivo Ameliano
+  [Mateo klimowicz 5; Raul Ignacio Cabral 56]
+[Apr 25]
+Sportivo Luqueño     2-1 Trinidense
+  [Ivan Gabriel Maggi 6, 63, Clementino Gonzalez 22]
+Libertad             3-2 Olimpia
+  [Federico Gaston Carrizo 30, Alexis Ramon Fretes 38, Gustavo Angel Aguilar 50;
+   Gustavo David Vargas 66, Mateo Gamarra 71]
+[Apr 26]
+2 de Mayo            2-2 Guaraní
+  [Fernando Matias Caceres 57, Diego Emmanuel Acosta 79; Diego Agustin Fernandez 10,
+   Patricio Gabriel Coronel 62]
+Sportivo San Lorenzo 0-1 Rubio Ñú
+  [Angel Rodrigo Cardozo 75]
+
+Round 19
+[May 1]
+Trinidense           1-2 2 de Mayo
+  [Agustin Da Silveira 65; Marcelo Acosta 1, Pedro Reinaldo Delvalle 77]
+Libertad             5-0 Sportivo San Lorenzo
+  [Amin Ezequiel Molinas 25, Lorenzo Antonio Melgarejo 25, 52, Rodrigo Javier Villalba 66,
+   Jorge Eduardo Recalde 85]
+[May 2]
+Rubio Ñú             0-0 Sportivo Luqueño
+[May 3]
+Olimpia              1-1 Sportivo Ameliano
+  [Alejandro Daniel Silva 67pen; Elvio de Jesus Vera 28]
+Recoleta             2-1 Cerro Porteño
+  [Allan Steven Wlk 14, 51; Alan Sonora 21pen]
+Guaraní              0-1 Nacional
+  [Hugo Adrian Benitez 82]
 
 Table:
 
- 1.Olimpia                15  11  3  1  24- 9  36
- 2.Cerro Porteño          15  10  2  3  25-13  32
- 3.Sportivo Ameliano      15   6  6  3  18-12  24
- 4.Nacional               15   6  6  3  22-17  24
- 5.Sportivo Trinidense    15   5  7  3  19-14  22
- 6.Guaraní                15   5  6  4  21-16  21
- 7.Libertad               15   6  2  7  21-16  20
- 8.Deportivo Recoleta     15   5  4  6  20-20  19
- 9.Rubio Ñú               15   4  3  8  10-19  15
-10.2 de Mayo              15   3  5  7  11-24  14
-11.Sportivo Luqueño       15   3  3  9  16-24  12
-12.Sportivo San Lorenzo   15   0  5 10  10-33   5
+ 1.Olimpia                19  13  4  2  32-13  43  Champions
+ 2.Cerro Porteño          19  10  4  5  27-19  34
+ 3.Nacional               19   8  8  3  26-19  32
+ 4.Sportivo Ameliano      19   7  9  3  23-16  30
+ 5.Libertad               19   8  3  8  30-22  27
+ 6.Sportivo Trinidense    19   6  8  5  24-20  26
+ 7.Deportivo Recoleta     19   7  4  8  29-25  25
+ 8.Guaraní                19   6  7  6  25-21  25
+ 9.Rubio Ñú               19   6  4  9  14-21  22
+10.Sportivo Luqueño       19   5  4 10  21-28  19
+11.2 de Mayo              19   4  6  9  16-34  18
+12.Sportivo San Lorenzo   19   1  5 13  12-41   8
 
-Torneo Clausura 2025  ‹§1clau›
+NB: Olimpia certain of title due to superior head-to-head record w.r.t. Cerro Porteño
+
+===== Torneo Clausura 2025  ‹§1clau›
 
 

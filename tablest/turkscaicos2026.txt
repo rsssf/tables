@@ -2,7 +2,7 @@
      title:   Turks and Caicos Islands 2025/26
      source:  https://rsssf.org/tablest/turkscaicos2026.html
      author:  Karel Stokkermans
-     updated: 27 Mar 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Provo Premier League 2025/26  ‹§ppl›
 
-‹Apertura, see §aper› | ‹Clausura, see §clau› | ‹Final, see §fin›
 
-Apertura  ‹§aper›
+===== Apertura  ‹§aper›
 
 Final Table:
 
@@ -105,18 +104,18 @@ Final Table:
  7.Beaches FC                     7   1  0  6   4-27   3
  8.Provo United SC                7   0  1  6   4-42   1
 
-Clausura  ‹§clau›
+===== Clausura  ‹§clau›
 
-Table:
+Final Table:
 
- 1.Academy Eagles                 4   4  0  0  23- 1  12
- 2.Flamingo                       4   4  0  0  12- 3  12  [N]
- 3.SWA Sharks FC                  4   3  0  1  17- 6   9  [C]
- 4.Cheshire Hall                  4   1  0  3   8- 9   3
- 5.Beaches FC                     3   1  0  2   6-10   3
- 6.Teachers Young Strikers        3   1  0  2   3- 8   3
- 7.Provo United SC                4   1  0  3   4-22   3
- 8.Teachers FC                    4   0  0  4   4-18   0
+ 1.Academy Eagles                 7   7  0  0  35- 2  21       ‹Final, see §fin›
+ 2.SWA Sharks FC                  7   5  1  1  28- 8  16  [C]
+ 3.Flamingo                       7   5  1  1  19-13  16  [N]
+ 4.Cheshire Hall                  7   4  0  3  22-13  12
+ 5.Teachers Young Strikers        7   3  0  4  11-15   9
+ 6.Provo United SC                7   2  0  5   6-32   6
+ 7.Beaches FC                     7   1  0  6   9-24   3
+ 8.Teachers FC                    7   0  0  7   8-31   0
 
 Round 1
 [Feb 25]
@@ -153,49 +152,53 @@ Provo United       awd Teachers FC        [awarded 3-0, Teachers could not
 SWA Sharks         0-5 Academy Eagles      field a team]
 [Mar 25]
 Flamingo           1-0 Cheshire Hall
-[Mar 28]
-Teachers YS         -  Beaches
+[Apr 15]
+Teachers YS        2-1 Beaches
 
 Round 5
 [Mar 28]
-Flamingo            -  SWA Sharks
+Flamingo           2-2 SWA Sharks
 [Apr 1]
-Cheshire Hall       -  Teachers YS
+Cheshire Hall      4-2 Teachers YS
 [Apr 4]
-Beaches             -  Provo United
-Teachers FC         -  Academy Eagles
-
-Table:
-
- 1.Academy Eagles                 4   4  0  0  23- 1  12
- 2.Flamingo                       4   4  0  0  12- 3  12  [N]
- 3.SWA Sharks FC                  4   3  0  1  17- 6   9  [C]
- 4.Cheshire Hall                  4   1  0  3   8- 9   3
- 5.Beaches FC                     3   1  0  2   6-10   3
- 6.Teachers Young Strikers        3   1  0  2   3- 8   3
- 7.Provo United SC                4   1  0  3   4-22   3
- 8.Teachers FC                    4   0  0  4   4-18   0
+Beaches            1-2 Provo United
+Teachers FC        0-5 Academy Eagles
 
 Round 6
 [Apr 8]
-Academy Eagles      -  Flamingo
+Academy Eagles     5-0 Flamingo
 [Apr 11]
-Provo United        -  Teachers YS
-Teachers FC         -  Cheshire Hall
+Provo United       0-3 Teachers YS
 [Apr 18]
-SWA Sharks          -  Beaches
+SWA Sharks         awd Beaches            [awarded 3-0, Beaches forfeited]
+[Apr 22]
+Teachers FC        1-3 Cheshire Hall
 
 Round 7
-[Apr 15]
-Cheshire Hall       -  Beaches
+[Mar 28]
+Cheshire Hall      7-1 Beaches
 [Apr 18]
-Flamingo            -  Teachers FC
-[Apr 21]
-Provo United        -  SWA Sharks
-Teachers YS         -  Academy Eagles
+Flamingo           5-3 Teachers FC
+[Apr 25]
+Provo United       0-6 SWA Sharks
+Teachers YS        1-2 Academy Eagles
 
-PPL Final  ‹§fin›
+Final Table:
 
-NB: between SWA Sharks FC (winners ‹Apertura, see §aper›) and winners ‹Clausura, see §clau›
+ 1.Academy Eagles                 7   7  0  0  35- 2  21       ‹Final, see §fin›
+ 2.SWA Sharks FC                  7   5  1  1  28- 8  16  [C]
+ 3.Flamingo                       7   5  1  1  19-13  16  [N]
+ 4.Cheshire Hall                  7   4  0  3  22-13  12
+ 5.Teachers Young Strikers        7   3  0  4  11-15   9
+ 6.Provo United SC                7   2  0  5   6-32   6
+ 7.Beaches FC                     7   1  0  6   9-24   3
+ 8.Teachers FC                    7   0  0  7   8-31   0
 
+===== PPL Final  ‹§fin›
+
+NB: between SWA Sharks FC (winners ‹Apertura, see §aper›) and Academy Eagles (winners ‹Clausura, see §clau›)
+
+[May 2]
+SWA Sharks         0-2 Academy Eagles
+  [Jean Innocent 77, 90+5]
 

@@ -1,0 +1,4 @@
+tableso/oekr2025                :  2024/25
+tableso/oekrchamp               :  list of champions
+tableso/oekrcuphist             :  list of cup winners
+tableso/oekrtops                :  list of topscorers

@@ -1,0 +1,7 @@
+tablesh/hk2025                  :  2024/25
+tablesh/hkchamp                 :  list of champions
+tablesh/hk2champ                :  list of 2nd level champions
+tablesh/hkshieldhist            :  list of senior shield winners and runners-up
+tablesh/hkfacuphist             :  list of fa cup winners
+tablesh/hkviceroyhist           :  list of viceroy cup winners and runners-up
+tablesh/hkfound                 :  list of foundation dates

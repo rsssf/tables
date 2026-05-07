@@ -2,7 +2,7 @@
      title:   Sudan 2026
      source:  https://rsssf.org/tabless/soed2026.html
      author:  Karel Stokkermans
-     updated: 16 Feb 2026    
+     updated: 16 Feb 2026
     -->
 
 
@@ -19,11 +19,10 @@ NB: Al-Hilal and Al-Merreikh enter their reserve sides, as their first teams
 
 ‹Group Stage, see §grp› | ‹Final Stage (Elite League), see §fin›
 
-Group Stage  ‹§grp›
+===== Group Stage  ‹§grp›
 
-‹Group 1, see §gp1› | ‹Group 2, see §gp2› | ‹Group 3, see §gp3› | ‹Group 4, see §gp4›
 
-Group 1 (East)  ‹§gp1›
+====== Group 1 (East)  ‹§gp1›
 
 Final Table:
 
@@ -131,7 +130,7 @@ Final Table:
 ---------------------------------------------------------
  6.Kober (Khartoum)               10   1  2  7   3-18   5       Relegated
 
-Group 2 (Nile River)  ‹§gp2›
+====== Group 2 (Nile River)  ‹§gp2›
 
 Final Table:
 
@@ -240,7 +239,7 @@ Final Table:
 ---------------------------------------------------------
  6.Al-Merreikh (Kosti)            10   0  2  8   3-18   2  [P]  Relegated
 
-Group 3 (North)  ‹§gp3›
+====== Group 3 (North)  ‹§gp3›
 
 Final Table:
 
@@ -344,7 +343,7 @@ Final Table:
 ---------------------------------------------------------
  6.Al-Amal (Atbara)               10   2  4  4   8-10  10       Relegated
 
-Group 4 (West)  ‹§gp4›
+====== Group 4 (West)  ‹§gp4›
 
 Final Table:
 
@@ -459,7 +458,7 @@ Final Table:
 ---------------------------------------------------------
  6.Al-Fajr (Obayed)               10   2  3  5  13-18   9  [P]  Relegated
 
-Final Stage (Elite League)  ‹§fin›
+===== Final Stage (Elite League)  ‹§fin›
 
 Table:
 

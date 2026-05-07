@@ -2,7 +2,7 @@
      title:   Liberia 2025/26
      source:  https://rsssf.org/tablesl/liber2026.html
      author:  Karel Stokkermans
-     updated: 2 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -16,27 +16,31 @@
 
 Table:
 
- 1.Watanga FC                 22  14  6  2  33-15  48
- 2.Bea Mountain FC            23  12  7  4  45-19  43
- 3.FC Fassell                 22  11  6  5  29-14  39  [C]
- 4.LISCR                      22  12  3  7  29-26  39
- 5.LPRC Oilers                23  10  7  6  33-26  37
- 6.Paynesville FC             23  10  7  6  38-33  37
- 7.Heaven Eleven FC           23   8  9  6  30-29  33
- 8.Discoveries SA FC          23   8  7  8  30-23  31
- 9.Wologizi FC                22   8  6  8  35-34  30  [P]
-10.Gardnersville FC           23   8  5 10  42-44  29  [P]
-11.Borough FC                 22   6  9  7  32-35  27  [*]
-12.Down Town FC               22   7  4 11  28-36  25  [P]
+ 1.Watanga FC                 23  15  6  2  34-16  51                  [2-0]
+ 2.Bea Mountain FC            24  13  7  4  50-21  46                  [2-0]
+ 3.FC Fassell                 23  11  7  5  25-15  40  [C]             [5-0, 4-0]
+ 4.Paynesville FC             23  10  7  6  38-33  37                  [4-2, 1-1]
+ 5.LPRC Oilers                24  10  7  7  32-28  37                  [3-1, 4-2]
+ 6.LISCR                      23  10  5  8  27-30  35                  [2-0, 3-1]
+ 7.Discoveries SA FC          24   8  8  8  29-21  32                  [0-2, 3-1]
+ 8.Heaven Eleven FC           23   7  9  7  29-30  30                  [2-1]
+ 9.Wologizi FC                24   7  7 10  34-38  28  [P]             [0-0, 4-2]
+10.Borough FC                 23   6  9  8  31-36  27  [*]             [3-1, 3-1]
+11.Down Town FC               23   6  5 12  29-41  23  [P]             [2-1]
 -----------------------------------------------------
-13.Black Man Warrior FC       22   4  7 11  13-21  19
-14.Freeport FC                22   5  2 15  32-54  17
-15.Jubilee FC                 22   1  3 18  19-59   6  [P]  Relegated
+12.Gardnersville FC           23   6  5 12  33-47  23  [P]             [4-0, 6-3]
+13.Black Man Warrior FC       24   4  8 12  14-24  20                  [0-0]
+14.Freeport FC                24   4  4 16  34-59  16       Relegated  [2-0]
+ -.Jubilee FC                 excluded; all results annulled;
+   record at exclusion:       22   1  3 18  19-59   6  [P]  Relegated
+
+NB: annulled results against Jubilee between square brackets
 
 [*] Global Pharma FC were renamed Borough FC
 
 NB: following a CAS ruling, Jubilee FC had to be included in the first division 2025/26;
-    this happened after the completion of round 9
+    this happened after the completion of round 9; however, they were excluded again
+    after round 24, when already mathematically sure of relegation
 
 Round 1
 [Oct 18]
@@ -186,38 +190,39 @@ LPRC Oilers               4-2 Down Town
 
 Catchup Matches Jubilee  ‹§cmj›
 
-NB: apparently considered "round 14" by the league
+NB: apparently considered "round 14" by the league; all matches
+    annulled after exclusion of Jubilee mid-April
 
 [Nov 23]
-Bea Mountain              2-0 Jubilee
+Bea Mountain              2-0 Jubilee                   [annulled]
 [Nov 28]
-Watanga                   2-0 Jubilee
+Watanga                   2-0 Jubilee                   [annulled]
 [Dec 2]
-LISCR                     2-0 Jubilee
+LISCR                     2-0 Jubilee                   [annulled]
 [Dec 5]
-Jubilee                   0-4 Gardnersville
+Jubilee                   0-4 Gardnersville             [annulled]
 [Dec 8]
-Jubilee                   0-5 Fassell
+Jubilee                   0-5 Fassell                   [annulled]
 [Dec 11]
-Wologizi                  0-0 Jubilee
+Wologizi                  0-0 Jubilee                   [annulled]
 [Dec 14]
-Discoveries               awd Jubilee                   [awarded 0-2, Discoveries forfeited]
+Discoveries               awd Jubilee                   [annulled; awarded 0-2, Discoveries forfeited]
 [Dec 17]
-Jubilee                   1-3 Borough
+Jubilee                   1-3 Borough                   [annulled]
 [Dec 21]
-Paynesville               4-2 Jubilee
+Paynesville               4-2 Jubilee                   [annulled]
 [Dec 24]
-Jubilee                   0-0 Black Man Warrior
+Jubilee                   0-0 Black Man Warrior         [annulled]
 [Dec 27]
-LPRC Oilers               3-1 Jubilee
+LPRC Oilers               3-1 Jubilee                   [annulled]
 [Dec 30]
-Heaven Eleven             2-1 Jubilee
+Heaven Eleven             2-1 Jubilee                   [annulled]
 [Jan 3]
-Jubilee                   0-2 Freeport
+Jubilee                   0-2 Freeport                  [annulled]
 [Jan 6]
-Down Town                 2-1 Jubilee
+Down Town                 2-1 Jubilee                   [annulled]
 
-Halfway Table:
+Halfway Table (includes results Jubilee):
 
  1.Watanga FC                 14   9  4  1  20-10  31
  2.LISCR                      14   9  2  3  19-12  29
@@ -230,8 +235,8 @@ Halfway Table:
  9.Heaven Eleven FC           14   5  4  5  20-20  19
 10.Discoveries SA FC          14   5  3  6  19-15  18
 11.Borough FC                 14   4  5  5  19-25  17  [*]
-12.Black Man Warrior FC       14   3  5  6  11-12  14
 -----------------------------------------------------
+12.Black Man Warrior FC       14   3  5  6  11-12  14
 13.Down Town FC               14   3  2  9  17-26  11  [P]
 14.Freeport FC                14   3  1 10  19-34  10
 15.Jubilee FC                 14   1  2 11   8-31   5  [P]
@@ -245,7 +250,7 @@ NB: number of match rounds for second half of season officially started with 15
 
 Round 15
 [Jan 24]
-Borough                   3-1 Jubilee
+Borough                   3-1 Jubilee                   [annulled]
 Discoveries               0-1 Fassell
 [Jan 25]
 Heaven Eleven             2-2 Down Town
@@ -261,7 +266,7 @@ LPRC Oilers               1-0 Watanga
 Paynesville               3-1 Gardnersville
 [Jan 31]
 Freeport                  0-2 Discoveries
-Jubilee                   1-3 LISCR
+Jubilee                   1-3 LISCR                     [annulled]
 Bea Mountain              3-0 Wologizi
 [Feb 1]
 Borough                   0-0 Black Man Warrior
@@ -271,7 +276,7 @@ Down Town                 bye
 Round 17
 [Feb 13]
 Gardnersville             4-2 Freeport
-Fassell                   4-0 Jubilee
+Fassell                   4-0 Jubilee                   [annulled]
 [Feb 14]
 LPRC Oilers               0-1 LISCR
 Paynesville               0-6 Bea Mountain
@@ -286,7 +291,7 @@ Round 18
 Paynesville               1-1 Discoveries
 [Feb 21]
 Down Town                 0-2 Watanga
-Jubilee                   2-4 LPRC Oilers
+Jubilee                   2-4 LPRC Oilers               [annulled]
 Wologizi                  1-1 Gardnersville
 [Feb 22]
 Freeport                  3-2 Fassell
@@ -318,8 +323,8 @@ LPRC Oilers               0-1 Fassell
 [Mar 16]
 Paynesville               3-1 Borough
 Down Town                 1-2 Wologizi
-Jubilee                   1-3 Discoveries               [abandoned at 1-3 in 86', Jubilee did not have
-Black Man Warrior         bye                            enough players left; result apparently stood]
+Jubilee                   1-3 Discoveries               [annulled; abandoned at 1-3 in 86', Jubilee
+Black Man Warrior         bye                            did not have enough players left]
 
 Round 21
 [Mar 20]
@@ -327,7 +332,7 @@ Heaven Eleven             0-0 Bea Mountain
 Down Town                 1-0 Paynesville
 [Mar 21]
 LPRC Oilers               0-0 Discoveries
-Gardnersville             6-3 Jubilee
+Gardnersville             6-3 Jubilee                   [annulled]
 Borough                   1-1 Freeport
 [Mar 22]
 LISCR                     1-1 Fassell
@@ -342,7 +347,7 @@ Black Man Warrior         0-3 LPRC Oilers
 Paynesville               0-0 Heaven Eleven
 [Mar 27]
 Discoveries               1-1 Borough
-Jubilee                   2-4 Wologizi
+Jubilee                   2-4 Wologizi                  [annulled]
 Watanga                   1-0 Freeport
 LISCR                     bye
 
@@ -356,31 +361,114 @@ Wologizi                  1-3 LPRC Oilers
 [Apr 2]
 Borough                   1-1 Gardnersville
 Down Town                 2-1 Discoveries
-Jubilee                   1-1 Paynesville
+Jubilee                   1-1 Paynesville               [annulled]
 Fassell                   bye
+
+Round 24
+[Apr 12]
+Watanga                   2-1 Borough
+LISCR                     1-1 Paynesville
+Fassell                   1-0 Wologizi
+[Apr 13]
+Discoveries               2-0 Black Man Warrior
+Bea Mountain              4-1 Down Town
+[Apr 14]
+Freeport                  2-3 LPRC Oilers
+Jubilee                   n/p Heaven Eleven
+Gardnersville             bye
+
+NB: Jubilee excluded after round 24; all results annulled
+
+Round 25
+[Apr 25]
+Fassell                   3-0 Gardnersville
+LPRC Oilers               0-2 Borough
+Jubilee                   n/p Bea Mountain
+[Apr 26]
+Black Man Warrior         0-0 Freeport
+[Apr 29]
+Discoveries               0-1 Watanga
+Paynesville               4-2 Wologizi
+[tba]
+Down Town                  -  LISCR
+Heaven Eleven             bye
+'
+Round 26
+[May 3]
+Freeport                  2-2 Down Town
+Borough                   2-1 Heaven Eleven
+Fassell                   1-1 Black Man Warrior
+[May 4]
+LPRC Oilers               3-1 Gardnersville
+[May 5]
+Bea Mountain              3-1 LISCR
+Wologizi                  0-0 Discoveries
+Jubilee                   n/p Watanga
+Paynesville               bye
+
+Round 27
+[May 13]
+Fassell                    -  Watanga
+[tba]
+Bea Mountain               -  Borough
+Gardnersville              -  Black Man Warrior
+Wologizi                   -  Heaven Eleven
+LISCR                      -  Freeport
+Paynesville                -  LPRC Oilers
+Jubilee                   n/p Down Town
+Discoveries               bye
+
+Round 28
+[May 18]
+Watanga                    -  Gardnersville
+Discoveries                -  LISCR
+Freeport                  n/p Jubilee
+[tba]
+Down Town                  -  Borough
+Paynesville                -  Fassell
+Heaven Eleven              -  LPRC Oilers
+Wologizi                   -  Black Man Warrior
+Bea Mountain              bye
+
+Round 29
+[Apr 25]
+LISCR                     1-1 Wologizi
+[May 24]
+Heaven Eleven              -  Watanga
+Discoveries                -  Bea Mountain
+Black Man Warrior         n/p Jubilee
+[tba]
+Fassell                    -  Borough
+Gardnersville              -  Down Town
+Freeport                   -  Paynesville
+LPRC Oilers               bye
 
 Table:
 
- 1.Watanga FC                 22  14  6  2  33-15  48
- 2.Bea Mountain FC            23  12  7  4  45-19  43
- 3.FC Fassell                 22  11  6  5  29-14  39  [C]
- 4.LISCR                      22  12  3  7  29-26  39
- 5.LPRC Oilers                23  10  7  6  33-26  37
- 6.Paynesville FC             23  10  7  6  38-33  37
- 7.Heaven Eleven FC           23   8  9  6  30-29  33
- 8.Discoveries SA FC          23   8  7  8  30-23  31
- 9.Wologizi FC                22   8  6  8  35-34  30  [P]
-10.Gardnersville FC           23   8  5 10  42-44  29  [P]
-11.Borough FC                 22   6  9  7  32-35  27  [*]
-12.Down Town FC               22   7  4 11  28-36  25  [P]
+ 1.Watanga FC                 23  15  6  2  34-16  51                  [2-0]
+ 2.Bea Mountain FC            24  13  7  4  50-21  46                  [2-0]
+ 3.FC Fassell                 23  11  7  5  25-15  40  [C]             [5-0, 4-0]
+ 4.Paynesville FC             23  10  7  6  38-33  37                  [4-2, 1-1]
+ 5.LPRC Oilers                24  10  7  7  32-28  37                  [3-1, 4-2]
+ 6.LISCR                      23  10  5  8  27-30  35                  [2-0, 3-1]
+ 7.Discoveries SA FC          24   8  8  8  29-21  32                  [0-2, 3-1]
+ 8.Heaven Eleven FC           23   7  9  7  29-30  30                  [2-1]
+ 9.Wologizi FC                24   7  7 10  34-38  28  [P]             [0-0, 4-2]
+10.Borough FC                 23   6  9  8  31-36  27  [*]             [3-1, 3-1]
+11.Down Town FC               23   6  5 12  29-41  23  [P]             [2-1]
 -----------------------------------------------------
-13.Black Man Warrior FC       22   4  7 11  13-21  19
-14.Freeport FC                22   5  2 15  32-54  17
-15.Jubilee FC                 22   1  3 18  19-59   6  [P]  Relegated
+12.Gardnersville FC           23   6  5 12  33-47  23  [P]             [4-0, 6-3]
+13.Black Man Warrior FC       24   4  8 12  14-24  20                  [0-0]
+14.Freeport FC                24   4  4 16  34-59  16       Relegated  [2-0]
+ -.Jubilee FC                 excluded; all results annulled;
+   record at exclusion:       22   1  3 18  19-59   6  [P]  Relegated
+
+NB: annulled results against Jubilee between square brackets
 
 [*] Global Pharma FC were renamed Borough FC
 
 NB: following a CAS ruling, Jubilee FC had to be included in the first division 2025/26;
-    this happened after the completion of round 9
+    this happened after the completion of round 9; however, they were excluded again
+    after round 24, when already mathematically sure of relegation
 
 

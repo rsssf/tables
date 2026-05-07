@@ -2,7 +2,7 @@
      title:   Armenia 2025/26
      source:  https://rsssf.org/tablesa/arme2026.html
      author:  Theodore Dreiman
-     updated: 7 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -16,17 +16,17 @@
 
 Table:
 
- 1.Pyunik (Yerevan)          17  12  2  3  28-12  38      [1-0]
- 2.Ararat-Armenia (Yerevan)  18  11  5  2  32-18  38      [0-1]
- 3.Urartu (Yerevan)          18  10  6  2  32-11  36
- 4.Alashkert (Yerevan)       18  10  2  6  24-15  32      [2-0, 2-2]
- 5.Noah (Yerevan)            17   9  5  3  32-14  32  [C] [2-2, 0-2]
- 6.Van (Charencavan)         18   6  4  8  20-28  22
- 7.Gandzasar (Kapan)         18   4  5  9  12-20  17
- 8.BKMA (Yerevan)            18   3  6  9  21-29  15
- 9.Shirak (Gyumri)           18   2  4 12  14-37  10
+ 1.Ararat-Armenia (Yerevan)  22  14  6  2  43-19  48
+ 2.Urartu (Yerevan)          23  13  6  4  42-19  45
+ 3.Pyunik (Yerevan)          21  14  2  5  31-16  44
+ 4.Alashkert (Yerevan)       23  13  4  6  34-20  43
+ 5.Noah (Yerevan)            21  12  6  3  40-15  42  [C]
+ 6.Van (Charencavan)         23   7  4 12  24-37  25
+ 7.Gandzasar (Kapan)         22   5  6 11  18-30  21      [0-0, 0-0, 1-1]
+ 8.BKMA (Yerevan)            23   4  9 10  25-34  21      [0-0, 0-0, 1-1]
+ 9.Shirak (Gyumri)           23   2  6 15  17-46  12
 ----------------------------------------------------
-10.Ararat (Yerevan)          18   1  3 14  11-42   6
+10.Ararat (Yerevan)          23   2  3 18  15-53   9
 
 Format: three-leg round-robin. BKMA cannot be relegated.
   If BKMA takes the last place, the 9th team is relegated.
@@ -265,10 +265,18 @@ Ararat-Ar  4-1  Shirak
 Van        0-0  Noah
   [Yerevan]
 
-Round 16 [ppd]
-Ararat     -  Alashkert
-Urartu     -  Van
-Shirak     -  BKMA
+Round 16
+[Apr 11]
+Ararat     2-3  Alashkert
+  [Aboubacar S. Ouattara 35; Kalifala M. Doumbia 86 pen -
+   Momo Touré 28 pen; Joseph Sabobo 29; Olawale Farayola 45+1 pen]
+[Apr 16]
+Shirak     1-1  BKMA
+  [Rafik Misakyan 43 pen - Petik Manukyan 30 pen]
+[Apr 26]
+Urartu     2-0  Van
+  [Nicholas Kalukyan 11; Oleg Poljakov 29]
+[May 6]
 Ararat-Ar  -  Pyunik
 Gandzasar  -  Noah
 
@@ -318,19 +326,79 @@ Gandzasar  2-1  Ararat
 Noah       3-0  Shirak
   [Gustavo Sangaré 23; Nardin Mulahusejnović 28; Hélder Ferreira 76 pen]
 
+Round 20
+[Apr 4]
+Ararat     1-2  Van
+  [Kalifala M. Doumbia 18 - Petros Avetisyan 45+2 pen; Narek Manukyan 65]
+[Apr 5]
+Urartu     4-2  Gandzasar
+  [Miguel Velosa 14, 31, 76; Simon Obonde (Gan) 27 og - Annan Mensah 10; João Nóbrega 87]
+Noah       2-0  BKMA
+  [Matheus Aiás 14; Hélder Ferreira 81 pen]
+[Apr 6]
+Shirak     0-1  Pyunik
+  [Lucas Villela 75]
+Ararat-Ar  1-1  Alashkert
+  [Paul Ayongo 62 - Davit Terteryan 64. Abovyan]
+
+Round 21
+[Apr 10]
+Van        1-2  Urartu
+  [Benik Hovhannisyan 65 - Bruno Michel 46, 57 pen]
+Gandzasar  0-3  Noah
+  [Matheus Aiás 42; Sergey Muradyan 60; Nardin Mulahusejnović 74]
+[Apr 11]
+Pyunik     0-2  Ararat-Ar
+  [Juan Balanta 24 pen; Hugo Oliveira 90+2]
+[Apr 12]
+BKMA       0-0  Shirak
+[Apr 14]
+Alashkert  2-0  Ararat
+  [Robert Hakobyan 44; Artur Kartashyan (Ara) 72 og]
+
+Round 22
+[Apr 18]
+Ararat     1-0  Pyunik
+  [Kalifala M. Doumbia 90+4]
+[Apr 19]
+Urartu     1-3  Alashkert
+  [Miguel Velosa 45+2 - Karen Nalbandyan 10 pen, 59; Jefferson Granado 90+8]
+BKMA       1-1  Gandzasar
+  [Narek Hovhannisyan II 11 - Lucca Rodrigues 44]
+[Apr 20]
+Shirak     0-4  Ararat-Ar
+  [Arayik Eloyan 4, 45; Juan Balanta 70; Zhirayr Shaghoyan 83]
+Noah       2-0  Van
+  [Gonçalo Silva 45; Takuto Oshima 67]
+
+Round 23
+[Apr 23]
+Pyunik     2-1  Urartu
+  [Momo Yansane 4; Serhij Vakulenko 64 - Nicholas Kalukyan 90+2 pen]
+Van        1-2  BKMA
+  [Hayk Tatosyan 34 - Grenik Petrosyan 1; Hrayr Mkoyan (Van) 90+3 og]
+[Apr 25]
+Ararat-Ar  4-0  Ararat
+  [Artur Serobyan 22, 28, 59; Alioune Ndour 85]
+Alashkert  1-1  Noah
+  [Momo Touré 80 - Imran Oulad Omar 89]
+[Apr 26]
+Gandzasar  3-2  Shirak
+  [Annan Mensah 78; Michael Quarcoo 88; Arman Xachatryan 90+5 - Rafik Misakyan 21; Narek Janoyan 43]
+
 Table:
 
- 1.Pyunik (Yerevan)          17  12  2  3  28-12  38      [1-0]
- 2.Ararat-Armenia (Yerevan)  18  11  5  2  32-18  38      [0-1]
- 3.Urartu (Yerevan)          18  10  6  2  32-11  36
- 4.Alashkert (Yerevan)       18  10  2  6  24-15  32      [2-0, 2-2]
- 5.Noah (Yerevan)            17   9  5  3  32-14  32  [C] [2-2, 0-2]
- 6.Van (Charencavan)         18   6  4  8  20-28  22
- 7.Gandzasar (Kapan)         18   4  5  9  12-20  17
- 8.BKMA (Yerevan)            18   3  6  9  21-29  15
- 9.Shirak (Gyumri)           18   2  4 12  14-37  10
+ 1.Ararat-Armenia (Yerevan)  22  14  6  2  43-19  48
+ 2.Urartu (Yerevan)          23  13  6  4  42-19  45
+ 3.Pyunik (Yerevan)          21  14  2  5  31-16  44
+ 4.Alashkert (Yerevan)       23  13  4  6  34-20  43
+ 5.Noah (Yerevan)            21  12  6  3  40-15  42  [C]
+ 6.Van (Charencavan)         23   7  4 12  24-37  25
+ 7.Gandzasar (Kapan)         22   5  6 11  18-30  21      [0-0, 0-0, 1-1]
+ 8.BKMA (Yerevan)            23   4  9 10  25-34  21      [0-0, 0-0, 1-1]
+ 9.Shirak (Gyumri)           23   2  6 15  17-46  12
 ----------------------------------------------------
-10.Ararat (Yerevan)          18   1  3 14  11-42   6
+10.Ararat (Yerevan)          23   2  3 18  15-53   9
 
 Format: three-leg round-robin. BKMA cannot be relegated.
   If BKMA takes the last place, the 9th team is relegated.
@@ -342,41 +410,18 @@ BKMA = Banaki Kentronakan Marzakan Akumb (Army's Central Sports Club)
 
 Top scorers:
 
-1.BRUNO MICHEL Santana (Urartu)       16  [Brazil]
-2.Karen NALBANDYAN (Alashkert)         8
-  Momo Fanyé TOURÉ (Alashkert)         8  [Guinea]
-4.HÉLDER José Castro FERREIRA (Noah)   7  [Portugal]
-5.Narek HOVHANNISYAN II (BKMA)         6
-  Marius NOUBISSI (Pyunik)             6  [Cameroon]
-7.Nardin MULAHUSEJNOVIĆ (Noah)         5  [Bosnia]
-
-Round 20
-Urartu     -  Gandzasar
-Ararat     -  Van
-Noah       -  BKMA
-Shirak     -  Pyunik
-Ararat-Ar  -  Alashkert
-
-Round 21
-Van        -  Urartu
-BKMA       -  Shirak
-Alashkert  -  Ararat
-Pyunik     -  Ararat-Ar
-Gandzasar  -  Noah
-
-Round 22
-BKMA       -  Gandzasar
-Shirak     -  Ararat-Ar
-Ararat     -  Pyunik
-Urartu     -  Alashkert
-Noah       -  Van
-
-Round 23
-Van        -  BKMA
-Gandzasar  -  Shirak
-Ararat-Ar  -  Ararat
-Alashkert  -  Noah
-Pyunik     -  Urartu
+1.BRUNO MICHEL Santana (Urartu)     18  [Brazil]
+2.Karen NALBANDYAN (Alashkert)      10
+  Momo Fanyé TOURÉ (Alashkert)      10  [Guinea]
+4.HÉLDER Castro FERREIRA (Noah)      8  [Portugal]
+5.Narek HOVHANNISYAN II (BKMA)       7
+  Artur SEROBYAN (Ararat-Armenia)    7
+7.Matheus AIÁS Rodrigues (Noah)      6  [Brazil]
+  Kalifala Mamadou DOUMBIA (Ararat)  6  [Mali]
+  Arayik ELOYAN (Ararat-Armenia)     6
+  Rafik MISAKYAN (Shirak)            6
+  Nardin MULAHUSEJNOVIĆ (Noah)       6  [Bosnia]
+  Marius NOUBISSI (Pyunik)           6  [Cameroon]
 
 Round 24
 BKMA       -  Alashkert
@@ -470,9 +515,17 @@ Pyunik (Yerevan)      1-2 2-2  NOAH (Yerevan)    [agg 3-4]
 Semifinals
 
 [Apr 15, 29]
-Andranik (Sevan)       -   -   Urartu (Yerevan)
+Andranik (Sevan)      1-1 0-1  URARTU (Yerevan)  [agg 1-2]
+  [1. Michael Ndidi 89 - Artem Poljarus 12 pen. Yerevan]
+  [2. Bruno Michel 33 pen]
 [Apr 16, 29]
-Ararat-Arm (Yerevan)   -   -   Noah (Yerevan)
+Ararat-Arm (Yerevan)  0-1 0-0  NOAH (Yerevan)    [agg 0-1]
+  [1. Nardin Mulahusejnović 25. Abovyan]
+  [2. Abovyan]
+
+Final [May 14, Yerevan]
+
+Urartu (Yerevan)  -  Noah (Yerevan)
 
 
 
@@ -483,23 +536,23 @@ Ararat-Arm (Yerevan)   -   -   Noah (Yerevan)
 
 Table:
 
- 1.Sardarapat (Armavir)        22  18  2  2  61-13  56  [N]
+ 1.Sardarapat (Armavir)        26  21  3  2  71-13  66  [N]
 ------------------------------------------------------
- 2.Syunik (Kapan)              22  17  1  4  53-16  52
- 3.Hayq (Spitak)               22  16  1  5  40-16  49  [N]
- 4.BKMA-2 (Yerevan)            20  15  3  2  57-24  48  [C]
- 5.Andranik (Vardenis)         22  15  2  5  48-24  47
- 6.Ararat-2 (Yerevan)          20  10  2  8  35-27  32
- 7.Urartu-2 (Yerevan)          22   7  8  7  36-33  29
- 8.Pyunik Academy (Yerevan)    22   6  7  9  27-35  25
- 9.Araks (Ararat)              21   7  3 11  22-30  24  [P]
-10.Lernayin Arcax (Goris)      22   7  1 14  18-48  22
-11.Mika (Yerevan)              22   5  7 10  23-42  22
-12.Noah-2 (Yerevan)            22   5  6 11  29-43  21
-13.Ararat-Armenia-2 (Yerevan)  22   4  5 13  28-44  17      [2-1, 2-0]
-14.Bentonit (Ijevan)           22   4  5 13  24-42  17      [0-2, 1-2]
-15.Van-2 (Charencavan)         22   3  5 14  25-52  14  [N]
-16.Shirak-2 (Gyumri)           21   3  4 14  22-59  13
+ 2.Syunik (Kapan)              26  20  1  5  72-21  61
+ 3.BKMA-2 (Yerevan)            25  19  3  3  64-27  60  [C]
+ 4.Hayq (Spitak)               26  18  2  6  47-19  56  [N]
+ 5.Andranik (Vardenis)         25  17  2  6  58-26  53
+ 6.Ararat-2 (Yerevan)          25  12  2 11  41-37  38
+ 7.Pyunik Academy (Yerevan)    26   9  8  9  37-40  35
+ 8.Urartu-2 (Yerevan)          26   8  8 10  40-44  32
+ 9.Araks (Ararat)              26   9  4 13  31-39  31  [P]
+10.Mika (Yerevan)              26   6  7 13  27-52  25      [0-0, 3-1]
+11.Bentonit (Ijevan)           26   6  7 13  28-43  25      [1-3, 0-0]
+12.Lernayin Arcax (Goris)      26   7  2 17  20-62  23
+13.Ararat-Armenia-2 (Yerevan)  26   5  6 15  36-51  21      [2 1 1 13- 6 7]
+14.Van-2 (Charencavan)         26   5  6 15  31-54  21  [N] [2 0 1  8- 6 6]
+15.Noah-2 (Yerevan)            25   5  6 14  33-55  21      [0 1 2  5-14 1]
+16.Shirak-2 (Gyumri)           26   3  5 18  24-77  14
 
 Reserve teams (including Pyunik Academy) are ineligible for promotion. Direct promotion to
   Premier League is granted to the highest-placed club that is not a reserve team. However,
@@ -927,8 +980,9 @@ Syunik       3-1  Andranik
 [Mar 13]
 Bentonit     0-2  Ararat-Ar-2
   [Karen Muradyan III 27; Mikayel Xudaverdyan 41 pen. Yerevan]
-[ppd]
-Shirak-2     -  Ararat-2
+[Apr 30]
+Shirak-2     1-2  Ararat-2
+  [Rubik Movsisyan 80 - Harutyun Asatryan 4; Erik Shaghoyan 32]
 
 Round 20
 [Mar 15]
@@ -989,28 +1043,117 @@ Ararat-2     0-1  Lern. Arcax
   [Vallas M.J. Rellys 13]
 Ararat-Ar-2  1-1  Shirak-2
   [Karen Muradyan III 69 - Mher Harutyunyan 20 pen]
+[Apr 30]
+Araks        0-1  BKMA-2
+  [Artur Ordinyan (Ara) 46 og]
+
+Round 23
+[Apr 6]
+Van-2        0-0  Bentonit
+[Apr 7]
+Sardarapat   5-0  Mika
+  [Hamlet Minasyan 37; Ishxan Darbinyan 42; Tigran Ayunc 53;
+   Levon Vardanyan 63; Abderahmane Ndaw 73]
+BKMA-2       0-1  Hayq
+  [Isaac Drogba 89]
+Pyunik Acad  2-0  Ararat-2
+  [Valeri Hambardzumyan 52, 75]
+Lern. Arcax  1-3  Araks
+  [Karen Arakelyan II 89 - Axmed Jindoyan 7; Edgar Ghulinyan 59; Erik Ghulinyan 75 pen]
+Noah-2       1-5  Ararat-Ar-2
+  [Albert Gareginyan 34 - Vahe Petrosyan 48, 56 pen; Martun Hovhannisyan 58;
+   Harutyun Movsisyan 84; Mikayel Xudaverdyan 90]
+[Apr 8]
+Urartu-2     0-5  Syunik
+  [Juan D. Moreno 16, 57; Alen Karapetyan 44 pen; Gabriel Ferreira 76; Joachim Amijekori 83]
+Shirak-2     0-4  Andranik
+  [Vache Hakobyan 9; Ismail O. Olawale 26 pen; Erik Smbatyan 32; Alen Poghosyan 48]
+
+Round 24
+[Apr 13]
+Ararat-2     0-2  Sardarapat
+  [Hamlet Minasyan 9; Abderahmane Ndaw 40]
+Ararat-Ar-2  1-2  BKMA-2
+  [Harutyun Movsisyan 90+2 pen - Davit Ghiasyan 43; Artur Manukyan II 84]
+Mika         1-0  Van-2
+  [Abderahmane Mekkaoui 90+2. Charencavan]
+[Apr 14]
+Syunik       9-1  Shirak-2
+  [Juan D. Moreno 12; Gabriel Ferreira 17; João Mendes 20;
+   Joachim Amijekori 31, 34; Armen Hovhannisyan 48; Erik Vardanyan 52;
+   Alen Karapetyan 68; Artyom Avagyan 88 - Mher Harutyunyan 50 pen]
+Hayq         4-0  Lern. Arcax
+  [Erik Azizyan 9; Aleksandar Glišić 27, 38, 57. Yerevan]
+Bentonit     1-0  Urartu-2
+  [Abdulaziz Salohiddinov 72. Yerevan]
+Araks        2-2  Pyunik Acad
+  [Axmed Jindoyan 24; Narek Yepremyan 88 - Tigran Gevorgyan 56; Aram Hovsepyan 90+1. Ararat]
 [ppd]
-Araks        -  BKMA-2
+Andranik     -  Noah-2
+
+Round 25
+[Apr 20]
+Sardarapat   3-0  Araks
+  [Hamlet Minasyan 5; Levon Vardanyan 32, 37]
+Ararat-2     2-1  Mika
+  [Gagik Simonyan 55; Harutyun Asatryan 60 - Haykaram Muradyan 41]
+[Apr 21]
+Pyunik Acad  3-2  Hayq
+  [Aram Hovsepyan 85; Valeri Hambardzumyan 87; Tigran Gevorgyan 90+2 -
+   Ipehe Williams 45+1; Erik Azizyan 6]
+Urartu-2     1-3  Van-2
+  [Arkadi Grigoryan 89 - Tigran Sargsyan I 4, 50, 71]
+Shirak-2     0-0  Bentonit
+[Apr 22]
+Noah-2       2-4  Syunik
+  [Andranik Karapetyan II 75; Xachatur Vardanyan 90+3 - Joachim Amijekori 30;
+   Ruben T. Yesayan 33; Armen Hovhannisyan 36; Edgar Grigoryan II 72]
+BKMA-2       2-0  Andranik
+  [Gagik Meloyan 43; Xosrov Ghazaryan 81]
+Lern. Arcax  1-1  Ararat-Ar-2
+  [Levon Aghekyan 28 - Martun Hovhannisyan 9]
+
+Round 26
+[Apr 25]
+Andranik     6-0  Lern. Arcax
+  [Erik Petrosyan 29 pen, 46; Narek Hovhannisyan I 40; Ismail O. Olawale 65, 90; Alen Poghosyan 84]
+Van-2        3-0  Shirak-2
+  [Davit Krasovski 13; Stefan Ozsisman 65; Gabriyel Yeghiazaryan 73]
+[Apr 26]
+Syunik       1-2  BKMA-2
+  [Gabriel Ferreira 4 - Davit Ghiasyan 13; Artur Mixaelyan 15]
+Araks        4-2  Ararat-2
+  [Edgar Ghulinyan 13, 63; Artyom Arshakyan 25; Ashot Kocharyan 90+2 -
+   Therry W. Tani Jr (Araks) 28 og; Harutyun Asatryan 62 pen]
+[Apr 27]
+Hayq         0-0  Sardarapat
+Mika         2-3  Urartu-2
+  [Abderahmane Mekkaoui 24, 71 - Erik Asatryan 11; Hayk Stepanyan 41; Zhora Dadamyan 57 pen]
+[Apr 28]
+Ararat-Ar-2  1-3  Pyunik Acad
+  [Davit Petrosyanc 42 - Artyom Aleksanyan 4; Valeri Hambardzumyan 65, 90+1 pen]
+Bentonit     3-1  Noah-2
+  [Samvel Manukyan 45+1 pen; Armen Kirakosyan 59; Armen Arakelyan 84 - Michael Asiryan 23]
 
 Table:
 
- 1.Sardarapat (Armavir)        22  18  2  2  61-13  56  [N]
+ 1.Sardarapat (Armavir)        26  21  3  2  71-13  66  [N]
 ------------------------------------------------------
- 2.Syunik (Kapan)              22  17  1  4  53-16  52
- 3.Hayq (Spitak)               22  16  1  5  40-16  49  [N]
- 4.BKMA-2 (Yerevan)            20  15  3  2  57-24  48  [C]
- 5.Andranik (Vardenis)         22  15  2  5  48-24  47
- 6.Ararat-2 (Yerevan)          20  10  2  8  35-27  32
- 7.Urartu-2 (Yerevan)          22   7  8  7  36-33  29
- 8.Pyunik Academy (Yerevan)    22   6  7  9  27-35  25
- 9.Araks (Ararat)              21   7  3 11  22-30  24  [P]
-10.Lernayin Arcax (Goris)      22   7  1 14  18-48  22
-11.Mika (Yerevan)              22   5  7 10  23-42  22
-12.Noah-2 (Yerevan)            22   5  6 11  29-43  21
-13.Ararat-Armenia-2 (Yerevan)  22   4  5 13  28-44  17      [2-1, 2-0]
-14.Bentonit (Ijevan)           22   4  5 13  24-42  17      [0-2, 1-2]
-15.Van-2 (Charencavan)         22   3  5 14  25-52  14  [N]
-16.Shirak-2 (Gyumri)           21   3  4 14  22-59  13
+ 2.Syunik (Kapan)              26  20  1  5  72-21  61
+ 3.BKMA-2 (Yerevan)            25  19  3  3  64-27  60  [C]
+ 4.Hayq (Spitak)               26  18  2  6  47-19  56  [N]
+ 5.Andranik (Vardenis)         25  17  2  6  58-26  53
+ 6.Ararat-2 (Yerevan)          25  12  2 11  41-37  38
+ 7.Pyunik Academy (Yerevan)    26   9  8  9  37-40  35
+ 8.Urartu-2 (Yerevan)          26   8  8 10  40-44  32
+ 9.Araks (Ararat)              26   9  4 13  31-39  31  [P]
+10.Mika (Yerevan)              26   6  7 13  27-52  25      [0-0, 3-1]
+11.Bentonit (Ijevan)           26   6  7 13  28-43  25      [1-3, 0-0]
+12.Lernayin Arcax (Goris)      26   7  2 17  20-62  23
+13.Ararat-Armenia-2 (Yerevan)  26   5  6 15  36-51  21      [2 1 1 13- 6 7]
+14.Van-2 (Charencavan)         26   5  6 15  31-54  21  [N] [2 0 1  8- 6 6]
+15.Noah-2 (Yerevan)            25   5  6 14  33-55  21      [0 1 2  5-14 1]
+16.Shirak-2 (Gyumri)           26   3  5 18  24-77  14
 
 Reserve teams (including Pyunik Academy) are ineligible for promotion. Direct promotion to
   Premier League is granted to the highest-placed club that is not a reserve team. However,
@@ -1028,55 +1171,16 @@ Noah-2       Ejmiacin (20 km west of Yerevan)
 
 Top scorers:
 
-1.Hamlet MINASYAN (Sardarapat)  20
-  Ismail O. OLAWALE (Andranik)  20  [Nigeria]
-3.Ipehe WILLIAMS (Hayq)         15  [Ivory Coast]
-4.Erik PETROSYAN (Andranik)     14
-5.Levon VARDANYAN (Sardarapat)  13
-6.Davit GHIASYAN (BKMA-2)       12
-7.Armen HOVHANNISYAN (Syunik)   10
-8.Narek ALEKSANYAN (Urartu-2)    9
-9.Artur MANUKYAN II (BKMA-2)     8
-
-Round 23
-Sardarapat   -  Mika
-Pyunik Acad  -  Ararat-2
-Lern. Arcax  -  Araks
-BKMA-2       -  Hayq
-Noah-2       -  Ararat-Ar-2
-Shirak-2     -  Andranik
-Van-2        -  Bentonit
-Urartu-2     -  Syunik
-
-Round 24
-Mika         -  Van-2
-Bentonit     -  Urartu-2
-Andranik     -  Noah-2
-Ararat-Ar-2  -  BKMA-2
-Hayq         -  Lern. Arcax
-Araks        -  Pyunik Acad
-Ararat-2     -  Sardarapat
-Syunik       -  Shirak-2
-
-Round 25
-Ararat-2     -  Mika
-Sardarapat   -  Araks
-Pyunik Acad  -  Hayq
-Lern. Arcax  -  Ararat-Ar-2
-BKMA-2       -  Andranik
-Shirak-2     -  Bentonit
-Urartu-2     -  Van-2
-Noah-2       -  Syunik
-
-Round 26
-Mika         -  Urartu-2
-Van-2        -  Shirak-2
-Bentonit     -  Noah-2
-Andranik     -  Lern. Arcax
-Ararat-Ar-2  -  Pyunik Acad
-Hayq         -  Sardarapat
-Araks        -  Ararat-2
-Syunik       -  BKMA-2
+1.Hamlet MINASYAN (Sardarapat)   24
+  Ismail O. OLAWALE (Andranik)   24  [Nigeria]
+3.Erik PETROSYAN (Andranik)      16
+  Levon VARDANYAN (Sardarapat)   16
+  Ipehe WILLIAMS (Hayq)          16  [Ivory Coast]
+6.Davit GHIASYAN (BKMA-2)        14
+7.Armen HOVHANNISYAN (Syunik)    12
+8.Valeri HAMBARDZUMYAN (Pyunik)  10
+9.Narek ALEKSANYAN (Urartu-2)     9
+  Artur MANUKYAN II (BKMA-2)      9
 
 Round 27
 Araks        -  Mika

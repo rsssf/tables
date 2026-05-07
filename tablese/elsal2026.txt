@@ -2,7 +2,7 @@
      title:   El Salvador 2025/26
      source:  https://rsssf.org/tablese/elsal2026.html
      author:  Karel Stokkermans
-     updated: 23 Dec 2025    
+     updated: 5 May 2026
     -->
 
 
@@ -14,13 +14,11 @@
 
 ==== Primera División  ‹§primera›
 
-‹Campeonato Apertura 2025, see §1aper› | ‹Campeonato Clausura 2026, see §1clau›
 
-Campeonato Apertura 2025  ‹§1aper›
+===== Campeonato Apertura 2025  ‹§1aper›
 
-‹Regular Stage, see §1aperreg› | ‹Playoff Stage, see §1aperplay›
 
-Regular Stage  ‹§1aperreg›
+====== Regular Stage  ‹§1aperreg›
 
 Final Table:
 
@@ -280,7 +278,7 @@ Final Table:
 [*1] CD Hércules took the place of Once Deportivo
 [*2] Internacional Formando Atletas (Santa Tecla), abbreviated Inter FA, purchased CD Dragón
 
-Playoff Stage  ‹§1aperplay›
+====== Playoff Stage  ‹§1aperplay›
 
 NB: no extra time played except for final
 
@@ -311,12 +309,269 @@ Alianza          3-0 Cacahuatique
 Final [Dec 20]
 LA Firpo         0-0 Alianza          [aet, 5-4 pen]
 
-Campeonato Clausura 2026   ‹§1clau›
+===== Campeonato Clausura 2026  ‹§1clau›
 
-‹Regular Stage, see §1claureg› | ‹Playoff Stage, see §1clauplay›
 
-Regular Stage  ‹§1claureg›
+====== Regular Stage  ‹§1claureg›
 
-Playoff Stage  ‹§1clauplay›
+Final Table:
+
+ 1.CD FAS                  22  16  5  1  49-16  53  ‹Qualified, see §1clauplay›
+ 2.Luis Ángel Firpo        22  13  5  4  34-20  44  ‹Qualified, see §1clauplay›
+ 3.Alianza FC              22  11  4  7  36-30  37  ‹Qualified, see §1clauplay›
+ 4.Inter FA                22  10  6  6  27-25  36  ‹Qualified, see §1clauplay›
+ 5.Municipal Limeño        22  10  5  7  33-21  35  ‹Qualified, see §1clauplay›
+ 6.CD Águila               22  10  5  7  27-24  35  ‹Qualified, see §1clauplay›
+ 7.AD Isidro-Metapán       22   6  9  7  23-30  27  ‹Qualified, see §1clauplay›
+ 8.CD Cacahuatique         22   6  8  8  24-28  26  ‹Qualified, see §1clauplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.CD Platense             22   4  8 10  24-31  20
+10.CD Hércules             22   4  7 11  27-43  19
+11.Fuerte San Francisco    22   2  8 12  18-35  14
+12.Zacatecoluca FC         22   3  4 15  23-42  13  [P]
+
+Round 1
+[Jan 17]
+Zacatecoluca     1-2 Cacahuatique
+LA Firpo         2-0 Municipal Limeño
+FAS              2-2 Isidro-Metapán
+[Jan 18]
+Fuerte SF        1-1 Hércules
+[Jan 28]
+Águila           4-1 Platense
+Alianza          1-3 Inter FA
+
+Round 2 [Jan 21]
+Platense         0-1 Municipal Limeño
+Cacahuatique     1-1 Alianza
+LA Firpo         1-1 Zacatecoluca
+Isidro-Metapán   4-2 Águila
+Hércules         0-2 FAS
+Inter FA         2-0 Fuerte SF
+
+Round 3
+[Jan 24]
+Inter FA         2-1 Cacahuatique
+Alianza          2-3 LA Firpo
+[Jan 25]
+Fuerte SF        1-1 FAS
+Águila           3-1 Hércules
+Municipal Limeño 0-0 Isidro-Metapán
+Zacatecoluca     2-3 Platense
+
+Round 4
+[Jan 31]
+LA Firpo         0-0 Inter FA
+FAS              3-0 Águila
+Isidro-Metapán   1-0 Zacatecoluca
+[Feb 1]
+Cacahuatique     0-0 Fuerte SF
+Hércules         1-1 Municipal Limeño
+Platense         0-2 Alianza
+
+Round 5 [Feb 4]
+Fuerte SF        2-3 Águila
+Zacatecoluca     1-2 Hércules
+Cacahuatique     1-3 LA Firpo
+Inter FA         0-0 Platense
+Municipal Limeño 1-1 FAS
+Alianza          2-1 Isidro-Metapán
+
+Round 6
+[Feb 7]
+LA Firpo         1-0 Fuerte SF
+Isidro-Metapán   0-3 Inter FA
+[Feb 8]
+Hércules         1-4 Alianza
+Águila           1-0 Municipal Limeño
+Platense         0-1 Cacahuatique
+FAS              1-0 Zacatecoluca
+
+Round 7
+[Feb 14]
+Inter FA         3-1 Hércules
+Municipal Limeño 5-0 Fuerte SF
+LA Firpo         3-1 Platense
+FAS              3-1 Alianza
+[Feb 15]
+Cacahuatique     1-1 Isidro-Metapán
+Zacatecoluca     0-2 Águila
+
+Round 8 [Feb 18]
+Platense         1-1 Fuerte SF
+Hércules         1-3 Cacahuatique
+Águila           0-3 Alianza
+Municipal Limeño 2-1 Zacatecoluca
+Isidro-Metapán   1-0 LA Firpo
+FAS              3-1 Inter FA
+
+Round 9
+[Feb 21]
+Inter FA         0-1 Águila
+Alianza          1-0 Municipal Limeño
+LA Firpo         3-2 Hércules
+[Feb 22]
+Fuerte SF        2-2 Zacatecoluca
+Cacahuatique     0-1 FAS
+Platense         1-1 Isidro-Metapán
+
+Round 10
+[Feb 28]
+Zacatecoluca     0-2 Alianza
+Municipal Limeño 2-1 Inter FA
+FAS              2-0 LA Firpo
+[Mar 1]
+Fuerte SF        1-2 Isidro-Metapán
+Águila           1-1 Cacahuatique
+Hércules         0-4 Platense
+
+Round 11
+[Mar 7]
+Inter FA         1-0 Zacatecoluca
+Alianza          3-2 Fuerte SF
+Isidro-Metapán   1-1 Hércules
+[Mar 8]
+LA Firpo         1-0 Águila
+Cacahuatique     0-5 Municipal Limeño
+Platense         2-3 FAS
+
+Round 12
+[Mar 14]
+Inter FA         2-0 Alianza
+Isidro-Metapán   0-3 FAS
+Municipal Limeño 2-1 LA Firpo
+[Mar 15]
+Hércules         1-2 Fuerte SF
+Cacahuatique     0-0 Zacatecoluca
+Platense         2-0 Águila
+
+Round 13
+[Mar 18]
+Águila           1-1 Isidro-Metapán
+Fuerte SF        0-0 Inter FA
+Alianza          2-1 Cacahuatique
+Municipal Limeño 2-0 Platense
+FAS              4-0 Hércules
+[Mar 19]
+Zacatecoluca     1-3 LA Firpo
+
+Round 14
+[Mar 21]
+Cacahuatique     5-0 Inter FA
+Isidro-Metapán   1-0 Municipal Limeño
+[Mar 22]
+Platense         1-3 Zacatecoluca
+LA Firpo         2-1 Alianza
+FAS              3-1 Fuerte SF
+[Mar 25]
+Hércules         0-1 Águila
+
+Round 15
+[Mar 28]
+Inter FA         0-3 LA Firpo
+Alianza          3-3 Platense
+Zacatecoluca     2-2 Isidro-Metapán
+[Mar 29]
+Fuerte SF        0-1 Cacahuatique
+Águila           3-0 FAS
+Municipal Limeño 1-1 Hércules
+
+Round 16 [Apr 1]
+Águila           1-1 Fuerte SF
+Hércules         2-0 Zacatecoluca
+Platense         0-0 Inter FA
+LA Firpo         1-0 Cacahuatique
+Isidro-Metapán   0-0 Alianza
+FAS              2-0 Municipal Limeño
+
+Round 17
+[Apr 4]
+Zacatecoluca     1-6 FAS
+Municipal Limeño 2-0 Águila
+Inter FA         2-1 Isidro-Metapán
+Alianza          3-2 Hércules
+[Apr 5]
+Fuerte SF        0-2 LA Firpo
+Cacahuatique     1-1 Platense
+
+Round 18
+[Apr 11]
+Isidro-Metapán   1-1 Cacahuatique
+Alianza          0-2 FAS
+[Apr 12]
+Águila           1-0 Zacatecoluca
+Fuerte SF        0-2 Municipal Limeño
+Hércules         2-2 Inter FA
+Platense         0-1 LA Firpo
+
+Round 19 [Apr 15]
+Cacahuatique     1-2 Hércules
+Fuerte SF        1-1 Platense
+LA Firpo         0-2 Isidro-Metapán
+Zacatecoluca     3-4 Municipal Limeño
+Inter FA         2-2 FAS
+Alianza          0-2 Águila
+
+Round 20
+[Apr 18]
+Zacatecoluca     1-0 Fuerte SF
+Isidro-Metapán   0-2 Platense
+Municipal Limeño 0-0 Alianza
+[Apr 19]
+Hércules         2-2 LA Firpo
+Águila           0-1 Inter FA
+FAS              3-0 Cacahuatique
+
+Round 21
+[Apr 25]
+Alianza          4-2 Zacatecoluca
+Isidro-Metapán   1-3 Fuerte SF
+LA Firpo         1-1 FAS
+Inter FA         2-1 Municipal Limeño
+[Apr 26]
+Platense         1-1 Hércules
+Cacahuatique     0-0 Águila
+
+Round 22 [May 1]
+Hércules         3-0 Isidro-Metapán
+FAS              1-0 Platense
+Águila           1-1 LA Firpo
+Municipal Limeño 2-3 Cacahuatique
+Zacatecoluca     2-0 Inter FA
+Fuerte SF        0-1 Alianza
+
+Final Table:
+
+ 1.CD FAS                  22  16  5  1  49-16  53  ‹Qualified, see §1clauplay›
+ 2.Luis Ángel Firpo        22  13  5  4  34-20  44  ‹Qualified, see §1clauplay›
+ 3.Alianza FC              22  11  4  7  36-30  37  ‹Qualified, see §1clauplay›
+ 4.Inter FA                22  10  6  6  27-25  36  ‹Qualified, see §1clauplay›
+ 5.Municipal Limeño        22  10  5  7  33-21  35  ‹Qualified, see §1clauplay›
+ 6.CD Águila               22  10  5  7  27-24  35  ‹Qualified, see §1clauplay›
+ 7.AD Isidro-Metapán       22   6  9  7  23-30  27  ‹Qualified, see §1clauplay›
+ 8.CD Cacahuatique         22   6  8  8  24-28  26  ‹Qualified, see §1clauplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.CD Platense             22   4  8 10  24-31  20
+10.CD Hércules             22   4  7 11  27-43  19
+11.Fuerte San Francisco    22   2  8 12  18-35  14
+12.Zacatecoluca FC         22   3  4 15  23-42  13  [P]
+
+====== Playoff Stage  ‹§1clauplay›
+
+Quarterfinals
+
+First Legs
+[May 6]
+Águila            -  Alianza
+Isidro-Metapán    -  LA Firpo
+Cacahuatique      -  FAS
+[May 7]
+Municipal Limeño  -  Inter FA
+
+Second Legs
+FAS               -  Cacahuatique
+Inter FA          -  Municipal Limeño
+LA Firpo          -  Isidro-Metapán
+Alianza           -  Águila
 
 

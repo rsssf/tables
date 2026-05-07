@@ -1,3 +1,17 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prorel">Promotion/Relegation Playoff 2nd/3rd level</a><
+-- found b-enclosed line >South< - heading?
+-- found b-enclosed line >North< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="3prorel">Promotion/Relegation Playoff 3rd/4th level</a><
+-- found b-enclosed line >Götaland South< - heading?
+-- found b-enclosed line >Götaland West< - heading?
+-- found b-enclosed line >Götaland North< - heading?
+-- found b-enclosed line >Svealand South< - heading?
+-- found b-enclosed line >Svealand North< - heading?
+-- found b-enclosed line >Norrland South - Opening Season< - heading?
+-- found b-enclosed line >Norrland North - Opening Season< - heading?
+-- found b-enclosed line >Norrland - Promotion Group< - heading?
+-- found b-enclosed line >Norrland - Relegation Group< - heading?
 -- removing nav(igation) section:
 
 ‹Allsvenskan, see §allsvenskan›

@@ -1,0 +1,5 @@
+tablesa/arme2025                :  2024/25
+tablesa/armechamp               :  list of champions
+tablesa/armealltime             :  all-time table
+tablesa/armecuphist             :  list of cup winners
+tablesa/armetops                :  list of topscorers

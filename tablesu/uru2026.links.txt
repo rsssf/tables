@@ -1,0 +1,14 @@
+tablesu/uru2025                 :  2025
+tablesu/uruchamp                :  list of champions
+tablesu/uruhist                 :  list of final tables
+tablesu/urualltime              :  all-time table
+tablesu/uru-lig-alltime         :  all-time table liguilla
+tablesu/uruall                  :  list of relegated teams
+tablesu/uruliguillachamp        :  list of liguilla champions
+tablesu/uru2champ               :  list of 2nd division champions
+tablesu/uru3champ               :  list of 3rd division champions
+tablesu/uru-ofichamp            :  list of ofi (interior) champions
+tablesu/uru-regional            :  overview of regional championships
+tablesu/uru-torneo-interiorchamp  :  list of winners of provincial selections championship
+tablesu/urutops                 :  list of topscorers
+tablesu/urufound                :  list of foundation dates

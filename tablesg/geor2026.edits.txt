@@ -1,6 +1,10 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="5ajgupi">A Jguphi</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5bjgupi">B Jguphi</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5cjgupi">C Jguphi</a><
 -- removing nav(igation) section:
 
 ‹Crystalbet Erovnuli Liga, see §umaglesi›
+‹Davit Qipiani Tasi, see §kipiani›
 ‹Crystalbet Erovnuli Liga 2, see §erovnuli2›
 ‹Liga 3, see §liga3›
 ‹Liga 4, see §liga4›

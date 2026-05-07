@@ -1,0 +1,3 @@
+tabless/sene2025                :  2024/25
+tabless/senechamp               :  list of champions
+tabless/senecuphist             :  list of cup winners

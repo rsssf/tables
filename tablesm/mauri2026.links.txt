@@ -1,0 +1,3 @@
+tablesm/mauri2025               :  2024/25
+tablesm/maurichamp              :  list of champions
+tablesm/mauricuphist            :  list of cup winners

@@ -1,0 +1,3 @@
+tabless/swaz2025                :  2024/25
+tabless/swazchamp               :  list of champions
+tabless/swazcuphist             :  list of cup winners

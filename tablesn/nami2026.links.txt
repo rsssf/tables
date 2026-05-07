@@ -1,0 +1,3 @@
+tablesn/nami2025                :  2024/25
+tablesn/namichamp               :  list of champions
+tablesn/namicuphist             :  list of cup winners

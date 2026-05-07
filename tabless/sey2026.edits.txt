@@ -1,3 +1,5 @@
+-- found u-enclosed line >Group Stage< - heading?
+-- found u-enclosed line >Playoff Stage< - heading?
 -- removing nav(igation) section:
 
 ‹Premier League, see §prem›

@@ -1,0 +1,5 @@
+tablesm/maur2025§prem           :  Mauritania
+tablesm/maur2025§prem           :  Mauritania
+tablesr/rwan2025                :  2024/25
+tablesr/rwanchamp               :  list of champions
+tablesr/rwancuphist             :  list of cup winners

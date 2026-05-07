@@ -1,3 +1,4 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="absa">ABSA Cup 2026</a><
 -- removing nav(igation) section:
 
 ‹Super League, see §premier›
@@ -13,3 +14,6 @@
 
 ‹list of cup winners, see page zambcuphist›
 
+
+-- removing 1 leading nav line(s) in section 4:
+‹ABSA Cup 2026, see §absa›

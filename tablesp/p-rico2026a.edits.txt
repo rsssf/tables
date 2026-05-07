@@ -1,3 +1,5 @@
+-- make heading (hu) out of u-enclosed a name in line ><a name="apreg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="appo">Playoff Stage</a><
 -- removing nav(igation) section:
 
 ‹2025/26 (Apertura 2025), see page p-rico2026›
@@ -6,3 +8,6 @@
 
 ‹list of cup winners, see page p-ricocuphist›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §apreg› | ‹Playoff Stage, see §appo›

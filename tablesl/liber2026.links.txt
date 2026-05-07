@@ -1,0 +1,3 @@
+tablesl/liber2025               :  2024/25
+tablesl/liberchamp              :  list of champions
+tablesl/libercuphist            :  list of cup winners

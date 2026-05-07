@@ -1,3 +1,11 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="2ce">Groupe Centre-Est</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2co">Groupe Centre-Ouest</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3es">Groupe Est</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3ce">Groupe Centre-Est</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3co">Groupe Centre-Ouest</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3ou">Groupe Ouest</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3so">Groupe Sud-Ouest</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3se">Groupe Sud-Est</a><
 -- removing nav(igation) section:
 
 ‹Ligue 1, see §premiere›
@@ -14,3 +22,9 @@
 
 ‹list of cup finals, see page algcuphist›.
 
+
+-- removing 1 leading nav line(s) in section 5:
+‹Groupe Centre-Est, see §2ce› | ‹Groupe Centre-Ouest, see §2co›
+
+-- removing 1 leading nav line(s) in section 8:
+‹Groupe Est, see §3es› |  ‹Groupe Centre-Est, see §3ce› | ‹Groupe Centre-Ouest, see §3co› | ‹Groupe Ouest, see §3ou› | ‹Groupe Sud-Ouest, see §3so› | ‹Groupe Sud-Est, see §3se›

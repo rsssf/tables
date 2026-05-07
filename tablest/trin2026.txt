@@ -2,7 +2,7 @@
      title:   Trinidad and Tobago 2025/26
      source:  https://rsssf.org/tablest/trin2026.html
      author:  Karel Stokkermans
-     updated: 2 Apr 2026    
+     updated: 12 Apr 2026
     -->
 
 
@@ -14,21 +14,21 @@
 
 ==== Professional League  ‹§prof›
 
-Table:
+Final Table:
 
  1.Defence Force                   22  16  4  2  58-19  52  [C]  Champions
  2.Club Sando                      22  16  1  5  51-13  49
  3.Prison Service FC               22  15  2  5  42-24  47
- 4.Miscellaneous Police FC         21  13  4  4  44-18  43
+ 4.Miscellaneous Police FC         22  13  5  4  44-18  44
  5.AC Port of Spain                22  11  4  7  38-31  37
  6.San Juan Jabloteh               22  10  4  8  45-39  34
  7.Central FC                      22   8  3 11  32-50  27
  8.La Horquetta Rangers            22   6  3 13  21-51  21
- 9.1976 FC Phoenix                 21   6  0 15  29-54  18
+ 9.1976 FC Phoenix                 22   6  1 15  29-54  19
 10.Eagles FC                       22   5  2 15  31-52  17
 11.Point Fortin Civic Centre       22   5  2 15  22-46  17
 ----------------------------------------------------------
-12.Caledonia AIA                   22   5  1 16  30-46  16
+12.Caledonia AIA                   22   5  1 16  30-46  16       Relegated
 
 Round 1
 [Oct 24]
@@ -246,8 +246,8 @@ Defence Force            1-2 Club Sando
 [Mar 25]
 Point Fortin Civic       3-0 Eagles
 [Apr 6]
-Miscellaneous Police      -  1976 FC Phoenix
-
+Miscellaneous Police     awd 1976 FC Phoenix          [awarded 0-0; match not played; clubs agreed
+                                                       to an awarded draw as suggested by the FA]
 Round 21
 [Mar 20]
 Eagles                   0-6 Defence Force
@@ -270,20 +270,20 @@ AC Port of Spain         0-2 Defence Force
 [Mar 29]
 Point Fortin Civic       2-1 Central
 
-Table:
+Final Table:
 
  1.Defence Force                   22  16  4  2  58-19  52  [C]  Champions
  2.Club Sando                      22  16  1  5  51-13  49
  3.Prison Service FC               22  15  2  5  42-24  47
- 4.Miscellaneous Police FC         21  13  4  4  44-18  43
+ 4.Miscellaneous Police FC         22  13  5  4  44-18  44
  5.AC Port of Spain                22  11  4  7  38-31  37
  6.San Juan Jabloteh               22  10  4  8  45-39  34
  7.Central FC                      22   8  3 11  32-50  27
  8.La Horquetta Rangers            22   6  3 13  21-51  21
- 9.1976 FC Phoenix                 21   6  0 15  29-54  18
+ 9.1976 FC Phoenix                 22   6  1 15  29-54  19
 10.Eagles FC                       22   5  2 15  31-52  17
 11.Point Fortin Civic Centre       22   5  2 15  22-46  17
 ----------------------------------------------------------
-12.Caledonia AIA                   22   5  1 16  30-46  16
+12.Caledonia AIA                   22   5  1 16  30-46  16       Relegated
 
 

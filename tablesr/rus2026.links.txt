@@ -1,0 +1,6 @@
+tablesr/rus2025                 :  2024/25
+tablesr/rus2025b                :  2025 (4th to 6th level)
+tablesr/rus2026b                :  2026 (4th to 6th level)
+tablesr/ruschamp                :  list of champions
+tablesr/rushist                 :  list of final tables
+tablesr/ruscuphist              :  list of cup winners

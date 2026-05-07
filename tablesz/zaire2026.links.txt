@@ -1,0 +1,3 @@
+tablesz/zaire2025               :  2024/25
+tablesz/zairechamp              :  list of champions
+tablesz/zairecuphist            :  list of cup winners

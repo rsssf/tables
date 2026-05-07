@@ -1,0 +1,5 @@
+tabless/suri2025                :  2024/25
+tabless/surichamp               :  list of champions
+tabless/suri3champ              :  list of district tournaments champions
+tabless/suricuphist             :  list of (super) cup finals
+tabless/surifound               :  list of foundation dates

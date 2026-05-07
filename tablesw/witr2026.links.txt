@@ -1,0 +1,6 @@
+tablesw/witr2025                :  2025
+tablesw/witr2027                :  2027
+tablesw/witrchamp               :  list of champions
+tablesw/witrcuphist             :  list of cup winners
+tablesw/witrnewsupcuphist       :  list of super cup winners
+tablesw/witrtops                :  list of topscorers

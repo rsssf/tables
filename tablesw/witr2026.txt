@@ -2,7 +2,7 @@
      title:   Belarus 2026
      source:  https://rsssf.org/tablesw/witr2026.html
      author:  Theodore Dreiman
-     updated: 7 Apr 2026    
+     updated: 2 May 2026
     -->
 
 
@@ -16,26 +16,26 @@
 
 Table:
 
- 1.Dynáma (Minsk)              2   2  0  0   4- 1   6
- 2.BATE (Barýsaŭ)              2   1  1  0   3- 0   4
- 3.Íslač (Minsk District)      2   1  1  0   3- 1   4
- 4.FC Minsk                    2   1  1  0   3- 1   4
- 5.Arsienál (Dziaržýnsk)       2   1  1  0   3- 1   4
- 6.Nióman (Hródna)             2   1  1  0   2- 0   4
- 7.ML Víciebsk                 2   1  1  0   2- 1   4  [C]
- 8.Tarpiéda-BielAZ (Žódzina)   2   1  0  1   2- 1   3
- 9.Slávija (Mazýr)             2   1  0  1   2- 2   3
-10.BielŠýna (Babrújsk)         2   1  0  1   1- 2   3  [P]
-11.Dniapró (Mahilióŭ)          2   0  1  1   0- 1   1  [P]
-12.FC Hómieĺ                   2   0  1  1   1- 3   1
-13.FC Víciebsk                 2   0  1  1   1- 3   1
+ 1.Dynáma (Minsk)              5   4  1  0   9- 4  13
+ 2.ML Víciebsk                 5   3  2  0   8- 2  11  [C]
+ 3.Nióman (Hródna)             5   3  2  0   6- 1  11
+ 4.FC Hómieĺ                   5   3  1  1   8- 4  10
+ 5.Arsienál (Dziaržýnsk)       5   2  3  0   9- 5   9
+ 6.Íslač (Minsk District)      5   2  2  1   6- 4   8
+ 7.FC Víciebsk                 5   2  2  1   5- 4   8
+ 8.Dynáma (Brest)              5   2  1  2   4- 3   7
+ 9.FC Minsk                    5   2  1  2   4- 4   7
+10.Slávija (Mazýr)             5   1  2  2   4- 6   5      [1 0 0 1-0 3]
+11.Tarpiéda-BielAZ (Žódzina)   5   1  2  2   7- 7   5      [0 1 0 2-2 1]
+12.Dniapró (Mahilióŭ)          5   1  2  2   5- 6   5  [P] [0 1 1 2-3 1]
+13.BATE (Barýsaŭ)              5   1  1  3   4- 4   4
 - - - - - - - - - - - - - - - - - - - - - - - - - - -
-14.Naftán (Navapólack)         2   0  1  1   0- 2   1
+14.BielŠýna (Babrújsk)         5   1  0  4   2- 8   3  [P]
 -----------------------------------------------------
-15.Dynáma (Brest)              2   0  0  2   0- 3   0
-16.FC Baránavičy               2   0  0  2   0- 5   0  [P]
+15.Naftán (Navapólack)         5   0  2  3   2- 8   2
+16.FC Baránavičy               5   0  0  5   2-15   0  [P]
 
-Arsienál and Islač play home games in Minsk (40 km north-east of Dziaržynsk).
+Islač play home games in Minsk.
 
 Round 1 [Total Att: 13,570; Average: 1,696]
 [Mar 20]
@@ -61,7 +61,7 @@ Naftan       0-0  Dniapro
 Round 2 [Total Att: 20,001; Average: 2,500]
 [Apr 3]
 Arsienal     2-0  Naftan
-  [Iĺjá D. Vásin 20, 77. Att: 300. +13°C]
+  [Iĺjá D. Vásin 20, 77. Minsk. Att: 300. +13°C]
 Dynama Br    0-2  Tarpieda
   [Arcióm Býkaŭ 18; Daníla Žúĺpa 66. Att: 5,123. +9°C]
 [Apr 4]
@@ -79,66 +79,112 @@ BATE         3-0  Baranavicy
 Dniapro      0-1  Slavija
   [Uladzisláŭ Ihnácjeŭ (Dni) 55 og. Att: 4,150. +12°C]
 
+Round 3 [Total Att: 8,105; Average: 1,013]
+[Apr 9]
+Islac        0-1  Dynama Br
+  [Dzianís M. Kavaliévič 44. Att: 420. +2°C]
+[Apr 10]
+Minsk        0-1  Nioman
+  [Michaíl Hardziajčúk 85. Att: 450. +3°C]
+BielSyna     1-2  Dniapro
+  [Uladzisláŭ Salanóvič 90+3 pen - Ramán Piliécki 50; Jahór Karpícki 52. Att: 1,100. +6°C]
+Naftan       0-2  Homiel
+  [Cimafiéj Simaniénka 7, 69. Att: 270. +6°C]
+[Apr 11]
+Tarpieda     0-1  Dynama Mn
+  [Karén Vardanyán 51. Att: 1,205. +2°C, rain]
+FC Viciebsk  1-0  BATE
+  [Aliaxándr Anúfryjeŭ 11. Att: 740. +5°C, light rain]
+Slavija      1-1  Arsienal
+  [Jaŭhién Šaŭčénka 70 - Antón Lukašóŭ (Sla) 73 og. Missed PK:
+   Ciaréncij Lucévič (Sla) 66/held. Att: 1,350. +4°C, rain]
+Baranavicy   0-4  ML Viciebsk
+  [Valiéryj Hramýka 27; Arcióm A. Kancavý 61; Aleksandar Mesarović 86;
+   Mikíta Baranók 90. Att: 2,570. +6°C, light rain]
+
+Round 4 [Total Att: 23,801; Average: 2,975]
+[Apr 18]
+Nioman       3-1  Naftan
+  [Páviel Savícki 7; Dmítrij Radikóvskij 55; Andréj Jakímaŭ 85 - Alimhán Zajnívov 5. Att: 3,180]
+FC Viciebsk  2-0  Minsk
+  [Román Minájev 27; Jaŭhién Krasnóŭ 66. Att: 680]
+Dynama Br    3-0  Baranavicy
+  [Dzianís M. Kavaliévič 23; Uladzisláŭ Lóžkin 81, 90+1. Att: 5,513]
+[Apr 19]
+Dynama Mn    1-1  Islac
+  [Karén Vardanyán 11 - Jaŭhién Júdčyc 48. Att: 3,463]
+BATE         1-2  ML Viciebsk
+  [Jahór Rusakóŭ 30 - Valiéryj Hramýka 20; Valiéryj Bačaróŭ 81. Att: 3,235]
+Homiel       3-1  Slavija
+  [Cimafiéj Simaniénka 12, 47; Daniíl Silínski 30 - Ciaréncij Lucévič 15. Att: 4,500]
+[Apr 20]
+Arsienal     2-0  BielSyna
+  [Dzmítryj Anciliéŭski 28; Mark Mókin 69. Barýsaŭ. Att: 150]
+Dniapro      2-2  Tarpieda
+  [Kirýl Kiryliénka 19, 26 - Arcióm Býkaŭ 55, 68. Att: 3,080]
+
+Round 5 [Total Att: 13,487; Average: 1,686]
+[Apr 24]
+Slavija      0-0  Nioman
+  [Att: 1,520. +10°C]
+Minsk        1-0  BATE
+  [Iĺjá Dubiniéc 56 pen. Att: 653. +9°C]
+[Apr 25]
+ML Viciebsk  0-0  Dynama Br
+  [Att: 5,270. +12°C, light rain]
+Baranavicy   2-3  Dynama Mn
+  [Michaíl Kazakiévič (Dyn) 6 og; Márcin Arciúch 41 - Moustapha Djimet 51;
+   Ramán Biehunóŭ 55; Jaŭhién Malašévič 81. Att: 2,750. +15°C, rain]
+Naftan       1-1  FC Viciebsk
+  [Arcióm Drabatóvič 54 - Marin Žgomba 70. Att: 1,360. +12°C, rain]
+[Apr 26]
+Tarpieda     3-3  Arsienal
+  [Vadzím Kisialióŭ 70; Macviéj Michájryn 81; Great Agbo 88 -
+   Mark Mókin 10, 32; Iván Varab'jóŭ 52. Att: 604. +4°C, light snow]
+BielSyna     0-2  Homiel
+  [Cimafiéj Simaniénka 44; Dzmítryj Lisakóvič 85. Att: 950. +6°C]
+Islac        2-1  Dniapro
+  [Antón Šrámčanka 32; Jaŭhién Júdčyc 71 - Kirýl Kiryliénka 45 pen. Att: 380. +6°C, rain]
+
 Table:
 
- 1.Dynáma (Minsk)              2   2  0  0   4- 1   6
- 2.BATE (Barýsaŭ)              2   1  1  0   3- 0   4
- 3.Íslač (Minsk District)      2   1  1  0   3- 1   4
- 4.FC Minsk                    2   1  1  0   3- 1   4
- 5.Arsienál (Dziaržýnsk)       2   1  1  0   3- 1   4
- 6.Nióman (Hródna)             2   1  1  0   2- 0   4
- 7.ML Víciebsk                 2   1  1  0   2- 1   4  [C]
- 8.Tarpiéda-BielAZ (Žódzina)   2   1  0  1   2- 1   3
- 9.Slávija (Mazýr)             2   1  0  1   2- 2   3
-10.BielŠýna (Babrújsk)         2   1  0  1   1- 2   3  [P]
-11.Dniapró (Mahilióŭ)          2   0  1  1   0- 1   1  [P]
-12.FC Hómieĺ                   2   0  1  1   1- 3   1
-13.FC Víciebsk                 2   0  1  1   1- 3   1
+ 1.Dynáma (Minsk)              5   4  1  0   9- 4  13
+ 2.ML Víciebsk                 5   3  2  0   8- 2  11  [C]
+ 3.Nióman (Hródna)             5   3  2  0   6- 1  11
+ 4.FC Hómieĺ                   5   3  1  1   8- 4  10
+ 5.Arsienál (Dziaržýnsk)       5   2  3  0   9- 5   9
+ 6.Íslač (Minsk District)      5   2  2  1   6- 4   8
+ 7.FC Víciebsk                 5   2  2  1   5- 4   8
+ 8.Dynáma (Brest)              5   2  1  2   4- 3   7
+ 9.FC Minsk                    5   2  1  2   4- 4   7
+10.Slávija (Mazýr)             5   1  2  2   4- 6   5      [1 0 0 1-0 3]
+11.Tarpiéda-BielAZ (Žódzina)   5   1  2  2   7- 7   5      [0 1 0 2-2 1]
+12.Dniapró (Mahilióŭ)          5   1  2  2   5- 6   5  [P] [0 1 1 2-3 1]
+13.BATE (Barýsaŭ)              5   1  1  3   4- 4   4
 - - - - - - - - - - - - - - - - - - - - - - - - - - -
-14.Naftán (Navapólack)         2   0  1  1   0- 2   1
+14.BielŠýna (Babrújsk)         5   1  0  4   2- 8   3  [P]
 -----------------------------------------------------
-15.Dynáma (Brest)              2   0  0  2   0- 3   0
-16.FC Baránavičy               2   0  0  2   0- 5   0  [P]
+15.Naftán (Navapólack)         5   0  2  3   2- 8   2
+16.FC Baránavičy               5   0  0  5   2-15   0  [P]
 
-Arsienál and Islač play home games in Minsk (40 km north-east of Dziaržynsk).
+Islač play home games in Minsk.
 
 Top scorers:
 
-Güljigit ALIKULOV (Dynáma Mn)  2  [Kyrgyzstan]
-Iĺjá D. VÁSIN (Arsienál)       2  [Russia]
-
-Round 3
-[Apr 9-12]
-FC Viciebsk  -  BATE
-Minsk        -  Nioman
-Naftan       -  Homiel
-Slavija      -  Arsienal
-BielSyna     -  Dniapro
-Tarpieda     -  Dynama Mn
-Islac        -  Dynama Br
-Baranavicy   -  ML Viciebsk
-
-Round 4
-[Apr 18-20]
-BATE         -  ML Viciebsk
-Dynama Br    -  Baranavicy
-Dynama Mn    -  Islac
-Dniapro      -  Tarpieda
-Arsienal     -  BielSyna
-Homiel       -  Slavija
-Nioman       -  Naftan
-FC Viciebsk  -  Minsk
-
-Round 5
-[Apr 24-26]
-Minsk        -  BATE
-Naftan       -  FC Viciebsk
-Slavija      -  Nioman
-BielSyna     -  Homiel
-Tarpieda     -  Arsienal
-Islac        -  Dniapro
-Baranavicy   -  Dynama Mn
-ML Viciebsk  -  Dynama Br
+ 1.Cimafiéj SIMANIÉNKA (Hómieĺ)       5
+ 2.Mark MÓKIN (Arsienál)              4
+ 3.Arcióm BÝKAŬ (Tarpiéda-BielAZ)     3
+   Jaŭhién JÚDČYC (Íslač)             3
+   Kirýl KIRYLIÉNKA (Dniapró)         3
+   Karén VARDANYÁN (Dynáma Mn)        3
+ 7.Güljigit ALIKULOV (Dynáma Mn)      2  [Kyrgyzstan]
+   Valiéryj HRAMÝKA (ML Víciebsk)     2
+   Dzianís M. KAVALIÉVIČ (Dynáma Br)  2
+   Uladzisláŭ LÓŽKIN (Dynáma Br)      2
+   Román MINÁJEV (FC Víciebsk)        2  [Russia]
+   Jahór RUSAKÓŬ (BATE)               2
+   Páviel SAVÍCKI (Nióman)            2
+   Iĺjá D. VÁSIN (Arsienál)           2  [Russia]
 
 Round 6
 [May 1-3]
@@ -415,7 +461,7 @@ Minsk        -  Dniapro
 FC Viciebsk  -  Arsienal
 Nioman       -  Homiel
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 [Dec 2, 5]
 
@@ -569,7 +615,7 @@ ML VÍCIEBSK                8-1  FC Slónim-2017
   [Rafael Juninho 5, 51; Siarhiéj Balanóvič 7; Abú-Saíd Eĺdarúšev 31, 60, 65;
    Hlieb Žérdzieŭ 71; Daniíl Haliáta 74 - Artúr Staravójtaŭ 23. Att: 850. +4°C]
 
-Quarterfinals
+Quarterfinals [Total Att: 15,067; Average: 1,883]
 
 [Mar 7, 14]
 Íslač (Minsk District)     1-0 0-1  DYNÁMA (Minsk)         [agg 1-1, pen 4-5]
@@ -586,11 +632,700 @@ SLÁVIJA (Mazýr)            2-0 2-0  Arsienál (Dziaržýnsk)  [agg 4-0]
   [1. Andréj Salaviéj 15; Ciaréncij Lucévič 62. Kalínkavičy. Att: 1,950. +8°C]
   [2. Jaŭhién Šaŭčénka 57; Andréj Salaviéj 90. Minsk. Att: 500. +12°C]
 
-Semifinals [Apr 15, 29]
+Semifinals [Apr 15, 29. Total Att: 13,367; Average: 3,342]
 
-ML Víciebsk                 -   -   Dynáma (Minsk)
-Slávija (Mazýr)             -   -   BATE (Barýsaŭ)
+ML Víciebsk                0-2 0-1  DYNÁMA (Minsk)         [agg 0-3]
+  [1. Moustapha Djimet 71; Karén Vardanyán 81. Att: 4,850. +11°C]
+  [2. Karén Vardanyán 71. Att: 3,520. +4°C]
+Slávija (Mazýr)            0-1 0-2  BATE (Barýsaŭ)         [agg 0-3]
+  [1. Mikíta Nieskarómny 30. Att: 2,100. +12°C]
+  [2. Jahór Kres 65; Anatóĺ Jarmólič 70. Att: 2,897. +5°C]
 
-Final [May 16]
+Final [May 16, Minsk]
+
+Dynáma (Minsk)  -  BATE (Barýsaŭ)
+
+
+
+
+
+
+
+==== Pieršaja Liha 2026  ‹§pershaya›
+
+Table:
+
+ 1.FC Sluck-2024          4   4  0  0  11- 5  12  [R]
+ 2.FC Slónim-2017         4   3  1  0   6- 1  10
+------------------------------------------------
+ 3.SKA-1938 (Minsk)       4   2  2  0   7- 4   8  [P]
+- - - - - - - - - - - - - - - - - - - - - - - --
+ 4.FC Hómieĺ-2            4   2  1  1   4- 1   7
+ 5.PapierPrám (Hómieĺ)    4   2  1  1   8- 6   7
+ 6.Uni X Labs (Minsk)     4   2  1  1   6- 4   7
+ 7.FC Lída                4   2  1  1   6- 6   7
+ 8.FC Órša                4   2  1  1   5- 6   7
+ 9.FC Salihórsk           4   1  3  0   7- 2   6  [P]
+10.Dynáma-2 (Minsk)       4   2  0  2  10- 6   6
+11.FC Maladziéčna-2018    4   2  0  2   4- 7   6  [R]
+12.FC Astraviéc           4   1  2  1   5- 4   5
+13.FC Minsk-2             4   1  0  3   3- 9   3
+14.BATE-2 (Barýsaŭ)       4   0  2  2   3- 7   2      [1-1]
+15.FC Smarhóń             4   0  2  2   1- 6   2  [R] [1-1]
+16.Chvália (Pinsk)        4   0  1  3   2- 5   1
+------------------------------------------------
+17.Níva (Dóŭbizna)        4   0  1  3   5- 9   1
+18.FC Asipóvičy           4   0  1  3   5-10   1
+
+BFF Academy U-19 and Lakamatyŭ (Hómieĺ) were disbanded.
+Enierhiétyk-BDU (Minsk) changed name to SKA-1938.
+BATE-2 play home games in Minsk (73 km south-west of Barýsaŭ).
+FC Maladziéčna-2018 play home games in Čysć (21 km east of Maladziéčna).
+
+Round 1 [Total Att: 4,375; Average: 486]
+[Apr 3]
+Lida         2-1  Dynama-2 Mn
+  [Aliaxiej Čarnadaraŭ 63; Ihar Tymaniuk 68 - Arciom Vaskabojnikaŭ 35. Att: 900]
+[Apr 4]
+Smarhon      0-3  Uni X Labs
+  [Jahor Siamionaŭ 17; Kirill Jelagin (Sma) 42 og; Jaroslav Hramcevič 80. Att: 600]
+Sluck-2024   2-1  Niva
+  [Uladzislaŭ Syčoŭ 24; Uladzislaŭ Fiadosaŭ 70 - Dzmitryj Fiedarcoŭ 89 pen. Att: 900]
+Chvalia      0-1  Maladziecna
+  [Yassine Bara 54. Missed PK: Maxim Hračycha (Chv) 51/wide. Att: 480]
+PapierPram   3-0  BATE-2
+  [Valieryj Pataroča 23, 88; Iĺja Udodaŭ 33. Att: 400]
+Asipovicy    1-1  Astraviec
+  [Stanislaŭ Lamaka 50 - Kiryl Hančaryk 54. Att: 200]
+SKA-1938     0-0  Salihorsk
+  [Att: 815]
+[Apr 6]
+Minsk-2      0-2  Slonim-2017
+  [Pavel Alenčev 45; Viačaslaŭ Papava 47. Att: 45]
+Homiel-2     0-1  Orsa
+  [Maxim Paškievič 90. Att: 35]
+
+Round 2 [Total Att: 2,789; Average: 310]
+[Apr 10]
+Dynama-2 Mn  2-0  Asipovicy
+  [Uladzislaŭ Biejnia 17; Siarhiej Žyvuška 87. Att: 50]
+BATE-2       1-1  Smarhon
+  [Platon Kalasoŭski 76 - Vladislav Myzgin 48. Att: 200]
+[Apr 11]
+PapierPram   0-0  Slonim-2017
+  [Att: 85]
+Uni X Labs   1-0  Chvalia
+  [Jaroslav Hramcevič 65. Att: 125]
+Sluck-2024   3-1  Lida
+  [Arciom Tolkin 35; Andrej Škondzin 49; Uladzislaŭ Čabatar 84 - Raman Hryboŭski 81.
+   Missed PK: Uladzislaŭ Fiadosaŭ (Slu) 54/held. Att: 984]
+Maladziecna  3-0  Orsa
+  [Macviej Sakaloŭski 10; Artur Sagitov 41, 49. Att: 275]
+Astraviec    1-2  Minsk-2
+  [Daniil Cyk 78 - Uladzislaŭ Maliucin 50; Zachar Dračoŭ 87. Att: 500]
+SKA-1938     3-1  Niva
+  [Danila Čuĺ 8; Miron Karyćka 28 pen; Ali Kartojev 75 - Mikalaj Liaškievič 79.
+   Missed PK: Dzmitryj Fiedarcoŭ (Niv) 6/held. Att: 250]
+Salihorsk    0-0  Homiel-2
+  [Att: 320]
+
+Round 3 [Total Att: 3,474; Average: 386]
+[Apr 18]
+Orsa         2-2  Uni X Labs
+  [Vitalij Šalyčev 40; Mikita Tarbiakoŭ 90+4 - Arol Nguintsop 71, 83. Att: 920]
+Asipovicy    2-4  Sluck-2024
+  [Arciom Zimin 54, 78 pen - Andrej Škondzin 33; Arciom Tolkin 49;
+   Vadzim Kurlovič 59; Uladzislaŭ Čabatar 61. Att: 250]
+PapierPram   1-3  Astraviec
+  [Hlieb Viaršynin 81 - Mikita Jakimovič 38; Ivan Mokšin 63; Maxim Bojčenko 68 pen. Att: 150]
+Lida         1-1  SKA-1938
+  [Aliaxiej Čarnadaraŭ 36 - Miron Karyćka 90+3. Att: 290]
+Smarhon      0-2  Slonim-2017
+  [Pavel Alenčev 49; Roman Mušulov 90+1. Att: 700]
+Chvalia      1-1  BATE-2
+  [Dzmitryj Maciaš 19 - Valieryj Kisieĺ 29. Att: 354]
+[Apr 19]
+Niva         2-2  Salihorsk
+  [Paviel Pampucha 4; Dzmitryj Fiedarcoŭ 51 - Arciom Kurbačoŭ 22; Iĺja Sień 79.
+   Missed PK: Paviel Pampucha (Niv) 70/held. Brest. Att: 520]
+[Apr 20]
+Homiel-2     2-0  Maladziecna
+  [Arsienij Ačapoŭski 42; Aliaxandr D. Savicki 78. Att: 200]
+Minsk-2      0-4  Dynama-2 Mn
+  [Andrej Luckovič 33 pen; Kiryl Kaplienka 62; Jaŭhien Kindruk (Min) 64 og;
+   Mikita Citoŭ 86. Missed PK: Kiryl Kaplienka (Dyn) 62/held. Att: 90]
+
+Round 4 [Total Att: 2,666; Average: 296]
+[Apr 24]
+Uni X Labs   0-2  Homiel-2
+  [Dzmitryj Jemiaĺjanaŭ 15; Aliaxandr D. Savicki 72. Att: 57]
+Astraviec    0-0  Smarhon
+  [Att: 610]
+[Apr 25]
+Dynama-2 Mn  3-4  PapierPram
+  [Hlieb Drozd 39; Andrej Luckovič 55, 56 - Kiryl Sidarenka 25;
+   Valieryj Pataroča 45; Iĺja Udodaŭ 67; Ivan Hrudźko 82. Att: 250]
+BATE-2       1-2  Orsa
+  [Aliaxiej Apanasievič 67 - Ivan Ahiejeŭ 17; Mikita Tarbiakoŭ 21. Att: 125]
+[Apr 26]
+Sluck-2024   2-1  Minsk-2
+  [Andrej Škondzin 61; Iĺja Cišuraŭ 90+4 - Prochar Šaramiet 15. Att: 917]
+Chvalia      1-2  Slonim-2017
+  [Jahor Nikiparonak 43 - Viačaslaŭ Papava 30; Radij Jamlihanov 81. Att: 250]
+Salihorsk    5-0  Maladziecna
+  [Iĺja Sień 14; Arciom Kurbačoŭ 21, 34; Uladzislaŭ Karolik 87;
+   Macviej Sakaloŭski (Mal) 89 og. Att: 250]
+SKA-1938     3-2  Asipovicy
+  [Danila Čuĺ 9; Viačaslaŭ Pryhodzič 48; Alexej Slivin 59 -
+   Dzmitryj P. Dzienisienka 4; Maxim Jaskievič (SKA) 16 og. Att: 100]
+Niva         1-2  Lida
+  [Dzmitryj Fiedarcoŭ 80 - Ivan Kancavy 59; Aliaxiej Čarnadaraŭ 88. Att: 107]
+
+Table:
+
+ 1.FC Sluck-2024          4   4  0  0  11- 5  12  [R]
+ 2.FC Slónim-2017         4   3  1  0   6- 1  10
+------------------------------------------------
+ 3.SKA-1938 (Minsk)       4   2  2  0   7- 4   8  [P]
+- - - - - - - - - - - - - - - - - - - - - - - --
+ 4.FC Hómieĺ-2            4   2  1  1   4- 1   7
+ 5.PapierPrám (Hómieĺ)    4   2  1  1   8- 6   7
+ 6.Uni X Labs (Minsk)     4   2  1  1   6- 4   7
+ 7.FC Lída                4   2  1  1   6- 6   7
+ 8.FC Órša                4   2  1  1   5- 6   7
+ 9.FC Salihórsk           4   1  3  0   7- 2   6  [P]
+10.Dynáma-2 (Minsk)       4   2  0  2  10- 6   6
+11.FC Maladziéčna-2018    4   2  0  2   4- 7   6  [R]
+12.FC Astraviéc           4   1  2  1   5- 4   5
+13.FC Minsk-2             4   1  0  3   3- 9   3
+14.BATE-2 (Barýsaŭ)       4   0  2  2   3- 7   2      [1-1]
+15.FC Smarhóń             4   0  2  2   1- 6   2  [R] [1-1]
+16.Chvália (Pinsk)        4   0  1  3   2- 5   1
+------------------------------------------------
+17.Níva (Dóŭbizna)        4   0  1  3   5- 9   1
+18.FC Asipóvičy           4   0  1  3   5-10   1
+
+BFF Academy U-19 and Lakamatyŭ (Hómieĺ) were disbanded.
+Enierhiétyk-BDU (Minsk) changed name to SKA-1938.
+BATE-2 play home games in Minsk (73 km south-west of Barýsaŭ).
+FC Maladziéčna-2018 play home games in Čysć (21 km east of Maladziéčna).
+
+Top scorers:
+
+Aliaxiéj Čarnadáraŭ (Lída)      3
+Dzmítryj Fiedarcóŭ (Níva)       3
+Arcióm Kurbačóŭ (Salihórsk)     3
+Andréj Luckóvič (Dynáma-2 Mn)   3
+Valiéryj Pataróča (PapierPrám)  3
+Andréj Škóndzin (Sluck-2024)    3
+
+Round 5
+[May 1-3]
+Lida         -  Salihorsk
+Asipovicy    -  Niva
+Minsk-2      -  SKA-1938
+PapierPram   -  Sluck-2024
+Smarhon      -  Dynama-2 Mn
+Chvalia      -  Astraviec
+Orsa         -  Slonim-2017
+Homiel-2     -  BATE-2
+Maladziecna  -  Uni X Labs
+
+Round 6
+[May 8-10]
+Salihorsk    -  Uni X Labs
+BATE-2       -  Maladziecna
+Slonim-2017  -  Homiel-2
+Astraviec    -  Orsa
+Dynama-2 Mn  -  Chvalia
+Sluck-2024   -  Smarhon
+SKA-1938     -  PapierPram
+Niva         -  Minsk-2
+Lida         -  Asipovicy
+
+Round 7
+[May 15-17]
+Asipovicy    -  Salihorsk
+Minsk-2      -  Lida
+PapierPram   -  Niva
+Smarhon      -  SKA-1938
+Chvalia      -  Sluck-2024
+Orsa         -  Dynama-2 Mn
+Homiel-2     -  Astraviec
+Maladziecna  -  Slonim-2017
+Uni X Labs   -  BATE-2
+
+Round 8
+[May 22-25]
+Salihorsk    -  BATE-2
+Slonim-2017  -  Uni X Labs
+Astraviec    -  Maladziecna
+Dynama-2 Mn  -  Homiel-2
+Sluck-2024   -  Orsa
+SKA-1938     -  Chvalia
+Niva         -  Smarhon
+Lida         -  PapierPram
+Asipovicy    -  Minsk-2
+
+Round 9
+[May 29 - Jun 1]
+Minsk-2      -  Salihorsk
+PapierPram   -  Asipovicy
+Smarhon      -  Lida
+Chvalia      -  Niva
+Orsa         -  SKA-1938
+Homiel-2     -  Sluck-2024
+Maladziecna  -  Dynama-2 Mn
+Uni X Labs   -  Astraviec
+BATE-2       -  Slonim-2017
+
+Round 10
+[Jun 5-7]
+Salihorsk    -  Slonim-2017
+Astraviec    -  BATE-2
+Dynama-2 Mn  -  Uni X Labs
+Sluck-2024   -  Maladziecna
+SKA-1938     -  Homiel-2
+Niva         -  Orsa
+Lida         -  Chvalia
+Asipovicy    -  Smarhon
+Minsk-2      -  PapierPram
+
+Round 11
+[Jun 12-14]
+PapierPram   -  Salihorsk
+Smarhon      -  Minsk-2
+Chvalia      -  Asipovicy
+Orsa         -  Lida
+Homiel-2     -  Niva
+Maladziecna  -  SKA-1938
+Uni X Labs   -  Sluck-2024
+BATE-2       -  Dynama-2 Mn
+Slonim-2017  -  Astraviec
+
+Round 12
+[Jun 19-21]
+Salihorsk    -  Astraviec
+Dynama-2 Mn  -  Slonim-2017
+Sluck-2024   -  BATE-2
+SKA-1938     -  Uni X Labs
+Niva         -  Maladziecna
+Lida         -  Homiel-2
+Asipovicy    -  Orsa
+Minsk-2      -  Chvalia
+PapierPram   -  Smarhon
+
+Round 13
+[Jun 26-28]
+Smarhon      -  Salihorsk
+Chvalia      -  PapierPram
+Orsa         -  Minsk-2
+Homiel-2     -  Asipovicy
+Maladziecna  -  Lida
+Uni X Labs   -  Niva
+BATE-2       -  SKA-1938
+Slonim-2017  -  Sluck-2024
+Astraviec    -  Dynama-2 Mn
+
+Round 14
+[Jul 3-5]
+Salihorsk    -  Dynama-2 Mn
+Sluck-2024   -  Astraviec
+SKA-1938     -  Slonim-2017
+Niva         -  BATE-2
+Lida         -  Uni X Labs
+Asipovicy    -  Maladziecna
+Minsk-2      -  Homiel-2
+PapierPram   -  Orsa
+Smarhon      -  Chvalia
+
+Round 15
+[Jul 10-12]
+Chvalia      -  Salihorsk
+Orsa         -  Smarhon
+Homiel-2     -  PapierPram
+Maladziecna  -  Minsk-2
+Uni X Labs   -  Asipovicy
+BATE-2       -  Lida
+Slonim-2017  -  Niva
+Astraviec    -  SKA-1938
+Dynama-2 Mn  -  Sluck-2024
+
+Round 16
+[Jul 24-26]
+Salihorsk    -  Sluck-2024
+SKA-1938     -  Dynama-2 Mn
+Niva         -  Astraviec
+Lida         -  Slonim-2017
+Asipovicy    -  BATE-2
+Minsk-2      -  Uni X Labs
+PapierPram   -  Maladziecna
+Smarhon      -  Homiel-2
+Chvalia      -  Orsa
+
+Round 17
+[Jul 31 - Aug 2]
+Orsa         -  Salihorsk
+Homiel-2     -  Chvalia
+Maladziecna  -  Smarhon
+Uni X Labs   -  PapierPram
+BATE-2       -  Minsk-2
+Slonim-2017  -  Asipovicy
+Astraviec    -  Lida
+Dynama-2 Mn  -  Niva
+Sluck-2024   -  SKA-1938
+
+Round 18
+[Aug 5-6]
+Salihorsk    -  SKA-1938
+Sluck-2024   -  Niva
+Dynama-2 Mn  -  Lida
+Astraviec    -  Asipovicy
+Slonim-2017  -  Minsk-2
+BATE-2       -  PapierPram
+Uni X Labs   -  Smarhon
+Maladziecna  -  Chvalia
+Homiel-2     -  Orsa
+
+Round 19
+[Aug 9-10]
+Homiel-2     -  Salihorsk
+Orsa         -  Maladziecna
+Chvalia      -  Uni X Labs
+Smarhon      -  BATE-2
+PapierPram   -  Slonim-2017
+Minsk-2      -  Astraviec
+Asipovicy    -  Dynama-2 Mn
+Lida         -  Sluck-2024
+Niva         -  SKA-1938
+
+Round 20
+[Aug 14-16]
+Salihorsk    -  Niva
+SKA-1938     -  Lida
+Sluck-2024   -  Asipovicy
+Dynama-2 Mn  -  Minsk-2
+Astraviec    -  PapierPram
+Slonim-2017  -  Smarhon
+BATE-2       -  Chvalia
+Uni X Labs   -  Orsa
+Maladziecna  -  Homiel-2
+
+Round 21
+[Aug 21-23]
+Maladziecna  -  Salihorsk
+Homiel-2     -  Uni X Labs
+Orsa         -  BATE-2
+Chvalia      -  Slonim-2017
+Smarhon      -  Astraviec
+PapierPram   -  Dynama-2 Mn
+Minsk-2      -  Sluck-2024
+Asipovicy    -  SKA-1938
+Lida         -  Niva
+
+Round 22
+[Aug 28-30]
+Salihorsk    -  Lida
+Niva         -  Asipovicy
+SKA-1938     -  Minsk-2
+Sluck-2024   -  PapierPram
+Dynama-2 Mn  -  Smarhon
+Astraviec    -  Chvalia
+Slonim-2017  -  Orsa
+BATE-2       -  Homiel-2
+Uni X Labs   -  Maladziecna
+
+Round 23
+[Sep 4-6]
+Uni X Labs   -  Salihorsk
+Maladziecna  -  BATE-2
+Homiel-2     -  Slonim-2017
+Orsa         -  Astraviec
+Chvalia      -  Dynama-2 Mn
+Smarhon      -  Sluck-2024
+PapierPram   -  SKA-1938
+Minsk-2      -  Niva
+Asipovicy    -  Lida
+
+Round 24
+[Sep 11-13]
+Salihorsk    -  Asipovicy
+Lida         -  Minsk-2
+Niva         -  PapierPram
+SKA-1938     -  Smarhon
+Sluck-2024   -  Chvalia
+Dynama-2 Mn  -  Orsa
+Astraviec    -  Homiel-2
+Slonim-2017  -  Maladziecna
+BATE-2       -  Uni X Labs
+
+Round 25
+[Sep 18-20]
+BATE-2       -  Salihorsk
+Uni X Labs   -  Slonim-2017
+Maladziecna  -  Astraviec
+Homiel-2     -  Dynama-2 Mn
+Orsa         -  Sluck-2024
+Chvalia      -  SKA-1938
+Smarhon      -  Niva
+PapierPram   -  Lida
+Minsk-2      -  Asipovicy
+
+Round 26
+[Sep 25-27]
+Salihorsk    -  Minsk-2
+Asipovicy    -  PapierPram
+Lida         -  Smarhon
+Niva         -  Chvalia
+SKA-1938     -  Orsa
+Sluck-2024   -  Homiel-2
+Dynama-2 Mn  -  Maladziecna
+Astraviec    -  Uni X Labs
+Slonim-2017  -  BATE-2
+
+Round 27
+[Oct 2-4]
+Slonim-2017  -  Salihorsk
+BATE-2       -  Astraviec
+Uni X Labs   -  Dynama-2 Mn
+Maladziecna  -  Sluck-2024
+Homiel-2     -  SKA-1938
+Orsa         -  Niva
+Chvalia      -  Lida
+Smarhon      -  Asipovicy
+PapierPram   -  Minsk-2
+
+Round 28
+[Oct 9-11]
+Salihorsk    -  PapierPram
+Minsk-2      -  Smarhon
+Asipovicy    -  Chvalia
+Lida         -  Orsa
+Niva         -  Homiel-2
+SKA-1938     -  Maladziecna
+Sluck-2024   -  Uni X Labs
+Dynama-2 Mn  -  BATE-2
+Astraviec    -  Slonim-2017
+
+Round 29
+[Oct 16-18]
+Astraviec    -  Salihorsk
+Slonim-2017  -  Dynama-2 Mn
+BATE-2       -  Sluck-2024
+Uni X Labs   -  SKA-1938
+Maladziecna  -  Niva
+Homiel-2     -  Lida
+Orsa         -  Asipovicy
+Chvalia      -  Minsk-2
+Smarhon      -  PapierPram
+
+Round 30
+[Oct 23-25]
+Salihorsk    -  Smarhon
+PapierPram   -  Chvalia
+Minsk-2      -  Orsa
+Asipovicy    -  Homiel-2
+Lida         -  Maladziecna
+Niva         -  Uni X Labs
+SKA-1938     -  BATE-2
+Sluck-2024   -  Slonim-2017
+Dynama-2 Mn  -  Astraviec
+
+Round 31
+[Oct 30 - Nov 1]
+Dynama-2 Mn  -  Salihorsk
+Astraviec    -  Sluck-2024
+Slonim-2017  -  SKA-1938
+BATE-2       -  Niva
+Uni X Labs   -  Lida
+Maladziecna  -  Asipovicy
+Homiel-2     -  Minsk-2
+Orsa         -  PapierPram
+Chvalia      -  Smarhon
+
+Round 32
+[Nov 6-8]
+Salihorsk    -  Chvalia
+Smarhon      -  Orsa
+PapierPram   -  Homiel-2
+Minsk-2      -  Maladziecna
+Asipovicy    -  Uni X Labs
+Lida         -  BATE-2
+Niva         -  Slonim-2017
+SKA-1938     -  Astraviec
+Sluck-2024   -  Dynama-2 Mn
+
+Round 33
+[Nov 13-15]
+Sluck-2024   -  Salihorsk
+Dynama-2 Mn  -  SKA-1938
+Astraviec    -  Niva
+Slonim-2017  -  Lida
+BATE-2       -  Asipovicy
+Uni X Labs   -  Minsk-2
+Maladziecna  -  PapierPram
+Homiel-2     -  Smarhon
+Orsa         -  Chvalia
+
+Round 34
+[Nov 20-22]
+Salihorsk    -  Orsa
+Chvalia      -  Homiel-2
+Smarhon      -  Maladziecna
+PapierPram   -  Uni X Labs
+Minsk-2      -  BATE-2
+Asipovicy    -  Slonim-2017
+Lida         -  Astraviec
+Niva         -  Dynama-2 Mn
+SKA-1938     -  Sluck-2024
+
+
+
+
+
+
+==== Druhaja Liha 2026  ‹§druhaya›
+
+REGIONAL STAGE
+
+Bresckaja Voblasć (Brest Region)
+
+Supreme League
+
+Round 1
+[Apr 18]
+Nadzieja       -  Ivacevicy
+[Apr 19]
+Kamunalnik     -  Stanles
+Ahra-Pielisca  -  DJSS Stolin
+[ppd]
+Krecat         -  Mikasevicy
+
+Table:
+
+1.Stánles (Pinsk)             0   0  0  0   0- 0   0  [C]
+2.FC Áhra-Pielíšča            0   0  0  0   0- 0   0
+3.Kréčat (Biaróza)            0   0  0  0   0- 0   0
+4.Nadziéja (Haradzíšča)       0   0  0  0   0- 0   0
+5.FC Ivacévičy                0   0  0  0   0- 0   0
+6.Kamunáĺnik (Bielaaziórsk)   0   0  0  0   0- 0   0
+7.FC Mikašévičy               0   0  0  0   0- 0   0
+----------------------------------------------------
+8.DJSŠ Stólin                 0   0  0  0   0- 0   0  [P]
+
+
+Hrodzienskaja Voblasć (Hrodna Region)
+
+Class A
+
+Round 1
+[Apr 18]
+Fakiel       -  Miadzviedzi
+Scucyn       -  Svislac
+Zmiena       -  Slonim-2
+[Apr 19]
+Lida-2       -  Masty
+[ppd]
+Nioman-BelC  -  Hrodzienski
+
+Table:
+
+ 1.FSC Mastý                    0   0  0  0   0- 0   0  [C]
+ 2.FSC Ščúčyn                   0   0  0  0   0- 0   0
+ 3.Zmiéna (Vaŭkavýsk)           0   0  0  0   0- 0   0
+ 4.Nióman-BelCard (Hródna)      0   0  0  0   0- 0   0
+ 5.FC Lída-2                    0   0  0  0   0- 0   0
+ 6.FC Svíslač                   0   0  0  0   0- 0   0
+- - - - - - - - - - - - - - - - - - - - - - - - - - --
+ 7.Fákiel (Navahrúdak)          0   0  0  0   0- 0   0
+ 8.FSC Hródzienski (Skídzieĺ)   0   0  0  0   0- 0   0  [P]
+------------------------------------------------------
+ 9.FC Slónim-2                  0   0  0  0   0- 0   0  [P]
+10.Miadzviédzi (Smarhóń)        0   0  0  0   0- 0   0  [N]
+
+Class B
+
+Round 1
+[Apr 19]
+Asmiany       -  Iuje
+Voranava      -  Buraviesnik
+Astraviec-2   -  Bierastavica
+[ppd]
+Cajka         -  Dziatlava
+
+Table:
+
+1.FC Ašmiány               0   0  0  0   0- 0   0  [R]
+2.FC Dziátlava             0   0  0  0   0- 0   0  [R]
+-------------------------------------------------
+3.FC Íŭje                  0   0  0  0   0- 0   0
+4.FC Vóranava              0   0  0  0   0- 0   0
+- - - - - - - - - - - - - - - - - - - - - - - - -
+5.FC Bierastavíca          0   0  0  0   0- 0   0
+6.Buraviésnik (Karéličy)   0   0  0  0   0- 0   0
+7.Čájka (Zéĺva)            0   0  0  0   0- 0   0
+8.FC Astraviéc-2           0   0  0  0   0- 0   0
+
+Hrodna Region Super Cup
+
+[Apr 11]
+FSC Mastý  3-2  FSC Ščúčyn
+
+
+Mahilioŭskaja Voblasć (Mahilioŭ Region)
+
+Division 1
+
+Round 1 [Apr 26]
+Druc        -  Zara
+Servolux A  -  Niva
+
+Table:
+
+1.FC Hórki                      0   0  0  0   0- 0   0
+2.Druć (Bialýničy)              0   0  0  0   0- 0   0
+3.Servolux Agro (Miažýsietki)   0   0  0  0   0- 0   0
+4.Zará (Krúhlaje)               0   0  0  0   0- 0   0
+5.Níva (Čávusy)                 0   0  0  0   0- 0   0
+
+
+Reserve Teams of Vyšejšaja Liha Clubs
+
+Round 2
+[Apr 10]
+Baranavicy   1-1  Nioman
+Dynama Br    1-1  Arsienal
+[Apr 11]
+Tarpieda-Bi  5-1  ML Viciebsk
+Islac        2-0  Naftan
+[Apr 13]
+BielSyna     0-10 FC Viciebsk
+Dniapro      4-0  Slavija
+
+Round 3
+[Apr 17]
+Nioman       -  Islac
+[Apr 19]
+FC Viciebsk  -  Dniapro
+Slavija      -  Tarpieda-Bi
+Arsienal     -  BielSyna
+Naftan       -  Dynama Br
+[Apr 20]
+ML Viciebsk  -  Baranavicy
+
+Table:
+
+ 1.FC Víciebsk                 2   2  0  0  12- 1   6  [C]
+ 2.Nióman (Hródna)             2   1  1  0   3- 1   4
+ 3.Íslač (Minsk District)      2   1  1  0   3- 1   4
+ 4.FC Baránavičy               2   1  1  0   2- 1   4
+ 5.Dniapró (Mahilióŭ)          2   1  0  1   5- 2   3
+ 6.Tarpiéda-BielAZ (Žódzina)   2   1  0  1   5- 2   3
+ 7.ML Víciebsk                 2   1  0  1   3- 6   3
+ 8.Slávija (Mazýr)             2   1  0  1   1- 4   3
+ 9.Arsienál (Dziaržýnsk)       2   0  2  0   2- 2   2
+10.Dynáma (Brest)              2   0  1  1   2- 3   1
+11.Naftán (Navapólack)         2   0  0  2   0- 4   0
+12.BielŠýna (Babrújsk)         2   0  0  2   0-11   0
 
 

@@ -1,0 +1,4 @@
+tablesa/azer2025                :  2024/25
+tablesa/azerchamp               :  list of champions
+tablesa/azercuphist             :  list of cup winners
+tablesa/azersupcuphist          :  list of super cup winners

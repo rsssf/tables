@@ -1,0 +1,3 @@
+tablesz/zimb2025                :  2025
+tablesz/zimbchamp               :  list of champions
+tablesz/zimbcuphist             :  list of cup winners

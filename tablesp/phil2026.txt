@@ -2,7 +2,7 @@
      title:   Philippines 2025/26
      source:  https://rsssf.org/tablesp/phil2026.html
      author:  Eli Victorio
-     updated: 9 Apr 2026    
+     updated: 7 May 2026
     -->
 
 
@@ -16,24 +16,24 @@
 
 NB: Loyola and Philippine Youth National Team do not enter this seasons
 
-‹Regular Stage, see §reg› | ‹Final Series, see §chpo›
+‹Regular Stage, see §reg› | ‹Final Series, see §chpo› | ‹Classification Group, see §relpo›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
-Table:
+Final Table:
 
- 1.One Taguig (Taguig)                     16  15  0  1  75- 3  45       ‹Qualified, see §chpo›
- 2.Manila Digger (Taguig)                  16  13  3  0  85-12  42       ‹Qualified, see §chpo›
- 3.Dynamic Herb Cebu (Cebu)                17  13  2  2  68-12  41       ‹Qualified, see §chpo›
- 4.Kaya-Iloilo (Iloilo)                    18  12  2  4  64-11  38  [C]  ‹Qualified, see §chpo›
- 5.Stallion Laguna (Laguna)                17   9  4  4  55-15  31
- 6.Aguilas-UMak                            18   9  2  7  42-23  29  [*1]
+ 1.Manila Digger (Taguig)                  20  17  3  0 103-13  54       ‹Qualified, see §chpo›
+ 2.One Taguig (Taguig)                     20  17  1  2  84- 9  52       ‹Qualified, see §chpo›
+ 3.Dynamic Herb Cebu (Cebu)                20  13  3  4  70-21  42       ‹Qualified, see §chpo›
+ 4.Kaya-Iloilo (Iloilo)                    20  13  2  5  68-13  41  [C]  ‹Qualified, see §chpo›
+ 5.Stallion Laguna (Laguna)                20   9  6  5  58-22  33       ‹Qualified, see §chpo›
+ 6.Aguilas-UMak                            20  10  2  8  45-28  32  [*1] ‹Qualified, see §chpo›
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Maharlika                               18   8  2  8  35-29  26  [*2]
- 8.Tuloy (Muntinlupa)                      18   3  2 13  26-108 11  [N]
- 9.Don Bosco Garelli United                18   3  0 15  20-72   9  [N]
-10.Valenzuela PB-Mendiola (Valenzuela)     18   1  1 16   9-94   4  [*3]
-11.Philippine Army                         18   0  2 16  11-111  2  [N]
+ 7.Maharlika                               20   9  2  9  43-35  29  [*2] ‹Classification Group, see §relpo›
+ 8.Don Bosco Garelli United                20   5  0 15  32-74  15  [N]  ‹Classification Group, see §relpo›
+ 9.Tuloy (Muntinlupa)                      20   3  2 15  27-119 11  [N]  ‹Classification Group, see §relpo›
+10.Valenzuela PB-Mendiola (Valenzuela)     20   2  1 17  13-99   7  [*3] ‹Classification Group, see §relpo›
+11.Philippine Army                         20   0  2 18  14-124  2  [N]  ‹Classification Group, see §relpo›
 
 [*1] Davao Aguilas were renamed Aguilas-UMak
 [*2] Maharlika Taguig were renamed Maharlika
@@ -147,8 +147,8 @@ Valenzuela PB-Mendiola   0-3 Tuloy
 Maharlika                0-2 Kaya-Iloilo
 Aguilas-UMak             0-0 Manila Digger
 [Apr 25, Rizal Memorial Stadium, Manila City]
-Don Bosco Garelli United  -  Philippine Army
-Stallion Laguna           -  One Taguig
+Don Bosco Garelli United 9-1 Philippine Army
+Stallion Laguna          1-1 One Taguig
 Dynamic Herb Cebu        bye
 
 Round 12
@@ -203,7 +203,7 @@ Philippine Army          1-1 Maharlika
 Tuloy                    2-7 Aguilas-UMak
 Kaya-Iloilo              1-1 Stallion Laguna
 [Apr 25, Dynamic Herb-Borromeo Sports Complex, Talisay, Cebu]
-Dynamic Herb Cebu         -  Manila Digger
+Dynamic Herb Cebu        0-4 Manila Digger
 One Taguig               bye
 
 Round 17
@@ -238,7 +238,7 @@ Dynamic Herb Cebu        1-1 Kaya-Iloilo
 [Mar 21, Rizal Memorial Stadium, Manila City]
 Stallion Laguna         12-1 Tuloy
 [Apr 29, Rizal Memorial Stadium, Manila City]
-One Taguig                -  Manila Digger
+One Taguig               0-3 Manila Digger
 Valenzuela PB-Mendiola   bye
 
 Round 20
@@ -255,47 +255,140 @@ Kaya-Iloilo              bye
 
 Round 21
 [Apr 11, Dynamic Herb-Borromeo Sports Complex, Talisay, Cebu]
-Dynamic Herb Cebu         -  One Taguig
+Dynamic Herb Cebu        1-4 One Taguig
 [Apr 12, Rizal Memorial Stadium, Manila City]
-Maharlika                 -  Tuloy
-Stallion Laguna           -  Manila Digger
-Aguilas-UMak              -  Kaya-Iloilo
+Maharlika                8-0 Tuloy
+Aguilas-UMak             2-1 Kaya-Iloilo
 [Apr 29, Rizal Memorial Stadium, Manila City]
-Valenzuela PB-Mendiola    -  Philippine Army
+Valenzuela PB-Mendiola   4-2 Philippine Army
+[May 2, Rizal Memorial Stadium, Manila City]
+Stallion Laguna          1-5 Manila Digger
 Don Bosco Garelli United bye
 
 Round 22
 [Apr 18, Rizal Memorial Stadium, Manila City]
-Don Bosco Garelli United  -  Tuloy
-Aguilas-UMak              -  One Taguig
+Don Bosco Garelli United 3-1 Tuloy
+Aguilas-UMak             1-4 One Taguig
 [Apr 19, Rizal Memorial Stadium, Manila City]
-Valenzuela PB-Mendiola    -  Kaya-Iloilo
-Maharlika                 -  Manila Digger
+Valenzuela PB-Mendiola   0-3 Kaya-Iloilo
+Maharlika                0-6 Manila Digger
 [Apr 19, Dynamic Herb-Borromeo Sports Complex, Talisay, Cebu]
-Dynamic Herb Cebu         -  Stallion Laguna
+Dynamic Herb Cebu        1-1 Stallion Laguna
 Philippine Army          bye
 
-Table:
+Final Table:
 
- 1.One Taguig (Taguig)                     16  15  0  1  75- 3  45       ‹Qualified, see §chpo›
- 2.Manila Digger (Taguig)                  16  13  3  0  85-12  42       ‹Qualified, see §chpo›
- 3.Dynamic Herb Cebu (Cebu)                17  13  2  2  68-12  41       ‹Qualified, see §chpo›
- 4.Kaya-Iloilo (Iloilo)                    18  12  2  4  64-11  38  [C]  ‹Qualified, see §chpo›
- 5.Stallion Laguna (Laguna)                17   9  4  4  55-15  31
- 6.Aguilas-UMak                            18   9  2  7  42-23  29  [*1]
+ 1.Manila Digger (Taguig)                  20  17  3  0 103-13  54       ‹Qualified, see §chpo›
+ 2.One Taguig (Taguig)                     20  17  1  2  84- 9  52       ‹Qualified, see §chpo›
+ 3.Dynamic Herb Cebu (Cebu)                20  13  3  4  70-21  42       ‹Qualified, see §chpo›
+ 4.Kaya-Iloilo (Iloilo)                    20  13  2  5  68-13  41  [C]  ‹Qualified, see §chpo›
+ 5.Stallion Laguna (Laguna)                20   9  6  5  58-22  33       ‹Qualified, see §chpo›
+ 6.Aguilas-UMak                            20  10  2  8  45-28  32  [*1] ‹Qualified, see §chpo›
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Maharlika                               18   8  2  8  35-29  26  [*2]
- 8.Tuloy (Muntinlupa)                      18   3  2 13  26-108 11  [N]
- 9.Don Bosco Garelli United                18   3  0 15  20-72   9  [N]
-10.Valenzuela PB-Mendiola (Valenzuela)     18   1  1 16   9-94   4  [*3]
-11.Philippine Army                         18   0  2 16  11-111  2  [N]
+ 7.Maharlika                               20   9  2  9  43-35  29  [*2] ‹Classification Group, see §relpo›
+ 8.Don Bosco Garelli United                20   5  0 15  32-74  15  [N]  ‹Classification Group, see §relpo›
+ 9.Tuloy (Muntinlupa)                      20   3  2 15  27-119 11  [N]  ‹Classification Group, see §relpo›
+10.Valenzuela PB-Mendiola (Valenzuela)     20   2  1 17  13-99   7  [*3] ‹Classification Group, see §relpo›
+11.Philippine Army                         20   0  2 18  14-124  2  [N]  ‹Classification Group, see §relpo›
 
 [*1] Davao Aguilas were renamed Aguilas-UMak
 [*2] Maharlika Taguig were renamed Maharlika
 [*3] Mendiola 1991 were renamed Valenzuela PB-Mendiola
 
-Final Series  ‹§chpo›
+===== Final Series  ‹§chpo›
 
-NB: between the top-6 of the regular season
+NB: between the top-6 of the regular season; played as single round robin;
+    all matches at Rizal Memorial Stadium, Manila City
+
+Table:
+
+ 1.Manila Digger (Taguig)                  20  17  3  0 103-13  54
+ 2.One Taguig (Taguig)                     20  17  1  2  84- 9  52
+ 3.Dynamic Herb Cebu (Cebu)                20  13  3  4  70-21  42
+ 4.Kaya-Iloilo (Iloilo)                    20  13  2  5  68-13  41  [C]
+ 5.Stallion Laguna (Laguna)                20   9  6  5  58-22  33
+ 6.Aguilas-UMak                            20  10  2  8  45-28  32
+
+Round 23
+[May 9]
+Kaya-Iloilo               -  Stallion Laguna
+Aguilas-UMak              -  Manila Digger
+[May 20]
+One Taguig                -  Dynamic Herb Cebu
+
+Round 24 [May 16]
+Dynamic Herb Cebu         -  Manila Digger
+Kaya-Iloilo               -  Aguilas-UMak
+One Taguig                -  Stallion Laguna
+
+Round 25 [May 23]
+Manila Digger             -  Stallion Laguna
+One Taguig                -  Kaya-Iloilo
+Dynamic Herb Cebu         -  Aguilas-UMak
+
+Round 26 [May 27]
+Stallion Laguna           -  Dynamic Herb Cebu
+Aguilas-UMak              -  One Taguig
+Kaya-Iloilo               -  Manila Digger
+
+Round 27 [May 30]
+Stallion Laguna           -  Aguilas-UMak
+Dynamic Herb Cebu         -  Kaya-Iloilo
+Manila Digger             -  One Taguig
+
+Table:
+
+ 1.Manila Digger (Taguig)                  20  17  3  0 103-13  54
+ 2.One Taguig (Taguig)                     20  17  1  2  84- 9  52
+ 3.Dynamic Herb Cebu (Cebu)                20  13  3  4  70-21  42
+ 4.Kaya-Iloilo (Iloilo)                    20  13  2  5  68-13  41  [C]
+ 5.Stallion Laguna (Laguna)                20   9  6  5  58-22  33
+ 6.Aguilas-UMak                            20  10  2  8  45-28  32
+
+===== Classification Group  ‹§relpo›
+
+NB: between the bottom-5 of the regular season; played as single round robin;
+    all matches at Rizal Memorial Stadium, Manila City
+
+Table:
+
+ 7.Maharlika                               22  11  2  9  51-39  35
+ 8.Don Bosco Garelli United                21   5  1 15  35-77  16  [N]
+ 9.Tuloy (Muntinlupa)                      21   4  2 15  32-120 14  [N]
+10.Valenzuela PB-Mendiola (Valenzuela)     22   2  2 18  18-105  8
+11.Philippine Army                         22   0  2 20  17-134  2  [N]
+
+Round 23 [May 2]
+Valenzuela PB-Mendiola   2-3 Maharlika
+Philippine Army          1-5 Tuloy
+Don Bosco Garelli United bye
+
+Round 24 [May 6]
+Maharlika                5-2 Philippine Army
+Don Bosco Garelli United 3-3 Valenzuela PB-Mendiola
+Tuloy                    bye
+
+Round 25 [May 10]
+Tuloy                     -  Don Bosco Garelli United
+Philippine Army           -  Valenzuela PB-Mendiola
+Maharlika                bye
+
+Round 26 [May 20]
+Don Bosco Garelli United  -  Philippine Army
+Tuloy                     -  Maharlika
+Valenzuela PB-Mendiola   bye
+
+Round 27 [May 24]
+Valenzuela PB-Mendiola    -  Tuloy
+Maharlika                 -  Don Bosco Garelli United
+Philippine Army          bye
+
+Table:
+
+ 7.Maharlika                               22  11  2  9  51-39  35
+ 8.Don Bosco Garelli United                21   5  1 15  35-77  16  [N]
+ 9.Tuloy (Muntinlupa)                      21   4  2 15  32-120 14  [N]
+10.Valenzuela PB-Mendiola (Valenzuela)     22   2  2 18  18-105  8
+11.Philippine Army                         22   0  2 20  17-134  2  [N]
 
 

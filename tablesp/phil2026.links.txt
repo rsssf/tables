@@ -1,0 +1,3 @@
+tablesp/phil2025                :  2024/25
+tablesp/philchamp               :  list of champions
+tablesp/philcuphist             :  list of cup winners

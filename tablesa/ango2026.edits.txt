@@ -1,3 +1,12 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="pbengo">Bengo Province</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="pbie">Bié Province</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="pcabinda">Cabinda Province</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="pcuanzanorte">Cuanza-Norte Province</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="pcunene">Cunene Province</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="phuambo">Huambo Province</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="phuila">Huíla Province</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="plundasul">Lunda-Sul Province</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="pmalanje">Malanje Province</a><
 -- removing nav(igation) section:
 
 ‹XLVIII Girabola, see §girabola›
@@ -18,3 +27,10 @@
 
 ‹list of topscorers, see page angotops›
 
+
+-- removing 5 leading nav line(s) in section 6:
+‹Bengo Province, see §pbengo› | ‹Bié Province, see §pbie› |
+‹Cabinda Province, see §pcabinda› | ‹Cuanza-Norte Province, see §pcuanzanorte› |
+‹Cunene Province, see §pcunene› | ‹Huambo Province, see §phuambo› |
+‹Huíla Province, see §phuila› | ‹Lunda-Sul Province, see §plundasul› |
+‹Malanje Province, see §pmalanje›

@@ -1,3 +1,12 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage/a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="chpo">Championship Playoff</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="relpo">Relegation Playoff</a><
+-- found u-enclosed line >First Stage< - heading?
+-- found u-enclosed line >Second Stage< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="coupepoly">Coupe du Polynésie 2026</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="coupeiles">Island Cups 2025/26</a><
+-- found u-enclosed line >Coupe Mooréa 2025/26< - heading?
 -- removing nav(igation) section:
 
 ‹Division 1, see §div1›
@@ -22,3 +31,12 @@ Note that the point system in French Polynesia is 4/win, 2/draw, 1/loss.
 
 ‹french overseas territories cup, see page ../tablesf/franseaterrcuphist›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+-- removing 1 leading nav line(s) in section 5:
+‹Championship Playoff, see §chpo› | ‹Relegation Playoff, see §relpo›
+
+-- removing 1 leading nav line(s) in section 9:
+‹Coupe du Polynésie 2026, see §coupepoly› | ‹Island Cups 2025/26, see §coupeiles›

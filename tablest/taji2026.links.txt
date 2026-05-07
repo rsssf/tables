@@ -1,0 +1,3 @@
+tablest/taji2025                :  2025
+tablest/tajichamp               :  list of champions
+tablest/tajicuphist             :  list of cup winners

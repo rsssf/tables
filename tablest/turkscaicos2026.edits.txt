@@ -1,3 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="aper">Apertura</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="clau">Clausura</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="fin">PPL Final</a><
 -- removing nav(igation) section:
 
 ‹Provo Premier League 2025/26, see §ppl›
@@ -11,3 +14,6 @@
 
 ‹list of cup winners, see page turkscaicoscuphist›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Apertura, see §aper› | ‹Clausura, see §clau› | ‹Final, see §fin›

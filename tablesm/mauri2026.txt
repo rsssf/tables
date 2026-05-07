@@ -2,7 +2,7 @@
      title:   Mauritius 2025/26
      source:  https://rsssf.org/tablesm/mauri2026.html
      author:  Karel Stokkermans
-     updated: 16 Mar 2026    
+     updated: 23 Apr 2026
     -->
 
 
@@ -16,17 +16,17 @@
 
 Table:
 
- 1.La Cure Waves                          14  12  0  2  44-15  36
- 2.Pamplemousses SC                       14  10  2  2  29-11  32
- 3.Chebel Citizens SC                     14   8  2  4  19-10  26
- 4.AS Rivière du Rempart                  14   6  3  5  27-22  21  [P]
- 5.AS de Vacoas-Phoenix                   14   6  2  6  21-14  20
- 6.Cercle de Joachim                      14   6  2  6  24-18  20  [C]
- 7.AS Port-Louis 2000                     14   6  2  6  22-25  20
- 8.Petite Rivière Noire FC                14   5  2  7  17-22  17
+ 1.La Cure Waves                          16  14  0  2  47-15  42       Champions
+ 2.Pamplemousses SC                       16  11  2  3  31-12  35
+ 3.Chebel Citizens SC                     16  10  2  4  23-10  32
+ 4.Cercle de Joachim                      16   8  2  6  31-19  26  [C]
+ 5.AS Rivière du Rempart                  16   7  3  6  28-25  24  [P]
+ 6.AS de Vacoas-Phoenix                   16   6  2  8  21-19  20
+ 7.Petite Rivière Noire FC                16   6  2  8  20-23  20
+ 8.AS Port-Louis 2000                     16   6  2  8  22-28  20
 -----------------------------------------------------------------
- 9.US Beau-Bassin/Rose Hill               14   1  4  9  13-37   7  [P]
-10.Pointe-aux-Sables Mates SC             14   0  1 13   8-50   1       Relegated
+ 9.US Beau-Bassin/Rose Hill               16   1  5 10  15-42   8  [P]  Relegated
+10.Pointe-aux-Sables Mates SC             16   0  2 14   9-54   2       Relegated
 
 Round 1 [Nov 2]
 Pointe-aux-Sables Mates      0-4 La Cure Waves
@@ -158,18 +158,37 @@ Chebel Citizens              0-0 Pointe-aux-Sables Mates
 Pamplemousses                3-2 Cercle de Joachim
 AS Rivière du Rempart        4-0 US Beau-Bassin/Rose Hill
 
+Round 15
+[Mar 28]
+AS Rivière du Rempart        1-0 ASPL 2000
+Pointe-aux-Sables Mates      0-3 Petite Rivière Noire
+[Apr 14]
+AS Vacoas-Phoenix            0-3 Chebel Citizens
+[Apr 15]
+La Cure Waves                1-0 Pamplemousses
+US Beau-Bassin/Rose Hill     1-4 Cercle de Joachim
+
+Round 16
+[Apr 18]
+Pamplemousses                2-0 ASPL 2000
+[Apr 19]
+AS Rivière du Rempart        0-3 Cercle de Joachim
+Chebel Citizens              1-0 Petite Rivière Noire
+AS Vacoas-Phoenix            0-2 La Cure Waves
+Pointe-aux-Sables Mates      1-1 US Beau-Bassin/Rose Hill
+
 Table:
 
- 1.La Cure Waves                          14  12  0  2  44-15  36
- 2.Pamplemousses SC                       14  10  2  2  29-11  32
- 3.Chebel Citizens SC                     14   8  2  4  19-10  26
- 4.AS Rivière du Rempart                  14   6  3  5  27-22  21  [P]
- 5.AS de Vacoas-Phoenix                   14   6  2  6  21-14  20
- 6.Cercle de Joachim                      14   6  2  6  24-18  20  [C]
- 7.AS Port-Louis 2000                     14   6  2  6  22-25  20
- 8.Petite Rivière Noire FC                14   5  2  7  17-22  17
+ 1.La Cure Waves                          16  14  0  2  47-15  42       Champions
+ 2.Pamplemousses SC                       16  11  2  3  31-12  35
+ 3.Chebel Citizens SC                     16  10  2  4  23-10  32
+ 4.Cercle de Joachim                      16   8  2  6  31-19  26  [C]
+ 5.AS Rivière du Rempart                  16   7  3  6  28-25  24  [P]
+ 6.AS de Vacoas-Phoenix                   16   6  2  8  21-19  20
+ 7.Petite Rivière Noire FC                16   6  2  8  20-23  20
+ 8.AS Port-Louis 2000                     16   6  2  8  22-28  20
 -----------------------------------------------------------------
- 9.US Beau-Bassin/Rose Hill               14   1  4  9  13-37   7  [P]
-10.Pointe-aux-Sables Mates SC             14   0  1 13   8-50   1       Relegated
+ 9.US Beau-Bassin/Rose Hill               16   1  5 10  15-42   8  [P]  Relegated
+10.Pointe-aux-Sables Mates SC             16   0  2 14   9-54   2       Relegated
 
 

@@ -1,0 +1,6 @@
+tablesz/zwed2025                :  2025
+tablesz/zwedchamp               :  list of champions
+tablesz/zwedhist                :  list of final tables
+tablesz/zwedalltime             :  all-time table
+tablesz/zwedcuphist             :  list of cup finals
+tablesz/zwedtops                :  list of topscorers

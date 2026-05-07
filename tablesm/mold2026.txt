@@ -2,7 +2,7 @@
      title:   Moldova 2025/26
      source:  https://rsssf.org/tablesm/mold2026.html
      author:  Theodore Dreiman
-     updated: 7 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -18,7 +18,7 @@ NB: 35th edition
 
 ‹Faza 1, see §ph1› | ‹Faza 2, see §ph2›
 
-Faza 1  ‹§ph1›
+===== Faza 1  ‹§ph1›
 
 Final Table:
 
@@ -329,16 +329,16 @@ Top scorers:
   Ion JARDAN (Petrocub)            6
   Papa Ndiaga YADE (Sheriff)       6  [Mauritania/Senegal]
 
-Faza 2  ‹§ph2›
+===== Faza 2  ‹§ph2›
 
 Table:
 
-1.Petrocub (Hîncești)         4   3  0  1   7- 1  24  [15]
-2.Zimbru (Chișinău)           4   2  2  0   7- 4  22  [14]
-3.Sheriff (Tiraspol)          4   3  1  0   6- 2  21  [11]
-4.Milsami (Orhei)             4   1  2  1   1- 2  15  [10]
-5.CSF Bălți                   4   0  1  3   0- 5   9  [ 8]
-6.Dacia Buiucani (Chișinău)   4   0  0  4   2- 9   1  [ 1]
+1.Petrocub (Hîncești)         7   6  0  1  13- 2  33  [15]
+2.Zimbru (Chișinău)           7   4  2  1  13- 8  28  [14]
+3.Sheriff (Tiraspol)          7   5  1  1  11- 4  27  [11]
+4.CSF Bălți                   7   2  1  4   3- 8  15  [ 8]       [1-0, 0-0]
+5.Milsami (Orhei)             7   1  2  4   3- 9  15  [10]  [C]  [0-0, 0-1]
+6.Dacia Buiucani (Chișinău)   7   0  0  7   4-16   1  [ 1]
 
 NB: bonus points first stage between square brackets
 
@@ -383,48 +383,56 @@ CSF Balti  0-2  Petrocub
 Zimbru     2-2  Sheriff
   [Dzianis Kazloŭski 4 pen, 47 - Peter Ademo 32; Zé Flores 55. Att: 3,575]
 
+Round 5 [Apr 11. Total Att: 2,421; Average: 807]
+Petrocub   3-0  Zimbru
+  [Maxim Cojocaru I 14; Petru Popescu 35; Vladimir Ambros 48. Att: 1,200]
+Sheriff    3-1  Milsami
+  [Jayder Asprilla 6 pen, 65, 76 - Danny Lupano 40 pen. Att: 1,086]
+Dacia Bui  1-2  CSF Balti
+  [Artiom Dijinari 90+4 - Eugeniu Cociuc 51 pen; Vladislav Costin 56. Att: 135]
+
+Round 6 [Apr 18. Total Att: 2,190; Average: 730]
+Dacia Bui  1-2  Petrocub
+  [Sergiu Țurcan 58 pen - Maxim Cojocaru I 7; Ion Jardan 72. Att: 300]
+Sheriff    2-0  CSF Balti
+  [Dhoraso Klas 9; Vitor "Sapata" de Oliveira 35. Att: 1,050]
+Zimbru     3-1  Milsami
+  [Jonathas Conceição 17; Dzianis Kazloŭski 56;
+   Vladimir Fratea 59 pen - Danny Lupano 75 pen. Att: 840]
+
+Round 7 [Total Att: 2,842; Average: 947]
+[Apr 25]
+Dacia Bui  0-3  Zimbru
+  [Dzianis Kazloŭski 35; Andrei Macrițchii 77; Serafim Cojocari 90+3. Att: 350]
+[Apr 26]
+Petrocub   1-0  Sheriff
+  [Cătălin Cucoş 37. Att: 1,280]
+CSF Balti  1-0  Milsami
+  [Maxim Focșa 62. Att: 1,212]
+
 Table:
 
-1.Petrocub (Hîncești)         4   3  0  1   7- 1  24  [15]
-2.Zimbru (Chișinău)           4   2  2  0   7- 4  22  [14]
-3.Sheriff (Tiraspol)          4   3  1  0   6- 2  21  [11]
-4.Milsami (Orhei)             4   1  2  1   1- 2  15  [10]
-5.CSF Bălți                   4   0  1  3   0- 5   9  [ 8]
-6.Dacia Buiucani (Chișinău)   4   0  0  4   2- 9   1  [ 1]
-
-NB: bonus points first stage between square brackets
+1.Petrocub (Hîncești)         7   6  0  1  13- 2  33  [15]
+2.Zimbru (Chișinău)           7   4  2  1  13- 8  28  [14]
+3.Sheriff (Tiraspol)          7   5  1  1  11- 4  27  [11]
+4.CSF Bălți                   7   2  1  4   3- 8  15  [ 8]       [1-0, 0-0]
+5.Milsami (Orhei)             7   1  2  4   3- 9  15  [10]  [C]  [0-0, 0-1]
+6.Dacia Buiucani (Chișinău)   7   0  0  7   4-16   1  [ 1]
 
 Top scorers:
 
-1.Dzianis KAZLOŬSKI (Zimbru)        18  [Belarus]
-2.Petru POPESCU (Petrocub)          12  [Moldova/Russia]
+1.Dzianis KAZLOŬSKI (Zimbru)        20  [Belarus]
+2.Petru POPESCU (Petrocub)          13  [Moldova/Russia]
 3.Andrei COBEȚ (Milsami)             9
   José "ZÉ" FLORES (Bălți/Sheriff)   9  [Brazil]
 5.Amarildo GJONI (Sheriff)           8  [Albania]
-6.Ion JARDAN (Petrocub)              7
-7.Vladimir AMBROS (Petrocub)         6
-  Marin CĂRUNTU (Dacia Buiucani)     6
-  Vladimir FRATEA (Zimbru)           6
+  Ion JARDAN (Petrocub)              8
+7.Vladimir AMBROS (Petrocub)         7
+  Vladimir FRATEA (Zimbru)           7
+9.Marin CĂRUNTU (Dacia Buiucani)     6
   Samuel GANDI (Politehnica)         6  [Sierra Leone]
   Sibiry KEITA (Milsami)             6  [Mali]
   Papa Ndiaga YADE (Sheriff)         6  [Mauritania/Senegal]
-
-Round 5 [Apr 11]
-Petrocub   -  Zimbru
-Sheriff    -  Milsami
-Dacia Bui  -  CSF Balti
-
-Round 6 [Apr 18]
-Dacia Bui  -  Petrocub
-Zimbru     -  Milsami
-Sheriff    -  CSF Balti
-
-Round 7
-[Apr 25]
-Dacia Bui  -  Zimbru
-[Apr 26]
-Petrocub   -  Sheriff
-CSF Balti  -  Milsami
 
 Round 8
 [May 2]
@@ -445,17 +453,17 @@ Zimbru     -  Petrocub
 Milsami    -  Sheriff
 CSF Balti  -  Dacia Bui
 
-Liga 1 Faza 2 Grupa 1 (Promotion/Relegation Playoff)  ‹§prorel›
+===== Liga 1 Faza 2 Grupa 1 (Promotion/Relegation Playoff)  ‹§prorel›
 
 Table:
 
-1.Real (Sireți)                  4   3  1  0   9- 1  10  [P]
+1.Politehnica UTM (Chișinău)     8   5  3  0  17- 6  18
 -------------------------------------------------------
-2.FC Florești                    4   2  1  1   6- 5   7  [R]
-3.Politehnica UTM (Chișinău)     4   1  3  0   5- 4   6
-4.Spartanii Sportul (Chișinău)   4   1  2  1   6- 6   5
-5.FC Stăuceni                    4   0  2  2   2- 5   2
-6.Iskra (Rîbnița)                4   0  1  3   2- 9   1
+2.Spartanii Sportul (Chișinău)   8   4  3  1  15-10  15
+3.Real (Sireți)                  8   4  2  2  12- 6  14  [P]
+4.FC Florești                    8   2  2  4   8-11   8  [R]
+5.Iskra (Rîbnița)                8   0  4  4   4-13   4      [0-0, 0-0]
+6.FC Stăuceni                    8   0  4  4   6-16   4      [0-0, 0-0]
 
 Round 1 [Total Att: 500; Average: 167]
 [Mar 6]
@@ -498,43 +506,57 @@ Real         4-0  Iskra
 Spartanii S  1-1  Politehnica
   [Cristian Păscăluță 59 pen - Isidore Doumbé 26. Nisporeni. Att: 100]
 
+Round 5 [Total Att: 450; Average: 150]
+[Apr 10]
+Stauceni     1-1  Real
+  [Daniel Dosca 30 - Andrei Arabadji 38. Att: 250]
+Iskra        1-1  Spartanii S
+  [Constantin-Iuliu Cebotari 10 - Devonte Richards 45+1. Att: 100]
+[Apr 11]
+Politehnica  2-0  Floresti
+  [Daniel Cucer 21; João "Renatinho" Santos 74. Att: 100]
+
+Round 6 [Total Att: 600; Average: 200]
+[Apr 17]
+Politehnica  5-1  Stauceni
+  [Samuel Gandi 25 pen, 62; Dumitru Galușca (Sta) 27 og; Yvan Noh Nafeng 53;
+   Cătălin Botezatu 89 - Cristian Nagurnea 7. Att: 100]
+Iskra        1-1  Floresti
+  [Thiago Lacerda 33 - Danila Ignatov 86. Att: 200]
+[Apr 18]
+Real         0-1  Spartanii S
+  [Shon Weiss 61. Att: 300]
+
+Round 7 [Total Att: 550; Average: 183]
+[Apr 24]
+Politehnica  3-1  Real
+  [Samuel Gandi 15, 38; Isidore Doumbé 61 pen - Oleg Molla 18. Att: 150]
+[Apr 25]
+Floresti     1-2  Spartanii S
+  [Nicolae Solodovnicov 17 - Devonte Richards 15 pen, 24. Att: 100]
+Stauceni     0-0  Iskra
+  [Att: 300]
+
+Round 8 [Total Att: 600; Average: 200]
+[May 1]
+Iskra        0-2  Politehnica
+  [Isidore Doumbé 17; Samuel Gandi 44. Att: 200]
+Spartanii S  5-2  Stauceni
+  [Devonte Richards 22, 35, 70, 81; Cristian Stancă 90+4 -
+   Laurențiu Chițanu 30; Nicolae Țelic 90+2. Att: 100]
+[May 2]
+Real         1-0  Floresti
+  [Eugeniu Borovschii 80. Att: 300]
+
 Table:
 
-1.Real (Sireți)                  4   3  1  0   9- 1  10  [P]
+1.Politehnica UTM (Chișinău)     8   5  3  0  17- 6  18
 -------------------------------------------------------
-2.FC Florești                    4   2  1  1   6- 5   7  [R]
-3.Politehnica UTM (Chișinău)     4   1  3  0   5- 4   6
-4.Spartanii Sportul (Chișinău)   4   1  2  1   6- 6   5
-5.FC Stăuceni                    4   0  2  2   2- 5   2
-6.Iskra (Rîbnița)                4   0  1  3   2- 9   1
-
-Round 5
-[Apr 10]
-Iskra        -  Spartanii S
-Stauceni     -  Real
-[Apr 11]
-Politehnica  -  Floresti
-
-Round 6
-[Apr 17]
-Politehnica  -  Stauceni
-Iskra        -  Floresti
-[Apr 18]
-Real         -  Spartanii S
-
-Round 7
-[Apr 24]
-Politehnica  -  Real
-[Apr 25]
-Floresti     -  Spartanii S
-Stauceni     -  Iskra
-
-Round 8
-[May 1]
-Iskra        -  Politehnica
-Spartanii S  -  Stauceni
-[May 2]
-Real         -  Floresti
+2.Spartanii Sportul (Chișinău)   8   4  3  1  15-10  15
+3.Real (Sireți)                  8   4  2  2  12- 6  14  [P]
+4.FC Florești                    8   2  2  4   8-11   8  [R]
+5.Iskra (Rîbnița)                8   0  4  4   4-13   4      [0-0, 0-0]
+6.FC Stăuceni                    8   0  4  4   6-16   4      [0-0, 0-0]
 
 Round 9 [May 5]
 Politehnica  -  Spartanii S
@@ -644,19 +666,31 @@ SHERIFF (Tiraspol)      7-0  FCM Ungheni
 PETROCUB (Hîncești)     2-0  Olimp (Comrat)
   [Dan Pușcaș 58; Victor Bogaciuc 74. Att: 550]
 
-Quarterfinals
+Quarterfinals [Total Att: 3,934; Average: 492]
 
 [Mar 3, Apr 21]
-Zimbru (Chișinău)       5-0  -   Politehnica (Chișinău)
-  [Marcello de Souza 12; Cimafiej Šarkoŭski 20; Dzianis Kazloŭski 40;
-   Jonathas Conceição 65; Matteo Amoroso 80. Att: 350]
-Milsami (Orhei)         5-0  -   Sp. Sportul (Chișinău)
-  [Sibiry Keita 27, 61; Andrei Cobeț 52; Igor Souza 60, 73. Att: 350]
+ZIMBRU (Chișinău)       5-0 5-0  Politehnica (Chișinău)  [agg 10-0]
+  [1. Marcello de Souza 12; Cimafiej Šarkoŭski 20; Dzianis Kazloŭski 40;
+      Jonathas Conceição 65; Matteo Amoroso 80. Att: 350]
+  [2. Alexandru Bețivu 14; Ivan Jermačkov 21; Chiril Șilcenco 72;
+      Dzianis Kazloŭski 76, 87. Orhei. Att: 50]
+[Mar 3, Apr 22]
+MILSAMI (Orhei)         5-0 0-0  Sp. Sportul (Chișinău)  [pen 5-0]
+  [1. Sibiry Keita 27, 61; Andrei Cobeț 52; Igor Souza 60, 73. Att: 350]
+  [2. Nisporeni. Att: 100]
+[Mar 4, Apr 21]
+SHERIFF (Tiraspol)      2-0 2-1  Dacia Buiuc (Chișinău)  [pen 4-1]
+  [1. Jayder Asprilla 33, 39. Att: 712]
+  [2. Vsevolod Nihaiev 90+1; Jaurès-Ulrich Loukou 90+5 - Sergiu Țurcan 25 pen. Nisporeni. Att: 368]
 [Mar 4, Apr 22]
-Petrocub (Hîncești)     1-0  -   CSF Bălți
-  [Dan Pușcaș 18. Att: 480]
-Sheriff (Tiraspol)      2-0  -   Dacia Buiuc (Chișinău)
-  [Jayder Asprilla 33, 39. Att: 712]
+PETROCUB (Hîncești)     1-0 1-1  CSF Bălți               [agg 2-1]
+  [1. Dan Pușcaș 18. Att: 480]
+  [2. Petru Popescu 85 - Vladislav Boico 59. Att: 1,524]
+
+Semifinals [May 6, 13]
+
+Zimbru (Chișinău)        -   -   Milsami (Orhei)
+Sheriff (Tiraspol)       -   -   Petrocub (Hîncești)
 
 
 
@@ -669,7 +703,7 @@ Departed: Speranis (Nisporeni)
 
 ‹Faza 1, see §1ph1›
 
-Faza 1  ‹§1ph1›
+===== Faza 1  ‹§1ph1›
 
 Final Tables:
 
@@ -1005,19 +1039,19 @@ Top scorers:
 8.Dumitru Calaraș (Olimp)        8
   Oleg Molla (Real)              8
 
-Faza 2 Grupa 2  ‹§1ph2›
+===== Faza 2 Grupa 2  ‹§1ph2›
 
-Table:
+Final Table:
 
-1.FCM Ungheni            4   4  0  0  13- 5  12
-2.FC Fălești             4   2  0  2   5- 6   6      [1-0]
-3.Zimbru-2 (Chișinău)    4   2  0  2   9- 4   6  [P] [0-1]
-4.Oguz (Comrat)          4   1  2  1   5- 5   5  [P]
-5.Sheriff-2 (Tiraspol)   4   1  1  2   3- 7   4      [1 1 0 3-1 4]
-6.Olimp (Comrat)         4   1  1  2   6- 8   4      [1 0 0 2-0 3]
+1.FCM Ungheni            7   6  0  1  27-12  18
+2.FC Fălești             7   4  1  2  12- 8  13
+3.Univer (Comrat)        7   3  2  2  11-12  11
+4.Oguz (Comrat)          7   2  3  2   7- 8   9  [P] [1-0]
+5.Zimbru-2 (Chișinău)    7   3  0  4  11-10   9  [P] [0-1]
+6.Victoria (Chișinău)    7   2  2  3  10-15   8
 -----------------------------------------------
-7.Univer (Comrat)        4   1  1  2   4- 8   4      [0 1 1 1-3 1]
-8.Victoria (Chișinău)    4   1  1  2   3- 5   4      [0 0 1 0-2 0]
+7.Sheriff-2 (Tiraspol)   7   1  2  4   6-12   5      [2-2] Relegated
+8.Olimp (Comrat)         7   1  2  4  11-18   5      [2-2] Relegated
 
 Round 1 [Total Att: 550; Average: 138]
 [Mar 6]
@@ -1070,51 +1104,78 @@ Olimp      2-3  Ungheni
   [Andrei Gargalîc 72; Roman Șumchin 90+2 - Dumitru Maneacov 17;
    Andrei Stratan 40; Octavian Vatavu 70. Att: 200]
 
-Table:
+Round 5 [Total Att: 750; Average: 188]
+[Apr 10]
+Ungheni    6-2  Victoria
+  [Andrei Stratan 9, 13, 50; Eugeniu Sidorenco 61, 71, 76 - Oleg Martin 31, 90+1. Att: 200]
+Sheriff-2  0-1  Zimbru-2
+  [Michael E. Ebikabowei 41 pen. Att: 50]
+Oguz       0-2  Univer
+  [Artiom Zeleniuc 58; Chiril Bargan 90. Att: 100]
+[Apr 11]
+Falesti    4-0  Olimp
+  [Daniel Găină 1, 22, 90; Sergiu Mazur 37. Att: 400]
 
-1.FCM Ungheni            4   4  0  0  13- 5  12
-2.FC Fălești             4   2  0  2   5- 6   6      [1-0]
-3.Zimbru-2 (Chișinău)    4   2  0  2   9- 4   6  [P] [0-1]
-4.Oguz (Comrat)          4   1  2  1   5- 5   5  [P]
-5.Sheriff-2 (Tiraspol)   4   1  1  2   3- 7   4      [1 1 0 3-1 4]
-6.Olimp (Comrat)         4   1  1  2   6- 8   4      [1 0 0 2-0 3]
+Round 6 [Total Att: 890; Average: 223]
+[Apr 17]
+Univer     4-3  Ungheni
+  [Roman Iavian 23; Sergiu Gheorghiev 53; Pavel Pulucciu 55; Cătălin Achirus 62 -
+   Dumitru Maneacov 6, 29; Andrei Stratan 44. Att: 100]
+Falesti    2-1  Sheriff-2
+  [Sergiu Mazur 70; Alexandru Crali 80 - Artiom Popov 42. Att: 600]
+Zimbru-2   0-1  Oguz
+  [Ilie Cornescu 90+1. Att: 40]
+[Apr 18]
+Olimp      3-4  Victoria
+  [Angel Caprianu 56; Roman Șumchin 66; Dumitru Calaraș 90+9 - Vitalie Daniliuc 15;
+   Oleg Crețul 24; Ion Pavlov 42; Alexandru Arabadji 80. Att: 150]
+
+Round 7 [Apr 24. Total Att: 800; Average: 200]
+Ungheni    5-1  Zimbru-2
+  [Eugeniu Sidorenco 2; Sergiu Ungureanu (Zim) 12 og; Florin Cojocaru 16;
+   Andrei Stratan 18; Dumitru Maneacov 90+3 - Mihai Crivoi 64. Att: 500]
+Oguz       1-1  Falesti
+  [Stanislav Cavlac 29 - Maxim Golovatîi 24. Att: 100]
+Victoria   1-1  Univer
+  [Ion Pavlov 35 pen - Dumitru Gaidarji 55 pen. Att: 100]
+Sheriff-2  2-2  Olimp
+  [Timur Cîrlan 20; Ibrahima T. Soumah 60 - Roman Șumchin 11; Dennis Castro 84. Att: 100]
+
+Final Table:
+
+1.FCM Ungheni            7   6  0  1  27-12  18
+2.FC Fălești             7   4  1  2  12- 8  13
+3.Univer (Comrat)        7   3  2  2  11-12  11
+4.Oguz (Comrat)          7   2  3  2   7- 8   9  [P] [1-0]
+5.Zimbru-2 (Chișinău)    7   3  0  4  11-10   9  [P] [0-1]
+6.Victoria (Chișinău)    7   2  2  3  10-15   8
 -----------------------------------------------
-7.Univer (Comrat)        4   1  1  2   4- 8   4      [0 1 1 1-3 1]
-8.Victoria (Chișinău)    4   1  1  2   3- 5   4      [0 0 1 0-2 0]
+7.Sheriff-2 (Tiraspol)   7   1  2  4   6-12   5      [2-2] Relegated
+8.Olimp (Comrat)         7   1  2  4  11-18   5      [2-2] Relegated
+
+Liga 1 Playoff
+
+Qualifying Round [May 6]
+
+FCM Ungheni          -  Victoria (Chișinău)
+FC FĂLEŞTI           +/-  Zimbru-2 (Chișinău)
+Univer (Comrat)      -  Oguz (Comrat)
+
 
 Top scorers Liga 1:
 
-1.Nicolae Țelic (Stăuceni)              15
-2.Eugeniu Borovschii (Real)             12
-  Eugeniu Sidorenco (Florești/Ungheni)  12
-  Andrei Stratan (Ungheni)              12
-5.Oleg Molla (Real)                     11
-6.Daniel Dosca (Stăuceni)               10
-  Denis Gușpit (Florești)               10
+1.Andrei Stratan (Ungheni)              17
+2.Eugeniu Sidorenco (Florești/Ungheni)  16
+  Nicolae Țelic (Stăuceni)              16
+4.Eugeniu Borovschii (Real)             13
+5.Oleg Molla (Real)                     12
+6.Daniel Dosca (Stăuceni)               11
+7.Denis Gușpit (Florești)               10
   Ghenadie Orbu (Real)                  10
-
-Round 5
-[Apr 10]
-Oguz       -  Univer
-Sheriff-2  -  Zimbru-2
-Ungheni    -  Victoria
-[Apr 11]
-Falesti    -  Olimp
-
-Round 6
-[Apr 17]
-Univer     -  Ungheni
-Falesti    -  Sheriff-2
-Zimbru-2   -  Oguz
-[Apr 18]
-Olimp      -  Victoria
-
-Round 7 [Apr 24]
-Victoria   -  Univer
-Sheriff-2  -  Olimp
-Oguz       -  Falesti
-Ungheni    -  Zimbru-2
-
+9.Dumitru Calaraș (Olimp)                9
+  Florin Cojocaru (Ungheni)              9
+  Ion Pavlov (Victoria)                  9
+  Devonte Marlon Richards (Sp.Sportul)   9  [Barbados]
 
 
 
@@ -1123,24 +1184,23 @@ Ungheni    -  Zimbru-2
 
 ==== Liga 2 2024/25  ‹§divb›
 
-‹Seria Nord, see §2nord› | ‹Seria Sud, see §2sud›
 
-Seria Nord  ‹§2nord›
+===== Seria Nord  ‹§2nord›
 
 Table:
 
- 1.Vulturii Cutezători (Sîngerei)  13  12  1  0  53-13  37  [R]
+ 1.Vulturii Cutezători (Sîngerei)  14  13  1  0  54-13  40  [R]
 ----------------------------------------------------------
- 2.EFA Visoca                      13   9  0  4  42-26  27
- 3.Steaua Nordului (Izvoare)       13   8  1  4  21-17  25
- 4.Speranța (Drochia)              13   7  3  3  35-25  24  [R]
- 5.Locomotiva (Ocnița)             13   7  0  6  25-22  21
- 6.FC Țarigrad                     13   6  0  7  35-27  18
- 7.Atletico (Bălți)                13   5  0  8  27-25  15      [2-1]
- 8.CF Edineț                       13   5  0  8  25-32  15      [1-2]
- 9.Olimpia (Bălți)                 13   3  1  9  23-42  10
+ 2.EFA Visoca                      14  10  0  4  46-27  30
+ 3.Steaua Nordului (Izvoare)       14   8  1  5  22-21  25
+ 4.Speranța (Drochia)              14   7  3  4  35-26  24  [R] [2-1]
+ 5.Locomotiva (Ocnița)             14   8  0  6  30-22  24      [1-2]
+ 6.FC Țarigrad                     14   7  0  7  40-29  21
+ 7.CF Edineț                       14   6  0  8  28-33  18
+ 8.Atletico (Bălți)                14   5  0  9  28-28  15
+ 9.Olimpia (Bălți)                 14   3  1 10  25-47  10
 ----------------------------------------------------------
-10.Grănicerul (Glodeni)            13   0  0 13  11-68   0
+10.Grănicerul (Glodeni)            14   0  0 14  11-73   0
 
 Steaua Nordului play home games in Criuleni (155 km south-east of Izvoare).
 
@@ -1313,20 +1373,32 @@ Tarigrad    1-2  Edinet
 Granicerul  1-2  Olimpia
   [E.Strîmbanu 70 pen - V.Corcodel 33; D.Moșneaga 67. Att: 100]
 
+Round 14 [Apr 11. Total Att: 700; Average: 175]
+Speranta    0-1  Vulturii C
+  [C.Obadă 43. Att: 200]
+EFA Visoca  4-1  Steaua Nor
+  [A.Diordiev 36; S.Godorojea 60, 90+1; D.Cucoș 62 - Dum.Popovici 56. Att: 150]
+Locomotiva  5-0  Granicerul
+  [V.Boiciuc 42 pen; A.Mandalac 55; S.Slesarciuc 64; A.Șuleac 75; R.Murguleț 85. Att: 150]
+Olimpia     2-5  Tarigrad
+  [V.Cucereavîi 14 pen; A.Grab 59 - V.Scorpan 14; V.Noroc 32, 42; V.Fedco 32; S.Manea 72. Att: 0]
+Edinet      3-1  Atletico
+  [I.Găină 5; E.Creciun 30, 67 - N.Palii 38. Att: 200]
+
 Table:
 
- 1.Vulturii Cutezători (Sîngerei)  13  12  1  0  53-13  37  [R]
+ 1.Vulturii Cutezători (Sîngerei)  14  13  1  0  54-13  40  [R]
 ----------------------------------------------------------
- 2.EFA Visoca                      13   9  0  4  42-26  27
- 3.Steaua Nordului (Izvoare)       13   8  1  4  21-17  25
- 4.Speranța (Drochia)              13   7  3  3  35-25  24  [R]
- 5.Locomotiva (Ocnița)             13   7  0  6  25-22  21
- 6.FC Țarigrad                     13   6  0  7  35-27  18
- 7.Atletico (Bălți)                13   5  0  8  27-25  15      [2-1]
- 8.CF Edineț                       13   5  0  8  25-32  15      [1-2]
- 9.Olimpia (Bălți)                 13   3  1  9  23-42  10
+ 2.EFA Visoca                      14  10  0  4  46-27  30
+ 3.Steaua Nordului (Izvoare)       14   8  1  5  22-21  25
+ 4.Speranța (Drochia)              14   7  3  4  35-26  24  [R] [2-1]
+ 5.Locomotiva (Ocnița)             14   8  0  6  30-22  24      [1-2]
+ 6.FC Țarigrad                     14   7  0  7  40-29  21
+ 7.CF Edineț                       14   6  0  8  28-33  18
+ 8.Atletico (Bălți)                14   5  0  9  28-28  15
+ 9.Olimpia (Bălți)                 14   3  1 10  25-47  10
 ----------------------------------------------------------
-10.Grănicerul (Glodeni)            13   0  0 13  11-68   0
+10.Grănicerul (Glodeni)            14   0  0 14  11-73   0
 
 Steaua Nordului play home games in Criuleni (155 km south-east of Izvoare).
 
@@ -1336,16 +1408,11 @@ Top scorers:
 2.Denis Secureanu (Vulturii Cut.)   13
 3.Sergiu Mișcov (Speranța)          12
 4.Oliviu Șchiopu (Țarigrad)          9
-5.Veaceslav Beștanco (Vulturii C.)   7
+5.Vasile Noroc (Țarigrad)            8
+6.Veaceslav Beștanco (Vulturii C.)   7
   Maxim Cebotari (Atletico)          7
+  Nicolae Palii (Atletico)           7
   Vasile Pașa (EFA)                  7
-
-Round 14 [Apr 11]
-Olimpia     -  Tarigrad
-Edinet      -  Atletico
-Speranta    -  Vulturii C
-Locomotiva  -  Granicerul
-EFA Visoca  -  Steaua Nor
 
 Round 15 [Apr 18]
 Tarigrad    -  Locomotiva
@@ -1375,22 +1442,22 @@ Atletico    -  Tarigrad
 Steaua Nor  -  Granicerul
 EFA Visoca  -  FC Olimpia
 
-Seria Sud  ‹§2sud›
+===== Seria Sud  ‹§2sud›
 
 Table:
 
- 1.Național (Ialoveni)             13  10  1  2  57-17  31  [N]
+ 1.Național (Ialoveni)             14  10  1  3  57-18  31  [N]
 ----------------------------------------------------------
- 2.Real Succes (Chișinău)          13   7  3  3  27-22  24      [1-0]
- 3.Atletic (Strășeni)              13   7  3  3  28-22  24      [0-1]
- 4.Constructorul (Leova)           13   6  2  5  30-31  20
- 5.FC Congaz                       13   6  1  6  32-27  19
- 6.FC Chișinău                     13   5  3  5  26-29  18
- 7.CMF Cahul                       13   4  4  5  21-27  16  [N]
- 8.Maiac (Chirsova)                13   3  4  6  16-28  13
- 9.FCM Ungheni-2                   13   3  3  7  18-29  12  [N]
+ 2.Real Succes (Chișinău)          14   8  3  3  31-23  27      [1-0]
+ 3.Atletic (Strășeni)              14   8  3  3  33-22  27      [0-1]
+ 4.FC Congaz                       14   7  1  6  36-29  22
+ 5.FC Chișinău                     14   6  3  5  27-29  21
+ 6.Constructorul (Leova)           14   6  2  6  30-36  20
+ 7.CMF Cahul                       14   5  4  5  27-27  19  [N]
+ 8.Maiac (Chirsova)                14   3  4  7  17-32  13
+ 9.FCM Ungheni-2                   14   3  3  8  18-35  12  [N]
 ----------------------------------------------------------
-10.Socol (Copceac)                 13   1  2 10  17-40   5
+10.Socol (Copceac)                 14   1  2 11  19-44   5
 
 Atletic play home games in Lozova (20 km west of Strășeni).
 FC Congaz play home games in Ceadîr Lunga (20 km east of Congaz).
@@ -1560,20 +1627,32 @@ Constructorul  2-5  Chisinau
 Socol          3-3  Cahul
   [V.Uzun 2; A.Bolocan 45, 66 - D.Maximov 21, 33; V.Mîță 70. Att: 135]
 
+Round 14 [Apr 11. Total Att: 270; Average: 90]
+Chisinau       1-0  National
+  [I.Laur 4. Att: 100]
+Real Succes    4-1  Maiac
+  [A.Malic 35; A.Nigai 42; D.Stroici 51; I.Al-Saloum 86 - M.Crudu 90. Att: 0]
+Atletic        5-0  Constructorul
+  [A.Ghițău 15; A.Grigoraș 40; V.Baciu 41; D.Damaschin 73; A.Lapteacru 90. Vadul lui Vodă. Att: 20]
+Congaz         4-2  Socol
+  [D.Polișciuc 4, 84; I.Stoianov 14; C.Covali 44 - I.Iurovschii 50; D.Velixari 57. Att: 150]
+Cahul          6-0  Ungheni-2
+  [O.Bacalu 15; D.Prepelița 51, 68; D.Maximov 74; V.Romanenco 85; V.Ungureanu 90+4. Att: 0]
+
 Table:
 
- 1.Național (Ialoveni)             13  10  1  2  57-17  31  [N]
+ 1.Național (Ialoveni)             14  10  1  3  57-18  31  [N]
 ----------------------------------------------------------
- 2.Real Succes (Chișinău)          13   7  3  3  27-22  24      [1-0]
- 3.Atletic (Strășeni)              13   7  3  3  28-22  24      [0-1]
- 4.Constructorul (Leova)           13   6  2  5  30-31  20
- 5.FC Congaz                       13   6  1  6  32-27  19
- 6.FC Chișinău                     13   5  3  5  26-29  18
- 7.CMF Cahul                       13   4  4  5  21-27  16  [N]
- 8.Maiac (Chirsova)                13   3  4  6  16-28  13
- 9.FCM Ungheni-2                   13   3  3  7  18-29  12  [N]
+ 2.Real Succes (Chișinău)          14   8  3  3  31-23  27      [1-0]
+ 3.Atletic (Strășeni)              14   8  3  3  33-22  27      [0-1]
+ 4.FC Congaz                       14   7  1  6  36-29  22
+ 5.FC Chișinău                     14   6  3  5  27-29  21
+ 6.Constructorul (Leova)           14   6  2  6  30-36  20
+ 7.CMF Cahul                       14   5  4  5  27-27  19  [N]
+ 8.Maiac (Chirsova)                14   3  4  7  17-32  13
+ 9.FCM Ungheni-2                   14   3  3  8  18-35  12  [N]
 ----------------------------------------------------------
-10.Socol (Copceac)                 13   1  2 10  17-40   5
+10.Socol (Copceac)                 14   1  2 11  19-44   5
 
 Atletic play home games in Lozova (20 km west of Strășeni).
 FC Congaz play home games in Ceadîr Lunga (20 km east of Congaz).
@@ -1587,18 +1666,11 @@ Top scorers:
   Roman Şumchin (Congaz)          14  [Moldova/Russia]
 3.Andrian Dodan (Național)        13
 4.Emmanuil Gherganov (Real Suc.)   9
-5.Stanislav Prodan (Chișinău)      8
+5.Alexandru Ghițău (Atletic)       8
+  Stanislav Prodan (Chișinău)      8
   Alexandru Vlas (Constructorul)   8
-7.Vadim Caț (Ungheni-2)            7
-  Alexandru Ghițău (Atletic)       7
+8.Vadim Caț (Ungheni-2)            7
   Sergiu Istrati (Constructorul)   7
-
-Round 14 [Apr 11]
-Cahul          -  Ungheni-2
-Real Succes    -  Maiac
-Atletic        -  Constructorul
-Chisinau       -  National
-Congaz         -  Socol
 
 Round 15 [Apr 18]
 Ungheni-2      -  Congaz

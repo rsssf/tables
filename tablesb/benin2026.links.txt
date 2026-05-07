@@ -1,0 +1,3 @@
+tablesb/benin2025               :  2024/25
+tablesb/beninchamp              :  list of champions
+tablesb/benincuphist            :  list of cup winners

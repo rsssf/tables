@@ -1,6 +1,9 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="piala">Piala Malaysia 2025/26</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="facup">FA Cup 2025</a><
 -- removing nav(igation) section:
 
 ‹Liga Super 2025/26, see §super›
+‹Cup Tournaments 2025/26, see §cups›
 
 
 -- removing nav(igation) section:
@@ -13,3 +16,6 @@
 
 ‹list of 2nd level champions, see page malay2champ›.
 
+
+-- removing 1 leading nav line(s) in section 4:
+‹Piala Malaysia, see §piala› | ‹FA Cup, see §facup›

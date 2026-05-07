@@ -2,7 +2,7 @@
      title:   Myanmar 2025/26
      source:  https://rsssf.org/tablesm/myan2026.html
      author:  Karel Stokkermans
-     updated: 19 Mar 2026    
+     updated: 19 Mar 2026
     -->
 
 

@@ -1,0 +1,8 @@
+tablesc/cos2025                 :  2024/25
+tablesc/coschamp                :  list of champions
+tablesc/coscuphist              :  list of cup winners
+tablesc/cos2champ               :  list of 2nd division champions
+tablesc/cos3champ               :  list of 3rd division champions
+tablesc/cosalltime              :  all-time table
+tablesc/cosfound                :  list of foundation dates
+tablesc/cos-names               :  list of name changes

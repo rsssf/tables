@@ -2,7 +2,7 @@
      title:   Curaçao 2025/26
      source:  https://rsssf.org/tablesc/curacao2026.html
      author:  Karel Stokkermans
-     updated: 2 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -14,22 +14,23 @@
 
 ==== Promé Divishon  ‹§curpaga›
 
-‹Regular Season, see §reg›
 
 Regular Season  ‹§reg›
 
-Table:
+Final Table:
 
- 1.RKSV Scherpenheuvel                 17  12  3  2  32-14  39
- 2.CRKSV Jong Holland (Willemstad)     17  12  1  4  54-20  37
- 3.SV Victory Boys (Noord Zapateer)    17  10  3  4  34-16  33
- 4.CRKSV Jong Colombia (Boca Samí)     17   9  2  6  44-26  29
- 5.CVV Inter Willemstad                17   9  2  6  42-30  29
- 6.RKSV Centro Dominguito              17   8  2  7  28-31  26
- 7.SV Centro Social Deportivo Barber   17   6  0 11  25-40  18
- 8.SV Undeba (Banda'bou)               17   5  1 11  16-34  16
- 9.Sport Club Atlétiko Saliña          17   3  4 10  12-32  13
-10.SV SUBT (Kintjan, Willemstad)       17   1  2 14  15-59   5
+ 1.RKSV Scherpenheuvel                 18  13  3  2  39-14  42       ‹Kaya 6, see §kaya6›
+ 2.CRKSV Jong Holland (Willemstad)     18  13  1  4  56-21  40       ‹Kaya 6, see §kaya6›
+ 3.SV Victory Boys (Noord Zapateer)    18  10  3  5  35-18  33       ‹Kaya 6, see §kaya6›
+ 4.CRKSV Jong Colombia (Boca Samí)     18  10  2  6  48-26  32       ‹Kaya 6, see §kaya6›
+ 5.CVV Inter Willemstad                18   9  2  7  44-33  29       ‹Kaya 6, see §kaya6›
+ 6.RKSV Centro Dominguito              18   8  2  8  28-35  26       ‹Kaya 6, see §kaya6›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.SV Undeba (Banda'bou)               18   6  1 11  19-36  19
+ 7.SV Centro Social Deportivo Barber   18   6  0 12  25-47  18
+ 9.Sport Club Atlétiko Saliña          18   4  4 10  14-33  16
+--------------------------------------------------------------
+10.SV SUBT (Kintjan, Willemstad)       18   1  2 15  16-61   5       Relegated
 
 Round 1
 [Oct 19]
@@ -216,26 +217,79 @@ Jong Colombia       1-4 Jong Holland
 Undeba              1-2 Scherpenheuvel
 
 Round 18
-[Apr 10]
-SUBT                 -  Atlétiko Saliña
+[Apr 8]
+SUBT                1-2 Atlétiko Saliña
 [Apr 11]
-Jong Holland         -  Victory Boys
-Centro Barber        -  Scherpenheuvel
-[Apr 12]
-Centro Dominguito    -  Jong Colombia
-Undeba               -  Inter Willemstad
+Jong Holland        2-1 Victory Boys
+Centro Barber       0-7 Scherpenheuvel
+[Apr 14]
+Centro Dominguito   0-4 Jong Colombia
+Undeba              3-2 Inter Willemstad
+
+Final Table:
+
+ 1.RKSV Scherpenheuvel                 18  13  3  2  39-14  42       ‹Kaya 6, see §kaya6›
+ 2.CRKSV Jong Holland (Willemstad)     18  13  1  4  56-21  40       ‹Kaya 6, see §kaya6›
+ 3.SV Victory Boys (Noord Zapateer)    18  10  3  5  35-18  33       ‹Kaya 6, see §kaya6›
+ 4.CRKSV Jong Colombia (Boca Samí)     18  10  2  6  48-26  32       ‹Kaya 6, see §kaya6›
+ 5.CVV Inter Willemstad                18   9  2  7  44-33  29       ‹Kaya 6, see §kaya6›
+ 6.RKSV Centro Dominguito              18   8  2  8  28-35  26       ‹Kaya 6, see §kaya6›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.SV Undeba (Banda'bou)               18   6  1 11  19-36  19
+ 7.SV Centro Social Deportivo Barber   18   6  0 12  25-47  18
+ 9.Sport Club Atlétiko Saliña          18   4  4 10  14-33  16
+--------------------------------------------------------------
+10.SV SUBT (Kintjan, Willemstad)       18   1  2 15  16-61   5       Relegated
+
+Kaya 6  ‹§kaya6›
 
 Table:
 
- 1.RKSV Scherpenheuvel                 17  12  3  2  32-14  39
- 2.CRKSV Jong Holland (Willemstad)     17  12  1  4  54-20  37
- 3.SV Victory Boys (Noord Zapateer)    17  10  3  4  34-16  33
- 4.CRKSV Jong Colombia (Boca Samí)     17   9  2  6  44-26  29
- 5.CVV Inter Willemstad                17   9  2  6  42-30  29
- 6.RKSV Centro Dominguito              17   8  2  7  28-31  26
- 7.SV Centro Social Deportivo Barber   17   6  0 11  25-40  18
- 8.SV Undeba (Banda'bou)               17   5  1 11  16-34  16
- 9.Sport Club Atlétiko Saliña          17   3  4 10  12-32  13
-10.SV SUBT (Kintjan, Willemstad)       17   1  2 14  15-59   5
+ 1.RKSV Centro Dominguito               3   2  0  1   5- 3   6
+ 2.CVV Inter Willemstad                 3   2  0  1   6- 5   6
+ 3.SV Victory Boys (Noord Zapateer)     3   1  1  1   3- 2   4
+ 4.RKSV Scherpenheuvel                  3   1  1  1   3- 4   4
+ 5.CRKSV Jong Holland (Willemstad)      3   1  0  2   4- 5   3
+ 6.CRKSV Jong Colombia (Boca Samí)      3   1  0  2   3- 5   3
+
+Round 1
+[Apr 18]
+Scherpenheuvel      2-1 Centro Dominguito
+Jong Holland        1-3 Inter Willemstad
+[Apr 19]
+Victory Boys        2-0 Jong Colombia
+
+Round 2
+[Apr 24]
+Jong Colombia       2-1 Jong Holland
+[Apr 25]
+Victory Boys        1-1 Scherpenheuvel
+Centro Dominguito   3-1 Inter Willemstad
+
+Round 3
+[Apr 30]
+Inter Willemstad    2-1 Jong Colombia
+[May 2]
+Centro Dominguito   1-0 Victory Boys
+Scherpenheuvel      0-2 Jong Holland
+
+Round 4 [May 7]
+Jong Colombia        -  Centro Dominguito
+Inter Willemstad     -  Scherpenheuvel
+Jong Holland         -  Victory Boys
+
+Round 5 [May 11]
+Jong Holland         -  Centro Dominguito
+Scherpenheuvel       -  Jong Colombia
+Victory Boys         -  Inter Willemstad
+
+Table:
+
+ 1.RKSV Centro Dominguito               3   2  0  1   5- 3   6
+ 2.CVV Inter Willemstad                 3   2  0  1   6- 5   6
+ 3.SV Victory Boys (Noord Zapateer)     3   1  1  1   3- 2   4
+ 4.RKSV Scherpenheuvel                  3   1  1  1   3- 4   4
+ 5.CRKSV Jong Holland (Willemstad)      3   1  0  2   4- 5   3
+ 6.CRKSV Jong Colombia (Boca Samí)      3   1  0  2   3- 5   3
 
 

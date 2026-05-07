@@ -2,7 +2,7 @@
      title:   Hongkong 2025/26
      source:  https://rsssf.org/tablesh/hk2026.html
      author:  Karel Stokkermans
-     updated: 14 Oct 2025    
+     updated: 7 May 2026
     -->
 
 
@@ -14,18 +14,22 @@
 
 ==== Hong Kong Premier League  ‹§first›
 
-Table:
 
- 1.Crownity North District  4   3  0  1   8- 3   9
- 2.BC Rangers               4   3  0  1   8- 5   9
- 3.Kitchee                  3   3  0  0   5- 2   9
- 4.Lee Man                  3   1  1  1   7- 5   4
- 5.Eastern District         3   1  1  1   3- 1   4  [P]
- 6.Wofoo Tai Po             3   1  1  1   4- 4   4  [C]
- 7.Eastern SC               3   1  1  1   3- 3   4
- 8.Kowloon City District    4   1  1  2   4- 6   4
- 9.KC Southern              3   0  1  2   2- 6   1
-10.Hong Kong Football Club  4   0  0  4   1-10   0
+===== Regular Stage  ‹§reg›
+
+Final Table:
+
+ 1.Kitchee                 18  16  2  0  47-15  50       Champions, ‹Champions Group, see §champ›
+ 2.Lee Man                 18  10  6  2  47-19  36       ‹Champions Group, see §champ›
+ 3.Crownity North District 18   8  7  3  36-27  31       ‹Champions Group, see §champ›
+ 4.Wofoo Tai Po            18   9  4  5  36-26  31  [C]  ‹Champions Group, see §champ›
+ 5.Eastern SC              18   7  4  7  29-28  25       ‹Champions Group, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Kowloon City District   18   6  3  9  22-33  21       ‹Challenge Group, see §chall›
+ 7.Eastern District        18   5  4  9  15-15  19  [P]  ‹Challenge Group, see §chall›
+ 8.KC Southern             18   5  3 10  18-28  18       ‹Challenge Group, see §chall›
+ 9.BC Rangers              18   5  2 11  20-38  17       ‹Challenge Group, see §chall›
+10.Hong Kong Football Club 18   1  1 16  12-53   4       ‹Challenge Group, see §chall›
 
 Round 1
 [Aug 29]
@@ -55,23 +59,328 @@ Lee Man          2-3 Kitchee
 Kowloon City     0-2 Wofoo Tai Po
 Southern         1-1 Eastern SC
 
-Moved Match Round 4 [Oct 4]
+Round 4
+[Oct 4]
 BC Rangers       2-3 Kowloon City
+[Jan 11]
+HKFC             1-2 Kitchee
+[Jan 24]
+Eastern District 0-2 North District
+Lee Man          8-1 Eastern SC
+[Mar 15]
+Wofoo Tai Po     1-0 Southern
 
-Moved Match Round 13 [Oct 5]
+Round 5
+[Oct 18]
+Lee Man          1-0 Eastern District
+Wofoo Tai Po     1-1 Kitchee
+[Oct 19]
+BC Rangers       1-1 Eastern SC
+HKFC             0-1 Southern
+Kowloon City     2-2 North District
+
+Round 6
+[Oct 25]
+Southern         1-1 Eastern District
+[Oct 26]
+Kitchee          3-3 North District
+Kowloon City     1-2 HKFC
+Wofoo Tai Po     3-1 Eastern SC
+[Mar 4]
+Lee Man          2-0 BC Rangers
+
+Round 7
+[Nov 1]
+Eastern District 1-0 Eastern SC
+Lee Man          7-1 HKFC
+Wofoo Tai Po     6-1 BC Rangers
+[Nov 2]
+North District   2-1 Southern
+Kowloon City     0-5 Kitchee
+
+Round 8
+[Nov 9]
+BC Rangers       0-1 Eastern District
+[Nov 26]
+Southern         2-4 Kitchee
+[Dec 7]
+HKFC             2-2 Wofoo Tai Po
+[Feb 14]
+North District   0-3 Eastern SC
+[Mar 21]
+Lee Man          0-0 Kowloon City
+
+Round 9
+[Nov 9]
+HKFC             0-4 Eastern SC
+[Nov 22]
+Southern         2-0 Kowloon City
+Wofoo Tai Po     1-0 Eastern District
+[Nov 23]
+Lee Man          2-2 North District
+[Jan 17]
+BC Rangers       0-3 Kitchee
+
+Round 10
+[Oct 5]
 HKFC             0-3 North District
+Eastern District 0-1 Kowloon City
+[Jan 17]
+Wofoo Tai Po     3-5 Lee Man
+[Feb 15]
+BC Rangers       1-0 Southern
+[Mar 21]
+Kitchee          2-1 Eastern SC
+
+Round 11
+[Dec 2]
+Kitchee          1-0 Eastern District
+[Dec 4]
+North District   1-1 Wofoo Tai Po
+[Dec 6]
+Lee Man          1-0 Southern
+[Dec 7]
+Kowloon City     2-1 Eastern SC
+[Jan 25]
+BC Rangers       5-2 HKFC
+
+Round 12
+[Dec 13]
+North District   1-2 Kitchee
+Eastern District 0-1 Southern
+[Dec 14]
+BC Rangers       1-2 Lee Man
+Eastern SC       2-1 Wofoo Tai Po
+HKFC             0-1 Kowloon City
+
+Round 13
+[Jan 10]
+Wofoo Tai Po     3-2 Kowloon City
+[Jan 18]
+Eastern SC       3-1 Southern
+HKFC             0-2 Eastern District
+[Feb 15]
+Kitchee          1-0 Lee Man
+[Mar 14]
+North District   2-1 BC Rangers
+
+Round 14
+[Jan 28]
+Eastern SC       1-4 North District
+[Jan 31]
+Eastern District 4-0 BC Rangers
+Kitchee          3-0 Southern
+[Feb 1]
+Kowloon City     1-4 Lee Man
+Wofoo Tai Po     2-0 HKFC
+
+Round 15
+[Jan 17]
+North District   2-1 Kowloon City
+[Jan 25]
+Kitchee          4-2 Wofoo Tai Po
+[Feb 22]
+Southern         2-1 HKFC
+[Apr 3]
+Eastern District 0-0 Lee Man
+[Apr 4]
+Eastern SC       1-1 BC Rangers
+
+Round 16
+[Feb 28]
+Eastern SC       1-1 Lee Man
+Southern         2-1 Wofoo Tai Po
+[Mar 1]
+North District   2-2 Eastern District
+Kitchee          5-2 HKFC
+Kowloon City     5-1 BC Rangers
+
+Round 17
+[Mar 14]
+Eastern SC       1-0 Eastern District
+Kitchee          4-0 Kowloon City
+[Mar 15]
+HKFC             0-4 Lee Man
+[Mar 22]
+BC Rangers       0-2 Wofoo Tai Po
+Southern         2-2 North District
+
+Round 18
+[Apr 11]
+Eastern District 1-3 Wofoo Tai Po
+Eastern SC       5-0 HKFC
+[Apr 12]
+North District   3-3 Lee Man
+Kitchee          2-0 BC Rangers
+Kowloon City     2-1 Southern
+
+Final Table:
+
+ 1.Kitchee                 18  16  2  0  47-15  50       Champions, ‹Champions Group, see §champ›
+ 2.Lee Man                 18  10  6  2  47-19  36       ‹Champions Group, see §champ›
+ 3.Crownity North District 18   8  7  3  36-27  31       ‹Champions Group, see §champ›
+ 4.Wofoo Tai Po            18   9  4  5  36-26  31  [C]  ‹Champions Group, see §champ›
+ 5.Eastern SC              18   7  4  7  29-28  25       ‹Champions Group, see §champ›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Kowloon City District   18   6  3  9  22-33  21       ‹Challenge Group, see §chall›
+ 7.Eastern District        18   5  4  9  15-15  19  [P]  ‹Challenge Group, see §chall›
+ 8.KC Southern             18   5  3 10  18-28  18       ‹Challenge Group, see §chall›
+ 9.BC Rangers              18   5  2 11  20-38  17       ‹Challenge Group, see §chall›
+10.Hong Kong Football Club 18   1  1 16  12-53   4       ‹Challenge Group, see §chall›
+
+===== Playoff Stage  ‹§play›
+
+
+====== Champions Group  ‹§champ›
 
 Table:
 
- 1.Crownity North District  4   3  0  1   8- 3   9
- 2.BC Rangers               4   3  0  1   8- 5   9
- 3.Kitchee                  3   3  0  0   5- 2   9
- 4.Lee Man                  3   1  1  1   7- 5   4
- 5.Eastern District         3   1  1  1   3- 1   4  [P]
- 6.Wofoo Tai Po             3   1  1  1   4- 4   4  [C]
- 7.Eastern SC               3   1  1  1   3- 3   4
- 8.Kowloon City District    4   1  1  2   4- 6   4
- 9.KC Southern              3   0  1  2   2- 6   1
-10.Hong Kong Football Club  4   0  0  4   1-10   0
+ 1.Kitchee                 21  16  3  2  50-24  51       Champions
+ 2.Lee Man                 20  11  6  3  51-21  39
+ 3.Wofoo Tai Po            20  11  4  5  42-28  37  [C]
+ 4.Crownity North District 21   8  8  5  41-35  32
+ 5.Eastern SC              20   9  4  7  33-29  31
+
+Round 19 [Apr 18]
+Kitchee          1-4 Lee Man
+Wofoo Tai Po     3-2 North District
+Eastern SC       bye
+
+Round 20
+[Apr 25]
+North District   2-2 Kitchee
+[Apr 26]
+Lee Man          0-1 Eastern SC
+Wofoo Tai Po     bye
+
+Round 22
+[May 1]
+Eastern SC       3-1 North District
+[May 2]
+Wofoo Tai Po     3-0 Kitchee
+Lee Man          bye
+
+Round 22
+[May 9]
+Eastern SC        -  Wofoo Tai Po
+[May 10]
+North District    -  Lee Man
+Kitchee          bye
+
+Round 23 [May 17]
+Kitchee           -  Eastern SC
+Lee Man           -  Wofoo Tai Po
+North District   bye
+
+Table:
+
+ 1.Kitchee                 21  16  3  2  50-24  51       Champions
+ 2.Lee Man                 20  11  6  3  51-21  39
+ 3.Wofoo Tai Po            20  11  4  5  42-28  37  [C]
+ 4.Crownity North District 21   8  8  5  41-35  32
+ 5.Eastern SC              20   9  4  7  33-29  31
+
+====== Challenge Group  ‹§chall›
+
+Table:
+
+ 6.Kowloon City District   21   8  3 10  27-38  27
+ 7.KC Southern             21   7  3 11  26-33  24
+ 8.BC Rangers              20   6  2 12  24-41  20
+ 9.Eastern District        20   5  4 11  17-19  19  [P]
+10.Hong Kong Football Club 20   2  1 17  15-58   7
+
+Round 19 [Apr 19]
+BC Rangers       3-1 Southern
+Kowloon City     2-1 Eastern District
+HKFC             bye
+
+Round 20
+[Apr 25]
+Eastern District 1-2 HKFC
+[Apr 26]
+Southern         3-1 Kowloon City
+BC Rangers       bye
+
+Round 21 [May 3]
+BC Rangers       1-2 Kowloon City
+HKFC             1-4 Southern
+Eastern District bye
+
+Round 22
+[May 9]
+Southern          -  Eastern District
+[May 10]
+HKFC              -  BC Rangers
+Kowloon City     bye
+
+Round 23 [May 16]
+Eastern District  -  BC Rangers
+Kowloon City      -  HKFC
+Southern         bye
+
+Table:
+
+ 6.Kowloon City District   21   8  3 10  27-38  27
+ 7.KC Southern             21   7  3 11  26-33  24
+ 8.BC Rangers              20   6  2 12  24-41  20
+ 9.Eastern District        20   5  4 11  17-19  19  [P]
+10.Hong Kong Football Club 20   2  1 17  15-58   7
+
+
+
+
+
+
+==== Cup Tournaments  ‹§cups›
+
+
+===== Senior Shield  ‹§shield›
+
+Preliminary Round
+[Sep 3]
+Kowloon City     2-1 Eastern District
+[Sep 10]
+Wofoo Tai Po     3-1 Southern
+
+Quarterfinals
+[Sep 27]
+Eastern SC       3-0 HKFC
+Lee Man          2-2 Wofoo Tai Po     [1-3 pen]
+[Sep 28]
+Kitchee          2-3 North District
+BC Rangers       4-0 Kowloon City
+
+Semifinals
+[Feb 7]
+North District   2-3 Wofoo Tai Po
+[Feb 8]
+Eastern SC       1-3 BC Rangers
+
+Final [Feb 18]
+Wofoo Tai Po     4-1 BC Rangers
+
+===== FA Cup  ‹§fac›
+
+Preliminary Round
+[Dec 20]
+Lee Man          3-0 Kowloon City
+[Dec 21]
+Southern         1-3 North District
+
+Quarterfinals
+[Mar 7]
+Eastern SC       0-0 Eastern District [3-4 pen]
+Wofoo Tai Po     1-1 Kitchee          [6-5 pen]
+[May 8]
+HKFC             1-3 North District
+BC Rangers       3-3 Lee Man          [3-1 pen]
+
+Semifinals
+[May 23]
+Wofoo Tai Po      -  BC Rangers
+[May 24]
+Eastern District  -  North District
+
 
 

@@ -2,7 +2,7 @@
      title:   Bermuda 2025/26
      source:  https://rsssf.org/tablesb/berm2026.html
      author:  Karel Stokkermans
-     updated: 5 Apr 2026    
+     updated: 16 Apr 2026
     -->
 
 
@@ -223,9 +223,8 @@ Final Table:
 
 ==== Cup Tournaments  ‹§cups›
 
-‹FA Challenge Cup 2025/26, see §facup› | ‹Friendship Trophy 2025/26, see §friend› | ‹Dudley Eve Trophy 2025, see §dudley› | ‹Shield 2025/26, see §shield›
 
-FA Challenge Cup 2025/26  ‹§facup›
+===== FA Challenge Cup 2025/26  ‹§facup›
 
 Preliminary Round
 [Oct 11]
@@ -265,9 +264,9 @@ Devonshire Colts         2-0 PHC Zebras
 Saint George's Colts     1-2 North Village Rams       [aet]
 
 Final [Apr 12]
-Devonshire Colts          -  North Village Rams
+Devonshire Colts         1-1 North Village Rams       [aet, 4-5 pen]
 
-Friendship Trophy 2025/26  ‹§friend›
+===== Friendship Trophy 2025/26  ‹§friend›
 
 Preliminary Round
 [Dec 2]
@@ -293,7 +292,7 @@ North Village Rams       1-0 Devonshire Colts
 Final [Jan 1]
 Dandy Town Hornets       1-0 North Village Rams
 
-Dudley Eve Trophy 2025   ‹§dudley›
+===== Dudley Eve Trophy 2025  ‹§dudley›
 
 Group A
 [Sep 6]
@@ -348,7 +347,7 @@ Dandy Town Hornets       0-0 Saint George's Colts     [1-4 pen]
 Final [Nov 9]
 Devonshire Cougars       1-2 Saint George's Colts
 
-Shield 2025/26  ‹§shield›
+===== Shield 2025/26  ‹§shield›
 
 Quarterfinals
 [Dec 19]

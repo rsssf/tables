@@ -1,6 +1,8 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="grp">Group Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="ko">Championship Playoff</a><
 -- removing nav(igation) section:
 
-‹Pureplay Football League 2025/26, see §pro›
+‹Pro League 2025/26, see §pro›
 
 
 -- removing nav(igation) section:
@@ -11,3 +13,6 @@
 
 ‹list of cup winners, see page madagcuphist›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Group Stage, see §grp› | ‹Championship Playoff, see §ko›

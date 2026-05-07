@@ -1,0 +1,4 @@
+tablesm/mali2025                :  2024/25
+tablesm/malichamp               :  list of champions.
+tablesm/malicuphist             :  list of cup winners.
+tablesm/maliclublist            :  list of main clubs.

@@ -1,0 +1,9 @@
+tablesa/arg2025                 :  2025
+tablesa/arg4-reg2026            :  2025/26 (regional 4th level)
+tablesa/argchamp                :  list of champions
+tablesa/argcuphist              :  list of cup finals
+tablesa/arghist                 :  list of final tables
+tablesa/argalltime              :  all-time tables
+tablesa/arg2champ               :  list of 2nd level champions
+tablesa/argall                  :  divisional movements
+tablesa/argtops                 :  topscorers

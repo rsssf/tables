@@ -1,0 +1,3 @@
+tablesb/barb2025                :  2025
+tablesb/barbchamp               :  list of champions
+tablesb/barbcuphist             :  list of cup winners

@@ -1,3 +1,9 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="aper">Apertura Tournament</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="clau">Clausura Tournament</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1fin">Championship Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2reg">First Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2sec">Second Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2poff">Playoff</a><
 -- removing nav(igation) section:
 
 ‹Primera División, see §primera›
@@ -31,3 +37,9 @@
 
 ‹list of topscorers, see page perutops›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Apertura Tournament, see §aper› | ‹Clausura Tournament, see §clau› | ‹Aggregate Table, see §anual› | ‹Championship Playoff, see §1fin›
+
+-- removing 1 leading nav line(s) in section 7:
+‹First Stage, see §2reg› | ‹Second Stage, see §2sec› | ‹Playoff, see §2poff›

@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1aper">Apertura 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1clau">Clausura 2026</a><
 -- removing nav(igation) section:
 
 ‹Liga MX, see §pdn›
@@ -19,3 +21,12 @@
 
 ‹list of topscorers, see page mextops›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Apertura 2025, see §1aper› | ‹Clausura 2026, see §1clau›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
+
+-- removing 1 leading nav line(s) in section 5:
+‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›

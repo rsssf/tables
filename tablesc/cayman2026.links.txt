@@ -1,0 +1,4 @@
+tablesc/cayman2025              :  2024/25
+tablesc/caymanchamp             :  list of champions
+tablesc/cayman2champ            :  list of second level champions
+tablesc/caymancuphist           :  list of cup winners

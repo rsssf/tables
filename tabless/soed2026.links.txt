@@ -1,0 +1,4 @@
+tablesr/rwan2026                :  Rwandan league
+tabless/soed2025                :  2025.
+tabless/soedchamp               :  list of champions.
+tabless/soedcuphist             :  list of cup winners.

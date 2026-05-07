@@ -2,7 +2,7 @@
      title:   Congo-Kinshasa (DR Congo) 2025/26
      source:  https://rsssf.org/tablesz/zaire2026.html
      author:  Karel Stokkermans
-     updated: 2 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -14,34 +14,32 @@
 
 ==== Linafoot 2025/26  ‹§lina›
 
-‹Group Stage, see §grp›
 
-Group Stage  ‹§grp›
+===== Group Stage  ‹§grp›
 
-‹Group 1, see §gp1› | ‹Group 2, see §gp2›
 
-Group 1  ‹§gp1›
+====== Group 1  ‹§gp1›
 
-Table (includes all "suspended results"):
+Final Table:
 
- 1.TP Mazembe (Lubumbashi)            26  19  4  3  48-11  61             Qualified
- 2.FC Saint-Eloi Lupopo (Lubumbashi)  26  16  6  4  47-21  54             Qualified
- 3.CS Don Bosco (Lubumbashi)          26  14  7  5  36-21  49
- 4.AS Simba (Kolwezi)                 28  14  7  7  32-25  49
+ 1.TP Mazembe (Lubumbashi)            30  23  4  3  57-12  73             ‹Qualified, see §play›
+ 2.FC Saint-Eloi Lupopo (Lubumbashi)  30  19  6  5  55-27  63             ‹Qualified, see §play›
+ 3.CS Don Bosco (Lubumbashi)          30  16  8  6  43-24  56             ‹Qualified, see §play›
+ 4.AS Simba (Kolwezi)                 30  14  8  8  33-27  50             ‹Qualified, see §play›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.FC Lubumbashi Sport (Lubumbashi)   30  11 10  9  27-26  43
- 6.CS Manika (Kolwezi)                28  10 12  6  26-17  42  [P]
- 7.Blessing FC (Kolwezi)              27  11  7  9  32-24  40
- 8.AS Saint-Luc (Kananga)             28  10  7 11  19-25  37  [P]  [*3]
- 9.FC Tanganyika (Kalemie)            27  11  4 12  30-27  37
-10.SM Sanga Balende (Mbuji-Mayi)      28   9  6 13  22-30  33
-11.US Tshinkunku (Kananga)            28   7 10 11  20-35  31
-12.AS Malole (Kananga)                27   8  6 13  27-33  30
+ 5.CS Manika (Kolwezi)                30  12 12  6  31-20  48  [P]
+ 6.FC Tanganyika (Kalemie)            30  13  5 12  38-32  44
+ 7.FC Lubumbashi Sport (Lubumbashi)   30  11 10  9  27-26  43
+ 8.Blessing FC (Kolwezi)              30  11  7 12  33-31  40
+ 9.SM Sanga Balende (Mbuji-Mayi)      30  10  6 14  25-34  36
+10.AS Saint-Luc (Kananga)             30   9  8 13  21-33  35  [P]  [*3]
+11.AS Malole (Kananga)                30   9  6 15  34-39  33
+12.AS New Soger (Lubumbashi)          30   9  6 15  29-40  33       [*2]
 -------------------------------------------------------------
-13.AS New Soger (Lubumbashi)          28   8  6 14  25-35  30       [*2]
-14.FC Tshisekedi Kasalu (Mbuji-Mayi)  29   6 10 13  25-38  28  [P]  [*1]
-15.JS Groupe Bazano (Lubumbashi)      28   6  9 13  23-35  27
-16.US Panda B52 (Likasi)              28   4  1 23  14-56  13             Relegated
+13.US Tshinkunku (Kananga)            30   7 10 13  23-41  31             Relegated
+14.JS Groupe Bazano (Lubumbashi)      30   7  9 14  26-38  30             Relegated
+15.FC Tshisekedi Kasalu (Mbuji-Mayi)  30   6 10 14  25-40  28  [P]  [*1]  Relegated
+16.US Panda B52 (Likasi)              30   5  1 24  17-59  16             Relegated
 
 NB: 2 more losses than wins and overall goal difference -6 due to double forfeit
     awarded for match Mazembe vs. Lupopo on Mar 8
@@ -97,7 +95,7 @@ Blessing FC           2-1 AS Malole
 FC Lubumbashi Sport   1-0 AS New Soger
 CS Don Bosco          1-0 SM Sanga Balende
 [Nov 11]
-AS Simba              1-1 TP Mazembe            [result suspended due to incidents]
+AS Simba              1-1 TP Mazembe
 [Nov 12]
 US Tshinkunku         2-0 US Panda B52
 [Nov 14]
@@ -135,7 +133,7 @@ JS Groupe Bazano      0-2 TP Mazembe
 FC Tshikas            2-2 AS Malole
 FC Lubumbashi Sport   1-2 FC Saint-Eloi Lupopo
 [Nov 27]
-FC Tanganyika         1-2 AS Simba              [result suspended due to incidents]
+FC Tanganyika         1-2 AS Simba
 [Nov 28]
 SM Sanga Balende      3-0 AS New Soger
 [Nov 29]
@@ -175,7 +173,7 @@ FC Lubumbashi Sport   1-0 CS Manika
 [Dec 12]
 CS Don Bosco          3-0 FC Tshikas
 [Dec 13]
-FC Saint-Eloi Lupopo  1-1 JS Groupe Bazano      [result suspended]
+FC Saint-Eloi Lupopo  1-1 JS Groupe Bazano
 [Dec 14]
 FC Lubumbashi Sport   0-1 AS Simba
 AS Saint-Luc          1-2 TP Mazembe
@@ -226,7 +224,7 @@ AS Saint-Luc          0-1 CS Don Bosco
 FC Tanganyika         0-1 FC Saint-Eloi Lupopo
 [Jan 7]
 AS Malole             0-2 CS Don Bosco
-AS Saint-Luc          1-1 SM Sanga Balende      [result suspended]
+AS Saint-Luc          1-1 SM Sanga Balende
 [Jan 8]
 CS Manika             0-0 US Tshinkunku
 [Jan 11]
@@ -237,7 +235,7 @@ US Tshinkunku         0-1 SM Sanga Balende
 [Jan 14]
 AS New Soger          1-1 CS Manika
 
-Halfway Table (includes all "suspended results"):
+Halfway Table:
 
  1.TP Mazembe (Lubumbashi)            15  11  3  1  30- 6  36
  2.FC Saint-Eloi Lupopo (Lubumbashi)  15  10  3  2  27-12  33
@@ -351,8 +349,8 @@ US Tshinkunku         1-1 AS New Soger
 JS Groupe Bazano      2-1 CS Don Bosco
 FC Tshikas            1-0 AS Simba
 FC Lubumbashi Sport   0-2 TP Mazembe
-AS Saint-Luc          1-0 AS New Soger
-AS Malole             2-0 US Panda B52
+AS Saint-Luc          awd AS New Soger          [awarded 0-3; originally 1-0, Saint-Luc
+AS Malole             2-0 US Panda B52           fielded two ineligible players]
 [Mar 4]
 TP Mazembe            1-0 JS Groupe Bazano
 FC Lubumbashi Sport   2-1 SM Sanga Balende
@@ -416,27 +414,56 @@ Blessing FC           1-0 AS Saint-Luc
 CS Don Bosco          4-2 AS Malole
 FC Lubumbashi Sport   3-2 FC Tanganyika
 FC Saint-Eloi Lupopo  4-1 AS New Soger
+[Apr 5]
+CS Don Bosco          3-1 AS Saint-Luc
+CS Manika             2-1 Blessing FC
+TP Mazembe            2-0 FC Tshikas
+[Apr 6]
+FC Saint-Eloi Lupopo  4-3 AS Malole
+[Apr 8]
+FC Tanganyika         3-1 SM Sanga Balende
+TP Mazembe            3-1 US Tshinkunku
+CS Don Bosco          1-1 AS Simba
+[Apr 9]
+FC Saint-Eloi Lupopo  2-0 Blessing FC
+[Apr 10]
+JS Groupe Bazano      3-1 AS New Soger
+[Apr 11]
+FC Tanganyika         2-2 AS Saint-Luc
+AS Simba              0-1 US Panda B52
+[Apr 12]
+TP Mazembe            1-0 CS Don Bosco
+JS Groupe Bazano      0-2 FC Saint-Eloi Lupopo
+[Apr 15]
+AS Malole             awd Blessing FC           [awarded 3-0, Blessing forfeited]
+FC Tanganyika         3-2 US Tshinkunku
+AS New Soger          awd TP Mazembe            [awarded 0-3, New Soger showed with 5 players]
+CS Don Bosco          awd FC Saint-Eloi Lupopo  [awarded 3-0, Lupopo forfeited]
+[Apr 16]
+US Panda B52          2-3 CS Manika
+[Apr 22]
+AS Malole             1-2 SM Sanga Balende
 
-Table (includes all "suspended results"):
+Final Table:
 
- 1.TP Mazembe (Lubumbashi)            26  19  4  3  48-11  61             Qualified
- 2.FC Saint-Eloi Lupopo (Lubumbashi)  26  16  6  4  47-21  54             Qualified
- 3.CS Don Bosco (Lubumbashi)          26  14  7  5  36-21  49
- 4.AS Simba (Kolwezi)                 28  14  7  7  32-25  49
+ 1.TP Mazembe (Lubumbashi)            30  23  4  3  57-12  73             ‹Qualified, see §play›
+ 2.FC Saint-Eloi Lupopo (Lubumbashi)  30  19  6  5  55-27  63             ‹Qualified, see §play›
+ 3.CS Don Bosco (Lubumbashi)          30  16  8  6  43-24  56             ‹Qualified, see §play›
+ 4.AS Simba (Kolwezi)                 30  14  8  8  33-27  50             ‹Qualified, see §play›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.FC Lubumbashi Sport (Lubumbashi)   30  11 10  9  27-26  43
- 6.CS Manika (Kolwezi)                28  10 12  6  26-17  42  [P]
- 7.Blessing FC (Kolwezi)              27  11  7  9  32-24  40
- 8.AS Saint-Luc (Kananga)             28  10  7 11  19-25  37  [P]  [*3]
- 9.FC Tanganyika (Kalemie)            27  11  4 12  30-27  37
-10.SM Sanga Balende (Mbuji-Mayi)      28   9  6 13  22-30  33
-11.US Tshinkunku (Kananga)            28   7 10 11  20-35  31
-12.AS Malole (Kananga)                27   8  6 13  27-33  30
+ 5.CS Manika (Kolwezi)                30  12 12  6  31-20  48  [P]
+ 6.FC Tanganyika (Kalemie)            30  13  5 12  38-32  44
+ 7.FC Lubumbashi Sport (Lubumbashi)   30  11 10  9  27-26  43
+ 8.Blessing FC (Kolwezi)              30  11  7 12  33-31  40
+ 9.SM Sanga Balende (Mbuji-Mayi)      30  10  6 14  25-34  36
+10.AS Saint-Luc (Kananga)             30   9  8 13  21-33  35  [P]  [*3]
+11.AS Malole (Kananga)                30   9  6 15  34-39  33
+12.AS New Soger (Lubumbashi)          30   9  6 15  29-40  33       [*2]
 -------------------------------------------------------------
-13.AS New Soger (Lubumbashi)          28   8  6 14  25-35  30       [*2]
-14.FC Tshisekedi Kasalu (Mbuji-Mayi)  29   6 10 13  25-38  28  [P]  [*1]
-15.JS Groupe Bazano (Lubumbashi)      28   6  9 13  23-35  27
-16.US Panda B52 (Likasi)              28   4  1 23  14-56  13             Relegated
+13.US Tshinkunku (Kananga)            30   7 10 13  23-41  31             Relegated
+14.JS Groupe Bazano (Lubumbashi)      30   7  9 14  26-38  30             Relegated
+15.FC Tshisekedi Kasalu (Mbuji-Mayi)  30   6 10 14  25-40  28  [P]  [*1]  Relegated
+16.US Panda B52 (Likasi)              30   5  1 24  17-59  16             Relegated
 
 NB: 2 more losses than wins and overall goal difference -6 due to double forfeit
     awarded for match Mazembe vs. Lupopo on Mar 8
@@ -447,29 +474,30 @@ NB: 2 more losses than wins and overall goal difference -6 due to double forfeit
 [*3] AS Saint-Luc were admitted to the top level two weeks into the season, following
      a dispute on the promotion of CS Manika at the end of the previous season
 
-Group 2  ‹§gp2›
+====== Group 2  ‹§gp2›
 
-Table (includes "suspended result"):
+Final Table:
 
- 1.AS Vita Club (Kinshasa)            24  10 11  3  28-11  41
- 2.Les Aigles du Congo (Kinshasa)     23  11  8  4  25-14  41  [C]
- 3.AS Dauphin Noir (Goma)             24  12  5  7  32-20  41       [*3]
- 4.AS Maniema Union (Kindu)           21  10 10  1  26- 9  40
+ 1.AS Maniema Union (Kindu)           26  13 12  1  37- 9  51             ‹Qualified, see §play›
+ 2.Les Aigles du Congo (Kinshasa)     26  14  7  5  33-15  49  [C]        ‹Qualified, see §play›
+ 3.AS Vita Club (Kinshasa)            26  12 11  3  34-13  47             ‹Qualified, see §play›
+ 4.Céleste FC (Mbandaka)              26  13  9  6  41-13  46             ‹Qualified, see §play›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.Céleste FC (Mbandaka)              23  10  7  6  29-12  37
- 6.Etoile du Kivu (Bukavu)            23   8  6  9  29-30  30       [*3]
- 7.Académic Club Rangers (Kinshasa)   23   7  8  8  21-27  29
- 8.FC New Jak (Kinshasa)              24   6  9  9  19-25  27
- 9.FC MK Etanchéité (Kinshasa)        23   6  8  9  15-26  26  [P]
-10.AF Anges Verts (Kinshasa)          22   4 10  8  21-28  22
-11.OC Renaissance du Congo (Kinshasa) 22   4  9  9  12-23  21       [*1]
+ 5.AS Dauphin Noir (Goma)             26  13  6  7  35-20  45       [*3]
+ 6.AF Anges Verts (Kinshasa)          26   7 11  8  27-29  32
+ 7.Académic Club Rangers (Kinshasa)   26   8  8 10  24-33  32
+ 8.Etoile du Kivu (Bukavu)            26   9  4 13  27-39  31       [*3]
+ 9.FC New Jak (Kinshasa)              26   6 11  9  20-26  29
+10.FC Renaissance du Congo (Kinshasa) 26   4 13  9  20-38  25  [P]  [*2]
+11.OC Renaissance du Congo (Kinshasa) 26   4 10 12  14-33  22       [*1]
 -------------------------------------------------------------
-12.FC Renaissance du Congo (Kinshasa) 24   3 12  9  17-34  21  [P]  [*2]
-13.OC Bukavu Dawa (Bukavu)            24   2  7 15   9-33  13       [*3]  Relegated
-14.DC Motema Pembe (Kinshasa)         22   7 12  3  29-20   9  [-24]
+12.OC Bukavu Dawa (Bukavu)            26   3  8 15  12-33  17       [*3]  Relegated
+13.DC Motema Pembe (Kinshasa)         26   8 13  5  33-23  13       [-24] Relegated
+14.FC MK Etanchéité (Kinshasa)        26   4  7 15  12-45   7  [P]  [-12] Excluded
  -.AS Martin Pêcheur (Isiro)          excluded                 [P]
 
-NB: on Feb 14, DC Motema Pembe had 24 points deducted by FIFA decision
+NB: on Feb 14, DC Motema Pembe had 24 points deducted by FIFA decision;
+    FC MK Etanchéité had 12 points deducted and were excluded from the league on Apr 3
 
 [*1] OC Renaissance du Congo called FC Renaissance du Congo until 2023
 [*2] FC Renaissance du Congo were founded in 2023 and then bought the place
@@ -481,7 +509,7 @@ AF Anges Verts        awd OC Bukavu Dawa        [awarded 3-0, Bukavu Dawa forfei
 Les Aigles du Congo   awd FC MK Etanchéité      [awarded 3-0; originally 1-2, MK Etanchéité
 [Oct 23]                                         fielded suspended player]
 AC Rangers            n/p AS Martin Pêcheur     [annulled; Martin Pêcheur forfeited]
-AS Vita Club          3-0 Etoile du Kivu        [award of 3-0 revoked]
+AS Vita Club          awd Etoile du Kivu        [awarded 3-0; originally 3-0]
 Céleste FC            awd FC Renaissance        [awarded 3-0, FC Renaissance forfeited]
 DC Motema Pembe       1-2 FC New Jak
 [Oct 25]
@@ -489,7 +517,7 @@ AS Dauphin Noir       abd OC Renaissance        [abandoned at 1-0 in 61']
 [Oct 26]
 AS Dauphin Noir       1-0 OC Renaissance        [remaining 29']
 FC New Jak            2-1 Céleste FC
-Etoile du Kivu        3-2 AF Anges Verts        [award of 0-3 revoked]
+Etoile du Kivu        awd AF Anges Verts        [awarded 0-3; originally 3-2]
 OC Bukavu Dawa        awd DC Motema Pembe       [awarded 0-3, Bukavu Dawa forfeited]
 AS Martin Pêcheur     n/p AS Vita Club          [annulled; Martin Pêcheur forfeited]
 FC Renaissance        awd Les Aigles du Congo   [awarded 0-3; originally 1-1, FC Renaissance
@@ -503,7 +531,7 @@ Les Aigles du Congo   0-0 AS Maniema Union
 OC Renaissance        0-0 FC New Jak
 [Oct 31]
 AF Anges Verts        n/p AS Martin Pêcheur     [annulled; Martin Pêcheur forfeited]
-DC Motema Pembe       4-2 Etoile du Kivu        [award of 3-0 revoked]
+DC Motema Pembe       awd Etoile du Kivu        [awarded 3-0; originally 4-2]
 
 NB: AS Martin Pêcheur excluded after three consecutive forfeits; their first two matches,
     initially awarded 0-3 to their opponents, were annulled
@@ -515,7 +543,7 @@ AS Vita Club          0-0 AS Maniema Union
 [Nov 3]
 FC MK Etanchéité      2-0 AF Anges Verts
 [Nov 4]
-Etoile du Kivu        0-0 Céleste FC            [award of 0-3 revoked]
+Etoile du Kivu        awd Céleste FC            [awarded 0-3; originally 0-0]
 [Nov 5]
 AC Rangers            2-1 Les Aigles du Congo
 FC Renaissance        1-3 AS Vita Club
@@ -560,7 +588,7 @@ Céleste FC            0-1 Les Aigles du Congo
 [Nov 30]
 FC New Jak            0-0 FC MK Etanchéité
 AS Vita Club          1-1 DC Motema Pembe       [abandoned at 1-1 in 90+2' due to crowd trouble;
-[Dec 1]                                          result apparently stood but suspended]
+[Dec 1]                                          result apparently stood]
 AC Rangers            1-1 AS Dauphin Noir
 OC Renaissance        0-0 Céleste FC
 [Dec 3]
@@ -625,20 +653,20 @@ AS Maniema Union      2-1 AS Dauphin Noir
 [Jan 3]
 FC Renaissance        1-0 FC New Jak
 
-Halfway Table (includes "suspended result" and all awarded matches):
+Halfway Table:
 
  1.Les Aigles du Congo (Kinshasa)     13   8  4  1  19- 7  28  [C]
- 2.AS Maniema Union (Kindu)           13   5  8  0  13- 5  23
- 3.AS Vita Club (Kinshasa)            13   6  5  2  16- 7  23
- 4.Céleste FC (Mbandaka)              13   6  4  3  18- 6  22
+ 2.Céleste FC (Mbandaka)              13   7  3  3  21- 6  24
+ 3.AS Maniema Union (Kindu)           13   5  8  0  13- 5  23
+ 4.AS Vita Club (Kinshasa)            13   6  5  2  16- 7  23
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.Etoile du Kivu (Bukavu)            13   5  4  4  15-16  19       [*3]
- 6.DC Motema Pembe (Kinshasa)         13   4  6  3  18-13  18
- 7.Académic Club Rangers (Kinshasa)   13   4  6  3  12-14  18
- 8.FC New Jak (Kinshasa)              13   4  5  4  11-10  17
- 9.AS Dauphin Noir (Goma)             13   4  4  5  15-13  16       [*3]
+ 5.DC Motema Pembe (Kinshasa)         13   4  6  3  17-11  18
+ 6.Académic Club Rangers (Kinshasa)   13   4  6  3  12-14  18
+ 7.FC New Jak (Kinshasa)              13   4  5  4  11-10  17
+ 8.AS Dauphin Noir (Goma)             13   4  4  5  15-13  16       [*3]
+ 9.AF Anges Verts (Kinshasa)          13   4  4  5  14-15  16
 10.FC MK Etanchéité (Kinshasa)        13   4  4  5  10-16  16  [P]
-11.AF Anges Verts (Kinshasa)          13   3  4  6  13-18  13
+11.Etoile du Kivu (Bukavu)            13   4  3  6  10-19  15       [*3]
 -------------------------------------------------------------
 12.FC Renaissance du Congo (Kinshasa) 13   3  4  6  11-19  13  [P]  [*2]
 13.OC Renaissance du Congo (Kinshasa) 13   3  3  7   7-13  12       [*1]
@@ -709,7 +737,7 @@ OC Bukavu Dawa        0-1 AC Rangers
 AS Maniema Union      awd OC Renaissance        [awarded 3-0, OC Renaissance forfeited]
 FC New Jak            1-1 FC Renaissance
 [Mar 1]
-Etoile du Kivu        2-2 Les Aigles du Congo
+Etoile du Kivu        awd Les Aigles du Congo   [awarded 0-3; originally 2-2]
 AS Vita Club          0-0 Céleste FC
 [Mar 4]
 AS Maniema Union      awd FC New Jak            [awarded 3-0, New Jak forfeited]
@@ -722,14 +750,14 @@ AS Vita Club          1-0 OC Bukavu Dawa
 [Mar 8]
 FC New Jak            1-0 Les Aigles du Congo
 [Mar 13]
-FC MK Etanchéité      1-0 FC Renaissance
+FC MK Etanchéité      awd FC Renaissance        [awarded 0-3; originally 1-0]
 [Mar 14]
 Céleste FC            2-1 AF Anges Verts
-OC Renaissance        abd Les Aigles du Congo   [abandoned at 0-2 in 90+2' due to crowd trouble]
-[Mar 15]
+OC Renaissance        0-2 Les Aigles du Congo   [abandoned at 0-2 in 90+2' due to crowd trouble;
+[Mar 15]                                         result apparently stood]
 AC Rangers            1-3 DC Motema Pembe
 [Mar 18]
-OC Bukavu Dawa        1-1 FC MK Etanchéité
+OC Bukavu Dawa        1-1 FC MK Etanchéité      [awarded 3-0; originally 1-1]
 DC Motema Pembe       1-1 AS Dauphin Noir
 [Mar 19]
 Céleste FC            0-1 AC Rangers
@@ -742,7 +770,7 @@ DC Motema Pembe       0-0 Céleste FC
 [Mar 25]
 AS Vita Club          0-1 AS Dauphin Noir
 [Mar 26]
-Céleste FC            1-0 FC MK Etanchéité
+Céleste FC            awd FC MK Etanchéité      [awarded 3-0; originally 1-0]
 DC Motema Pembe       1-1 FC Renaissance
 [Mar 27]
 FC New Jak            2-2 OC Renaissance
@@ -755,38 +783,146 @@ DC Motema Pembe       abd AS Vita Club          [abandoned at 1-1 in 59' due to 
 [Mar 30]
 DC Motema Pembe       1-1 AS Vita Club          [remaining 31']
 [Apr 1]
-AC Rangers            0-1 FC MK Etanchéité
+AC Rangers            awd FC MK Etanchéité      [awarded 3-0; originally 0-1]
 AF Anges Verts        0-0 AS Maniema Union
 FC New Jak            1-2 AS Vita Club
 [Apr 2]
 Les Aigles du Congo   1-1 OC Bukavu Dawa
 OC Renaissance        1-1 FC Renaissance
 
-Table (includes "suspended result"):
+NB: FC MK Etanchéité excluded from the league on Apr 3 for failure to settle a debt
+    to Etoile Sportive La Grâce; all matches played since Mar 12 (vs. FC Renaissance,
+    OC Bukavu Dawa, Céleste FC and AC Rangers) were awarded forfeit losses
 
- 1.AS Vita Club (Kinshasa)            24  10 11  3  28-11  41
- 2.Les Aigles du Congo (Kinshasa)     23  11  8  4  25-14  41  [C]
- 3.AS Dauphin Noir (Goma)             24  12  5  7  32-20  41       [*3]
- 4.AS Maniema Union (Kindu)           21  10 10  1  26- 9  40
+[Apr 4]
+AF Anges Verts        awd FC MK Etanchéité      [awarded 3-0, FC MK Etanchéité excluded]
+[Apr 6]
+Céleste FC            0-0 AS Maniema Union
+[Apr 8]
+Les Aigles du Congo   4-1 AF Anges Verts
+OC Renaissance        0-0 DC Motema Pembe
+[Apr 9]
+AC Rangers            0-1 Etoile du Kivu
+OC Bukavu Dawa        0-0 AS Maniema Union
+FC Renaissance        0-0 AS Dauphin Noir
+[Apr 11]
+Céleste FC            5-0 OC Renaissance
+AF Anges Verts        1-0 DC Motema Pembe
+[Apr 12]
+FC Renaissance        0-5 AS Maniema Union
+AC Rangers            0-3 AS Vita Club
+FC MK Etanchéité      awd Etoile du Kivu        [awarded 0-3, FC MK Etanchéité excluded]
+[Apr 14]
+FC New Jak            1-1 OC Bukavu Dawa
+Les Aigles du Congo   1-2 Céleste FC
+[Apr 15]
+Etoile du Kivu        1-5 DC Motema Pembe
+AS Dauphin Noir       awd AC Rangers            [awarded 3-0, Rangers forfeited]
+OC Renaissance        2-3 AS Vita Club
+AS Maniema Union      awd FC MK Etanchéité      [awarded 3-0, FC MK Etanchéité excluded]
+[Apr 18]
+AF Anges Verts        0-0 FC New Jak
+AS Maniema Union      awd DC Motema Pembe       [awarded 3-0, DC Motema Pembe forfeited]
+
+Final Table:
+
+ 1.AS Maniema Union (Kindu)           26  13 12  1  37- 9  51             ‹Qualified, see §play›
+ 2.Les Aigles du Congo (Kinshasa)     26  14  7  5  33-15  49  [C]        ‹Qualified, see §play›
+ 3.AS Vita Club (Kinshasa)            26  12 11  3  34-13  47             ‹Qualified, see §play›
+ 4.Céleste FC (Mbandaka)              26  13  9  6  41-13  46             ‹Qualified, see §play›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.Céleste FC (Mbandaka)              23  10  7  6  29-12  37
- 6.Etoile du Kivu (Bukavu)            23   8  6  9  29-30  30       [*3]
- 7.Académic Club Rangers (Kinshasa)   23   7  8  8  21-27  29
- 8.FC New Jak (Kinshasa)              24   6  9  9  19-25  27
- 9.FC MK Etanchéité (Kinshasa)        23   6  8  9  15-26  26  [P]
-10.AF Anges Verts (Kinshasa)          22   4 10  8  21-28  22
-11.OC Renaissance du Congo (Kinshasa) 22   4  9  9  12-23  21       [*1]
+ 5.AS Dauphin Noir (Goma)             26  13  6  7  35-20  45       [*3]
+ 6.AF Anges Verts (Kinshasa)          26   7 11  8  27-29  32
+ 7.Académic Club Rangers (Kinshasa)   26   8  8 10  24-33  32
+ 8.Etoile du Kivu (Bukavu)            26   9  4 13  27-39  31       [*3]
+ 9.FC New Jak (Kinshasa)              26   6 11  9  20-26  29
+10.FC Renaissance du Congo (Kinshasa) 26   4 13  9  20-38  25  [P]  [*2]
+11.OC Renaissance du Congo (Kinshasa) 26   4 10 12  14-33  22       [*1]
 -------------------------------------------------------------
-12.FC Renaissance du Congo (Kinshasa) 24   3 12  9  17-34  21  [P]  [*2]
-13.OC Bukavu Dawa (Bukavu)            24   2  7 15   9-33  13       [*3]  Relegated
-14.DC Motema Pembe (Kinshasa)         22   7 12  3  29-20   9  [-24]
+12.OC Bukavu Dawa (Bukavu)            26   3  8 15  12-33  17       [*3]  Relegated
+13.DC Motema Pembe (Kinshasa)         26   8 13  5  33-23  13       [-24] Relegated
+14.FC MK Etanchéité (Kinshasa)        26   4  7 15  12-45   7  [P]  [-12] Excluded
  -.AS Martin Pêcheur (Isiro)          excluded                 [P]
 
-NB: on Feb 14, DC Motema Pembe had 24 points deducted by FIFA decision
+NB: on Feb 14, DC Motema Pembe had 24 points deducted by FIFA decision;
+    FC MK Etanchéité had 12 points deducted and were excluded from the league on Apr 3
 
 [*1] OC Renaissance du Congo called FC Renaissance du Congo until 2023
 [*2] FC Renaissance du Congo were founded in 2023 and then bought the place
      of FC Litekwa at the second level
 [*3] these clubs from Eastern Congo play home matches in Kindu or Kinshasa
+
+===== Playoff Stage  ‹§play›
+
+Table:
+
+ 1.AS Maniema Union (Kindu)            2   2  0  0   3- 0   6
+ 2.Les Aigles du Congo (Kinshasa)      2   1  1  0   3- 1   4  [C]
+ 3.FC Saint-Eloi Lupopo (Lubumbashi)   2   1  1  0   3- 2   4
+ 4.TP Mazembe (Lubumbashi)             2   1  0  1   3- 2   3
+ 5.CS Don Bosco (Lubumbashi)           2   1  0  1   2- 3   3
+ 6.Céleste FC (Mbandaka)               2   0  1  1   1- 2   1
+ 7.AS Simba (Kolwezi)                  2   0  1  1   1- 3   1
+ 8.AS Vita Club (Kinshasa)             2   0  0  2   1- 4   0
+
+Round 1 [all matches in Lubumbashi]
+[Apr 30]
+FC Saint-Eloi Lupopo  1-1 Les Aigles du Congo
+[May 1]
+CS Don Bosco          0-2 AS Maniema Union
+TP Mazembe            2-0 AS Vita Club
+[May 2]
+AS Simba              1-1 Céleste FC
+
+NB: round 3 played before round 2
+
+Round 3 [all matches in Lubumbashi]
+[May 4]
+CS Don Bosco          2-1 AS Vita Club
+[May 5]
+AS Simba              0-2 Les Aigles du Congo
+AS Maniema Union      1-0 Céleste FC
+FC Saint-Eloi Lupopo  2-1 TP Mazembe
+
+Round 2 [tba]
+AS Vita Club           -  FC Saint-Eloi Lupopo
+AS Maniema Union       -  AS Simba
+Céleste FC             -  TP Mazembe
+Les Aigles du Congo    -  CS Don Bosco
+
+Round 4 [tba]
+TP Mazembe             -  CS Don Bosco
+AS Vita Club           -  AS Simba
+Céleste FC             -  FC Saint-Eloi Lupopo
+Les Aigles du Congo    -  AS Maniema Union
+
+Round 5 [tba]
+CS Don Bosco           -  FC Saint-Eloi Lupopo
+AS Simba               -  TP Mazembe
+AS Maniema Union       -  AS Vita Club
+Les Aigles du Congo    -  Céleste FC
+
+Round 6 [tba]
+Céleste FC             -  CS Don Bosco
+FC Saint-Eloi Lupopo   -  AS Simba
+AS Vita Club           -  Les Aigles du Congo
+TP Mazembe             -  AS Maniema Union
+
+Round 7 [tba]
+AS Simba               -  CS Don Bosco
+AS Maniema Union       -  FC Saint-Eloi Lupopo
+AS Vita Club           -  Céleste FC
+Les Aigles du Congo    -  TP Mazembe
+
+Table:
+
+ 1.AS Maniema Union (Kindu)            2   2  0  0   3- 0   6
+ 2.Les Aigles du Congo (Kinshasa)      2   1  1  0   3- 1   4  [C]
+ 3.FC Saint-Eloi Lupopo (Lubumbashi)   2   1  1  0   3- 2   4
+ 4.TP Mazembe (Lubumbashi)             2   1  0  1   3- 2   3
+ 5.CS Don Bosco (Lubumbashi)           2   1  0  1   2- 3   3
+ 6.Céleste FC (Mbandaka)               2   0  1  1   1- 2   1
+ 7.AS Simba (Kolwezi)                  2   0  1  1   1- 3   1
+ 8.AS Vita Club (Kinshasa)             2   0  0  2   1- 4   0
 
 

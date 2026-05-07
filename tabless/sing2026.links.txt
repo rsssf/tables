@@ -1,0 +1,4 @@
+tabless/sing2025                :  2024/25
+tabless/singchamp               :  list of champions
+tabless/singcuphist             :  list of cup winners
+tabless/singfound               :  list of foundation dates

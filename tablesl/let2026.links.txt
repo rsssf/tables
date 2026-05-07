@@ -1,0 +1,4 @@
+tablesl/let2025                 :  2025
+tablesl/letchamp                :  list of champions
+tablesl/letcuphist              :  list of cup winners
+tablesl/lettops                 :  list of topscorers

@@ -1,0 +1,3 @@
+tablesn/nica2025                :  2024/25.
+tablesn/nicachamp               :  list of champions.
+tablesn/nicacuphist             :  list of cup winners.

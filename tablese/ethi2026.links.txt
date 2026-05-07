@@ -1,0 +1,4 @@
+tablese/ethi2025                :  2024/25
+tablese/ethichamp               :  list of champions
+tablese/ethicuphist             :  list of cup winners
+tablese/ethisupcuphist          :  list of super cup winners

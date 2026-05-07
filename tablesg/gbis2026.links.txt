@@ -1,0 +1,3 @@
+tablesg/gbis2025                :  2024/25
+tablesg/gbischamp               :  list of champions
+tablesg/gbiscuphist             :  list of cup winners

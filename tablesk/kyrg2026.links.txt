@@ -1,0 +1,3 @@
+tablesk/kyrg2025                :  2025
+tablesk/kyrgchamp               :  list of champions
+tablesk/kyrgcuphist             :  list of cup winners

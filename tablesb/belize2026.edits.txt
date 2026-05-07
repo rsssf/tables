@@ -1,3 +1,8 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="fall">Opening Season 2025</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="fplay">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="spring">Closing Season 2026</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="sreg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="splay">Playoff Stage</a><
 -- removing nav(igation) section:
 
 ‹Premier League of Belize 2025/26, see §plb›
@@ -13,3 +18,12 @@
 
 ‹list of topscorers, see page belizetops›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Opening Season 2025, see §fall› | ‹Closing Season 2026, see §spring›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Regular Stage, see §freg› | ‹Playoff Stage, see §fplay›
+
+-- removing 1 leading nav line(s) in section 6:
+‹Regular Stage, see §sreg› | ‹Playoff Stage, see §splay›

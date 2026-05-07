@@ -1,0 +1,3 @@
+tablest/tanz2025                :  2024/25
+tablest/tanzchamp               :  list of champions
+tablest/tanzcuphist             :  list of cup winners

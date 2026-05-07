@@ -1,0 +1,4 @@
+tablesk/kenya2025               :  2024/25
+tablesk/kenyachamp              :  list of champions
+tablesk/kenyacuphist            :  list of cup winners
+tablesk/kenyafound              :  list of foundation dates

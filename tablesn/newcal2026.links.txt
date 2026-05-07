@@ -1,0 +1,4 @@
+tablesn/newcal2025              :  2025
+tablesn/newcalchamp             :  list of champions
+tablesn/newcalcuphist           :  list of cup winners
+tablesf/franseaterrcuphist      :  french overseas territories cup

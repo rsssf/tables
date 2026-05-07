@@ -1,3 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="top6">Championship Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="bot5">Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹Cambodia Premier League, see §cpl›
@@ -13,3 +16,6 @@
 
 ‹list of super cup winners, see page cambodsupcuphist›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Championship Playoff, see §top6› | ‹Relegation Playoff, see §bot5›

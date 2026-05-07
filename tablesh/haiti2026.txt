@@ -2,7 +2,7 @@
      title:   Haiti 2025/26
      source:  https://rsssf.org/tablesh/haiti2026.html
      author:  Karel Stokkermans
-     updated: 17 Feb 2026    
+     updated: 17 Feb 2026
     -->
 
 
@@ -19,11 +19,10 @@ NB: compared to last season, Cosmopolites SC and Racing FC (Gonaïves) entered
 
 ‹Phase des Groups, see §grp› | ‹Championship Playoff, see §play›
 
-Phase des Groups  ‹§grp›
+===== Phase des Groups  ‹§grp›
 
-‹Groupe A (Grand Nord), see §grnord› | ‹Groupe B (Grand Sud), see §grsud›
 
-Groupe A (Grand Nord)  ‹§grnord›
+====== Groupe A (Grand Nord)  ‹§grnord›
 
 Final Table:
 
@@ -105,7 +104,7 @@ Final Table:
  7.FICA (Cap-Haïtien)                      7   1  2  4   3- 8   5
  8.Tempête FC (Saint-Marc)                 7   0  3  4   4- 9   3
 
-Groupe B (Grand Sud)  ‹§grsud›
+====== Groupe B (Grand Sud)  ‹§grsud›
 
 Final Table:
 
@@ -156,11 +155,10 @@ Final Table:
  5.Don Bosco FC (Pétion-Ville)             5   0  4  1   4- 5   4
  6.América FC (Cayes)                      5   0  3  2   3- 6   3
 
-Championship Playoff  ‹§play›
+===== Championship Playoff  ‹§play›
 
-‹Groupe A (Grand Nord), see §plnord› | ‹Groupe B (Grand Sud), see §plsud› | ‹Final, see §fin›
 
-Groupe A (Grand Nord)  ‹§plnord›
+====== Groupe A (Grand Nord)  ‹§plnord›
 
 Final Table:
 
@@ -204,7 +202,7 @@ Final Table:
  3.AS Capoise (Cap-Haïtien)                6   2  2  2   6- 7   8
  4.Ouanaminthe FC                          6   2  1  3   3- 4   7
 
-Groupe B (Grand Sud)  ‹§plsud›
+====== Groupe B (Grand Sud)  ‹§plsud›
 
 Final Table:
 
@@ -250,7 +248,7 @@ Final Table:
  3.Juventus FC (Cayes)                     6   0  4  2   4- 7   4
  4.Racing Club Haïtien (Port-au-Prince)    6   0  3  3   5-12   3
 
-Championship Final  ‹§fin›
+====== Championship Final  ‹§fin›
 
 First Leg [Feb 8, Parc Levelt, Saint-Marc]
 Baltimore      0-0 Violette

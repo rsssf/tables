@@ -1,0 +1,3 @@
+tablesn/nig2025                 :  2024/25
+tablesn/nigchamp                :  list of champions
+tablesn/nigcuphist              :  list of cup winners

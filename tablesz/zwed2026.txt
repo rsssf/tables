@@ -2,7 +2,7 @@
      title:   Sweden 2026
      source:  https://rsssf.org/tablesz/zwed2026.html
      author:  Martin Arenlind
-     updated: 23 Feb 2026    
+     updated: 23 Feb 2026
     -->
 
 
@@ -69,7 +69,7 @@ Current Table:
  1.Västerås SK                     0  0  0  0   0-0    0  [P]
  1.Örgryte IS (Göteborg)           0  0  0  0   0-0    0  [P]
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 First Leg [Nov]
 
 Second Leg [Nov]
@@ -132,7 +132,7 @@ Current Table:
  1.Östersunds FK                   0  0  0  0   0-0    0
 
 
-Promotion/Relegation Playoff 2nd/3rd level  ‹§2prorel›
+===== Promotion/Relegation Playoff 2nd/3rd level  ‹§2prorel›
 
 First Legs [Nov]
 
@@ -197,7 +197,7 @@ Current Table:
 
 [*] Feeder team to Hammarby IF
 
-Promotion/Relegation Playoff 3rd/4th level  ‹§3prorel›
+===== Promotion/Relegation Playoff 3rd/4th level  ‹§3prorel›
 
 NB: the six Tvåan runners-up first play out two qualifiers in minigroups.
 

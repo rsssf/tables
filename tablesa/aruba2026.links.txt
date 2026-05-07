@@ -1,0 +1,3 @@
+tablesa/aruba2025               :  2024/25
+tablesa/arubachamp              :  list of champions
+tablesa/arubacuphist            :  list of cup winners

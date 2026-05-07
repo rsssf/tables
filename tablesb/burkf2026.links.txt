@@ -1,0 +1,5 @@
+tablesb/burkf2025               :  2024/25
+tablesb/burkfchamp              :  list of champions
+tablesb/burkfcuphist            :  list of cup winners
+tablesb/burkfleadcuphist        :  list of winners coupe des leaders
+tablesb/burkfsupcuphist         :  list of super cup winners

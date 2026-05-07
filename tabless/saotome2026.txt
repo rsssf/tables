@@ -2,7 +2,7 @@
      title:   São Tomé e Príncipe 2026
      source:  https://rsssf.org/tabless/saotome2026.html
      author:  José Batalha
-     updated: 21 Jan 2026    
+     updated: 7 May 2026
     -->
 
 
@@ -32,12 +32,10 @@ Champions ‹Príncipe, see §principe›
 
 
 
-
 ==== São Tomé Championship  ‹§saotome›
 
-‹First Level, see §saotome1›
 
-First Level  ‹§saotome1›
+===== First Level  ‹§saotome1›
 
 NB: Vitória Riboque only club never to have been relegated.
 
@@ -61,30 +59,225 @@ Trindade Futebol Clube                             Trindade                Mé-Z
 (1) UDRA abbreviates União Desportiva Rei Amador.
 (2) UDESCAI abbreviates União Desportiva Sardinha e Caça de Água Izé.
 
-Round 1 [Mar 20]
-Praia Cruz         -  Caixão Grande
-Trindade           -  Inter Bom-Bom
-Riboque            -  Kê Morabeza
-Juba               -  UDESCAI
-6 de Setembro      -  Agro-Sport
-UDRA               -  Aliança Nacional  [at São Tomé]
+Table:
+
+ 1.UDRA                   3   2  1  0   7- 4   7
+ - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.UDESCAI                3   2  1  0   6- 4   7
+ 3.Vitória Riboque        3   2  0  1   7- 4   6  [C]
+ 4.Agro-Sport             3   1  2  0   5- 3   5
+ 5.Caixão Grande          3   1  2  0   3- 2   5  [P]
+ 6.Juba de Diogo Simão    3   1  1  1   7- 5   4
+ 7.6 de Setembro          3   1  1  1   5- 3   4
+ 8.Inter Bom-Bom          3   1  1  1   4- 5   4
+ 9.Trindade FC            3   1  0  2   5- 6   3
+10.Sporting Praia Cruz    3   0  2  1   1- 2   2
+------------------------------------------------
+11.Kê Morabeza            3   0  1  2   2- 7   1  [P]
+12.Aliança Nacional       3   0  0  3   4-11   0
+
+Round 1
+[Apr 17]
+Juba                 3-4 UDESCAI              [at São Tomé]
+[Apr 18]
+Vitória Riboque      4-1 Kê Morabeza
+Praia Cruz           0-0 Caixão Grande
+UDRA                 3-1 Aliança Nacional     [at São Tomé]
+[Apr 19]
+Trindade             1-3 Inter Bom-Bom
+6 de Setembro        1-1 Agro-Sport
+
+Round 2
+[Apr 24]
+Caixão Grande        2-2 UDRA
+[Apr 26]
+UDESCAI              1-0 6 de Setembro
+Vitória Riboque      2-1 Praia Cruz
+[Apr 28]
+Aliança Nacional     2-4 Trindade             [at São Tomé]
+Inter Bom-Bom        abd Juba                 [abandoned at 0-0 in 47' due to heavy rain]
+Kê Morabeza          abd Agro-Sport           [abandoned at 0-1 in 26' due to heavy rain]
+[May 6]
+Inter Bom-Bom        0-0 Juba                 [remaining 43']
+Kê Morabeza          1-3 Agro-Sport           [remaining 64']
+
+Round 3
+[May 1]
+6 de Setembro        4-1 Inter Bom-Bom
+[May 2]
+Agro-Sport           1-1 UDESCAI
+UDRA                 2-1 Vitória Riboque      [at São Tomé]
+Trindade             0-1 Caixão Grande
+[May 3]
+Juba                 4-1 Aliança Nacional     [at São Tomé]
+Praia Cruz           0-0 Kê Morabeza
 
 Table:
 
- 1.Vitória Riboque        0   0  0  0   0- 0   0 [ C]
+ 1.UDRA                   3   2  1  0   7- 4   7
  - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Sporting Praia Cruz    0   0  0  0   0- 0   0
- 3.UDRA                   0   0  0  0   0- 0   0
- 4.Trindade FC            0   0  0  0   0- 0   0
- 5.Juba de Diogo Simão    0   0  0  0   0- 0   0
- 6.6 de Setembro          0   0  0  0   0- 0   0
- 7.Agro-Sport             0   0  0  0   0- 0   0
- 8.UDESCAI                0   0  0  0   0- 0   0
- 9.Inter Bom-Bom          0   0  0  0   0- 0   0
-10.Aliança Nacional       0   0  0  0   0- 0   0
+ 2.UDESCAI                3   2  1  0   6- 4   7
+ 3.Vitória Riboque        3   2  0  1   7- 4   6  [C]
+ 4.Agro-Sport             3   1  2  0   5- 3   5
+ 5.Caixão Grande          3   1  2  0   3- 2   5  [P]
+ 6.Juba de Diogo Simão    3   1  1  1   7- 5   4
+ 7.6 de Setembro          3   1  1  1   5- 3   4
+ 8.Inter Bom-Bom          3   1  1  1   4- 5   4
+ 9.Trindade FC            3   1  0  2   5- 6   3
+10.Sporting Praia Cruz    3   0  2  1   1- 2   2
 ------------------------------------------------
-11.Kê Morabeza            0   0  0  0   0- 0   0  [P]
-12.Caixão Grande          0   0  0  0   0- 0   0  [P]
+11.Kê Morabeza            3   0  1  2   2- 7   1  [P]
+12.Aliança Nacional       3   0  0  3   4-11   0
+
+===== Second Level  ‹§saotome2›
+
+Participants:
+Clube Desportivo Oque d'El Rei
+Clube Desportivo Guadalupe
+Palmar Lusitano Ginásio Clube de São Tomé (Água Porca)
+Clube Desportivo de Folha Fede
+Grupo Desportivo Cruz Vermelha (Almeirim)
+União Desportiva de Ribeira Peixe
+Marítimo de Micoló
+Clube Desportivo de Conde
+União Desportiva Amadora de Agostinho Neto
+Desportivo de Otótó
+
+Table:
+
+ 1.Ribeira Peixe          3   3  0  0   8- 2   9
+ 2.Palmar Lusitano        3   2  0  1   6- 4   6
+------------------------------------------------
+ 3.Folha Fede             3   1  2  0   6- 5   5
+ 4.CD Oque d'El Rei       3   1  2  0   6- 5   5  [R]
+ 5.CD Guadalupe           3   1  1  1   6- 6   4 [R]
+ 6.GD Cruz Vermelha       3   1  1  1   4- 4   4
+ 7.CD Conde               3   1  0  2   3- 4   3
+ 8.Marítimo de Micoló     3   0  2  1   7- 8   2
+------------------------------------------------
+ 9.UD Amadora             3   0  1  2   4- 8   1  [P]
+10.Desportivo de Otótó    3   0  1  2   1- 5   1  [P]
+
+Round 1
+[Apr 18]
+CD Conde             0-1 CD Guadalupe
+Marítimo de Micoló   2-2 CD Oque d'El Rei
+[Apr 19]
+GD Cruz Vermelha     0-0 Desportivo Otótó
+Folha Fede           3-3 UD Amadora
+Palmar Lusitano      1-3 Ribeira Peixe
+
+Round 2
+[Apr 25]
+UD Amadora           1-2 Palmar Lusitano      [at Guadalupe]
+Desportivo Otótó     1-2 Folha Fede
+[Apr 26]
+CD Guadalupe         1-2 Ribeira Peixe
+CD Conde             2-1 Marítimo de Micoló
+[Apr 28]
+CD Oque d'El Rei     abd GD Cruz Vermelha     [abandoned at 1-0 in 45' due to heavy rain]
+[May 6]
+CD Oque d'El Rei     3-2 GD Cruz Vermelha     [remaining 45']
+
+Round 3
+[May 2]
+Marítimo de Micoló   4-4 CD Guadalupe         [at Santo Amaro]
+Ribeira Peixe        3-0 UD Amadora
+[May 3]
+GD Cruz Vermelha     2-1 CD Conde
+Folha Fede           1-1 CD Oque d'El Rei
+Palmar Lusitano      3-0 Desportivo Otótó
+
+Table:
+
+ 1.Ribeira Peixe          3   3  0  0   8- 2   9
+ 2.Palmar Lusitano        3   2  0  1   6- 4   6
+------------------------------------------------
+ 3.Folha Fede             3   1  2  0   6- 5   5
+ 4.CD Oque d'El Rei       3   1  2  0   6- 5   5  [R]
+ 5.CD Guadalupe           3   1  1  1   6- 6   4 [R]
+ 6.GD Cruz Vermelha       3   1  1  1   4- 4   4
+ 7.CD Conde               3   1  0  2   3- 4   3
+ 8.Marítimo de Micoló     3   0  2  1   7- 8   2
+------------------------------------------------
+ 9.UD Amadora             3   0  1  2   4- 8   1  [P]
+10.Desportivo de Otótó    3   0  1  2   1- 5   1  [P]
+
+===== Third Level (Campeonato Nacional da Divisão de Honra)  ‹§saotome3›
+
+NB: twelfth ever championship.
+
+Participants:
+Neves Futebol Clube
+União Desportiva Correia
+União Desportiva de Santa Margarida
+Sporting Clube de São Tomé
+Santana Futebol Clube
+Benfica de Porto Alegre
+Desportivo de Diogo Vaz
+Andorinha Sport Clube
+Boavista Futebol Clube (Ubâ Budo)
+Varzim Futebol Clube (Ribeira Afonso)
+
+Table:
+
+ 1.Santana FC             3   2  0  1  11- 3   6
+ 2.Varzim (Rib. Afonso)   3   2  0  1   7- 5   6
+------------------------------------------------
+ 3.Neves FC               3   2  0  1   3- 5   6  [R]
+ 4.Santa Margarida        3   2  0  1   3- 6   6
+ 5.Sporting São Tomé      2   1  1  0   3- 1   4
+ 6.UD Correia             3   1  1  1   3- 3   4  [R]
+ 7.Diogo Vaz              2   1  0  1   4- 3   3
+ 8.Boavista FC            3   1  0  2   4- 4   3
+ 9.Andorinha              3   1  0  2   7-10   3
+10.Benfica Porto Alegre   3   0  0  3   4- 9   0
+
+Round 1
+[Apr 18]
+Santa Margarida      2-1 UD Correia
+Santana FC           5-1 Neves FC
+[Apr 19]
+Boavista FC          4-2 Andorinha
+Benfica Porto Alegre 2-4 Varzim FC
+Diogo Vaz            abd Sporting São Tomé    [abandoned at 1-2; assistant referee fainted]
+
+Round 2
+[Apr 25]
+Varzim FC            2-0 Diogo Vaz
+[Apr 26]
+Andorinha            4-2 Benfica Porto Alegre
+Neves FC             1-0 Boavista FC
+[Apr 28]
+UD Correia           abd Sporting São Tomé    [abandoned at 0-0 due to heavy rain]
+Santa Margarida      abd Santana FC           [abandoned at 0-4 in 70' due to heavy rain]
+[May 6]
+UD Correia           0-0 Sporting São Tomé    [remaining time]
+Santa Margarida      0-5 Santana FC           [remaining 20']
+
+Round 3
+[May 1]
+Sporting São Tomé    3-1 Varzim FC
+[May 2]
+Santana FC           1-2 UD Correia
+Boavista FC          0-1 Santa Margarida      [at Bom-Bom]
+[May 3]
+Benfica Porto Alegre 0-1 Neves FC
+Diogo Vaz            4-1 Andorinha            [at Neves]
+
+Table:
+
+ 1.Santana FC             3   2  0  1  11- 3   6
+ 2.Varzim (Rib. Afonso)   3   2  0  1   7- 5   6
+------------------------------------------------
+ 3.Neves FC               3   2  0  1   3- 5   6  [R]
+ 4.Santa Margarida        3   2  0  1   3- 6   6
+ 5.Sporting São Tomé      2   1  1  0   3- 1   4
+ 6.UD Correia             3   1  1  1   3- 3   4  [R]
+ 7.Diogo Vaz              2   1  0  1   4- 3   3
+ 8.Boavista FC            3   1  0  2   4- 4   3
+ 9.Andorinha              3   1  0  2   7-10   3
+10.Benfica Porto Alegre   3   0  0  3   4- 9   0
 
 
 
@@ -107,13 +300,39 @@ Sundy Futebol Clube                 Sundy                 Pagué
 
 Table:
 
- 1.Operário               0   0  0  0   0- 0   0
+ 1.Operário               1   1  0  0   6- 0   3
  - - - - - - - - - - - - - - - - - - - - - - - -
- 2.1º de Maio             0   0  0  0   0- 0   0
- 3.Sundy FC               0   0  0  0   0- 0   0
- 4.Porto Real             0   0  0  0   0- 0   0
- 5.Sporting               0   0  0  0   0- 0   0
- 6.UDAPB                  0   0  0  0   0- 0   0
+ 2.1º de Maio             1   1  0  0   4- 0   3
+ 3.Sporting               1   1  0  0   6- 3   3
+ 4.Sundy FC               1   0  0  1   3- 6   0
+ 5.Porto Real             1   0  0  1   0- 4   0
+ 6.UDAPB                  1   0  0  1   0- 6   0
+
+Round 1
+[May 1]
+Operário             6-0 UDAPB
+[May 2]
+1º de Maio           4-0 Porto Real
+[May 3]
+GD Sundy             3-6 Sporting
+
+Round 2
+[May 8]
+UDAPB                 -  Sporting
+[May 9]
+Porto Real            -  GD Sundy
+[May 10]
+Operário              -  1º de Maio
+
+Table:
+
+ 1.Operário               1   1  0  0   6- 0   3
+ - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.1º de Maio             1   1  0  0   4- 0   3
+ 3.Sporting               1   1  0  0   6- 3   3
+ 4.Sundy FC               1   0  0  1   3- 6   0
+ 5.Porto Real             1   0  0  1   0- 4   0
+ 6.UDAPB                  1   0  0  1   0- 6   0
 
 
 
@@ -122,7 +341,7 @@ Table:
 
 ==== Cup Tournaments  ‹§tacas›
 
-Taça Nacional  ‹§tacanac›
+===== Taça Nacional  ‹§tacanac›
 
 São Tomé Island
 

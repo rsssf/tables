@@ -1,0 +1,3 @@
+tablesb/bahama2025              :  2024/25
+tablesb/bahamachamp             :  list of champions
+tablesb/bahamacuphist           :  list of cup winners

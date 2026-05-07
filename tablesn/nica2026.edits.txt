@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1aper">Torneo Apertura</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1clau">Torneo Clausura</a><
 -- removing nav(igation) section:
 
 ‹Liga Nicaragüense de Fútbol, see §primera›
@@ -11,3 +13,12 @@
 
 ‹list of cup winners., see page nicacuphist›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Apertura, see §1aper› | ‹Clausura, see §1clau›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Regular Stage, see §1aperreg› | ‹Final Stage, see §1aperfinal›
+
+-- removing 1 leading nav line(s) in section 5:
+‹Regular Stage, see §1claureg› | ‹Final Stage, see §1claufinal›

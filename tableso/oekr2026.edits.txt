@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="3a">Group A</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3b">Group B</a><
 -- removing nav(igation) section:
 
 ‹Ukrainian Premier League, see §upl›

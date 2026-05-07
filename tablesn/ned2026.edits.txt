@@ -1,3 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1reg">Regular Season</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1eur">Conference League Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2nac">Nacompetitie</a><
 -- removing nav(igation) section:
 
 ‹Eredivisie, see §ere›
@@ -19,3 +22,6 @@
 
 ‹list of super cup finals, see page nedsupcuphist›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Season, see §1reg› | ‹Conference League Playoff, see §1eur› | ‹Nacompetitie, see §2nac›

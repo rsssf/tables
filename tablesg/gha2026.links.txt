@@ -1,0 +1,5 @@
+tablesg/gha2025                 :  2024/25
+tablesg/ghachamp                :  list of champions
+tablesg/ghahist                 :  list of final tables
+tablesg/ghacuphist              :  list of cup winners
+tablesg/ghatops                 :  list of topscorers

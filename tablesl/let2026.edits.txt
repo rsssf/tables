@@ -1,3 +1,5 @@
+-- make heading (hu) out of u-enclosed a name in line ><a name="2a">A Grupa</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2b">B Grupa</a><
 -- removing nav(igation) section:
 
 ‹Virslīga, see §virs›
@@ -15,3 +17,6 @@
 
 ‹list of topscorers, see page lettops›.
 
+
+-- removing 1 leading nav line(s) in section 5:
+‹A Grupa, see §2a› | ‹B Grupa, see §2b›

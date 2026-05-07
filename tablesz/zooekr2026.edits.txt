@@ -1,5 +1,10 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="krimpl">CFU Premier League 2026</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="krimaoc">Crimean Open Amateur Championship 2026</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="dwchamp">Winter Championship 2025/26</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="dleag">Premier League 2026</a><
 -- removing nav(igation) section:
 
+‹Commonwealth United Championship, see §bezetoekr›
 ‹Crimea, see §krim›
 ‹Donetsk PR, see §dpr›
 

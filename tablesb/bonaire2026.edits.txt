@@ -9,3 +9,6 @@
 
 ‹list of champions, see page bonairechamp›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Season, see §reg› | ‹Eredivisie, see §kaya6› | ‹Eredivisie Final, see §kaya2› | ‹Tweede Divisie, see §kopaffb› | ‹Tweede Divisie Final, see §tweef›

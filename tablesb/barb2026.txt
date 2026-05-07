@@ -2,7 +2,7 @@
      title:   Barbados 2026
      source:  https://rsssf.org/tablesb/barb2026.html
      author:  Patrick Beckles
-     updated: 19 Mar 2026    
+     updated: 19 Mar 2026
     -->
 
 

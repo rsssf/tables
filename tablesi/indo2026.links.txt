@@ -1,0 +1,6 @@
+tablesi/indo2025                :  2024/25
+tablesi/indochamp               :  list of champions
+tablesi/indo2champ              :  list of 2nd level champions
+tablesi/indo3champ              :  list of 3rd level champions
+tablesi/indoamchamp             :  list of amateur champions
+tablesi/indocuphist             :  list of cup winners

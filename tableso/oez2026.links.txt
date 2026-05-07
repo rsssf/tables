@@ -1,0 +1,7 @@
+tableso/oez2025                 :  2025
+tableso/oezchamp                :  list of champions
+tableso/oezcuphist              :  list of cup winners
+tableso/oeztops                 :  list of topscorers
+tableso/oezalltime              :  All-Time Table
+tableso/oezall                  :  Divisional Movements
+tableso/oez-names               :  Name Changes

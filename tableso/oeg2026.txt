@@ -2,7 +2,7 @@
      title:   Uganda 2025/26
      source:  https://rsssf.org/tableso/oeg2026.html
      author:  Karel Stokkermans
-     updated: 16 Mar 2026    
+     updated: 16 Mar 2026
     -->
 
 
@@ -362,21 +362,21 @@ Table:
 
 [*] Gaddafi Modern FC were renamed Entebbe Uganda Printing and Publishing Corporation FC
 
-Discarded New League Format  ‹§disc›
+===== Discarded New League Format  ‹§disc›
 
 At the start of the season, a controversial new league format was announced, consisting
 of three "Rounds":
 
-Round-1  ‹§rd1›
+====== Round-1  ‹§rd1›
 
 A single round robin between all 16 clubs.
 
-Round-2  ‹§rd2›
+====== Round-2  ‹§rd2›
 
 Top-8 of Round-1 play double round robin in Group-1
 Bottom-8 of Round-1 play double round robin in Group-2
 
-Round-3  ‹§rd3›
+====== Round-3  ‹§rd3›
 
 Top-6 of Group-1 of Round-2 play single round robin in Group-3
 

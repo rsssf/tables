@@ -1,0 +1,4 @@
+tablesa/antig2025               :  2024/25
+tablesa/antigchamp              :  list of champions
+tablesa/antigcuphist            :  list of cup winners
+tablesa/antigctvcup             :  ctv warriors cup overview

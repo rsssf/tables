@@ -1,0 +1,3 @@
+tablest/togo2025                :  2024/25
+tablest/togochamp               :  list of champions
+tablest/togocuphist             :  list of cup winners

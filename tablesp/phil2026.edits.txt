@@ -1,3 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="chpo">Final Series</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="relpo">Classification Group</a><
 -- removing nav(igation) section:
 
 ‹Philippines Football League 2025/26, see §pfl›

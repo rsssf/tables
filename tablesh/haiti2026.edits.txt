@@ -1,3 +1,10 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="grp">Phase des Groups</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="grnord">Groupe A (Grand Nord)</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="grsud">Groupe B (Grand Sud)</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Championship Playoff</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="plnord">Groupe A (Grand Nord)</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="plsud">Groupe B (Grand Sud)</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="fin">Championship Final</a><
 -- removing nav(igation) section:
 
 ‹Ligue Haïtienne de Football - Série d'Ouverture 2025/26, see §ouv›
@@ -13,3 +20,9 @@
 
 ‹list of foundation dates, see page haitifound›
 
+
+-- removing 1 leading nav line(s) in section 4:
+‹Groupe A (Grand Nord), see §grnord› | ‹Groupe B (Grand Sud), see §grsud›
+
+-- removing 1 leading nav line(s) in section 7:
+‹Groupe A (Grand Nord), see §plnord› | ‹Groupe B (Grand Sud), see §plsud› | ‹Final, see §fin›

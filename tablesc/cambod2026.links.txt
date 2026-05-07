@@ -1,0 +1,4 @@
+tablesc/cambod2025              :  2024/25
+tablesc/cambodchamp             :  list of champions
+tablesc/cambodcuphist           :  list of cup winners
+tablesc/cambodsupcuphist        :  list of super cup winners

@@ -1,0 +1,5 @@
+tablesk/kaapv2025§nacional      :  2025
+tablesk/kaapv2025               :  2024/25
+tablesk/kaapvchamp              :  list of champions
+tablesk/kaapvcuphist            :  list of cup winners
+tablesk/kaapvregchamp           :  list of regional champions and cup winners

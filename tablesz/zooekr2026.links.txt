@@ -1,0 +1,5 @@
+tablesz/zooekr2025              :  2025
+tablesk/krimchamp               :  list of champions (crimea)
+tablesz/zooekrchamp             :  list of champions (south eastern ukraine)
+tablesk/krimcuphist             :  list of cup winners (crimea)
+tablesz/zooekrcuphist           :  list of cup winners (south eastern ukraine)

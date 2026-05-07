@@ -1,0 +1,5 @@
+tablese/elsal2025               :  2024/25.
+tablese/elsalchamp              :  list of champions
+tablese/elsalhist               :  list of final tables
+tablese/elsalcuphist            :  list of cup finals
+tablese/elsalall                :  list of divisional movements

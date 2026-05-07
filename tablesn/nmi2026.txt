@@ -2,7 +2,7 @@
      title:   Northern Marianas 2026
      source:  https://rsssf.org/tablesn/nmi2026.html
      author:  Karel Stokkermans
-     updated: 9 Apr 2026    
+     updated: 27 Apr 2026
     -->
 
 
@@ -51,6 +51,8 @@ Matansa                 3-0 Latte
 [Apr 2]
 Men's Development Team  0-5 Kanoa
 MP United               bye
+
+NB: season interrupted due to damage done by typhoon "Sinlaku"
 
 Table:
 

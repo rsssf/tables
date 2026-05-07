@@ -2,7 +2,7 @@
      title:   Cambodia 2025/26
      source:  https://rsssf.org/tablesc/cambod2026.html
      author:  Karel Stokkermans
-     updated: 5 Apr 2026    
+     updated: 7 May 2026
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Cambodia Premier League 2025/26  ‹§cpl›
 
-‹Regular Stage, see §reg› | ‹Championship Playoff, see §top6› | ‹Relegation Playoff, see §bot5›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -275,16 +274,16 @@ Final Table:
 
 [*] Ministry of Interior FA was renamed MoI Kampong Dewa
 
-Championship Playoff  ‹§top6›
+===== Championship Playoff  ‹§top6›
 
 Table:
 
- 1.Preah Khan Reach Svay Rieng      25  20  2  3  73-22  62  [C]
- 2.Phnom Penh Crown                 25  14  5  6  46-32  47
- 3.Angkor Tiger                     25  13  5  7  59-34  44
- 4.Nagaworld                        25  12  6  7  38-25  42
- 5.Boeung Ket                       25  11  8  6  32-21  41
- 6.MoI Kampong Dewa                 25   9  7  9  31-36  35
+ 1.Preah Khan Reach Svay Rieng      28  21  3  4  80-29  66  [C]  Champions
+ 2.Phnom Penh Crown                 28  15  5  8  48-35  50
+ 3.Angkor Tiger                     28  15  5  8  65-39  50
+ 4.Boeung Ket                       28  13  8  7  37-24  47
+ 5.Nagaworld                        28  12  7  9  41-32  43
+ 6.MoI Kampong Dewa                 28  11  7 10  37-40  41
 
 Round 23 [Feb 28]
 Angkor Tiger                  0-0 Phnom Penh Crown
@@ -311,24 +310,51 @@ Phnom Penh Crown              1-4 Preah Khan Reach Svay Rieng
 Nagaworld                     1-3 Angkor Tiger
 MoI Kampong Dewa              2-2 Boeung Ket
 
+Round 28 [Apr 12]
+Phnom Penh Crown              2-0 Angkor Tiger
+MoI Kampong Dewa              2-3 Preah Khan Reach Svay Rieng
+Nagaworld                     1-3 Boeung Ket
+
+Round 29 [Apr 25]
+MoI Kampong Dewa              1-0 Phnom Penh Crown
+Angkor Tiger                  2-0 Boeung Ket
+Preah Khan Reach Svay Rieng   1-1 Nagaworld
+
+Round 30 [May 3]
+Nagaworld                     1-3 MoI Kampong Dewa
+Boeung Ket                    2-0 Phnom Penh Crown
+Angkor Tiger                  4-3 Preah Khan Reach Svay Rieng
+
+Round 31
+[May 7]
+Preah Khan Reach Svay Rieng    -  Boeung Ket
+[May 10]
+Phnom Penh Crown               -  Nagaworld
+MoI Kampong Dewa               -  Angkor Tiger
+
+Round 32 [May 17]
+Angkor Tiger                   -  Nagaworld
+Preah Khan Reach Svay Rieng    -  Phnom Penh Crown
+Boeung Ket                     -  MoI Kampong Dewa
+
 Table:
 
- 1.Preah Khan Reach Svay Rieng      25  20  2  3  73-22  62  [C]
- 2.Phnom Penh Crown                 25  14  5  6  46-32  47
- 3.Angkor Tiger                     25  13  5  7  59-34  44
- 4.Nagaworld                        25  12  6  7  38-25  42
- 5.Boeung Ket                       25  11  8  6  32-21  41
- 6.MoI Kampong Dewa                 25   9  7  9  31-36  35
+ 1.Preah Khan Reach Svay Rieng      28  21  3  4  80-29  66  [C]  Champions
+ 2.Phnom Penh Crown                 28  15  5  8  48-35  50
+ 3.Angkor Tiger                     28  15  5  8  65-39  50
+ 4.Boeung Ket                       28  13  8  7  37-24  47
+ 5.Nagaworld                        28  12  7  9  41-32  43
+ 6.MoI Kampong Dewa                 28  11  7 10  37-40  41
 
-Relegation Playoff  ‹§bot5›
+===== Relegation Playoff  ‹§bot5›
 
 Table:
 
- 7.Visakha                          24  11  8  5  46-30  41
- 8.Kirivong Sok Sen Chey            24   7  2 15  28-49  23
- 9.Royal Cambodian Armed Forces     24   4  6 14  25-61  18
-10.Life FC Sihanoukville            24   4  1 19  22-56  13
-11.ISI Dangkor Senchey FC           24   3  4 17  23-57  13
+ 7.Visakha                          26  13  8  5  50-31  47
+ 8.Kirivong Sok Sen Chey            26   7  3 16  30-53  24
+ 9.Royal Cambodian Armed Forces     26   5  6 15  28-66  21
+10.Life FC Sihanoukville            27   5  2 20  27-59  17
+11.ISI Dangkor Senchey FC           27   3  6 18  26-61  15
 
 Round 23 [Mar 1]
 Kirivong Sok Sen Chey         3-2 Royal Cambodian Armed Forces
@@ -355,12 +381,37 @@ Life FC Sihanoukville         0-1 Kirivong Sok Sen Chey
 Royal Cambodian Armed Forces  1-3 Visakha
 ISI Dangkor Senchey           bye
 
+Round 28 [Apr 11]
+Royal Cambodian Armed Forces  3-1 Kirivong Sok Sen Chey
+ISI Dangkor Senchey           1-1 Life FC Sihanoukville
+Visakha                       bye
+
+Round 29 [Apr 26]
+Kirivong Sok Sen Chey         1-1 ISI Dangkor Senchey
+Visakha                       2-0 Life FC Sihanoukville
+Royal Cambodian Armed Forces  bye
+
+Round 30 [May 2]
+Royal Cambodian Armed Forces  0-4 Life FC Sihanoukville
+ISI Dangkor Senchey           1-2 Visakha
+Kirivong Sok Sen Chey         bye
+
+Round 31 [May 9]
+Visakha                        -  Royal Cambodian Armed Forces
+Kirivong Sok Sen Chey          -  Life FC Sihanoukville
+ISI Dangkor Senchey           bye
+
+Round 32 [May 16]
+ISI Dangkor Senchey            -  Royal Cambodian Armed Forces
+Visakha                        -  Kirivong Sok Sen Chey
+Life FC Sihanoukville         bye
+
 Table:
 
- 7.Visakha                          24  11  8  5  46-30  41
- 8.Kirivong Sok Sen Chey            24   7  2 15  28-49  23
- 9.Royal Cambodian Armed Forces     24   4  6 14  25-61  18
-10.Life FC Sihanoukville            24   4  1 19  22-56  13
-11.ISI Dangkor Senchey FC           24   3  4 17  23-57  13
+ 7.Visakha                          26  13  8  5  50-31  47
+ 8.Kirivong Sok Sen Chey            26   7  3 16  30-53  24
+ 9.Royal Cambodian Armed Forces     26   5  6 15  28-66  21
+10.Life FC Sihanoukville            27   5  2 20  27-59  17
+11.ISI Dangkor Senchey FC           27   3  6 18  26-61  15
 
 

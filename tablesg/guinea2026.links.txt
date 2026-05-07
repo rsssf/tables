@@ -1,0 +1,3 @@
+tablesg/guinea2025              :  2024/25
+tablesg/guineachamp             :  list of champions
+tablesg/guineacuphist           :  list of cup winners

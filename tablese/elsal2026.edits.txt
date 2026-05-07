@@ -1,3 +1,9 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1aper">Campeonato Apertura 2025</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="1aperreg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="1aperplay">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1clau">Campeonato Clausura 2026</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="1claureg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="1clauplay">Playoff Stage</a><
 -- removing nav(igation) section:
 
 ‹Primera División, see §primera›
@@ -15,3 +21,12 @@
 
 ‹list of divisional movements, see page elsalall›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Campeonato Apertura 2025, see §1aper› | ‹Campeonato Clausura 2026, see §1clau›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Regular Stage, see §1aperreg› | ‹Playoff Stage, see §1aperplay›
+
+-- removing 1 leading nav line(s) in section 7:
+‹Regular Stage, see §1claureg› | ‹Playoff Stage, see §1clauplay›

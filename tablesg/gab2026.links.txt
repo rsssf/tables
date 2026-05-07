@@ -1,0 +1,3 @@
+tablesg/gab2025                 :  2024/25
+tablesg/gabchamp                :  list of champions
+tablesg/gabcuphist              :  list of cup winners

@@ -2,7 +2,7 @@
      title:   New Caledonia 2026
      source:  https://rsssf.org/tablesn/newcal2026.html
      author:  Karel Stokkermans
-     updated: 5 Apr 2026    
+     updated: 12 Apr 2026
     -->
 
 
@@ -16,17 +16,17 @@
 
 Table:
 
- 1.ASC Gaïca                       3   3  0  0   9- 2   9
- 2.AS Magenta                      3   3  0  0   7- 1   9
- 3.AS Lössi                        3   2  1  0   9- 5   7
- 4.Tiga Sports                     2   2  0  0   3- 0   6  [C]
- 5.Hienghène Sport                 2   1  1  0   4- 3   4
- 6.Horizon Patho                   3   1  0  2   5- 4   3
- 7.AS Kunié                        3   0  1  2   2- 5   1
- 8.SC Ne Drehu                     3   0  1  2   4- 8   1
- 9.CA Saint-Louis                  3   0  0  3   4- 9   0
+ 1.ASC Gaïca                       4   4  0  0  11- 2  12
+ 2.AS Lössi                        4   3  1  0  13- 6  10
+ 3.Tiga Sports                     3   3  0  0   5- 0   9  [C]
+ 4.AS Magenta                      4   3  0  1   7- 3   9
+ 5.Horizon Patho                   4   1  1  2  10- 9   4
+ 6.Hienghène Sport                 3   1  1  1   5- 5   4
+ 7.AS Kunié                        4   1  1  2   4- 6   4
+ 8.SC Ne Drehu                     4   0  2  2   9-13   2
+ 9.CA Saint-Louis                  4   0  0  4   4-11   0
 ---------------------------------------------------------
-10.AS Mont-Dore                    3   0  0  3   0-10   0
+10.AS Mont-Dore                    4   0  0  4   1-14   0
 
 Round 1
 [Mar 7]
@@ -57,18 +57,27 @@ Magenta             3-1 Horizon Patho
 Lössi               1-1 Kunié
 Gaïca               3-0 Mont-Dore
 
+Round 4
+[Apr 11]
+Lössi               4-1 Mont-Dore
+Kunié               2-1 Hienghène
+Saint-Louis         0-2 Tiga
+[Apr 12]
+Horizon Patho       5-5 Ne Drehu
+Magenta             0-2 Gaïca
+
 Table:
 
- 1.ASC Gaïca                       3   3  0  0   9- 2   9
- 2.AS Magenta                      3   3  0  0   7- 1   9
- 3.AS Lössi                        3   2  1  0   9- 5   7
- 4.Tiga Sports                     2   2  0  0   3- 0   6  [C]
- 5.Hienghène Sport                 2   1  1  0   4- 3   4
- 6.Horizon Patho                   3   1  0  2   5- 4   3
- 7.AS Kunié                        3   0  1  2   2- 5   1
- 8.SC Ne Drehu                     3   0  1  2   4- 8   1
- 9.CA Saint-Louis                  3   0  0  3   4- 9   0
+ 1.ASC Gaïca                       4   4  0  0  11- 2  12
+ 2.AS Lössi                        4   3  1  0  13- 6  10
+ 3.Tiga Sports                     3   3  0  0   5- 0   9  [C]
+ 4.AS Magenta                      4   3  0  1   7- 3   9
+ 5.Horizon Patho                   4   1  1  2  10- 9   4
+ 6.Hienghène Sport                 3   1  1  1   5- 5   4
+ 7.AS Kunié                        4   1  1  2   4- 6   4
+ 8.SC Ne Drehu                     4   0  2  2   9-13   2
+ 9.CA Saint-Louis                  4   0  0  4   4-11   0
 ---------------------------------------------------------
-10.AS Mont-Dore                    3   0  0  3   0-10   0
+10.AS Mont-Dore                    4   0  0  4   1-14   0
 
 

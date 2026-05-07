@@ -1,0 +1,5 @@
+tablesk/kam2025                 :  2024/25
+tablesk/kamchamp                :  list of champions
+tablesk/kamcuphist              :  list of cup finals
+tablesk/kamsupcuphist           :  list of super cup finals
+tablesk/kamfound                :  list of foundation dates

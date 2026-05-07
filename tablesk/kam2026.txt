@@ -2,7 +2,7 @@
      title:   Cameroon 2026
      source:  https://rsssf.org/tablesk/kam2026.html
      author:  Karel Stokkermans
-     updated: 2 Apr 2026    
+     updated: 2 Apr 2026
     -->
 
 

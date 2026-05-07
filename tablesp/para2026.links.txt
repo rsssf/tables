@@ -1,0 +1,9 @@
+tablesp/para2025                :  2025
+tablesp/parachamp               :  list of champions
+tablesp/parahist                :  league history 1906-1964
+tablesp/para2champ              :  list of 2nd level champions
+tablesp/para3champ              :  list of 3rd level champions
+tablesp/para4champ              :  list of 4th level champions
+tablesp/para-interligachamp     :  list of interligas champions
+tablesp/paratops                :  list of topscorers
+tablesp/parafound               :  foundation dates clubs

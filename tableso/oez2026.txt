@@ -2,7 +2,7 @@
      title:   Uzbekistan 2026
      source:  https://rsssf.org/tableso/oez2026.html
      author:  Theodore Dreiman
-     updated: 7 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -16,25 +16,27 @@
 
 Table:
 
- 1.Neftchi (Farg'ona)     5   5  0  0  16- 1  15  [C]
- 2.Paxtakor (Toshkent)    5   4  0  1  11- 6  12
- 3.Bunyodkor (Toshkent)   5   3  1  1   6- 3  10
- 4.Nasaf (Qarshi)         5   3  1  1   5- 2  10
- 5.FC Buxoro              5   3  1  1   7- 5  10
- 6.Navbahor (Namangan)    5   3  0  2   7- 5   9
- 7.Lokomotiv (Toshkent)   5   2  1  2   6- 6   7  [P]
- 8.Xorazm (Urganch)       5   2  1  2   5- 5   7
- 9.Surxon (Termiz)        5   2  1  2   5- 7   7
-10.Qizilqum (Navoiy)      5   2  0  3   4- 8   6      [2-1]
-11.FC Andijon             5   2  0  3   7- 6   6      [1-2]
+ 1.Neftchi (Farg'ona)    10   9  0  1  25- 3  27  [C]
+ 2.Paxtakor (Toshkent)   10   8  1  1  21-11  25
+ 3.Bunyodkor (Toshkent)  10   6  1  3  13-10  19      [2-1]
+ 4.Navbahor (Namangan)   10   6  1  3  14- 8  19      [1-2]
+ 5.FC Buxoro             10   5  2  3  13-10  17
+ 6.OKMK (Olmaliq)        10   4  3  3  14-14  15
+ 7.Lokomotiv (Toshkent)  10   4  2  4  13-14  14  [P]
+ 8.Nasaf (Qarshi)        10   3  4  3  12-11  13      [2 0 0 2-0 6]
+ 9.Qizilqum (Navoiy)     10   4  1  5   8-14  13      [1 1 0 2-1 4]
+10.Xorazm (Urganch)      10   3  4  3   9-10  13      [0 1 1 0-1 1]
+11.FC Andijon            10   4  1  5  13-11  13      [0 0 2 1-3 0]
 - - - - - - - - - - - - - - - - - - - - - - - --
-12.FC Qo'qon-1912         5   1  2  2   5- 6   5
-13.Dinamo (Samarqand)     5   1  1  3   6- 9   4
-14.OKMK (Olmaliq)         5   1  1  3   4- 7   4
-15.So'g'diyona (Jizzax)   5   0  2  3   6-14   2
+12.Surxon (Termiz)       10   3  2  5  10-17  11
+13.So'g'diyona (Jizzax)  10   2  3  5  18-23   9
+14.Dinamo (Samarqand)    10   2  2  6  14-20   8
+15.FC Qo'qon-1912        10   1  5  4   9-15   8
 ------------------------------------------------
-16.Mash'al (Muborak)      5   0  0  5   1-11   0
+16.Mash'al (Muborak)     10   0  0 10   3-18   0
 
+Mash'al play home games in G'uzor (135 km south-east of Muborak).
+Navbahor play home games in Toshkent (280 km west of Namangan).
 OKMK = Olmaliq Kon-Metallurgiya Kombinati (Olmaliq Mining & Metallurgical Complex)
 
 Round 1 [Total Att: 42,188; Average: 5,274]
@@ -152,114 +154,159 @@ Paxtakor     3-1  OKMK
   [Flamarion Jovino 21; Dostonbek Hamdamov 45+1; Muhammadqodir Hamroliyev 62 -
    Aziz Xolmurodov 46. Att: 1,871. +18°C, rain]
 
+Round 6 [Total Att: 55,778; Average: 9,296]
+[Apr 7]
+Mash'al      0-1  Bunyodkor
+  [Matija Krivokapić 90+1. G'uzor. Att: 489. +12°C, light rain]
+Andijon      0-1  Navbahor
+  [Giorgi Jgerenaia 90+6. Att: 18,726. +15°C]
+Lokomotiv    1-1  Xorazm
+  [Temurxo'ja Abduxoliqov 81 - Yanis Lhéry 67. Att: 1,008. +11°C, light rain]
+[Apr 8]
+Qo'qon-1912  1-1  Nasaf
+  [Toma Tabatadze 88 - Bobur Abduxoliqov 55. Att: 4,651. +16°C]
+OKMK         1-1  Surxon
+  [Nodirbek Abdurazzoqov 3 - Stephen Chinedu 90+6. Toshkent. Att: 1,002. +15°C]
+Dinamo       2-1  So'g'diyona
+  [Anvarjon Hojimirzayev 76; Firdavs Abdurahmonov 78 - Islomjon Qobilov 61. Att: 4,014. +10°C]
+[Apr 9]
+Neftchi      0-1  Paxtakor
+  [Dostonbek Hamdamov 22. Att: 18,756. +17°C]
+Buxoro       2-0  Qizilqum
+  [Javohir Ro'ziyev 21; Vladimir Rodić 59. Att: 7,132. +19°C]
+
+Round 7 [Total Att: 35,648; Average: 4,456]
+[Apr 12]
+Navbahor     2-0  Surxon
+  [Alex N. Fernandes 26; Vanja Ilić 78. Att: 1,138. +24°C]
+Dinamo       1-2  Lokomotiv
+  [Azizbek Amonov 61 - Temurxo'ja Abduxoliqov 34, 40. Att: 6,109. +22°C]
+Andijon      1-2  OKMK
+  [Ibrohim Yo'ldoshev 86 - Nodirbek Abdurazzoqov 29; Uroš Kojić 36. Att: 6,400. +23°C]
+[Apr 13]
+Paxtakor     2-1  Mash'al
+  [Flamarion Jovino 41; Shaxboz Jurayev (Mas) 45+2 og - Shahboz Jo'rayev 68. Att: 1,073. +23°C]
+Nasaf        1-1  Buxoro
+  [Zafarmurod Abdurahmatov 60 - Temur Mamasiddiqov 77. Buxoro. Att: 7,824. +26°C]
+Qizilqum     1-3  So'g'diyona
+  [Samandar Shukurullayev 70 - Ljupčo Doriev 29; Fejsal Mulić 41;
+   Otabek Jo'raqo'ziyev 60. Att: 5,253. +20°C]
+[Apr 14]
+Bunyodkor    0-1  Neftchi
+  [Jovan Đokić 45. Att: 2,171. +23°C]
+Xorazm       2-2  Qo'qon-1912
+  [Boubacar Faye Traoré 5; Sunnatulloh Hamidjonov 50 - Sylvanus Nimely 24;
+   Sunnatulloh Hamidjonov (Xor) 60 og. Att: 5,680. +14°C, storm]
+
+Round 8 [Total Att: 37,617; Average: 4,702]
+[Apr 17]
+Lokomotiv    0-2  Navbahor
+  [Vanja Ilić 3; Ruslanbek Jiyanov 16. Att: 1,071. +15°C]
+OKMK         3-2  Buxoro
+  [Siavash Haghnazari 9; Mirjamol Qosimov 12; Nodirbek Abdurazzoqov 77 -
+   Sherzod Esanov 29, 34. Att: 2,035. +13°C]
+Surxon       0-1  Qizilqum
+  [Shahzod Rahmatullayev 81. Att: 3,984. +18°C]
+[Apr 18]
+Paxtakor     4-2  Dinamo
+  [Dostonbek Hamdamov 9, 61; Bashar Resan 22, 71 - Anvarjon Hojimirzayev 25;
+   Azizbek Amonov 27. Att: 2,226. +15°C]
+Neftchi      2-1  Nasaf
+  [Jovan Đokić 17; Jamshid Iskanderov 65 - Bobur Abduxoliqov 45+4. Att: 17,258. +19°C]
+Mash'al      0-1  Xorazm
+  [Vlatko Stojanovski I (Mas) 84 og. G'uzor. Att: 1,046. +17°C]
+[Apr 19]
+So'g'diyona  2-3  Bunyodkor
+  [Ljupčo Doriev 4, 26 - Bilolxon Toshmirzayev 38, 50, 69. Zomin. Att: 2,347. +21°C]
+Qo'qon-1912  0-0  Andijon
+  [Att: 7,650. +21°C, thunderstorm]
+
+Round 9 [Total Att: 36,842; Average: 4,605]
+[Apr 22]
+Buxoro       0-1  Paxtakor
+  [Bashar Resan 15. Att: 8,250. +17°C, rain]
+Surxon       2-1  Mash'al
+  [Stephen Chinedu 84; Kamronbek Yusupov 90+2 - Samandar Ochilov 60. Att: 2,115. +24°C, rain]
+[Apr 23]
+Navbahor     1-1  So'g'diyona
+  [Islombek Mamatkazin 90+4 - Ljupčo Doriev 71. Att: 1,136. +19°C]
+Nasaf        2-3  Lokomotiv
+  [Sharof Muhiddinov 23; Yusuf Otubanjo 88 - Sardor Mirzayev 43;
+   Temurxo'ja Abduxoliqov 62; Oybek Rustamov (Nas) 73 og. Qo'qon. Att: 1,150. +19°C]
+Dinamo       2-2  OKMK
+  [Abror Karimov (OKMK) 1 og; Jaloliddin Jumaboyev 31 -
+   Aziz Xolmurodov 53; Uroš Kojić 88. Att: 4,351. +18°C]
+[Apr 24]
+Xorazm       0-2  Neftchi
+  [Stipe Perica 14; Abrorbek Ismoilov 64. Att: 11,270. +27°C]
+Bunyodkor    1-3  Andijon
+  [Narimonjon Ahmadjonov 90+3 - Imeda Ashortia 6; Usmonali Ismonaliyev 70;
+   Azizbek Turg'unboyev 74. Missed PK: Bilolxon Toshmirzayev (Bun) 32. Att: 1,416. +22°C]
+Qizilqum     2-1  Qo'qon-1912
+  [Akmaljon Muzaffarov 21, 32 - Toma Tabatadze 10. Att: 7,154. +24°C]
+
+Round 10 [Total Att: 47,583; Average: 5,948]
+[Apr 27]
+Mash'al      0-1  Buxoro
+  [Sherzod Esanov 84. Att: 847. +26°C]
+OKMK         2-1  Lokomotiv
+  [Avazbek O'lmasaliyev 72; Nodirbek Abdurazzoqov 90 - Sardor Mirzayev 54. Att: 2,074. +22°C]
+[Apr 28]
+Paxtakor     2-2  Nasaf
+  [Hojiakbar Alijonov 42; Flamarion Jovino 90+2 - Sardorbek Bahromov 56;
+   Bobur Abduxoliqov 90+3. Att: 5,750. +25°C]
+So'g'diyona  5-2  Surxon
+  [Ljupčo Doriev 11; Islomjon Qobilov 16; Zoir Jūraboyev 53; Fejsal Mulić 61;
+   Aleksandar Boljević 89 - Humoyun Sherbo'tayev 73; Stephen Chinedu 76. Zomin. Att: 1,700. +25°C]
+Andijon      2-1  Dinamo
+  [Imeda Ashortia 80; Damir Temirov 82 - Anvarjon Hojimirzayev 52. Att: 11,215. +25°C]
+[Apr 29]
+Neftchi      4-0  Qo'qon-1912
+  [Zoran Marušić 4; Jurani "Ratinho" Ferreira 6; Xurshid G'iyosov 46, 56. Att: 14,068. +24°C]
+Bunyodkor    2-1  Navbahor
+  [Matija Krivokapić 28, 58 - Shoxmalik Komilov 2. Att: 3,175. +25°C]
+Qizilqum     0-0  Xorazm
+  [Att: 8,754. +28°C]
+
 Table:
 
- 1.Neftchi (Farg'ona)     5   5  0  0  16- 1  15  [C]
- 2.Paxtakor (Toshkent)    5   4  0  1  11- 6  12
- 3.Bunyodkor (Toshkent)   5   3  1  1   6- 3  10
- 4.Nasaf (Qarshi)         5   3  1  1   5- 2  10
- 5.FC Buxoro              5   3  1  1   7- 5  10
- 6.Navbahor (Namangan)    5   3  0  2   7- 5   9
- 7.Lokomotiv (Toshkent)   5   2  1  2   6- 6   7  [P]
- 8.Xorazm (Urganch)       5   2  1  2   5- 5   7
- 9.Surxon (Termiz)        5   2  1  2   5- 7   7
-10.Qizilqum (Navoiy)      5   2  0  3   4- 8   6      [2-1]
-11.FC Andijon             5   2  0  3   7- 6   6      [1-2]
+ 1.Neftchi (Farg'ona)    10   9  0  1  25- 3  27  [C]
+ 2.Paxtakor (Toshkent)   10   8  1  1  21-11  25
+ 3.Bunyodkor (Toshkent)  10   6  1  3  13-10  19      [2-1]
+ 4.Navbahor (Namangan)   10   6  1  3  14- 8  19      [1-2]
+ 5.FC Buxoro             10   5  2  3  13-10  17
+ 6.OKMK (Olmaliq)        10   4  3  3  14-14  15
+ 7.Lokomotiv (Toshkent)  10   4  2  4  13-14  14  [P]
+ 8.Nasaf (Qarshi)        10   3  4  3  12-11  13      [2 0 0 2-0 6]
+ 9.Qizilqum (Navoiy)     10   4  1  5   8-14  13      [1 1 0 2-1 4]
+10.Xorazm (Urganch)      10   3  4  3   9-10  13      [0 1 1 0-1 1]
+11.FC Andijon            10   4  1  5  13-11  13      [0 0 2 1-3 0]
 - - - - - - - - - - - - - - - - - - - - - - - --
-12.FC Qo'qon-1912         5   1  2  2   5- 6   5
-13.Dinamo (Samarqand)     5   1  1  3   6- 9   4
-14.OKMK (Olmaliq)         5   1  1  3   4- 7   4
-15.So'g'diyona (Jizzax)   5   0  2  3   6-14   2
+12.Surxon (Termiz)       10   3  2  5  10-17  11
+13.So'g'diyona (Jizzax)  10   2  3  5  18-23   9
+14.Dinamo (Samarqand)    10   2  2  6  14-20   8
+15.FC Qo'qon-1912        10   1  5  4   9-15   8
 ------------------------------------------------
-16.Mash'al (Muborak)      5   0  0  5   1-11   0
+16.Mash'al (Muborak)     10   0  0 10   3-18   0
 
+Mash'al play home games in G'uzor (135 km south-east of Muborak).
+Navbahor play home games in Toshkent (280 km west of Namangan).
 OKMK = Olmaliq Kon-Metallurgiya Kombinati (Olmaliq Mining & Metallurgical Complex)
 
 Top scorers:
 
-1.Stipe PERICA (Neftchi)             4  [Croatia]
-2.Stephen CHINEDU (Surxon)           3  [Nigeria/Croatia]
-  Dostonbek HAMDAMOV (Paxtakor)      3
-  Zoran MARUŠIĆ (Neftchi)            3  [Serbia]
-  Alisher ODILOV (Neftchi)           3
-6.Firdavs ABDURAHMONOV (Dinamo)      2
-  Quvonchbek ABRAYEV (Lokomotiv)     2
-  Martin BOAKYE (Andijon)            2  [Italy/Ghana]
-  Ljupčo DORIEV (So'g'diyona)        2  [North Macedonia]
-  FLAMARION Jovino Filho (Paxtakor)  2  [Brazil/Georgia]
-  Jambul JIGAURI (Qizilqum)          2  [Georgia]
-  Ruslanbek JIYANOV (Navbahor)       2
-  Abror KARIMOV (OKMK)               2
-  Sharof MUHIDDINOV (Nasaf)          2
-  Fejsal MULIĆ (So'g'diyona)         2  [Serbia]
-  Piotr PARZYSZEK (Paxtakor)         2  [Poland/Netherlands]
-  Rustam TURDIMURODOV (Paxtakor)     2
-  Shahzodbek UBAYDULLAYEV (Buxoro)   2
-
-Round 6
-[Apr 6]
-Mash'al      -  Bunyodkor
-Lokomotiv    -  Xorazm
-Andijon      -  Navbahor
-[Apr 7]
-OKMK         -  Surxon
-Dinamo       -  So'g'diyona
-Qo'qon-1912  -  Nasaf
-[Apr 8]
-Neftchi      -  Paxtakor
-Buxoro       -  Qizilqum
-
-Round 7
-[Apr 11]
-Andijon      -  OKMK
-Navbahor     -  Surxon
-Dinamo       -  Lokomotiv
-[Apr 12]
-Paxtakor     -  Mash'al
-Qizilqum     -  So'g'diyona
-Nasaf        -  Buxoro
-[Apr 13]
-Xorazm       -  Qo'qon-1912
-Bunyodkor    -  Neftchi
-
-Round 8
-[Apr 16]
-Lokomotiv    -  Navbahor
-Surxon       -  Qizilqum
-OKMK         -  Buxoro
-[Apr 17]
-Mash'al      -  Xorazm
-Paxtakor     -  Dinamo
-Neftchi      -  Nasaf
-[Apr 18]
-Qo'qon-1912  -  Andijon
-So'g'diyona  -  Bunyodkor
-
-Round 9
-[Apr 21]
-Buxoro       -  Paxtakor
-Surxon       -  Mash'al
-[Apr 22]
-Dinamo       -  OKMK
-Nasaf        -  Lokomotiv
-Navbahor     -  So'g'diyona
-[Apr 23]
-Bunyodkor    -  Andijon
-Xorazm       -  Neftchi
-Qizilqum     -  Qo'qon-1912
-
-Round 10
-[Apr 26]
-Mash'al      -  Buxoro
-OKMK         -  Lokomotiv
-[Apr 27]
-Paxtakor     -  Nasaf
-Andijon      -  Dinamo
-So'g'diyona  -  Surxon
-[Apr 28]
-Qizilqum     -  Xorazm
-Bunyodkor    -  Navbahor
-Neftchi      -  Qo'qon-1912
+1.Ljupčo DORIEV (So'g'diyona)         7  [North Macedonia]
+2.Stephen CHINEDU (Surxon)            6  [Nigeria/Croatia]
+  Dostonbek HAMDAMOV (Paxtakor)       6
+4.Temurxo'ja ABDUXOLIQOV (Lokomotiv)  5
+  Stipe PERICA (Neftchi)              5  [Croatia]
+6.Nodirbek ABDURAZZOQOV (OKMK)        4
+  Sherzod ESANOV (Buxoro)             4
+  FLAMARION Jovino Filho (Paxtakor)   4  [Brazil/Georgia]
+  Anvarjon HOJIMIRZAYEV (Dinamo)      4
+  Matija KRIVOKAPIĆ (Bunyodkor)       4  [Montenegro]
+  Zoran MARUŠIĆ (Neftchi)             4  [Serbia]
+  Fejsal MULIĆ (So'g'diyona)          4  [Serbia]
 
 Round 11
 [May 1]
@@ -507,18 +554,514 @@ ARAL ACADEMY (Nókis)      3-1  Ahmedov FK (Toshkent)
 Azur (Samarqand)          0-1  FC GULISTON
 Oqtepa (Toshkent)         3-3  HAVOKAND (Qo'qon)      [pen 2-3]
 
+Group Stage
 
-‹2025, see page oez2025›
+Round 1
+[May 9]
+OKMK           -  Metallurg
+Aral           -  Qo'qon-1912
+Dinamo         -  G'azalkent
+Lochin         -  Lokomotiv
+[May 10]
+Neftchi        -  Guliston
+BuxDU          -  Buxoro
+Bunyodkor      -  TerDU
+QMU Jayxun     -  Qizilqum
+[May 11]
+Navbahor       -  Qoraqalpog.FA
+FarDU          -  Xorazm
+[May 12]
+Paxtakor       -  Yaypan
+Kattaqo'rg'on  -  Surxon
+[May 14]
+Sho'rtan       -  Andijon
+[May 15]
+Nasaf          -  Havokand
 
-‹list of champions, see page oezchamp›.
+Round 2
+[May 14]
+Lokomotiv      -  Dinamo
+G'azalkent     -  Lochin
+[May 15]
+Qo'qon-1912    -  OKMK
+Metallurg      -  Aral
+[May 16]
+Qizilqum       -  Bunyodkor
+TerDU          -  QMU Jayxun
+[May 17]
+Xorazm         -  Navbahor
+Qoraqalpog.FA  -  FarDU
+Surxon         -  Paxtakor
+Yaypan         -  Kattaqo'rg'on
+[May 20]
+Andijon        -  Nasaf
+Havokand       -  Sho'rtan
+[May 25]
+Neftchi        -  BuxDU
+Guliston       -  Buxoro
 
-‹list of cup winners, see page oezcuphist›.
+Round 3
+[May 19]
+Dinamo         -  Lochin
+G'azalkent     -  Lokomotiv
+[May 21]
+OKMK           -  Aral
+Metallurg      -  Qo'qon-1912
+Buxoro         -  Neftchi
+Guliston       -  BuxDU
+[May 22]
+Bunyodkor      -  QMU Jayxun
+TerDU          -  Qizilqum
+[May 23]
+Navbahor       -  FarDU
+Qoraqalpog.FA  -  Xorazm
+[May 25]
+Nasaf          -  Sho'rtan
+Havokand       -  Andijon
+[May 26]
+Paxtakor       -  Kattaqo'rg'on
+Yaypan         -  Surxon
 
-‹list of topscorers, see page oeztops›
+Tables:
 
-‹All-Time Table, see page oezalltime›
+Group A
 
-‹Divisional Movements, see page oezall›
+1.OKMK (Olmaliq)                0   0  0  0  0-0   0
+2.Metallurg (Bekobod)           0   0  0  0  0-0   0
+3.Aral (Nókis)                  0   0  0  0  0-0   0
+4.FC Qo'qon-1912                0   0  0  0  0-0   0
 
-‹Name Changes, see page oez-names›
+Group B
+
+1.Dinamo (Samarqand)            0   0  0  0  0-0   0
+2.FC G'azalkent                 0   0  0  0  0-0   0
+3.Lochin (Beshkent)             0   0  0  0  0-0   0
+4.Lokomotiv (Toshkent)          0   0  0  0  0-0   0
+
+Group C
+
+1.Neftchi (Farg'ona)            0   0  0  0  0-0   0
+2.FC Guliston                   0   0  0  0  0-0   0
+3.BuxDU (Buxoro)                0   0  0  0  0-0   0
+4.FC Buxoro                     0   0  0  0  0-0   0
+
+Group D
+
+1.Bunyodkor (Toshkent)          0   0  0  0  0-0   0
+2.TerDU (Termiz)                0   0  0  0  0-0   0
+3.QMU Jayxun (Nókis)            0   0  0  0  0-0   0
+4.Qizilqum (Navoiy)             0   0  0  0  0-0   0
+
+Group E
+
+1.Navbahor (Namangan)           0   0  0  0  0-0   0
+2.Qoraqalpog'iston FA (Nókis)   0   0  0  0  0-0   0
+3.FarDU (Farg'ona)              0   0  0  0  0-0   0
+4.Xorazm (Urganch)              0   0  0  0  0-0   0
+
+Group F
+
+1.Paxtakor (Toshkent)           0   0  0  0  0-0   0
+2.FC Yaypan                     0   0  0  0  0-0   0
+3.FC Kattaqo'rg'on              0   0  0  0  0-0   0
+4.Surxon (Termiz)               0   0  0  0  0-0   0
+
+Group G
+
+1.Sho'rtan (G'uzor)             0   0  0  0  0-0   0
+2.FC Andijon                    0   0  0  0  0-0   0
+3.Nasaf (Qarshi)                0   0  0  0  0-0   0
+4.Havokand (Qo'qon)             0   0  0  0  0-0   0
+
+
+
+
+
+
+==== Pro Liga  ‹§pro›
+
+Departed: Olimpik (Toshkent)
+
+Table:
+
+ 1.Metallurg (Bekobod)         6   4  2  0  15- 4  14  [N]
+-----------------------------------------------------
+ 2.Aral (Nókis)                6   4  2  0  11- 5  14
+ 3.Sho'rtan (G'uzor)           6   4  2  0  10- 5  14  [R]
+ 4.FC Kattaqo'rg'on            6   4  1  1   7- 3  13  [P]
+ 5.Lochin (Beshkent)           6   3  2  1  10- 5  11  [P]
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.FarDU (Farg'ona)            6   2  3  1  10- 7   9
+ 7.Olympic MobiUz (Toshkent)   6   2  2  2   9- 7   8      [2-2]
+ 8.FC G'azalkent               6   2  2  2   9- 9   8  [N] [2-2]
+ 9.FC Yaypan                   5   2  1  2   8- 7   7  [N]
+10.Respublika FA (Toshkent)    6   1  2  3   5- 7   5  [N]
+11.QMU Jayxun (Nókis)          6   1  1  4   3-10   4      [3-0]
+12.Paxtakor Farm (Toshkent)    5   1  1  3   5-12   4  [P] [0-3]
+13.TerDU (Termiz)              6   0  1  5   4-12   1  [P]
+14.BuxDU (Buxoro)              6   0  0  6   2-15   0  [P]
+
+FC G'azalkent play home games in Toshkent (67 km south-west of G'azalkent).
+Lochin play home games in Qarshi (15 km east of Beshkent).
+BuxDU = Buxoro Davlat Universiteti (Bukhara State University)
+FarDU = Farg'ona Davlat Universiteti (Fergana State University)
+QMU = Qaraqalpaq Mámleketlik Universiteti (Karakalpak State University)
+TerDU = Termiz Davlat Universiteti (Termez State University)
+
+Round 1 [Total Att: 11,983; Average: 1,712]
+[Apr 5]
+Sho'rtan       1-0  Olympic MobiU
+  [Muhammadali Abdurahmonov 36. Att: 859]
+Aral           2-1  Respublika FA
+  [Ruslan Qalmag'ambetov 56, 68 - Ozodbek Odiljonov 90+3. Att: 368]
+Yaypan         1-2  Metallurg
+  [Muzaffar Mo'minov 6 - Komiljon Tojiddinov 17; Branimir Jočić 67. Qo'qon. Att: 1,253]
+[Apr 6]
+Jayxun         0-2  Kattaqo'rg'on
+  [Giorgi Phanculaia 30, 58. Att: 335]
+TerDU          0-2  Lochin
+  [Mirjalol Qosimov Jr 57; Elbek Otaqulov 67. Att: 7,821]
+G'azalkent     3-0  BuxDU
+  [Muhammadyusuf Fayzullayev 26, 64; Feruz Olimov 78. Toshkent. Att: 1,142]
+[Apr 7]
+Paxtakor Farm  0-1  FarDU
+  [Maxarram Abelfazov 57. Att: 205]
+
+Round 2 [Total Att: 14,332; Average: 2,047]
+[Apr 10]
+Olympic MobiU  2-2  G'azalkent
+  [Abdug'afur Haydarov 40; Jo'rabek Jo'rayev 54 -
+   Diyorbek Tojiyev 35; Ozodbek Ibodullayev 58. Att: 581]
+Metallurg      1-1  Respublika FA
+  [Azimjon Ahmedov 44 - Abdulvosid Soliyev 28. Att: 7,256]
+[Apr 11]
+Lochin         1-1  Paxtakor Farm
+  [Sherali Rasulov 82 - Qodir Mamasov 72. Qarshi. Att: 4,231]
+Yaypan         2-1  TerDU
+  [Muslimbek Habibullayev 5; Firdavs Umaraliyev 50 - Shahzod Bozorov 49. Att: 453]
+[Apr 12]
+Kattaqo'rg'on  0-2  Sho'rtan
+  [Jurij Kločkov 15; Jasur Jumayev (Kat) 19 og. Toshkent. Att: 568]
+BuxDU          1-3  Aral
+  [Suhrobbek Rahimov 66 - Zulpuqar Kuanishbaev 31, 41; Ruslan Qalmag'ambetov 61. Muborak. Att: 230]
+FarDU          4-0  Jayxun
+  [Nodirbek Karimov 11; Murodjon Komilov 51; Sanjarbek Zokirov 90+2; Riza Ayvazov 90+4. Att: 1,013]
+
+Round 3
+[Apr 15]
+Sho'rtan       2-2  FarDU
+  [Muhammadali Abdurahmonov 7, 66 - Riza Ayvazov 53; Sirojiddin Bashriddinov 90+5. Att: 1,285]
+Metallurg      3-1  TerDU
+  [Navro'zbek Iminjonov 13, 68; Saidumarxon Saidnurullayev 26 - Shahzod Bozorov 53. Att: 3,251]
+Respublika FA  1-0  BuxDU
+  [Asilbek Aliyev 62. Att: 327]
+[Apr 16]
+Jayxun         0-2  Lochin
+  [Muhammadali Movlonov 14; Sherali Rasulov 90+6. Att: 273]
+[Apr 17]
+Aral           1-0  Olympic MobiU
+  [Javohir O'tamurodov 70. Att: 975]
+G'azalkent     0-2  Kattaqo'rg'on
+  [Francis Narh 55; Izzatullo Abdulhaqov 72. Att: 1,570]
+[May 21]
+Paxtakor Farm  -  Yaypan
+
+Round 4 [Total Att: 7,826; Average: 1,118]
+[Apr 19]
+TerDU          2-4  Paxtakor Farm
+  [Nurmuhammad Nomozov 26; Abdumalik Norqobilov 90+4 - Mo'minjon Shuhratov 7;
+   Qodir Mamasov 50; Abdusamad Saidov 70; Mirsolih Fatxullayev 76. Att: 524]
+[Apr 20]
+Lochin         1-2  Sho'rtan
+  [Javohir Hasanov 83 - Jurij Kločkov 45; Beka Xarshiladze 60. Qarshi. Att: 1,208]
+Metallurg      3-0  BuxDU
+  [Vladimir Bubanja 25; Azimjon Ahmedov 37; Navro'zbek Iminjonov 85. Att: 3,517]
+Yaypan         2-0  Jayxun
+  [Muslimbek Habibullayev 17, 35. Att: 983]
+[Apr 21]
+Kattaqo'rg'on  1-1  Aral
+  [Francis Narh 90 - Ruslan Qalmagambetov 11. Samarqand. Att: 285]
+FarDU          2-2  G'azalkent
+  [Boburbek Farhodov 52; Shodiyor Hojimatov 90+4 -
+   Suhrob Sadirjonov 20; Abdurahmon Abdullayev 77. Att: 1,203]
+Olympic MobiU  2-1  Respublika FA
+  [Jo'rabek Jo'rayev 83; Begis Kuanishbayev 86 - Saidxon Hamidov (Oly) 14 og. Att: 106]
+
+Round 5 [Total Att: 3,354; Average: 479]
+[Apr 24]
+Sho'rtan       2-2  Yaypan
+  [Bekzod Suvonov 13; Mirjalol Jumayev 73 - Javohir Abdujabborov 8; Diyorbek Odiljonov 84. Att: 978]
+[Apr 25]
+Paxtakor Farm  0-5  Metallurg
+  [Azimjon Ahmedov 26; Branimir Jočić 74; Maxuel Cássio 76;
+   Saidumarxon Saidnurullayev 83; Navro'zbek Iminjonov 86. Att: 121]
+BuxDU          1-4  Olympic MobiU
+  [Akobir To'rayev 57 - Ro'ziboy Fayzullayev 13; Begis Kuanishbayev 28;
+   Abdug'afur Haydarov 66; Abdushukur Mahamatov 90+2. Muborak. Att: 155]
+Jayxun         0-0  TerDU
+  [Att: 616]
+[Apr 26]
+Aral           2-0  FarDU
+  [Mirzabek Daryoboyev 10; Azizbek Bahromov 90+2. Att: 1,123]
+G'azalkent     0-2  Lochin
+  [Abduvohid Oxtayev 16; Asadbek Samariddinov 64. Att: 97]
+Respublika FA  0-1  Kattaqo'rg'on
+  [Giorgi Phanculaia 52. Att: 264]
+
+Round 6 [Total Att: 9,951; Average: 1,422]
+[Apr 29]
+TerDU          0-1  Sho'rtan
+  [Diyorbek Asomiddinov 84. Att: 358]
+[Apr 30]
+Metallurg      1-1  Olympic MobiU
+  [Azimjon Ahmedov 48 - Ulug'bek Maratov 90+3. Att: 5,217]
+Kattaqo'rg'on  1-0  BuxDU
+  [Islom Sharipov 87. Samarqand. Att: 1,517]
+Yaypan         1-2  G'azalkent
+  [Muslimbek Habibullayev 1 - Diyorbek Tojiyev 37; Abduvakil Hikmatullayev 90+4.
+   Missed PK: Ozodbek Ibodullayev (G'a) 20. Att: 1,150]
+[May 1]
+Lochin         2-2  Aral
+  [Samandar O'rinboyev 36; Elbek Otaqulov 90+2 -
+   Ruslan Qalmagambetov 17; Muhammadali Nomozov 49. Att: 525]
+FarDU          1-1  Respublika FA
+  [Sirojiddin Bashriddinov 89 - Ozodbek Odiljonov 37. Att: 1,050]
+Paxtakor Farm  0-3  Jayxun
+  [Abdusalom Nuriddinov 2; Shuhrat Daryaboyev 9; Sardorbek Xidirboyev 36. Att: 134]
+
+Table:
+
+ 1.Metallurg (Bekobod)         6   4  2  0  15- 4  14  [N]
+-----------------------------------------------------
+ 2.Aral (Nókis)                6   4  2  0  11- 5  14
+ 3.Sho'rtan (G'uzor)           6   4  2  0  10- 5  14  [R]
+ 4.FC Kattaqo'rg'on            6   4  1  1   7- 3  13  [P]
+ 5.Lochin (Beshkent)           6   3  2  1  10- 5  11  [P]
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.FarDU (Farg'ona)            6   2  3  1  10- 7   9
+ 7.Olympic MobiUz (Toshkent)   6   2  2  2   9- 7   8      [2-2]
+ 8.FC G'azalkent               6   2  2  2   9- 9   8  [N] [2-2]
+ 9.FC Yaypan                   5   2  1  2   8- 7   7  [N]
+10.Respublika FA (Toshkent)    6   1  2  3   5- 7   5  [N]
+11.QMU Jayxun (Nókis)          6   1  1  4   3-10   4      [3-0]
+12.Paxtakor Farm (Toshkent)    5   1  1  3   5-12   4  [P] [0-3]
+13.TerDU (Termiz)              6   0  1  5   4-12   1  [P]
+14.BuxDU (Buxoro)              6   0  0  6   2-15   0  [P]
+
+FC G'azalkent play home games in Toshkent (67 km south-west of G'azalkent).
+Lochin play home games in Qarshi (15 km east of Beshkent).
+BuxDU = Buxoro Davlat Universiteti (Bukhara State University)
+FarDU = Farg'ona Davlat Universiteti (Fergana State University)
+QMU = Qaraqalpaq Mámleketlik Universiteti (Karakalpak State University)
+TerDU = Termiz Davlat Universiteti (Termez State University)
+
+Top scorers:
+
+1.Ruslan Qalmag'ambetov (Aral)         5
+2.Azimjon Ahmedov (Metallurg)          4
+  Muslimbek Habibullayev (Yaypan)      4
+  Navro'zbek Iminjonov (Metallurg)     4
+5.Muhammadali Abdurahmonov (Sho'rtan)  3
+  Giorgi Phanculaia (Kattaqo'rg'on)    3  [Georgia]
+
+Round 7
+[May 3]
+Olympic MobiU  -  Kattaqo'rg'on
+[May 4]
+Sho'rtan       -  Metallurg
+Jayxun         -  Metallurg
+Respublika FA  -  Lochin
+[May 5]
+Aral           -  Yaypan
+BuxDU          -  FarDU
+G'azalkent     -  TerDU
+
+Round 8
+[May 28]
+FarDU          -  Olympic MobiU
+TerDU          -  Aral
+[May 29]
+Jayxun         -  Sho'rtan
+Paxtakor Farm  -  G'azalkent
+[May 30]
+Metallurg      -  Kattaqo'rg'on
+Lochin         -  BuxDU
+Yaypan         -  Respublika FA
+
+Round 9
+[May 23]
+Olympic MobiU  -  Lochin
+[Jun 2]
+G'azalkent     -  Jayxun
+Aral           -  Paxtakor Farm
+[Jun 3]
+Respublika FA  -  TerDU
+Sho'rtan       -  Metallurg
+Kattaqo'rg'on  -  FarDU
+[Jun 4]
+BuxDU          -  Yaypan
+
+Round 10
+[Jun 7]
+Metallurg      -  FarDU
+Paxtakor Farm  -  Respublika FA
+Jayxun         -  Aral
+[Jun 8]
+Yaypan         -  Olympic MobiU
+Lochin         -  Kattaqo'rg'on
+[Jun 9]
+Sho'rtan       -  G'azalkent
+TerDU          -  BuxDU
+
+Round 11 [Jul 22]
+G'azalkent     -  Metallurg
+Kattaqo'rg'on  -  Yaypan
+BuxDU          -  Paxtakor Farm
+Aral           -  Sho'rtan
+FarDU          -  Lochin
+Olympic MobiU  -  TerDU
+Respublika FA  -  Jayxun
+
+Round 12 [Jul 27]
+Sho'rtan       -  Respublika FA
+Metallurg      -  Lochin
+Paxtakor Farm  -  Olympic MobiU
+G'azalkent     -  Aral
+Yaypan         -  FarDU
+Jayxun         -  BuxDU
+TerDU          -  Kattaqo'rg'on
+
+Round 13 [Aug 1]
+FarDU          -  TerDU
+Olympic MobiU  -  Jayxun
+Respublika FA  -  G'azalkent
+Lochin         -  Yaypan
+Kattaqo'rg'on  -  Paxtakor Farm
+BuxDU          -  Sho'rtan
+Aral           -  Metallurg
+
+Round 14 [Aug 6]
+Lochin         -  TerDU
+Metallurg      -  Yaypan
+FarDU          -  Paxtakor Farm
+Kattaqo'rg'on  -  Jayxun
+Olympic MobiU  -  Sho'rtan
+BuxDU          -  G'azalkent
+Respublika FA  -  Aral
+
+Round 15 [Aug 11]
+Respublika FA  -  Metallurg
+Aral           -  BuxDU
+G'azalkent     -  Olympic MobiU
+Sho'rtan       -  Kattaqo'rg'on
+Jayxun         -  FarDU
+Paxtakor Farm  -  Lochin
+TerDU          -  Yaypan
+
+Round 16 [Aug 16]
+Metallurg      -  TerDU
+Yaypan         -  Paxtakor Farm
+Lochin         -  Jayxun
+FarDU          -  Sho'rtan
+Kattaqo'rg'on  -  G'azalkent
+Olympic MobiU  -  Aral
+BuxDU          -  Respublika FA
+
+Round 17 [Aug 21]
+BuxDU          -  Metallurg
+Respublika FA  -  Olympic MobiU
+Aral           -  Kattaqo'rg'on
+G'azalkent     -  FarDU
+Sho'rtan       -  Lochin
+Jayxun         -  Yaypan
+Paxtakor Farm  -  TerDU
+
+Round 18 [Sep 5]
+Metallurg      -  Paxtakor Farm
+TerDU          -  Jayxun
+Yaypan         -  Sho'rtan
+Lochin         -  G'azalkent
+FarDU          -  Aral
+Kattaqo'rg'on  -  Respublika FA
+Olympic MobiU  -  BuxDU
+
+Round 19 [Sep 12]
+Olympic MobiU  -  Metallurg
+BuxDU          -  Kattaqo'rg'on
+Respublika FA  -  FarDU
+Aral           -  Lochin
+G'azalkent     -  Yaypan
+Sho'rtan       -  TerDU
+Jayxun         -  Paxtakor Farm
+
+Round 20 [Sep 20]
+Metallurg      -  Jayxun
+Paxtakor Farm  -  Sho'rtan
+TerDU          -  G'azalkent
+Yaypan         -  Aral
+Lochin         -  Respublika FA
+FarDU          -  BuxDU
+Kattaqo'rg'on  -  Olympic MobiU
+
+Round 21 [Oct 6]
+Kattaqo'rg'on  -  Metallurg
+Olympic MobiU  -  FarDU
+G'azalkent     -  Paxtakor Farm
+Aral           -  TerDU
+BuxDU          -  Lochin
+Respublika FA  -  Yaypan
+Sho'rtan       -  Jayxun
+
+Round 22 [Oct 11]
+Metallurg      -  Sho'rtan
+Jayxun         -  G'azalkent
+Paxtakor Farm  -  Aral
+TerDU          -  Respublika FA
+Yaypan         -  BuxDU
+Lochin         -  Olympic MobiU
+FarDU          -  Kattaqo'rg'on
+
+Round 23 [Oct 18]
+FarDU          -  Metallurg
+Kattaqo'rg'on  -  Lochin
+Olympic MobiU  -  Yaypan
+BuxDU          -  TerDU
+Respublika FA  -  Paxtakor Farm
+Aral           -  Jayxun
+G'azalkent     -  Sho'rtan
+
+Round 24 [Oct 25]
+Sho'rtan       -  Aral
+Jayxun         -  Respublika FA
+Paxtakor Farm  -  BuxDU
+TerDU          -  Olympic MobiU
+Yaypan         -  Kattaqo'rg'on
+Lochin         -  FarDU
+Metallurg      -  G'azalkent
+
+Round 25 [Oct 31]
+Lochin         -  Metallurg
+FarDU          -  Yaypan
+Kattaqo'rg'on  -  TerDU
+Olympic MobiU  -  Paxtakor Farm
+BuxDU          -  Jayxun
+Respublika FA  -  Sho'rtan
+Aral           -  G'azalkent
+
+Round 26 [Nov 8]
+Yaypan         -  Lochin
+Metallurg      -  Aral
+TerDU          -  FarDU
+Paxtakor Farm  -  Kattaqo'rg'on
+Jayxun         -  Olympic MobiU
+Sho'rtan       -  BuxDU
+G'azalkent     -  Respublika FA
+
+
+
+
+
+
+
+
 

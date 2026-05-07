@@ -1,0 +1,3 @@
+tableso/oeg2025                 :  2024/25
+tableso/oegchamp                :  list of champions
+tableso/oegcuphist              :  list of cup winners

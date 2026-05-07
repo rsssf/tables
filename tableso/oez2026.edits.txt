@@ -2,4 +2,14 @@
 
 ‹Super Liga, see §oliy›
 ‹O'zbekiston Kubogi, see §cup›
+‹Pro Liga, see §pro›
 
+
+-- removing 7 trailing nav line(s) in last section 5:
+‹2025, see page oez2025›
+‹list of champions, see page oezchamp›.
+‹list of cup winners, see page oezcuphist›.
+‹list of topscorers, see page oeztops›
+‹All-Time Table, see page oezalltime›
+‹Divisional Movements, see page oezall›
+‹Name Changes, see page oez-names›

@@ -2,7 +2,7 @@
      title:   Saint Kitts and Nevis 2025/26
      source:  https://rsssf.org/tabless/stkitts2026.html
      author:  Karel Stokkermans
-     updated: 22 Mar 2026    
+     updated: 7 May 2026
     -->
 
 
@@ -14,27 +14,25 @@
 
 ==== Saint Kitts  ‹§kitts›
 
-‹SKNFA Digicel Super League 2025/26, see §sknsuper›
-SKNFA Digicel Super League 2025/26  ‹§sknsuper›
+===== SKNFA Digicel Super League 2025/26  ‹§sknsuper›
 
-‹Regular Phase, see §reg› | ‹Super Four, see §fin4› | ‹Championship Final, see §sknsupchfin›
 
-Regular Phase  ‹§reg›
+====== Regular Phase  ‹§reg›
 
-Table:
+Final Table:
 
- 1.United Old Road Jets                 15  14  1  0  54-11  43             ‹Super Four, see §fin4›
- 2.Newtown United FC (Newtown)          15  10  1  4  45-26  31        [P]
- 3.St. Peters FC                        15   7  4  4  33-26  25
- 4.Cayon Rockets FC                     15   8  1  6  27-22  25
+ 1.United Old Road Jets                 18  16  2  0  67-14  50             ‹Super Four, see §fin4›
+ 2.Cayon Rockets FC                     18  11  1  6  35-22  34             ‹Super Four, see §fin4›
+ 3.Newtown United FC (Newtown)          18  11  1  6  49-34  34        [P]  ‹Super Four, see §fin4›
+ 4.St. Peters FC                        18   9  4  5  38-29  31             ‹Super Four, see §fin4›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.St. Pauls United Strikers FC         15  10  0  5  28-15  24  [-6]  [C]
- 6.Village Superstars FC (Champsville)  15   7  3  5  32-18  22  [-2]
- 7.Conaree FC                           15   4  3  8  22-33  15
- 8.Dieppe Bay Eagles                    15   3  1 11  13-49  10        [P]
+ 5.Village Superstars FC (Champsville)  18   9  4  5  43-23  29  [-2]
+ 6.St. Pauls United Strikers FC         18  11  1  6  35-21  28  [-6]  [C]
+ 7.Conaree FC                           18   4  4 10  30-45  16
+ 8.Dieppe Bay Eagles                    18   3  2 13  17-58  11        [P]
 ---------------------------------------------------------------
- 9.Sandy Point FC                       15   1  3 11   8-33   6
-10.Bath United (Nevis)                  15   1  3 11  14-43   6
+ 9.Sandy Point FC                       18   1  5 12  11-39   8             Relegated
+10.Bath United (Nevis)                  18   1  4 13  16-56   7             Relegated
 
 NB: Village Stars 2 points deducted due to ‹Super Cup incidents, see page stkitts2025.html#pres›;
     St. Pauls United 6 points deducted due to ‹Super Cup incidents, see page stkitts2025.html#pres›
@@ -178,64 +176,80 @@ St. Pauls                    0-3 St. Peters
 
 Round 16
 [Apr 4]
-Newtown United                -  St. Peters
-Cayon Rockets                 -  Sandy Point
-United Old Road Jets          -  Bath United
+Newtown United               0-1 St. Peters
+Cayon Rockets                3-0 Sandy Point
+United Old Road Jets         9-1 Bath United
 [Apr 5]
-Dieppe Bay Eagles             -  St. Pauls
-Conaree                       -  Village Superstars
+Dieppe Bay Eagles            1-4 St. Pauls
+Conaree                      2-5 Village Superstars
 
 Round 17
 [Apr 11]
-Bath United                   -  Sandy Point
-St. Peters                    -  Cayon Rockets
-St. Pauls                     -  Village Superstars
+Bath United                  0-0 Sandy Point
+St. Peters                   0-1 Cayon Rockets
+St. Pauls                    2-2 Village Superstars
 [Apr 12]
-United Old Road Jets          -  Dieppe Bay Eagles
-Newtown United                -  Conaree
+United Old Road Jets         1-1 Dieppe Bay Eagles
+Newtown United               4-3 Conaree
 
 Round 18
 [Apr 25]
-Village Superstars            -  Bath United
-Sandy Point                   -  Conaree
-Cayon Rockets                 -  Newtown United
+Village Superstars           4-1 Bath United
+Sandy Point                  3-3 Conaree
+Cayon Rockets                4-0 Newtown United
 [Apr 26]
-St. Peters                    -  Dieppe Bay Eagles
-St. Pauls                     -  United Old Road Jets
+St. Peters                   4-2 Dieppe Bay Eagles
+St. Pauls                    1-3 United Old Road Jets
 
-Table:
+Final Table:
 
- 1.United Old Road Jets                 15  14  1  0  54-11  43             ‹Super Four, see §fin4›
- 2.Newtown United FC (Newtown)          15  10  1  4  45-26  31        [P]
- 3.St. Peters FC                        15   7  4  4  33-26  25
- 4.Cayon Rockets FC                     15   8  1  6  27-22  25
+ 1.United Old Road Jets                 18  16  2  0  67-14  50             ‹Super Four, see §fin4›
+ 2.Cayon Rockets FC                     18  11  1  6  35-22  34             ‹Super Four, see §fin4›
+ 3.Newtown United FC (Newtown)          18  11  1  6  49-34  34        [P]  ‹Super Four, see §fin4›
+ 4.St. Peters FC                        18   9  4  5  38-29  31             ‹Super Four, see §fin4›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.St. Pauls United Strikers FC         15  10  0  5  28-15  24  [-6]  [C]
- 6.Village Superstars FC (Champsville)  15   7  3  5  32-18  22  [-2]
- 7.Conaree FC                           15   4  3  8  22-33  15
- 8.Dieppe Bay Eagles                    15   3  1 11  13-49  10        [P]
+ 5.Village Superstars FC (Champsville)  18   9  4  5  43-23  29  [-2]
+ 6.St. Pauls United Strikers FC         18  11  1  6  35-21  28  [-6]  [C]
+ 7.Conaree FC                           18   4  4 10  30-45  16
+ 8.Dieppe Bay Eagles                    18   3  2 13  17-58  11        [P]
 ---------------------------------------------------------------
- 9.Sandy Point FC                       15   1  3 11   8-33   6
-10.Bath United (Nevis)                  15   1  3 11  14-43   6
+ 9.Sandy Point FC                       18   1  5 12  11-39   8             Relegated
+10.Bath United (Nevis)                  18   1  4 13  16-56   7             Relegated
 
 NB: Village Stars 2 points deducted due to ‹Super Cup incidents, see page stkitts2025.html#pres›;
     St. Pauls United 6 points deducted due to ‹Super Cup incidents, see page stkitts2025.html#pres›
 
-Super Four  ‹§fin4›
+====== Super Four  ‹§fin4›
+
+Table:
+
+ 1.United Old Road Jets                  2   2  0  0   4- 0   6             ‹Championship Final, see §sknsupchfin›
+ 2.Cayon Rockets FC                      2   1  1  0   2- 1   4
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.St. Peters FC                         2   0  1  1   1- 2   1
+ 4.Newtown United FC (Newtown)           2   0  0  2   0- 4   0        [P]
 
 Round 1 [May 2]
-2nd placed team               -  3rd placed team
-United Old Road Jets          -  4th placed team
+Cayon Rockets                1-0 Newtown United
+United Old Road Jets         1-0 St. Peters
 
 Round 2 [May 6]
-2nd placed team               -  4th placed team
-United Old Road Jets          -  3rd placed team
+Cayon Rockets                1-1 St. Peters
+United Old Road Jets         3-0 Newtown United
 
 Round 3 [May 9]
-3rd placed team               -  4th placed team
-United Old Road Jets          -  2nd placed team
+Newtown United                -  St. Peters
+United Old Road Jets          -  Cayon Rockets
 
-Championship Final  ‹§sknsupchfin›
+Table:
+
+ 1.United Old Road Jets                  2   2  0  0   4- 0   6             ‹Championship Final, see §sknsupchfin›
+ 2.Cayon Rockets FC                      2   1  1  0   2- 1   4
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.St. Peters FC                         2   0  1  1   1- 2   1
+ 4.Newtown United FC (Newtown)           2   0  0  2   0- 4   0        [P]
+
+====== Championship Final  ‹§sknsupchfin›
 
 First Leg [May 13]
 
@@ -243,5 +257,36 @@ Second Leg [May 16]
 
 Third Leg [May 20, if necessary]
 
+===== Cup Tournaments 2025/26  ‹§cups›
 
+FA Cup 2026     ‹§kittsfa›
+
+Quarterfinals [Apr 15]
+Garden Hotspurs              0-0 Cayon Rockets                [2-3 pen]
+Conaree                      2-2 St. Peters                   [5-4 pen]
+Molineaux Pitbulls           1-5 Village Superstars
+United Old Road Jets         4-2 St. Pauls
+
+Semifinals [Apr 18]
+Village Superstars           2-2 Conaree                      [4-5 pen]
+United Old Road Jets         4-0 Cayon Rockets
+
+Final [Apr 22]
+United Old Road Jets         2-2 Conaree                      [5-4 pen]
+
+===== Division One 2025/26  ‹§kittsdiv1›
+
+Final Table:
+
+ 1.Lodge Patriots FC                    18  15  0  3  69-23  45             Promoted
+ 2.Garden Hotspurs FC                   18  14  1  3  56-13  43             Promoted
+---------------------------------------------------------------
+ 3.Village Galaxy                       18  11  3  4  39-16  36
+ 4.KFC Trinity/Challengers United       18   9  2  7  45-28  29
+ 5.Mantab FC                            18   8  4  6  42-40  28  [R]
+ 6.Molineaux Pitbull FC                 18   8  3  7  42-30  27
+ 7.Saddlers United FC                   18   6  5  7  21-27  23
+ 8.Security Forces United               18   4  2 12  21-60  14  [R]
+ 9.Conaree Fireballs International      18   2  2 14  14-52   5  [-3]
+10.Rivers of Living Water FC            18   2  0 16  11-71   1  [-5]
 

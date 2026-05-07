@@ -2,7 +2,7 @@
      title:   Bahamas 2025/26
      source:  https://rsssf.org/tablesb/bahama2026.html
      author:  Karel Stokkermans
-     updated: 24 Mar 2026    
+     updated: 7 May 2026
     -->
 
 
@@ -14,16 +14,16 @@
 
 ==== BFA Senior League 2025/26  ‹§senior›
 
-Table:
+Final Table:
 
- 1.Univ. of the Bahamas Mingoes   13   9  3  1  47-11  30
- 2.Western Warriors Titans        13   9  1  3  48-24  28  [C]
- 3.Dynamos FC                     13   8  1  4  29-19  25
- 4.Westside SC-Renegades FC       12   7  2  3  34-17  23
- 5.United FC                      13   7  2  4  31-16  23
- 6.Inter Nassau FC BLS            14   4  2  8  28-31  14
- 8.Future Stars                   13   0  4  9  17-44   4
- 9.Cavalier FC                    13   1  1 11   8-76   4
+ 1.Univ. of the Bahamas Mingoes   15  11  3  1  61-12  36      Champions
+ 2.Westside SC-Renegades FC       15   9  2  4  51-22  29
+ 3.Dynamos FC                     15   9  2  4  32-20  29
+ 4.Western Warriors Titans        15   9  1  5  50-30  28  [C]
+ 5.United FC                      15   8  3  4  34-16  27
+ 6.Inter Nassau FC BLS            15   5  2  8  32-34  17
+ 7.Future Stars                   15   0  4 11  18-49   4
+ 8.Cavalier FC                    15   1  1 13   8-99   4
  -.Baha Juniors FC                withdrew or excluded after round 16;
    results rounds 10-16 annulled   8   2  2  4  10-14   8
 
@@ -155,7 +155,7 @@ Baha Juniors     n/p United
 Inter BLS        1-3 WW Titans
 Dynamos          1-2 UB Mingoes
 [Apr 15]
-Future Stars      -  Renegades
+Future Stars     1-2 Renegades
 Cavalier         bye
 
 Round 17 [Mar 22]
@@ -166,30 +166,54 @@ UB Mingoes       4-2 Renegades
 WW Titans        bye
 
 Round 11 [Apr 12]
-UB Mingoes        -  Cavalier
-United            -  Future Stars
-Renegades         -  Inter BLS
-WW Titans         -  Dynamos
+UB Mingoes      11-0 Cavalier
+United           awd Future Stars     [awarded 3-0, Future Stars forfeited]
+Renegades        3-4 Inter BLS
+WW Titans        1-3 Dynamos
 Baha Juniors     bye
 
 Round 18 [Apr 19]
 Baha Juniors     n/p Inter BLS
-Renegades         -  Cavalier
-United            -  Dynamos
-WW Titans         -  UB Mingoes
+Renegades       12-0 Cavalier
+United           0-0 Dynamos
+WW Titans        1-3 UB Mingoes
 Future Stars     bye
 
-Table:
+Final Table:
 
- 1.Univ. of the Bahamas Mingoes   13   9  3  1  47-11  30
- 2.Western Warriors Titans        13   9  1  3  48-24  28  [C]
- 3.Dynamos FC                     13   8  1  4  29-19  25
- 4.Westside SC-Renegades FC       12   7  2  3  34-17  23
- 5.United FC                      13   7  2  4  31-16  23
- 6.Inter Nassau FC BLS            14   4  2  8  28-31  14
- 8.Future Stars                   13   0  4  9  17-44   4
- 9.Cavalier FC                    13   1  1 11   8-76   4
+ 1.Univ. of the Bahamas Mingoes   15  11  3  1  61-12  36      Champions
+ 2.Westside SC-Renegades FC       15   9  2  4  51-22  29
+ 3.Dynamos FC                     15   9  2  4  32-20  29
+ 4.Western Warriors Titans        15   9  1  5  50-30  28  [C]
+ 5.United FC                      15   8  3  4  34-16  27
+ 6.Inter Nassau FC BLS            15   5  2  8  32-34  17
+ 7.Future Stars                   15   0  4 11  18-49   4
+ 8.Cavalier FC                    15   1  1 13   8-99   4
  -.Baha Juniors FC                withdrew or excluded after round 16;
    results rounds 10-16 annulled   8   2  2  4  10-14   8
+
+
+
+
+
+
+==== Knockout Cup 2026  ‹§cup›
+
+
+Quarterfinals [Apr 26]
+WW Titans        4-4 Dynamos          [5-6 pen]
+United           w/o Future Stars     [Future Stars forfeited]
+Renegades        0-2 UB Mingoes
+Cavalier         1-4 Inter BLS
+
+Semifinals [May 3]
+United           1-1 Inter BLS        [3-4 pen]
+UB Mingoes       3-3 Dynamos          [4-5 pen]
+
+Third Place Match [May 17]
+United            -  UB Mingoes
+
+Final [May 17]
+Inter BLS         -  Dynamos
 
 

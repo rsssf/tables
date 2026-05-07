@@ -1,0 +1,12 @@
+tablesp/peru2025                :  2025
+tablesp/peruchamp               :  list of champions
+tablesp/perualltime             :  all-time table descentralizado
+tablesp/perucuphist             :  copa peru history
+tablesp/peru2champ              :  list of 2nd division champions
+tablesp/peruregchamp            :  list of regional champions
+tablesp/perudeptchamp           :  list of departmental champions
+tablesp/peruhist                :  list of final tables
+tablesp/peru2hist               :  list of 2nd division final tables
+tablesp/peruall                 :  list of divisional movements
+tablesp/perufound               :  list of foundation dates
+tablesp/perutops                :  list of topscorers

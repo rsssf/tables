@@ -2,7 +2,7 @@
      title:   Crimea and South Eastern Ukraine 2026
      source:  https://rsssf.org/tablesz/zooekr2026.html
      author:  Theodore Dreiman
-     updated: 7 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -12,23 +12,186 @@
 
 
 
-==== Crimea 2026  ‹§krim›
+==== Commonwealth United Championship 2026  ‹§bezetoekr›
 
-CFU Premier League 2026  ‹§krimpl›
+Departed: Gvardéjec (Donéck)
 
 Table:
 
-1.FC Qamacı                  2   1  1  0   5- 3   4
-2.Távrija (Simferópoĺ)       1   1  0  0   3- 0   3      [3-0]
-3.Ocean (Keríç)              2   1  0  1   3- 4   3      [0-3]
-4.MFC Yálta                  2   0  2  0   1- 1   2
-5.Spárta KT (Molodjóžnoje)   1   0  1  0   3- 3   1
-6.FC Theodósia               2   0  1  1   1- 3   1
+ 1.Černomórec (Sevastópoĺ)      3   3  0  0   8- 4    9
+ 2.Šahtjór (Sverdlóvsk)         4   2  1  1  11- 6    7      [6-2]
+ 3.FC Sevastópoĺ-2              4   2  1  1  16- 9    7      [2-6]
+ 4.Šahtjór-2 (Donéck)           3   2  0  1   5- 4    6
+ 5.Frigate (Hersón Region)      3   2  0  1   3- 2    6
+ 6.Avantgarde (Melitópoĺ)       3   1  2  0   6- 4    5  [N]
+ 7.Donbass Power (Téĺmanovo)    3   1  1  1   4- 5    4      [0-0]
+ 8.Zarjá (Lugánsk)              6   0  4  2   5- 8    4      [0-0]
+ 9.Zaporóžje Region Selection   6   0  3  3  10-13    3
+10.Dinámo (Lugánsk)             3   0  0  3   1-14    0
+
+The last year champions Šahtjór Donéck's main team were admitted to Russian Second League Division B.
+
+Round 1
+[Apr 4]
+Cernomorec     1-0  Frigate
+  [Arsen Gafarov 65]
+Zaporozje RgS  1-1  Zarja
+  [Azim Bekmuhanov 41 - Sergej Cindrik 48 pen]
+[Apr 13]
+Sevastopol-2   4-1  Sahtjor-2 Don
+  [Alexandr Popov 53; Dmitrij Pigulevskij 77; Mamed Mamišev 84;
+   Jurij Jakunin 86 - Nikolaj Piskovoj 78]
+Sahtjor Sverd  3-0  Dinamo
+  [Jaroslav Ščukin 17; Nikita Batukov 36; Artjom Dezik 85]
+[Apr 22]
+Donbass Power  1-3  Avantgarde
+  [Daniil Sajenko 20 - Ruslan Volguzov 52; Kirill Solovej 70; Ivan Solovej 90]
+
+Round 2
+[Apr 7]
+Cernomorec     4-2  Zarja
+  [Ivan Butovčenko 5; Jevgenij Strelov 22; Matvej Gujganov 83;
+   Iĺja Vasin 90+2 - Alexej Gusev 47; Alexandr Grigoŕjev (Cer) 90+4 og]
+Frigate        1-0  Zaporozje RgS
+  [Vladimir Gaĺčuk 90+3]
+[Apr 16]
+Sahtjor-2 Don  2-0  Sahtjor Sverd
+  [Alexej Mišin 15 pen; Nikolaj Piskovoj 83]
+Dinamo         1-9  Sevastopol-2
+  [Maxim Čepurko 90 - Alexandr Popov 20, 61; Viktor Dodonov 32, 37;
+   Mamed Mamišev 43, 44; Maxim Mjasnikov 71; Jurij Jakunin 76, 78]
+
+Round 3
+[Apr 10]
+Zarja          1-2  Frigate
+  [Jevgenij Naumov 90+2 pen - Akim Abdokov 5; Danil Kurajev 80 pen]
+Zaporozje RgS  2-3  Cernomorec
+  [Pavel Losenko 71; Nikita Šepet 83 - Roman Isajev 37; Abdurašidbek Tohirov 84; Danil Macinin 87]
+[Apr 19]
+Sahtjor-2 Don  2-0  Dinamo
+  [Alexej Mišin 7 pen; Nikolaj Piskovoj 60]
+Sahtjor Sverd  6-2  Sevastopol-2
+  [Nikita Batukov 12; Zaurbek Kardanov 19; Jaroslav Ščukin 47, 84; Jegor Mryhin 57;
+   Kirill Lipodat 67 - Genzel Bagoyan 39; Mamed Mamišev 65]
+
+Round 4
+[Apr 25]
+Avantgarde     0-0  Zarja
+Donbass Power  3-2  Zaporozje RgS
+  [Nikita Mazanov 42; Sergej Šestakov 53; Sergej Gaponenko 61 -
+   Artjom Lebedev 81; Valerij Hačin 88 pen]
+[May 4]
+Sevastopol-2   -  Cernomorec
+Sahtjor Sverd  -  Frigate
+
+Round 5
+[Apr 28]
+Avantgarde     3-3  Zaporozje RgS
+  [Kirill Solovej 41; Anton Gladyšev 45+1; Vitalij Bučka 90+5 -
+   Alexandr Krjažev 61, 63; Valerij Hačin 90+2]
+Donbass Power  0-0  Zarja
+[May 7]
+Cernomorec     -  Sahtjor Sverd
+Frigate        -  Sevastopol-2
+
+Round 6
+[May 1]
+Sahtjor Sverd  2-2  Zaporozje RgS
+  [Nikita Batukov 79, 90+4 - Valerij Hačin 74 pen, 81]
+Zarja          1-1  Sevastopol-2
+  [Jevgenij Naumov 68 pen - Alexandr Popov 2]
+[May 16]
+Avantgarde     -  Dinamo
+Donbass Power  -  Sahtjor-2 Don
+
+Table:
+
+ 1.Černomórec (Sevastópoĺ)      3   3  0  0   8- 4    9
+ 2.Šahtjór (Sverdlóvsk)         4   2  1  1  11- 6    7      [6-2]
+ 3.FC Sevastópoĺ-2              4   2  1  1  16- 9    7      [2-6]
+ 4.Šahtjór-2 (Donéck)           3   2  0  1   5- 4    6
+ 5.Frigate (Hersón Region)      3   2  0  1   3- 2    6
+ 6.Avantgarde (Melitópoĺ)       3   1  2  0   6- 4    5  [N]
+ 7.Donbass Power (Téĺmanovo)    3   1  1  1   4- 5    4      [0-0]
+ 8.Zarjá (Lugánsk)              6   0  4  2   5- 8    4      [0-0]
+ 9.Zaporóžje Region Selection   6   0  3  3  10-13    3
+10.Dinámo (Lugánsk)             3   0  0  3   1-14    0
+
+The last year champions Šahtjór Donéck's main team were admitted to Russian Second League Division B.
+
+Top scorers:
+
+1.Nikíta Batukóv (Šahtjór Sverd)    4
+  Valérij Háčin (Zaporóžje RgS)     4
+  Maméd Mamíšev (Sevastópoĺ-2)      4
+4.Júrij Jakúnin (Sevastópoĺ-2)      3
+  Nikoláj Piskovój (Šahtjór-2 Don)  3
+  Alexándr Popóv (Sevastópoĺ-2)     3
+  Jarosláv Ščúkin (Šahtjór Sverd)   3
+
+Round 7
+[May 10]
+Cernomorec     -  Dinamo
+Frigate        -  Sahtjor-2 Don
+[May 22]
+Sevastopol-2   -  Donbass Power
+Sahtjor Sverd  -  Avantgarde
+
+Round 8
+[May 13]
+Frigate        -  Dinamo
+Sahtjor-2 Don  -  Cernomorec
+[May 25]
+Sevastopol-2   -  Avantgarde
+Donbass Power  -  Sahtjor Sverd
+
+Round 9
+[May 19]
+Dinamo         -  Donbass Power
+Sahtjor-2 Don  -  Avantgarde
+[May 28]
+Zarja          -  Sahtjor Sverd
+Zaporozje RgS  -  Sevastopol-2
+
+Round 10
+[May 31]
+Sahtjor-2 Don  -  Zarja
+Dinamo         -  Zaporozje RgS
+[Jun 6]
+Avantgarde     -  Frigate
+Donbass Power  -  Cernomorec
+
+Round 11
+[Jun 3]
+Zaporozje RgS  -  Sahtjor-2 Don
+Zarja          -  Dinamo
+[Jun 9]
+Frigate        -  Donbass Power
+Avantgarde     -  Cernomorec
+
+
+
+
+
+
+==== Crimea 2026  ‹§krim›
+
+===== CFU Premier League 2026  ‹§krimpl›
+
+Table:
+
+1.Távrija (Simferópoĺ)       4   4  0  0   8- 2  12
+2.FC Qamacı                  5   2  2  1  10- 4   8
+3.Spárta KT (Molodjóžnoje)   4   2  1  1   6- 5   7
+4.MFC Yálta                  4   1  2  1   5- 4   5
+5.MAK (Canköy)               4   1  1  2   4- 5   4  [P]
+6.Ocean (Keríç)              4   1  1  2   3- 6   4
 - - - - - - - - - - - - - - - - - - - - - - - - - -
-7.MAK (Canköy)               2   0  1  1   1- 3   1  [P]
+7.FC Theodósia               5   0  1  4   3-13   1
 
 Last year champions Qızıl Taş (Bağçasaráy) were admitted to the Russian Second League.
 Guardia (Theodósia) changed name to FC Theodósia.
+FC Qamacı play home games in Bağçasaráy (135 km south-west of Qamacı).
 
 Round 1 [Total Att: 1,430; Average: 477]
 [Mar 28]
@@ -50,39 +213,56 @@ MAK        0-2  Qamaci
 Theodosia  0-0  MFC Yalta
   [Att: 800]
 
+Round 3 [Apr 11. Total Att: 650; Average: 217]
+Qamaci     5-0  Theodosia
+  [Jarosláv Júdin 34, 54; Vladisláv Choi 44, 78 pen; Dlâvér Nuridínov 61. Bağçasaráy. Att: 100]
+Tavrija    3-2  MFC Yalta
+  [Dmítrij Šerstobítov 9, 45; Ígoŕ Ivanóv 77 - Maxím Podlúžnyj 14; Batráz Gaglójev 58. Att: 300]
+MAK        0-1  Sparta KT
+  [Alexándr Malinévskij 48. Agrárnoje. Att: 250]
+
+Round 4 [Apr 18. Total Att: 2,650; Average: 883]
+Qamaci     0-1  Tavrija
+  [Antón Altúnin 57. Agrárnoje. Att: 800]
+Theodosia  1-2  Sparta KT
+  [Nikíta Petróv 64 - Jevgénij Suínov 55 pen, 87. Att: 1,200]
+Ocean      0-2  MFC Yalta
+  [Dmítrij Manónin 62; Arsén Sozánov 81. Att: 650]
+
+Round 5 [Apr 29]
+Tavrija    1-0  Sparta KT
+  [Dmítrij Matvijénko 55]
+Qamaci     0-0  Ocean
+MAK        3-1  Theodosia
+  [Jegór Snytkó 61; Vadím Gríšin 78; Hovhannés Harutyunyán 80 - Nikíta Petróv 47 pen. Han Eli]
+
 Table:
 
-1.FC Qamacı                  2   1  1  0   5- 3   4
-2.Távrija (Simferópoĺ)       1   1  0  0   3- 0   3      [3-0]
-3.Ocean (Keríç)              2   1  0  1   3- 4   3      [0-3]
-4.MFC Yálta                  2   0  2  0   1- 1   2
-5.Spárta KT (Molodjóžnoje)   1   0  1  0   3- 3   1
-6.FC Theodósia               2   0  1  1   1- 3   1
+1.Távrija (Simferópoĺ)       4   4  0  0   8- 2  12
+2.FC Qamacı                  5   2  2  1  10- 4   8
+3.Spárta KT (Molodjóžnoje)   4   2  1  1   6- 5   7
+4.MFC Yálta                  4   1  2  1   5- 4   5
+5.MAK (Canköy)               4   1  1  2   4- 5   4  [P]
+6.Ocean (Keríç)              4   1  1  2   3- 6   4
 - - - - - - - - - - - - - - - - - - - - - - - - - -
-7.MAK (Canköy)               2   0  1  1   1- 3   1  [P]
+7.FC Theodósia               5   0  1  4   3-13   1
 
 Last year champions Qızıl Taş (Bağçasaráy) were admitted to the Russian Second League.
 Guardia (Theodósia) changed name to FC Theodósia.
+FC Qamacı play home games in Bağçasaráy (135 km south-west of Qamacı).
 
 Top scorers:
 
-Jarosláv Júdin (Qamacı)     2
-Pável Kuznecóv (Sparta KT)  2
-
-Round 3 [Apr 11]
-MFC Yalta  -  Tavrija
-Qamaci     -  Theodosia
-Sparta KT  -  MAK
-
-Round 4 [Apr 18]
-Tavrija    -  Qamaci
-Ocean      -  MFC Yalta
-Theodosia  -  Sparta KT
-
-Round 5 [Apr 25]
-Sparta KT  -  Tavrija
-Qamaci     -  Ocean
-MAK        -  Theodosia
+1.Jarosláv Júdin (Qamacı)        4
+2.Vladisláv Choi (Qamacı)        2
+  Vadím Gríšin (MAK)             2
+  Pável Kuznecóv (Spárta KT)     2
+  Alexándr Malinévskij (Spárta)  2
+  Dmítrij Matvijénko (Távrija)   2
+  Dlâvér Nuridínov (Qamacı)      2  [Russia/Uzbekistan]
+  Nikíta Petróv (Theodósia)      2
+  Dmítrij Šerstobítov (Távrija)  2
+  Jevgénij Suínov (Spárta KT)    2
 
 Round 6 [May 2]
 Tavrija    -  MAK
@@ -129,26 +309,26 @@ Tavrija    -  Theodosia
 Ocean      -  MAK
 MFC Yalta  -  Sparta KT
 
-Crimean Open Amateur Championship 2026  ‹§krimaoc›
+===== Crimean Open Amateur Championship 2026  ‹§krimaoc›
 
-Departed: Asker (Canköy), Metprom (Ermeni Bazar), NovAutoTrans (Novovasiĺjevka).
+Departed: Asker (Canköy), Metprom (Ermeni Bazar), NovAutoTrans (Novovasiĺjevka), Orbita (Qurman).
 
 Table:
 
- 1.ARS Gazelle (Tege Aqşeyh)   1   1  0  0   6- 0   3  [N]
+ 1.FC Sudaq                    5   4  1  0  16- 7  13
 -----------------------------------------------------
- 2.Kaštan (Kaštanovoje)        1   1  0  0   7- 2   3
+ 2.Kaštan (Kaštanovoje)        4   4  0  0  20- 7  12
 - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.FC Saq                      1   1  0  0   5- 3   3  [N]
- 4.FC Sudaq                    1   1  0  0   2- 1   3
- 5.Founa (Aluşta)              0   0  0  0   0- 0   0
- 6.Orbita (Qurman)             0   0  0  0   0- 0   0
- 7.Temp (Aqşeyh)               0   0  0  0   0- 0   0  [N]
- 8.Turbo (Keriç)               1   0  0  1   1- 2   0
- 9.NK-Stroj (Keriç)            1   0  0  1   3- 5   0
-10.Stalker (Eupatoria)         1   0  0  1   2- 7   0
-11.Crimean FA (Eupatoria)      1   0  0  1   0- 6   0  [N]
+ 3.FC Saq                      4   3  0  1  10- 8   9  [N]
+ 4.Stalker (Eupatoria)         4   2  1  1  14-15   7
+ 5.ARS Gazelle (Tege Aqşeyh)   3   2  0  1  12- 6   6  [N]
+ 6.Turbo (Keriç)               4   1  0  3  11-13   3
+ 7.Founa (Aluşta)              3   1  0  2   8-10   3
+ 8.Crimean FA (Eupatoria)      3   0  1  2   2- 9   1  [N]
+ 9.NK-Stroj (Keriç)            4   0  1  3   8-18   1
+10.Temp (Aqşeyh)               4   0  0  4   8-16   0  [N]
 
+ARS Gazelle play home games in Tarhanlar (27 km north-west of Tege Aqşeyh).
 ARS = Automobile Repair Shop
 
 Round 1
@@ -166,73 +346,90 @@ Stalker      2-7  Kastan
 [Apr 1]
 ARS Gazelle  6-0  Crimean FA
   [S.Kaliničenko 5; N.Mihališčev 9, 36; V.Choi 25, 28; A.Cemilev 32. Att: 120]
-[ppd]
-Founa        -  Orbita
+
+Round 2
+[Apr 5]
+Founa        5-3  ARS Gazelle
+  [D.Mudrak 42; O.Storčun (ARS) 56 og; I.Kutenkov 74, 80; V.Ugarov 77 -
+   V.Choi 36, 58; A.Cemilev 39. Aşağı Şuma. Att: 50]
+Temp         2-5  Sudaq
+  [O.Davidjuk 25 pen, 66 pen - A.Gajdaš 7; N.Gluškov 14 pen; O.Skvorcov 20; A.Sginuhin 51 pen, 71. Sudaq. Att: 200]
+[Apr 8]
+Crimean FA   1-2  Saq
+  [V.Seytbilâlov 26 - N.Samojlov 52; A.Kolodjažnyj 89. Att: 150]
+[Apr 11]
+Turbo        2-5  Stalker
+  [N.Postojev 2; I.Ščerbina 47 - B.Tarasov 38, 45, 69; G.Vetoškin 56; G.Gafarov 90+4. Att: 100]
+
+Round 3
+[Apr 18]
+Sudaq        3-1  NK-Stroj
+  [N.Gluškov 5 pen; O.Skvorcov 31; V.Smirnov 76 - E.Halilov 41. Att: 50]
+Stalker      3-2  Temp
+  [A.Kompanijec 19; R.Dovžik 48; B.Tarasov 75 pen - O.Davidjuk 58 pen; I.Ahmedov 79. Att: 50]
+[Apr 19]
+Saq          2-1  Founa
+  [S.Barkanov 63; N.Samojlov 75 - S.Kratynskij 66. Att: 200]
+Kastan       4-3  Turbo
+  [Ja.Judin 9, 12, 57; A.Žabokrickij 79 - I.Ščerbina 22, 85; A.Gluhov (Kas) 80 og. Att: 50]
+
+Round 4
+[Apr 25]
+NK-Stroj     4-4  Stalker
+  [D.Vjatčanin 9; A.Kirsanov 48; M.Okereško 56 pen; S.Polenov 64 -
+   R.Dovžik 7; A.Kompanijec 37; R.Adžimamutov 69; G.Vetoškin 81. Att: 150]
+[Apr 26]
+ARS Gazelle  3-1  Saq
+  [D.Sidorenko 31 pen, 42; V.Choi 84 - M.Zamrij 90 pen. Att: 100]
+Temp         2-3  Kastan
+  [O.Davidjuk 53, 59 - A.Šendrik 63; I.Ahmedov [Tem) 81 og; Ja.Judin 83. Kaštanovoje. Att: 50]
+[Apr 29]
+Crimean FA   1-1  Sudaq
+  [A.Agagin 69 - O.Hramov 17]
+
+Round 5
+[May 1]
+Turbo        5-2  Temp
+  [I.Ščerbina 2, 17, 56, 86; V.Narykov 7 pen - S.Zaharov 33; A.Papuk 90]
+[May 2]
+Sudaq        5-2  Founa
+  [V.Semjonov 8, 52; A.Gajdaš 31; S.Halilov 35; A.Monahov 90+2 -
+   O.Hramov (Sud) 51 og; Z.Seitmemetov 84]
+Kastan       6-0  NK-Stroj
+  [Ja.Judin 2, 11; A.Šendrik 10; A.Ševčuk 14; A.Žabokrickij 64, 71. Spat. Att: 100]
+[May 6]
+Stalker      -  Crimean FA
 
 Table:
 
- 1.ARS Gazelle (Tege Aqşeyh)   1   1  0  0   6- 0   3  [N]
+ 1.FC Sudaq                    5   4  1  0  16- 7  13
 -----------------------------------------------------
- 2.Kaštan (Kaštanovoje)        1   1  0  0   7- 2   3
+ 2.Kaštan (Kaštanovoje)        4   4  0  0  20- 7  12
 - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.FC Saq                      1   1  0  0   5- 3   3  [N]
- 4.FC Sudaq                    1   1  0  0   2- 1   3
- 5.Founa (Aluşta)              0   0  0  0   0- 0   0
- 6.Orbita (Qurman)             0   0  0  0   0- 0   0
- 7.Temp (Aqşeyh)               0   0  0  0   0- 0   0  [N]
- 8.Turbo (Keriç)               1   0  0  1   1- 2   0
- 9.NK-Stroj (Keriç)            1   0  0  1   3- 5   0
-10.Stalker (Eupatoria)         1   0  0  1   2- 7   0
-11.Crimean FA (Eupatoria)      1   0  0  1   0- 6   0  [N]
+ 3.FC Saq                      4   3  0  1  10- 8   9  [N]
+ 4.Stalker (Eupatoria)         4   2  1  1  14-15   7
+ 5.ARS Gazelle (Tege Aqşeyh)   3   2  0  1  12- 6   6  [N]
+ 6.Turbo (Keriç)               4   1  0  3  11-13   3
+ 7.Founa (Aluşta)              3   1  0  2   8-10   3
+ 8.Crimean FA (Eupatoria)      3   0  1  2   2- 9   1  [N]
+ 9.NK-Stroj (Keriç)            4   0  1  3   8-18   1
+10.Temp (Aqşeyh)               4   0  0  4   8-16   0  [N]
 
+ARS Gazelle play home games in Tarhanlar (27 km north-west of Tege Aqşeyh).
 ARS = Automobile Repair Shop
 
 Top scorers:
 
-Vladislav Choi (ARS Gazelle)     2
-Nikita Mihališčev (ARS Gazelle)  2
-
-Round 2
-[Apr 4]
-Turbo        -  Stalker
-[Apr 5]
-Founa        -  ARS Gazelle
-Temp         -  Sudaq
-Orbita       -  Kastan
-[Apr 8]
-Crimean FA   -  Saq
-
-Round 3
-[Apr 18]
-Saq          -  Founa
-Sudaq        -  NK-Stroj
-Kastan       -  Turbo
-[Apr 19]
-ARS Gazelle  -  Orbita
-Stalker      -  Temp
-
-Round 4
-[Apr 25]
-Orbita       -  Turbo
-Temp         -  Kastan
-NK-Stroj     -  Stalker
-[Apr 26]
-ARS Gazelle  -  Saq
-[Apr 29]
-Crimean FA   -  Sudaq
-
-Round 5
-[May 1]
-Saq          -  Orbita
-Sudaq        -  Founa
-Kastan       -  NK-Stroj
-Turbo        -  Temp
-[May 6]
-Stalker      -  Crimean FA
+1.Iĺja Ščerbina (Turbo)          8
+2.Jaroslav Judin (Kaštan)        6
+3.Vladislav Choi (ARS Gazelle)   5
+  Oleg Davidjuk (Temp)           5
+  Bogdan Tarasov (Stalker)       5
+6.Alexandr Žabokrickij (Kaštan)  4
+7.Nikita Samojlov (Saq)          3
+  Alexandr Sginuhin (Sudaq)      3
 
 Round 6
-[May 16]
-Orbita       -  Temp
 [May 17]
 NK-Stroj     -  Turbo
 Founa        -  Stalker
@@ -252,7 +449,6 @@ Turbo        -  Crimean FA
 
 Round 8
 [May 30]
-Orbita       -  NK-Stroj
 Founa        -  Turbo
 [May 31]
 ARS Gazelle  -  Kastan
@@ -262,7 +458,6 @@ Crimean FA   -  Temp
 
 Round 9
 [Jun 6]
-Sudaq        -  Orbita
 Temp         -  Founa
 NK-Stroj     -  Crimean FA
 [Jun 7]
@@ -276,15 +471,12 @@ ARS Gazelle  -  Temp
 Founa        -  NK-Stroj
 Saq          -  Turbo
 Sudaq        -  Stalker
-[Jun 14]
-Orbita       -  Crimean FA
 
 Round 11
 [Jun 20]
 Kastan       -  Sudaq
 Crimean FA   -  Founa
 [Jun 21]
-Stalker      -  Orbita
 Temp         -  Saq
 NK-Stroj     -  ARS Gazelle
 
@@ -295,7 +487,7 @@ NK-Stroj     -  ARS Gazelle
 
 ==== Donetsk PR 2026  ‹§dpr›
 
-Winter Championship 2025/26  ‹§dwchamp›
+===== Winter Championship 2025/26  ‹§dwchamp›
 
 FIRST STAGE
 
@@ -329,8 +521,8 @@ Donbass Power  6-2  Gvardejec      [D.Alehna 10; A.Meščerjakov 28 pen; O.Kurga
 Metallurg Jen  3-0  Donbass Vets   [Technical result]
 [Jan 21]
 Sahtjor-2 Don  1-2  FC Mariupol    [N.Domnin 23 - A.Titarenko 60; S.Sviščov 75]
-[ppd]
-Bazanovec      -  SSOR #2 Don
+[Apr 4]
+Bazanovec      1-1  SSOR #2 Don
 
 Round 5 [Jan 10]
 Metallurg Jen  0-0  Bazanovec
@@ -356,16 +548,16 @@ SSOR #2 Don    3-0  Donbass Vets   [Technical result]
 Donbass Power  7-0  Metallurg Jen  [O.Kurgan 17; N.Mazanov 15, 58; K.Alexejev 43; Je.Tarnov 47, 53; V.Miroś 79]
 Gvardejec      0-3  FC Mariupol    [Technical result]
 
-Table:
+Final Table:
 
 1.FC Mariúpoĺ                 7   7  0  0  20- 4  21
 2.Donbass Power (Téĺmanovo)   7   6  0  1  39- 7  18
 3.Šahtjór-2 (Donéck)          7   3  2  2  27- 8  11  [3-3]
 4.Metallúrg (Jenákijevo)      7   3  2  2  12-13  11  [3-3]
 ----------------------------------------------------
-5.Bažánovec (Makéjevka)       6   2  2  2   8- 8   8
-6.Gvardéjec (Donéck)          7   1  1  5   6-20   4  [0-0]
-7.SSOR #2 (Donéck)            6   1  1  4   3-27   4  [0-0]
+5.Bažánovec (Makéjevka)       7   2  3  2   9- 9   9
+6.SSOR #2 (Donéck)            7   1  2  4   4-28   5
+7.Gvardéjec (Donéck)          7   1  1  5   6-20   4
 8.Donbass Football Veterans   7   0  0  7   1-29   0
 
 SECOND STAGE
@@ -382,16 +574,16 @@ FC Mariúpoĺ    2-0  Metallúrg Jen  [A.Globa 13; D.Stecjun 29]
 [Mar 28]
 Donbass Power  2-0  Šahtjór-2 Don  [Je.Ohmat 32; N.Mazanov 40]
 
-Round 3
-Donbass Power  -  FC Mariúpoĺ
-Šahtjór-2 Don  -  Metallúrg Jen
+Round 3 [Apr 4]
+Donbass Power  3-0  FC Mariúpoĺ
+Šahtjór-2 Don  4-0  Metallúrg Jen
 
-Table:
+Final Table:
 
-1.FC Mariúpoĺ                 9   9  0  0  25- 6  27  Winter Champions
-2.Donbass Power (Téĺmanovo)   9   7  1  1  42- 8  22
-3.Metallúrg (Jenákijevo)      9   3  3  3  13-16  12
-4.Šahtjór-2 (Donéck)          9   3  2  4  29-13  11
+1.FC Mariúpoĺ                10   9  0  1  25- 9  27  Winter Champions
+2.Donbass Power (Téĺmanovo)  10   8  1  1  45- 8  25
+3.Šahtjór-2 (Donéck)         10   4  2  4  33-13  14
+4.Metallúrg (Jenákijevo)     10   3  3  4  13-20  12
 
 Second Group
 
@@ -417,10 +609,10 @@ Bažánovec-Ava  5-2  SSOR #2        [M.Čerkaj 14, 49; A.Koroljov 31, 34; A.Če
 
 Table:
 
-5.Bažánovec-Avantgarde (Makéjevka)   8   4  2  2  18-10  14
+5.Bažánovec-Avantgarde (Makéjevka)   9   4  3  2  19-11  15
 6.Gvardéjec (Donéck)                10   2  1  7  10-27   7
 7.Bažánovec U17 (Makéjevka)          2   2  0  0   2- 0   6
-8.SSOR #2 (Donéck)                   9   1  1  7   6-37   4
+8.SSOR #2 (Donéck)                  10   1  2  7   7-38   5
 
 Top scorers:
 
@@ -430,4 +622,72 @@ Top scorers:
   Dmítrij Stecjún (Mariúpoĺ)      7
 5.Nikoláj Piskovój (Šahtjór-2)    6
 6.Nikíta Dómnin (Šahtjór-2)       5
+
+===== Premier League 2026  ‹§dleag›
+
+Departed: Metallurg DonSTU (Alčevsk), Šahtjor (Thorez).
+
+Round 1
+[May 2]
+Metallurg  -  Sahtjor-2
+ODSS #2    -  Mariupol
+[May 3]
+MBA        -  Donbass P
+
+Round 2
+[Apr 25]
+Sahtjor-2  4-0  ODSS #2    [Ja.Razvjazov 6; Ja.Maximčuk 27, 65; N.Piskovoj 82]
+[May 9]
+Gvardejec  -  MBA
+[May 10]
+Donbass P  -  Metallurg
+
+Table:
+
+1.Šahtjor-2 (Doneck)          1   1  0  0   4- 0   3
+2.Donbass Power (Teĺmanovo)   0   0  0  0   0- 0   0  [C]
+3.FC Mariupoĺ                 0   0  0  0   0- 0   0
+4.MBA (Makejevka)             0   0  0  0   0- 0   0
+5.Gvardejec (Doneck)          0   0  0  0   0- 0   0
+6.Metallurg (Jenakijevo)      0   0  0  0   0- 0   0  [N]
+7.ODSS #2 (Doneck)            1   0  0  1   0- 4   0
+
+Name changes: Bažanovec (Makejevka) to MBA; Stroiteĺ (Mariupoĺ) to FC Mariupoĺ.
+
+Top scorer:
+
+Jarosláv Maximčúk (Šahtjor-2)  2
+
+Round 3
+[May 16]
+Mariupol   -  Gvardejec
+ODSS #2    -  MBA
+[tba]
+Sahtjor-2  -  Donbass P
+
+Round 4 [May 23]
+Gvardejec  -  Sahtjor-2
+MBA        -  Mariupol
+Metallurg  -  ODSS #2
+
+Round 5
+[May 30]
+Metallurg  -  Gvardejec
+ODSS #2    -  Donbass P
+[Jun 6]
+Mariupol   -  Sahtjor-2
+
+Round 6
+[Jun 6]
+Gvardejec  -  ODSS #2
+MBA        -  Metallurg
+[Jun 17]
+Donbass P  -  Mariupol
+
+Round 7 [Jun 13]
+Sahtjor-2  -  MBA
+Mariupol   -  Metallurg
+Donbass P  -  Gvardejec
+
+
 

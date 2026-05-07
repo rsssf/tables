@@ -2,7 +2,7 @@
      title:   Botswana 2025/26
      source:  https://rsssf.org/tablesb/bots2026.html
      author:  Karel Stokkermans
-     updated: 2 Apr 2026    
+     updated: 27 Apr 2026
     -->
 
 
@@ -16,23 +16,23 @@
 
 Table:
 
- 1.Gaborone United (Gaborone)               24  18  5  1  46-10  59  [C]
- 2.Mochudi Centre Chiefs                    24  14  8  2  33-11  50
- 3.Jwaneng Galaxy (Jwaneng)                 23  14  5  4  43-16  47
- 4.Sua Flamingoes (Sowa)                    24  13  4  7  32-24  43
- 5.Nico United (Selebi Phikwe)              24  10  9  5  28-21  39
- 6.Orapa United (Orapa)                     24   9 10  5  28-21  37
- 7.Morupule Wanderers (Palapye)             24  10  4 10  32-29  34
- 8.Township Rollers (Gaborone)              24   9  6  9  27-28  33
- 9.Botswana Defence Force XI (Mogoditshane) 24   7  8  9  26-29  29
-10.Police XI (Gaborone)                     24   6  9  9  14-22  27  [P]
-11.Matebele FC (Matebeleng)                 24   6  6 12  24-33  24
-12.TAFIC FC (Francistown)                   24   4 10 10  12-22  22
-13.Black Lions (Gaborone)                   24   5  6 13  12-30  21  [*]
+ 1.Gaborone United (Gaborone)               27  20  5  2  54-14  65  [C]  Champions
+ 2.Jwaneng Galaxy (Jwaneng)                 27  16  7  4  50-19  55
+ 3.Mochudi Centre Chiefs                    27  15  8  4  35-14  53
+ 4.Sua Flamingoes (Sowa)                    27  15  5  7  38-27  50
+ 5.Orapa United (Orapa)                     27  11 10  6  34-29  43
+ 6.Township Rollers (Gaborone)              27  12  6  9  31-29  42
+ 7.Nico United (Selebi Phikwe)              27  10 11  6  28-22  41
+ 8.Morupule Wanderers (Palapye)             27  12  5 10  35-30  41
+ 9.Botswana Defence Force XI (Mogoditshane) 27   7  9 11  28-37  30
+10.Matebele FC (Matebeleng)                 27   7  8 12  27-35  29
+11.TAFIC FC (Francistown)                   27   6 10 11  19-25  28
+12.Police XI (Gaborone)                     27   6 10 11  17-27  28  [P]
+13.Black Lions (Gaborone)                   27   6  6 15  14-34  24  [*]
 -------------------------------------------------------------------
-14.Extension Gunners (Lobatse)              24   4  7 13  16-35  19
-15.Calendar Stars (Francistown)             23   4  6 13  11-27  18  [P]
-16.Santa Green FC (Mahalapye)               24   5  3 16  19-45  18  [P]
+14.Extension Gunners (Lobatse)              27   5  8 14  22-40  23
+15.Santa Green FC (Mahalapye)               27   5  4 18  21-51  19  [P]
+16.Calendar Stars (Francistown)             27   4  6 17  15-35  18  [P]
 
 [*] VTM FC sold its place to Black Lions
 
@@ -352,8 +352,8 @@ Orapa United          2-0 BDF
 Morupule Wanderers    1-2 Extension Gunners
 Black Lions           1-2 TAFIC
 Township Rollers      0-2 Mochudi Centre Chiefs
-[tba]
-Jwaneng Galaxy         -  Calendar Stars
+[Apr 15]
+Jwaneng Galaxy        3-2 Calendar Stars
 
 Round 24
 [Mar 17]
@@ -369,36 +369,61 @@ Gaborone United       1-0 Morupule Wanderers
 
 Round 25
 [Apr 3]
-Matebele               -  Calendar Stars
+Matebele              2-1 Calendar Stars
 [Apr 4]
-Morupule Wanderers     -  Mochudi Centre Chiefs
-Sua Flamingoes         -  Police
-Jwaneng Galaxy         -  Santa Green
-Orapa United           -  Extension Gunners
-TAFIC                  -  BDF
-Township Rollers       -  Nico United
+Morupule Wanderers    2-1 Mochudi Centre Chiefs
+Sua Flamingoes        3-2 Police
+Jwaneng Galaxy        4-1 Santa Green
+Orapa United          3-2 Extension Gunners
+TAFIC                 4-0 BDF
+Township Rollers      1-0 Nico United
 [Apr 5]
-Black Lions            -  Gaborone United
+Black Lions           0-2 Gaborone United
+
+Round 26
+[Apr 10]
+Gaborone United       6-2 Orapa United
+[Apr 11]
+Santa Green           0-1 Township Rollers
+Extension Gunners     3-1 TAFIC
+Calendar Stars        0-1 Morupule Wanderers
+BDF                   1-3 Sua Flamingoes
+Nico United           0-0 Matebele
+Mochudi Centre Chiefs 1-0 Black Lions
+[Apr 12]
+Police                0-0 Jwaneng Galaxy
+
+Round 27
+[Apr 24]
+Matebele              1-1 Santa Green
+[Apr 25]
+Black Lions           2-1 Calendar Stars
+Extension Gunners     1-1 BDF
+TAFIC                 2-0 Gaborone United
+Orapa United          1-0 Mochudi Centre Chiefs
+Morupule Wanderers    0-0 Nico United
+Jwaneng Galaxy        0-0 Sua Flamingoes
+Township Rollers      2-1 Police
 
 Table:
 
- 1.Gaborone United (Gaborone)               24  18  5  1  46-10  59  [C]
- 2.Mochudi Centre Chiefs                    24  14  8  2  33-11  50
- 3.Jwaneng Galaxy (Jwaneng)                 23  14  5  4  43-16  47
- 4.Sua Flamingoes (Sowa)                    24  13  4  7  32-24  43
- 5.Nico United (Selebi Phikwe)              24  10  9  5  28-21  39
- 6.Orapa United (Orapa)                     24   9 10  5  28-21  37
- 7.Morupule Wanderers (Palapye)             24  10  4 10  32-29  34
- 8.Township Rollers (Gaborone)              24   9  6  9  27-28  33
- 9.Botswana Defence Force XI (Mogoditshane) 24   7  8  9  26-29  29
-10.Police XI (Gaborone)                     24   6  9  9  14-22  27  [P]
-11.Matebele FC (Matebeleng)                 24   6  6 12  24-33  24
-12.TAFIC FC (Francistown)                   24   4 10 10  12-22  22
-13.Black Lions (Gaborone)                   24   5  6 13  12-30  21  [*]
+ 1.Gaborone United (Gaborone)               27  20  5  2  54-14  65  [C]  Champions
+ 2.Jwaneng Galaxy (Jwaneng)                 27  16  7  4  50-19  55
+ 3.Mochudi Centre Chiefs                    27  15  8  4  35-14  53
+ 4.Sua Flamingoes (Sowa)                    27  15  5  7  38-27  50
+ 5.Orapa United (Orapa)                     27  11 10  6  34-29  43
+ 6.Township Rollers (Gaborone)              27  12  6  9  31-29  42
+ 7.Nico United (Selebi Phikwe)              27  10 11  6  28-22  41
+ 8.Morupule Wanderers (Palapye)             27  12  5 10  35-30  41
+ 9.Botswana Defence Force XI (Mogoditshane) 27   7  9 11  28-37  30
+10.Matebele FC (Matebeleng)                 27   7  8 12  27-35  29
+11.TAFIC FC (Francistown)                   27   6 10 11  19-25  28
+12.Police XI (Gaborone)                     27   6 10 11  17-27  28  [P]
+13.Black Lions (Gaborone)                   27   6  6 15  14-34  24  [*]
 -------------------------------------------------------------------
-14.Extension Gunners (Lobatse)              24   4  7 13  16-35  19
-15.Calendar Stars (Francistown)             23   4  6 13  11-27  18  [P]
-16.Santa Green FC (Mahalapye)               24   5  3 16  19-45  18  [P]
+14.Extension Gunners (Lobatse)              27   5  8 14  22-40  23
+15.Santa Green FC (Mahalapye)               27   5  4 18  21-51  19  [P]
+16.Calendar Stars (Francistown)             27   4  6 17  15-35  18  [P]
 
 [*] VTM FC sold its place to Black Lions
 

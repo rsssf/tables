@@ -2,7 +2,7 @@
      title:   Netherlands 2025/26
      source:  https://rsssf.org/tablesn/ned2026.html
      author:  Karel Stokkermans
-     updated: 7 Apr 2026    
+     updated: 7 Apr 2026
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Eredivisie  ‹§ere›
 
-‹Regular Season, see §1reg› | ‹Conference League Playoff, see §1eur› | ‹Nacompetitie, see §2nac›
 
-Regular Season  ‹§1reg›
+===== Regular Season  ‹§1reg›
 
 Table:
 
@@ -477,8 +476,8 @@ Table:
 17.NAC Breda                    29   5  9 15  29-50  24
 18.Heracles Almelo              29   5  4 20  34-74  19
 
-Conference League Playoff  ‹§1eur›
+===== Conference League Playoff  ‹§1eur›
 
-Nacompetitie  ‹§2nac›
+===== Nacompetitie  ‹§2nac›
 
 

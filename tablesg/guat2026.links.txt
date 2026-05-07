@@ -1,0 +1,4 @@
+tablesg/guat2025                :  2024/25.
+tablesg/guatchamp               :  list of champions.
+tablesg/guatalltime             :  all-time table.
+tablesg/guatcuphist             :  list of cup winners.

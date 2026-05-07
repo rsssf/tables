@@ -2,7 +2,7 @@
      title:   Russia 2025/26
      source:  https://rsssf.org/tablesr/rus2026.html
      author:  Theodore Dreiman
-     updated: 7 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -19,24 +19,24 @@ MIR RUSSIAN PREMIER LEAGUE 2025/26
 
 Table:
 
- 1.FC Krasnodár             23  16  4  3  48-16  52  [C]
- 2.Zenít (Sankt-Peterbúrg)  23  15  6  2  43-16  51
- 3.Lokomotív (Moskvá)       23  12  8  3  49-32  44
- 4.Báltika (Kaliningrád)    23  11 10  2  32-11  43  [P]
- 5.CSKA (Moskvá)            23  13  3  7  36-25  42
- 6.Sparták (Moskvá)         23  12  5  6  37-31  41
- 7.Rubín (Kazáń)            23   9  6  8  23-25  33
- 8.Dinámo (Moskvá)          23   8  7  8  40-33  31
- 9.Ahmát (Gróznyj)          23   8  6  9  27-29  30
-10.FC Rostóv                23   6  7 10  18-25  25
-11.Akrón (Togliátti)        23   5  7 11  28-40  22      [1-1]
-12.Dinámo (Mahačkalá)       23   5  7 11  14-29  22      [1-1]
+ 1.FC Krasnodár             28  19  6  3  56-21  63  [C]
+ 2.Zenít (Sankt-Peterbúrg)  28  18  8  2  50-18  62
+ 3.Lokomotív (Moskvá)       28  13 11  4  52-36  50
+ 4.Sparták (Moskvá)         28  14  6  8  45-38  48
+ 5.Báltika (Kaliningrád)    28  11 13  4  37-18  46  [P]
+ 6.CSKA (Moskvá)            28  13  6  9  39-31  45
+ 7.Rubín (Kazáń)            28  11  9  8  26-26  42
+ 8.Dinámo (Moskvá)          28  10  9  9  47-38  39
+ 9.Ahmát (Gróznyj)          28   9  8 11  33-37  35
+10.FC Rostóv                28   7  9 12  22-30  30
+11.Krýĺja Sovétov (Samára)  28   7  8 13  31-48  29
+12.Akrón (Togliátti)        28   6  9 13  33-46  27
 - - - - - - - - - - - - - - - - - - - - - - - - - -
-13.Krýĺja Sovétov (Samára)  23   5  6 12  23-42  21
-14.Parí NN (Nižn.Nóvgorod)  23   6  2 15  18-37  20
+13.FC Orenbúrg              28   6  8 14  28-41  26
+14.Dinámo (Mahačkalá)       28   5  9 14  18-36  24
 ---------------------------------------------------
-15.FC Orenbúrg              23   4  7 12  24-36  19
-16.FC Sóči                  23   2  3 18  20-53   9  [P]
+15.Parí NN (Nižn.Nóvgorod)  28   6  4 18  23-46  22
+16.FC Sóči                  28   6  3 19  27-57  21  [P]
 
 FC Hímki were denied the RPL license and relegated to First League.
 Torpédo (Moskvá) were excluded from RPL for attempted match-fixing.
@@ -601,26 +601,138 @@ Pari NN    0-1  Rostov
 Soci       0-1  Rubin
   [Ruslán Bezrúkov 20. Att: 3,662. +12°C, light rain]
 
+Round 24 [Total Att: 116,643; Average: 14,580]
+[Apr 11]
+Baltika    2-2  Pari NN
+  [Eldar Ćivić 48; Maxím V. Petróv 85 pen - Renaldo Cephas 8; Sven Karič 90+1. Att: 14,514. +6°C]
+Rubin      0-0  Orenburg
+  [Att: 9,908. +3°C]
+Krylja S.  2-2  Ahmat
+  [Amar Rahmanović 5; Nikíta Černóv 70 - Giorgi Melkadze 10;
+   Egas Cacintura 40 pen. Att: 6,481. +6°C]
+[Apr 12]
+Zenit      1-1  Krasnodar
+  [Wendel da Silva 27 - Lucas Olaza 69. Att: 48,583. Indoors]
+Lokomotiv  1-1  Dinamo Mh
+  [César Montes 87 - Hazem Mastouri 63 pen. Att: 8,207. +7°C]
+CSKA       0-1  Soci
+  [Martin Kramarič 11 pen. Att: 10,667. +7°C]
+Rostov     1-1  Spartak
+  [Mohammad Mohebbi 42 pen - Román Zóbnin 8. Att: 15,547. +8°C]
+[Apr 13]
+Akron      2-3  Dinamo Ms
+  [Stefan Lončar 42; Gilson Benchimol 88 pen - Nicolas M. Ngamaleu 20 pen;
+   Arthur Gomes 33; Konstantín Tjukávin 90+5. Att: 2,736. +9°C]
+
+Round 25 [Total Att: 107,061; Average: 13,383]
+[Apr 17]
+Rostov     0-1  Soci
+  [Kiríll Zaíka 89. Att: 9,728. +13°C]
+[Apr 18]
+Orenburg   0-1  Lokomotiv
+  [Alexéj Batrakóv 70. Att: 6,240. +9°C]
+Krylja S.  1-1  CSKA
+  [Iván Oléjnikov 66 - Matvéj Kislják 75. Att: 9,566. +12°C]
+Pari NN    1-1  Dinamo Ms
+  [Olakunle Olusegun 34 - Nicolás Marichal 22. Att: 6,425. +8°C]
+Rubin      1-1  Akron
+  [Nikíta Lóbov 49 - Artjóm Dzjúba 63. Att: 10,593. +12°C]
+[Apr 19]
+Krasnodar  2-2  Baltika
+  [Juan M. Boselli 59; Jubal Mendes Jr 90+2 - Mingiján Bevéjev 43;
+   Maxím V. Petróv 66. Att: 33,650. +12°C]
+Dinamo Mh  0-1  Zenit
+  [Nikíta S. Gluškóv (Din) 78 og. Missed PK: Alexándr Sóbolev (Zen) 70/held. Att: 7,680. +14°C]
+Spartak    3-1  Ahmat
+  [Esequiel Barco 21; Marquinhos Martins 28; Gedson Fernandes 40 -
+   Maxím Sídorov 41. Att: 23,179. +4°C]
+
+Round 26 [Total Att: 78,349; Average: 9,794]
+[Apr 21]
+CSKA       1-1  Rostov
+  [Tamerlán Musájev 57 - Ronaldo dos Santos 36. Att: 8,539. +5°C]
+Soci       2-1  Krylja S.
+  [Marcelo Alves 49, 90+9 - Iván Oléjnikov 16. Att: 2,854. +11°C]
+[Apr 22]
+Lokomotiv  0-0  Zenit
+  [Missed PK: Nikoláj Komličénko (Lok) 90+9/held. Att: 17,092. +8°C]
+Dinamo Ms  0-1  Rubin
+  [Jacques Siwe 19. Att: 11,795. +8°C]
+Orenburg   2-1  Pari NN
+  [Alexandre Jesus 80, 82 - Adrián Balboa Camacho 42 pen. Att: 3,437. +7°C]
+[Apr 23]
+Spartak    1-2  Krasnodar
+  [Christopher Martins 38 - Eduárd Spercyán 45+1 pen; Jubal Mendes Jr 85. Att: 27,461. +6°C]
+Ahmat      1-1  Baltika
+  [Kevin Andrade (Bal) 60 og - Derik Lacerda 51. Att: 4,612. +8°C]
+Akron      1-1  Dinamo Mh
+  [Roberto Fernández Toro 9 - Mohammadjavad Hosseinnejad 75. Att: 2,559. +6°C, light rain]
+
+Round 27 [Total Att: 139,889; Average: 17,486]
+[Apr 25]
+Krylja S.  2-0  Lokomotiv
+  [Iván Oléjnikov 31; Amar Rahmanović 53. Missed PK:
+   Kirýl Piačénin (KS) 90+2/held. Att: 7,759. +5°C, rain]
+Rubin      0-0  CSKA
+  [Att: 25,183. +6°C, light rain]
+Rostov     0-1  Orenburg
+  [Gedeon Guzina 85. Att: 7,739. +8°C]
+[Apr 26]
+Krasnodar  2-1  Dinamo Mh
+  [Nikíta Krivcóv 29; Jhon Córdoba Copete 67 - Diego Costa Barbosa (Kra) 5 og.
+   Missed PK: Eduárd Spercyán (Kra) 36/post. Att: 32,497. +15°C]
+Zenit      2-0  Ahmat
+  [Alexándr Sóbolev 8; Luiz Henrique 11. Att: 25,392. Indoors]
+Pari NN    1-2  Spartak
+  [Adrián Balboa Camacho 28 - Esequiel Barco 45+1 pen;
+   Román Zóbnin 72. Att: 18,535. +7°C, light rain]
+Dinamo Ms  2-0  Soci
+  [Konstantín Tjukávin 11; Nicolas M. Ngamaleu 52. Att: 10,980. +8°C, rain]
+[Apr 27]
+Baltika    0-1  Akron
+  [Gilson Benchimol 54. Att: 11,804. +7°C]
+
+Round 28 [Total Att: 96,626; Average: 12,078]
+[May 1]
+Lokomotiv  1-1  Dinamo Ms
+  [Artjóm Karpukás 53 - Nicolás Marichal 24. Att: 15,896. +5°C]
+Krylja S.  2-1  Spartak
+  [Fernando Costanza 13 pen; Kirýl Piačénin 77 - Manfred Ugalde 64. Att: 20,519. +9°C]
+[May 2]
+CSKA       1-3  Zenit
+  [Iván Obljakóv 5 pen - Ígoŕ Divéjev 30; Alexándr Sóbolev 51; Luiz Henrique 60. Att: 25,579. +12°C]
+Baltika    0-1  Rubin
+  [Mirlind Daku 29. Att: 15,907. +19°C]
+Dinamo Mh  1-2  Rostov
+  [Gamíd Agalárov 60 pen - Jan Đapo (Din) 29 og; Ronaldo dos Santos 77. Att: 5,050. +16°C]
+[May 3]
+Akron      0-1  Krasnodar
+  [Jhon Córdoba Copete 72. Att: 6,109. +12°C]
+Ahmat      2-0  Pari NN
+  [Léči Sadulájev 56; Egas Cacintura 60. Att: 4,396. +9°C]
+Soci       3-1  Orenburg
+  [Kiríll S. Kravcóv 7, 33, 67 - Alexandre Jesus 69. Att: 3,170. +11°C, light rain]
+
 Table:
 
- 1.FC Krasnodár             23  16  4  3  48-16  52  [C]
- 2.Zenít (Sankt-Peterbúrg)  23  15  6  2  43-16  51
- 3.Lokomotív (Moskvá)       23  12  8  3  49-32  44
- 4.Báltika (Kaliningrád)    23  11 10  2  32-11  43  [P]
- 5.CSKA (Moskvá)            23  13  3  7  36-25  42
- 6.Sparták (Moskvá)         23  12  5  6  37-31  41
- 7.Rubín (Kazáń)            23   9  6  8  23-25  33
- 8.Dinámo (Moskvá)          23   8  7  8  40-33  31
- 9.Ahmát (Gróznyj)          23   8  6  9  27-29  30
-10.FC Rostóv                23   6  7 10  18-25  25
-11.Akrón (Togliátti)        23   5  7 11  28-40  22      [1-1]
-12.Dinámo (Mahačkalá)       23   5  7 11  14-29  22      [1-1]
+ 1.FC Krasnodár             28  19  6  3  56-21  63  [C]
+ 2.Zenít (Sankt-Peterbúrg)  28  18  8  2  50-18  62
+ 3.Lokomotív (Moskvá)       28  13 11  4  52-36  50
+ 4.Sparták (Moskvá)         28  14  6  8  45-38  48
+ 5.Báltika (Kaliningrád)    28  11 13  4  37-18  46  [P]
+ 6.CSKA (Moskvá)            28  13  6  9  39-31  45
+ 7.Rubín (Kazáń)            28  11  9  8  26-26  42
+ 8.Dinámo (Moskvá)          28  10  9  9  47-38  39
+ 9.Ahmát (Gróznyj)          28   9  8 11  33-37  35
+10.FC Rostóv                28   7  9 12  22-30  30
+11.Krýĺja Sovétov (Samára)  28   7  8 13  31-48  29
+12.Akrón (Togliátti)        28   6  9 13  33-46  27
 - - - - - - - - - - - - - - - - - - - - - - - - - -
-13.Krýĺja Sovétov (Samára)  23   5  6 12  23-42  21
-14.Parí NN (Nižn.Nóvgorod)  23   6  2 15  18-37  20
+13.FC Orenbúrg              28   6  8 14  28-41  26
+14.Dinámo (Mahačkalá)       28   5  9 14  18-36  24
 ---------------------------------------------------
-15.FC Orenbúrg              23   4  7 12  24-36  19
-16.FC Sóči                  23   2  3 18  20-53   9  [P]
+15.Parí NN (Nižn.Nóvgorod)  28   6  4 18  23-46  22
+16.FC Sóči                  28   6  3 19  27-57  21  [P]
 
 FC Hímki were denied the RPL license and relegated to First League.
 Torpédo (Moskvá) were excluded from RPL for attempted match-fixing.
@@ -630,68 +742,25 @@ Due to renovation of their home stadium, Pari NN played home games at various lo
 
 Top scorers:
 
- 1.Jhon CÓRDOBA Copete (Krasnodár)  14  [Colombia]
- 2.Brayan GIL Hurtado (Báltika)     13  [El Salvador/Colombia]
- 3.Alexéj BATRAKÓV (Lokomotív)      12
- 4.Eduárd SPERCYÁN (Krasnodár)      11  [Armenia/Russia]
- 5.Dmítrij VOROB'JÓV (Lokomotív)    10
- 6.Mirlind DAKU (Rubín)              9  [Kosovo/Albania]
-   Maxím GLUŠENKÓV (Zenít)           9
- 8.Iván V. SERGÉJEV (Dinámo Mos)     8
- 9.Juan Manuel BOSELLI (Parí NN)     7  [Uruguay/Italy]
-   Artjóm DZJÚBA (Akrón)             7
-   Alexándr SÓBOLEV (Zenít)          7
-   Pablo SOLARI Ferreyra (Sparták)   7  [Argentina]
-
-Round 24 [Apr 10]
-Zenit      -  Krasnodar
-Rostov     -  Spartak
-Krylja S.  -  Ahmat
-CSKA       -  Soci
-Lokomotiv  -  Dinamo Mh
-Rubin      -  Torpedo
-Baltika    -  Pari NN
-Akron      -  Dinamo Ms
-
-Round 25 [Apr 17]
-Spartak    -  Ahmat
-Rostov     -  Soci
-Krasnodar  -  Baltika
-Krylja S.  -  CSKA
-Torpedo    -  Lokomotiv
-Rubin      -  Akron
-Pari NN    -  Dinamo Ms
-Dinamo Mh  -  Zenit
-
-Round 26 [Apr 21]
-Spartak    -  Krasnodar
-CSKA       -  Rostov
-Dinamo Ms  -  Rubin
-Lokomotiv  -  Zenit
-Ahmat      -  Baltika
-Torpedo    -  Pari NN
-Akron      -  Dinamo Mh
-Soci       -  Krylja S.
-
-Round 27 [Apr 24]
-Zenit      -  Ahmat
-Rostov     -  Torpedo
-Krasnodar  -  Dinamo Mh
-Krylja S.  -  Lokomotiv
-Dinamo Ms  -  Soci
-Rubin      -  CSKA
-Pari NN    -  Spartak
-Baltika    -  Akron
-
-Round 28 [May 1]
-Krylja S.  -  Spartak
-CSKA       -  Zenit
-Lokomotiv  -  Dinamo Ms
-Ahmat      -  Pari NN
-Baltika    -  Rubin
-Dinamo Mh  -  Rostov
-Akron      -  Krasnodar
-Soci       -  Torpedo
+ 1.Jhon Andrés CÓRDOBA Copete (Krasnodár)   16  [Colombia]
+ 2.Alexéj BATRAKÓV (Lokomotív)              13
+   Brayan Alexander GIL Hurtado (Báltika)   13  [El Salvador/Colombia]
+ 4.Eduárd SPERCYÁN (Krasnodár)              12  [Armenia/Russia]
+ 5.Mirlind DAKU (Rubín)                     10  [Kosovo/Albania]
+   Dmítrij VOROB'JÓV (Lokomotív)            10
+ 7.Maxím GLUŠENKÓV (Zenít)                   9
+   Alexándr SÓBOLEV (Zenít)                  9
+ 9.Esequiel Omar BARCO (Sparták)             8  [Argentina/USA]
+   Juan Manuel BOSELLI (Parí NN/Krasnodár)   8  [Uruguay/Italy]
+   Egas dos Santos CACINTURA (Ahmát)         8  [Angola]
+   Artjóm DZJÚBA (Akrón)                     8
+   Iván V. SERGÉJEV (Dinámo Mos)             8
+   Konstantín TJUKÁVIN (Dinámo Mos)          8
+15.Gamíd AGALÁROV (Dinámo Mah)               7
+   Nikíta KRIVCÓV (Krasnodár)                7
+   Giórgi MELKÁDZE (Ahmát)                   7  [Russia/Georgia]
+   Maxím V. PETRÓV (Báltika)                 7
+   Pablo César SOLARI Ferreyra (Sparták)     7  [Argentina]
 
 Round 29 [May 8]
 Zenit      -  Soci
@@ -3073,6 +3142,517 @@ Referee: Sergéj Karasjóv (Moskvá}
 05.04.26. SovComBank Arena, Nížnij Nóvgorod. Att: 7,725. +5°C, rain.
 
 
+Round 24
+--------
+
+Zenit 1-1 Krasnodar
+[Wendel 27 - L.Olaza 69]
+ZEN: D.Adámov - V.Drkušić, I.Divéjev, Nino, Douglas Santos(C) (N.Älıp 90+2) - W.Barrios,
+Wendel - Luiz Henrique, M.Glušenkóv (Rom.Vega 82), Jhon Jhon (Pedro 71) - A.Sóbolev.
+Head coach: Sergéj Semák. Colors: all sky blue.
+KRA: S.Agkácev - Giov.González (V.Páĺcev 88), V.Tormena, D.Costa-B., L.Olaza - K.Lenini,
+D.Augusto - N.Krivcóv (M.D.Cobnan 88), E.Spercyán(C), João Batxi (J.M.Boselli 79) - J.Córdoba-Cop.
+Head coach: Murád Musájev. Colors: striped black & dark green / black / striped black & dark green.
+Yellow cards: V.Drkušić 44, A.Sóbolev 90+6 - N.Krivcóv 50, K.Lenini 86.
+Red card: Pedro 78 (dangerous high kick).
+Referee: Sergéj Karasjóv (Moskvá}
+12.04.26. Gazpróm Aréna, Sankt-Peterbúrg. Att: 48,583. Indoors.
+
+Lokomotiv 1-1 Dinamo Mahačkala
+[Cés.Montes 87 - H.Mastouri 63 pen]
+LOK: A.Mitrjúškin(C) - M.Nenáhov (L.Fasson 57), Ger.Nyamsi (L.G.Vera 80), Cés.Montes, A.Siĺjánov - D.Prúcev,
+A.Karpukás (N.Saltykóv 71) - Z.Bakájev (D.Čevárdin 71), A.Batrakóv, A.Rudénko (V.Sarveli 57) - N.Komličénko.
+Head coach: Mihaíl Galaktiónov. Colors: combined red & white / white / dark green.
+DMH: D.Volk - M.Azzi, Iĺ.Ahmédov, J.Tabídze, S.Kagermázov (M.Hosseinnejad 46) - N.S.Gluškóv(C), H.Mrezigue,
+M.Moubarik (And.Alarcón-Men. 70), T.Sundúkov - Miro (K.Zinóvič 77), G.Agalárov (H.Mastouri 46).
+Head coach: Vadím Jevséjev. Colors: blue / blue / white.
+Yellow cards: Ger.Nyamsi 62, Z.Bakájev 66, N.Komličénko 79 - S.Kagermázov 28, H.Mastouri 79.
+Referee: Kiríll Lévnikov (Sankt-Peterbúrg).
+12.04.26. Russian Railways Arena, Moskvá. Att: 8,207. +7°C.
+
+Baltika 2-2 Pari NN
+[E.Ćivić 48; Max.V.Petróv 85 pen - Ren.Cephas 8; S.Karič 90+1]
+BAL: I.Kukúškin - S.Varatýnov, Kev.Andrade(C), A.Fílin - I.Manélov (E.Ćivić 46; M.Rjadnó 58), I.Bélikov,
+I.Petróv (T.Yenne 46; Ju.Kavalióŭ 70), M.Bevéjev - N.Titkóv, Br.Gil (D.Lacerda 36), Max.V.Petróv.
+Head coach: Jurijs Nagaicevs (Latvia/Russia). Colors: white / dark blue / white.
+PAR: N.Medvédev(C) - S.Karič, E.Fariña (I.Kirsch 65), V.Alexandróv - M.Šnápcev (J.C.Castillo 84), A.Opoku-Sarfo,
+L.Vešner-Tičić (Je.Smelóv 89), Ju.Kolédin - O.Olusegun, A.Balboa-C. (V.Gruljóv 84), Ren.Cephas (M.Úrvancev 46).
+Head coach: Aliaxiéj Špiliéŭski (Belarus). Colors: turquoise / turquoise / black.
+Yellow cards: Kev.Andrade 90 - Ren.Cephas 23, M.Šnápcev 37.
+Referee: Vasílij Kazárcev (Sankt-Peterbúrg)
+11.04.26. RosTech Arena, Kaliningrád. Att: 14,514. +6°C.
+
+CSKA 0-1 Soči
+[M.Kramarič 11 pen]
+CSK: V.Tórop - Mil.Gajić (Moisés 78), João Victor, K.Danílov, D.Krugovój - Dm.Bárinov (T.Musájev 68),
+M.Kislják - D.S.Kozlóv (H.Carmo 46), I.Obljakóv(C), K.Glébov (M.Vóronov 87) - L.Gondou.
+Head coach: Fabio Celestini (Switzerland/Italy). Colors: red / dark blue / dark blue.
+SOC: D.Djógtev - A.Soldaténkov, Marcelo Alves, V.Litvínov - K.Zaíka(C), M.Múhin, Al-r Kovalénko (D.Vasíĺjev 82),
+A.Makarčúk (S.Je.Vólkov 46) - M.Kramarič (Gus.Furtado 46), Z.Fjódorov (V.Iĺjín 70), M.Ignátov (A.Zińkóvskij 68).
+Head coach: Ígoŕ Ósińkin. Colors: sky blue / white / white.
+Yellow cards: Al-r Kovalénko 52, D.Djógtev 62, Gus.Furtado 77.
+Referee: Sergéj Cyganók (Vladivostók)
+12.04.26. VEB Aréna, Moskvá. Att: 10,667. +7°C.
+
+Rostov 1-1 Spartak
+[Moh.Mohebbi 42 pen - R.Zóbnin 8]
+ROS: R.Yatímov - V.Meljóhin (A.Langóvič 83), D.Čistjakóv, D.Semenčúk (O.Sako 66) - Al-j Mirónov - Ronaldo
+(G.Ignátov 83), I.Vaxánia - K.Ščetínin, K.Kučájev(C) (I.Komaróv 57) - T.Sulejmánov (A.Šamónin 83), Moh.Mohebbi.
+Head coach: Jonatan Alba Cabello (Spain). Colors: yellow / dark blue / yellow.
+SPA: Al.V.Maximénko - Ged.Fernandes, C.Wooh, A.Djiku, I.Dmítrijev (P.Solari 46) - R.Litvínov -
+N.Umjárov, R.Zóbnin(C) (D.Denísov 55) - Marquinhos, E.Barco (C.Martins 80) - M.Ugalde (Levi García 80).
+Head coach: Juan Carlos Carcedo Mardones (Spain). Colors: white with red stripe / red / red.
+Yellow cards: D.Semenčúk 63, R.Yatímov 90+6 - A.Djiku 40, Levi García 90.
+Referee: Alexéj Suhój (Ljúbercy)
+12.04.26. Rostóv Aréna, Rostóv-na-Donú. Att: 15,547. +8°C.
+
+Rubin 0-0 Orenburg
+RUB: Je.Stáver - D.Maldonado-M., Ig.Vujačić(C), Je.Téslenko - A.Arroyo (D.Kabútov 86), N.Al.Vasíĺjev (D.Kuzjájev 55),
+I.Saavedra, K.Nižegoródov (I.Rožkóv 72) - N.Gripshi (D.Motórin 86), M.Daku, R.Bezrúkov (D.A.Kuznecóv 72).
+Head coach: Francesc Artiga Cebrián (Spain). Colors: all ruby.
+ORE: B.Ovsjánnikov - J.A.Palacios, A.Tatájev, D.Hotuljóv - F.Moufi(C), Du Queiroz (D.Puebla 79), Je.Bólotov,
+A.Cantero-F. (D.Vedérnikov 79) - J.Thompson (R.Kuĺ 79), G.Guzina (Alexandre Jesus 90), R.Golýbin (E.Gürlük 60).
+Head coach: Iĺdár Ahmetzjánov. Colors: all white.
+Yellow cards: M.Daku 54 - Du Queiroz 33, A.Tatájev 54, Je.Bólotov 87.
+Referee: Andréj Prokópov (Jaroslávl)
+11.04.26. Ak Bars Aréna, Kazáń. Att: 9,908. +3°C.
+
+Akron 2-3 Dinamo Moskva
+[S.Lončar 42; G.Benchimol 88 pen - N.M.Ngamaleu 20 pen; Arthur Gomes 33; K.Tjukávin 90+5]
+AKR: V.Gudíjev - Y.Rocha (G.Benchimol 64), R.Escoval, M.Bokójev, R.Fernández-Toro - A.Đurasović (H.Hosónov 64) -
+Max.Kuźmin (N.Bazilévskij 76), S.Lončar - D.Pestrjakóv, M.Bóldyrev (K.Arévalo 76) - A.Dzjúba(C).
+Head coach: Zaurbék Tedéjev. Colors: red / black / black.
+DMS: I.Leščúk - N.Marichal, M.Osipénko, David Ricardo (L.Seidensaal 46), D.Skópincev - T.Marínkin (D.Glébov 58),
+Dan.Fomín(C) - N.M.Ngamaleu (Ja.Gládyšev 58), Ant.Mirančúk, Arthur Gomes - I.V.Sergéjev (K.Tjukávin 58).
+Head coach: Rolán Gúsev. Colors: blue / white / white.
+Yellow cards: M.Bokójev 45+1 - L.Seidensaal 87.
+Referee: Ígoŕ Kaplenkóv (Moskvá)
+13.04.26. Solidárnosť Samára Aréna, Samára. Att: 2,736. +9°C.
+
+Kryĺja Sovetov 2-2 Ahmat
+[A.Rahmanović 5; N.Černóv 70 - G.Melkadze 10; E.Cacintura 40 pen]
+KRS: S.Peśjakóv(C) - F.Costanza, N.Černóv, S.Bóžin, K.Piačénin - M.Vitjugóv (A.Šumánski 80), S.Bábkin (M.Banjac 46) -
+N.Rasskázov, I.Oléjnikov (V.Hubúlov 88), Jim.Marín (Il.Axmétov 65) - A.Rahmanović (Vl-r Ignaténko 80).
+Head coach: Sergéj Bulátov. Colors: sky blue / navy blue / navy blue.
+AHM: V.Uĺjánov - D.Hlusévič, M.Zaremohzabiyeh, K.Cake, M.Bogosavac - S.Prjáhin, P.A.Gadio (Ğ.Kenjebek 74) -
+M.Samoródov (B.E.Mansilla 62), E.Cacintura, L.Sadulájev(C) (T.A.Ibíšev 82) - G.Melkádze (Moh.Konaté 82).
+Head coach: Stanisláv Čerčésov. Colors: all white.
+Yellow cards: S.Bábkin 33, K.Piačénin 45+3, I.Oléjnikov 67 - M.Samoródov 45+3, L.Sadulájev 71, Ğ.Kenjebek 90+4.
+Referee: Jan Bobróvskij (Sankt-Peterbúrg)
+11.04.26. Solidárnosť Samára Aréna, Samára. Att: 6,481. +6°C.
+
+
+Round 25
+--------
+
+Krasnodar 2-2 Baltika
+[J.M.Boselli 59; Jubal 90+2 - M.Bevéjev 43; Max.V.Petróv 66]
+KRA: S.Agkácev - Giov.González (V.Páĺcev 72), V.Tormena, D.Costa-B., L.Olaza - A.Čérnikov -
+N.Krivcóv, E.Spercyán(C) - J.M.Boselli (M.D.Cobnan 62), João Batxi (Jubal 90+1) - J.Córdoba-Cop.
+Head coach: Murád Musájev. Colors: striped black & dark green / black / striped black & dark green.
+BAL: I.Kukúškin - S.Varatýnov, Kev.Andrade(C), A.Fílin - M.Bevéjev, I.Bélikov (A.Méndeĺ 46), I.Petróv
+(I.Manélov 46), N.Gassama (M.Rjadnó 69) - N.Titkóv, D.Lacerda (C.Offor 69), Max.V.Petróv (Ed.Anderson 90).
+Head coach: Jurijs Nagaicevs (Latvia/Russia). Colors: white with grey sleeves / white / white.
+Yellow cards: A.Čérnikov 22, Giov.González 68, M.D.Cobnan 81 -
+I.Bélikov 17, I.Petróv 24, I.Kukúškin 85, C.Offor 90+4, A.Méndeĺ 90+5.
+Referee: Kiríll Lévnikov (Sankt-Peterbúrg).
+19.04.26. Ozon Arena, Krasnodár. Att: 33,650. +12°C.
+
+Dinamo Mahačkala 0-1 Zenit
+[N.S.Gluškóv (Din) 78 og. Missed PK: A.Sóbolev (Zen) 70/held]
+DMH: D.Volk - M.Azzi (S.Kagermázov 79), And.Alarcón-Men., J.Tabídze, T.Sundúkov - Iĺ.Ahmédov,
+M.Moubarik - H.Mrezigue, M.Hosseinnejad (G.Agalárov 57), N.S.Gluškóv(C) - Miro (S.Serdérov 71).
+Head coach: Vadím Jevséjev. Colors: blue with two white stripes / blue / blue.
+ZEN: D.Adámov - V.Drkušić, I.Divéjev, Nino, Douglas Santos(C) (Rom.Vega 75) - W.Barrios, Wendel
+(D.Kondakóv 75) - Luiz Henrique (A.Mostovój 75), M.Glušenkóv (N.Älıp 90+3), Jhon Jhon (Pedro 46) - A.Sóbolev.
+Head coach: Sergéj Semák. Colors: combined white & sky blue / white / white.
+Yellow cards: M.Azzi 24, S.Kagermázov 86 - M.Glušenkóv 86.
+Referee: Inál Tanášev (Náĺčik)
+19.04.26. Anží Aréna, Kaspíjsk. Att: 7,680. +14°C.
+
+Orenburg 0-1 Lokomotiv
+[A.Batrakóv 70]
+ORE: B.Ovsjánnikov - F.Moufi(C) (S.Porojkóv 80), J.A.Palacios, D.Hotuljóv, A.Cantero-F. - Du Queiroz (R.Kuĺ 72),
+Je.Bólotov (R.Golýbin 80) - J.Thompson, D.Puebla (D.Rybčínskij 72), E.Gürlük - G.Guzina (Alexandre Jesus 61).
+Head coach: Iĺdár Ahmetzjánov. Colors: black with yellow stripe / black / yellow.
+LOK: A.Mitrjúškin(C) - A.Siĺjánov, Je.Morózov, Cés.Montes, L.Fasson - D.Prúcev, A.Karpukás
+(L.G.Vera 54) - Z.Bakájev (D.Čevárdin 64), A.Batrakóv, A.Rudénko - D.Vorob'jóv.
+Head coach: Mihaíl Galaktiónov. Colors: combined red & white / white / white.
+Yellow cards: G.Guzina 42, J.A.Palacios 89, B.Ovsjánnikov 90 -
+A.Karpukás 43, Z.Bakájev 60, D.Vorob'jóv 90, L.Fasson 90+3.
+Referee: Artjóm Čistjakóv (Azóv)
+18.04.26. Gazovík Stadium, Orenbúrg. Att: 6,240. +9°C.
+
+Kryĺja Sovetov 1-1 CSKA
+[I.Oléjnikov 66 - M.Kislják 75]
+KRS: S.Peśjakóv(C) - F.Costanza, N.Černóv, S.Bóžin, K.Piačénin - S.Bábkin (A.Šumánski 90+3), M.Vitjugóv
+(K.Stolbóv 84) - N.Rasskázov, I.Oléjnikov (M.Banjac 76), Il.Axmétov (Jim.Marín 76) - A.Rahmanović (Vl-r Ignaténko 76).
+Head coach: Sergéj Bulátov. Colors: sky blue / navy blue / navy blue.
+CSK: V.Tórop - Mil.Gajić, Dm.Bárinov, K.Danílov, D.Krugovój - I.Obljakóv(C), M.Kislják - H.Carmo
+(Mat.Popović 62), D.S.Kozlóv (Moisés 44), K.Glébov (Matheus Alves 44) - L.Gondou (T.Musájev 62).
+Head coach: Manel Expósito Presseguer (Spain). Colors: all white.
+Yellow cards: S.Bóžin 19, F.Costanza 65, N.Černóv 70, M.Banjac 90+1 - D.S.Kozlóv 40, M.Kislják 57, Dm.Bárinov 66.
+Referee: Pável Shodixónov (Moskvá)
+18.04.26. Solidárnosť Samára Aréna, Samára. Att: 9,566. +12°C.
+
+Spartak 3-1 Ahmat
+[E.Barco 21; Marquinhos 28; Ged.Fernandes 40 - M.Sídorov 41)
+SPA: Al.V.Maximénko(C) - D.Denísov (I.Dmítrijev 90), C.Wooh (R.Zóbnin 64), A.Djiku, Ged.Fernandes - R.Litvínov,
+N.Umjárov - P.Solari (N.Massalyga 90), E.Barco, Marquinhos (C.Martins 72) - M.Ugalde (A.Zabolótnyj 90).
+Head coach: Juan Carlos Carcedo Mardones (Spain). Colors: red with white stripe / red / red.
+AHM: V.Uĺjánov - M.Sídorov (D.Hlusévič 86), M.Zaremohzabiyeh (O.Ndong 86), K.Cake, M.Bogosavac - S.Prjáhin
+(P.A.Gadio 46), E.Cacintura - M.Samoródov, R.Žemaletdínov, B.E.Mansilla (Ğ.Kenjebek 46) - G.Melkádze (Moh.Konaté 64).
+Head coach: Stanisláv Čerčésov. Colors: all white.
+Yellow cards: C.Wooh 53 - M.Sídorov 62.
+Referee: Rafaéĺ Šaféjev (Volgográd)
+19.04.26. Lukóil Aréna, Moskvá. Att: 23,179. +4°C.
+
+Pari NN 1-1 Dinamo Moskva
+[O.Olusegun 34 - N.Marichal 22]
+PAR: N.Medvédev(C) - V.Alexandróv, I.Kirsch, S.Karič - O.Olusegun, L.Vešner-Tičić (V.Píhas 80), Je.Smelóv
+(Mam.Maiga 90+2), Ju.Kolédin - M.Úrvancev (A.Ívlev 46), A.Balboa-C. (D.Lesovój 65), Ren.Cephas (N.Jermakóv 80).
+Head coach: Aliaxiéj Špiliéŭski (Belarus). Colors: turquoise / turquoise / black.
+DMS: I.Leščúk - J.J.Cáceres, N.Marichal, M.Osipénko, D.Skópincev - Rubens (T.Marínkin 65), Dan.Fomín(C)
+(I.V.Sergéjev 77) - Arthur Gomes (Ü.Babáyev 65), Ant.Mirančúk (N.M.Ngamaleu 65), Bitello - K.Tjukávin.
+Head coach: Rolán Gúsev. Colors: white / blue / white.
+Yellow cards: A.Balboa-C. 41, A.Ívlev 52, O.Olusegun 55, S.Karič 90 - Ü.Babáyev 90+6.
+Red card: O.Olusegun 74 (second yellow card).
+Referee: Andréj Prokópov (Jaroslávl)
+18.04.26. SovComBank Arena, Nížnij Nóvgorod. Att: 6,425. +8°C.
+
+Rubin 1-1 Akron
+[N.Lóbov 49 - A.Dzjúba 63]
+RUB: Je.Stáver - N.Lóbov (D.A.Kuznecóv 83), Ig.Vujačić(C), Je.Téslenko - A.Arroyo, V.Hodža,
+I.Saavedra (J.Siwe 78), I.Rožkóv (R.Bezrúkov 78) - N.Gripshi, M.Daku, D.Shabanhaxhaj.
+Head coach: Francesc Artiga Cebrián (Spain). Colors: all ruby.
+AKR: V.Gudíjev - D.Pestrjakóv, I.Nedelcearu, M.Bokójev, R.Fernández-Toro - A.Đurasović - S.Lončar,
+Max.Kuźmin (R.Escoval 68) - G.Benchimol (H.Hosónov 78), M.Bóldyrev (I.Đakovac 78) - A.Dzjúba(C).
+Head coach: Zaurbék Tedéjev. Colors: lavender / white / white.
+Yellow cards: Je.Téslenko 39, M.Daku 45, N.Gripshi 90+5 - I.Nedelcearu 45+1,
+A.Vasjútin (bench) 45+2, V.Gudíjev 90+2, R.Fernández-Toro 90+6.
+Red card: M.Bokójev 67 (studs up tackle).
+Referee: Jevgénij Kukulják (Kalúga)
+18.04.26. Ak Bars Aréna, Kazáń. Att: 10,593. +12°C.
+
+Rostov 0-1 Soči
+[K.Zaíka 89]
+ROS: H.Hankić - V.Meljóhin, D.Čistjakóv, D.Semenčúk (O.Sako 76) - Al-j Mirónov - Ronaldo (I.Komaróv 84),
+I.Vaxánia - K.Ščetínin, K.Kučájev(C) (Moh.Mohebbi 64) - Je.Golenkóv, T.Sulejmánov (A.Langóvič 76).
+Head coach: Jonatan Alba Cabello (Spain). Colors: yellow / dark blue / yellow.
+SOC: D.Djógtev - A.Soldaténkov, Marcelo Alves, V.Litvínov - K.Zaíka(C), D.Vasíĺjev (K.S.Kravcóv 71), Al-r Kovalénko
+(S.Je.Vólkov 90+3), A.Makarčúk - Rom.Ježóv (F.Kamano 71), V.Iĺjín (Z.Fjódorov 75), M.Ignátov (R.Magáĺ 71).
+Head coach: Ígoŕ Ósińkin. Colors: all dark blue.
+Yellow cards: V.Litvínov 3, K.Zaíka 21, V.Iĺjín 42, Marcelo Alves 63.
+Referee: Jevgénij Bulánov (Saránsk)
+17.04.26. Rostóv Aréna, Rostóv-na-Donú. Att: 9,728. +13°C.
+
+
+Round 26
+--------
+
+Lokomotiv 0-0 Zenit
+[Missed PK: N.Komličénko (Lok) 90+9/held]
+LOK: A.Mitrjúškin(C) - A.Siĺjánov, Cés.Montes, Je.Morózov, L.Fasson (M.Nenáhov 84) - D.Prúcev, A.Karpukás
+(L.G.Vera 74) - Z.Bakájev (S.Pinjájev 74), A.Batrakóv, A.Rudénko (D.Čevardín 46) - D.Vorob'jóv (N.Komličénko 68).
+Head coach: Mihaíl Galaktiónov. Colors: combined red & white / white / dark green.
+ZEN: D.Adámov - V.Drkušić (D.Kondakóv 89), I.Divéjev, Nino, Douglas Santos(C) (Rom.Vega 58) - W.Barrios,
+Wendel - Luiz Henrique (Jhon Jhon 89), M.Glušenkóv (A.Mostovój 58), Pedro - A.Sóbolev (Jh.Durán 64).
+Head coach: Sergéj Semák. Colors: all sky blue.
+Yellow cards: A.Rudénko 32, A.Batrakóv 38, Je.Morózov 88, N.Komličénko 90+2, D.Prúcev 90+10 -
+Douglas Santos 8, M.Glušenkóv 40, Wendel 72, Jh.Durán 75, I.Divéjev 90+3, Nino 90+6, Jhon Jhon 90+8.
+Referee: Alexéj Suhój (Ljúbercy)
+22.04.26. Russian Railways Arena, Moskvá. Att: 17,092. +8°C.
+
+Spartak 1-2 Krasnodar
+[C.Martins 38 - E.Spercyán 45+1 pen; Jubal 85]
+SPA: Al.V.Maximénko - D.Denísov (I.Dmítrijev 81), R.Litvínov, A.Djiku, R.Zóbnin(C) - C.Martins
+(Levi García 81), N.Umjárov - Ged.Fernandes, E.Barco, Marquinhos - M.Ugalde (P.Solari 65).
+Head coach: Juan Carlos Carcedo Mardones (Spain). Colors: red with white stripe / red / red.
+KRA: S.Agkácev - Giov.González, Jubal, D.Costa-B., L.Olaza - A.Čérnikov, K.Lenini -
+N.Krivcóv, E.Spercyán(C) (M.D.Cobnan 74), João Batxi (J.M.Boselli 74) - J.Córdoba-Cop.
+Head coach: Murád Musájev. Colors: striped black & dark green / black / striped black & dark green.
+Yellow card: Jubal 57.
+Referee: Artjóm Čistjakóv (Azóv)
+23.04.26. Lukóil Aréna, Moskvá. Att: 27,461. +6°C.
+
+Ahmat 1-1 Baltika
+[Kev.Andrade (Bal) 60 og - Derik Lacerda 51]
+AHM: V.Uĺjánov - T.A.Ibíšev, O.Ndong, K.Cake - D.Hlusévič (S.Prjáhin 57), E.Cacintura, Ismael Silva
+(R.Žemaletdínov 85), M.Bogosavac - M.Samoródov, G.Melkádze (Moh.Konaté 85), L.Sadulájev(C).
+Head coach: Stanisláv Čerčésov. Colors: striped green & white / green / green.
+BAL: I.Kukúškin - S.Varatýnov, Kev.Andrade(C), A.Fílin - M.Bevéjev, A.Méndeĺ (M.Rjadnó 71), I.Petróv
+(I.Bélikov 46), N.Gassama - N.Titkóv (A.Mourid 87), D.Lacerda (T.Yenne 81), Max.V.Petróv (I.Manélov 81).
+Head coach: Andréj Talalájev. Colors: white with grey sleeves / white / white.
+Yellow cards: O.Ndong 62, M.Bogosavac 90+2 - I.Petróv 32, N.Gassama 40, I.Bélikov 65.
+Referee: Jevgénij Kukulják (Kalúga)
+23.04.26. Ahmát Aréna, Gróznyj. Att: 4,612. +8°C.
+
+CSKA 1-1 Rostov
+[T.Musájev 57 - Ronaldo 36]
+CSK: V.Tórop - Mil.Gajić (Mat.Popović 86), K.Danílov, João Victor, Moisés - D.Krugovój,
+I.Obljakóv(C), Dm.Bárinov, D.S.Kozlóv (H.Carmo 46) - T.Musájev (M.Vóronov 77), L.Gondou.
+Head coach: Fabio Celestini (Switzerland/Italy). Colors: red / dark blue / dark blue.
+ROS: H.Hankić (D.Odójevskij 67) - V.Meljóhin, D.Čistjakóv (D.Semenčúk 75), O.Sako - Al-j Mirónov - Ronaldo
+(A.Langóvič 79), I.Vaxánia - K.Ščetínin, K.Kučájev(C) - Je.Golenkóv (X.Bayramyán 75), T.Sulejmánov.
+Head coach: Jonatan Alba Cabello (Spain). Colors: yellow / dark blue / yellow.
+Yellow cards: T.Musájev 29, Moisés 51 - Al-j Mirónov 62.
+Referee: Iván Abrósimov (Sankt-Peterbúrg)
+21.04.26. VEB Aréna, Moskvá. Att: 8,539. +5°C.
+
+Dinamo Moskva 0-1 Rubin
+[J.Siwe 19]
+DMS: I.Leščúk - J.J.Cáceres, N.Marichal, David Ricardo, D.Skópincev - D.Glébov (T.Marínkin 52), Dan.Fomín(C)
+(L.Chávez-Mag. 64) - Ja.Gládyšev (Arthur Gomes 52), Ant.Mirančúk (I.V.Sergéjev 64), Bitello (Ü.Babáyev 74) - K.Tjukávin.
+Head coach: Rolán Gúsev. Colors: white / blue / blue.
+RUB: Je.Stáver - N.Lóbov, Ig.Vujačić(C), D.Maldonado-M. - A.Arroyo, V.Hodža, I.Saavedra (D.Kabútov 87),
+I.Rožkóv (K.Nižegoródov 87) - N.Gripshi (D.A.Kuznecóv 68), J.Siwe (D.Motórin 77), R.Bezrúkov (D.Kuzjájev 68).
+Head coach: Francesc Artiga Cebrián (Spain). Colors: all ruby.
+Yellow cards: N.Marichal 43 - D.Maldonado-M. 26.
+Referee: Sergéj Karasjóv (Moskvá}
+22.04.26. VTB Arena, Moskvá. Att: 11,795. +8°C.
+
+Akron 1-1 Dinamo Mahačkala
+[R.Fernández-Toro 9 - M.Hosseinnejad 75]
+AKR: V.Gudíjev - D.Pestrjakóv, R.Escoval, I.Nedelcearu, R.Fernández-Toro - A.Đurasović (H.Hosónov 82) -
+S.Lončar, Max.Kuźmin (I.Đakovac 46) - G.Benchimol, M.Bóldyrev (K.Arévalo 82) - A.Dzjúba(C).
+Head coach: Zaurbék Tedéjev. Colors: red / black / black.
+DMH: D.Volk - T.Sundúkov, Iĺ.Ahmédov, And.Alarcón-Men., J.Tabídze - M.Hosseinnejad,
+N.S.Gluškóv(C), H.Mrezigue, H.Mastouri (A.Sandračúk 82) - Miro, G.Agalárov (J.Đapo 64).
+Head coach: Vadím Jevséjev. Colors: combined white & blue / blue / white.
+Referee: Sergéj Ivanóv (Rostóv-na-Donú)
+Yellow card: T.Sundúkov 69.
+Referee: Sergéj Ivanóv (Rostóv-na-Donú)
+23.04.26. Solidárnosť Samára Aréna, Samára. Att: 2,559. +6°C, light rain.
+
+Soči 2-1 Kryĺja Sovetov
+[Marcelo Alves 49, 90+9 - I.Oléjnikov 16]
+SOC: D.Djógtev - A.Soldaténkov, Marcelo Alves(С), V.Litvínov - R.Magáĺ, K.S.Kravcóv (D.Vasíĺjev 64), M.Múhin
+(A.Zińkóvskij 81), A.Makarčúk - Rom.Ježóv (Gus.Furtado 64), V.Iĺjín (Z.Fjódorov 64), M.Ignátov (F.Kamano 77).
+Head coach: Ígoŕ Ósińkin. Colors: sky blue / sky blue / white.
+KRS: S.Peśjakóv(C) - F.Costanza, Dom.Oroz, R.Jevgéńjev, K.Piačénin - S.Bábkin, M.Vitjugóv (T.Galdames 87) -
+N.Rasskázov (I.Lépskij 72), Il.Axmétov (K.Stolbóv 80), I.Oléjnikov - A.Rahmanović (A.Šumánski 87).
+Head coach: Sergéj Bulátov. Colors: white / navy blue / navy blue.
+Yellow cards: V.Litvínov 61, Marcelo Alves 90+10 - S.Peśjakóv 37,
+K.Piačénin 61, S.Bábkin 62, R.Jevgéńjev 76, I.Oléjnikov 90+9.
+Red cards: S.Bábkin 82 (second yellow card), T.Galdames 90+7 (dangerous high kick).
+Referee: Vladímir Moskaljóv (Vorónež)
+21.04.26. Olympic Stadium Fišt, Sóči. Att: 2,854. +11°C.
+
+Orenburg 2-1 Pari NN
+[Alexandre Jesus 80, 82 - A.Balboa-C. 42 pen]
+ORE: B.Ovsjánnikov - F.Moufi(C), J.A.Palacios, D.Hotuljóv, E.Tsenov (A.Cantero-F. 58) - Du Queiroz (R.Kuĺ 89),
+Je.Bólotov (I.Kvekveskíri 89) - J.Thompson, D.Puebla (R.Golýbin 67), E.Gürlük - M.Savéĺjev (Alexandre Jesus 67).
+Head coach: Dmítrij Belorúkov. Colors: combined blue & dark blue / dark blue / dark blue.
+PAR: N.Medvédev(C) - M.Šnápcev, V.Alexandróv, I.Kirsch, Ju.Kolédin - A.Ívlev (N.Jermakóv 70) - L.Vešner-Tičić
+(A.Je.Sidorénko 90+2), Je.Smelóv - Ren.Cephas, M.Úrvancev (D.Lesovój 70), A.Balboa-C. (J.C.Castillo 70; V.Gruljóv 85).
+Head coach: Aliaxiéj Špiliéŭski (Belarus). Colors: all white.
+Yellow cards: B.Ovsjánnikov 40, A.Cantero-F. 84 - A.Ívlev 47, M.Úrvancev 55, A.Balboa-C. 69.
+Referee: Antón Frolóv (Moskvá)
+22.04.26. Gazovík Stadium, Orenbúrg. Att: 3,437. +7°C.
+
+
+Round 27
+--------
+
+Krasnodar 2-1 Dinamo Mahačkala
+[N.Krivcóv 29; J.Córdoba-Cop. 67 - D.Costa-B. (Kra) 5 og. Missed PK: E.Spercyán (Kra) 36/post]
+KRA: S.Agkácev - Giov.González, Jubal, D.Costa-B., L.Olaza - A.Čérnikov (J.M.Boselli 60),
+K.Lenini - João Batxi (M.D.Cobnan 79), E.Spercyán(C) (V.Páĺcev 82), N.Krivcóv - J.Córdoba-Cop.
+Head coach: Murád Musájev. Colors: striped black & dark green / black / striped black & dark green.
+DMH: D.Volk - M.Azzi (K.Zinóvič 74), And.Alarcón-Men., J.Tabídze, J.Đapo (A.Sandračúk 58) - H.Mrezigue, Ab.Džabraílov
+(S.Kagermázov 74) - N.S.Gluškóv(C), M.Hosseinnejad (Raž.Magomédov 69), H.Mastouri - G.Agalárov (Miro 58).
+Head coach: Vadím Jevséjev. Colors: combined white & blue / blue / white.
+Yellow cards: K.Lenini 34, J.M.Boselli 71, D.Costa-B. 90+2 - J.Tabídze 35, H.Mastouri 60, Miro 88.
+Red card: Miro 90+5 (second yellow card).
+Referee: Iván Abrósimov (Sankt-Peterbúrg)
+26.04.26. Ozon Arena, Krasnodár. Att: 32,497. +15°C.
+
+Zenit 2-0 Ahmat
+[A.Sóbolev 8; Luiz Henrique 11]
+ZEN: D.Adámov - V.Karavájev, I.Divéjev, Nino, Douglas Santos(C) - W.Barrios, Wendel (Jhon Jhon 73) -
+Luiz Henrique, D.Kondakóv (A.Jeróhin 82), Pedro (V.Drkušić 82) - A.Sóbolev (Jh.Durán 73).
+Head coach: Sergéj Semák. Colors: all sky blue.
+AHM: V.Uĺjánov (Ja.Magomédov 22) - M.Sídorov, T.A.Ibíšev, K.Cake, M.Bogosavac - S.Prjáhin, Ismael Silva - M.Samoródov
+(Ğ.Kenjebek 61), E.Cacintura (P.A.Gadio 68), L.Sadulájev(C) (B.E.Mansilla 61) - G.Melkádze (R.Žemaletdínov 68).
+Head coach: Stanisláv Čerčésov. Colors: all white.
+Yellow card: T.A.Ibíšev 34.
+Referee: Jevgénij Bulánov (Saránsk)
+26.04.26. Gazpróm Aréna, Sankt-Peterbúrg. Att: 25,392. Indoors.
+
+Kryĺja Sovetov 2-0 Lokomotiv
+[I.Oléjnikov 31; A.Rahmanović 53. Missed PK: K.Piačénin (KS) 90+2/held]
+KRS: S.Peśjakóv(C) - Dom.Oroz (Jim.Marín 60), N.Černóv, S.Bóžin, K.Piačénin - F.Costanza, M.Vitjugóv
+(I.Lépskij 85) - N.Rasskázov, M.Banjac (Il.Axmétov 60), I.Oléjnikov (K.Stolbóv 85) - A.Rahmanović (A.Šumánski 73).
+Head coach: Sergéj Bulátov. Colors: sky blue / navy blue / navy blue.
+LOK: A.Mitrjúškin(C) - A.Siĺjánov, Je.Morózov, Cés.Montes, L.Fasson (L.G.Vera 70) - D.Prúcev, A.Karpukás
+(N.Komličénko 58) - Z.Bakájev (S.Pinjájev 46), A.Batrakóv, D.Čevardín (N.Saltykóv 46) - D.Vorob'jóv.
+Head coach: Mihaíl Galaktiónov. Colors: combined red & white / white / white.
+Yellow cards: F.Costanza 34, A.Šumánski 73, Jim.Marín 90+3 -
+Z.Bakájev 17, D.Čevardín 45+2, A.Siĺjánov 52, Cés.Montes 56.
+Referee: Kiríll Lévnikov (Sankt-Peterbúrg).
+25.04.26. Solidárnosť Samára Aréna, Samára. Att: 7,759. +5°C, rain.
+
+Baltika 0-1 Akron
+[G.Benchimol 54]
+BAL: I.Kukúškin - S.Varatýnov, Kev.Andrade(C), A.Fílin (Ed.Anderson 46) - M.Bevéjev (M.Rjadnó 68), N.Titkóv
+(A.Mourid 68), I.Bélikov (A.Méndeĺ 68), N.Gassama - Max.V.Petróv, D.Lacerda, T.Yenne (C.Offor 60).
+Head coach: Andréj Talalájev. Colors: white with grey sleeves / white / white.
+AKR: V.Gudíjev - D.Pestrjakóv, R.Escoval, I.Nedelcearu, R.Fernández-Toro - H.Hosónov (N.Bazilévskij 90+2) -
+I.Đakovac (Max.Kuźmin 78), K.Maradishvíli (A.Đurasović 73) - G.Benchimol, M.Bóldyrev (S.Lončar 46) - A.Dzjúba(C).
+Head coach: Zaurbék Tedéjev. Colors: red / black / black.
+Yellow cards: Ed.Anderson 82 - G.Benchimol 67, I.Nedelcearu 83, V.Gudíjev 90+5.
+Referee: Inál Tanášev (Náĺčik)
+27.04.26. RosTech Arena, Kaliningrád. Att: 11,804. +7°C.
+
+Pari NN 1-2 Spartak
+[A.Balboa-C. 28 - E.Barco 45+1 pen; R.Zóbnin 72]
+PAR: N.Medvédev - V.Alexandróv, I.Kirsch, S.Karič - N.Kalínskij(C) - M.Šnápcev, Ju.Kolédin - L.Vešner-Tičić
+(A.Ívlev 78), Je.Smelóv (V.Gruljóv 89) - A.Balboa-C. (O.Olusegun 62), Ren.Cephas (M.Úrvancev 78).
+Head coach: Aliaxiéj Špiliéŭski (Belarus). Colors: turquoise / turquoise / black.
+SPA: Al.V.Maximénko - Ged.Fernandes (D.Denísov 80), C.Wooh, A.Djiku, R.Zóbnin(C) - R.Litvínov,
+N.Umjárov - C.Martins (I.Dmítrijev 65), E.Barco, Marquinhos - M.Ugalde (Levi García 80).
+Head coach: Juan Carlos Carcedo Mardones (Spain). Colors: white with red stripe / red / white.
+Yellow cards: Je.Smelóv 38, V.Luk'jánov (bench) 90+6 - R.Litvínov 88, D.Denísov 90+1.
+Referee: Ígoŕ Kaplenkóv (Moskvá)
+26.04.26. SovComBank Arena, Nížnij Nóvgorod. Att: 18,535. +7°C, light rain.
+
+Rubin 0-0 CSKA
+RUB: Je.Stáver - N.Lóbov (D.Maldonado-M. 46), Ig.Vujačić(C), Je.Téslenko - I.Saavedra - A.Arroyo (D.Kabútov 80),
+I.Rožkóv (K.Nižegoródov 86) - V.Hodža, N.Gripshi (R.Bezrúkov 64) - M.Daku, J.Siwe (D.Shabanhaxhaj 64).
+Head coach: Francesc Artiga Cebrián (Spain). Colors: all ruby.
+CSK: V.Tórop - D.Krugovój, João Victor, K.Danílov, Moisés (D.S.Kozlóv 72) - Dm.Bárinov - I.Obljakóv(C),
+Matheus Alves (M.Kislják 46) - H.Carmo (L.Gondou 46), Mat.Popović (Matheus Reis 66) - T.Musájev.
+Head coach: Fabio Celestini (Switzerland/Italy). Colors: all white.
+Yellow cards: Ig.Vujačić 6, N.Lóbov 27, I.Saavedra 86 - K.Danílov 51, L.Gondou 61.
+Referee: Rafaéĺ Šaféjev (Volgográd)
+25.04.26. Ak Bars Aréna, Kazáń. Att: 25,183. +6°C, light rain.
+
+Dinamo Moskva 2-0 Soči
+[K.Tjukávin 11; N.M.Ngamaleu 52]
+DMS: K.Rasúlov - M.Osipénko, M.Majstorović (N.M.Ngamaleu 46), David Ricardo - J.J.Cáceres, L.Chávez-Mag. (Dan.Fomín 62),
+D.Glébov (T.Marínkin 79), D.Skópincev - Arthur Gomes (Ja.Gládyšev 70), K.Tjukávin(C) (I.V.Sergéjev 62), Bitello.
+Head coach: Rolán Gúsev. Colors: white / blue / blue.
+SOC: D.Djógtev - A.Soldaténkov, Marcelo Alves, A.Makarčúk - K.Zaíka(C) (S.Je.Vólkov 82), M.Múhin (A.Zińkóvskij 59),
+K.S.Kravcóv, R.Magáĺ - Rom.Ježóv (D.Vasíĺjev 59), V.Iĺjín (Z.Fjódorov 64), M.Ignátov (F.Kamano 59).
+Head coach: Ígoŕ Ósińkin. Colors: dark blue / dark blue / white.
+Yellow cards: M.Osipénko 86, Dan.Fomín 90+2 - A.Soldaténkov 23, K.S.Kravcóv 43, A.Makarčúk 90+3.
+Referee: Nikíta Nóvikov (Petrozavódsk)
+26.04.26. VTB Arena, Moskvá. Att: 10,980. +8°C, rain.
+
+Rostov 0-1 Orenburg
+[G.Guzina 85]
+ROS: R.Yatímov - V.Meljóhin (D.Semenčúk 46), D.Čistjakóv, O.Sako - Al-j Mirónov - Ronaldo, I.Vaxánia -
+K.Ščetínin (Moh.Mohebbi 87), K.Kučájev(C) (Dan.Šantalíj 67) - Je.Golenkóv (X.Bayramyán 72), T.Sulejmánov.
+Head coach: Jonatan Alba Cabello (Spain). Colors: yellow / dark blue / yellow.
+ORE: M.Rudakóv - I.Iváščenko, J.A.Palacios, D.Hotuljóv - F.Moufi(C), Du Queiroz (I.Kvekveskíri 90+6), Je.Bólotov,
+A.Cantero-F. (D.Vedérnikov 90+3) - J.Thompson (D.Puebla 72), Alexandre Jesus (G.Guzina 72), E.Gürlük (R.Golýbin 72).
+Head coach: Iĺdár Ahmetzjánov. Colors: all white.
+Yellow cards: M.Rudakóv 89, A.Cantero-F. 90+3, D.Vedérnikov 90+7.
+Referee: Pável Kukuyán (Sóči)
+25.04.26. Rostóv Aréna, Rostóv-na-Donú. Att: 7,739. +8°C.
+
+
+Round 28
+--------
+
+Akron 0-1 Krasnodar
+[J.Córdoba-Cop. 72]
+AKR: V.Gudíjev - I.Nedelcearu (A.M.Morózov 78), R.Escoval, M.Bokójev - H.Hosónov - D.Pestrjakóv, R.Fernández-Toro -
+K.Maradishvíli (Max.Kuźmin 65), I.Đakovac (Y.Rocha 78) - A.Dzjúba(C) (S.Lončar 57), G.Benchimol.
+Head coach: Zaurbék Tedéjev. Colors: red / black / black.
+KRA: S.Agkácev - Giov.González, V.Tormena, Jubal, L.Olaza - A.Čérnikov, K.Lenini - João Batxi
+(J.M.Boselli 71), E.Spercyán(C) (V.Páĺcev 90+5), N.Krivcóv (M.D.Cobnan 71) - J.Córdoba-Cop.
+Head coach: Murád Musájev. Colors: beige / beige / striped beige & green.
+Yellow cards: I.Đakovac 63, R.Escoval 82 - Giov.González 68.
+Referee: Jevgénij Bulánov (Saránsk)
+03.05.26. Solidárnosť Samára Aréna, Samára. Att: 6,109. +12°C.
+
+CSKA 1-3 Zenit
+[I.Obljakóv 5 pen - Í.Divéjev 30; A.Sóbolev 51; Luiz Henrique 60]
+CSK: V.Tórop - Mil.Gajić, João Victor, K.Danílov, D.Krugovój - Dm.Bárinov, M.Kislják (Matheus Alves 82) -
+L.Gondou (H.Carmo 66), I.Obljakóv(C) (D.S.Kozlóv 82), Mat.Popović (Matheus Reis 57) - T.Musájev (M.Vóronov 82).
+Head coach: Fabio Celestini (Switzerland/Italy). Colors: red / dark blue / dark blue.
+ZEN: D.Adámov - V.Drkušić, I.Divéjev, Nino, Douglas Santos(C) - W.Barrios, Wendel -
+Luiz Henrique, M.Glušenkóv (D.Kondakóv 82), Pedro (Rom.Vega 88) - A.Sóbolev (A.Jeróhin 90+3).
+Head coach: Sergéj Semák. Colors: combined white & sky blue / white / white.
+Yellow cards: Mat.Popović 46, Mil.Gajić 59, Dm.Bárinov 76 - Nino 19, M.Glušenkóv 67.
+Referee: Inál Tanášev (Náĺčik)
+02.05.26. VEB Aréna, Moskvá. Att: 25,579. +12°C.
+
+Lokomotiv 1-1 Dinamo Moskva
+[A.Karpukás 53 - N.Marichal 24]
+LOK: A.Mitrjúškin(C) - A.Siĺjánov, Je.Morózov, Cés.Montes (Ger.Nyamsi 22), L.Fasson - D.Prúcev (L.G.Vera 73),
+A.Karpukás - A.Rudénko (N.Saltykóv 73), A.Batrakóv, S.Pinjájev (Z.Bakájev 46) - D.Vorob'jóv (N.Komličénko 58).
+Head coach: Mihaíl Galaktiónov. Colors: combined red & white / white / white.
+DMS: K.Rasúlov - J.J.Cáceres (David Ricardo 73), N.Marichal, M.Osipénko, M.Majstorović (D.Skópincev 57) - L.Chávez-Mag.
+(D.Glébov 63), Dan.Fomín(C) - Ja.Gládyšev, Bitello (I.V.Sergéjev 73), Arthur Gomes (N.M.Ngamaleu 46) - K.Tjukávin.
+Head coach: Rolán Gúsev. Colors: all dark blue.
+Yellow cards: Ger.Nyamsi 70, A.Batrakóv 90+4 - D.Skópincev 77, David Ricardo 90+4.
+Referee: Jevgénij Kukulják (Kalúga)
+01.05.26. Russian Railways Arena, Moskvá. Att: 15,896. +5°C.
+
+Kryĺja Sovetov 2-1 Spartak
+[F.Costanza 13 pen; K.Piačénin 77 - M.Ugalde 64]
+KRS: S.Peśjakóv(C) - F.Costanza, N.Černóv, S.Bóžin (T.Galdames 75), K.Piačénin - S.Bábkin, M.Vitjugóv -
+N.Rasskázov, M.Banjac (Il.Axmétov 58; Dom.Oroz 75), I.Oléjnikov (K.Stolbóv 72) - A.Rahmanović (A.Šumánski 72).
+Head coach: Sergéj Bulátov. Colors: sky blue / navy blue / navy blue.
+SPA: Al.V.Maximénko - D.Denísov, C.Wooh (C.Martins 84), A.Djiku, R.Zóbnin(C) - R.Litvínov,
+N.Umjárov - P.Solari, E.Barco, Ged.Fernandes (I.Dmítrijev 56) - M.Ugalde (Levi García 84).
+Head coach: Juan Carlos Carcedo Mardones (Spain). Colors: red with white stripe / red / red.
+Yellow cards: M.Vitjugóv 66 - R.Litvínov 71, P.Solari 85.
+Referee: Sergéj Karasjóv (Moskvá}
+01.05.26. Solidárnosť Samára Aréna, Samára. Att: 20,519. +9°C.
+
+Baltika 0-1 Rubin
+[M.Daku 29]
+BAL: Je.Ljubakóv - S.Varatýnov, Kev.Andrade(C), N.Gassama (Ed.Anderson 85) - M.Bevéjev, A.Méndeĺ (I.Bélikov 46),
+I.Petróv (T.Yenne 61), E.Ćivić - Max.V.Petróv (N.Titkóv 46), C.Offor, Ju.Kavalióŭ (V.Pospélov 61).
+Head coach: Andréj Talalájev. Colors: blue / white / blue.
+RUB: Je.Stáver - N.Lóbov (A.Gricajénko 89), Je.Téslenko, D.Maldonado-M. - A.Arroyo, I.Saavedra, V.Hodža
+(D.A.Kuznecóv 89), K.Nižegoródov - N.Gripshi (R.Bezrúkov 63), M.Daku(C) (J.Siwe 79), I.Rožkóv (D.Kuzjájev 79).
+Head coach: Francesc Artiga Cebrián (Spain). Colors: beige with black sleeves / black / beige.
+Yellow cards: Ju.Kavalióŭ 59, N.Titkóv 90+3 - I.Rožkóv 47, I.Saavedra 90+4.
+Red card: E.Ćivić 76 (denying an obvious goal-scoring opportunity).
+Referee: Jan Bobróvskij (Sankt-Peterbúrg)
+02.05.26. RosTech Arena, Kaliningrád. Att: 15,907. +19°C.
+
+Ahmat 2-0 Pari NN
+[L.Sadulájev 56; E.Cacintura 60]
+AHM: G.Shélia - M.Sídorov, O.Ndong, K.Cake, M.Bogosavac - S.Prjáhin, Ismael Silva - M.Samoródov
+(B.E.Mansilla 75), E.Cacintura (M.Keliano 85), L.Sadulájev(C) - G.Melkádze (Moh.Konaté 75).
+Head coach: Stanisláv Čerčésov. Colors: striped green & white / green / green.
+PAR: N.Medvédev(C) - M.Šnápcev, N.Kakkójev, I.Kirsch, Ju.Kolédin (A.Ívlev 64) - S.Karič -
+L.Vešner-Tičić, N.Kalínskij - D.Lesovój (A.Je.Sidorénko 46; M.Úrvancev 85) - A.Balboa-C., Ren.Cephas.
+Head coach: Vadím Garánin. Colors: all blue.
+Yellow cards: G.Melkádze 35, L.Sadulájev 45, Ismael Silva 78.
+Referee: Sergéj Čéban (Moskvá)
+03.05.26. Ahmát Aréna, Gróznyj. Att: 4,396. +9°C.
+
+Dinamo Mahačkala 1-2 Rostov
+[G.Agalárov 60 pen - J.Đapo (Din) 29 og; Ronaldo 77]
+DMH: D.Volk - M.Azzi, M.Alibékov(C), And.Alarcón-Men., J.Đapo (Raž.Magomédov 46) - H.Mrezigue, M.Moubarik
+(S.Kagermázov 90) - N.S.Gluškóv, M.Hosseinnejad (G.Agalárov 46), T.Sundúkov (A.Ašúrov 90) - H.Mastouri.
+Head coach: Vadím Jevséjev. Colors: all blue.
+ROS: R.Yatímov - V.Meljóhin, D.Čistjakóv, O.Sako - Al-j Mirónov - Ronaldo, I.Vaxánia(C) (A.Langóvič 81) -
+I.Komaróv (Je.Golenkóv 63), K.Ščetínin (D.Próhin 70) - T.Sulejmánov, Moh.Mohebbi (G.Ignátov 81).
+Head coach: Jonatan Alba Cabello (Spain). Colors: yellow / dark blue / yellow.
+Yellow cards: H.Mastouri 22 - V.Meljóhin 74, T.Sulejmánov 90+3, R.Yatímov 90+5, D.Próhin 90+6.
+Referee: Vasílij Kazárcev (Sankt-Peterbúrg)
+02.05.26. Anží Aréna, Kaspíjsk. Att: 5,050. +16°C.
+
+Soči 3-1 Orenburg
+[K.S.Kravcóv 7, 33, 67 - Alexandre Jesus 69]
+SOC: A.Djógtev - S.Je.Vólkov, Marcelo Alves, V.Litvínov - K.Zaíka(C), K.S.Kravcóv (Al-r Kovalénko 90+2), M.Múhin
+(A.Kornéjev 90+2), R.Magáĺ - Rom.Ježóv (A.Zińkóvskij 32), V.Iĺjín (P.Meljóšin 90+2), M.Ignátov (D.Vasíĺjev 78).
+Head coach: Ígoŕ Ósińkin. Colors: sky blue / white / white.
+ORE: B.Ovsjánnikov - I.Iváščenko (D.Puebla 46), J.A.Palacios, D.Hotuljóv - F.Moufi(C), Du Queiroz, Je.Bólotov
+(I.Kvekveskíri 72), A.Cantero-F. - J.Thompson (A.El-Mahraoui 82), G.Guzina (Alexandre Jesus 64), E.Gürlük (R.Golýbin 46).
+Head coach: Iĺdár Ahmetzjánov. Colors: combined blue & dark blue / dark blue / dark blue.
+Yellow cards: S.Je.Vólkov 39, K.Zaíka 58, A.Djógtev 90+5.
+Referee: Sergéj Cyganók (Vladivostók)
+03.05.26. Olympic Stadium Fišt, Sóči. Att: 3,170. +11°C, light rain.
+
+
 
 
 
@@ -3338,7 +3918,7 @@ Arsenál (Túla) [D2]              1-2  Lokomotív (Moskvá) [D1]
   [Kiríll Boĺšakóv 45 - Jevgénij Morózov 32; Artjóm Karpukás 35.
    Missed PK: Alexéj Batrakóv (Lok) 83/held. Hímki. Att: 2,464. 0°C]
 
-SEMIFINALS
+SEMIFINALS [Total Att: 114,243; Average: 28,561]
 
 First Phase
 
@@ -3350,12 +3930,20 @@ KRÝĹJA SOVÉTOV (Samára) [D1]     2-2  Lokomotív (Moskvá) [D1]  [pen 5-4]
   [Iván Oléjnikov 40; Ilzát Axmétov 45 - Nikoláj Komličénko 38 pen;
    Alexándr Siĺjánov 58. Att: 14,720. +4°C]
 
-Second Phase [Apr 7-9]
+Second Phase
 
-Krýĺja Sovétov (Samára) [D1]      -   CSKA (Moskvá) [D1]
-Zenít (Sankt-Peterbúrg) [D1]      -   Sparták (Moskvá) [D1]
+[Apr 7]
+Krýĺja Sovétov (Samára) [D1]     2-5  CSKA (Moskvá) [D1]
+  [Iván Oléjnikov 53; Iván Lépskij 84 - Luciano Gondou 4, 35, 51; Iván Obljakóv 64;
+   Matvéj Kislják 67. Missed PKs: Vladímir Ignaténko (KS) 82/over;
+   Luciano Gondou (CSKA) 51/held. Att: 24,902. +14°C]
+[Apr 8]
+Zenít (Sankt-Peterbúrg) [D1]     0-0  Sparták (Moskvá) [D1]  [pen 6-7]
+  [Missed PK: Esequiel Barco (Spa) 44/held. Att: 52,120. Indoors]
 
-FINAL [May 5-7]
+FINAL [May 6]
+
+Sparták (Moskvá) [D1]  -  CSKA (Moskvá) [D1]
 
 RPL PATH
 --------
@@ -3572,24 +4160,26 @@ DINÁMO (Moskvá)          5-2 0-1  Sparták (Moskvá)  [agg 5-3]
       Manfred Ugalde 30; Christopher Martins 90+2. Att: 23,385. +1°C, light snow]
   [2. Christopher Wooh 58. Att: 34,463. +7°C]
 
-FINALS [Apr 7-9, May 5-7]
+FINALS [Apr 8, May 7]
 
-Dinámo (Moskvá)   -   -   FC Krasnodár
+Dinámo (Moskvá)  0-0  -   FC Krasnodár
+  [1. Att: 22,694. +3°C, light rain]
 
 
 Top scorers (Russian Cup overall):
 
 1.Jhon Córdoba Copete (Krasnodár)     5  [Colombia]
+  Luciano Gondou Zanelli (CSKA)       5  [Argentina/Italy]
   Iván Jákovlev (Irkútsk)             5
   Nikoláj Komličénko (Lokomotív)      5
   Daníla S. Kozlóv (Krasnodár)        5
-5.Ülví Babáyev (Dinámo Mos)           4  [Russia/Azerbaijan]
+6.Ülví Babáyev (Dinámo Mos)           4  [Russia/Azerbaijan]
   Alexéj Batrakóv (Lokomotív)         4
   Gilson Benchimol Tavares (Akrón)    4  [Cabo Verde/Portugal]
-  João "Batxi" Bachiessa (Krasnodár)  4
-  Andréj Putílov (Irkútsk)            4  [Angola/Portugal]
+  João "Batxi" Bachiessa (Krasnodár)  4  [Angola/Portugal]
+  Andréj Putílov (Irkútsk)            4
 
-Russian Cup Details  ‹§cupdet›
+===== Russian Cup Details  ‹§cupdet›
 
 QUARTERFINALS
 
@@ -3881,6 +4471,53 @@ Yellow cards: K.Piačénin 37, G.Chinedu 56, F.Costanza 85, V.Hubúlov 90+4 - A.
 Referee: Vladímir Moskaljóv (Vorónež)
 19.03.26. Solidárnosť Samára Aréna, Samára. Att: 14,720. +4°C.
 
+Regions Path, Second Phase
+
+Krýĺja Sovétov (Samára) 2-5 CSKA (Moskvá)
+[I.Oléjnikov 53; I.Lépskij 84 - L.Gondou 4, 35, 51; I.Obljakóv 64; M.Kislják 67.
+ Missed PKs: Vl-r Ignaténko (KS) 82/over; L.Gondou (CSKA) 51/held]
+KRS: N.Kókarev - G.Requena (N.Rasskázov 46), S.Bóžin (Dom.Oroz 62), I.Lépskij - Dani Fernández-F., S.Bábkin
+(M.Vitjugóv 46), F.Costanza(C), T.Galdames (K.Piačénin 62) - M.Banjac, I.Oléjnikov (Vl-r Ignaténko 74) - A.Šumánski.
+Head coach: Sergéj Bulátov. Colors: sky blue / navy blue / navy blue.
+CSK: V.Tórop - Mil.Gajić, M.Lukín (João Victor 56), K.Danílov, D.Krugovój - Dm.Bárinov, M.Kislják (H.Carmo 68) -
+D.S.Kozlóv, I.Obljakóv(C) (Matheus Alves 78), K.Glébov (Mat.Popović 78) - L.Gondou (T.Musájev 68).
+Head coach: Fabio Celestini (Switzerland/Italy). Colors: all white.
+Yellow cards: None.
+Referee: Sergéj Ivanóv (Rostóv-na-Donú)
+07.04.26. Solidárnosť Samára Aréna, Samára. Att: 24,902. +14°C.
+
+Zenít (Sankt-Peterbúrg) 0-0 Sparták (Moskvá) [pen 6-7]
+[Missed PK: E.Barco (Spa) 44/held]
+[Shoot-out: 1-0 M.Glušenkóv, 1-1 A.Djiku, 2-1 A.Sóbolev, 2-2 N.Umjárov, x2-2 A.Mostovój (held),
+ 2-3 Ged.Fernandes, 3-3 Jhon Jhon, 3-3x M.Ugalde (held), 4-3 I.Divéjev, 4-4 Marquinhos, 5-4 N.Älıp,
+ 5-5 C.Martins, 6-5 Douglas Santos, 6-6 Í.Dmítrijev, x6-6 D.Kondakóv (held), 6-7 C.Wooh]
+ZEN: Je.Latyšónok - Nino (I.Divéjev 90+1), N.Älıp - V.Drkušić, Douglas Santos(C) - W.Barrios, Wendel
+(Jhon Jhon 90+1) - Pedro (A.Sóbolev 61) - Luiz Henrique (D.Kondakóv 73), A.Mostovój - Jh.Durán (M.Glušenkóv 61).
+Head coach: Sergéj Semák. Colors: all sky blue.
+SPA: Al.V.Maximénko (I.Pomazún 90+1) - C.Wooh, A.Djiku - D.Denísov (C.Martins 59), R.Zóbnin(C) -
+N.Umjárov, R.Litvínov - Ged.Fernandes - P.Solari (Í.Dmítrijev 46), Marquinhos - E.Barco (M.Ugalde 86).
+Head coach: Juan Carlos Carcedo Mardones (Spain). Colors: red with white stripe / red / red.
+Yellow cards: Luiz Henrique 43, A.Jeróhin (bench) 89 - P.Solari 30, D.Denísov 35, A.Djiku 72.
+Referee: Artjóm Čistjakóv (Azóv)
+08.04.26. Gazpróm Aréna, Sankt-Peterbúrg. Att: 52,120. Indoors.
+
+FINALS
+
+RPL Path, First Leg
+
+Dinámo (Moskvá) 0-0 FC Krasnodár
+DMS: A.Lunjóv - N.Marichal, David Ricardo - J.J.Cáceres, R.Fernández-U. (D.Skópincev 45) - Rubens (T.Marínkin 61),
+Dan.Fomín(C) - Bitello (Arthur Gomes 82) - Ja.Gládyšev (Ant.Mirančúk 46), N.M.Ngamaleu - K.Tjukávin.
+Head coach: Rolán Gúsev. Colors: blue / white / white.
+KRA: S.Agkácev - V.Tormena (D.Costa-B. 46), Jubal - V.Páĺcev (Giov.González 46), L.Olaza (A.Hmárin 55) -
+A.Čérnikov, N.Krivcóv - E.Spercyán(C) - J.M.Boselli (E.Guséjnov 85), João Batxi - M.D.Cobnan (J.Córdoba-Cop 46).
+Head coach: Murád Musájev. Colors: striped black & dark green / black / striped black & dark green.
+Yellow cards: J.J.Cáceres 26, N.M.Ngamaleu 52, Ant.Mirančúk 71 -
+L.Olaza 17, M.Musájev (head coach) 19, A.Čérnikov 28, V.Páĺcev 44.
+Red card: A.Čérnikov 90 (slap in the face).
+Referee: Iván Abrósimov (Sankt-Peterbúrg)
+08.04.26. VTB Arena, Moskvá. Att: 22,694. +3°C, light rain.
+
 
 
 
@@ -3893,27 +4530,27 @@ MELBET PERVAJA LIGA (First League) 2025/26
 
 Table:
 
- 1.Fákel (Vorónež)            27  18  5  4  34-13   59  [R]
- 2.Ródina (Moskvá)            27  14 10  3  45-23   52
+ 1.Fákel (Vorónež)            31  18  7  6  39-22   61  [R]
+ 2.Ródina (Moskvá)            31  16 11  4  49-26   59
 ------------------------------------------------------
- 3.Urál (Jekaterinbúrg)       27  14  6  7  41-27   48
- 4.Rótor (Volgográd)          27  11  9  7  35-22   42
+ 3.Urál (Jekaterinbúrg)       31  17  7  7  48-28   58
+ 4.Rótor (Volgográd)          31  14 10  7  40-23   52
 - - - - - - - - - - - - - - - - - - - - - - - - - - --
- 5.Sparták (Kostromá)         27  10 11  6  38-32   41  [P]
- 6.KamAZ (Náberežnyje Čelný)  27   9 12  6  41-28   39
- 7.FC Čeljábinsk              27   9 11  7  35-29   38  [P]
- 8.Neftehímik (Nižnekámsk)    27   8 11  8  31-32   35      [1-0, 0-0]
- 9.Arsenál (Túla)             27   8 11  8  37-33   35      [0-0, 0-1]
-10.Torpédo (Moskvá)           27   9  7 11  28-33   34
-11.SKA (Habárovsk)            27   8 10  9  29-35   34
-12.Jeniséj (Krasnojársk)      27   8 10  9  23-31   34
-13.Šínnik (Jaroslávĺ)         27   7 12  8  22-23   33
-14.Vólga (Uĺjánovsk)          27   8  7 12  31-40   31  [P]
-15.Černomórec (Novorossíjsk)  27   7  8 12  31-37   29
+ 5.Sparták (Kostromá)         31  12 12  7  45-37   48  [P]
+ 6.KamAZ (Náberežnyje Čelný)  31  11 13  7  44-31   46      [5-0, 0-1]
+ 7.Jeniséj (Krasnojársk)      31  12 10  9  36-32   46      [1-0, 0-5]
+ 8.Šínnik (Jaroslávĺ)         31  10 13  8  30-25   43
+ 9.Neftehímik (Nižnekámsk)    31  10 12  9  38-35   42
+10.FC Čeljábinsk              31   9 13  9  38-36   40  [P]
+11.Torpédo (Moskvá)           31  10  9 12  33-38   39
+12.Arsenál (Túla)             31   8 14  9  39-37   38
+13.Vólga (Uĺjánovsk)          31   9  9 13  33-42   36  [P]
+14.SKA (Habárovsk)            31   8 11 12  32-45   35
+15.FC Ufá                     31   7 10 14  30-37   31
 ------------------------------------------------------
-16.FC Ufá                     27   6  9 12  29-35   27
-17.Čájka (Pesčanokópskoje)    27   4  7 16  25-59   19
-18.Sókol (Sarátov)            27   2 10 15  12-35   16
+16.Černomórec (Novorossíjsk)  31   7  8 16  32-45   29
+17.Čájka (Pesčanokópskoje)    31   5  7 19  30-67   22      Relegated
+18.Sókol (Sarátov)            31   3 10 18  13-43   19      Relegated
 
 Torpédo (Moskvá) were excluded from RPL for attempted match-fixing. Due to ongoing
   renovation of their home stadium, Torpédo play home games in Hímki (the satellite
@@ -4616,29 +5253,121 @@ Ufa         1-1  Torpedo
   [Magoméd Jakújev 42 - Alexándr Júšin 90+4.
    Missed PK: Alexándr Júšin (Tor) 55/held. Att: 1,313. +7°C]
 
+Round 28 [Total Att: 51,568; Average: 5,730]
+[Apr 10]
+KamAZ       0-0  Neftehimik
+  [Att: 812. -1°C, light snow]
+[Apr 11]
+Cernomorec  1-2  Spartak Ks
+  [Alexándr Hubúlov 9 - Nikoláj Tarásov 25; Đorđe Pantelić 74 pen. Att: 6,049. +11°C]
+Celjabinsk  2-2  SKA
+  [Baba Ndiaye 52; Jan Gudkóv 90+5 - Jacobo Alcalde 21 pen; Stepán Glótov 26. Att: 5,833. +12°C]
+Cajka       1-4  Jenisej
+  [Artjóm Je. Sokolóv 34 pen - Alexándr Nadóĺskij 19, 53;
+   Andréj Okládnikov 38; Astemír Haškúlov 75. Att: 355. +5°C]
+[Apr 12]
+Ural        0-0  Ufa
+  [Att: 9,257. +11°C]
+Rotor       1-0  Sokol
+  [Davíd Davidyán 11. Att: 16,780. +12°C]
+Torpedo     1-1  Arsenal
+  [Dmítrij Cýpčenko 85 - Ígoŕ Gorbunóv 65. Att: 1,208. +9°C, light rain]
+Volga       0-1  Sinnik
+  [Denís Rahmánov (Vol) 77 og. Att: 1,967. +9°C]
+[Apr 13]
+Fakel       1-3  Rodina
+  [Belajdi Pusi 85 - Iván Timošénko 6; Magomedhabíb Abdusalámov 16;
+   Artjóm Maximénko 27. Att: 9,307. +7°C]
+
+Round 29 [Total Att: 13,390; Average: 1,488]
+[Apr 17]
+Torpedo     2-0  KamAZ
+  [Mario Ćurić 5 pen; Vladisláv Šítov 52. Att: 782. +10°C]
+Jenisej     3-0  Celjabinsk
+  [Andréj Okládnikov 18; Andréj Mazúrin 25; Jegór Ivanóv 72. Att: 3,128. -5°C]
+[Apr 18]
+Cajka       2-0  Fakel
+  [Artjóm Je. Sokolóv 36; Nikíta Posmášnyj 90+4. Att: 930. +6°C]
+Rodina      0-0  Volga
+  [Att: 3,154. +4°C, light rain]
+Sokol       0-3  Ural
+  [Júrij Železnóv 2; Román Akbášev 57; Nikíta And. Morózov 79. Att: 1,150. +15°C]
+SKA         1-2  Rotor
+  [Jacobo Alcalde 18 - Imrán Aznaúrov 6, 26. Att: 1,347. +8°C]
+Neftehimik  3-1  Spartak Ks
+  [Rašíd Magomédov 59, 90+4; Daniel Sappa (Spa) 67 og - Amúr Kalmykóv 38 pen. Att: 320. +13°C]
+Sinnik      2-0  Arsenal
+  [Artúr Galoyán 75, 83. Att: 969. +8°C]
+Ufa         1-0  Cernomorec
+  [Zalimhán Jusúpov 85. Att: 1,610. +16°C]
+
+Round 30 [Apr 22. Total Att: 31,528; Average: 3,503]
+Fakel       2-2  Sinnik
+  [Axel Gnapi 58; Ravíĺ Netfúllin 73 - Kiríll Maljaróv 34; Dmítrij Samójlov 65. Att: 8,157. +7°C]
+Rotor       2-0  Rodina
+  [Saíd Alíjev 72; Davíd Davidyán 90+3. Att: 10,893. +5°C]
+Ural        2-0  Torpedo
+  [Silvije Begić 13; Román Akbášev 22. Att: 6,276. +2°C]
+Spartak Ks  3-0  SKA
+  [Jegór Nazárenko 14, 77; Amúr Kalmykóv 37. Att: 225. +12°C]
+Ufa         0-1  KamAZ
+  [Surhajhán Abdullájev 54. Att: 1,120. +6°C]
+Sokol       0-4  Jenisej
+  [Andréj Okládnikov 35, 72; Artjóm Pogósov 77 pen, 89. Att: 510. +4°C, light rain]
+Arsenal     0-0  Celjabinsk
+  [Att: 3,198. +8°C]
+Neftehimik  4-0  Cernomorec
+  [Rašíd Magomédov 18; Iván Bobjór 67; Konstantín Šiĺcóv 77; Andréj Nikítin 79. Att: 118. +1°C]
+Volga       2-1  Cajka
+  [Kiríll Vollmer 15; Vladisláv Jákovlev 83 - Maxím Kriúšičev 89. Att: 1,031. +3°C]
+
+Round 31 [Total Att: 44,586; Average: 4,954]
+[Apr 25]
+Spartak Ks  1-1  Arsenal
+  [Amúr Kalmykóv 86 pen - Kiríll Boĺšakóv 67. Att: 404. +9°C]
+[Apr 26]
+Rodina      1-0  Ufa
+  [Artjóm Maximénko 90+6. Att: 3,042. +4°C, light rain]
+Celjabinsk  1-2  Ural
+  [Gárrik Lévin 79 - Artjóm Mámin 32; Martin Sekulić 59 pen. Att: 6,931. +10°C]
+Rotor       0-0  Volga
+  [Att: 18,020. +16°C]
+KamAZ       2-1  Cajka
+  [Davíd Karájev 38; Daniíl Šamkin 62 - Gleb Popolítov 70 pen. Att: 1,407. +10°C, rain]
+Jenisej     2-0  Neftehimik
+  [Andréj Okládnikov 43; Jegór Ivanóv 46. Att: 7,112. +23°C]
+Sinnik      3-0  SKA
+  [Iĺjá Pórohov 4, 24; Vitálij Lyscóv 12. Att: 516. +8°C]
+Cernomorec  0-1  Sokol
+  [Nikíta Glójdman 29. Att: 6,350. +15°C]
+[Apr 27]
+Torpedo     2-2  Fakel
+  [Alexándr Oréhov 24; Ruslán Apékov 75 - Buttá Magomédov 40;
+   Maxím Turíščev 89. Att: 804. +1°C, snowfall]
+
 Table:
 
- 1.Fákel (Vorónež)            27  18  5  4  34-13   59  [R]
- 2.Ródina (Moskvá)            27  14 10  3  45-23   52
+ 1.Fákel (Vorónež)            31  18  7  6  39-22   61  [R]
+ 2.Ródina (Moskvá)            31  16 11  4  49-26   59
 ------------------------------------------------------
- 3.Urál (Jekaterinbúrg)       27  14  6  7  41-27   48
- 4.Rótor (Volgográd)          27  11  9  7  35-22   42
+ 3.Urál (Jekaterinbúrg)       31  17  7  7  48-28   58
+ 4.Rótor (Volgográd)          31  14 10  7  40-23   52
 - - - - - - - - - - - - - - - - - - - - - - - - - - --
- 5.Sparták (Kostromá)         27  10 11  6  38-32   41  [P]
- 6.KamAZ (Náberežnyje Čelný)  27   9 12  6  41-28   39
- 7.FC Čeljábinsk              27   9 11  7  35-29   38  [P]
- 8.Neftehímik (Nižnekámsk)    27   8 11  8  31-32   35      [1-0, 0-0]
- 9.Arsenál (Túla)             27   8 11  8  37-33   35      [0-0, 0-1]
-10.Torpédo (Moskvá)           27   9  7 11  28-33   34
-11.SKA (Habárovsk)            27   8 10  9  29-35   34
-12.Jeniséj (Krasnojársk)      27   8 10  9  23-31   34
-13.Šínnik (Jaroslávĺ)         27   7 12  8  22-23   33
-14.Vólga (Uĺjánovsk)          27   8  7 12  31-40   31  [P]
-15.Černomórec (Novorossíjsk)  27   7  8 12  31-37   29
+ 5.Sparták (Kostromá)         31  12 12  7  45-37   48  [P]
+ 6.KamAZ (Náberežnyje Čelný)  31  11 13  7  44-31   46      [5-0, 0-1]
+ 7.Jeniséj (Krasnojársk)      31  12 10  9  36-32   46      [1-0, 0-5]
+ 8.Šínnik (Jaroslávĺ)         31  10 13  8  30-25   43
+ 9.Neftehímik (Nižnekámsk)    31  10 12  9  38-35   42
+10.FC Čeljábinsk              31   9 13  9  38-36   40  [P]
+11.Torpédo (Moskvá)           31  10  9 12  33-38   39
+12.Arsenál (Túla)             31   8 14  9  39-37   38
+13.Vólga (Uĺjánovsk)          31   9  9 13  33-42   36  [P]
+14.SKA (Habárovsk)            31   8 11 12  32-45   35
+15.FC Ufá                     31   7 10 14  30-37   31
 ------------------------------------------------------
-16.FC Ufá                     27   6  9 12  29-35   27
-17.Čájka (Pesčanokópskoje)    27   4  7 16  25-59   19
-18.Sókol (Sarátov)            27   2 10 15  12-35   16
+16.Černomórec (Novorossíjsk)  31   7  8 16  32-45   29
+17.Čájka (Pesčanokópskoje)    31   5  7 19  30-67   22      Relegated
+18.Sókol (Sarátov)            31   3 10 18  13-43   19      Relegated
 
 Torpédo (Moskvá) were excluded from RPL for attempted match-fixing. Due to ongoing
   renovation of their home stadium, Torpédo play home games in Hímki (the satellite
@@ -4649,70 +5378,24 @@ Since Round 17, Sparták (Kostromá) play home matches in Hímki (345 km south-w
 
 Top scorers:
 
- 1.Belajdi PUSI (Fákel)               14  [Albania]
- 2.Artjóm MAXIMÉNKO (Ródina)          12
- 3.Saíd ALÍJEV (Černomórec/Rótor)     11
-   Amúr KALMYKÓV (Arsenál/Sparták)    11
-   Davíd KARÁJEV (KamAZ)              11  [Russia/Azerbaijan]
- 6.Ruslán APÉKOV (KamAZ/Torpédo)       9
-   Ramazán GADŽIMURÁDOV (Čeljábinsk)   9
- 8.Artjóm Je. SOKOLÓV (Čájka)          8
- 9.Alexándr JÚŠIN (Torpédo)            7
-   Rašíd MAGOMÉDOV (Neftehímik)        7
+ 1.Belajdi PUSI (Fákel)               15  [Albania]
+ 2.Amúr KALMYKÓV (Arsenál/Sparták)    14
+   Artjóm MAXIMÉNKO (Ródina)          14
+ 4.Saíd ALÍJEV (Černomórec/Rótor)     12
+   Davíd KARÁJEV (KamAZ)              12  [Russia/Azerbaijan]
+ 6.Andréj OKLÁDNIKOV (Jeniséj)        11
+ 7.Ruslán APÉKOV (KamAZ/Torpédo)      10
+   Rašíd MAGOMÉDOV (Neftehímik)       10
+   Artjóm Je. SOKOLÓV (Čájka)         10
+10.Ramazán GADŽIMURÁDOV (Čeljábinsk)   9
+11.Jacobo ALCALDE Tellado (SKA)        8  [Spain]
+   Iván TIMOŠÉNKO (Ródina)             8
+13.Román AKBÁŠEV (Urál)                7
+   Dmítrij CÝPČENKO (SKA/Torpedo)      7
+   Alexándr JÚŠIN (Torpédo)            7
+   Gárrik LÉVIN (Čeljábinsk)           7  [Russia/Armenia]
    Iĺjá SAFRÓNOV (Rótor)               7
-   Iván TIMOŠÉNKO (Ródina)             7
-13.Jacobo ALCALDE Tellado (SKA)        6  [Spain]
-   Dmítrij CÝPČENKO (SKA/Torpedo)      6
-   Daniíl KORNJÚŠIN (Šínnik)           6
-   Gárrik LÉVIN (Čeljábinsk)           6  [Russia/Armenia]
-   Andréj OKLÁDNIKOV (Jeniséj)         6
-   José Yordy REYNA Serna (Ródina)     6  [Peru]
-   Martin SEKULIĆ (Urál)               6  [Croatia]
-   Denís ŽÍLMOSTNYH (Sparták)          6
-
-Round 28
-Volga       -  Sinnik
-KamAZ       -  Neftehimik
-Torpedo     -  Arsenal
-Rotor       -  Sokol
-Ural        -  Ufa
-Fakel       -  Rodina
-Cajka       -  Jenisej
-Celjabinsk  -  SKA
-Cernomorec  -  Spartak Ks
-
-Round 29
-Jenisej     -  Celjabinsk
-Neftehimik  -  Spartak Ks
-Torpedo     -  KamAZ
-Rodina      -  Volga
-SKA         -  Rotor
-Sokol       -  Ural
-Ufa         -  Cernomorec
-Cajka       -  Fakel
-Sinnik      -  Arsenal
-
-Round 30
-Arsenal     -  Celjabinsk
-Volga       -  Cajka
-Neftehimik  -  Cernomorec
-Rotor       -  Rodina
-Sokol       -  Jenisej
-Spartak Ks  -  SKA
-Ural        -  Torpedo
-Ufa         -  KamAZ
-Fakel       -  Sinnik
-
-Round 31
-Jenisej     -  Neftehimik
-KamAZ       -  Cajka
-Torpedo     -  Fakel
-Rodina      -  Ufa
-Rotor       -  Volga
-Spartak Ks  -  Arsenal
-Celjabinsk  -  Ural
-Cernomorec  -  Sokol
-Sinnik      -  SKA
+   Martin SEKULIĆ (Urál)               7  [Croatia]
 
 Round 32
 Arsenal     -  Rotor
@@ -4754,7 +5437,6 @@ Cernomorec  -  Ural
 
 ==== Second League - Division A  ‹§3la›
 
-‹Golden Group, see §3gg› | ‹Silver Group, see §3gs›
 
 Golden Group  ‹§3gg›
 
@@ -5115,74 +5797,99 @@ Rodina-2     0-0  Masuk-CMW
 Torpedo Mi   0-0  Volgar
   [Att: 500]
 
+Round 7 [Apr 8. Total Att: 2,618; Average: 524]
+Volgar       3-0  Leningradec
+  [Júrij Petróvskij 35; Alexándr Pomaljúk 78; Olég Dmítrijev 90+3. Att: 1,051]
+Veles        2-0  Sibir
+  [Alexándr Šúbin 8; Artúr Koloskóv 14. Att: 494]
+Textilscik   2-3  Torpedo Mi
+  [Timúr Melekéscev 8 pen; Andréj Jevdokímov 41 - Daniíl Gorovýh 16;
+   Semjón Stolbóv 64; Dénis Fajzúllin 87. Att: 450]
+Kaluga       1-1  Rodina-2
+  [Iván Matjušénko 31 - Nikíta Sávin 90+2. Att: 343]
+Masuk-CMW    1-1  Irtys
+  [Astemír Abázov 10 - Nikíta Doroféjev 43. Att: 280]
+
+Round 8 [Apr 12. Total Att: 4,937; Average: 987]
+Torpedo Mi   0-2  Veles
+  [Zahár Tarasénko 21; Dmítrij Sergéjev 64. Att: 350]
+Leningradec  3-2  Textilscik
+  [Ígoŕ Škólik 2; Arcióm Hurénka 61; Artémij Ukómskij 90+3 - Timúr Melekéscev 58, 70 pen. Att: 873]
+Sibir        2-2  Masuk-CMW
+  [Alexándr Jeliséjev 78; Alexándr Nósov 89 - Rustám Mačílov 9; Astemír Abázov 21. Att: 1,767]
+Rodina-2     2-1  Volgar
+  [Daniíl Černyšóv 62; Nikíta Sávin 66 - Vladisláv Morózov 82. Att: 132]
+Irtys        0-1  Kaluga
+  [Alexéj Pólev 16. Att: 1,815]
+
+Round 9 [Apr 19. Total Att: 3,490; Average: 698]
+Veles        2-0  Masuk-CMW
+  [Kiríll Kistenjóv 35; Rasúl Micájev 77. Att: 535]
+Torpedo Mi   0-1  Leningradec
+  [Maxím Bačínskij 56. Att: 350]
+Textilscik   2-1  Rodina-2
+  [Muslím Bammatgeréjev 7; Timúr Melekéscev 56 pen - Astemír Gordjušénko 35. Att: 540]
+Kaluga       1-2  Sibir
+  [Iván Matjušénko 37 - Denís Pokotýlo 49; Dmítrij P. Nikítin 82. Att: 450]
+Volgar       3-0  Irtys
+  [Vladisláv Morózov 27; Dmítrij Ig. Ivanóv II 74; Alexándr Pomaljúk 85. Att: 1,615]
+
+Round 10 [Apr 26. Total Att: 4,591; Average: 918]
+Kaluga       1-0  Veles
+  [Nikíta Kúzin 26. Att: 257]
+Rodina-2     3-4  Leningradec
+  [Nikíta Sávin 46; Artjóm Birjukóv 52; Geórgij Júdincev 67 - Vladisláv Ljóvin 6;
+   Ígoŕ Škólik 41; Artémij Ukómskij 90; Artjóm Kulíšev 90+5. Att: 123]
+Sibir        1-0  Textilscik
+  [Antón Kobjálko 11. Att: 1,921]
+Masuk-CMW    2-0  Volgar
+  [Iván Seleménev 17; Astemír Abázov 88. Att: 510]
+Irtys        1-1  Torpedo Mi
+  [Bilál Š. Bilálov 90+4 - Grigórij Borisénko 51. Att: 1,780]
+
+Round 11 [May 3. Total Att: 4,063; Average: 813]
+Leningradec  1-1  Irtys
+  [Matvéj Péršin 66 - Kiríll Sarájev 90. Att: 1,054]
+Veles        0-1  Rodina-2
+  [Nikíta Sávin 44. Att: 625]
+Torpedo Mi   1-1  Sibir
+  [Grigórij Borisénko 59 - Dmítrij P. Nikítin 87. Att: 496]
+Textilscik   1-1  Masuk-CMW
+  [Timúr Melekéscev 18 - Iván Seleménev 54. Att: 1,320]
+Kaluga       3-3  Volgar
+  [Dmítrij Jugáldin 10; Iván Matjušénko 29 pen; Ígoŕ Sokolóv 79 -
+   Kiríll Kolesničénko 23, 60; Alexándr Pomaljúk 41. Att: 568]
+
 Table:
 
- 1.Leningrádec (Róščino)    6   4  2  0   6- 2   14
- 2.Véles (Domodédovo)       6   4  1  1   9- 3   13  [p][Q] [1-0]
+ 1.Leningrádec (Róščino)   11   7  3  1  15-11   24
+ 2.Véles (Domodédovo)      11   7  1  3  15- 5   22  [p][Q]
 ---------------------------------------------------
- 3.Textíĺščik (Ivánovo)     6   4  1  1  12- 4   13         [0-1]
+ 3.Sibíŕ (Novosibírsk)     11   5  3  3  16-15   18  [p]
+ 4.Textíĺščik (Ivánovo)    11   5  2  4  19-13   17
 - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.Sibíŕ (Novosibírsk)      6   3  1  2  10- 9   10  [p]
- 5.Ródina-2 (Moskvá)        6   1  3  2   3- 4    6  [p] [1 1 0 2-1 4]
- 6.Mašúk-CMW (Pjatigórsk)   6   0  6  0   2- 2    6      [0 2 0 1-1 2]
+ 5.Ródina-2 (Moskvá)       11   3  4  4  11-12   13  [p]
+ 6.FC Kalúga               11   3  3  5  12-15   12  [p] [1-1 away]
 ---------------------------------------------------
- 7.Torpédo (Miáss)          6   1  3  2   4- 6    6  [p] [0 1 1 2-3 1]
- 8.FC Kalúga                6   1  1  4   5- 9    4  [p]
- 9.Irtýš (Ómsk)             6   1  1  4   5-12    4  [p]
-10.Volgáŕ (Ástrahań)        6   0  3  3   3- 8    3
+ 7.Mašúk-CMW (Pjatigórsk)  11   1  9  1   8- 8   12      [1-1 home]
+ 8.Torpédo (Miáss)         11   2  5  4   9-13   11  [p]
+ 9.Volgáŕ (Ástrahań)       11   2  4  5  13-15   10
+10.Irtýš (Ómsk)            11   1  4  6   8-19    7  [p]
 
 Mašúk-CMW play home games in Jessentukí (18 km west of Pjatigórsk).
 
 Top scorers:
 
-1.Timúr Melekéscev (Textíĺščik)      9
-2.Denís Pokotýlo (Sibíŕ)             7
-3.Maxím Bačínskij (Leningrádec)      6
-  Bilál Š. Bilálov (Sibíŕ/Irtýš)     6
-  Artjóm Kulíšev (Leningrádec)       6
-  Alexándr Šúbin (Véles)             6
-  Zahár Tarasénko (Véles)            6
-8.Daníl Anósov (Textíĺščik)          5
-  Muslím Bammatgeréjev (Textíĺščik)  5
-  Alexándr Bem (Tjuméń)              5
-  Dmítrij Jákovlev (Sibíŕ)           5
-  Gleb Mirošničénko (Dinámo-2 M)     5
-  Artémij Ukómskij (Dinámo Kir)      5
-
-Round 7 [Apr 8]
-Volgar       -  Leningradec
-Veles        -  Sibir
-Masuk-CMW    -  Irtys
-Textilscik   -  Torpedo Mi
-Kaluga       -  Rodina-2
-
-Round 8 [Apr 12]
-Sibir        -  Masuk-CMW
-Irtys        -  Kaluga
-Rodina-2     -  Volgar
-Torpedo Mi   -  Veles
-Leningradec  -  Textilscik
-
-Round 9 [Apr 19]
-Volgar       -  Irtys
-Torpedo Mi   -  Leningradec
-Kaluga       -  Sibir
-Veles        -  Masuk-CMW
-Textilscik   -  Rodina-2
-
-Round 10 [Apr 26]
-Irtys        -  Torpedo Mi
-Rodina-2     -  Leningradec
-Sibir        -  Textilscik
-Kaluga       -  Veles
-Masuk-CMW    -  Volgar
-
-Round 11 [May 3]
-Veles        -  Rodina-2
-Textilscik   -  Masuk-CMW
-Kaluga       -  Volgar
-Torpedo Mi   -  Sibir
-Leningradec  -  Irtys
+1.Timúr Melekéscev (Textíĺščik)             14
+2.Denís Pokotýlo (Sibíŕ)                     8
+3.Maxím Bačínskij (Leningrádec)              7
+  Bilál Š. Bilálov (Sibíŕ/Irtýš)             7
+  Artjóm Kulíšev (Leningrádec)               7
+  Alexándr Šúbin (Véles)                     7
+  Zahár Tarasénko (Véles)                    7
+  Artémij Ukómskij (Dinámo Kir/Leningrádec)  7
+9.Muslím Bammatgeréjev (Textíĺščik)          6
+  Iván Matjušénko (Kalúga)                   6
 
 Round 12 [May 10]
 Volgar       -  Veles
@@ -5518,20 +6225,70 @@ Dinamo Kir  4-0  Kuban
 Dinamo Sta  1-2  Dinamo Vla
   [Rinát Garájev 61 - Iĺjá Júrčenko 6 pen; Dmítrij Kanájev 64. Att: 220]
 
+Round 8 [Apr 11. Total Att: 3,082; Average: 616]
+Alanija     0-0  Dinamo Kir
+  [Att: 253]
+Dinamo-2 M  2-2  Dinamo Sta
+  [Daníla Popkóv 68; Vladímir S. Ivanóv 78 - Mihaíl Gajnóv 50; Artjóm Karasjóv 89. Att: 278]
+Dinamo Vla  4-0  Dinamo Brj
+  [Dmítrij Búrkin 3; Iĺjá Júrčenko 14, 43; Iĺjá Švedjúk 87. Att: 607]
+Kuban       0-0  Amcar
+  [Att: 625]
+Tjumen      1-1  Zenit-2
+  [Iván Pjátkin 62 - Kiríll A. Kósarev 10. Att: 1,319]
+
+Round 9 [Apr 18. Total Att: 9,669; Average: 1,934]
+Amcar       3-2  Alanija
+  [Mihaíl Suhorúčenko 10; Lev Tolkačóv 37; Álex Macukátov 88 -
+   Maháč Abdulhamídov 77; Alán Bagájev 90+2. Att: 3,495]
+Dinamo Brj  1-0  Dinamo-2 M
+  [Artjóm R. Medvédev 71. Att: 3,525]
+Dinamo Kir  0-0  Dinamo Vla
+  [Missed PK: Matvéj Martinkévić (DK) 10/held. Att: 703]
+Tjumen      2-1  Kuban
+  [Kiríll Bojárskih 26; Vladlén Babájev 39 pen - Daníla Smirnóv 80. Att: 1,187]
+Zenit-2     3-1  Dinamo Sta
+  [Kiríll A. Kósarev 15, 85 pen; Andréj Kasadžíkov 29 - Vladisláv Rymáŕ 65. Att: 759]
+
+Round 10 [Apr 25. Total Att: 7,481; Average: 1,496]
+Alanija     0-2  Kuban
+  [Gleb Báharev 37; Mihaíl Agéjev 90 pen. Missed PK: Mihaíl Jákovlev (Kub) 26/held. Att: 142]
+Amcar       4-0  Dinamo-2 M
+  [Jevgénij Tjukálov 21, 78; Alexándr Dolgóv 64; Emíĺ Galljámov 84. Att: 2,983]
+Dinamo Brj  2-0  Zenit-2
+  [Lev Alím 21; Daniíl Konopljóv 57 pen. Att: 3,017]
+Dinamo Kir  1-0  Dinamo Sta
+  [Jevgénij Pésikov 52. Att: 658]
+Dinamo Vla  1-0  Tjumen
+  [Dmítrij Kanájev 47. Att: 681]
+
+Round 11 [May 2. Total Att: 5,869; Average: 1,467]
+Zenit-2     4-0  Alanija
+  [Kiríll A. Kósarev 8 pen, 56 pen; Andréj Kasadžíkov 41; Konstantín Vóinkov 90+3. Att: 1,003]
+Amcar       1-2  Dinamo Sta
+  [Maxím Nóvikov 23 pen - Jarosláv Syčóv 69; Dmítrij Kratkóv 90+5. Att: 3,297]
+Dinamo Kir  1-0  Dinamo Brj
+  [Nikoláj Kamájev 66. Att: 22]
+Tjumen      7-2  Dinamo-2 M
+  [Vitálij Šítov 11; Vladlén Babájev 20, 50; Daniíl Kamlášev 36, 77; Stepán Láskin (Din) 54 og;
+   Mihaíl Petróv 65 - Maxím Nikíforov 45; Gleb Mirošničénko 53. Att: 1,547]
+Dinamo Vla  3-0  Kuban
+  [Technical result]
+
 Table:
 
- 1.Alánija (Vladikavkáz)       7   6  1  0  13- 3  19  [r]
- 2.Dinámo-2 (Moskvá)           7   4  2  1  15-11  14  [r]
- 3.Dinámo (Brjansk)            7   3  2  2   6- 8  11  [P] [1-1 away]
- 4.Amcár (Perḿ)                7   3  2  2  15-12  11  [P] [1-1 home]
+ 1.Alánija (Vladikavkáz)      11   6  2  3  15-12  20  [r]
+ 2.Amcár (Perḿ)               11   5  3  3  23-16  18  [P] [4-1]
+ 3.Dinámo (Kírov)             11   4  6  1  15-10  18  [r] [1-4]
+ 4.Dinámo (Vladivostók)       11   4  5  2  16-10  17      [4-0]
 -----------------------------------------------------
- 5.Dinámo (Kírov)              7   2  4  1  13-10  10  [r]
- 6.FC Tjuméń                   7   2  2  3   9- 8   8  [r]
- 7.Dinámo (Vladivostók)        7   1  4  2   8-10   7
- 8.Zenít-2 (Sankt-Peterbúrg)   7   1  2  4  12-16   5  [P] [0-0]
+ 5.Dinámo (Brjansk)           11   5  2  4   9-13  17  [P] [0-4]
+ 6.FC Tjuméń                  11   4  3  4  19-13  15  [r] [7-2, 1-2]
+ 7.Dinámo-2 (Moskvá)          11   4  3  4  19-25  15  [r] [2-1, 2-7]
+ 8.Zenít-2 (Sankt-Peterbúrg)  11   3  3  5  20-20  12  [P]
 - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.Kubáń (Krasnodár)           7   1  2  4   6-12   5      [0-0]
-10.Dinámo (Stávropoĺ)          7   1  1  5   5-12   4  [P]
+ 9.Kubáń (Krasnodár)          11   2  3  6   9-17   9
+10.Dinámo (Stávropoĺ)         11   2  2  7  10-19   8  [P]
 
 Alánija play home matches in Gróznyj (115 km north-east of Vladikavkáz).
 Dinámo-2 (Moskvá) play home matches in the satellite city of Hímki.
@@ -5539,44 +6296,16 @@ Dinámo (Stávropoĺ) play home matches in Jessentukí (185 km south-east of St�
 
 Top scorers:
 
-1.Maháč Abdulhamídov (Alánija)     4
-  Ruslán Bólov (Tjuméń)            4
-  Tarás Gaglójev (Alánija)         4
-  Artjóm Kótik (Amcár)             4
-  Jevgénij Tjukálov (Amcár)        4
-6.Dmítrij Búrkin (Dinámo Vlad)     3
-  Kiríll Burýkin (Dinámo Kir)      3
-  Iĺjá Júrčenko (Dinámo Vlad)      3
-  Matvéj Martinkévić (Dinámo Kir)  3  [Russia/Serbia]
-  Maxím Nikíforov (Dinámo-2 Mos)   3
-
-Round 8 [Apr 11]
-Dinamo-2 M  -  Dinamo Sta
-Kuban       -  Amcar
-Dinamo Vla  -  Dinamo Brj
-Tjumen      -  Zenit-2
-Alanija     -  Dinamo Kir
-
-Round 9 [Apr 18]
-Zenit-2     -  Dinamo Sta
-Dinamo Brj  -  Dinamo-2 M
-Amcar       -  Alanija
-Tjumen      -  Kuban
-Dinamo Kir  -  Dinamo Vla
-
-Round 10 [Apr 25]
-Dinamo Vla  -  Tjumen
-Alanija     -  Kuban
-Dinamo Kir  -  Dinamo Sta
-Amcar       -  Dinamo-2 M
-Dinamo Brj  -  Zenit-2
-
-Round 11 [May 2]
-Tjumen      -  Dinamo-2 M
-Zenit-2     -  Alanija
-Dinamo Vla  -  Kuban
-Amcar       -  Dinamo Sta
-Dinamo Kir  -  Dinamo Brj
+1.Kiríll A. Kósarev (Zenít-2 SP)  7
+2.Jevgénij Tjukálov (Amcár)       6
+3.Maháč Abdulhamídov (Alánija)    5
+  Iĺjá Júrčenko (Dinámo Vlad)     5
+5.Vladlén Babájev (Tjuméń)        4
+  Ruslán Bólov (Tjuméń)           4
+  Dmítrij Búrkin (Dinámo Vlad)    4
+  Tarás Gaglójev (Alánija)        4
+  Artjóm Kótik (Amcár)            4
+  Maxím Nikíforov (Dinámo-2 Mos)  4
 
 Round 12 [May 10]
 Dinamo Brj  -  Amcar

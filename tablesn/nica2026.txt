@@ -2,7 +2,7 @@
      title:   Nicaragua 2025/26
      source:  https://rsssf.org/tablesn/nica2026.html
      author:  Karel Stokkermans
-     updated: 23 Dec 2025    
+     updated: 7 May 2026
     -->
 
 
@@ -14,11 +14,9 @@
 
 ==== Liga Nicaragüense de Fútbol  ‹§primera›
 
-‹Apertura, see §1aper› | ‹Clausura, see §1clau›
 
-Torneo Apertura  ‹§1aper›
+===== Torneo Apertura  ‹§1aper›
 
-‹Regular Stage, see §1aperreg› | ‹Final Stage, see §1aperfinal›
 
 Regular Stage  ‹§1aperreg›
 
@@ -248,12 +246,226 @@ Managua FC      0-0 Diriangén
 Second Leg [Dec 20]
 Diriangén       1-0 Managua FC
 
-Torneo Clausura  ‹§1clau›
+===== Torneo Clausura  ‹§1clau›
 
-‹Regular Stage, see §1claureg› | ‹Final Stage, see §1claufinal›
 
 Regular Stage  ‹§1claureg›
 
+Final Table:
+
+ 1.Diriangén FC (Diriamba)             18  12  3  3  40-19  39  ‹Qualified, see §1claufinal›
+ 2.Real Estelí FC (Estelí)             18  11  4  3  41-19  37  ‹Qualified, see §1claufinal›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.ART Jalapa                          18   9  6  3  29-16  33  ‹Qualified, see §1claufinal›
+ 4.Managua FC                          18   8  5  5  22-18  29  ‹Qualified, see §1claufinal›
+ 5.Indígenas de Matagalpa FC           18   5  7  6  30-24  22  ‹Qualified, see §1claufinal›
+ 6.Deportivo Walter Ferretti (Managua) 18   5  6  7  18-28  21  ‹Qualified, see §1claufinal›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.CS Sébaco FC                        18   6  2 10  23-24  20
+ 8.UNAN Managua                        18   4  4 10  21-34  16
+ 9.Rancho Santana FC                   18   4  4 10  20-43  16
+10.Real Madriz FC                      18   4  3 11  14-33  15
+
+Round 1
+[Jan 17]
+Jalapa          2-0 Managua FC
+Real Madriz     0-3 Real Estelí
+[Jan 18]
+Sébaco          0-1 Matagalpa
+UNAN Managua    0-0 Walter Ferretti
+[Jan 21]
+Rancho Santana  0-4 Diriangén
+
+Round 2
+[Jan 24]
+Matagalpa       0-2 Rancho Santana
+Diriangén       2-1 Jalapa
+Real Estelí     6-3 UNAN Managua
+[Jan 25]
+Walter Ferretti 1-0 Real Madriz
+Managua FC      1-0 Sébaco
+
+Round 3
+[Jan 31]
+Diriangén       3-1 UNAN Managua
+Sébaco          1-0 Walter Ferretti
+Real Madriz     1-1 Matagalpa
+[Feb 1]
+Rancho Santana  1-1 Managua FC
+Jalapa          2-2 Real Estelí
+
+Round 4
+[Feb 3]
+Diriangén       3-1 Walter Ferretti
+[Feb 4]
+Matagalpa       0-0 UNAN Managua
+Managua FC      2-0 Real Madriz
+Real Estelí     0-1 Rancho Santana
+[Feb 5]
+Sébaco          0-0 Jalapa
+
+Round 5
+[Feb 7]
+Diriangén       1-1 Matagalpa
+Managua FC      0-2 Real Estelí
+[Feb 8]
+Rancho Santana  2-2 Walter Ferretti
+Real Madriz     1-0 Sébaco
+Jalapa          0-0 UNAN Managua
+
+Round 6
+[Feb 11]
+Matagalpa       1-3 Jalapa
+UNAN Managua    3-0 Real Madriz
+Real Estelí     1-1 Diriangén
+[Feb 12]
+Sébaco          3-1 Rancho Santana
+Walter Ferretti 1-0 Managua FC
+
+Round 7
+[Feb 14]
+Real Madriz     0-3 Jalapa
+[Feb 15]
+Rancho Santana  1-3 UNAN Managua
+Walter Ferretti 0-4 Real Estelí
+Diriangén       0-1 Sébaco
+Managua FC      1-1 Matagalpa
+
+Round 8
+[Feb 18]
+Jalapa          2-0 Rancho Santana
+Walter Ferretti 0-3 Matagalpa
+Real Estelí     3-2 Sébaco
+[Feb 19]
+Real Madriz     0-1 Diriangén
+UNAN Managua    3-1 Managua FC
+
+Round 9
+[Feb 21]
+Walter Ferretti 0-0 Jalapa
+[Feb 22]
+Diriangén       1-1 Managua FC
+Sébaco          4-1 UNAN Managua
+Matagalpa       1-1 Real Estelí
+[Feb 23]
+Rancho Santana  3-3 Real Madriz
+
+Round 10
+[Feb 25]
+Managua FC      1-0 Jalapa
+Matagalpa       2-1 Sébaco
+[Feb 26]
+Diriangén       5-1 Rancho Santana
+Real Estelí     3-0 Real Madriz
+Walter Ferretti 2-0 UNAN Managua
+
+Round 11
+[Feb 28]
+Sébaco          0-2 Managua FC
+[Mar 1]
+Jalapa          2-1 Diriangén
+Rancho Santana  2-8 Matagalpa
+Real Madriz     1-0 Walter Ferretti
+UNAN Managua    0-3 Real Estelí
+
+Round 12
+[Mar 4]
+Walter Ferretti 3-1 Sébaco
+Matagalpa       2-4 Real Madriz
+UNAN Managua    1-2 Diriangén
+[Mar 5]
+Managua FC      1-0 Rancho Santana
+Real Estelí     2-1 Jalapa
+
+Round 13
+[Mar 7]
+UNAN Managua    2-1 Matagalpa
+Walter Ferretti 2-5 Diriangén
+[Mar 8]
+Jalapa          1-0 Sébaco
+Real Madriz     1-2 Managua FC
+Rancho Santana  0-4 Real Estelí
+
+Round 14
+[Apr 8]
+UNAN Managua    2-4 Jalapa
+Matagalpa       2-3 Diriangén
+Real Estelí     2-1 Managua FC
+[Apr 9]
+Sébaco          2-2 Real Madriz
+Walter Ferretti 0-0 Rancho Santana
+
+Round 15
+[Apr 11]
+Jalapa          1-1 Matagalpa
+Diriangén       1-0 Real Estelí
+[Apr 12]
+Rancho Santana  0-3 Sébaco
+Real Madriz     1-0 UNAN Managua
+Managua FC      1-1 Walter Ferretti
+
+Round 16
+[Apr 15]
+UNAN Managua    0-2 Rancho Santana
+Matagalpa       1-2 Managua FC
+Real Estelí     2-4 Walter Ferretti
+[Apr 16]
+Sébaco          0-2 Diriangén
+Jalapa          2-0 Real Madriz
+
+Round 17
+[Apr 18]
+Matagalpa       4-0 Walter Ferretti
+Managua FC      1-1 UNAN Managua
+[Apr 19]
+Rancho Santana  3-4 Jalapa
+Diriangén       4-0 Real Madriz
+Sébaco          2-3 Real Estelí
+
+Round 18 [Apr 25]
+Jalapa          1-1 Walter Ferretti
+Real Madriz     0-1 Rancho Santana
+UNAN Managua    1-3 Sébaco
+Real Estelí     0-0 Matagalpa
+Managua FC      4-1 Diriangén
+
+Final Table:
+
+ 1.Diriangén FC (Diriamba)             18  12  3  3  40-19  39  ‹Qualified, see §1claufinal›
+ 2.Real Estelí FC (Estelí)             18  11  4  3  41-19  37  ‹Qualified, see §1claufinal›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.ART Jalapa                          18   9  6  3  29-16  33  ‹Qualified, see §1claufinal›
+ 4.Managua FC                          18   8  5  5  22-18  29  ‹Qualified, see §1claufinal›
+ 5.Indígenas de Matagalpa FC           18   5  7  6  30-24  22  ‹Qualified, see §1claufinal›
+ 6.Deportivo Walter Ferretti (Managua) 18   5  6  7  18-28  21  ‹Qualified, see §1claufinal›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.CS Sébaco FC                        18   6  2 10  23-24  20
+ 8.UNAN Managua                        18   4  4 10  21-34  16
+ 9.Rancho Santana FC                   18   4  4 10  20-43  16
+10.Real Madriz FC                      18   4  3 11  14-33  15
+
 Final Stage  ‹§1claufinal›
+
+Repechaje [Apr 29]
+Jalapa          3-0 Walter Ferretti
+Managua FC      2-4 Matagalpa
+
+Semifinals
+
+First Legs [May 2]
+Jalapa          0-0 Real Estelí
+Matagalpa       0-1 Diriangén
+
+Second Legs [May 6]
+Diriangén       3-1 Matagalpa
+Real Estelí     3-1 Jalapa
+
+Final
+
+First Leg
+Real Estelí      -  Diriangén
+
+Second Leg
+Diriangén        -  Real Estelí
 
 

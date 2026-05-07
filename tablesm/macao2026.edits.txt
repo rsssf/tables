@@ -1,3 +1,7 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1po">Playoff Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="1champ">Championship Playoff</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="1rel">Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹1a Divisão, see §primeira›
@@ -11,3 +15,9 @@
 
 ‹list of cup winners, see page macaocuphist›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §1reg› | ‹Playoff Stage, see §1po›
+
+-- removing 1 leading nav line(s) in section 5:
+‹Championship Playoff, see §1champ› | ‹Relegation Playoff, see §1rel›

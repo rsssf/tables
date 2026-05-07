@@ -2,7 +2,7 @@
      title:   Georgia 2026
      source:  https://rsssf.org/tablesg/geor2026.html
      author:  Theodore Dreiman
-     updated: 7 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -16,30 +16,36 @@
 
 Table:
 
- 1.Spaeri (Tbilisi)        5   3  0  2  11- 8   9  [P]
- 2.Samgurali (Cqaltubo)    5   2  2  1   5- 6   8
- 3.Iberia 1999 (Tbilisi)   4   2  1  1   3- 2   7  [C]
- 4.Dinamo (Batumi)         4   1  3  0   6- 3   6
- 5.Torpedo (Kutaisi)       5   2  0  3   5- 4   6
- 6.Dila (Gori)             4   2  0  2   3- 3   6
- 7.Dinamo (Tbilisi)        4   1  2  1   3- 3   5
+ 1.Iberia 1999 (Tbilisi)  10   6  2  2  17- 8  20  [C]
+ 2.FC Rustavi             10   5  3  2  12- 7  18  [P]
+ 3.Dila (Gori)            10   5  1  4   8- 7  16
+ 4.Torpedo (Kutaisi)      10   4  3  3  17- 8  15
+ 5.Dinamo (Tbilisi)       10   2  6  2  10-10  12      [2-1]
+ 6.Spaeri (Tbilisi)       10   3  3  4  13-13  12  [P] [1-2]
+ 7.Samgurali (Cqaltubo)   10   3  2  5  10-17  11
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 8.Meshaxte (Tqibuli)      4   1  2  1   1- 3   5  [P]
- 9.Gagra GU (Tbilisi)      5   1  1  3   4- 8   4      [2-1]
+ 8.Meshaxte (Tqibuli)     10   1  7  2   6-11  10  [P] [1-1 away]
+ 9.Gagra GU (Tbilisi)     10   2  4  4   9-14  10      [1-1 home]
 -------------------------------------------------
-10.FC Rustavi              4   1  1  2   3- 4   4  [P] [1-2]
+10.Dinamo (Batumi)        10   1  5  4  10-17   8
+
+Meshaxte play home games in Cqaltubo (50 km west of Tqibuli).
+FC Rustavi play home games in Tbilisi (40 km north of Rustavi).
 
 Round 1
 [Feb 28]
 Torpedo      1-2  Spaeri
-  [Giorgi Koxreidze I 1 - Giga Samxaradze 60 pen; Lasha Koxreidze 89]
+  [Giorgi Koxreidze 1 - Giga Samxaradze 60 pen; Lasha Koxreidze 89]
 [Mar 2]
 Gagra GU     0-1  Samgurali
   [Cláudio "Cebolinha" Santos 43]
 [Apr 11]
-Iberia 1999  -  Meshaxte
-Dila         -  Rustavi
-Dinamo Tb    -  Dinamo Bt
+Iberia 1999  2-2  Meshaxte
+  [Giorgi Jinjolava 43 pen; Amiran Dzagania 55 - Irakli Sixarulidze 65; Eric Pimentel 90+4]
+Dila         1-2  Rustavi
+  [Tray Fuller 84 - Solomon Kessi 21; Vazha Phacacia 58 pen]
+Dinamo Tb    2-2  Dinamo Bt
+  [Halid Doltmurziev 10; Rui Monteiro 73 - Revaz Chiteishvili 3; Tornike Kirkitadze 35]
 
 Round 2
 [Mar 6]
@@ -96,96 +102,139 @@ Samgurali    2-1  Rustavi
 Gagra GU     1-2  Iberia 1999
   [Davit Mujiri 45+1 - Bakar Kardava 9; Guram Goshteliani 69]
 
+Round 6 [Apr 7]
+Meshaxte     0-0  Spaeri
+Iberia 1999  2-1  Samgurali
+  [Guram Goshteliani 8; Lucas Café 37 - Lasha Kvaracxelia 80]
+Rustavi      3-0  Dinamo Bt
+  [Irakli Iakobidze 61; Jean de Almeida 64; Avtandil Gujabidze 90]
+Torpedo      0-0  Dinamo Tb
+Dila         1-1  Gagra GU
+  [Otar Pharulava 10 - Vladimir Arsić 22]
+
+Round 7
+[Apr 17]
+Samgurali    0-1  Dila
+  [Mamin Sanyang 87]
+Gagra GU     2-2  Torpedo
+  [Andrij Andrejčuk 45+1; Illja Skrypnyk 58 - Vladimer Mamuchashvili 5;
+   Felipe Pires 76. Missed PK: Felipe Pires (Tor) 76]
+Dinamo Tb    1-1  Meshaxte
+  [Nana-Kofi Donkor 28 - Cotne Phacacia 32]
+[Apr 18]
+Dinamo Bt    0-3  Iberia 1999
+  [Paata Ghudushauri 10; Giorgi Jinjolava 58 pen; Amiran Dzagania 65]
+Spaeri       1-1  Rustavi
+  [Nikoloz Kenchadze 51 - Prince Osei 13]
+
+Round 8
+[Apr 21]
+Torpedo      6-1  Samgurali
+  [Komnen Andrić 8, 55; Giorgi Arabidze 45+1; Aleko Basiladze 47;
+   Mohamed Cherif 80; Vladimer Mamuchashvili 87 - Giorgi Gogolashvili 84]
+Dinamo Tb    0-1  Gagra GU
+  [Luka Kekelidze 52]
+[Apr 22]
+Spaeri       0-2  Iberia 1999
+  [Giorgi Kucia 9; Amiran Dzagania 17]
+Meshaxte     0-0  Rustavi
+Dila         1-0  Dinamo Bt
+  [Lasha Menteshashvili 17 pen]
+
+Round 9
+[Apr 25]
+Samgurali    1-2  Dinamo Tb
+  [Ryan Vieira 82 - Mate Vacadze 33 pen, 62]
+[Apr 26]
+Rustavi      2-1  Iberia 1999
+  [Avtandil Gujabidze 15; Irakli Iakobidze 90+1 - Amiran Dzagania 21]
+Spaeri       0-1  Dila
+  [Mohamed K. Kanté 87]
+[Apr 27]
+Dinamo Bt    0-3  Torpedo
+  [Diego Deisadze 44; Matej Šimić 56; Vladimer Mamuchashvili 65]
+Gagra GU     1-1  Meshaxte
+  [Illja Skrypnyk 42 - Cotne Phacacia 24]
+
+Round 10
+[May 1]
+Rustavi      1-0  Dila
+  [Irakli Iakobidze 90+2]
+Spaeri       1-1  Torpedo
+  [Lasha Koxreidze 6 - Aleko Basiladze 75]
+[May 2]
+Meshaxte     1-4  Iberia 1999
+  [Irakli Sixarulidze 20 - Vaxo Bedoshvili 10, 75, 79; Paata Ghudushauri 42]
+Dinamo Bt    2-2  Dinamo Tb
+  [Artem Myĺčenko 2; Nika Kalandarishvili 45 pen - Aleksandre Kalandadze 22; Rodrigo Ramos 47]
+Samgurali    2-0  Gagra GU
+  [Irakli Janjghava 16; Cláudio "Cebolinha" Santos 24]
+
 Table:
 
- 1.Spaeri (Tbilisi)        5   3  0  2  11- 8   9  [P]
- 2.Samgurali (Cqaltubo)    5   2  2  1   5- 6   8
- 3.Iberia 1999 (Tbilisi)   4   2  1  1   3- 2   7  [C]
- 4.Dinamo (Batumi)         4   1  3  0   6- 3   6
- 5.Torpedo (Kutaisi)       5   2  0  3   5- 4   6
- 6.Dila (Gori)             4   2  0  2   3- 3   6
- 7.Dinamo (Tbilisi)        4   1  2  1   3- 3   5
+ 1.Iberia 1999 (Tbilisi)  10   6  2  2  17- 8  20  [C]
+ 2.FC Rustavi             10   5  3  2  12- 7  18  [P]
+ 3.Dila (Gori)            10   5  1  4   8- 7  16
+ 4.Torpedo (Kutaisi)      10   4  3  3  17- 8  15
+ 5.Dinamo (Tbilisi)       10   2  6  2  10-10  12      [2-1]
+ 6.Spaeri (Tbilisi)       10   3  3  4  13-13  12  [P] [1-2]
+ 7.Samgurali (Cqaltubo)   10   3  2  5  10-17  11
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 8.Meshaxte (Tqibuli)      4   1  2  1   1- 3   5  [P]
- 9.Gagra GU (Tbilisi)      5   1  1  3   4- 8   4      [2-1]
+ 8.Meshaxte (Tqibuli)     10   1  7  2   6-11  10  [P] [1-1 away]
+ 9.Gagra GU (Tbilisi)     10   2  4  4   9-14  10      [1-1 home]
 -------------------------------------------------
-10.FC Rustavi              4   1  1  2   3- 4   4  [P] [1-2]
+10.Dinamo (Batumi)        10   1  5  4  10-17   8
+
+Meshaxte play home games in Cqaltubo (50 km west of Tqibuli).
+FC Rustavi play home games in Tbilisi (40 km north of Rustavi).
 
 Top scorers:
 
-1.JEAN Souza de Almeida (Rustavi)    3  [Brazil]
-2.Nika KALANDARISHVILI (Dinamo Bt)   2
-  Lasha KOXREIDZE (Spaeri)           2
-  Dumitru MANDRÎCENCO (Dinamo Bt)    2  [Moldova/Ukraine]
-  Lasha MENTESHASHVILI (Dila)        2
-  Davit MUJIRI (Gagra GU)            2
-  Giga SAMXARADZE (Spaeri)           2
-  WELLISSOL de Oliveira (Samgurali)  2  [Brazil]
+1.Amiran DZAGANIA (Iberia 1999)     4
+  JEAN Souza de Almeida (Rustavi)   4  [Brazil]
+3.Vaxo BEDOSHVILI (Iberia 1999)     3
+  Irakli IAKOBIDZE (Rustavi)        3
+  Giorgi JINJOLAVA (Iberia 1999)    3
+  Nika KALANDARISHVILI (Dinamo Bt)  3
+  Lasha KOXREIDZE (Spaeri)          3
+  Vladimer MAMUCHASHVILI (Torpedo)  3
+  Lasha MENTESHASHVILI (Dila)       3
+  Irakli SIXARULIDZE (Meshaxte)     3
 
-Round 6 [Apr 3]
-Meshaxte     -  Spaeri
-Rustavi      -  Dinamo Bt
-Iberia 1999  -  Samgurali
-Dila         -  Gagra GU
-Torpedo      -  Dinamo Tb
-
-Round 7 [Apr 7]
-Dinamo Tb    -  Meshaxte
-Samgurali    -  Dila
-Dinamo Bt    -  Iberia 1999
-Gagra GU     -  Torpedo
-Spaeri       -  Rustavi
-
-Round 8 [Apr 18]
-Dila         -  Dinamo Bt
-Meshaxte     -  Rustavi
-Torpedo      -  Samgurali
-Iberia 1999  -  Spaeri
-Dinamo Tb    -  Gagra GU
-
-Round 9 [Apr 22]
-Spaeri       -  Dila
-Samgurali    -  Dinamo Tb
-Rustavi      -  Iberia 1999
-Dinamo Bt    -  Torpedo
-Gagra GU     -  Meshaxte
-
-Round 10 [Apr 25]
-Dinamo Bt    -  Dinamo Tb
-Rustavi      -  Dila
-Samgurali    -  Gagra GU
-Spaeri       -  Torpedo
-Meshaxte     -  Iberia 1999
-
-Round 11 [May 2]
+Round 11
+[May 5]
 Torpedo      -  Rustavi
+[May 6]
 Gagra GU     -  Dinamo Bt
 Dila         -  Iberia 1999
-Dinamo Tb    -  Spaeri
 Samgurali    -  Meshaxte
+[May 7]
+Dinamo Tb    -  Spaeri
 
-Round 12 [May 9]
+Round 12
+[May 10]
 Dinamo Bt    -  Samgurali
-Rustavi      -  Dinamo Tb
 Meshaxte     -  Dila
-Spaeri       -  Gagra GU
 Iberia 1999  -  Torpedo
+[May 11]
+Rustavi      -  Dinamo Tb
+Spaeri       -  Gagra GU
 
-Round 13 [May 13]
+Round 13 [May 16]
 Torpedo      -  Dila
 Gagra GU     -  Rustavi
 Dinamo Bt    -  Meshaxte
 Dinamo Tb    -  Iberia 1999
 Samgurali    -  Spaeri
 
-Round 14 [May 17]
+Round 14 [May 20]
 Iberia 1999  -  Gagra GU
 Meshaxte     -  Torpedo
 Spaeri       -  Dinamo Bt
 Dila         -  Dinamo Tb
 Rustavi      -  Samgurali
 
-Round 15 [May 23]
+Round 15 [May 24]
 Dinamo Bt    -  Rustavi
 Gagra GU     -  Dila
 Samgurali    -  Iberia 1999
@@ -344,25 +393,57 @@ Dinamo Tb    -  Samgurali
 
 
 
+==== Davit Qipiani Tasi  ‹§kipiani›
+
+Preliminary Round
+
+[Apr 11]
+FC GARDABANI-2        2-0  FC Kareli
+[Apr 16]
+FC RUSTAVI-2          2-1  Machaxela (Batumi)
+FC Gori-2             2-3  FC DMANISI             [aet]
+Liaxvi (Achabeti)     1-3  ZOOVETI (Tbilisi)
+[Apr 17]
+ORBI-2 (Tbilisi)      3-0  FC Zestaphoni
+MESHAXTE-2 (Tqibuli)  2-1  Cxumi (Soxumi)
+[Apr 23]
+DINAMO (Soxumi)       3-0  Merani-2 (Tbilisi)
+IMERETI (Xoni)        4-0  Magharoeli (Chiatura)
+[Apr 25]
+ODISHI-2 (Zugdidi)    7-0  Sapovnela (Terjola)
+ABULI (Axalkalaki)    5-1  FC Tbilisi-2
+[Apr 26]
+BASA (Tbilisi)        2-1  Spaeri-2 (Tbilisi)
+FC JVARI              3-1  Zana (Abasha)
+Sulori (Vani)         0-1  TORPEDO-2 (Kutaisi)
+Dinamo-2 (Batumi)     1-3  WEST GEORGIA (Batumi)
+Nor.Dinamo (Tbilisi)  1-7  SAMCXE (Axalcixe)
+UG 35 (Tbilisi)       3-4  ARAGVI-2 (Dusheti)     [aet]
+
+
+
+
+
 ==== Crystalbet Erovnuli Liga 2  ‹§erovnuli2›
 
 Table:
 
- 1.Merani (Martvili)        5   2  2  1   6- 4   8
+ 1.Gareji 1960 (Sagarejo)  10   6  3  1  11- 5  21  [R]
 --------------------------------------------------
- 2.Odishi 1919 (Zugdidi)    4   2  1  1   7- 6   7  [P]
- 3.Shturmi (Sartichala)     5   1  4  0   5- 4   7  [P]
+ 2.Merani (Martvili)       10   5  3  2  17-12  18
+ 3.Shturmi (Sartichala)    10   4  5  1  11- 7  17  [P]
 - - - - - - - - - - - - - - - - - - - - - - - - --
- 4.Gareji 1960 (Sagarejo)   4   2  1  1   3- 2   7  [R]
- 5.Sioni (Bolnisi)          4   1  3  0   6- 3   6
- 6.Aragvi (Dusheti)         4   2  0  2   4- 5   6  [P]
+ 4.Aragvi (Dusheti)        10   4  2  4  10-12  14  [P]
+ 5.Odishi 1919 (Zugdidi)   10   3  4  3  13-12  13  [P] [3-1]
+ 6.FC Telavi               10   3  4  3   9-11  13  [R] [1-3]
 - - - - - - - - - - - - - - - - - - - - - - - - --
- 7.FC Telavi                4   1  2  1   2- 4   5  [R]
- 8.FC Samtredia             4   1  1  2   7- 7   4
+ 7.FC Samtredia            10   3  1  6  13-19  10      [2 0 1 5-5 6]
+ 8.Sioni (Bolnisi)         10   2  4  4  12-11  10      [1 0 2 4-3 3]
 --------------------------------------------------
- 9.Kolxeti 1913 (Photi)     5   1  1  3   5- 7   4  [R]
-10.FC Gori                  5   0  3  2   2- 5   3  [P]
+ 9.Kolxeti 1913 (Photi)    10   3  1  6  13-14  10  [R] [1 0 1 2-3 3]
+10.FC Gori                 10   1  5  4   5-11   8  [P]
 
+Aragvi play home games in Tbilisi (60 km south of Dusheti).
 Sioni play home games in Marneuli (27 km east of Bolnisi).
 
 Round 1
@@ -372,9 +453,12 @@ Kolxeti Pht  1-1  Shturmi
 Merani Mart  2-0  Gori
   [Zviad Sixarulia 54; Bakar Laghadze 90+5]
 [Apr 11]
-Telavi       -  Aragvi
-Gareji 1960  -  Odishi 1919
-Sioni        -  Samtredia
+Gareji 1960  1-1  Odishi 1919
+  [Tamaz Babunadze 75 - Misha Mushkudiani 40]
+Telavi       1-0  Aragvi
+  [Jaduli Iobashvili 79 pen. Tbilisi]
+Sioni        3-0  Samtredia
+  [Adam Huskić 27, 58; Sergo Kuxianidze 37]
 
 Round 2 [Mar 7]
 Shturmi      0-0  Merani Mart
@@ -423,68 +507,99 @@ Kolxeti Pht  3-1  Aragvi
 Sioni        3-0  Telavi
   [Sergo Kuxianidze 59, 68; Luka Gegeshidze 82]
 
+Round 6 [Apr 7]
+Kolxeti Pht  5-1  Merani Mart
+  [Davit Phaghava 38; Graham Metuk 40, 82; Nika Kapanadze II 45+1;
+   Sandro Avaliani 62 - Giorgi Ugrexelidze 64]
+Odishi 1919  0-0  Gori
+  [Ganmuxuri]
+Aragvi       0-2  Shturmi
+  [Irakli Lekvtadze 1; Giorgi Omarashvili 18]
+Gareji 1960  2-0  Sioni
+  [Beka Gugberidze 42 pen; Nikoloz Choxeli 85]
+Telavi       2-0  Samtredia
+  [Giorgi Nikabadze 5; Tato Zhividze 46. Tbilisi]
+
+Round 7
+[Apr 17]
+Gori         1-1  Telavi
+  [Akaki Sirbiladze 71 - Aleko Ananidze 90+5]
+[Apr 18]
+Samtredia    0-1  Gareji 1960
+  [Nikoloz Ninidze 21]
+Shturmi      1-0  Odishi 1919
+  [Luka Gogitadze 73]
+Sioni        0-1  Kolxeti Pht
+  [Beka Kurdadze (Sio) 21 og]
+Merani Mart  1-1  Aragvi
+  [Javohir Esonqulov 74 pen - Tengiz Bregvadze 55]
+
+Round 8 [Apr 22]
+Gareji 1960  1-0  Gori
+  [Ilia Chikaidze 45+1]
+Telavi       1-1  Shturmi
+  [Bachana Arabuli 75 - Irakli Lekvtadze 65. Missed PK: Jaduli Iobashvili (Tel) 90+5. Tbilisi]
+Kolxeti Pht  1-3  Samtredia
+  [Graham Metuk 10 - Giorgi Gvishiani 54; Giorgi Kveladze 81; Davit Samurkasovi 90+5]
+Merani Mart  2-1  Sioni
+  [Andro Joloxava 45+1; Giorgi Gvasalia II 90+1 - Nodar Tutashvili 62]
+Aragvi       2-1  Odishi 1919
+  [Tornike Bzekalava 57; Baba Nuhu 73 - Otar Kvernadze 50. Marneuli]
+
+Round 9 [Apr 26]
+Shturmi      1-2  Gareji 1960
+  [Luka Gogitadze 18 - Lasha Kalandadze 13; Tamaz Babunadze 72]
+Odishi 1919  3-1  Telavi
+  [Otar Kvernadze 13; Giorgi Axaladze 73; Misha Mushkudiani 86 - Bachana Arabuli 90+4]
+Samtredia    1-4  Merani Mart
+  [Julen Cordero 45 - Javohir Esonqulov 6 pen, 7; Giorgi Ugrexelidze 80; Nika Chumburidze 90+1]
+Gori         2-1  Kolxeti Pht
+  [Akaki Sirbiladze 45+1; Giorgi Alimbarashvili 69 - Luka Elbakidze 22]
+Sioni        1-1  Aragvi
+  [Tornike Mindiashvili 69 - Tengiz Bregvadze 52]
+
+Round 10 [May 2]
+Odishi 1919  1-1  Gareji 1960
+  [Otar Kvernadze 45+1 - Tamaz Babunadze 49 pen]
+Gori         0-3  Merani Mart
+  [Nika Chumburidze 8; Javohir Esonqulov 58, 90+3 pen]
+Shturmi      1-0  Kolxeti Pht
+  [Luka Kemoklidze 85]
+Aragvi       2-1  Telavi
+  [Dennis Amoako 76; Giorgi Ksovreli 89 - Tato Zhividze 9. Marneuli]
+Samtredia    2-1  Sioni
+  [Tamaz Makacaria 15, 90+5 pen - Rezo Gazdeliani 32]
+
 Table:
 
- 1.Merani (Martvili)        5   2  2  1   6- 4   8
+ 1.Gareji 1960 (Sagarejo)  10   6  3  1  11- 5  21  [R]
 --------------------------------------------------
- 2.Odishi 1919 (Zugdidi)    4   2  1  1   7- 6   7  [P]
- 3.Shturmi (Sartichala)     5   1  4  0   5- 4   7  [P]
+ 2.Merani (Martvili)       10   5  3  2  17-12  18
+ 3.Shturmi (Sartichala)    10   4  5  1  11- 7  17  [P]
 - - - - - - - - - - - - - - - - - - - - - - - - --
- 4.Gareji 1960 (Sagarejo)   4   2  1  1   3- 2   7  [R]
- 5.Sioni (Bolnisi)          4   1  3  0   6- 3   6
- 6.Aragvi (Dusheti)         4   2  0  2   4- 5   6  [P]
+ 4.Aragvi (Dusheti)        10   4  2  4  10-12  14  [P]
+ 5.Odishi 1919 (Zugdidi)   10   3  4  3  13-12  13  [P] [3-1]
+ 6.FC Telavi               10   3  4  3   9-11  13  [R] [1-3]
 - - - - - - - - - - - - - - - - - - - - - - - - --
- 7.FC Telavi                4   1  2  1   2- 4   5  [R]
- 8.FC Samtredia             4   1  1  2   7- 7   4
+ 7.FC Samtredia            10   3  1  6  13-19  10      [2 0 1 5-5 6]
+ 8.Sioni (Bolnisi)         10   2  4  4  12-11  10      [1 0 2 4-3 3]
 --------------------------------------------------
- 9.Kolxeti 1913 (Photi)     5   1  1  3   5- 7   4  [R]
-10.FC Gori                  5   0  3  2   2- 5   3  [P]
+ 9.Kolxeti 1913 (Photi)    10   3  1  6  13-14  10  [R] [1 0 1 2-3 3]
+10.FC Gori                 10   1  5  4   5-11   8  [P]
 
+Aragvi play home games in Tbilisi (60 km south of Dusheti).
 Sioni play home games in Marneuli (27 km east of Bolnisi).
 
 Top scorers:
 
-1.Otar Kvernadze (Odishi)      4
-2.Zurab Eradze (Gareji 1960)   2
-  Luka Gogitadze (Shturmi)     2
-  Nika Kapanadze II (Kolxeti)  2
-  Sergo Kuxianidze (Sioni)     2
-  Tamaz Makacaria (Samtredia)  2
-
-Round 6 [Apr 3]
-Aragvi       -  Shturmi
-Gareji 1960  -  Sioni
-Odishi 1919  -  Gori
-Kolxeti Pht  -  Merani Mart
-Telavi       -  Samtredia
-
-Round 7 [Apr 7]
-Merani Mart  -  Aragvi
-Sioni        -  Kolxeti Pht
-Samtredia    -  Gareji 1960
-Gori         -  Telavi
-Shturmi      -  Odishi 1919
-
-Round 8 [Apr 18]
-Gareji 1960  -  Gori
-Aragvi       -  Odishi 1919
-Kolxeti Pht  -  Samtredia
-Telavi       -  Shturmi
-Merani Mart  -  Sioni
-
-Round 9 [Apr 22]
-Gori         -  Kolxeti Pht
-Sioni        -  Aragvi
-Odishi 1919  -  Telavi
-Shturmi      -  Gareji 1960
-Samtredia    -  Merani Mart
-
-Round 10 [Apr 25]
-Shturmi      -  Kolxeti Pht
-Gori         -  Merani Mart
-Odishi 1919  -  Gareji 1960
-Aragvi       -  Telavi
-Samtredia    -  Sioni
+1.Otar Kvernadze (Odishi)       7
+2.Javohir Esonqulov (Merani)    6  [Uzbekistan/Russia]
+3.Luka Gogitadze (Shturmi)      4
+  Tamaz Makacaria (Samtredia)   4
+  Graham Ajebe Metuk (Kolxeti)  4  [Cameroon]
+6.Tamaz Babunadze (Gareji)      3
+  Nika Kapanadze II (Kolxeti)   3
+  Sergo Kuxianidze (Sioni)      3
 
 Round 11 [May 2]
 Merani Mart  -  Shturmi
@@ -677,25 +792,25 @@ Kolxeti Pht  -  Gori
 
 Table:
 
- 1.Gonio (Batumi)               4   3  1  0   5- 1  10  [R]
- 2.Orbi (Tbilisi)               4   3  0  1   7- 2   9
+ 1.Orbi (Tbilisi)               6   5  0  1  14- 4  15
+ 2.FC Tbilisi 2025              5   4  1  0  10- 3  13
 ------------------------------------------------------
- 3.FC Tbilisi 2025              3   3  0  0   6- 1   9
- 4.Guria (Lanchxuti)            3   2  1  0  11- 1   7  [P] [7-0]
+ 3.Gonio (Batumi)               6   4  1  1   7- 3  13  [R]
+ 4.Guria (Lanchxuti)            5   3  2  0  13- 1  11  [P]
 - - - - - - - - - - - - - - - - - - - - - - - - - - --
- 5.Merani (Tbilisi)             4   2  1  1   8- 7   7      [0-7]
- 6.Iberia 1999-2 (Tbilisi)      3   1  2  0   4- 1   5  [R]
- 7.WIT Georgia (Tbilisi)        3   1  2  0   4- 1   5
- 8.Dinamo-2 (Tbilisi)           3   1  2  0   2- 1   5  [R]
- 9.Didube (Tbilisi)             4   1  2  1   4- 4   5
-10.FC Gardabani                 4   1  1  2   3- 5   4
-11.Kolxeti (Xobi)               3   1  0  2   1- 2   3
-12.Iberia 2010 (Tbilisi)        3   0  2  1   2- 4   2  [P]
-13.Iveria (Xashuri)             3   0  1  2   0- 4   1  [P]
+ 5.Didube (Tbilisi)             6   3  2  1  11- 5  11
+ 6.WIT Georgia (Tbilisi)        5   2  3  0  10- 5   9
+ 7.Iberia 1999-2 (Tbilisi)      5   2  3  0   6- 2   9  [R]
+ 8.Merani (Tbilisi)             6   2  2  2  11-11   8
+ 9.Margveti 2006 (Zestaphoni)   6   2  1  3   7-10   7
+10.Dinamo-2 (Tbilisi)           5   1  2  2   2- 4   5  [R]
+11.FC Gardabani                 6   1  2  3   3- 6   5
+12.Kolxeti (Xobi)               5   1  1  3   4- 8   4
+13.Betlemi (Keda)               6   1  1  4   2-13   4
 ------------------------------------------------------
-14.Margveti 2006 (Zestaphoni)   4   0  1  3   3- 9   1
-15.Lokomotivi (Tbilisi)         4   0  1  3   3-10   1  [R]
-16.Betlemi (Keda)               4   0  1  3   0-10   1
+14.Lokomotivi (Tbilisi)         6   0  2  4   6-15   2  [R]
+15.Iberia 2010 (Tbilisi)        5   0  2  3   3-12   2  [P]
+16.Iveria (Xashuri)             5   0  1  4   4-11   1  [P]
 
 Home venues (if different from home city):
 Didube:       Kaspi (50 km north-west of Tbilisi)
@@ -769,27 +884,66 @@ Lokomotivi     1-1  Dinamo-2 Tb
 Margveti 2006  1-1  Didube
   [T.Darsavelidze 61 - A.Xorxeli 75]
 
+Round 5
+[Apr 8]
+Gonio          0-2  Guria
+  [D.Maisashvili 5; K.Kaxabrishvili 66]
+Tbilisi 2025   3-1  Lokomotivi
+  [Z.Gugeshashvili 24; G.Lukava 51; T.Lacabidze 60 - B.Phiri 58]
+Dinamo-2 Tb    0-1  Iberia-2
+  [A.Menagharishvili 86]
+Didube         3-0  Kolxeti Xobi
+  [C.Miningou 14, 41; G.Buxaidze 79]
+[Apr 9]
+Orbi           4-0  Iberia 2010
+  [T.Kereselidze 21, 51; D.Merkviladze 65; N.Xaraishvili 68]
+Merani Tb      0-1  Margveti 2006
+  [S.Papava 32]
+WIT Georgia    4-2  Iveria Xash
+  [D.Abakelia 18, 90; Luka Metreveli 30; G.Tophuria 39 - S.Zazikashvili 49; G.Nozadze 55]
+Betlemi        1-0  Gardabani
+  [S.Ašŭba 59. Axalsopheli]
+
+Round 6 [Apr 16]
+Iveria Xash    2-3  Orbi
+  [S.Zazikashvili 12; O.Xachidze 90+2 pen - C.Tchamba 41;
+   T.Kereselidze 45+1 pen, 55. Missed PK: Z.Kavtaradze (Orb) 79]
+Iberia-2       1-1  Tbilisi 2025
+  [T.Axvlediani 38 - T.Asimiyu 2]
+Guria          0-0  Gardabani
+Gonio          2-0  Dinamo-2 Tb
+  [E.Jijavadze 2, 28 pen. Kobuleti]
+Lokomotivi     2-2  WIT Georgia
+  [L.Ozbetelashvili 22; F.Chileshe 70 - N.Ghambarashvili 46; D.Abakelia 50]
+Iberia 2010    1-4  Didube
+  [N.Gabelia 44 - D.Nachqebia 19; G.Guldedava 36, 71; L.Tavzarashvili 69]
+Kolxeti Xobi   3-3  Merani Tb
+  [G.Chedia 38, 69; S.Bekauri 50 pen - T.Burjanadze 1; J.Kakara 25;
+   T.Muzashvili 80. Missed PK: G.Chedia (Kol) 38]
+Margveti 2006  3-1  Betlemi
+  [B.Kakushadze 14; S.Baghdavadze 36, 44 - B.Ximshiashvili 83]
+
 Table:
 
- 1.Gonio (Batumi)               4   3  1  0   5- 1  10  [R]
- 2.Orbi (Tbilisi)               4   3  0  1   7- 2   9
+ 1.Orbi (Tbilisi)               6   5  0  1  14- 4  15
+ 2.FC Tbilisi 2025              5   4  1  0  10- 3  13
 ------------------------------------------------------
- 3.FC Tbilisi 2025              3   3  0  0   6- 1   9
- 4.Guria (Lanchxuti)            3   2  1  0  11- 1   7  [P] [7-0]
+ 3.Gonio (Batumi)               6   4  1  1   7- 3  13  [R]
+ 4.Guria (Lanchxuti)            5   3  2  0  13- 1  11  [P]
 - - - - - - - - - - - - - - - - - - - - - - - - - - --
- 5.Merani (Tbilisi)             4   2  1  1   8- 7   7      [0-7]
- 6.Iberia 1999-2 (Tbilisi)      3   1  2  0   4- 1   5  [R]
- 7.WIT Georgia (Tbilisi)        3   1  2  0   4- 1   5
- 8.Dinamo-2 (Tbilisi)           3   1  2  0   2- 1   5  [R]
- 9.Didube (Tbilisi)             4   1  2  1   4- 4   5
-10.FC Gardabani                 4   1  1  2   3- 5   4
-11.Kolxeti (Xobi)               3   1  0  2   1- 2   3
-12.Iberia 2010 (Tbilisi)        3   0  2  1   2- 4   2  [P]
-13.Iveria (Xashuri)             3   0  1  2   0- 4   1  [P]
+ 5.Didube (Tbilisi)             6   3  2  1  11- 5  11
+ 6.WIT Georgia (Tbilisi)        5   2  3  0  10- 5   9
+ 7.Iberia 1999-2 (Tbilisi)      5   2  3  0   6- 2   9  [R]
+ 8.Merani (Tbilisi)             6   2  2  2  11-11   8
+ 9.Margveti 2006 (Zestaphoni)   6   2  1  3   7-10   7
+10.Dinamo-2 (Tbilisi)           5   1  2  2   2- 4   5  [R]
+11.FC Gardabani                 6   1  2  3   3- 6   5
+12.Kolxeti (Xobi)               5   1  1  3   4- 8   4
+13.Betlemi (Keda)               6   1  1  4   2-13   4
 ------------------------------------------------------
-14.Margveti 2006 (Zestaphoni)   4   0  1  3   3- 9   1
-15.Lokomotivi (Tbilisi)         4   0  1  3   3-10   1  [R]
-16.Betlemi (Keda)               4   0  1  3   0-10   1
+14.Lokomotivi (Tbilisi)         6   0  2  4   6-15   2  [R]
+15.Iberia 2010 (Tbilisi)        5   0  2  3   3-12   2  [P]
+16.Iveria (Xashuri)             5   0  1  4   4-11   1  [P]
 
 Home venues (if different from home city):
 Didube:       Kaspi (50 km north-west of Tbilisi)
@@ -798,38 +952,14 @@ Tbilisi 2025: Marneuli (40 km south of Tbilisi)
 
 Top scorers:
 
-1.Tornike Kereselidze (Orbi)         3
-  Data Sichinava (Guria)             3
-3.Avtandil "Avto" Ebralidze (Gonio)  2  [Georgia/Portugal]
-  Beka Beridze (Orbi)                2
-  Vano Chargeishvili (Margveti)      2
-  Iago Deisadze (Tbilisi 2025)       2
-  Kaxa Kaxabrishvili (Guria)         2
-  Guram Lukava (Tbilisi 2025)        2
-  Cherif Miningou (Didube)           2  [Ivory Coast]
-  Tornike Muzashvili (Merani Tb)     2
-
-Round 5
-[Apr 7]
-Betlemi        -  Gardabani
-Gonio          -  Guria
-Dinamo-2 Tb    -  Iberia-2
-Tbilisi 2025   -  Lokomotivi
-WIT Georgia    -  Iveria Xash
-Orbi           -  Iberia 2010
-Didube         -  Kolxeti Xobi
-Merani Tb      -  Margveti 2006
-
-Round 6
-[Apr 16]
-Guria          -  Gardabani
-Margveti 2006  -  Betlemi
-Kolxeti Xobi   -  Merani Tb
-Iberia 2010    -  Didube
-Iveria Xash    -  Orbi
-Lokomotivi     -  WIT Georgia
-Iberia-2       -  Tbilisi 2025
-Gonio          -  Dinamo-2 Tb
+1.Tornike Kereselidze (Orbi)      7
+2.Davit Abakelia (WIT Georgia)    4
+  Cherif Miningou (Didube)        4  [Ivory Coast]
+4.Erekle Jijavadze (Gonio)        3
+  Kaxa Kaxabrishvili (Guria)      3
+  Guram Lukava (Tbilisi 2025)     3
+  Tornike Muzashvili (Merani Tb)  3
+  Data Sichinava (Guria)          3
 
 Round 7
 [Apr 23]
@@ -854,7 +984,7 @@ Iberia 2010    -  Betlemi
 Iveria Xash    -  Merani Tb
 
 Round 9
-კვირა,[May 3]
+[May 3]
 Margveti 2006  -  Kolxeti Xobi
 Tbilisi 2025   -  Guria
 WIT Georgia    -  Dinamo-2 Tb
@@ -1104,24 +1234,27 @@ Lokomotivi     -  Iveria Xash
 
 Table:
 
- 1.West Georgia (Batumi)     1   1  0  0   6- 2   3  [P]
- 2.Torpedo-2 (Kutaisi)       1   1  0  0   6- 2   3  [P]
- 3.Merani-2 (Martvili)       1   1  0  0   4- 1   3
+ 1.Torpedo-2 (Kutaisi)       2   2  0  0   8- 3   6  [P]
+ 2.West Georgia (Batumi)     2   1  1  0   7- 3   4  [P]
+ 3.Aragvelebi (Tbilisi)      2   1  1  0   4- 1   4
 ---------------------------------------------------
- 4.Aragvelebi (Tbilisi)      1   1  0  0   3- 0   3
- 5.Algeti (Marneuli)         1   1  0  0   3- 1   3
- 6.WIT Georgia-2 (Tbilisi)   1   1  0  0   3- 1   3
- 7.Skuri (Calenjixa)         1   1  0  0   2- 0   3
- 8.FC Borjomi                1   0  1  0   1- 1   1  [R]
- 9.Aragvi-2 (Dusheti)        1   0  1  0   1- 1   1  [P]
-10.Kolxeti-2 (Photi)         1   0  0  1   1- 3   0
-11.Mercxali (Ozurgeti)       1   0  0  1   1- 3   0
-12.Samgurali-2 (Cqaltubo)    1   0  0  1   0- 2   0
+ 4.Aragvi-2 (Dusheti)        2   1  1  0   3- 1   4  [P]
+ 5.FC Borjomi                2   1  1  0   4- 3   4  [R]
+ 6.Algeti (Marneuli)         2   1  0  1   4- 3   3
+ 7.WIT Georgia-2 (Tbilisi)   2   1  0  1   4- 3   3
+ 8.Mercxali (Ozurgeti)       2   1  0  1   4- 3   3
+ 9.Merani-2 (Martvili)       2   1  0  1   4- 4   3
+10.Skuri (Calenjixa)         2   1  0  1   2- 2   3
+11.Kolxeti-2 (Photi)         2   1  0  1   3- 4   3
+12.Samgurali-2 (Cqaltubo)    2   1  0  1   2- 3   3
 ---------------------------------------------------
-13.Gagra GU-2 (Tbilisi)      1   0  0  1   1- 4   0
-14.Samcxe (Axalcixe)         1   0  0  1   0- 3   0  [P]
-15.Lokomotivi-2 (Tbilisi)    1   0  0  1   2- 6   0  [R]
-16.Baxmaro (Choxatauri)      1   0  0  1   2- 6   0  [R]
+13.Samcxe (Axalcixe)         2   1  0  1   2- 3   3  [P]
+14.Gagra GU-2 (Tbilisi)      2   0  0  2   2- 6   0
+15.Lokomotivi-2 (Tbilisi)    2   0  0  2   4- 9   0  [R]
+16.Baxmaro (Choxatauri)      2   0  0  2   2- 8   0  [R]
+
+Aragvi-2 and Samcxe play home games in Tbilisi (52 km south of Dusheti, 200 km east of Axalcixe).
+West Georgia play home games in Kobuleti (27 km north of Batumi).
 
 Round 1 [Apr 1]
 Lokomotivi-2   2-6  Torpedo-2
@@ -1133,38 +1266,41 @@ Algeti         3-1  Mercxali
 Merani-2 Mr    4-1  Gagra GU-2
 Kolxeti-2 Ph   1-3  WIT Georgia-2
 
-Table:
-
- 1.West Georgia (Batumi)     1   1  0  0   6- 2   3  [P]
- 2.Torpedo-2 (Kutaisi)       1   1  0  0   6- 2   3  [P]
- 3.Merani-2 (Martvili)       1   1  0  0   4- 1   3
----------------------------------------------------
- 4.Aragvelebi (Tbilisi)      1   1  0  0   3- 0   3
- 5.Algeti (Marneuli)         1   1  0  0   3- 1   3
- 6.WIT Georgia-2 (Tbilisi)   1   1  0  0   3- 1   3
- 7.Skuri (Calenjixa)         1   1  0  0   2- 0   3
- 8.FC Borjomi                1   0  1  0   1- 1   1  [R]
- 9.Aragvi-2 (Dusheti)        1   0  1  0   1- 1   1  [P]
-10.Kolxeti-2 (Photi)         1   0  0  1   1- 3   0
-11.Mercxali (Ozurgeti)       1   0  0  1   1- 3   0
-12.Samgurali-2 (Cqaltubo)    1   0  0  1   0- 2   0
----------------------------------------------------
-13.Gagra GU-2 (Tbilisi)      1   0  0  1   1- 4   0
-14.Samcxe (Axalcixe)         1   0  0  1   0- 3   0  [P]
-15.Lokomotivi-2 (Tbilisi)    1   0  0  1   2- 6   0  [R]
-16.Baxmaro (Choxatauri)      1   0  0  1   2- 6   0  [R]
-
 Round 2
 [Apr 8]
-Aragvi-2       -  Baxmaro
-Samcxe         -  Skuri
-Torpedo-2      -  WIT Georgia-2
-West Georgia   -  Aragvelebi
+West Georgia   1-1  Aragvelebi
+Torpedo-2      2-1  WIT Georgia-2
+Samcxe         2-0  Skuri
+Aragvi-2       2-0  Baxmaro
 [Apr 9]
-Gagra GU-2     -  Kolxeti-2 Ph
-Mercxali       -  Merani-2 Mr
-Samgurali-2    -  Algeti
-Lokomotivi-2   -  Borjomi
+Mercxali       3-0  Merani-2 Mr
+Samgurali-2    2-1  Algeti
+Lokomotivi-2   2-3  Borjomi
+Gagra GU-2     1-2  Kolxeti-2 Ph
+
+Table:
+
+ 1.Torpedo-2 (Kutaisi)       2   2  0  0   8- 3   6  [P]
+ 2.West Georgia (Batumi)     2   1  1  0   7- 3   4  [P]
+ 3.Aragvelebi (Tbilisi)      2   1  1  0   4- 1   4
+---------------------------------------------------
+ 4.Aragvi-2 (Dusheti)        2   1  1  0   3- 1   4  [P]
+ 5.FC Borjomi                2   1  1  0   4- 3   4  [R]
+ 6.Algeti (Marneuli)         2   1  0  1   4- 3   3
+ 7.WIT Georgia-2 (Tbilisi)   2   1  0  1   4- 3   3
+ 8.Mercxali (Ozurgeti)       2   1  0  1   4- 3   3
+ 9.Merani-2 (Martvili)       2   1  0  1   4- 4   3
+10.Skuri (Calenjixa)         2   1  0  1   2- 2   3
+11.Kolxeti-2 (Photi)         2   1  0  1   3- 4   3
+12.Samgurali-2 (Cqaltubo)    2   1  0  1   2- 3   3
+---------------------------------------------------
+13.Samcxe (Axalcixe)         2   1  0  1   2- 3   3  [P]
+14.Gagra GU-2 (Tbilisi)      2   0  0  2   2- 6   0
+15.Lokomotivi-2 (Tbilisi)    2   0  0  2   4- 9   0  [R]
+16.Baxmaro (Choxatauri)      2   0  0  2   2- 8   0  [R]
+
+Aragvi-2 and Samcxe play home games in Tbilisi (52 km south of Dusheti, 200 km east of Axalcixe).
+West Georgia play home games in Kobuleti (27 km north of Batumi).
 
 Round 3
 [Apr 15]
@@ -1490,7 +1626,7 @@ Four clubs that originate from Abkhazia - Cxumi (Soxumi), Dinamo (Gagra), Dinamo
 
 ‹A Jguphi, see §5ajgupi› | ‹B Jguphi, see §5bjgupi› | ‹C Jguphi, see §5cjgupi› | ‹Promotion Playoff, see §5prom›
 
-A Jguphi  ‹§5ajgupi›
+===== A Jguphi  ‹§5ajgupi›
 
 Round 1
 [Mar 16]
@@ -1527,36 +1663,37 @@ UG 35        5-1  Iunkeri
 [Apr 2]
 Dinamo Sox   2-3  Rustavi-2
 
-Table:
-
- 1.FC Rustavi-2             3   3  0  0  11- 2   9
---------------------------------------------------
- 2.FC Tbilisi-2             3   3  0  0  10- 1   9
-- - - - - - - - - - - - - - - - - - - - - - - - --
- 3.Gareji-2 (Sagarejo)      3   2  1  0   8- 4   7
- 4.Zooveti (Tbilisi)        2   2  0  0  16- 0   6
- 5.FC Dmanisi               3   2  0  1   9- 2   6
- 6.UG 35 (Tbilisi)          3   1  0  2   8- 7   3
- 7.Dinamo (Soxumi)          2   1  0  1   4- 4   3
- 8.FC Gardabani-2           3   1  0  2   4- 5   3
- 9.FC 35th SS (Tbilisi)     2   1  0  1   2- 3   3  [N]
-10.FC Telavi-2              3   1  0  2   5- 7   3  [N]
-11.Merani-2 (Tbilisi)       3   1  0  2   3- 8   3
-12.Ushba (Tbilisi)          3   1  0  2   3-10   3  [N]
-13.Iunkeri (Tbilisi)        2   0  1  1   3- 7   1
-14.Avaza (Tbilisi)          2   0  0  2   1-11   0  [N]
-15.Dinamo (Gagra)           3   0  0  3   1-17   0
-
 Round 4
 [Apr 6]
-Gardabani-2  -  UG 35
-Dinamo Gag   -  Dinamo Sox
-Zooveti      -  Dmanisi
-Telavi-2     -  35th S.S.
-Rustavi-2    -  Gareji-2
+Zooveti      0-0  Dmanisi
+Gardabani-2  3-2  UG 35
+Dinamo Gag   0-7  Dinamo Sox
+Telavi-2     2-0  FC 35th SS
 [Apr 7]
-Iunkeri      -  Tbilisi-2
-Avaza        -  Ushba
+Iunkeri      1-5  Tbilisi-2
+Avaza        1-1  Ushba
+[Apr 8]
+Rustavi-2    0-1  Gareji-2
+
+Table:
+
+ 1.FC Tbilisi-2             4   4  0  0  15- 2  12
+--------------------------------------------------
+ 2.Gareji-2 (Sagarejo)      4   3  1  0   9- 4  10
+- - - - - - - - - - - - - - - - - - - - - - - - --
+ 3.FC Rustavi-2             4   3  0  1  11- 3   9
+ 4.Zooveti (Tbilisi)        3   2  1  0  16- 0   7      [0-0]
+ 5.FC Dmanisi               4   2  1  1   9- 2   7      [0-0]
+ 6.Dinamo (Soxumi)          3   2  0  1  11- 4   6
+ 7.FC Gardabani-2           4   2  0  2   7- 7   6
+ 8.FC Telavi-2              4   2  0  2   7- 7   6  [N]
+ 9.Ushba (Tbilisi)          4   1  1  2   4-11   4  [N]
+10.FC 35th SS (Tbilisi)     3   1  0  2   2- 5   3  [N] [1 0 0 2-0 3]
+11.Merani-2 (Tbilisi)       3   1  0  2   3- 8   3      [1 0 1 2-3 3]
+12.UG 35 (Tbilisi)          4   1  0  3  10-10   3      [0 0 1 1-2 0]
+13.Iunkeri (Tbilisi)        3   0  1  2   4-12   1
+14.Avaza (Tbilisi)          3   0  1  2   2-12   1  [N]
+15.Dinamo (Gagra)           4   0  0  4   1-24   0
 
 Round 5
 [Apr 16]
@@ -1683,7 +1820,7 @@ Telavi-2     -  Dinamo Sox
 [Jun 30]
 Iunkeri      -  Ushba
 
-B Jguphi  ‹§5bjgupi›
+===== B Jguphi  ‹§5bjgupi›
 
 Round 1
 [Mar 16]
@@ -1693,10 +1830,11 @@ Orbi-2       0-1  Cxumi
 [Mar 17]
 Spaeri-2     8-1  Kareli
 Nor. Dinamo  3-4  Liaxvi
+[Apr 11]
+Aragvi 1954  2-3  Zestaphoni
 [ppd]
-Zestaphoni   -  Aragvi 1954
 Meshaxte-2   -  Magharoeli
-Ukimerioni   -  Iberia'10-2
+Ukimerioni   -  Iberia-2 Tb
 
 Round 2
 [Mar 23]
@@ -1717,45 +1855,45 @@ Kaspi 1936   3-1  Aragvi 1954
 Orbi-2       5-0  Gori-2
 [Mar 31]
 Meshaxte-2   4-0  Liaxvi
-Abuli        -  Cxumi
 Nor. Dinamo  3-1  Kareli
 [Apr 1]
 Zestaphoni   5-2  Magharoeli
-[Apr 2]
+[ppd]
+Abuli        -  Cxumi
 Ukimerioni   -  Spaeri-2
-
-Table:
-
- 1.FC Kaspi 1936                  3   2  1  0   8- 2   7
---------------------------------------------------------
- 2.Spaeri-2 (Tbilisi)             2   2  0  0  17- 2   6
-- - - - - - - - - - - - - - - - - - - - - - - - - - - --
- 3.Meshaxte-2 (Tqibuli)           2   2  0  0   9- 1   6
- 4.Iveria-2 (Xashuri)             3   2  0  1  11- 4   6  [N]
- 5.Orbi-2 (Tbilisi)               3   2  0  1   9- 2   6
- 6.FC Gori-2                      3   2  0  1   5- 7   6
- 7.Cxumi (Soxumi)                 2   1  1  0   2- 1   4
- 8.Liaxvi (Achabeti)              3   1  1  1   5- 8   4
- 9.Abuli (Axalkalaki)             2   1  0  1   2- 4   3
-10.Norchi Dinamo 2016 (Tbilisi)   3   1  0  2   7-14   3
-11.Ukimerioni (Kutaisi)           1   0  1  0   1- 1   1
-12.FC Zestaphoni                  1   0  0  1   0- 2   0  [R]
-13.Aragvi 1954 (Dusheti)          2   0  0  2   2- 7   0  [N]
-14.Iberia 2010-2 (Tbilisi)        2   0  0  2   2- 8   0  [N]
-15.Magharoeli (Chiatura)          1   0  0  1   0- 6   0
-16.FC Kareli                      3   0  0  3   2-13   0
 
 Round 4
 [Apr 6]
-Iberia'10-2  -  Zestaphoni
-Spaeri-2     -  Meshaxte-2
-Magharoeli   -  Orbi-2
-Aragvi 1954  -  Abuli
-Kareli       -  Cxumi
+Spaeri-2     2-1  Meshaxte-2
+Magharoeli   1-2  Orbi-2
+Kareli       2-0  Cxumi
+Aragvi 1954  2-0  Abuli
+Iberia-2 Tb  4-3  Zestaphoni
 [Apr 7]
-Nor. Dinamo  -  Ukimerioni
-Liaxvi       -  Iveria-2 Xa
-Gori-2       -  Kaspi 1936
+Gori-2       1-0  Kaspi 1936
+Liaxvi       0-1  Iveria-2 Xa
+Nor. Dinamo  3-0  Ukimerioni
+
+Table:
+
+ 1.Spaeri-2 (Tbilisi)             3   3  0  0  19- 3   9
+--------------------------------------------------------
+ 2.Iveria-2 (Xashuri)             4   3  0  1  12- 4   9  [N]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - --
+ 3.Orbi-2 (Tbilisi)               4   3  0  1  11- 3   9
+ 4.FC Gori-2                      4   3  0  1   6- 7   9
+ 5.FC Kaspi 1936                  4   2  1  1   8- 3   7
+ 6.Meshaxte-2 (Tqibuli)           3   2  0  1  10- 3   6
+ 7.Norchi Dinamo 2016 (Tbilisi)   4   2  0  2  10-14   6
+ 8.Cxumi (Soxumi)                 3   1  1  1   2- 3   4
+ 9.Liaxvi (Achabeti)              4   1  1  2   5- 9   4
+10.FC Zestaphoni                  3   1  0  2   6- 8   3  [R]
+11.Aragvi 1954 (Dusheti)          4   1  0  3   6-10   3  [N]
+12.Abuli (Axalkalaki)             3   1  0  2   2- 6   3
+13.Iberia 2010-2 (Tbilisi)        3   1  0  2   6-11   3  [N]
+14.FC Kareli                      4   1  0  3   4-13   3
+15.Ukimerioni (Kutaisi)           2   0  1  1   1- 4   1
+16.Magharoeli (Chiatura)          2   0  0  2   1- 8   0
 
 Round 5
 [Apr 17]
@@ -1893,32 +2031,32 @@ Cxumi        -  Zestaphoni
 Liaxvi       -  Spaeri-2
 Gori-2       -  Meshaxte-2
 
-C Jguphi  ‹§5cjgupi›
+===== C Jguphi  ‹§5cjgupi›
 
 Round 1 [Apr 6]
-Sulori        -  Shukura 1960
-Jvari         -  Odishi-2
-Dinamo-2 Bt   -  Imereti
-Zana          -  Kolxeti-2 Ph
-Sapovnela     -  Sairme
-Machaxela     -  Egrisi
+Sulori        3-0  Shukura 1960
+Zana          0-3  Kolxeti-2 Ph
+Machaxela     0-1  Egrisi
+Dinamo-2 Bt   1-1  Imereti
+Sapovnela     1-1  Sairme
+Jvari         1-1  Odishi-2
 
 Table:
 
- 1.Sulori (Vani)             0   0  0  0   0- 0   0  [R]
+ 1.Sulori (Vani)             1   1  0  0   3- 0   3  [R]
 ---------------------------------------------------
- 2.Zana (Abasha)             0   0  0  0   0- 0   0  [R]
+ 2.Kolxeti-2 (Photi)         1   1  0  0   3- 0   3  [N]
 - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Machaxela (Batumi)        0   0  0  0   0- 0   0  [R]
- 4.Dinamo-2 (Batumi)         0   0  0  0   0- 0   0
- 5.Sapovnela (Terjola)       0   0  0  0   0- 0   0
- 6.FC Jvari                  0   0  0  0   0- 0   0
- 7.Odishi-2 (Zugdidi)        0   0  0  0   0- 0   0
- 8.Imereti (Xoni)            0   0  0  0   0- 0   0
- 9.Sairme (Baghdati)         0   0  0  0   0- 0   0
-10.Egrisi (Senaki)           0   0  0  0   0- 0   0
-11.Kolxeti-2 (Photi)         0   0  0  0   0- 0   0  [N]
-12.Shukura 1960 (Kobuleti)   0   0  0  0   0- 0   0  [N]
+ 3.Egrisi (Senaki)           1   1  0  0   1- 0   3
+ 4.Dinamo-2 (Batumi)         1   0  1  0   1- 1   1
+ 5.Sapovnela (Terjola)       1   0  1  0   1- 1   1
+ 6.FC Jvari                  1   0  1  0   1- 1   1
+ 7.Odishi-2 (Zugdidi)        1   0  1  0   1- 1   1
+ 8.Imereti (Xoni)            1   0  1  0   1- 1   1
+ 9.Sairme (Baghdati)         1   0  1  0   1- 1   1
+10.Machaxela (Batumi)        1   0  0  1   0- 1   0  [R]
+11.Zana (Abasha)             1   0  0  1   0- 3   0  [R]
+12.Shukura 1960 (Kobuleti)   1   0  0  1   0- 3   0  [N]
 
 Round 2
 [Apr 15]

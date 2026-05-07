@@ -1,3 +1,9 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="sknsuper">SKNFA Digicel Super League 2025/26</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="reg">Regular Phase</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="fin4">Super Four</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="sknsupchfin">Championship Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="cups">Cup Tournaments 2025/26</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="kittsdiv1">Division One 2025/26</a><
 -- removing nav(igation) section:
 
 ‹Saint Kitts, see §kitts›
@@ -11,3 +17,11 @@
 
 ‹list of cup winners, see page stkittscuphist›
 
+
+-- removing 3 leading nav line(s) in section 3:
+‹SKNFA Digicel Super League 2025/26, see §sknsuper›
+‹Cup Tournaments 2025/26, see §cups›
+‹Division One 2025/26, see §kittsdiv1›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Regular Phase, see §reg› | ‹Super Four, see §fin4› | ‹Championship Final, see §sknsupchfin›

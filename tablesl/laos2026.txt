@@ -2,7 +2,7 @@
      title:   Laos 2025/26
      source:  https://rsssf.org/tablesl/laos2026.html
      author:  Karel Stokkermans
-     updated: 14 Mar 2026    
+     updated: 14 Mar 2026
     -->
 
 

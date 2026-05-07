@@ -1,0 +1,4 @@
+tablesz/zsoed2025               :  2024/25.
+tablesz/zsoedhonours§champ      :  list of champions.
+tablesz/zsoedhonours§cup        :  list of cup winners.
+tablesz/zsoedhonours§sup        :  list of super cup winners.

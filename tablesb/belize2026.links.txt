@@ -1,0 +1,4 @@
+tablesb/belize2025              :  2024/25
+tablesb/belizechamp             :  list of champions
+tablesb/belizeclub              :  club directory
+tablesb/belizetops              :  list of topscorers

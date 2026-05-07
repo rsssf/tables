@@ -1,0 +1,3 @@
+tablesn/niger2025               :  2024/25
+tablesn/nigerchamp              :  list of champions
+tablesn/nigercuphist            :  list of cup winners

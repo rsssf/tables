@@ -2,7 +2,7 @@
      title:   Tajikistan 2026
      source:  https://rsssf.org/tablest/taji2026.html
      author:  Theodore Dreiman
-     updated: 24 Mar 2026    
+     updated: 2 May 2026
     -->
 
 
@@ -16,20 +16,20 @@
 
 Table:
 
- 1.Vaxsh (Boxtar)              2   2  0  0   4- 1   6
- 2.Hosilot (Farxor)            2   1  1  0   3- 0   4
- 3.Sardor (Tursunzoda)         2   1  1  0   3- 0   4  [P]
- 4.FC Xujand                   2   1  1  0   2- 0   4
- 5.Istiqlol (Dushanbe)         2   1  1  0   1- 0   4  [C]
- 6.Barqchī (Hisor)             2   1  0  1   3- 4   3
- 7.FC Istaravshan              2   0  2  0   2- 2   2
- 8.Ravshan (Kūlob)             2   0  1  1   2- 3   1
- 9.Regar-TadAZ (Tursunzoda)    2   0  1  1   0- 1   1
-10.Parvoz (Bobojon Ghafurov)   2   0  1  1   2- 5   1  [P]
+ 1.KMVA (Dushanbe)             6   4  1  1   6- 4  13
+ 2.Istiqlol (Dushanbe)         6   3  3  0   7- 2  12  [C]
+ 3.Regar-TadAZ (Tursunzoda)    6   3  2  1   5- 3  11
+ 4.Vaxsh (Boxtar)              6   3  1  2  10- 7  10
+ 5.FC Xujand                   6   2  3  1   6- 4   9
+ 6.Barqchī (Hisor)             6   3  0  3   8- 9   9
+ 7.Hosilot (Farxor)            6   2  2  2   7- 5   8
+ 8.Ravshan (Kūlob)             6   2  2  2   6- 5   8
+ 9.Esxata (Xujand)             6   2  0  4   5-10   6
+10.Sardor (Tursunzoda)         6   1  2  3   8- 9   5  [P]
 - - - - - - - - - - - - - - - - - - - - - - - - - - -
-11.KMVA (Dushanbe)             2   0  1  1   0- 3   1
+11.Parvoz (Bobojon Ghafurov)   6   1  1  4   3-10   4  [P]
 -----------------------------------------------------
-12.Esxata (Xujand)             2   0  0  2   1- 4   0
+12.FC Istaravshan              6   0  3  3   4- 7   3
 
 Round 1
 [Mar 6]
@@ -67,71 +67,111 @@ Ravshan      2-3  Barqchi
 Istaravshan  0-0  Hosilot
   [Att: 700]
 
-Round 3
-[Apr 3]
-Hosilot      -  Sardor
-Barqchi      -  Esxata
+Round 3 [Total Att: 24,145; Average: 4,024]
 [Apr 4]
-Xujand       -  Istaravshan
-Vaxsh        -  KMVA
+Vaxsh        0-1  KMVA
+  [Abduxalil Boronov 43 pen. Att: 5,000]
+Xujand       1-0  Istaravshan
+  [Amirbek Fayziyev (Ist) 47 og. Att: 11,535]
 [Apr 5]
-Istiqlol     -  Ravshan
-Parvoz       -  Regar-TadAZ
+Hosilot      3-2  Sardor
+  [Sharafjon Solehov 24; Joseph Akomadi 35, 68 - Asilbek Norboyev 3; Nekrūz Zokirov 40. Att: 3,500]
+Istiqlol     0-0  Ravshan
+  [Hisor. Att: 2,800]
+Parvoz       0-1  Regar-TadAZ
+  [Nozim Bobojonov 51. Att: 1,000]
+[Apr 6]
+Barqchi      1-2  Esxata
+  [Fredrick Asante 90+2 - Abdusamad Samadov 54; Firdavs Chakalov 90+10. Dushanbe. Att: 310]
 
-Table:
-
- 1.Vaxsh (Boxtar)              2   2  0  0   4- 1   6
- 2.Hosilot (Farxor)            2   1  1  0   3- 0   4
- 3.Sardor (Tursunzoda)         2   1  1  0   3- 0   4  [P]
- 4.FC Xujand                   2   1  1  0   2- 0   4
- 5.Istiqlol (Dushanbe)         2   1  1  0   1- 0   4  [C]
- 6.Barqchī (Hisor)             2   1  0  1   3- 4   3
- 7.FC Istaravshan              2   0  2  0   2- 2   2
- 8.Ravshan (Kūlob)             2   0  1  1   2- 3   1
- 9.Regar-TadAZ (Tursunzoda)    2   0  1  1   0- 1   1
-10.Parvoz (Bobojon Ghafurov)   2   0  1  1   2- 5   1  [P]
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
-11.KMVA (Dushanbe)             2   0  1  1   0- 3   1
------------------------------------------------------
-12.Esxata (Xujand)             2   0  0  2   1- 4   0
-
-Top scorers:
-
-Parvizjon Aliyev (Xujand)    2
-Sharafjon Solehov (Hosilot)  2
-
-Round 4
+Round 4 [Total Att: 21,250; Average: 4,250]
 [Apr 10]
-KMVA         -  Barqchi
-Sardor       -  Xujand
+KMVA         2-1  Barqchi
+  [Komroni Mirzoxon 76; Islom Isoqjonov 90+1 - Qamariddin Ghafforzoda 4. Att: 500]
 [Apr 11]
-Ravshan      -  Esxata
-Regar-TadAZ  -  Hosilot
+Regar-TadAZ  1-0  Hosilot
+  [Azizbek Haitov 1. Att: 2,150]
+Ravshan      3-1  Esxata
+  [Fathullo Olimzoda 19, 56; Kabir Salimshoyev 34 - Mubinjon Mūminov 71. Att: 7,500]
 [Apr 12]
-Istaravshan  -  Vaxsh
-Istiqlol     -  Parvoz
+Sardor       2-2  Xujand
+  [Mirkomil Loqayev 24; Shahin Abbasian 37 - Komron Tursunov 26; Nikola Eskić 90+8. Att: 1,100]
+Istaravshan  1-1  Vaxsh
+  [Muhammadiqbol Aminzoda 78 - Dmytro Fastov 90+3. Att: 10,000]
+Istiqlol     3-0  Parvoz
+  [Masrur Ghafurov 45; Manuchehr Safarov 59; Daler Sharipov 63.
+   Missed PK: Amirbek Jūraboyev (Ist) 35]
 
-Round 5
+Round 5 [Total Att: 14,340; Average: 2,390]
 [Apr 17]
-Parvoz       -  Ravshan
-Barqchi      -  Istaravshan
+Parvoz       0-1  Ravshan
+  [Muhammadali Azizboyev 86. Att: 480]
+Barqchi      2-1  Istaravshan
+  [Islom Zoirov 90+1; Fredrick Asante 90+7 - Muhammadiqbol Aminzoda 8. Att: 800]
 [Apr 18]
-Xujand       -  Regar-TadAZ
-Vaxsh        -  Sardor
+Xujand       0-0  Regar-TadAZ
+  [Att: 3,200]
+Vaxsh        3-1  Sardor
+  [Mirkomil Loqayev (Sar) 27 og; Nuriddin Hamroqulov 57; Mykyta Tatarkov 63 -
+   Jafar Ismoilov 90+2 pen. Dushanbe. Att: 2,500]
 [Apr 19]
-Hosilot      -  Istiqlol
-Esxata       -  KMVA
+Hosilot      1-1  Istiqlol
+  [Salohiddin Irgashev 90+5 - Muhammadjon Rahimov 23. Att: 6,760]
+Esxata       0-2  KMVA
+  [Abduxalil Boronov 9; Islom Isoqjonov 49. Att: 600]
 
 Round 6
 [Apr 24]
-Regar-TadAZ  -  Vaxsh
-Istiqlol     -  Xujand
+Regar-TadAZ  3-2  Vaxsh
+  [Daler Imomnazarov 19; Ngollo Abommo 43; Benjamin Amponsah (Vax) 67 og -
+   Nuriddin Hamroqulov 29; Siyovush Asrorov 52 pen]
+Istiqlol     2-1  Xujand
+  [Muhammadjon Rahimov 28; Rustam Soirov 90+2 - Petar Gigić 59. Missed PK: Juraboyev () 32]
 [Apr 25]
-Sardor       -  Barqchi
-Parvoz       -  Hosilot
+Parvoz       1-0  Hosilot
+  [Bahodir Abduvaliyev 52]
+Sardor       0-1  Barqchi
+  [Islom Zoirov 12]
 [Apr 26]
-Ravshan      -  KMVA
-Istaravshan  -  Esxata
+Ravshan      0-1  KMVA
+  [Islom Isoqjonov 28]
+Istaravshan  0-1  Esxata
+  [Rustamjon Saburov 47]
+
+Table:
+
+ 1.KMVA (Dushanbe)             6   4  1  1   6- 4  13
+ 2.Istiqlol (Dushanbe)         6   3  3  0   7- 2  12  [C]
+ 3.Regar-TadAZ (Tursunzoda)    6   3  2  1   5- 3  11
+ 4.Vaxsh (Boxtar)              6   3  1  2  10- 7  10
+ 5.FC Xujand                   6   2  3  1   6- 4   9
+ 6.Barqchī (Hisor)             6   3  0  3   8- 9   9
+ 7.Hosilot (Farxor)            6   2  2  2   7- 5   8
+ 8.Ravshan (Kūlob)             6   2  2  2   6- 5   8
+ 9.Esxata (Xujand)             6   2  0  4   5-10   6
+10.Sardor (Tursunzoda)         6   1  2  3   8- 9   5  [P]
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+11.Parvoz (Bobojon Ghafurov)   6   1  1  4   3-10   4  [P]
+-----------------------------------------------------
+12.FC Istaravshan              6   0  3  3   4- 7   3
+
+Top scorers:
+
+1.Joseph Akomadi (Hosilot)              3  [Ghana]
+  Islom Isoqjonov (KMVA)                3  [Uzbekistan]
+  Sharafjon Solehov (Hosilot)           3
+4.Parvizjon Aliyev (Xujand)             2
+  Muhammadiqbol Aminzoda (Istaravshan)  2
+  Fredrick Asante (Barqchī)             2  [Ghana]
+  Muhammadali Azizboyev (Ravshan)       2
+  Abduxalil Boronov (KMVA)              2
+  Firdavs Chakalov (Esxata)             2
+  Nuriddin Hamroqulov (Vaxsh)           2
+  Asilbek Norboyev (Sardor)             2  [Uzbekistan]
+  Fathullo Olimzoda (Ravshan)           2
+  Muhammadjon Rahimov (Istiqlol)        2
+  Islom Zoirov (Barqchī)                2
+  Nekrūz Zokirov (Sardor)               2
 
 Round 7
 [May 1]
@@ -306,5 +346,94 @@ Hosilot      -  Esxata
 Parvoz       -  KMVA
 Istiqlol     -  Istaravshan
 Regar-TadAZ  -  Sardor
+
+
+
+
+
+
+==== Ligai Yakum  ‹§perv›
+
+Table:
+
+ 1.Saroykamar (Panj)       4   3  1  0  14- 4  10
+-------------------------------------------------
+ 2.Panjsher (Balx)         4   3  0  1   7- 2   9  [R]
+- - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Sarazm (Panjakent)      4   3  0  1   5- 4   9
+ 4.Sarhadchī (Maskav)      4   2  2  0  10- 2   8
+ 5.FC Hulbuk               4   2  2  0   9- 3   8  [R]
+ 6.Mohir (Yovon)           4   2  2  0   8- 6   8
+ 7.FC Rangon               4   2  1  1   5- 3   7
+ 8.Raxsh (Hulbuk)          4   1  2  1   7- 6   5  [P]
+ 9.Somon (Danghara)        3   1  2  0   3- 2   5
+10.FC Mastchoh             4   1  1  2   8- 6   4
+11.Shodmon (Hisor)         4   1  0  3   8- 9   3
+12.Shohmansur (Dushanbe)   4   0  2  2   2-13   2  [P]
+13.Jilikul (Dūstī)         3   0  1  2   4- 9   1  [P]
+14.FC Dushanbe             1   0  0  1   1- 2   0
+15.FC Norak                3   0  0  3   3-11   0
+16.FC Isfara               4   0  0  4   2-14   0
+
+Round 1
+Saroykamar  2-2  Sarhadchi
+Shohmansur  0-0  Mastchoh
+Norak       0-2  Rangon
+Somon       0-0  Hulbuk
+Mohir       1-0  Panjsher
+Sarazm      1-0  Shodmon
+Raxsh       3-1  Isfara
+Dushanbe     -   Jilikul
+
+Round 2
+Sarhadchi   7-0  Shohmansur
+Mastchoh    5-1  Jilikul
+Rangon      1-1  Mohir
+Hulbuk      2-0  Sarazm
+Raxsh       0-1  Saroykamar
+Isfara      0-3  Panjsher
+Shodmon     4-2  Norak
+Somon        -   Dushanbe
+
+Round 3
+Jilikul     0-1  Sarhadchi
+Somon       3-2  Mastchoh
+Panjsher    2-0  Rangon
+Norak       1-5  Hulbuk
+Saroykamar  6-1  Isfara
+Mohir       4-3  Shodmon
+Shohmansur  1-1  Raxsh
+Sarazm      2-1  Dushanbe
+
+Round 4
+Sarhadchi   0-0  Somon
+Saroykamar  5-1  Shohmansur
+Hulbuk      2-2  Mohir
+Shodmon     1-2  Panjsher
+Mastchoh    1-2  Sarazm
+Raxsh       3-3  Jilikul
+Isfara      0-2  Rangon
+Dushanbe     -   Norak
+
+Table:
+
+ 1.Saroykamar (Panj)       4   3  1  0  14- 4  10
+-------------------------------------------------
+ 2.Panjsher (Balx)         4   3  0  1   7- 2   9  [R]
+- - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Sarazm (Panjakent)      4   3  0  1   5- 4   9
+ 4.Sarhadchī (Maskav)      4   2  2  0  10- 2   8
+ 5.FC Hulbuk               4   2  2  0   9- 3   8  [R]
+ 6.Mohir (Yovon)           4   2  2  0   8- 6   8
+ 7.FC Rangon               4   2  1  1   5- 3   7
+ 8.Raxsh (Hulbuk)          4   1  2  1   7- 6   5  [P]
+ 9.Somon (Danghara)        3   1  2  0   3- 2   5
+10.FC Mastchoh             4   1  1  2   8- 6   4
+11.Shodmon (Hisor)         4   1  0  3   8- 9   3
+12.Shohmansur (Dushanbe)   4   0  2  2   2-13   2  [P]
+13.Jilikul (Dūstī)         3   0  1  2   4- 9   1  [P]
+14.FC Dushanbe             1   0  0  1   1- 2   0
+15.FC Norak                3   0  0  3   3-11   0
+16.FC Isfara               4   0  0  4   2-14   0
 
 

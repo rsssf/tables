@@ -2,7 +2,7 @@
      title:   Vietnam 2025/26
      source:  https://rsssf.org/tablesv/viet2026.html
      author:  Karel Stokkermans
-     updated: 23 Dec 2025    
+     updated: 23 Dec 2025
     -->
 
 

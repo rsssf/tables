@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="chpo">Championship Playoff</a><
 -- removing nav(igation) section:
 
 ‹Suriname Major League 2025/26, see §first›
@@ -15,3 +17,6 @@
 
 ‹list of foundation dates, see page surifound›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Championship Playoff, see §chpo›

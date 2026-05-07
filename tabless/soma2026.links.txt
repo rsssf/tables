@@ -1,0 +1,3 @@
+tabless/soma2025                :  2024/25
+tabless/somachamp               :  list of champions
+tabless/somacuphist             :  list of cup winners

@@ -2,7 +2,7 @@
      title:   Burkina Faso 2025/26
      source:  https://rsssf.org/tablesb/burkf2026.html
      author:  Karel Stokkermans
-     updated: 2 Apr 2026    
+     updated: 16 Apr 2026
     -->
 
 
@@ -16,24 +16,24 @@
 
 Table:
 
- 1.Rahimo FC (Bobo-Dioulasso)           24  16  8  0  39-13  56  [C]
- 2.US Forces Armées (Ouagadougou)       24  10 10  4  25-13  40
- 3.Majestic SC (Saponé)                 24  10  9  5  23-18  39
- 4.AS Douanes (Ouagadougou)             24   8 12  4  23-21  36
- 5.Sp. F. des Cascades (Niangoloko)     24   8 11  5  17-10  35  [*]
- 6.AS Fonctionnaires (Bobo-Dioulasso)   24   8 10  6  21-19  34
- 7.Salitas FC (Ouagadougou)             24   7 10  7  20-19  31
- 8.AS Faso/Yennenga (Ouagadougou)       24   7 10  7  17-21  31
- 9.Rail Club du Kadiogo (Ouagadougou)   24   8  6 10  20-23  30
-10.Réal du Faso (Ouagadougou)           24   7  8  9  17-20  29
-11.AS Sonabel (Ouagadougou)             24   6 10  8  19-24  28
-12.Vitesse FC (Bobo-Dioulasso)          24   6  9  9  15-18  27
+ 1.Rahimo FC (Bobo-Dioulasso)           26  17  8  1  40-15  59  [C]  Champions
+ 2.US Forces Armées (Ouagadougou)       26  11 11  4  28-15  44
+ 3.Majestic SC (Saponé)                 26  11  9  6  24-20  42
+ 4.AS Douanes (Ouagadougou)             26   9 12  5  24-23  39
+ 5.Sp. F. des Cascades (Niangoloko)     26   9 11  6  20-12  38  [*]
+ 6.AS Faso/Yennenga (Ouagadougou)       26   9 10  7  21-21  37
+ 7.Salitas FC (Ouagadougou)             26   8 10  8  22-21  34
+ 8.AS Fonctionnaires (Bobo-Dioulasso)   26   8 10  8  22-24  34
+ 9.Rail Club du Kadiogo (Ouagadougou)   26   8  7 11  20-24  31
+10.Vitesse FC (Bobo-Dioulasso)          26   7  9 10  18-20  30
+11.Réal du Faso (Ouagadougou)           26   7  9 10  17-21  30
+12.AS Sonabel (Ouagadougou)             26   6 12  8  20-25  30
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-13.CFFEB Ouagadougou                    24   6  8 10  15-19  26  [P]
-14.Etoile Filante (Ouagadougou)         24   4 10 10  15-28  22
+13.CFFEB Ouagadougou                    26   6 10 10  17-21  28  [P]
+14.Etoile Filante (Ouagadougou)         26   6 10 10  19-28  28
 ---------------------------------------------------------------
-15.Racing Club Bobo (Bobo-Dioulasso)    24   4  8 12   7-19  20
-16.AJEB de Bobo-Dioulasso               24   4  7 13  16-24  19  [P]
+15.Racing Club Bobo (Bobo-Dioulasso)    26   5  9 12   9-20  24
+16.AJEB de Bobo-Dioulasso               26   4  7 15  18-29  19  [P]
 
 [*] full name: Sporting Football des Cascades de Tenakourou
 
@@ -381,37 +381,50 @@ ASFA/Y          0-1 Douanes
 
 Round 25
 [Apr 3]
-ASFB             -  ASFA/Y
-Réal du Faso     -  RC Bobo
-CFFEB            -  USFA
+ASFB            0-3 ASFA/Y
+Réal du Faso    0-0 RC Bobo
+CFFEB           1-1 USFA
 [Apr 4]
-Vitesse          -  AJEB
-Douanes          -  Etoile Filante
-Sonabel          -  RC Kadiogo
-Sp. Cascades     -  Rahimo
+Vitesse         3-1 AJEB
+Douanes         0-2 Etoile Filante
+Sonabel         0-0 RC Kadiogo
+Sp. Cascades    2-0 Rahimo
 [Apr 5]
-Salitas          -  Majestic
+Salitas         0-1 Majestic
+
+Round 26
+[Apr 10]
+Vitesse         0-1 Douanes
+Salitas         2-1 Sp. Cascades
+[Apr 11]
+RC Bobo         2-1 ASFB
+[Apr 12]
+Sonabel         1-1 CFFEB
+RC Kadiogo      0-1 ASFA/Y
+Etoile Filante  2-0 Majestic
+AJEB            1-2 USFA
+Rahimo          1-0 Réal du Faso
 
 Table:
 
- 1.Rahimo FC (Bobo-Dioulasso)           24  16  8  0  39-13  56  [C]
- 2.US Forces Armées (Ouagadougou)       24  10 10  4  25-13  40
- 3.Majestic SC (Saponé)                 24  10  9  5  23-18  39
- 4.AS Douanes (Ouagadougou)             24   8 12  4  23-21  36
- 5.Sp. F. des Cascades (Niangoloko)     24   8 11  5  17-10  35  [*]
- 6.AS Fonctionnaires (Bobo-Dioulasso)   24   8 10  6  21-19  34
- 7.Salitas FC (Ouagadougou)             24   7 10  7  20-19  31
- 8.AS Faso/Yennenga (Ouagadougou)       24   7 10  7  17-21  31
- 9.Rail Club du Kadiogo (Ouagadougou)   24   8  6 10  20-23  30
-10.Réal du Faso (Ouagadougou)           24   7  8  9  17-20  29
-11.AS Sonabel (Ouagadougou)             24   6 10  8  19-24  28
-12.Vitesse FC (Bobo-Dioulasso)          24   6  9  9  15-18  27
+ 1.Rahimo FC (Bobo-Dioulasso)           26  17  8  1  40-15  59  [C]  Champions
+ 2.US Forces Armées (Ouagadougou)       26  11 11  4  28-15  44
+ 3.Majestic SC (Saponé)                 26  11  9  6  24-20  42
+ 4.AS Douanes (Ouagadougou)             26   9 12  5  24-23  39
+ 5.Sp. F. des Cascades (Niangoloko)     26   9 11  6  20-12  38  [*]
+ 6.AS Faso/Yennenga (Ouagadougou)       26   9 10  7  21-21  37
+ 7.Salitas FC (Ouagadougou)             26   8 10  8  22-21  34
+ 8.AS Fonctionnaires (Bobo-Dioulasso)   26   8 10  8  22-24  34
+ 9.Rail Club du Kadiogo (Ouagadougou)   26   8  7 11  20-24  31
+10.Vitesse FC (Bobo-Dioulasso)          26   7  9 10  18-20  30
+11.Réal du Faso (Ouagadougou)           26   7  9 10  17-21  30
+12.AS Sonabel (Ouagadougou)             26   6 12  8  20-25  30
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-13.CFFEB Ouagadougou                    24   6  8 10  15-19  26  [P]
-14.Etoile Filante (Ouagadougou)         24   4 10 10  15-28  22
+13.CFFEB Ouagadougou                    26   6 10 10  17-21  28  [P]
+14.Etoile Filante (Ouagadougou)         26   6 10 10  19-28  28
 ---------------------------------------------------------------
-15.Racing Club Bobo (Bobo-Dioulasso)    24   4  8 12   7-19  20
-16.AJEB de Bobo-Dioulasso               24   4  7 13  16-24  19  [P]
+15.Racing Club Bobo (Bobo-Dioulasso)    26   5  9 12   9-20  24
+16.AJEB de Bobo-Dioulasso               26   4  7 15  18-29  19  [P]
 
 [*] full name: Sporting Football des Cascades de Tenakourou
 

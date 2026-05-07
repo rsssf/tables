@@ -2,7 +2,7 @@
      title:   Ukraine 2025/26
      source:  https://rsssf.org/tableso/oekr2026.html
      author:  Theodore Dreiman
-     updated: 7 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -16,24 +16,24 @@
 
 Table:
 
- 1.LNZ (Čerkásy)               21  15  2  4  30-12  47      [4-1]
- 2.Šachtár (Donéćk)            20  14  5  1  48-12  47      [1-4]
- 3.Políssja (Žytómyr)          21  13  3  5  36-14  42
- 4.Dynámo (Kýjiv)              21  12  5  4  49-23  41  [C]
- 5.Kryvbás (Krývyj Ríh)        21   9  7  5  33-28  34      [2-0, 0-0]
- 6.Metalíst 1925 (Chárkiv)     20   9  7  4  24-13  34  [P] [0-2, 0-0]
- 7.Kólos (Kovalívka)           21   8  8  5  20-20  32
- 8.Zórja (Luhánśk)             20   7  7  6  27-24  28
- 9.Karpáty (Ĺviv)              21   6  8  7  29-26  26
-10.Véres (Rívne)               20   5  7  8  16-24  22
-11.FC Kúdrivka                 21   5  6 10  24-35  21  [P] [1-0]
-12.Obolóń (Kýjiv)              20   5  6  9  14-33  21      [0-1]
+ 1.Šachtár (Donéćk)            25  18  6  1  59-16  60
+ 2.LNZ (Čerkásy)               25  16  4  5  36-16  52
+ 3.Políssja (Žytómyr)          25  15  4  6  44-17  49
+ 4.Dynámo (Kýjiv)              25  14  5  6  58-31  47  [C]
+ 5.Metalíst 1925 (Chárkiv)     25  12  9  4  31-14  45  [P]
+ 6.Kólos (Kovalívka)           25  10 10  5  24-21  40      [2-1, 1-1]
+ 7.Kryvbás (Krývyj Ríh)        25  11  7  7  43-38  40      [1-1, 1-2]
+ 8.Karpáty (Ĺviv)              25   9  9  7  35-26  36
+ 9.Zórja (Luhánśk)             25   9  8  8  35-32  35
+10.Véres (Rívne)               25   7  8 10  22-31  29
+11.Epicenter (Kam'janéć-Pod.)  25   7  4 14  27-37  25  [P]
+12.Obolóń (Kýjiv)              24   5  8 11  19-42  23
 - - - - - - - - - - - - - - - - - - - - - - - - - - --
-13.Epicenter (Kam'janéć-Pod.)  21   6  2 13  25-35  20  [P]
-14.Ruch (Ĺviv)                 21   6  1 14  16-32  19
+13.FC Kúdrivka                 25   5  6 14  26-42  21  [P]
+14.Ruch (Ĺviv)                 25   6  2 17  17-42  20
 ------------------------------------------------------
-15.FC Olexandríja              20   2  5 13  14-37  11
-16.SC Poltáva                  21   2  3 16  16-53   9  [P]
+15.FC Olexandríja              24   2  7 15  18-46  13
+16.SC Poltáva                  25   2  5 18  20-63  11  [P]
 
 Due to the war, several clubs from the eastern part of the country play home games in other cities:
 Kúdrivka      - Kýjiv (250 km south-west of Kúdrivka)
@@ -41,7 +41,8 @@ Metalíst 1925 - Žytómyr (615 km west of Chárkiv)
 SC Poltáva    - Kropyvnýćkyj (250 km south-west of Poltáva)
 Šachtár       - Ĺviv (1,200 km west of Donéćk)
 Zórja         - Kýjiv (800 km north-west of Luhánśk)
-Epicenter play home games in Ternópiĺ (150 km north-west of Kam'janéć-Podíĺśkyj).
+Until Round 19, Epicenter played home games in Ternópiĺ (150 km north-west of Kam'janéć-Podíĺśkyj),
+  then moved to Kýjiv (460 km north-east of Kam'janéć-Podíĺśkyj).
 
 Round 1 [Total Att: 25,705; Average: 3,213]
 [Aug 1]
@@ -371,7 +372,7 @@ Sachtar      2-2  Kryvbas
 Dynamo       1-2  Poltava
   [Olexándr Jácyk 79 - Volodýmyr Odarjúk 45+1; Jevhén Misjúra 74. Att: 582. +4°C]
 
-Round 15
+Round 15 [Total Att: 7,898; Average: 1,128]
 [Dec 5]
 Zorja        1-0  Karpaty
   [Pylýp Budkívśkyj 28. Att: 389. +4°C]
@@ -390,8 +391,9 @@ Kryvbas      3-0  Olexandrija
 [Dec 8]
 Poltava      0-3  Epicenter
   [Geovane Montanari 25; Jon Ceberio 50; Jehór Démčenko 82. Att: 210. +2°C]
-[ppd]
-Metalist'25  -  Veres
+[Apr 15]
+Metalist'25  4-0  Veres
+  [Peter Itodo 27, 56, 60; Christian Mba 87. Rivne. Att: 1,400. +15°C]
 
 Round 16 [Total Att: 8,540; Average: 1,068]
 [Dec 12]
@@ -507,7 +509,7 @@ Kolos        1-1  Zorja
 Epicenter    2-0  Ruch
   [Joaquinete Cifuentes 52 pen; Vadým Sydún 87. Kýjiv. Att: 1,850. +12°C]
 
-Round 21
+Round 21 [Total Att: 12,141; Average: 1,518]
 [Mar 18]
 Kudrivka     0-2  Polissja
   [Olexíj Huculják 18, 24. Žytómyr. Att: 1,046. +2°C]
@@ -527,29 +529,127 @@ Veres        0-1  Kolos
   [Eduárd Kózik 83. Att: 2,960. +12°C]
 Karpaty      4-0  Obolon
   [Bruninho da Silva 22, 53; Xeber Alkain 37; Artúr Šach 87. Att: 4,150. +11°C]
-[ppd]
-Zorja        -  Sachtar
+[Apr 23]
+Zorja        1-2  Sachtar
+  [Návin Mályš 51 - Prosper Obah 2; Artém Bondarénko 82 pen. Att: 973. +7°C]
+
+Round 22 [Total Att: 16,090; Average: 2,011]
+[Apr 3]
+Poltava      3-3  Olexandrija
+  [Arséntij Dorošénko 40; Bohdán Kobzár 60; Dmytró Plachtýr 72 -
+   Bryan Castillo 7; Mateus Amaral 31, 37. Att: 404. +17°C]
+[Apr 4]
+Dynamo       0-1  Karpaty
+  [Baboucarr Faal 5. Att: 4,300. +16°C]
+Kolos        0-0  Metalist'25
+  [Att: 1,244. +15°C]
+[Apr 5]
+Kryvbas      0-3  LNZ
+  [Danýlo V. Kravčúk 53, 67; Shotá Nonikashvíli 84. Att: 789. +15°C]
+Sachtar      3-0  Ruch
+  [Eguinaldo Lemos 34, 62; Luca Meirelles 88.
+   Missed PK: Pedrinho da Silva (Sac) 90+4. Att: 2,375. +18°C]
+Polissja     1-1  Veres
+  [Olexándr Andrijévśkyj 34 - Vladysláv Šaráj 45. Att: 3,572. +13°C]
+Obolon       3-3  Zorja
+  [Vladysláv Pryjmák 36; Román Volochátyj 61; Tarás Ljach 84 - Román Vántuch 7;
+   Íhor Perdúta 53; Pylýp Budkívśkyj 65 pen. Att: 1,913. +13°C]
+[Apr 6]
+Epicenter    1-0  Kudrivka
+  [Carlos Rojas Mosquero 56. Att: 1,493. +10°C]
+
+Round 23 [Total Att: 13,965; Average: 1,746]
+[Apr 10]
+Poltava      0-4  Polissja
+  [Olexíj Huculják 10 pen; Olexándr Andrijévśkyj 14;
+   Eduárd Sarapíj 34; Giorgi Maisuradze 71. Att: 276. +7°C]
+Ruch         1-1  Kolos
+  [Igor Neves 90 - Elias Telles 86. Att: 620. +7°C]
+[Apr 11]
+Metalist'25  1-0  Dynamo
+  [Denýs Ántjuch 77. Att: 2,133. +7°C]
+Karpaty      2-0  Olexandrija
+  [Jan Kosténko 75; Jean Pedroso 90+1. Att: 2,110. +8°C]
+Veres        2-0  Obolon
+  [Denýs Ndukwe 73; Íhor Charátin 85 pen. Att: 1,475. +10°C]
+[Apr 12]
+Kudrivka     1-2  Kryvbas
+  [Andríj Storčoús 81 - Carlos Paraco 33; Jarosláv Ševčénko 88. Rívne. Att: 74. +8°C]
+Zorja        1-0  Epicenter
+  [Jordan Cordeiro 33. Att: 577. +9°C]
+[Apr 13]
+LNZ          2-2  Sachtar
+  [Valérij Bóndar (Sac) 28 og; Mark Assinor 45+4 - Artúr Rjábov (LNZ) 11 og;
+   Eguinaldo Lemos 34. Att: 6,700. +10°C]
+
+Round 24 [Total Att: 11,436; Average: 1,430]
+[Apr 17]
+Dynamo       3-1  Zorja
+  [Matvíj Ponomarénko 19; Volodýmyr Bražkó 63 pen; Bohdán Redúško 68 -
+   Pylýp Budkívśkyj 9 pen. Att: 1,597. +15°C]
+Obolon       1-1  Poltava
+  [Oléh Slobodján 82 pen - Valérij Sad 53 pen. Att: 980. +11°C]
+[Apr 18]
+Kolos        1-0  LNZ
+  [Ibrahim Kane 7. Att: 1,244. +7°C]
+Metalist'25  1-0  Kudrivka
+  [Christian Mba 90+1. Att: 353. +13°C]
+[Apr 19]
+Kryvbas      3-0  Ruch
+  [Olexíj Tovarnýćkyj (Ruc) 15 og; Volodýmyr Jasínśkyj (Ruc) 45+3 og;
+   Jan Jurčec 67. Att: 572. +13°C]
+Epicenter    0-0  Karpaty
+  [Att: 1,540. +11°C]
+[Apr 20]
+Sachtar      1-0  Polissja
+  [Valérij Bóndar 56. Att: 4,050. +7°C]
+Olexandrija  0-3  Veres
+  [Fabrício Yan 7; Íhor Charátin 39; Guilherme Bahia 90. Att: 1,100. +12°C]
+
+Round 25 [Total Att: 12,257; Average: 1,532]
+[Apr 24]
+Kolos        2-0  Poltava
+  [Ardit Tahiri 70; Antón Salabáj 77. Att: 989. +10°C]
+[Apr 25]
+Ruch         0-3  Karpaty
+  [Jan Kosténko 32; Ambrósi Cháchua 44; Jean Pedroso 56. Att: 4,080. +15°C]
+[Apr 26]
+Kudrivka     1-3  Sachtar
+  [Olexándr Kózak 54 - Newerton da Silva 18; Lucas Ferreira 37;
+   Artém Bondarénko 57. Ĺviv. Att: 465. +7°C]
+LNZ          1-1  Metalist'25
+  [Artúr Rjábov 55 - Peter Itodo 70. Att: 931. +9°C]
+Polissja     3-1  Obolon
+  [Eduárd Sarapíj 19, 65; Olexíj Huculják 77 pen - Maxým Treťjakóv 89 pen. Att: 2,035. +6°C]
+Kryvbas      5-6  Dynamo
+  [Gleiker Mendoza 13, 29, 34, 45+2; Maxým Zaderáka 73 - Matvíj Ponomarénko 15; Tarás Mychávko 48;
+   Nazár I. Volóšyn 63; Vitálij Bujáĺśkyj 68; Andríj Jarmólenko 75, 88. Att: 1,550. +13°C]
+[Apr 27]
+Zorja        2-0  Veres
+  [Artém Slésar 18; Román Vántuch 60. Att: 287. +7°C]
+Epicenter    1-1  Olexandrija
+  [Carlos Rojas Mosquero 33 - Miguel Campos 90+2. Att: 1,920. +9°C]
 
 Table:
 
- 1.LNZ (Čerkásy)               21  15  2  4  30-12  47      [4-1]
- 2.Šachtár (Donéćk)            20  14  5  1  48-12  47      [1-4]
- 3.Políssja (Žytómyr)          21  13  3  5  36-14  42
- 4.Dynámo (Kýjiv)              21  12  5  4  49-23  41  [C]
- 5.Kryvbás (Krývyj Ríh)        21   9  7  5  33-28  34      [2-0, 0-0]
- 6.Metalíst 1925 (Chárkiv)     20   9  7  4  24-13  34  [P] [0-2, 0-0]
- 7.Kólos (Kovalívka)           21   8  8  5  20-20  32
- 8.Zórja (Luhánśk)             20   7  7  6  27-24  28
- 9.Karpáty (Ĺviv)              21   6  8  7  29-26  26
-10.Véres (Rívne)               20   5  7  8  16-24  22
-11.FC Kúdrivka                 21   5  6 10  24-35  21  [P] [1-0]
-12.Obolóń (Kýjiv)              20   5  6  9  14-33  21      [0-1]
+ 1.Šachtár (Donéćk)            25  18  6  1  59-16  60
+ 2.LNZ (Čerkásy)               25  16  4  5  36-16  52
+ 3.Políssja (Žytómyr)          25  15  4  6  44-17  49
+ 4.Dynámo (Kýjiv)              25  14  5  6  58-31  47  [C]
+ 5.Metalíst 1925 (Chárkiv)     25  12  9  4  31-14  45  [P]
+ 6.Kólos (Kovalívka)           25  10 10  5  24-21  40      [2-1, 1-1]
+ 7.Kryvbás (Krývyj Ríh)        25  11  7  7  43-38  40      [1-1, 1-2]
+ 8.Karpáty (Ĺviv)              25   9  9  7  35-26  36
+ 9.Zórja (Luhánśk)             25   9  8  8  35-32  35
+10.Véres (Rívne)               25   7  8 10  22-31  29
+11.Epicenter (Kam'janéć-Pod.)  25   7  4 14  27-37  25  [P]
+12.Obolóń (Kýjiv)              24   5  8 11  19-42  23
 - - - - - - - - - - - - - - - - - - - - - - - - - - --
-13.Epicenter (Kam'janéć-Pod.)  21   6  2 13  25-35  20  [P]
-14.Ruch (Ĺviv)                 21   6  1 14  16-32  19
+13.FC Kúdrivka                 25   5  6 14  26-42  21  [P]
+14.Ruch (Ĺviv)                 25   6  2 17  17-42  20
 ------------------------------------------------------
-15.FC Olexandríja              20   2  5 13  14-37  11
-16.SC Poltáva                  21   2  3 16  16-53   9  [P]
+15.FC Olexandríja              24   2  7 15  18-46  13
+16.SC Poltáva                  25   2  5 18  20-63  11  [P]
 
 Due to the war, several clubs from the eastern part of the country play home games in other cities:
 Kúdrivka      - Kýjiv (250 km south-west of Kúdrivka)
@@ -557,74 +657,29 @@ Metalíst 1925 - Žytómyr (615 km west of Chárkiv)
 SC Poltáva    - Kropyvnýćkyj (250 km south-west of Poltáva)
 Šachtár       - Ĺviv (1,200 km west of Donéćk)
 Zórja         - Kýjiv (800 km north-west of Luhánśk)
-Epicenter play home games in Ternópiĺ (150 km north-west of Kam'janéć-Podíĺśkyj).
+Until Round 19, Epicenter played home games in Ternópiĺ (150 km north-west of Kam'janéć-Podíĺśkyj),
+  then moved to Kýjiv (460 km north-east of Kam'janéć-Podíĺśkyj).
 
 Top scorers:
 
- 1.Matvíj PONOMARÉNKO (Dynámo)          9
- 2.Pylýp BUDKÍVŚKYJ (Zórja)             8
-   Baboucarr FAAL (Ruch/Karpaty)        8  [Gambia]
-   Mykóla HAJDÚČYK (Políssja)           8
- 5.Nemanja ANĐUŠIĆ (Zórja)              7  [Bosnia/Serbia]
-   Mark Osei ASSINOR (LNZ)              7  [Ghana]
-   BRUNINHO Pereira da Silva (Karpáty)  7  [Brazil]
-   Júrij KLYMČÚK (Kólos)                7
-   Prosper Sopuruchi OBAH (LNZ)         7  [Nigeria]
-   Andríj STORČOÚS (Kúdrivka)           7
-   Jehór TVERDOCHLÍB (Kryvbás)          7
-12.Olexíj HUCULJÁK (Políssja)           6
-   JOAQUINETE Cifuentes (Epicenter)     6  [Spain]
-   KAUÃ ELIAS Nogueira (Šachtár)        6  [Brazil]
-   Íhor KRASNOPÍR (Karpáty/Políssja)    6
-   Gleiker MENDOZA Barrios (Kryvbás)    6  [Venezuela]
-   Carlos PARACO González (Kryvbás)     6  [Venezuela]
-   PEDRINHO Delmino da Silva (Šachtár)  6  [Brazil]
-   Denýs USTÝMENKO (Obolóń)             6
-   Maxým ZADERÁKA (Kryvbás)             6
-
-Round 22
-[Apr 4]
-Sachtar      -  Ruch
-Kolos        -  Metalist'25
-Polissja     -  Veres
-Dynamo       -  Karpaty
-Poltava      -  Olexandrija
-Kryvbas      -  LNZ
-Epicenter    -  Kudrivka
-Obolon       -  Zorja
-
-Round 23
-[Apr 11]
-Metalist'25  -  Dynamo
-Zorja        -  Epicenter
-LNZ          -  Sachtar
-Ruch         -  Kolos
-Veres        -  Obolon
-Karpaty      -  Olexandrija
-Poltava      -  Polissja
-Kudrivka     -  Kryvbas
-
-Round 24
-[Apr 18]
-Dynamo       -  Zorja
-Metalist'25  -  Kudrivka
-Sachtar      -  Polissja
-Kolos        -  LNZ
-Epicenter    -  Karpaty
-Olexandrija  -  Veres
-Obolon       -  Poltava
-Kryvbas      -  Ruch
-
-Round 25
-[Apr 25]
-Kryvbas      -  Dynamo
-Polissja     -  Obolon
-Kudrivka     -  Sachtar
-LNZ          -  Metalist'25
-Zorja        -  Veres
-Ruch         -  Karpaty
-Epicenter    -  Olexandrija
-Kolos        -  Poltava
+ 1.Matvíj PONOMARÉNKO (Dynámo)           11
+ 2.Pylýp BUDKÍVŚKYJ (Zórja)              10
+   Gleiker MENDOZA Barrios (Kryvbás)     10  [Venezuela]
+ 4.Baboucarr FAAL (Ruch/Karpaty)          9  [Gambia]
+ 5.Mark Osei ASSINOR (LNZ)                8  [Ghana]
+   Mykóla HAJDÚČYK (Políssja)             8
+   Olexíj HUCULJÁK (Políssja)             8
+   Peter ITODO Mandela (Metalíst 1925)    8  [Nigeria]
+   Prosper Sopuruchi OBAH (LNZ/Šachtár)   8  [Nigeria]
+   Andríj STORČOÚS (Kúdrivka)             8
+11.Nemanja ANĐUŠIĆ (Zórja)                7  [Bosnia/Serbia]
+   BRUNINHO Pereira da Silva (Karpáty)    7  [Brazil]
+   EGUINALDO de Sousa Lemos (Šachtár)     7  [Brazil]
+   Andríj JARMÓLENKO (Dynámo)             7
+   Júrij KLYMČÚK (Kólos)                  7
+   Carlos PARACO González (Kryvbás)       7  [Venezuela]
+   Jehór TVERDOCHLÍB (Kryvbás)            7
+   Maxým ZADERÁKA (Kryvbás)               7
 
 Round 26
 [May 2]
@@ -862,10 +917,20 @@ METALÍST 1925 (Chárkiv) [D1]   3-0  Lokomotýv (Kýjiv) [D3]
 FC ČERNÍHIV [D2]               0-0  Phoenix (Mariúpoĺ) [D2]   [pen 5-4]
   [Att: 300. +6°C, rain]
 
-SEMIFINALS [Apr 21-23]
+SEMIFINALS [Total Att: 15,026; Average: 7,513]
 
-Metalíst 1925 (Chárkiv) [D1]    -   FC Černíhiv [D2]
-Bukovýna (Černivcí) [D2]        -   Dynámo (Kýjiv) [D1]
+[Apr 21]
+Bukovýna (Černivcí) [D2]       0-3  DYNÁMO (Kýjiv) [D1]
+  [Matvíj Ponomarénko 23, 82; Nazar Volóšyn 43. Ternópiĺ. Att: 14,500. +9°C]
+[Apr 22]
+Metalíst 1925 (Chárkiv) [D1]   0-0  FC ČERNÍHIV [D2]          [pen 5-6]
+  [Žytómyr. Att: 526. +11°C]
+
+FINAL
+
+[May 20, Ĺviv]
+
+Dynámo (Kýjiv) [D1]  -  FC Černíhiv [D2]
 
 
 
@@ -876,26 +941,26 @@ Bukovýna (Černivcí) [D2]        -   Dynámo (Kýjiv) [D1]
 
 Table:
 
- 1.Bukovýna (Černivcí)             21  18  3  0  49-15  57
- 2.Čornomóreć (Odésa)              21  13  6  2  30-12  45  [R]
+ 1.Bukovýna (Černivcí)             25  22  3  0  56-18  69       Promoted
+ 2.Čornomóreć (Odésa)              25  16  6  3  35-17  54  [R]
 ----------------------------------------------------------
- 3.Lívyj Béreh (Kýjiv)             21  13  4  4  34-17  43  [R]
- 4.Ahrobíznes (Voločýśk)           21  12  4  5  24-17  40
+ 3.Lívyj Béreh (Kýjiv)             25  15  5  5  39-19  50  [R]
+ 4.Ahrobíznes (Voločýśk)           25  14  4  7  33-22  46
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - --
- 5.Inhuléć (Petróve)               21  10  6  5  32-21  36  [R]
- 6.Prykarpáttja (Iváno-Frankívśk)  21   7  6  8  25-24  27
- 7.UCSA (Tarásivka)                21   7  5  9  21-24  26
- 8.Vorsklá (Poltáva)               21   6  6  9  18-21  24  [R] [2-0]
- 9.Nýva (Ternópiĺ)                 21   6  6  9  17-23  24      [0-2]
-10.Metalíst (Chárkiv)              20   6  5  9  19-23  23
-11.Viktórija (Súmy)                21   6  4 11  24-30  22      [3-0, 2-1]
-12.FC Černíhiv                     20   6  4 10  21-25  22  [P] [1-2, 0-3]
+ 5.Inhuléć (Petróve)               25  10  8  7  33-25  38  [R]
+ 6.UCSA (Tarásivka)                25   9  6 10  26-28  33
+ 7.Prykarpáttja (Iváno-Frankívśk)  25   8  8  9  29-28  32      [1-1, 2-0]
+ 8.Viktórija (Súmy)                25   9  5 11  32-32  32      [0-2, 1-1]
+ 9.Probíj (Horodénka)              25   8  5 12  26-31  29  [P]
+10.Vorsklá (Poltáva)               25   7  6 12  20-26  27  [R] [1-1]
+11.Metalíst (Chárkiv)              24   7  6 11  23-30  27      [1-1]
+12.Nýva (Ternópiĺ)                 25   6  8 11  18-26  26      [2-0, 0-1]
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - --
-13.Probíj (Horodénka)              21   5  5 11  20-29  20  [P] [0-0]
-14.Phoenix (Mariúpoĺ)              21   5  5 11  17-27  20      [0-0]
+13.FC Černíhiv                     24   7  5 12  24-29  26  [P] [1-0, 0-2]
+14.Phoenix (Mariúpoĺ)              25   6  7 12  22-32  25
 ----------------------------------------------------------
-15.Podíllja (Chmeĺnýćkyj)          21   4  5 12  16-33  17
-16.Metalúrh (Zaporížžja)           21   4  4 13  12-38  16
+15.Podíllja (Chmeĺnýćkyj)          25   4  7 14  18-37  19
+16.Metalúrh (Zaporížžja)           25   4  5 16  15-49  17
 
 FC Mynáj withdrew from all competitions due to financial difficulties.
 Designated home venues (for clubs currently based outside their native city):
@@ -1367,28 +1432,112 @@ Ahrobiznes    2-0  Vorskla
 Inhulec       0-2  UCSA
   [Anton Jevdokymov 5 pen; Pavlo Zachidnyj 15. Att: 0. +17°C]
 
+Round 22 [Total Att: 3,966; Average: 661]
+[Apr 7]
+Nyva Tern     1-1  Prykarpattja
+  [Denys Rezepov 42 - Olexandr Žmujda 21. Att: 500. +5°C]
+Metalist      2-1  Cernihiv
+  [Maxym Bahačanśkyj 26; Danylo Kajdalov 89 - Andrij Stoljarčuk 90+2. Att: 100. +14°C]
+Podillja      1-2  Viktorija
+  [Vadym Šavrin 4 - Stanislav Šaraj 13; Olexandr Černov 77. Att: 50. +8°C]
+[Apr 8]
+Bukovyna      2-1  Livyj Bereh
+  [Oleh Kožuško 50; Sidnney Santos (LB) 71 og - Wendell Brito 24. Att: 1,741. +7°C]
+Cornomorec    2-0  Inhulec
+  [Vladyslav Klymenko 65; Vladyslav Heryč 88. Att: 1,500. +9°C]
+UCSA          2-1  Ahrobiznes
+  [Antony Emere 20; Pablo Castro 32 - Roman Kuźmyn 87. Att: 0. +5°C]
+Vorskla       0-2  Probij
+  [Andrij Blizničenko 11; Andrij Fesenko 90+4. Att: 0. +8°C]
+Phoenix       2-1  Metalurh
+  [Serhij Kyslenko 15, 66 - Artem Sitalo 34. Missed PK: Dmytro Irodovśkyj (Met) 57. Att: 75. +6°C]
+
+Round 23 [Total Att: 5,441; Average: 907]
+[Apr 11]
+Prykarpattja  1-1  Podillja
+  [Vasyĺ Cjucjura 58 - Vadym Šavrin 23. Att: 300. +9°C]
+Cernihiv      1-0  Nyva Tern
+  [Andrij Novikov 39. Missed PK: Maxym Serdjuk (Cer) 62. Att: 367. +5°C]
+[Apr 12]
+Bukovyna      2-1  Phoenix
+  [Vitalij Hruša 45+1; Vadym Vitenčuk 90+6 - Nazar Hrycak 77. Att: 2,094. +11°C]
+Ahrobiznes    1-2  Cornomorec
+  [Roman Kuźmyn 90+4 - Vitalij Jermakov 7; Andrij Choma 90+3. Att: 550. +8°C]
+Inhulec       0-0  Metalurh
+  [Att: 0. +9°C]
+Probij        1-0  UCSA
+  [Nazar Havryljuk 67. Att: 1,500. +12°C]
+Viktorija     1-0  Vorskla
+  [Vladyslav Chameljuk 43 pen. Att: 0. +9°C]
+[Apr 13]
+Livyj Bereh   3-0  Metalist
+  [Jevhen Banada 19; Vikentij Vološyn 41, 45+1. Missed PK: Sidnney Santos (LB) 33. Att: 630. +10°C]
+
+Round 24 [Total Att: 3,656; Average: 522]
+[Apr 17]
+Metalist      1-2  Bukovyna
+  [Bohdan Poroch 80 - Vitalij Dachnovśkyj 12, 28 pen. Att: 150. +19°C]
+[Apr 18]
+Cornomorec    1-0  Probij
+  [Vladyslav Heryč 88. Att: 1,500. +15°C]
+Nyva Tern     0-0  Livyj Bereh
+  [Att: 800. +14°C]
+Vorskla       0-1  Prykarpattja
+  [Vasyĺ Cjucjura 56 pen. Att: 0. +13°C]
+Podillja      0-0  Cernihiv
+  [Att: 756. +13°C]
+[Apr 19]
+Metalurh      1-6  Ahrobiznes
+  [Dmytro Irodovśkyj 2 - Nazarij Nyč 10, 30, 42; Roman Kuźmyn 27;
+   Roman Toločko 55; Andrij Riznyk 70. Att: 150. +9°C]
+Phoenix       1-1  Inhulec
+  [Jevhen Janovič 88 (Inh) - Bohdan Mohyĺnyj 67. Att: 250. +16°C]
+UCSA          1-1  Viktorija
+  [Mykyta Sytnykov 33 - Olexandr Vasyĺjev 90. Att: 50. +11°C]
+
+Round 25 [Total Att: 4,425; Average: 632]
+[Apr 24]
+Livyj Bereh   1-0  Podillja
+  [Jevhen Banada 10. Att: 250. +12°C]
+[Apr 25]
+Prykarpattja  1-2  UCSA
+  [Vasyĺ Cjucjura 42 - Anton Jevdokymov 30 pen; Mykyta Sytnykov 39. Att: 300. +16°C]
+Metalist      1-1  Phoenix
+  [Danijil Prychoďko 63 - Nazar Hrycak 90+3. Att: 200. +25°C]
+Probij        3-1  Metalurh
+  [Ihor Huk 16; Bohdan Orynčak 23 pen; Andrij Blizničenko 87 - Danylo Kiričenko 8. Att: 800. +17°C]
+[Apr 26]
+Bukovyna      1-0  Nyva Tern
+  [Vitalij Hruša 86. Att: 2,500. +11°C]
+Viktorija     4-0  Cornomorec
+  [Olexandr Vasyĺjev 1; Artem Špyrjonok 54, 64; Dmytro Uĺjanov 89. Att: 0. +9°C]
+Ahrobiznes    1-0  Inhulec
+  [Roman Kuźmyn 89. Att: 150. +7°C]
+Cernihiv      1-2  Vorskla
+  [Vjačeslav Kojdan 84 - Ivan Phocxveria 9; Anton Bajdal 41. Att: 225. +10°C]
+
 Table:
 
- 1.Bukovýna (Černivcí)             21  18  3  0  49-15  57
- 2.Čornomóreć (Odésa)              21  13  6  2  30-12  45  [R]
+ 1.Bukovýna (Černivcí)             25  22  3  0  56-18  69       Promoted
+ 2.Čornomóreć (Odésa)              25  16  6  3  35-17  54  [R]
 ----------------------------------------------------------
- 3.Lívyj Béreh (Kýjiv)             21  13  4  4  34-17  43  [R]
- 4.Ahrobíznes (Voločýśk)           21  12  4  5  24-17  40
+ 3.Lívyj Béreh (Kýjiv)             25  15  5  5  39-19  50  [R]
+ 4.Ahrobíznes (Voločýśk)           25  14  4  7  33-22  46
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - --
- 5.Inhuléć (Petróve)               21  10  6  5  32-21  36  [R]
- 6.Prykarpáttja (Iváno-Frankívśk)  21   7  6  8  25-24  27
- 7.UCSA (Tarásivka)                21   7  5  9  21-24  26
- 8.Vorsklá (Poltáva)               21   6  6  9  18-21  24  [R] [2-0]
- 9.Nýva (Ternópiĺ)                 21   6  6  9  17-23  24      [0-2]
-10.Metalíst (Chárkiv)              20   6  5  9  19-23  23
-11.Viktórija (Súmy)                21   6  4 11  24-30  22      [3-0, 2-1]
-12.FC Černíhiv                     20   6  4 10  21-25  22  [P] [1-2, 0-3]
+ 5.Inhuléć (Petróve)               25  10  8  7  33-25  38  [R]
+ 6.UCSA (Tarásivka)                25   9  6 10  26-28  33
+ 7.Prykarpáttja (Iváno-Frankívśk)  25   8  8  9  29-28  32      [1-1, 2-0]
+ 8.Viktórija (Súmy)                25   9  5 11  32-32  32      [0-2, 1-1]
+ 9.Probíj (Horodénka)              25   8  5 12  26-31  29  [P]
+10.Vorsklá (Poltáva)               25   7  6 12  20-26  27  [R] [1-1]
+11.Metalíst (Chárkiv)              24   7  6 11  23-30  27      [1-1]
+12.Nýva (Ternópiĺ)                 25   6  8 11  18-26  26      [2-0, 0-1]
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - --
-13.Probíj (Horodénka)              21   5  5 11  20-29  20  [P] [0-0]
-14.Phoenix (Mariúpoĺ)              21   5  5 11  17-27  20      [0-0]
+13.FC Černíhiv                     24   7  5 12  24-29  26  [P] [1-0, 0-2]
+14.Phoenix (Mariúpoĺ)              25   6  7 12  22-32  25
 ----------------------------------------------------------
-15.Podíllja (Chmeĺnýćkyj)          21   4  5 12  16-33  17
-16.Metalúrh (Zaporížžja)           21   4  4 13  12-38  16
+15.Podíllja (Chmeĺnýćkyj)          25   4  7 14  18-37  19
+16.Metalúrh (Zaporížžja)           25   4  5 16  15-49  17
 
 FC Mynáj withdrew from all competitions due to financial difficulties.
 Designated home venues (for clubs currently based outside their native city):
@@ -1400,59 +1549,19 @@ Viktórija - Borýspiĺ (Rounds 1-3; 315 km west of Súmy);
 
 Top scorers:
 
-1.Maxým Vojtichóvśkyj (Ahrobíznes)  12
-2.Andríj Chóma (Prykarpáttja)       11
-  Vitálij Dachnóvśkyj (Bukovýna)    11
-  Vitálij Farasjéjenko (Inhuléć)    11
-5.Bohdán Bojčúk (Bukovýna)           7
-6.Oléh Kožúško (Bukovýna)            6
-  Serhíj Kyslénko (Inhuléć)          6
+1.Vitálij Dachnóvśkyj (Bukovýna)    13
+2.Andríj Chóma (Prykarpáttja)       12
+  Maxým Vojtichóvśkyj (Ahrobíznes)  12
+4.Vitálij Farasjéjenko (Inhuléć)    11
+5.Román Kuźmýn (Ahrobíznes)          9
+  Serhíj Kyslénko (Inhuléć)          9
+7.Bohdán Bojčúk (Bukovýna)           7
+  Oléh Kožúško (Bukovýna)            7
+9.Vitálij Hrúša (Bukovýna)           6
   Már'jan Mýsyk (Nýva)               6
+  Andrij Novikov (Černíhiv)          6
   Jevhén Pidlepenéć (Bukovýna)       6
-
-Round 22
-[Apr 8]
-Vorskla       -  Probij
-UCSA          -  Ahrobiznes
-Cornomorec    -  Inhulec
-Bukovyna      -  Livyj Bereh
-Metalist      -  Cernihiv
-Nyva Tern     -  Prykarpattja
-Podillja      -  Viktorija
-Phoenix       -  Metalurh
-
-Round 23
-[Apr 12]
-Inhulec       -  Metalurh
-Ahrobiznes    -  Cornomorec
-Probij        -  UCSA
-Viktorija     -  Vorskla
-Prykarpattja  -  Podillja
-Cernihiv      -  Nyva Tern
-Livyj Bereh   -  Metalist
-Bukovyna      -  Phoenix
-
-Round 24
-[Apr 18]
-Vorskla       -  Prykarpattja
-UCSA          -  Viktorija
-Cornomorec    -  Probij
-Metalurh      -  Ahrobiznes
-Metalist      -  Bukovyna
-Nyva Tern     -  Livyj Bereh
-Podillja      -  Cernihiv
-Phoenix       -  Inhulec
-
-Round 25
-[Apr 25]
-Ahrobiznes    -  Inhulec
-Probij        -  Metalurh
-Viktorija     -  Cornomorec
-Prykarpattja  -  UCSA
-Cernihiv      -  Vorskla
-Livyj Bereh   -  Podillja
-Bukovyna      -  Nyva Tern
-Metalist      -  Phoenix
+  Artúr Remenják (Phoenix)           6
 
 Round 26
 [May 2]
@@ -1521,23 +1630,23 @@ Departed: Metalíst'1925-B (Chárkiv), Metalúrh (Zaporížžja),
 
 ‹Group A, see §3a› | ‹Group B, see §3b›
 
-Group A  ‹§3a›
+===== Group A  ‹§3a›
 
 Table:
 
- 1.Políssja-2 (Žytómyr)           22  13  7  2  56-19  46      [0-0, 1-1, 1-1]
+ 1.Políssja-2 (Žytómyr)           23  14  7  2  58-19  49      [0-0, 1-1, 1-1]
 ---------------------------------------------------------
- 2.FC Kúlykiv-Bílka               21  14  4  3  39-14  46      [1-1, 0-0, 1-1]
+ 2.FC Kúlykiv-Bílka               23  15  4  4  45-16  49      [1-1, 0-0, 1-1]
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Sámbir-Nýva-2 (Ternópiĺ)       22  14  2  6  25-19  44
- 4.Nýva (Vínnycja)                22  11  3  8  31-26  36
- 5.Atlét (Kýjiv)                  22  11  2  9  32-36  35  [N]
- 6.FC Úžhorod                     22   9  4  9  29-26  31
- 7.Skalá 1911 (Stryj)             22   9  3 10  49-38  30
- 8.FC Lisné                       21   8  3 10  32-30  27  [N] Withdrew
- 9.FC Viĺchívci                   22   6  5 11  31-39  23
-10.Bukovýna-2 (Černivcí)          22   5  5 12  23-37  20  [N]
-11.Real Pharma (Odésa)            22   0  2 20  14-77   2
+ 3.Sámbir-Nýva-2 (Ternópiĺ)       24  14  2  8  25-26  44
+ 4.Nýva (Vínnycja)                24  13  3  8  36-27  42
+ 5.Atlét (Kýjiv)                  24  13  2  9  38-39  41  [N]
+ 6.Skalá 1911 (Stryj)             24  10  4 10  53-39  34
+ 7.FC Úžhorod                     23  10  4  9  29-26  34
+ 8.FC Lisné                       23   8  3 12  32-30  27  [N] Withdrew
+ 9.FC Viĺchívci                   24   7  5 12  33-42  26
+10.Bukovýna-2 (Černivcí)          24   5  5 14  25-44  20  [N]
+11.Real Pharma (Odésa)            24   0  3 21  14-80   3
 
 FC Lisné played home games in Makáriv (31 km west of Lisné).
   They were expelled from the league on Nov 24.
@@ -1909,21 +2018,52 @@ Vilchivci      1-1  Skala 1911
 Uzhorod        0-0  Atlet
   [Att: 200. +17°C]
 
+Round 25 [Total Att: 350; Average: 117]
+[Apr 8]
+Sambir-Nyva-2  0-5  Kulykiv-Bilka
+  [Danyjil Volkov 4, 6; Volodymyr Matusevyč (SN2) 26 og;
+   Andrij Lebedenko 59; Vitalij Patuljak 71. Att: 200. +4°C]
+Nyva Vinn      3-0  Real Pharma
+  [Artur Zahoruĺko 60; Mykyta Petruk 62; Artem Petryk 86. Att: 100. +5°C]
+Lisne          -/+  Uzhorod
+[Apr 9]
+Atlet          3-2  Vilchivci
+  [Rostyslav Babyč 35, 39; Nazar Presič 49 - Edvard Kobak 51;
+   Olexandr Hlahola 84. Missed PK: Mykyta Movčan (Atl) 73. Att: 0. +5°C]
+Skala 1911     4-1  Bukovyna-2
+  [Roman Lisovyk 15; Mykyta Ljednjev 45; Olexandr Feťko 90;
+   Ruslan Maĺśkyj 90+2 - Roman Horenko 81. Černivcí. Att: 50. +5°C]
+
+Round 26 [Total Att: 290; Average: 145]
+[Apr 12]
+Kulykiv-Bilka  1-2  Nyva Vinn
+  [Danyjil Volkov 62 - Mykyta Petruk 9 pen; Vladyslav Vit. Pohorilyj 45 pen.
+   Missed PK: Oleh Nyčyporenko (KB) 73. Att: 250. +11°C]
+Polissja-2     2-0  Sambir-Nyva-2
+  [Mychajlo Rasko 33 pen; Waliffer Lima 57. Att: 40. +8°C]
+Vilchivci      +/-  Lisne
+[Apr 13]
+Bukovyna-2     1-3  Atlet
+  [Nazar Hamolov 37 - Danyjil Tyščenko 60; Marat Dzjubin (Buk) 88 og;
+   Nazar Presič 90+4. Att: 0. +11°C]
+Real Pharma    0-0  Skala 1911
+  [Att: 0. +12°C]
+
 Table:
 
- 1.Políssja-2 (Žytómyr)           22  13  7  2  56-19  46      [0-0, 1-1, 1-1]
+ 1.Políssja-2 (Žytómyr)           23  14  7  2  58-19  49      [0-0, 1-1, 1-1]
 ---------------------------------------------------------
- 2.FC Kúlykiv-Bílka               21  14  4  3  39-14  46      [1-1, 0-0, 1-1]
+ 2.FC Kúlykiv-Bílka               23  15  4  4  45-16  49      [1-1, 0-0, 1-1]
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Sámbir-Nýva-2 (Ternópiĺ)       22  14  2  6  25-19  44
- 4.Nýva (Vínnycja)                22  11  3  8  31-26  36
- 5.Atlét (Kýjiv)                  22  11  2  9  32-36  35  [N]
- 6.FC Úžhorod                     22   9  4  9  29-26  31
- 7.Skalá 1911 (Stryj)             22   9  3 10  49-38  30
- 8.FC Lisné                       21   8  3 10  32-30  27  [N] Withdrew
- 9.FC Viĺchívci                   22   6  5 11  31-39  23
-10.Bukovýna-2 (Černivcí)          22   5  5 12  23-37  20  [N]
-11.Real Pharma (Odésa)            22   0  2 20  14-77   2
+ 3.Sámbir-Nýva-2 (Ternópiĺ)       24  14  2  8  25-26  44
+ 4.Nýva (Vínnycja)                24  13  3  8  36-27  42
+ 5.Atlét (Kýjiv)                  24  13  2  9  38-39  41  [N]
+ 6.Skalá 1911 (Stryj)             24  10  4 10  53-39  34
+ 7.FC Úžhorod                     23  10  4  9  29-26  34
+ 8.FC Lisné                       23   8  3 12  32-30  27  [N] Withdrew
+ 9.FC Viĺchívci                   24   7  5 12  33-42  26
+10.Bukovýna-2 (Černivcí)          24   5  5 14  25-44  20  [N]
+11.Real Pharma (Odésa)            24   0  3 21  14-80   3
 
 FC Lisné played home games in Makáriv (31 km west of Lisné).
   They were expelled from the league on Nov 24.
@@ -1933,35 +2073,19 @@ Sámbir-Nýva-2 (Ternópiĺ) is a merger of Nyva's second team and an amateur cl
 
 Top scorers:
 
-1.Nazár Volóšyn (Lisné)               13
-2.Jerry Dieu-Merci Yoka (Políssja-2)  12  [Congo]
-3.Rostysláv Bábyč (Atlét)             11
-4.Iván Romančúk (Políssja-2)           9
-  Danyjíl Vólkov (Kúlykiv-Bílka)       9
-6.Artúr Zahorúĺko (Nýva Vinn)          8
-7.Maxým Kramarčúk (Sámbir-Nýva-2)      7
+1.Rostysláv Bábyč (Atlét)             13
+  Nazár Volóšyn (Lisné)               13
+3.Danyjíl Vólkov (Kúlykiv-Bílka)      12
+  Jerry Dieu-Merci Yoka (Políssja-2)  12  [Congo]
+5.Iván Romančúk (Políssja-2)           9
+  Artúr Zahorúĺko (Nýva Vinn)          9
+7.Nazár Présič (Atlét)                 8
+8.Maxým Kramarčúk (Sámbir-Nýva-2)      7
+  Román Lisovýk (Skalá 1911)           7
+  Vitálij Patulják (Kúlykiv-Bílka)     7
+  Vladysláv Vit. Pohorílyj (Nýva Vi)   7
+  Mychájlo Raskó (Políssja-2)          7
   Mykýta Šarabúra (Kúlykiv-Bílka)      7
-9.Olexándr Kalínin (Lisné)             6
-  Román Lisovýk (Skalá 1911)           6
-  Jevhén Mykytjúk (Políssja-2)         6
-  Vitálij Patulják (Kúlykiv-Bílka)     6
-  Vladysláv Pohorílyj (Nýva Vinn)      6
-  Nazár Présič (Atlét)                 6
-  Mychájlo Raskó (Políssja-2)          6
-
-Round 25 [Apr 8]
-Lisne          -  Uzhorod
-Atlet          -  Vilchivci
-Skala 1911     -  Bukovyna-2
-Nyva Vinn      -  Real Pharma
-Sambir-Nyva-2  -  Kulykiv-Bilka
-
-Round 26 [Apr 12]
-Vilchivci      -  Lisne
-Bukovyna-2     -  Atlet
-Real Pharma    -  Skala 1911
-Kulykiv-Bilka  -  Nyva Vinn
-Polissja-2     -  Sambir-Nyva-2
 
 Round 27 [Apr 18]
 Uzhorod        -  Vilchivci
@@ -2012,23 +2136,23 @@ Vilchivci      -  Sambir-Nyva-2
 Bukovyna-2     -  Polissja-2
 Real Pharma    -  Kulykiv-Bilka
 
-Group B  ‹§3b›
+===== Group B  ‹§3b›
 
 Table:
 
- 1.Kólos-2 (Kovalívka)            21  15  4  2  42-14  49
+ 1.Kólos-2 (Kovalívka)            23  15  5  3  44-19  50
 ---------------------------------------------------------
- 2.Lokomotýv (Kýjiv)              22  14  4  4  44-17  46
+ 2.Lokomotýv (Kýjiv)              23  15  4  4  45-17  49      [1-1, 2-0]
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Čájka (Petropávl.Borščahívka)  22  13  4  5  45-27  43
- 4.FC Trostjanéć                  22  12  6  4  39-20  42
- 5.Rebel (Kýjiv)                  22  11  4  7  22-16  37  [N]
- 6.FC Olexandríja-2               22   9  8  5  26-21  35
- 7.Lívyj Béreh-2 (Kýjiv)          21   8  7  6  32-20  31  [N]
- 8.Čornomóreć-2 (Odésa)           22   2 10 10  20-40  16  [N]
- 9.Hirnýk-Sport (Horíšni Plávni)  22   3  3 16  16-51  12
-10.Penuél (Kryvýj Rih)            22   1  7 14  19-43  10  [N]
-11.Dináz (Demýdiv)                22   2  3 17  16-52   9  [R]
+ 3.Čájka (Petropávl.Borščahívka)  24  15  4  5  50-27  49      [0-2, 1-1]
+ 4.FC Trostjanéć                  24  12  7  5  39-21  43
+ 5.Rebel (Kýjiv)                  24  12  5  7  27-17  41  [N] [0-1, 2-1]
+ 6.FC Olexandríja-2               24  11  8  5  32-23  41      [1-2, 1-0]
+ 7.Lívyj Béreh-2 (Kýjiv)          23  10  7  6  36-21  37  [N]
+ 8.Čornomóreć-2 (Odésa)           23   2 10 11  21-42  16  [N]
+ 9.Hirnýk-Sport (Horíšni Plávni)  24   3  3 18  16-57  12
+10.Penuél (Kryvýj Rih)            24   1  8 15  20-47  11  [N]
+11.Dináz (Demýdiv)                24   2  3 19  16-55   9  [R]
 
 Until Round 13, Kólos-2 played home games in Obúchiv (65 km east of Kovalivka),
   then moved to Ščaslýve (89 km north-east of Kovalivka).
@@ -2397,21 +2521,51 @@ Penuel         1-1  Olexandrija-2
 Cornomorec-2   0-2  Rebel
   [Danijil Juško 25, 48. Att: 0. +15°C]
 
+Round 25 [Total Att: 235; Average: 78]
+[Apr 8]
+Trostjanec     0-0  Kolos-2
+  [Att: 35. +8°C]
+Rebel          4-0  Hirnyk-Sport
+  [Jaroslav Bazajev 17; Danijil Juško 26; Vladyslav Klymenko 59;
+   Vladyslav Zorenko 62. Att: 150. +7°C]
+Olexandrija-2  1-0  Dinaz
+  [Denys Kur'jakov (Din) 1 og. Att: 50. +9°C]
+[Apr 9]
+Cajka          3-0  Penuel
+  [Valentyn Ovčaruk 22, 45; Mykyta Baranov 86. Att: 0. +5°C]
+Livyj Bereh-2  2-1  Cornomorec-2
+  [Roman Hereš 7, 17 - Mykyta Suchomlyn 29. Att: 0. +6°C]
+
+Round 26 [Total Att: 330; Average: 165]
+[Apr 12]
+Kolos-2        2-5  Olexandrija-2
+  [Klim Prychoďko 25; Rostyslav Taranucha 45+3 - Dmytro Kremčanin 9, 29, 63;
+   Jhonnatan Silva 43; Matvij Maĺko 90. Att: 100. +9°C]
+Lokomotyv      1-0  Trostjanec
+  [Andrij Holovatenko 52. Att: 230. +9°C]
+[Apr 13]
+Dinaz          0-2  Cajka
+  [Hlib Venher 82, 84 pen. Att: 0. +10°C]
+Penuel         1-1  Rebel
+  [Ivan Macijuk 70 pen - Dmytro Maxymenko 90+1. Att: 0. +11°C]
+Hirnyk-Sport   0-2  Livyj Bereh-2
+  [Daniil Kornijenko 7; Valentyn Tkač (HS) 17 og. Att: 0. +11°C]
+
 Table:
 
- 1.Kólos-2 (Kovalívka)            21  15  4  2  42-14  49
+ 1.Kólos-2 (Kovalívka)            23  15  5  3  44-19  50
 ---------------------------------------------------------
- 2.Lokomotýv (Kýjiv)              22  14  4  4  44-17  46
+ 2.Lokomotýv (Kýjiv)              23  15  4  4  45-17  49      [1-1, 2-0]
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Čájka (Petropávl.Borščahívka)  22  13  4  5  45-27  43
- 4.FC Trostjanéć                  22  12  6  4  39-20  42
- 5.Rebel (Kýjiv)                  22  11  4  7  22-16  37  [N]
- 6.FC Olexandríja-2               22   9  8  5  26-21  35
- 7.Lívyj Béreh-2 (Kýjiv)          21   8  7  6  32-20  31  [N]
- 8.Čornomóreć-2 (Odésa)           22   2 10 10  20-40  16  [N]
- 9.Hirnýk-Sport (Horíšni Plávni)  22   3  3 16  16-51  12
-10.Penuél (Kryvýj Rih)            22   1  7 14  19-43  10  [N]
-11.Dináz (Demýdiv)                22   2  3 17  16-52   9  [R]
+ 3.Čájka (Petropávl.Borščahívka)  24  15  4  5  50-27  49      [0-2, 1-1]
+ 4.FC Trostjanéć                  24  12  7  5  39-21  43
+ 5.Rebel (Kýjiv)                  24  12  5  7  27-17  41  [N] [0-1, 2-1]
+ 6.FC Olexandríja-2               24  11  8  5  32-23  41      [1-2, 1-0]
+ 7.Lívyj Béreh-2 (Kýjiv)          23  10  7  6  36-21  37  [N]
+ 8.Čornomóreć-2 (Odésa)           23   2 10 11  21-42  16  [N]
+ 9.Hirnýk-Sport (Horíšni Plávni)  24   3  3 18  16-57  12
+10.Penuél (Kryvýj Rih)            24   1  8 15  20-47  11  [N]
+11.Dináz (Demýdiv)                24   2  3 19  16-55   9  [R]
 
 Until Round 13, Kólos-2 played home games in Obúchiv (65 km east of Kovalivka),
   then moved to Ščaslýve (89 km north-east of Kovalivka).
@@ -2419,30 +2573,17 @@ Penuél play home games in Volodýmyrivka (125 km north of Kryvýj Rih).
 
 Top scorers:
 
-1.Maxým Čehlóv (Trostjanéć)       11
-  Román Héreš (Lívyj Béreh-2)     12
-3.Valentýn Ovčarúk (Čájka)        10
+1.Román Héreš (Lívyj Béreh-2)     14
+2.Maxým Čehlóv (Trostjanéć)       12
+  Valentýn Ovčarúk (Čájka)        12
 4.Tymofíj Chússin (Trostjanéć)     8
+  Andríj Holovaténko (Lokomotýv)   8
   Bohdán Mórdas (Lokomotýv)        8
-6.Artúr Bobíta (Dináz)             7
-  Andríj Holovaténko (Lokomotýv)   7
+7.Artúr Bobíta (Dináz)             7
   Iván Meĺnyčénko (Lokomotýv)      7
   Mykóla Večúrko (Čájka)           7
+  Hlib Venhér (Čájka)              7
   Pavló Zamurénko (Trostjanéć)     7  [Ukraine/Russia]
-
-Round 25 [Apr 8]
-Livyj Bereh-2  -  Cornomorec-2
-Rebel          -  Hirnyk-Sport
-Cajka          -  Penuel
-Olexandrija-2  -  Dinaz
-Trostjanec     -  Kolos-2
-
-Round 26 [Apr 12]
-Hirnyk-Sport   -  Livyj Bereh-2
-Penuel         -  Rebel
-Dinaz          -  Cajka
-Kolos-2        -  Olexandrija-2
-Lokomotyv      -  Trostjanec
 
 Round 27 [Apr 18]
 Cornomorec-2   -  Hirnyk-Sport

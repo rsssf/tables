@@ -1,0 +1,3 @@
+tablesb/bots2025                :  2024/25
+tablesb/botschamp               :  list of champions
+tablesb/botscuphist             :  list of cup winners

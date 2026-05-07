@@ -2,7 +2,7 @@
      title:   Malaysia 2025/26
      source:  https://rsssf.org/tablesm/malay2026.html
      author:  Karel Stokkermans
-     updated: 19 Mar 2026    
+     updated: 7 May 2026
     -->
 
 
@@ -16,21 +16,22 @@
 
 Table:
 
- 1.Darul Ta'zim FC (Johor)            20  20  0  0  93- 7  60  [C]  Champions
- 2.Selangor FC                        20  13  3  4  42-19  42
- 3.Kuching City FC                    19  12  4  3  33- 9  40
- 4.Kuala Lumpur City FC               20  11  6  3  36-19  39
- 5.Terengganu FC                      19   9  4  6  33-26  31
- 6.Negeri Sembilan FC                 19   5  7  7  31-28  22
- 7.Imigresen FC                       19   6  3 10  26-40  21  [P]
- 8.Brunei DPMM FC                     19   6  3 10  24-47  21  [*]
- 9.Penang FC                          19   5  4 10  23-35  19
-10.Sabah FC                           18   3  6  9  22-40  15
-11.Kelantan Darul Naim FC             20   4  3 13  15-39  14
-12.Melaka FC                          19   3  5 11  14-39  14  [P]
-13.PDRM FC                            19   2  4 13  14-58  10
+ 1.Darul Ta'zim FC (Johor)            23  22  1  0 103- 9  67  [C]  Champions
+ 2.Selangor FC                        23  15  4  4  53-20  49
+ 3.Kuching City FC                    22  14  5  3  41-13  47
+ 4.Kuala Lumpur City FC               22  12  6  4  38-26  42
+ 5.Terengganu FC                      22   9  6  7  37-31  33
+ 6.Imigresen FC                       22   8  4 10  34-41  28  [P]
+ 7.Negeri Sembilan FC                 22   5 10  7  35-32  25
+ 8.Brunei DPMM FC                     22   6  5 11  29-54  23  [*]
+ 9.Penang FC                          22   5  6 11  23-39  21
+10.Sabah FC                           22   4  8 10  28-43  20
+11.Melaka FC                          22   4  6 12  16-41  18  [P]
+12.Kelantan The Real Warriors FC      22   4  3 15  15-47  15  [!]
+13.PDRM FC                            22   2  4 16  16-72  10
 
 [*] Brunei DPMM joined from the ‹Singapore S-League, see page ../tabless/sing2025›
+[!] Kelantan Darul Naim FC were renamed Kelantan The Real Warriors FC
 
 NB: Kedah Darul Aman FC and Perak FC expelled due to financial problems;
     Sri Pahang FC withdrew
@@ -40,7 +41,7 @@ Round 1
 Darul Ta'zim FC        3-0 Selangor FC            [also for ‹§chs›Piala Sumbangsih]
 [Aug 9]
 Imigresen FC           0-3 Kuala Lumpur City FC
-Kuching City FC        4-0 Kelantan Darul Naim FC
+Kuching City FC        4-0 Kelantan TRW FC
 PDRM FC                2-2 Brunei DPMM FC
 [Aug 10]
 Penang FC              0-3 Terengganu FC
@@ -51,7 +52,7 @@ Negeri Sembilan FC     bye
 Round 2
 [Aug 12]
 Darul Ta'zim FC        5-3 Negeri Sembilan FC
-Kelantan Darul Naim FC 1-1 Imigresen FC
+Kelantan TRW FC        1-1 Imigresen FC
 Selangor FC            3-0 Brunei DPMM FC
 [Aug 13]
 Melaka FC              1-1 Penang FC
@@ -63,7 +64,7 @@ Round 3
 [Aug 22]
 Brunei DPMM FC         0-5 Terengganu FC
 [Aug 23]
-Sabah FC               0-0 Kelantan Darul Naim FC
+Sabah FC               0-0 Kelantan TRW FC
 PDRM FC                0-0 Melaka FC
 [Aug 24]
 Kuching City FC        0-1 Darul Ta'zim FC
@@ -80,7 +81,7 @@ Imigresen FC           0-3 Darul Ta'zim FC
 [Aug 29]
 Negeri Sembilan FC     2-2 Kuching City FC
 [Aug 30]
-Penang FC              0-1 Kelantan Darul Naim FC
+Penang FC              0-1 Kelantan TRW FC
 [Sep 30]
 Melaka FC              0-1 Brunei DPMM FC
 Sabah FC               bye
@@ -90,7 +91,7 @@ Round 5
 Terengganu FC          4-0 Melaka FC
 [Sep 20]
 Imigresen FC           1-1 Negeri Sembilan FC
-PDRM FC                3-1 Kelantan Darul Naim FC
+PDRM FC                3-1 Kelantan TRW FC
 [Sep 21]
 Kuching City FC        1-0 Selangor FC
 Darul Ta'zim FC        8-0 Sabah FC
@@ -102,7 +103,7 @@ Round 6
 [Sep 11]
 Darul Ta'zim FC        6-0 Penang FC
 [Sep 26]
-Brunei DPMM FC         1-2 Kelantan Darul Naim FC
+Brunei DPMM FC         1-2 Kelantan TRW FC
 [Sep 27]
 Kuala Lumpur City FC   1-0 Terengganu FC
 Negeri Sembilan FC     3-0 Sabah FC
@@ -114,7 +115,7 @@ PDRM FC                bye
 
 Round 7
 [Oct 3]
-Terengganu FC          4-1 Kelantan Darul Naim FC
+Terengganu FC          4-1 Kelantan TRW FC
 [Oct 4]
 Penang FC              2-1 Negeri Sembilan FC
 Sabah FC               0-1 Kuching City FC
@@ -127,7 +128,7 @@ Brunei DPMM FC         bye
 
 Round 8
 [Oct 24]
-Kelantan Darul Naim FC 2-1 Melaka FC
+Kelantan TRW FC        2-1 Melaka FC
 [Oct 25]
 Kuching City FC        1-1 Penang FC
 Darul Ta'zim FC       10-0 Brunei DPMM FC
@@ -142,7 +143,7 @@ Round 9
 Terengganu FC          0-5 Darul Ta'zim FC
 [Nov 1]
 Sabah FC               1-2 Selangor FC
-Kuala Lumpur City FC   2-1 Kelantan Darul Naim FC
+Kuala Lumpur City FC   2-1 Kelantan TRW FC
 PDRM FC                0-5 Kuching City FC
 [Nov 2]
 Brunei DPMM FC         2-2 Negeri Sembilan FC
@@ -155,7 +156,7 @@ Darul Ta'zim FC        7-1 Melaka FC
 [Nov 22]
 Negeri Sembilan FC     1-1 Terengganu FC
 Kuching City FC        1-0 Brunei DPMM FC
-Selangor FC            2-0 Kelantan Darul Naim FC
+Selangor FC            2-0 Kelantan TRW FC
 [Nov 23]
 Imigresen FC           5-0 PDRM FC
 Sabah FC               3-2 Penang FC
@@ -172,7 +173,7 @@ Brunei DPMM FC         4-2 Imigresen FC
 Penang FC              1-5 Selangor FC
 [Dec 17]
 Kuala Lumpur City FC   0-4 Darul Ta'zim FC
-Kelantan Darul Naim FC bye
+Kelantan TRW FC        bye
 
 Round 12
 [Dec 19]
@@ -180,7 +181,7 @@ Imigresen FC           2-3 Terengganu FC
 Penang FC              3-0 PDRM FC
 Kuching City FC        4-0 Melaka FC
 [Dec 20]
-Darul Ta'zim FC        4-1 Kelantan Darul Naim FC
+Darul Ta'zim FC        4-1 Kelantan TRW FC
 Sabah FC               1-3 Brunei DPMM FC
 Negeri Sembilan FC     1-1 Kuala Lumpur City FC
 Selangor FC            bye
@@ -192,7 +193,7 @@ PDRM FC                1-3 Selangor FC
 Terengganu FC          1-3 Sabah FC
 [Dec 24]
 Kuala Lumpur City FC   1-1 Kuching City FC
-Kelantan Darul Naim FC 0-2 Negeri Sembilan FC
+Kelantan TRW FC        0-2 Negeri Sembilan FC
 Melaka FC              0-2 Imigresen FC
 Darul Ta'zim FC        bye
 
@@ -207,27 +208,28 @@ Halfway Table:
  7.Brunei DPMM FC                     12   4  2  6  15-32  14  [*]
  8.Sabah FC                           12   3  4  5  16-25  13
  9.Imigresen FC                       12   3  3  6  17-24  12  [P]
-10.Kelantan Darul Naim FC             12   3  2  7  10-24  11
+10.Kelantan The Real Warriors FC      12   3  2  7  10-24  11
 11.Penang FC                          12   2  2  8  11-26   8
 12.Melaka FC                          12   1  3  8   6-28   6  [P]
 13.PDRM FC                            12   1  3  8  10-37   6
 
 [*] Brunei DPMM joined from the ‹Singapore S-League, see page ../tabless/sing2025›
+[!] Kelantan Darul Naim FC were renamed Kelantan The Real Warriors FC
 
 NB: Kedah Darul Aman FC and Perak FC expelled due to financial problems;
     Sri Pahang FC withdrew
 
 Round 14
 [Jan 2]
-Kelantan Darul Naim FC 0-1 Kuching City FC
+Kelantan TRW FC        0-1 Kuching City FC
 [Jan 3]
 Brunei DPMM FC         3-1 PDRM FC
 Terengganu FC          0-2 Penang FC
 [Jan 4]
 Kuala Lumpur City FC   4-2 Imigresen FC
 Selangor FC            0-2 Darul Ta'zim FC
-[Apr 14]
-Melaka FC               -  Sabah FC
+[Apr 23]
+Melaka FC              1-0 Sabah FC
 Negeri Sembilan FC     bye
 
 Round 15
@@ -235,7 +237,7 @@ Round 15
 Negeri Sembilan FC     0-1 Darul Ta'zim FC
 Sabah FC               1-1 Kuala Lumpur City FC
 [Jan 10]
-Imigresen FC           3-0 Kelantan Darul Naim FC
+Imigresen FC           3-0 Kelantan TRW FC
 Brunei DPMM FC         2-5 Selangor FC
 PDRM FC                0-1 Terengganu FC
 [Jan 11]
@@ -244,7 +246,7 @@ Kuching City FC        bye
 
 Round 16
 [Jan 13]
-Kelantan Darul Naim FC 3-2 Sabah FC
+Kelantan TRW FC        3-2 Sabah FC
 Terengganu FC          1-0 Brunei DPMM FC
 [Jan 15]
 Darul Ta'zim FC        2-1 Kuching City FC
@@ -259,7 +261,7 @@ PDRM FC                1-1 Kuala Lumpur City FC
 [Jan 31]
 Brunei DPMM FC         1-1 Melaka FC
 Kuching City FC        2-0 Negeri Sembilan FC
-Kelantan Darul Naim FC 1-1 Penang FC
+Kelantan TRW FC        1-1 Penang FC
 [Feb 1]
 Darul Ta'zim FC        5-0 Imigresen FC
 Terengganu FC          1-1 Selangor FC
@@ -267,7 +269,7 @@ Sabah FC               bye
 
 Round 18
 [Feb 21]
-Kelantan Darul Naim FC 0-1 PDRM FC
+Kelantan TRW FC        0-1 PDRM FC
 Melaka FC              1-2 Terengganu FC
 Negeri Sembilan FC     1-2 Imigresen FC
 [Feb 22]
@@ -278,7 +280,7 @@ Penang FC              bye
 
 Round 19
 [Feb 27]
-Kelantan Darul Naim FC 0-3 Brunei DPMM FC
+Kelantan TRW FC        0-3 Brunei DPMM FC
 Penang FC              0-4 Darul Ta'zim FC
 Terengganu FC          0-1 Kuala Lumpur City FC
 [Feb 28]
@@ -290,7 +292,7 @@ PDRM FC                bye
 
 Round 20
 [Mar 6]
-Kelantan Darul Naim FC 0-2 Terengganu FC
+Kelantan TRW FC        0-2 Terengganu FC
 [Mar 7]
 Kuching City FC        2-0 Sabah FC
 Kuala Lumpur City FC   2-1 Melaka FC
@@ -310,28 +312,227 @@ Penang FC              0-1 Kuching City FC
 [Mar 15]
 Brunei DPMM FC         0-3 Darul Ta'zim FC
 Kuala Lumpur City FC   2-3 Selangor FC
-Melaka FC              2-1 Kelantan Darul Naim FC
+Melaka FC              2-1 Kelantan TRW FC
 Terengganu FC          bye
+
+Round 22
+[Apr 10]
+Kelantan TRW FC        0-2 Kuala Lumpur City FC
+[Apr 11]
+Darul Ta'zim FC        1-1 Terengganu FC
+Imigresen FC           0-0 Penang FC
+Selangor FC            1-1 Sabah FC
+[Apr 12]
+Kuching City FC        4-1 PDRM FC
+Negeri Sembilan FC     2-2 Brunei DPMM FC
+Melaka FC              bye
+
+Round 23
+[Apr 24]
+Kelantan TRW FC        0-6 Selangor FC
+[Apr 25]
+PDRM FC                0-5 Imigresen FC
+Brunei DPMM FC         2-2 Kuching City FC
+Terengganu FC          2-2 Negeri Sembilan FC
+[Apr 26]
+Penang FC              0-0 Sabah FC
+[Apr 28]
+Melaka FC              1-2 Darul Ta'zim FC
+Kuala Lumpur City FC   bye
+
+Round 24
+[May 1]
+Kuching City FC        2-1 Terengganu FC
+[May 2]
+Sabah FC               5-1 PDRM FC
+Darul Ta'zim FC        7-0 Kuala Lumpur City FC
+Selangor FC            4-0 Penang FC
+[May 3]
+Imigresen FC           3-1 Brunei DPMM FC
+Negeri Sembilan FC     0-0 Melaka FC
+Kelantan TRW FC        bye
+
+Round 25
+[May 8]
+PDRM FC                 -  Penang FC
+Terengganu FC           -  Imigresen FC
+[May 9]
+Brunei DPMM FC          -  Sabah FC
+Melaka FC               -  Kuching City FC
+[May 10]
+Kuala Lumpur City FC    -  Negeri Sembilan FC
+Kelantan TRW FC         -  Darul Ta'zim FC
+Selangor FC            bye
+
+Round 26 [May 16]
+Imigresen FC            -  Melaka FC
+Kuching City FC         -  Kuala Lumpur City FC
+Negeri Sembilan FC      -  Kelantan TRW FC
+Penang FC               -  Brunei DPMM FC
+Sabah FC                -  Terengganu FC
+Selangor FC             -  PDRM FC
+Darul Ta'zim FC        bye
 
 Table:
 
- 1.Darul Ta'zim FC (Johor)            20  20  0  0  93- 7  60  [C]  Champions
- 2.Selangor FC                        20  13  3  4  42-19  42
- 3.Kuching City FC                    19  12  4  3  33- 9  40
- 4.Kuala Lumpur City FC               20  11  6  3  36-19  39
- 5.Terengganu FC                      19   9  4  6  33-26  31
- 6.Negeri Sembilan FC                 19   5  7  7  31-28  22
- 7.Imigresen FC                       19   6  3 10  26-40  21  [P]
- 8.Brunei DPMM FC                     19   6  3 10  24-47  21  [*]
- 9.Penang FC                          19   5  4 10  23-35  19
-10.Sabah FC                           18   3  6  9  22-40  15
-11.Kelantan Darul Naim FC             20   4  3 13  15-39  14
-12.Melaka FC                          19   3  5 11  14-39  14  [P]
-13.PDRM FC                            19   2  4 13  14-58  10
+ 1.Darul Ta'zim FC (Johor)            23  22  1  0 103- 9  67  [C]  Champions
+ 2.Selangor FC                        23  15  4  4  53-20  49
+ 3.Kuching City FC                    22  14  5  3  41-13  47
+ 4.Kuala Lumpur City FC               22  12  6  4  38-26  42
+ 5.Terengganu FC                      22   9  6  7  37-31  33
+ 6.Imigresen FC                       22   8  4 10  34-41  28  [P]
+ 7.Negeri Sembilan FC                 22   5 10  7  35-32  25
+ 8.Brunei DPMM FC                     22   6  5 11  29-54  23  [*]
+ 9.Penang FC                          22   5  6 11  23-39  21
+10.Sabah FC                           22   4  8 10  28-43  20
+11.Melaka FC                          22   4  6 12  16-41  18  [P]
+12.Kelantan The Real Warriors FC      22   4  3 15  15-47  15  [!]
+13.PDRM FC                            22   2  4 16  16-72  10
 
 [*] Brunei DPMM joined from the ‹Singapore S-League, see page ../tabless/sing2025›
+[!] Kelantan Darul Naim FC were renamed Kelantan The Real Warriors FC
 
 NB: Kedah Darul Aman FC and Perak FC expelled due to financial problems;
     Sri Pahang FC withdrew
 
+
+
+
+
+
+==== Cup Tournaments 2025/26  ‹§cups›
+
+
+===== Piala Malaysia 2025/26  ‹§piala›
+
+1/8 Finals
+
+First Legs
+[Jan 17]
+Imigresen FC           0-0 Negeri Sembilan FC
+Melaka FC              2-2 Sabah FC
+Kelantan Red Warrior   0-2 Brunei DPMM FC
+[Jan 18]
+Penang FC              1-0 Kuching City FC
+PDRM FC               1-10 Darul Ta'zim FC
+Perak FC               2-0 Kuala Lumpur City FC
+[Jan 19]
+UM-Damansara United    0-2 Terengganu FC
+Kelantan TRW FC        1-2 Selangor FC
+
+Second Legs
+[Jan 22]
+Sabah FC               0-3 Melaka FC
+[Jan 23]
+Terengganu FC          5-0 UM-Damansara United
+Selangor FC            3-0 Kelantan TRW FC
+[Jan 24]
+Brunei DPMM FC         1-1 Kelantan Red Warrior
+Kuching City FC        2-0 Penang FC
+Darul Ta'zim FC        1-0 PDRM FC
+[Jan 25]
+Negeri Sembilan FC     1-0 Imigresen FC
+Kuala Lumpur City FC   3-0 Perak FC               [aet]
+
+Quarterfinals
+
+First Legs
+[Feb 6]
+Terengganu FC          1-1 Kuala Lumpur City FC
+[Feb 7]
+Brunei DPMM FC         1-3 Kuching City FC
+[Feb 8]
+Negeri Sembilan FC     0-1 Selangor FC
+[Feb 13]
+Darul Ta'zim FC        5-0 Melaka FC
+
+Second Legs
+[Feb 14]
+Kuching City FC        3-1 Brunei DPMM FC
+Selangor FC            5-1 Negeri Sembilan FC
+[Feb 15]
+Kuala Lumpur City FC   2-1 Terengganu FC
+[Feb 25]
+Melaka FC              1-3 Darul Ta'zim FC
+
+Semifinals
+
+First Legs
+[Apr 3]
+Kuala Lumpur City FC   0-4 Darul Ta'zim FC
+[Apr 5]
+Selangor FC            1-1 Kuching City FC
+
+Second Legs
+[Apr 7]
+Darul Ta'zim FC        4-1 Kuala Lumpur City FC
+[Apr 18]
+Kuching City FC        1-0 Selangor FC
+
+Final [May 23, Bukit Jalil National Stadium, Kuala Lumpur]
+Darul Ta'zim FC         -  Kuching City FC
+
+===== FA Cup 2025  ‹§facup›
+
+1/8 Finals
+
+First Legs
+[Aug 16]
+UM-Damansara United    0-5 Darul Ta'zim FC
+Malaysian University   1-3 Selangor FC
+Brunei DPMM FC         3-2 Kuching City FC
+[Aug 17]
+Imigresen FC           2-1 Terengganu FC
+Bunga Raya             0-6 Sabah FC
+Melaka FC              0-2 Penang FC
+[Aug 18]
+Negeri Sembilan FC     5-0 PDRM FC
+Kelantan TRW FC        3-1 Kuala Lumpur City FC
+
+Second Legs
+[Sep 12]
+PDRM FC                1-0 Negeri Sembilan FC
+[Sep 13]
+Selangor FC            9-0 Malaysian University
+Terengganu FC          3-0 Imigresen FC
+[Sep 14]
+Kuching City FC        7-1 Brunei DPMM FC
+Kuala Lumpur City FC   1-0 Kelantan TRW FC
+[Sep 15]
+Penang FC              3-0 Melaka FC
+[Sep 30]
+Sabah FC               0-0 Bunga Raya
+[Oct 2]
+Darul Ta'zim FC        5-3 UM-Damansara United
+
+Quarterfinals
+
+First Legs
+[Oct 17]
+Penang FC              1-2 Darul Ta'zim FC
+Kelantan TRW FC        1-2 Sabah FC
+[Oct 18]
+Negeri Sembilan FC     0-4 Selangor FC
+Terengganu FC          1-4 Kuching City FC
+
+Second Legs
+[Oct 28]
+Darul Ta'zim FC        3-0 Penang FC
+Kuching City FC        1-2 Terengganu FC
+[Oct 29]
+Sabah FC               3-1 Kelantan TRW FC
+Selangor FC            2-3 Negeri Sembilan FC
+
+Semifinals
+
+First Legs [Nov 9]
+Kuching City FC        1-2 Darul Ta'zim FC
+Sabah FC               2-2 Selangor FC
+
+Second Lehs [Nov 30]
+Darul Ta'zim FC        2-0 Kuching City FC
+Selangor FC            3-3 Sabah FC               [aet, 4-5 pen]
+
+Final [Dec 14, Bukit Jalil National Stadium, Kuala Lumpur]
+Darul Ta'zim FC        5-0 Sabah FC
 

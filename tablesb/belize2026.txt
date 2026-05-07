@@ -2,7 +2,7 @@
      title:   Belize 2025/26
      source:  https://rsssf.org/tablesb/belize2026.html
      author:  Karel Stokkermans
-     updated: 2 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -14,11 +14,9 @@
 
 ==== Premier League of Belize 2025/26  ‹§plb›
 
-‹Opening Season 2025, see §fall› | ‹Closing Season 2026, see §spring›
 
-Opening Season 2025  ‹§fall›
+===== Opening Season 2025  ‹§fall›
 
-‹Regular Stage, see §freg› | ‹Playoff Stage, see §fplay›
 
 Final Table:
 
@@ -161,7 +159,7 @@ Final Table:
 NB: San Pedro Pirates apparently withdrew;
     Benque Viejo United aka Capital Sport Club
 
-Playoff Stage  ‹§fplay›
+====== Playoff Stage  ‹§fplay›
 
 Semifinals
 
@@ -183,22 +181,21 @@ Progresso                 0-0 Verdes
 Second Leg [Dec 13]
 Verdes                    1-0 Progresso
 
-Closing Season 2026  ‹§spring›
+===== Closing Season 2026  ‹§spring›
 
-‹Regular Stage, see §sreg› | ‹Playoff Stage, see §splay›
 
-Regular Stage  ‹§sreg›
+====== Regular Stage  ‹§sreg›
 
-Table:
+Final Table:
 
- 1.Verdes                     8   8  0  0  26- 5  24
- 2.Progresso                  9   6  1  2  18-10  19
- 3.Port Layola                9   4  0  5  14-18  12
- 4.Belmopan                   8   3  1  4  16-11  10
+ 1.Verdes                    12  11  1  0  37-10  34       ‹Qualified, see §splay›
+ 2.Progresso                 12   8  2  2  29-12  26       ‹Qualified, see §splay›
+ 3.Port Layola               12   6  0  6  22-23  18       ‹Qualified, see §splay›
+ 4.Belmopan                  12   5  1  6  24-19  16       ‹Qualified, see §splay›
  - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.Napoles                    9   2  4  3  16-20  10  [N]
- 6.Benque Viejo United        9   2  1  6  11-24   7  [N]
- 7.Wagiya                     8   1  1  6   5-18   4
+ 5.Napoles                   12   3  4  5  26-29  13  [N]
+ 6.Benque Viejo United       12   2  2  8  13-32   8  [N]
+ 7.Wagiya                    12   1  2  9  10-36   5
 
 Round 1
 [Jan 17]
@@ -283,23 +280,59 @@ Wagiya                    bye
 
 Round 11
 [Apr 2]
-Belmopan                   -  Wagiya
+Belmopan                  3-0 Wagiya
 [Apr 4]
-Benque Viejo United        -  Port Layola
-Verdes                     -  Napoles
+Benque Viejo United       0-4 Port Layola
+Verdes                    4-2 Napoles
 Progresso                 bye
 
-Table:
+Round 12
+[Apr 11]
+Belmopan                  1-3 Verdes
+[Apr 12]
+Progresso                 6-0 Wagiya
+Port Layola               2-1 Napoles
+Benque Viejo United       bye
 
- 1.Verdes                     8   8  0  0  26- 5  24
- 2.Progresso                  9   6  1  2  18-10  19
- 3.Port Layola                9   4  0  5  14-18  12
- 4.Belmopan                   8   3  1  4  16-11  10
+Round 13
+[Apr 18]
+Verdes                    4-2 Port Layola
+Belmopan                  2-5 Progresso
+[Apr 19]
+Wagiya                    2-2 Benque Viejo United
+Napoles                   bye
+
+Round 14 [Apr 26]
+Progresso                 0-0 Verdes
+Benque Viejo United       0-2 Belmopan
+Wagiya                    3-7 Napoles
+Port Layola               bye
+
+Final Table:
+
+ 1.Verdes                    12  11  1  0  37-10  34       ‹Qualified, see §splay›
+ 2.Progresso                 12   8  2  2  29-12  26       ‹Qualified, see §splay›
+ 3.Port Layola               12   6  0  6  22-23  18       ‹Qualified, see §splay›
+ 4.Belmopan                  12   5  1  6  24-19  16       ‹Qualified, see §splay›
  - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.Napoles                    9   2  4  3  16-20  10  [N]
- 6.Benque Viejo United        9   2  1  6  11-24   7  [N]
- 7.Wagiya                     8   1  1  6   5-18   4
+ 5.Napoles                   12   3  4  5  26-29  13  [N]
+ 6.Benque Viejo United       12   2  2  8  13-32   8  [N]
+ 7.Wagiya                    12   1  2  9  10-36   5
 
-Playoff Stage  ‹§splay›
+====== Playoff Stage  ‹§splay›
+
+Semifinals
+
+First Legs
+[May 2]
+Belmopan                  0-3 Verdes
+[May 3]
+Port Layola               0-2 Progresso
+
+Second Legs
+[May 9]
+Verdes                     -  Belmopan
+[May 10]
+Progresso                  -  Port Layola
 
 

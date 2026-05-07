@@ -2,7 +2,7 @@
      title:   Algeria 2025/26
      source:  https://rsssf.org/tablesa/alg2026.html
      author:  Michel Menard
-     updated: 2 Feb 2026    
+     updated: 2 Feb 2026
     -->
 
 
@@ -358,9 +358,8 @@ Final
 
 ==== Ligue 2  ‹§deuxieme›
 
-‹Groupe Centre-Est, see §2ce› | ‹Groupe Centre-Ouest, see §2co›
 
-Groupe Centre-Est  ‹§2ce›
+===== Groupe Centre-Est  ‹§2ce›
 
 Halfway Table:
 
@@ -575,7 +574,7 @@ Halfway Table:
 15.MSP Batna        15   1  6  8    9-23   9
 16.HB Chelghoum Laïd     15   1  2 12    6-34   5
 
-Groupe Centre-Ouest  ‹§2co›
+===== Groupe Centre-Ouest  ‹§2co›
 
 Halfway Table:
 
@@ -788,9 +787,8 @@ Halfway Table:
 
 ==== Ligues Inter-Régions  ‹§troisieme›
 
-‹Groupe Est, see §3es› |  ‹Groupe Centre-Est, see §3ce› | ‹Groupe Centre-Ouest, see §3co› | ‹Groupe Ouest, see §3ou› | ‹Groupe Sud-Ouest, see §3so› | ‹Groupe Sud-Est, see §3se›
 
-Groupe Est  ‹§3es›
+===== Groupe Est  ‹§3es›
 
  1.ES Guelma             15   9  5  1   22- 6  32
  ------------------------------------------------
@@ -811,7 +809,7 @@ Groupe Est  ‹§3es›
 15.A Bir Bouhouche       15   3  3  9   15-27  12
 16.NRC Boujelbana        15   2  3 10    8-24   9
 
-Groupe Centre-Est  ‹§3ce›
+===== Groupe Centre-Est  ‹§3ce›
 
  1.JS Azazga             15  11  3  1   29- 9   36
  -------------------------------------------------
@@ -832,7 +830,7 @@ Groupe Centre-Est  ‹§3ce›
 15.USM Sétif             15   1  5  9    8-19    8
 16.E Sour El Ghozlane    15   2  3 10    6-22    8 [-1]
 
-Groupe Centre-Ouest  ‹§3co›
+===== Groupe Centre-Ouest  ‹§3co›
 
  1.MS Cherchell           15  10  1  4   28- 8  31
  --------------------------------------------------
@@ -853,7 +851,7 @@ Groupe Centre-Ouest  ‹§3co›
 15.WA Boufarik            15   3  4  8   12-16  13
 16.O Médéa                15   2  5  8   10-27  11
 
-Groupe Ouest  ‹§3ou›
+===== Groupe Ouest  ‹§3ou›
 
  1.IRB Sidi m'hamed Benali 15 10  2  3   20- 5   32
  -------------------------------------------------
@@ -874,7 +872,7 @@ Groupe Ouest  ‹§3ou›
 15.O Sidi Ben Adda        15   2  8  5   11-15   14
 16.IRB Sougueur           15   2  1 12   12-34    6
 
-Groupe Sud-Ouest  ‹§3so›
+===== Groupe Sud-Ouest  ‹§3so›
 
 Group A
  1.IR Mecheria            7   4  2  1   10- 4   14
@@ -900,7 +898,7 @@ Group B
  -------------------------------------------------
  8.CR Timimoune           7   0  4  3    4-10    3 [-1]
 
-Groupe Sud-Est  ‹§3se›
+===== Groupe Sud-Est  ‹§3se›
 
  1.IRB Nezla             15  12  3  0   27- 7   39
  -------------------------------------------------

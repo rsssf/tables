@@ -1,0 +1,4 @@
+tablesm/mold2025                :  2024/25
+tablesm/moldchamp               :  list of champions
+tablesm/moldcuphist             :  list of cup winners
+tablesm/moldtops                :  list of topscorers

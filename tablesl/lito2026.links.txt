@@ -1,0 +1,6 @@
+tablesl/lito2025                :  2025
+tablesl/litohist                :  list of full tables
+tablesl/litochamp               :  list of champions
+tablesl/litocuphist             :  list of cup winners
+tablesl/litotops                :  list of topscorers
+tablesl/litofound               :  list of foundation dates

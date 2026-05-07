@@ -1,12 +1,17 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹Vyšejšaja Liha 2026, see §visshaya›
 ‹Cup 2025/26, see §kubok›
+‹Pieršaja Liha 2026, see §pershaya›
+‹Druhaja Liga 2026, see §druhaya›
 
 
 -- removing nav(igation) section:
 
 ‹2025, see page witr2025›.
+
+‹2027, see page witr2027›.
 
 ‹list of champions, see page witrchamp›.
 

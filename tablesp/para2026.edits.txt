@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1aper">Torneo Apertura 2026</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1clau">Torneo Clausura 2025</a><
 -- removing nav(igation) section:
 
 ‹Primera División, see §prim›
@@ -23,3 +25,6 @@
 
 ‹foundation dates clubs, see page parafound›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Torneo Apertura 2026, see §1aper› | ‹Torneo Clausura 2026, see §1clau›

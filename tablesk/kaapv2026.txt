@@ -2,7 +2,7 @@
      title:   Cape Verde Islands 2025/26
      source:  https://rsssf.org/tablesk/kaapv2026.html
      author:  José Batalha
-     updated: 7 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -23,9 +23,9 @@ Champions ‹Fogo, see §fogo›:              Cutelinho Futebol Clube (Mosteiro
 Champions ‹Maio, see §maio›:              Club Desportivo Onze Unidos (Porto Inglês)
 Runners-up ‹Sal, see §sal›:              Académico do Aeroporto do Sal
 Champions ‹Santiago Norte, see §stgnorte›:    Clube Desportivo Scorpion Vermelho
-Champions ‹Santiago Sul, see §stgsul›:
+Champions ‹Santiago Sul, see §stgsul›:      Boavista Futebol Clube da Praia (Cidade da Praia)
 Champions ‹Santo Antão Norte, see §antnorte›: União Desportiva Santo Crucifixo (Coculi-Ribeira Grande)
-Champions ‹Santo Antão Sul, see §antsul›:
+Champions ‹Santo Antão Sul, see §antsul›:   Associação Académica do Porto Novo
 Champions ‹São Nicolau, see §saonicolau›:       Sport Clube Atlético (Ribeira Brava)
 Champions ‹São Vicente, see §saovicente›:       Clube Sportivo Mindelense (Mindelo)
 Champions ‹2025, see page kaapv2025.html#nacional›:              Grupo Desportivo da Palmeira
@@ -35,16 +35,64 @@ First stage
 
 NB: Six rounds.
 
-Round 1 [Apr 25,26]
-Académico do Sal    -  CD Benfica
-CD Scorpion Vermelho    -  GD Palmeira
-Rep. Santo Antão Sul    -  SC Atlético
-SC África Show       -  Cutelinho FC
-CD Onze Unidos       -  CS Mindelense
-UD Santo Crucifixo    -  Rep. Santiago Sul
+Table:
+
+ 1.CS Mindelense            1   1  0  0   3- 0   3
+ 2.Académico do Sal         1   1  0  0   3- 0   3
+ 3.Boavista FC da Praia     1   1  0  0   3- 1   3
+ 4.GD Palmeira              1   1  0  0   2- 0   3 [C]
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.Académica do Porto Novo  1   1  0  0   1- 0   3
+ 6.Cutelinho FC             1   0  1  0   0- 0   1
+ 7.SC África Show           1   0  1  0   0- 0   1
+ 8.SC Atlético              1   0  0  1   0- 1   0
+ 9.UD Santo Crucifixo       1   0  0  1   1- 3   0
+10.CD Scorpion Vermelho     1   0  0  1   0- 2   0
+11.CD Benfica               1   0  0  1   0- 3   0
+12.CD Onze Unidos           1   0  0  1   0- 3   0
+
+Round 1
+[Apr 25]
+Académico do Sal        3-0 CD Benfica
+CD Scorpion Vermelho    0-2 GD Palmeira
+Académica do Porto Novo 1-0 SC Atlético
+SC África Show          0-0 Cutelinho FC
+[Apr 26]
+CD Onze Unidos          0-3 CS Mindelense
+UD Santo Crucifixo      1-3 Boavista FC
+
+Round 2 [May 9,10]
+Boavista FC              -  Académico do Sal
+CS Mindelense            -  UD Santo Crucifixo
+Cutelinho FC             -  CD Onze Unidos
+SC Atlético              -  SC África Show
+GD Palmeira              -  Académica do Porto Novo
+CD Benfica               -  CD Scorpion Vermelho
+
+Table:
+
+ 1.CS Mindelense            1   1  0  0   3- 0   3
+ 2.Académico do Sal         1   1  0  0   3- 0   3
+ 3.Boavista FC da Praia     1   1  0  0   3- 1   3
+ 4.GD Palmeira              1   1  0  0   2- 0   3 [C]
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.Académica do Porto Novo  1   1  0  0   1- 0   3
+ 6.Cutelinho FC             1   0  1  0   0- 0   1
+ 7.SC África Show           1   0  1  0   0- 0   1
+ 8.SC Atlético              1   0  0  1   0- 1   0
+ 9.UD Santo Crucifixo       1   0  0  1   1- 3   0
+10.CD Scorpion Vermelho     1   0  0  1   0- 2   0
+11.CD Benfica               1   0  0  1   0- 3   0
+12.CD Onze Unidos           1   0  0  1   0- 3   0
 
 Final stage
 -----------
+
+Semifinals
+
+First leg [Jun 20]
+
+Second leg [Jun 27]
 
 Final [Jul 4, Estádio Municipal João Serra, Ponta do Sol]
 
@@ -62,16 +110,44 @@ Participants
 Boa Vista:         Sport Sal-Rei Clube
 Brava:         Clube Desportivo Benfica (Nossa Senhora do Monte)
 Fogo:              Associação Desportiva Cultural Juventus (Curral Grande)
-Maio:
+Maio:              Club Desportivo Onze Unidos (Vila do Maio)
 Sal:               Académico do Aeroporto do Sal (Espargos)
 Santiago Norte:    Grémio Desportivo de Nhagar (Assomada)
 Santiago Sul:      Grupo Desportivo e Cultural da Praia (Cidade da Praia)
-Santo Antão Norte:
-Santo Antão Sul:
+Santo Antão Norte: Solpontense Futebol Clube (Ponta do Sol)
+Santo Antão Sul:   Clube Futebol Os Sanjoanenses (Ribeira das Patas)
 São Nicolau:       Futebol Clube Belo Horizonte (Juncalinho-Ribeira Brava)
-São Vicente:
+São Vicente:       Clube Sportivo Mindelense (Mindelo)
 
-Round 1 [Apr 18]
+Round 1
+[Apr 11]
+Sal-Rei         2-1 Académico do Sal
+Grémio de Nhagar   n/p CD Benfica      [due maritime connections's suspension]
+[Apr 14]
+Grémio de Nhagar   3-0 CD Benfica
+[Apr 18]
+Solpontense FC       1-2 CF Os Sanjoanenses
+
+Round 2
+[Apr 18]
+FC Belo Horizonte   1-4 CS Mindelense
+Sal-Rei         6-1 Juventus Curral Grande
+Grémio de Nhagar   1-1 Desportivo da Praia   [3-2 pen]
+[Apr 21]
+CF Os Sanjoanenses      2-1 CD Onze Unidos
+
+Final Four
+
+NB: played at Estádio Municipal Marcelo Leitão, Espargos, Sal Island.
+
+Semifinals [Apr 29]
+CS Mindelense       2-0 CF Os Sanjoanenses
+Sal-Rei                   1-3 Grémio de Nhagar
+
+Final [May 2]
+CS Mindelense       2-0 Grémio de Nhagar
+  [Bis 19, owngoal 45]
+
 
 
 
@@ -923,8 +999,9 @@ Round 1 [Mar 8]
 Beira-Mar FC   1-4 Cruzeiro SC
 CD Onze Unidos   2-0 SC Morrerense
 
-Final [Apr 4, Estádio Municipal Dau d'Segunda, Porto Inglês]
-CD Onze Unidos    -  Cruzeiro SC
+Final [Apr 11, Estádio Municipal Dau d'Segunda, Porto Inglês]
+CD Onze Unidos   1-0 Cruzeiro SC
+ [Marcelo 28']
 
 
 
@@ -1742,21 +1819,21 @@ Associação Desportiva da Ribeira Grande (Ribeira Grande de Santiago)
 Unidos do Norte Futebol Clube de Achada Grande Trás (Cidade da Praia)
 Grupo Desportivo e Cultural da Praia (Cidade da Praia)
 
-Table:
+Final table:
 
- 1.CD Travadores   20  15  4  1  44- 9  49
- 2.Boavista FC      20  14  6  0  38- 3  48 [C]
- 3.Desportivo da Praia   20  11  6  3  27-17  39 [P]
- 4.Sporting da Praia   20   8 10  2  28-11  34
- 5.Académica da Praia   20   5  9  6  12-11  24
- 6.AD Ribeira Grande   20   6  6  8  24-26  24
- 7.AD Bairro      20   5  7  8  14-20  22
- 8.Vitória      20   5  7  8  20-36  22
- 9.GDRC Celtic      20   4  9  7  16-19  21
-10.AD Relâmpago      20   5  2 13  14-36  17
+ 1.Boavista FC      22  16  6  0  42- 4  54 champions [C]
+ 2.CD Travadores   22  16  4  2  46-11  52
+ 3.Desportivo da Praia   22  12  7  3  30-18  43 [P]
+ 4.Sporting da Praia   22  10 10  2  37-13  40
+ 5.AD Bairro      22   6  8  8  16-21  26
+ 6.Académica da Praia   22   5 10  7  13-14  25
+ 7.GDRC Celtic      22   5  9  8  21-21  24 [0-2-0 0-0 2]
+ 8.AD Ribeira Grande   22   6  6 10  25-30  24 [0-2-0 0-0 2]
+ 9.Vitória      22   5  8  9  23-42  23
+10.AD Relâmpago      22   6  2 14  17-38  20
 -----------------------------------------------
-11.Benfica FC      20   3  5 12  19-36  14
-12.Unidos do Norte FC   20   2  3 15  10-42   9 relegated [P]
+11.Benfica FC      22   4  5 13  21-38  17 relegated
+12.Unidos do Norte FC   22   2  3 17  10-51   9 relegated [P]
 
 Round 1
 [Oct 31]
@@ -1979,31 +2056,44 @@ Travadores   1-0 Relâmpago
 Unidos do Norte 0-1 Académica
 
 Round 21
+[Apr 9]
+Académica   1-1 Vitória
 [Apr 10]
-Académica    -  Vitória
-Boavista    -  Travadores
+Boavista   2-0 Travadores
 [Apr 11]
-Sporting    -  Unidos do Norte
-Bairro       -  Ribeira Grande
+Sporting   4-0 Unidos do Norte
+Bairro      1-0 Ribeira Grande
 [Apr 12]
-Celtic       -  Desportivo
-Relâmpago    -  Benfica
+Celtic      0-2 Desportivo
+Relâmpago   0-1 Benfica
 
-Table:
+Round 22
+[Apr 16]
+Desportivo   1-1 Bairro
+[Apr 17]
+Ribeira Grande  1-3 Relâmpago
+[Apr 18]
+Travadores   2-0 Académica
+Vitória      2-5 Sporting
+[Apr 19]
+Unidos do Norte   0-5 Celtic
+Benfica      1-2 Boavista
 
- 1.CD Travadores   20  15  4  1  44- 9  49
- 2.Boavista FC      20  14  6  0  38- 3  48 [C]
- 3.Desportivo da Praia   20  11  6  3  27-17  39 [P]
- 4.Sporting da Praia   20   8 10  2  28-11  34
- 5.Académica da Praia   20   5  9  6  12-11  24
- 6.AD Ribeira Grande   20   6  6  8  24-26  24
- 7.AD Bairro      20   5  7  8  14-20  22
- 8.Vitória      20   5  7  8  20-36  22
- 9.GDRC Celtic      20   4  9  7  16-19  21
-10.AD Relâmpago      20   5  2 13  14-36  17
+Final table:
+
+ 1.Boavista FC      22  16  6  0  42- 4  54 champions [C]
+ 2.CD Travadores   22  16  4  2  46-11  52
+ 3.Desportivo da Praia   22  12  7  3  30-18  43 [P]
+ 4.Sporting da Praia   22  10 10  2  37-13  40
+ 5.AD Bairro      22   6  8  8  16-21  26
+ 6.Académica da Praia   22   5 10  7  13-14  25
+ 7.GDRC Celtic      22   5  9  8  21-21  24 [0-2-0 0-0 2]
+ 8.AD Ribeira Grande   22   6  6 10  25-30  24 [0-2-0 0-0 2]
+ 9.Vitória      22   5  8  9  23-42  23
+10.AD Relâmpago      22   6  2 14  17-38  20
 -----------------------------------------------
-11.Benfica FC      20   3  5 12  19-36  14
-12.Unidos do Norte FC   20   2  3 15  10-42   9 relegated [P]
+11.Benfica FC      22   4  5 13  21-38  17 relegated
+12.Unidos do Norte FC   22   2  3 17  10-51   9 relegated [P]
 
 
 Campeonato Regional - 2.ª Divisão
@@ -2272,7 +2362,6 @@ Desportivo   2-0 Sporting
 
 ==== Santo Antão  ‹§santoantao›
 
-‹Zona Norte, see §antnorte› | ‹Zona Sul, see §antsul›
 
 Zona Norte  ‹§antnorte›
 
@@ -2315,13 +2404,13 @@ NB: not played this season.
 Campeonato Regional
 - - - - - - - - - -
 
-Table:
+Final table:
 
- 1.Solpontense        7   5  1  1  14- 8  16
- 2.Santo Crucifixo   7   5  0  2  12- 7  15
+ 1.Santo Crucifixo   8   6  0  2  14- 7  18
+ 2.Solpontense        8   5  1  2  14-10  16
  3.Foguetões        8   4  1  3  15-12  13
- 4.Rosariense        7   2  2  3   9-10   8 [A]
- 5.CD Beira Mar      7   0  0  7   6-19   0
+ 4.Rosariense        8   3  2  3  13-13  11 [A]
+ 5.CD Beira Mar      8   0  0  8   9-23   0
 
 Round 1 [Jan 25]
 Foguetões   0-2 Santo Crucifixo
@@ -2368,18 +2457,20 @@ Santo Crucifixo   2-1 Rosariense
 Foguetões   3-1 CD Beira Mar
 Solpontense   bye
 
-Round 10 [Apr 2]
-Rosariense    -  CD Beira Mar
-Solpontense    -  Santo Crucifixo
+Round 10
+[Apr 1]
+Rosariense   4-3 CD Beira Mar
+[Apr 2]
+Solpontense   0-2 Santo Crucifixo
 Foguetões   bye
 
-Table:
+Final table:
 
- 1.Solpontense        7   5  1  1  14- 8  16
- 2.Santo Crucifixo   7   5  0  2  12- 7  15
+ 1.Santo Crucifixo   8   6  0  2  14- 7  18
+ 2.Solpontense        8   5  1  2  14-10  16
  3.Foguetões        8   4  1  3  15-12  13
- 4.Rosariense        7   2  2  3   9-10   8 [A]
- 5.CD Beira Mar      7   0  0  7   6-19   0
+ 4.Rosariense        8   3  2  3  13-13  11 [A]
+ 5.CD Beira Mar      8   0  0  8   9-23   0
 
 
 Taça Regional
@@ -2438,8 +2529,9 @@ Semifinals [Mar 14]
 Foguetões   1-1 Rosariense      [5-3 pen]
 Santo Crucifixo   0-0 Solpontense      [1-4 pen]
 
-Final [Apr 4, Estádio Municipal João Serra, Ponta do Sol]
-Solpontense    -  Foguetões
+Final [Apr 11 Estádio Municipal João Serra, Ponta do Sol]
+Solpontense   1-1 Foguetões      [2-2 aet; 4-3 pen]
+ [Heli 67, Yanik 104; Lito 75, Cai Cedo 97]
 
 Zona Sul  ‹§antsul›
 
@@ -2472,13 +2564,13 @@ Sanjoanenses   4-2 Lajedos FC
 Campeonato Regional
 - - - - - - - - - -
 
-Table:
+Final table:
 
- 1.Académica     7   6  0  1  26- 2  18
- 2.Sanjoanenses     7   6  0  1  18- 8  18 [C]
- 3.Inter     7   3  0  4   8-12   9 [A]
- 4.Tarrafal     6   1  1  4   8-14   4
- 5.Lajedos FC     7   0  1  6   7-31   1
+ 1.Académica     8   7  0  1  30- 2  21 [1-0-1 3-1 3] champions
+ 2.Sanjoanenses     8   7  0  1  22- 8  21 [1-0-1 1-3 3] [C]
+ 3.Inter     8   3  1  4   9-13  10 [A]
+ 4.Tarrafal     8   1  1  6   8-22   4
+ 5.Lajedos FC     8   0  2  6   8-32   2
 
 Round 1 [Feb 7]
 Sanjoanenses   0-3 Académica
@@ -2523,17 +2615,22 @@ Tarrafal   bye
 Round 9
 [Apr 4]
 Académica   6-1 Lajedos FC
-[tba]
-Sanjoanenses    -  Tarrafal
+[Apr 15]
+Sanjoanenses   4-0 Tarrafal
 Inter      bye
 
-Table:
+Round 10 [Apr 18]
+Lajedos FC   1-1 Inter
+Tarrafal   0-4 Académica
+Sanjoanenses   bye
 
- 1.Académica     7   6  0  1  26- 2  18
- 2.Sanjoanenses     7   6  0  1  18- 8  18 [C]
- 3.Inter     7   3  0  4   8-12   9 [A]
- 4.Tarrafal     6   1  1  4   8-14   4
- 5.Lajedos FC     7   0  1  6   7-31   1
+Final table:
+
+ 1.Académica     8   7  0  1  30- 2  21 [1-0-1 3-1 3] champions
+ 2.Sanjoanenses     8   7  0  1  22- 8  21 [1-0-1 1-3 3] [C]
+ 3.Inter     8   3  1  4   9-13  10 [A]
+ 4.Tarrafal     8   1  1  6   8-22   4
+ 5.Lajedos FC     8   0  2  6   8-32   2
 
 
 Taça Porto Novo
@@ -2594,8 +2691,8 @@ Sanjoanenses   2-0 Tarrafal
 [Apr 1]
 Académica   2-2 Inter   [4-5 pen]
 
-Final [tba, Estádio Municipal, Porto Novo]
-Sanjoanenses    -  Inter
+Final [Apr 11, Estádio Municipal, Porto Novo]
+Sanjoanenses   0-0 Inter   [aet; 4-2 pen]
 
 
 
@@ -2926,18 +3023,18 @@ Sporting Clube Farense (Fonte Filipe-Mindelo) [WITHDREW]
 Associação Desportiva, Recreativa e Cultural SA Ponta d'Pom (Mindelo)
 Clube Desportivo Falcões do Norte (Chã de Alecrim-Mindelo)
 
-Table:
+Final table:
 
- 1.CS Mindelense    13  10  3  0  32-13  33 champions [C]
- 2.GD Amarante      13   7  4  2  27-12  25
- 3.Batuque FC       13   5  6  2  15-11  21
- 4.Académica       13   3  5  5  16-11  14
- 5.FC Derby       13   3  5  5  19-26  14
- 6.ADRC Ponta d'Pom 13   2  5  6  14-23  11 [P]
+ 1.CS Mindelense    14  11  3  0  37-15  36 champions [C]
+ 2.GD Amarante      14   7  4  3  27-13  25
+ 3.Batuque FC       14   6  6  2  16-11  24
+ 4.Académica       14   3  6  5  17-12  15
+ 5.Falcões do Norte 14   4  2  8  14-22  14 [1-1-0 3-1 4] [P]
+ 6.FC Derby       14   3  5  6  19-28  14 [0-1-1 1-3 1]
 - - - - - - - - - - - - - - - - - - - - - -
- 7.Falcões do Norte 13   3  2  8  12-22  11 [P]
+ 7.ADRC Ponta d'Pom 14   2  5  7  16-28  11 [0-2-0 4-4 2] play off [P]
 -------------------------------------------
- 8.GS Castilho       13   2  4  7  16-33  10
+ 8.GS Castilho       14   2  5  7  17-34  11 [0-2-0 4-4 2] relegated
 
 Round 1
 [Jan 3]
@@ -3044,23 +3141,35 @@ Académica     2-3 GD Amarante
 FC Derby     2-1 GS Castilho
 
 Round 14
-GS Castilho       -  Académica
-GD Amarante      -  Batuque FC
-CS Mindelense      -  ADRC Ponta d'Pom
-Falcões do Norte   -  FC Derby
+[Apr 3]
+GD Amarante     0-1 Batuque FC
+[Apr 12]
+GS Castilho      1-1 Académica
+CS Mindelense     5-2 ADRC Ponta d'Pom
+Falcões do Norte  2-0 FC Derby
 
-Table:
+Final table:
 
- 1.CS Mindelense    13  10  3  0  32-13  33 champions [C]
- 2.GD Amarante      13   7  4  2  27-12  25
- 3.Batuque FC       13   5  6  2  15-11  21
- 4.Académica       13   3  5  5  16-11  14
- 5.FC Derby       13   3  5  5  19-26  14
- 6.ADRC Ponta d'Pom 13   2  5  6  14-23  11 [P]
+ 1.CS Mindelense    14  11  3  0  37-15  36 champions [C]
+ 2.GD Amarante      14   7  4  3  27-13  25
+ 3.Batuque FC       14   6  6  2  16-11  24
+ 4.Académica       14   3  6  5  17-12  15
+ 5.Falcões do Norte 14   4  2  8  14-22  14 [1-1-0 3-1 4] [P]
+ 6.FC Derby       14   3  5  6  19-28  14 [0-1-1 1-3 1]
 - - - - - - - - - - - - - - - - - - - - - -
- 7.Falcões do Norte 13   3  2  8  12-22  11 [P]
+ 7.ADRC Ponta d'Pom 14   2  5  7  16-28  11 [0-2-0 4-4 2] play off [P]
 -------------------------------------------
- 8.GS Castilho       13   2  4  7  16-33  10
+ 8.GS Castilho       14   2  5  7  17-34  11 [0-2-0 4-4 2] relegated
+
+Play off relegation/promotion
+
+First leg [Apr 22]
+SC Ribeira Bote     1-2 ADRC Ponta d'Pom
+
+Second leg [Apr 25]
+ADRC Ponta d'Pom  2-3 SC Ribeira Bote     [2-4 aet; 4-5 agg]
+
+NB: SC Ribeira Bote promoted; ADRC Ponta d'Pom relegated.
 
 
 Campeonato Regional - 2.ª Divisão [aka Mindel League]
@@ -3075,17 +3184,17 @@ Associação Desportiva, Recreativa e Cultural Calhau (Calhau)
 Associação Desportiva da Universidade do Mindelo
 Estoril Futebol Clube de Monte Sossego
 
-Table:
+Final table:
 
- 1.FC Salamansa      11   7  4  0  28- 9  25 [R]
+ 1.FC Salamansa      12   8  4  0  33-11  28 champions/promoted [R]
 -----------------------------------------------
- 2.SC Ribeira Bote   10   7  1  2  19- 7  22
+ 2.SC Ribeira Bote   12   7  3  2  20- 8  24 play off
 - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Uni Mindelo      10   4  3  3  11-12  15
- 4.ADRC Calhau      10   3  5  2  15-14  14
- 5.ADRC São Pedro   11   3  3  5  18-28  12
- 6.Estoril      10   0  5  5   9-22   5
- 7.SC Corinthians   10   1  1  8  11-19   4
+ 3.ADRC Calhau      12   4  6  2  17-15  18
+ 4.Uni Mindelo      12   4  3  5  11-15  15
+ 5.ADRC São Pedro   12   3  4  5  21-31  13
+ 6.SC Corinthians   12   2  1  9  15-24   7 [1-1-0 5-1 4]
+ 7.Estoril      12   0  7  5  12-25   7 [0-1-1 1-5 1]
 
 Round 1
 [Jan 10]
@@ -3181,23 +3290,29 @@ ADRC Calhau     2-2 ADRC São Pedro
 SC Corinthians     1-2 SC Ribeira Bote
 Estoril        bye
 
-Round 13
-ADRC São Pedro       -  Estoril
-Uni Mindelo      -  SC Corinthians
-SC Ribeira Bote      -  ADRC Calhau
+Round 13 [Apr 3]
+SC Ribeira Bote     1-1 ADRC Calhau
+Uni Mindelo     0-2 SC Corinthians
+ADRC São Pedro      3-3 Estoril
 FC Salamansa      bye
 
-Table:
+Round 14 [Apr 11]
+ADRC Calhau     1-0 Uni Mindelo
+Estoril        0-0 SC Ribeira Bote
+FC Salamansa      5-2 SC Corinthians
+ADRC São Pedro      bye
 
- 1.FC Salamansa      11   7  4  0  28- 9  25 [R]
+Final table:
+
+ 1.FC Salamansa      12   8  4  0  33-11  28 champions/promoted [R]
 -----------------------------------------------
- 2.SC Ribeira Bote   10   7  1  2  19- 7  22
+ 2.SC Ribeira Bote   12   7  3  2  20- 8  24 play off
 - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Uni Mindelo      10   4  3  3  11-12  15
- 4.ADRC Calhau      10   3  5  2  15-14  14
- 5.ADRC São Pedro   11   3  3  5  18-28  12
- 6.Estoril      10   0  5  5   9-22   5
- 7.SC Corinthians   10   1  1  8  11-19   4
+ 3.ADRC Calhau      12   4  6  2  17-15  18
+ 4.Uni Mindelo      12   4  3  5  11-15  15
+ 5.ADRC São Pedro   12   3  4  5  21-31  13
+ 6.SC Corinthians   12   2  1  9  15-24   7 [1-1-0 5-1 4]
+ 7.Estoril      12   0  7  5  12-25   7 [0-1-1 1-5 1]
 
 
 Taça Regional
@@ -3234,7 +3349,8 @@ Derby        1-2 Mindelense
 [Mar 25]
 Batuque        1-2 SC Ribeira Bote
 
-Final [Apr 11, Campo do Centro de Estágios, Mindelo]
-Mindelense      -  SC Ribeira Bote
+Final [Apr 15, Campo do Centro de Estágios, Mindelo]
+Mindelense     4-0 SC Ribeira Bote
+ [Rafinha owng 14, Tiago 53, Bis 57,64]
 
 

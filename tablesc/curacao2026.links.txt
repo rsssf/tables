@@ -1,0 +1,3 @@
+tablesc/curacao2025             :  2025
+tablesc/curacaochamp            :  list of champions
+tablesc/curacaocuphist          :  list of cup winners

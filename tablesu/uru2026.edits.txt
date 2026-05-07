@@ -1,8 +1,23 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="aper">Torneo Apertura 2026</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="medio">Torneo Intermedio 2026</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="clau">Torneo Clausura 2026</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Championship Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2comp">Competencia</a><
+-- found u-enclosed line >Group Stage< - heading?
+-- make heading (hu) out of u-enclosed a name in line ><a name="cpfn">Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="tercp">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3pri">Torneo Inicial</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="31g">Group Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3seg">Torneo Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3sga">Segundo Ascenso</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3rep">Repechajes</a><
 -- removing nav(igation) section:
 
 ‹Primera División Profesional, see §pdp›
 ‹Copa de la Liga AUF Uruguaya 2026, see §copaliga›
 ‹Segunda División Profesional, see §sdp›
+‹Tercera Divisional de AUF, see §sgb›
 
 
 -- removing nav(igation) section:
@@ -35,3 +50,15 @@
 
 ‹list of foundation dates, see page urufound›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Apertura 2026, see §aper› | ‹Intermedio 2026, see §medio› | ‹Clausura 2026, see §clau› | ‹Championship Playoff, see §play›
+
+-- removing 1 leading nav line(s) in section 9:
+‹Competencia, see §2comp› | ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §tercp›
+
+-- removing 1 leading nav line(s) in section 14:
+‹Torneo Inicial, see §3pri› | ‹Torneo Final, see §3seg› | ‹Segundo Ascenso, see §3sga› | ‹Repechajes, see §3rep›
+
+-- removing 1 leading nav line(s) in section 15:
+‹Group Stage, see §31g› | ‹Semifinals, see §31s›

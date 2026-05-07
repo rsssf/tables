@@ -2,7 +2,7 @@
      title:   Jamaica 2025/26
      source:  https://rsssf.org/tablesj/jam2026.html
      author:  Karel Stokkermans
-     updated: 2 Apr 2026    
+     updated: 7 May 2026
     -->
 
 
@@ -14,29 +14,28 @@
 
 ==== Jamaica Premier League  ‹§1st›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
-Table:
+Final Table:
 
- 1.Montego Bay United        31  18  7  6  58-32  61
- 2.Mount Pleasant FA         29  15 11  3  49-15  56
+ 1.Mount Pleasant FA         39  20 14  5  69-25  74       ‹Qualified, see §play›
+ 2.Montego Bay United        39  21  8 10  79-45  71       ‹Qualified, see §play›
  - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Racing United FC          31  13 15  3  46-24  54
- 4.Portmore United FC        31  13 12  6  43-30  51
- 5.Waterhouse FC             31  14  7 10  38-27  49
- 6.Cavalier FC               30  13  3 14  40-34  42  [C]
+ 3.Portmore United FC        39  17 15  7  54-35  66       ‹Qualified, see §play›
+ 4.Waterhouse FC             39  19  8 12  51-32  65       ‹Qualified, see §play›
+ 5.Cavalier FC               39  19  4 16  57-41  61  [C]  ‹Qualified, see §play›
+ 6.Racing United FC          39  14 18  7  53-34  60       ‹Qualified, see §play›
  - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Chapelton Maroons FC      31  12  6 13  27-33  42
- 8.Dunbeholden FC            31  11  8 12  33-36  41
- 9.Arnett Gardens FC         31  11  7 13  44-36  40
-10.Tivoli Gardens FC         31   9 11 11  31-41  38
-11.Treasure Beach            31   6 13 12  31-43  31  [P]
-12.Harbour View FC           31   6 10 15  43-60  28
+ 7.Arnett Gardens FC         39  17  7 15  68-46  58
+ 8.Chapelton Maroons FC      39  14  7 18  42-57  49
+ 9.Dunbeholden FC            39  13  9 17  40-53  48
+10.Tivoli Gardens FC         39  11 11 17  37-58  44
+11.Treasure Beach            39  10 13 16  43-59  43  [P]
+12.Molynes United FC         39   9 15 15  45-47  42
 ----------------------------------------------------
-13.Molynes United FC         31   4 15 12  27-42  27
-14.Spanish Town Police       30   5  5 20  18-75  20  [P]
+13.Harbour View FC           39   9 12 18  53-73  39       Relegated
+14.Spanish Town Police       39   7  5 27  25-111 26  [P]  Relegated
 
 Round 1
 [Aug 24]
@@ -331,7 +330,7 @@ Arnett Gardens           0-0 Molynes United
 Harbour View             0-3 Racing United
 Waterhouse               1-0 Montego Bay United
 [Apr 2]
-Spanish Town Police       -  Mount Pleasant
+Spanish Town Police      1-0 Mount Pleasant
 
 Round 27
 [Mar 15]
@@ -354,7 +353,7 @@ Racing United            3-0 Chapelton Maroons
 Tivoli Gardens           0-2 Arnett Gardens
 Harbour View             3-0 Spanish Town Police
 [Apr 9]
-Cavalier                  -  Mount Pleasant
+Cavalier                 1-3 Mount Pleasant
 
 Round 29
 [Mar 22]
@@ -373,10 +372,11 @@ Tivoli Gardens           0-1 Chapelton Maroons
 Molynes United           1-1 Montego Bay United
 Harbour View             2-2 Racing United
 [Mar 26]
-Treasure Beach           0-0 Arnett Gardens
 Portmore United          2-1 Waterhouse
 Cavalier                 0-2 Dunbeholden
 Mount Pleasant           4-0 Spanish Town Police
+[Apr 9]
+Treasure Beach           0-4 Arnett Gardens
 
 Round 31
 [Mar 29]
@@ -389,26 +389,107 @@ Racing United            0-0 Treasure Beach
 Waterhouse               5-1 Spanish Town Police
 Arnett Gardens           1-1 Mount Pleasant
 
-Table:
+Round 32
+[Apr 5]
+Portmore United          2-2 Montego Bay United
+Treasure Beach           abd Tivoli Gardens           [abandoned at 2-1 at half-time due
+Harbour View             1-1 Chapelton Maroons         to heavy rain]
+Cavalier                 2-0 Molynes United
+Spanish Town Police      4-1 Dunbeholden
+Waterhouse               1-1 Arnett Gardens
+Mount Pleasant           0-0 Racing United
+[Apr 30]
+Treasure Beach           4-2 Tivoli Gardens           [second half]
 
- 1.Montego Bay United        31  18  7  6  58-32  61
- 2.Mount Pleasant FA         29  15 11  3  49-15  56
+Round 33 [Apr 12]
+Harbour View             2-1 Treasure Beach
+Racing United            0-1 Waterhouse
+Dunbeholden              2-1 Arnett Gardens
+Chapelton Maroons        1-4 Cavalier
+Montego Bay United       6-0 Spanish Town Police
+Molynes United           0-1 Portmore United
+Tivoli Gardens           1-0 Mount Pleasant
+
+Round 34 [Apr 15]
+Treasure Beach           0-3 Chapelton Maroons
+Dunbeholden              0-0 Racing United
+Portmore United          0-0 Cavalier
+Spanish Town Police      0-9 Molynes United
+Arnett Gardens           1-0 Montego Bay United
+Waterhouse               1-0 Tivoli Gardens
+Mount Pleasant           1-1 Harbour View
+
+Round 35
+[Apr 19]
+Treasure Beach           2-2 Mount Pleasant
+Tivoli Gardens           2-0 Dunbeholden
+Montego Bay United       4-1 Racing United
+Harbour View             0-1 Waterhouse
+Chapelton Maroons        0-2 Portmore United
+Molynes United           3-0 Arnett Gardens
+[Apr 20]
+Cavalier                 3-0 Spanish Town Police
+
+Round 36
+[Apr 22]
+Racing United            1-2 Molynes United
+Montego Bay United       5-1 Tivoli Gardens
+[Apr 23]
+Spanish Town Police      0-1 Portmore United
+Dunbeholden              4-0 Harbour View
+Waterhouse               1-2 Treasure Beach
+Mount Pleasant           5-2 Chapelton Maroons
+Arnett Gardens           2-1 Cavalier
+
+Round 37
+[Apr 26]
+Treasure Beach           1-0 Dunbeholden
+Harbour View             4-3 Montego Bay United
+Portmore United          1-2 Arnett Gardens
+Chapelton Maroons        6-2 Spanish Town Police
+Cavalier                 2-0 Racing United
+[Apr 27]
+Molynes United           2-0 Tivoli Gardens
+Mount Pleasant           2-1 Waterhouse
+
+Round 38 [May 3]
+Waterhouse               3-0 Chapelton Maroons
+Racing United            1-1 Portmore United
+Dunbeholden              0-5 Mount Pleasant
+Montego Bay United       0-2 Treasure Beach
+Tivoli Gardens           0-2 Cavalier
+Molynes United           0-1 Harbour View
+Arnett Gardens           6-0 Spanish Town Police
+
+Round 39 [May 6]
+Cavalier                 2-1 Harbour View
+Chapelton Maroons        2-7 Arnett Gardens
+Mount Pleasant           2-1 Montego Bay United
+Portmore United          3-0 Tivoli Gardens
+Spanish Town Police      0-4 Racing United
+Treasure Beach           0-2 Molynes United
+Waterhouse               4-0 Dunbeholden
+
+Final Table:
+
+ 1.Mount Pleasant FA         39  20 14  5  69-25  74       ‹Qualified, see §play›
+ 2.Montego Bay United        39  21  8 10  79-45  71       ‹Qualified, see §play›
  - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Racing United FC          31  13 15  3  46-24  54
- 4.Portmore United FC        31  13 12  6  43-30  51
- 5.Waterhouse FC             31  14  7 10  38-27  49
- 6.Cavalier FC               30  13  3 14  40-34  42  [C]
+ 3.Portmore United FC        39  17 15  7  54-35  66       ‹Qualified, see §play›
+ 4.Waterhouse FC             39  19  8 12  51-32  65       ‹Qualified, see §play›
+ 5.Cavalier FC               39  19  4 16  57-41  61  [C]  ‹Qualified, see §play›
+ 6.Racing United FC          39  14 18  7  53-34  60       ‹Qualified, see §play›
  - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Chapelton Maroons FC      31  12  6 13  27-33  42
- 8.Dunbeholden FC            31  11  8 12  33-36  41
- 9.Arnett Gardens FC         31  11  7 13  44-36  40
-10.Tivoli Gardens FC         31   9 11 11  31-41  38
-11.Treasure Beach            31   6 13 12  31-43  31  [P]
-12.Harbour View FC           31   6 10 15  43-60  28
+ 7.Arnett Gardens FC         39  17  7 15  68-46  58
+ 8.Chapelton Maroons FC      39  14  7 18  42-57  49
+ 9.Dunbeholden FC            39  13  9 17  40-53  48
+10.Tivoli Gardens FC         39  11 11 17  37-58  44
+11.Treasure Beach            39  10 13 16  43-59  43  [P]
+12.Molynes United FC         39   9 15 15  45-47  42
 ----------------------------------------------------
-13.Molynes United FC         31   4 15 12  27-42  27
-14.Spanish Town Police       30   5  5 20  18-75  20  [P]
+13.Harbour View FC           39   9 12 18  53-73  39       Relegated
+14.Spanish Town Police       39   7  5 27  25-111 26  [P]  Relegated
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
 

@@ -2,7 +2,7 @@
      title:   Faroe Islands 2026
      source:  https://rsssf.org/tablesf/far2026.html
      author:  Denis Polsinelli
-     updated: 19 Mar 2026    
+     updated: 19 Mar 2026
     -->
 
 

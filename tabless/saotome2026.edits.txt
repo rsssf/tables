@@ -1,3 +1,8 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="saotome1">First Level</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="saotome2">Second Level</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="saotome3">Third Level (Campeonato Nacional da Divisão de Honra)</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="tacanac">Taça Nacional</a><
+-- found u-enclosed line >Other Cup Tournament< - heading?
 -- removing nav(igation) section:
 
 ‹2025, see page saotome2025›
@@ -6,3 +11,6 @@
 
 ‹list of cup winners, see page saotomecuphist›
 
+
+-- removing 1 leading nav line(s) in section 4:
+‹First Level, see §saotome1› | ‹Second Level, see §saotome2› | ‹Third Level, see §saotome3›

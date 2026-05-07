@@ -1,0 +1,9 @@
+tablesz/zwit2025                :  2024/25
+tablesz/zwitchamp               :  list of champions
+tablesz/zwithist-reg            :  list of final tables 1898-1930
+tablesz/zwithist                :  list of final tables since 1930
+tablesz/zwitalltime             :  all-time table
+tablesz/zwitcuphist             :  list of cup finals
+tablesz/zwitleagcuphist         :  list of league cup finals
+tablesz/zwitsupcuphist          :  list of super cup finals
+tablesz/zwittops                :  list of topscorers

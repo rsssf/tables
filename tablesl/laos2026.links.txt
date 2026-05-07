@@ -1,0 +1,3 @@
+tablesl/laos2025                :  2024/25
+tablesl/laoschamp               :  list of champions
+tablesl/laoscuphist             :  list of cup winners

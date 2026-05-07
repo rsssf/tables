@@ -2,7 +2,7 @@
      title:   Ivory Coast 2025/26
      source:  https://rsssf.org/tablesi/ivo2026.html
      author:  Karel Stokkermans
-     updated: 2 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -16,23 +16,23 @@
 
 Table:
 
- 1.ASEC Mimosas (Abidjan)                22  14  4  4  42-18  46
- 2.San-Pédro FC (San Pédro)              22  11  7  4  32-23  40
- 3.Mouna FC (Agbaou)                     22  10  5  7  27-21  35
- 4.Acad. F. Amadou Diallo (Djékanou)     22   8  8  6  21-16  32
- 4.Stade (Abidjan)                       22   9  5  8  24-22  32  [C]
- 6.CO Korhogo                            22   8  7  7  21-17  31
- 7.US Tchologo (Gagnoa)                  22   8  6  8  19-24  30  [P]
- 8.SO Armée (Yamoussoukro)               22   8  5  9  15-15  29
- 9.Stella d'Adjamé (Abidjan)             22   7  7  8  20-22  28
-10.FC Olympic Sport d'Abobo              22   7  6  9  23-23  27
-11.Racing Club d'Abidjan                 22   6  9  7  22-22  27
-12.Bouaké FC (Bouaké)                    22   6  9  7  18-19  27
-13.SOL FC (Abobo)                        22   8  2 12  23-34  26
-14.Zoman FC                              22   6  7  9  15-23  25
+ 1.ASEC Mimosas (Abidjan)                27  18  4  5  47-19  58       Champions
+ 2.San-Pédro FC (San Pédro)              27  13  9  5  39-28  48
+ 3.Mouna FC (Agbaou)                     27  13  5  9  38-25  44
+ 4.Acad. F. Amadou Diallo (Djékanou)     27  11  8  8  27-22  41
+ 5.US Tchologo (Gagnoa)                  27  11  7  9  27-28  40  [P]
+ 6.Stade (Abidjan)                       27  10  7 10  28-27  37  [C]
+ 7.Bouaké FC (Bouaké)                    27   9 10  8  22-21  37
+ 8.SO Armée (Yamoussoukro)               27   9  8 10  21-20  35
+ 9.CO Korhogo                            27   9  8 10  28-29  35
+10.Stella d'Adjamé (Abidjan)             27   8  9 10  23-26  33
+11.SOL FC (Abobo)                        27  10  3 14  28-43  33
+12.ES Agboville                          27   8  8 11  19-28  32  [P]
+13.Inova SCA (Abidjan)                   27   9  5 13  14-25  32
+14.FC Olympic Sport d'Abobo              27   7  8 12  25-28  29
 ----------------------------------------------------------------
-15.ES Agboville                          22   5  7 10  14-24  22  [P]
-16.Inova SCA (Abidjan)                   22   6  4 12   9-22  22
+15.Zoman FC                              27   7  8 12  18-30  29
+16.Racing Club d'Abidjan                 27   6  9 12  23-28  27
 
 Round 1
 [Aug 16]
@@ -354,37 +354,93 @@ Zoman            1-2 San-Pédro
 
 Round 23
 [Apr 3]
-Zoman             -  OSA
+Zoman            1-0 OSA
 [Apr 4]
-SOL               -  US Tchologo
-Stella            -  AFAD Djékanou
+SOL              1-1 US Tchologo
+Stella           1-2 AFAD Djékanou
 [Apr 5]
-ES Agboville      -  Korhogo
-San-Pédro         -  Bouaké
-Mouna             -  ASEC Mimosas
+ES Agboville     1-3 Korhogo
+San-Pédro        0-0 Bouaké
+Mouna            0-2 ASEC Mimosas
 [Apr 6]
-ISCA              -  Racing Club
+ISCA             1-0 Racing Club
 [Apr 7]
-Stade             -  SOA
+Stade            1-1 SOA
+
+Round 24
+[Apr 10]
+SOL              0-6 Mouna
+[Apr 11]
+Racing Club      0-1 US Tchologo
+[Apr 12]
+ASEC Mimosas     1-0 Stella
+OSA              0-1 ES Agboville
+Korhogo          1-2 ISCA
+SOA              1-1 Zoman
+[Apr 13]
+Bouaké           0-1 Stade
+AFAD Djékanou    0-2 San-Pédro
+
+Round 25
+[Apr 17]
+Zoman            0-2 SOL
+[Apr 18]
+Stade            0-0 ES Agboville
+[Apr 19]
+AFAD Djékanou    1-2 Bouaké
+San-Pédro        2-2 Korhogo
+US Tchologo      1-2 ISCA
+ASEC Mimosas     1-0 Racing Club
+[Apr 20]
+Stella           1-1 OSA
+[Apr 21]
+Mouna            2-0 SOA
+
+Round 26
+[Apr 25]
+ES Agboville     2-1 San-Pédro
+Racing Club      1-2 SOL
+[Apr 26]
+US Tchologo      2-1 Stade
+ISCA             0-0 OSA
+Bouaké           1-0 ASEC Mimosas
+Mouna            0-1 AFAD Djékanou
+Korhogo          1-4 SOA
+[Apr 27]
+Stella           1-0 Zoman
+
+Round 27
+[May 2]
+SOL              0-1 Bouaké
+[May 3]
+ES Agboville     1-0 Racing Club
+Korhogo          0-3 US Tchologo
+SOA              0-0 Stella
+[May 4]
+Stade            1-2 AFAD Djékanou
+OSA              1-2 San-Pédro
+ASEC Mimosas     1-0 ISCA
+[May 5]
+Zoman            1-3 Mouna
 
 Table:
 
- 1.ASEC Mimosas (Abidjan)                22  14  4  4  42-18  46
- 2.San-Pédro FC (San Pédro)              22  11  7  4  32-23  40
- 3.Mouna FC (Agbaou)                     22  10  5  7  27-21  35
- 4.Acad. F. Amadou Diallo (Djékanou)     22   8  8  6  21-16  32
- 4.Stade (Abidjan)                       22   9  5  8  24-22  32  [C]
- 6.CO Korhogo                            22   8  7  7  21-17  31
- 7.US Tchologo (Gagnoa)                  22   8  6  8  19-24  30  [P]
- 8.SO Armée (Yamoussoukro)               22   8  5  9  15-15  29
- 9.Stella d'Adjamé (Abidjan)             22   7  7  8  20-22  28
-10.FC Olympic Sport d'Abobo              22   7  6  9  23-23  27
-11.Racing Club d'Abidjan                 22   6  9  7  22-22  27
-12.Bouaké FC (Bouaké)                    22   6  9  7  18-19  27
-13.SOL FC (Abobo)                        22   8  2 12  23-34  26
-14.Zoman FC                              22   6  7  9  15-23  25
+ 1.ASEC Mimosas (Abidjan)                27  18  4  5  47-19  58       Champions
+ 2.San-Pédro FC (San Pédro)              27  13  9  5  39-28  48
+ 3.Mouna FC (Agbaou)                     27  13  5  9  38-25  44
+ 4.Acad. F. Amadou Diallo (Djékanou)     27  11  8  8  27-22  41
+ 5.US Tchologo (Gagnoa)                  27  11  7  9  27-28  40  [P]
+ 6.Stade (Abidjan)                       27  10  7 10  28-27  37  [C]
+ 7.Bouaké FC (Bouaké)                    27   9 10  8  22-21  37
+ 8.SO Armée (Yamoussoukro)               27   9  8 10  21-20  35
+ 9.CO Korhogo                            27   9  8 10  28-29  35
+10.Stella d'Adjamé (Abidjan)             27   8  9 10  23-26  33
+11.SOL FC (Abobo)                        27  10  3 14  28-43  33
+12.ES Agboville                          27   8  8 11  19-28  32  [P]
+13.Inova SCA (Abidjan)                   27   9  5 13  14-25  32
+14.FC Olympic Sport d'Abobo              27   7  8 12  25-28  29
 ----------------------------------------------------------------
-15.ES Agboville                          22   5  7 10  14-24  22  [P]
-16.Inova SCA (Abidjan)                   22   6  4 12   9-22  22
+15.Zoman FC                              27   7  8 12  18-30  29
+16.Racing Club d'Abidjan                 27   6  9 12  23-28  27
 
 

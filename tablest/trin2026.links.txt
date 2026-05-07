@@ -1,0 +1,3 @@
+tablest/trin2025                :  2024/25
+tablest/trinchamp               :  list of champions
+tablest/trincuphist             :  list of cup winners

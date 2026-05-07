@@ -2,7 +2,7 @@
      title:   Angola 2025/26
      source:  https://rsssf.org/tablesa/ango2026.html
      author:  José Batalha
-     updated: 9 Apr 2026    
+     updated: 7 May 2026
     -->
 
 
@@ -36,23 +36,25 @@ Clube Desportivo São Salvador do Kongo               São Salvador   Zaire Prov
 
 Table:
 
- 1.Petro de Luanda              21  18  1  2  46-12  55  [C]
- 2.Wiliete Sport Clube          21  14  4  3  37-20  46
- 3.1º de Agosto                 21  12  8  1  38-17  44
- 4.Bravos do Maqui              21  10  3  8  27-21  33
- 5.Interclube de Luanda         21   8  7  6  29-22  31
- 6.Kabuscorp SC                 21   7  9  5  17-14  30
- 7.Desportivo da Huíla          21   7  7  7  24-22  28
- 8.Sagrada Esperança            21   6  9  6  28-29  27
- 9.Luanda City FC               21   7  5  9  17-31  26
-10.Recreativo do Libolo         21   7  3 11  18-30  24
-11.Académica do Lobito          21   5  8  8  17-20  23
-12.Desportivo da Lunda-Sul      21   5  8  8  17-22  23
-13.CD São Salvador              21   5  5 11  19-26  20
+ 1.Petro de Luanda              26  21  3  2  60-14  66  [C]  Champions
+ 2.Wiliete Sport Clube          26  16  6  4  44-26  54
+ 3.1º de Agosto                 26  14 10  2  45-20  52
+ 4.Desportivo da Huíla          26  11  8  7  31-23  41
+ 5.Interclube de Luanda         26   9  9  8  33-26  36
+ 6.Bravos do Maqui              26  10  6 10  30-27  36
+ 7.Kabuscorp SC                 26   8 11  7  22-19  35
+ 8.Luanda City FC               26   9  6 11  21-40  33
+ 9.Académica do Lobito          25   8  8  9  23-24  32
+10.1º de Maio Benguela          26   9  4 13  27-32  31  [P]
+11.Sagrada Esperança            26   7 10  9  30-37  31
+12.Desportivo da Lunda-Sul      25   7  8 10  20-26  29
+13.CD São Salvador              26   8  5 13  24-31  29
 -------------------------------------------------------
-14.1º de Maio Benguela          21   5  4 12  17-29  19  [P]
-15.Redonda FC                   21   5  3 13  11-32  18  [P]
-16.RSD Guelson FC               21   4  2 15  19-34  14  [P]
+14.Recreativo do Libolo         26   8  5 13  22-35  29
+15.Redonda FC                   26   5  4 17  13-42  19  [P]
+16.RSD Guelson FC               26   4  3 19  21-44  15  [P]  Relegated
+
+NB: Petro de Luanda certain of title due to superior head-to-head record w.r.t. Wiliete
 
 Round 1
 [Sep 16]
@@ -357,40 +359,105 @@ Interclube              3-1 1º de Maio de Benguela
 Wiliete SC              1-0 Bravos do Maqui
 Kabuscorp SC            0-0 RSD Guelson FC
 [Apr 9]
-Académica do Lobito     4-0 Redonda FC
+Académica do Lobito     4-0 Redonda FC              [at Benguela]
 Luanda City FC          1-0 Desportivo da Lunda-Sul
 
 Round 22
 [Apr 11]
-Sagrada Esperança        -  CD São Salvador
-Bravos do Maqui          -  1º de Agosto
-Desportivo da Huíla      -  Recreativo do Libolo
-1º de Maio de Benguela   -  Kabuscorp SC
-Interclube               -  Petro de Luanda
+Sagrada Esperança       0-1 CD São Salvador
+Interclube              0-0 Petro de Luanda
 [Apr 12]
-Desportivo da Lunda-Sul  -  Redonda FC              [at Dundo]
-Wiliete SC               -  Académica do Lobito
-RSD Guelson FC           -  Luanda City FC
+Bravos do Maqui         1-1 1º de Agosto
+Desportivo da Lunda-Sul 1-0 Redonda FC              [at Dundo]
+Desportivo da Huíla     1-0 Recreativo do Libolo
+1º de Maio de Benguela  3-1 Kabuscorp SC
+RSD Guelson FC          1-2 Luanda City FC
+[Apr 13]
+Wiliete SC              2-3 Académica do Lobito
+
+Round 23
+[Apr 17]
+Luanda City FC          1-0 1º de Maio de Benguela
+[Apr 18]
+Recreativo do Libolo    3-1 Sagrada Esperança
+Redonda FC              0-0 RSD Guelson FC
+Interclube              0-0 Desportivo da Huíla
+[Apr 19]
+CD São Salvador         2-1 Bravos do Maqui
+1º de Agosto            1-1 Wiliete SC
+Kabuscorp SC            0-0 Petro de Luanda
+[tba]
+Académica do Lobito      -  Desportivo da Lunda-Sul [at Benguela]
+
+Round 24
+[Apr 25]
+Bravos do Maqui         0-0 Recreativo do Libolo
+Sagrada Esperança       1-0 Interclube
+Petro de Luanda         6-0 Luanda City FC
+[Apr 26]
+1º de Maio de Benguela  2-0 Redonda FC
+1º de Agosto            0-1 Académica do Lobito
+Desportivo da Huíla     2-0 Kabuscorp SC
+RSD Guelson FC          0-2 Desportivo da Lunda-Sul
+Wiliete SC              1-0 CD São Salvador
+
+Round 25
+[May 2]
+Desportivo da Lunda-Sul 0-1 1º de Maio de Benguela  [at Dundo]
+Recreativo do Libolo    1-1 Wiliete SC
+Académica do Lobito     2-0 RSD Guelson FC          [at Benguela]
+Redonda FC              2-5 Petro de Luanda
+Interclube              3-1 Bravos do Maqui
+[May 3]
+CD São Salvador         0-3 1º de Agosto
+Kabuscorp SC            4-0 Sagrada Esperança
+Luanda City FC          1-2 Desportivo da Huíla
+
+Round 26 [May 6]
+Sagrada Esperança       0-0 Luanda City FC
+Bravos do Maqui         0-0 Kabuscorp SC
+1º de Agosto            2-0 Recreativo do Libolo
+1º de Maio de Benguela  4-1 RSD Guelson FC
+CD São Salvador         2-0 Académica do Lobito
+Desportivo da Huíla     2-0 Redonda FC
+Wiliete SC              2-1 Interclube
+Petro de Luanda         3-0 Desportivo da Lunda-Sul
+
+Round 27
+[May 8]
+Luanda City FC           -  Bravos do Maqui
+[May 9]
+RSD Guelson FC           -  Petro de Luanda
+[May 10]
+Desportivo da Lunda-Sul  -  Desportivo da Huíla
+Recreativo do Libolo     -  CD São Salvador
+Redonda FC               -  Sagrada Esperança
+Académica do Lobito      -  1º de Maio de Benguela
+Interclube               -  1º de Agosto
+[May 11]
+Kabuscorp SC             -  Wiliete SC
 
 Table:
 
- 1.Petro de Luanda              21  18  1  2  46-12  55  [C]
- 2.Wiliete Sport Clube          21  14  4  3  37-20  46
- 3.1º de Agosto                 21  12  8  1  38-17  44
- 4.Bravos do Maqui              21  10  3  8  27-21  33
- 5.Interclube de Luanda         21   8  7  6  29-22  31
- 6.Kabuscorp SC                 21   7  9  5  17-14  30
- 7.Desportivo da Huíla          21   7  7  7  24-22  28
- 8.Sagrada Esperança            21   6  9  6  28-29  27
- 9.Luanda City FC               21   7  5  9  17-31  26
-10.Recreativo do Libolo         21   7  3 11  18-30  24
-11.Académica do Lobito          21   5  8  8  17-20  23
-12.Desportivo da Lunda-Sul      21   5  8  8  17-22  23
-13.CD São Salvador              21   5  5 11  19-26  20
+ 1.Petro de Luanda              26  21  3  2  60-14  66  [C]  Champions
+ 2.Wiliete Sport Clube          26  16  6  4  44-26  54
+ 3.1º de Agosto                 26  14 10  2  45-20  52
+ 4.Desportivo da Huíla          26  11  8  7  31-23  41
+ 5.Interclube de Luanda         26   9  9  8  33-26  36
+ 6.Bravos do Maqui              26  10  6 10  30-27  36
+ 7.Kabuscorp SC                 26   8 11  7  22-19  35
+ 8.Luanda City FC               26   9  6 11  21-40  33
+ 9.Académica do Lobito          25   8  8  9  23-24  32
+10.1º de Maio Benguela          26   9  4 13  27-32  31  [P]
+11.Sagrada Esperança            26   7 10  9  30-37  31
+12.Desportivo da Lunda-Sul      25   7  8 10  20-26  29
+13.CD São Salvador              26   8  5 13  24-31  29
 -------------------------------------------------------
-14.1º de Maio Benguela          21   5  4 12  17-29  19  [P]
-15.Redonda FC                   21   5  3 13  11-32  18  [P]
-16.RSD Guelson FC               21   4  2 15  19-34  14  [P]
+14.Recreativo do Libolo         26   8  5 13  22-35  29
+15.Redonda FC                   26   5  4 17  13-42  19  [P]
+16.RSD Guelson FC               26   4  3 19  21-44  15  [P]  Relegated
+
+NB: Petro de Luanda certain of title due to superior head-to-head record w.r.t. Wiliete
 
 
 
@@ -602,7 +669,8 @@ Namibe
 Uíge
 Zaire
 
-NB: Level 1 teams enters after preliminary round.
+NB: Level 1 teams enters after preliminary round, but Clube Recreativo e
+    Desportivo do Libolo and Luanda City Football Club are excluded.
 
 Preliminary round [Apr 1]
 EF Sinergia da Lunda Sul  awd 17 de Maio de Benguela   [3-0 awarded; 17 de Maio dns]
@@ -611,16 +679,50 @@ Futebol Clube de Cabinda  awd Ambaca FC         [3-0 awarded; Ambaca FC dns]
 Recreativo do Quela      awd Marítimo de Benguela   [3-0 awarded; Marítimo dns]
 Futebol Clube de Luanda   0-1 Samba Sport Clube
 
-Round 1 [Apr 15]
-EF Sinergia da Lunda Sul   -  Académica do Lobito
+Round 1
+[Apr 14]
+Nedji AFC de Luanda     1-1 GD Escolinha Isaac   [4-3 pen]
+[Apr 15]
+Nacional de Benguela     0-1 RSD Guelson FC
+EF Sinergia da Lunda Sul  awd Académica do Lobito   [at Luena; 0-3 awarded; Sinergia dns]
+Recreativo do Quela      0-1 Desportivo da Lunda-Sul
+Futebol Clube de Cabinda  awd Desportivo da Huíla   [0-3 awarded; FC Cabinda dns]
+Samba Sport Clube     0-5 Interclube      [at Luanda]
+Sporting de Benguela     1-1 Redonda FC      [1-4 pen]
+[Apr 16]
+ASA de Luanda        1-1 Wiliete SC      [3-4 pen]
+Kabuscorp SC        bye
+1º de Agosto        bye
+1º de Maio de Benguela     bye
+Sporting de Luanda     bye
+Bravos do Maqui        bye
+Sagrada Esperança     bye
+CD São Salvador         bye
+Petro de Luanda        bye
 
 Round 2
+[Apr 22]
+Interclube        2-2 Bravos do Maqui      [3-2 pen]
+RSD Guelson FC        0-3 Kabuscorp SC
+Redonda FC        1-1 CD São Salvador       [9-10 pen]
+Desportivo da Huíla     awd Sporting de Luanda   [3-0 awarded; Sporting Luanda dns]
+Nedji AFC de Luanda     0-0 Sagrada Esperança        [3-1 pen]
+Académica do Lobito     0-4 Petro de Luanda      [at Luanda]
+Wiliete SC        0-0 1º de Agosto      [4-3 pen]
+[Apr 23]
+Desportivo da Lunda-Sul   1-0 1º de Maio de Benguela   [at Dundo]
 
-1/4 final
+1/4 final [Apr 29]
+Interclube        1-3 Petro de Luanda
+Wiliete SC        1-0 Desportivo da Lunda-Sul
+Nedji AFC de Luanda     0-1 Kabuscorp SC
+CD São Salvador         0-0 Desportivo da Huíla   [1-3 pen]
 
-Semifinals
+Semifinals [May 27]
+Desportivo da Huíla      -  Kabuscorp SC
+Petro de Luanda         -  Wiliete SC
 
-Final
+Final [May 31]
 
 
 
@@ -660,30 +762,30 @@ First stage
 Tables:
 
 Grupo A
- 1.Nacional de Benguela      8   5  1  2  13- 4  16
+ 1.Nacional de Benguela          12   7  2  3  17- 6  23
  -----------------------------------------------------
- 2.FC Cabinda              8   5  1  2  11- 5  16
+ 2.FC Cabinda                  11   7  2  2  14- 6  23
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Sporting de Luanda           8   4  3  1  11- 5  15
- 4.Santa Rita de Cássia FC     8   3  3  2   8- 5  12 [R]
- 5.Ambaca FC             8   3  3  2   9-10  12
- 6.ASA de Luanda           8   3  2  3   7- 7  11
- 7.Samba SC do Dande      8   2  2  4  12-19   8
- 8.Estrela SC         8   2  1  5   4- 8   7
- 9.Marítimo de Benguela      8   1  0  7   6-18   3
+ 3.ASA de Luanda          11   6  2  3  16- 8  20
+ 4.Sporting de Luanda          11   5  4  2  16- 8  19
+ 5.Santa Rita de Cássia FC     12   5  3  4  13- 9  18 [R]
+ 6.Ambaca FC                 13   4  4  5  12-19  16
+ 7.Estrela SC             11   4  1  6  12-11  13
+ 8.Samba SC do Dande          12   2  2  8  13-36   8
+ 9.Marítimo de Benguela          11   2  0  9  13-23   6
 
 Grupo B
- 1.Recreativo da Caála          8   6  2  0  10- 3  20
+ 1.Recreativo da Caála         12   8  4  0  17- 4  28
  -----------------------------------------------------
- 2.CD Ferrovia do Huambo        8   4  4  0   6- 2  16
+ 2.CD Ferrovia do Huambo       10   5  5  0  10- 5  20
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.FC Luanda              8   4  3  1   9- 4  15
- 4.GD Escolinha Isaac           8   4  2  2   9- 7  14 [R]
- 5.Nedji AFC de Luanda      8   3  3  2   5- 4  12
- 6.GD HCB da Baía-Farta           8   2  2  4   9- 9   8
- 7.Sporting de Benguela           8   1  3  4   5- 8   6
- 8.Recreativo do Quela           8   1  2  5   8-12   5
- 9.GD 17 de Maio de Benguela    8   0  1  7   4-16   1
+ 3.Nedji AFC de Luanda          11   5  4  2   8- 5  19
+ 4.FC Luanda             11   4  5  2  14-10  17
+ 5.GD Escolinha Isaac          11   4  4  3  10- 9  16 [R]
+ 6.Sporting de Benguela          11   2  5  4  11-13  11
+ 7.GD HCB da Baía-Farta          11   2  4  5  12-13  10
+ 8.Recreativo do Quela          10   1  4  5  10-14   7
+ 9.GD 17 de Maio de Benguela   11   0  1 10   5-24   1
 
 Round 1
 Grupo A
@@ -859,45 +961,120 @@ GD 17 de Maio Benguela   bye
 
 Round 10
 Grupo A
-ASA de Luanda            -  Ambaca FC
-Santa Rita de Cássia     -  Sporting de Luanda
-Marítimo de Benguela     -  Nacional de Benguela
-Estrela SC            -  Samba SC do Dande
+[Apr 11]
+Estrela SC           6-0 Samba SC do Dande
+ASA de Luanda           3-0 Ambaca FC
+Marítimo de Benguela    0-1 Nacional de Benguela
+[Apr 12]
+Santa Rita de Cássia    0-3 Sporting de Luanda
 FC Cabinda      bye
 Grupo B
-Recreativo da Caála      -  GD HCB da Baía-Farta
-Recreativo do Quela      -  GD 17 de Maio Benguela
-Nedji AFC de Luanda      -  GD Escolinha Isaac
-Sporting de Benguela     -  FC Luanda
+[Apr 11]
+Recreativo do Quela      -  GD 17 de Maio Benguela   [17 de Maio dns]
+Sporting de Benguela    3-3 FC Luanda
+[Apr 12]
+Recreativo da Caála     1-0 GD HCB da Baía-Farta
+[later]
+Nedji AFC de Luanda     1-0 GD Escolinha Isaac
 CD Ferrovia do Huambo   bye
+
+Round 11
+Grupo A
+[Apr 18]
+Ambaca FC      0-2 Santa Rita de Cássia
+Nacional de Benguela   0-1 FC Cabinda
+[Apr 19]
+Samba SC do Dande   0-3 ASA de Luanda
+[tba]
+Sporting de Luanda    -  Marítimo de Benguela
+Estrela SC      bye
+Grupo B
+[Apr 16]
+GD HCB da Baía-Farta   2-2 CD Ferrovia do Huambo
+[Apr 19]
+GD Escolinha Isaac   0-0 Recreativo da Caála
+GD 17 de Maio Benguela   1-2 Sporting de Benguela
+[tba]
+FC Luanda       -  Nedji AFC de Luanda
+Recreativo do Quela   bye
+
+Round 12
+Grupo A
+[Apr 25]
+ASA de Luanda      3-1 Estrela SC
+Marítimo de Benguela    2-3 Ambaca FC
+FC Cabinda      2-1 Sporting de Luanda
+[Apr 26]
+Santa Rita de Cássia    3-0 Samba SC do Dande
+Nacional de Benguela   bye
+Grupo B
+[Apr 25]
+Sporting de Benguela   1-1 Recreativo do Quela
+Nedji AFC de Luanda   1-0 GD 17 de Maio Benguela
+Recreativo da Caála   1-1 FC Luanda
+[Apr 26]
+CD Ferrovia do Huambo   n/p GD Escolinha Isaac      [no ambulance]
+GD HCB da Baía-Farta   bye
+
+Round 13
+Grupo A
+[May 2]
+Estrela SC      1-0 Santa Rita de Cássia
+Ambaca FC      0-0 FC Cabinda
+Sporting de Luanda   1-1 Nacional de Benguela
+[May 3]
+Samba SC do Dande   1-5 Marítimo de Benguela
+ASA de Luanda      bye
+Grupo B [May 2]
+GD Escolinha Isaac   1-1 GD HCB da Baía-Farta
+Recreativo do Quela   1-1 Nedji AFC de Luanda
+GD 17 de Maio Benguela   0-5 Recreativo da Caála
+FC Luanda      1-2 CD Ferrovia do Huambo
+Sporting de Benguela   bye
+
+Round 14
+Grupo A
+[Apr 28]
+Nacional de Benguela   2-0 Ambaca FC
+[tba]
+Santa Rita de Cássia     -  ASA de Luanda
+FC Cabinda       -  Samba SC do Dande
+Marítimo de Benguela     -  Estrela SC
+Sporting de Luanda   bye
+Grupo B
+Nedji AFC de Luanda    -  Sporting de Benguela
+CD Ferrovia do Huambo    -  GD 17 de Maio Benguela
+GD HCB da Baía-Farta    -  FC Luanda
+Recreativo da Caála    -  Recreativo do Quela
+GD Escolinha Isaac   bye
 
 Tables:
 
 Grupo A
- 1.Nacional de Benguela      8   5  1  2  13- 4  16
+ 1.Nacional de Benguela          12   7  2  3  17- 6  23
  -----------------------------------------------------
- 2.FC Cabinda              8   5  1  2  11- 5  16
+ 2.FC Cabinda                  11   7  2  2  14- 6  23
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Sporting de Luanda           8   4  3  1  11- 5  15
- 4.Santa Rita de Cássia FC     8   3  3  2   8- 5  12 [R]
- 5.Ambaca FC             8   3  3  2   9-10  12
- 6.ASA de Luanda           8   3  2  3   7- 7  11
- 7.Samba SC do Dande      8   2  2  4  12-19   8
- 8.Estrela SC         8   2  1  5   4- 8   7
- 9.Marítimo de Benguela      8   1  0  7   6-18   3
+ 3.ASA de Luanda          11   6  2  3  16- 8  20
+ 4.Sporting de Luanda          11   5  4  2  16- 8  19
+ 5.Santa Rita de Cássia FC     12   5  3  4  13- 9  18 [R]
+ 6.Ambaca FC                 13   4  4  5  12-19  16
+ 7.Estrela SC             11   4  1  6  12-11  13
+ 8.Samba SC do Dande          12   2  2  8  13-36   8
+ 9.Marítimo de Benguela          11   2  0  9  13-23   6
 
 Grupo B
- 1.Recreativo da Caála          8   6  2  0  10- 3  20
+ 1.Recreativo da Caála         12   8  4  0  17- 4  28
  -----------------------------------------------------
- 2.CD Ferrovia do Huambo        8   4  4  0   6- 2  16
+ 2.CD Ferrovia do Huambo       10   5  5  0  10- 5  20
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.FC Luanda              8   4  3  1   9- 4  15
- 4.GD Escolinha Isaac           8   4  2  2   9- 7  14 [R]
- 5.Nedji AFC de Luanda      8   3  3  2   5- 4  12
- 6.GD HCB da Baía-Farta           8   2  2  4   9- 9   8
- 7.Sporting de Benguela           8   1  3  4   5- 8   6
- 8.Recreativo do Quela           8   1  2  5   8-12   5
- 9.GD 17 de Maio de Benguela    8   0  1  7   4-16   1
+ 3.Nedji AFC de Luanda          11   5  4  2   8- 5  19
+ 4.FC Luanda             11   4  5  2  14-10  17
+ 5.GD Escolinha Isaac          11   4  4  3  10- 9  16 [R]
+ 6.Sporting de Benguela          11   2  5  4  11-13  11
+ 7.GD HCB da Baía-Farta          11   2  4  5  12-13  10
+ 8.Recreativo do Quela          10   1  4  5  10-14   7
+ 9.GD 17 de Maio de Benguela   11   0  1 10   5-24   1
 
 
 
@@ -906,13 +1083,8 @@ Grupo B
 
 ==== Provincial Leagues  ‹§province›
 
-‹Bengo Province, see §pbengo› | ‹Bié Province, see §pbie› |
-‹Cabinda Province, see §pcabinda› | ‹Cuanza-Norte Province, see §pcuanzanorte› |
-‹Cunene Province, see §pcunene› | ‹Huambo Province, see §phuambo› |
-‹Huíla Province, see §phuila› | ‹Lunda-Sul Province, see §plundasul› |
-‹Malanje Province, see §pmalanje›
 
-Bengo Province  ‹§pbengo›
+===== Bengo Province  ‹§pbengo›
 
 Provincial supercup [aka Abreu Leal - Flecha de Caxito]
 - - - - - - - - - -
@@ -1079,7 +1251,7 @@ Nambuangongo FC   5-1 LK Sport Clube
 Final [Apr 5, Estádio Municipal do Dande, Caxito]
 Redonda FC (B)   2-1 Nambuangongo FC
 
-Bié Province  ‹§pbie›
+===== Bié Province  ‹§pbie›
 
 Provincial supercup [aka João Custódio da Silva]
 - - - - - - - - - -
@@ -1115,16 +1287,16 @@ other teams: Grupo Desportivo Mártires da Resistência do Cuito,
 
 Table (w/o some goals):
 
- 1.GD Sonangol         12  10  1  1  26-12  31
- 2.FC Almeida         12   9  1  2  30-10  28
- 3.CDR Nharêa         11   7  1  3  15- 9  22
- 4.GDR Cunhinga          12   7  1  4  20-15  22
- 5.Sporting do Bié      12   6  2  4  22-15  20 [C]
- 6.Sporting de Catabola      11   6  0  5  17-19  18
- 7.Bravos de Catabola      12   4  2  6  14-14  14 [A]
- 8.FC Diabos Vermelhos       12   2  1  9  13-27   7 [A]
- 9.Welwitchia FC      12   1  1 10  14-44   4
-10.Benfica do Andulo      12   1  0 11  13-25   3
+ 1.FC Almeida         15  13  0  2  47-10  39
+ 2.GD Sonangol         15  11  1  3  31-22  34
+ 3.GDR Cunhinga          15   8  2  5  23-17  26
+ 4.Sporting do Bié      14   7  3  4  23-15  24 [C]
+ 5.CDR Nharêa         13   7  2  4  16-14  23
+ 6.Sporting de Catabola      14   6  2  6  17-25  20
+ 7.Bravos de Catabola      15   4  4  7  16-17  16 [A]
+ 8.FC Diabos Vermelhos       14   2  2 10  13-30   8 [A]
+ 9.Benfica do Andulo      15   2  1 12  17-29   7
+10.Welwitchia FC      14   2  1 11  19-49   7
 ...Victória do Bié           WITHDREW           [2-0-0-2 1-3 0]
 
 Round 1
@@ -1238,8 +1410,8 @@ Sporting do Bié       0-0 GD Sonangol
 Welwitchia FC       0-2 Bravos de Catabola
 [Mar 22]
 FC Almeida          bt  Benfica do Andulo
-FC Diabos Vermelhos 1-2 GDR Cunhinga
-[tba]
+FC Diabos Vermelhos awd GDR Cunhinga       [0-3 awarded; originally 1-2; due
+[tba]                  physical aggression]
 CDR Nharêa           -  Sporting Catabola
 
 Round 13
@@ -1248,33 +1420,58 @@ Sporting Catabola   4-2 Welwitchia FC
 Sporting do Bié       4-1 FC Diabos Vermelhos
 [Mar 29]
 GDR Cunhinga       2-1 Benfica do Andulo
-CDR Nharêa          0-0 FC Almeida
+CDR Nharêa          0-4 FC Almeida
 Bravos de Catabola  1-2 GD Sonangol
 
 Round 14
-[Apr 4]
-Sporting do Bié        -  Welwitchia FC
 [Apr 5]
-Bravos de Catabola   -  Benfica do Andulo
-FC Almeida           -  Sporting Catabola
-GD Sonangol        -  GDR Cunhinga
+Bravos de Catabola  1-1 Benfica do Andulo
+FC Almeida          6-0 Sporting Catabola
+GD Sonangol       1-2 GDR Cunhinga
+[tba]
+Sporting do Bié        -  Welwitchia FC
 FC Diabos Vermelhos  -  CDR Nharêa
+
+Round 15
+[Apr 11]
+Sporting do Bié       0-0 Sporting Catabola
+[Apr 12]
+Benfica do Andulo   2-1 FC Diabos Vermelhos
+CDR Nharêa          1-1 Bravos de Catabola
+Welwitchia FC       3-4 GD Sonangol
+FC Almeida          2-0 GDR Cunhinga
+
+Round 16 [Apr 19]
+FC Diabos Vermelhos 0-0 Sporting Catabola
+CDR Nharêa          0-0 GDR Cunhinga
+FC Almeida          5-0 GD Sonangol
+Benfica do Andulo   1-2 Welwitchia FC
+Bravos de Catabola  0-1 Sporting do Bié
+
+Round 17
+[Apr 25]
+Sporting Catabola    -  Bravos de Catabola
+[Apr 26]
+GD Sonangol        -  CDR Nharêa
+FC Diabos Vermelhos  -  FC Almeida
+Welwitchia FC        -  GDR Cunhinga
+Benfica do Andulo    -  Sporting do Bié
 
 Table (w/o some goals):
 
- 1.GD Sonangol         12  10  1  1  26-12  31
- 2.FC Almeida         12   9  1  2  30-10  28
- 3.CDR Nharêa         11   7  1  3  15- 9  22
- 4.GDR Cunhinga          12   7  1  4  20-15  22
- 5.Sporting do Bié      12   6  2  4  22-15  20 [C]
- 6.Sporting de Catabola      11   6  0  5  17-19  18
- 7.Bravos de Catabola      12   4  2  6  14-14  14 [A]
- 8.FC Diabos Vermelhos       12   2  1  9  13-27   7 [A]
- 9.Welwitchia FC      12   1  1 10  14-44   4
-10.Benfica do Andulo      12   1  0 11  13-25   3
+ 1.FC Almeida         15  13  0  2  47-10  39
+ 2.GD Sonangol         15  11  1  3  31-22  34
+ 3.GDR Cunhinga          15   8  2  5  23-17  26
+ 4.Sporting do Bié      14   7  3  4  23-15  24 [C]
+ 5.CDR Nharêa         13   7  2  4  16-14  23
+ 6.Sporting de Catabola      14   6  2  6  17-25  20
+ 7.Bravos de Catabola      15   4  4  7  16-17  16 [A]
+ 8.FC Diabos Vermelhos       14   2  2 10  13-30   8 [A]
+ 9.Benfica do Andulo      15   2  1 12  17-29   7
+10.Welwitchia FC      14   2  1 11  19-49   7
 ...Victória do Bié           WITHDREW           [2-0-0-2 1-3 0]
 
-Cabinda Province  ‹§pcabinda›
+===== Cabinda Province  ‹§pcabinda›
 
 Participants:
 
@@ -1419,7 +1616,7 @@ Table (w/o some goals):
  7.Visão FC         12   1  1 10   8-42   4
  8.Cimac FC         12   1  1 10   4-42   4
 
-Cuanza-Norte Province  ‹§pcuanzanorte›
+===== Cuanza-Norte Province  ‹§pcuanzanorte›
 
 Provincial Supercup
 - - - - - - - - - -
@@ -1427,7 +1624,7 @@ Provincial Supercup
 [Sep 27, Campo Municipal dos Crocodilos, Golungo Alto]
 Braga FC do Cazengo   2-1 Jacaré do Lumbiji
 
-Cunene Province  ‹§pcunene›
+===== Cunene Province  ‹§pcunene›
 
 Provincial championship
 - - - - - - - - - - - -
@@ -1585,7 +1782,7 @@ Final table:
  7.CD Pilotos         12   1  1 10  10-43   4 [A]
 ...Mukolongondjo             WITHDREW          [C]
 
-Huambo Province  ‹§phuambo›
+===== Huambo Province  ‹§phuambo›
 
 Provincial Supercup
 - - - - - - - - - -
@@ -1943,13 +2140,48 @@ Série B
 Final stage
 ***********
 
+Round of 16
+
+First leg
+[Apr 11]
+FC Rio de Janeiro      2-0 Surpresa FC
+Desp. Frio            1-3 Deolinda Rodrigues
+[Apr 12]
+FC do Cardoso          1-1 Cracolândia FC
+Estrelas FC          1-1 Belenenses FC
+[Apr 18]
+The Gumbez FC          abd RM Centro      [1-3 abd 75' due rain]
+JGM (Huambo)          0-2 11 Bravos Calundo
+[Apr 19]
+The Gumbez FC          1-3 RM Centro             [remaining 15']
+FC Reviver          1-1 Bayern FC da Calomanda
+Lendários FC          2-0 Desp. Chivela
+
+Second leg
+[Apr 25]
+Deolinda Rodrigues     6-1 Desp. Frio               [agg 9-2]
+Cracolândia FC          1-2 FC do Cardoso   [agg 2-3]
+[Apr 26]
+Belenenses FC          2-0 Estrelas FC           [agg 3-1]
+Surpresa FC            1-0 FC Rio de Janeiro    [agg 1-2]
+[May 2]
+11 Bravos Calundo      2-0 JGM (Huambo)           [agg 4-0]
+RM Centro          0-0 The Gumbez FC   [agg 3-1]
+[May 3]
+Bayern FC da Calomanda 4-1 FC Reviver           [agg 5-2]
+Desp. Chivela          5-1 Lendários FC             [agg 5-3]
+
 Quarterfinals
+Deolinda Rodrigues      -  FC do Cardoso
+Bayern FC da Calomanda  -  11 Bravos Calundo
+Belenenses FC           -  FC Rio de Janeiro
+Desp. Chivela           -  RM Centro
 
 Semifinals
 
 Final
 
-Huíla Province  ‹§phuila›
+===== Huíla Province  ‹§phuila›
 
 Provincial supercup
 - - - - - - - - - -
@@ -1980,18 +2212,18 @@ other teams: Grosso FC, Gloriosos FC, Academia JVG, Futebol Club
 
 Table (w/o some goals):
 
- 1.Grão Branco do Quipungo   8   6  2  0  11- 1  20
- 2.Dragões do KM 40       10   6  1  3  18- 7  19 [A]
- 3.FC do Mutundo       10   5  3  2   1- 5  18 [A]
- 4.Desportivo da Huíla (B)   7   5  1  1  12- 3  16 [C]
- 5.Benfica do Lubango        9   5  1  3  10- 9  16 [A]
- 6.Cracks do Catoto         9   5  1  3  15- 7  16
- 7.Atlético do Lubango       10   4  2  4   5- 6  14 [A]
- 8.CRD Chibia           8   2  5  1   8- 4  11
- 9.Jovens Unidos da Matala  10   2  3  5   8-13   9
-10.Desportivo dos Gambos    10   1  1  8   5-13   4
-11.CD União de Caconda        7   0  4  3   7-12   4 [A]
-12.CD Omatala           8   0  0  8   5-25   0
+ 1.Desportivo da Huíla (B)  10   8  1  1  16- 3  25 [C]
+ 2.Dragões do KM 40       11   7  1  3  20- 8  22 [A]
+ 3.Grão Branco do Quipungo  10   6  2  2  12- 5  20
+ 4.FC do Mutundo       11   5  3  3   1- 7  18 [A]
+ 5.Cracks do Catoto        10   5  2  3  17- 8  17
+ 6.Atlético do Lubango       11   5  2  4   8- 6  17 [A]
+ 7.Benfica do Lubango       10   5  1  4  10-10  16 [A]
+ 8.CRD Chibia           9   3  5  1  11- 4  14
+ 9.Jovens Unidos da Matala  11   2  4  5   9-14  10
+10.CD União de Caconda        9   1  4  4   9-14   7 [A]
+11.Desportivo dos Gambos    11   1  1  9   5-16   4
+12.CD Omatala           9   0  0  9   5-28   0
 
 Round 1
 [Jan 31]
@@ -2005,8 +2237,8 @@ Jovens Unidos       1-1 CD União de Caconda
 [date?]
 FC do Mutundo       bt  CD Omatala
 Atlético do Lubango bt  Cracks do Catoto
-[tba]
-GB Quipungo        -  Desp. Huíla (B)      [remaining 70']
+[Apr 19]
+GB Quipungo       0-2 Desp. Huíla (B)      [remaining 70']
 
 Round 2 [Feb 4]
 Cracks do Catoto    2-1 CD União de Caconda
@@ -2024,8 +2256,8 @@ FC do Mutundo       bt  Atlético do Lubango
 Benfica do Lubango  bt  CD Gambos
 GB Quipungo        -  CD Omatala          [CD Omatala dns]
 Jovens Unidos       0-3 Dragões do KM 40
-[tba]
-CD União de Caconda  -  Desp. Huíla (B)
+[Apr 27]
+CD União de Caconda 0-1 Desp. Huíla (B)
 
 Round 4 [Feb 15]
 Cracks do Catoto    0-3 Desp. Huíla (B)
@@ -2047,13 +2279,14 @@ FC do Mutundo       bt  Cracks do Catoto
 
 Round 6
 [Feb 28]
-Cracks do Catoto    bt  Dragões do KM 40
 Atlético do Lubango 3-1 Jovens Unidos
 [Mar 1]
 CD Omatala       1-3 Desp. Huíla (B)
 CRD Chibia       1-1 GB Quipungo
 CD Gambos       1-1 CD União de Caconda
 FC do Mutundo       bt  Benfica do Lubango
+[Apr 19]
+Cracks do Catoto    1-0 Dragões do KM 40
 
 Round 7
 [Mar 7]
@@ -2090,29 +2323,42 @@ Round 10
 [Mar 28]
 Cracks do Catoto    2-0 CD Gambos
 CRD Chibia       drw Dragões do KM 40
-Benfica do Lubango   -  CD União de Caconda    [not played]
+Benfica do Lubango  n/p CD União de Caconda    [not played]
 [Mar 29]
 FC do Mutundo       0-2 Desp. Huíla (B)
 GB Quipungo       3-0 Jovens Unidos
 [later]
 Atlético do Lubango bt  CD Omatala
+[May 1]
+Benfica do Lubango   -  CD União de Caconda
+
+Round 11
+[Apr 4]
+Desp. Huíla (B)       1-0 Benfica do Lubango
+Dragões do KM 40    2-0 FC do Mutundo
+CD Gambos       0-3 Atlético do Lubango
+[Apr 11]
+CD Omatala       0-3 CRD Chibia
+[Apr 12]
+Jovens Unidos       1-1 Cracks do Catoto
+CD União de Caconda 2-1 GB Quipungo
 
 Table (w/o some goals):
 
- 1.Grão Branco do Quipungo   8   6  2  0  11- 1  20
- 2.Dragões do KM 40       10   6  1  3  18- 7  19 [A]
- 3.FC do Mutundo       10   5  3  2   1- 5  18 [A]
- 4.Desportivo da Huíla (B)   7   5  1  1  12- 3  16 [C]
- 5.Benfica do Lubango        9   5  1  3  10- 9  16 [A]
- 6.Cracks do Catoto         9   5  1  3  15- 7  16
- 7.Atlético do Lubango       10   4  2  4   5- 6  14 [A]
- 8.CRD Chibia           8   2  5  1   8- 4  11
- 9.Jovens Unidos da Matala  10   2  3  5   8-13   9
-10.Desportivo dos Gambos    10   1  1  8   5-13   4
-11.CD União de Caconda        7   0  4  3   7-12   4 [A]
-12.CD Omatala           8   0  0  8   5-25   0
+ 1.Desportivo da Huíla (B)  10   8  1  1  16- 3  25 [C]
+ 2.Dragões do KM 40       11   7  1  3  20- 8  22 [A]
+ 3.Grão Branco do Quipungo  10   6  2  2  12- 5  20
+ 4.FC do Mutundo       11   5  3  3   1- 7  18 [A]
+ 5.Cracks do Catoto        10   5  2  3  17- 8  17
+ 6.Atlético do Lubango       11   5  2  4   8- 6  17 [A]
+ 7.Benfica do Lubango       10   5  1  4  10-10  16 [A]
+ 8.CRD Chibia           9   3  5  1  11- 4  14
+ 9.Jovens Unidos da Matala  11   2  4  5   9-14  10
+10.CD União de Caconda        9   1  4  4   9-14   7 [A]
+11.Desportivo dos Gambos    11   1  1  9   5-16   4
+12.CD Omatala           9   0  0  9   5-28   0
 
-Lunda-Sul Province  ‹§plundasul›
+===== Lunda-Sul Province  ‹§plundasul›
 
 Provincial Supercup
 - - - - - - - - - -
@@ -2146,16 +2392,16 @@ FC Desportivo da Manauto (Saurimo)
 
 Table:
 
- 1.EF Sinergia          14  12  2  0  32- 7  38
- 2.CD Lunda-Sul (team B)   13  10  2  1  46- 9  32
- 3.Juventude Atlético Saurimo   14   6  3  5  24-21  21
- 4.Juventus do Sambukila   14   5  5  4  23-23  20
- 5.Clube Desportivo do Cacolo   12   5  2  5  15-16  17
- 6.FC 7 Maravilhas do Dala   13   4  3  6  15-21  15
- 7.CD Txizainga         14   3  4  7  21-32  13 [A]
- 8.Futebol Club Acaj      11   3  1  7  15-27  10 [A]
- 9.União da Lunda Sul      12   2  4  6   9-24  10 [A]
-10.Desportivo Manauto      11   1  0 10   1-21   3 [A]
+ 1.EF Sinergia          15  13  2  0  37-10  41 champions
+ 2.CD Lunda-Sul (team B)   16  12  2  2  48-10  38
+ 3.Juventus do Sambukila   16   6  4  6  28-28  22
+ 4.CD Txizainga         16   5  4  7  37-40  19 [A]
+ 5.Juventude Atlético Saurimo   15   5  3  7  21-20  18
+ 6.FC 7 Maravilhas do Dala   15   5  3  7  15-18  18
+ 7.Futebol Club Acaj      16   5  3  8  17-37  18 [A]
+ 8.União da Lunda Sul      16   4  5  7  16-31  17 [A]
+ 9.Desportivo Manauto      15   1  2 12   2-21   4 [A]
+...Clube Desportivo do Cacolo        WITHDREW           [12 5-2-5 15-16 17]
 
 Round 1
 [Oct 25]
@@ -2165,7 +2411,7 @@ FC 7 Maravilhas do Dala   0-1 CD Lunda-Sul (B)
 Futebol Club Acaj   1-0 Desportivo Manauto
 EF Sinergia      1-0 União da Lunda Sul
 [Nov 9]
-CD Txizainga      2-4 CD Cacolo
+CD Txizainga      2-4 CD Cacolo         [anulled]
 
 Round 2
 [Nov 1]
@@ -2174,7 +2420,7 @@ CD Lunda-Sul (B)        1-2 Juventus do Sambukila
 [Nov 2]
 Desportivo Manauto   awd FC 7 Maravilhas do Dala   [0-0 awarded]
 União da Lunda Sul   2-2 Futebol Club Acaj
-CD Cacolo      0-0 EF Sinergia
+CD Cacolo      0-0 EF Sinergia         [anulled]
 
 Round 3
 [Nov 15]
@@ -2183,7 +2429,7 @@ Juventude Atlético      1-3 CD Lunda-Sul (B)
 [Nov 16]
 Juventus do Sambukila   1-0 Desportivo Manauto
 FC 7 Maravilhas do Dala   0-0 União da Lunda Sul
-Futebol Club Acaj   1-3 CD Cacolo
+Futebol Club Acaj   1-3 CD Cacolo         [anulled]
 
 Round 4
 [Nov 22]
@@ -2193,12 +2439,12 @@ União da Lunda Sul   1-1 Juventus do Sambukila
 Desportivo Manauto   0-2 Juventude Atlético
 EF Sinergia      4-1 Futebol Club Acaj
 [date?]
-CD Cacolo      awd FC 7 Maravilhas do Dala   [0-0 awarded]
+CD Cacolo      awd FC 7 Maravilhas do Dala   [0-0 awarded; anulled]
 
 Round 5
 [Nov 29]
 Futebol Club Acaj   1-0 CD Txizainga
-Juventus do Sambukila   4-4 CD Cacolo
+Juventus do Sambukila   4-4 CD Cacolo         [anulled]
 [Nov 30]
 CD Lunda-Sul (B)        7-0 Desportivo Manauto
 Juventude Atlético      2-2 União da Lunda Sul
@@ -2212,7 +2458,7 @@ Futebol Club Acaj   1-2 FC 7 Maravilhas do Dala
 União da Lunda Sul   0-9 CD Lunda-Sul (B)
 [Jan 3]
 EF Sinergia      3-0 Juventus do Sambukila
-CD Cacolo      0-1 Juventude Atlético
+CD Cacolo      0-1 Juventude Atlético         [anulled]
 
 Round 7
 [Dec 13]
@@ -2223,14 +2469,14 @@ Desportivo Manauto   0-2 União da Lunda Sul
 [Jan 7]
 EF Sinergia      1-0 Juventude Atlético
 [Jan 8]
-CD Lunda-Sul (B)   awd CD Cacolo         [0-0 awarded; CD Cacolo dns]
+CD Lunda-Sul (B)   awd CD Cacolo         [0-0 awarded; CD Cacolo dns; anulled]
 
 Round 8
 [Dec 21]
 CD Cacolo      n/p Desportivo Manauto
 FC 7 Maravilhas do Dala   2-2 Juventus do Sambukila
 [Dec 28]
-CD Cacolo      1-0 Desportivo Manauto
+CD Cacolo      1-0 Desportivo Manauto      [anulled]
 [Jan 10]
 Futebol Club Acaj   2-3 Juventude Atlético
 [Jan 11]
@@ -2246,7 +2492,7 @@ Desportivo Manauto   awd EF Sinergia         [0-0 awarded; Manauto dns]
 Juventus do Sambukila   1-1 CD Txizainga
 CD Lunda-Sul (B)   2-0 Futebol Club Acaj
 [Jan 25]
-União da Lunda Sul    -  CD Cacolo
+União da Lunda Sul    -  CD Cacolo         [anulled]
 
 Round 10
 [Feb 4]
@@ -2257,20 +2503,20 @@ CD Cacolo      n/p CD Txizainga      [CD Txizainga dns]
 [Feb 25]
 CD Lunda-Sul (B)        9-1 FC 7 Maravilhas do Dala
 [Mar 13]
-CD Cacolo      3-2 CD Txizainga
-[tba]
-Desportivo Manauto    -  Futebol Club Acaj
+CD Cacolo      3-2 CD Txizainga      [anulled]
+[later]
+Desportivo Manauto   drw Futebol Club Acaj
 
 Round 11
 [Feb 7]
 CD Txizainga      1-1 Juventude Atlético
 Juventus do Sambukila   0-1 CD Lunda-Sul (B)
 [Mar 21]
-EF Sinergia      3-0 CD Cacolo
+EF Sinergia      3-0 CD Cacolo         [anulled]
 [tba]
-Futebol Club Acaj    -  União da Lunda Sul
+Futebol Club Acaj   lt  União da Lunda Sul
 [date?]
-FC 7 Maravilhas do Dala    -  Desportivo Manauto
+FC 7 Maravilhas do Dala   bt  Desportivo Manauto
 
 Round 12
 [Feb 13]
@@ -2282,14 +2528,14 @@ União da Lunda Sul   0-3 FC 7 Maravilhas do Dala
 [Mar 22]
 Desportivo Manauto   1-3 Juventus do Sambukila
 [date?]
-CD Cacolo       -  Futebol Club Acaj
+CD Cacolo       -  Futebol Club Acaj      [anulled]
 
 Round 13
 [Feb 21]
 CD Txizainga      1-8 CD Lunda-Sul (B)
 Futebol Club Acaj   2-4 EF Sinergia
 [Feb 22]
-FC 7 Maravilhas do Dala awd CD Cacolo         [0-0 awarded; CD Cacolo dns]
+FC 7 Maravilhas do Dala awd CD Cacolo         [0-0 awarded; CD Cacolo dns; anulled]
 Juventus do Sambukila   2-1 União da Lunda Sul
 Juventude Atlético     4-0 Desportivo Manauto
 
@@ -2302,29 +2548,60 @@ Desportivo Manauto   n/p CD Lunda-Sul (B)
 [Mar 5]
 EF Sinergia      4-1 FC 7 Maravilhas do Dala
 [Mar 7]
-CD Cacolo      0-3 Juventus do Sambukila
+CD Cacolo      0-3 Juventus do Sambukila   [anulled]
+[date?]
+Desportivo Manauto   lt  CD Lunda-Sul (B)
 
 Round 15
-Desportivo Manauto    -  CD Txizainga
-FC 7 Maravilhas do Dala    -  Futebol Club Acaj
-CD Lunda-Sul (B)    -  União da Lunda Sul
-Juventus do Sambukila    -  EF Sinergia
-Juventude Atlético       -  CD Cacolo
+[Apr 4]
+CD Lunda-Sul (B)   bt  União da Lunda Sul
+[Apr 5]
+Desportivo Manauto   0-5 CD Txizainga
+Juventus do Sambukila   1-5 EF Sinergia
+[Apr 12]
+FC 7 Maravilhas do Dala   2-1 Futebol Club Acaj
+Juventude Atlético      bye
+
+Round 16
+[Apr 15]
+União da Lunda Sul   3-1 Desportivo Manauto
+[Apr 23]
+Juventude Atlético      0-1 EF Sinergia
+Futebol Club Acaj   2-1 Juventus do Sambukila
+[Apr 29]
+FC 7 Maravilhas do Dala    -  CD Txizainga
+CD Lunda-Sul (B)   bye
+
+Round 17 [Apr 26]
+Juventus do Sambukila   awd FC 7 Maravilhas do Dala   [awarded; 7 Maravilhas dns]
+Juventude Atlético      awd Futebol Club Acaj      [awarded; Juventude Atlético dns]
+CD Lunda-Sul (B)   2-2 EF Sinergia
+União da Lunda Sul   0-2 CD Txizainga
+Desportivo Manauto   bye
+
+Round 18
+[May 1]
+CD Txizainga           1-4 Juventus do Sambukila
+Futebol Club Acaj   0-8 CD Lunda-Sul (B)
+[date?]
+FC 7 Maravilhas do Dala    -  Juventude Atlético
+EF Sinergia       -  Desportivo Manauto
+União da Lunda Sul   bye
 
 Table:
 
- 1.EF Sinergia          14  12  2  0  32- 7  38
- 2.CD Lunda-Sul (team B)   13  10  2  1  46- 9  32
- 3.Juventude Atlético Saurimo   14   6  3  5  24-21  21
- 4.Juventus do Sambukila   14   5  5  4  23-23  20
- 5.Clube Desportivo do Cacolo   12   5  2  5  15-16  17
- 6.FC 7 Maravilhas do Dala   13   4  3  6  15-21  15
- 7.CD Txizainga         14   3  4  7  21-32  13 [A]
- 8.Futebol Club Acaj      11   3  1  7  15-27  10 [A]
- 9.União da Lunda Sul      12   2  4  6   9-24  10 [A]
-10.Desportivo Manauto      11   1  0 10   1-21   3 [A]
+ 1.EF Sinergia          15  13  2  0  37-10  41 champions
+ 2.CD Lunda-Sul (team B)   16  12  2  2  48-10  38
+ 3.Juventus do Sambukila   16   6  4  6  28-28  22
+ 4.CD Txizainga         16   5  4  7  37-40  19 [A]
+ 5.Juventude Atlético Saurimo   15   5  3  7  21-20  18
+ 6.FC 7 Maravilhas do Dala   15   5  3  7  15-18  18
+ 7.Futebol Club Acaj      16   5  3  8  17-37  18 [A]
+ 8.União da Lunda Sul      16   4  5  7  16-31  17 [A]
+ 9.Desportivo Manauto      15   1  2 12   2-21   4 [A]
+...Clube Desportivo do Cacolo        WITHDREW           [12 5-2-5 15-16 17]
 
-Malanje Province  ‹§pmalanje›
+===== Malanje Province  ‹§pmalanje›
 
 Provincial Supercup
 - - - - - - - - - -

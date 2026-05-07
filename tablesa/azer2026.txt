@@ -2,7 +2,7 @@
      title:   Azerbaijan 2025/26
      source:  https://rsssf.org/tablesa/azer2026.html
      author:  Theodore Dreiman
-     updated: 7 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -16,20 +16,20 @@
 
 Table:
 
- 1.Sabah (Bakı)          25  19  5  1  60-17  62
- 2.Qarabağ (Ağdam)       24  16  4  4  48-18  52  [C]
- 3.Turan (Tovuz)         25  14  6  5  32-17  48
- 4.FC Zirä               25  11  9  5  33-27  42
- 5.Araz (Naxçıvan)       25  11  6  8  34-43  39
- 6.Neftçi (Bakı)         24   9 10  5  39-22  37
- 7.FC Sumqayıt           25   9  5 11  33-35  32
- 8.FC Şamaxı             25   7  9  9  24-27  30
- 9.FC İmişli             25   4 10 11  18-36  22  [P]
-10.Käpäz (Gäncä)         25   6  3 16  21-48  21
+ 1.Sabah (Bakı)          29  22  6  1  69-21  72       Champions
+ 2.Qarabağ (Ağdam)       29  18  5  6  61-22  59  [C]
+ 3.Turan (Tovuz)         29  16  8  5  39-20  56
+ 4.Neftçi (Bakı)         29  12 11  6  48-31  47
+ 5.FC Zirä               29  11 13  5  38-32  46
+ 6.Araz (Naxçıvan)       29  11  7 11  38-53  40
+ 7.FC Sumqayıt           29  11  5 13  38-40  38
+ 8.FC Şamaxı             29   8 11 10  27-29  35
+ 9.FC İmişli             29   6 11 12  21-39  29  [P]
+10.Käpäz (Gäncä)         29   6  3 20  22-57  21
 - - - - - - - - - - - - - - - - - - - - - - - --
-11.FC Qäbälä             25   4  4 17  23-42  16  [P]
+11.FC Qäbälä             29   5  5 19  26-45  20  [P]
 ------------------------------------------------
-12.Karvan (Yevlax)       25   1  5 19  16-49   8  [P]
+12.Karvan (Yevlax)       29   3  5 21  21-59  14  [P]
 
 Araz play home games in Märdäkan.
 Since Round 4, İmişli play home games in Quba.
@@ -395,7 +395,7 @@ Samaxi    0-0  Turan
 Qabala    0-1  Sabah
   [Xäyal Äliyev 54. Att: 1,000]
 
-Round 21
+Round 21 [Total Att: 11,121; Average: 1,854]
 [Feb 20]
 Turan     2-0  Zira
   [Filip Ozobiç 11; Jorge Silva 18. Att: 250]
@@ -410,7 +410,8 @@ Sabah     1-0  Kapaz
 Imisli    0-0  Samaxi
   [Att: 100]
 [Apr 30]
-Neftci    -  Qarabag
+Neftci    2-1  Qarabag
+  [Emil Säfärov 55; Bassala Sambou 90+2 - Elvin Bädälov (Nef) 86 og. Att: 7,800]
 
 Round 22 [Total Att: 12,271; Average: 2,045]
 [Feb 27]
@@ -487,22 +488,92 @@ Turan     3-2  Qabala
   [Haiderson Hurtado 3, 49; Joarlem "Jô" Santos 59 - Eşqin Ähmädov 27;
    Roderick Miller (Tur) 90+6 og. Sumqayıt. Att: 250]
 
+Round 26 [Total Att: 3,935; Average: 656]
+[Apr 5]
+Sumqayit  1-3  Neftci
+  [Nikola Ninković 53 - Freddy Vargas 36 pen; Mathew Ifeanyi 65; Vincent Aboubakar 89. Att: 1,950]
+Kapaz     0-2  Qabala
+  [Ismaheel Akinade 74; Domi J. Massoumou 90. Att: 500]
+[Apr 6]
+Qarabag   7-0  Karvan
+  [Leandro Andrade 23, 64; Camilo Durán 31, 45, 48; Dani Bolt 40; Abdellah Zoubir 43. Att: 800]
+[Apr 7]
+Araz      2-4  Sabah
+  [Felipe Santos 7; Hamidou Keyta 26 - Veljko Simić 14;
+   Joy-Lance Mickels 37 pen, 62 pen; Kaheem Parris 81. Att: 300]
+Imisli    1-1  Turan
+  [Diogo Cardoso 45 - Ronaldo Rodrigues (Imi) 53 og. Att: 85]
+Zira      1-1  Samaxi
+  [Leroy Mickels 69 - Edqar Adilxanov 90+2. Missed PK: Ruan Renato (Zir) 65. Att: 300]
+
+Round 27 [Total Att: 12,820; Average: 2,137]
+[Apr 10]
+Karvan    4-1  Kapaz
+  [Rauf Rüstämli 38, 45+1, 90+4; Eltun Turabov 65 - Färid Näbiyev 49. Att: 2,500]
+[Apr 11]
+Sabah     2-2  Zira
+  [Joy-Lance Mickels 16; Ygor Nogueira 51 - Ruan Renato 32 pen; Eren Aydın 41. Att: 1,320]
+Samaxi    0-0  Qarabag
+  [Att: 2,100]
+Neftci    2-1  Araz
+  [Imad Faraj 32; Breno Almeida 57 - Slavik Alxasov 65. Att: 2,200]
+[Apr 12]
+Turan     2-1  Sumqayit
+  [Filip Ozobiç 9; Joarlem "Jô" Santos 50 - Rayan Senhadji 64. Tovuz. Att: 4,500]
+Qabala    0-1  Imisli
+  [Diogo Rollo 45. Att: 200]
+
+Round 28 [Total Att: 23,738; Average: 3,956]
+[Apr 17]
+Araz      0-3  Turan
+  [Ibrahima Wadji 72; Joarlem "Jô" Santos 82, 90+2. Sumqayıt. Att: 500]
+Zira      1-1  Neftci
+  [Brahim Konaté 90+4 - Imad Faraj 64. Att: 1,200]
+[Apr 18]
+Qarabag   0-1  Sabah
+  [Abdulax Xaybulayev 45. Missed PK: Joy-Lance Mickels (Sab) 13. Att: 17,338]
+Karvan    1-0  Samaxi
+  [Joy-Slayd Mickels 38. Att: 3,000]
+[Apr 19]
+Sumqayit  1-0  Qabala
+  [Höccät Haqverdi 19. Att: 1,200]
+Kapaz     0-1  Imisli
+  [Azär Salahlı 39. Att: 500]
+
+Round 29 [Total Att: 16,010; Average: 2,668]
+[Apr 25]
+Qabala    1-1  Araz
+  [Ömär Buludov (Ara) 75 og -  Issouf Paro 82. Att: 250]
+Imisli    0-2  Sumqayit
+  [Alexandre Ramalingom 35, 85. Att: 60]
+[Apr 26]
+Neftci    1-5  Qarabag
+  [Elvin Bädälov 20 - Musa Qurbanlı 9, 32; Joni Montiel 38;
+   Leandro Andrade 68; Emmanuel Addai 90+3. Att: 9,500]
+Samaxi    2-0  Kapaz
+  [Ricardo Apolinário 68; Andrei Tîrcoveanu 75. Att: 1,200]
+[Apr 27]
+Sabah     2-0  Karvan
+  [Orphé Mbina 49; Aaron Malouda 55. Att: 1,000]
+Turan     1-1  Zira
+  [Rähim Sadıxov 22 - Davit Volkovi 63. Att: 4,000]
+
 Table:
 
- 1.Sabah (Bakı)          25  19  5  1  60-17  62
- 2.Qarabağ (Ağdam)       24  16  4  4  48-18  52  [C]
- 3.Turan (Tovuz)         25  14  6  5  32-17  48
- 4.FC Zirä               25  11  9  5  33-27  42
- 5.Araz (Naxçıvan)       25  11  6  8  34-43  39
- 6.Neftçi (Bakı)         24   9 10  5  39-22  37
- 7.FC Sumqayıt           25   9  5 11  33-35  32
- 8.FC Şamaxı             25   7  9  9  24-27  30
- 9.FC İmişli             25   4 10 11  18-36  22  [P]
-10.Käpäz (Gäncä)         25   6  3 16  21-48  21
+ 1.Sabah (Bakı)          29  22  6  1  69-21  72       Champions
+ 2.Qarabağ (Ağdam)       29  18  5  6  61-22  59  [C]
+ 3.Turan (Tovuz)         29  16  8  5  39-20  56
+ 4.Neftçi (Bakı)         29  12 11  6  48-31  47
+ 5.FC Zirä               29  11 13  5  38-32  46
+ 6.Araz (Naxçıvan)       29  11  7 11  38-53  40
+ 7.FC Sumqayıt           29  11  5 13  38-40  38
+ 8.FC Şamaxı             29   8 11 10  27-29  35
+ 9.FC İmişli             29   6 11 12  21-39  29  [P]
+10.Käpäz (Gäncä)         29   6  3 20  22-57  21
 - - - - - - - - - - - - - - - - - - - - - - - --
-11.FC Qäbälä             25   4  4 17  23-42  16  [P]
+11.FC Qäbälä             29   5  5 19  26-45  20  [P]
 ------------------------------------------------
-12.Karvan (Yevlax)       25   1  5 19  16-49   8  [P]
+12.Karvan (Yevlax)       29   3  5 21  21-59  14  [P]
 
 Araz play home games in Märdäkan.
 Since Round 4, İmişli play home games in Quba.
@@ -512,61 +583,17 @@ Qarabağ and Turan play home games in Bakı.
 
 Top scorers:
 
-1.Joy-Lance Mickels (Sabah)    15  [Germany/DR Congo]
-2.Bassala Sambou (Neftçi)      10  [England/Senegal]
-  Veljko Simić (Sabah)         10  [Serbia]
-4.Emin Mahmudov (Neftçi)        9  [Azerbaijan/Russia]
-  Karim Rossi (Şamaxı)          9  [Switzerland/Morocco]
-6.Ba-Muaka Simakala (Araz)      8  [Germany/DR Congo]
-7.Diogo Almeida (İmişli)        7  [Portugal]
-  Toral Bayramov (Qarabağ)      7
-  Joarlem "Jô" Santos (Turan)   7  [Brazil]
-  Aaron Malouda (Sabah)         7  [France/French Guiana]
-
-Round 26
-[Apr 5]
-Kapaz     -  Qabala
-Sumqayit  -  Neftci
-[Apr 6]
-Qarabag   -  Karvan
-[Apr 7]
-Imisli    -  Turan
-Araz      -  Sabah
-Zira      -  Samaxi
-
-Round 27
-[Apr 10]
-Karvan    -  Kapaz
-[Apr 11]
-Samaxi    -  Qarabag
-Sabah     -  Zira
-Neftci    -  Araz
-[Apr 12]
-Turan     -  Sumqayit
-Qabala    -  Imisli
-
-Round 28
-[Apr 17]
-Araz      -  Turan
-Zira      -  Neftci
-[Apr 18]
-Qarabag   -  Sabah
-Karvan    -  Samaxi
-[Apr 19]
-Kapaz     -  Imisli
-Sumqayit  -  Qabala
-
-Round 29
-[Apr 24]
-Samaxi    -  Kapaz
-[Apr 25]
-Qabala    -  Araz
-Imisli    -  Sumqayit
-[Apr 26]
-Neftci    -  Qarabag
-[Apr 27]
-Sabah     -  Karvan
-Turan     -  Zira
+1.Joy-Lance MICKELS (Sabah)             18  [Rwanda/Germany]
+2.Bassala SAMBOU (Neftçi)               11  [England/Senegal]
+  Veljko SIMIĆ (Sabah)                  11  [Serbia]
+4.Joarlem "JÔ" Batista Santos (Turan)   10  [Brazil]
+5.Emin MAHMUDOV (Neftçi)                 9  [Azerbaijan/Russia]
+  Karim ROSSI (Şamaxı)                   9  [Switzerland/Morocco]
+7.Camilo DURÁN Márquez (Qarabağ)         8  [Colombia]
+  LEANDRO Livramento ANDRADE (Qarabağ)   8  [Cape Verde/Portugal]
+  Aaron MALOUDA (Sabah)                  8  [France/French Guiana]
+  Alexandre RAMALINGOM (Sumqayıt)        8  [Madagascar/France]
+  Ba-Muaka SIMAKALA (Araz)               8  [Germany/DR Congo]
 
 Round 30
 [May 1-3]
@@ -697,16 +724,20 @@ TURAN (Tovuz)    1-0 2-0  Käpäz (Gäncä)    [agg 3-0]
   [1. Haiderson Hurtado 57. Bakı. Att: 300]
   [2. Jorge Silva 13; Haiderson Hurtado 51. Yevlax. Att: 350]
 
-Semifinals
+Semifinals [Total Att: 31,330; Average: 7,833]
 
 [Apr 3, 21]
-Turan (Tovuz)    0-2  -   FC Zirä
+Turan (Tovuz)    0-2 0-0  FC ZİRÄ          [agg 0-2]
   [1. Eren Aydın 55; Leroy Mickels 89. Sumqayıt. Att: 400]
+  [2. Att: 1,200]
 [Apr 3, 22]
-Qarabağ (Ağdam)  2-2  -   Sabah (Bakı)
+Qarabağ (Ağdam)  2-2 1-2  SABAH (Bakı)     [agg 3-4]
   [1. Kady Borges 29, 60 - Umarali Rahmonaliyev 23, 65 pen. Att: 21,000]
+  [2. Camilo Durán 59 - Veljko Simić 79; Orphé Mbina 88. Att: 8,730]
 
+Final [May 13]
 
+FC Zirä  -  Sabah (Bakı)
 
 
 
@@ -716,20 +747,20 @@ Qarabağ (Ağdam)  2-2  -   Sabah (Bakı)
 
 Table:
 
- 1.Şäfa (Bakı)           20  13  6  1  45-18  45
+ 1.Şäfa (Bakı)           24  15  8  1  50-19  53
 ------------------------------------------------
- 2.Sportinq (Bakı)       20  10  7  3  29-17  37
+ 2.Säbail (Bakı)         24  13  7  4  42-17  46
 - - - - - - - - - - - - - - - - - - - - - - - --
- 3.Säbail (Bakı)         20  10  7  3  27-15  37
- 4.FC Mingäçevir         20  10  6  4  35-19  36
- 5.Şahdağ (Qusar)        20   8  4  8  28-26  28
- 6.MOİK (Bakı)           20   7  5  8  24-27  26
- 7.FC Zaqatala           20   7  4  9  20-24  25
- 8.FC Cäbrayıl           20   5  2 13  31-40  17
+ 3.FC Mingäçevir         24  13  6  5  48-23  45
+ 4.Sportinq (Bakı)       24  11  9  4  33-20  42
+ 5.Şahdağ (Qusar)        24  11  5  8  33-26  38
+ 6.MOİK (Bakı)           24   8  5 11  27-35  29
+ 7.FC Zaqatala           24   7  4 13  24-37  25
+ 8.FC Cäbrayıl           24   7  3 14  36-49  24
 - - - - - - - - - - - - - - - - - - - - - - - --
- 9.Difai (Ağsu)          20   3  4 13  25-46  13
+ 9.Şimal (Xaçmaz)        24   4  4 16  19-57  16
 ------------------------------------------------
-10.Şimal (Xaçmaz)        20   3  3 14  18-50  12
+10.Difai (Ağsu)          24   3  5 16  27-56  14
 
 Cäbrayıl, Şahdağ, and Şimal play home games in Şamaxı (248 km north-east
   of Cäbrayıl, 259 km south of Qusar, 236 km south of Xaçmaz).
@@ -1040,22 +1071,81 @@ Mingacevir  5-2  Safa
 Sahdag      1-0  Simal
   [Alassane Coulibaly 4. Att: 20]
 
+Round 21 [Total Att: 370; Average: 74]
+[Apr 8]
+Sportinq    3-1  MOIK
+  [Pablo Henrique 12 pen, 45 pen; İlham Allahverdiyev 59 - Seyxan Färäcov 90+2. Att: 30]
+Cabrayil    3-2  Zaqatala
+  [Sadiq Hüseynli 14; Elie Andzouono 51; Dylane Achimi 87 -
+   Räşad Häsänov 50 (Cab) og; Roini İsmayılov 68. Att: 20]
+[Apr 9]
+Safa        2-1  Sabail
+  [Emin Zamanov 48; Nahid Äliyev 57 - Kamran Quliyev 61 pen. Att: 250]
+Simal       0-3  Mingacevir
+  [Bahadur Häziyev 62 pen, 87; Kenneth Kalunga 73. Att: 30]
+Difai       0-3  Sahdag
+  [Famil Camalov 10; Kwaku Adjei 29; Sänan Ağalarov 31. Buzovna. Att: 40]
+
+Round 22 [Total Att: 1,240; Average: 248]
+[Apr 15]
+Sahdag      0-0  Cabrayil
+  [Att: 10]
+MOIK        2-1  Zaqatala
+  [Mark O'Ojong 9; Seyxan Färäcov 28 - Roini İsmayılov 18. Att: 30]
+[Apr 16]
+Sportinq    0-0  Safa
+  [Att: 50]
+Mingacevir  2-1  Difai
+  [Kenneth Kalunga 33; Usman Abba 89 pen - Christian Kamta 49. Att: 1,000]
+Sabail      4-0  Simal
+  [Kamran Quliyev 1, 58 pen, 90 pen; Paulinho de Sousa 75. Att: 150]
+
+Round 23 [Total Att: 895; Average: 179]
+[Apr 22]
+Safa        3-0  MOIK
+  [Urfan İsmayılov 55; Tärlan Quliyev 59; Nahid Äliyev 75. Att: 200]
+Cabrayil    2-1  Mingacevir
+  [Sadiq Hüseynli 20; Dylane Achimi 45 - Kenneth Kalunga 55. Att: 50]
+Zaqatala    0-1  Sahdag
+  [Sänan Ağalarov 68. Att: 600]
+[Apr 23]
+Simal       1-0  Sportinq
+  [Donald Ange Gla 11. Att: 25]
+Difai       0-4  Sabail
+  [Kamran Quliyev 22, 47; Qurban Säfärov 51, 58. Buzovna. Att: 20]
+
+Round 24 [Total Att: 1,130; Average: 226]
+[Apr 29]
+Safa        0-0  Simal
+  [Bakı. Att: 100]
+Mingacevir  7-1  Zaqatala
+  [Xäyal Muradov 8; Kenneth Kalunga 13, 55; Fuad Bayramov 65; Elçin Mustafayev 78;
+   Usman Abba 80; Rähim Cäfärli 90 - Davud Mahmudov 85. Att: 800]
+MOIK        0-1  Sahdag
+  [Agostinho Chipesse 59. Bakı. Att: 50]
+[Apr 30]
+Sabail      6-0  Cabrayil
+  [Afonso Duarte 12; Fäxri Mämmädli 26; Räşad Häsänov (Cab) 32 og;
+   Ruslan Voronsov 84; Qurban Säfärov 87; Roman Hüseynov 89. Att: 120]
+Sportinq    1-1  Difai
+  [Rubin Säyidov 32 - Christian Kamta 80. Att: 60]
+
 Table:
 
- 1.Şäfa (Bakı)           20  13  6  1  45-18  45
+ 1.Şäfa (Bakı)           24  15  8  1  50-19  53
 ------------------------------------------------
- 2.Sportinq (Bakı)       20  10  7  3  29-17  37
+ 2.Säbail (Bakı)         24  13  7  4  42-17  46
 - - - - - - - - - - - - - - - - - - - - - - - --
- 3.Säbail (Bakı)         20  10  7  3  27-15  37
- 4.FC Mingäçevir         20  10  6  4  35-19  36
- 5.Şahdağ (Qusar)        20   8  4  8  28-26  28
- 6.MOİK (Bakı)           20   7  5  8  24-27  26
- 7.FC Zaqatala           20   7  4  9  20-24  25
- 8.FC Cäbrayıl           20   5  2 13  31-40  17
+ 3.FC Mingäçevir         24  13  6  5  48-23  45
+ 4.Sportinq (Bakı)       24  11  9  4  33-20  42
+ 5.Şahdağ (Qusar)        24  11  5  8  33-26  38
+ 6.MOİK (Bakı)           24   8  5 11  27-35  29
+ 7.FC Zaqatala           24   7  4 13  24-37  25
+ 8.FC Cäbrayıl           24   7  3 14  36-49  24
 - - - - - - - - - - - - - - - - - - - - - - - --
- 9.Difai (Ağsu)          20   3  4 13  25-46  13
+ 9.Şimal (Xaçmaz)        24   4  4 16  19-57  16
 ------------------------------------------------
-10.Şimal (Xaçmaz)        20   3  3 14  18-50  12
+10.Difai (Ağsu)          24   3  5 16  27-56  14
 
 Cäbrayıl, Şahdağ, and Şimal play home games in Şamaxı (248 km north-east
   of Cäbrayıl, 259 km south of Qusar, 236 km south of Xaçmaz).
@@ -1064,47 +1154,17 @@ Sportinq play home games in Buzovna (36 km north-east of Bakı).
 
 Top scorers:
 
-1.Seyxan Färäcov (MOİK)           14
-2.Dylane Achimi (Cäbrayıl)         9  [Cameroon]
-  Kenneth Kalunga (Mingäçevir)     9  [Zambia]
-  Emin Zamanov (Şäfa)              9
-5.İlham Allahverdiyev (Sportinq)   8
-6.Nahid Äliyev (Şäfa)              7  [Azerbaijan/Russia]
+1.Seyxan Färäcov (MOİK)           16
+2.Kenneth Kalunga (Mingäçevir)    14  [Zambia]
+3.Kamran Quliyev (Säbail)         13
+4.Dylane Achimi (Cäbrayıl)        11  [Cameroon]
+5.Emin Zamanov (Şäfa)             10
+6.Nahid Äliyev (Şäfa)              9  [Azerbaijan/Russia]
+  İlham Allahverdiyev (Sportinq)   9
+8.Ruslan Voronsov (Säbail)         8  [Azerbaijan/Russia]
+9.Elie Andzouono (Cäbrayıl)        7  [Congo Republic]
   Xäyyam Mämmädli (Sportinq)       7
-  Kamran Quliyev (Säbail)          7
-  Ruslan Voronsov (Säbail)         7  [Azerbaijan/Russia]
-
-Round 21
-[Apr 8]
-Sportinq    -  MOIK
-Cabrayil    -  Zaqatala
-[Apr 9]
-Safa        -  Sabail
-Simal       -  Mingacevir
-Difai       -  Sahdag
-
-Round 22
-[Apr 15]
-MOIK        -  Zaqatala
-Sahdag      -  Cabrayil
-[Apr 16]
-Mingacevir  -  Difai
-Sabail      -  Simal
-Sportinq    -  Safa
-
-Round 23 [Apr 22-24]
-Safa        -  MOIK
-Simal       -  Sportinq
-Difai       -  Sabail
-Cabrayil    -  Mingacevir
-Zaqatala    -  Sahdag
-
-Round 24 [Apr 29-30]
-MOIK        -  Sahdag
-Mingacevir  -  Zaqatala
-Sabail      -  Cabrayil
-Sportinq    -  Difai
-Safa        -  Simal
+  Qurban Säfärov (Säbail)          7
 
 Round 25 [May 6-7]
 Simal       -  MOIK
@@ -1140,21 +1200,21 @@ Promotion/Relegation Playoff Premyer Liqa/Liqa 1 [May 28]
 
 First Stage
 
-Table:
+Final Table:
 
- 1.FC Xankändi           20  19  0  1  86-11  57  Qualified
- 2.Qaradağ (Lökbatan)    20  18  0  2  86-15  54  Qualified
- 3.FC Quba               20  12  3  5  41-22  39  Qualified
- 4.FC Şämkir             20  10  3  7  27-20  33
- 5.FC Şirvan             20  10  3  7  33-35  33
- 6.Dinamo (Bakı)         20  10  1  9  37-42  31
+ 1.FC Xankändi           22  21  0  1  94-13  63  Qualified
+ 2.Qaradağ (Lökbatan)    22  20  0  2  96-16  60  Qualified
+ 3.FC Quba               22  13  3  6  47-28  42  Qualified
+ 4.FC Şirvan             22  11  3  8  35-40  36  Qualified
+ 5.FC Şämkir             22  10  3  9  27-22  33  Qualified
+ 6.Dinamo (Bakı)         22  10  1 11  38-50  31  Qualified
 ------------------------------------------------
- 7.Sheki City            20   9  3  8  46-40  30
- 8.Kür-Araz (İmişli)     20   4  3 13  28-64  15
- 9.FC Göygöl             20   3  6 11  23-43  15
-10.Gäncläri (Ağstafa)    20   3  5 12  19-43  14
-11.FC Ağdaş              20   3  5 12  17-43  14
-12.Araz (Saatlı)         20   2  2 16  18-83   8
+ 7.Sheki City            22   9  3 10  48-49  30
+ 8.FC Ağdaş              22   5  5 12  20-43  20
+ 9.Kür-Araz (İmişli)     22   5  3 14  29-65  18
+10.FC Göygöl             22   4  6 12  25-46  18
+11.Gäncläri (Ağstafa)    22   4  5 13  24-51  17
+12.Araz (Saatlı)         22   3  2 17  26-86  11
 
 Round 1
 [Sep 6]
@@ -1363,71 +1423,137 @@ Agdas       0-0  Araz
 [Mar 30]
 Xankandi   14-0  Kur-Araz
 
-Table:
+Round 21
+[Apr 6]
+Goygol      0-2  Agdas
+Araz        7-1  Ganclari
+[Apr 7]
+Sirvan      1-5  Xankandi
+Dinamo      0-5  Qaradag
+Kur-Araz    1-0  Samkir
+[Apr 9]
+Quba        5-1  Sheki City
 
- 1.FC Xankändi           20  19  0  1  86-11  57  Qualified
- 2.Qaradağ (Lökbatan)    20  18  0  2  86-15  54  Qualified
- 3.FC Quba               20  12  3  5  41-22  39  Qualified
- 4.FC Şämkir             20  10  3  7  27-20  33
- 5.FC Şirvan             20  10  3  7  33-35  33
- 6.Dinamo (Bakı)         20  10  1  9  37-42  31
+Round 22
+[Apr 13]
+Samkir      0-1  Sirvan
+Agdas       1-0  Kur-Araz
+Araz        1-2  Goygol
+[Apr 14]
+Xankandi    3-1  Dinamo
+Qaradag     5-1  Quba
+Sheki City  1-4  Ganclari
+
+Final Table:
+
+ 1.FC Xankändi           22  21  0  1  94-13  63  Qualified
+ 2.Qaradağ (Lökbatan)    22  20  0  2  96-16  60  Qualified
+ 3.FC Quba               22  13  3  6  47-28  42  Qualified
+ 4.FC Şirvan             22  11  3  8  35-40  36  Qualified
+ 5.FC Şämkir             22  10  3  9  27-22  33  Qualified
+ 6.Dinamo (Bakı)         22  10  1 11  38-50  31  Qualified
 ------------------------------------------------
- 7.Sheki City            20   9  3  8  46-40  30
- 8.Kür-Araz (İmişli)     20   4  3 13  28-64  15
- 9.FC Göygöl             20   3  6 11  23-43  15
-10.Gäncläri (Ağstafa)    20   3  5 12  19-43  14
-11.FC Ağdaş              20   3  5 12  17-43  14
-12.Araz (Saatlı)         20   2  2 16  18-83   8
+ 7.Sheki City            22   9  3 10  48-49  30
+ 8.FC Ağdaş              22   5  5 12  20-43  20
+ 9.Kür-Araz (İmişli)     22   5  3 14  29-65  18
+10.FC Göygöl             22   4  6 12  25-46  18
+11.Gäncläri (Ağstafa)    22   4  5 13  24-51  17
+12.Araz (Saatlı)         22   3  2 17  26-86  11
 
 Top scorers:
 
-1.Bähruz Teymurov (Xankändi)       21
+1.Bähruz Teymurov (Xankändi)       22
 2.Vidadi Cäfärov (Quba)            20
   Tofiq Näsibov (Qaradağ)          20
 4.Cavid İmamverdiyev (Sheki City)  16
 5.Tural Qurbatov (Xankändi)        15
-6.Ramil Orucov (Qaradağ)           14
-  Valeh Seyidov (Dinamo)           14
+  Valeh Seyidov (Dinamo)           15
+7.Ramil Orucov (Qaradağ)           14
 8.Elxan Mämmädov (Kür-Araz)        13
-9.İlham Hüseynov (Qaradağ)         10
-
-Round 21
-[Apr 6]
-Araz        -  Ganclari
-Goygol      -  Agdas
-[Apr 7]
-Dinamo      -  Qaradag
-Sirvan      -  Xankandi
-Kur-Araz    -  Samkir
-[Apr 9]
-Quba        -  Sheki City
-
-Round 22
-[Apr 13]
-Araz        -  Goygol
-Agdas       -  Kur-Araz
-Samkir      -  Sirvan
-[Apr 14]
-Xankandi    -  Dinamo
-Qaradag     -  Quba
-Sheki City  -  Ganclari
+9.Elvin Näsibov (Xankändi)         11
+  Elariz Xälilli (Araz)            11
 
 Second Stage
 
-Round 23
-[Apr 20-21]
+Promotion Group
+
+Round 23 [Apr 20]
+Qaradag     -  Samkir
+Quba        -  Sirvan
+Xankandi    -  Dinamo
+
+Table:
+
+ 1.FC Xankändi           22  21  0  1  94-13  63
+ 2.Qaradağ (Lökbatan)    22  20  0  2  96-16  60
+ 3.FC Quba               22  13  3  6  47-28  42
+ 4.FC Şirvan             22  11  3  8  35-40  36
+ 5.FC Şämkir             22  10  3  9  27-22  33
+ 6.Dinamo (Bakı)         22  10  1 11  38-50  31
 
 Round 24
-[Apr 27-28]
+[Apr 26]
+Dinamo      -  Sirvan
+[Apr 28]
+Samkir      -  Quba
+Xankandi    -  Qaradag
+
+Round 25 [May 5]
+Sirvan      -  Samkir
+Quba        -  Xankandi
+Qaradag     -  Dinamo
+
+Round 26 [May 11-12]
+Dinamo      -  Samkir
+Xankandi    -  Sirvan
+Qaradag     -  Quba
+
+Round 27 [May 18-19]
+Samkir      -  Xankandi
+Sirvan      -  Qaradag
+Quba        -  Dinamo
+
+Relegation Group
+
+Round 23
+[Apr 19]
+Agdas       -  Ganclari
+Kur-Araz    -  Goygol
+[Apr 20]
+Sheki City  -  Araz
+
+Table:
+
+ 7.Sheki City            22   9  3 10  48-49  30
+ 8.FC Ağdaş              22   5  5 12  20-43  20
+ 9.Kür-Araz (İmişli)     22   5  3 14  29-65  18
+10.FC Göygöl             22   4  6 12  25-46  18
+11.Gäncläri (Ağstafa)    22   4  5 13  24-51  17
+12.Araz (Saatlı)         22   3  2 17  26-86  11
+
+Round 24
+[Apr 26]
+Ganclari    -  Kur-Araz
+[Apr 27]
+Sheki City  -  Agdas
+Araz        -  Goygol
 
 Round 25
-[May 4-5]
+[May 3]
+Goygol      -  Ganclari
+[May 4]
+Agdas       -  Araz
+Kur-Araz    -  Sheki City
 
-Round 26
-[May 11-12]
+Round 26 [May 11-12]
+Agdas       -  Kur-Araz
+Araz        -  Ganclari
+Sheki City  -  Goygol
 
-Round 27
-[May 18-19]
+Round 27 [May 18-19]
+Goygol      -  Agdas
+Kur-Araz    -  Araz
+Ganclari    -  Sheki City
 
 Promotion/Relegation Playoff Liqa 2/Region Liqa [May 29]
 

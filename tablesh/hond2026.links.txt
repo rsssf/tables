@@ -1,0 +1,7 @@
+tablesh/hond2025                :  2024/25
+tablesh/hondchamp               :  list of champions
+tablesh/hondhist                :  list of final tables
+tablesh/hondalltime             :  all-time table
+tablesh/hondall                 :  list of divisional movements
+tablesh/hondcuphist             :  list of cup winners
+tablesh/hondtops                :  list of topscorers

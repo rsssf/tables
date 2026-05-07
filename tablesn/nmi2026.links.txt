@@ -1,0 +1,2 @@
+tablesn/nmi2025                 :  2025
+tablesn/nmarianaschamp          :  list of champions

@@ -2,7 +2,7 @@
      title:   Uruguay 2026
      source:  https://rsssf.org/tablesu/uru2026.html
      author:  Francisco Fernández
-     updated: 7 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -14,28 +14,27 @@
 
 ==== Primera División Profesional  ‹§pdp›
 
-‹Apertura 2026, see §aper› | ‹Intermedio 2026, see §medio› | ‹Clausura 2026, see §clau› | ‹Championship Playoff, see §play›
 
-Torneo Apertura 2026  ‹§aper›
+===== Torneo Apertura 2026  ‹§aper›
 
 Table:
 
- 1.Racing CM                     10   7  2  1  18- 9  23
- 2.CA Peñarol                    10   7  1  2  17- 8  22
- 3.CD Maldonado (Maldonado)      10   6  1  3  15-10  19  [P]
- 4.Central Español FC            10   5  2  3  14-11  17  [P]
- 5.C Nacional dF                 10   5  1  4  14-11  16  [C]
- 6.Montevideo City Torque        10   4  3  3  14-11  15
- 7.Montevideo Wanderers FC       10   4  2  4  11-15  14
- 8.Albion FC                     10   3  4  3  13-12  13  [P]
- 9.Liverpool FC                  10   3  4  3  13-13  13
-10.Defensor Sporting Club        10   3  4  3   7- 7  13
-11.Cerro Largo FC (Melo)         10   4  1  5  12-13  13
-12.Danubio FC                    10   3  4  3  12-13  13
-13.CA Boston River               10   3  2  5   9-11  11
-14.CA Cerro                      10   2  2  6   5-14   8
-15.CA Progreso                   10   1  4  5   9-17   7
-16.CA Juventud (Las Piedras)     10   1  1  8   9-17   4
+ 1.Racing CM                     14   9  4  1  23-12  31       ‹Apertura Winners, see §semi›
+ 2.CD Maldonado (Maldonado)      14   8  2  4  22-15  26  [P]
+ 3.Albion FC                     14   7  4  3  25-16  25  [P]
+ 4.CA Peñarol                    14   7  3  4  20-14  24
+ 5.Defensor Sporting Club        14   5  6  3  12- 9  21
+ 6.Central Español FC            14   6  3  5  21-22  21  [P]
+ 7.Montevideo City Torque        14   5  5  4  20-15  20
+ 8.Liverpool FC                  14   5  5  4  20-17  20
+ 9.C Nacional dF                 14   6  1  7  22-21  19  [C]
+10.Danubio FC                    14   4  6  4  17-20  18
+11.Cerro Largo FC (Melo)         14   5  2  7  14-16  17
+12.CA Boston River               14   5  2  7  13-18  17
+13.Montevideo Wanderers FC       14   5  2  7  15-21  17
+14.CA Juventud (Las Piedras)     14   3  3  8  15-21  12
+15.CA Progreso                   14   2  4  8  11-21  10
+16.CA Cerro                      14   2  4  8   8-20  10
 
 Round 1
 [Feb 6]
@@ -265,38 +264,133 @@ Cerro              1-0 Defensor Sporting
 Liverpool          0-2 Maldonado
   [Alis Maximiliano Noble Sequeira 40, Juan Martín Ginzo 58]
 
+Round 11
+[Apr 10]
+Cerro Largo        1-1 Cerro
+  [Lucas Correa Sebben 12; Alejo Agustín Macelli 90+1]
+[Apr 11]
+Torque             0-1 Albion
+  [Francisco Ginella Dabezies 18]
+Defensor Sporting  2-0 Boston River
+  [Alexander Machado Ayçaguer 35, Facundo Castro Souto 63]
+Maldonado          4-2 Nacional
+  [Santiago Ramírez Polero 17, Christian Tabó Hornos 41, Guillermo López Matturo 80,
+   Alis Maximiliano Noble Sequeira 90+7pen; Nicolás López Alonso 28, 40pen]
+[Apr 12]
+Central Español    2-2 Danubio
+  [Facundo Sosa Hoyo 65, Raúl Tarragona Lemos 83; Rodolfo Alves De Melo 4og,
+   Sebastián Rodríguez Iriarte 90+3pen]
+Juventud           1-0 Progreso
+  [Fernando Mimbacas Ímaz 43]
+Wanderers          1-2 Racing
+  [Gonzalo Freitas Silva 19; Tomás José Habib 69, Nicolás Sosa Sánchez 90+3]
+[Apr 13]
+Peñarol            0-2 Liverpool
+  [Ruben Bentancourt Morales 5, Martín Rabuñal Rey 41]
+
+Round 12
+[Apr 17]
+Albion             6-1 Central Español
+  [Santiago Costa Harreguy 49, José Ignacio Álvarez Medero 56, Agustín Vera Flores 65,
+   Lucas Rodríguez Trezza 75, Pablo Alcoba Daguirre 78, Álvaro López 84pen;
+  Mariano Fernando Aguilera 43]
+[Apr 18]
+Progreso           2-1 Wanderers
+  [Elvis Nahuel López Barboza 9, Diego Sánchez Richieri 90pen; Jonás Eduardo Luna 77]
+Racing             1-1 Defensor Sporting
+  [Tomás José Habib 39; Brian Montenegro Martínez 76]
+[Apr 19]
+Cerro              1-1 Torque
+  [Alejo Agustín Macelli 87; Esteban Daniel Obregón 90+7]
+Danubio            1-1 Maldonado
+  [Sebastián Fernández Miglierina 14; Christian Tabó Hornos 51]
+Liverpool          1-3 Nacional
+  [Ruben Bentancourt Morales 28pen; Maximiliano Gómez González 21pen, 56pen, Tomás Verón Lupi 90+2]
+[Apr 20]
+Boston River       1-0 Cerro Largo
+  [Francisco Bonfiglio 83]
+Peñarol            2-2 Juventud
+  [Abel Hernández Platero 53, Leandro Umpiérrez Hernández 82; Renzo Rabino Albín 45+2,
+   Fernando Mimbacas Ímaz 77]
+
+Round 13
+[Apr 24]
+Torque             4-1 Boston River
+  [Franco Pîzzichillo Fernández 18, 21, Gonzalo Montes Calderini 64,
+   Sebastián Cáceres Carranza 76; Franco Pérez Portillo 74]
+[Apr 25]
+Juventud           1-1 Liverpool
+  [Ramiro Nicolás Peralta 44; Diego Romero Lanz 70]
+Maldonado          1-2 Albion
+  [Christian Tabó Hornos 45+5; Carlos Javier Airala 42, Álvaro López 67]
+Nacional           1-2 Danubio
+  [Agustín Rogel Paita 68; Mateo Peralta Pírez 56, Enzo Cabrera Mauri 76]
+[Apr 26]
+Central Español    3-1 Cerro
+  [Máximo Alonso Fontes 31, Raúl Tarragona Lemos 45+4pen, Diego Vera Méndez 78pen;
+   Ignacio Rodríguez Elduayen 32og]
+Cerro Largo        0-1 Racing
+  [Guillermo Cotugno Lima 42]
+Wanderers          1-0 Peñarol
+  [Facundo Labandeira Castro 58]
+[Apr 27]
+Defensor Sporting  1-0 Progreso
+  [Nicolás Wunsch Tomás 90+8]
+
+Round 14
+[May 2]
+Juventud           2-1 Wanderers
+  [Patricio Ezequiel Pernicone 59, Fernando Mimbacas Ímaz 90+5pen; José Alberti Loyarte 42]
+Cerro              0-1 Maldonado
+  [Nicolás Fuica Collazzi 76]
+Liverpool          3-0 Danubio
+  [Federico Martínez Berroa 58, Ramiro Matías Degregorio 70, Facundo Barceló Viera 87pen]
+[May 3]
+Progreso           0-1 Cerro Largo
+  [Tiziano Correa Reyes 56]
+Boston River       2-1 Central Español
+  [Facundo Muñoa Dos Santos 12, 51; Lucas Pino García 68]
+Racing             1-1 Torque
+  [Robinson Martín Ferreira García 16; Alexander Nahuel Da Silva Rivero 20]
+Albion             3-2 Nacional
+  [Álvaro López 8pen, 43, Carlos Javier Airala 17; Juan Cruz De los Santos Da Luz 31,
+   Agustín Rogel Paita 79]
+[May 4]
+Peñarol            1-1 Defensor Sporting
+  [Leandro Umpiérrez Hernández 18; Brian Montenegro Martínez 67]
+
 Table:
 
- 1.Racing CM                     10   7  2  1  18- 9  23
- 2.CA Peñarol                    10   7  1  2  17- 8  22
- 3.CD Maldonado (Maldonado)      10   6  1  3  15-10  19  [P]
- 4.Central Español FC            10   5  2  3  14-11  17  [P]
- 5.C Nacional dF                 10   5  1  4  14-11  16  [C]
- 6.Montevideo City Torque        10   4  3  3  14-11  15
- 7.Montevideo Wanderers FC       10   4  2  4  11-15  14
- 8.Albion FC                     10   3  4  3  13-12  13  [P]
- 9.Liverpool FC                  10   3  4  3  13-13  13
-10.Defensor Sporting Club        10   3  4  3   7- 7  13
-11.Cerro Largo FC (Melo)         10   4  1  5  12-13  13
-12.Danubio FC                    10   3  4  3  12-13  13
-13.CA Boston River               10   3  2  5   9-11  11
-14.CA Cerro                      10   2  2  6   5-14   8
-15.CA Progreso                   10   1  4  5   9-17   7
-16.CA Juventud (Las Piedras)     10   1  1  8   9-17   4
+ 1.Racing CM                     14   9  4  1  23-12  31       ‹Apertura Winners, see §semi›
+ 2.CD Maldonado (Maldonado)      14   8  2  4  22-15  26  [P]
+ 3.Albion FC                     14   7  4  3  25-16  25  [P]
+ 4.CA Peñarol                    14   7  3  4  20-14  24
+ 5.Defensor Sporting Club        14   5  6  3  12- 9  21
+ 6.Central Español FC            14   6  3  5  21-22  21  [P]
+ 7.Montevideo City Torque        14   5  5  4  20-15  20
+ 8.Liverpool FC                  14   5  5  4  20-17  20
+ 9.C Nacional dF                 14   6  1  7  22-21  19  [C]
+10.Danubio FC                    14   4  6  4  17-20  18
+11.Cerro Largo FC (Melo)         14   5  2  7  14-16  17
+12.CA Boston River               14   5  2  7  13-18  17
+13.Montevideo Wanderers FC       14   5  2  7  15-21  17
+14.CA Juventud (Las Piedras)     14   3  3  8  15-21  12
+15.CA Progreso                   14   2  4  8  11-21  10
+16.CA Cerro                      14   2  4  8   8-20  10
 
-Torneo Intermedio 2026  ‹§medio›
+===== Torneo Intermedio 2026  ‹§medio›
 
 NB: played as single round robin in two groups:
     Group A: 1st, 4th, 5th, 8th, 9th, 12th, 13th and 16th teams Apertura
     Group B: 2nd, 3rd, 6th, 7th, 10th, 11th, 14th and 15th teams Apertura
 
-Torneo Clausura 2026  ‹§clau›
+===== Torneo Clausura 2026  ‹§clau›
 
-Championship Playoff  ‹§play›
+===== Championship Playoff  ‹§play›
 
 Semifinal   ‹§semi›
 
-NB: over 1 leg; between winners ‹Apertura, see §aper› and winners ‹Clausura, see §clau›
+NB: over 1 leg; between Racing (winners ‹Apertura, see §aper›) and winners ‹Clausura, see §clau›
 
 Final  ‹§ovfin›
 
@@ -365,35 +459,35 @@ Boston River       1-2 Progreso
 
 ==== Segunda División Profesional  ‹§sdp›
 
-‹Competencia, see §2comp› | ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §tercp›
 
-Competencia  ‹§2comp›
+===== Competencia  ‹§2comp›
 
 NB: winners qualify for ‹Promotion Playoff, see §tercp›
 
 Group Stage
 
-Tables:
+Final Tables:
 
 Serie A
- 1.CS Cerrito                     3   2  1  0   6- 3   7
+ 1.CA Fénix                       6   3  2  1  13- 7  11       ‹Final, see §cpfn›
  - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.La Luz FC                      4   1  3  0   5- 4   6
- 3.CA Fénix                       3   1  2  0   4- 3   5
- 4.Uruguay Montevideo FC          4   1  2  1   4- 4   5
- 5.Huracán FC                     3   0  3  0   4- 4   3  [P]
- 6.Tacuarembó FC (Tacuarembó)     3   0  2  1   4- 5   2
- 7.CA Atenas (San Carlos)         4   0  1  3   3- 7   1
+ 2.Huracán FC                     6   2  4  0   9- 6  10  [P]
+ 3.Uruguay Montevideo FC          6   2  3  1   7- 5   9
+ 4.CS Cerrito                     6   2  3  1   8- 8   9
+ 5.La Luz FC                      6   1  4  1   5- 6   7
+ 6.CA Atenas (San Carlos)         6   1  1  4   5-11   4
+ 7.Tacuarembó FC (Tacuarembó)     6   0  3  3   5- 9   3
 
 Serie B
- 1.CA Plaza (Colonia)             4   2  2  0   6- 1   8  [R]
+ 1.C Oriental dF (La Paz)         6   4  1  1   8- 5  13       ‹Final, see §cpfn›
  - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.C Oriental dF (La Paz)         3   2  1  0   4- 1   7
- 3.Colón FC                       4   1  2  1   4- 3   5
- 4.CA Rentistas                   3   1  2  0   3- 2   5
- 5.Paysandú FC (Paysandú)         3   1  0  2   2- 3   3  [P]
- 6.CS Miramar Misiones            3   1  0  2   1- 4   3  [R]
- 7.CA River Plate                 4   0  1  3   2- 8   1  [R]
+ 2.CA Plaza (Colonia)             6   3  3  0   9- 2  12  [R]
+ 3.Colón FC                       6   2  3  1   8- 5   9
+ 4.CA Rentistas                   6   2  3  1   6- 5   9
+ 5.CS Miramar Misiones            6   1  2  3   3- 7   5  [R]
+ 6.Paysandú FC (Paysandú)         6   1  1  4   4- 7   4  [P]
+ 7.CA River Plate                 6   1  1  4   6-13   4  [R]
+
 Round 1
 [Mar 13]
 Paysandú           0-2 Colón
@@ -469,38 +563,262 @@ Miramar Misiones   1-0 River Plate
   [Lucas Viana Gauna 9]
 Huracán            bye Rentistas
 
-Tables:
+Round 5
+[Apr 10]
+Paysandú           0-1 Rentistas
+  [Hugo Horacio Sequeira Soza 8]
+[Apr 11]
+La Luz             0-2 Uruguay Montevideo
+  [Maximiliano Lombardi Rodríguez 38, Gonzalo Barreto Mastropierro 86pen]
+Oriental           2-1 Miramar Misiones
+  [Renato Alexandrino Da Silva 18, Benjamín Núñez Barolín 36; Lucas Zeballos Alzamendi 77]
+[Apr 12]
+Fénix              4-1 Cerrito
+  [Valentín Matías Luciani 20, Edward Andrés Barboza Cubilla 27, Áxel Pérez Etchelar 31,
+   Enzo Suárez Búrmida 78; Santiago Pereira Barrios 69]
+Tacuarembó         0-2 Huracán
+  [Mateo Aramburu Birch 37, Joaquín Rodríguez Arreche 45+2]
+Colón              4-2 River Plate
+  [Ramiro Quintana Hernández 17pen, 25, 65, Lucas Espinosa Guevara 51;
+   Felipe Chiappini Ospitaleche 6, Raúl Maximiliano Burruzo Gutiérrez 87]
+Atenas             bye Plaza
+
+Round 6
+[Apr 17]
+Atenas             1-0 Tacuarembó
+  [Facundo Vigo González 87]
+Plaza              1-1 Paysandú
+  [Pablo García Lafluf 45+4; Ezequiel Amaro Sánchez 35]
+[Apr 18]
+Cerrito            0-0 La Luz
+Miramar Misiones   0-0 Colón
+[Apr 19]
+Huracán            2-1 Fénix
+  [Maximiliano Jair Rodríguez Cejas 36, Joaquín Machado Arispe 80; Heber Gastón Colman Leguisamo 67]
+[Apr 20]
+Rentistas          1-2 Oriental
+  [Hugo Horacio Sequeira Soza 9; Matías Rigoleto Arévalo 12, Benjamín Núñez Barolín 76]
+Uruguay Montevideo bye River Plate
+
+Round 7
+[Apr 24]
+Plaza              2-0 Oriental
+  [Pablo García Lafluf 36, José Valentín Amoroso Guerra 58]
+[Apr 25]
+Huracán            1-1 Cerrito
+  [Sergio Martín Cortelezzi Ferreyra 63; Luis Machado Mora 64]
+[Apr 26]
+Uruguay Montevideo 1-1 Tacuarembó
+  [Ricardo Guzmán Pereira Méndez 14; Pablo López De León 2]
+River Plate        2-1 Paysandú
+  [Raúl Maximiliano Burruzo Gutiérrez 36, 40; Franco López Taborda 81]
+[Apr 27]
+Atenas             1-4 Fénix
+  [Lautaro Vázquez Mederos 78; Sebastián De Marco Machado 6, 45,
+   Guillermo Pereira Sosa 51, Héber Gastón Colman Leguisamo 64]
+[Apr 29]
+Rentistas          1-1 Miramar Misiones
+  [Carlos Sánchez Arcosa 54; Jhony Da Silva Sosa 90+7]
+La Luz             bye Colón
+
+Final Tables:
 
 Serie A
- 1.CS Cerrito                     3   2  1  0   6- 3   7
+ 1.CA Fénix                       6   3  2  1  13- 7  11       ‹Final, see §cpfn›
  - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.La Luz FC                      4   1  3  0   5- 4   6
- 3.CA Fénix                       3   1  2  0   4- 3   5
- 4.Uruguay Montevideo FC          4   1  2  1   4- 4   5
- 5.Huracán FC                     3   0  3  0   4- 4   3  [P]
- 6.Tacuarembó FC (Tacuarembó)     3   0  2  1   4- 5   2
- 7.CA Atenas (San Carlos)         4   0  1  3   3- 7   1
+ 2.Huracán FC                     6   2  4  0   9- 6  10  [P]
+ 3.Uruguay Montevideo FC          6   2  3  1   7- 5   9
+ 4.CS Cerrito                     6   2  3  1   8- 8   9
+ 5.La Luz FC                      6   1  4  1   5- 6   7
+ 6.CA Atenas (San Carlos)         6   1  1  4   5-11   4
+ 7.Tacuarembó FC (Tacuarembó)     6   0  3  3   5- 9   3
 
 Serie B
- 1.CA Plaza (Colonia)             4   2  2  0   6- 1   8  [R]
+ 1.C Oriental dF (La Paz)         6   4  1  1   8- 5  13       ‹Final, see §cpfn›
  - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.C Oriental dF (La Paz)         3   2  1  0   4- 1   7
- 3.Colón FC                       4   1  2  1   4- 3   5
- 4.CA Rentistas                   3   1  2  0   3- 2   5
- 5.Paysandú FC (Paysandú)         3   1  0  2   2- 3   3  [P]
- 6.CS Miramar Misiones            3   1  0  2   1- 4   3  [R]
- 7.CA River Plate                 4   0  1  3   2- 8   1  [R]
+ 2.CA Plaza (Colonia)             6   3  3  0   9- 2  12  [R]
+ 3.Colón FC                       6   2  3  1   8- 5   9
+ 4.CA Rentistas                   6   2  3  1   6- 5   9
+ 5.CS Miramar Misiones            6   1  2  3   3- 7   5  [R]
+ 6.Paysandú FC (Paysandú)         6   1  1  4   4- 7   4  [P]
+ 7.CA River Plate                 6   1  1  4   6-13   4  [R]
 
-Final  ‹§cpfn›
+====== Final  ‹§cpfn›
 
 NB: between group winners
 
-NB: winners qualified for ‹Promotion Playoff, see §tercp›
+[May 2]
+Fénix              1-0 Oriental
+  [Christian Paiva Mattos 86og]
 
-Regular Stage  ‹§2reg›
+NB: Fénix qualified for ‹Promotion Playoff, see §tercp›
+
+===== Regular Stage  ‹§2reg›
 
 NB: group stage records ‹Competencia, see §2comp› carried over
 
-Promotion Playoff  ‹§tercp›
+Table:
+
+ 1.C Oriental dF (La Paz)         6   4  1  1   8- 5  13
+ 2.CA Plaza (Colonia)             6   3  3  0   9- 2  12  [R]
+--------------------------------------------------------
+ 3.CA Fénix                       6   3  2  1  13- 7  11
+ 4.Huracán FC                     6   2  4  0   9- 6  10  [P]
+ 5.Colón FC                       6   2  3  1   8- 5   9
+ 6.Uruguay Montevideo FC          6   2  3  1   7- 5   9
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.CA Rentistas                   6   2  3  1   6- 5   9
+ 8.CS Cerrito                     6   2  3  1   8- 8   9
+ 9.La Luz FC                      6   1  4  1   5- 6   7
+10.CS Miramar Misiones            6   1  2  3   3- 7   5  [R]
+11.Paysandú FC (Paysandú)         6   1  1  4   4- 7   4  [P]
+12.CA Atenas (San Carlos)         6   1  1  4   5-11   4
+13.CA River Plate                 6   1  1  4   6-13   4  [R]
+14.Tacuarembó FC (Tacuarembó)     6   0  3  3   5- 9   3
+
+===== Promotion Playoff  ‹§tercp›
+
+
+
+
+
+
+==== Tercera Divisional de AUF  ‹§sgb›
+
+
+===== Torneo Inicial  ‹§3pri›
+
+
+====== Group Stage  ‹§31g›
+
+NB: played as single round robin;
+    group winners and best runners-up qualify for ‹Semifinals, see §31s›;
+    top-6 of each group qualify for ‹Torneo Final, see §3seg›
+
+Tables:
+
+Serie A
+ 1.CA Alto Perú                   0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.CA Bella Vista                 0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.CSyD Cooper (Montevideo)       0   0  0  0   0- 0   0
+ 4.Deutscher FK Montevideo        0   0  0  0   0- 0   0
+ 5.Frontera Rivera Renegades FC   0   0  0  0   0- 0   0
+ 6.CSyD Los Halcones              0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.CD Italiano                    0   0  0  0   0- 0   0
+ 8.Mar de Fondo FC                0   0  0  0   0- 0   0
+ 9.Rampla Juniors FC              0   0  0  0   0- 0   0  [R]
+10.Rocha FC (Rocha)               0   0  0  0   0- 0   0
+
+Serie B
+ 1.CA Artigas (Artigas)           0   0  0  0   0- 0   0  [R]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.CA Basáñez                     0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Canadian SC                    0   0  0  0   0- 0   0
+ 4.Durazno FC (Durazno)           0   0  0  0   0- 0   0
+ 5.Centro Atlético Lito           0   0  0  0   0- 0   0
+ 6.Deportivo Luis Suárez Messi    0   0  0  0   0- 0   0  [P]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.CCyD Parque del Plata          0   0  0  0   0- 0   0
+ 8.CA Platense                    0   0  0  0   0- 0   0
+ 9.IA Potencia                    0   0  0  0   0- 0   0
+10.Salus FC                       0   0  0  0   0- 0   0
+
+Serie C
+ 1.Sportivo Bella Italia          0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.CD Colonia (Colonia)           0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.CA Los Gorriones               0   0  0  0   0- 0   0  [P]
+ 4.CSyD Huracán Buceo             0   0  0  0   0- 0   0
+ 5.Salto FC (Salto)               0   0  0  0   0- 0   0
+ 6.IA Sud América                 0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.CA Terremoto                   0   0  0  0   0- 0   0
+ 8.CSyD Villa Española            0   0  0  0   0- 0   0
+ 9.CA Villa Teresa                0   0  0  0   0- 0   0
+
+Round 1
+Serie A
+Italiano            -  Deutscher FK
+Rampla Juniors      -  Mar de Fondo
+Alto Perú           -  Cooper
+Rocha               -  Frontera Rivera
+Bella Vista         -  Halcones
+Serie B
+Potencia            -  Salus
+Durazno             -  Parque del Plata
+Basáñez             -  Artigas
+Canadian            -  Deportivo LSM
+Lito                -  Platense
+Serie C
+Los Gorriones       -  Villa Teresa
+Colonia             -  Villa Española
+Huracán Buceo       -  Sud América
+Salto               -  Bella Italia
+Terremoto          bye
+
+Tables:
+
+Serie A
+ 1.CA Alto Perú                   0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.CA Bella Vista                 0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.CSyD Cooper (Montevideo)       0   0  0  0   0- 0   0
+ 4.Deutscher FK Montevideo        0   0  0  0   0- 0   0
+ 5.Frontera Rivera Renegades FC   0   0  0  0   0- 0   0
+ 6.CSyD Los Halcones              0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.CD Italiano                    0   0  0  0   0- 0   0
+ 8.Mar de Fondo FC                0   0  0  0   0- 0   0
+ 9.Rampla Juniors FC              0   0  0  0   0- 0   0  [R]
+10.Rocha FC (Rocha)               0   0  0  0   0- 0   0
+
+Serie B
+ 1.CA Artigas (Artigas)           0   0  0  0   0- 0   0  [R]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.CA Basáñez                     0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.Canadian SC                    0   0  0  0   0- 0   0
+ 4.Durazno FC (Durazno)           0   0  0  0   0- 0   0
+ 5.Centro Atlético Lito           0   0  0  0   0- 0   0
+ 6.Deportivo Luis Suárez Messi    0   0  0  0   0- 0   0  [P]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.CCyD Parque del Plata          0   0  0  0   0- 0   0
+ 8.CA Platense                    0   0  0  0   0- 0   0
+ 9.IA Potencia                    0   0  0  0   0- 0   0
+10.Salus FC                       0   0  0  0   0- 0   0
+
+Serie C
+ 1.Sportivo Bella Italia          0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.CD Colonia (Colonia)           0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3.CA Los Gorriones               0   0  0  0   0- 0   0  [P]
+ 4.CSyD Huracán Buceo             0   0  0  0   0- 0   0
+ 5.Salto FC (Salto)               0   0  0  0   0- 0   0
+ 6.IA Sud América                 0   0  0  0   0- 0   0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.CA Terremoto                   0   0  0  0   0- 0   0
+ 8.CSyD Villa Española            0   0  0  0   0- 0   0
+ 9.CA Villa Teresa                0   0  0  0   0- 0   0
+
+===== Torneo Final  ‹§3seg›
+
+NB: between top-6 of the three groups in the ‹Torneo Inicial, see §3pri›;
+    played as single round robin, winners promoted
+
+===== Segundo Ascenso  ‹§3sga›
+
+NB: between winners ‹Torneo Inicial, see §3pri› and runners-up ‹Torneo Final, see §3seg›;
+    winners promoted
+
+===== Repechajes  ‹§3rep›
+
+NB: to determine two clubs to play off against the two worst clubs from Divisional B
 
 

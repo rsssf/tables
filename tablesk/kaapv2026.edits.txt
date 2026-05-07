@@ -19,3 +19,6 @@ Island Competitions:
 
 ‹list of regional champions and cup winners, see page kaapvregchamp›.
 
+
+-- removing 1 leading nav line(s) in section 11:
+‹Zona Norte, see §antnorte› | ‹Zona Sul, see §antsul›

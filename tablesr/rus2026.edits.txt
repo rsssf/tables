@@ -1,3 +1,4 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="cupdet">Russian Cup Details</a><
 -- removing nav(igation) section:
 
 ‹Premier League, see §1l› | ‹Premier League Details, see §1ldet›
@@ -22,3 +23,6 @@
 
 
 
+
+-- removing 1 leading nav line(s) in section 8:
+‹Golden Group, see §3gg› | ‹Silver Group, see §3gs›

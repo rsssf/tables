@@ -1,0 +1,3 @@
+tabless/sey2025                 :  2024/25
+tabless/seychamp                :  list of champions
+tabless/seycuphist              :  list of cup winners

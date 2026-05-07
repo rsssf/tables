@@ -1,3 +1,9 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="grp">Group Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="gp1">Group 1 (East)</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="gp2">Group 2 (Nile River)</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="gp3">Group 3 (North)</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="gp4">Group 4 (West)</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="fin">Final Stage (Elite League)</a><
 -- removing nav(igation) section:
 
 ‹Sudan Premier League, see §sfcl›
@@ -11,3 +17,6 @@
 
 ‹list of cup winners., see page soedcuphist›
 
+
+-- removing 1 leading nav line(s) in section 4:
+‹Group 1, see §gp1› | ‹Group 2, see §gp2› | ‹Group 3, see §gp3› | ‹Group 4, see §gp4›

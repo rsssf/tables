@@ -1,0 +1,3 @@
+tablesj/jam2025                 :  2024/25
+tablesj/jamchamp                :  list of champions
+tablesj/jamcuphist              :  list of cup winners

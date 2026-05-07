@@ -1,3 +1,10 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="ph1">Faza 1</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="ph2">Faza 2</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Liga 1 Faza 2 Grupa 1 (Promotion/Relegation Playoff)</a></a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1ph1">Faza 1</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1ph2">Faza 2 Grupa 2</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2nord">Seria Nord</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2sud">Seria Sud</a><
 -- removing nav(igation) section:
 
 ‹Superliga 2025/26, see §nat›
@@ -16,3 +23,6 @@
 
 ‹list of topscorers, see page moldtops›.
 
+
+-- removing 1 leading nav line(s) in section 11:
+‹Seria Nord, see §2nord› | ‹Seria Sud, see §2sud›

@@ -1,0 +1,5 @@
+tablesg/geor2025                :  2025
+tablesg/georchamp               :  list of champions
+tablesg/georcuphist             :  list of cup winners
+tablesg/georsupcuphist          :  list of super cup winners
+tablesg/geortops                :  list of topscorers

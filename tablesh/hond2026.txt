@@ -2,7 +2,7 @@
      title:   Honduras 2025/26
      source:  https://rsssf.org/tablesh/hond2026.html
      author:  Karel Stokkermans
-     updated: 23 Jan 2026    
+     updated: 7 May 2026
     -->
 
 
@@ -14,13 +14,11 @@
 
 ==== Primera División  ‹§primera›
 
-‹Campeonato Apertura 2025, see §1aper› | ‹Campeonato Clausura 2026, see §1clau›
 
-Campeonato Apertura 2025  ‹§1aper›
+===== Campeonato Apertura 2025  ‹§1aper›
 
-‹Regular Stage, see §1aperreg› | ‹Triangulares, see §1aperplayoff› | ‹Final, see §1aperfinal›
 
-Regular Stage  ‹§1aperreg›
+====== Regular Stage  ‹§1aperreg›
 
 Final Table:
 
@@ -285,7 +283,7 @@ Final Table:
 10.Victoria (La Ceiba)              20   4  2 14  23-42  14
 11.Choloma (Choloma)                20   3  2 15  22-57  11
 
-Triangulares  ‹§1aperplayoff›
+====== Triangulares  ‹§1aperplayoff›
 
 Final Tables:
 
@@ -344,7 +342,7 @@ Grupo B
  3.Platense (Puerto Cortés)          4   0  2  2   4- 9   2
 [s] seeded team, ranked ahead in case of tie on points
 
-Final  ‹§1aperfinal›
+====== Final  ‹§1aperfinal›
 
 First Leg [Jan 4]
 Marathón      2-2 Olimpia
@@ -352,6 +350,322 @@ Marathón      2-2 Olimpia
 Second Leg [Jan 7]
 Olimpia       1-0 Marathón
 
-Campeonato Clausura 2026  ‹§1clau›
+===== Campeonato Clausura 2026  ‹§1clau›
+
+
+====== Regular Stage  ‹§1claureg›
+
+Final Table:
+
+ 1.Real España (San Pedro Sula)     20  11  7  2  37-25  40  ‹Qualified, see §1clauplayoff›
+ 2.Motagua (Tegucigalpa)            20  11  6  3  36-17  39  ‹Qualified, see §1clauplayoff›
+ 3.Olimpia (Tegucigalpa)            20  11  5  4  35-17  38  ‹Qualified, see §1clauplayoff›
+ 4.Olancho (Juticalpa)              20   8  8  4  28-16  32  ‹Qualified, see §1clauplayoff›
+ 5.Marathón (San Pedro Sula)        20   7  6  7  23-19  27  ‹Qualified, see §1clauplayoff›
+ 6.Génesis (Comayagua)              20   6  5  9  20-28  23  ‹Qualified, see §1clauplayoff›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Choloma (Choloma)                20   6  5  9  23-32  23
+ 8.Platense (Puerto Cortés)         20   5  6  9  26-29  21
+ 9.UPNFM (Tegucigalpa)              20   5  6  9  23-30  21
+10.Juticalpa (Juticalpa)            20   4  6 10  18-41  18
+11.Victoria (La Ceiba)              20   4  4 12  25-40  16
+
+Round 1
+[Jan 24]
+Juticalpa     1-0 Choloma
+Real España   2-0 Olancho
+[Jan 25]
+Platense      1-1 Victoria
+UPNFM         1-1 Marathón
+Olimpia       1-0 Génesis
+Motagua       bye
+
+Round 2
+[Jan 28]
+Génesis       1-2 Real España
+Olancho       1-1 Olimpia
+Marathón      3-0 Juticalpa
+[Jan 29]
+Choloma       1-1 UPNFM
+Motagua       2-0 Platense
+Victoria      bye
+
+Round 3
+[Jan 31]
+Victoria      0-0 Marathón
+Olimpia       2-2 Juticalpa
+[Feb 1]
+Génesis       0-0 Choloma
+Real España   2-2 Motagua
+Olancho       1-1 UPNFM
+Platense      bye
+
+Round 4
+[Feb 6]
+Juticalpa     1-1 Génesis
+[Feb 7]
+UPNFM         0-1 Olimpia
+Motagua       1-1 Victoria
+[Feb 8]
+Marathón      0-1 Real España
+Platense      1-1 Choloma
+Olancho       bye
+
+Round 5
+[Feb 11]
+Génesis       0-5 Motagua
+Choloma       0-1 Olancho
+Juticalpa     1-1 Real España
+[Feb 12]
+UPNFM         2-2 Victoria
+Marathón      2-2 Platense
+Olimpia       bye
+
+Round 6
+[Feb 14]
+Olancho       4-1 Juticalpa
+Real España   2-1 Choloma
+[Feb 15]
+Génesis       2-2 Platense
+Motagua       1-1 Marathón
+Victoria      2-1 Olimpia
+UPNFM         bye
+
+Round 7
+[Feb 20]
+Real España   4-3 UPNFM
+[Feb 21]
+Olancho       1-1 Marathón
+Choloma       2-1 Victoria
+[Feb 22]
+Platense      4-0 Juticalpa
+Olimpia       0-1 Motagua
+Génesis       bye
+
+Round 8
+[Feb 24]
+Victoria      2-1 Olancho
+[Feb 25]
+Juticalpa     1-2 Motagua
+Olimpia       3-0 Choloma
+[Feb 26]
+UPNFM         1-0 Platense
+Marathón      1-2 Génesis
+Real España   bye
+
+Round 9
+[Feb 28]
+Juticalpa     1-0 Victoria
+[Mar 1]
+Marathón      2-1 Olimpia
+Motagua       1-1 Olancho
+Platense      2-2 Real España
+[Mar 2]
+Génesis       0-2 UPNFM
+Choloma       bye
+
+Round 10
+[Mar 7]
+Olancho       2-1 Platense
+Choloma       1-3 Motagua
+[Mar 8]
+Victoria      2-4 Génesis
+Olimpia       1-1 Real España
+UPNFM         3-2 Juticalpa
+Marathón      bye
+
+Round 11
+[Mar 10]
+Choloma       0-0 Marathón
+[Mar 11]
+Génesis       0-0 Olancho
+Motagua       2-0 UPNFM
+Real España   4-1 Victoria
+[Mar 12]
+Platense      1-2 Olimpia
+Juticalpa     bye
+
+Round 12
+[Mar 14]
+Marathón      2-0 UPNFM
+Olancho       3-0 Real España
+Choloma       1-1 Juticalpa
+[Mar 15]
+Génesis       0-2 Olimpia
+Victoria      2-3 Platense
+Motagua       bye
+
+Round 13
+[Mar 18]
+Juticalpa     0-4 Marathón
+Olimpia       0-0 Olancho
+Real España   2-1 Génesis
+[Mar 19]
+Platense      0-1 Motagua
+[Mar 20]
+UPNFM         1-2 Choloma
+Victoria      bye
+
+Round 14
+[Mar 22]
+Marathón      2-0 Victoria
+Motagua       1-1 Real España
+Juticalpa     1-6 Olimpia
+[Mar 23]
+UPNFM         2-1 Olancho
+[Mar 24]
+Choloma       1-2 Génesis
+Platense      bye
+
+Round 15
+[Apr 1]
+Choloma       1-0 Platense
+[Apr 2]
+Génesis       0-1 Juticalpa
+Olimpia       0-0 UPNFM
+Real España   2-0 Marathón
+[Apr 16]
+Victoria      2-3 Motagua
+Olancho       bye
+
+Round 16
+[Apr 4]
+Olancho       3-1 Choloma
+[Apr 5]
+Platense      3-1 Marathón
+Motagua       3-1 Génesis
+Victoria      3-2 UPNFM
+[Apr 6]
+Real España   1-1 Juticalpa
+Olimpia       bye
+
+Round 17
+[Apr 8]
+Platense      0-1 Génesis
+Olimpia       2-1 Victoria
+[Apr 9]
+Juticalpa     0-4 Olancho
+Choloma       3-2 Real España
+Marathón      1-0 Motagua
+UPNFM         bye
+
+Round 18
+[Apr 12]
+Marathón      0-2 Olancho
+Motagua       0-1 Olimpia
+UPNFM         1-1 Real España
+[Apr 13]
+Victoria      2-5 Choloma
+[Apr 15]
+Juticalpa     1-1 Platense
+Génesis       bye
+
+Round 19
+[Apr 18]
+Génesis       0-1 Marathón
+Choloma       1-3 Olimpia
+[Apr 19]
+Platense      4-1 UPNFM
+Motagua       2-1 Juticalpa
+Olancho       1-0 Victoria
+Real España   bye
+
+Round 20
+[Apr 22]
+Victoria      2-1 Juticalpa
+Real España   2-0 Platense
+Olimpia       2-1 Marathón
+[Apr 23]
+UPNFM         0-1 Génesis
+Olancho       0-0 Motagua
+Choloma       bye
+
+Round 21
+[Apr 25]
+Real España   3-2 Olimpia
+[Apr 26]
+Platense      1-0 Olancho
+Motagua       5-1 Choloma
+Juticalpa     1-0 UPNFM
+[Apr 27]
+Génesis       2-0 Victoria
+Marathón      bye
+
+Round 22 [Apr 30]
+Olimpia       4-0 Platense
+UPNFM         2-1 Motagua
+Victoria      1-2 Real España
+Marathón      0-1 Choloma
+Olancho       2-2 Génesis
+Juticalpa     bye
+
+Final Table:
+
+ 1.Real España (San Pedro Sula)     20  11  7  2  37-25  40  ‹Qualified, see §1clauplayoff›
+ 2.Motagua (Tegucigalpa)            20  11  6  3  36-17  39  ‹Qualified, see §1clauplayoff›
+ 3.Olimpia (Tegucigalpa)            20  11  5  4  35-17  38  ‹Qualified, see §1clauplayoff›
+ 4.Olancho (Juticalpa)              20   8  8  4  28-16  32  ‹Qualified, see §1clauplayoff›
+ 5.Marathón (San Pedro Sula)        20   7  6  7  23-19  27  ‹Qualified, see §1clauplayoff›
+ 6.Génesis (Comayagua)              20   6  5  9  20-28  23  ‹Qualified, see §1clauplayoff›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Choloma (Choloma)                20   6  5  9  23-32  23
+ 8.Platense (Puerto Cortés)         20   5  6  9  26-29  21
+ 9.UPNFM (Tegucigalpa)              20   5  6  9  23-30  21
+10.Juticalpa (Juticalpa)            20   4  6 10  18-41  18
+11.Victoria (La Ceiba)              20   4  4 12  25-40  16
+
+====== Triangulares  ‹§1clauplayoff›
+
+Tables:
+
+Grupo A
+ 1.Olimpia (Tegucigalpa)             1   1  0  0   2- 0   3
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.Marathón (San Pedro Sula)         2   1  0  1   1- 2   3
+ 3.Real España (San Pedro Sula)      1   0  0  1   0- 1   0  [s]
+[s] seeded team, ranked ahead in case of tie on points
+
+Grupo B
+ 1.Génesis (Comayagua)               2   1  1  0   4- 2   4
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.Motagua (Tegucigalpa)             1   0  1  0   1- 1   1  [s]
+ 3.Olancho (Juticalpa)               1   0  0  1   1- 3   0
+[s] seeded team, ranked ahead in case of tie on points
+
+[May 3]
+Marathón      1-0 Real España
+Génesis       1-1 Motagua
+[May 6]
+Olancho       1-3 Génesis
+Olimpia       2-0 Marathón
+[May 9]
+Motagua        -  Olancho
+Real España    -  Olimpia
+[May 12]
+Olancho        -  Motagua
+Olimpia        -  Real España
+[May 15]
+Génesis        -  Olancho
+Marathón       -  Olimpia
+[May 18]
+Motagua        -  Génesis
+Real España    -  Marathón
+
+Tables:
+
+ 1.Olimpia (Tegucigalpa)             1   1  0  0   2- 0   3
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.Marathón (San Pedro Sula)         2   1  0  1   1- 2   3
+ 3.Real España (San Pedro Sula)      1   0  0  1   0- 1   0  [s]
+[s] seeded team, ranked ahead in case of tie on points
+
+Grupo B
+ 1.Génesis (Comayagua)               2   1  1  0   4- 2   4
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.Motagua (Tegucigalpa)             1   0  1  0   1- 1   1  [s]
+ 3.Olancho (Juticalpa)               1   0  0  1   1- 3   0
+[s] seeded team, ranked ahead in case of tie on points
+
+====== Final  ‹§1claufinal›
 
 

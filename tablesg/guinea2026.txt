@@ -2,7 +2,7 @@
      title:   Guinea 2025/26
      source:  https://rsssf.org/tablesg/guinea2026.html
      author:  Karel Stokkermans
-     updated: 2 Apr 2026    
+     updated: 23 Apr 2026
     -->
 
 
@@ -14,23 +14,23 @@
 
 ==== Ligue 1  ‹§ligue1›
 
-Table:
+Final Table:
 
- 1.Horoya AC            21  15  3  3  38-14  48  [C]
- 2.Hafia FC             21  14  4  3  31-13  46
- 3.AS Kaloum            21  11  8  2  25-10  41
- 4.CI Kamsar            21  12  2  7  26-17  38
- 5.Milo FC              21  10  6  5  28-14  36
- 6.Wakriya AC           21   7  9  5  17-18  30
- 7.ASFAG                21   9  2 10  26-23  29  [P]
- 8.AS Mineurs Sangarédi 21   6  7  8  17-20  25
- 9.Karfamoriah FC       21   5  6 10  17-26  21  [P]
-10.Guinée Foot Elite    21   5  6 10  23-35  21
-11.FC Renaissance       21   5  5 11  15-30  20
-12.Ashanti GB           21   4  7 10  14-25  19
+ 1.Horoya AC            26  17  5  4  42-19  56  [C]  Champions
+ 2.Hafia FC             26  15  7  4  34-16  52
+ 3.CI Kamsar            26  15  3  8  37-21  48
+ 4.AS Kaloum            26  12  9  5  32-18  45
+ 5.Milo FC              26  11 10  5  33-18  43
+ 6.Wakriya AC           26   8  9  9  22-26  33
+ 7.ASFAG                26   9  5 12  31-35  32  [P]
+ 8.AS Mineurs Sangarédi 26   7  8 11  22-28  29
+ 9.Ashanti GB           26   7  8 11  23-32  29
+10.RCC Kamsar           26   7  7 12  25-31  28
+11.Karfamoriah FC       26   7  7 12  24-33  28  [P]
+12.Guinée Foot Elite    26   7  7 12  30-42  28
 -----------------------------------------------
-13.RCC Kamsar           21   3  6 12  15-27  15
-14.Loubha FC            21   3  5 13  11-31  14
+13.FC Renaissance       26   6  8 12  20-35  26       Relegated
+14.Loubha FC            26   4  7 15  14-35  19       Relegated
 
 Round 1
 [Oct 26]
@@ -325,32 +325,80 @@ Loubha FC         1-3 ASFAG
 
 Round 22
 [Apr 2]
-Ashanti GB         -  AS Kaloum
+Ashanti GB        1-0 AS Kaloum
 [Apr 3]
-Milo FC            -  Horoya AC
-ASM Sangarédi      -  Hafia FC
-FC Renaissance     -  CI Kamsar
+Milo FC           0-0 Horoya AC
+ASM Sangarédi     0-1 Hafia FC
+FC Renaissance    1-1 CI Kamsar
 [Apr 4]
-Wakriya AC         -  RCC Kamsar
-ASFAG              -  Karfamoriah FC
-Guinée Foot Elite  -  Loubha FC
+Wakriya AC        2-3 RCC Kamsar
+ASFAG             1-1 Karfamoriah FC
+Guinée Foot Elite 2-1 Loubha FC
 
-Table:
+Round 23
+[Apr 6]
+Ashanti GB        0-0 Horoya AC
+[Apr 7]
+AS Kaloum         1-2 ASM Sangarédi
+FC Renaissance    0-0 Hafia FC
+[Apr 8]
+CI Kamsar         1-0 Wakriya AC
+Loubha FC         0-1 RCC Kamsar
+ASFAG             2-2 Milo FC
+Guinée Foot Elite 0-1 Karfamoriah FC
 
- 1.Horoya AC            21  15  3  3  38-14  48  [C]
- 2.Hafia FC             21  14  4  3  31-13  46
- 3.AS Kaloum            21  11  8  2  25-10  41
- 4.CI Kamsar            21  12  2  7  26-17  38
- 5.Milo FC              21  10  6  5  28-14  36
- 6.Wakriya AC           21   7  9  5  17-18  30
- 7.ASFAG                21   9  2 10  26-23  29  [P]
- 8.AS Mineurs Sangarédi 21   6  7  8  17-20  25
- 9.Karfamoriah FC       21   5  6 10  17-26  21  [P]
-10.Guinée Foot Elite    21   5  6 10  23-35  21
-11.FC Renaissance       21   5  5 11  15-30  20
-12.Ashanti GB           21   4  7 10  14-25  19
+Round 24
+[Apr 11]
+Horoya AC         2-1 Hafia FC
+[Apr 12]
+RCC Kamsar        3-1 CI Kamsar
+ASM Sangarédi     1-2 Karfamoriah FC
+ASFAG             1-3 Ashanti GB
+Guinée Foot Elite 0-0 Milo FC
+[Apr 13]
+Loubha FC         1-1 AS Kaloum
+Wakriya AC        2-1 FC Renaissance
+
+Round 25
+[Apr 16]
+ASM Sangarédi     1-1 Milo FC
+[Apr 17]
+Hafia FC          0-0 RCC Kamsar
+AS Kaloum         3-1 Guinée Foot Elite
+FC Renaissance    0-0 Loubha FC
+Karfamoriah FC    2-3 Ashanti GB
+Horoya AC         2-1 Wakriya AC
+[Apr 18]
+CI Kamsar         5-0 ASFAG
+
+Round 26
+[Apr 20]
+Loubha FC         1-0 Wakriya AC
+[Apr 21]
+RCC Kamsar        3-1 ASM Sangarédi
+FC Renaissance    3-2 AS Kaloum
+Guinée Foot Elite 4-2 Ashanti GB
+[Apr 22]
+Hafia FC          1-1 ASFAG
+Milo FC           2-1 Karfamoriah FC
+CI Kamsar         3-0 Horoya AC
+
+Final Table:
+
+ 1.Horoya AC            26  17  5  4  42-19  56  [C]  Champions
+ 2.Hafia FC             26  15  7  4  34-16  52
+ 3.CI Kamsar            26  15  3  8  37-21  48
+ 4.AS Kaloum            26  12  9  5  32-18  45
+ 5.Milo FC              26  11 10  5  33-18  43
+ 6.Wakriya AC           26   8  9  9  22-26  33
+ 7.ASFAG                26   9  5 12  31-35  32  [P]
+ 8.AS Mineurs Sangarédi 26   7  8 11  22-28  29
+ 9.Ashanti GB           26   7  8 11  23-32  29
+10.RCC Kamsar           26   7  7 12  25-31  28
+11.Karfamoriah FC       26   7  7 12  24-33  28  [P]
+12.Guinée Foot Elite    26   7  7 12  30-42  28
 -----------------------------------------------
-13.RCC Kamsar           21   3  6 12  15-27  15
-14.Loubha FC            21   3  5 13  11-31  14
+13.FC Renaissance       26   6  8 12  20-35  26       Relegated
+14.Loubha FC            26   4  7 15  14-35  19       Relegated
 
 

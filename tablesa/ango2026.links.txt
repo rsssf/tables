@@ -1,0 +1,5 @@
+tablesa/ango2025                :  2024/25
+tablesa/angochamp               :  list of champions
+tablesa/angocuphist             :  list of cup finals
+tablesa/angosupcuphist          :  list of super cup finals
+tablesa/angotops                :  list of topscorers

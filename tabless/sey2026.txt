@@ -2,7 +2,7 @@
      title:   Seychelles 2025/26
      source:  https://rsssf.org/tabless/sey2026.html
      author:  Karel Stokkermans
-     updated: 26 Mar 2026    
+     updated: 26 Mar 2026
     -->
 
 

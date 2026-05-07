@@ -1,0 +1,4 @@
+tablesh/haiti2025               :  2025
+tablesh/haitichamp              :  list of champions
+tablesh/haiticuphist            :  list of cup winners
+tablesh/haitifound              :  list of foundation dates

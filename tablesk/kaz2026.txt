@@ -2,7 +2,7 @@
      title:   Kazakhstan 2026
      source:  https://rsssf.org/tablesk/kaz2026.html
      author:  Theodore Dreiman
-     updated: 7 Apr 2026    
+     updated: 5 May 2026
     -->
 
 
@@ -16,26 +16,31 @@
 
 Table:
 
- 1.Qairat (Almaty)        4   3  1  0   6- 0  10  [C]
- 2.Ordabasy (Şymkent)     4   2  2  0   7- 3   8
- 3.Elımai (Semei)         4   2  2  0   7- 3   8
- 4.Oqjetpes (Kökşetau)    4   2  2  0   7- 4   8
- 5.FK Astana              4   2  1  1   6- 5   7
- 6.Ertıs (Pavlodar)       4   1  3  0   6- 5   6  [P]
- 7.Qyzyljar (Petropavl)   4   1  2  1   4- 4   5
- 8.Ūlytau (Jezqazğan)     4   1  2  1   3- 3   5
- 9.Jetısu (Taldyqorğan)   4   1  2  1   4- 6   5
-10.FK Atyrau              4   0  4  0   2- 2   4
-11.FK Aqtöbe              4   1  1  2   6- 7   4
-12.Jeñıs (Astana)         4   0  3  1   2- 4   3
-13.Qaisar (Qyzylorda)     4   0  3  1   1- 3   3
-14.Altai (Öskemen)        4   0  2  2   1- 3   2  [P]
+ 1.Qairat (Almaty)        7   4  3  0  11- 3  15  [C]
+ 2.Ordabasy (Şymkent)     7   4  3  0  12- 6  15
+ 3.Elımai (Semei)         7   3  4  0  12- 7  13
+ 4.Oqjetpes (Kökşetau)    7   3  3  1  11- 8  12
+ 5.FK Astana              7   3  3  1  11- 9  12
+ 6.Qyzyljar (Petropavl)   7   3  2  2  10- 6  11
+ 7.Jetısu (Taldyqorğan)   7   3  2  2   8- 8  11
+ 8.Ūlytau (Jezqazğan)     7   3  2  2   7- 7  11
+ 9.FK Aqtöbe              7   3  1  3   8- 8  10
+10.FK Atyrau              7   1  4  2   5- 5   7
+11.Jeñıs (Astana)         7   1  4  2   3- 8   7
+12.Ertıs (Pavlodar)       7   1  3  3   8-10   6  [P]
+13.Qaisar (Qyzylorda)     7   0  5  2   3- 7   5
+14.Tobyl (Qostanai)       7   1  2  4   7-13   5
 ------------------------------------------------
-15.Kaspii (Aqtau)         4   0  1  3   2- 6   1  [P]
-16.Tobyl (Qostanai)       4   0  1  3   3- 9   1
+15.Altai (Öskemen)        7   0  4  3   3- 6   4  [P]
+16.Kaspii (Aqtau)         7   0  1  6   3-11   1  [P]
 
-Elımai play home games in Astana (740 km west of Semei).
-Kaspii play home games in Qyzylorda (2,250 km east of Aqtau).
+Home venues (if different from home city):
+Altai:      Almaty (1,080 km south-east of Öskemen)
+FK Aqtöbe:  Türkıstan (1,355 km south-east of Aqtöbe)
+FK Atyrau:  Türkıstan (1,960 km south-east of Atyrau)
+Elımai:     Astana (740 km west of Semei)
+Jetısu:     Almaty (260 km south-west of Taldyqorğan)
+Kaspii:     Qyzylorda (2,250 km east of Aqtau)
 
 Round 1 [Total Att: 48,300; Average: 6,038]
 [Mar 7]
@@ -122,70 +127,107 @@ Ulytau    1-1  Aqtobe
 Kaspii    0-1  Jetisu
   [André Amaral (Kas) 44 og. Att: 200. +23°C]
 
+Round 5 [Total Att: 26,500; Average: 3,313]
+[Apr 11]
+Tobyl     1-1  Qairat
+  [Uroš Milovanović 13 - Dastan Sätbaev 19. Att: 3,000. +13°C]
+Astana    1-1  Ordabasy
+  [Iän Vorogovskii 90+5 - Jasūlan Ämır 77. Att: 13,600. +11°C]
+Jetisu    0-1  Elimai
+  [Roman Murtazaev 85 pen. Att: 800. +16°C, rain]
+Atyrau    2-0  Qaisar
+  [Jahor Chvaĺko 72; Quanyş Qalmūratov 90+4 pen. Att: 500. +26°C]
+[Apr 12]
+Oqjetpes  2-1  Ertis
+  [Dzmitryj Baradzin 76 pen; Nūrğaini Börıbaev 88 pen - Miras Tūrlybek 80. Att: 3,800. +14°C]
+Qyzyljar  4-0  Jenis
+  [Anatolij Kozlenko 35; Jóannes Bjartalíð 60, 80; Aslan Ädıl 74. Att: 4,000. +13°C]
+Altai     1-2  Ulytau
+  [Dragan Stoisavljević 17 - Saği Mälıkaidar 38; David M. Anane 89. Att: 300. +19°C]
+Aqtobe    1-0  Kaspii
+  [Artur Şuşenaçev 45 pen. Att: 500. +24°C]
+
+Round 6 [Total Att: 70,137; Average: 8,767]
+[Apr 18]
+Qairat    2-0  Kaspii
+  [Edmilson Santos 55; Jorginho Monteiro 82. Att: 14,275. +8°C]
+Elimai    2-2  Astana
+  [Ädılbek Jūmahanov 5; Fessou E. Placca 27 pen -
+   Marin Tomasov 1; Maqsat Abraev 47. Att: 12,355. +11°C]
+Ordabasy  2-1  Oqjetpes
+  [Sergei Malyi 65; Mağjan Toqtybai 90+4 - Léo Assunção 90+1. Att: 16,547. +14°C]
+Ertis     1-2  Jetisu
+  [Paviel Siadźko 74 pen - Adam Adahadjiev 6; Marko Živanović 90+6. Att: 3,500. +16°C]
+[Apr 19]
+Atyrau    0-1  Qyzyljar
+  [Timur Muldinov 90+3. Att: 500. +20°C]
+Ulytau    2-1  Tobyl
+  [David M. Anane 41; Ariagner Smith 50 pen - Uroš Milovanović 7. Att: 4,000. +14°C]
+Jenis     1-0  Aqtobe
+  [Sağadat Tūrsynbai 11. Att: 11,400. +15°C]
+Qaisar    1-1  Altai
+  [Ädılet Keñesbek 38 - Seif Popov 86. Att: 7,560. +18°C]
+
+Round 7 [Total Att: 56,675; Average: 7,084]
+[Apr 25]
+Qyzyljar  1-2  Ordabasy
+  [Etienne Beugre 53 - Demiät Sylambekov (Qyz) 34 og; Elhan Astanov 79. Att: 6,000. +18°C]
+Oqjetpes  1-1  Qaisar
+  [Vladislav Vasiliev 89 - Nikola Cuckić 27. Att: 4,150. +18°C, light rain]
+Aqtobe    1-0  Ertis
+  [Artur Şuşenaçev 63. Att: 12,400. +11°C]
+Altai     0-0  Jenis
+  [Att: 500. +23°C]
+[Apr 26]
+Qairat    2-2  Elimai
+  [Oiva Jukkola 61; Edmilson Santos 63 - Fessou E. Placca 12; Arsen Äşırbek 90. Att: 21,465. +24°C]
+Jetisu    2-0  Ulytau
+  [Nūrbol Änuarbekov 45+1; Ädılhan Dobai 49. Att: 500. +27°C]
+Astana    2-1  Atyrau
+  [Älibek Qasym 19; Ramazan Kärımov 24 - Älibek Qasym (Ast) 88 og. Att: 9,160. +9°C]
+Tobyl     2-1  Kaspii
+  [Jaslan Jūmaşev 5, 16 - Idris Umajev 39. Att: 2,500. +12°C]
+
 Table:
 
- 1.Qairat (Almaty)        4   3  1  0   6- 0  10  [C]
- 2.Ordabasy (Şymkent)     4   2  2  0   7- 3   8
- 3.Elımai (Semei)         4   2  2  0   7- 3   8
- 4.Oqjetpes (Kökşetau)    4   2  2  0   7- 4   8
- 5.FK Astana              4   2  1  1   6- 5   7
- 6.Ertıs (Pavlodar)       4   1  3  0   6- 5   6  [P]
- 7.Qyzyljar (Petropavl)   4   1  2  1   4- 4   5
- 8.Ūlytau (Jezqazğan)     4   1  2  1   3- 3   5
- 9.Jetısu (Taldyqorğan)   4   1  2  1   4- 6   5
-10.FK Atyrau              4   0  4  0   2- 2   4
-11.FK Aqtöbe              4   1  1  2   6- 7   4
-12.Jeñıs (Astana)         4   0  3  1   2- 4   3
-13.Qaisar (Qyzylorda)     4   0  3  1   1- 3   3
-14.Altai (Öskemen)        4   0  2  2   1- 3   2  [P]
+ 1.Qairat (Almaty)        7   4  3  0  11- 3  15  [C]
+ 2.Ordabasy (Şymkent)     7   4  3  0  12- 6  15
+ 3.Elımai (Semei)         7   3  4  0  12- 7  13
+ 4.Oqjetpes (Kökşetau)    7   3  3  1  11- 8  12
+ 5.FK Astana              7   3  3  1  11- 9  12
+ 6.Qyzyljar (Petropavl)   7   3  2  2  10- 6  11
+ 7.Jetısu (Taldyqorğan)   7   3  2  2   8- 8  11
+ 8.Ūlytau (Jezqazğan)     7   3  2  2   7- 7  11
+ 9.FK Aqtöbe              7   3  1  3   8- 8  10
+10.FK Atyrau              7   1  4  2   5- 5   7
+11.Jeñıs (Astana)         7   1  4  2   3- 8   7
+12.Ertıs (Pavlodar)       7   1  3  3   8-10   6  [P]
+13.Qaisar (Qyzylorda)     7   0  5  2   3- 7   5
+14.Tobyl (Qostanai)       7   1  2  4   7-13   5
 ------------------------------------------------
-15.Kaspii (Aqtau)         4   0  1  3   2- 6   1  [P]
-16.Tobyl (Qostanai)       4   0  1  3   3- 9   1
+15.Altai (Öskemen)        7   0  4  3   3- 6   4  [P]
+16.Kaspii (Aqtau)         7   0  1  6   3-11   1  [P]
 
-Elımai play home games in Astana (740 km west of Semei).
-Kaspii play home games in Qyzylorda (2,250 km east of Aqtau).
+Home venues (if different from home city):
+Altai:      Almaty (1,080 km south-east of Öskemen)
+FK Aqtöbe:  Türkıstan (1,355 km south-east of Aqtöbe)
+FK Atyrau:  Türkıstan (1,960 km south-east of Atyrau)
+Elımai:     Astana (740 km west of Semei)
+Jetısu:     Almaty (260 km south-west of Taldyqorğan)
+Kaspii:     Qyzylorda (2,250 km east of Aqtau)
 
 Top scorers:
 
-1.JORGINHO Costa Monteiro (Qairat)  3  [Portugal]
-  Roman MURTAZAEV (Elımai)          3
-3.Elhan ASTANOV (Ordabasy)          2
-  Etienne Edgard BEUGRE (Qyzyljar)  2  [Ivory Coast]
-  Konstantin DOROFEJEV (Atyrau)     2  [Russia]
-  Jaslan JŪMAŞEV (Tobyl)            2
-  Oralhan ÖMIRTAEV (Oqjetpes)       2
-  Dastan SÄTBAEV (Qairat)           2
-  Daniel SOSAH (Aqtöbe)             2  [Niger/Ghana]
-
-Round 5 [Apr 10]
-Aqtobe    -  Kaspii
-Altai     -  Ulytau
-Astana    -  Ordabasy
-Atyrau    -  Qaisar
-Qyzyljar  -  Jenis
-Oqjetpes  -  Ertis
-Tobyl     -  Qairat
-Jetisu    -  Elimai
-
-Round 6 [Apr 17]
-Atyrau    -  Qyzyljar
-Kaspii    -  Qairat
-Elimai    -  Astana
-Ertis     -  Jetisu
-Qaisar    -  Altai
-Ordabasy  -  Oqjetpes
-Ulytau    -  Tobyl
-Jenis     -  Aqtobe
-
-Round 7 [Apr 24]
-Aqtobe    -  Ertis
-Altai     -  Jenis
-Astana    -  Atyrau
-Qyzyljar  -  Ordabasy
-Qairat    -  Elimai
-Oqjetpes  -  Qaisar
-Tobyl     -  Kaspii
-Jetisu    -  Ulytau
+1.JORGINHO Costa Monteiro (Qairat)  4  [Portugal]
+  Jaslan JŪMAŞEV (Tobyl)            4
+  Roman MURTAZAEV (Elımai)          4
+4.Elhan ASTANOV (Ordabasy)          3
+  Etienne Edgard BEUGRE (Qyzyljar)  3  [Ivory Coast]
+  Jóannes BJARTALÍÐ (Qyzyljar)      3  [Faroe Islands]
+  Uroš MILOVANOVIĆ (Tobyl)          3  [Serbia]
+  Fessou Euloge PLACCA (Elımai)     3  [Togo]
+  Dastan SÄTBAEV (Qairat)           3
+  Artur ŞUŞENAÇEV (Aqtöbe)          3
 
 Round 8 [May 1]
 Atyrau    -  Altai
@@ -422,28 +464,108 @@ Jetisu    -  Astana
 
 
 
+==== Olimpbet QFL Qazaqstan Kubogy  ‹§kubok›
+
+First Round [Total Att: 28,500; Average: 1,900]
+
+[Apr 8]
+Oñtüstık A (Şymkent)  2-4  ORDABASY (Şymkent)
+  [Älıbek Haldar 27; Dimitar Mitkov (Ord) 55 og - Vladyslav Naumeć 12;
+   Jasūlan Ämır 45, 88; Elhan Astanov 71 pen. Att: 3,000. +15°C, light rain]
+Jas Qyran (Almaty)    0-4  FK ATYRAU
+  [Jahor Chvaĺko 5; Äset Boranäliev (JQ) 55 og; İän Trufanov 57, 86. Att: 500. +21°C]
+Qarşyğa (Almaty)      0-1  JETISU (Taldyqorğan)
+  [Mansūr Birqūrmanov 45. Att: 400. +14°C, light rain]
+Tūran (Türkıstan)     1-4  ELIMAİ (Semei)
+  [Elhan Saidov 59 - Ädılbek Jūmahanov 8; Roman Murtazaev 28;
+   İvan Sviridov 74, 76. Att: 4,500. +16°C]
+Talas (Qaratau)       0-2  QAİSAR (Qyzylorda)
+  [Müslım Jūmat 18; Saği Sovet 20. Att: 500. +14°C]
+Jaiyq (Oral)          1-3  QAİRAT (Almaty)
+  [Timur Mūhametjanov 26 - Azamat Tūiäqbaev 37, 51; İevgenii Petrik 73. Att: 8,800. +17°C]
+BKS (Almaty)          1-2  FK ASTANA
+  [Dias Parhatjan 30 - Batyrhan Mūstafin 34; Arsen Ahmetov 90+1. Att: 1,500. +20°C]
+Ansat (Pavlodar)      0-8  TOBYL (Qostanai)
+  [Alexandr Zuev 2; Rubin Hebaj 7, 24; Jaslan Jūmaşev 10; Daniär Üsenov 35;
+   Luis Guerra Romero 51, 85; Uroš Milovanović 62. Att: 300. +15°C]
+[Apr 9]
+Batyr (Ekıbastūz)     0-4  KASPİİ (Aqtau)
+  [Baqdäulet Zūlfyqarov 45+1 pen; Bogdan Petrović 74; Idris Umajev 90; Janer Jazmağanbetov 90+3.
+   Missed PK: Anatolii Krasotin (Bat) 77/held. Att: 500. +10°C, light rain]
+FK Arys               0-4  FK AQTÖBE
+  [Artur Şuşenaçev 27; Temırlan Erlanov 37; Qajymūqan Quatbekūly (Ary) 42 og;
+   Ajdin Zeljković 81. Att: 1,500. +22°C]
+Jelaev Nan (Oral)     0-2  ALTAİ (Öskemen)
+  [Nemanja Mićević 15; Dmitrii Schmidt 54. Att: 1,000. +8°C]
+FK Taraz              0-1  ŪLYTAU (Jezqazğan)    [aet]
+  [Hiroki Harada 106. Att: 3,100. +18°C]
+Şahtör (Qarağandy)    2-3  OQJETPES (Kökşetau)
+  [Artöm Litoş 9, 45 - Erkebūlan Nūrğaliev 52; Nūrğaini Börıbaev 71; Vladislav Vasiliev 85.
+   Missed PK: Arman Nüsıp (Şah) 75/held. Att: 1,500. +12°C, rain]
+FK Hromtau            1-4  JEÑIS (Astana)
+  [Daniär Orda 76 pen - Élder Santana 65; Adílio Santos 69;
+   Elguja Lobjanidze 71, 90 pen. Att: 1,200. +13°C]
+SD Family (Astana)    -/+  ERTIS (Pavlodar)
+Han Täñırı (Almaty)   0-1  QYZYLJAR (Petropavl)
+  [Etienne Beugre 44. Att: 200. +12°C, light rain]
+
+Second Round
+
+[Apr 29]
+FK Atyrau             0-2  JETISU (Taldyqorğan)
+  [Mansūr Birqūrmanov 48; Strahinja Jovanović 55. Türkıstan. Att: 200. +30°C]
+QAİSAR (Qyzylorda)    2-1  Qairat (Almaty)
+  [Ersūltan Qaldybekov 4; Batyrhan Täjıbai 61 - Azamat Tūiäqbaev 90+3. Att: 11,000. +26°C]
+FK Astana             1-2  TOBYL (Qostanai)
+  [Sanjar Änuarov 80 - Amine Talal 7; Jaslan Jūmaşev 87 pen. Att: 4,000. +21°C]
+Oqjetpes (Kökşetau)   2-3  JEÑIS (Astana)
+  [Bektemir Abdumannonov 20; Toqtar Janğylyşbai 90+4 - Andrei Ulşin 14;
+   Sağadat Tūrsynbai 65; Élder Santana 83. Att: 5,000. +20°C]
+Ertıs (Pavlodar)      1-2  QYZYLJAR (Petropavl)
+  [Miras Tūrlybek 30 - Demiät Sylambekov 23; Plamen Galabov 59. Att: 2,200. +24°C]
+[Apr 30]
+ORDABASY (Şymkent)    3-0  Kaspii (Aqtau)
+  [Dimitar Mitkov 17, 65, 88. +22°C]
+FK AQTÖBE             2-1  Elımai (Semei)
+  [Luís "Nani" da Cunha 59, 83 - Ramazan Orazov 90+4. +10°C, light rain]
+ALTAİ (Öskemen)       4-3  Ūlytau (Jezqazğan)    [aet]
+  [Elisei Gorşunov 54, 64; Oraz Sailybaev 111; Nikola Jambor 119 - Ramazan Abylaihan 12;
+   Maxim Çalkin 83; Kotaro Kishi 95. Almaty. Att: 200. +25°C]
+
+Quarterfinals [May 12]
+
+Ordabasy (Şymkent)    -  Jetısu (Taldyqorğan)
+FK Aqtöbe             -  Altai (Öskemen)
+Qaisar (Qyzylorda)    -  Tobyl (Qostanai)
+Jeñıs (Astana)        -  Qyzyljar (Petropavl)
+
+
+
+
+
+
 ==== Bırınşı Liga (Second Level)  ‹§first›
 
 Departed: Departed: AKAS (Almaty), FK Jetısai, SD Family (Astana).
 
 Table:
 
- 1.FK Taraz                     1   1  0  0   3- 0   3
- 2.Oñtüstık Academy (Şymkent)   1   1  0  0   2- 1   3
+ 1.Şahtör (Qarağandy)           4   3  1  0  13- 0  10
+ 2.Oñtüstık Academy (Şymkent)   4   3  0  1   7- 3   9
 ------------------------------------------------------
- 3.Jaiyq (Oral)                 1   1  0  0   1- 0   3  [P]
- 4.Han Täñırı (Almaty)          1   0  1  0   2- 2   1
- 5.FK Aqtöbe-2                  1   0  1  0   2- 2   1
- 6.FK Astana-2                  1   0  1  0   2- 2   1  [P]
- 7.Kaspii-2 (Aqtau)             1   0  1  0   2- 2   1  [P]
- 8.Elımai-2 (Semei)             1   0  1  0   1- 1   1  [P]
- 9.Tobyl-2 (Qostanai)           1   0  1  0   1- 1   1  [P]
-10.Şahtör (Qarağandy)           1   0  1  0   0- 0   1
-11.Qairat-2 (Almaty)            1   0  1  0   0- 0   1
-12.Tūran (Türkıstan)            1   0  0  1   1- 2   0  [R]
+ 3.Tūran (Türkıstan)            4   3  0  1   6- 4   9  [R]
+ 4.Qairat-2 (Almaty)            4   2  2  0  12- 1   8
+ 5.FK Taraz                     4   2  0  2   7- 3   6
+ 6.Batyr (Ekıbastūz)            4   2  0  2   3- 7   6
+ 7.Jaiyq (Oral)                 4   2  0  2   2- 6   6  [P]
+ 8.Han Täñırı (Almaty)          4   1  2  1   6- 6   5
+ 9.FK Aqtöbe-2                  4   1  2  1   6-11   5
+10.FK Astana-2                  4   1  1  2   4- 6   4  [P]
+11.Kaspii-2 (Aqtau)             4   0  3  1   6- 7   3  [P]
+12.FK Arys                      4   1  0  3   3- 9   3  [P]
 ------------------------------------------------------
-13.FK Arys                      1   0  0  1   0- 1   0  [P]
-14.Batyr (Ekıbastūz)            1   0  0  1   0- 3   0
+13.Elımai-2 (Semei)             4   0  2  2   4- 9   2  [P]
+14.Tobyl-2 (Qostanai)           4   0  1  3   3-10   1  [P]
 
 FK Ekıbastūz changed name to Batyr.
 
@@ -466,64 +588,91 @@ Astana-2    2-2  Aqtobe-2
   [Batyrhan Mūstafin 4; Beibarys Äbılda 70 - Ädılbek Begımov 48;
    Däulet Mūratov 87. Missed PK: Arsen Ahmetov (Ast) 30. Att: 100]
 
+Round 2 [Total Att: 6,700; Average: 957]
+[Apr 16]
+Jaiyq       1-0  Astana-2
+  [Aibar Ahmet 42. Att: 4,000]
+Kaspii-2    1-1  Qairat-2
+  [Almas Ärmenov 89 - Ämırbek Bazarbaev 85. Att: 300]
+Turan       1-0  Arys
+  [Temırlan Mūrzağaliev 50. Att: 1,000]
+[Apr 17]
+Aqtobe-2    1-0  Taraz
+  [Dosjan Arystanov 60. Att: 300]
+Ontustik A  3-0  Tobyl-2
+  [Baqdäulet Nūraly 35, 80; Dınmūhamed Nyşantai 90 pen. Att: 100]
+Elimai-2    3-3  Han Taniri
+  [Iäkov Galva 4; Älijan Baiğaliev 23; Vladislav Levkoviç 47 -
+   Rüstem Ämırov 1; Nūrdäulet Ämırbek 18; Älışer Kelgenbai 90+4 pen. Att: 500]
+Sahtor      4-0  Batyr
+  [Älen Aimanov 36; Vladislav Prokopenko 50; Qasymjan Taiypov 62; Älen Pak 83. Att: 500]
+
+Round 3 [Total Att: 4,200; Average: 600]
+[Apr 23]
+Astana-2    1-0  Ontustik A
+  [Nūrsät Nūrmūhambet 50. Att: 200]
+Arys        0-6  Sahtor
+  [Artöm Litoş 38, 46, 66; Maxim Galkin 40; Rıfat Nūrmūğamet 56; Arman Nüsıp 81. Att: 500]
+Qairat-2    6-0  Aqtobe-2
+  [Mūhamedäli Äbış 23; Daniär Taşpulatov 29; Ramazan Bağdat 45; Kärım Mahametjan 67;
+   Äskerbek Baidalinov (Aqt) 72 og; İsmail Bekbolat 74. Att: 250]
+Batyr       1-0  Kaspii-2
+  [Erasyl Temırşı 75. Att: 600]
+[Apr 24]
+Han Taniri  1-0  Jaiyq
+  [İliäs Ämırseiıtov 22. Att: 500]
+Taraz       3-0  Elimai-2
+  [Jasūlan Moldaqaraev 17; Asan Asylbek 28; Amanjol Mūhametjanov 29. Att: 2,000]
+Tobyl-2     2-3  Turan
+  [Azamat Zinadin 24, 65 - Quanyş Düisenbekūly 13, 22; Wälihan Mūhametjanov 84. Att: 150]
+
+Round 4 [Total Att: 10,400; Average: 1,486]
+[Apr 30]
+Arys        3-1  Astana-2
+  [Şadman Bäkırov 5, 37; Mūhamed Säduaqas 17 - Ahmetäli Kaltanov 87. Att: 400]
+Aqtobe-2    3-3  Kaspii-2
+  [Däulet Mūratov 44; Äskerbek Baidalinov 89; Sūltanbek Baqytbekov 90+2 -
+   Rasul Jūmabaev 33, 84; Erkebūlan Şyñjyrbekov 59. Att: 100]
+Elimai-2    0-2  Batyr
+  [Dias Ysqaqov 60; Dias Köşkımbaev 90+5. Att: 200]
+[May 1]
+Sahtor      3-0  Tobyl-2
+  [Arman Nüsıp 51; Artöm Litoş 72; Ärıp Sautov 90+4. Att: 1,500]
+Ontustik A  2-1  Taraz
+  [Dınmūhamed Nyşantai 88 pen, 90+2 pen - Jaqyp Qojamberdı 74. Att: 200]
+Turan       1-0  Han Taniri
+  [Wälihan Mūhametjanov 62. Att: 1,000]
+[May 2]
+Jaiyq       0-5  Qairat-2
+  [Älemgır Smaqov 3, 66; İsmail Bekbolat 51 pen, 90; Artur Trubin 84. Att: 7,000]
+
 Table:
 
- 1.FK Taraz                     1   1  0  0   3- 0   3
- 2.Oñtüstık Academy (Şymkent)   1   1  0  0   2- 1   3
+ 1.Şahtör (Qarağandy)           4   3  1  0  13- 0  10
+ 2.Oñtüstık Academy (Şymkent)   4   3  0  1   7- 3   9
 ------------------------------------------------------
- 3.Jaiyq (Oral)                 1   1  0  0   1- 0   3  [P]
- 4.Han Täñırı (Almaty)          1   0  1  0   2- 2   1
- 5.FK Aqtöbe-2                  1   0  1  0   2- 2   1
- 6.FK Astana-2                  1   0  1  0   2- 2   1  [P]
- 7.Kaspii-2 (Aqtau)             1   0  1  0   2- 2   1  [P]
- 8.Elımai-2 (Semei)             1   0  1  0   1- 1   1  [P]
- 9.Tobyl-2 (Qostanai)           1   0  1  0   1- 1   1  [P]
-10.Şahtör (Qarağandy)           1   0  1  0   0- 0   1
-11.Qairat-2 (Almaty)            1   0  1  0   0- 0   1
-12.Tūran (Türkıstan)            1   0  0  1   1- 2   0  [R]
+ 3.Tūran (Türkıstan)            4   3  0  1   6- 4   9  [R]
+ 4.Qairat-2 (Almaty)            4   2  2  0  12- 1   8
+ 5.FK Taraz                     4   2  0  2   7- 3   6
+ 6.Batyr (Ekıbastūz)            4   2  0  2   3- 7   6
+ 7.Jaiyq (Oral)                 4   2  0  2   2- 6   6  [P]
+ 8.Han Täñırı (Almaty)          4   1  2  1   6- 6   5
+ 9.FK Aqtöbe-2                  4   1  2  1   6-11   5
+10.FK Astana-2                  4   1  1  2   4- 6   4  [P]
+11.Kaspii-2 (Aqtau)             4   0  3  1   6- 7   3  [P]
+12.FK Arys                      4   1  0  3   3- 9   3  [P]
 ------------------------------------------------------
-13.FK Arys                      1   0  0  1   0- 1   0  [P]
-14.Batyr (Ekıbastūz)            1   0  0  1   0- 3   0
+13.Elımai-2 (Semei)             4   0  2  2   4- 9   2  [P]
+14.Tobyl-2 (Qostanai)           4   0  1  3   3-10   1  [P]
 
 FK Ekıbastūz changed name to Batyr.
 
 Top scorers:
 
-Nūrmūhamed Islam (Kaspii-2)  2
-Ersūltan Töreqūl (Taraz)     2
-
-Round 2
-[Apr 16]
-Kaspii-2    -  Qairat-2
-Jaiyq       -  Astana-2
-Turan       -  Arys
-[Apr 17]
-Aqtobe-2    -  Taraz
-Ontustik A  -  Tobyl-2
-Elimai-2    -  Han Taniri
-Sahtor      -  Batyr
-
-Round 3
-[Apr 23]
-Arys        -  Sahtor
-Batyr       -  Kaspii-2
-Qairat-2    -  Aqtobe-2
-Astana-2    -  Ontustik A
-[Apr 24]
-Tobyl-2     -  Turan
-Han Taniri  -  Jaiyq
-Taraz       -  Elimai-2
-
-Round 4
-[Apr 30]
-Aqtobe-2    -  Kaspii-2
-Elimai-2    -  Batyr
-Arys        -  Astana-2
-[May 1]
-Sahtor      -  Tobyl-2
-Ontustik A  -  Taraz
-Jaiyq       -  Qairat-2
-Turan       -  Han Taniri
+1.Artöm Litoş (Şahtör)              4
+2.İsmail Bekbolat (Qairat-2)        3
+  Quanyş Düisenbekūly (Tūran)       3
+  Dınmūhamed Nyşantai (Oñtüstık A)  3
 
 Round 5 [May 6]
 Astana-2    -  Turan
@@ -736,33 +885,33 @@ Tables:
 
 Soltüstık Şyğys Aimaq (Conference North-East)
 
- 1.Şahtör-2 (Qarağandy)     1   1  0  0   5- 1   3
+ 1.Şahtör-2 (Qarağandy)     2   2  0  0  10- 2   6
 --------------------------------------------------
- 2.Ansat (Pavlodar)         1   1  0  0   3- 0   3  [N]
- 3.Qyzyljar-2 (Petropavl)   1   1  0  0   1- 0   3
- 4.Ūlytau-2 (Jezqazğan)     1   1  0  0   1- 0   3
- 5.VPR (Astana)             1   0  1  0   2- 2   1  [R]
- 6.Jeñıs-2 (Astana)         1   0  1  0   2- 2   1
- 7.Altai-2 (Öskemen)        1   0  0  1   0- 1   0
- 8.Ertıs-2 (Pavlodar)       1   0  0  1   0- 1   0  [N]
- 9.Jetısu-2 (Taldyqorğan)   1   0  0  1   0- 3   0
-10.Oqjetpes-2 (Kökşetau)    1   0  0  1   1- 5   0
+ 2.Ansat (Pavlodar)         2   2  0  0   6- 2   6  [N]
+ 3.Ūlytau-2 (Jezqazğan)     2   2  0  0   3- 1   6
+ 4.Altai-2 (Öskemen)        2   1  0  1   2- 2   3
+ 5.Oqjetpes-2 (Kökşetau)    2   1  0  1   4- 5   3
+ 6.Qyzyljar-2 (Petropavl)   2   1  0  1   1- 3   3
+ 7.VPR (Astana)             2   0  1  1   3- 4   1  [R]
+ 8.Jeñıs-2 (Astana)         2   0  1  1   3- 4   1
+ 9.Ertıs-2 (Pavlodar)       2   0  0  2   2- 4   0  [N]
+10.Jetısu-2 (Taldyqorğan)   2   0  0  2   1- 8   0
 
 SD Family (Astana) changed name to VPR.
 
 Oñtüstık Batys Aimaq (Conference South-West)
 
- 1.Ordabasy-2 (Şymkent)     1   1  0  0  11- 1   3
+ 1.FK Hromtau               2   2  0  0   6- 2   6  [N]
 --------------------------------------------------
- 2.Qarşyğa (Almaty)         1   1  0  0   5- 2   3  [N]
- 3.FK Hromtau               1   1  0  0   3- 0   3  [N]
- 4.FK Taraz-2               1   1  0  0   3- 1   3  [N]
- 5.Talas (Qaratau)          1   1  0  0   2- 1   3
- 6.Qaisar-2 (Qyzylorda)     1   0  0  1   1- 2   0
- 7.Jas Qyran (Almaty)       1   0  0  1   1- 3   0
- 8.Tūran-2 (Türkıstan)      1   0  0  1   2- 5   0
- 9.FK Atyrau-2              1   0  0  1   0- 3   0
-10.Han Täñırı-2 (Almaty)    1   0  0  1   1-11   0  [N]
+ 2.FK Taraz-2               2   2  0  0   5- 2   6  [N]
+ 3.Ordabasy-2 (Şymkent)     2   1  1  0  11- 1   4
+ 4.Qarşyğa (Almaty)         2   1  0  1   6- 4   3  [N]
+ 5.Talas (Qaratau)          2   1  0  1   2- 2   3
+ 6.Jas Qyran (Almaty)       2   1  0  1   3- 4   3
+ 7.FK Atyrau-2              2   1  0  1   1- 3   3
+ 8.Qaisar-2 (Qyzylorda)     2   0  1  1   1- 2   1
+ 9.Tūran-2 (Türkıstan)      2   0  0  2   3- 7   0
+10.Han Täñırı-2 (Almaty)    2   0  0  2   3-14   0  [N]
 
 Round 1
 [Apr 1]
@@ -778,49 +927,69 @@ Altai-2       0-1  Qyzyljar-2
 Ansat         3-0  Jetisu-2
 Ulytau-2      1-0  Ertis-2
 
+
+Round 2
+[Apr 14]
+Qaisar-2      0-0  Ordabasy-2
+Qarsyga       1-2  Taraz-2
+Han Taniri-2  2-3  Hromtau
+Atyrau-2      1-0  Talas
+Turan-2       1-2  Jas Qyran
+[Apr 15]
+Jetisu-2      1-5  Sahtor-2
+Ertis-2       2-3  Ansat
+Qyzyljar-2    0-3  Oqjetpes-2
+Jenis-2       1-2  Ulytau-2
+Altai-2       2-1  VPR
+
 Tables:
 
 Soltüstık Şyğys Aimaq (Conference North-East)
 
- 1.Şahtör-2 (Qarağandy)     1   1  0  0   5- 1   3
+ 1.Şahtör-2 (Qarağandy)     2   2  0  0  10- 2   6
 --------------------------------------------------
- 2.Ansat (Pavlodar)         1   1  0  0   3- 0   3  [N]
- 3.Qyzyljar-2 (Petropavl)   1   1  0  0   1- 0   3
- 4.Ūlytau-2 (Jezqazğan)     1   1  0  0   1- 0   3
- 5.VPR (Astana)             1   0  1  0   2- 2   1  [R]
- 6.Jeñıs-2 (Astana)         1   0  1  0   2- 2   1
- 7.Altai-2 (Öskemen)        1   0  0  1   0- 1   0
- 8.Ertıs-2 (Pavlodar)       1   0  0  1   0- 1   0  [N]
- 9.Jetısu-2 (Taldyqorğan)   1   0  0  1   0- 3   0
-10.Oqjetpes-2 (Kökşetau)    1   0  0  1   1- 5   0
+ 2.Ansat (Pavlodar)         2   2  0  0   6- 2   6  [N]
+ 3.Ūlytau-2 (Jezqazğan)     2   2  0  0   3- 1   6
+ 4.Altai-2 (Öskemen)        2   1  0  1   2- 2   3
+ 5.Oqjetpes-2 (Kökşetau)    2   1  0  1   4- 5   3
+ 6.Qyzyljar-2 (Petropavl)   2   1  0  1   1- 3   3
+ 7.VPR (Astana)             2   0  1  1   3- 4   1  [R]
+ 8.Jeñıs-2 (Astana)         2   0  1  1   3- 4   1
+ 9.Ertıs-2 (Pavlodar)       2   0  0  2   2- 4   0  [N]
+10.Jetısu-2 (Taldyqorğan)   2   0  0  2   1- 8   0
 
 SD Family (Astana) changed name to VPR.
 
 Oñtüstık Batys Aimaq (Conference South-West)
 
- 1.Ordabasy-2 (Şymkent)     1   1  0  0  11- 1   3
+ 1.FK Hromtau               2   2  0  0   6- 2   6  [N]
 --------------------------------------------------
- 2.Qarşyğa (Almaty)         1   1  0  0   5- 2   3  [N]
- 3.FK Hromtau               1   1  0  0   3- 0   3  [N]
- 4.FK Taraz-2               1   1  0  0   3- 1   3  [N]
- 5.Talas (Qaratau)          1   1  0  0   2- 1   3
- 6.Qaisar-2 (Qyzylorda)     1   0  0  1   1- 2   0
- 7.Jas Qyran (Almaty)       1   0  0  1   1- 3   0
- 8.Tūran-2 (Türkıstan)      1   0  0  1   2- 5   0
- 9.FK Atyrau-2              1   0  0  1   0- 3   0
-10.Han Täñırı-2 (Almaty)    1   0  0  1   1-11   0  [N]
+ 2.FK Taraz-2               2   2  0  0   5- 2   6  [N]
+ 3.Ordabasy-2 (Şymkent)     2   1  1  0  11- 1   4
+ 4.Qarşyğa (Almaty)         2   1  0  1   6- 4   3  [N]
+ 5.Talas (Qaratau)          2   1  0  1   2- 2   3
+ 6.Jas Qyran (Almaty)       2   1  0  1   3- 4   3
+ 7.FK Atyrau-2              2   1  0  1   1- 3   3
+ 8.Qaisar-2 (Qyzylorda)     2   0  1  1   1- 2   1
+ 9.Tūran-2 (Türkıstan)      2   0  0  2   3- 7   0
+10.Han Täñırı-2 (Almaty)    2   0  0  2   3-14   0  [N]
 
-Round 2 [Apr 13]
-Turan-2       -  Jas Qyran
-Atyrau-2      -  Talas
-Qaisar-2      -  Ordabasy-2
-Qarsyga       -  Taraz-2
-Han Taniri-2  -  Hromtau
-Altai-2       -  VPR
-Ertis-2       -  Ansat
-Qyzyljar-2    -  Oqjetpes-2
-Jenis-2       -  Ulytau-2
-Jetisu-2      -  Sahtor-2
+Top scorers:
+
+1.Baqdiär Äben (Ordabasy-2)       3
+2.Geisar Alekperzade (Ūlytau-2)   2
+  Janälı Esenäliev (Ordabasy-2)   2
+  Maxim Gamaiünov (Ordabasy-2)    2
+  Sanjar Kemelbek (Taraz-2)       2
+  Maxim Komikov (Şahtör-2)        2
+  Pavel Krivencev (Qarşyğa)       2
+  İliä Krugläkov (Ansat)          2
+  Ashat Mūqyşev (Hromtau)         2
+  Daniär Nädır (Tūran-2)          2
+  Gleb Oleinik (Şahtör-2)         2
+  Däulet Qūdaibergenov (Jeñıs-2)  2
+  Sūltan Şymyrhan (Şahtör-2)      2
+  Änuar Tölepbergen (Hromtau)     2
 
 Round 3 [Apr 20]
 Turan-2       -  Han Taniri-2

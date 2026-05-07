@@ -1,0 +1,6 @@
+tablesk/kaz2025                 :  2025
+tablesk/kazchamp                :  list of champions
+tablesk/kaz2champ               :  list of 2nd level champions
+tablesk/kazcuphist              :  list of cup winners
+tablesk/kazsupcuphist           :  list of super cup winners
+tablesk/kaztops                 :  list of topscorers

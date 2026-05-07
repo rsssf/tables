@@ -2,7 +2,7 @@
      title:   Switzerland 2025/26
      source:  https://rsssf.org/tablesz/zwit2026.html
      author:  Erik Garin
-     updated: 3 Mar 2026    
+     updated: 3 Mar 2026
     -->
 
 

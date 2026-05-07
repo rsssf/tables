@@ -1,6 +1,13 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="champ">Champions Group</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="chall">Challenge Group</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="shield">Senior Shield</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="fac">FA Cup</a><
 -- removing nav(igation) section:
 
 ‹Hong Kong Premier League, see §first›
+‹Cup Tournaments, see §cups›
 
 
 -- removing nav(igation) section:
@@ -19,3 +26,12 @@
 
 ‹list of foundation dates, see page hkfound›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+-- removing 1 leading nav line(s) in section 5:
+‹Champions Group, see §champ› | ‹Challenge Group, see §chall›
+
+-- removing 1 leading nav line(s) in section 8:
+‹Senior Shield, see §shield› | ‹FA Cup, see §fac›

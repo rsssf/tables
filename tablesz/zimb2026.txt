@@ -2,7 +2,7 @@
      title:   Zimbabwe 2026
      source:  https://rsssf.org/tablesz/zimb2026.html
      author:  Karel Stokkermans
-     updated: 24 Mar 2026    
+     updated: 24 Mar 2026
     -->
 
 

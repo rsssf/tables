@@ -1,0 +1,8 @@
+tablesf/far2025                 :  2025
+tablesf/farchamp                :  list of champions
+tablesf/farhist                 :  list of final tables
+tablesf/faralltime              :  all-time table
+tablesf/far2alltime             :  2nd level all-time table
+tablesf/farcuphist              :  list of cup winners
+tablesf/farsupcuphist           :  list of super cup winners
+tablesf/fartops                 :  list of topscorers

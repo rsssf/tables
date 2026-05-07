@@ -1,0 +1,3 @@
+tablesl/leso2025                :  2024/25
+tablesl/lesochamp               :  list of champions
+tablesl/lesocuphist             :  list of cup winners

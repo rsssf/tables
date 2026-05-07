@@ -1,0 +1,4 @@
+tablesa/abchaz2025              :  2025
+tablesa/abchazchamp             :  list of champions
+tablesa/abchazcuphist           :  list of cup winners
+tablesa/abchazsupcuphist        :  list of super cup winners
