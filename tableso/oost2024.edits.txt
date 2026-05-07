@@ -40,3 +40,12 @@
 
 ‹list of foundation dates, see page oostfound›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+-- removing 1 leading nav line(s) in section 5:
+‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
+
+-- removing 1 leading nav line(s) in section 11:
+‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›

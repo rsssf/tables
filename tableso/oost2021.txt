@@ -14,7 +14,6 @@
 
 ==== Bundesliga  ‹§bund›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 ===== Regular Stage  ‹§reg›
 
@@ -276,7 +275,6 @@ Final Table:
 
 ===== Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
 ====== Championship Playoff  ‹§champ›
 

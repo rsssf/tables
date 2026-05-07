@@ -14,7 +14,6 @@
 
 ==== Bundesliga  ‹§bund›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 ===== Regular Stage  ‹§reg›
 
@@ -276,7 +275,6 @@ NB: Austria Wien 3 points deducted
 
 ===== Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
 ====== Championship Playoff  ‹§champ›
 
@@ -1044,7 +1042,6 @@ Final Table:
 
 ==== Regionalliga  ‹§regliga›
 
-‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 ===== Regionalliga West  ‹§regwest›
 
