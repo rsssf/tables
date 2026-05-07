@@ -1,3 +1,23 @@
+-- removing custom section with title >Index of groups<:
+
+=== Index of groups
+
+<ul>
+<li>‹Group A, see §grpa›
+<li>‹Group B, see §grpb›
+<li>‹Group C, see §grpc›
+<li>‹Group D, see §grpd›
+<li>‹Group E, see §grpe›
+<li>‹Group F, see §grpf›
+<li>‹Group G, see §grpg›
+<li>‹Group H, see §grph›
+<li>‹Group I, see §grpi›
+<li>‹Group J, see §grpj›
+<li>‹UEFA Nations League Playoffs, see §nlpo›
+<li>‹Final Tournament, see §fin›
+</ul>
+
+
 -- removing nav(igation) section:
 
 ‹European Championship Overview File, see page ../tablese/eurochamp›

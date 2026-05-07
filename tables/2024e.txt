@@ -2,32 +2,11 @@
      title:   European Championship 2024
      source:  https://rsssf.org/tables/2024e.html
      author:  Roberto Di Maggio
-     updated: 28 Oct 2024    
+     updated: 28 Oct 2024
     -->
 
 
 == European Championship 2024
-
-
-
-
-
-=== Index of groups
-
-<ul>
-<li>‹Group A, see §grpa›
-<li>‹Group B, see §grpb›
-<li>‹Group C, see §grpc›
-<li>‹Group D, see §grpd›
-<li>‹Group E, see §grpe›
-<li>‹Group F, see §grpf›
-<li>‹Group G, see §grpg›
-<li>‹Group H, see §grph›
-<li>‹Group I, see §grpi›
-<li>‹Group J, see §grpj›
-<li>‹UEFA Nations League Playoffs, see §nlpo›
-<li>‹Final Tournament, see §fin›
-</ul>
 
 
 

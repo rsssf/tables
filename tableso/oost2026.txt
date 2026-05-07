@@ -2,7 +2,7 @@
      title:   Austria 2025/26
      source:  https://rsssf.org/tableso/oost2026.html
      author:  Hans Schöggl
-     updated: 24 Mar 2026
+     updated: 2 May 2026
     -->
 
 
@@ -14,7 +14,6 @@
 
 ==== Bundesliga  ‹§bund›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 ===== Regular Stage  ‹§reg›
 
@@ -271,7 +270,6 @@ Final Table:
 
 ===== Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
 ====== Championship Playoff  ‹§champ›
 
@@ -445,6 +443,7 @@ FC Red Bull Salzburg                0-1 SCR Altach
 [Mar 18]
 SV Ried                             1-2 LASK                                [aet]
 
-Final [May 1, Klagenfurt]
-SCR Altach                           -  LASK
+Final [May 1, Klagenfurt; att: 22,000]
+SCR Altach                          2-4 LASK                                [aet]
+  [Greil 5, Demaku 30; Usor 10, Adeniran 66, 103, Bello 101]
 

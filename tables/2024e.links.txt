@@ -1,0 +1,6 @@
+tables/2023uefanl§lga           :  League A
+tables/2023uefanl§lgb           :  League B
+tables/2023uefanl§lgc           :  League C
+tables/2023uefanl§lgd           :  League D
+tablese/eurochamp               :  European Championship Overview File
+tables/2020e                    :  2021

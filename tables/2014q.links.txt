@@ -1,0 +1,4 @@
+tables/2012oc                   :  2012 OFC Nations Cup
+tables/2012oc                   :  2012 OFC Nations Cup
+tablesw/worldcup                :  Overview File
+tables/2014f                    :  2014 Final Tournament

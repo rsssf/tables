@@ -2,21 +2,15 @@
      title:   World Cup 2014 Qualifying
      source:  https://rsssf.org/tables/2014q.html
      authors: Karel Stokkermans, Juan Pablo Andrés and Erik Francisco Lugo
-     updated: 1 Feb 2023    
+     updated: 1 Feb 2023
     -->
 
 
 == World Cup 2014 Qualifying
 
-<MENU>
-  <UL>
-    <LI>‹Europe, see §eur›
-    <LI>‹South America, see §sam›
-    <LI>‹Africa, see §afr›
-    <LI>‹Asia, see §asi›
-    <LI>‹North and Central America, see §nca›
-    <LI>‹Oceania, see §oce›
-</LI></UL></MENU>
+
+  
+
 
 
 
@@ -1376,7 +1370,5 @@ CONCACAF/OFC Playoff
 
 NB: Mexico qualified.
 
-‹Overview File, see page ../tablesw/worldcup›
 
-‹2014 Final Tournament, see page 2014f›
 
