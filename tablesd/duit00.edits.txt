@@ -1,0 +1,24 @@
+-- removing 23 trailing nav line(s) in last section 2:
+‹1998/99, see page duit99›
+‹1999/00 details first level, see page duit00-det›
+‹1999/00 details second level, see page duit2-00-det›
+‹1999/00 (4th level), see page duit4-00›
+‹2000/01, see page duit01›
+‹list of champions, see page duitchamp›
+‹all-time table, see page duialltime›
+‹list of 2nd level champions, see page duit2champ›
+‹list of amateur champions, see page duitamachamp›
+‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
+‹oberliga nord 1945-1963, see page duit-ol-nord4563›
+‹oberliga süd 1945-1963, see page duit-ol-sued4563›
+‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
+‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
+‹oberliga west 1945-1963, see page duit-ol-west4563›
+‹regionalliga nord 63-74, see page dui3nordhist›
+‹regionalliga süd 63-74, see page dui3suedhist›
+‹regionalliga west 63-74, see page dui3westhist›
+‹list of cup finals, see page duitcuphist›
+‹list of super and league cup finals, see page duitsupcuphist›
+‹list of topscorers, see page duittops›
+‹list of 2nd level topscorers, see page duit2tops›
+‹list of foundation dates, see page duitfound›
