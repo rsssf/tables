@@ -1,0 +1,9 @@
+-- removing 8 trailing nav line(s) in last section 2:
+‹2001/02, see page mex02›.
+‹2003/04, see page mex04›.
+‹list of champions, see page mexchamp›.
+‹list of final tables, see page mexhist›.
+‹list of divisional movements, see page mexall›.
+‹list of cup winners, see page mexcuphist›.
+‹list of super cup winners, see page mexsupcup›.
+‹list of topscorers, see page mextops›.

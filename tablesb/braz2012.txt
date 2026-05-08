@@ -2,7 +2,7 @@
      title:   Brazil 2012
      source:  https://rsssf.org/tablesb/braz2012.html
      author:  RSSSF Brazil
-     updated: 7 Jun 2013    
+     updated: 7 Jun 2013
     -->
 
 

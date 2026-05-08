@@ -116,3 +116,12 @@
 -- found u-enclosed line >04 May 1994< - heading?
 -- found u-enclosed line >07 May 1994< - heading?
 -- found u-enclosed line >08 May 1994< - heading?
+-- removing 8 trailing nav line(s) in last section 2:
+‹1992/93, see page eng93›.
+‹1994/95, see page eng95›.
+‹list of champions, see page engchamp›.
+‹list of 2nd division champions, see page eng2champ›.
+‹list of full tables, see page ../engpaul/FLA/league›.
+‹list of divisional movements, see page engall›.
+‹list of cup winners, see page engcuphist›.
+‹list of league cup winners, see page engleagcuphist›.

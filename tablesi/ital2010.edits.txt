@@ -68,3 +68,19 @@
 
 ‹list of 3rd division topscorers, see page ital3tops›.
 
+
+-- removing 1 leading nav line(s) in section 6:
+‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2rel›
+
+-- removing 2 leading nav line(s) in section 9:
+‹Gruppo A, see §3a› | ‹Gruppo B, see §3b›
+‹Super Cup Prima Divisione, see §3sup› | ‹Promotion Playoff, see §3prom› | ‹Relegation Playoff, see §3rel›
+
+-- removing 2 leading nav line(s) in section 15:
+‹Gruppo A, see §4a› | ‹Gruppo B, see §4b› | ‹Gruppo C, see §4c›
+‹Super Cup Seconda Divisione, see §4sup› | ‹Promotion Playoff, see §4prom› | ‹Relegation Playoff, see §4rel›
+
+-- removing 3 leading nav line(s) in section 22:
+‹Gruppo A, see §5a› | ‹Gruppo B, see §5b› | ‹Gruppo C, see §5c› | ‹Gruppo D, see §5d› | ‹Gruppo E, see §5e› |
+‹Gruppo F, see §5f› | ‹Gruppo G, see §5g› | ‹Gruppo H, see §5h› | ‹Gruppo I, see §5i› |
+‹Amateur Championship, see §5champ› | ‹Promotion Playoff, see §5prom› | ‹Relegation Playoff, see §5rel›

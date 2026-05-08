@@ -1,0 +1,4 @@
+tablesb/braz80                  :  1980
+tablesb/braz82                  :  1982
+tablesb/brazchamp               :  list of champions
+tablesb/braz2champ              :  list of 2nd division champions

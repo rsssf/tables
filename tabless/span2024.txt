@@ -2,7 +2,7 @@
      title:   Spain 2023/24
      source:  https://rsssf.org/tabless/span2024.html
      author:  Karel Stokkermans
-     updated: 11 Oct 2024    
+     updated: 11 Oct 2024
     -->
 
 
@@ -721,7 +721,7 @@ Final Table:
 21.FC Andorra                    42  11 10 21  33-53  43       Relegated
 22.Villarreal CF B               42  11 10 21  41-62  43       Relegated
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -752,9 +752,8 @@ Espanyol                  2-0 Oviedo
 
 ==== Primera RFEF  ‹§1rfef›
 
-‹Grupo 1, see §3g1› | ‹Grupo 2, see §3g2› | ‹Final, see §3gf› | ‹Promotion Playoff, see §3gp›
 
-Grupo 1  ‹§3g1›
+===== Grupo 1  ‹§3g1›
 
 Final Table:
 
@@ -782,7 +781,7 @@ Final Table:
 19.SD Logroñés                   38   9  8 21  27-55  35       Relegated
 20.CF Rayo Majadahonda           38   5 15 18  28-53  27  [-3] Relegated
 
-Grupo 2  ‹§3g2›
+===== Grupo 2  ‹§3g2›
 
 Final Table:
 
@@ -810,7 +809,7 @@ Final Table:
 19.CD Atlético Baleares (Palma)  38   7  8 23  23-59  29       Relegated
 20.CR Granada                    38   7  6 25  30-56  27  [P]  Relegated
 
-Final  ‹§3gf›
+===== Final  ‹§3gf›
 
 First Leg [May 29]
 Deportivo (La Coruña)     2-1 Castellón
@@ -818,7 +817,7 @@ Deportivo (La Coruña)     2-1 Castellón
 Second Leg [Jun 2]
 Castellón                 2-4 Deportivo (La Coruña)
 
-Promotion Playoff  ‹§3gp›
+===== Promotion Playoff  ‹§3gp›
 
 Round 1
 

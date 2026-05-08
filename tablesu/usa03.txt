@@ -2,7 +2,7 @@
      title:   USA 2003
      source:  https://rsssf.org/tablesu/usa03.html
      authors: Ian King and David A. Litterer
-     updated: 11 Sep 2019    
+     updated: 11 Sep 2019
     -->
 
 

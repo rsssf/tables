@@ -41,3 +41,18 @@
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
+
+-- removing 1 leading nav line(s) in section 4:
+‹FA Cup, see §facup› | ‹League Cup, see §leaguecup› | ‹Football League Trophy, see §assmemb›
+
+-- removing 1 leading nav line(s) in section 8:
+‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
+
+-- removing 1 leading nav line(s) in section 11:
+‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
+
+-- removing 1 leading nav line(s) in section 14:
+‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
+
+-- removing 1 leading nav line(s) in section 17:
+‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›

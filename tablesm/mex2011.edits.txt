@@ -1,3 +1,22 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1aper">Apertura 2010</a><
+-- found b-enclosed line >Copa Libertadores 2011 qualification< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="1clau">Clausura 2011</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2aper">Apertura 2010</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2aperreg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2aperplay">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2clau">Clausura 2011</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2claureg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2clauplay">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2releg">Relegation Table</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="premiera">Liga Premier de Ascenso</a><
+-- found u-enclosed line >Independencia 2010 (Apertura)< - heading?
+-- found u-enclosed line >Revolución 2011 (Clausura)< - heading?
+-- found u-enclosed line >Championship Playoff< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="asctalent">Liga de Ascenso de Nuevos Talentos</a><
+-- found u-enclosed line >Independencia 2010 (Apertura)< - heading?
+-- found u-enclosed line >Revolución 2011 (Clausura)< - heading?
+-- found u-enclosed line >Championship Playoff< - heading?
 -- removing nav(igation) section:
 
 ‹Primera División Nacional, see §pdn›
@@ -24,3 +43,21 @@
 
 ‹list of topscorers, see page mextops›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Apertura 2010, see §1aper› | ‹Clausura 2011, see §1clau›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
+
+-- removing 1 leading nav line(s) in section 5:
+‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
+
+-- removing 1 leading nav line(s) in section 6:
+‹Apertura 2010, see §2aper› | ‹Clausura 2011, see §2clau› | ‹Promotion Playoff, see §2prom› | ‹Relegation Table, see §2releg›
+
+-- removing 1 leading nav line(s) in section 10:
+‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
+
+-- removing 1 leading nav line(s) in section 15:
+‹Liga Premier de Ascenso, see §premiera› | ‹Liga de Ascenso de Nuevos Talentos, see §asctalent›

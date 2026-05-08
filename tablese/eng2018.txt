@@ -14,7 +14,6 @@
 
 ==== Premier League  ‹§premier›
 
-‹Premier League 2017/18 Match Details, see page eng2018det›
 
 Final Table:
 
@@ -634,7 +633,6 @@ Final Table:
 
 ==== Cup Tournaments  ‹§cups›
 
-‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
 ===== FA Cup  ‹§facup›
 
@@ -986,7 +984,6 @@ Manchester City         3-0 Arsenal
 
 ==== Championship  ‹§champ›
 
-‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 ===== Regular Stage  ‹§2reg›
 
@@ -1046,7 +1043,6 @@ Fulham        1-0 Aston Villa
 
 ==== Division 1  ‹§first›
 
-‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 ===== Regular Stage  ‹§3reg›
 
@@ -1106,7 +1102,6 @@ Shrewsbury    1-2 Rotherham     [aet]
 
 ==== Division 2  ‹§second›
 
-‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 ===== Regular Stage  ‹§4reg›
 
@@ -1164,7 +1159,6 @@ Exeter        1-3 Coventry
 
 ==== National League  ‹§conf›
 
-‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 ===== Regular Stage  ‹§5reg›
 

@@ -2,7 +2,7 @@
      title:   Spain 2010/11
      source:  https://rsssf.org/tabless/span2011.html
      author:  Anthony Zea
-     updated: 25 Mar 2024    
+     updated: 25 Mar 2024
     -->
 
 
@@ -2734,7 +2734,7 @@ Topscorers
 20 Emiliano Armenteros          - Rayo
 
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -2767,9 +2767,8 @@ NB: Granada CF promoted
 
 ==== Segunda División B  ‹§segundb›
 
-‹Grupo I, see §2b1› | ‹Grupo II, see §2b2› | ‹Grupo III, see §2b3› | ‹Grupo IV, see §2b4› |
 
-Grupo I  ‹§2b1›
+===== Grupo I  ‹§2b1›
 
 Final Table:
 
@@ -3671,7 +3670,7 @@ Topscorers:
 11 Juan Belencoso               - Conquense
 11 Rubén Rivera                 - Montañeros (9)-Cultural (2)
 
-Grupo II  ‹§2b2›
+===== Grupo II  ‹§2b2›
 
 Final Table:
 
@@ -4556,7 +4555,7 @@ Topscorers:
 12 "Jito" Juan Silvestre        - Alavés
 12 Alejandro Suárez             - Palencia
 
-Grupo III  ‹§2b3›
+===== Grupo III  ‹§2b3›
 
 Final Table:
 
@@ -5447,7 +5446,7 @@ Topscorers:
 12 Thierry Taulemesse           - Orihuela
 11 Raul Fabiani                 - Alcoyano (10)-Mahones (1)
 
-Grupo IV  ‹§2b4›
+===== Grupo IV  ‹§2b4›
 
 Final Table:
 

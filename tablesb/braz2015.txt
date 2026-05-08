@@ -2,7 +2,7 @@
      title:   Brazil 2015
      source:  https://rsssf.org/tablesb/braz2015.html
      author:  RSSSF Brazil
-     updated: 29 Dec 2021    
+     updated: 29 Dec 2021
     -->
 
 

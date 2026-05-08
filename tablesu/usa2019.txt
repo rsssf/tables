@@ -2,7 +2,7 @@
      title:   USA 2019
      source:  https://rsssf.org/tablesu/usa2019.html
      author:  Karel Stokkermans
-     updated: 12 Mar 2020    
+     updated: 12 Mar 2020
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
-Regular Season  ‹§reg›
+===== Regular Season  ‹§reg›
 
 NB: FC Cincinnati were admitted
 
@@ -642,9 +641,9 @@ Western Conference
 12.Vancouver Whitecaps        34   8 10 16  37-59  34
 
 
-Championship Playoff  ‹§play›
+===== Championship Playoff  ‹§play›
 
-Conference Quarterfinals  ‹§cqf›
+====== Conference Quarterfinals  ‹§cqf›
 
 Eastern Conference
 [Oct 19]
@@ -662,7 +661,7 @@ Real Salt Lake         2-1 Portland Timbers
 Minnesota United FC    1-2 Los Angeles Galaxy
 Los Angeles FC         bye
 
-Conference Semifinals  ‹§csf›
+====== Conference Semifinals  ‹§csf›
 
 Eastern Conference
 [Oct 23]

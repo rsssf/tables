@@ -2,7 +2,7 @@
      title:   USA 2013
      source:  https://rsssf.org/tablesu/usa2013.html
      author:  Karel Stokkermans
-     updated: 25 Feb 2021    
+     updated: 25 Feb 2021
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
-Regular Season  ‹§reg›
+===== Regular Season  ‹§reg›
 
 Final Tables:
 
@@ -537,9 +536,9 @@ Western Conference
  9.Chivas USA                 34   6  8 20  30-67  26
 
 
-Championship Playoff  ‹§play›
+===== Championship Playoff  ‹§play›
 
-Wild Card Games  ‹§wcard›
+====== Wild Card Games  ‹§wcard›
 
 [Oct 30]
 Seattle Sounders       2-0 Colorado Rapids
@@ -549,7 +548,7 @@ Houston Dynamo         3-0 Montreal Impact
 NB: Houston Dynamo enter ‹Eastern Semifinals, see §esemi›;
     Seattle Sounders enter ‹Western Semifinals, see §wsemi›
 
-Eastern Semifinals  ‹§esemi›
+====== Eastern Semifinals  ‹§esemi›
 
 First Legs
 [Nov 2]
@@ -562,7 +561,7 @@ Second Legs
 New York Red Bulls     1-2 Houston Dynamo         [aet]
 Sporting Kansas City   3-1 New England Revolution [aet]
 
-Eastern Conference Final  ‹§efinal›
+====== Eastern Conference Final  ‹§efinal›
 
 First Leg [Nov 9]
 Houston Dynamo         0-0 Sporting Kansas City
@@ -570,7 +569,7 @@ Houston Dynamo         0-0 Sporting Kansas City
 Second Leg [Nov 23]
 Sporting Kansas City   2-1 Houston Dynamo
 
-Western Semifinals  ‹§wsemi›
+====== Western Semifinals  ‹§wsemi›
 
 First Legs
 [Nov 2]
@@ -582,7 +581,7 @@ Second Legs [Nov 7]
 Real Salt Lake         2-0 Los Angeles Galaxy
 Portland Timbers       3-2 Seattle Sounders
 
-Western Conference Final  ‹§wfinal›
+====== Western Conference Final  ‹§wfinal›
 
 First Leg [Nov 10]
 Real Salt Lake         4-2 Portland Timbers
@@ -590,7 +589,7 @@ Real Salt Lake         4-2 Portland Timbers
 Second Leg [Nov 24]
 Portland Timbers       0-1 Real Salt Lake
 
-MLS Cup 2013  ‹§mlscup›
+====== MLS Cup 2013  ‹§mlscup›
 
 [Dec 7]
 Sporting Kansas City   1-1 Real Salt Lake         [aet, 7-6 pen]

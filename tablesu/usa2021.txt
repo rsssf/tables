@@ -2,7 +2,7 @@
      title:   USA 2021
      source:  https://rsssf.org/tablesu/usa2021.html
      author:  Karel Stokkermans
-     updated: 30 Jun 2022    
+     updated: 30 Jun 2022
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
-Regular Season  ‹§reg›
+===== Regular Season  ‹§reg›
 
 NB: Austin FC were admitted
 
@@ -757,9 +756,9 @@ Western Conference
 12.Austin FC                  34   9  4 21  35-56  31  [N]
 13.Houston Dynamo             34   6 12 16  36-54  30
 
-Championship Playoff  ‹§chplay›
+===== Championship Playoff  ‹§chplay›
 
-Conference Quarterfinals  ‹§cqf›
+====== Conference Quarterfinals  ‹§cqf›
 
 Eastern Conference
 [Nov 20]
@@ -779,7 +778,7 @@ Portland Timbers       3-1 Minnesota United FC
 Seattle Sounders       0-0 Real Salt Lake         [aet, 5-6 pen]
 Colorado Rapids        bye
 
-Conference Semifinals  ‹§csf›
+====== Conference Semifinals  ‹§csf›
 
 Eastern Conference
 [Nov 28]

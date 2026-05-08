@@ -1,0 +1,5 @@
+tablesb/braz2023                :  2023
+tablesb/braz2025                :  2025
+tablesb/brazchamp               :  list of champions
+tablesb/braz2champ              :  list of 2nd division champions
+tablesb/brazcuphist             :  list of cup winners

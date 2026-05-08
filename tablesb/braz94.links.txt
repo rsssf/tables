@@ -1,0 +1,4 @@
+tablesb/braz93                  :  1993
+tablesb/braz95                  :  1995
+tablesb/brazchamp               :  list of champions
+tablesb/braz2champ              :  list of 2nd division champions

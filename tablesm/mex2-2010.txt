@@ -2,7 +2,7 @@
      title:   Mexico 2009/10
      source:  https://rsssf.org/tablesm/mex2-2010.html
      authors: Erik Francisco Lugo and Juan Pablo Andrés
-     updated: 28 Dec 2023    
+     updated: 28 Dec 2023
     -->
 
 
@@ -14,11 +14,9 @@
 
 ==== Primera División Nacional  ‹§pdn›
 
-‹Apertura 2009, see §1aper› | ‹Clausura 2010, see §1clau› | ‹Tabla Anual 2009/10, see §1agg›
 
-Apertura 2009  ‹§1aper›
+===== Apertura 2009  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 Regular Stage  ‹§apreg›
 
@@ -556,7 +554,7 @@ Cruz Azul         1-2 Monterrey
   [Alejandro Castro 77; Aldo de Nigris 54, Humberto Andrés Suazo 90]
 
 
-Clausura 2010  ‹§1clau›
+===== Clausura 2010  ‹§1clau›
 
 NB: official name Torneo Bicentenario 2010, celebrating the 200th
     anniversary of the start of the Independence War against Spain
@@ -1101,7 +1099,7 @@ Toluca            0-0 Santos            [aet, 4-3 pen]
 
 
 
-Tabla Anual 2009/10  ‹§1agg›
+===== Tabla Anual 2009/10  ‹§1agg›
 
  1.Monterrey                           34  19  9  6  57-31  66
  2.Toluca                              34  19  8  7  59-34  65
@@ -1202,9 +1200,8 @@ NB: winners semifinals qualify for Copa Libertadores 2010
 
 ==== Liga de Ascenso  ‹§ascenso›
 
-‹Apertura 2009, see §2aper› | ‹Clausura 2010, see §2clau› | ‹Relegation Table, see §2releg›
 
-Apertura 2009  ‹§2aper›
+===== Apertura 2009  ‹§2aper›
 
 Changes before season:
 Petroleros de Salamanca change name to La Piedad
@@ -1217,7 +1214,7 @@ and Merida FC (promoted from Third Level 2008-09) were disolved.
 
 ‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-Regular Stage  ‹§2aperreg›
+====== Regular Stage  ‹§2aperreg›
 
 Final Table:
 
@@ -1517,7 +1514,7 @@ NB: All clubs are "certified clubs";
 Topscorer
 Oscar Gonzalez       Irapuato     9
 
-Playoff Stage  ‹§2aperplay›
+====== Playoff Stage  ‹§2aperplay›
 
 Quarterfinals
 
@@ -1594,11 +1591,10 @@ Nelson Maz (URU)    Necaxa        8
 
 
 
-Clausura 2010  ‹§2clau›
+===== Clausura 2010  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
-Regular Stage  ‹§2claureg›
+====== Regular Stage  ‹§2claureg›
 
 Final Table:
 
@@ -1896,7 +1892,7 @@ Oscar Gonzalez            Irapuato  11
 Juan Manuel Cavallo (ARG) Albinegros 9
 Raul Enriquez             Tijuana    9
 
-Playoff Stage  ‹§2clauplay›
+====== Playoff Stage  ‹§2clauplay›
 
 Quarterfinals
 
@@ -1960,7 +1956,7 @@ Necaxa win both Apertura and Clausura tournament and are promoted.
 
 
 
-Relegation Table  ‹§2releg›
+===== Relegation Table  ‹§2releg›
 
                         Games 2007-08 2008-09 2009-10    Pts Avg
 León                       98    73      58      55      186 1,8980
@@ -1991,9 +1987,8 @@ NB: Guerreros de Hermosillo eventually allowed to remain at 2nd level
 
 ==== Liga Premier de Ascenso and Liga de Ascenso de Nuevos Talentos  ‹§ascenso2›
 
-‹Liga Premier de Ascenso, see §premiera› | ‹Liga de Ascenso de Nuevos Talentos, see §asctalent›
 
-Liga Premier de Ascenso  ‹§premiera›
+===== Liga Premier de Ascenso  ‹§premiera›
 
 NB: At the beginning of the season America Coapa (promoted from Liga de
     Nuevos Talentos 2008-09) bought CFS Manzanillo license and form
@@ -2191,7 +2186,7 @@ Cuautitlán relegated to Liga de Ascenso de Nuevos Talentos, later revoked by Me
 FC Excelsior relegated to Fourth Level, later revoked by Mexican FA
 
 
-Liga de Ascenso de Nuevos Talentos  ‹§asctalent›
+===== Liga de Ascenso de Nuevos Talentos  ‹§asctalent›
 
 Apertura 2009
 

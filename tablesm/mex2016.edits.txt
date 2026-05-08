@@ -1,3 +1,16 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1aper">Apertura 2015</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1clau">Clausura 2016</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="copagrp">Group Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="copaplay">Playoff Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="copacgrp">Group Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="copacplay">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2aper">Apertura 2015</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2aperreg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2aperplay">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2clau">Clausura 2016</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2claureg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2clauplay">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prom">Promotion Playoff</a><
 -- removing nav(igation) section:
 
 ‹Liga MX, see §pdn›
@@ -26,3 +39,24 @@
 
 ‹list of topscorers, see page mextops›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Apertura 2015, see §1aper› | ‹Clausura 2016, see §1clau›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
+
+-- removing 1 leading nav line(s) in section 5:
+‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
+
+-- removing 1 leading nav line(s) in section 6:
+‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
+
+-- removing 1 leading nav line(s) in section 9:
+‹Group Stage, see §copacgrp› | ‹Playoff Stage, see §copacplay›
+
+-- removing 1 leading nav line(s) in section 14:
+‹Apertura 2015, see §2aper› | ‹Clausura 2016, see §2clau› | ‹Promotion Playoff, see §2prom›
+
+-- removing 1 leading nav line(s) in section 18:
+‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›

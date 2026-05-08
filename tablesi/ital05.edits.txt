@@ -1,0 +1,16 @@
+-- removing 15 trailing nav line(s) in last section 2:
+‹2003/04 (first four levels), see page ital04›.
+‹2003/04 (fifth level), see page ital5-04›.
+‹2004/05 (second level), see page ital2-05›.
+‹2004/05 (third level), see page ital3-05›.
+‹2004/05 (fourth level), see page ital4-05›.
+‹2004/05 (fifth level), see page ital5-05›.
+‹2005/06, see page ital06›.
+‹list of champions, see page italchamp›.
+‹list of 2nd division champions, see page ital2champ›.
+‹list of 3rd division champions, see page ital3champ›.
+‹list of final tables, see page italhist›.
+‹list of cup winners, see page italcuphist›.
+‹list of topscorers, see page italtops›.
+‹list of 2nd division topscorers, see page ital2tops›.
+‹list of 3rd division topscorers, see page ital3tops›.

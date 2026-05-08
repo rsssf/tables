@@ -2,7 +2,7 @@
      title:   Mexico 2015/16
      source:  https://rsssf.org/tablesm/mex2016.html
      author:  Erik Francisco Lugo
-     updated: 18 Feb 2021    
+     updated: 18 Feb 2021
     -->
 
 
@@ -15,11 +15,9 @@
 ==== Liga MX  ‹§pdn›
 
 
-‹Apertura 2015, see §1aper› | ‹Clausura 2016, see §1clau›
 
-Apertura 2015  ‹§1aper›
+===== Apertura 2015  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 Regular Stage  ‹§apreg›
 
@@ -586,9 +584,8 @@ NB: Pumas and Toluca qualified to Group Phase,
     Puebla qualified to Preliminary Round
 
 
-Clausura 2016  ‹§1clau›
+===== Clausura 2016  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 Regular Stage  ‹§clreg›
 
@@ -1170,7 +1167,6 @@ Coach: Diego Alonso (URU)
 
 ==== Copa MX Apertura 2015  ‹§copa›
 
-‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     14 teams from the Ascenso MX (second level);
@@ -1178,7 +1174,7 @@ NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     participating in the CONCACAF Champions League 2015-16.
     FC Juárez and Cimarrones from Ascenso MX also excluded.
 
-Group Stage  ‹§copagrp›
+====== Group Stage  ‹§copagrp›
 
 The Group Stage was played in 3 home/away series, with the winners of each series earning
 an additional bonus point; if the series was tied after 2 matches, the team with more away goals earn the extra point; if still tied no bonus point was awarded.
@@ -1502,7 +1498,7 @@ Group 7
  3.Puebla                               6   2  3  1   3- 5   10
  4.Celaya                               6   1  1  4   3- 9    4
 
-Playoff Stage  ‹§copaplay›
+====== Playoff Stage  ‹§copaplay›
 
 Quarterfinals
 
@@ -1596,7 +1592,6 @@ Coach: Matías Almeyda (ARG)
 
 ==== Copa MX Clausura 2016  ‹§copac›
 
-‹Group Stage, see §copacgrp› | ‹Playoff Stage, see §copacplay›
 
 NB: the Cup Tournament is played by 11 teams from the Liga MX (first level) and
     13 teams from the Ascenso MX (second level);
@@ -1605,7 +1600,7 @@ NB: the Cup Tournament is played by 11 teams from the Liga MX (first level) and
     Pumas, Toluca and Puebla also excluded because of participating in Copa Libertadores 2016
     Zacatepec S. XXI, Correcaminos UAT and Cimarrones (Ascenso MX) also excluded
 
-Group Stage  ‹§copacgrp›
+====== Group Stage  ‹§copacgrp›
 
 The Group Stage was played in 3 home/away series, with the winners of each series
 earning an additional bonus point; if the series was tied after 2 matches, the
@@ -1888,7 +1883,7 @@ Group 6
  3.Atlante                              6   1  3  2   8- 8    7
  4.Cafetaleros de Tapachula             6   0  2  4   6-12    2
 
-Playoff Stage  ‹§copacplay›
+====== Playoff Stage  ‹§copacplay›
 
 Quarterfinals
 
@@ -2018,9 +2013,8 @@ Guadalajara qualified to Preliminary Round of Copa Libertadores 2017
 
 ==== Ascenso MX  ‹§ascenso›
 
-‹Apertura 2015, see §2aper› | ‹Clausura 2016, see §2clau› | ‹Promotion Playoff, see §2prom›
 
-Apertura 2015  ‹§2aper›
+===== Apertura 2015  ‹§2aper›
 
 Changes before season:
 
@@ -2034,7 +2028,7 @@ Changes before season:
 
 ‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-Regular Stage  ‹§2aperreg›
+====== Regular Stage  ‹§2aperreg›
 
 Participants:
 
@@ -2287,7 +2281,7 @@ Final Table:
 15.Correcaminos UAT                    15   3  4  8  14-28   13
 16.Cimarrones                          15   1  5  9  13-25    8
 
-Playoff Stage  ‹§2aperplay›
+====== Playoff Stage  ‹§2aperplay›
 
 NB: Lobos BUAP bye to semifinals
 
@@ -2331,11 +2325,10 @@ FC Juárez         3-0 Atlante
 
 
 
-Clausura 2016  ‹§2clau›
+===== Clausura 2016  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
-Regular Stage  ‹§2claureg›
+====== Regular Stage  ‹§2claureg›
 
 Participants:
 
@@ -2592,7 +2585,7 @@ Final Table:
 15.Atlético San Luis                   15   2  5  8  11-20   11
 16.Cimarrones                          15   2  4  9  12-22   10
 
-Playoff Stage  ‹§2clauplay›
+====== Playoff Stage  ‹§2clauplay›
 
 NB: Leones Negros bye to semifinals
 
@@ -2634,7 +2627,7 @@ Second Leg [May 7]
 Necaxa            0-0 Mineros
 
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Championship Final
 

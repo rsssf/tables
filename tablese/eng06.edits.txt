@@ -1,0 +1,11 @@
+-- removing 10 trailing nav line(s) in last section 2:
+‹2004/05, see page eng05›.
+‹2006/07, see page eng07›.
+‹list of champions, see page engchamp›.
+‹list of 2nd division champions, see page eng2champ›.
+‹list of full tables, see page ../engpaul/FLA/league›.
+‹list of divisional movements, see page engall›.
+‹list of cup winners, see page engcuphist›.
+‹list of super cup (charity shield) winners, see page engsupcuphist›.
+‹list of league cup winners, see page engleagcuphist›.
+‹list of league trophy winners, see page engassmembcuphist›.

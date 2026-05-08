@@ -2,7 +2,7 @@
      title:   Mexico 1999/2000
      source:  https://rsssf.org/tablesm/mex00.html
      authors: José de Jesus Mora Rivera, Erik Francisco Lugo and Roberto Lahsen
-     updated: 12 May 2022    
+     updated: 12 May 2022
     -->
 
 

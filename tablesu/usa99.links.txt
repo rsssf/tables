@@ -1,0 +1,10 @@
+tablesu/usa98                   :  1998
+tablesu/usa9899                 :  1998/99
+tablesu/usa9900                 :  1999/2000
+tablesu/usa00                   :  2000
+tablesu/usachamp                :  list of professional first division champions
+tablesu/usa-allchamp            :  list of (all) league winners (leaguewise)
+tablesu/usa-overview-champ      :  list of (all) league winners (yearwise)
+tablesu/usacuphist              :  list of us open cup winners
+tablesu/usa-allcuphist          :  list of (all) cup winners
+tablesu/usaalltime              :  MLS all-time table

@@ -2,7 +2,7 @@
      title:   Spain 2022/23
      source:  https://rsssf.org/tabless/span2023.html
      author:  Karel Stokkermans
-     updated: 21 Nov 2023    
+     updated: 21 Nov 2023
     -->
 
 
@@ -715,7 +715,7 @@ Final Table:
 21.UD Ibiza                      42   7 13 22  33-66  34       Relegated
 22.CD Lugo                       42   6 13 23  27-57  31       Relegated
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -744,9 +744,8 @@ Levante                   0-1 Alavés                    [aet]
 
 ==== Primera RFEF  ‹§1rfef›
 
-‹Grupo 1, see §3g1› | ‹Grupo 2, see §3g2› | ‹Final, see §3gf› | ‹Promotion Playoff, see §3gp›
 
-Grupo 1  ‹§3g1›
+===== Grupo 1  ‹§3g1›
 
 Final Table:
 
@@ -774,7 +773,7 @@ Final Table:
 19.Pontevedra CF                 38   9  9 20  34-53  36  [P]  Relegated
 20.CF Talavera de la Reina       38   8  9 21  36-63  33       Relegated
 
-Grupo 2  ‹§3g2›
+===== Grupo 2  ‹§3g2›
 
 Final Table:
 
@@ -802,7 +801,7 @@ Final Table:
 19.CD Calahorra                  38   7 12 19  31-52  33       Relegated
 20.Athletic de Bilbao B          38   5 11 22  27-54  26       Relegated
 
-Final  ‹§3gf›
+===== Final  ‹§3gf›
 
 First Leg [Jun 3]
 Amorebieta                3-0 Racing Ferrol
@@ -810,7 +809,7 @@ Amorebieta                3-0 Racing Ferrol
 Second Leg [Jun 10]
 Racing Ferrol             2-0 Amorebieta
 
-Promotion Playoff  ‹§3gp›
+===== Promotion Playoff  ‹§3gp›
 
 Round 1
 

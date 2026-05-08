@@ -2,7 +2,7 @@
      title:   USA 2011
      source:  https://rsssf.org/tablesu/usa2011.html
      author:  Karel Stokkermans
-     updated: 24 Dec 2023    
+     updated: 24 Dec 2023
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
-Regular Season  ‹§reg›
+===== Regular Season  ‹§reg›
 
 NB: Portland Timbers and Vancouver Whitecaps were added for 2011
 
@@ -52,7 +51,7 @@ Western Conference
 NB: top-3 of both conferences qualified for conference semifinals; and 4 next best teams
     in overall table qualify for wild card game
 
-Championship Playoff  ‹§play›
+===== Championship Playoff  ‹§play›
 
 Wild Card Games  ‹§wcard›
 [Oct 26]
@@ -104,7 +103,7 @@ Los Angeles Galaxy     3-1 Real Salt Lake
 NB: Los Angeles Galaxy to ‹MLS Cup 2011, see §mlscup›
 
 
-MLS Cup 2011  ‹§mlscup›
+===== MLS Cup 2011  ‹§mlscup›
 
 [Nov 20, Home Depot Center, Carson City, California]
 Los Angeles Galaxy     1-0 Houston Dynamo

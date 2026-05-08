@@ -1,0 +1,10 @@
+tablesu/usa06                   :  2006
+tablesu/usa0607                 :  2006/07
+tablesu/usa0708                 :  2007/08
+tablesu/usa08                   :  2008
+tablesu/usachamp                :  list of professional first division champions
+tablesu/usa-allchamp            :  list of (all) league winners (leaguewise)
+tablesu/usa-overview-champ      :  list of (all) league winners (yearwise)
+tablesu/usacuphist              :  list of us open cup winners
+tablesu/usa-allcuphist          :  list of (all) cup winners
+tablesu/usaalltime              :  MLS all-time table

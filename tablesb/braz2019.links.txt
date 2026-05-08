@@ -1,0 +1,5 @@
+tablesb/braz2018                :  2018
+tablesb/braz2020                :  2020/21
+tablesb/brazchamp               :  list of champions
+tablesb/braz2champ              :  list of 2nd division champions
+tablesb/brazcuphist             :  list of cup winners

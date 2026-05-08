@@ -2,7 +2,7 @@
      title:   USA 2016
      source:  https://rsssf.org/tablesu/usa2016.html
      author:  Karel Stokkermans
-     updated: 10 Jan 2020    
+     updated: 10 Jan 2020
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
-Regular Season  ‹§reg›
+===== Regular Season  ‹§reg›
 
 Final Tables:
 
@@ -562,7 +561,7 @@ Western Conference
  9.San Jose Earthquakes       34   8 14 12  32-40  38
 10.Houston Dynamo             34   7 13 14  39-45  34
 
-Championship Playoff  ‹§play›
+===== Championship Playoff  ‹§play›
 
 Conference Quarterfinals
 [Oct 26]

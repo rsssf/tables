@@ -2,7 +2,7 @@
      title:   Brazil 2018
      source:  https://rsssf.org/tablesb/braz2018.html
      author:  RSSSF Brazil
-     updated: 8 Dec 2025    
+     updated: 8 Dec 2025
     -->
 
 

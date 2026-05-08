@@ -2,7 +2,7 @@
      title:   Spain 2013/14
      source:  https://rsssf.org/tabless/span2014.html
      author:  Karel Stokkermans
-     updated: 29 Sep 2020    
+     updated: 29 Sep 2020
     -->
 
 
@@ -868,7 +868,7 @@ NB: CD Mirandés escaped relegation as Real Murcia were demoted for financial re
 
 Promoted: CD Leganés, Albacete Balompié, Real Racing de Santander, UE Llagostera
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 

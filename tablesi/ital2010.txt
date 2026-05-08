@@ -1317,7 +1317,6 @@ ref: Bergonzi
 
 ==== Serie B  ‹§serieb›
 
-‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2rel›
 
 ===== Regular Season  ‹§2reg›
 
@@ -2267,8 +2266,6 @@ In playoff tie if both teams are at the same level of goals the tie breaker is t
 
 ==== Prima Divisione  ‹§prima›
 
-‹Gruppo A, see §3a› | ‹Gruppo B, see §3b›
-‹Super Cup Prima Divisione, see §3sup› | ‹Promotion Playoff, see §3prom› | ‹Relegation Playoff, see §3rel›
 
 ===== Gruppo A  ‹§3a›
 
@@ -3117,8 +3114,6 @@ Novara Calcio S.P.A. wins the Prima Divisione Lega Pro Supercup 2009-2010
 
 ==== Seconda Divisione  ‹§seconda›
 
-‹Gruppo A, see §4a› | ‹Gruppo B, see §4b› | ‹Gruppo C, see §4c›
-‹Super Cup Seconda Divisione, see §4sup› | ‹Promotion Playoff, see §4prom› | ‹Relegation Playoff, see §4rel›
 
 ===== Gruppo A  ‹§4a›
 
@@ -4399,9 +4394,6 @@ A.S. Lucchese Libertas 1905 S.R.L. 4-2 S.S. Juve Stabia S.P.A.
 
 ==== Serie D  ‹§seried›
 
-‹Gruppo A, see §5a› | ‹Gruppo B, see §5b› | ‹Gruppo C, see §5c› | ‹Gruppo D, see §5d› | ‹Gruppo E, see §5e› |
-‹Gruppo F, see §5f› | ‹Gruppo G, see §5g› | ‹Gruppo H, see §5h› | ‹Gruppo I, see §5i› |
-‹Amateur Championship, see §5champ› | ‹Promotion Playoff, see §5prom› | ‹Relegation Playoff, see §5rel›
 
 ===== Gruppo A  ‹§5a›
 

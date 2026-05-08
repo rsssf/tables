@@ -1,0 +1,8 @@
+tablesm/mex08                   :  2007/08
+tablesm/mex2-2010               :  2009/10
+tablesm/mexchamp                :  list of champions
+tablesm/mexhist                 :  list of final tables
+tablesm/mexall                  :  list of divisional movements
+tablesm/mexcuphist              :  list of cup winners
+tablesm/mexsupcup               :  list of super cup winners
+tablesm/mextops                 :  list of topscorers

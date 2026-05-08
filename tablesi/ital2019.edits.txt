@@ -32,3 +32,6 @@
 
 ‹list of 3rd division topscorers, see page ital3tops›.
 
+
+-- removing 1 leading nav line(s) in section 5:
+‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›

@@ -1,0 +1,8 @@
+tablesm/mex00                   :  1999/00
+tablesm/mex02                   :  2001/02
+tablesm/mexchamp                :  list of champions
+tablesm/mexhist                 :  list of final tables
+tablesm/mexall                  :  list of divisional movements
+tablesm/mexcuphist              :  list of cup winners
+tablesm/mexsupcup               :  list of super cup winners
+tablesm/mextops                 :  list of topscorers

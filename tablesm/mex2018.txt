@@ -2,7 +2,7 @@
      title:   Mexico 2017/18
      source:  https://rsssf.org/tablesm/mex2018.html
      author:  Erik Francisco Lugo
-     updated: 18 Feb 2021    
+     updated: 18 Feb 2021
     -->
 
 
@@ -15,11 +15,9 @@
 ==== Liga MX  ‹§pdn›
 
 
-‹Apertura 2017, see §1aper› | ‹Clausura 2018, see §1clau›
 
-Apertura 2017  ‹§1aper›
+===== Apertura 2017  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 Regular Stage  ‹§apreg›
 
@@ -571,9 +569,8 @@ NB: For second year in a row Mexican teams refused to enter due to
 
 
 
-Clausura 2018  ‹§1clau›
+===== Clausura 2018  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 Regular Stage  ‹§clreg›
 
@@ -1153,7 +1150,6 @@ Coach: Robert Dante Siboldi (URU)
 
 ==== Copa MX Apertura 2017  ‹§copa›
 
-‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
 NB: the Cup Tournament is played by 17 teams from the Liga MX (first level) and
     10 teams from the Ascenso MX (second level);
@@ -1161,7 +1157,7 @@ NB: the Cup Tournament is played by 17 teams from the Liga MX (first level) and
     Correcaminos UAT, Tampico Madero, Cafetaleros, Murciélagos FC, Atlético de San Luis
     and Venados FC from Ascenso MX also excluded.
 
-Group Stage  ‹§copagrp›
+====== Group Stage  ‹§copagrp›
 
 Tables:
 
@@ -1432,7 +1428,7 @@ Group 9
  3.Mineros                              4   0  0  4   3-10    0
 
 
-Playoff Stage  ‹§copaplay›
+====== Playoff Stage  ‹§copaplay›
 
 Round 0f 16
 
@@ -1545,7 +1541,6 @@ Coach: Antonio Mohamed (ARG)
 
 ==== Copa MX Clausura 2018  ‹§copac›
 
-‹Group Stage, see §copacgrp› | ‹Playoff Stage, see §copacplay›
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     13 teams from the Ascenso MX (second level);
@@ -1553,7 +1548,7 @@ NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     participating in the CONCACAF Champions League 2018;
     Leones Negros, Atlante and Potros UAEM (Ascenso MX) also excluded
 
-Group Stage  ‹§copacgrp›
+====== Group Stage  ‹§copacgrp›
 
 Tables:
 
@@ -1824,7 +1819,7 @@ Group 9
 ---------------------------------------------------------------
  3.Cimarrones                           4   2  0  2   4- 4    6
 
-Playoff Stage  ‹§copacplay›
+====== Playoff Stage  ‹§copacplay›
 
 Round of 16
 
@@ -1968,9 +1963,8 @@ Monterrey        0-1 Necaxa
 
 ==== Ascenso MX  ‹§ascenso›
 
-‹Apertura 2017, see §2aper› | ‹Clausura 2018, see §2clau› | ‹Promotion Playoff, see §2prom›
 
-Apertura 2017  ‹§2aper›
+===== Apertura 2017  ‹§2aper›
 
 Changes before season:
 
@@ -1983,7 +1977,7 @@ Changes before season:
 
 ‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-Regular Stage  ‹§2aperreg›
+====== Regular Stage  ‹§2aperreg›
 
 Participants:
 
@@ -2239,7 +2233,7 @@ Topscorer
 Player         Team      Goals
 Luis Madrigal      Alebrijes   12
 
-Playoff Stage  ‹§2aperplay›
+====== Playoff Stage  ‹§2aperplay›
 
 Quarterfinals
 
@@ -2287,11 +2281,10 @@ FC Juárez            2-1 Alebrijes            [aet; 2-4pen]
 
 
 
-Clausura 2018  ‹§2clau›
+===== Clausura 2018  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
-Regular Stage  ‹§2claureg›
+====== Regular Stage  ‹§2claureg›
 
 Participants:
 
@@ -2572,7 +2565,7 @@ Cimarrones            1.1489
 ----------------------------
 Murciélagos FC        1.0851 (relegated)
 
-Playoff Stage  ‹§2clauplay›
+====== Playoff Stage  ‹§2clauplay›
 
 Quarterfinals
 
@@ -2619,7 +2612,7 @@ Second Leg [Apr 29]
 Estadio Jalisco
 Leones Negros        2-2 Cafetaleros T
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Championship Final
 

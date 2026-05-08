@@ -1,0 +1,18 @@
+-- removing 17 trailing nav line(s) in last section 2:
+‹2006/07 (first level), see page ital07›.
+‹2007/08 (second level), see page ital2-08›.
+‹2007/08 (third level), see page ital3-08›.
+‹2007/08 (fourth level), see page ital4-08›.
+‹2007/08 (fifth level), see page ital5-08›.
+‹2007/08 (sixth level), see page ital6-08›.
+‹2007/08 (seventh level), see page ital7-08›.
+‹2008/09 (first level), see page ital09›.
+‹list of champions, see page italchamp›.
+‹list of 2nd division champions, see page ital2champ›.
+‹list of 3rd division champions, see page ital3champ›.
+‹list of final tables, see page italhist›.
+‹list of cup winners, see page italcuphist›.
+‹list of super cup winners, see page italsupcuphist›.
+‹list of topscorers, see page italtops›.
+‹list of 2nd division topscorers, see page ital2tops›.
+‹list of 3rd division topscorers, see page ital3tops›.

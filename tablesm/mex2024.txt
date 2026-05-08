@@ -2,7 +2,7 @@
      title:   Mexico 2023/24
      source:  https://rsssf.org/tablesm/mex2024.html
      author:  Erik Francisco Lugo
-     updated: 2 Dec 2024    
+     updated: 2 Dec 2024
     -->
 
 
@@ -14,11 +14,9 @@
 
 ==== Liga MX  ‹§pdn›
 
-‹Apertura 2023, see §1aper› | ‹Clausura 2024, see §1clau›
 
-Apertura 2023  ‹§1aper›
+===== Apertura 2023  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 Regular Stage  ‹§apreg›
 
@@ -625,9 +623,8 @@ Patricio Salas                          FW
 
 Coach: Andre Jardine
 
-Clausura 2024  ‹§1clau›
+===== Clausura 2024  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 Regular Stage  ‹§clreg›
 
@@ -1276,13 +1273,11 @@ América              2-1 Tigres
 
 ==== Liga Expansión MX  ‹§ascenso›
 
-‹Apertura 2023, see §2aper› | ‹Clausura 2024, see §2clau› | ‹Campeón de Campeones, see §2campcamp›
 
-Apertura 2023  ‹§2aper›
+===== Apertura 2023  ‹§2aper›
 
-‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-Regular Stage  ‹§2aperreg›
+====== Regular Stage  ‹§2aperreg›
 
 Changes before season:
 
@@ -1574,7 +1569,7 @@ Top scorer:
 Player                Team              Goals
 Luis Salvador Razo    Mineros           10
 
-Playoff Stage  ‹§2aperplay›
+====== Playoff Stage  ‹§2aperplay›
 
 Preliminary Round (Play-In) (over one leg)
 Round A
@@ -1638,11 +1633,10 @@ Estadio Andrés Quintana Roo, Cancún
 Cancún FC        3-0 Atlante
 
 
-Clausura 2024  ‹§2clau›
+===== Clausura 2024  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
-Regular Stage  ‹§2claureg›
+====== Regular Stage  ‹§2claureg›
 
 Participants:
 
@@ -1957,7 +1951,7 @@ Tlaxcala:         $75,000 USD+
 
 +Tlaxcala exonerated of the fine due its status of "guest team".
 
-Playoff Stage  ‹§2clauplay›
+====== Playoff Stage  ‹§2clauplay›
 
 Preliminary Round (Play-In) (over one leg)
 Round A
@@ -2016,7 +2010,7 @@ Second leg [May 12]
 Estadio Jalisco, Guadalajara
 Leones Negros    1-2 Atlante
 
-Campeón de Campeones  ‹§2campcamp›
+====== Campeón de Campeones  ‹§2campcamp›
 
 First leg [May 15]
 Estadio Andrés Quintana Roo, Cancún

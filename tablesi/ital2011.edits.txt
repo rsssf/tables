@@ -51,3 +51,16 @@
 
 ‹list of 3rd division topscorers, see page ital3tops›.
 
+
+-- removing 1 leading nav line(s) in section 5:
+‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
+
+-- removing 1 leading nav line(s) in section 9:
+‹Gruppo A, see §3a› | ‹Gruppo B, see §3b›
+
+-- removing 1 leading nav line(s) in section 12:
+‹Gruppo A, see §4a› | ‹Gruppo B, see §4b› | ‹Gruppo C, see §4c›
+
+-- removing 2 leading nav line(s) in section 16:
+‹Gruppo A, see §5a› | ‹Gruppo B, see §5b› | ‹Gruppo C, see §5c› | ‹Gruppo D, see §5d› | ‹Gruppo E, see §5e› |
+‹Gruppo F, see §5f› | ‹Gruppo G, see §5g› | ‹Gruppo H, see §5h› | ‹Gruppo I, see §5i› |

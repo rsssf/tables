@@ -1,0 +1,8 @@
+tablesu/usa2016                 :  2016
+tablesu/usa2018                 :  2018
+tablesu/usachamp                :  list of professional first division champions
+tablesu/usa-allchamp            :  list of (all) league winners (leaguewise)
+tablesu/usa-overview-champ      :  list of (all) league winners (yearwise)
+tablesu/usacuphist              :  list of us open cup winners
+tablesu/usa-allcuphist          :  list of (all) cup winners
+tablesu/usaalltime              :  MLS all-time table

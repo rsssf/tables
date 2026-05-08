@@ -1,3 +1,19 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1aper">Apertura 2009</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1clau">Clausura 2010</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1agg">Tabla Anual 2009/10</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2aper">Apertura 2009</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2aperreg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2aperplay">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2clau">Clausura 2010</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2claureg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2clauplay">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2releg">Relegation Table</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="premiera">Liga Premier de Ascenso</a><
+-- found u-enclosed line >Apertura 2009< - heading?
+-- found u-enclosed line >Bicentenario 2010 (Clausura)< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="asctalent">Liga de Ascenso de Nuevos Talentos</a><
+-- found u-enclosed line >Apertura 2009< - heading?
+-- found u-enclosed line >Bicentenario 2010 (Clausura)< - heading?
 -- removing nav(igation) section:
 
 ‹Primera División Nacional, see §pdn›
@@ -25,3 +41,18 @@
 
 ‹list of topscorers, see page mextops›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Apertura 2009, see §1aper› | ‹Clausura 2010, see §1clau› | ‹Tabla Anual 2009/10, see §1agg›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
+
+-- removing 1 leading nav line(s) in section 8:
+‹Apertura 2009, see §2aper› | ‹Clausura 2010, see §2clau› | ‹Relegation Table, see §2releg›
+
+-- removing 1 leading nav line(s) in section 12:
+‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
+
+-- removing 1 leading nav line(s) in section 16:
+‹Liga Premier de Ascenso, see §premiera› | ‹Liga de Ascenso de Nuevos Talentos, see §asctalent›

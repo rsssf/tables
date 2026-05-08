@@ -618,7 +618,6 @@ Final Table:
 
 ==== Cup Tournaments  ‹§cups›
 
-‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
 ===== FA Cup  ‹§facup›
 
@@ -974,7 +973,6 @@ Chelsea                 2-0 Tottenham Hotspur
 
 ==== Championship  ‹§champ›
 
-‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 ===== Regular Stage  ‹§2reg›
 
@@ -1034,7 +1032,6 @@ Norwich       2-0 Middlesbrough
 
 ==== Division 1  ‹§first›
 
-‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 ===== Regular Stage  ‹§3reg›
 
@@ -1092,7 +1089,6 @@ Preston       4-0 Swindon
 
 ==== Division 2  ‹§second›
 
-‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 ===== Regular Stage  ‹§4reg›
 
@@ -1150,7 +1146,6 @@ Wycombe       1-1 Southend      [aet, 6-7 pen]
 
 ==== Conference  ‹§conf›
 
-‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 ===== Regular Stage  ‹§5reg›
 

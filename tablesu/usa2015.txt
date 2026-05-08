@@ -2,7 +2,7 @@
      title:   USA 2015
      source:  https://rsssf.org/tablesu/usa2015.html
      authors: Ian King and Karel Stokkermans
-     updated: 10 Mar 2016    
+     updated: 10 Mar 2016
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
-Regular Season  ‹§reg›
+===== Regular Season  ‹§reg›
 
 NB: New York City FC and Orlando City SC were admitted while Chivas USA ceased operations
 
@@ -585,7 +584,7 @@ Western Conference
 10.Colorado Rapids            34   9 10 15  33-43  37
 
 
-Championship Playoff  ‹§play›
+===== Championship Playoff  ‹§play›
 
 Conference Quarterfinals
 [Oct 28]

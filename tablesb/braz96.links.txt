@@ -1,0 +1,5 @@
+tablesb/braz95                  :  1995
+tablesb/braz97                  :  1997
+tablesb/brazcup97               :  Cup 1997
+tablesb/brazchamp               :  list of champions
+tablesb/braz2champ              :  list of 2nd division champions

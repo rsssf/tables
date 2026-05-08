@@ -1,0 +1,6 @@
+tablesb/braz02                  :  2002
+tablesb/braz2-03                :  2003 (2nd level)
+tablesb/braz3-03                :  2003 (3rd level)
+tablesb/braz04                  :  2004
+tablesb/brazchamp               :  list of champions
+tablesb/braz2champ              :  list of 2nd division champions

@@ -1,0 +1,11 @@
+tablesu/usa09                   :  2009
+tablesu/usa-wom09               :  2009 (Women)
+tablesu/usa0910                 :  2009/10
+tablesu/usa2011                 :  2011
+tablesu/usa-wom2011             :  2011 (Women)
+tablesu/usachamp                :  list of professional first division champions
+tablesu/usa-allchamp            :  list of (all) league winners (leaguewise)
+tablesu/usa-overview-champ      :  list of (all) league winners (yearwise)
+tablesu/usacuphist              :  list of us open cup winners
+tablesu/usa-allcuphist          :  list of (all) cup winners
+tablesu/usaalltime              :  MLS all-time table

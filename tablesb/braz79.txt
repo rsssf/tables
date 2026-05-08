@@ -2,7 +2,7 @@
      title:   V COPA BRASIL - 1979 [Brazilian Championship]
      source:  https://rsssf.org/tablesb/braz79.html
      author:  Ricardo Pontes
-     updated: 2 Apr 2005    
+     updated: 2 Apr 2005
     -->
 
 
@@ -1989,13 +1989,9 @@ Table
 93-Chapecoense        9  0  3  6   6-16   3
 94-Guará              8  0  2  6   2-14   2
 
-‹1978, see page braz78›
 
-‹1980, see page braz80›
 
-‹list of champions, see page brazchamp›.
 
-‹list of 2nd division champions, see page braz2champ›.
 
 
 

@@ -1,0 +1,12 @@
+tabless/span2013                :  2012/13
+tabless/span2015                :  2014/15
+tabless/spanchamp               :  list of champions
+tabless/span2champ              :  list of 2nd level champions
+tabless/spancuphist             :  list of cup winners
+tabless/spansupcuphist          :  list of super cup winners
+tabless/spanleagcuphist         :  list of league cup winners
+tabless/spanrfefcuphist         :  list of copa rfef winners
+tabless/spanhist                :  list of final tables
+tabless/spanalltime             :  all-time table
+tabless/spantops                :  list of top scorers
+tabless/spanfound               :  list of foundation dates

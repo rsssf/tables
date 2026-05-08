@@ -1,0 +1,7 @@
+-- removing 6 trailing nav line(s) in last section 2:
+‹2002, see page braz02›
+‹2003 (2nd level), see page braz2-03›
+‹2003 (3rd level), see page braz3-03›
+‹2004, see page braz04›
+‹list of champions, see page brazchamp›.
+‹list of 2nd division champions, see page braz2champ›.

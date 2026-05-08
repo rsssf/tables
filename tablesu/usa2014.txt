@@ -2,7 +2,7 @@
      title:   USA 2014
      source:  https://rsssf.org/tablesu/usa2014.html
      author:  Karel Stokkermans
-     updated: 16 Jul 2015    
+     updated: 16 Jul 2015
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
-Regular Season  ‹§reg›
+===== Regular Season  ‹§reg›
 
 Final Tables:
 
@@ -561,9 +560,9 @@ Western Conference
  9.San Jose Earthquakes       34   6 12 16  35-50  30
 
 
-Championship Playoff  ‹§play›
+===== Championship Playoff  ‹§play›
 
-Wild Card Games  ‹§wcard›
+====== Wild Card Games  ‹§wcard›
 
 [Oct 29]
 FC Dallas              2-1 Vancouver Whitecaps
@@ -573,7 +572,7 @@ New York Red Bulls     2-1 Sporting Kansas City
 NB: New York Red Bulls enter ‹Eastern Semifinals, see §esemi›;
     FC Dallas enter ‹Western Semifinals, see §wsemi›
 
-Eastern Semifinals  ‹§esemi›
+====== Eastern Semifinals  ‹§esemi›
 
 First Legs
 [Nov 1]
@@ -587,7 +586,7 @@ DC United              2-1 New York Red Bulls
 [Nov 9]
 New England Revolution 3-1 Columbus Crew
 
-Eastern Conference Final  ‹§efinal›
+====== Eastern Conference Final  ‹§efinal›
 
 First Leg [Nov 23]
 New York Red Bulls     1-2 New England Revolution
@@ -595,7 +594,7 @@ New York Red Bulls     1-2 New England Revolution
 Second Leg [Nov 29]
 New England Revolution 2-2 New York Red Bulls
 
-Western Semifinals  ‹§wsemi›
+====== Western Semifinals  ‹§wsemi›
 
 First Legs
 [Nov 1]
@@ -609,7 +608,7 @@ Los Angeles Galaxy     5-0 Real Salt Lake
 [Nov 10]
 Seattle Sounders       0-0 FC Dallas
 
-Western Conference Final  ‹§wfinal›
+====== Western Conference Final  ‹§wfinal›
 
 First Leg [Nov 23]
 Los Angeles Galaxy     1-0 Seattle Sounders
@@ -617,7 +616,7 @@ Los Angeles Galaxy     1-0 Seattle Sounders
 Second Leg [Nov 30]
 Seattle Sounders       2-1 Los Angeles Galaxy
 
-MLS Cup 2013  ‹§mlscup›
+====== MLS Cup 2013  ‹§mlscup›
 
 [Dec 7]
 Los Angeles Galaxy     2-1 New England Revolution [aet]

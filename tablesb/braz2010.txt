@@ -2,7 +2,7 @@
      title:   Brazil 2010
      source:  https://rsssf.org/tablesb/braz2010.html
      author:  RSSSF Brazil
-     updated: 25 Mar 2024    
+     updated: 25 Mar 2024
     -->
 
 

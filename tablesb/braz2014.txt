@@ -2,7 +2,7 @@
      title:   Brazil 2014
      source:  https://rsssf.org/tablesb/braz2014.html
      author:  RSSSF Brazil
-     updated: 13 May 2015    
+     updated: 13 May 2015
     -->
 
 

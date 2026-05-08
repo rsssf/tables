@@ -2,7 +2,7 @@
      title:   USA 2004
      source:  https://rsssf.org/tablesu/usa04.html
      author:  Dave Litterer
-     updated: 11 Sep 2019    
+     updated: 11 Sep 2019
     -->
 
 

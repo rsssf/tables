@@ -2,7 +2,7 @@
      title:   Mexico 2011/12
      source:  https://rsssf.org/tablesm/mex2012.html
      authors: Erik Francisco Lugo and Juan Pablo Andrés
-     updated: 18 Feb 2021    
+     updated: 18 Feb 2021
     -->
 
 
@@ -14,11 +14,9 @@
 
 ==== Primera División Nacional  ‹§pdn›
 
-‹Apertura 2011, see §1aper› | ‹Clausura 2012, see §1clau›
 
-Apertura 2011  ‹§1aper›
+===== Apertura 2011  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 Regular Stage  ‹§apreg›
 
@@ -593,9 +591,8 @@ NB: Guadalajara and Cruz Azul qualified to Group Phase,
     Tigres qualified to Preliminary Round
 
 
-Clausura 2012  ‹§1clau›
+===== Clausura 2012  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 Regular Stage  ‹§clreg›
 
@@ -1173,17 +1170,15 @@ Coach: Benjamín Galindo
 
 ==== Liga de Ascenso  ‹§ascenso›
 
-‹Apertura 2011, see §2aper› | ‹Clausura 2012, see §2clau› | ‹Promotion Playoff, see §2prom›
 
-Apertura 2011  ‹§2aper›
+===== Apertura 2011  ‹§2aper›
 
-‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
 Changes before season:
 - Alacranes de Durango and Albinegros de Orizaba decline to take part.
 - Veracruz withdrew for financial problems.
 
-Regular Stage  ‹§2aperreg›
+====== Regular Stage  ‹§2aperreg›
 
 Participants:
 
@@ -1461,7 +1456,7 @@ NB: All clubs are "certified clubs";
     clubs finishing 2nd to 7th qualify to quarterfinals.
 
 
-Playoff Stage  ‹§2aperplay›
+====== Playoff Stage  ‹§2aperplay›
 
 NB: La Piedad bye to semifinals
 
@@ -1502,15 +1497,14 @@ Second Leg [Dec 10]
 La Piedad         0-1 Correcaminos UAT
 
 
-Clausura 2012  ‹§2clau›
+===== Clausura 2012  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
 Change before season:
 
 - Indios (Ciudad Juárez) withdrew
 
-Regular Stage  ‹§2claureg›
+====== Regular Stage  ‹§2claureg›
 
 
 Table:
@@ -1757,7 +1751,7 @@ Table:
 NB: winners qualify to semifinals;
     clubs finishing 2nd to 7th qualify to quarterfinals.
 
-Playoff Stage  ‹§2clauplay›
+====== Playoff Stage  ‹§2clauplay›
 
 
 León bye to Semifinals
@@ -1802,7 +1796,7 @@ León              4-0 Lobos BUAP
 
 León Clausura champions
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 
 Championship Final

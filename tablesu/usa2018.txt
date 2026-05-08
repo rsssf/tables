@@ -2,7 +2,7 @@
      title:   USA 2018
      source:  https://rsssf.org/tablesu/usa2018.html
      author:  Karel Stokkermans
-     updated: 10 Jan 2020    
+     updated: 10 Jan 2020
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
-Regular Season  ‹§reg›
+===== Regular Season  ‹§reg›
 
 NB: Los Angeles FC were admitted
 
@@ -628,7 +627,7 @@ Western Conference
 12.San Jose Earthquakes       34   4  9 21  49-71  21
 
 
-Championship Playoff  ‹§play›
+===== Championship Playoff  ‹§play›
 
 Conference Quarterfinals
 [Oct 31]

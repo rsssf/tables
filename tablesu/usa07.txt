@@ -2,7 +2,7 @@
      title:   USA 2007
      source:  https://rsssf.org/tablesu/usa07.html
      author:  David A. Litterer
-     updated: 11 Sep 2019    
+     updated: 11 Sep 2019
     -->
 
 

@@ -1,0 +1,8 @@
+tablesb/braz-joao00             :  2000
+tablesb/brazstates01            :  2001 (overview state championships)
+tablesb/brazchampcup01          :  2001 (Copa dos Campeões)
+tablesb/braz2-01                :  2001 (2nd level)
+tablesb/braz3-01                :  2001 (3rd level)
+tablesb/braz02                  :  2002
+tablesb/brazchamp               :  list of champions
+tablesb/braz2champ              :  list of 2nd division champions

@@ -2,7 +2,7 @@
      title:   USA 2022
      source:  https://rsssf.org/tablesu/usa2022.html
      author:  Karel Stokkermans
-     updated: 6 Dec 2024    
+     updated: 6 Dec 2024
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
-Regular Season  ‹§reg›
+===== Regular Season  ‹§reg›
 
 NB: Charlotte FC were admitted
 
@@ -705,9 +704,9 @@ Western Conference
 14.San Jose Earthquakes       34   8 11 15  52-69  35
 [*] Nashville SC moved from Eastern to Western Conference after admission Charlotte FC
 
-Championship Playoff  ‹§chplay›
+===== Championship Playoff  ‹§chplay›
 
-Conference Quarterfinals  ‹§cqf›
+====== Conference Quarterfinals  ‹§cqf›
 
 Eastern Conference
 [Oct 15]
@@ -727,7 +726,7 @@ Austin FC              2-2 Real Salt Lake         [3-1 pen]
 FC Dallas              1-1 Minnesota United       [5-4 pen]
 Los Angeles FC         bye
 
-Conference Semifinals  ‹§csf›
+====== Conference Semifinals  ‹§csf›
 
 Eastern Conference
 [Oct 20]

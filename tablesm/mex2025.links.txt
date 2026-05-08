@@ -1,0 +1,8 @@
+tablesm/mex2024                 :  2023/24
+tablesm/mex2026                 :  2025/26
+tablesm/mexchamp                :  list of champions
+tablesm/mexhist                 :  list of final tables
+tablesm/mexall                  :  list of divisional movements
+tablesm/mexcuphist              :  list of cup winners
+tablesm/mexsupcup               :  list of super cup winners
+tablesm/mextops                 :  list of topscorers

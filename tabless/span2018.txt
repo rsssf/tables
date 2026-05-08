@@ -2,7 +2,7 @@
      title:   Spain 2017/18
      source:  https://rsssf.org/tabless/span2018.html
      author:  Karel Stokkermans
-     updated: 29 Sep 2020    
+     updated: 29 Sep 2020
     -->
 
 
@@ -873,7 +873,7 @@ Final Table:
 Promoted: RCD Mallorca (Palma de Mallorca), CF Rayo Majadahonda,
           Elche CF, Extremadura UD
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 

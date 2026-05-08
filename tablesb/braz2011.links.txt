@@ -1,0 +1,5 @@
+tablesb/braz2010                :  2010
+tablesb/braz2012                :  2012
+tablesb/brazchamp               :  list of champions
+tablesb/braz2champ              :  list of 2nd division champions
+tablesb/brazcuphist             :  list of cup winners

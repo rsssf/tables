@@ -2,7 +2,7 @@
      title:   Spain 2016/17
      source:  https://rsssf.org/tabless/span2017.html
      author:  Karel Stokkermans
-     updated: 18 Jul 2019    
+     updated: 18 Jul 2019
     -->
 
 
@@ -870,7 +870,7 @@ Final Table:
 
 Promoted: Cultural Leonesa, Lorca FC, FC Barcelona B, Albacete Balompié
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 

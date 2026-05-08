@@ -2,7 +2,7 @@
      title:   USA 2020
      source:  https://rsssf.org/tablesu/usa2020.html
      author:  Karel Stokkermans
-     updated: 12 May 2021    
+     updated: 12 May 2021
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay› | ‹MLS is Back Tournament, see §back›
 
-Regular Season  ‹§reg›
+===== Regular Season  ‹§reg›
 
 NB: Inter Miami CF and Nashville SC were admitted
 
@@ -555,7 +554,7 @@ NB: the Canadian MLS clubs play each other three times; the club with the best
     record in the head-to-head matches qualifies for the ‹Canadian Championship, see page ../tablesc/can2020.html#amway›
 
 
-Championship Playoff  ‹§chplay›
+===== Championship Playoff  ‹§chplay›
 
 NB: the playoffs are expanded to 18 clubs (all but the bottom-4 of both
     conferences) instead of 14; start Nov 20
@@ -600,14 +599,14 @@ MLS Cup [Dec 12, Mapfre Stadium, Columbus, Ohio]
 Columbus Crew          3-0 Seattle Sounders
   [Lucas Zelarayán 25, 82, Derrick Etienne 31]
 
-MLS is Back tournament  ‹§back›
+===== MLS is Back tournament  ‹§back›
 
 NB: all matches in Bay Lake, Florida (near Orlando);
     the group matches (Jul 8-23) also counted for the ‹Regular Season, see §reg›
 
 ‹Group Stage, see §backgrp› | ‹Knock-Out Stage, see §backko›
 
-Group Stage  ‹§backgrp›
+====== Group Stage  ‹§backgrp›
 
 Group A
 
@@ -764,7 +763,7 @@ Final Table:
  4.Los Angeles Galaxy          3   0  1  2   4- 9   1
 NB: Houston Dynamo eliminated as worst third-placed team
 
-Knock-Out Stage  ‹§backko›
+====== Knock-Out Stage  ‹§backko›
 
 NB: contested by the top-2 of each group and the four best third placed teams;
     no extra time played in case a match if drawn after 90 minutes

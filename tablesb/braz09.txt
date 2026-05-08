@@ -2,7 +2,7 @@
      title:   Brazil 2009
      source:  https://rsssf.org/tablesb/braz09.html
      author:  RSSSF Brazil
-     updated: 13 Dec 2012    
+     updated: 13 Dec 2012
     -->
 
 

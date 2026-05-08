@@ -2,7 +2,7 @@
      title:   USA 2012
      source:  https://rsssf.org/tablesu/usa2012.html
      author:  Ian King
-     updated: 14 Mar 2013    
+     updated: 14 Mar 2013
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
-Regular Season  ‹§reg›
+===== Regular Season  ‹§reg›
 
 NB: Montreal Impact were added for 2012
 
@@ -53,9 +52,9 @@ NB: top-3 of both conferences qualified for conference semifinals;
     teams finishing 4th and 5th qualify for wild card game
 
 
-Championship Playoff  ‹§play›
+===== Championship Playoff  ‹§play›
 
-Wild Card Games  ‹§wcard›
+====== Wild Card Games  ‹§wcard›
 
 [Oct 31]
 Chicago Fire               1-2 Houston Dynamo
@@ -65,7 +64,7 @@ Los Angeles Galaxy         2-1 Vancouver Whitecaps
 NB: Houston Dynamo enter ‹Eastern Semifinals, see §esemi›;
     Los Angeles Galaxy enter ‹Western Semifinals, see §wsemi›
 
-Eastern Semifinals  ‹§esemi›
+====== Eastern Semifinals  ‹§esemi›
 
 First Legs
 [Nov 3]
@@ -79,7 +78,7 @@ Sporting Kansas City       1-0 Houston Dynamo
 [Nov 8]
 New York Red Bulls         0-1 DC United
 
-Eastern Conference Final  ‹§efinal›
+====== Eastern Conference Final  ‹§efinal›
 
 First Leg [Nov 11]
 Houston Dynamo             3-1 DC United
@@ -89,7 +88,7 @@ DC United                  1-1 Houston Dynamo
 
 NB: Houston Dynamo to ‹MLS Cup 2012, see §mlscup›
 
-Western Semifinals  ‹§wsemi›
+====== Western Semifinals  ‹§wsemi›
 
 First Legs
 [Nov 2]
@@ -103,7 +102,7 @@ San Jose Earthquakes       1-3 Los Angeles Galaxy
 [Nov 8]
 Real Salt Lake             0-1 Seattle Sounders
 
-Western Conference Final  ‹§wfinal›
+====== Western Conference Final  ‹§wfinal›
 
 First Leg [Nov 11]
 Los Angeles Galaxy         3-0 Seattle Sounders
@@ -114,7 +113,7 @@ Seattle Sounders           2-1 Los Angeles Galaxy
 NB: Los Angeles Galaxy to ‹MLS Cup 2012, see §mlscup›
 
 
-MLS Cup 2012  ‹§mlscup›
+====== MLS Cup 2012  ‹§mlscup›
 
 [Dec 1, Home Depot Center, Carson City, California]
 Los Angeles Galaxy         3-1 Houston Dynamo

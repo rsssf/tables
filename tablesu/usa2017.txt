@@ -2,7 +2,7 @@
      title:   USA 2017
      source:  https://rsssf.org/tablesu/usa2017.html
      author:  Karel Stokkermans
-     updated: 10 Jan 2020    
+     updated: 10 Jan 2020
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
-Regular Season  ‹§reg›
+===== Regular Season  ‹§reg›
 
 NB: Atlanta United FC and Minnesota United FC were admitted
 
@@ -603,7 +602,7 @@ Western Conference
 10.Colorado Rapids            34   9  6 19  31-51  33
 11.Los Angeles Galaxy         34   8  8 18  45-67  32
 
-Championship Playoff  ‹§play›
+===== Championship Playoff  ‹§play›
 
 Conference Quarterfinals
 [Oct 25]

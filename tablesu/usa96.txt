@@ -2,7 +2,7 @@
      title:   USA 1996
      source:  https://rsssf.org/tablesu/usa96.html
      author:  Dave Litterer
-     updated: 7 Aug 2004    
+     updated: 7 Aug 2004
     -->
 
 
@@ -1064,24 +1064,14 @@ DC United 3-0 Rochester Raging Rhinos
         2-0     Pope                 63'
         3-0     Moreno               90'
 
-‹1995, see page usa95›
 
-‹1995/96, see page usa9596›
 
-‹1996/97, see page usa9697›
 
-‹1997, see page usa97›
 
-‹list of professional first division champions, see page usachamp›
 
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
 
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
 
-‹list of us open cup winners, see page usacuphist›
 
-‹list of (all) cup winners, see page usa-allcuphist›
 
-‹MLS all-time table, see page usaalltime›
 
 

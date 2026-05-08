@@ -2,7 +2,7 @@
      title:   Spain 2019/20
      source:  https://rsssf.org/tabless/span2020.html
      author:  Karel Stokkermans
-     updated: 8 Apr 2021    
+     updated: 8 Apr 2021
     -->
 
 
@@ -866,7 +866,7 @@ Final Table:
 
 Promoted: FC Cartagena, UD Logroñés, CD Castellón, CE Sabadell
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 

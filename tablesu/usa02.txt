@@ -2,7 +2,7 @@
      title:   USA 2002
      source:  https://rsssf.org/tablesu/usa02.html
      author:  Dave Litterer
-     updated: 11 Sep 2019    
+     updated: 11 Sep 2019
     -->
 
 

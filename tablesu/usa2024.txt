@@ -2,7 +2,7 @@
      title:   USA 2024
      source:  https://rsssf.org/tablesu/usa2024.html
      author:  Karel Stokkermans
-     updated: 7 Dec 2025    
+     updated: 7 Dec 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
-Regular Season  ‹§reg›
+===== Regular Season  ‹§reg›
 
 Final Tables:
 
@@ -691,16 +690,16 @@ Western Conference
 13.Sporting Kansas City       34   8  7 19  51-66  31
 14.San Jose Earthquakes       34   6  3 25  41-78  21
 
-Championship Playoff  ‹§chplay›
+===== Championship Playoff  ‹§chplay›
 
-Conference Wild Card Round  ‹§cwc›
+====== Conference Wild Card Round  ‹§cwc›
 
 Eastern Conference [Oct 22]
 Montréal CF            2-2 Atlanta United         [4-5 pen]
 Western Conference [Oct 23]
 Vancouver Whitecaps    5-0 Portland Timbers
 
-Eastern Conference Quarterfinals  ‹§cqe›
+====== Eastern Conference Quarterfinals  ‹§cqe›
 
 First Legs
 [Oct 25]
@@ -726,7 +725,7 @@ FC Cincinnati          0-0 New York City          [5-6 pen]
 Orlando City           1-1 Charlotte FC           [4-1 pen]
 Inter Miami            2-3 Atlanta United
 
-Western Conference Quarterfinals  ‹§cqw›
+====== Western Conference Quarterfinals  ‹§cqw›
 
 First Legs
 [Oct 26]
@@ -750,7 +749,7 @@ Vancouver Whitecaps    3-0 Los Angeles FC
 Third Leg [Nov 8]
 Los Angeles FC         1-0 Vancouver Whitecaps
 
-Conference Semifinals  ‹§csf›
+====== Conference Semifinals  ‹§csf›
 
 Eastern Conference
 [Nov 23]

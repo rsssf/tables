@@ -2,7 +2,7 @@
      title:   Mexico 2016/17
      source:  https://rsssf.org/tablesm/mex2017.html
      author:  Erik Francisco Lugo
-     updated: 6 Jun 2023    
+     updated: 6 Jun 2023
     -->
 
 
@@ -15,11 +15,9 @@
 ==== Liga MX  ‹§pdn›
 
 
-‹Apertura 2016, see §1aper› | ‹Clausura 2017, see §1clau›
 
-Apertura 2016  ‹§1aper›
+===== Apertura 2016  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 Regular Stage  ‹§apreg›
 
@@ -585,9 +583,8 @@ NB: Tijuana, América (Group Phase) and Guadalajara (Preliminary Round) had qual
     CONMEBOL about the new format of the competition.
 
 
-Clausura 2017  ‹§1clau›
+===== Clausura 2017  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 Regular Stage  ‹§clreg›
 
@@ -1172,7 +1169,6 @@ Coach: Matías Almeyda (ARG)
 
 ==== Copa MX Apertura 2016  ‹§copa›
 
-‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
 NB: the Cup Tournament is played by 12 teams from the Liga MX (first level) and
     12 teams from the Ascenso MX (second level);
@@ -1182,7 +1178,7 @@ NB: the Cup Tournament is played by 12 teams from the Liga MX (first level) and
     Correcaminos UAT, Zacatepec Siglo XXI, Cimarrones, Potros UAEM, Loros and Tampico Madero
     from Ascenso MX also excluded.
 
-Group Stage  ‹§copagrp›
+====== Group Stage  ‹§copagrp›
 
 Tables:
 
@@ -1421,7 +1417,7 @@ Group 8
 ---------------------------------------------------------------
  3.Dorados                              4   0  0  4   2- 7    0
 
-Playoff Stage  ‹§copaplay›
+====== Playoff Stage  ‹§copaplay›
 
 Round of 16
 
@@ -1536,7 +1532,6 @@ Coach: Víctor Manuel Vucetich
 
 ==== Copa MX Clausura 2017  ‹§copac›
 
-‹Group Stage, see §copacgrp› | ‹Playoff Stage, see §copacplay›
 
 NB: the Cup Tournament is played by 15 teams from the Liga MX (first level) and
     12 teams from the Ascenso MX (second level);
@@ -1545,7 +1540,7 @@ NB: the Cup Tournament is played by 15 teams from the Liga MX (first level) and
     Tampico Madero, Loros, Cafetaleros, Leones Negros, Murciélagos and Lobos BUAP
     (Ascenso MX) also excluded
 
-Group Stage  ‹§copacgrp›
+====== Group Stage  ‹§copacgrp›
 
 Tables:
 
@@ -1822,7 +1817,7 @@ Group 9
 ---------------------------------------------------------------
  3.Zacatepec S.XXI                      4   0  0  4   2-11    0
 
-Playoff Stage  ‹§copacplay›
+====== Playoff Stage  ‹§copacplay›
 
 Round of 16
 
@@ -1978,9 +1973,8 @@ Querétaro        2-0 América
 
 ==== Ascenso MX  ‹§ascenso›
 
-‹Apertura 2016, see §2aper› | ‹Clausura 2017, see §2clau› | ‹Promotion Playoff, see §2prom›
 
-Apertura 2016  ‹§2aper›
+===== Apertura 2016  ‹§2aper›
 
 Changes before season:
 
@@ -1992,7 +1986,7 @@ Changes before season:
 
 ‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-Regular Stage  ‹§2aperreg›
+====== Regular Stage  ‹§2aperreg›
 
 Participants:
 
@@ -2294,7 +2288,7 @@ Final Table:
 17.Loros U. de Colima                  17   3  5  9  20-34   14
 18.Tampico Madero FC                   17   2  4 11   8-27   10
 
-Playoff Stage  ‹§2aperplay›
+====== Playoff Stage  ‹§2aperplay›
 
 Quarterfinals
 
@@ -2338,11 +2332,10 @@ Atlante           2-3 Dorados
 Second Leg [Dec 3]
 Dorados           1-0 Atlante
 
-Clausura 2017  ‹§2clau›
+===== Clausura 2017  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
-Regular Stage  ‹§2claureg›
+====== Regular Stage  ‹§2claureg›
 
 Participants:
 
@@ -2668,7 +2661,7 @@ Tampico Madero      0.9706
 -----------------------------
 Loros                  0.8235 (relegated)
 
-Playoff Stage  ‹§2clauplay›
+====== Playoff Stage  ‹§2clauplay›
 
 Quarterfinals
 
@@ -2710,7 +2703,7 @@ Lobos BUAp        2-1 FC Juárez
 Second Leg [May 6]
 FC Juárez         1-2 Lobos BUAP
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Championship Final
 

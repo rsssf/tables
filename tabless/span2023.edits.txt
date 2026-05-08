@@ -1,3 +1,8 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3g1">Grupo 1</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3g2">Grupo 2</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3gf">Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3gp">Promotion Playoff</a><
 -- removing nav(igation) section:
 
 ‹Primera División, see §laliga›
@@ -31,3 +36,6 @@
 
 ‹list of foundation dates, see page spanfound›.
 
+
+-- removing 1 leading nav line(s) in section 6:
+‹Grupo 1, see §3g1› | ‹Grupo 2, see §3g2› | ‹Final, see §3gf› | ‹Promotion Playoff, see §3gp›

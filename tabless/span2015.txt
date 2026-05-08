@@ -2,7 +2,7 @@
      title:   Spain 2014/15
      source:  https://rsssf.org/tabless/span2015.html
      author:  Karel Stokkermans
-     updated: 28 Jan 2021    
+     updated: 28 Jan 2021
     -->
 
 
@@ -866,7 +866,7 @@ Final Table:
 
 Promoted: Club Gimnàstic de Tarragona, Real Oviedo, SD Huesca, Bilbao Athletic
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 

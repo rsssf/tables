@@ -2,7 +2,7 @@
      title:   Brazil 2025
      source:  https://rsssf.org/tablesb/braz2025.html
      author:  Karel Stokkermans
-     updated: 23 Dec 2025    
+     updated: 23 Dec 2025
     -->
 
 

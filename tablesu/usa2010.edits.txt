@@ -1,3 +1,11 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Season</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Championship Playoff</a><
+-- found b-enclosed line >Regular Season< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="sfplay">Championship Playoff</a><
+-- found b-enclosed line >Regular Season< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="uslplay">Championship Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="uslpdl">Championship Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="npsl">Championship Playoff</a><
 -- removing nav(igation) section:
 
 ‹Major League Soccer, see §mls› (Division 1)
@@ -35,3 +43,6 @@
 
 ‹MLS all-time table, see page usaalltime›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Season, see §reg› | ‹Championship Playoff, see §play›

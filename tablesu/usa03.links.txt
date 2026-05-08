@@ -1,0 +1,10 @@
+tablesu/usa02                   :  2002
+tablesu/usa0203                 :  2002/03
+tablesu/usa0304                 :  2003/04
+tablesu/usa04                   :  2004
+tablesu/usachamp                :  list of professional first division champions
+tablesu/usa-allchamp            :  list of (all) league winners (leaguewise)
+tablesu/usa-overview-champ      :  list of (all) league winners (yearwise)
+tablesu/usacuphist              :  list of us open cup winners
+tablesu/usa-allcuphist          :  list of (all) cup winners
+tablesu/usaalltime              :  MLS all-time table

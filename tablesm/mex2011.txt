@@ -2,7 +2,7 @@
      title:   Mexico 2010/11
      source:  https://rsssf.org/tablesm/mex2011.html
      authors: Erik Francisco Lugo and Juan Pablo Andrés
-     updated: 28 Dec 2023    
+     updated: 28 Dec 2023
     -->
 
 
@@ -14,11 +14,9 @@
 
 ==== Primera División Nacional  ‹§pdn›
 
-‹Apertura 2010, see §1aper› | ‹Clausura 2011, see §1clau›
 
-Apertura 2010  ‹§1aper›
+===== Apertura 2010  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 Regular Stage  ‹§apreg›
 
@@ -570,9 +568,8 @@ Monterrey         3-0 Santos
   [Humberto Andrés Suazo 28, 86, José María Basanta 71]
 
 
-Clausura 2011  ‹§1clau›
+===== Clausura 2011  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 Regular Stage  ‹§clreg›
 
@@ -1113,9 +1110,8 @@ Pumas             2-1 Morelia
 
 ==== Liga de Ascenso  ‹§ascenso›
 
-‹Apertura 2010, see §2aper› | ‹Clausura 2011, see §2clau› | ‹Promotion Playoff, see §2prom› | ‹Relegation Table, see §2releg›
 
-Apertura 2010  ‹§2aper›
+===== Apertura 2010  ‹§2aper›
 
  Changes before season:
 - Universidad de Fútbol, promoted from Third Level 2009-10, are not
@@ -1125,7 +1121,7 @@ Apertura 2010  ‹§2aper›
 
 ‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-Regular Stage  ‹§2aperreg›
+====== Regular Stage  ‹§2aperreg›
 
 Final Table:
 
@@ -1432,7 +1428,7 @@ Juan Manuel Cavallo (ARG) Albinegros         9
 Eduardo Lillingston       Indios             9
 Roberto Nurse             Cruz Azul Hidalgo  9
 
-Playoff Stage  ‹§2aperplay›
+====== Playoff Stage  ‹§2aperplay›
 
 NB: Tijuana bye to semifinals
 
@@ -1497,9 +1493,8 @@ Veracruz: Tomás Adriano, Hiber Ruiz, Oscar Mascorro, Leonel Olmedo,
 
 Tijuana Apertura campions
 
-Clausura 2011  ‹§2clau›
+===== Clausura 2011  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
 Changes before season:
 
@@ -1507,7 +1502,7 @@ Changes before season:
   be owned by Atlante and Atlante UTN by Monarcas Morelia.
 - Guerreros de Hermosillo withdrew.
 
-Regular Stage  ‹§2claureg›
+====== Regular Stage  ‹§2claureg›
 
 Final Table:
 
@@ -1809,7 +1804,7 @@ NB: All clubs are "certified clubs";
     clubs finishing 2nd to 7th qualify to quarterfinals.
 
 
-Playoff Stage  ‹§2clauplay›
+====== Playoff Stage  ‹§2clauplay›
 
 NB: Veracruz could not play the playoffs due to debts, Dorados qualified
 
@@ -1877,7 +1872,7 @@ Yellow Cards: Manrique (I); Molina, Orozco, Santana (T)
 Irapuato Clausura champions.
 
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Championship Final
 
@@ -1912,7 +1907,7 @@ Tijuana promoted.
 
 
 
-Relegation Table  ‹§2releg›
+===== Relegation Table  ‹§2releg›
 
 Relegation Table:
                         Games 2008-09 2009-10 2010-11    Pts Avg
@@ -1945,9 +1940,8 @@ Guerreros de Hermosillo    80    30      20       0       50 0,6250 Withdrew and
 
 ==== Liga Premier de Ascenso and Liga de Ascenso de Nuevos Talentos  ‹§ascenso2›
 
-‹Liga Premier de Ascenso, see §premiera› | ‹Liga de Ascenso de Nuevos Talentos, see §asctalent›
 
-Liga Premier de Ascenso  ‹§premiera›
+===== Liga Premier de Ascenso  ‹§premiera›
 
 Independencia 2010 (Apertura)
 
@@ -2212,7 +2206,7 @@ Aguilas Reales Zacatecas and Irapuato relegated.
 
 
 
-Liga de Ascenso de Nuevos Talentos  ‹§asctalent›
+===== Liga de Ascenso de Nuevos Talentos  ‹§asctalent›
 
 Independencia 2010 (Apertura)
 

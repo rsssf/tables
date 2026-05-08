@@ -1,0 +1,7 @@
+tablesb/braz07                  :  2007
+tablesb/braz2-08                :  2008 (2nd level)
+tablesb/braz3-08                :  2008 (3rd level)
+tablesb/braz09                  :  2009
+tablesb/brazchamp               :  list of champions
+tablesb/braz2champ              :  list of 2nd division champions
+tablesb/brazcuphist             :  list of cup winners

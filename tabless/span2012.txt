@@ -2,7 +2,7 @@
      title:   Spain 2011/12
      source:  https://rsssf.org/tabless/span2012.html
      author:  Karel Stokkermans
-     updated: 28 Jan 2021    
+     updated: 28 Jan 2021
     -->
 
 
@@ -254,7 +254,7 @@ NB: Villarreal B relegated because of relegation of first team; due to this,
 
 Promoted from 3rd level: CD Lugo, CD Mirandés, SD Ponferradina, Real Madrid Castilla
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 

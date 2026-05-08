@@ -2,7 +2,7 @@
      title:   Mexico 2014/15
      source:  https://rsssf.org/tablesm/mex2015.html
      author:  Erik Francisco Lugo
-     updated: 18 Feb 2021    
+     updated: 18 Feb 2021
     -->
 
 
@@ -15,11 +15,9 @@
 ==== Liga MX  ‹§pdn›
 
 
-‹Apertura 2014, see §1aper› | ‹Clausura 2015, see §1clau›
 
-Apertura 2014  ‹§1aper›
+===== Apertura 2014  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 Regular Stage  ‹§apreg›
 
@@ -573,9 +571,8 @@ NB: Tigres and Atlas qualified to Group Phase,
     Morelia qualified to Preliminary Round
 
 
-Clausura 2015  ‹§1clau›
+===== Clausura 2015  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 Regular Stage  ‹§clreg›
 
@@ -1147,14 +1144,13 @@ Coach: Pedro Faria Caixinha (POR)
 
 ==== Copa MX Apertura 2014  ‹§copa›
 
-‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     14 teams from the Ascenso MX (second level);
     León, América, Pachuca and Cruz Azul from Liga MX excluded because of
     participating in the CONCACAF Champions League 2014-15.
 
-Group Stage  ‹§copagrp›
+====== Group Stage  ‹§copagrp›
 
 The Group Stage was played in 3 home/away series, with the winners of each series earning
 an additional bonus point; if the series was tied after 2 matches, the team with more away goals earn the extra point; if still tied no bonus point was awarded.
@@ -1474,7 +1470,7 @@ Group 7
  3.Veracruz                             6   1  3  2   8- 9    8
  4.Jaguares                             6   1  3  2   6- 9    7
 
-Playoff Stage  ‹§copaplay›
+====== Playoff Stage  ‹§copaplay›
 
 Quarterfinals
 
@@ -1559,7 +1555,6 @@ Coach: Pedro Caixinha [POR]
 
 ==== Copa MX Clausura 2015  ‹§copac›
 
-‹Group Stage, see §copacgrp› | ‹Playoff Stage, see §copacplay›
 
 NB: the Cup Tournament is played by 11 teams from the Liga MX (first level) and
     13 teams from the Ascenso MX (second level);
@@ -1568,7 +1563,7 @@ NB: the Cup Tournament is played by 11 teams from the Liga MX (first level) and
     Tigres, Atlas and Morelia also excluded because of participating in Copa Libertadores 2015
     Celaya (Ascenso MX) also excluded
 
-Group Stage  ‹§copacgrp›
+====== Group Stage  ‹§copacgrp›
 
 The Group Stage was played in 3 home/away series, with the winners of each series
 earning an additional bonus point; if the series was tied after 2 matches, the
@@ -1847,7 +1842,7 @@ Group 6
  3.Pumas                                6   2  1  3   6-10    9
  4.Alebrijes                            6   2  0  4   8-10    7
 
-Playoff Stage  ‹§copacplay›
+====== Playoff Stage  ‹§copacplay›
 
 Quarterfinals
 
@@ -1979,9 +1974,8 @@ Puebla qualified to Preliminary Round of Copa Libertadores 2016
 
 ==== Ascenso MX  ‹§ascenso›
 
-‹Apertura 2014, see §2aper› | ‹Clausura 2015, see §2clau› | ‹Promotion Playoff, see §2prom›
 
-Apertura 2014  ‹§2aper›
+===== Apertura 2014  ‹§2aper›
 
 Changes before season:
 
@@ -1995,7 +1989,7 @@ Changes before season:
 
 ‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-Regular Stage  ‹§2aperreg›
+====== Regular Stage  ‹§2aperreg›
 
 Participants:
 
@@ -2201,7 +2195,7 @@ Final Table:
 13.Mérida FC                           13   2  3  8  17-24    9
 14.Celaya FC                           13   1  3  9  12-25    6
 
-Playoff Stage  ‹§2aperplay›
+====== Playoff Stage  ‹§2aperplay›
 
 NB: Coras FC bye to semifinals
 
@@ -2244,11 +2238,10 @@ Second Leg [Dec 6]
 Coras             4-4 Necaxa         [aet; 4-5 pen]
 
 
-Clausura 2015  ‹§2clau›
+===== Clausura 2015  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
-Regular Stage  ‹§2claureg›
+====== Regular Stage  ‹§2claureg›
 
 Participants:
 
@@ -2460,7 +2453,7 @@ Final Table:
 13.Zacatepec Siglo XXI                 13   3  3  7  10-13   12
 14.Celaya FC                           13   2  4  7  14-25   10
 
-Playoff Stage  ‹§2clauplay›
+====== Playoff Stage  ‹§2clauplay›
 
 NB: Atlético San Luis bye to semifinals
 
@@ -2505,7 +2498,7 @@ Second Leg [May 9]
 Atlético San Luis 1-0 Dorados
 
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Championship Final
 

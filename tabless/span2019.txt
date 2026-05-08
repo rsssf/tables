@@ -2,7 +2,7 @@
      title:   Spain 2018/19
      source:  https://rsssf.org/tabless/span2019.html
      author:  Karel Stokkermans
-     updated: 28 Jan 2021    
+     updated: 28 Jan 2021
     -->
 
 
@@ -888,7 +888,7 @@ Final Table:
 Promoted: CF Fuenlabrada, Real Racing de Santander, CD Mirandés (Miranda de Ebro),
           SD Ponferradina (Ponferrada)
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 

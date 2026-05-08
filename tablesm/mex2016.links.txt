@@ -1,0 +1,8 @@
+tablesm/mex2015                 :  2014/15
+tablesm/mex2017                 :  2016/17
+tablesm/mexchamp                :  list of champions
+tablesm/mexhist                 :  list of final tables
+tablesm/mexall                  :  list of divisional movements
+tablesm/mexcuphist              :  list of cup winners
+tablesm/mexsupcup               :  list of super cup winners
+tablesm/mextops                 :  list of topscorers

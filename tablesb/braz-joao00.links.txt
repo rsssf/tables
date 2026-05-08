@@ -1,0 +1,8 @@
+tablesb/braz99                  :  1999 (1st level)
+tablesb/braz2-99                :  1999 (2nd level)
+tablesb/braz3-99                :  1999 (3rd level)
+tablesb/brazstates00            :  2000 (overview state championships)
+tablesb/brazchampcup00          :  2000 (Copa dos Campeões)
+tablesb/braz01                  :  2001 (1st level)
+tablesb/brazchamp               :  list of champions
+tablesb/braz2champ              :  list of 2nd division champions

@@ -2,7 +2,7 @@
      title:   USA 2005
      source:  https://rsssf.org/tablesu/usa05.html
      authors: David A. Litterer and Antonio Zea
-     updated: 11 Sep 2019    
+     updated: 11 Sep 2019
     -->
 
 

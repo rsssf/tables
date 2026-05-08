@@ -2,7 +2,7 @@
      title:   Spain 2012/13
      source:  https://rsssf.org/tabless/span2013.html
      author:  Karel Stokkermans
-     updated: 13 Sep 2018    
+     updated: 13 Sep 2018
     -->
 
 
@@ -861,7 +861,7 @@ NB: Guadalajara were relegated because of financial irregularities; due to this,
 
 Promoted from 3rd level: Deportivo Alavés, CD Tenerife, SD Eibar, Real Jaén
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals
 

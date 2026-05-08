@@ -1,0 +1,12 @@
+tablesc/can2020§amway           :  Qualified
+tablesc/can2020§amway           :  Canadian Championship
+tablesc/can2020§amway           :  Qualified
+tablesc/can2020§amway           :  Canadian Championship
+tablesu/usa2019                 :  2019
+tablesu/usa2021                 :  2021
+tablesu/usachamp                :  list of professional first division champions
+tablesu/usa-allchamp            :  list of (all) league winners (leaguewise)
+tablesu/usa-overview-champ      :  list of (all) league winners (yearwise)
+tablesu/usacuphist              :  list of us open cup winners
+tablesu/usa-allcuphist          :  list of (all) cup winners
+tablesu/usaalltime              :  MLS all-time table

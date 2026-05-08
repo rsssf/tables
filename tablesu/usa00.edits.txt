@@ -1,0 +1,11 @@
+-- removing 10 trailing nav line(s) in last section 2:
+‹1999, see page usa99›
+‹1999/2000, see page usa9900›
+‹2000/01, see page usa0001›
+‹2001, see page usa01›
+‹list of professional first division champions, see page usachamp›
+‹list of (all) league winners (leaguewise), see page usa-allchamp›
+‹list of (all) league winners (yearwise), see page usa-overview-champ›
+‹list of us open cup winners, see page usacuphist›
+‹list of (all) cup winners, see page usa-allcuphist›
+‹MLS all-time table, see page usaalltime›

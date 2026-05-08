@@ -2,7 +2,7 @@
      title:   Mexico 2021/22
      source:  https://rsssf.org/tablesm/mex2022.html
      author:  Erik Francisco Lugo
-     updated: 22 Sep 2022    
+     updated: 22 Sep 2022
     -->
 
 
@@ -14,11 +14,9 @@
 
 ==== Liga MX  ‹§pdn›
 
-‹Apertura 2021, see §1aper› | ‹Clausura 2022, see §1clau›
 
-Apertura 2021  ‹§1aper›
+===== Apertura 2021  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 Regular Stage  ‹§apreg›
 
@@ -582,9 +580,8 @@ Coach: Diego Cocca (ARG)
 
 
 
-Clausura 2022  ‹§1clau›
+===== Clausura 2022  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 Regular Stage  ‹§clreg›
 
@@ -1260,13 +1257,11 @@ Cruz Azul            2-2 Atlas                [4-3 pen]
 
 ==== Liga Expansión MX  ‹§ascenso›
 
-‹Apertura 2021, see §2aper› | ‹Clausura 2022, see §2clau›
 
-Torneo Grita México A-21 (Apertura 2021)  ‹§2aper›
+===== Torneo Grita México A-21 (Apertura 2021)  ‹§2aper›
 
-‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-Regular Stage  ‹§2aperreg›
+====== Regular Stage  ‹§2aperreg›
 
 Changes before season:
 
@@ -1608,7 +1603,7 @@ Topscorer:
 Player         Team      Goals
 Jose Zúñiga             Dorados          12
 
-Playoff Stage  ‹§2aperplay›
+====== Playoff Stage  ‹§2aperplay›
 
 Reclasificación
 
@@ -1663,11 +1658,10 @@ Estadio de la Ciudad de los Deportes
 Atlante          3-0 Tampico Madero
 
 
-Torneo Grita México C-22 (Clausura 2022)  ‹§2clau›
+===== Torneo Grita México C-22 (Clausura 2022)  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
-Regular Stage  ‹§2claureg›
+====== Regular Stage  ‹§2claureg›
 
 Participants:
 
@@ -2032,7 +2026,7 @@ Raya2 Expansión:  $75,000 USD+
 
 +Pumas Tabasco and Raya2 Expansión exonerated of the fine due its status of "filial team".
 
-Playoffs (Liguilla)  ‹§2clauplay›
+====== Playoffs (Liguilla)  ‹§2clauplay›
 
 Preliminary Round (Repechaje) (over one leg)
 [Apr 20]

@@ -2,7 +2,7 @@
      title:   USA 2001
      source:  https://rsssf.org/tablesu/usa01.html
      author:  Dave Litterer
-     updated: 11 Jan 2003    
+     updated: 11 Jan 2003
     -->
 
 
@@ -628,25 +628,15 @@ Semifinals:       San Diego defeated St. Louis 7-5, 1-0, 4-0
                   Dallas defeated Sacramento 2-1, 5-4
 CHAMPIONSHIP:     Dallas defeated San Diego 6-3, ___
 
-‹2000, see page usa00›
 
-‹2000/01, see page usa0001›
 
-‹2001/02, see page usa0102›
 
-‹2002, see page usa02›
 
-‹list of professional first division champions, see page usachamp›
 
-‹list of (all) league winners (leaguewise), see page usa-allchamp›
 
-‹list of (all) league winners (yearwise), see page usa-overview-champ›
 
-‹list of us open cup winners, see page usacuphist›
 
-‹list of (all) cup winners, see page usa-allcuphist›
 
-‹MLS all-time table, see page usaalltime›
 
 
 
