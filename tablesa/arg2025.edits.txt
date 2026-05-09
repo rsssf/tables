@@ -1,0 +1,153 @@
+-- found b-enclosed line >[2025 AFA LPF Opening Tournament]< - heading?
+-- found u-enclosed line >Non official table< - heading?
+-- found u-enclosed line >Primera fase de zonas - Phase of groups< - heading?
+-- found u-enclosed line >Table Group A< - heading?
+-- found u-enclosed line >Table Group B< - heading?
+-- found b-enclosed line >[2025 AFA LPF Closing Tournament]< - heading?
+-- found u-enclosed line >Non official table< - heading?
+-- found u-enclosed line >Primera fase de zonas - Phase of groups< - heading?
+-- found u-enclosed line >Table Group A< - heading?
+-- found u-enclosed line >Table Group B< - heading?
+-- found u-enclosed line >Final< - heading?
+-- found u-enclosed line >Triennal General Table of Averages< - heading?
+-- found u-enclosed line >Non official table - All phases, groups and tournaments included< - heading?
+-- found u-enclosed line >Table Group A< - heading?
+-- found u-enclosed line >Table Group B< - heading?
+-- found u-enclosed line >Tabla General de posiciones - General standings table< - heading?
+-- found u-enclosed line >2025 Primera B Final Standing< - heading?
+-- found u-enclosed line >Unofficial standing with all matches of the season< - heading?
+-- found u-enclosed line ><b>Zona A - Group A</b>< - heading?
+-- found u-enclosed line ><b>Zona B - Group B</b>< - heading?
+-- found u-enclosed line ><b>Final por el campeonato y por el primer ascenso</b>< - heading?
+-- found u-enclosed line ><b>Partido para evitar la reclasificación con el campeón del Torneo Promocional Amateur</b>< - heading?
+-- found u-enclosed line ><b>Reclasificación con el campeón del Torneo Promocional Amateur</b>< - heading?
+-- found u-enclosed line ><b>Torneo "Reducido" por el Segundo Ascenso</b>< - heading?
+-- found u-enclosed line ><b>Torneo "Reducido" por el 4º cupo a la Copa Argentina edición 2026</b>< - heading?
+-- found u-enclosed line >Unofficial standing with all matches< - heading?
+-- found u-enclosed line >Zona A - Group A< - heading?
+-- found u-enclosed line >Table< - heading?
+-- found u-enclosed line >Zona B - Group B< - heading?
+-- found u-enclosed line >Table< - heading?
+-- found u-enclosed line >Final< - heading?
+-- found u-enclosed line >Primera Fase - First Phase< - heading?
+-- found u-enclosed line >Zona 1 - Group 1< - heading?
+-- found u-enclosed line >Zona 2 - Group 2< - heading?
+-- found u-enclosed line >Reválida Primera Etapa - Revalidation First Step< - heading?
+-- found b-enclosed line >Tabla General de Promedios de Puntos - Average points in the overall standings< - heading?
+-- found u-enclosed line >Champion< - heading?
+-- found u-enclosed line >Runner-up< - heading?
+-- found u-enclosed line >Semi-finalists< - heading?
+-- found u-enclosed line >Quarter-finalists< - heading?
+-- found u-enclosed line >Regional - 2nd round< - heading?
+-- found u-enclosed line >Regional - 1st round< - heading?
+-- found u-enclosed line >Qualification - 3rd round< - heading?
+-- found u-enclosed line >Qualification - 2nd round< - heading?
+-- found u-enclosed line >Qualification - 1st round< - heading?
+-- found u-enclosed line >Región Norte - North region< - heading?
+-- found u-enclosed line >Provincia de Salta - Salta Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Provincia de Jujuy - Jujuy Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Región Patagónica - Patagonian Region< - heading?
+-- found u-enclosed line >Provincia del Chubut - Chubut Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Región Centro - Central Region< - heading?
+-- found u-enclosed line >Provincia de Catamarca - Catamarca Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Provincia de Córdoba - Córdoba Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Región Cuyo - Cuyo Region< - heading?
+-- found u-enclosed line >Provincia de San Juan - San Juan Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Provincia de Mendoza - Mendoza Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Región Litoral Sur - Southern Littoral Region< - heading?
+-- found u-enclosed line >Provincia de Santa Fe - Santa Fe Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Provincia de Entre Ríos - Entre Ríos Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Región Litoral Norte - Northern Littoral Region< - heading?
+-- found u-enclosed line >Provincia del Chaco - Chaco Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Provincia de Misiones - Misiones Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Región Bonaerense Pampeana Norte - Northern Buenos Aires Region< - heading?
+-- found u-enclosed line >Provincia de Buenos Aires - Buenos Aires Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Región Bonaerense Pampeana Sur - Southern Buenos Aires Pampas Region< - heading?
+-- found u-enclosed line >Provincia de La Pampa - La Pampa Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Provincia de Buenos Aires - Buenos Aires Province</u>< - heading?
+-- found u-enclosed line >Primera ronda - First step< - heading?
+-- found u-enclosed line >Región Norte - North region< - heading?
+-- found u-enclosed line >Región Patagónica - Patagonian Region< - heading?
+-- found u-enclosed line >Región Centro - Central Region< - heading?
+-- found u-enclosed line >Región Cuyo - Cuyo Region< - heading?
+-- found u-enclosed line >Región Litoral Sur - Southern Littoral Region< - heading?
+-- found u-enclosed line >Región Litoral Norte - Northern Littoral Region< - heading?
+-- found u-enclosed line ><b>Full</b>< - heading?
+-- found u-enclosed line >Friendlies< - heading?
+-- found b-enclosed line >1975-2025 50 years of Angola's national independence< - heading?
+-- found u-enclosed line >Friendlies< - heading?
+-- found u-enclosed line >2025 Conmebol South American U-20 Championship< - heading?
+-- found u-enclosed line >Training matches< - heading?
+-- found u-enclosed line >2025 FIFA U-20 World Cup< - heading?
+-- found u-enclosed line >UEFA Friendship Cup< - heading?
+-- found u-enclosed line ><b>U-17</b>< - heading?
+-- found u-enclosed line >2025 FIFA U-17 World Cup< - heading?
+-- found u-enclosed line ><b>U-16</b>< - heading?
+-- found u-enclosed line ><b>U-15</b>< - heading?
+-- removing nav(igation) section:
+
+‹LPF Opening Tournament - Torneo Apertura de la LPF de AFA 2025, see §1apertura›
+‹LPF Closing Tournament - Torneo Clausura de la LPF de AFA 2025, see §1clausura›
+‹LPF Annual Table - Tabla Anual de la LPF de AFA 2025, see §1first›
+‹LPF Champions trophy - Trofeo de Campeones 2025, see §1champtroph›
+‹AFA National cup: Copa Argentina 2025, see §nationalcup›
+‹AFA Second level: Campeonato de Primera Nacional 2025, see §second›
+‹AFA Third level: Campeonato de Primera "B" 2025, see §third›
+‹AFA Fourth level: Campeonato de Primera "C" 2025, see §fourth›
+‹AFA Fifth level: Torneo Promocional Amateur 2025, see §fifth›
+‹CFFA Third level: Torneo Federal "A" 2025, see §federal›
+‹Copa País de Selecciones de Liga 2025 - 2025 CFFA Copa País Regional League Combineds, see §copapais›
+‹AFA National Teams 2025, see §national›
+
+-- removing nav(igation) section:
+
+‹2023/24, see page arg2024›.
+
+
+
+‹2024/25 (regional 4th level), see page arg4-reg2025›.
+
+
+
+‹2025/26 (regional 4th level), see page arg4-reg2026›.
+
+
+
+‹2026, see page arg2026›.
+
+
+
+‹list of champions, see page argchamp›.
+
+
+‹list of cup finals, see page argcuphist›.
+
+
+‹list of final tables, see page arghist›.
+
+
+‹all-time tables, see page argalltime›.
+
+
+‹list of 2nd level champions, see page arg2champ›.
+
+
+‹divisional movements, see page argall›.
+
+
+‹topscorers, see page argtops›.
+
+

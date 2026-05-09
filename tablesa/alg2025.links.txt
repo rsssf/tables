@@ -1,0 +1,4 @@
+tablesa/alg2024                 :  2023/24
+tablesa/alg2026                 :  2025/26
+tablesa/algchamp                :  list of champions
+tablesa/algcuphist              :  list of cup finals

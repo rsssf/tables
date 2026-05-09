@@ -1,0 +1,39 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1reg">Regular Season</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1eur">Conference League Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2nac">Nacompetitie</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2reg">Regular Season</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="resprorel">Promotion/Relegation Playoff Reserve Sides</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="23prorel">Promotion/Relegation Playoff 3rd/4th Level</a><
+-- removing nav(igation) section:
+
+‹Eredivisie, see §ere›
+‹Eerste Divisie, see §eerste›
+‹Tweede Divisie, see §tweede›
+
+
+-- removing nav(igation) section:
+
+‹2023/24, see page ned2024›.
+
+‹2024/25 (amateur level), see page ned-amat2025›.
+
+‹2025/26, see page ned2026›.
+
+‹list of champions, see page nedchamp›.
+
+‹all-time table from 1956 onwards, see page nedalltime›.
+
+‹list of 2nd division champions, see page ned2champ›.
+
+‹list of first class champions, see page ned1stclass›.
+
+‹list of cup finals, see page nedcuphist›.
+
+‹list of super cup finals, see page nedsupcuphist›.
+
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Season, see §1reg› | ‹Conference League Playoff, see §1eur› | ‹Nacompetitie, see §2nac›
+
+-- removing 1 leading nav line(s) in section 7:
+‹Regular Season, see §2reg› | ‹Nacompetitie, see §2nac›

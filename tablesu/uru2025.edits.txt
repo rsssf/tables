@@ -1,0 +1,78 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="aper">Torneo Apertura 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="medio">Torneo Intermedio 2025</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="intfin">Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="clau">Torneo Clausura 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="anual">Tabla Anual 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Championship Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="sup">Supercopa AUF 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2comp">Competencia</a><
+-- found u-enclosed line >Group Stage< - heading?
+-- make heading (hu) out of u-enclosed a name in line ><a name="cpfn">Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="tercp">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3pri">Apertura</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="31g">Group Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="31s">Apertura Semifinals</a><
+-- found u-enclosed line >Apertura Final< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="3seg">Clausura</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="32f">Clausura Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3acf">Final Promoción</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3anu">Tabla Anual</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="4pri">Regular Phase</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="4oct">Promotion Playoff</a><
+-- removing nav(igation) section:
+
+‹Primera División Profesional, see §pdp›
+‹Segunda División Profesional, see §sdp›
+‹Tercera Divisional de AUF, see §sgb›
+‹Divisional D, see §divd›
+‹Copa AUF Uruguay 2025, see §copa›
+
+
+-- removing nav(igation) section:
+
+‹2024, see page uru2024›
+
+‹2026, see page uru2026›
+
+‹list of champions, see page uruchamp›
+
+‹list of final tables, see page uruhist›
+
+‹all-time table, see page urualltime›
+
+‹all-time table liguilla, see page uru-lig-alltime›
+
+‹list of relegated teams, see page uruall›
+
+‹list of liguilla champions, see page uruliguillachamp›
+
+‹list of 2nd division champions, see page uru2champ›
+
+‹list of 3rd division champions, see page uru3champ›
+
+‹list of ofi (interior) champions, see page uru-ofichamp›
+
+‹overview of regional championships, see page uru-regional›
+
+‹list of winners of provincial selections championship, see page uru-torneo-interiorchamp›
+
+‹list of topscorers, see page urutops›
+
+‹list of foundation dates, see page urufound›
+
+
+-- removing 1 leading nav line(s) in section 3:
+‹Apertura 2025, see §aper› | ‹Intermedio 2025, see §medio› | ‹Clausura 2025, see §clau› | ‹Tabla Anual 2025, see §anual› | ‹Championship Playoff, see §play›
+
+-- removing 1 leading nav line(s) in section 11:
+‹Competencia, see §2comp› | ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §tercp›
+
+-- removing 1 leading nav line(s) in section 16:
+‹Apertura, see §3pri› | ‹Clausura, see §3seg› | ‹Final, see §3acf› | ‹Tabla Anual, see §3anu›
+
+-- removing 1 leading nav line(s) in section 17:
+‹Group Stage, see §31g› | ‹Semifinals, see §31s›
+
+-- removing 1 leading nav line(s) in section 24:
+‹Regular Phase, see §4pri› | ‹Promotion Playoff, see §4oct›

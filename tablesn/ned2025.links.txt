@@ -1,0 +1,9 @@
+tablesn/ned2024                 :  2023/24
+tablesn/ned-amat2025            :  2024/25 (amateur level)
+tablesn/ned2026                 :  2025/26
+tablesn/nedchamp                :  list of champions
+tablesn/nedalltime              :  all-time table from 1956 onwards
+tablesn/ned2champ               :  list of 2nd division champions
+tablesn/ned1stclass             :  list of first class champions
+tablesn/nedcuphist              :  list of cup finals
+tablesn/nedsupcuphist           :  list of super cup finals
