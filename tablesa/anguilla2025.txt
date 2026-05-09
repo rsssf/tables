@@ -2,7 +2,7 @@
      title:   Anguilla 2025
      source:  https://rsssf.org/tablesa/anguilla2025.html
      author:  Karel Stokkermans
-     updated: 3 Jul 2025
+     updated: 5 May 2026
     -->
 
 

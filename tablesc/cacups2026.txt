@@ -2,7 +2,7 @@
      title:   Central American Club Competitions 2025/26
      source:  https://rsssf.org/tablesc/cacups2026.html
      author:  Erik Francisco Lugo
-     updated: 3 Mar 2026
+     updated: 23 Apr 2026
     -->
 
 
@@ -337,21 +337,61 @@ z 1st leg in Hamilton
 
 Round of 16
 (Mar. 10 & 17)
-Monterrey                Mex  Cruz Azul                Mex    -    -    - x
-Los Angeles FC           USA  LD Alajuelense           CRi    -    -    -
+Monterrey                Mex  Cruz Azul                Mex   2-3  1-1  3-4 x
+  [Roberto de la Rosa 35, 40; Erik Lira 25, Gonzalo Piovi 84pen, Nicolás Ibáñez 90]
+  [José Antonio Paradela 46; Jorge Rodríguez 8]
+Los Angeles FC           USA  LD Alajuelense           CRi   1-1  2-1  3-2
+  [Denis Bouanga 56; Alejandro Bran 44]
+  [Santiago van der Putten 4; Nathan Ordaz 51, David Martínez 90+2]
 (Mar. 10 & 18)
-Philadelphia Union       USA  América                  Mex    -    -    -
+Philadelphia Union       USA  América                  Mex   0-1  1-1  1-2
+  [Raphael Veiga 20]
+  [Rodrigo Dourado 6; Jesús Bueno 49pen]
 (Mar. 11 & 18)
-San Diego FC             USA  Toluca                   Mex    -    -    -
-Nashville SC             USA  Inter Miami              USA    -    -    -
+San Diego FC             USA  Toluca                   Mex   3-2  0-4  3-6
+  [David Vazquez 32 46, Anders Dreyer 53; Jesús Gallardo 16pen, Helio Nunes "Helinho" 90pen]
+  [Jesús Ricardo Angulo 43, 59, Joao Paulo Dias "Paulinho" 56, Jesús Gallardo 90+2]
+Nashville SC             USA  Inter Miami              USA   0-0  1-1 *1-1
+  [Lionel Messi 7; Cristian Espinoza 74]
 (Mar. 11 & 19)
-Los Angeles Galaxy       USA  Mount Pleasant           Jam    -    -    -
+Los Angeles Galaxy       USA  Mount Pleasant           Jam   3-0  3-0  6-0
+  [Gabriel Pec 6, 89, 90+6]
+  [Joao Klauss 18, Gabriel Pec 61, 87]
 (Mar. 12 & 18)
-Vancouver Whitecaps      Can  Seattle Sounders         USA    -    -    - y
+Vancouver Whitecaps      Can  Seattle Sounders         USA   0-3  1-2  1-5 y
+  [Paul Arriola 45, 58, Paul Rothrock 70]
+  [Danny Musovski 79, Paul Rothrock 83; Jeevan Badwal 24]
 (Mar. 12 & 19)
-FC Cincinnati            USA  Tigres UANL              Mex    -    -    -
+FC Cincinnati            USA  Tigres UANL              Mex   3-0  1-5  4-5
+  [Kévin Denkey 6, 83, Tom Barlow 53]
+  [Rodrigo Aguirre 5, 49, Ozziel Herrera 10, 46, Fernando Gorriarán 90+8; Kévin Denkey 65]
 x 2nd leg in Puebla
 y 2nd leg in Spokane
+
+Quarterfinals
+(Apr. 7 & 14)
+Los Angeles FC           USA  Cruz Azul                Mex   3-0  1-1  4-1 x
+  [Son Jeung-Min 30, David Martínez 39, 58]
+  [Gabriel Fernández 18pen; Denis Bouanga 90+7pen]
+Nashville SC             USA  América                  Mex   0-0  1-0  1-0
+  [Hany Mukhtar 51]
+(Apr. 8 & 15)
+Toluca                   Mex  Los Angeles Galaxy       USA   4-2  3-0  7-2
+  [Nicolás Castro 12, Joao Paulo Dias "Paulinho" 43, 73, 85; Gabriel Pec 66, Marco Reus 77]
+  [Jesús Gallardo 10, Joao Paulo Dias "Paulinho" 58, 64]
+Tigres UANL              Mex  Seattle Sounders         USA   2-0  1-3 *3-3
+  [Ozziel Herrera 51, Jackson Ragen 76og]
+  [Albert Rusnák 11, 82, Danny Musovski 48; Joaquim Pereira 31]
+x 2nd leg in Puebla
+
+Semifinals
+(Apr. 28 & May 5)
+Nashville SC             USA  Tigres UANL              Mex    -    -    -
+(Apr. 29 & May 6)
+Los Angeles FC           USA  Toluca                   Mex    -    -    -
+
+Final
+(May 30)
 
 
 

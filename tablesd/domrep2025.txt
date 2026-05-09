@@ -2,7 +2,7 @@
      title:   Dominican Republic 2025/26
      source:  https://rsssf.org/tablesd/domrep2025.html
      author:  Karel Stokkermans
-     updated: 16 Mar 2026
+     updated: 5 May 2026
     -->
 
 
@@ -238,14 +238,15 @@ Final Table:
 
 ===== Liguilla  ‹§lig›
 
-Table:
+Final Table:
 
- 1.Cibao FC (Santiago de los Caballeros) 10   6  3  1  15- 7  21  [C]
- 2.Delfines del Este (La Romana)         10   5  3  2  12- 7  18
- 3.Atlético Pantoja                      10   2  7  1  15-12  13
- 4.Salcedo FC                            10   3  4  3  12-13  13  [N]
- 5.Moca FC                               10   2  3  5   8-12   9
- 6.Universidad Organización y Métodos    10   1  2  7  11-22   5
+ 1.Cibao FC (Santiago de los Caballeros) 15   8  6  1  22-11  30  [C]  ‹Qualified, see §po›
+ 2.Delfines del Este (La Romana)         15   7  5  3  19-12  26       ‹Qualified, see §po›
+ 3.Salcedo FC                            15   6  5  4  20-17  23  [N]  ‹Qualified, see §po›
+ 4.Atlético Pantoja                      15   4  7  4  22-18  19       ‹Qualified, see §po›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.Moca FC                               15   3  5  7  12-19  14
+ 6.Universidad Organización y Métodos    15   1  4 10  16-34   7
 
 Round 1
 [Jan 10]
@@ -318,14 +319,68 @@ Delfines del Este        0-0 Salcedo FC
 [Mar 15]
 Moca FC                  1-3 Universidad O&M
 
-Table:
+Round 11
+[Mar 20]
+Atlético Pantoja         3-0 Universidad O&M
+[Mar 21]
+Salcedo FC               1-0 Moca FC
+Cibao FC                 0-0 Delfines del Este
 
- 1.Cibao FC (Santiago de los Caballeros) 10   6  3  1  15- 7  21  [C]
- 2.Delfines del Este (La Romana)         10   5  3  2  12- 7  18
- 3.Atlético Pantoja                      10   2  7  1  15-12  13
- 4.Salcedo FC                            10   3  4  3  12-13  13  [N]
- 5.Moca FC                               10   2  3  5   8-12   9
- 6.Universidad Organización y Métodos    10   1  2  7  11-22   5
+Round 12
+[Mar 31]
+Universidad O&M          abd Salcedo FC               [abandoned at 1-2 in 45' due to bad weather]
+[Apr 1]
+Delfines del Este        3-1 Atlético Pantoja
+Moca FC                  2-2 Cibao FC
+[Apr 9]
+Universidad O&M          1-3 Salcedo FC               [second half]
+
+Round 13
+[Apr 11]
+Atlético Pantoja         3-0 Moca FC
+[Apr 12]
+Cibao FC                 1-1 Salcedo FC
+Delfines del Este        2-2 Universidad O&M
+
+Round 14
+[Apr 18]
+Salcedo FC               2-0 Atlético Pantoja
+Moca FC                  1-0 Delfines del Este
+[Apr 19]
+Cibao FC                 3-1 Universidad O&M
+
+Round 15
+[Apr 24]
+Universidad O&M          1-1 Moca FC
+[Apr 25]
+Salcedo FC               1-2 Delfines del Este
+Atlético Pantoja         0-1 Cibao FC
+
+Final Table:
+
+ 1.Cibao FC (Santiago de los Caballeros) 15   8  6  1  22-11  30  [C]  ‹Qualified, see §po›
+ 2.Delfines del Este (La Romana)         15   7  5  3  19-12  26       ‹Qualified, see §po›
+ 3.Salcedo FC                            15   6  5  4  20-17  23  [N]  ‹Qualified, see §po›
+ 4.Atlético Pantoja                      15   4  7  4  22-18  19       ‹Qualified, see §po›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5.Moca FC                               15   3  5  7  12-19  14
+ 6.Universidad Organización y Métodos    15   1  4 10  16-34   7
+
+===== Championship Playoff  ‹§po›
+
+Semifinals
+
+First Legs
+[May 2]
+Atlético Pantoja         0-1 Cibao FC
+[May 3]
+Salcedo FC               1-0 Delfines del Este
+
+Second Legs
+[May 9]
+Delfines del Este         -  Salcedo FC
+[May 10]
+Cibao FC                  -  Atlético Pantoja
 
 
 

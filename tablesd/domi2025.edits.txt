@@ -1,6 +1,9 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹Premier League 2025, see §prem›
+‹President's Cup 2025, see §pres›
+‹First Division 2025, see §div1›
 
 
 -- removing nav(igation) section:

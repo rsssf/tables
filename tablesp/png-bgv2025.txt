@@ -2,7 +2,7 @@
      title:   Bougainville 2025
      source:  https://rsssf.org/tablesp/png-bgv2025.html
      author:  Karel Stokkermans
-     updated: 23 Sep 2025
+     updated: 28 Apr 2026
     -->
 
 

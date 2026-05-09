@@ -2,7 +2,7 @@
      title:   Iraq 2024/25
      source:  https://rsssf.org/tablesi/iraq2025.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 24 Jul 2025
+     updated: 16 Apr 2026
     -->
 
 
@@ -649,6 +649,37 @@ Final Table:
 ----------------------------------------------------------
 19.Al-Hudod (Baghdad)              38   8  2 28  37-79  26       Relegated
 20.Karbala (Karbala)               38   4 10 24  26-66  22       Relegated
+
+
+
+
+
+==== Iraqi FA Cup 2024/25  ‹§cup›
+
+1/8 Finals
+[Feb 26]
+Mina'a            1-0 Zawra'a
+Najaf             3-2 Peshmerga Sulimaniya
+Quwa Jawiya       2-1 Qasim
+Duhok             3-0 Maysan
+[Feb 27]
+Newroz            2-2 Hussein           [aet, 3-2 pen]
+Talaba            2-0 Nadi Baghdad      [aet]
+Shurta            1-0 Mosul             [aet]
+Zakho             2-0 Karmah
+
+Quarterfinals [Jul 8]
+Duhok             3-1 Mina'a
+Zakho             1-0 Newroz
+Quwa Jawiya       3-1 Najaf
+Shurta            1-1 Talaba            [aet, 4-1 pen]
+
+Semifinals [Jul 12]
+Duhok             3-1 Quwa Jawiya
+Zakho             0-0 Shurta            [aet, 4-3 pen]
+
+Final [Jul 18, Al-Shaab stadium,  Baghdad]
+Duhok             0-0 Zakho             [aet, 5-3 pen]
 
 
 

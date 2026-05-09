@@ -1,8 +1,8 @@
   <!--
      title:   Canada 2025
      source:  https://rsssf.org/tablesc/can2025.html
-     author:  Karel Stokkermans
-     updated: 14 Nov 2025
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 23 Apr 2026
     -->
 
 
@@ -104,5 +104,45 @@ Forge FC             0-1 Cavalry FC
 
 Final [Nov 9]
 Atlético Ottawa      2-1 Cavalry FC           [aet]
+
+
+
+
+
+
+==== Quebec Province 2025  ‹§quebec›
+
+
+===== Ligue 1 Quebec 2025  ‹§qelite›
+
+Final Table:
+
+ 1.CS Saint-Laurent              18  13  4  1  43-18  43       Champions
+ 2.AS Laval                      18  11  1  6  39-24  34
+ 3.Royal-Sélect de Beauport      18   9  2  7  37-35  29
+ 4.FC Laval                      18   8  4  6  35-34  28
+ 5.CS Mont-Royal Outremont       18   8  0 10  30-37  24
+ 6.AS Blainville                 18   6  5  7  27-21  23
+ 7.Celtix de Haut-Richelieu      18   6  3  9  30-38  21
+ 8.CS Saint-Hubert               18   5  4  9  19-30  19
+ 9.Ottawa South United           18   4  5  9  30-34  17       Relegated
+10.CS Longueuil                  18   4  4 10  19-38  15  [-1] Relegated
+
+Promoted from Ligue 2: CS Lasalle and AS Gatineau
+
+===== Coupe PLSQ 2025  ‹§qcup›
+
+Qarterfinals [Aug 31]
+CS Saint-Laurent     2-0 CS Saint-Hubert
+FC Laval             4-2 Mont-Royal Outremont [aet]
+AS Laval             1-0 Celtix Ht.-Richelieu [aet]
+Royal-Sél. Beauport  2-2 AS Blainville        [aet, 2-4 pen]
+
+Semifinals [Sep 13]
+CS Saint-Laurent     1-0 FC Laval
+AS Laval             2-2 AS Blainville        [aet, 1-3 pen]
+
+Final [Sep 27]
+CS Saint-Laurent     1-2 AS Blainville
 
 

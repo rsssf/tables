@@ -1,9 +1,12 @@
 -- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
 -- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="qelite">Ligue 1 Quebec 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="qcup">Coupe PLSQ 2025</a><
 -- removing nav(igation) section:
 
 ‹Canadian Championship 2025, see §amway›
 ‹Canadian Premier League 2025, see §cpl›
+‹Quebec Province 2025, see §quebec›
 
 
 -- removing nav(igation) section:
@@ -27,3 +30,6 @@
 
 -- removing 1 leading nav line(s) in section 4:
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+-- removing 1 leading nav line(s) in section 7:
+‹Ligue 1 Quebec 2025, see §qelite› | ‹Coupe PLSQ 2025, see §qcup›

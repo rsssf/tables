@@ -1,2 +1,3 @@
 tablesp/png-bgv2024             :  2024
+tablesp/png-bgv2026             :  2026
 tablesp/pngchamp§bgv            :  list of champions

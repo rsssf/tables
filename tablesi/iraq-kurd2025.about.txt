@@ -11,9 +11,9 @@ Prepared and maintained by Karel Stokkermans for the
 
 Author: Karel Stokkermans
 
-Last updated: 3 Jun 2025
+Last updated: 28 Apr 2026
 
 
-(C) Copyright Karel Stokkermans and RSSSF 2024/25
+(C) Copyright Karel Stokkermans and RSSSF 2024/26
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

@@ -1,2 +1,3 @@
 tablesb/bhutan2024              :  2024
+tablesb/bhutan2026              :  2026
 tablesb/bhutanchamp             :  list of champions

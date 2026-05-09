@@ -2,7 +2,7 @@
      title:   UEFA Nations League 2024/25
      source:  https://rsssf.org/tables/2025uefanl.html
      author:  Roberto Di Maggio
-     updated: 23 Jan 2026
+     updated: 12 Apr 2026
     -->
 
 
@@ -340,11 +340,13 @@ Group 4
 
 Promotion/Relegation Playoff League C-D  ‹§crpo›
 
-26- 3-26 Gibraltar      Gibraltar           -  Latvia
-31- 3-26 Riga           Latvia              -  Gibraltar
+26- 3-26 Gibraltar      Gibraltar          0-1 Latvia
+31- 3-26 Riga           Latvia             1-0 Gibraltar
 
-26- 3-26 Valletta       Malta               -  Luxembourg
-31- 3-26 Luxembourg     Luxembourg          -  Malta
+26- 3-26 Valletta       Malta              0-2 Luxembourg
+31- 3-26 Luxembourg     Luxembourg         3-0 Malta
+
+All teams remained in their respective leagues.
 
 
 

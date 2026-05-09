@@ -1,2 +1,3 @@
 tablesa/anguilla2024            :  2024
+tablesa/anguilla2026            :  2026
 tablesa/anguillachamp           :  list of champions

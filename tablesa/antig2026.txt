@@ -2,7 +2,7 @@
      title:   Antigua and Barbuda 2025/26
      source:  https://rsssf.org/tablesa/antig2026.html
      author:  Karel Stokkermans
-     updated: 19 Mar 2026
+     updated: 7 May 2026
     -->
 
 
@@ -16,18 +16,19 @@
 
 Table:
 
- 1.All Saints United        17  14  2  1  55-14  44  [C]
- 2.Grenades                 15  12  2  1  41-14  38
- 3.Aston Villa              16  11  0  5  47-26  33
- 4.Old Road                 17   9  5  3  54-23  32
- 5.Bullets                  17   9  2  6  31-19  29
- 6.Potters Tigers           16   6  5  5  30-28  23
- 7.Garden Stars             17   5  7  5  34-33  22
- 8.Attacking Saints         17   7  1  9  31-36  22
- 9.Green City               17   5  4  8  27-33  19
-10.John Hughes              17   3  1 13  13-55  10
-11.Ottos Rangers            17   2  1 14  18-53   7  [P]
-12.Jennings United          17   2  0 15   9-56   6  [P]
+ 1.All Saints United        21  18  2  1  71-16  56  [C]
+ 2.Grenades                 21  18  2  1  62-17  56
+ 3.Aston Villa              22  14  2  6  69-43  44
+ 4.Bullets                  22  12  3  7  40-25  39
+ 5.Old Road                 22  10  6  6  75-37  36
+ 6.Potters Tigers           22   9  6  7  41-36  33
+ 7.Garden Stars             22   8  7  7  48-40  31
+ 8.Green City               22   6  5 11  35-41  23
+---------------------------------------------------
+ 9.Attacking Saints         22   7  2 13  37-49  23       Relegated
+10.John Hughes              22   5  1 16  17-68  16       Relegated
+11.Ottos Rangers            22   3  2 17  24-67  11  [P]  Relegated
+12.Jennings United          22   2  0 20  10-90   6  [P]  Relegated
 
 Round 1
 [Oct 25]
@@ -150,6 +151,7 @@ Halfway Table:
  6.Garden Stars             11   4  3  4  26-24  15
  7.Potters Tigers           11   3  4  4  17-21  13
  8.Green City               11   3  2  6  17-25  11
+---------------------------------------------------
  9.Attacking Saints         11   3  1  7  16-27  10
 10.John Hughes              11   3  1  7   9-27  10
 11.Ottos Rangers            11   1  1  9   9-32   4  [P]
@@ -183,8 +185,8 @@ All Saints United    2-1 Green City
 [Feb 8]
 Bullets              2-0 Attacking Saints
 Garden Stars         1-1 Old Road
-[tba]
-Aston Villa           -  Grenades
+[Apr 11]
+Aston Villa          1-7 Grenades
 
 Round 15
 [Feb 14]
@@ -196,21 +198,7 @@ Ottos Rangers        1-3 All Saints United
 Bullets              0-0 Old Road
 Aston Villa          3-1 Garden Stars
 
-Round 16 [tba]
-Old Road              -  Grenades
-Aston Villa           -  Jennings United
-John Hughes           -  Green City
-Bullets               -  Ottos Rangers
-Garden Stars          -  Attacking Saints
-Potters Tigers        -  All Saints United
-
-Round 17 [tba]
-Bullets               -  Potters Tigers
-Garden Stars          -  Ottos Rangers
-Aston Villa           -  Green City
-Grenades              -  Attacking Saints
-Old Road              -  Jennings United
-All Saints United     -  John Hughes
+NB: rounds 16 and 17 played after round 22
 
 Round 18
 [Mar 7]
@@ -234,22 +222,83 @@ Attacking Saints     4-1 Green City
 Garden Stars         2-2 Bullets
 [Mar 17]
 Jennings United      1-4 Ottos Rangers
-[tba]
-Grenades              -  Potters Tigers
+[Apr 16]
+Grenades             3-1 Potters Tigers
+
+Round 20
+[Mar 21]
+Jennings United      0-2 Potters Tigers
+Garden Stars         0-3 All Saints United
+[Mar 22]
+Ottos Rangers        1-4 Green City
+Old Road             4-5 Aston Villa
+[Mar 23]
+Attacking Saints     0-1 John Hughes
+[May 3]
+Grenades             1-0 Bullets
+
+Round 21
+[Mar 28]
+Attacking Saints     2-3 Aston Villa
+All Saints United    awd Old Road             [awarded 3-0, Old Road forfeited]
+[Mar 29]
+Green City           1-2 Potters Tigers
+Jennings United      1-3 Bullets
+[Mar 30]
+Ottos Rangers        1-0 John Hughes
+[Mar 31]
+Grenades             3-1 Garden Stars
+
+Round 22
+[Apr 4]
+Ottos Rangers        2-2 Aston Villa
+Jennings United      0-6 Garden Stars
+[Apr 5]
+Potters Tigers       awd John Hughes          [awarded 3-0]
+Green City           0-1 Bullets
+[Apr 8]
+Attacking Saints     3-3 Old Road
+[May 9]
+Grenades              -  All Saints United
+
+Round 16
+[Apr 12]
+John Hughes          2-1 Green City
+[Apr 18]
+Bullets              3-2 Ottos Rangers
+Garden Stars         2-1 Attacking Saints
+Aston Villa          9-0 Jennings United
+[Apr 29]
+Old Road             awd Grenades             [awarded 0-3]
+[May 3]
+Potters Tigers       1-2 All Saints United
+
+Round 17
+[Apr 11]
+Bullets              2-2 Potters Tigers
+[Apr 12]
+Garden Stars         5-0 Ottos Rangers
+[Apr 25]
+Old Road            14-0 Jennings United
+Grenades             4-0 Attacking Saints
+[Apr 26]
+All Saints United    8-1 John Hughes
+Aston Villa          2-2 Green City
 
 Table:
 
- 1.All Saints United        17  14  2  1  55-14  44  [C]
- 2.Grenades                 15  12  2  1  41-14  38
- 3.Aston Villa              16  11  0  5  47-26  33
- 4.Old Road                 17   9  5  3  54-23  32
- 5.Bullets                  17   9  2  6  31-19  29
- 6.Potters Tigers           16   6  5  5  30-28  23
- 7.Garden Stars             17   5  7  5  34-33  22
- 8.Attacking Saints         17   7  1  9  31-36  22
- 9.Green City               17   5  4  8  27-33  19
-10.John Hughes              17   3  1 13  13-55  10
-11.Ottos Rangers            17   2  1 14  18-53   7  [P]
-12.Jennings United          17   2  0 15   9-56   6  [P]
+ 1.All Saints United        21  18  2  1  71-16  56  [C]
+ 2.Grenades                 21  18  2  1  62-17  56
+ 3.Aston Villa              22  14  2  6  69-43  44
+ 4.Bullets                  22  12  3  7  40-25  39
+ 5.Old Road                 22  10  6  6  75-37  36
+ 6.Potters Tigers           22   9  6  7  41-36  33
+ 7.Garden Stars             22   8  7  7  48-40  31
+ 8.Green City               22   6  5 11  35-41  23
+---------------------------------------------------
+ 9.Attacking Saints         22   7  2 13  37-49  23       Relegated
+10.John Hughes              22   5  1 16  17-68  16       Relegated
+11.Ottos Rangers            22   3  2 17  24-67  11  [P]  Relegated
+12.Jennings United          22   2  0 20  10-90   6  [P]  Relegated
 
 

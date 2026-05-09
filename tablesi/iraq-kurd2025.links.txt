@@ -1,3 +1,4 @@
 tablesi/iraq2025§ipl            :  Iraqi Premier League 2024/25 (link to separate file)
 tablesi/iraq-kurd2024           :  2023/24
+tablesi/iraq-kurd2026           :  2025/26
 tablesi/iraq-kurdchamp          :  list of champions

@@ -1,5 +1,6 @@
 -- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
 -- make heading (hb) out of b-enclosed a name in line ><a name="lig">Liguilla</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="po">Championship Playoff</a><
 -- make heading (hb) out of b-enclosed a name in line ><a name="creg">Regular Stage</a><
 -- make heading (hb) out of b-enclosed a name in line ><a name="cplay">Playoff Stage</a><
 -- removing nav(igation) section:
@@ -18,4 +19,4 @@
 
 
 -- removing 1 leading nav line(s) in section 3:
-‹Regular Stage, see §reg› | ‹Liguilla, see §lig›
+‹Regular Stage, see §reg› | ‹Liguilla, see §lig› | ‹Championship Playoff, see §po›
