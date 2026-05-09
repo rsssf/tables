@@ -1,3 +1,8 @@
+-- found b-enclosed line >First Stage< - heading?
+-- found u-enclosed line >Group A< - heading?
+-- found u-enclosed line >Group B< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="om22">Second Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="om2rpo">Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹OFA Oman Mobile League, see §oml›

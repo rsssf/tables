@@ -1,0 +1,10 @@
+tablesc/chile2024               :  2024
+tablesc/chilechamp              :  list of champions
+tablesc/chileligchamp           :  list of liguilla pre-libertadores champions
+tablesc/chile2champ             :  list of 2nd division champions
+tablesc/chile3champ             :  list of 3rd division champions
+tablesc/chile4champ             :  list of 4th division champions
+tablesc/chilehist               :  list of final tables
+tablesc/chilealltime            :  all-time table
+tablesc/chilecuphist            :  list of cup finals
+tablesc/chiletops               :  list of topscorers

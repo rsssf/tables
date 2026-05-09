@@ -2,7 +2,7 @@
      title:   Andorra 2024/25
      source:  https://rsssf.org/tablesa/ando2025.html
      author:  Karel Stokkermans
-     updated: 17 Nov 2025    
+     updated: 17 Nov 2025
     -->
 
 
@@ -293,7 +293,7 @@ Final Table:
 NB: two more losses than wins and overall goal difference -6 due to award
     match round 1 between Penya Encarnada and Atlètic
 
-Partit de Promoció  ‹§prorel›
+===== Partit de Promoció  ‹§prorel›
 
 First Leg [May 24]
 City Escaldes      0-2 Esperança

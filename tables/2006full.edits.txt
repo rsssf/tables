@@ -1,0 +1,23 @@
+-- removed 36 remaining nav html element(s):
+<menu> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul> <ul> <LI> <LI> <LI> <LI> </ul> </menu>
+-- removing 17 leading nav line(s) in section 2:
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Group E, see §gre›
+‹Group F, see §grf›
+‹Group G, see §grg›
+‹Group H, see §grh›
+‹1/8 Finals, see §8f›
+‹Quarterfinals, see §qf›
+‹Semifinals, see §sf›
+‹Third Place Match, see §3m›
+‹Final, see §fin›
+‹Goalscorers, see §scorers›
+‹Awards, see §awards›
+‹Statistics, see §stats›
+‹Squads, see §squads›
+
+-- removing 1 trailing nav line(s) in last section 19:
+‹overview 2006 final tournament, see page 2006f›

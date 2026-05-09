@@ -1,0 +1,5 @@
+tablesm/mauri2025§mfa           :  MFA Cup
+tablesr/rodri2024               :  2023/24
+tablesr/rodri2026               :  2025/26
+tablesr/rodrichamp              :  list of champions
+tablesr/rodricuphist            :  list of cup winners

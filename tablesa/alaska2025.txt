@@ -2,7 +2,7 @@
      title:   Alaska 2025
      source:  https://rsssf.org/tablesa/alaska2025.html
      author:  Martin Arenlind
-     updated: 23 Dec 2025    
+     updated: 23 Dec 2025
     -->
 
 
@@ -88,5 +88,4 @@ Final Table:
  6.Icemen FC (Fairbanks)           10  1  1  8   8-26  -2  [-6]
 
 
-‹2024, see page alaska2024›
 

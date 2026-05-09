@@ -1,3 +1,17 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="top4">Top-4 Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prorel">Promotion/Relegation Playoffs</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="g2a">Group A</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="g2b">Group B</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2fin">Championship Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3prorel">Promotion/Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="g3a">Group A</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="g3b">Group B</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3fin">Championship Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="4prom">Promotion Playoff</a><
 -- removing nav(igation) section:
 
 ‹Kategoria Superiore, see §super›
@@ -19,3 +33,12 @@
 
 ‹list of foundation dates, see page albafound›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Top-4 Playoff, see §top4›
+
+-- removing 1 leading nav line(s) in section 11:
+‹Group A, see §g2a› | ‹Group B, see §g2b› | ‹Championship Final, see §2fin›
+
+-- removing 1 leading nav line(s) in section 17:
+‹Group A, see §g3a› | ‹Group B, see §g3b› | ‹Championship Final, see §3fin›

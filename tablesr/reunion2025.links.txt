@@ -1,0 +1,5 @@
+tablesr/reunion2024             :  2024
+tablesr/reunionchamp            :  list of champions
+tablesr/reunionhist             :  list of final tables
+tablesr/reunioncuphist          :  list of winners coupe de la reunion
+tablesf/franseaterrcuphist      :  list of french sea territories cup winners

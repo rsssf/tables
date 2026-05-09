@@ -1,0 +1,6 @@
+tablesi/iran2024                :  2023/24
+tablesi/iranchamp               :  list of champions
+tablesi/irancuphist             :  list of cup finals
+tablesi/iran2champ              :  list of 2nd level champions
+tablesi/iranfound               :  list of foundation dates
+tablesi/irantops                :  list of topscorers

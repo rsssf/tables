@@ -1,3 +1,4 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="mfrance">Coupe de France 2025</a><
 -- removing nav(igation) section:
 
 ‹Régional 1, see §honneur›
@@ -13,3 +14,6 @@
 
 ‹list of cup winners, see page mayocuphist›
 
+
+-- removing 1 leading nav line(s) in section 4:
+‹Coupe de France 2025, see §mfrance›

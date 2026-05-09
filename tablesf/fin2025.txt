@@ -2,7 +2,7 @@
      title:   Finland 2025
      source:  https://rsssf.org/tablesf/fin2025.html
      author:  Karel Stokkermans
-     updated: 8 Jan 2026    
+     updated: 8 Jan 2026
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Premier Division (Veikkausliiga)  ‹§veik›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -34,11 +33,10 @@ Final Table:
 11.FC Haka (Valkeakoski)         22   4  4 14  27-43  16       ‹Relegation Playoff, see §releg›
 12.FC KTP (Kotka)                22   3  5 14  24-55  14  [P]  ‹Relegation Playoff, see §releg›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -49,7 +47,7 @@ Final Table:
  5.HJK (Helsinki)                32  14  7 11  74-52  49
  6.IF Gnistan (Helsinki)         32   8  9 15  47-65  33
 
-Relegation Playoff  ‹§releg›
+====== Relegation Playoff  ‹§releg›
 
 Final Table:
 
@@ -62,7 +60,7 @@ Final Table:
 --------------------------------------------------------
 12.FC Haka (Valkeakoski)         27   4  5 18  30-50  17       Relegated
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 First Leg [Oct 23]
 TPS             3-0 KTP
@@ -131,7 +129,7 @@ Final Table:
 
 NB: PK-35 2 points deducted for failing to fulfil licensing criteria
 
-Promotion/Relegation Playoff 2nd/3rd Level  ‹§2prorel›
+===== Promotion/Relegation Playoff 2nd/3rd Level  ‹§2prorel›
 
 First Leg [Oct 23]
 OLS             0-3 KäPa
@@ -147,9 +145,8 @@ NB: both remain at former level
 
 ==== Ykkönen  ‹§ykko›
 
-‹Regular Stage, see §3reg› | ‹Playoff Stage, see §3play›
 
-Runkosarja (Regular Stage)  ‹§3reg›
+===== Runkosarja (Regular Stage)  ‹§3reg›
 
 Final Table:
 
@@ -170,11 +167,10 @@ Final Table:
 NB: Atlantis FC 2 points deducted for failing to fulfil licensing criteria;
     FC Jazz 3 points deducted for failing to fulfil licensing criteria
 
-Jatkosarja (Playoff Stage)  ‹§3play›
+===== Jatkosarja (Playoff Stage)  ‹§3play›
 
-‹Promotion Playoff, see §3prom› | ‹Relegation Playoff, see §3releg›
 
-Ylempi jatkosarja (Promotion Playoff)  ‹§3prom›
+====== Ylempi jatkosarja (Promotion Playoff)  ‹§3prom›
 
 Final Table:
 
@@ -187,7 +183,7 @@ Final Table:
  5.JJK (Jyväskylä)               27  10  4 13  38-42  34
  6.Tampere United                27   9  4 14  35-47  31  [P]
 
-Alempi jatkosarja (Relegation Playoff)  ‹§3releg›
+====== Alempi jatkosarja (Relegation Playoff)  ‹§3releg›
 
 Final Table:
 

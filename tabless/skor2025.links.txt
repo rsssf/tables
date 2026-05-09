@@ -1,0 +1,7 @@
+tabless/skor2024                :  2024
+tabless/skorchamp               :  list of champions
+tabless/skorhist                :  list of final tables
+tabless/skor2champ              :  list of 2nd level champions
+tabless/skorcuphist             :  list of cup winners
+tabless/skorstadia              :  data on stadiums
+tabless/skortops                :  list of top scorers

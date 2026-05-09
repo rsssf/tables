@@ -1,3 +1,5 @@
+-- make heading (hu) out of u-enclosed a name in line ><a name="spt1">Tier 1</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="spt2">Tier 2</a><
 -- removing nav(igation) section:
 
 ‹Semi-Professional League 2025, see §facup›

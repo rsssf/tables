@@ -2,34 +2,18 @@
      title:   World Cup 2002 - Match Details
      source:  https://rsssf.org/tables/2002full.html
      author:  Erlan Manaschev
-     updated: 3 Jul 2008    
+     updated: 3 Jul 2008
     -->
 
 
 == World Cup 2002 - Match Details
 
-<menu>
-<ul>
-<li>‹Group A, see §gra›</li>
-<li>‹Group B, see §grb›</li>
-<li>‹Group C, see §grc›</li>
-<li>‹Group D, see §grd›</li>
-<li>‹Group E, see §gre›</li>
-<li>‹Group F, see §grf›</li>
-<li>‹Group G, see §grg›</li>
-<li>‹Group H, see §grh›</li>
-<li>‹1/8 Finals, see §8f›</li>
-<li>‹Quarterfinals, see §qf›</li>
-<li>‹Semifinals, see §sf›</li>
-<li>‹Third Place Match, see §3m›</li>
-<li>‹Final, see §fin›</li>
-</ul>
-<ul>
-<LI>‹Squads, see §squads›
-<LI>‹Oldest and youngest, see §records›
-<LI>‹Awards, see §awards›
-</ul>
-</menu>
+
+
+
+
+
+
 
 
 
@@ -1343,38 +1327,6 @@ Cards:              Germany: Miroslav Klose [Y 9'].
 == Squads  ‹§squads›
 
 
-‹Argentina, see §arg›.
-‹Belgium, see §bel›.
-‹Brazil, see §bra›.
-‹Cameroon, see §cam›.
-‹China, see §chi›.
-‹Costa Rica, see §cos›.
-‹Croatia, see §cro›.
-‹Denmark, see §den›.
-‹Ecuador, see §ecu›.
-‹England, see §eng›.
-‹France, see §fra›.
-‹Germany, see §ger›.
-‹Ireland, see §ire›.
-‹Italy, see §ita›.
-‹Japan, see §jap›.
-‹Mexico, see §mex›.
-‹Nigeria, see §nig›.
-‹Paraguay, see §par›.
-‹Poland, see §pol›.
-‹Portugal, see §por›.
-‹Russia, see §rus›.
-‹Saudi Arabia, see §sau›.
-‹Senegal, see §sen›.
-‹Slovenia, see §slo›.
-‹South Africa, see §saf›.
-‹South Korea, see §sko›.
-‹Spain, see §spa›.
-‹Sweden, see §swe›.
-‹Tunisia, see §tun›.
-‹Turkey, see §tur›.
-‹Uruguay, see §uru›.
-‹USA, see §usa›.
 
 ARGENTINA  ‹§arg›
 
@@ -2280,5 +2232,4 @@ Lev Yashin (Best Goalkeeper) - Oliver Kahn (Germany)
 FIFA Fair Play Trophy - Belgium
 
 
-‹overview 2002 final tournament, see page 2002f›
 

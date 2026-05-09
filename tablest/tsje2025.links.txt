@@ -1,0 +1,6 @@
+tablest/tsje2024                :  2023/24
+tablest/tsjechamp               :  list of champions
+tablest/tsjecuphist             :  list of cup winners
+tablest/tsjetops                :  list of topscorers
+tablest/tsjetops-allt           :  list of all-time topscorers
+tablest/tsje2tops               :  list of 2nd level topscorers

@@ -1,0 +1,6 @@
+tablesi/isra2024                :  2023/24
+tablesi/israchamp               :  list of champions
+tablesi/israhist                :  list of final tables
+tablesi/isracuphist             :  list of cup finals
+tablesi/israalltime             :  partial all-time table
+tablesi/isratops                :  list of topscorers

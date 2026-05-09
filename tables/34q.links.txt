@@ -1,0 +1,4 @@
+tables/34cubacampaign           :  Cuba in the 1934 World Cup versus Haiti and Mexico
+tables/34qual                   :  Detailed Infos
+tables/34f                      :  1934 Final Tournament
+tablesw/worldcup                :  Overview File

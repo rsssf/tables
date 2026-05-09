@@ -1,0 +1,5 @@
+tablesc/china2024               :  2024
+tablesc/chinachamp              :  list of champions
+tablesc/chinahist               :  list of final tables 1951-89
+tablesc/chinacuphist            :  list of cup winners
+tablesc/chinasupercuphist       :  list of super cup winners

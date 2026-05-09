@@ -1,0 +1,4 @@
+tablesd/domi2024                :  2024
+tablesd/domi2026                :  2026
+tablesd/domichamp               :  list of champions
+tablesd/domicuphist             :  list of cup winners

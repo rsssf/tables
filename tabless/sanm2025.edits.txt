@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
 -- removing nav(igation) section:
 
 ‹Campionato Dilettanti 2024/25, see §campionato›
@@ -12,3 +14,6 @@
 
 ‹list of cup winners, see page sanmcuphist›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›

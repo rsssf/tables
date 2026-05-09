@@ -2,7 +2,7 @@
      title:   Wales 2024/25
      source:  https://rsssf.org/tablesw/wal2025.html
      author:  Karel Stokkermans
-     updated: 12 Jun 2025    
+     updated: 12 Jun 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Uwch Gynghrair Cymru (Cymru Premier)  ‹§low›
 
-‹Regular Stage, see §reg› | ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -273,7 +272,7 @@ Final Table:
 11.Newtown                         22   5  4 13  24-46  19       ‹Relegation Playoff, see §releg›
 12.Aberystwyth Town                22   4  2 16  18-53  14       ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+===== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -357,7 +356,7 @@ Final Table:
  5.Cardiff Metropolitan University 32  12  8 12  43-46  44       ‹Conference League Playoff, see §conf›
  6.Bala Town                       32   8 13 11  38-43  37       ‹Conference League Playoff, see §conf›
 
-Conference League Playoff  ‹§conf›
+===== Conference League Playoff  ‹§conf›
 
 Round 1 [Apr 26]
 Caernarfon      5-2 Barry
@@ -369,7 +368,7 @@ Caernarfon      0-0 Cardiff Met     [aet, 4-2 pen]
 Final [May 18]
 Haverfordwest   3-1 Caernarfon
 
-Relegation Playoff  ‹§releg›
+===== Relegation Playoff  ‹§releg›
 
 Final Table:
 
@@ -458,9 +457,8 @@ Final Table:
 
 ==== Cup Tournaments  ‹§cups›
 
-‹Welsh Cup, see §welsh› | ‹League Cup, see §leaguecup›
 
-Welsh Cup 2024/25  ‹§welsh›
+===== Welsh Cup 2024/25  ‹§welsh›
 
 1/8 Finals
 [Dec 13]
@@ -492,7 +490,7 @@ Cambrian United         0-5 The New Saints
 Final [May 4]
 Connah's Quay Nomads    1-2 The New Saints
 
-League Cup 2024/25  ‹§leaguecup›
+===== League Cup 2024/25  ‹§leaguecup›
 
 Round 1
 Northern

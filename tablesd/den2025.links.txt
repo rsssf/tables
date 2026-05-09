@@ -1,0 +1,4 @@
+tablesd/den2024                 :  2023/24
+tablesd/denchamp                :  list of champions
+tablesd/dencuphist              :  list of cup finals
+tablesd/densupcuphist           :  list of super cup finals

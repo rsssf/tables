@@ -1,0 +1,9 @@
+tablese/eur-women-qual2023      :  UEFA
+tablesa/asia-women2022          :  AFC
+tablesa/afr-women2022           :  CAF
+tableso/oc-women2022            :  OFC
+tabless/sam-women2022           :  CONMEBOL
+tablesw/wom-gold2022            :  CONCACAF
+tablesw/wwc2023icpo             :  Inter-Confederation Playoffs
+tablesw/women-worldcup          :  overview file
+tablesw/wwc2019f                :  2019

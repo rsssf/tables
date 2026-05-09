@@ -2,7 +2,7 @@
      title:   Monaco 2022/23
      source:  https://rsssf.org/tablesm/monaco2023.html
      author:  Carlos Santos
-     updated: 21 Sep 2023    
+     updated: 21 Sep 2023
     -->
 
 
@@ -11,7 +11,7 @@
 Note that the point system in Monaco is 4/win, 2/draw, 1/loss.
 NB: matches played in the Stade Didier Deschamps, Cap d'Ail (France).
 
-Preliminary Stage  ‹§prelim›
+===== Preliminary Stage  ‹§prelim›
 
 Final Table:
 
@@ -120,7 +120,7 @@ Topscorers:
 10 Bruno Miguel Cardoso Machado (M.I. Monaco S.A.M.)
    Maxime Ravez (Mairie de Monaco)
 
-Playoff Stage  ‹§semi›
+===== Playoff Stage  ‹§semi›
 
 Semifinals [May 15]
 M.I. Monaco S.A.M.             5-0 Hôpital de Monaco

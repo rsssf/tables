@@ -1,0 +1,7 @@
+tablesi/iraq-kurd2025           :  Kurdistan Leagues 2024/25 (link to separate file)
+tablesi/iraq2024                :  2023/24
+tablesi/iraqchamp               :  list of champions
+tablesi/iraqcuphist             :  list of cup winners
+tablesi/iraqcascuphist          :  casuals cup history
+tablesi/iraqtops                :  list of topscorers
+tablesi/iraqfound               :  list of foundation dates

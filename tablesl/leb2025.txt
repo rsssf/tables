@@ -2,7 +2,7 @@
      title:   Lebanon 2024/25
      source:  https://rsssf.org/tablesl/leb2025.html
      author:  Karel Stokkermans
-     updated: 14 Jul 2025    
+     updated: 14 Jul 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== First Division  ‹§first›
 
-‹Regular Stage, see §reg› | ‹Championship Group, see §champ› | ‹Relegation Group, see §rel›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -164,7 +163,7 @@ Final Table:
 11.Shabab Al-Ghazieh    11   1  3  7   5-18   6       ‹Relegation Group, see §rel›
 12.Shabab Baalbek       11   1  2  8   4-29   5  [P]  ‹Relegation Group, see §rel›
 
-Championship Group  ‹§champ›
+===== Championship Group  ‹§champ›
 
 Table:
 
@@ -294,7 +293,7 @@ Table:
 
 NB: bonus points regular stage (halved, rounded upwards) between square brackets
 
-Relegation Group  ‹§rel›
+===== Relegation Group  ‹§rel›
 
 Final Table:
 

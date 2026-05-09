@@ -1,3 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="viti">Viti Levu Zone</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="vanua">Vanua Levu Zone</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="final">Final</a><
 -- removing nav(igation) section:
 
 ‹Premier League, see §nfl›
@@ -19,3 +22,6 @@
 
 ‹list of cup winners, see page fijicuphist›
 
+
+-- removing 1 leading nav line(s) in section 4:
+‹Viti Levu Zone, see §viti› | ‹Vanua Levu Zone, see §vanua› | ‹Final, see §final›

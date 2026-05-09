@@ -2,23 +2,16 @@
      title:   World Cup 2010 Qualifying
      source:  https://rsssf.org/tables/2010q.html
      authors: Ian King, Erik Francisco Lugo, Karel Stokkermans and Andre Zlotkowski
-     updated: 12 Sep 2013    
+     updated: 12 Sep 2013
     -->
 
 
 == World Cup 2010 Qualifying
 
-<MENU>
-  <UL>
-    <LI>‹Europe, see §eur›
-    <LI>‹South America, see §sam›
-    <LI>‹Africa, see §afr›
-    <LI>‹Asia, see §asi›
-    <LI>‹North and Central America, see §nca›
-    <LI>‹Oceania, see §oce›
-</LI></UL></MENU>
 
-‹Match Details, see page 2010q-det›
+  
+
+
 
 
 
@@ -1817,9 +1810,6 @@ AFC/OFC Playoff
 14-11-09 Wellington      New Zealand   1-0 Bahrain
   [Fallon 45]
 
-‹Match Details, see page 2010q-det.html#oce›
 
-‹Overview File, see page ../tablesw/worldcup›
 
-‹2010 Final Tournament, see page 2010f›
 

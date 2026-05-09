@@ -1,3 +1,21 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="guadcoupeguad">Coupe de Guadeloupe 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="guadcoupefrance">Coupe de France 2024</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="guad2a">Poule A</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="guad2b">Poule B</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="guad2final">Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="guad2play">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="martcoupem">Coupe de Martinique 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="martcoupefrance">Coupe de France 2024</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="mart2a">Poule A</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="mart2b">Poule B</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="mart2final">Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="mart2play">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="mart2down">Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="mart3a">Poule A</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="mart3b">Poule B</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="stmstbl">Ligue 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="stbcoupe">Coupe de St.-Barth 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="stmstml">Saint-Martin (Ligue) 2025</a><
 -- removing nav(igation) section:
 
 ‹Ligue des Antilles (Coupe VYV) 2025, see §ligant›
@@ -20,3 +38,36 @@
 
 ‹list of d.o.m. cup winners, see page franseaterrcuphist›.
 
+
+-- removing 3 leading nav line(s) in section 4:
+‹Régional 1 2024/25, see §guadreg1›
+‹Cup Tournaments 2024/25, see §guadcups›
+‹Régional 2, see §guadreg2›
+
+-- removing 1 leading nav line(s) in section 6:
+‹Coupe de Guadeloupe 2025, see §guadcoupeguad›| ‹Coupe de France 2024, see §guadcoupefrance›
+
+-- removing 1 leading nav line(s) in section 9:
+‹Poule A, see §guad2a› | ‹Poule B, see §guad2b› | ‹Final, see §guad2final›
+
+-- removing 4 leading nav line(s) in section 14:
+‹Régional 1 2024/25, see §martreg1›
+‹Cup Tournaments 2024/25, see §martcups›
+‹Régional 2, see §martreg2›
+‹Régional 3, see §martreg3›
+
+-- removing 1 leading nav line(s) in section 16:
+‹Coupe de Martinique 2025, see §martcoupem› | ‹Coupe de France 2024, see §martcoupefrance›
+
+-- removing 1 leading nav line(s) in section 19:
+‹Poule A, see §mart2a› | ‹Poule B, see §mart2b› | ‹Final, see §mart2final›
+
+-- removing 1 leading nav line(s) in section 25:
+‹Poule A, see §mart3a› | ‹Poule B, see §mart3b›
+
+-- removing 2 leading nav line(s) in section 28:
+‹Ligue 2025, see §stmstbl›
+‹Coupe de St.-Barth 2025, see §stbcoupe›
+
+-- removing 1 leading nav line(s) in section 31:
+‹Saint-Martin (Ligue), see §stmstml›

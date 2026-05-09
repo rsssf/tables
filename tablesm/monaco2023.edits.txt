@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="prelim">Preliminary Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="semi">Playoff Stage</a><
 -- removing nav(igation) section:
 
 ‹2021/22, see page monaco2022›

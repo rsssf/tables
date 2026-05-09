@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
 -- removing nav(igation) section:
 
 ‹Nepal Super League, see §nsl›

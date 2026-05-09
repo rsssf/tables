@@ -2,7 +2,7 @@
      title:   World Cup 1990
      source:  https://rsssf.org/tables/90f.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 5 Jul 2018    
+     updated: 5 Jul 2018
     -->
 
 
@@ -120,15 +120,10 @@ Red cards: Monzón (65', direct red), Dezotti (87', direct red).
 Topscorer: Schillaci (Italy) 6 goals.
 
 
-‹Detailed Infos, see page 90full›
 
 
 
-‹1986 Final Tournament, see page 86f›
 
-‹1990 Qualifying Tournament, see page 90q›
 
-‹1994 Final Tournament, see page 94f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

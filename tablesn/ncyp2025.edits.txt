@@ -1,3 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="relpo">Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2rel">Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹KKTC Süper Ligi, see §birinci›

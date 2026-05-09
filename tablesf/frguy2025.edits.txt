@@ -1,3 +1,12 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="guyane">Coupe de Guyane 2024/25</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="gfrance">Coupe de France 2024</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="est">Poule Centre/Est</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="ouest">Poule Ouest</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2fin">Régional 2 Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2play">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3a">Poule A</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3b">Poule B</a><
 -- removing nav(igation) section:
 
 ‹Régional 1, see §honneur›
@@ -18,3 +27,12 @@ Note that the point system in French Guyana is 4/win, 2/draw, 1/loss.
 
 ‹list of d.o.m. cup winners, see page franseaterrcuphist›.
 
+
+-- removing 1 leading nav line(s) in section 5:
+‹Coupe de Guyane 2024/25, see §guyane› | ‹Coupe de France 2024, see §gfrance›
+
+-- removing 1 leading nav line(s) in section 8:
+‹Poule Centre/Est, see §est› | ‹Poule Ouest, see §ouest› | ‹Final, see §2final›
+
+-- removing 1 leading nav line(s) in section 13:
+‹Poule A, see §3a› | ‹Poule B, see §3b›

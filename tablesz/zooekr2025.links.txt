@@ -1,0 +1,7 @@
+tablesk/krim2024                :  2024 (crimea)
+tablesz/zooekr2024              :  2024 (south eastern ukraine)
+tablesz/zooekr2026              :  2026
+tablesk/krimchamp               :  list of champions (crimea)
+tablesz/zooekrchamp             :  list of champions (south eastern ukraine)
+tablesk/krimcuphist             :  list of cup winners (crimea)
+tablesz/zooekrcuphist           :  list of cup winners (south eastern ukraine)

@@ -1,0 +1,5 @@
+tablesg/gib2024                 :  2023/24
+tablesg/gibchamp                :  list of champions
+tablesg/gibcuphist              :  list of cup winners
+tablesg/gibsupcuphist           :  list of super cup winners
+tablesg/gibleagcuphist          :  list of league cup winners

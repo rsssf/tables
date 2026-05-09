@@ -2,13 +2,13 @@
      title:   Transnistria 2025
      source:  https://rsssf.org/tablest/tnistru2025.html
      author:  Theodore Dreiman
-     updated: 4 Oct 2025    
+     updated: 4 Oct 2025
     -->
 
 
 == Transnistria 2025
 
-League  ‹§leag›
+===== League  ‹§leag›
 
 Departed: ISM-2017 YSS (Grigoriopol), Sinai (Tiraspol), YSS Pik-Agro (Slobozia)
 
@@ -105,7 +105,7 @@ Top scorers:
 2.Vlad Varcan (Dubăsari)     11
 3.Eddie Jacob (SKA-Armeieț)  10
 
-Cup  ‹§cup›
+===== Cup  ‹§cup›
 
 Quarterfinals [May 31]
 
@@ -122,5 +122,4 @@ Final [Sep 7, Bender]
 SKA-ARMEIEŢ (Tiraspol) 11-0  Dinamo (Slobozia)
 
 
-‹2024, see page tnistru2024›
 

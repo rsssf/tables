@@ -1,0 +1,6 @@
+tablesj/jpn2024                 :  2024
+tablesj/japchamp                :  list of champions
+tablesj/japhist                 :  list of final tables
+tablesj/japcuphist              :  list of cup finals
+tablesj/japleagcuphist          :  list of league cup finals
+tablesj/japsupcuphist           :  list of super cup finals

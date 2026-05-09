@@ -1,0 +1,4 @@
+tablesc/conca69                 :  1969 CONCACAF Nations Cup
+tables/70qual                   :  Detailed Infos
+tables/70f                      :  1970 Final Tournament
+tablesw/worldcup                :  Overview File

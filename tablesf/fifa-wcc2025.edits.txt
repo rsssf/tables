@@ -1,0 +1,6 @@
+-- found b-enclosed line >FIFA Club World Cup 2025 Inter-confederational stats< - heading?
+-- removing 4 trailing nav line(s) in last section 2:
+‹overview file., see page fifawcc›
+‹2023., see page fifa-wcc2023›
+‹2024 (FIFA Intercontinental Cup)., see page fifa-icc2024›
+‹2025 (FIFA Intercontinental Cup)., see page fifa-icc2025›

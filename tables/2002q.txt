@@ -2,7 +2,7 @@
      title:   World Cup 2002 Qualifying
      source:  https://rsssf.org/tables/2002q.html
      author:  Karel Stokkermans
-     updated: 27 Nov 2024    
+     updated: 27 Nov 2024
     -->
 
 
@@ -2330,7 +2330,5 @@ NB: Guinea were excluded on March 19, 2001, after the Guinean sports minister
     rules
 
 
-‹2002 Final Tournament, see page 2002f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

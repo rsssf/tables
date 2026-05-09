@@ -2,7 +2,7 @@
      title:   World Cup 1970
      source:  https://rsssf.org/tables/70f.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 22 Oct 1999    
+     updated: 22 Oct 1999
     -->
 
 
@@ -81,15 +81,10 @@ Scorers: 18' Pelé 1-0; 37' Boninsegna 1-1; 66' Gérson 2-1;=20
 Topscorer: Müller (West Germany) 10 goals.
 
 
-‹Detailed Infos, see page 70full›
 
 
 
-‹1966 Final Tournament, see page 66f›
 
-‹1970 Qualifying Tournament, see page 70q›
 
-‹1974 Final Tournament, see page 74f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

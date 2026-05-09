@@ -2,7 +2,7 @@
      title:   Crimea and South Eastern Ukraine 2025
      source:  https://rsssf.org/tablesz/zooekr2025.html
      author:  Theodore Dreiman
-     updated: 24 Mar 2026    
+     updated: 24 Mar 2026
     -->
 
 
@@ -560,7 +560,7 @@ Final [Mar 8]
 
 ==== Crimea 2025  ‹§krim›
 
-CFU Premier League 2025  ‹§krimpl›
+===== CFU Premier League 2025  ‹§krimpl›
 
 Final Table:
 
@@ -991,7 +991,7 @@ Asker (Canköy)  1-3 3-5  Spárta KT (Molodjóžnoje)  [agg 4-8]
 
 Both clubs remain at their level.
 
-Crimean Football Union Cup 2025  ‹§krimcfucup›
+===== Crimean Football Union Cup 2025  ‹§krimcfucup›
 
 Quarterfinals
 
@@ -1021,14 +1021,14 @@ Qızıl Taş (Bağçasaráy)  0-1  TÁVRIJA (Simferópoĺ)  [aet]
 
 NB: Fourth consecutive cup title for Tavrija.
 
-Crimea Super Cup 2025  ‹§krimsupcup›
+===== Crimea Super Cup 2025  ‹§krimsupcup›
 
 [Mar 21, 2026; Agrárnoje, Krymteplíca Stadium]
 
 Távrija (Simferópoĺ)  2-1  FC Qamacı
   [Andréj Samójlenko 29; Daniíl Jerjómin 73 - Dlâver Nuridinov 21. Att: 1,000]
 
-Crimean Open Amateur Championship 2025  ‹§krimaoc›
+===== Crimean Open Amateur Championship 2025  ‹§krimaoc›
 
 Final Table:
 
@@ -1412,7 +1412,7 @@ Top scorers:
   Emir Lutfiyev (Founa)         11
   Faruh Pardayev (Asker)        11
 
-Crimean Open Amateur Cup (Second Level) 2025  ‹§coc2›
+===== Crimean Open Amateur Cup (Second Level) 2025  ‹§coc2›
 
 GROUP STAGE
 
@@ -1489,7 +1489,7 @@ Final [Dec 6]
 MAK DISTRIBUTION (Canköy)  1-1  Asker (Canköy)  [pen 6-5]
   [V.Alexin 80 - Ja.Judin 76]
 
-Crimean Snowdrop Cup 2025  ‹§snowdrop›
+===== Crimean Snowdrop Cup 2025  ‹§snowdrop›
 
 Round 1
 [Feb 1]
@@ -1539,7 +1539,7 @@ CYPTC = Children and Youth Physical Training Club
 
 ==== Donetsk PR 2025  ‹§dpr›
 
-Winter League 2024/25  ‹§dwchamp›
+===== Winter League 2024/25  ‹§dwchamp›
 
 Round 1
 [Nov 30]
@@ -1644,7 +1644,7 @@ Top scorers:
   Valérij Titarénko (Kommunárec)  4
   Mihaíl Zahárov (Kommunárec)     4
 
-Premier League 2025  ‹§dleag›
+===== Premier League 2025  ‹§dleag›
 
 Final Table:
 
@@ -1811,7 +1811,7 @@ Top scorers:
   Andréj Lagóda (Šahtjór-2 Don)         6
   Ígoŕ Nehájev (Šahtjór-2 Don)          6
 
-DPR Cup 2025  ‹§dcup›
+===== DPR Cup 2025  ‹§dcup›
 
 Group A
 
@@ -1854,7 +1854,7 @@ Final [Oct 29]
 DONBASS POWER (Teĺmanovo/Komsomoĺskoje)  1-0  Metallurg DonSTU (Alčevsk)
   [K.Alexejev 55]
 
-Donbass Super Cup 2025  ‹§bzsup›
+===== Donbass Super Cup 2025  ‹§bzsup›
 
 NB: Played between the best clubs of Donetsk PR and Lugansk PR.
 

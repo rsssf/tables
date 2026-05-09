@@ -2,7 +2,7 @@
      title:   Afghanistan 2024/25
      source:  https://rsssf.org/tablesa/afgh2025.html
      author:  Karel Stokkermans
-     updated: 16 Sep 2025    
+     updated: 16 Sep 2025
     -->
 
 

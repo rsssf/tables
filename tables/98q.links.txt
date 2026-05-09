@@ -1,0 +1,5 @@
+tables/98qual                   :  Detailed Infos
+tables/98-qual-det§afr          :  Africa - Line-Ups
+tables/98-qual-det§oc           :  Oceania - Line-Ups
+tables/98f                      :  1998 Final Tournament
+tablesw/worldcup                :  Overview File

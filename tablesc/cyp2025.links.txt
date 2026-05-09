@@ -1,0 +1,5 @@
+tablesc/cyp2024                 :  2023/24
+tablesc/cypchamp                :  list of champions
+tablesc/cyphist                 :  list of final tables
+tablesc/cypcuphist              :  list of cup finals
+tablesc/cypsupcuphist           :  list of super cup finals

@@ -1,0 +1,3 @@
+tablesn/noo2024                 :  2024
+tablesn/noochamp                :  list of champions
+tablesn/noocuphist              :  list of cup finals

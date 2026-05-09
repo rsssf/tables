@@ -1,0 +1,7 @@
+tablesm/malt2025§third          :  Maltese league
+tablesm/malt2025§third          :  Maltese league
+tablesg/gozo2024                :  2023/24
+tablesg/gozochamp               :  list of champions
+tablesg/gozohist                :  list of final tables
+tablesg/gozo2champ              :  list of 2nd and 3rd level champions
+tablesg/gozocuphist             :  list of cup winners

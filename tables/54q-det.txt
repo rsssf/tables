@@ -2,7 +2,7 @@
      title:   World Cup 1954 - Qualifying
      source:  https://rsssf.org/tables/54q-det.html
      author:  Barrie Courtney
-     updated: 27 Mar 2015    
+     updated: 27 Mar 2015
     -->
 
 
@@ -1357,5 +1357,4 @@ Referee: HARAN, John [ENGLAND]
 
 
 
-‹World Cup 1954 qualifying overview file, see page 54q›
 

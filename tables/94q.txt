@@ -2,7 +2,7 @@
      title:   World Cup 1994 Qualifying
      source:  https://rsssf.org/tables/94q.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 30 Dec 2019    
+     updated: 30 Dec 2019
     -->
 
 
@@ -649,11 +649,8 @@ Australia required to play off with runner up of North and Central America.
 15.08.93  Sydney          Australia        2-1 Canada          (aet; Australia wins 4-1 on penalties)
 Australia required to play off with second of South America Group 1 (see above).
 
-‹Detailed Infos, see page 94qual›
 
 
 
-‹1994 Final Tournament, see page 94f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

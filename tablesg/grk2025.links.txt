@@ -1,0 +1,15 @@
+tablesg/grk2024                 :  2023/24
+tablesg/grkchamp                :  list of champions
+tablesg/grkprehist              :  list of final tables (before 1959)
+tablesg/grkhist                 :  list of final tables (since 1959)
+tablesg/grk2champ               :  list of 2nd level champions
+tablesg/grk2hist                :  list of 2nd level final tables
+tablesg/grk3champ               :  list of 3rd level champions
+tablesg/grk3hist                :  list of 3rd level final tables
+tablesg/grk4champ               :  list of 4th level champions
+tablesg/grkcuphist              :  list of cup winners
+tablesg/grksupcuphist           :  list of super cup finals
+tablesg/grkamacuphist           :  list of amateur cup finals
+tablesg/grktops                 :  list of topscorers
+tablesg/grk-names               :  list of mergers and name changes
+tablesg/grk-amateurclubs.xlsx   :  amateur club directory 2021

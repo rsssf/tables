@@ -2,7 +2,7 @@
      title:   World Cup 1974 Qualifying
      source:  https://rsssf.org/tables/74q.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 17 Mar 2016    
+     updated: 17 Mar 2016
     -->
 
 
@@ -346,11 +346,8 @@ Playoff:
 13.11.73  Hong Kong       Australia        1-0 South Korea
 
 
-‹Detailed Infos, see page 74qual›
 
 
 
-‹1974 Final Tournament, see page 74f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

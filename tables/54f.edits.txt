@@ -1,0 +1,6 @@
+-- removing 5 trailing nav line(s) in last section 2:
+‹Detailed Infos, see page 54full›
+‹1950 Final Tournament, see page 50f›
+‹1954 Qualifying Tournament, see page 54q›
+‹1958 Final Tournament, see page 58f›
+‹Overview File, see page ../tablesw/worldcup›

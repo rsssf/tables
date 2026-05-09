@@ -2,7 +2,7 @@
      title:   Saint Lucia 2025
      source:  https://rsssf.org/tabless/stlucia2025.html
      author:  Hans Schöggl
-     updated: 23 Dec 2025    
+     updated: 23 Dec 2025
     -->
 
 
@@ -14,7 +14,7 @@
 
 ==== Semi-Professional League 2025  ‹§facup›
 
-Tier 1  ‹§spt1›
+====== Tier 1  ‹§spt1›
 
 Group Stage
 
@@ -47,7 +47,7 @@ Final [Dec 13]
 La Clery                1-1 Vieux Fort South        [4-3 pen]
   [Jules 58; Poyotte 47]
 
-Tier 2  ‹§spt2›
+====== Tier 2  ‹§spt2›
 
 Group Stage
 

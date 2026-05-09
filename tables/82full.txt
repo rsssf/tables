@@ -1,34 +1,34 @@
   <!--
      title:   World Cup 1982 finals
      source:  https://rsssf.org/tables/82full.html
-    
+
     -->
 
 
 = World Cup 1982 finals
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Group E, see §gre›
-<LI>‹Group F, see §grf›
-<LI>‹Group 1, see §gr1›
-<LI>‹Group 2, see §gr2›
-<LI>‹Group 3, see §gr3›
-<LI>‹Group 4, see §gr4›
-<LI>‹Semifinals, see §2fin›
-<LI>‹Third place match, see §3place›
-<LI>‹Final, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Group E, see §gre›
+‹Group F, see §grf›
+‹Group 1, see §gr1›
+‹Group 2, see §gr2›
+‹Group 3, see §gr3›
+‹Group 4, see §gr4›
+‹Semifinals, see §2fin›
+‹Third place match, see §3place›
+‹Final, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
 
 Spain, 13 June - 11 July 1982 (Alicante, Bilbao, Barcelona, Elche, Gijón,
 La Coruña, Madrid, Oviedo, Sevilla, Valladolid, Valencia, Zaragoza).

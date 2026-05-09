@@ -2,7 +2,7 @@
      title:   WORLD CUP 1938 - QUALIFYING
      source:  https://rsssf.org/tables/38qual.html
      author:  Barrie Courtney
-     updated: 5 Jun 2006    
+     updated: 5 Jun 2006
     -->
 
 

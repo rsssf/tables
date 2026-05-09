@@ -2,7 +2,7 @@
      title:   World Cup 2022
      source:  https://rsssf.org/tables/2022f.html
      author:  Roberto Di Maggio
-     updated: 20 Dec 2022    
+     updated: 20 Dec 2022
     -->
 
 
@@ -190,9 +190,6 @@ Penalty kicks: Mbappé 0-1, Messi 1-1, Coman (stopped), Dybala 2-1,
 Topscorer: Mbappé (France) 8 goals.
 
 
-‹2018 Final Tournament, see page 2018f›
 
-‹2022 Qualifying Tournament, see page 2022q›
 
-‹Overview File, see page ../tablesw/worldcup›
 

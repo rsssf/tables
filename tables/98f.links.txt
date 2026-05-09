@@ -1,0 +1,5 @@
+tables/98full                   :  Detailed Infos
+tables/94f                      :  1994 Final Tournament
+tables/98q                      :  1998 Qualifying Tournament
+tables/2002f                    :  2002 Final Tournament
+tablesw/worldcup                :  Overview File

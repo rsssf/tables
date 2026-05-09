@@ -1,0 +1,20 @@
+tables/2006q-det                :  Match Details
+tables/2006q-det§eur            :  Match Details
+tables/2006q-det§eur            :  Match Details
+tables/2006q-det§sam            :  Match Details
+tables/2006q-det§sam            :  Match Details
+tables/2006q-det§afr            :  Match Details
+tables/2006q-det§afr            :  Match Details
+tables/06a                      :  African Nations Cup 2006
+tables/2002q                    :  2002 qualifying
+tables/2006q-det§asi            :  Match Details
+tables/2006q-det§asi            :  Match Details
+tables/2006q-det§nca            :  Match Details
+tables/2006q-det§nca            :  Match Details
+tables/2006q-det§oce            :  Match Details
+tables/04oc                     :  OFC Nations Cup 2004
+tables/2006q-det§oce            :  Match Details
+tables/2006f                    :  2006 Final Tournament
+tables/2006q-det                :  2006 Qualifying - Match Details
+tables/2006q-scor               :  2006 Qualifying - All Goalscorers
+tablesw/worldcup                :  Overview File

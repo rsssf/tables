@@ -1,0 +1,5 @@
+-- removing 4 trailing nav line(s) in last section 2:
+‹Additional Infos, see page 54qual›
+‹Match Details, see page 54q-det›
+‹1954 Final Tournament, see page 54f›
+‹Overview File, see page ../tablesw/worldcup›

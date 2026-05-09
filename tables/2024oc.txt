@@ -2,7 +2,7 @@
      title:   Oceanian Nations Cup 2024
      source:  https://rsssf.org/tables/2024oc.html
      author:  Roberto Di Maggio
-     updated: 9 Jul 2024    
+     updated: 9 Jul 2024
     -->
 
 
@@ -75,7 +75,5 @@ Final (at Port Vila)
           [Howieson 2, Randall 83, Mata 90+1]
 
 
-‹Overview File, see page ../tableso/oceania-cup›
 
-‹2016, see page 2016oc›
 

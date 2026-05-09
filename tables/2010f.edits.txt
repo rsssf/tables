@@ -1,0 +1,6 @@
+-- removing 5 trailing nav line(s) in last section 2:
+‹Detailed Infos, see page 2010full›
+‹2006 Final Tournament, see page 2006f›
+‹2010 Qualifying Tournament, see page 2010q›
+‹2014 Final Tournament, see page 2014f›
+‹Overview File, see page ../tablesw/worldcup›

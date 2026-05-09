@@ -2,7 +2,7 @@
      title:   Asian Club Competitions 2022/23
      source:  https://rsssf.org/tablesa/ascup2022.html
      author:  Karel Stokkermans
-     updated: 6 May 2023    
+     updated: 6 May 2023
     -->
 
 
@@ -12,14 +12,10 @@
 
 
 
-<menu>
-<li>‹Asian Champions League, see §cl›
-<li>‹AFC Cup, see §afc›
-</menu>
 
-‹About this document, see §about›
 
-‹2021, see page ascup2021›
+
+
 
 
 

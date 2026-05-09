@@ -1,0 +1,6 @@
+-- removing 5 trailing nav line(s) in last section 2:
+‹Detailed Infos, see page 98full›
+‹1994 Final Tournament, see page 94f›
+‹1998 Qualifying Tournament, see page 98q›
+‹2002 Final Tournament, see page 2002f›
+‹Overview File, see page ../tablesw/worldcup›

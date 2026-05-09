@@ -1,0 +1,5 @@
+tablesh/hong2024                :  2023/24
+tablesh/hongchamp               :  list of champions
+tablesh/honghist                :  list of final tables
+tablesh/hongcuphist             :  list of cup winners
+tablesh/hongsupcuphist          :  list of super cup finals

@@ -1,0 +1,3 @@
+tabless/samoa2025               :  2024
+tabless/samoachamp              :  list of champions
+tabless/samoacuphist            :  list of cup winners

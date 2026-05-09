@@ -1,0 +1,5 @@
+tablesa/alba2024                :  2023/24
+tablesa/albachamp               :  list of champions
+tablesa/albacuphist             :  list of cup winners
+tablesa/albasupcuphist          :  list of super cup winners
+tablesa/albafound               :  list of foundation dates

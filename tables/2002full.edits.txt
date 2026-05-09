@@ -1,0 +1,56 @@
+-- removed 35 remaining nav html element(s):
+<menu> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul> <ul> <LI> <LI> <LI> </ul> </menu>
+-- removing 16 leading nav line(s) in section 2:
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Group E, see §gre›
+‹Group F, see §grf›
+‹Group G, see §grg›
+‹Group H, see §grh›
+‹1/8 Finals, see §8f›
+‹Quarterfinals, see §qf›
+‹Semifinals, see §sf›
+‹Third Place Match, see §3m›
+‹Final, see §fin›
+‹Squads, see §squads›
+‹Oldest and youngest, see §records›
+‹Awards, see §awards›
+
+-- removing 32 leading nav line(s) in section 16:
+‹Argentina, see §arg›.
+‹Belgium, see §bel›.
+‹Brazil, see §bra›.
+‹Cameroon, see §cam›.
+‹China, see §chi›.
+‹Costa Rica, see §cos›.
+‹Croatia, see §cro›.
+‹Denmark, see §den›.
+‹Ecuador, see §ecu›.
+‹England, see §eng›.
+‹France, see §fra›.
+‹Germany, see §ger›.
+‹Ireland, see §ire›.
+‹Italy, see §ita›.
+‹Japan, see §jap›.
+‹Mexico, see §mex›.
+‹Nigeria, see §nig›.
+‹Paraguay, see §par›.
+‹Poland, see §pol›.
+‹Portugal, see §por›.
+‹Russia, see §rus›.
+‹Saudi Arabia, see §sau›.
+‹Senegal, see §sen›.
+‹Slovenia, see §slo›.
+‹South Africa, see §saf›.
+‹South Korea, see §sko›.
+‹Spain, see §spa›.
+‹Sweden, see §swe›.
+‹Tunisia, see §tun›.
+‹Turkey, see §tur›.
+‹Uruguay, see §uru›.
+‹USA, see §usa›.
+
+-- removing 1 trailing nav line(s) in last section 18:
+‹overview 2002 final tournament, see page 2002f›

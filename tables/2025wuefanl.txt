@@ -2,7 +2,7 @@
      title:   UEFA Women's Nations League 2025
      source:  https://rsssf.org/tables/2025wuefanl.html
      author:  Roberto Di Maggio
-     updated: 8 Jan 2026    
+     updated: 8 Jan 2026
     -->
 
 
@@ -18,11 +18,11 @@ Second edition. The groups were formed following the results of the European Cha
 
 
 
-<ul>
-<li>‹League A, see §lga› | ‹Final Four, see §f4›</li>
-<li>‹League B, see §lgb›</li>
-<li>‹League C, see §lgc›</li>
-</ul>
+
+‹League A, see §lga› | ‹Final Four, see §f4›
+‹League B, see §lgb›
+‹League C, see §lgc›
+
 
 
 

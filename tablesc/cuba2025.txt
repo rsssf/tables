@@ -2,7 +2,7 @@
      title:   Cuba 2025
      source:  https://rsssf.org/tablesc/cuba2025.html
      author:  Karel Stokkermans
-     updated: 2 Feb 2026    
+     updated: 2 Feb 2026
     -->
 
 
@@ -18,15 +18,14 @@ NB: 109th edition
 
 ‹Torneo de Apertura 2025, see §aper› | ‹Torneo de Clausura 2025, see §clau›
 
-Torneo de Apertura 2025  ‹§aper›
+===== Torneo de Apertura 2025  ‹§aper›
 
-‹Apertura Group Stage, see §apgrp› | ‹Apertura Final, see §apf› | ‹Play-In, see §pin›
 
 Apertura Group Stage  ‹§apgrp›
 
 ‹Grupo A, see §aocc› | ‹Grupo B, see §bocc› | ‹Grupo C, see §cori› | ‹Grupo D, see §dori›
 
-Grupo A  ‹§aocc›
+====== Grupo A  ‹§aocc›
 
 Table:
 
@@ -110,7 +109,7 @@ Table:
  3.Isla de la Juventud (Nueva Gerona) 11   3  2  6  10-16  11
  4.Pinar del Río                      10   2  3  5  11-13   9
 
-Grupo B  ‹§bocc›
+====== Grupo B  ‹§bocc›
 
 Final Table:
 
@@ -180,7 +179,7 @@ Final Table:
  3.Matanzas                           12   3  3  6  10-13  12
  4.Mayabeque                          12   2  3  7  11-26   9
 
-Grupo C  ‹§cori›
+====== Grupo C  ‹§cori›
 
 Table:
 
@@ -256,7 +255,7 @@ Table:
 
 NB: Ciego de Ávila certain to finish second on head-to-head record w.r.t. Camagüey
 
-Grupo D  ‹§dori›
+====== Grupo D  ‹§dori›
 
 Final Table:
 
@@ -352,7 +351,7 @@ Second Legs [Jul 9]
 Villa Clara         1-1 Artemisa
 Ciego de Ávila      1-1 Santiago de Cuba    [6-7 pen (no extra time)]
 
-Torneo de Clausura 2025  ‹§clau›
+===== Torneo de Clausura 2025  ‹§clau›
 
 Group Stage
 
@@ -405,12 +404,12 @@ Final Table:
  5.Cienfuegos                          5   1  0  4   8-17   3  [1 1 0 0 3-0 3]
  6.Las Tunas                           5   1  0  4   4-18   3  [1 0 0 1 0-3 0]
 
-Third Place Match  ‹§3rd›
+====== Third Place Match  ‹§3rd›
 
 [Dec 14, in La Habana]
 Guantánamo          0-0 Villa Clara         [3-2 pen]
 
-Final  ‹§fin›
+====== Final  ‹§fin›
 
 [Dec 14, in La Habana]
 La Habana           2-1 Santiago de Cuba

@@ -1,0 +1,2 @@
+tablesc/cuba2024                :  2024
+tablesc/cubachamp               :  list of champions

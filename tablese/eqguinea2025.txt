@@ -2,7 +2,7 @@
      title:   Equatorial Guinea 2024/25
      source:  https://rsssf.org/tablese/eqguinea2025.html
      author:  Karel Stokkermans
-     updated: 6 Mar 2026    
+     updated: 6 Mar 2026
     -->
 
 
@@ -14,13 +14,11 @@
 
 ==== Liga Nacional de Fútbol  ‹§lpro›
 
-‹First Stage, see §first› | ‹Liguilla Nacional, see §nac›
 
-First Stage  ‹§first›
+===== First Stage  ‹§first›
 
-‹Región Insular, see §ins› | ‹Región Continental, see §con›
 
-Región Insular  ‹§ins›
+====== Región Insular  ‹§ins›
 
 Final Table:
 
@@ -305,7 +303,7 @@ Final Table:
 
 [*] UD Estrella Roja were renamed Diablo Rojo
 
-Región Continental  ‹§con›
+====== Región Continental  ‹§con›
 
 Final Table:
 
@@ -591,7 +589,7 @@ Final Table:
 
 NB: Inter Litoral Academy 3 points deducted and expelled after the season
 
-Liguilla Nacional  ‹§nac›
+===== Liguilla Nacional  ‹§nac›
 
 NB: between top-3 of both regional leagues
 

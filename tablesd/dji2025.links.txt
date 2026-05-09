@@ -1,0 +1,3 @@
+tablesd/dji2024                 :  2023/24
+tablesd/djichamp                :  list of champions
+tablesd/djicuphist              :  list of cup winners

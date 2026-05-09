@@ -2,21 +2,16 @@
      title:   African Club Competitions 2022/23
      source:  https://rsssf.org/tablesa/afcup2023.html
      author:  Karel Stokkermans
-     updated: 19 Sep 2023    
+     updated: 19 Sep 2023
     -->
 
 
 == African Club Competitions 2022/23
 
-<menu>
-<li>‹Champions' League, see §cc›
-<li>‹Confederation Cup, see §confed›
-<li>‹Super Cup, see §sc›
-</menu>
 
-‹About this document, see §about›
 
-‹2021/22, see page afcup2022›
+
+
 
 
 

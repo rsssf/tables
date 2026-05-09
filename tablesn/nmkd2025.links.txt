@@ -1,0 +1,8 @@
+tablesn/nmkd2024                :  2023/24
+tablesf/fyromchamp              :  list of champions
+tablesf/fyromcuphist            :  list of cup winners
+tablesf/fyromhist               :  list of final tables
+tablesf/fyromalltime            :  all-time table
+tablesf/fyromplall              :  list of final placings
+tablesf/fyromtops               :  list of topscorers
+tablesf/fyromfound              :  list of foundation dates

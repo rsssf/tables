@@ -2,7 +2,7 @@
      title:   Gibraltar 2024/25
      source:  https://rsssf.org/tablesg/gib2025.html
      author:  Karel Stokkermans
-     updated: 5 May 2025    
+     updated: 5 May 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== National League  ‹§gnl›
 
-‹Regular Stage, see §reg› | ‹Championship Group, see §champ›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -296,7 +295,7 @@ Final Table:
 10.Mons Calpe SC              20   4  1 15  23-54  13
 11.Europa Point FC            20   0  4 16  14-70   4
 
-Championship Group  ‹§champ›
+===== Championship Group  ‹§champ›
 
 Final Table:
 

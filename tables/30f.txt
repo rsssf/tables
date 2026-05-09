@@ -2,7 +2,7 @@
      title:   World Cup 1930
      source:  https://rsssf.org/tables/30f.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 25 Jun 2025    
+     updated: 25 Jun 2025
     -->
 
 
@@ -68,13 +68,9 @@ Scorers: 12' Dorado 1-0; 20' Peucelle 1-1; 38' Stábile 1-2; 58' Cea 2-2;
 
 Topscorer: Stábile (Argentina) 8 goals.
 
-‹Detailed Infos, see page 30full›
 
 
 
-‹1930 Qualifying Tournament, see page 30q›
 
-‹1934 Final Tournament, see page 34f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

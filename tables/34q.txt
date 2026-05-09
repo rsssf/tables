@@ -2,7 +2,7 @@
      title:   World Cup 1934 Qualifying
      source:  https://rsssf.org/tables/34q.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 4 Nov 2021    
+     updated: 4 Nov 2021
     -->
 
 
@@ -75,11 +75,8 @@ Turkey withdrew
 06.04.34  Tel-Aviv        Palestina        1-4 Egypt
 
 
-‹Detailed Infos, see page 34qual›
 
 
 
-‹1934 Final Tournament, see page 34f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

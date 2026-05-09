@@ -1,3 +1,4 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="2fin">Final</a><
 -- removing nav(igation) section:
 
 ‹Ligue Professionnelle 1, see §lfp1›

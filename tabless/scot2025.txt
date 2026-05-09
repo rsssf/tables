@@ -2,7 +2,7 @@
      title:   Scotland 2024/25
      source:  https://rsssf.org/tabless/scot2025.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 8 Sep 2025    
+     updated: 8 Sep 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Premiership  ‹§premier›
 
-‹Regular Stage, see §reg› | ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -377,7 +376,7 @@ Final Table:
 11.Dundee               33   9  7 17  50-71  34       ‹Relegation Playoff, see §releg›
 12.Saint Johnstone      33   8  5 20  33-58  29       ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+===== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -426,7 +425,7 @@ Final Table:
  5.Aberdeen             38  15  8 15  48-61  53
  6.Saint Mirren         38  14  8 16  53-59  50
 
-Relegation Playoff  ‹§releg›
+===== Relegation Playoff  ‹§releg›
 
 Final Table:
 

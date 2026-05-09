@@ -2,7 +2,7 @@
      title:   Norway 2025
      source:  https://rsssf.org/tablesn/noo2025.html
      author:  Lars Aarhus
-     updated: 14 Dec 2025    
+     updated: 14 Dec 2025
     -->
 
 
@@ -35,7 +35,7 @@ Final Table:
 15.Strømsgodset IF       30   6  2 22  37-72  20       Relegated
 16.FK Haugesund          30   2  3 25  22-80   9       Relegated
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 Round 1 [Nov 22]
 Egersund          3-2 Ranheim
@@ -246,7 +246,7 @@ Final Table:
 
 NB: Raufoss 1 point deducted because of financial licensing irregularities
 
-Promotion/Relegation Playoff 2nd/3rd Level  ‹§2prorel›
+===== Promotion/Relegation Playoff 2nd/3rd Level  ‹§2prorel›
 
 Round 1
 

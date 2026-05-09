@@ -1,0 +1,7 @@
+tablesa/aus2024                 :  2023/24
+tablesa/auschamp                :  list of champions
+tablesa/auscuphist              :  list of cup winners
+tablesa/aushist                 :  list of final tables
+tablesa/ausfound                :  list of foundation dates
+tablesa/aus-regchamp            :  list of regional champions
+tablesa/aus-regcuphist          :  list of regional cup winners

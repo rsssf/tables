@@ -2,7 +2,7 @@
      title:   Egypt 2024/25
      source:  https://rsssf.org/tablese/egy2025.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 10 Aug 2025    
+     updated: 10 Aug 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== First Level  ‹§1l›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -305,11 +304,10 @@ Final Table:
 17.ENPPI (Cairo)                17   2  6  9  10-21  12       ‹Relegation Playoff, see §releg›
 18.Modern Sport FC (Cairo)      17   1  6 10   9-24   9       ‹Relegation Playoff, see §releg›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -428,7 +426,7 @@ Final Table:
 NB: Ahly originally had 3 points deducted for no show round 18 but this
     was revoked after they had threatened to leave the league
 
-Relegation Playoff  ‹§releg›
+====== Relegation Playoff  ‹§releg›
 
 Final Table:
 

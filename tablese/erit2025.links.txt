@@ -1,0 +1,3 @@
+tablese/erit2024                :  2024
+tablese/eritchamp               :  list of champions
+tablese/eritcuphist             :  list of cup winners

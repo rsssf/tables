@@ -2,23 +2,16 @@
      title:   World Cup 2006 Qualifying
      source:  https://rsssf.org/tables/2006q.html
      authors: Karel Stokkermans, Lars Aarhus, Jim Goloboy, Ian King, Jarek Owsianski, Malik Riaz Hai Naveed, Julián Díaz Rubio, Martín Tabeira, Antonio Zea and Andre Zlotkowski
-     updated: 26 Nov 2009    
+     updated: 26 Nov 2009
     -->
 
 
 == World Cup 2006 Qualifying
 
-<MENU>
-  <UL>
-    <LI>‹Europe, see §eur›
-    <LI>‹South America, see §sam›
-    <LI>‹Africa, see §afr›
-    <LI>‹Asia, see §asi›
-    <LI>‹North and Central America, see §nca›
-    <LI>‹Oceania, see §oce›
-</LI></UL></MENU>
 
-‹Match Details, see page 2006q-det›
+  
+
+
 
 
 
@@ -2309,11 +2302,7 @@ CSF/OFC Playoff
 
 
 
-‹2006 Final Tournament, see page 2006f›
 
-‹2006 Qualifying - Match Details, see page 2006q-det›
 
-‹2006 Qualifying - All Goalscorers, see page 2006q-scor›
 
-‹Overview File, see page ../tablesw/worldcup›
 

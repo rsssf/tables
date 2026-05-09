@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="raroround">Round Cup 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="raroko">Knock-Out Tournament 2025</a><
 -- removing nav(igation) section:
 
 ‹Rarotonga, see §rarotonga›
@@ -11,3 +13,6 @@
 
 ‹list of cup winners, see page cookcuphist›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Round Cup, see §raroround› | ‹Knock-Out Tournament, see §raroko›

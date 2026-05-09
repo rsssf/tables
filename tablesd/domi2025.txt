@@ -2,7 +2,7 @@
      title:   Dominica 2025
      source:  https://rsssf.org/tablesd/domi2025.html
      author:  Karel Stokkermans
-     updated: 19 Mar 2026    
+     updated: 19 Mar 2026
     -->
 
 

@@ -2,7 +2,7 @@
      title:   South Korea 2025
      source:  https://rsssf.org/tabless/skor2025.html
      author:  Karel Stokkermans
-     updated: 23 Dec 2025    
+     updated: 23 Dec 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== K League 1  ‹§k1›
 
-‹Regular Stage, see §reg› | ‹Championship Group, see §champ› | ‹Relegation Group, see §rel›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -36,7 +35,7 @@ Final Table:
 
 [*] Jeju United were renamed Jeju SK
 
-Championship Group  ‹§champ›
+===== Championship Group  ‹§champ›
 
 Final Table:
 
@@ -47,7 +46,7 @@ Final Table:
  5.Gangwon FC                       38  13 13 12  37-41  52
  6.FC Seoul                         38  12 13 13  50-52  59
 
-Relegation Group  ‹§rel›
+===== Relegation Group  ‹§rel›
 
 Final Table:
 
@@ -60,7 +59,7 @@ Final Table:
 -----------------------------------------------------------
 12.Daegu FC                         38   7 13 18  47-67  34       Relegated
 
-Promotion/Relegation Playoffs  ‹§prorel›
+===== Promotion/Relegation Playoffs  ‹§prorel›
 
 First Legs
 [Dec 3]
@@ -138,7 +137,7 @@ Final Table:
 13.Cheonan City                     39   7  9 23  41-70  30
 14.Ansan Greeners                   39   5 12 22  25-60  27
 
-Promotion Playoffs  ‹§2prompo›
+===== Promotion Playoffs  ‹§2prompo›
 
 First Round [Nov 27]
 Seoul E-Land     0-1 Seongnam

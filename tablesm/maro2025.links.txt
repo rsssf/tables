@@ -1,0 +1,4 @@
+tablesm/maro2024                :  2023/24
+tablesm/marochamp               :  list of champions
+tablesm/marocuphist             :  list of cup winners
+tablesm/marotops                :  list of topscorers

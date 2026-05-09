@@ -1,0 +1,3 @@
+tablest/tonga2022               :  2022
+tablest/tongachamp              :  list of champions
+tablest/tongacuphist            :  list of cup winners

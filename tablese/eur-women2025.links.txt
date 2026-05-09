@@ -1,0 +1,5 @@
+tablesu/uefawnl                 :  Women Nations League
+tables/2024wuefanl              :  2023-24 edition
+tablese/eur-women               :  overview file
+tablese/eur-women-qual2019      :  2019 (World Cup Qualifying)
+tablese/eur-women-qual2023      :  2023 (World Cup Qualifying)

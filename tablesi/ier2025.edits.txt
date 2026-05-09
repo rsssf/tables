@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="prom">Promotion Playoff</a><
 -- removing nav(igation) section:
 
 ‹SSE Airtricity League, see §premier›

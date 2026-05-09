@@ -2,7 +2,7 @@
      title:   India 2024/25
      source:  https://rsssf.org/tablesi/india2025.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 14 Jan 2026    
+     updated: 14 Jan 2026
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== ISL 2024/25  ‹§circus›
 
-‹Regular Stage, see §circreg› | ‹Playoff Stage, see §circpo›
 
-Regular Stage  ‹§circreg›
+===== Regular Stage  ‹§circreg›
 
 Final Table:
 
@@ -348,7 +347,7 @@ Final Table:
 12.Hyderabad FC                  24   4  6 14  22-47  18
 13.Mohammedan SC                 24   2  7 15  12-43  13  [P]
 
-Playoff Stage  ‹§circpo›
+===== Playoff Stage  ‹§circpo›
 
 Round 1
 [Mar 29]

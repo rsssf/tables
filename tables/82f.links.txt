@@ -1,0 +1,5 @@
+tables/82full                   :  Detailed Infos
+tables/78f                      :  1978 Final Tournament
+tables/82q                      :  1982 Qualifying Tournament
+tables/86f                      :  1986 Final Tournament
+tablesw/worldcup                :  Overview File

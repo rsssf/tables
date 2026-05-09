@@ -1,0 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="chp">Overall Championship</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="arch">Coupe de l'Archipel</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="frm">Coupe de France</a><
+-- removing 2 trailing nav line(s) in last section 5:
+‹list of champions, see page stpierrechamp›
+‹2024, see page stpierre2024›

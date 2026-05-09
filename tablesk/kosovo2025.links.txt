@@ -1,0 +1,4 @@
+tablesk/kosovo2024              :  2023/24
+tablesk/kosovochamp             :  list of champions
+tablesk/kosovocuphist           :  list of cup winners
+tablesk/kosovosupcuphist        :  list of super cup winners

@@ -1,0 +1,4 @@
+-- removing 3 trailing nav line(s) in last section 2:
+‹Detailed Infos, see page 82qual›
+‹1982 Final Tournament, see page 82f›
+‹Overview File, see page ../tablesw/worldcup›

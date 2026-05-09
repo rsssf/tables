@@ -2,7 +2,7 @@
      title:   Bosnia-Hercegovina 2024/25
      source:  https://rsssf.org/tablesb/bih2025.html
      author:  Karel Stokkermans
-     updated: 8 Jan 2026    
+     updated: 8 Jan 2026
     -->
 
 
@@ -422,9 +422,8 @@ NB: Sloboda 3 points deducted for walking off in round 28
 
 ==== Cup Tournaments 2024/25  ‹§kup›
 
-‹BiH Kup, see §bhkup›
 
-BiH Kup  ‹§bhkup›
+===== BiH Kup  ‹§bhkup›
 
 Round 1
 [Oct 29]
@@ -506,9 +505,8 @@ Second Leg [May 14]
 
 ==== Prva Liga  ‹§prva›
 
-‹Prva Liga FBiH, see §prvabih› | ‹Prva Liga RS, see §prvasrpska›
 
-Prva Liga FBiH  ‹§prvabih›
+===== Prva Liga FBiH  ‹§prvabih›
 
 Final Table:
 
@@ -533,7 +531,7 @@ Final Table:
 
 Promoted from third level: Vitez (Vitez)
 
-Prva Liga RS  ‹§prvasrpska›
+===== Prva Liga RS  ‹§prvasrpska›
 
 Final Table:
 

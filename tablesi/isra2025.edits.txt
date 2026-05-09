@@ -1,3 +1,7 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="champ">Championship Playoff</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="releg">Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹Ligat Ha'Al, see §haal›
@@ -18,3 +22,9 @@
 
 ‹list of topscorers, see page isratops›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+-- removing 1 leading nav line(s) in section 5:
+‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›

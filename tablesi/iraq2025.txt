@@ -2,7 +2,7 @@
      title:   Iraq 2024/25
      source:  https://rsssf.org/tablesi/iraq2025.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 24 Jul 2025    
+     updated: 24 Jul 2025
     -->
 
 
@@ -685,7 +685,7 @@ Group 2
    Al-Furath (Suq Al-Shuyukh)
    Al-Diwaniya
 
-Final  ‹§2fin›
+===== Final  ‹§2fin›
 
 Hashd Al-Shaabi   1-1 Jaish             [4-3 pen]
 

@@ -1,0 +1,9 @@
+tablesn/nz2024                  :  2024
+tablesn/nzchamp                 :  list of champions
+tablesn/nzhist                  :  list of final tables
+tablesn/nzalltime               :  all-time tables
+tablesn/nzcuphist               :  list of cup winners
+tablesn/nz-brownhist            :  list of brown shield winners
+tablesn/nz-trophyhist           :  list of fa trophy winners
+tablesn/nz-varcuphist           :  list of various cup finals
+tablesn/nz-interisland          :  list of inter-island matches

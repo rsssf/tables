@@ -1,0 +1,4 @@
+tablesc/cafr2023                :  2022/23
+tablesc/cafr2025                :  2024/25
+tablesc/cafrchamp               :  list of champions
+tablesc/cafrcuphist             :  list of cup winners

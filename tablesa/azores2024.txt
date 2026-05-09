@@ -2,7 +2,7 @@
      title:   Azores 2023/24
      source:  https://rsssf.org/tablesa/azores2024.html
      author:  José Batalha
-     updated: 9 May 2024    
+     updated: 9 May 2024
     -->
 
 

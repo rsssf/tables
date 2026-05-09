@@ -2,7 +2,7 @@
      title:   CONCACAF Nations League 2024-25
      source:  https://rsssf.org/tables/2025concanl.html
      author:  Erik Francisco Lugo
-     updated: 1 Apr 2025    
+     updated: 1 Apr 2025
     -->
 
 
@@ -425,5 +425,4 @@ Panama                 1-2 Mexico
   [Raúl Jiménez 8, 90+2pen; Adalberto Carrasquilla 45+2pen]
 
 
-‹CONCACAF Nations League 2023-24, see page 2024concanl›
 

@@ -1,0 +1,3 @@
+tablesu/uae2024                 :  2023/24
+tablesu/uaechamp                :  list of champions
+tablesu/uaecuphist              :  list of cup winners

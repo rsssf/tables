@@ -2,7 +2,7 @@
      title:   Kuwait 2024/25
      source:  https://rsssf.org/tablesk/kuw2025.html
      author:  Karel Stokkermans
-     updated: 14 May 2025    
+     updated: 14 May 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Premier League  ‹§prem›
 
-‹Regular Stage, see §reg› | ‹Championship Group, see §champ› | ‹Relegation Group, see §rel›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -227,7 +226,7 @@ Final Table:
  9.Khitan          18   2  5 11  12-30  11       ‹Relegation Group, see §rel›
 10.Al-Yarmouk      18   0  6 12  17-44   6  [P]  ‹Relegation Group, see §rel›
 
-Championship Group  ‹§champ›
+===== Championship Group  ‹§champ›
 
 Final Table:
 
@@ -281,7 +280,7 @@ Final Table:
  5.Fehayheel       23   9  8  6  45-37  35
  6.Al-Tadamon      23   6  3 14  27-52  21  [P]
 
-Relegation Group  ‹§rel›
+===== Relegation Group  ‹§rel›
 
 Final Table:
 

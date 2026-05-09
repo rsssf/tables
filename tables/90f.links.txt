@@ -1,0 +1,5 @@
+tables/90full                   :  Detailed Infos
+tables/86f                      :  1986 Final Tournament
+tables/90q                      :  1990 Qualifying Tournament
+tables/94f                      :  1994 Final Tournament
+tablesw/worldcup                :  Overview File

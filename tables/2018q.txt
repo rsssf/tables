@@ -2,21 +2,15 @@
      title:   World Cup 2018 Qualifying
      source:  https://rsssf.org/tables/2018q.html
      authors: Ian King and Karel Stokkermans
-     updated: 5 Jul 2018    
+     updated: 5 Jul 2018
     -->
 
 
 == World Cup 2018 Qualifying
 
-<MENU>
-  <UL>
-    <LI>‹Europe, see §eur›
-    <LI>‹South America, see §sam›
-    <LI>‹Africa, see §afr›
-    <LI>‹Asia, see §asi›
-    <LI>‹North and Central America, see §nca›
-    <LI>‹Oceania, see §oce›
-</LI></UL></MENU>
+
+  
+
 
 
 
@@ -1403,7 +1397,5 @@ CONMEBOL/OFC Playoff
 NB: Peru qualified.
 
 
-‹Overview File, see page ../tablesw/worldcup›
 
-‹2018 Final Tournament, see page 2018f›
 

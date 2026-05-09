@@ -1,0 +1,3 @@
+tablesb/bih2024                 :  2023/24
+tablesb/bihchamp                :  list of champions
+tablesb/bihcuphist              :  list of cup winners

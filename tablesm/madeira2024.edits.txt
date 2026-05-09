@@ -4,3 +4,9 @@
 ‹Taça da Madeira, see §taca›
 ‹1ª Divisão, see §1div›
 
+
+-- removing 4 trailing nav line(s) in last section 5:
+‹2022/23, see page madeira2023›
+‹list of champions, see page madeirachamp›
+‹list of cup winners, see page madeiracuphist›
+‹list of final tables, see page madeirahist›

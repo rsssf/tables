@@ -2,7 +2,7 @@
      title:   French Antilles 2024/25
      source:  https://rsssf.org/tablesf/frant2025.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 2 Dec 2025    
+     updated: 2 Dec 2025
     -->
 
 
@@ -107,9 +107,6 @@ AS Gosier              0-1 Golden Lion
 
 === Guadeloupe  ‹§guad›
 
-‹Régional 1 2024/25, see §guadreg1›
-‹Cup Tournaments 2024/25, see §guadcups›
-‹Régional 2, see §guadreg2›
 
 Note that the point system in Guadeloupe is 4/win, 2/draw, 1/loss.
 
@@ -137,9 +134,8 @@ NB: CERFA exempt from relegation
 
 ==== Cup Tournaments 2024/25  ‹§guadcups›
 
-‹Coupe de Guadeloupe 2025, see §guadcoupeguad›| ‹Coupe de France 2024, see §guadcoupefrance›
 
-Coupe de Guadeloupe 2025  ‹§guadcoupeguad›
+===== Coupe de Guadeloupe 2025  ‹§guadcoupeguad›
 
 1/8 Finals
 [Mar 22]
@@ -168,7 +164,7 @@ Siroco                 1-0 AO Gourbeyre
 Final [May 24]
 Siroco                 5-1 SC Baie-Mahault
 
-Coupe de France 2024  ‹§guadcoupefrance›
+===== Coupe de France 2024  ‹§guadcoupefrance›
 
 Round 2
 [Aug 24]
@@ -245,9 +241,8 @@ Jeunesse Evolution     0-0 CS Moulien             [7-6 pen]
 
 ==== Régional 2 2024/25  ‹§guadreg2›
 
-‹Poule A, see §guad2a› | ‹Poule B, see §guad2b› | ‹Final, see §guad2final›
 
-Poule A  ‹§guad2a›
+===== Poule A  ‹§guad2a›
 
 Reported Final Table:
 
@@ -266,7 +261,7 @@ Reported Final Table:
 11.CS Bouillantais                            20   1  4 15  13-50  26  [-1]
 NB: 2 more losses than wins; total goal difference -5
 
-Poule B  ‹§guad2b›
+===== Poule B  ‹§guad2b›
 
 Final Table:
 
@@ -284,12 +279,12 @@ Final Table:
  8.Cygne Noir (Basse-Terre)                   20   2  5 13  18-45  31
 11.AC Saint-Robert                            20   2  5 13  19-41  30  [-1]
 
-Final  ‹§guad2final›
+===== Final  ‹§guad2final›
 
 [May 18]
 Stade Lamentinois      3-1 Arsenal Club
 
-Promotion Playoff  ‹§guad2play›
+===== Promotion Playoff  ‹§guad2play›
 
 [May 18]
 Club Amical Marquisat  3-3 UNAR                   [aet, 4-3 pen]
@@ -302,10 +297,6 @@ NB: Club Amical Marquisat promoted
 
 === Martinique  ‹§mart›
 
-‹Régional 1 2024/25, see §martreg1›
-‹Cup Tournaments 2024/25, see §martcups›
-‹Régional 2, see §martreg2›
-‹Régional 3, see §martreg3›
 
 Note that the point system in Martinique is 4/win, 2/draw, 1/loss.
 
@@ -333,9 +324,8 @@ Promoted: Inter de Sainte-Anne, US Robert, AS Morne-des-Esses
 
 ==== Cup Tournaments 2024/25  ‹§martcups›
 
-‹Coupe de Martinique 2025, see §martcoupem› | ‹Coupe de France 2024, see §martcoupefrance›
 
-Coupe de Martinique 2025  ‹§martcoupem›
+===== Coupe de Martinique 2025  ‹§martcoupem›
 
 1/8 Finals
 [Feb 27]
@@ -367,7 +357,7 @@ Club Franciscain       1-0 Golden Lion FC
 Final [May 24]
 Club Franciscain       1-0 RC Saint-Joseph
 
-Coupe de France 2024  ‹§martcoupefrance›
+===== Coupe de France 2024  ‹§martcoupefrance›
 
 Round 2 [Aug 24,25]
 Poule A
@@ -452,9 +442,8 @@ RC St.-Joseph          2-1 Samaritaine
 
 ==== Régional 2 2024/25  ‹§martreg2›
 
-‹Poule A, see §mart2a› | ‹Poule B, see §mart2b› | ‹Final, see §mart2final›
 
-Poule A  ‹§mart2a›
+===== Poule A  ‹§mart2a›
 
 Final Table:
 
@@ -475,7 +464,7 @@ Final Table:
 11.Good Luck (Fort-de-France)                 22   5  5 12  21-38  42             Relegated
 12.AS Mon Pito (Lamentin)                     22   4  6 12  33-51  40             Relegated
 
-Poule B  ‹§mart2b›
+===== Poule B  ‹§mart2b›
 
 Final Table:
 
@@ -496,19 +485,19 @@ Final Table:
 11.ASCE Fourniols                             22   3  2 17  19-67  33             Relegated
 12.Etendard (Bellefontaine)                   22   2  3 17  19-97  31             Relegated
 
-Final  ‹§mart2final›
+===== Final  ‹§mart2final›
 
 [May 17]
 Inter de Sainte-Anne   3-0 US Robert
 
-Promotion Playoff  ‹§mart2play›
+===== Promotion Playoff  ‹§mart2play›
 
 [May 17]
 RC Rivière-Pilote      0-1 AS Morne-des-Esses
 
 NB: AS Morne-des-Esses promoted
 
-Relegation Playoff  ‹§mart2down›
+===== Relegation Playoff  ‹§mart2down›
 
 [May 16]
 US Marinoise           4-2 Silver Star
@@ -517,9 +506,8 @@ NB: Silver Star relegated
 
 ==== Régional 3 2024/25  ‹§martreg3›
 
-‹Poule A, see §mart3a› | ‹Poule B, see §mart3b›
 
-Poule A  ‹§mart3a›
+===== Poule A  ‹§mart3a›
 
 Final Table:
 
@@ -534,7 +522,7 @@ Final Table:
  8.ASC Hirondelle (Rivière-Salée)             16   0  5 11   8-38  19  [-2]
  9.Anses d'Arlet FC                           16   0  3 13   9-98  19
 
-Poule B  ‹§mart3b›
+===== Poule B  ‹§mart3b›
 
 Final Table:
 
@@ -555,10 +543,8 @@ Final Table:
 
 === Saint-Barthélemy  ‹§stbarth›
 
-‹Ligue 2025, see §stmstbl›
-‹Coupe de St.-Barth 2025, see §stbcoupe›
 
-Ligue 2025  ‹§stmstbl›
+===== Ligue 2025  ‹§stmstbl›
 
 Round 1
 Arawak                  -  Diables Rouges
@@ -591,7 +577,7 @@ Final Table:
  3.ASPSB                                       6   2  1  3          7
  4.AS Gustavia                                 6   2  0  4          6
 
-Coupe de St.-Barth 2025  ‹§stbcoupe›
+===== Coupe de St.-Barth 2025  ‹§stbcoupe›
 
 Round 1 [Apr 5]
 Arawak                 3-1 Diables Rouges
@@ -626,11 +612,10 @@ Arawak                 5-2 Diables Rouges
 
 === Saint-Martin  ‹§stmartin›
 
-‹Saint-Martin (Ligue), see §stmstml›
 
 Note that the point system in Saint-Martin is 4/win, 2/draw, 1/loss.
 
-Saint-Martin (Ligue) 2025  ‹§stmstml›
+===== Saint-Martin (Ligue) 2025  ‹§stmstml›
 
 Final Table:
 

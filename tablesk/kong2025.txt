@@ -2,7 +2,7 @@
      title:   Congo (Brazzaville) 2025
      source:  https://rsssf.org/tablesk/kong2025.html
      author:  Karel Stokkermans
-     updated: 8 Apr 2025    
+     updated: 8 Apr 2025
     -->
 
 
@@ -20,11 +20,10 @@ NB: tournament organised by the commission ad hoc installed by the
 
 ‹Group Stage, see §grp› | ‹Final Stage, see §fin›
 
-Group Stage  ‹§grp›
+===== Group Stage  ‹§grp›
 
-‹Zone A, see §za› | ‹Zone B, see §zb›
 
-Zone A (Brazzaville, Owando)  ‹§za›
+====== Zone A (Brazzaville, Owando)  ‹§za›
 
 NB: Red Star, Racing Club de Brazzaville and Etoile Junior (all from Zone A
     of the 2023/24 second level) were invited (having finished first, second
@@ -218,7 +217,7 @@ Table:
 [*] Avenir FC and AS Penarol were admitted one month after the start
     of the season to replace Bana Nouvelle Génération and FC Kondzo
 
-Zone B (Pointe-Noire, Dolisie, Madingou)  ‹§zb›
+====== Zone B (Pointe-Noire, Dolisie, Madingou)  ‹§zb›
 
 NB: Kouilou Football Académie and AS Ponténégrine (both from Zone B
     of the 2023/24 second level) were invited to enter, along with
@@ -348,6 +347,6 @@ Final Table:
 
 [*] missing goals draw round 8
 
-Final Stage  ‹§fin›
+===== Final Stage  ‹§fin›
 
 

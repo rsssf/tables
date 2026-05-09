@@ -1,0 +1,6 @@
+-- removing 5 trailing nav line(s) in last section 2:
+‹Detailed Infos, see page 82full›
+‹1978 Final Tournament, see page 78f›
+‹1982 Qualifying Tournament, see page 82q›
+‹1986 Final Tournament, see page 86f›
+‹Overview File, see page ../tablesw/worldcup›

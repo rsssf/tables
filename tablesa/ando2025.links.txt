@@ -1,0 +1,6 @@
+tablesa/ando2024                :  2023/24
+tablesa/andochamp               :  list of champions
+tablesa/andohist                :  list of final tables
+tablesa/andoalltime             :  all-time table
+tablesa/andoplall               :  list of final placings
+tablesa/andocuphist             :  list of cup winners

@@ -2,7 +2,7 @@
      title:   Northern Ireland 2024/25
      source:  https://rsssf.org/tablesn/nil2025.html
      author:  Karel Stokkermans
-     updated: 3 May 2025    
+     updated: 3 May 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== IFA Premiership  ‹§premier›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -396,11 +395,10 @@ Final Table:
 11.Carrick Rangers       33   6  9 18  24-48  27       ‹Section B, see §secb›
 12.Loughgall             33   4  6 23  29-71  18       ‹Section B, see §secb›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
-‹Section A, see §seca› | ‹Section B, see §secb›
 
-Section A  ‹§seca›
+====== Section A  ‹§seca›
 
 Final Table:
 
@@ -447,7 +445,7 @@ Final Table:
  5.Coleraine             38  15 10 13  55-50  55
  6.Crusaders             38  16  6 16  47-53  54
 
-Section B  ‹§secb›
+====== Section B  ‹§secb›
 
 Final Table:
 

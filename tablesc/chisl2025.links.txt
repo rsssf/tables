@@ -1,0 +1,5 @@
+tablesc/chisl2024               :  2023/24
+tablesc/chislchamp              :  list of champions
+tablesc/chisl2champ             :  list of champions lower divisions Guernsey
+tablesc/chislcuphist            :  list of cup winners
+tablesc/chislfound              :  list of foundation dates

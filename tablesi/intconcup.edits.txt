@@ -2,3 +2,33 @@
 
 ‹All-Time Tables, see page intconcup-allt›
 
+
+-- removing 1 leading nav line(s) in section 5:
+‹link to detailed file, see page intconcup92›
+
+-- removing 1 leading nav line(s) in section 6:
+‹link to detailed file, see page intconcup95›
+
+-- removing 1 leading nav line(s) in section 7:
+‹link to detailed file, see page intconcup97›
+
+-- removing 1 leading nav line(s) in section 8:
+‹link to detailed file, see page intconcup99›
+
+-- removing 1 leading nav line(s) in section 9:
+‹link to detailed file, see page intconcup01›
+
+-- removing 1 leading nav line(s) in section 10:
+‹link to detailed file, see page intconcup03›
+
+-- removing 1 leading nav line(s) in section 11:
+‹link to detailed file, see page intconcup05›
+
+-- removing 1 leading nav line(s) in section 12:
+‹link to detailed file, see page intconcup09›
+
+-- removing 1 leading nav line(s) in section 13:
+‹link to detailed file, see page intconcup2013›
+
+-- removing 1 leading nav line(s) in section 14:
+‹link to detailed file, see page intconcup2017›

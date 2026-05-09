@@ -1,0 +1,7 @@
+tablesp/pol2024                 :  2023/24
+tablesp/polchamp                :  list of champions
+tablesp/polhist                 :  list of final tables (includes 2nd level)
+tablesp/pol2champ               :  list of 2nd level champions
+tablesp/polcuphist              :  list of cup finals
+tablesp/polleagcuphist          :  list of league cup finals
+tablesp/polsupcuphist           :  list of super cup finals

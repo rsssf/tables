@@ -1,3 +1,6 @@
+-- make heading (hu) out of u-enclosed a name in line ><a name="prem">Première Division 2023/24</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="deux">Deuxième Division 2023/24</a><
+-- found b-enclosed line >Mini-Playoff< - heading?
 -- removing nav(igation) section:
 
 ‹Championnat National 2024, see §chnat›
@@ -14,3 +17,6 @@
 
 ‹list of cup winners, see page cafrcuphist›
 
+
+-- removing 1 leading nav line(s) in section 4:
+‹Première Division, see §prem› | ‹Deuxième Division, see §deux›

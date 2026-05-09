@@ -2,7 +2,7 @@
      title:   Canada 2025
      source:  https://rsssf.org/tablesc/can2025.html
      author:  Karel Stokkermans
-     updated: 14 Nov 2025    
+     updated: 14 Nov 2025
     -->
 
 
@@ -71,9 +71,8 @@ Vancouver Whitecaps  4-2 Vancouver FC
 
 ==== Canadian Premier League 2024  ‹§cpl›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -89,7 +88,7 @@ Final Table:
  7.Pacific FC (Langford)         28   5  8 15  30-59  23                          [British Columbia]
  8.Vancouver FC (Langley)        28   4  9 15  35-57  21                          [British Columbia]
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
 Qualifing Round [Oct 23]
 HFX Wanderers        2-2 York United          [aet, 4-5 pen]

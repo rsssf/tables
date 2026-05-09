@@ -2,7 +2,7 @@
      title:   UEFA Nations League 2024/25
      source:  https://rsssf.org/tables/2025uefanl.html
      author:  Roberto Di Maggio
-     updated: 23 Jan 2026    
+     updated: 23 Jan 2026
     -->
 
 
@@ -18,12 +18,12 @@ Fourth edition.
 
 
 
-<ul>
-<li>‹League A, see §lga› | ‹Final Stage, see §f8›</li>
-<li>‹League B, see §lgb›</li>
-<li>‹League C, see §lgc›</li>
-<li>‹League D, see §lgd›</li>
-</ul>
+
+‹League A, see §lga› | ‹Final Stage, see §f8›
+‹League B, see §lgb›
+‹League C, see §lgc›
+‹League D, see §lgd›
+
 
 
 

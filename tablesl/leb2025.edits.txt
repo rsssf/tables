@@ -1,3 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="champ">Championship Group</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rel">Relegation Group</a><
 -- removing nav(igation) section:
 
 ‹First Division, see §first›
@@ -13,3 +16,6 @@
 
 ‹list of topscorers, see page lebtops›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Championship Group, see §champ› | ‹Relegation Group, see §rel›

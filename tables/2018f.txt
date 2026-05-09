@@ -2,7 +2,7 @@
      title:   World Cup 2018
      source:  https://rsssf.org/tables/2018f.html
      author:  Karel Stokkermans
-     updated: 20 Dec 2022    
+     updated: 20 Dec 2022
     -->
 
 
@@ -183,15 +183,10 @@ Scorers: 18' Mandzukic (og) 1-0; 28' Perisic 1-1; 38' Griezmann (pen) 2-1;
 Topscorer: Kane (England) 6 goals.
 
 
-‹Detailed Infos, see page 2018full›
 
 
 
-‹2014 Final Tournament, see page 2014f›
 
-‹2018 Qualifying Tournament, see page 2018q›
 
-‹2022 Final Tournament, see page 2022f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

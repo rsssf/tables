@@ -2,7 +2,7 @@
      title:   Micronesia 2022
      source:  https://rsssf.org/tablesm/micro2022.html
      authors: Carlos Santos and Hans Schöggl
-     updated: 11 Jul 2023    
+     updated: 11 Jul 2023
     -->
 
 
@@ -52,7 +52,7 @@ International A     lt  Pitbulls
 Final [Dec 26]
 Pitbulls            bt  Chihuahua
 
-Liberation Day Tournament 2022  ‹§libday›
+===== Liberation Day Tournament 2022  ‹§libday›
 
 Group Stage
 
@@ -100,7 +100,7 @@ Sokehs              bt  Kitti
 
 ==== Yap  ‹§yap›
 
-Yap Games 2022  ‹§yapg›
+===== Yap Games 2022  ‹§yapg›
 
 Start: Jun 24
 

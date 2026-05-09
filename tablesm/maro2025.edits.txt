@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prorel">Promotion/Relegation Playoff 2nd/3rd level</a><
 -- removing nav(igation) section:
 
 ‹GNF I, see §gnf1›

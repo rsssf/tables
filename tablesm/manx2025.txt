@@ -2,7 +2,7 @@
      title:   Isle of Man 2024/25
      source:  https://rsssf.org/tablesm/manx2025.html
      author:  Colin Moore
-     updated: 12 Feb 2026    
+     updated: 12 Feb 2026
     -->
 
 
@@ -37,7 +37,7 @@ Final Table:
 
 ==== Cup Tournaments  ‹§cups›
 
-Association Cup   ‹§facup›
+===== Association Cup   ‹§facup›
 
 Preliminary Round [Jan 4]
 Castletown         1-4 St. George's
@@ -73,7 +73,7 @@ Union Mills        3-4 Ayre United        [aet]
 Final [Apr 19]
 Ayre United        4-0 Foxdale
 
-Railway Cup   ‹§railway›
+===== Railway Cup  ‹§railway›
 
 Semifinals [Dec 14]
 Ayre United        3-2 Laxey
@@ -82,7 +82,7 @@ Corinthians        3-4 Peel
 Final [Dec 26]
 Ayre United        3-2 Peel               [aet]
 
-Hospital Cup   ‹§hospital›
+===== Hospital Cup  ‹§hospital›
 
 Preliminary Round [Apr 5]
 Braddan            w/o Malew              [Malew forfeited]
@@ -119,7 +119,7 @@ Ramsey             3-1 Peel               [aet]
 Final [May 17]
 Ramsey             3-0 Laxey
 
-Paul Henry Gold Cup  ‹§phg›
+===== Paul Henry Gold Cup  ‹§phg›
 
 Semifinals
 [May 3]
@@ -130,7 +130,7 @@ R.Y.C. & O.B.      4-5 D.H.S.O.B.
 Final [May 14]
 Braddan            4-1 D.H.S.O.B.
 
-Junior Cup  ‹§junior›
+===== Junior Cup  ‹§junior›
 
 Preliminary Round [Apr 6]
 Castletown         o/w Corinthians        [Castletown forfeited]
@@ -165,7 +165,7 @@ St Mary's          1-3 Rushen United
 Final [May 10]
 St. John's United  4-3 Rushen United      [aet]
 
-George Woods Memorial Cup  ‹§woods›
+===== George Woods Memorial Cup  ‹§woods›
 
 Preliminary Round [Jan 18]
 Braddan            6-0 Governor's Athl.

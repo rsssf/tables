@@ -1,0 +1,4 @@
+tablesp/paki2021                :  2020/21
+tablesp/paki2023                :  2023
+tablesp/pakichamp               :  list of champions.
+tablesp/pakicuphist             :  list of cup winners.

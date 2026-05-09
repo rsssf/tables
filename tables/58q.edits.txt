@@ -1,0 +1,5 @@
+-- removing 4 trailing nav line(s) in last section 2:
+‹Detailed Infos, see page 58qual›
+‹Match Details CONCACAF Zone, see page ../tablesw/worldcup-concacafqual.html#58q›
+‹1958 Final Tournament, see page 58f›
+‹Overview File, see page ../tablesw/worldcup›

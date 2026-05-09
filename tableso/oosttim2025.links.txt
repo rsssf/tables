@@ -1,0 +1,4 @@
+tableso/oosttim2024             :  2024
+tableso/oosttim2026             :  2026
+tableso/oosttimchamp            :  list of champions
+tableso/oosttimcuphist          :  list of cup winners

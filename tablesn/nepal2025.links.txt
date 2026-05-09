@@ -1,0 +1,2 @@
+tablesn/nepal2023               :  2023
+tablesn/nepalchamp              :  list of champions

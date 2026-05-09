@@ -2,7 +2,7 @@
      title:   African Nations Championship 2024/25
      source:  https://rsssf.org/tables/2024anch.html
      author:  Roberto Di Maggio
-     updated: 4 Sep 2025    
+     updated: 4 Sep 2025
     -->
 
 
@@ -346,7 +346,5 @@ Final
              [Manohantsoa 9, Rakotondraibe 68; Mehri 27, Lamlioui 44, 80]
 
 
-‹overview file, see page 00allanch›
 
-‹2022/23, see page 2022anch›
 

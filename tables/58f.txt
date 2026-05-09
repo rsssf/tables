@@ -2,7 +2,7 @@
      title:   World Cup 1958
      source:  https://rsssf.org/tables/58f.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 22 Oct 1999    
+     updated: 22 Oct 1999
     -->
 
 
@@ -87,15 +87,10 @@ Scorers: 4' Liedholm 0-1; 9' Vavá 1-1; 32' Vavá 2-1; 55' Pelé 3-1;
 Topscorer: Fontaine (France) 13 goals.
 
 
-‹Detailed Infos, see page 58full›
 
 
 
-‹1954 Final Tournament, see page 54f›
 
-‹1958 Qualifying Tournament, see page 58q›
 
-‹1962 Final Tournament, see page 62f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

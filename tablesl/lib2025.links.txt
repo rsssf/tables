@@ -1,0 +1,4 @@
+tablesl/lib2024                 :  2023/24
+tablesl/libchamp                :  list of champions
+tablesl/libcuphist              :  list of cup winners
+tablesl/libsupcuphist           :  list of super cup winners

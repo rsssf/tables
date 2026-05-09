@@ -1,3 +1,14 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="pcabodelgado">Cabo Delgado</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="pgaza">Gaza</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="pinhambane">Inhambane</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="pmanica">Manica</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="pmaputo">Maputo City</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="pmaputp">Maputo Province</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="pnampula">Nampula</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="pniassa">Niassa</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="psofala">Sofala</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="ptete">Tete</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="pzambezia">Zambézia</a><
 -- removing nav(igation) section:
 
 ‹Moçambola, see §mocambola›
@@ -17,3 +28,11 @@
 
 ‹list of cup winners, see page mozcuphist›
 
+
+-- removing 6 leading nav line(s) in section 7:
+‹Cabo Delgado, see §pcabodelgado› | ‹Gaza, see §pgaza› |
+‹Inhambane, see §pinhambane› | ‹Manica, see §pmanica› |
+‹Maputo City, see §pmaputo› | ‹Maputo Province, see §pmaputp› |
+‹Nampula, see §pnampula› | ‹Niassa, see §pniassa› |
+‹Sofala, see §psofala› | ‹Tete, see §ptete› |
+‹Zambézia, see §pzambezia›

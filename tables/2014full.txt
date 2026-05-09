@@ -2,7 +2,7 @@
      title:   World Cup 2014 - Match Details
      source:  https://rsssf.org/tables/2014full.html
      author:  Neil Morrison
-     updated: 24 Jul 2014    
+     updated: 24 Jul 2014
     -->
 
 
@@ -1363,5 +1363,4 @@ Ante Rebic (CRO), Alex Song (CAM), Antonio Valencia (ECU)
 Spectators: 3.429 million (average 53,592)
 
 
-‹overview 2014 final tournament, see page 2014f›
 

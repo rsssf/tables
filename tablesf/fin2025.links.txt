@@ -1,0 +1,13 @@
+tablesf/fin2024                 :  2024
+tablesf/finchamp                :  list of champions
+tablesf/finhist                 :  list of final tables
+tablesf/finalltime              :  all-time table
+tablesf/finall                  :  divisional movements
+tablesf/fintops                 :  list of top scorers
+tablesf/fin2champ               :  list of 2nd level champions
+tablesf/fin2hist                :  list of 2nd level final tables
+tablesf/fin2alltime             :  2nd level all-time table
+tablesf/fin2tops                :  list of 2nd level top scorers
+tablesf/fin3champ               :  list of 3rd level champions
+tablesf/fincuphist              :  list of cup finals
+tablesf/finleagcuphist          :  list of league cup finals

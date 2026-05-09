@@ -2,7 +2,7 @@
      title:   World Cup 1950
      source:  https://rsssf.org/tables/50f.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 5 Jul 2017    
+     updated: 5 Jul 2017
     -->
 
 
@@ -68,15 +68,10 @@ NB: FIFA credited Ademir with 2 goals (1-0 and 5-0) on July 13 vs Spain
     which in the past were often listed as own goal by Parra (1-0) and
     goal by Jair (5-0)
 
-‹Detailed Infos, see page 50full›
 
 
 
-‹1938 Final Tournament, see page 38f›
 
-‹1950 Qualifying Tournament, see page 50q›
 
-‹1954 Final Tournament, see page 54f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

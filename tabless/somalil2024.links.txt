@@ -1,0 +1,4 @@
+tabless/somalil2022             :  2022/23
+tabless/somalil2025             :  2024/25
+tabless/somalilchamp            :  list of champions
+tabless/somalilregcuphist       :  list of regions cup winners

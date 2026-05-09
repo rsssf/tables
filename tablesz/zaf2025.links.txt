@@ -1,0 +1,3 @@
+tablesz/zaf2024                 :  2023/24
+tablesz/zafchamp                :  list of champions
+tablesz/zafcuphist              :  list of cup winners

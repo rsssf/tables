@@ -2,7 +2,7 @@
      title:   Guam 2025
      source:  https://rsssf.org/tablesg/guam2025.html
      author:  Karel Stokkermans
-     updated: 12 Oct 2025    
+     updated: 12 Oct 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== G-League Haya  ‹§div1›
 
-‹Group Stage, see §gps› | ‹Playoff Stage, see §po›
 
-Group Stage  ‹§gps›
+===== Group Stage  ‹§gps›
 
 Final Table:
 
@@ -212,7 +211,7 @@ Final Table:
  -.U16 National Academy            withdrew after round 10; all results annulled;
    record at withdrawal:            9   4  1  4  20-30  13  [N]
 
-Playoff Stage  ‹§po›
+===== Playoff Stage  ‹§po›
 
 Semifinals [Oct 5]
 Wings                   3-0 Sidekick

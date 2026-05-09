@@ -7,3 +7,7 @@
 ‹North and Central America, see §nca› |
 ‹Oceania, see §oce›
 
+
+-- removing 2 trailing nav line(s) in last section 8:
+‹2006 Qualifying - Overview, see page 2006q›
+‹Overview File, see page ../tablesw/worldcup›

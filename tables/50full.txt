@@ -1,27 +1,27 @@
   <!--
      title:   World Cup 1950 finals
      source:  https://rsssf.org/tables/50full.html
-    
+
     -->
 
 
 = World Cup 1950
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Final pool, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Final pool, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
+
 
 Brasil, 24 June - 16 July 1950 (Belo Horizonte, Curitiba, Pórto Alegre,
 Rio de Janeiro, São Paulo). Decided at FIFA Congress in Luxemburg

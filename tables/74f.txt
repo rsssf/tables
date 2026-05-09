@@ -2,7 +2,7 @@
      title:   World Cup 1974
      source:  https://rsssf.org/tables/74f.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 22 Oct 1999    
+     updated: 22 Oct 1999
     -->
 
 
@@ -83,15 +83,10 @@ Scorers: 2' Neeskens (p) 0-1; 25' Breitner (p) 1-1; 43' Müller 2-1.
 Topscorer: Lato (Poland) 7 goals.
 
 
-‹Detailed Infos, see page 74full›
 
 
 
-‹1970 Final Tournament, see page 70f›
 
-‹1974 Qualifying Tournament, see page 74q›
 
-‹1978 Final Tournament, see page 78f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

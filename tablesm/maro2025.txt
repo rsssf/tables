@@ -2,7 +2,7 @@
      title:   Morocco 2024/25
      source:  https://rsssf.org/tablesm/maro2025.html
      author:  Karel Stokkermans
-     updated: 31 Oct 2025    
+     updated: 31 Oct 2025
     -->
 
 
@@ -467,7 +467,7 @@ Final Table:
 15.MA Tétouan           30   5  8 17  25-40  23       Relegated
 16.SCC Mohammédia       30   0  4 26  13-71   4       Relegated
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 First Legs
 [May 24]
@@ -514,7 +514,7 @@ Final Table:
 
 Promoted directly from third level: WS Temara, US Amal Tiznit
 
-Promotion/Relegation Playoff 2nd/3rd level  ‹§2prorel›
+===== Promotion/Relegation Playoff 2nd/3rd level  ‹§2prorel›
 
 First Legs
 [May 30]

@@ -1,0 +1,6 @@
+tables/2025a-qdet               :  Details Qualifying Tournament
+tables/2025a-det                :  Details Final Tournament
+tablesa/afrchamp                :  overview file
+tables/2023a                    :  2023/24
+tables/2025a-qdet               :  details qualifying tournament
+tables/2025a-det                :  details final tournament

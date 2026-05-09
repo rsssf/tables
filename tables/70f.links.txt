@@ -1,0 +1,5 @@
+tables/70full                   :  Detailed Infos
+tables/66f                      :  1966 Final Tournament
+tables/70q                      :  1970 Qualifying Tournament
+tables/74f                      :  1974 Final Tournament
+tablesw/worldcup                :  Overview File

@@ -1,0 +1,5 @@
+tables/94full                   :  Detailed Infos
+tables/90f                      :  1990 Final Tournament
+tables/94q                      :  1994 Qualifying Tournament
+tables/98f                      :  1998 Final Tournament
+tablesw/worldcup                :  Overview File

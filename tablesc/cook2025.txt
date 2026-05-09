@@ -2,7 +2,7 @@
      title:   Cook Islands 2025
      source:  https://rsssf.org/tablesc/cook2025.html
      author:  Karel Stokkermans
-     updated: 25 Nov 2025    
+     updated: 25 Nov 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Rarotonga  ‹§rarotonga›
 
-‹Round Cup, see §raroround› | ‹Knock-Out Tournament, see §raroko›
 
-Round Cup 2025  ‹§raroround›
+===== Round Cup 2025  ‹§raroround›
 
 Final Table:
 
@@ -141,7 +140,7 @@ Final Table:
  5.Titikaveka FC          15   3  2 10  15-44  11
  6.Puaikura FC            15   3  2 10  23-67  11
 
-Knock-Out Tournament 2025  ‹§raroko›
+===== Knock-Out Tournament 2025  ‹§raroko›
 
 Round 1 [Nov 1]
 Matavera-Ngatangiia 2-0 Titikaveka

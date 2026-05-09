@@ -2,7 +2,7 @@
      title:   World Cup 2006
      source:  https://rsssf.org/tables/2006f.html
      author:  Karel Stokkermans
-     updated: 5 Jul 2018    
+     updated: 5 Jul 2018
     -->
 
 
@@ -188,15 +188,10 @@ Red card: Zidane (110', direct red).
 Topscorer: Klose (Germany) 5 goals.
 
 
-‹Detailed Infos, see page 2006full›
 
 
 
-‹2002 Final Tournament, see page 2002f›
 
-‹2006 Qualifying Tournament, see page 2006q›
 
-‹2010 Final Tournament, see page 2010f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

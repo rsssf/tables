@@ -1,0 +1,3 @@
+tablesg/guyana2024              :  2024
+tablesg/guyanachamp             :  list of champions
+tablesg/guyanacuphist           :  list of cup winners

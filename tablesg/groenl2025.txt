@@ -2,7 +2,7 @@
      title:   Greenland 2025
      source:  https://rsssf.org/tablesg/groenl2025.html
      author:  Lorenzo Bigo
-     updated: 30 Aug 2025    
+     updated: 30 Aug 2025
     -->
 
 
@@ -14,11 +14,9 @@
 
 ==== Angutit Inersimasut Isikkamik arsarluni NP 2025  ‹§gm›
 
-‹Qualifying Stage, see §qual› | ‹Slutrunden, see §final›
 
-Qualifying Stage  ‹§qual›
+===== Qualifying Stage  ‹§qual›
 
-‹Nordgrønland and Diskobugten, see §north› | ‹Kujataa, see §south› | ‹Østgrønland, see §east›
 
 Nordgrønland and Diskobugten  ‹§north›
 
@@ -69,7 +67,7 @@ NB: ATA (Tasiilaq) qualified without having entered qualifying, as the only entr
     from Østgrønland; however, they withdrew for financial reasons and were replaced
     by K-33 (Qaqortoq)
 
-Slutrunden  ‹§final›
+===== Slutrunden  ‹§final›
 
 NB: in Nuuk
 

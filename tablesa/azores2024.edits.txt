@@ -1,3 +1,5 @@
+-- found u-enclosed line >Taça de São Miguel< - heading?
+-- found u-enclosed line >Taça da Ilha da Terceira< - heading?
 -- removing nav(igation) section:
 
 ‹2022/23, see page azores2023›

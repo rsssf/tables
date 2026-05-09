@@ -1,0 +1,6 @@
+tables/2002full                 :  Detailed Infos
+tables/98f                      :  1998 Final Tournament
+tables/2002q                    :  2002 Qualifying Tournament
+tables/2006f                    :  2006 Final Tournament
+tablesw/worldcup                :  Overview File
+tables/2002f-countries          :  Info on Qualified Countries

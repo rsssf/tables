@@ -1,0 +1,3 @@
+tablesg/goldcupall              :  overview file
+tables/2023gc                   :  2023
+tables/2025concanl              :  2024-2025 Nations League

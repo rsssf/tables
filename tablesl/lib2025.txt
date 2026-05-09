@@ -2,7 +2,7 @@
      title:   Libya 2024/25
      source:  https://rsssf.org/tablesl/lib2025.html
      author:  Karel Stokkermans
-     updated: 17 Dec 2025    
+     updated: 17 Dec 2025
     -->
 
 
@@ -14,13 +14,11 @@
 
 ==== Premier League  ‹§div1›
 
-‹Group Stage, see §grp› | ‹Final Stage, see §fin› | ‹Relegation Playoff, see §relpo›
 
-Group Stage  ‹§grp›
+===== Group Stage  ‹§grp›
 
-‹Group 1, see §gp1› | ‹Group 2, see §gp2› | ‹Group 3, see §gp3› | ‹Group 4, see §gp4›
 
-Group 1  ‹§gp1›
+====== Group 1  ‹§gp1›
 
 Final Table:
 
@@ -216,7 +214,7 @@ Final Table:
 NB: Al-Wefaq Ajdabiya 2 points deducted; Al-Ansar Al-Bayda 1 point deducted;
     Al-Wefaq Ajdabiya apparently were later reprieved from relegation
 
-Group 2  ‹§gp2›
+====== Group 2  ‹§gp2›
 
 Final Table:
 
@@ -354,7 +352,7 @@ Final Table:
 ------------------------------------------------------
  8.Al-Mahdia                   14   1  3 10   8-30   6  [P]        Relegated
 
-Group 3  ‹§gp3›
+====== Group 3  ‹§gp3›
 
 Final Table:
 
@@ -549,7 +547,7 @@ Final Table:
 
 NB: Al-Nahda Sabha 3 points deducted
 
-Group 4  ‹§gp4›
+====== Group 4  ‹§gp4›
 
 Final Table:
 
@@ -744,11 +742,10 @@ Final Table:
 
 NB: Al-Watan 1 point deducted
 
-Final Stage  ‹§fin›
+===== Final Stage  ‹§fin›
 
-‹Group 1, see §qgp1› | ‹Group 2, see §qgp2› | ‹Championship Playoff, see §champ›
 
-Group 1  ‹§qgp1›
+====== Group 1  ‹§qgp1›
 
 Final Table:
 
@@ -831,7 +828,7 @@ Final Table:
 
 NB: bonus points (for final placing first group stage) between square brackets
 
-Group 2  ‹§qgp2›
+====== Group 2  ‹§qgp2›
 
 Table:
 
@@ -917,7 +914,7 @@ Table:
 
 NB: bonus points (for final placing first group stage) between square brackets
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 NB: staged in Lombardia, Italy
 
@@ -966,11 +963,10 @@ Final Table:
  5.Al-Ahli SC (Benghazi)        5   2  0  3   6- 7   6  [0-3]
  6.Al-Swihli SC (Misrata)       5   0  1  4   5-12   1
 
-Relegation Playoff  ‹§relpo›
+===== Relegation Playoff  ‹§relpo›
 
-‹Group 1, see §rgp1› | ‹Group 2, see §rgp2›
 
-Group 1  ‹§rgp1›
+====== Group 1  ‹§rgp1›
 
 Final Table:
 
@@ -1012,7 +1008,7 @@ Final Table:
  3.Al-Ansar Al-Bayda            6   2  2  2   6- 6   8  [P]        Relegated
  4.Branes                       6   0  1  5   3- 9   1  [P]        Relegated
 
-Group 2  ‹§rgp2›
+====== Group 2  ‹§rgp2›
 
 Final Table:
 

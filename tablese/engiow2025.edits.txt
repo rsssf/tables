@@ -1,3 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="chall">Challenge Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="mem">Memorial Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="gold">Gold Cup</a><
 -- removing nav(igation) section:
 
 ‹Division One, see §div1›

@@ -1,32 +1,32 @@
   <!--
      title:   World Cup 1986 finals
      source:  https://rsssf.org/tables/86full.html
-    
+
     -->
 
 
 = World Cup 1986
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Group E, see §gre›
-<LI>‹Group F, see §grf›
-<LI>‹Eightfinals, see §8fin›
-<LI>‹Quarterfinals, see §4fin›
-<LI>‹Semifinals, see §2fin›
-<LI>‹Finals, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Group E, see §gre›
+‹Group F, see §grf›
+‹Eightfinals, see §8fin›
+‹Quarterfinals, see §4fin›
+‹Semifinals, see §2fin›
+‹Finals, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
+
 
 Mexico, 31 May - 29 June 1986 (Guadalajara, Irapuato, Leon, Mexico City,
 Monterrey, Nezahualcoyotl, Puebla, Querretaro, Toluca). Decided at FIFA

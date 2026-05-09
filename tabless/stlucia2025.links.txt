@@ -1,0 +1,3 @@
+tabless/stlucia2024             :  2024
+tabless/stluciachamp            :  list of champions
+tabless/stluciacuphist          :  list of cup winners

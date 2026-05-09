@@ -2,7 +2,7 @@
      title:   Nepal 2023
      source:  https://rsssf.org/tablesn/nepal2023.html
      author:  Karel Stokkermans
-     updated: 14 Nov 2025    
+     updated: 14 Nov 2025
     -->
 
 
@@ -397,7 +397,7 @@ NB: second ever edition
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -412,7 +412,7 @@ Final Table:
  8.Birgunj United FC                       8   2  2  4  11-11   8
  9.Sporting Ilam FC                        8   2  2  4   6- 8   8
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
 Final Qualifier [Dec 25]
 Pokhara Thunders    2-2 Dhangadhi           [aet, 3-4 pen]

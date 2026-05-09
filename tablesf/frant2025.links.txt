@@ -1,0 +1,9 @@
+tablesf/frant2024§ligant        :  2024
+tablesm/martinguadchamp         :  list of winners
+tablesf/frant2024               :  2023/24 (French Antilles)
+tablesg/guadchamp               :  list of champions Guadeloupe
+tablesg/guadcuphist             :  list of cup finals Guadeloupe
+tablesm/martinchamp             :  list of champions Martinique
+tablesm/martincuphist           :  list of known cup winners Martinique
+tabless/stmartinchamp           :  list of champions Saint-Martin and Saint-Barth
+tablesf/franseaterrcuphist      :  list of d.o.m. cup winners

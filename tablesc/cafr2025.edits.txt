@@ -1,3 +1,5 @@
+-- make heading (hu) out of u-enclosed a name in line ><a name="prem">Première Division 2024/25</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="1dec">Coupe du 1er Décembre 2024 </a><
 -- removing nav(igation) section:
 
 ‹Ligue de Bangui 2024/25, see §bangui›
@@ -11,3 +13,6 @@
 
 ‹list of cup winners, see page cafrcuphist›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Première Division 2024/25, see §prem› | ‹Coupe du 1er Décembre 2024, see §1dec›

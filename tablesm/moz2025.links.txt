@@ -1,0 +1,4 @@
+tablesm/moz2024                 :  2024
+tablesm/moz2026                 :  2026
+tablesm/mozchamp                :  list of champions
+tablesm/mozcuphist              :  list of cup winners

@@ -2,7 +2,7 @@
      title:   Israel 2024/25
      source:  https://rsssf.org/tablesi/isra2025.html
      authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 26 May 2025    
+     updated: 26 May 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Ligat Ha'Al  ‹§haal›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -377,11 +376,10 @@ NB: Hapoel Be'er-Sheva 1 point deducted for cancelled match in round 2
     against Bnei-Sakhnin (which will not be refixtured);
     Maccabi Haifa 1 point deducted for incidents in match round 20
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -480,7 +478,7 @@ NB: Hapoel Be'er-Sheva 1 point deducted for match in round 2 (which was declared
     Maccabi Haifa 1 point deducted for incidents in match round 20;
     Beitar Jerusalem 1 point deducted for incidents in match round 32
 
-Relegation Playoff  ‹§releg›
+====== Relegation Playoff  ‹§releg›
 
 Final Table:
 

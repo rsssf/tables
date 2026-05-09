@@ -1,0 +1,4 @@
+tables/2002wcq-sam              :  South America Full Stats
+tables/2002wcq-sam              :  South America Full Stats
+tables/2002f                    :  2002 Final Tournament
+tablesw/worldcup                :  Overview File

@@ -4,3 +4,6 @@
 
 ‹2022/23, see page 2023uefanl›
 
+
+-- removed 10 remaining nav html element(s):
+<ul> <li> </li> <li> </li> <li> </li> <li> </li> </ul>

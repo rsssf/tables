@@ -1,0 +1,6 @@
+-- removing 5 trailing nav line(s) in last section 2:
+‹Detailed Infos, see page 90full›
+‹1986 Final Tournament, see page 86f›
+‹1990 Qualifying Tournament, see page 90q›
+‹1994 Final Tournament, see page 94f›
+‹Overview File, see page ../tablesw/worldcup›

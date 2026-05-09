@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="chpo">Championship Playof</a><
 -- removing nav(igation) section:
 
 ‹First Division, see §first›
@@ -13,3 +15,6 @@
 
 ‹list of foundation dates, see page syrfound›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Championship Playoff, see §chpo›

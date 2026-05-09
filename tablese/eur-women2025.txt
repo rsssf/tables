@@ -2,7 +2,7 @@
      title:   European Women Championship 2025
      source:  https://rsssf.org/tablese/eur-women2025.html
      author:  Roberto Di Maggio
-     updated: 8 Aug 2025    
+     updated: 8 Aug 2025
     -->
 
 
@@ -20,13 +20,13 @@ NB: Switzerland qualified as hosts of ‹Final Tournament, see §final›.
 
 
 
-<ul>
-<li>‹League A, see §lga›</li>
-<li>‹League B, see §lgb›</li>
-<li>‹League C, see §lgc›</li>
-<li>‹Playoffs, see §play›</li>
-<li>‹Final Tournament, see §final›</li>
-</ul>
+
+‹League A, see §lga›
+‹League B, see §lgb›
+‹League C, see §lgc›
+‹Playoffs, see §play›
+‹Final Tournament, see §final›
+
 
 
 

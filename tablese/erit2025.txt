@@ -2,7 +2,7 @@
      title:   Eritrea 2025
      source:  https://rsssf.org/tablese/erit2025.html
      author:  Cauã Lopes Ferreira
-     updated: 25 Jul 2025    
+     updated: 25 Jul 2025
     -->
 
 

@@ -1,0 +1,6 @@
+tablesr/roem2024                :  2023/24
+tablesr/roemchamp               :  list of champions
+tablesr/roemcuphist             :  list of cup finals
+tablesr/roemsupcuphist          :  list of super cup finals
+tablesr/roemleagcuphist         :  list of league cup finals
+tablesr/roemalltime             :  all-time table

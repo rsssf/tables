@@ -2,7 +2,7 @@
      title:   Saint Vincent and the Grenadines 2024/25
      source:  https://rsssf.org/tabless/stvin2025.html
      author:  Karel Stokkermans
-     updated: 14 Aug 2025    
+     updated: 14 Aug 2025
     -->
 
 
@@ -309,9 +309,8 @@ NB: both finalists promoted
 
 ==== Regional Competitions 2024  ‹§reg24›
 
-‹Arnos Vale, see §arnos24›
 
-Arnos Vale  ‹§arnos24›
+===== Arnos Vale  ‹§arnos24›
 
 Start: Aug 11; 8 participants:
    Jebelle FC

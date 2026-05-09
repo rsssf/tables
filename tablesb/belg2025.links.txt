@@ -1,0 +1,8 @@
+tablesb/belg2024                :  2023/24
+tablesb/belgchamp               :  list of champions
+tablesb/belghist                :  final tables (1st and 2nd level)
+tablesb/belg3hist               :  final tables (3rd level)
+tablesb/belgcuphist             :  list of cup finals
+tablesb/belgsupcuphist          :  list of super cup finals
+tablesb/belgtops                :  list of topscorers
+tablesb/belgalltime             :  all-time table

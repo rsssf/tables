@@ -2,7 +2,7 @@
      title:   Rodrigues 2024/25
      source:  https://rsssf.org/tablesr/rodri2025.html
      author:  Hans Schöggl
-     updated: 16 Oct 2025    
+     updated: 16 Oct 2025
     -->
 
 

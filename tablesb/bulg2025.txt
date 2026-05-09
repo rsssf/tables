@@ -2,7 +2,7 @@
      title:   Bulgaria 2024/25
      source:  https://rsssf.org/tablesb/bulg2025.html
      author:  Karel Stokkermans
-     updated: 14 Dec 2025    
+     updated: 14 Dec 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Prva profesionalna Liga  ‹§afg›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -473,11 +472,10 @@ Final Table:
 15.Botev (Vratsa)                     30   5  6 19  24-57  21                         ‹Third Group, see §releg›
 16.Hebar 1918 (Pazardzhik)            30   3  8 19  23-52  17                         ‹Third Group, see §releg›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
-‹First Group, see §champ› | ‹Second Group, see §elpo› | ‹Third Group, see §releg›
 
-First Group  ‹§champ›
+====== First Group  ‹§champ›
 
 Final Table:
 
@@ -527,12 +525,12 @@ Final Table:
  3.Cherno more (Varna)                36  15 14  7  44-30  59
  4.Arda 1924 (Kardzhali)              36  15 13  8  54-41  58       ‹Conference League Playoff, see §conf›
 
-Conference League Playoff  ‹§conf›
+===== Conference League Playoff  ‹§conf›
 
 [May 31]
 Arda               1-1 CSKA               [4-1 pen]
 
-Second Group  ‹§elpo›
+====== Second Group  ‹§elpo›
 
 Final Table:
 
@@ -582,7 +580,7 @@ Final Table:
  7.Spartak 1918 (Varna)               36  15  6 15  45-53  51  [P]
  8.Beroe (Stara Zagora)               36  14  7 15  41-43  49
 
-Third Group  ‹§releg›
+====== Third Group  ‹§releg›
 
 Final Table:
 
@@ -668,7 +666,7 @@ Final Table:
 
 NB: first tie-breaker head-to-head results in regular stage
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 [May 29]
 Botev V            1-0 Pirin 22

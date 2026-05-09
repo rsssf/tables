@@ -2,7 +2,7 @@
      title:   World Cup 1954 Qualifying
      source:  https://rsssf.org/tables/54q.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 6 Aug 2023    
+     updated: 6 Aug 2023
     -->
 
 
@@ -99,13 +99,9 @@ Taiwan withdrew.
 14.03.54  Tokyo           Japan            2-2 South Korea
 
 
-‹Additional Infos, see page 54qual›
-
-‹Match Details, see page 54q-det›
 
 
 
-‹1954 Final Tournament, see page 54f›
 
-‹Overview File, see page ../tablesw/worldcup›
+
 

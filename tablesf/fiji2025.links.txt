@@ -1,0 +1,4 @@
+tablesf/fiji2024                :  2024
+tablesf/fiji2026                :  2026
+tablesf/fijichamp               :  list of champions
+tablesf/fijicuphist             :  list of cup winners

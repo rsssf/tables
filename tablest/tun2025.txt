@@ -2,7 +2,7 @@
      title:   Tunisia 2024/25
      source:  https://rsssf.org/tablest/tun2025.html
      author:  Karel Stokkermans
-     updated: 5 Jun 2025    
+     updated: 5 Jun 2025
     -->
 
 
@@ -531,7 +531,7 @@ Groupe B
 13.ES Djerba                       26   6  8 12  15-24  26       Relegated
 14.ES Rogba Tataouine              26   3  5 18  19-54  13  [-1] Relegated
 
-Final  ‹§2fin›
+===== Final  ‹§2fin›
 
 [Jun 4, stade olympique de Sousse]
 AS Marsa            3-1 JS Kairouanaise

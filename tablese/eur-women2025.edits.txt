@@ -6,3 +6,6 @@
 
 ‹2023 (World Cup Qualifying), see page eur-women-qual2023›
 
+
+-- removed 12 remaining nav html element(s):
+<ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul>

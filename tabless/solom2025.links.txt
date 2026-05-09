@@ -1,0 +1,3 @@
+tabless/solom2024               :  2024
+tabless/solomchamp              :  list of champions
+tabless/solomcuphist            :  list of cup winners

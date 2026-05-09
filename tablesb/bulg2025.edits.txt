@@ -1,3 +1,10 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="champ">First Group</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="conf">Conference League Playoff</a></a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="elpo">Second Group</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="releg">Third Group</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹Prva profesionalna Liga, see §afg›
@@ -21,3 +28,9 @@
 
 ‹list of name changes, see page bulg-names›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+-- removing 1 leading nav line(s) in section 5:
+‹First Group, see §champ› | ‹Second Group, see §elpo› | ‹Third Group, see §releg›

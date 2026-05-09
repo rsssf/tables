@@ -1,0 +1,5 @@
+-- removing 4 trailing nav line(s) in last section 2:
+‹Additional Infos, see page 50qual›
+‹Match Details, see page 50q-det›
+‹1950 Final Tournament, see page 50f›
+‹Overview File, see page ../tablesw/worldcup›

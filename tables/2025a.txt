@@ -2,7 +2,7 @@
      title:   African Nations Cup 2025/26
      source:  https://rsssf.org/tables/2025a.html
      author:  Roberto Di Maggio
-     updated: 19 Mar 2026    
+     updated: 19 Mar 2026
     -->
 
 
@@ -12,12 +12,8 @@
 
 
 
-<ul>
-<li>‹Qualifying Tournament, see §qual›
-<li>‹Details Qualifying Tournament, see page 2025a-qdet›
-<li>‹Final Tournament, see §fin›
-<li>‹Details Final Tournament, see page 2025a-det›
-</ul>
+
+
 
 
 

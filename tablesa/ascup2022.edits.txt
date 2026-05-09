@@ -1,0 +1,7 @@
+-- removed 4 remaining nav html element(s):
+<menu> <li> <li> </menu>
+-- removing 4 leading nav line(s) in section 2:
+‹Asian Champions League, see §cl›
+‹AFC Cup, see §afc›
+‹About this document, see §about›
+‹2021, see page ascup2021›

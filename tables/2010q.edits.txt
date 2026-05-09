@@ -1,0 +1,15 @@
+-- removed 11 remaining nav html element(s):
+<MENU> <UL> <LI> <LI> <LI> <LI> <LI> <LI> </LI> </UL> </MENU>
+-- removing 7 leading nav line(s) in section 2:
+    ‹Europe, see §eur›
+    ‹South America, see §sam›
+    ‹Africa, see §afr›
+    ‹Asia, see §asi›
+    ‹North and Central America, see §nca›
+    ‹Oceania, see §oce›
+‹Match Details, see page 2010q-det›
+
+-- removing 3 trailing nav line(s) in last section 8:
+‹Match Details, see page 2010q-det.html#oce›
+‹Overview File, see page ../tablesw/worldcup›
+‹2010 Final Tournament, see page 2010f›

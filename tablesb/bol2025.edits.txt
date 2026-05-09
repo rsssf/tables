@@ -1,3 +1,4 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹División Profesional, see §prim›

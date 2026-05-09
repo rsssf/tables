@@ -2,7 +2,7 @@
      title:   World Cup 1978
      source:  https://rsssf.org/tables/78f.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 22 Oct 1999    
+     updated: 22 Oct 1999
     -->
 
 
@@ -83,15 +83,10 @@ Scorers: 38' Kempes 1-0; 82' Nanninga 1-1; 105' Kempes 2-1; 115' Bertoni 3-1.
 Topscorer: Kempes (Argentina) 6 goals.
 
 
-‹Detailed Infos, see page 78full›
 
 
 
-‹1974 Final Tournament, see page 74f›
 
-‹1978 Qualifying Tournament, see page 78q›
 
-‹1982 Final Tournament, see page 82f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

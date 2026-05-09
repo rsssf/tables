@@ -1,6 +1,35 @@
+-- make heading (hu) out of u-enclosed a name in line ><a name="grp1">First Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="ko">Knockout Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="harg">Hargeysa 2023/24</a><
+-- found u-enclosed line >Horyaalka Heerka 1-aad (First Division)< - heading?
+-- found u-enclosed line >Horyaalka Heerka 2-aad (Second Division)< - heading?
+-- found u-enclosed line >Horyaalka Heerka 3-aad (Third Division)< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="berb">Berbera 2023</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="gab">Gabiley 2023/24</a><
+-- found u-enclosed line >Horyaalka Heerka 1-aad (First Division)< - heading?
+-- found u-enclosed line >Horyaalka Heerka 2-aad (Second Division)< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="san">Sanaag 2023/24</a><
+-- found u-enclosed line >Horyaalka Heerka 1-aad (First Division)< - heading?
+-- found u-enclosed line >Horyaalka Heerka 2-aad (Second Division)< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="togh">Toghdeer 2023/24</a><
+-- found u-enclosed line >Horyaalka Heerka 1-aad (First Division)< - heading?
+-- found u-enclosed line >Horyaalka Heerka 2-aad (Second Division)< - heading?
+-- found b-enclosed line >XKC Cup 2023/24< - heading?
 -- removing nav(igation) section:
 
 ‹Somaliland Champions League 2024, see §scl›
 ‹Regional Leagues 2023/24, see §reg›
 ‹Cup Tournaments 2023/24, see §cups›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹First Stage, see §grp1› | ‹Knockout Stage, see §ko›
+
+-- removing 1 leading nav line(s) in section 6:
+‹Hargeysa, see §harg› | ‹Berbera, see §berb› | ‹Gabiley, see §gab› | ‹Sanaag, see §san› | ‹Toghdeer, see §togh›
+
+-- removing 4 trailing nav line(s) in last section 12:
+‹2022/23, see page somalil2022›
+‹2024/25, see page somalil2025›
+‹list of champions, see page somalilchamp›
+‹list of regions cup winners, see page somalilregcuphist›

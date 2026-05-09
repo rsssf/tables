@@ -1,3 +1,8 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="hex1">Hexagonal 1</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="hex2">Hexagonal 2</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="rel">Relegation Group</a><
 -- removing nav(igation) section:
 
 ‹Serie A, see §seriea›
@@ -30,3 +35,9 @@
 
 ‹list of foundation dates clubs, see page ecuafound›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+-- removing 1 leading nav line(s) in section 5:
+‹Hexagonal 1, see §hex1› | ‹Hexagonal 2, see §hex2› | ‹Relegation Group, see §rel›

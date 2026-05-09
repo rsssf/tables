@@ -2,7 +2,7 @@
      title:   Hawaii 2021/22
      source:  https://rsssf.org/tablesh/hawaii2022.html
      author:  Carlos Santos
-     updated: 17 May 2023    
+     updated: 17 May 2023
     -->
 
 
@@ -14,13 +14,11 @@
 
 ==== Oahu 2021/22  ‹§oahu›
 
-‹Division One, see §oahudiv1› | ‹Robledo Cup 2021/22, see §robledo› | ‹Division Two, see §oahudiv2›
 
-Division One  ‹§oahudiv1›
+===== Division One  ‹§oahudiv1›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §chpo›
 
-Regular Season  ‹§reg›
+====== Regular Season  ‹§reg›
 
 Final Table:
 
@@ -186,7 +184,7 @@ Final Table:
  7.Armed Forces HFC       21   3  2 16  30-73  11       ‹Relegation Playoff, see §relpo›
  8.International          21   2  1 18  14-93   7       ‹Relegation Playoff, see §relpo›
 
-Championship Playoff  ‹§chpo›
+====== Championship Playoff  ‹§chpo›
 
 Semifinals [May 15]
 Paradise SC         2-1 Rush Latin HFC
@@ -198,7 +196,7 @@ Paradise SC         1-2 Dawgs FC
 Topscorer:
 16 Alex Juarez (Paradise SC)
 
-Promotion/Relegation Playoff  ‹§relpo›
+====== Promotion/Relegation Playoff  ‹§relpo›
 
 Semifinals
 Lanikai Thursday    2-0 International
@@ -211,7 +209,7 @@ Lanikai Thursday    2-0 Armed Forces HFC
 
 NB: Lanikai Thursday promoted, Armed Forces HFC relegated
 
-Robledo Cup 2021/22  ‹§robledo›
+===== Robledo Cup 2021/22  ‹§robledo›
 
 NB: all top level clubs exempt to knock-out stage
 
@@ -348,11 +346,10 @@ Rush Latin HFC      0-4 Paradise SC
 Final [May 29, Waipio Soccer Stadium]
 Paradise SC         bt  El1te
 
-Division Two  ‹§oahudiv2›
+===== Division Two  ‹§oahudiv2›
 
-‹Regular Season, see §2reg› | ‹Division 2 Championship Playoff, see §2po›
 
-Regular Season  ‹§2reg›
+====== Regular Season  ‹§2reg›
 
 Final Tables:
 
@@ -623,7 +620,7 @@ NB: Soccer Team promoted (best record regular season);
     Lanikai Thursday and Stoked to ‹promotion/relegation playoff, see §relpo›
     (second and third best records regular season)
 
-Division 2 Championship Playoff  ‹§2po›
+====== Division 2 Championship Playoff  ‹§2po›
 
 Semifinals [May 15]
 Soccer Team FC      2-0 Stoked FC

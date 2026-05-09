@@ -2,7 +2,7 @@
      title:   Montenegro 2024/25
      source:  https://rsssf.org/tablesm/monteg2025.html
      author:  Karel Stokkermans
-     updated: 9 Oct 2025    
+     updated: 9 Oct 2025
     -->
 
 
@@ -335,7 +335,7 @@ Table:
 ---------------------------------------------------
 10.Otrant-Olympic (Ulcinj)  36   9  8 19  43-53  35  [P]  Relegated
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 First Legs [May 30]
 Lovćen          0-0 Arsenal
@@ -410,7 +410,7 @@ Final Table:
 
 Promoted: Berane
 
-Promotion/Relegation Playoff  ‹§2prorel›
+===== Promotion/Relegation Playoff  ‹§2prorel›
 
 [May 28]
 Internacional   0-0 Ibar            [5-3 pen]
@@ -425,7 +425,7 @@ NB: Ibar relegated, Internacional Podgorica promoted
 
 ==== Treća Liga  ‹§treca›
 
-Baraža za Drugu Ligu  ‹§drubar›
+====== Baraža za Drugu Ligu  ‹§drubar›
 
 NB: promotion playoff between three regional league winners; draws are followed
     by a penalty shoot-out to determine winners

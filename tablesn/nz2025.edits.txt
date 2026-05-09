@@ -1,3 +1,13 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regional Leagues (Top Level)</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="north">Northern League</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="centr">Central League</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="south">Southern League</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="champ">Championship Phase</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="chreg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="chfin">Final</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="lnorth">Northern League (Federation 1, 2 en 3)</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="lcentr">Central League (Federation 4 en 5)</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="lsouth">Southern League (Federation 6 en 7)</a><
 -- removing nav(igation) section:
 
 ‹National League 2025, see §nat›
@@ -25,3 +35,15 @@
 
 ‹list of inter-island matches, see page nz-interisland›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regional Leagues (Top Level), see §reg› | ‹Championship Phase, see §champ›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Northern League, see §north› | ‹Central League, see §centr› | ‹Southern League, see §south›
+
+-- removing 1 leading nav line(s) in section 8:
+‹Regular Stage, see §chreg› | ‹Final, see §chfin›
+
+-- removing 1 leading nav line(s) in section 12:
+‹Northern League, see §lnorth› | ‹Central League, see §lcentr› | ‹Southern League, see §lsouth›

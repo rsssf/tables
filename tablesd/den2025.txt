@@ -2,7 +2,7 @@
      title:   Denmark 2024/25
      source:  https://rsssf.org/tablesd/den2025.html
      author:  Karel Stokkermans
-     updated: 26 May 2025    
+     updated: 26 May 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Superligaen  ‹§ligaen›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -292,11 +291,10 @@ Final Table:
 11.SønderjyskE               22   4  5 13  26-51  17  [P]  ‹Relegation Playoff, see §releg›
 12.Vejle Boldklub            22   3  4 15  24-50  13       ‹Relegation Playoff, see §releg›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -382,7 +380,7 @@ Final Table:
  5.FC Nordsjælland           32  13  7 12  53-56  46
  6.AGF                       32  10 10 12  53-46  40
 
-Relegation Playoff  ‹§releg›
+====== Relegation Playoff  ‹§releg›
 
 Final Table:
 

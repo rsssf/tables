@@ -1,3 +1,19 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="champ">Championship Playoff</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="releg">Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="cup">Cup 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="lowleagcup">Fotbolti.net Cup 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="leagcup">League Cup (A deild) 2025</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="lcgrp1">Group 1</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="lcgrp2">Group 2</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="lcgrp3">Group 3</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="lcgrp4">Group 4</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5grp">Group Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="5ga">Group A</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="5gb">Group B</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="5play">Promotion Playoff</a><
 -- removing nav(igation) section:
 
 ‹Urvalsdeild, see §urvals›
@@ -27,3 +43,20 @@
 
 ‹list of league cup finals, see page ijsleagcuphist›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+-- removing 1 leading nav line(s) in section 5:
+‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
+
+-- removing 3 leading nav line(s) in section 8:
+‹Cup 2025, see §cup› | ‹Fotbolti.net Cup 2025, see §lowleagcup›
+‹League Cup (A deild) 2025, see §leagcup›
+‹Super Cup 2025/26, see §sup›
+
+-- removing 1 leading nav line(s) in section 22:
+‹Group Stage, see §5grp› | ‹Promotion Playoff, see §5play›
+
+-- removing 1 leading nav line(s) in section 23:
+‹Group A, see §5ga› | ‹Group B, see §5gb›

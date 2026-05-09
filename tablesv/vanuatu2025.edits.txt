@@ -1,3 +1,7 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="nslgrp">Group Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="nslsemi">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prorel">Promotion/Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹VFF Champions League 2025, see §nsl›
@@ -14,3 +18,6 @@
 
 ‹list of champions, see page vanuatuchamp›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Group Stage, see §nslgrp› | ‹Playoff Stage, see §nslsemi›

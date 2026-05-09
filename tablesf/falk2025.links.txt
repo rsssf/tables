@@ -1,0 +1,2 @@
+tablesf/falk2024                :  2023/24
+tablesf/falkchamp               :  list of champions

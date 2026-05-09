@@ -1,0 +1,4 @@
+tablesw/worldcup-concacafqual§90q  :  Match Details Group 11
+tables/90qual                   :  Detailed Infos
+tables/90f                      :  1990 Final Tournament
+tablesw/worldcup                :  Overview File

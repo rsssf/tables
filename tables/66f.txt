@@ -2,7 +2,7 @@
      title:   World Cup 1966
      source:  https://rsssf.org/tables/66f.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 22 Oct 1999    
+     updated: 22 Oct 1999
     -->
 
 
@@ -80,15 +80,10 @@ Scorers: 12' Haller 0-1; 18' Hurst 1-1; 78' Peters 2-1; 90' Weber 2-2;
 Topscorer: Eusébio (Portugal) 9 goals.
 
 
-‹Detailed Infos, see page 66full›
 
 
 
-‹1962 Final Tournament, see page 62f›
 
-‹1966 Qualifying Tournament, see page 66q›
 
-‹1970 Final Tournament, see page 70f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

@@ -1,0 +1,5 @@
+tables/2014full                 :  Detailed Infos
+tables/2010f                    :  2010 Final Tournament
+tables/2014q                    :  2014 Qualifying Tournament
+tables/2018f                    :  2018 Final Tournament
+tablesw/worldcup                :  Overview File

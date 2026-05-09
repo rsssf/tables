@@ -2,7 +2,7 @@
      title:   Albania 2024/25
      source:  https://rsssf.org/tablesa/alba2025.html
      author:  Karel Stokkermans
-     updated: 17 Nov 2025    
+     updated: 17 Nov 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Kategoria Superiore  ‹§super›
 
-‹Regular Stage, see §reg› | ‹Top-4 Playoff, see §top4›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -388,7 +387,7 @@ Final Table:
  9.KF Skënderbeu Korçë      36   9 11 16  35-45  38       Relegated
 10.KF Laçi                  36   8 13 15  31-37  37       Relegated
 
-Top-4 Playoff  ‹§top4›
+===== Top-4 Playoff  ‹§top4›
 
 Semifinals
 [May 4, Tiranë]
@@ -404,7 +403,7 @@ Dinamo        1-2 Partizani
 Final [May 12, Tiranë]
 Egnatia       4-0 Vllaznia
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 Final [May 4, Elbasan]
 Tirana        1-0 Pogradeci
@@ -519,7 +518,7 @@ Final Table:
 11.KF Valbona Bajram Curri  33   3  7 23  29-59  16   [P]  Relegated
 12.KF Erzeni Shijak         33   2  5 26  16-63  11   [R]  Relegated
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals [Apr 24]
 Besa          1-1 Apolonia
@@ -532,7 +531,7 @@ Besa          0-1 Pogradeci
 
 NB: Pogradeci  qualified for ‹Promotion/Relegation Playoff, see §prorel›
 
-Promotion/Relegation Playoffs  ‹§2prorel›
+===== Promotion/Relegation Playoffs  ‹§2prorel›
 
 [Apr 26, Tiranë]
 Kukësi        1-0 Oriku
@@ -547,9 +546,8 @@ NB: all clubs remain at former level
 
 ==== Liga e dytë  ‹§dyte›
 
-‹Group A, see §g2a› | ‹Group B, see §g2b› | ‹Championship Final, see §2fin›
 
-Group A  ‹§g2a›
+===== Group A  ‹§g2a›
 
 Final Table:
 
@@ -570,7 +568,7 @@ Final Table:
 ---------------------------------------------------
 12.KF Murlani Vau i Dejës   22   0  1 21  10-92   1       Relegated
 
-Group B  ‹§g2b›
+===== Group B  ‹§g2b›
 
 Final Table:
 
@@ -590,12 +588,12 @@ Final Table:
 ---------------------------------------------------
 11.FK Memaliaj              20   1  1 18  15-79   4  [P]  Relegated
 
-Championship Final  ‹§2fin›
+===== Championship Final  ‹§2fin›
 
 [Apr 13, Fier]
 Iliria        1-0 Luftëtari
 
-Promotion Playoff  ‹§3prom›
+===== Promotion Playoff  ‹§3prom›
 
 Semifinals Group A [Apr 12]
 Luzi 2008     2-0 Veleçiku
@@ -613,7 +611,7 @@ Oriku         3-2 Tomori
 
 NB: Luzi 2008 and Oriku qualified for ‹Promotion/Relegation Playoff, see §2prorel›
 
-Promotion/Relegation Playoff  ‹§3prorel›
+===== Promotion/Relegation Playoff  ‹§3prorel›
 
 [Apr 14, Vlorë]
 Gramshi       1-1 Turbina       [aet, 5-4 pen]
@@ -631,9 +629,8 @@ NB: Partizani B promoted, Turbina relegated
 
 ==== Liga e tretë  ‹§trete›
 
-‹Group A, see §g3a› | ‹Group B, see §g3b› | ‹Championship Final, see §3fin›
 
-Group A  ‹§g3a›
+===== Group A  ‹§g3a›
 
 Final Table:
 
@@ -651,7 +648,7 @@ Final Table:
 NB: after the season, Shiroka (Shirokë) were promoted by choice following the withdrawal
     of Albanët Tiranë
 
-Group B  ‹§g3b›
+===== Group B  ‹§g3b›
 
 Final Table:
 
@@ -666,12 +663,12 @@ Final Table:
  7.FK Skrapari              14   2  1 11  12-45   7
  4.FK Tepelena              14   2  0 12  16-44   6
 
-Championship Final  ‹§3fin›
+===== Championship Final  ‹§3fin›
 
 [Apr 30, Tiranë]
 Eagle FA      2-3 Bylis B
 
-Promotion Playoff  ‹§4prom›
+===== Promotion Playoff  ‹§4prom›
 
 [Apr 14, Vorë]
 Partizani B   3-0 Albpetrol

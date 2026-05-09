@@ -1,0 +1,10 @@
+-- removed 6 remaining nav html element(s):
+<menu> <li> </li> <li> </li> </menu>
+-- removing 4 leading nav line(s) in section 2:
+‹Copa Centroamericana 2025, see §copacen›
+‹CONCACAF Champions Cup 2026, see §cc›
+‹About this document, see §about›
+‹overview, see page ca1› | ‹2024/25, see page cacups2024›
+
+-- removing 1 trailing nav line(s) in last section 4:
+‹overview, see page ca1› | ‹2024/25, see page cacups2025›

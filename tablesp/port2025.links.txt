@@ -1,0 +1,9 @@
+tablesp/port2024                :  2023/24
+tablesp/portchamp               :  list of champions
+tablesp/porthist                :  list of final tables
+tablesp/port2champ              :  list of 2nd division champions
+tablesp/portcuphist             :  list of cup finals
+tablesp/portleagcuphist         :  list of league cup finals
+tablesp/portsupcuphist          :  list of super cup finals
+tablesp/portallt                :  all-time table
+tablesp/porttops                :  list of topscorers

@@ -2,7 +2,7 @@
      title:   Vanuatu 2024/25
      source:  https://rsssf.org/tablesv/vanuatu2025.html
      author:  Karel Stokkermans
-     updated: 16 Oct 2025    
+     updated: 16 Oct 2025
     -->
 
 
@@ -14,7 +14,6 @@
 
 ==== VFF Champions League 2025  ‹§nsl›
 
-‹Group Stage, see §nslgrp› | ‹Playoff Stage, see §nslsemi›
 
 NB: all matches at VFF Freshwater Stadium, Port Vila
 
@@ -27,7 +26,7 @@ Participants (7):
  Spirit FC             (PFA (Penama Football Association))
  Waterfall FC          (TOFA (Torba Football Association))
 
-Group Stage  ‹§nslgrp›
+===== Group Stage  ‹§nslgrp›
 
 Pool A
 [Jun 12]
@@ -63,7 +62,7 @@ Final Table:
 - - - - - - - - - - - - - - - - - - - - - - - - -
  3.Malampa Revivors FC     2   0  0  2   4- 9   0
 
-Playoff Stage  ‹§nslsemi›
+===== Playoff Stage  ‹§nslsemi›
 
 Semifinals [Jun 19]
 Galaxy                4-0 Police
@@ -180,7 +179,7 @@ Final Table:
 -------------------------------------------------
  6.Tupuji Imere FC        10   0  3  7  12-28   3                        Relegated
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 First Leg [Apr 5]
 Erakor Golden Star    1-1 Naka
@@ -295,7 +294,7 @@ Final Table:
 -------------------------------------------------
  6.Seveners United FC     10   1  0  9   5-37   3                        Relegated
 
-Promotion/Relegation Playoff  ‹§2prorel›
+===== Promotion/Relegation Playoff  ‹§2prorel›
 
 First Leg [Jun 4]
 Pango Green Bird      1-2 Lakotau

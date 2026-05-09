@@ -2,7 +2,7 @@
      title:   Central American Club Competitions 2025/26
      source:  https://rsssf.org/tablesc/cacups2026.html
      author:  Erik Francisco Lugo
-     updated: 3 Mar 2026    
+     updated: 3 Mar 2026
     -->
 
 
@@ -12,14 +12,10 @@
 
 
 
-<menu>
-<li>‹Copa Centroamericana 2025, see §copacen›</li>
-<li>‹CONCACAF Champions Cup 2026, see §cc›</li>
-</menu>
 
-‹About this document, see §about›
 
-‹overview, see page ca1› | ‹2024/25, see page cacups2024›
+
+
 
 
 
@@ -358,5 +354,4 @@ x 2nd leg in Puebla
 y 2nd leg in Spokane
 
 
-‹overview, see page ca1› | ‹2024/25, see page cacups2025›
 

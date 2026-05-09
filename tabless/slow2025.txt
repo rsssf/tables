@@ -2,7 +2,7 @@
      title:   Slovakia 2024/25
      source:  https://rsssf.org/tabless/slow2025.html
      author:  Karel Stokkermans
-     updated: 26 May 2025    
+     updated: 26 May 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Fortuna liga  ‹§corgon›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -277,11 +276,10 @@ Final Table:
 11.MFK Skalica                      22   4  7 11  21-35  19                   ‹Relegation Playoff, see §releg›
 12.MFK Dukla Banská Bystrica        22   4  5 13  22-38  17                   ‹Relegation Playoff, see §releg›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -369,7 +367,7 @@ Final Table:
  5.FC Košice                        32  11 11 10  45-38  44       ‹Conference League Playoff, see §conf›
  6.FK Železiarne Podbrezová         32   8 13 11  40-43  37       ‹Conference League Playoff, see §conf›
 
-Conference League Playoff  ‹§conf›
+===== Conference League Playoff  ‹§conf›
 
 Semifinals [May 20]
 D. Streda       2-1 Michalovce
@@ -378,7 +376,7 @@ Košice          2-2 Podbrezová      [aet, 4-5 pen]
 Final [May 23]
 D. Streda       3-2 Podbrezová
 
-Relegation Playoff  ‹§releg›
+====== Relegation Playoff  ‹§releg›
 
 Final Table:
 

@@ -1,0 +1,7 @@
+tabless/serv2024                :  2023/24
+tablesj/joegchamp               :  list of champions
+tablesj/joeghist                :  list of final tables
+tablesj/joegcuphist             :  list of cup winners
+tablesj/joegtops                :  list of topscorers
+tablesj/joegalltime3            :  all-time table since 1992
+tablesj/joeg2alltime            :  2nd level all-time tables

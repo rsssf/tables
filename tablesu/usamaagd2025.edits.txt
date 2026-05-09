@@ -1,3 +1,8 @@
+-- found b-enclosed line >Saint Croix League< - heading?
+-- found b-enclosed line >Saint Thomas League< - heading?
+-- found u-enclosed line >Saint Croix section< - heading?
+-- found u-enclosed line >Saint Thomas section< - heading?
+-- found u-enclosed line >Final< - heading?
 -- removing nav(igation) section:
 
 ‹Premier League Championship 2025, see §acc›

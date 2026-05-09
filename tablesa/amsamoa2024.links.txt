@@ -1,0 +1,3 @@
+tablesa/amsamoa2023             :  2023
+tablesa/amsamoachamp            :  list of champions
+tablesa/amsamoacuphist          :  list of shield winners

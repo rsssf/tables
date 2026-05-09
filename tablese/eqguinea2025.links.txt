@@ -1,0 +1,3 @@
+tablese/eqguinea2024            :  2023/24
+tablese/eqguineachamp           :  list of champions
+tablese/eqguineacuphist         :  list of cup winners

@@ -1,0 +1,5 @@
+tables/2006full                 :  Detailed Infos
+tables/2002f                    :  2002 Final Tournament
+tables/2006q                    :  2006 Qualifying Tournament
+tables/2010f                    :  2010 Final Tournament
+tablesw/worldcup                :  Overview File

@@ -1,0 +1,14 @@
+tabless/scot2024                :  2023/24
+tabless/scotchamp               :  list of champions
+tabless/scot2champ              :  list of 2nd division champions
+tabless/scot3champ              :  list of 3rd division champions
+tabless/scot4champ              :  list of 4th division champions
+tabless/scot-highchamp          :  list of highland league champions
+tabless/scot-eastchamp          :  list of east of scotland league champions
+tabless/scot-southchamp         :  list of south of scotland league champions
+tabless/scotalltime             :  all-time table
+tabless/scotall                 :  list of divisional movements
+tabless/scotcuphist             :  list of cup winners
+tabless/scotleagcuphist         :  list of league cup winners
+tabless/scotqualcuphist         :  list of qualifying cup winners
+tabless/scot-glasgowcuphist     :  list of glasgow cup winners

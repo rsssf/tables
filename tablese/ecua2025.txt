@@ -2,7 +2,7 @@
      title:   Ecuador 2025
      source:  https://rsssf.org/tablese/ecua2025.html
      author:  Karel Stokkermans
-     updated: 23 Dec 2025    
+     updated: 23 Dec 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Serie A  ‹§seriea›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -41,11 +40,10 @@ Final Table:
 
 [*] Cuniburo FC were renamed Vinotinto FC
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
-‹Hexagonal 1, see §hex1› | ‹Hexagonal 2, see §hex2› | ‹Relegation Group, see §rel›
 
-Hexagonal 1  ‹§hex1›
+====== Hexagonal 1  ‹§hex1›
 
 Final Table:
 
@@ -56,7 +54,7 @@ Final Table:
  5.Orense SC                         40  16 10 14  44-48  58
  6.Libertad FC                       40  14 14 12  54-51  56
 
-Hexagonal 2  ‹§hex2›
+====== Hexagonal 2  ‹§hex2›
 
 Final Table:
 
@@ -71,7 +69,7 @@ NB: remaining match not played;
     El Nacional 9 points deducted for failing to pay debts and
     subsequently relegated for third failure to meet payment deadline
 
-Relegation Group  ‹§rel›
+====== Relegation Group  ‹§rel›
 
 Final Table:
 

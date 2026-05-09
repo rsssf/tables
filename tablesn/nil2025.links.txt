@@ -1,0 +1,7 @@
+tablesn/nil2024                 :  2023/24
+tablesn/nilchamp                :  list of champions
+tablesn/nilhist                 :  list of final tables
+tablesn/nilcuphist              :  list of cup finals
+tablesn/nilleagcuphist          :  list of league cup finals
+tablesn/nilgoldcuphist          :  list of gold cup winners
+tablesn/niltops                 :  list of topscorers

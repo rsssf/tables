@@ -1,0 +1,9 @@
+tablesf/fran2024                :  2023/24
+tablesf/franchamp               :  list of champions
+tablesf/franfullhist            :  list of final tables
+tablesf/fran2hist               :  list of 2nd level final tables
+tablesf/fran3hist               :  list of 3rd level final tables
+tablesf/frantops                :  list of topscorers
+tablesf/fran2tops               :  list of 2nd level topscorers
+tablesf/francuphist             :  list of cup winners
+tablesf/franleagcuphist         :  list of league cup finals

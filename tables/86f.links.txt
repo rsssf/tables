@@ -1,0 +1,5 @@
+tables/86full                   :  Detailed Infos
+tables/82f                      :  1982 Final Tournament
+tables/86q                      :  1986 Qualifying Tournament
+tables/90f                      :  1990 Final Tournament
+tablesw/worldcup                :  Overview File

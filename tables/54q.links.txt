@@ -1,0 +1,4 @@
+tables/54qual                   :  Additional Infos
+tables/54q-det                  :  Match Details
+tables/54f                      :  1954 Final Tournament
+tablesw/worldcup                :  Overview File

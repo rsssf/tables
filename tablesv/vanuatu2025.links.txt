@@ -1,0 +1,3 @@
+tablesv/vanuatu2024             :  2023/24
+tablesv/vanuatu2026             :  2025/26
+tablesv/vanuatuchamp            :  list of champions

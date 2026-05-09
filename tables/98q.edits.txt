@@ -1,0 +1,6 @@
+-- removing 5 trailing nav line(s) in last section 2:
+‹Detailed Infos, see page 98qual›
+‹Africa - Line-Ups, see page 98-qual-det.html#afr›
+‹Oceania - Line-Ups, see page 98-qual-det.html#oc›
+‹1998 Final Tournament, see page 98f›
+‹Overview File, see page ../tablesw/worldcup›

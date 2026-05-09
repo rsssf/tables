@@ -2,7 +2,7 @@
      title:   Fiji 2025
      source:  https://rsssf.org/tablesf/fiji2025.html
      author:  Karel Stokkermans
-     updated: 22 Mar 2026    
+     updated: 22 Mar 2026
     -->
 
 
@@ -224,9 +224,8 @@ Final Table:
 
 ==== Senior League  ‹§pdfl›
 
-‹Viti Levu Zone, see §viti› | ‹Vanua Levu Zone, see §vanua› | ‹Final, see §final›
 
-Viti Levu Zone  ‹§viti›
+===== Viti Levu Zone  ‹§viti›
 
 Final Table:
 
@@ -236,7 +235,7 @@ Final Table:
  3.Lami               9   2  2  5   9-22   8
  4.Rakiraki           9   1  2  6  12-26   5
 
-Vanua Levu Zone  ‹§vanua›
+===== Vanua Levu Zone  ‹§vanua›
 
 Final Table:
 
@@ -248,7 +247,7 @@ Final Table:
  5.Savusavu          10   3  1  6  16-18  10
  6.Taveuni           10   2  0  8  11-30   6
 
-Final  ‹§final›
+===== Final  ‹§final›
 
 First Leg [Sep 7, Ratu Cakobau Park, Nausori]
 Tailevu Naitasiri  1-0 Seaqaqa

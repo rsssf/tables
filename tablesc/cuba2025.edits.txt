@@ -1,3 +1,12 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="aper">Torneo de Apertura 2025</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="aocc">Grupo A</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="bocc">Grupo B</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="cori">Grupo C</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="dori">Grupo D</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="clau">Torneo de Clausura 2025</a><
+-- found u-enclosed line >Group Stage< - heading?
+-- make heading (hu) out of u-enclosed a name in line ><a name="3rd">Third Place Match</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="fin">Final</a><
 -- removing nav(igation) section:
 
 ‹Campeonato Nacional de Liga 2025, see §cnf›
@@ -9,3 +18,6 @@
 
 ‹list of champions, see page cubachamp›
 
+
+-- removing 1 leading nav line(s) in section 4:
+‹Apertura Group Stage, see §apgrp› | ‹Apertura Final, see §apf› | ‹Play-In, see §pin›

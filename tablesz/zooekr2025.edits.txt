@@ -1,3 +1,13 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="krimpl">CFU Premier League 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="krimcfucup">Crimean Football Union Cup 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="krimsupcup">Crimea Super Cup 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="krimaoc">Crimean Open Amateur Championship 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="coc2">Crimean Open Amateur Cup (Second Level) 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="snowdrop">Crimean Snowdrop Cup 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="dwchamp">Winter League 2024/25</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="dleag">Premier League 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="dcup">DPR Cup 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="bzsup">Donbass Super Cup 2025</a><
 -- removing nav(igation) section:
 
 ‹Commonwealth United Championship, see §bezetoekr›

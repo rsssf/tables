@@ -1,3 +1,5 @@
+-- found b-enclosed line >Regular Stage< - heading?
+-- found b-enclosed line >Knockout Stage< - heading?
 -- removing nav(igation) section:
 
 ‹TFA Major League, see §major›

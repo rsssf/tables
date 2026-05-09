@@ -1,0 +1,5 @@
+tablesw/worldcup-concacafqual§58q  :  Match Details Group 13
+tables/58qual                   :  Detailed Infos
+tablesw/worldcup-concacafqual§58q  :  Match Details CONCACAF Zone
+tables/58f                      :  1958 Final Tournament
+tablesw/worldcup                :  Overview File

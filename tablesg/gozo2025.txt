@@ -2,7 +2,7 @@
      title:   Gozo 2024/25
      source:  https://rsssf.org/tablesg/gozo2025.html
      author:  Karel Stokkermans
-     updated: 9 Oct 2025    
+     updated: 9 Oct 2025
     -->
 
 
@@ -209,7 +209,7 @@ Final Table:
  7.Oratory Youths               18   1  1 16  16-66   4       Relegated
  -.Victoria Hotspurs            moved to ‹Maltese league, see page ../tablesm/malt2025.html#third›  [P]
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 [Apr 19]
 Għajnsielem   4-1 Sannat L.

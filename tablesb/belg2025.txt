@@ -2,7 +2,7 @@
      title:   Belgium 2024/25
      source:  https://rsssf.org/tablesb/belg2025.html
      author:  Karel Stokkermans
-     updated: 17 Nov 2025    
+     updated: 17 Nov 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Pro League  ‹§pro›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -468,11 +467,10 @@ Final Table:
 15.KV Kortrijk                       30   7  5 18  28-55  26       ‹Relegation Playoff, see §po3›
 16.K. Beerschot VA                  30   3  9 18  26-60  18  [P]  ‹Relegation Playoff, see §po3›
 
-Playoff Stage    ‹§play›
+===== Playoff Stage  ‹§play›
 
-‹Playoff 1, see §po1› | ‹Playoff 2, see §po2› | ‹Relegation Playoff, see §po3›
 
-Playoff 1  ‹§po1›
+====== Playoff 1  ‹§po1›
 
 Final Table:
 
@@ -564,7 +562,7 @@ NB: bonus points regular stage (halved, rounded upward) between square brackets
 [*] gained an additional half point due to rounding; in case of a tie on points,
     ranked below a club which did not profit from rounding
 
-Playoff 2  ‹§po2›
+====== Playoff 2  ‹§po2›
 
 Final Table:
 
@@ -659,7 +657,7 @@ NB: bonus points regular stage (halved, rounded upward) between square brackets
 [*] gained an additional half point due to rounding; in case of a tie on points,
     ranked below a club which did not profit from rounding
 
-Relegation Playoff  ‹§po3›
+====== Relegation Playoff  ‹§po3›
 
 Final Table:
 
@@ -715,7 +713,7 @@ Final Table:
 
 NB: points regular stage between square brackets
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 First Leg [May 18]
 Patro Eisden      1-5 Cercle Brugge
@@ -827,7 +825,7 @@ NB: Deinze initially had 3 points deducted for financial reasons but later were 
     during the season it was decided that at least four youth teams are to play at the
       second level, thus exempting Club NXT, RSCA Futures and Jong Genk from relegation
 
-Promotion Playoff  ‹§2prom›
+====== Promotion Playoff  ‹§2prom›
 
 Semifinals
 

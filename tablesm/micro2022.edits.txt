@@ -1,3 +1,6 @@
+-- found b-enclosed line >Pohnpei State League 2022< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="libday">Liberation Day Tournament 2022</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="yapg">Yap Games 2022</a><
 -- removing nav(igation) section:
 
 ‹Pohnpei, see §pohnpei› | ‹Yap, see §yap›

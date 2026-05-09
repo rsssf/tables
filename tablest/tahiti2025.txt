@@ -2,7 +2,7 @@
      title:   French Polynesia 2024/25
      source:  https://rsssf.org/tablest/tahiti2025.html
      author:  Karel Stokkermans
-     updated: 6 Oct 2025    
+     updated: 6 Oct 2025
     -->
 
 
@@ -402,9 +402,8 @@ Final Table:
 
 ==== Marquesas Islands  ‹§marq›
 
-‹Championnat Marquises Nord, see §mnord› | ‹Championnat Marquises Sud, see §msud›
 
-Championnat Marquises Nord  ‹§mnord›
+===== Championnat Marquises Nord  ‹§mnord›
 
 Final Table:
 
@@ -414,7 +413,7 @@ Final Table:
  4.AS Poumaka           8   2  2  4  14-19  16
  5.AS Tamarii Hitikau   8   1  0  7   6-21  11
 
-Championnat Marquises Sud  ‹§msud›
+===== Championnat Marquises Sud  ‹§msud›
 
 Final Table:
 
@@ -431,9 +430,8 @@ Final Table:
 
 ==== Cup Tournaments  ‹§coupes›
 
-‹Coupe du Polynésie 2025, see §coupepoly› | ‹Trophée des Champions 2025, see §trchamps›
 
-Coupe du Polynésie 2025  ‹§coupepoly›
+===== Coupe du Polynésie 2025  ‹§coupepoly›
 
 Barrages Iles-sous-le-Vent
 
@@ -500,7 +498,7 @@ Vénus           0-2 Punaruu
 Final [Jun 28]
 Pirae           2-1 Punaruu
 
-Trophée des Champions 2025  ‹§trchamps›
+===== Trophée des Champions 2025  ‹§trchamps›
 
 Final [Sep 13]
 Vénus           2-2 Pirae           [2-4 pen (no extra time)]

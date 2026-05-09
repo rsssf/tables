@@ -1,31 +1,31 @@
   <!--
      title:   World Cup 1998 qualifications
      source:  https://rsssf.org/tables/98qual.html
-    
+
     -->
 
 
 = World Cup 1998 qualifications
 
-<UL>
-<LI>‹Europe, see §europe›
-<UL>
-<LI>‹Group 1, see §gr1›
-<LI>‹Group 2, see §gr2›
-<LI>‹Group 3, see §gr3›
-<LI>‹Group 4, see §gr4›
-<LI>‹Group 5, see §gr5›
-<LI>‹Group 6, see §gr6›
-<LI>‹Group 7, see §gr7›
-<LI>‹Group 8, see §gr8›
-<LI>‹Group 9, see §gr9›
-</UL>
-<LI>‹South America, see §sam›
-<LI>‹North and Central America, see §ncam›
-<LI>‹Asia, see §asia›
-<LI>‹Oceania, see §oceania› - ‹Oceania - Line-Ups, see page 98-qual-det.html#oc›
-<LI>‹Africa, see §africa› - ‹Africa - Line-Ups, see page 98-qual-det.html#afr›
-</UL>
+
+‹Europe, see §europe›
+
+‹Group 1, see §gr1›
+‹Group 2, see §gr2›
+‹Group 3, see §gr3›
+‹Group 4, see §gr4›
+‹Group 5, see §gr5›
+‹Group 6, see §gr6›
+‹Group 7, see §gr7›
+‹Group 8, see §gr8›
+‹Group 9, see §gr9›
+
+‹South America, see §sam›
+‹North and Central America, see §ncam›
+‹Asia, see §asia›
+‹Oceania, see §oceania› - ‹Oceania - Line-Ups, see page 98-qual-det.html#oc›
+‹Africa, see §africa› - ‹Africa - Line-Ups, see page 98-qual-det.html#afr›
+
 
 
 == Europe  ‹§europe›

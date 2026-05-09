@@ -2,7 +2,7 @@
      title:   San Marino 2024/25
      source:  https://rsssf.org/tabless/sanm2025.html
      author:  Karel Stokkermans
-     updated: 23 Feb 2026    
+     updated: 23 Feb 2026
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Campionato Dilettanti 2024/25  ‹§campionato›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -452,7 +451,7 @@ Final Table:
 15.Pennarossa (Chiesanuova)      30   3  8 19  26-76  17
 16.San Marino Academy U-22       30   4  4 22  30-68  16
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
 NB: to determine second place.
 

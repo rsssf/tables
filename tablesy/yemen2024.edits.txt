@@ -1,3 +1,11 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="grp">Group Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="gp1">Group 1</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="gp2">Group 2</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="fin">Championship Playoff (Al-Murabae al-Dhahabi, "Golden Square")</a><
+-- found u-enclosed line >Hadramaut Valley< - heading?
+-- found u-enclosed line >Ma'rib< - heading?
+-- found u-enclosed line >Sana'a< - heading?
+-- found u-enclosed line >Sana'a Rally< - heading?
 -- removing nav(igation) section:
 
 ‹Yemen League Division One 2023/24, see §div1›
@@ -21,3 +29,9 @@
 
 ‹list of topscorers, see page yementops›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Group Stage, see §grp› | ‹Championship Playoff, see §fin›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Group 1, see §gp1› | ‹Group 2, see §gp2›

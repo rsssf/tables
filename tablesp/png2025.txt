@@ -2,7 +2,7 @@
      title:   Papua New Guinea 2025
      source:  https://rsssf.org/tablesp/png2025.html
      author:  Karel Stokkermans
-     updated: 14 Dec 2025    
+     updated: 14 Dec 2025
     -->
 
 
@@ -14,13 +14,11 @@
 
 === National Competitions 2025  ‹§natc›
 
-‹Premier Soccer League 2025, see §psl›
 
 ==== Premier Soccer League 2025  ‹§psl›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -276,7 +274,7 @@ Final Table:
 [*2] Gulf Komara, Kula, Star Mountain and United Highlands play home matches
      in Port Moresby
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
 Semifinals [Dec 7]
 Lae City                1-1 Morobe Wawens           [aet, 4-5 pen]

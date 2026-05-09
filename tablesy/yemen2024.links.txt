@@ -1,0 +1,4 @@
+tablesy/yemen2023               :  2022/23
+tablesy/yemenchamp              :  list of champions
+tablesy/yemencuphist            :  list of cup winners
+tablesy/yementops               :  list of topscorers

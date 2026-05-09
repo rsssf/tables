@@ -2,7 +2,7 @@
      title:   Saint Helena 2025
      source:  https://rsssf.org/tabless/sthelena2025.html
      author:  Karel Stokkermans
-     updated: 23 Dec 2025    
+     updated: 23 Dec 2025
     -->
 
 

@@ -2,7 +2,7 @@
      title:   Comoros 2024/25
      source:  https://rsssf.org/tablesc/como2025.html
      author:  Karel Stokkermans
-     updated: 28 Jun 2025    
+     updated: 28 Jun 2025
     -->
 
 
@@ -45,11 +45,10 @@ NB: 40th edition
 
 ‹Regional Stage, see §cpreg› | ‹National Stage, see §cpnat›
 
-Regional Stage  ‹§cpreg›
+===== Regional Stage  ‹§cpreg›
 
-‹Mwali, see §cmwali› | ‹Ndzuani, see §cndzuani› | ‹Ngazidja, see §cngazidja›
 
-Mwali   ‹§cmwali›
+===== Mwali  ‹§cmwali›
 
 Round 1
 [Oct 15]
@@ -121,7 +120,7 @@ Belle Lumière (Djoiezi)     1-1 Fomboni FC                  [aet, 5-3 pen]
 
 NB: both finalists qualified for ‹Phase Nationale, see §cpnat›
 
-Ndzuani  ‹§cndzuani›
+===== Ndzuani  ‹§cndzuani›
 
 1/16 Finals
 [Jan 4]
@@ -262,7 +261,7 @@ Djabal FC (Iconi)           2-0 Ngaya Club (Mdé)
 
 NB: Djabal FC (Iconi) qualified for ‹Phase Nationale, see §cpnat›
 
-National Stage  ‹§cpnat›
+===== National Stage  ‹§cpnat›
 
 Qualified:
 ‹Mwali, see §cmwali›:    Belle Lumière (Djoiezi), Fomboni FC
@@ -287,7 +286,6 @@ Fomboni FC                  0-1 Djabal FC (Iconi)
 
 ==== Regional Leagues 2024/25  ‹§regional›
 
-‹Mwali, see §mwali› | ‹Ndzuani, see §ndzuani› | ‹Ngazidja, see §ngazidja›
 
 Mwali (Mohéli)  ‹§mwali›
 

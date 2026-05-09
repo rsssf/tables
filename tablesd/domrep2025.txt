@@ -2,7 +2,7 @@
      title:   Dominican Republic 2025/26
      source:  https://rsssf.org/tablesd/domrep2025.html
      author:  Karel Stokkermans
-     updated: 16 Mar 2026    
+     updated: 16 Mar 2026
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Liga Dominicana de Fútbol 2025  ‹§mayor›
 
-‹Regular Stage, see §reg› | ‹Liguilla, see §lig›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -237,7 +236,7 @@ Final Table:
  9.Jarabacoa FC                          18   4  5  9  16-25  17  [N]
 10.Atlético San Cristóbal                18   0  2 16   5-63   2
 
-Liguilla  ‹§lig›
+===== Liguilla  ‹§lig›
 
 Table:
 
@@ -344,7 +343,7 @@ NB: this was a transitional tournament as the league changes to a fall-spring
 
 ‹Regular Stage, see §creg› | ‹Playoff Stage, see §cplay›
 
-Regular Stage  ‹§creg›
+===== Regular Stage  ‹§creg›
 
 Final Table:
 
@@ -496,7 +495,7 @@ Final Table:
 11.Jarabacoa FC                          11   1  1  9   6-27   4
 12.Atlético San Cristóbal                11   0  3  8   7-25   3
 
-Playoff Stage  ‹§cplay›
+===== Playoff Stage  ‹§cplay›
 
 Semifinals
 

@@ -1,3 +1,22 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="op">Opening Round</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="opreg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="opplay">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="cl">Closing Round</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="clreg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="opplay">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="chfin4">Final Four</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="relfin4">Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2play">Playoff Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2prpo">Promotion Playoff</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2relpo">Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3play">Playoff Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="3prpo">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3chpo">Championship Playoff</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="3relpo">Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="4reg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="4prpo">Promotion Playoff</a><
 -- removing nav(igation) section:
 
 ‹Premier League, see §premier›
@@ -23,3 +42,33 @@
 
 ‹foundation dates clubs, see page maltfound›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Opening Round, see §op› | ‹Closing Round, see §cl› | ‹Final Four, see §chfin4› | ‹Relegation Playoff, see §relfin4›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Regular Stage, see §opreg› | ‹Playoff Stage, see §opplay›
+
+-- removing 1 leading nav line(s) in section 6:
+‹Top-6 Playoff, see §optop› | ‹Bottom-6 Playoff, see §opbot›
+
+-- removing 1 leading nav line(s) in section 7:
+‹Regular Stage, see §clreg› | ‹Playoff Stage, see §clplay›
+
+-- removing 1 leading nav line(s) in section 9:
+‹Top-6 Playoff, see §cltop› | ‹Bottom-6 Playoff, see §clbot›
+
+-- removing 1 leading nav line(s) in section 13:
+‹Regular Stage, see §2reg› | ‹Playoff Stage, see §2play›
+
+-- removing 1 leading nav line(s) in section 15:
+‹Promotion Playoff, see §2prpo› | ‹Relegation Playoff, see §2relpo›
+
+-- removing 1 leading nav line(s) in section 18:
+‹Regular Stage, see §3reg› | ‹Playoff Stage, see §3play›
+
+-- removing 1 leading nav line(s) in section 20:
+‹Promotion Playoff, see §3prpo› | ‹Relegation Playoff, see §3relpo›
+
+-- removing 1 leading nav line(s) in section 24:
+‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prpo›

@@ -2,7 +2,7 @@
      title:   Serbia 2024/25
      source:  https://rsssf.org/tabless/serv2025.html
      author:  Karel Stokkermans
-     updated: 27 May 2025    
+     updated: 27 May 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Superliga  ‹§super›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -459,11 +458,10 @@ Final Table:
 15.Tekstilac (Odžaci)          30   9  4 17  25-52  31  [P]  ‹Relegation Playoff, see §releg›
 16.Jedinstvo (Ub)              30   4  4 22  22-60  16  [P]  ‹Relegation Playoff, see §releg›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -542,7 +540,7 @@ Final Table:
 
 NB: first tie-breaker points in regular stage
 
-Relegation Playoff  ‹§releg›
+====== Relegation Playoff  ‹§releg›
 
 Final Table:
 

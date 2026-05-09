@@ -1,0 +1,4 @@
+-- removing 3 trailing nav line(s) in last section 2:
+‹2018 Final Tournament, see page 2018f›
+‹2022 Qualifying Tournament, see page 2022q›
+‹Overview File, see page ../tablesw/worldcup›

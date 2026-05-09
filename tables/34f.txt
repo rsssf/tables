@@ -2,7 +2,7 @@
      title:   World Cup 1934
      source:  https://rsssf.org/tables/34f.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 20 Jun 2002    
+     updated: 20 Jun 2002
     -->
 
 
@@ -64,15 +64,10 @@ Scorers: 71' Puc 0-1; 81' Orsi 1-1; 95' Schiavio 2-1.
 Topscorer: Nejedlý (Czechoslovakia) 5 goals.
 
 
-‹Detailed Infos, see page 34full›
 
 
 
-‹1930 Final Tournament, see page 30f›
 
-‹1934 Qualifying Tournament, see page 34q›
 
-‹1938 Final Tournament, see page 38f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

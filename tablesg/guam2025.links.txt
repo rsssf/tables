@@ -1,0 +1,3 @@
+tablesg/guam2024                :  2024
+tablesg/guamchamp               :  list of champions
+tablesg/guamcuphist             :  list of cup winners

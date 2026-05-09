@@ -2,7 +2,7 @@
      title:   FIFA Club World Cup 2025
      source:  https://rsssf.org/tablesf/fifa-wcc2025.html
      author:  Roberto Di Maggio
-     updated: 8 Jan 2026    
+     updated: 8 Jan 2026
     -->
 
 
@@ -334,11 +334,7 @@ Africa      -  -  -  -   -   -   ----
 World       3  0  1  2   1  17   16.7
 
 
-‹overview file., see page fifawcc›
 
-‹2023., see page fifa-wcc2023›
 
-‹2024 (FIFA Intercontinental Cup)., see page fifa-icc2024›
 
-‹2025 (FIFA Intercontinental Cup)., see page fifa-icc2025›
 

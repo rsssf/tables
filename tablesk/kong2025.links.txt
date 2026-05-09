@@ -1,0 +1,3 @@
+tablesk/kong2024                :  2023/24
+tablesk/kongchamp               :  list of champions
+tablesk/kongcuphist             :  list of cup winners

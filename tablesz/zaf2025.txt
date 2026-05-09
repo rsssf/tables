@@ -2,7 +2,7 @@
      title:   South Africa 2024/25
      source:  https://rsssf.org/tablesz/zaf2025.html
      author:  Karel Stokkermans
-     updated: 7 Jul 2025    
+     updated: 7 Jul 2025
     -->
 
 
@@ -471,7 +471,7 @@ Final Table:
 
 NB: annulled results againt Royal AM between square brackets
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 Final Table:
 
@@ -507,9 +507,8 @@ Final Table:
 
 ==== Cup Tournaments 2024/25  ‹§cups›
 
-‹FA Cup, see §facup› | ‹MTN 8 Cup, see §mtn8› | ‹Carling Knockout Cup, see §carling›
 
-Nedbank FA Cup 2024/25  ‹§facup›
+===== Nedbank FA Cup 2024/25  ‹§facup›
 
 1/16 Finals
 [Jan 24]
@@ -567,7 +566,7 @@ Mamelodi Sundowns        1-2 Kaizer Chiefs
 Final [May 10, Moses Mabhida Stadium, Durban]
 Kaizer Chiefs            2-1 Orlando Pirates
 
-MTN 8 Cup 2024  ‹§mtn8›
+===== MTN 8 Cup 2024  ‹§mtn8›
 
 Quarterfinals
 [Aug 3]
@@ -594,7 +593,7 @@ Stellenbosch             1-0 Mamelodi Sundowns
 Final [Oct 5, Durban]
 Orlando Pirates          3-1 Stellenbosch
 
-Carling Knockout Cup 2024  ‹§carling›
+===== Carling Knockout Cup 2024  ‹§carling›
 
 1/8 Finals
 [Oct 18]

@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="gps">Group Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="po">Playoff Stage</a><
 -- removing nav(igation) section:
 
 ‹G-League Haya, see §div1›
@@ -12,3 +14,6 @@
 
 ‹list of cup winners, see page guamcuphist›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Group Stage, see §gps› | ‹Playoff Stage, see §po›

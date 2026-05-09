@@ -1,0 +1,5 @@
+tables/62full                   :  Detailed Infos
+tables/58f                      :  1958 Final Tournament
+tables/62q                      :  1962 Qualifying Tournament
+tables/66f                      :  1966 Final Tournament
+tablesw/worldcup                :  Overview File

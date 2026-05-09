@@ -2,7 +2,7 @@
      title:   Romania 2024/25
      source:  https://rsssf.org/tablesr/roem2025.html
      author:  Karel Stokkermans
-     updated: 17 Nov 2025    
+     updated: 17 Nov 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Liga 1  ‹§liga1›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -478,11 +477,10 @@ Final Table:
 15.AFC Unirea 04 Slobozia        30   7  5 18  28-47  26  [P]  ‹Relegation Playoff, see §releg›
 16.Gloria Buzău                  30   5  5 20  25-51  20  [P]  ‹Relegation Playoff, see §releg›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-Championship Playoff  ‹§champ›
+====== Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -589,7 +587,7 @@ NB: bonus points regular stage (halved points rounded upwards) between square br
     first tie-breaker whether or not a club profited by half a point from the rounding
     (indicated by * if yes); second tie-breaker head-to-head results
 
-Playout (Relegation Playoff)  ‹§releg›
+====== Playout (Relegation Playoff)  ‹§releg›
 
 Final Table:
 
@@ -730,7 +728,7 @@ NB: bonus points regular stage (halved points rounded upwards) between square br
     second tie-breaker points in regular stage;
     third tie-breaker head-to-head results
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 First Legs
 [May 25]
@@ -831,9 +829,8 @@ FCSB           2-1 CFR Cluj
 
 ==== Liga a 2-a  ‹§liga2›
 
-‹Regular Stage, see §2reg› | ‹Playoff Stage, see §2play›
 
-Regular Stage  ‹§2reg›
+===== Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -861,11 +858,10 @@ Final Table:
  -.CS Mioveni                    relegated to lowest level for financial reasons
  -.ACS Viit. Pandurii Târgu Jiu  relegated to lowest level for financial reasons
 
-Playoff Stage  ‹§2play›
+===== Playoff Stage  ‹§2play›
 
-‹Promotion Playoff, see §2prom› | ‹Playout, see §2releg› | ‹Relegation Playoff, see §2baraj›
 
-Promotion Playoff  ‹§2prom›
+====== Promotion Playoff  ‹§2prom›
 
 Final Table:
 
@@ -882,7 +878,7 @@ Final Table:
 
 NB: points regular season between square brackets (also first tie-breaker)
 
-Playout  ‹§2releg›
+====== Playout  ‹§2releg›
 
 Final Tables:
 
@@ -912,7 +908,7 @@ Grupa B
 
 NB: points regular season between square brackets (also first tie-breaker)
 
-Relegation Playoff  ‹§2baraj›
+====== Relegation Playoff  ‹§2baraj›
 
 First Leg [May 17]
 Dumbrăvița     0-1 Chindia
@@ -928,7 +924,7 @@ NB: CSC Dumbrăvița relegated
 
 ==== Liga a 3-a  ‹§liga3›
 
-Baraj   ‹§3baraj›
+===== Baraj  ‹§3baraj›
 
 NB: Sporting Liești, CSO Băicoi and CSO Filiași excluded for failing
     to meet requirements on youth teams

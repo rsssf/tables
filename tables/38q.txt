@@ -2,7 +2,7 @@
      title:   World Cup 1938 Qualifying
      source:  https://rsssf.org/tables/38q.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 6 Mar 2026    
+     updated: 6 Mar 2026
     -->
 
 
@@ -143,11 +143,8 @@ withdrawal of Argentina (see group 10).
 29.05.38  Bordeaux    Cuba             w/o Argentina
 
 
-‹Detailed Infos, see page 38qual›
 
 
 
-‹1938 Final Tournament, see page 38f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

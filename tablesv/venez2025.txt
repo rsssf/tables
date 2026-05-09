@@ -2,7 +2,7 @@
      title:   Venezuela 2025
      source:  https://rsssf.org/tablesv/venez2025.html
      author:  Karel Stokkermans
-     updated: 7 Dec 2025    
+     updated: 7 Dec 2025
     -->
 
 
@@ -14,13 +14,11 @@
 
 ==== Primera División  ‹§primera›
 
-‹Torneo Apertura 2025, see §1aper› | ‹Torneo Clausura 2025, see §1clau› | ‹Championship Playoff, see §chpo›
 
-Torneo Apertura 2025  ‹§1aper›
+===== Torneo Apertura 2025  ‹§1aper›
 
-‹Regular Stage, see §aperreg› | ‹Liguilla, see §aperpo› | ‹Final, see §aperfin›
 
-Regular Stage  ‹§aperreg›
+====== Regular Stage  ‹§aperreg›
 
 Final Table:
 
@@ -42,7 +40,7 @@ Final Table:
 
 [*] Anzoátegui FC swapped places with Angostura FC
 
-Liguilla (Cuadrangulares)  ‹§aperpo›
+====== Liguilla (Cuadrangulares)  ‹§aperpo›
 
 Final Tables:
 
@@ -60,14 +58,14 @@ Grupo B
  3.Metropolitanos FC             6   1  3  2   7- 9   6
  4.Academia Puerto Cabello       6   0  3  3   4- 9   3
 
-Final  ‹§aperfin›
+====== Final  ‹§aperfin›
 
 [Jun 14]
 Universidad Central      1-0 Dvo. Táchira
 
 NB: Universidad Central qualified for ‹Final Absoluta, see §chpo›
 
-Torneo Clausura 2025  ‹§1clau›
+===== Torneo Clausura 2025  ‹§1clau›
 
 Final Table:
 
@@ -87,7 +85,7 @@ Final Table:
 13.Yaracuyanos FC               13   3  1  9  11-21  10  [P]
 14.Portuguesa FC                13   3  1  9  10-21   7  [-3]
 
-Liguilla (Cuadrangulares)  ‹§claupo›
+====== Liguilla (Cuadrangulares)  ‹§claupo›
 
 Final Tables:
 
@@ -107,14 +105,14 @@ Grupo B
  3.Deportivo Táchira             6   1  3  2   7- 7   6  [C]
  4.Metropolitanos FC             6   0  2  4   4-12   2
 
-Final  ‹§claufin›
+====== Final  ‹§claufin›
 
 [Nov 24]
 Carabobo FC              1-0 Academia PC
 
 NB: Carabobo FC qualified for ‹Final Absoluta, see §chpo›
 
-Championship Playoff (Final Absoluta)  ‹§chpo›
+===== Championship Playoff (Final Absoluta)  ‹§chpo›
 
 NB: between Universidad Central (winners ‹Apertura, see §1aper›) and Carabobo FC (winners ‹Clausura, see §1clau›)
 

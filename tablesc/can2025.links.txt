@@ -1,0 +1,8 @@
+tablesc/can2024                 :  2024
+tablesc/canchamp                :  list of champions
+usadave/cpslii                  :  cpsl overview
+usadave/csl2                    :  csl overview
+usadave/cncc                    :  list of winners canadian national challenge cup
+tablesc/canunichamp             :  list of university champions
+tablesq/quebechonours           :  list of champions and cup winners quebec
+tablesc/can-nlcuphist           :  list of cup winners newfoundland and labrador

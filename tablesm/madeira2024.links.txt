@@ -1,0 +1,4 @@
+tablesm/madeira2023             :  2022/23
+tablesm/madeirachamp            :  list of champions
+tablesm/madeiracuphist          :  list of cup winners
+tablesm/madeirahist             :  list of final tables

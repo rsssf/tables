@@ -1,0 +1,3 @@
+tabless/shetl2024               :  2024
+tabless/shetlchamp              :  list of champions
+tabless/shetlcuphist            :  list of cup winners

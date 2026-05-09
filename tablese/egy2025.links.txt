@@ -1,0 +1,3 @@
+tablese/egy2024                 :  2023/24
+tablese/egychamp                :  list of champions
+tablese/egycuphist              :  list of cup winners

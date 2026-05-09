@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
 -- removing nav(igation) section:
 
 ‹Canadian Championship 2025, see §amway›
@@ -22,3 +24,6 @@
 
 ‹list of cup winners newfoundland and labrador, see page can-nlcuphist›
 
+
+-- removing 1 leading nav line(s) in section 4:
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›

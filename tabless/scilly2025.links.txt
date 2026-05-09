@@ -1,0 +1,3 @@
+tabless/scilly§champ            :  list of champions
+tabless/scilly§cups             :  list of cup winners
+tabless/scilly2024              :  2023/24

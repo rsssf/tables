@@ -2,7 +2,7 @@
      title:   Chad 2024/25
      source:  https://rsssf.org/tablest/tsja2025.html
      author:  Karel Stokkermans
-     updated: 25 Apr 2025    
+     updated: 25 Apr 2025
     -->
 
 
@@ -30,9 +30,8 @@ Participants :
 
 ==== Regional Leagues 2024/25  ‹§reg›
 
-‹Zône 7, see §z7›
 
-Zône 7 (Ligue Provinciale de Football de N'Djaména)  ‹§z7›
+====== Zône 7 (Ligue Provinciale de Football de N'Djaména)  ‹§z7›
 
 Division 1
 

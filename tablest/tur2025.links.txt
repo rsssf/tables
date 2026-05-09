@@ -1,0 +1,8 @@
+tablest/tur2024                 :  2023/24
+tablest/turkchamp               :  list of champions
+tablest/turkalltime             :  alltime table
+tablest/turkcuphist             :  list of cup finals
+tablest/turksupcuphist          :  list of super cup (president's cup) finals
+tablest/turkvarcuphist          :  list of prime minister's cup finals
+tablest/turkhist                :  list of final tables
+tablest/turktops                :  list of topscorers

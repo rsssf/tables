@@ -1,0 +1,7 @@
+tabless/slov2024                :  2023/24
+tabless/slovchamp               :  list of champions
+tabless/slovhist                :  list of final tables
+tabless/slovcuphist             :  list of cup winners
+tabless/slovsupcuphist          :  list of super cup finals
+tabless/slovtops                :  list of topscorers
+tabless/slovfound               :  list of foundation dates

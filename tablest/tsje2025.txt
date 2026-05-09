@@ -2,7 +2,7 @@
      title:   Czech Republic 2024/25
      source:  https://rsssf.org/tablest/tsje2025.html
      author:  Karel Stokkermans
-     updated: 28 May 2025    
+     updated: 28 May 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Chance liga  ‹§1gamb›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -449,11 +448,10 @@ Final Table:
 15.FK Pardubice               30   4  7 19  22-49  19                   ‹Skupina o Záchranu, see §releg›
 16.SK Dynamo České Budějovice 30   0  5 25  14-78   5                   ‹Skupina o Záchranu, see §releg›
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
-‹Skupina o Titul, see §champ› | ‹Play-off o umístění, see §middle› | ‹Skupina o Záchranu, see §releg›
 
-Skupina o Titul  ‹§champ›
+====== Skupina o Titul  ‹§champ›
 
 Final Table:
 
@@ -506,7 +504,7 @@ Final Table:
 
 NB: first tie-breaker points won in regular season
 
-Play-off o umístění  ‹§middle›
+====== Play-off o umístění  ‹§middle›
 
 Semifinals
 
@@ -530,7 +528,7 @@ Bohemians         1-0 Hradec Králové
 Second Leg [May 25]
 Hradec Králové    2-0 Bohemians
 
-Skupina o Záchranu  ‹§releg›
+====== Skupina o Záchranu  ‹§releg›
 
 Final Table:
 

@@ -1,0 +1,5 @@
+tablesw/wal2024                 :  2023/24
+tablesw/walchamp                :  list of champions
+tablesw/walcuphist              :  list of cup finals
+tablesw/walleagcuphist          :  list of league cup finals
+tablesw/waltops                 :  list of topscorers

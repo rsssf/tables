@@ -1,0 +1,8 @@
+tablesi/ijs2024                 :  2024
+tablesi/ijschamp                :  list of champions
+tablesi/ijshist                 :  list of final tables
+tablesi/ijs2champ               :  list of second division champions
+tablesi/ijs2hist                :  list of second division final tables
+tablesi/ijscuphist              :  list of cup finals
+tablesi/ijssupcuphist           :  list of super cup finals
+tablesi/ijsleagcuphist          :  list of league cup finals

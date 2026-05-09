@@ -1,3 +1,9 @@
+-- found u-enclosed line >First Stage< - heading?
+-- found u-enclosed line >Second Stage< - heading?
+-- make heading (hb) out of b-enclosed a name in line ><a name="mnord">Championnat Marquises Nord</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="msud">Championnat Marquises Sud</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="coupepoly">Coupe du Polynésie 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="trchamps">Trophée des Champions 2025</a><
 -- removing nav(igation) section:
 
 ‹Division 1, see §div1›
@@ -28,3 +34,9 @@ Note that the point system in French Polynesia is 4/win, 2/draw, 1/loss.
 
 ‹french overseas territories cup, see page ../tablesf/franseaterrcuphist›
 
+
+-- removing 1 leading nav line(s) in section 8:
+‹Championnat Marquises Nord, see §mnord› | ‹Championnat Marquises Sud, see §msud›
+
+-- removing 1 leading nav line(s) in section 11:
+‹Coupe du Polynésie 2025, see §coupepoly› | ‹Trophée des Champions 2025, see §trchamps›

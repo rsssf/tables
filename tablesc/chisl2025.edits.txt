@@ -1,3 +1,11 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="upton">Upton Park Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="jeremie">Jeremie Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="wheway">Wheway Memorial Trophy</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="leatt">John Leatt Trophy (U-16 Upton Park)</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="gprem">Premiership (Priaulx)</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="gfacup">Guernsey FA Cup 2024/25</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="jprem">Premiership</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="cups">Various Cup Tournaments</a><
 -- removing nav(igation) section:
 
 ‹Inter-Island Club Competitions, see §interisland›
@@ -17,3 +25,16 @@
 
 ‹list of foundation dates, see page chislfound›
 
+
+-- removing 2 leading nav line(s) in section 3:
+‹Upton Park Cup, see §upton›
+‹Jeremie Cup, see §jeremie› | ‹Wheway Memorial Trophy, see §wheway› | ‹John Leatt Trophy, see §leatt›
+
+-- removing 1 leading nav line(s) in section 8:
+‹Premiership, see §gprem› | ‹Guernsey FA Cup, see §gfacup›
+
+-- removing 1 leading nav line(s) in section 11:
+‹Premiership, see §jprem› | ‹Various Cup Tournaments, see §cups›
+
+-- removing 1 leading nav line(s) in section 13:
+‹Charity Cup, see §charity›

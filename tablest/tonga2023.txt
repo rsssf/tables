@@ -2,7 +2,7 @@
      title:   Tonga 2023
      source:  https://rsssf.org/tablest/tonga2023.html
      author:  Karel Stokkermans
-     updated: 6 Nov 2023    
+     updated: 6 Nov 2023
     -->
 
 

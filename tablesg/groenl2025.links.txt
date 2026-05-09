@@ -1,0 +1,5 @@
+tablesg/groenl2024              :  2024
+tablesg/groenlchamp             :  list of champions
+tablesg/groenlcups              :  list of various cup tournaments
+tablesg/groenlfound             :  list of foundation dates
+tablesg/groenl-womchamp         :  list of women champions

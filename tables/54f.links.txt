@@ -1,0 +1,5 @@
+tables/54full                   :  Detailed Infos
+tables/50f                      :  1950 Final Tournament
+tables/54q                      :  1954 Qualifying Tournament
+tables/58f                      :  1958 Final Tournament
+tablesw/worldcup                :  Overview File

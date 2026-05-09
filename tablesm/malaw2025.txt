@@ -2,7 +2,7 @@
      title:   Malawi 2025
      source:  https://rsssf.org/tablesm/malaw2025.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 12 Feb 2026    
+     updated: 12 Feb 2026
     -->
 
 

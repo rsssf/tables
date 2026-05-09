@@ -1,3 +1,11 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1aper">Torneo Apertura 2025</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="aperreg">Regular Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="aperpo">Liguilla (Cuadrangulares)</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="aperfin">Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="1clau">Torneo Clausura 2025</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="claupo">Liguilla (Cuadrangulares)</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="claufin">Final</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="chpo">Championship Playoff (Final Absoluta)</a><
 -- removing nav(igation) section:
 
 ‹Primera División, see §primera›
@@ -19,3 +27,9 @@
 
 ‹list of foundation dates, see page venezfound›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Torneo Apertura 2025, see §1aper› | ‹Torneo Clausura 2025, see §1clau› | ‹Championship Playoff, see §chpo›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Regular Stage, see §aperreg› | ‹Liguilla, see §aperpo› | ‹Final, see §aperfin›

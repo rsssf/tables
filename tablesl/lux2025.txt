@@ -2,7 +2,7 @@
      title:   Luxembourg 2024/25
      source:  https://rsssf.org/tablesl/lux2025.html
      author:  Karel Stokkermans
-     updated: 26 May 2025    
+     updated: 26 May 2025
     -->
 
 

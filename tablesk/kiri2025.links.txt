@@ -1,0 +1,2 @@
+tablesk/kiri2024                :  2024
+tablesk/kirichamp               :  list of champions

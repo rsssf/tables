@@ -1,0 +1,7 @@
+tablest/tahiti2024              :  2023/24
+tablest/tahiti2026              :  2025/26
+tablest/tahitichamp             :  list of champions
+tablest/tahiticuphist           :  list of cup winners
+tablest/tahitichampcuphist      :  list of coupe des champions winners
+tablest/tahitifound             :  foundation dates
+tablesf/franseaterrcuphist      :  french overseas territories cup

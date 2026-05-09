@@ -2,7 +2,7 @@
      title:   World Cup 2010 Qualifying - Match Details
      source:  https://rsssf.org/tables/2010q-det.html
      authors: Erik Francisco Lugo and Hamdan Saaid
-     updated: 11 Dec 2009    
+     updated: 11 Dec 2009
     -->
 
 
@@ -5530,7 +5530,5 @@ New Zealand - Vanuatu
 New Caledonia - Fiji
 
 
-‹2010 Qualifying - Overview, see page 2010q›
 
-‹Overview File, see page ../tablesw/worldcup›
 

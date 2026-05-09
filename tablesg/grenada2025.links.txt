@@ -1,0 +1,3 @@
+tablesg/grenada2024             :  2024/25
+tablesg/grenadachamp            :  list of champions
+tablesg/grenadawaggyhist        :  list of cup winners

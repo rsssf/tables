@@ -2,7 +2,7 @@
      title:   Yemen 2023/24
      source:  https://rsssf.org/tablesy/yemen2024.html
      authors: Davide Angelini, Hans Schöggl and Karel Stokkermans
-     updated: 11 Dec 2025    
+     updated: 11 Dec 2025
     -->
 
 
@@ -14,13 +14,11 @@
 
 ==== Yemen League Division One 2023/24  ‹§div1›
 
-‹Group Stage, see §grp› | ‹Championship Playoff, see §fin›
 
-Group Stage  ‹§grp›
+===== Group Stage  ‹§grp›
 
-‹Group 1, see §gp1› | ‹Group 2, see §gp2›
 
-Group 1  ‹§gp1›
+====== Group 1  ‹§gp1›
 
 Final Table:
 
@@ -156,7 +154,7 @@ Final Table:
  6.Samoon                        10   1  1  8   6-19   4  [P]  Relegated
  -.Al-Saqr (Taizz)                excluded after two no-shows
 
-Group 2  ‹§gp2›
+====== Group 2  ‹§gp2›
 
 Final Table:
 
@@ -292,7 +290,7 @@ Final Table:
  6.Al-Sha'ab (Ibb)               10   2  2  6  13-19   8       Relegated
  -.Al-Taliya (Taizz)              excluded after two no-shows
 
-Championship Playoff (Al-Murabae al-Dhahabi, "Golden Square")  ‹§fin›
+===== Championship Playoff (Al-Murabae al-Dhahabi, "Golden Square")  ‹§fin›
 
 NB: between top-2 of both groups
 

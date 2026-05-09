@@ -2,7 +2,7 @@
      title:   World Cup 1994
      source:  https://rsssf.org/tables/94f.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 5 Jul 2018    
+     updated: 5 Jul 2018
     -->
 
 
@@ -119,15 +119,10 @@ Penalty kicks: Baresi (over), Marcio Santos (stopped), Albertini 1-0,
 
 Topscorers: Salenko (Russia), Stoitchkov (Bulgaria) 6 goals.
 
-‹Detailed Infos, see page 94full›
 
 
 
-‹1990 Final Tournament, see page 90f›
 
-‹1994 Qualifying Tournament, see page 94q›
 
-‹1998 Final Tournament, see page 98f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

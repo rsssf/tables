@@ -1,27 +1,27 @@
   <!--
      title:   World Cup 1938 finals
      source:  https://rsssf.org/tables/38full.html
-    
+
     -->
 
 
 = World Cup 1938 finals
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Eightfinals, see §8fin›
-<LI>‹Quarterfinals, see §4fin›
-<LI>‹Semifinals, see §2fin›
-<LI>‹Third place match, see §3place›
-<LI>‹Final, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
-</UL>
+
+‹Results, see §results›
+
+‹Eightfinals, see §8fin›
+‹Quarterfinals, see §4fin›
+‹Semifinals, see §2fin›
+‹Third place match, see §3place›
+‹Final, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
+
 
 France, 4-19 Jun 1938 (Antibes, Bordeaux, Le Havre, Lille, Marseille,
 Paris, Reims, Strasbourg, Toulouse). Decided at FIFA Congress in Berlin

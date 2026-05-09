@@ -1,0 +1,7 @@
+tablesb/bulg2024                :  2023/24
+tablesb/bulgchamp               :  list of champions
+tablesb/bulghist                :  list of final tables
+tablesb/bulgalltime             :  all-time table
+tablesb/bulgcuphist             :  list of cup finals
+tablesb/bulgtops                :  list of topscorers
+tablesb/bulg-names              :  list of name changes

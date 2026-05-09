@@ -2,7 +2,7 @@
      title:   Bougainville 2025
      source:  https://rsssf.org/tablesp/png-bgv2025.html
      author:  Karel Stokkermans
-     updated: 23 Sep 2025    
+     updated: 23 Sep 2025
     -->
 
 
@@ -14,7 +14,7 @@
 
 ==== Arawa FA B-League 2025  ‹§arawa›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Round 1
 [Apr 20]
@@ -121,7 +121,7 @@ ASEC                  -  Waves               [awarded?]
 Poraka               4-4 Extreme
 Bougainville United  bye
 
-Playoff Stage  ‹§poff›
+===== Playoff Stage  ‹§poff›
 
 Preliminary Final [Aug 31]
 Bougainville United  2-0 Poraka

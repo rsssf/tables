@@ -1,0 +1,8 @@
+tables/30f-hattrick             :  first World Cup hat-trick
+tableso/ol1920f-det             :  1920
+tableso/ol1956f                 :  1956 Olympic Games
+tablesb/belg-wktrip30           :  BEL
+tablesf/fran-wktrip30           :  FRA
+tablesj/joeg-wktrip30           :  JUG
+tablesr/roem-wktrip30           :  ROM
+tablesu/usa-wktrip30            :  USA

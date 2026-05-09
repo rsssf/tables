@@ -1,27 +1,27 @@
   <!--
      title:   World Cup 1930 finals
      source:  https://rsssf.org/tables/30full.html
-    
+
     -->
 
 
 = World Cup 1930
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Semifinals, see §semi›
-<LI>‹Final, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Semifinals, see §semi›
+‹Final, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
 
 Uruguay, July 13-30. All games played in Montevideo. Decided in Amsterdam 28 May
 1928. Entries deadline 19 Jan 1930, moved to late May (all 13 teams that entered
@@ -30,7 +30,6 @@ were qualified). Groups drawn 7 Jul 1930. Semifinals drawn 22 Jul 1930.
 == First Phase
 
 
-‹§results›
 
 == Group A - ARG CHI FRA MEX  ‹§gra›
 

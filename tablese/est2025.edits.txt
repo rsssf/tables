@@ -1,3 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1prorel">Promotion/Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prorel">Promotion/Relegation Playoff 2nd/3rd Level</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3prorel">Promotion/Relegation Playoff 3rd/4th Level</a><
 -- removing nav(igation) section:
 
 ‹Premium liiga 2025, see §meistri›

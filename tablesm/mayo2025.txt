@@ -2,7 +2,7 @@
      title:   Mayotte 2025
      source:  https://rsssf.org/tablesm/mayo2025.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 12 Jan 2026    
+     updated: 12 Jan 2026
     -->
 
 
@@ -37,9 +37,8 @@ Final Table:
 
 ==== Cup Tournaments 2025  ‹§cup›
 
-‹Coupe de France 2025, see §mfrance›
 
-Coupe de France 2025  ‹§mfrance›
+===== Coupe de France 2025  ‹§mfrance›
 
 1/8 Finals
 [Sep 5]

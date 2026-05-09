@@ -2,7 +2,7 @@
      title:   Japan 2025
      source:  https://rsssf.org/tablesj/jpn2025.html
      author:  Andrei Balitskiy
-     updated: 14 Dec 2025    
+     updated: 14 Dec 2025
     -->
 
 
@@ -1510,7 +1510,7 @@ Final Table:
 19.Renofa Yamaguchi FC        38   7 15 16  36-47  36       Relegated
 20.Ehime FC                   38   3 13 22  35-71  22       Relegated
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 Semifinals [Dec 7]
 JEF United Chiba       4-3 RB Omiya Ardija
@@ -2164,7 +2164,7 @@ Final Table:
 - - - - - - - - - - - - - - - - - - - - - - - - - - -
 20.Azul Claro Numazu          38   6 10 22  40-57  28       ‹Relegation Playoff, see §34prorel›
 
-Promotion Playoff  ‹§3prom›
+===== Promotion Playoff  ‹§3prom›
 
 Semifinals [Dec 7]
 FC Osaka               1-0 Zweigen Kanazawa
@@ -2175,7 +2175,7 @@ FC Osaka               0-4 Tegevajaro Miyazaki
 
 NB: Tegevajaro Miyazaki promoted
 
-Promotion/Relegation Playoff  ‹§34prorel›
+===== Promotion/Relegation Playoff  ‹§34prorel›
 
 First Leg [Dec 7]
 Reilac Shiga           3-2 Azul Claro Numazu
@@ -2599,7 +2599,7 @@ Final Table:
 -----------------------------------------------------
 16.Asuka FC                   30   4 12 14  22-33  24  [P]  Relegated
 
-Promotion/Relegation Playoff  ‹§45prorel›
+===== Promotion/Relegation Playoff  ‹§45prorel›
 
 [Nov 30]
 Atletico Suzuka        0-1 Vonds Ichihara         [aet]

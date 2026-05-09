@@ -2,7 +2,7 @@
      title:   Australia 2024/25
      source:  https://rsssf.org/tablesa/aus2025.html
      authors: Adri van Veen and Karel Stokkermans
-     updated: 19 Dec 2025    
+     updated: 19 Dec 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== A-League  ‹§aleague›
 
-‹Preliminary Stage, see §prel› | ‹Playoff Stage, see §play›
 
-Preliminary Stage  ‹§prel›
+===== Preliminary Stage  ‹§prel›
 
 Final Table:
 
@@ -410,7 +409,7 @@ Final Table:
 12.Brisbane Roar             26   5  6 15  32-51  21
 13.Perth Glory               26   4  5 17  22-56  17
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
 First Round
 [May 9]
@@ -464,7 +463,7 @@ Participants:
 
 ‹Group Stage, see §2grp› | ‹Playoff Stage, see §2play›
 
-Group Stage  ‹§2grp›
+===== Group Stage  ‹§2grp›
 
 Final Tables:
 
@@ -496,7 +495,7 @@ Group D
  3. Bayswater City            6   3  1  2   7- 9  10
  4. Sydney United 58          6   0  1  5   5-14   1
 
-Playoff Stage  ‹§2play›
+===== Playoff Stage  ‹§2play›
 
 Quarterfinals
 APIA Leichhardt           1-1 Marconi Stallions         [aet, Marconi on pen]
@@ -517,7 +516,6 @@ Marconi Stallions         0-2 South Melbourne
 
 ==== State Leagues 2025  ‹§states›
 
-‹Australian Capital Territory, see §act› | ‹New South Wales, see §nsw› | ‹Northern New South Wales, see §nnsw› | ‹Northern Territory, see §nth› | ‹Queensland, see §qld› | ‹South Australia, see §south› | ‹Tasmania, see §tas› | ‹Victoria, see §vic› | ‹Western Australia, see §west›
 
 
 
@@ -694,7 +692,7 @@ Final Table:
 14. Camden Tigers            28   6  6 16  40-62  24
 15. Central Coast United     28   5  7 16  29-58  22
 
-Northern New South Wales - National Premier League  ‹§nnsw›
+====== Northern New South Wales - National Premier League  ‹§nnsw›
 
 Final Table:
 

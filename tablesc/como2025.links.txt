@@ -1,0 +1,3 @@
+tablesc/como2024                :  2023/24
+tablesc/comochamp               :  list of champions
+tablesc/comocuphist             :  list of cup winners

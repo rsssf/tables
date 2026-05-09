@@ -3,3 +3,6 @@
 ‹League A, see §leaguea› (2024) | ‹League B, see §leagueb› (2024) | ‹League C, see §leaguec› (2024)
 ‹Play-in, see §pin› (2024)
 ‹Final Stage, see §fin› (2024-25)
+
+-- removing 1 trailing nav line(s) in last section 7:
+‹CONCACAF Nations League 2023-24, see page 2024concanl›

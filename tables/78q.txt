@@ -2,7 +2,7 @@
      title:   World Cup 1978 Qualifying
      source:  https://rsssf.org/tables/78q.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 3 Jan 2000    
+     updated: 3 Jan 2000
     -->
 
 
@@ -389,11 +389,8 @@ Subgroup 5
 04.12.77  Seoul           South Korea      5-2 Hongkong
 
 
-‹Detailed Infos, see page 78qual›
 
 
 
-‹1978 Final Tournament, see page 78f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

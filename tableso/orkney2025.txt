@@ -2,7 +2,7 @@
      title:   Orkney 2025
      source:  https://rsssf.org/tableso/orkney2025.html
      author:  Hans Schöggl
-     updated: 29 Jan 2026    
+     updated: 29 Jan 2026
     -->
 
 
@@ -91,11 +91,8 @@ Final Table:
 
 ==== Cup Tournaments  ‹§cups›
 
-‹Parish Cup, see §parish›
-‹Isaac Newlands Cup, see §newlands›
-‹Heddle Cup, see §heddle› | ‹Thomson Cup, see §thomson› | ‹Oxy Cup, see §oxy› | ‹Craigmyle Cup, see §craigmyle› | ‹Thornley Binders Cup, see §thornley› | ‹Reid Cup, see §reid›
 
-Parish Cup  ‹§parish›
+===== Parish Cup  ‹§parish›
 
 Round 1
 
@@ -155,7 +152,7 @@ Sandwick              1-1 Westray
 Final [Aug 9]
 Holm                  4-2 Sandwick
 
-Isaac Newlands Cup  ‹§newlands›
+===== Isaac Newlands Cup  ‹§newlands›
 
 Round 1
 Thorfinn             10-0 South Ronaldsay
@@ -179,7 +176,7 @@ Stromness             5-1 East United
 Final [Apr 29]
 Dounby                3-3 Stromness             [4-3 pen]
 
-Heddle Cup  ‹§heddle›
+===== Heddle Cup  ‹§heddle›
 
 Quarterfinals [Aug 15]
 East United           3-2 Rovers
@@ -194,7 +191,7 @@ Dounby                1-1 Stromness             [3-2 pen]
 Final [Aug 22]
 Thorfinn              5-1 Dounby
 
-Thomson Cup  ‹§thomson›
+===== Thomson Cup  ‹§thomson›
 
 Quarterfinals [Aug 20]
 Wanderers             2-6 Accies
@@ -209,7 +206,7 @@ Rendall               3-0 Orphir
 Final [Aug 30]
 Accies                1-1 Rendall               [aet, 3-5 pen]
 
-Oxy Cup  ‹§oxy›
+===== Oxy Cup  ‹§oxy›
 
 Quarterfinals [Jun 23]
 Wanderers             0-6 Rendall
@@ -224,7 +221,7 @@ Accies                4-0 Orphir
 Final [Jul 25]
 Rendall               2-0 Accies
 
-Craigmyle Cup  ‹§craigmyle›
+===== Craigmyle Cup  ‹§craigmyle›
 
 Quarterfinals [Jul 1]
 Stromness             0-2 Dounby
@@ -239,7 +236,7 @@ Dounby                1-2 East United
 Final [Aug 1]
 East United           2-3 Rovers
 
-Thornley Binders Cup  ‹§thornley›
+===== Thornley Binders Cup  ‹§thornley›
 
 Round 1 [Aug 13]
 Stenness              0-4 Sandwick
@@ -264,7 +261,7 @@ Sandwick              4-3 Stromness Burgh
 Final [Aug 31]
 Birsay                5-0 Sandwick
 
-Reid Cup  ‹§reid›
+===== Reid Cup  ‹§reid›
 
 Quarterfinals [Aug 26]
 Stromness             5-1 East United

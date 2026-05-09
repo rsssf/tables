@@ -2,13 +2,13 @@
      title:   Saint-Pierre et Miquelon 2025
      source:  https://rsssf.org/tabless/stpierre2025.html
      author:  Karel Stokkermans
-     updated: 9 Oct 2025    
+     updated: 9 Oct 2025
     -->
 
 
 == Saint-Pierre et Miquelon 2025
 
-Overall Championship  ‹§chp›
+===== Overall Championship  ‹§chp›
 
 Final Table:
 
@@ -51,14 +51,14 @@ Final Table:
  2.AS Ilienne Amateur      4   2  0  2   8- 7  10
  3.AS Saint-Pierre         4   1  1  2   9-11   8
 
-Coupe de l'Archipel  ‹§arch›
+===== Coupe de l'Archipel  ‹§arch›
 
 NB: between champions and league runners-up
 
 Final [Sep 27]
 ASM              2-0 ASSP
 
-Coupe de France  ‹§frm›
+===== Coupe de France  ‹§frm›
 
 Round 1 [Jul 5]
 ASSP             6-1 ASIA
@@ -73,7 +73,5 @@ Round 3 [Sep 13]
 Arsac Pian Médoc 2-1 ASSP
 
 
-‹list of champions, see page stpierrechamp›
 
-‹2024, see page stpierre2024›
 

@@ -1,0 +1,4 @@
+-- found b-enclosed line >BRA - JUG 0:0< - heading?
+-- found b-enclosed line >JUG - ZAI 9:0 (6:0)< - heading?
+-- removed 19 remaining nav html element(s):
+<UL> <LI> <UL> <LI> <LI> <LI> <LI> <LI> <LI> <LI> <LI> </UL> </UL> <UL> <LI> <LI> <LI> </UL> </UL>

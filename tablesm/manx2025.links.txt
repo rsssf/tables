@@ -1,0 +1,5 @@
+tablesm/manx2024                :  2023/24
+tablesm/manxchamp               :  list of champions
+tablesm/manx2champ              :  list of 2nd level champions
+tablesm/manxcuphist             :  list of cup winners
+tablesm/manxfound               :  list of foundation dates

@@ -1,3 +1,8 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="champ">Championship Group</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rel">Relegation Group</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoffs</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prompo">Promotion Playoffs</a><
 -- removing nav(igation) section:
 
 ‹K League 1, see §k1›
@@ -21,3 +26,6 @@
 
 ‹list of top scorers, see page skortops›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Championship Group, see §champ› | ‹Relegation Group, see §rel›

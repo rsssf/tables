@@ -1,0 +1,5 @@
+tablesq/qat2024                 :  2023/24
+tablesq/qatchamp                :  list of champions
+tablesq/qatcuphist              :  list of cup winners
+tablesq/qattops                 :  list of topscorers
+tablesq/qatfound                :  list of foundation dates

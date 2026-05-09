@@ -1,0 +1,4 @@
+tablesl/leb2024                 :  2023/24
+tablesl/lebchamp                :  list of champions
+tablesl/lebcuphist              :  list of cup winners
+tablesl/lebtops                 :  list of topscorers

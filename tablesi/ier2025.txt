@@ -2,7 +2,7 @@
      title:   Ireland 2025
      source:  https://rsssf.org/tablesi/ier2025.html
      author:  Karel Stokkermans
-     updated: 14 Nov 2025    
+     updated: 14 Nov 2025
     -->
 
 
@@ -29,7 +29,7 @@ Final Table:
 ----------------------------------------------------
 10.Cork City                 36   4 12 20  33-61  24  [P]  Relegated
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 [Nov 7, Drumcondra]
 Bray            1-2 Waterford
@@ -135,7 +135,7 @@ Final Table:
 
 NB: one match between Kerry and Finn Harps declared void as both fielded ineligible players
 
-Promotion Playoff  ‹§prom›
+===== Promotion Playoff  ‹§prom›
 
 Semifinals
 

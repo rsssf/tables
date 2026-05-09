@@ -2,7 +2,7 @@
      title:   New Zealand 2025
      source:  https://rsssf.org/tablesn/nz2025.html
      authors: Adri van Veen and Karel Stokkermans
-     updated: 19 Dec 2025    
+     updated: 19 Dec 2025
     -->
 
 
@@ -14,12 +14,10 @@
 
 ==== National League 2025  ‹§nat›
 
-‹Regional Leagues (Top Level), see §reg› | ‹Championship Phase, see §champ›
-Regional Leagues (Top Level)  ‹§reg›
+===== Regional Leagues (Top Level)  ‹§reg›
 
-‹Northern League, see §north› | ‹Central League, see §centr› | ‹Southern League, see §south›
 
-Northern League  ‹§north›
+====== Northern League  ‹§north›
 
 Final Table:
 
@@ -40,7 +38,7 @@ Final Table:
 
 [*] Auckland FC Reserves qualified automatically for the national stage
 
-Central League  ‹§centr›
+====== Central League  ‹§centr›
 
 Final Table:
 
@@ -59,7 +57,7 @@ Final Table:
 
 [*] Wellington Phoenix Reserves qualified automatically for the national stage
 
-Southern League  ‹§south›
+====== Southern League  ‹§south›
 
 Final Table:
 
@@ -76,11 +74,10 @@ Final Table:
 -------------------------------------------------------
 10.Selwyn United                18   0  3 15  20-78   3       Relegated
 
-Championship Phase  ‹§champ›
+===== Championship Phase  ‹§champ›
 
-‹Regular Stage, see §chreg› | ‹Final, see §chfin›
 
-Regular Stage  ‹§chreg›
+====== Regular Stage  ‹§chreg›
 
 Final Table:
 
@@ -220,7 +217,7 @@ Final Table:
 10.Auckland United              10   2  2  6  11-19   8
 11.Coastal Spirit               10   2  1  7   5-23   7
 
-Final  ‹§chfin›
+====== Final  ‹§chfin›
 
 Final [Dec 13, Newtown Park, Wellington]
 Wellington Olympic  2-2 Auckland City       [aet, 6-7 pen]
@@ -270,9 +267,8 @@ Wellington Olympic      4-2 Auckland United
 
 ==== Regional Leagues (Lower Levels)  ‹§lreg›
 
-‹Northern League, see §lnorth› | ‹Central League, see §lcentr› | ‹Southern League, see §lsouth›
 
-Northern League (Federation 1, 2 en 3)  ‹§lnorth›
+====== Northern League (Federation 1, 2 en 3)  ‹§lnorth›
 
 Division One
 
@@ -325,7 +321,7 @@ Taupo               1-0 Northland
 
 NB: Taupo promoted
 
-Central League (Federation 4 en 5)  ‹§lcentr›
+====== Central League (Federation 4 en 5)  ‹§lcentr›
 
 Division One
 
@@ -419,7 +415,7 @@ Final Table:
 Central League Promotion Playoff  ‹§clprom›
 Whanganui Athletic      3-1 1-4 Wainuiomata
 
-Southern League (Federation 6 en 7)  ‹§lsouth›
+====== Southern League (Federation 6 en 7)  ‹§lsouth›
 
 Federation 6 - Canterbury/New World Premier League
 

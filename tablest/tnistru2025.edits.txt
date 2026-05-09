@@ -1,0 +1,4 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="leag">League</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="cup">Cup</a><
+-- removing 1 trailing nav line(s) in last section 4:
+‹2024, see page tnistru2024›

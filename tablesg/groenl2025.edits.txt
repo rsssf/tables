@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="qual">Qualifying Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="final">Slutrunden</a><
 -- removing nav(igation) section:
 
 ‹Angutit Inersimasut Isikkamik arsarluni NP 2025, see §gm›
@@ -20,3 +22,9 @@
 
 ‹list of women champions, see page groenl-womchamp›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Qualifying Stage, see §qual› | ‹Slutrunden, see §final›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Nordgrønland and Diskobugten, see §north› | ‹Kujataa, see §south› | ‹Østgrønland, see §east›

@@ -2,7 +2,7 @@
      title:   Guyana 2025
      source:  https://rsssf.org/tablesg/guyana2025.html
      author:  Karel Stokkermans
-     updated: 12 Jan 2026    
+     updated: 12 Jan 2026
     -->
 
 

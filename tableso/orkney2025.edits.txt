@@ -1,3 +1,11 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="parish">Parish Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="newlands">Isaac Newlands Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="heddle">Heddle Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="thomson">Thomson Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="oxy">Oxy Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="craigmyle">Craigmyle Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="thornley">Thornley Binders Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="reid">Reid Cup</a><
 -- removing nav(igation) section:
 
 ‹A-League, see §aleague›
@@ -13,3 +21,8 @@
 
 ‹list of cup winners, see page orkneycuphist›
 
+
+-- removing 3 leading nav line(s) in section 4:
+‹Parish Cup, see §parish›
+‹Isaac Newlands Cup, see §newlands›
+‹Heddle Cup, see §heddle› | ‹Thomson Cup, see §thomson› | ‹Oxy Cup, see §oxy› | ‹Craigmyle Cup, see §craigmyle› | ‹Thornley Binders Cup, see §thornley› | ‹Reid Cup, see §reid›

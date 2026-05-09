@@ -1,0 +1,7 @@
+tablesv/venez2024               :  2024
+tablesv/venezchamp              :  list of champions
+tablesv/venez2champ             :  list of 2nd level champions
+tablesv/venez3champ             :  list of 3rd level champions
+tablesv/venezcuphist            :  list of cup winners
+tablesv/veneztops               :  list of topscorers
+tablesv/venezfound              :  list of foundation dates

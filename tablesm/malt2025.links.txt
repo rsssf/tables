@@ -1,0 +1,8 @@
+tablesg/gozo2024§second         :  second level Gozo
+tablesm/malt2024                :  2023/24
+tablesm/malthist                :  list of final tables
+tablesm/maltchamp               :  list of champions
+tablesm/maltcuphist             :  list of cup winners
+tablesm/maltsupcuphist          :  list of super cup winners
+tablesm/malttops                :  list of top scorers
+tablesm/maltfound               :  foundation dates clubs

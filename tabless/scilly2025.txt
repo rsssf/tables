@@ -2,7 +2,7 @@
      title:   Scilly Islands 2024/25
      source:  https://rsssf.org/tabless/scilly2025.html
      author:  Hans Schöggl
-     updated: 8 Apr 2025    
+     updated: 8 Apr 2025
     -->
 
 

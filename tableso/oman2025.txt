@@ -2,7 +2,7 @@
      title:   Oman 2024/25
      source:  https://rsssf.org/tableso/oman2025.html
      author:  Karel Stokkermans
-     updated: 8 Aug 2025    
+     updated: 8 Aug 2025
     -->
 
 
@@ -331,7 +331,7 @@ Final Table:
 - - - - - - - - - - - - - - - - - - - - - -
  6.Al-Mudhaibi      10   1  5  4   7-12   8       ‹Relegation Playoff, see §om2rpo›
 
-Second Stage  ‹§om22›
+===== Second Stage  ‹§om22›
 
 Final Table:
 
@@ -343,7 +343,7 @@ Final Table:
  5.Bosher           10   2  3  5   7-10   9  [P]
  6.Al-Itihad        10   2  0  8  11-20   6
 
-Relegation Playoff  ‹§om2rpo›
+===== Relegation Playoff  ‹§om2rpo›
 
 [Jan 10]
 Fanja      awd Mudhaibi   [Mudhaibi forfeited]

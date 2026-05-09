@@ -1,0 +1,3 @@
+tablesk/kuw2024                 :  2023/24
+tablesk/kuwchamp                :  list of champions
+tablesk/kuwcuphist              :  list of cup winners

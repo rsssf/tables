@@ -1,0 +1,3 @@
+tablesp/png2024                 :  2024
+tablesp/pngchamp                :  list of champions
+tablesp/pngcuphist              :  list of cup winners

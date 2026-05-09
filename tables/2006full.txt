@@ -2,7 +2,7 @@
      title:   World Cup 2006 - Match Details
      source:  https://rsssf.org/tables/2006full.html
      author:  Hamdan Saaid
-     updated: 7 Feb 2007    
+     updated: 7 Feb 2007
     -->
 
 
@@ -12,29 +12,12 @@
 
 
 
-<menu>
-<ul>
-<li>‹Group A, see §gra›</li>
-<li>‹Group B, see §grb›</li>
-<li>‹Group C, see §grc›</li>
-<li>‹Group D, see §grd›</li>
-<li>‹Group E, see §gre›</li>
-<li>‹Group F, see §grf›</li>
-<li>‹Group G, see §grg›</li>
-<li>‹Group H, see §grh›</li>
-<li>‹1/8 Finals, see §8f›</li>
-<li>‹Quarterfinals, see §qf›</li>
-<li>‹Semifinals, see §sf›</li>
-<li>‹Third Place Match, see §3m›</li>
-<li>‹Final, see §fin›</li>
-</ul>
-<ul>
-<LI>‹Goalscorers, see §scorers›
-<LI>‹Awards, see §awards›
-<LI>‹Statistics, see §stats›
-<LI>‹Squads, see §squads›
-</ul>
-</menu>
+
+
+
+
+
+
 
 
 
@@ -1995,5 +1978,4 @@ FW: Brian Ching (Houston), Eddie Johnson (Kansas City Wizards), Brian
     McBride (Fulham), Josh Wolff (Kansas City Wizards).
 
 
-‹overview 2006 final tournament, see page 2006f›
 

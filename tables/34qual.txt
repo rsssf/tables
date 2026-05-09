@@ -2,7 +2,7 @@
      title:   WORLD CUP 1934 - QUALIFYING
      source:  https://rsssf.org/tables/34qual.html
      author:  Barrie Courtney
-     updated: 4 Nov 2021    
+     updated: 4 Nov 2021
     -->
 
 

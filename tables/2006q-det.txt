@@ -2,7 +2,7 @@
      title:   World Cup 2006 Qualifying - Match Details
      source:  https://rsssf.org/tables/2006q-det.html
      authors: Hamdan Saaid and Andre Zlotkowski
-     updated: 5 Apr 2005    
+     updated: 5 Apr 2005
     -->
 
 
@@ -5837,7 +5837,5 @@ Final Table:
 
 
 
-‹2006 Qualifying - Overview, see page 2006q›
 
-‹Overview File, see page ../tablesw/worldcup›
 

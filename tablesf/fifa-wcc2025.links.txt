@@ -1,0 +1,4 @@
+tablesf/fifawcc                 :  overview file.
+tablesf/fifa-wcc2023            :  2023.
+tablesf/fifa-icc2024            :  2024 (FIFA Intercontinental Cup).
+tablesf/fifa-icc2025            :  2025 (FIFA Intercontinental Cup).

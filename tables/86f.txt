@@ -2,7 +2,7 @@
      title:   World Cup 1986
      source:  https://rsssf.org/tables/86f.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 5 Jul 2018    
+     updated: 5 Jul 2018
     -->
 
 
@@ -119,15 +119,10 @@ Scorers: 23' Brown 1-0; 56' Valdano 2-0; 74' K.-H. Rummenigge 2-1;
 Topscorer: Lineker (England) 6 goals.
 
 
-‹Detailed Infos, see page 86full›
 
 
 
-‹1982 Final Tournament, see page 82f›
 
-‹1986 Qualifying Tournament, see page 86q›
 
-‹1990 Final Tournament, see page 90f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

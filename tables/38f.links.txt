@@ -1,0 +1,5 @@
+tables/38full                   :  Detailed Infos
+tables/34f                      :  1934 Final Tournament
+tables/38q                      :  1938 Qualifying Tournament
+tables/50f                      :  1950 Final Tournament
+tablesw/worldcup                :  Overview File

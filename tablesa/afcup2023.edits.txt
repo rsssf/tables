@@ -1,0 +1,8 @@
+-- removed 5 remaining nav html element(s):
+<menu> <li> <li> <li> </menu>
+-- removing 5 leading nav line(s) in section 2:
+‹Champions' League, see §cc›
+‹Confederation Cup, see §confed›
+‹Super Cup, see §sc›
+‹About this document, see §about›
+‹2021/22, see page afcup2022›

@@ -1,0 +1,7 @@
+tables/30f-hattrick             :  3-0
+tableso/ol1920f-det             :  1920
+tableso/ol1956f                 :  1956 Olympic Games
+tables/30full                   :  Detailed Infos
+tables/30q                      :  1930 Qualifying Tournament
+tables/34f                      :  1934 Final Tournament
+tablesw/worldcup                :  Overview File

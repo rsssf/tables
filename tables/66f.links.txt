@@ -1,0 +1,5 @@
+tables/66full                   :  Detailed Infos
+tables/62f                      :  1962 Final Tournament
+tables/66q                      :  1966 Qualifying Tournament
+tables/70f                      :  1970 Final Tournament
+tablesw/worldcup                :  Overview File

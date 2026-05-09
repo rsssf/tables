@@ -2,7 +2,7 @@
      title:   World Cup 1950 Qualifying
      source:  https://rsssf.org/tables/50q.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 5 Jul 2017    
+     updated: 5 Jul 2017
     -->
 
 
@@ -82,13 +82,9 @@ Philippines and Indonesia withdrew.
 India had a walkover, qualified, but withdrew.
 
 
-‹Additional Infos, see page 50qual›
-
-‹Match Details, see page 50q-det›
 
 
 
-‹1950 Final Tournament, see page 50f›
 
-‹Overview File, see page ../tablesw/worldcup›
+
 

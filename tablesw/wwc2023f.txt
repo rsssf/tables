@@ -2,7 +2,7 @@
      title:   Women's World Cup 2023 (Australia and New Zealand)
      source:  https://rsssf.org/tablesw/wwc2023f.html
      author:  Roberto Di Maggio
-     updated: 20 Aug 2023    
+     updated: 20 Aug 2023
     -->
 
 
@@ -238,7 +238,5 @@ Final
          [Carmona 29]
 
 
-‹overview file, see page women-worldcup›
 
-‹2019, see page wwc2019f›
 

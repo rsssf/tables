@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
 -- removing nav(igation) section:
 
 ‹National Competitions 2025, see §natc›
@@ -11,3 +13,9 @@
 
 ‹list of cup winners, see page pngcuphist›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Premier Soccer League 2025, see §psl›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›

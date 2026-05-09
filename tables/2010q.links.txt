@@ -1,0 +1,11 @@
+tables/2010q-det                :  Match Details
+tables/2010q-det§eur            :  Match Details
+tables/2010q-det§sam            :  Match Details
+tables/2010q-det§afr            :  Match Details
+tables/2010q-det§asi            :  Match Details
+tables/2010q-det§nca            :  Match Details
+tabless/southpac07§men          :  2007 South Pacific Games
+tables/08oc                     :  2008 OFC Nations Cup
+tables/2010q-det§oce            :  Match Details
+tablesw/worldcup                :  Overview File
+tables/2010f                    :  2010 Final Tournament

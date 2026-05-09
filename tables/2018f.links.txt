@@ -1,0 +1,5 @@
+tables/2018full                 :  Detailed Infos
+tables/2014f                    :  2014 Final Tournament
+tables/2018q                    :  2018 Qualifying Tournament
+tables/2022f                    :  2022 Final Tournament
+tablesw/worldcup                :  Overview File

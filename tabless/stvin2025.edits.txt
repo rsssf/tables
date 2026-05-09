@@ -1,3 +1,4 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="arnos24">Arnos Vale</a><
 -- removing nav(igation) section:
 
 ‹Premier Division 2024/25, see §prem›>
@@ -13,3 +14,6 @@
 
 ‹list of foundation dates, see page stvinfound›
 
+
+-- removing 1 leading nav line(s) in section 5:
+‹Arnos Vale, see §arnos24›

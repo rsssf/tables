@@ -1,0 +1,3 @@
+tableso/oman2024                :  2023/24
+tableso/omanchamp               :  list of champions
+tableso/omancuphist             :  list of cup winners

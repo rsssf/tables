@@ -1,0 +1,3 @@
+tablest/tsja2024                :  2023/24
+tablest/tsjachamp               :  list of champions
+tablest/tsjacuphist             :  list of cup winners

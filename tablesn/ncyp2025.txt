@@ -2,7 +2,7 @@
      title:   TR Northern Cyprus 2024/25
      source:  https://rsssf.org/tablesn/ncyp2025.html
      author:  Şener Yelkenci
-     updated: 31 May 2025    
+     updated: 31 May 2025
     -->
 
 
@@ -487,7 +487,7 @@ Final Table:
     and 19 were awarded 0-3 losses against them, and all remaining matches are also
     awarded 3-0 wins to their opponents.
 
-Relegation Playoff  ‹§relpo›
+===== Relegation Playoff  ‹§relpo›
 
 Round 1 [May 10]
 Göçmenköy       2-3 Karşıyaka
@@ -604,7 +604,7 @@ Final Table:
 15.Vadili TÇBSK               30   2  9 19  19-82  15  [P]                   Relegated
 16.Çanakkale Türk SK          30   1  2 27  16-116  5                        Relegated
 
-Promotion Playoff  ‹§prom›
+===== Promotion Playoff  ‹§prom›
 
 Round 1 [May 10]
 Yeni Boğaziçi   2-2 Türk Ocağı
@@ -628,7 +628,7 @@ Final Table:
 
 NB: bonus points regular season (halved, rounded upwards) between square brackets
 
-Relegation Playoff  ‹§2rel›
+===== Relegation Playoff  ‹§2rel›
 
 Round 1 [May 10]
 Düzkaya         1-2 Lapta

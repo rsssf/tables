@@ -1,0 +1,6 @@
+-- removing 5 trailing nav line(s) in last section 2:
+‹Detailed Infos, see page 70full›
+‹1966 Final Tournament, see page 66f›
+‹1970 Qualifying Tournament, see page 70q›
+‹1974 Final Tournament, see page 74f›
+‹Overview File, see page ../tablesw/worldcup›

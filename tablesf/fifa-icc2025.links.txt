@@ -1,0 +1,5 @@
+ec/ec202425                     :  2024/25 UEFA Champions' League winners
+tablesc/cacups2025§cc           :  2025 CONCACAF Champions Cup winners
+tablesf/fifawcc                 :  overview file.
+tablesf/fifa-wcc2025            :  2025 (FIFA Club World Cup).
+tablesf/fifa-icc2024            :  2024 (FIFA Intercontinental Cup).

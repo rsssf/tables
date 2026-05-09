@@ -1,0 +1,6 @@
+tablest/tun2024                 :  2023/24
+tablest/tunchamp                :  list of champions
+tablest/tunhist                 :  list of final tables
+tablest/tunalltime              :  all-time table
+tablest/tuntops                 :  list of topscorers
+tablest/tuncuphist              :  list of cup finals

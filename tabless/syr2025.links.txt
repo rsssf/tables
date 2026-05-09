@@ -1,0 +1,4 @@
+tabless/syr2024                 :  2023/24
+tabless/syrchamp                :  list of champions
+tabless/syrcuphist              :  list of cup winners
+tabless/syrfound                :  list of foundation dates

@@ -1,3 +1,11 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="oahudiv1">Division One</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="reg">Regular Season</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="chpo">Championship Playoff</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="relpo">Promotion/Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="robledo">Robledo Cup 2021/22</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="oahudiv2">Division Two</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2reg">Regular Season</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="2po">Division 2 Championship Playoff</a><
 -- removing nav(igation) section:
 
 ‹Oahu 2021/22, see §oahu›
@@ -11,3 +19,12 @@
 
 ‹list of champions, see page hawaiichamp›
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Division One, see §oahudiv1› | ‹Robledo Cup 2021/22, see §robledo› | ‹Division Two, see §oahudiv2›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Regular Season, see §reg› | ‹Championship Playoff, see §chpo›
+
+-- removing 1 leading nav line(s) in section 9:
+‹Regular Season, see §2reg› | ‹Division 2 Championship Playoff, see §2po›

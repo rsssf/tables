@@ -2,7 +2,7 @@
      title:   Malta 2024/25
      source:  https://rsssf.org/tablesm/malt2025.html
      author:  Karel Stokkermans
-     updated: 9 Oct 2025    
+     updated: 9 Oct 2025
     -->
 
 
@@ -14,13 +14,11 @@
 
 ==== Premier League  ‹§premier›
 
-‹Opening Round, see §op› | ‹Closing Round, see §cl› | ‹Final Four, see §chfin4› | ‹Relegation Playoff, see §relfin4›
 
-Opening Round  ‹§op›
+===== Opening Round  ‹§op›
 
-‹Regular Stage, see §opreg› | ‹Playoff Stage, see §opplay›
 
-Regular Stage  ‹§opreg›
+====== Regular Stage  ‹§opreg›
 
 Final Table:
 
@@ -171,9 +169,8 @@ Final Table:
 11.Naxxar Lions             11   1  4  6   7-21   7       ‹Bottom-6 Playoff, see §opbot›
 12.Żabbar St. Patrick       11   1  1  9  12-27   4  [P]  ‹Bottom-6 Playoff, see §opbot›
 
-Playoff Stage  ‹§opplay›
+====== Playoff Stage  ‹§opplay›
 
-‹Top-6 Playoff, see §optop› | ‹Bottom-6 Playoff, see §opbot›
 
 Top-6 Playoff  ‹§optop›
 
@@ -281,11 +278,10 @@ Final Table:
 11.Balzan                   16   3  3 10  16-27  12       ‹Relegation Playoff, see §relfin4›
 12.Naxxar Lions             16   2  6  8  13-28  12       ‹Relegation Playoff, see §relfin4›
 
-Closing Round  ‹§cl›
+===== Closing Round  ‹§cl›
 
-‹Regular Stage, see §clreg› | ‹Playoff Stage, see §clplay›
 
-Regular Stage  ‹§clreg›
+====== Regular Stage  ‹§clreg›
 
 Final Table:
 
@@ -437,9 +433,8 @@ Final Table:
 11.Melita                   11   2  4  5  15-24  10  [P]  ‹Bottom-6 Playoff, see §clbot›
 12.Naxxar Lions             11   3  1  7  11-24  10       ‹Bottom-6 Playoff, see §clbot›
 
-Playoff Stage  ‹§opplay›
+====== Playoff Stage  ‹§opplay›
 
-‹Top-6 Playoff, see §cltop› | ‹Bottom-6 Playoff, see §clbot›
 
 Top-6 Playoff  ‹§cltop›
 
@@ -553,7 +548,7 @@ Final Table:
 11.Balzan                   16   3  8  5  18-23  17       ‹Relegation Playoff, see §relfin4›
 12.Melita                   16   2  5  9  18-36  11  [P]  ‹Relegation Playoff, see §relfin4›
 
-Final Four  ‹§chfin4›
+===== Final Four  ‹§chfin4›
 
 NB: between the top-2 of both the ‹Opening Top-6 Playoff, see §optop› and the ‹Closing Top-6 Playoff, see §cltop›
 
@@ -577,7 +572,7 @@ Sliema W.     0-4 Floriana
 Final [May 10]
 Birkirkara    0-1 Ħamrun S.
 
-Relegation Playoff  ‹§relfin4›
+===== Relegation Playoff  ‹§relfin4›
 
 NB: between the bottom-2 of both the ‹Opening Bottom-6 Playoff, see §opbot› and the ‹Closing Bottom-6 Playoff, see §clbot›
 
@@ -636,9 +631,8 @@ Birkirkara    1-2 Hibernians
 
 ==== Challenge League  ‹§first›
 
-‹Regular Stage, see §2reg› | ‹Playoff Stage, see §2play›
 
-Regular Stage  ‹§2reg›
+===== Regular Stage  ‹§2reg›
 
 Final Table:
 
@@ -660,11 +654,10 @@ Final Table:
 15.Senglea Athletic         15   2  3 10  13-27   9       ‹Relegation Playoff, see §2relpo›
 16.Mtarfa                   15   2  1 12  10-30   7  [P]  ‹Relegation Playoff, see §2relpo›
 
-Playoff Stage  ‹§2play›
+===== Playoff Stage  ‹§2play›
 
-‹Promotion Playoff, see §2prpo› | ‹Relegation Playoff, see §2relpo›
 
-Promotion Playoff  ‹§2prpo›
+====== Promotion Playoff  ‹§2prpo›
 
 Final Table:
 
@@ -678,7 +671,7 @@ Final Table:
  7.Mġarr United             22   7 10  5  32-28  31  [P]
  8.Marsa                    22   8  5  9  32-34  29
 
-Relegation Playoff  ‹§2relpo›
+====== Relegation Playoff  ‹§2relpo›
 
 Final Table:
 
@@ -699,9 +692,8 @@ Final Table:
 
 ==== National Amateur League I  ‹§second›
 
-‹Regular Stage, see §3reg› | ‹Playoff Stage, see §3play›
 
-Regular Stage  ‹§3reg›
+===== Regular Stage  ‹§3reg›
 
 Final Table:
 
@@ -723,11 +715,10 @@ Final Table:
 15.Rabat Ajax               15   2  0 13  11-44   6       ‹Relegation Playoff, see §3relpo›
 16.Msida St. Joseph         15   0  4 11  13-39   4  [R]  ‹Relegation Playoff, see §3relpo›
 
-Playoff Stage  ‹§3play›
+===== Playoff Stage  ‹§3play›
 
-‹Promotion Playoff, see §3prpo› | ‹Relegation Playoff, see §3relpo›
 
-Promotion Playoff  ‹§3prpo›
+====== Promotion Playoff  ‹§3prpo›
 
 Final Table:
 
@@ -739,12 +730,12 @@ Final Table:
  5.Luqa St. Andrews         20  10  4  6  37-22  34  [R]
  6.Attard                   20   9  2  9  27-28  29  [R]
 
-Championship Playoff  ‹§3chpo›
+===== Championship Playoff  ‹§3chpo›
 
 [Apr 13]
 Vittoriosa S. 0-2 Birżebbuġa SP
 
-Relegation Playoff  ‹§3relpo›
+====== Relegation Playoff  ‹§3relpo›
 
 Final Table:
 
@@ -767,9 +758,8 @@ Final Table:
 
 ==== National Amateur League II  ‹§third›
 
-‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prpo›
 
-Regular Stage  ‹§4reg›
+===== Regular Stage  ‹§4reg›
 
 Final Table:
 
@@ -787,7 +777,7 @@ Final Table:
 
 [*] newly admitted; champions of ‹second level Gozo, see page ../tablesg/gozo2024.html#second› in 2023/24
 
-Promotion Playoff  ‹§4prpo›
+====== Promotion Playoff  ‹§4prpo›
 
 Final Table:
 

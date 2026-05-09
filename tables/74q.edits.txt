@@ -1,0 +1,4 @@
+-- removing 3 trailing nav line(s) in last section 2:
+‹Detailed Infos, see page 74qual›
+‹1974 Final Tournament, see page 74f›
+‹Overview File, see page ../tablesw/worldcup›

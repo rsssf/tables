@@ -1,0 +1,16 @@
+-- removed 11 remaining nav html element(s):
+<MENU> <UL> <LI> <LI> <LI> <LI> <LI> <LI> </LI> </UL> </MENU>
+-- removing 7 leading nav line(s) in section 2:
+    ‹Europe, see §eur›
+    ‹South America, see §sam›
+    ‹Africa, see §afr›
+    ‹Asia, see §asi›
+    ‹North and Central America, see §nca›
+    ‹Oceania, see §oce›
+‹Match Details, see page 2006q-det›
+
+-- removing 4 trailing nav line(s) in last section 8:
+‹2006 Final Tournament, see page 2006f›
+‹2006 Qualifying - Match Details, see page 2006q-det›
+‹2006 Qualifying - All Goalscorers, see page 2006q-scor›
+‹Overview File, see page ../tablesw/worldcup›

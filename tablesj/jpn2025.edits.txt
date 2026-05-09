@@ -1,3 +1,7 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="3prom">Promotion Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="34prorel">Promotion/Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="45prorel">Promotion/Relegation Playoff</a><
 -- removing nav(igation) section:
 
 ‹J1 League, see §jl1›

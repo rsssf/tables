@@ -1,0 +1,3 @@
+tables/74qual                   :  Detailed Infos
+tables/74f                      :  1974 Final Tournament
+tablesw/worldcup                :  Overview File

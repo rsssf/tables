@@ -2,7 +2,7 @@
      title:   Syria 2024/25
      source:  https://rsssf.org/tabless/syr2025.html
      author:  Karel Stokkermans
-     updated: 14 Jul 2025    
+     updated: 14 Jul 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== First Division  ‹§first›
 
-‹Regular Stage, see §reg› | ‹Championship Playoff, see §chpo›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -170,7 +169,7 @@ Final Table:
 11.Jabala                 11   1  5  5  11-18   8       [1 0 0 1 0-1 0]
 12.Al-Shorta              11   1  3  7   6-16   6  [P]
 
-Championship Playof  ‹§chpo›
+===== Championship Playof  ‹§chpo›
 
 Final Table:
 

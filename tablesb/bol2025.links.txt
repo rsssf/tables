@@ -1,0 +1,6 @@
+tablesb/bol2024                 :  2024
+tablesb/bolchamp                :  list of champions
+tablesb/bolhist                 :  list of final tables
+tablesb/bolcuphist              :  list of cup winners
+tablesb/boldeptchamp            :  list of departmental champions
+tablesb/boltops                 :  list of topscorers

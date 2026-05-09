@@ -2,7 +2,7 @@
      title:   Central African Republic 2024/25
      source:  https://rsssf.org/tablesc/cafr2025.html
      author:  Karel Stokkermans
-     updated: 17 Feb 2025    
+     updated: 17 Feb 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Ligue de Bangui 2024/25  ‹§bangui›
 
-‹Première Division 2024/25, see §prem› | ‹Coupe du 1er Décembre 2024, see §1dec›
 
-Première Division 2024/25  ‹§prem›
+====== Première Division 2024/25  ‹§prem›
 
 NB: DFC8    = Diplomates FC du 8e Arrondissement de Bangui
     EFC5    = Espérance FC du 5e Arrondissement de Bangui
@@ -187,7 +186,7 @@ Table:
 11.AS Gbangré           10   1  1  8   2-24   4
  -.AS CNSS              withdrew or excluded
 
-Coupe du 1er Décembre 2024   ‹§1dec›
+====== Coupe du 1er Décembre 2024   ‹§1dec›
 
 NB: contested by 8 clubs from Bangui
 

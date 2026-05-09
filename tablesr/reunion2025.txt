@@ -2,7 +2,7 @@
      title:   Réunion 2025
      source:  https://rsssf.org/tablesr/reunion2025.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 23 Dec 2025    
+     updated: 23 Dec 2025
     -->
 
 
@@ -33,7 +33,7 @@ Final Table:
 13.AS Marsouins (Saint-Leu)        26   3  6 17  12-50  41  [P]  Relegated
 14.FC Rivière des Galets           26   1  1 24  10-66  30  [P]  Relegated
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 [Dec 10]
 AS Saint-Louisienne    1-0 Ravine Blanche Club
@@ -46,9 +46,8 @@ NB. both remain at former level
 
 ==== Cup Tournaments 2025  ‹§cup›
 
-‹Coupe de la Réunion 2025, see §rcup›
 
-Coupe de la Réunion 2025  ‹§rcup›
+===== Coupe de la Réunion 2025  ‹§rcup›
 
 1/8 Finals
 [Jul 26]

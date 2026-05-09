@@ -2,7 +2,7 @@
      title:   Turkmenistan 2025
      source:  https://rsssf.org/tablest/turkm2025.html
      author:  Theodore Dreiman
-     updated: 2 Apr 2026    
+     updated: 2 Apr 2026
     -->
 
 

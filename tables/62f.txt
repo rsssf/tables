@@ -2,7 +2,7 @@
      title:   World Cup 1962
      source:  https://rsssf.org/tables/62f.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 22 Oct 1999    
+     updated: 22 Oct 1999
     -->
 
 
@@ -81,15 +81,10 @@ Topscorers: Albert (Hungary), Garrincha (Brazil), V. Ivanov (Soviet Union),
             Jerkovic (Yugoslavia), L. Sánchez (Chile), Vavá (Brazil) 4 goals.
 
 
-‹Detailed Infos, see page 62full›
 
 
 
-‹1958 Final Tournament, see page 58f›
 
-‹1962 Qualifying Tournament, see page 62q›
 
-‹1966 Final Tournament, see page 66f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

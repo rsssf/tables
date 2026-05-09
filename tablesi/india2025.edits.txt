@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="circreg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="circpo">Playoff Stage</a><
 -- removing nav(igation) section:
 
 ‹ISL 2024/25, see §circus›
@@ -38,3 +40,6 @@
 
 ‹list of rovers cup finals, see page indiaroverscuphist›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §circreg› | ‹Playoff Stage, see §circpo›

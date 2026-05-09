@@ -1,0 +1,8 @@
+tablesc/col2024                 :  2024.
+tablesc/colchamp                :  list of champions
+tablesc/col2champ               :  list of 2nd division champions
+tablesc/col3champ               :  list of 3rd division champions
+tablesc/colcuphist              :  list of cup winners
+tablesc/colalltime              :  all-time table
+tablesc/colfound                :  foundation dates clubs
+tablesc/coltops                 :  list of topscorers

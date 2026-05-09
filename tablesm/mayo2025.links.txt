@@ -1,0 +1,3 @@
+tablesm/mayo2024                :  2024
+tablesm/mayochamp               :  list of champions
+tablesm/mayocuphist             :  list of cup winners

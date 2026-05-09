@@ -2,7 +2,7 @@
      title:   Channel Islands 2024/25
      source:  https://rsssf.org/tablesc/chisl2025.html
      author:  John Treleven
-     updated: 26 Jun 2025    
+     updated: 26 Jun 2025
     -->
 
 
@@ -14,22 +14,20 @@
 
 ==== Inter-Island Club Competitions  ‹§interisland›
 
-‹Upton Park Cup, see §upton›
-‹Jeremie Cup, see §jeremie› | ‹Wheway Memorial Trophy, see §wheway› | ‹John Leatt Trophy, see §leatt›
 
-Upton Park Cup  ‹§upton›
+===== Upton Park Cup  ‹§upton›
 
 NB: between Saint Martins AC (champions ‹Guernsey, see §guernsey›) and Grouville (champions ‹Jersey, see §jersey›)
 
 [May 4, Saint Helier, Jersey]
 Grouville             0-1 St. Martin's
 
-Jeremie Cup  ‹§jeremie›
+===== Jeremie Cup  ‹§jeremie›
 
 Final [Apr 16]
 St. Martin's          1-1 Grouville             [aet, 3-1 pen]
 
-Wheway Memorial Trophy  ‹§wheway›
+===== Wheway Memorial Trophy  ‹§wheway›
 
 NB: between Jersey Premiership teams and the top 4 from Guernsey
     (St Martins, Northerners, Rovers, Vale Recreation)
@@ -62,7 +60,7 @@ St. Clement           4-1 Grouville
 Final [Apr 22]
 St. Clement           3-1 Rovers
 
-John Leatt Trophy (U-16 Upton Park)  ‹§leatt›
+===== John Leatt Trophy (U-16 Upton Park)  ‹§leatt›
 
 [May 18, Springfield, Jersey]
 Grouville             6-3 Rovers
@@ -74,9 +72,8 @@ Grouville             6-3 Rovers
 
 ==== Guernsey  ‹§guernsey›
 
-‹Premiership, see §gprem› | ‹Guernsey FA Cup, see §gfacup›
 
-Premiership (Priaulx)  ‹§gprem›
+===== Premiership (Priaulx)  ‹§gprem›
 
 Final Table:
 
@@ -88,7 +85,7 @@ Final Table:
  6.Rangers FAC             18   2  1 15  14-65   7
  7.Belgrave Wanderers FC   18   1  1 16   4-81   4
 
-Guernsey FA Cup 2024/25  ‹§gfacup›
+===== Guernsey FA Cup 2024/25  ‹§gfacup›
 
 Quarterfinals
 [Mar 21]
@@ -114,9 +111,8 @@ Northerners              3-2 Rovers
 
 ==== Jersey  ‹§jersey›
 
-‹Premiership, see §jprem› | ‹Various Cup Tournaments, see §cups›
 
-Premiership  ‹§jprem›
+===== Premiership  ‹§jprem›
 
 Final Table:
 
@@ -129,9 +125,8 @@ Final Table:
  7.Sporting Academics      14   3  2  9  19-46  11  [P}
  8.Saint Peter             14   2  2 10  24-55   8
 
-Various Cup Tournaments  ‹§cups›
+===== Various Cup Tournaments  ‹§cups›
 
-‹Charity Cup, see §charity›
 
 Charity Cup  ‹§charity›
 

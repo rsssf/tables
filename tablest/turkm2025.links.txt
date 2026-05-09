@@ -1,0 +1,4 @@
+tablest/turkm2024               :  2024
+tablest/turkm2026               :  2026
+tablest/turkmchamp              :  list of champions
+tablest/turkmcuphist            :  list of cup winners

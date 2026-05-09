@@ -1,0 +1,3 @@
+tablesd/domrep2024              :  2024
+tablesd/domrepchamp             :  list of champions
+tablesd/domrepcuphist           :  list of cup winners

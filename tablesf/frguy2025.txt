@@ -2,7 +2,7 @@
      title:   French Guyana 2024/25
      source:  https://rsssf.org/tablesf/frguy2025.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 4 Jul 2025    
+     updated: 4 Jul 2025
     -->
 
 
@@ -35,7 +35,7 @@ Final Table:
 
 NB: the remaining 10 rounds were cancelled
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 First Leg [Jun 25]
 Cosma Foot             5-1 SC Kouroucien
@@ -51,9 +51,8 @@ NB: Cosma Foot promoted, SC Kouroucien relegated
 
 ==== Cup Tournaments 2024/25  ‹§cups›
 
-‹Coupe de Guyane 2024/25, see §guyane› | ‹Coupe de France 2024, see §gfrance›
 
-Coupe de Guyane 2024/25  ‹§guyane›
+===== Coupe de Guyane 2024/25  ‹§guyane›
 
 1/8 Finals
 [Mar 29]
@@ -82,7 +81,7 @@ Final [Jun 18]
 AS Etoile Matoury      1-0 ASC Armire
   [Calvin Soga 32pen]
 
-Coupe de France 2024  ‹§gfrance›
+===== Coupe de France 2024  ‹§gfrance›
 
 Round 1
 [Aug 24]
@@ -152,9 +151,8 @@ AS Etoile Matoury      awd Aigle d'Or Mana        [awarded 3-0]
 
 ==== Régional 2  ‹§prom›
 
-‹Poule Centre/Est, see §est› | ‹Poule Ouest, see §ouest› | ‹Final, see §2final›
 
-Poule Centre/Est  ‹§est›
+===== Poule Centre/Est  ‹§est›
 
 Final Table:
 
@@ -173,7 +171,7 @@ Final Table:
 
 NB: the remaining rounds were cancelled
 
-Poule Ouest  ‹§ouest›
+===== Poule Ouest  ‹§ouest›
 
 Final Table:
 
@@ -186,12 +184,12 @@ Final Table:
  5.ASC Ouest            10   1  2  7  19-30  14  [-1]
  -.EJ Balaté            10   4  0  6  14-40  22
 
-Régional 2 Final  ‹§2fin›
+===== Régional 2 Final  ‹§2fin›
 
 [Jun 24]
 ASC Armire             0-3 Aigles d'Or de Mana
 
-Promotion Playoff  ‹§2play›
+===== Promotion Playoff  ‹§2play›
 
 First Leg [Jun 15]
 Cosma Foot             2-1 Dynamo de Soula
@@ -208,9 +206,8 @@ NB: Cosma Foot qualified for ‹promotion/relegation playoff, see §prorel›
 
 ==== Régional 3  ‹§reg3›
 
-‹Poule A, see §3a› | ‹Poule B, see §3b›
 
-Poule A  ‹§3a›
+===== Poule A  ‹§3a›
 
 Final Table:
 
@@ -221,7 +218,7 @@ Final Table:
  4.US Saint-Elie         7   2  1  4  15-16  14
  5.Yana Sport Elite      8   1  0  7  15-29  11
 
-Poule B  ‹§3b›
+===== Poule B  ‹§3b›
 
 Final Table:
 

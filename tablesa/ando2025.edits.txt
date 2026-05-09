@@ -1,3 +1,4 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Partit de Promoció</a><
 -- removing nav(igation) section:
 
 ‹Primera Divisió, see §primera›

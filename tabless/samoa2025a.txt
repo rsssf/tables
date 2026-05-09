@@ -2,7 +2,7 @@
      title:   (West) Samoa 2025
      source:  https://rsssf.org/tabless/samoa2025a.html
      author:  Karel Stokkermans
-     updated: 23 Dec 2025    
+     updated: 23 Dec 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 ==== Upolu Premier League  ‹§nat›
 
-‹Regular Stage, see §reg› | ‹Top-8 Group Stage, see §top8› | ‹Knockout Stage, see §ko›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 NB: Upolu is the most populated and second largest island; the capital Apia is on Upolu.
 
@@ -186,7 +185,7 @@ Final Table:
 11.Brothers United FC        11   1  0 10  12-113  3
 12.Moata'a FC                11   0  0 11   3-42   0
 
-Top-8 Group Stage  ‹§top8›
+===== Top-8 Group Stage  ‹§top8›
 
 Final Table:
 

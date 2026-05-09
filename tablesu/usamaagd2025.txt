@@ -2,7 +2,7 @@
      title:   US Virgin Islands 2025
      source:  https://rsssf.org/tablesu/usamaagd2025.html
      author:  Karel Stokkermans
-     updated: 14 Oct 2025    
+     updated: 14 Oct 2025
     -->
 
 

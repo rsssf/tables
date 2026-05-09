@@ -1,3 +1,21 @@
+-- found b-enclosed line >Te Runga 2025< - heading?
+-- found u-enclosed line >Group Stage< - heading?
+-- found u-enclosed line >Playoff Stage< - heading?
+-- found b-enclosed line >Champions League 2024/25< - heading?
+-- found b-enclosed line >Abemama - National Day Tournament 2025< - heading?
+-- found b-enclosed line >Bairiki - BIK Parish Christmas Cup 2025< - heading?
+-- found b-enclosed line >Butaritari - International Health Day Tournament 2025< - heading?
+-- found b-enclosed line >Butaritari - Atinibwaan Iesu Parish Cup 2025< - heading?
+-- found b-enclosed line >Butaritari - National Day Tournament 2025< - heading?
+-- found b-enclosed line >Makin - League 2025< - heading?
+-- found b-enclosed line >Marakei - Independence Day Cup 2025< - heading?
+-- found b-enclosed line >Tabueran - Independence Cup 2025< - heading?
+-- found b-enclosed line >Tarawa - Cup Competition 2025< - heading?
+-- found b-enclosed line >Tarawa - Betio Day 2025< - heading?
+-- found u-enclosed line >Group Stage< - heading?
+-- found b-enclosed line >Tarawa - Independence Cup 2025< - heading?
+-- found b-enclosed line >Tarawa - Police Cup 2025< - heading?
+-- found b-enclosed line >Tarawa - National Day Tournament 2025< - heading?
 -- removing nav(igation) section:
 
 ‹2024, see page kiri2024›

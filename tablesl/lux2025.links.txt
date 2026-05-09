@@ -1,0 +1,5 @@
+tablesl/lux2024                 :  2023/24
+tablesl/luxchamp                :  list of champions
+tablesl/luxhist                 :  list of all final tables
+tablesl/luxcuphist              :  list of cup finals
+tablesl/luxtops                 :  list of topscorers

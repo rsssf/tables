@@ -1,0 +1,6 @@
+tablesk/kroa2024                :  2023/24
+tablesk/kroahist                :  list of final tables
+tablesk/kroachamp               :  list of champions
+tablesk/kroacuphist             :  list of cup winners
+tablesk/kroasupcuphist          :  list of super cup finals
+tablesk/kroatops                :  list of topscorers

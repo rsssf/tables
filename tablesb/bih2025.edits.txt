@@ -1,3 +1,6 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="bhkup">BiH Kup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="prvabih">Prva Liga FBiH</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="prvasrpska">Prva Liga RS</a><
 -- removing nav(igation) section:
 
 ‹Premijer Liga, see §premijer›
@@ -13,3 +16,9 @@
 
 ‹list of cup winners, see page bihcuphist›.
 
+
+-- removing 1 leading nav line(s) in section 4:
+‹BiH Kup, see §bhkup›
+
+-- removing 1 leading nav line(s) in section 6:
+‹Prva Liga FBiH, see §prvabih› | ‹Prva Liga RS, see §prvasrpska›

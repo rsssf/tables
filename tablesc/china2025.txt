@@ -2,7 +2,7 @@
      title:   China 2025
      source:  https://rsssf.org/tablesc/china2025.html
      author:  Karel Stokkermans
-     updated: 7 Dec 2025    
+     updated: 7 Dec 2025
     -->
 
 

@@ -1,0 +1,14 @@
+tablesi/india2024               :  2023/24.
+tablesi/india2026               :  2025/26.
+tablesi/indiachamp              :  list of champions
+tablesi/indiatops               :  list of topscorers
+tablesi/indiacalchamp           :  list of calcutta league champions
+tablesi/indiadelhichamp         :  list of delhi league champions
+tablesi/indiagoachamp           :  list of goa league champions
+tablesi/india-manichamp         :  list of manipur league champions
+tablesi/indiacuphist            :  list of federation cup finals
+tablesi/indiasupcuphist         :  list of super cup finals
+tablesi/indiasantoshhist        :  list of santosh trophy finals
+tablesi/indiadurandcuphist      :  list of durand cup finals
+tablesi/india-ifahist           :  list of ifa shield finals
+tablesi/indiaroverscuphist      :  list of rovers cup finals

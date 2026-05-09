@@ -1,0 +1,7 @@
+tableso/ol1960q                 :  1960 Olympic qualifying tournament
+tables/60e                      :  1960 European Championship
+tables/62quafr                  :  African Qualifying Match Details
+tables/62qual                   :  Detailed Infos
+tables/62quafr                  :  African Qualifying Match Details
+tables/62f                      :  1962 Final Tournament
+tablesw/worldcup                :  Overview File

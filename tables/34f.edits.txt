@@ -1,0 +1,6 @@
+-- removing 5 trailing nav line(s) in last section 2:
+‹Detailed Infos, see page 34full›
+‹1930 Final Tournament, see page 30f›
+‹1934 Qualifying Tournament, see page 34q›
+‹1938 Final Tournament, see page 38f›
+‹Overview File, see page ../tablesw/worldcup›

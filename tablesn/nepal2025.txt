@@ -2,7 +2,7 @@
      title:   Nepal 2025
      source:  https://rsssf.org/tablesn/nepal2025.html
      author:  Karel Stokkermans
-     updated: 27 Apr 2025    
+     updated: 27 Apr 2025
     -->
 
 
@@ -18,7 +18,7 @@ NB: third ever edition
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-Regular Stage  ‹§reg›
+===== Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -103,7 +103,7 @@ Final Table:
  6.Jhapa FC (Jhapa)                        6   0  5  1   3- 4   5
  7.Butwal Lumbini FC (Butwal)              6   0  1  5   1-10   1
 
-Playoff Stage  ‹§play›
+===== Playoff Stage  ‹§play›
 
 Final Qualifier [Apr 19]
 Lalitpur City       2-1 Dhangadhi

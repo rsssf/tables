@@ -2,7 +2,7 @@
      title:   Estonia 2025
      source:  https://rsssf.org/tablese/est2025.html
      author:  Karel Stokkermans
-     updated: 14 Dec 2025    
+     updated: 14 Dec 2025
     -->
 
 
@@ -29,7 +29,7 @@ Final Table:
 ----------------------------------------------------
 10.JK Tallinna Kalev         36   5  2 29  32-113 17       Relegated
 
-Promotion/Relegation Playoff  ‹§1prorel›
+===== Promotion/Relegation Playoff  ‹§1prorel›
 
 First Leg [Nov 22]
 Viimsi                0-1 Kuressaare
@@ -99,7 +99,7 @@ Final Table:
  9.JK Tallinna Kalev U-21    36   5 12 19  53-96  27       Relegated
 10.Tartu JK Tammeka U-21     36   3  1 32  40-137 10  [P]  Relegated
 
-Promotion/Relegation Playoff 2nd/3rd Level  ‹§2prorel›
+===== Promotion/Relegation Playoff 2nd/3rd Level  ‹§2prorel›
 
 First Leg [Nov 15]
 Phoenix               2-2 Tallinn
@@ -132,7 +132,7 @@ Final Table:
  9.FC Kuressaare U-21        36   6  1 29  40-105 19       Relegated
 10.Läänemaa JK               36   3  2 31  33-140 11       Relegated
 
-Promotion/Relegation Playoff 3rd/4th Level  ‹§3prorel›
+===== Promotion/Relegation Playoff 3rd/4th Level  ‹§3prorel›
 
 First Leg [Nov 15]
 Tulevik               5-1 Paide U-21

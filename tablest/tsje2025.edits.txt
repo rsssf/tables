@@ -1,3 +1,8 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="champ">Skupina o Titul</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="middle">Play-off o umístění</a><
+-- make heading (hu) out of u-enclosed a name in line ><a name="releg">Skupina o Záchranu</a><
 -- removing nav(igation) section:
 
 ‹Chance liga, see §1gamb›
@@ -17,3 +22,9 @@
 
 ‹list of 2nd level topscorers, see page tsje2tops›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+-- removing 1 leading nav line(s) in section 5:
+‹Skupina o Titul, see §champ› | ‹Play-off o umístění, see §middle› | ‹Skupina o Záchranu, see §releg›

@@ -2,7 +2,7 @@
      title:   Chile 2025
      source:  https://rsssf.org/tablesc/chile2025.html
      author:  Karel Stokkermans
-     updated: 19 Dec 2025    
+     updated: 19 Dec 2025
     -->
 
 
@@ -139,7 +139,7 @@ Final Table:
 
 Promoted: Deportes Puerto Montt
 
-Promotion Playoff  ‹§2prom›
+===== Promotion Playoff  ‹§2prom›
 
 NB: Deportes Copiapó bye to semifinals
 

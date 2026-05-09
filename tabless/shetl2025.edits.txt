@@ -1,3 +1,11 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="chpo">Championship Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="fuel">Highland Fuels Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="manson">Manson Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="madrid">Madrid Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="fraser">Fraser Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="bloom">Bloomfield Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="parish">Parish Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="shield">County Shield</a><
 -- removing nav(igation) section:
 
 ‹Ocean Kinetics Premier League, see §prem›
@@ -15,3 +23,6 @@
 
 ‹list of cup winners, see page shetlcuphist›
 
+
+-- removing 1 leading nav line(s) in section 5:
+‹Highland Fuels Cup, see §fuel› | ‹Manson Cup, see §manson› | ‹Madrid Cup, see §madrid› | ‹Fraser Cup, see §fraser› |  ‹Bloomfield Cup, see §bloom› | ‹Parish Cup, see §parish› | ‹County Shield, see §shield›

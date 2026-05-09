@@ -1,0 +1,3 @@
+tableso/orkney2024              :  2024
+tableso/orkneychamp             :  list of champions
+tableso/orkneycuphist           :  list of cup winners

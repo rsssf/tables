@@ -1,3 +1,9 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="facup">Association Cup </a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="railway">Railway Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="hospital">Hospital Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="phg">Paul Henry Gold Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="junior">Junior Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="woods">George Woods Memorial Cup</a><
 -- removing nav(igation) section:
 
 ‹Premier League, see §premier›

@@ -1,0 +1,6 @@
+tablese/est2024                 :  2024
+tablese/est2026                 :  2026
+tablese/estchamp                :  list of champions
+tablese/estcuphist              :  list of cup winners
+tablese/estsupcuphist           :  list of super cup winners
+tablese/esttops                 :  list of topscorers

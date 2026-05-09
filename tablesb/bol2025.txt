@@ -2,7 +2,7 @@
      title:   Bolivia 2025
      source:  https://rsssf.org/tablesb/bol2025.html
      author:  Tim Venables
-     updated: 21 Mar 2026    
+     updated: 21 Mar 2026
     -->
 
 
@@ -693,7 +693,7 @@ NB: Aurora had deducted 33 points ahead of the season because of a falsified
     birth certificate of one of their players but had those points returned
     after the end of the season due to a successful appeal at CAS
 
-Promotion/Relegation Playoff  ‹§prorel›
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 Promoted (as winners Copa Simón Bolívar 2025): Real Potosí;
 as runners-up Copa Simón Bolívar 2025, Integración del Norte San Juan FC (Santa Cruz) enter playoff

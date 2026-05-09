@@ -2,7 +2,7 @@
      title:   Isle of Wight 2024/25
      source:  https://rsssf.org/tablese/engiow2025.html
      author:  Hans Schöggl
-     updated: 31 Jul 2025    
+     updated: 31 Jul 2025
     -->
 
 
@@ -35,7 +35,7 @@ Final Table:
 
 ==== Cup Tournaments  ‹§cups›
 
-Challenge Cup  ‹§chall›
+===== Challenge Cup  ‹§chall›
 
 Semifinals
 West Wight                1-3 W&B Sports
@@ -44,7 +44,7 @@ Shanklin FC               4-0 Ventnor FC
 Final [Apr 16]
 W&B Sports                3-0 Shanklin FC
 
-Memorial Cup  ‹§mem›
+===== Memorial Cup  ‹§mem›
 
 Semifinals
 Brading Town FC           0-2 Cowes Sports Res.
@@ -56,7 +56,7 @@ W&B Sports                8-0 High Park FC
 Final [Apr 29]
 W&B Sports                3-1 Cowes Sports Res.
 
-Gold Cup   ‹§gold›
+===== Gold Cup  ‹§gold›
 
 Final [Jan 4]
 Ventnor FC                3-3 W&B Sports                [4-3 pen]

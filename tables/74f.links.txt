@@ -1,0 +1,5 @@
+tables/74full                   :  Detailed Infos
+tables/70f                      :  1970 Final Tournament
+tables/74q                      :  1974 Qualifying Tournament
+tables/78f                      :  1978 Final Tournament
+tablesw/worldcup                :  Overview File

@@ -1,0 +1,4 @@
+-- removing 3 trailing nav line(s) in last section 2:
+‹overview file, see page ../tablesg/goldcupall›
+‹2023, see page 2023gc›
+‹2024-2025 Nations League, see page 2025concanl›

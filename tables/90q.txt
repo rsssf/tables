@@ -2,7 +2,7 @@
      title:   World Cup 1990 Qualifying
      source:  https://rsssf.org/tables/90q.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 14 Mar 2024    
+     updated: 14 Mar 2024
     -->
 
 
@@ -459,11 +459,8 @@ Final group
 Israel required to play off with winner South America Group 2 (see above).
 
 
-‹Detailed Infos, see page 90qual›
 
 
 
-‹1990 Final Tournament, see page 90f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

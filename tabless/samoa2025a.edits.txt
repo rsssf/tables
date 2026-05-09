@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="reg">Regular Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="top8">Top-8 Group Stage</a><
 -- removing nav(igation) section:
 
 ‹Upolu Premier League, see §nat›
@@ -12,3 +14,6 @@
 
 ‹list of cup winners, see page samoacuphist›
 
+
+-- removing 1 leading nav line(s) in section 2:
+‹Regular Stage, see §reg› | ‹Top-8 Group Stage, see §top8› | ‹Knockout Stage, see §ko›

@@ -1,0 +1,12 @@
+tablesi/ier2024                 :  2024
+tablesi/ierchamp                :  list of champions
+tablesi/ierhist                 :  list of final tables
+tablesi/ieralltime              :  all-time table
+tablesi/ier2champ               :  list of champions (2nd level)
+tablesi/ier2hist                :  list of final tables (2nd level)
+tablesi/iercuphist              :  list of cup winners
+tablesi/ierleagcuphist          :  list of league cup winners
+tablesi/ierdublincityhist       :  list of dublin city cup winners
+tablesi/iertop4hist             :  list of top four cup winners
+tablesi/iershieldhist           :  list of league of ireland shield winners
+tablesi/iertops                 :  list of topscorers

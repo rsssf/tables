@@ -1,0 +1,12 @@
+tablese/ecua2024                :  2024
+tablese/ecuachamp               :  list of champions
+tablese/ecua2champ              :  list of 2nd and 3rd level champions
+tablese/ecua-amachamp           :  list of amateur champions guayas and pichinchas
+tablese/ecuaandeschamp          :  list of champions interandinos
+tablese/ecuacostachamp          :  list of champions costa
+tablese/ecuaprovchamp           :  list of provincial champions
+tablese/ecuahist                :  list of final tables
+tablese/ecuaalltime             :  all-time table
+tablese/ecuatops                :  list of top scorers
+tablese/ecua2tops               :  list of 2nd level top scorers
+tablese/ecuafound               :  list of foundation dates clubs

@@ -1,0 +1,6 @@
+tables/2019asch                 :  2019 Asian Cup
+tables/2019asch                 :  2019 Asian Cup
+tables/2019asch                 :  2019 Asian Cup
+tables/2016oc                   :  2016 OFC Nations Cup
+tablesw/worldcup                :  Overview File
+tables/2018f                    :  2018 Final Tournament

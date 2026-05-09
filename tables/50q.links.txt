@@ -1,0 +1,4 @@
+tables/50qual                   :  Additional Infos
+tables/50q-det                  :  Match Details
+tables/50f                      :  1950 Final Tournament
+tablesw/worldcup                :  Overview File

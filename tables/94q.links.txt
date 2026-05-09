@@ -1,0 +1,3 @@
+tables/94qual                   :  Detailed Infos
+tables/94f                      :  1994 Final Tournament
+tablesw/worldcup                :  Overview File

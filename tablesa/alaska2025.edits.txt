@@ -2,3 +2,6 @@
 
 ‹UPSL A League Alaska, see §upsl›
 
+
+-- removing 1 trailing nav line(s) in last section 3:
+‹2024, see page alaska2024›

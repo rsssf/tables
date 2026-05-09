@@ -1,0 +1,4 @@
+tabless/slow2024                :  2023/24
+tabless/slowchamp               :  list of champions
+tabless/slowcuphist             :  list of cup winners
+tabless/slowtops                :  list of topscorers

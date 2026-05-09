@@ -1,0 +1,7 @@
+tablesn/ncyp2024                :  2023/24
+tablesn/ncypchamp               :  list of champions
+tablesn/ncyphist                :  list of final tables
+tablesn/ncypalltime             :  all-time table
+tablesn/ncypcuphist             :  list of cup finals
+tablesn/ncyptops                :  list of topscorers
+tablesn/ncypclubs               :  list of club directory

@@ -2,7 +2,7 @@
      title:   World Cup 1982
      source:  https://rsssf.org/tables/82f.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 5 Jul 2018    
+     updated: 5 Jul 2018
     -->
 
 
@@ -110,15 +110,10 @@ Scorers: 57' Rossi 1-0; 69' Tardelli 2-0; 81' Altobelli 3-0;
 
 Topscorer: Rossi (Italy) 6 goals.
 
-‹Detailed Infos, see page 82full›
 
 
 
-‹1978 Final Tournament, see page 78f›
 
-‹1982 Qualifying Tournament, see page 82q›
 
-‹1986 Final Tournament, see page 86f›
 
-‹Overview File, see page ../tablesw/worldcup›
 

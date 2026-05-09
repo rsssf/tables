@@ -1,0 +1,4 @@
+tablesf/frguy2024               :  2023/24
+tablesf/frguychamp              :  list of champions French Guyana
+tablesf/frguycuphist            :  list of cup winners French Guyana
+tablesf/franseaterrcuphist      :  list of d.o.m. cup winners

@@ -2,7 +2,7 @@
      title:   Somaliland 2023/24
      source:  https://rsssf.org/tabless/somalil2024.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 6 Nov 2025    
+     updated: 6 Nov 2025
     -->
 
 
@@ -14,11 +14,10 @@
 
 ==== Horyaalka Horyaalada Somaliland (Somaliland Champions League) 2024  ‹§scl›
 
-‹First Stage, see §grp1› | ‹Knockout Stage, see §ko›
 
 NB: all matches at Cabdalle Stadium, Berbera
 
-First Stage  ‹§grp1›
+====== First Stage  ‹§grp1›
 
 Group A
 
@@ -130,7 +129,7 @@ Final Table:
  1.Dawladda Hoose (Burco)             1   1  0  0   2- 0   3       ‹Qualified, see §ko›
  2.Gaashaan (Gabiley)                 1   0  0  1   0- 2   0       ‹Qualified, see §ko›
 
-Knockout Stage  ‹§ko›
+====== Knockout Stage  ‹§ko›
 
 NB: no extra time played after draws
 
@@ -178,9 +177,8 @@ Asluubta (Hargeysa)           0-3 Dawladda Hoose (Burco)
 
 ==== Regional Leagues 2023/24  ‹§reg›
 
-‹Hargeysa, see §harg› | ‹Berbera, see §berb› | ‹Gabiley, see §gab› | ‹Sanaag, see §san› | ‹Toghdeer, see §togh›
 
-Hargeysa 2023/24  ‹§harg›
+===== Hargeysa 2023/24  ‹§harg›
 
 Horyaalka Heerka 1-aad (First Division)
 
@@ -255,7 +253,7 @@ Table (Sep 21):
 
 Winners and promoted: Dastuurka FC
 
-Berbera 2023  ‹§berb›
+===== Berbera 2023  ‹§berb›
 
 Super Cup 2023
 
@@ -270,7 +268,7 @@ NB: Dawladda Hoose Berbera, B.O.T. and DP World qualified for ‹Somaliland Cham
 
 Second Division champions: Gashaan II (Berbera)
 
-Gabiley 2023/24  ‹§gab›
+===== Gabiley 2023/24  ‹§gab›
 
 Horyaalka Heerka 1-aad (First Division)
 
@@ -389,7 +387,7 @@ Table (Jan 30):
 [*1] Kuwait known as Ganacsiga at start of season
 [*2] Tamarta known as K. Raashinta at start of season
 
-Sanaag 2023/24  ‹§san›
+===== Sanaag 2023/24  ‹§san›
 
 Horyaalka Heerka 1-aad (First Division)
 
@@ -422,7 +420,7 @@ Table (Nov 9):
  7.Waxool FC                         10   1  2  7  13-31   5
  8.Goodir FC                         10   0  2  8  11-33   2
 
-Toghdeer 2023/24  ‹§togh›
+===== Toghdeer 2023/24  ‹§togh›
 
 Horyaalka Heerka 1-aad (First Division)
 
@@ -553,11 +551,7 @@ Final [Jan 13, 2024]
 Maaliyada                     0-1 Dawlaada Hoose
 
 
-‹2022/23, see page somalil2022›
 
-‹2024/25, see page somalil2025›
 
-‹list of champions, see page somalilchamp›
 
-‹list of regions cup winners, see page somalilregcuphist›
 

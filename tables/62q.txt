@@ -2,7 +2,7 @@
      title:   World Cup 1962 Qualifying
      source:  https://rsssf.org/tables/62q.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 28 May 2020    
+     updated: 28 May 2020
     -->
 
 
@@ -188,13 +188,9 @@ Indonesia withdrew
 South Korea required to play off with the winner of Europe Group 10 (see above).
 
 
-‹Detailed Infos, see page 62qual›
-
-‹African Qualifying Match Details, see page 62quafr›
 
 
 
-‹1962 Final Tournament, see page 62f›
 
-‹Overview File, see page ../tablesw/worldcup›
+
 

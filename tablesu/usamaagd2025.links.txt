@@ -1,0 +1,2 @@
+tablesu/usamaagd2024            :  2024
+tablesu/usamaagdchamp           :  list of champions

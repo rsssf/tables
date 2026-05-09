@@ -1,3 +1,7 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="facup">Nedbank FA Cup 2024/25</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="mtn8">MTN 8 Cup 2024</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="carling">Carling Knockout Cup 2024</a><
 -- removing nav(igation) section:
 
 ‹Premiership, see §nsl›
@@ -13,3 +17,6 @@
 
 ‹list of cup winners, see page zafcuphist›.
 
+
+-- removing 1 leading nav line(s) in section 5:
+‹FA Cup, see §facup› | ‹MTN 8 Cup, see §mtn8› | ‹Carling Knockout Cup, see §carling›

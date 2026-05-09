@@ -2,7 +2,7 @@
      title:   World Cup 1998 Qualifying
      source:  https://rsssf.org/tables/98q.html
      authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 12 Dec 2002    
+     updated: 12 Dec 2002
     -->
 
 
@@ -882,14 +882,9 @@ Group 5 [Morocco]
                                                                   problems of Sierra Leone]
 
 
-‹Detailed Infos, see page 98qual›
-
-‹Africa - Line-Ups, see page 98-qual-det.html#afr›
-‹Oceania - Line-Ups, see page 98-qual-det.html#oc›
 
 
 
-‹1998 Final Tournament, see page 98f›
 
-‹Overview File, see page ../tablesw/worldcup›
+
 

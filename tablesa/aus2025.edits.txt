@@ -1,3 +1,38 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="prel">Preliminary Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="play">Playoff Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2grp">Group Stage</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2play">Playoff Stage</a><
+-- found u-enclosed line >National Premier League< - heading?
+-- found u-enclosed line >Capital Premier League< - heading?
+-- found u-enclosed line >State League One< - heading?
+-- found u-enclosed line >State League Two< - heading?
+-- found u-enclosed line >National Premier League< - heading?
+-- found u-enclosed line >New South Wales League One< - heading?
+-- found u-enclosed line >New South Wales League Two< - heading?
+-- make heading (hu) out of u-enclosed a name in line ><a name="nnsw">Northern New South Wales - National Premier League</a><
+-- found u-enclosed line >Northern New South Wales League One< - heading?
+-- found u-enclosed line >Northern New South Wales - Newcastle Zone League One< - heading?
+-- found u-enclosed line >Norzone Premier League< - heading?
+-- found u-enclosed line >Southern Premier League< - heading?
+-- found u-enclosed line >National Premier League< - heading?
+-- found u-enclosed line >Queensland Premier League One< - heading?
+-- found u-enclosed line >Queensland Premier League Two< - heading?
+-- found u-enclosed line >Brisbane Premier League< - heading?
+-- found u-enclosed line >National Premier League< - heading?
+-- found u-enclosed line >State League One< - heading?
+-- found u-enclosed line >State League Two< - heading?
+-- found u-enclosed line >Amateur Division One< - heading?
+-- found u-enclosed line >National Premier League< - heading?
+-- found u-enclosed line >Northern Championship< - heading?
+-- found u-enclosed line >Southern Championship< - heading?
+-- found u-enclosed line >National Premier League< - heading?
+-- found u-enclosed line >Victoria Premier League One< - heading?
+-- found u-enclosed line >Victoria Premier League Two< - heading?
+-- found u-enclosed line >State League Division One< - heading?
+-- found u-enclosed line >National Premier League< - heading?
+-- found u-enclosed line >State League Division One< - heading?
+-- found u-enclosed line >State League Division Two< - heading?
+-- found u-enclosed line >Amateur Premier League< - heading?
 -- removing nav(igation) section:
 
 ‹A-League, see §aleague›
@@ -21,3 +56,9 @@
 
 ‹list of regional cup winners, see page aus-regcuphist›.
 
+
+-- removing 1 leading nav line(s) in section 3:
+‹Preliminary Stage, see §prel› | ‹Playoff Stage, see §play›
+
+-- removing 1 leading nav line(s) in section 9:
+‹Australian Capital Territory, see §act› | ‹New South Wales, see §nsw› | ‹Northern New South Wales, see §nnsw› | ‹Northern Territory, see §nth› | ‹Queensland, see §qld› | ‹South Australia, see §south› | ‹Tasmania, see §tas› | ‹Victoria, see §vic› | ‹Western Australia, see §west›

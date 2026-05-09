@@ -1,3 +1,5 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rcup">Coupe de la Réunion 2025</a><
 -- removing nav(igation) section:
 
 ‹Régional 1, see §div1›
@@ -19,3 +21,6 @@ Note that the point system on Réunion is 4/win, 2/draw, 1/loss.
 
 ‹list of french sea territories cup winners, see page ../tablesf/franseaterrcuphist›
 
+
+-- removing 1 leading nav line(s) in section 5:
+‹Coupe de la Réunion 2025, see §rcup›

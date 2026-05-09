@@ -8,3 +8,11 @@
 
 ‹details final tournament, see page 2025a-det›
 
+
+-- removed 6 remaining nav html element(s):
+<ul> <li> <li> <li> <li> </ul>
+-- removing 4 leading nav line(s) in section 2:
+‹Qualifying Tournament, see §qual›
+‹Details Qualifying Tournament, see page 2025a-qdet›
+‹Final Tournament, see §fin›
+‹Details Final Tournament, see page 2025a-det›

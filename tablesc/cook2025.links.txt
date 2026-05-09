@@ -1,0 +1,3 @@
+tablesc/cook2024                :  2024
+tablesc/cookchamp               :  list of champions
+tablesc/cookcuphist             :  list of cup winners

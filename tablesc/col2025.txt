@@ -2,7 +2,7 @@
      title:   Colombia 2025
      source:  https://rsssf.org/tablesc/col2025.html
      author:  Karel Stokkermans
-     updated: 29 Dec 2025    
+     updated: 29 Dec 2025
     -->
 
 
@@ -14,13 +14,11 @@
 
 ==== Primera División A 2025  ‹§mustang›
 
-‹Apertura 2025, see §1aper› | ‹Finalización 2025, see §1clau› | ‹Relegation, see §releg›
 
-Torneo Apertura 2025  ‹§1aper›
+===== Torneo Apertura 2025  ‹§1aper›
 
-‹Regular Stage, see §1aperreg› | ‹Playoff, see §1apercuad›
 
-Regular Stage  ‹§1aperreg›
+====== Regular Stage  ‹§1aperreg›
 
 Final Table:
 
@@ -46,9 +44,8 @@ Final Table:
 19.Unión Magdalena (Santa Marta)        20   1  8 11  14-30  11  [P]
 20.CD La Equidad (Bogotá)               20   2  4 14  13-35  10
 
-Playoff  ‹§1apercuad›
+====== Playoff  ‹§1apercuad›
 
-‹Group Stage, see §1apergrp› | ‹Final, see §1aperfin›
 
 Group Stage  ‹§1apergrp›
 
@@ -78,11 +75,10 @@ Santa Fe           0-0 Medellín
 Second Leg [Jun 29]
 Medellín           1-2 Santa Fe
 
-Torneo Finalización 2025  ‹§1clau›
+===== Torneo Finalización 2025  ‹§1clau›
 
-‹Regular Stage, see §1claureg› | ‹Playoff, see §1claucuad›
 
-Regular Stage  ‹§1claureg›
+====== Regular Stage  ‹§1claureg›
 
 Final Table:
 
@@ -108,9 +104,8 @@ Final Table:
 19.Boyacá Chicó (Tunja)                 20   3  7 10  14-29  16
 20.CD La Equidad (Bogotá)               20   3  5 12  14-29  14
 
-Playoff  ‹§1claucuad›
+====== Playoff  ‹§1claucuad›
 
-‹Group Stage, see §1claugrp› | ‹Final, see §1claufin›
 
 Group Stage  ‹§1claugrp›
 
@@ -140,7 +135,7 @@ Junior             3-0 Tolima
 Second Leg [Dec 16]
 Tolima             0-1 Junior
 
-Relegation  ‹§releg›
+===== Relegation  ‹§releg›
 
 NB: decided over points average over last three seasons (2023-2025)
 

@@ -2,7 +2,7 @@
      title:   Solomon Islands 2025
      source:  https://rsssf.org/tabless/solom2025.html
      author:  Karel Stokkermans
-     updated: 11 Mar 2026    
+     updated: 11 Mar 2026
     -->
 
 
