@@ -1,0 +1,26 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Promotion/Relegation Playoff</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="mfa">MFA Cup 2015</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rep">Omnicane Republic Cup 2015</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="sup">MFA Super Cup 2015</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prorel">Promotion/Relegation Playoff 2nd/3rd Level</a><
+-- removing nav(igation) section:
+
+‹Premier League, see §prem›
+‹Cup Tournaments, see §coupes›
+‹National Division 1, see §div1›
+‹National Division 2, see §div2›
+
+
+-- removing nav(igation) section:
+
+‹2013/14, see page mauri2014›
+
+‹2015/16, see page mauri2016›
+
+‹list of champions, see page maurichamp›
+
+‹list of cup winners, see page mauricuphist›
+
+
+-- removing 1 leading nav line(s) in section 5:
+‹MFA Cup, see §mfa› | ‹Omnicane Republic Cup 2015, see §rep›  | ‹MFA Super Cup 2015, see §sup›

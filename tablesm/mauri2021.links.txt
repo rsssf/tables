@@ -1,0 +1,6 @@
+tablesr/rodri2021               :  Rodrigues 2020/21 - link to separate file
+tablesm/mauri2020               :  2019/20
+tablesr/rodri2021               :  Rodrigues 2020/21
+tablesm/mauri2023               :  2022/23
+tablesm/maurichamp              :  list of champions
+tablesm/mauricuphist            :  list of cup winners

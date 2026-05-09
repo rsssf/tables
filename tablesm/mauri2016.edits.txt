@@ -1,0 +1,24 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="mfa">MFA Cup 2016</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rep">Republic Cup 2016</a><
+-- found u-enclosed line >Curepipe Division One 2016< - heading?
+-- found u-enclosed line >Port Louis Regional League 2015/16< - heading?
+-- removing nav(igation) section:
+
+‹Premier League, see §prem›
+‹Cup Tournaments, see §coupes›
+‹Regional Leagues, see §reg›
+
+
+-- removing nav(igation) section:
+
+‹2014/15, see page mauri2015›
+
+‹2016/17, see page mauri2017›
+
+‹list of champions, see page maurichamp›
+
+‹list of cup winners, see page mauricuphist›
+
+
+-- removing 1 leading nav line(s) in section 4:
+‹MFA Cup, see §mfa› | ‹Republic Cup, see §rep›

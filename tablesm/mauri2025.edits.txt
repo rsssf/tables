@@ -1,0 +1,25 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="mfa">MFA Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="chs">Charity Shield</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rep">Republic Cup</a><
+-- removing nav(igation) section:
+
+‹Premier League, see §prem›
+‹Cup Tournaments, see §coupes›
+‹Rodrigues 2024/25 - link to separate file, see page ../tablesr/rodri2025›
+‹National Division 1, see §div1›
+‹National Division 2, see §div2›
+
+
+-- removing nav(igation) section:
+
+‹2023/24, see page mauri2024›
+
+‹2025/26, see page mauri2026›
+
+‹list of champions, see page maurichamp›
+
+‹list of cup winners, see page mauricuphist›
+
+
+-- removing 1 leading nav line(s) in section 4:
+‹MFA Cup, see §mfa› | ‹Charity Shield, see §chs› | ‹Republic Cup, see §rep›

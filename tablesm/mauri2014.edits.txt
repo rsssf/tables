@@ -1,0 +1,21 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="mfa">MFA Cup 2014</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rep">Republic Cup</a><
+-- removing nav(igation) section:
+
+‹Premier League, see §prem›
+‹Cup Tournaments, see §coupes›
+
+
+-- removing nav(igation) section:
+
+‹2012/13, see page mauri2013›
+
+‹2014/15, see page mauri2015›
+
+‹list of champions, see page maurichamp›
+
+‹list of cup winners, see page mauricuphist›
+
+
+-- removing 1 leading nav line(s) in section 4:
+‹MFA Cup, see §mfa› | ‹Republic Cup 2014, see §rep›

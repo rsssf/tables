@@ -1,0 +1,4 @@
+tablesm/mauri2013               :  2012/13
+tablesm/mauri2015               :  2014/15
+tablesm/maurichamp              :  list of champions
+tablesm/mauricuphist            :  list of cup winners

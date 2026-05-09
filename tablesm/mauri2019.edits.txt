@@ -1,0 +1,29 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="mfa">MFA Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rep">Republic Cup</a><
+-- found u-enclosed line >Black River Regional FA 2018/19< - heading?
+-- found u-enclosed line >Flacq Regional Football Committee 2019< - heading?
+-- found u-enclosed line >Pamplemousses Regional FA 2018/19< - heading?
+-- found u-enclosed line >Rivière du Rempart FA 2018/19< - heading?
+-- removing nav(igation) section:
+
+‹Premier League, see §prem›
+‹Cup Tournaments, see §coupes›
+‹Rodrigues 2018/19 - link to separate file, see page ../tablesr/rodri2019›
+‹National Division 1, see §div1›
+‹National Division 2, see §div2›
+‹Regional Leagues, see §reg›
+
+
+-- removing nav(igation) section:
+
+‹2017/18, see page mauri2018›
+
+‹2019/20, see page mauri2020›
+
+‹list of champions, see page maurichamp›
+
+‹list of cup winners, see page mauricuphist›
+
+
+-- removing 1 leading nav line(s) in section 4:
+‹MFA Cup, see §mfa› | ‹Republic Cup, see §rep›

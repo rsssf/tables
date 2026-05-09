@@ -1,0 +1,38 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="mfa">MFA Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="chs">Charity Shield</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rep">Republic Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="inter">Inter Regional Competition</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rbbrh">Beau Bassin-Rose Hill</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rblackriver">Black River</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rcurepipe">Curepipe</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rflacq">Flacq</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rgport">Grand Port</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rpamplemousses">Pamplemousses</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rportlouis">Port-Louis</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="r4bornes">Quatre Bornes</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rrempart">Rivière de Rempart</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rsavanne">Savanne</a><
+-- removing nav(igation) section:
+
+‹Premier League, see §prem›
+‹Cup Tournaments, see §coupes›
+‹Rodrigues 2022/23 - link to separate file, see page ../tablesr/rodri2023›
+‹National Division 1, see §div1›
+‹National Division 2, see §div2›
+‹Regional Leagues, see §reg›
+‹Agalega Islands, see §aga›
+
+
+-- removing nav(igation) section:
+
+‹2020/21, see page mauri2021›
+
+‹2023/24, see page mauri2024›
+
+‹list of champions, see page maurichamp›
+
+‹list of cup winners, see page mauricuphist›
+
+
+-- removing 1 leading nav line(s) in section 4:
+‹MFA Cup, see §mfa› | ‹Charity Shield, see §chs› | ‹Republic Cup, see §rep›

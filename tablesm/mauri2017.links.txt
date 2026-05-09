@@ -1,0 +1,4 @@
+tablesm/mauri2016               :  2015/16
+tablesm/mauri2018               :  2017/18
+tablesm/maurichamp              :  list of champions
+tablesm/mauricuphist            :  list of cup winners

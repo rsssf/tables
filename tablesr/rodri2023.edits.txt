@@ -1,0 +1,13 @@
+-- removing nav(igation) section:
+
+‹RRFA First Division 2022/23, see §prem›
+‹Rodrigues Cup, see §rodcup›
+‹Republic Cup, see §rodrep›
+‹RRFA Second Division 2022/23, see §div2›
+
+
+-- removing 4 trailing nav line(s) in last section 8:
+‹2020/21, see page rodri2021›
+‹2023/24, see page rodri2024›
+‹list of champions, see page rodrichamp›
+‹list of cup winners, see page rodricuphist›

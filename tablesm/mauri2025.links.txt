@@ -1,0 +1,5 @@
+tablesr/rodri2025               :  Rodrigues 2024/25 - link to separate file
+tablesm/mauri2024               :  2023/24
+tablesm/mauri2026               :  2025/26
+tablesm/maurichamp              :  list of champions
+tablesm/mauricuphist            :  list of cup winners

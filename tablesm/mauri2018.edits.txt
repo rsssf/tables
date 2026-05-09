@@ -1,0 +1,26 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="mfa">MFA Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rep">Republic Cup</a><
+-- found u-enclosed line >Grand Port Regional League 2018< - heading?
+-- found u-enclosed line >Moka Regional League 2018< - heading?
+-- removing nav(igation) section:
+
+‹Premier League, see §prem›
+‹Cup Tournaments, see §coupes›
+‹National Division 1, see §div1›
+‹National Division 2, see §div2›
+‹Regional Leagues, see §reg›
+
+
+-- removing nav(igation) section:
+
+‹2016/17, see page mauri2017›
+
+‹2018/19, see page mauri2019›
+
+‹list of champions, see page maurichamp›
+
+‹list of cup winners, see page mauricuphist›
+
+
+-- removing 1 leading nav line(s) in section 4:
+‹MFA Cup, see §mfa› | ‹Republic Cup, see §rep›

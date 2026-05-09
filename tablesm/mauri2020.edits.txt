@@ -1,0 +1,25 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="mfa">MFA Cup</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="rep">Republic Cup</a><
+-- found u-enclosed line >Flacq - Division One 2020< - heading?
+-- found u-enclosed line >Riviere du Rempart - Super League 2019/20< - heading?
+-- removing nav(igation) section:
+
+‹Premier League, see §prem›
+‹Cup Tournaments, see §coupes›
+‹Rodrigues 2019/20 - link to separate file, see page ../tablesr/rodri2020›
+‹Regional Leagues, see §reg›
+
+
+-- removing nav(igation) section:
+
+‹2018/19, see page mauri2019›
+
+‹2020/21, see page mauri2021›
+
+‹list of champions, see page maurichamp›
+
+‹list of cup winners, see page mauricuphist›
+
+
+-- removing 1 leading nav line(s) in section 4:
+‹MFA Cup, see §mfa› | ‹Republic Cup, see §rep›

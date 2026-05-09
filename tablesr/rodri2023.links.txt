@@ -1,0 +1,4 @@
+tablesr/rodri2021               :  2020/21
+tablesr/rodri2024               :  2023/24
+tablesr/rodrichamp              :  list of champions
+tablesr/rodricuphist            :  list of cup winners
