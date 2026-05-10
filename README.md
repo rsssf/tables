@@ -18,7 +18,7 @@ the point is to offer a common starter base that makes it easier to turn the ad-
 ## how?
 
 - the character endcoding is ALWAYS unicode (utf-8) - no more wondering
-  if the encoding is windows-1250, windows-1251, windows-1252, wondows-1254, iso-8859-1, iso-8859-2, utf-16le or whatnot.
+  if the encoding is windows-1250/1251/1252/1254, iso-8859-1/2, utf-16le or whatnot.
 - all html entities are replaced with actual characters incl. known typos such as `&nitlde;`, `&oulm;`, `&uml;`, `&slig;`, `&aaacute;` etc.
 - "smart" (single or double) quotes or unicode minus/hyphens are asciified
 - all headings (h1/h2/h3/h4/h5/h6) replaced with wikitext-like headings e.g.
