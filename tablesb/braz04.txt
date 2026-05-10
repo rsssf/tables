@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 2004
-     source:  https://rsssf.org/tablesb/braz04.html
-     author:  RSSSF Brazil
-     updated: 4 May 2005
-    -->
+<!--
+   title:   Brazil 2004
+   source:  https://rsssf.org/tablesb/braz04.html
+   author:  RSSSF Brazil
+   updated: 4 May 2005
+  -->
 
 
 == Brazil 2004
@@ -1827,13 +1827,5 @@ César Sampaio  (São Paulo for Botafogo)       1
 Fabão          (São Paulo for Fluminense)     1
 Henrique       (Vasco for Fluminense)         1 [Leonardo Henrique Peixoto dos Santos]
 Alex Silva     (Vitória for Flamengo)         1
-
-
-
-
-
-
-
-
 
 

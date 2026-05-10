@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1998/99
-     source:  https://rsssf.org/tablesd/duit99.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1998/99
+   source:  https://rsssf.org/tablesd/duit99.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1998/99
-
 
 Final Table
 
@@ -740,8 +739,6 @@ FC Bayern München 1998/99
      Alexander ZICKLER       26  (1230) + 7
 
 
-
-
 Topscorers:
 
 Preetz (Hertha)        22
@@ -1065,23 +1062,5 @@ SG Hoechst - SG Quelle F"urth 0-2
 1. SG Quelle Fürth   2 1 1 0  5-3  4
 2. SV Sandhausen     2 0 2 0  3-3  2
 3. SG Hoechst        2 0 1 1  0-2  1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

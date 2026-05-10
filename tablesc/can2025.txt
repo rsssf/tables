@@ -1,17 +1,12 @@
-  <!--
-     title:   Canada 2025
-     source:  https://rsssf.org/tablesc/can2025.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 23 Apr 2026
-    -->
+<!--
+   title:   Canada 2025
+   source:  https://rsssf.org/tablesc/can2025.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 23 Apr 2026
+  -->
 
 
 == Canada 2025
-
-
-
-
-
 ==== Canadian Championship 2025  ‹§amway›
 
 NB: no extra time played after draw
@@ -65,13 +60,7 @@ Final [Oct 1, BC Place, Vancouver]
 Vancouver Whitecaps  4-2 Vancouver FC
 
 
-
-
-
-
 ==== Canadian Premier League 2024  ‹§cpl›
-
-
 ===== Regular Stage  ‹§reg›
 
 Final Table:
@@ -106,13 +95,7 @@ Final [Nov 9]
 Atlético Ottawa      2-1 Cavalry FC           [aet]
 
 
-
-
-
-
 ==== Quebec Province 2025  ‹§quebec›
-
-
 ===== Ligue 1 Quebec 2025  ‹§qelite›
 
 Final Table:

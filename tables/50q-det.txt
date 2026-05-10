@@ -1,13 +1,12 @@
-  <!--
-     title:   World Cup 1950 - Qualifying
-     source:  https://rsssf.org/tables/50q-det.html
-     author:  Barrie Courtney
-     updated: 12 Jun 2009
-    -->
+<!--
+   title:   World Cup 1950 - Qualifying
+   source:  https://rsssf.org/tables/50q-det.html
+   author:  Barrie Courtney
+   updated: 12 Jun 2009
+  -->
 
 
 == World Cup 1950 - Qualifying
-
 
 EUROPE
 
@@ -667,8 +666,5 @@ Mexico:                              Cuba:
 Coaches:
 GUTIÉRREZ, Rafael Garza              MINSAL, Marcelino
 Referee: GARCÍA, Pridencio [UNITED STATES]
-
-
-
 
 

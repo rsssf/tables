@@ -1,19 +1,13 @@
-  <!--
-     title:   Bulgaria 2024/25
-     source:  https://rsssf.org/tablesb/bulg2025.html
-     author:  Karel Stokkermans
-     updated: 14 Dec 2025
-    -->
+<!--
+   title:   Bulgaria 2024/25
+   source:  https://rsssf.org/tablesb/bulg2025.html
+   author:  Karel Stokkermans
+   updated: 14 Dec 2025
+  -->
 
 
 == Bulgaria 2024/25
-
-
-
-
-
 ==== Prva profesionalna Liga  ‹§afg›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -473,8 +467,6 @@ Final Table:
 16.Hebar 1918 (Pazardzhik)            30   3  8 19  23-52  17                         ‹Third Group, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== First Group  ‹§champ›
 
 Final Table:
@@ -676,10 +668,6 @@ Lokomotiv P        3-0 Marek 1915
 NB: all remain at former level
 
 
-
-
-
-
 ==== Kupa  ‹§kupa›
 
 1/8 Finals
@@ -721,9 +709,6 @@ Ludogorets         2-0 Botev V
 
 Final [May 22]
 Ludogorets         1-0 CSKA
-
-
-
 
 
 ==== Vtora profesionalna liga  ‹§bfg›

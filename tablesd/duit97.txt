@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1996/97
-     source:  https://rsssf.org/tablesd/duit97.html
-     authors: Gwidon Naskrent and Frank Ballesteros
-     updated: 11 May 2005
-    -->
+<!--
+   title:   Germany 1996/97
+   source:  https://rsssf.org/tablesd/duit97.html
+   authors: Gwidon Naskrent and Frank Ballesteros
+   updated: 11 May 2005
+  -->
 
 
 == Germany 1996/97
-
 
 Final Table
 
@@ -742,7 +741,6 @@ Fredi BOBIC (Stuttgart) - 19
      Christian ZIEGE         27  (2385) + 7
 
 
-
 Topscorers 1.Bundesliga:
 
 Nº Player      Team                 Goals
@@ -890,7 +888,6 @@ N Player      Team                 Goals
 9 Elberfeld   VfB Oldenburg        10
 
 
-
 Regionalliga Nord
 
 Final Table:
@@ -926,7 +923,6 @@ Teams relegated from 2.Bundesliga to Regionalliga Nord:
 * VfB Oldenburg
 
 
-
 Regionalliga Nordost
 
 Final Table:
@@ -954,7 +950,6 @@ Teams promoted from Oberliga to Regionalliga Nordost:
 * SV Babelsberg 03          (from Oberliga Nordost, Staffel Nord)
 * 1.FC Magdeburg            (from Oberliga Nordost, Staffel Süd)
 * Hansa Rostock Amateure    (from Oberliga Nordost, Staffel Nord)
-
 
 
 Regionalliga West-Südwest
@@ -989,7 +984,6 @@ Team relegated from 2.Bundesliga to Regionalliga West-Südwest:
 * Rot-WeiB Essen
 
 
-
 Regionalliga Süd
 
 Final Table:
@@ -1021,24 +1015,5 @@ Teams promoted from Oberliga to Regionalliga Süd:
 
 Team relegated from 2.Bundesliga to Regionalliga Süd:
 * SV Waldhof Mannheim
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

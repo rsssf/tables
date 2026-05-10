@@ -1,17 +1,12 @@
-  <!--
-     title:   Luxembourg 2024/25
-     source:  https://rsssf.org/tablesl/lux2025.html
-     author:  Karel Stokkermans
-     updated: 26 May 2025
-    -->
+<!--
+   title:   Luxembourg 2024/25
+   source:  https://rsssf.org/tablesl/lux2025.html
+   author:  Karel Stokkermans
+   updated: 26 May 2025
+  -->
 
 
 == Luxembourg 2024/25
-
-
-
-
-
 ==== Nationaldivision (BGL Ligue)  ‹§national›
 
 Final Table:

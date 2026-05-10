@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1990/91
-     source:  https://rsssf.org/tablesd/duit91.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1990/91
+   source:  https://rsssf.org/tablesd/duit91.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1990/91
-
 
 Final Table
 
@@ -697,7 +696,5 @@ Andreas MÖLLER (Frankfurt) - 16
       Reinhard STUMPF        20  (1448) + 1
       Bernhard WINKLER       10  ( 293) + 4
         Robert ZIMMERMANN     1  (  15)
-
-
 
 

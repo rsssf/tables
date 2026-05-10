@@ -1,17 +1,12 @@
-  <!--
-     title:   Spain 2020/21
-     source:  https://rsssf.org/tabless/span2021.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 9 Jun 2022
-    -->
+<!--
+   title:   Spain 2020/21
+   source:  https://rsssf.org/tabless/span2021.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 9 Jun 2022
+  -->
 
 
 == Spain 2020/21
-
-
-
-
-
 ==== Primera División  ‹§laliga›
 
 Final Table:
@@ -653,10 +648,6 @@ Final Table:
 20.SD Eibar                      38   6 12 20  29-52  30       Relegated
 
 
-
-
-
-
 ==== Copa del Rey  ‹§coparey›
 
 1/8 Finals
@@ -697,10 +688,6 @@ Levante UD                1-2 Athletic Club (Bilbao)    [aet]
 
 Final [Apr 17]
 Athletic Club (Bilbao)    0-4 FC Barcelona
-
-
-
-
 
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›

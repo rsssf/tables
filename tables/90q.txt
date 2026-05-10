@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1990 Qualifying
-     source:  https://rsssf.org/tables/90q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 14 Mar 2024
-    -->
+<!--
+   title:   World Cup 1990 Qualifying
+   source:  https://rsssf.org/tables/90q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 14 Mar 2024
+  -->
 
 
 == World Cup 1990 Qualifying
@@ -457,10 +457,5 @@ Final group
 09.04.89  Auckland          New Zealand      2-2 Israel
 16.04.89  Sydney            Australia        1-1 Israel
 Israel required to play off with winner South America Group 2 (see above).
-
-
-
-
-
 
 

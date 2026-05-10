@@ -1,23 +1,15 @@
-  <!--
-     title:   Hawaii 2021/22
-     source:  https://rsssf.org/tablesh/hawaii2022.html
-     author:  Carlos Santos
-     updated: 17 May 2023
-    -->
+<!--
+   title:   Hawaii 2021/22
+   source:  https://rsssf.org/tablesh/hawaii2022.html
+   author:  Carlos Santos
+   updated: 17 May 2023
+  -->
 
 
 == Hawaii 2021/22
-
-
-
-
-
 ==== Oahu 2021/22  ‹§oahu›
 
-
 ===== Division One  ‹§oahudiv1›
-
-
 ====== Regular Season  ‹§reg›
 
 Final Table:
@@ -347,8 +339,6 @@ Final [May 29, Waipio Soccer Stadium]
 Paradise SC         bt  El1te
 
 ===== Division Two  ‹§oahudiv2›
-
-
 ====== Regular Season  ‹§2reg›
 
 Final Tables:

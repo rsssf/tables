@@ -1,19 +1,13 @@
-  <!--
-     title:   Gibraltar 2024/25
-     source:  https://rsssf.org/tablesg/gib2025.html
-     author:  Karel Stokkermans
-     updated: 5 May 2025
-    -->
+<!--
+   title:   Gibraltar 2024/25
+   source:  https://rsssf.org/tablesg/gib2025.html
+   author:  Karel Stokkermans
+   updated: 5 May 2025
+  -->
 
 
 == Gibraltar 2024/25
-
-
-
-
-
 ==== National League  ‹§gnl›
-
 
 ===== Regular Stage  ‹§reg›
 

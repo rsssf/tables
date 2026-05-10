@@ -1,22 +1,15 @@
-  <!--
-     title:   New Zealand 2025
-     source:  https://rsssf.org/tablesn/nz2025.html
-     authors: Adri van Veen and Karel Stokkermans
-     updated: 19 Dec 2025
-    -->
+<!--
+   title:   New Zealand 2025
+   source:  https://rsssf.org/tablesn/nz2025.html
+   authors: Adri van Veen and Karel Stokkermans
+   updated: 19 Dec 2025
+  -->
 
 
 == New Zealand 2025
-
-
-
-
-
 ==== National League 2025  ‹§nat›
 
 ===== Regional Leagues (Top Level)  ‹§reg›
-
-
 ====== Northern League  ‹§north›
 
 Final Table:
@@ -75,8 +68,6 @@ Final Table:
 10.Selwyn United                18   0  3 15  20-78   3       Relegated
 
 ===== Championship Phase  ‹§champ›
-
-
 ====== Regular Stage  ‹§chreg›
 
 Final Table:
@@ -223,10 +214,6 @@ Final [Dec 13, Newtown Park, Wellington]
 Wellington Olympic  2-2 Auckland City       [aet, 6-7 pen]
 
 
-
-
-
-
 ==== Chatham Cup 2025  ‹§chat›
 
 Round 4
@@ -262,12 +249,7 @@ Final [Sep 7, North Harbour Stadium, Albany]
 Wellington Olympic      4-2 Auckland United
 
 
-
-
-
 ==== Regional Leagues (Lower Levels)  ‹§lreg›
-
-
 ====== Northern League (Federation 1, 2 en 3)  ‹§lnorth›
 
 Division One

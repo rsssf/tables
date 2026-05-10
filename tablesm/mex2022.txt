@@ -1,22 +1,15 @@
-  <!--
-     title:   Mexico 2021/22
-     source:  https://rsssf.org/tablesm/mex2022.html
-     author:  Erik Francisco Lugo
-     updated: 22 Sep 2022
-    -->
+<!--
+   title:   Mexico 2021/22
+   source:  https://rsssf.org/tablesm/mex2022.html
+   author:  Erik Francisco Lugo
+   updated: 22 Sep 2022
+  -->
 
 
 == Mexico 2021/22
-
-
-
-
-
 ==== Liga MX  ‹§pdn›
 
-
 ===== Apertura 2021  ‹§1aper›
-
 
 Regular Stage  ‹§apreg›
 
@@ -578,10 +571,7 @@ Franco Troyansky         FW (Argentina)
 Coach: Diego Cocca (ARG)
 
 
-
-
 ===== Clausura 2022  ‹§1clau›
-
 
 Regular Stage  ‹§clreg›
 
@@ -1219,19 +1209,11 @@ JUlio César Furch         FW (Argentina)
 Coach: Diego Cocca (ARG)
 
 
-
-
-
-
 ==== Campeón de Campeones  ‹§campcamp›
 
 NB: not held
 
 Atlas automatically won the trophy as winners of Apertura 2021 and Clausura 2022.
-
-
-
-
 
 
 ==== Supercopa de la Liga MX (SuperCopa LMX)  ‹§supcopa›
@@ -1251,15 +1233,8 @@ Cruz Azul            2-2 Atlas                [4-3 pen]
    Ángel Romero 63]
 
 
-
-
-
-
 ==== Liga Expansión MX  ‹§ascenso›
-
-
 ===== Torneo Grita México A-21 (Apertura 2021)  ‹§2aper›
-
 
 ====== Regular Stage  ‹§2aperreg›
 
@@ -1659,8 +1634,6 @@ Atlante          3-0 Tampico Madero
 
 
 ===== Torneo Grita México C-22 (Clausura 2022)  ‹§2clau›
-
-
 ====== Regular Stage  ‹§2claureg›
 
 Participants:

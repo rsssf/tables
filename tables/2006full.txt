@@ -1,28 +1,12 @@
-  <!--
-     title:   World Cup 2006 - Match Details
-     source:  https://rsssf.org/tables/2006full.html
-     author:  Hamdan Saaid
-     updated: 7 Feb 2007
-    -->
+<!--
+   title:   World Cup 2006 - Match Details
+   source:  https://rsssf.org/tables/2006full.html
+   author:  Hamdan Saaid
+   updated: 7 Feb 2007
+  -->
 
 
 == World Cup 2006 - Match Details
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==== Group A  ‹§gra›
 
 [Jun 9]
@@ -147,9 +131,6 @@ Man-of-the-Match: Bartosz Bosacki (Poland).
      4.Costa Rica         3   0   0   3   3   9   0
 
 
-
-
-
 ==== Group B  ‹§grb›
 
 [Jun 10]
@@ -267,9 +248,6 @@ Man-of-the-Match: Julio Dos Santos (Paraguay).
      2.SWEDEN             3   1   2   0   3   2   5
      3.Paraguay           3   1   0   2   2   2   3
      4.Trinidad & Tobago  3   0   1   2   0   4   1
-
-
-
 
 
 ==== Group C  ‹§grc›
@@ -398,9 +376,6 @@ Man-of-the-Match: Aruna Dindane (Ivory Coast).
      4.Serbia-Montenegro  3   0   0   3   2  10   0
 
 
-
-
-
 ==== Group D  ‹§grd›
 
 [Jun 11]
@@ -517,9 +492,6 @@ Man-of-the-Match: Ze Kalanga (Angola).
      2.MEXICO             3   1   1   1   4   3   4
      3.Angola             3   0   2   1   1   2   2
      4.Iran               3   0   1   2   2   6   1
-
-
-
 
 
 ==== Group E  ‹§gre›
@@ -646,9 +618,6 @@ Man-of-the-Match: Stephen Appiah (Ghana).
      4.United States      3   0   1   2   2   6   1
 
 
-
-
-
 ==== Group F  ‹§grf›
 
 [Jun 12]
@@ -764,9 +733,6 @@ Man-of-the-Match: Harry Kewell (Australia).
      2.AUSTRALIA          3   1   1   1   5   5   4
      3.Croatia            3   0   2   1   2   3   2
      4.Japan              3   0   1   2   2   7   1
-
-
-
 
 
 ==== Group G  ‹§grg›
@@ -891,9 +857,6 @@ Man-of-the-Match: Alexander Frei (Switzerland).
      4.Togo               3   0   0   3   1   6   0
 
 
-
-
-
 ==== Group H  ‹§grh›
 
 [Jun 14]
@@ -1011,9 +974,6 @@ Man-of-the-Match: Anatoliy Tymoschuk (Ukraine).
      2.UKRAINE            3   2   0   1   5   4   6
      3.Tunisia            3   0   1   2   3   6   1
      4.Saudi Arabia       3   0   1   2   2   7   1
-
-
-
 
 
 ==== 1/8 Finals  ‹§8f›
@@ -1178,9 +1138,6 @@ Booked: ESP - Puyol 82.
 Man-of-the-Match: Patrick Vieira (France).
 
 
-
-
-
 ==== Quarterfinals  ‹§qf›
 
 [Jun 30]
@@ -1275,9 +1232,6 @@ Booked: BRA - Cafu 25, Juan 45, Ronaldo 45+2, Lucio 75.
 Man-of-the-Match: Zinedine Zidane (France).
 
 
-
-
-
 ==== Semifinals  ‹§sf›
 
 [Jul 4]
@@ -1322,9 +1276,6 @@ Booked: POR - Carvalho 82.
 Man-of-the-Match: Lilian Thuram (France).
 
 
-
-
-
 ==== Third Place Match  ‹§3m›
 
 [Jul 8]
@@ -1346,9 +1297,6 @@ POR: 1-Ricardo Pereira; 2-Paulo Ferreira, 5-Fernando Meira, 4-Ricardo
 Booked: GER - Frings 7, Schweinsteiger 78.
         POR - Ricardo Costa 24, Costinha 33, Paulo Ferreira 60.
 Man-of-the-Match: Bastian Schweinsteiger (Germany).
-
-
-
 
 
 ==== Final  ‹§fin›
@@ -1396,9 +1344,6 @@ How the penalty shootout played out:
 4-3 France: Willy Sagnol converts his penalty.
 5-3 Italy: Fabio Grosso beats Barthez who dives right, with the ball
     going to his left.
-
-
-
 
 
 == Goalscorers  ‹§scorers›
@@ -1454,9 +1399,6 @@ OG - Carlos Gamarra (Paraguay), Brent Sancho (Trinidad & Tobago),
     contact with the ball.
 
 
-
-
-
 == Awards  ‹§awards›
 
 Tournament's Best Player:
@@ -1471,9 +1413,6 @@ Gillette Best Young Player - Lukas Podolski (Germany)
 Most Entertaining Team - Portugal
 Lev Yashin (Best Goalkeeper) - Gianluigi Buffon (Italy)
 FIFA Fair Play Trophy - Brazil and Spain
-
-
-
 
 
 == Statistics  ‹§stats›
@@ -1500,9 +1439,6 @@ Perez (MEX), Polak (CZE), Pope (USA), Rooney (ENG), Simic (CRO),
 Simunic (CRO), Sobolewski (POL),  Ujfalusi (CZE), Vashchuk (UKR),
 Zidane (FRA)
 Spectators: 3.367 million (average 52,609)
-
-
-
 
 
 == Squads  ‹§squads›
@@ -1976,6 +1912,5 @@ MF: DaMarcus Beasley (PSV Eindhoven), Bobby Convey (Reading), Clint
     USA), Ben Olsen (DC United), Claudio Reyna (Manchester City).
 FW: Brian Ching (Houston), Eddie Johnson (Kansas City Wizards), Brian
     McBride (Fulham), Josh Wolff (Kansas City Wizards).
-
 
 

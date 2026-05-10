@@ -1,19 +1,13 @@
-  <!--
-     title:   Ecuador 2025
-     source:  https://rsssf.org/tablese/ecua2025.html
-     author:  Karel Stokkermans
-     updated: 23 Dec 2025
-    -->
+<!--
+   title:   Ecuador 2025
+   source:  https://rsssf.org/tablese/ecua2025.html
+   author:  Karel Stokkermans
+   updated: 23 Dec 2025
+  -->
 
 
 == Ecuador 2025
-
-
-
-
-
 ==== Serie A  ‹§seriea›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -41,8 +35,6 @@ Final Table:
 [*] Cuniburo FC were renamed Vinotinto FC
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Hexagonal 1  ‹§hex1›
 
 Final Table:
@@ -78,10 +70,6 @@ Final Table:
 ------------------------------------------------------------
 15.Técnico Universitario             36   8  9 19  31-54  33       Relegated
 16.Vinotinto FC                      36   8  8 20  40-51  32  [P]  Relegated
-
-
-
-
 
 
 ==== Copa Ecuador 2025  ‹§copa›

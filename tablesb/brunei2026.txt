@@ -1,17 +1,12 @@
-  <!--
-     title:   Brunei 2025/26
-     source:  https://rsssf.org/tablesb/brunei2026.html
-     author:  Karel Stokkermans
-     updated: 23 Apr 2026
-    -->
+<!--
+   title:   Brunei 2025/26
+   source:  https://rsssf.org/tablesb/brunei2026.html
+   author:  Karel Stokkermans
+   updated: 23 Apr 2026
+  -->
 
 
 == Brunei 2025/26
-
-
-
-
-
 ==== Liga Super Brunei 2025/26  ‹§bsl›
 
 Final Table:

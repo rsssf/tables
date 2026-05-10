@@ -1,17 +1,12 @@
-  <!--
-     title:   Solomon Islands 2025
-     source:  https://rsssf.org/tabless/solom2025.html
-     author:  Karel Stokkermans
-     updated: 11 Mar 2026
-    -->
+<!--
+   title:   Solomon Islands 2025
+   source:  https://rsssf.org/tabless/solom2025.html
+   author:  Karel Stokkermans
+   updated: 11 Mar 2026
+  -->
 
 
 == Solomon Islands 2025
-
-
-
-
-
 ==== S-League  ‹§sleague›
 
 NB: all matches in Honiara;
@@ -287,10 +282,6 @@ Final Table:
 10.Laugu United FC                   22   4  4 14  30-48  16
 11.FC Juniper Tree                   22   4  2 16  25-91  14
 12.Southern United                   22   1  4 17  15-59   7
-
-
-
-
 
 
 ==== Solomon Cup Tournament 2022  ‹§solomcup›

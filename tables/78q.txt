@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1978 Qualifying
-     source:  https://rsssf.org/tables/78q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 3 Jan 2000
-    -->
+<!--
+   title:   World Cup 1978 Qualifying
+   source:  https://rsssf.org/tables/78q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 3 Jan 2000
+  -->
 
 
 == World Cup 1978 Qualifying
@@ -387,10 +387,5 @@ Subgroup 5
 25.11.77  Tehran          Iran             1-0 Australia
 03.12.77  Kuwait          Kuwait           1-2 Iran
 04.12.77  Seoul           South Korea      5-2 Hongkong
-
-
-
-
-
 
 

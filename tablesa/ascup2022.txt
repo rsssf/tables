@@ -1,26 +1,12 @@
-  <!--
-     title:   Asian Club Competitions 2022/23
-     source:  https://rsssf.org/tablesa/ascup2022.html
-     author:  Karel Stokkermans
-     updated: 6 May 2023
-    -->
+<!--
+   title:   Asian Club Competitions 2022/23
+   source:  https://rsssf.org/tablesa/ascup2022.html
+   author:  Karel Stokkermans
+   updated: 6 May 2023
+  -->
 
 
 == Asian Club Competitions 2022/23
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 === Asian Champions League 2022/23  ‹§cl›
 
 Qualifying Stage
@@ -276,10 +262,6 @@ Urawa Red Diamonds       Jpn  Jeonbuk Hyundai Motors   SKo   2-2  3-1p
 
 Final (Apr 29 and May 6, 2023)
 Al-Hilal (Riyadh)        Sau  Urawa Red Diamonds       Jpn   1-1  0-1  1-2
-
-
-
-
 
 
 === AFC Cup 2022  ‹§afc›

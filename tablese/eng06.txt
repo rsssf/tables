@@ -1,9 +1,9 @@
-  <!--
-     title:   England 2005/06
-     source:  https://rsssf.org/tablese/eng06.html
-     authors: Daniel Dalence, Gurgen Mahari and Ian King
-     updated: 18 May 2007
-    -->
+<!--
+   title:   England 2005/06
+   source:  https://rsssf.org/tablese/eng06.html
+   authors: Daniel Dalence, Gurgen Mahari and Ian King
+   updated: 18 May 2007
+  -->
 
 
 == England 2005/06
@@ -955,7 +955,6 @@ Final Table:
 18.Birmingham City         38   8 10 20  28-50  34  Relegated
 19.West Bromwich Albion    38   7  9 22  31-58  30  Relegated
 20.Sunderland              38   3  6 29  26-69  15  Relegated
-
 
 
 FA Cup 2005/06
@@ -4115,15 +4114,5 @@ Hereford                3-2 Morecambe               [aet]
 
 Final
 Halifax Town            2-3 Hereford                [aet]
-
-
-
-
-
-
-
-
-
-
 
 

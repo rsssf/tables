@@ -1,17 +1,12 @@
-  <!--
-     title:   Germany 2016/17
-     source:  https://rsssf.org/tablesd/duit2017.html
-     author:  Karel Stokkermans
-     updated: 7 Jan 2021
-    -->
+<!--
+   title:   Germany 2016/17
+   source:  https://rsssf.org/tablesd/duit2017.html
+   author:  Karel Stokkermans
+   updated: 7 Jan 2021
+  -->
 
 
 == Germany 2016/17
-
-
-
-
-
 ==== 1. Bundesliga  ‹§1bl›
 
 Final Table:
@@ -560,9 +555,6 @@ Braunschweig    0-1 Wolfsburg
 NB: both remain at former level
 
 
-
-
-
 ==== DFB Pokal  ‹§dfbpokal›
 
 Round 1
@@ -654,9 +646,6 @@ Final [May 27, Berlin]
 Borussia Dortmund      2-1 Eintracht Frankfurt
 
 
-
-
-
 ==== 2. Bundesliga  ‹§2bl›
 
 Final Table:
@@ -695,10 +684,6 @@ Second Leg [May 30]
 NB: TSV 1860 München relegated, Jahn Regensburg promoted;
     as TSV 1860 München cannot fulful the license conditions for the third level,
     they are demoted to the fourth level
-
-
-
-
 
 
 ==== 3. Liga  ‹§3bl›

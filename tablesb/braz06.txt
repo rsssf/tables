@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 2006
-     source:  https://rsssf.org/tablesb/braz06.html
-     author:  RSSSF Brazil
-     updated: 29 May 2007
-    -->
+<!--
+   title:   Brazil 2006
+   source:  https://rsssf.org/tablesb/braz06.html
+   author:  RSSSF Brazil
+   updated: 29 May 2007
+  -->
 
 
 == Brazil 2006
@@ -963,14 +963,5 @@ Final Table:
 (+) - Teams promoted from 2005 Série B (2nd level)
 Top 4 (excluding Flamengo and Internacional) qualify to 2007 Libertadores Cup
 Champions and teams positioned from 5-11 (excluding Flamengo and Internacional) qualify to 2007 Sudamericana Cup
-
-
-
-
-
-
-
-
-
 
 

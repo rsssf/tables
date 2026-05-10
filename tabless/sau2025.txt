@@ -1,17 +1,12 @@
-  <!--
-     title:   Saudi Arabia 2024/25
-     source:  https://rsssf.org/tabless/sau2025.html
-     author:  Karel Stokkermans
-     updated: 27 May 2025
-    -->
+<!--
+   title:   Saudi Arabia 2024/25
+   source:  https://rsssf.org/tabless/sau2025.html
+   author:  Karel Stokkermans
+   updated: 27 May 2025
+  -->
 
 
 == Saudi Arabia 2024/25
-
-
-
-
-
 ==== Saudi League  ‹§prof›
 
 Final Table:

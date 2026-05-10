@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1973/74
-     source:  https://rsssf.org/tablesd/duit74.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1973/74
+   source:  https://rsssf.org/tablesd/duit74.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1973/74
-
 
 Final Table
 
@@ -645,7 +644,5 @@ FC Bayern München 1973/74
         Conny TORSTENSSON SW 16  (1264) + 1
       Herbert ZIMMERMANN      1  (  26)
        Rainer ZOBEL          28  (2312) + 5
-
-
 
 

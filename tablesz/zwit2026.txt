@@ -1,17 +1,12 @@
-  <!--
-     title:   Switzerland 2025/26
-     source:  https://rsssf.org/tablesz/zwit2026.html
-     author:  Erik Garin
-     updated: 3 Mar 2026
-    -->
+<!--
+   title:   Switzerland 2025/26
+   source:  https://rsssf.org/tablesz/zwit2026.html
+   author:  Erik Garin
+   updated: 3 Mar 2026
+  -->
 
 
 == Switzerland 2025/26
-
-
-
-
-
 ==== Super League  ‹§super›
 
 Table:
@@ -364,10 +359,6 @@ Grasshopper Club   1-2 FC St. Gallen
 FC Sion         FC Winterthur
 
 
-
-
-
-
 ==== Schweizer Cup  ‹§cup›
 
 1/32 finals
@@ -521,11 +512,6 @@ Neuchâtel Xamax         Yverdon Sport FC
 Final
 
 24.05.2026
-
-
-
-
-
 
 
 ==== Challenge League  ‹§challenge›
@@ -823,11 +809,6 @@ Yverdon Sport      1-0 FC Rapperswil-Jona
  [69 Sessolo]
 
 
-
-
-
-
-
 ==== Promotion League  ‹§1prom›
 
 Table :
@@ -862,10 +843,6 @@ Scorers :
 4. Omer Dzonlagic          11  FC Biel-Bienne
 5. Ayoub Ouhafsa           10  FC Bavois
    Luka Sliskovic          10  SC Kriens
-
-
-
-
 
 
 ==== First League - Classic  ‹§1class›
@@ -939,6 +916,5 @@ Scorers :
 3. Alessandro Barletta      12  FC Baden
 4. Albion Avdijaj      11  SC YF Juventus
    Luis Fernando Rodrigues   11  FC Tuggen
-
 
 

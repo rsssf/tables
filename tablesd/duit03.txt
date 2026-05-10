@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 2002/03
-     source:  https://rsssf.org/tablesd/duit03.html
-     authors: Pierre Winkler, Daniel Dalence Garcia and Manuel Schmidt
-     updated: 1 Jun 2005
-    -->
+<!--
+   title:   Germany 2002/03
+   source:  https://rsssf.org/tablesd/duit03.html
+   authors: Pierre Winkler, Daniel Dalence Garcia and Manuel Schmidt
+   updated: 1 Jun 2005
+  -->
 
 
 == Germany 2002/03
-
 
 1.Bundesliga
 
@@ -785,8 +784,6 @@ Corners: 7-6
 Red Card: Hristov (78)
 
 
-
-
 2.Bundesliga
 
 Final Table:
@@ -1373,7 +1370,6 @@ NB: the relegation of Stuttgarter Kickers will not be effective due
     Reutlingen is upheld.
 
 
-
 Fourth Level 2002/03
 
 
@@ -1665,7 +1661,6 @@ TSV Großbardorf - SVG Burgkirchen 2:1
 Round 3
 TSV Großbardorf - 1.FC Passau     1:3
 Großbardorf and Passau promoted, because no club was relegated to the Oberliga Bayern.
-
 
 
 Fifth Level 2002/03
@@ -2261,26 +2256,5 @@ Group Bayern Süd
 16.SV Raisting              34   5 12 17   40- 68  27 Relegated
 17.FC 1920 Gundelfingen/Donau   34   6  8 20   27- 67  26 Relegated
 18.TSG 1890 Thannhausen    34   4  7 23   38- 87  19 Relegated
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

@@ -1,17 +1,12 @@
-  <!--
-     title:   Northern Marianas 2026
-     source:  https://rsssf.org/tablesn/nmi2026.html
-     author:  Karel Stokkermans
-     updated: 27 Apr 2026
-    -->
+<!--
+   title:   Northern Marianas 2026
+   source:  https://rsssf.org/tablesn/nmi2026.html
+   author:  Karel Stokkermans
+   updated: 27 Apr 2026
+  -->
 
 
 == Northern Marianas 2026
-
-
-
-
-
 ==== Marianas Soccer League 1  ‹§msl1›
 
 NB: the abundance of 5-0 results is caused by the so-called "skunk rule", which

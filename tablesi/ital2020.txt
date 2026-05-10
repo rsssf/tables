@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 2019/20
-     source:  https://rsssf.org/tablesi/ital2020.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 8 Oct 2020
-    -->
+<!--
+   title:   Italy 2019/20
+   source:  https://rsssf.org/tablesi/ital2020.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 8 Oct 2020
+  -->
 
 
 == Italy 2019/20
-
-
-
-
-
 ==== Serie A  ‹§seriea›
 
 Final Table:
@@ -634,10 +629,6 @@ Final Table:
 20.SPAL (Ferrara)      38   5  5 28  27-77  20       Relegated
 
 
-
-
-
-
 ==== Coppa Italia  ‹§coppa›
 
 <!-- start pre -->Round 1
@@ -848,13 +839,7 @@ Penalty Kicks: Dyabala (missed), Insigne, Danilo (missed), Politano,
                Bonucci, Maksimovic, Ramsey, Milik
 
 
-
-
-
-
 ==== Serie B  ‹§serieb›
-
-
 ===== Regular Season  ‹§2reg›
 
 Final Table:

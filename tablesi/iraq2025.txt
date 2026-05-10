@@ -1,17 +1,12 @@
-  <!--
-     title:   Iraq 2024/25
-     source:  https://rsssf.org/tablesi/iraq2025.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 16 Apr 2026
-    -->
+<!--
+   title:   Iraq 2024/25
+   source:  https://rsssf.org/tablesi/iraq2025.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 16 Apr 2026
+  -->
 
 
 == Iraq 2024/25
-
-
-
-
-
 ==== Iraqi Stars League 2024/25  ‹§ipl›
 
 Final Table:
@@ -651,9 +646,6 @@ Final Table:
 20.Karbala (Karbala)               38   4 10 24  26-66  22       Relegated
 
 
-
-
-
 ==== Iraqi FA Cup 2024/25  ‹§cup›
 
 1/8 Finals
@@ -680,10 +672,6 @@ Zakho             0-0 Shurta            [aet, 4-3 pen]
 
 Final [Jul 18, Al-Shaab stadium,  Baghdad]
 Duhok             0-0 Zakho             [aet, 5-3 pen]
-
-
-
-
 
 
 ==== First Division 2024/25  ‹§1st›

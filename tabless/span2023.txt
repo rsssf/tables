@@ -1,17 +1,12 @@
-  <!--
-     title:   Spain 2022/23
-     source:  https://rsssf.org/tabless/span2023.html
-     author:  Karel Stokkermans
-     updated: 21 Nov 2023
-    -->
+<!--
+   title:   Spain 2022/23
+   source:  https://rsssf.org/tabless/span2023.html
+   author:  Karel Stokkermans
+   updated: 21 Nov 2023
+  -->
 
 
 == Spain 2022/23
-
-
-
-
-
 ==== Primera División  ‹§laliga›
 
 Final Table:
@@ -681,10 +676,6 @@ Final Table:
 20.Elche CF                      38   5 10 23  30-67  25       Relegated
 
 
-
-
-
-
 ==== Segunda División  ‹§segunda›
 
 Final Table:
@@ -738,13 +729,7 @@ Second Leg [Jun 17]
 Levante                   0-1 Alavés                    [aet]
 
 
-
-
-
-
 ==== Primera RFEF  ‹§1rfef›
-
-
 ===== Grupo 1  ‹§3g1›
 
 Final Table:

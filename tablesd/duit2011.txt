@@ -1,19 +1,13 @@
-  <!--
-     title:   Germany 2010/11
-     source:  https://rsssf.org/tablesd/duit2011.html
-     author:  Jan Schoenmakers
-     updated: 25 Mar 2024
-    -->
+<!--
+   title:   Germany 2010/11
+   source:  https://rsssf.org/tablesd/duit2011.html
+   author:  Jan Schoenmakers
+   updated: 25 Mar 2024
+  -->
 
 
 == Germany 2010/11
-
-
-
-
-
 ==== 1. Bundesliga  ‹§1bl›
-
 
 Final Table:
 
@@ -541,10 +535,6 @@ VfL Bochum           1-1  Borussia M'gladbach
 NB: both remain at former level
 
 
-
-
-
-
 ==== DFB Pokal  ‹§dfbpokal›
 
 Round 1
@@ -635,10 +625,6 @@ Bayern München         0-1  FC Schalke 04
 Final [May 21, Berlin]
 MSV Duisburg           0-5  FC Schalke 04
     (18' Draxler, 22' Huntelaar, 42' Höwedes, 55' Jurado, 70' Huntelaar)
-
-
-
-
 
 
 ==== 2. Bundesliga  ‹§2bl›
@@ -1204,10 +1190,6 @@ Second Leg [May 24]
 VfL Osnabrück         1-3  Dynamo Dresden        [aet]
 
 NB: Dynamo Dresden promoted, VfL Osnabrück relegated
-
-
-
-
 
 
 ==== 3. Liga  ‹§3bl›

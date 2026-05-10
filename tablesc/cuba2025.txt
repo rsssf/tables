@@ -1,17 +1,12 @@
-  <!--
-     title:   Cuba 2025
-     source:  https://rsssf.org/tablesc/cuba2025.html
-     author:  Karel Stokkermans
-     updated: 2 Feb 2026
-    -->
+<!--
+   title:   Cuba 2025
+   source:  https://rsssf.org/tablesc/cuba2025.html
+   author:  Karel Stokkermans
+   updated: 2 Feb 2026
+  -->
 
 
 == Cuba 2025
-
-
-
-
-
 ==== Campeonato Nacional de Liga 2025  ‹§cnf›
 
 NB: 109th edition
@@ -19,7 +14,6 @@ NB: 109th edition
 ‹Torneo de Apertura 2025, see §aper› | ‹Torneo de Clausura 2025, see §clau›
 
 ===== Torneo de Apertura 2025  ‹§aper›
-
 
 Apertura Group Stage  ‹§apgrp›
 

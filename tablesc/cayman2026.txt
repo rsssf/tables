@@ -1,17 +1,12 @@
-  <!--
-     title:   Cayman Islands 2025/26
-     source:  https://rsssf.org/tablesc/cayman2026.html
-     author:  Karel Stokkermans
-     updated: 19 Mar 2026
-    -->
+<!--
+   title:   Cayman Islands 2025/26
+   source:  https://rsssf.org/tablesc/cayman2026.html
+   author:  Karel Stokkermans
+   updated: 19 Mar 2026
+  -->
 
 
 == Cayman Islands 2025/26
-
-
-
-
-
 ==== CIFA Premier League 2025/26  ‹§premier›
 
 Table:

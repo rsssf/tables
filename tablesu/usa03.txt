@@ -1,9 +1,9 @@
-  <!--
-     title:   USA 2003
-     source:  https://rsssf.org/tablesu/usa03.html
-     authors: Ian King and David A. Litterer
-     updated: 11 Sep 2019
-    -->
+<!--
+   title:   USA 2003
+   source:  https://rsssf.org/tablesu/usa03.html
+   authors: Ian King and David A. Litterer
+   updated: 11 Sep 2019
+  -->
 
 
 == USA 2003
@@ -527,7 +527,6 @@ Conference Finals:     Minnesota defeated Seattle 1-0, 1-0
 CHAMPIONSHIP:          Charleston defeated Minnesota 3-0
 
 
-
 Voyageurs Cup  ‹§voyageurs›
 
 NB: based on the head-to-head results of the Canadian A-League members
@@ -800,6 +799,5 @@ Conference playoffs        Brampton defeated Toronto Croatia (default 2-0)
 Wild Card Game             Brampton defeated London City (Host) 2-1
 Semifinal:                 Vaughan defeated Hamilton 2-0
 ROGERS CUP:                Brampton defeated Vaughan 1-0
-
 
 

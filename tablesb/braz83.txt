@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1983 (Taça de Ouro and Taça de Prata)
-     source:  https://rsssf.org/tablesb/braz83.html
-     author:  Ricardo Pontes
-     updated: 7 May 2000
-    -->
+<!--
+   title:   Brazil 1983 (Taça de Ouro and Taça de Prata)
+   source:  https://rsssf.org/tablesb/braz83.html
+   author:  Ricardo Pontes
+   updated: 7 May 2000
+  -->
 
 
 == Brazil 1983 (Taça de Ouro and Taça de Prata)
@@ -1890,9 +1890,5 @@ Juventus: Carlos; Nélson, Deodoro, Nelsinho, Bisi; César, Paulo Martin, Gatão
 Goal: Paulo Martins (Pk) 71'
 
 CA Juventus (São Paulo) are the 1983 Brazilian 2nd level champions
-
-
-
-
 
 

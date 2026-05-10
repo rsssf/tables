@@ -1,17 +1,12 @@
-  <!--
-     title:   Germany 2023/24
-     source:  https://rsssf.org/tablesd/duit2024.html
-     author:  Karel Stokkermans
-     updated: 11 Oct 2024
-    -->
+<!--
+   title:   Germany 2023/24
+   source:  https://rsssf.org/tablesd/duit2024.html
+   author:  Karel Stokkermans
+   updated: 11 Oct 2024
+  -->
 
 
 == Germany 2023/24
-
-
-
-
-
 ==== 1. Bundesliga  ‹§1bl›
 
 Final Table:
@@ -543,9 +538,6 @@ Düsseldorf      0-3 Bochum          [aet, 5-6 pen]
 NB: both remain at former level
 
 
-
-
-
 ==== 2. Bundesliga  ‹§2bl›
 
 Final Table:
@@ -582,9 +574,6 @@ Second Leg [May 28]
 Wehen Wiesbaden 1-2 Regensburg
 
 NB: Jahn Regensburg promoted, Wehen Wiesbaden relegated
-
-
-
 
 
 ==== 3. Liga  ‹§3bl›

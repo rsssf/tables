@@ -1,23 +1,15 @@
-  <!--
-     title:   Mexico 2015/16
-     source:  https://rsssf.org/tablesm/mex2016.html
-     author:  Erik Francisco Lugo
-     updated: 18 Feb 2021
-    -->
+<!--
+   title:   Mexico 2015/16
+   source:  https://rsssf.org/tablesm/mex2016.html
+   author:  Erik Francisco Lugo
+   updated: 18 Feb 2021
+  -->
 
 
 == Mexico 2015/16
-
-
-
-
-
 ==== Liga MX  ‹§pdn›
 
-
-
 ===== Apertura 2015  ‹§1aper›
-
 
 Regular Stage  ‹§apreg›
 
@@ -586,7 +578,6 @@ NB: Pumas and Toluca qualified to Group Phase,
 
 ===== Clausura 2016  ‹§1clau›
 
-
 Regular Stage  ‹§clreg›
 
 Final Table:
@@ -1128,7 +1119,6 @@ Monterrey          1-1 Pachuca
   [Dorlan Pabón 38; Víctor Guzmán 92]
 
 
-
 Club Pachuca Roster team
 Oscar Pérer      GK
 Alfonso Blanco      GK
@@ -1161,12 +1151,7 @@ Simon Steven Almeida   FWD
 Coach: Diego Alonso (URU)
 
 
-
-
-
-
 ==== Copa MX Apertura 2015  ‹§copa›
-
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     14 teams from the Ascenso MX (second level);
@@ -1533,7 +1518,6 @@ León               0-1 Guadalajara
 Guadalajara Cup Champions
 
 
-
 Topscorers
 Player         Team      Goals
 Alberto Jesús Moreno   Alebrijes   5
@@ -1547,7 +1531,6 @@ Abraham Darío Carreño   Jaguares   3
 Marvin Piñón      Lobos BUAP   3
 Rogelio Funes Mori   Monterrey   3
 Mauro Cejas      Morelia      3
-
 
 
 Guadalajara roster team
@@ -1583,15 +1566,7 @@ Ricardo Michel Vázquez      FWD
 Coach: Matías Almeyda (ARG)
 
 
-
-
-
-
-
-
-
 ==== Copa MX Clausura 2016  ‹§copac›
-
 
 NB: the Cup Tournament is played by 11 teams from the Liga MX (first level) and
     13 teams from the Ascenso MX (second level);
@@ -1838,7 +1813,6 @@ León              1-4 Morelia            [agg 4-7; Morelia won a extra point]
    Rodolfo Vilchis 58]
 
 
-
 Tables:
 
 Group 1
@@ -1972,11 +1946,6 @@ Salvador Tafolla   FWD
 Coach: Carlos Reinoso [CHI]
 
 
-
-
-
-
-
 ==== Campeón de Campeones  ‹§campcamp›
 
 Between winners of Liga MX Apertura 2015 (Tigres) and winners of Liga MX Clausura 2016 (Pachuca)
@@ -1987,10 +1956,6 @@ One single leg played [Jul 10]
 Stub Hub Center, Carson, California, USA
 Tigres           1-0 Pachuca
   [Ismael Sosa 25]
-
-
-
-
 
 
 ==== Supercopa MX  ‹§supcopa›
@@ -2007,13 +1972,7 @@ Guadalajara       2-0 Veracruz
 Guadalajara qualified to Preliminary Round of Copa Libertadores 2017
 
 
-
-
-
-
 ==== Ascenso MX  ‹§ascenso›
-
-
 ===== Apertura 2015  ‹§2aper›
 
 Changes before season:
@@ -2324,10 +2283,7 @@ Second Leg [Dec 5]
 FC Juárez         3-0 Atlante
 
 
-
 ===== Clausura 2016  ‹§2clau›
-
-
 ====== Regular Stage  ‹§2claureg›
 
 Participants:

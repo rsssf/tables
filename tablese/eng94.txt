@@ -1,9 +1,9 @@
-  <!--
-     title:   England 1993/94
-     source:  https://rsssf.org/tablese/eng94.html
-     author:  Michael Heneghan
-     updated: 7 Jul 2004
-    -->
+<!--
+   title:   England 1993/94
+   source:  https://rsssf.org/tablese/eng94.html
+   author:  Michael Heneghan
+   updated: 7 Jul 2004
+  -->
 
 
 == England 1993/94
@@ -1218,14 +1218,5 @@ Pos Team                  P   W   D   L   F   A  GD Pts
  20 Sheffield United     42   8  18  16  42  60 -18  42
  21 Oldham Athletic      42   9  13  20  42  68 -26  40
  22 Swindon Town         42   5  15  22  47 100 -53  30
-
-
-
-
-
-
-
-
-
 
 

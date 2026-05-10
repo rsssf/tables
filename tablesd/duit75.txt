@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1974/75
-     source:  https://rsssf.org/tablesd/duit75.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1974/75
+   source:  https://rsssf.org/tablesd/duit75.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1974/75
-
 
 Final Table
 
@@ -674,7 +673,5 @@ Borussia Mönchengladbach 1974/75
   Hans-Hubert VOGTS          34  (3016)
       Herbert WIMMER         29  (2457) + 1
   Hans-Jürgen WITTKAMP       29  (2504) + 6
-
-
 
 

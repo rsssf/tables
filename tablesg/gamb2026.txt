@@ -1,17 +1,12 @@
-  <!--
-     title:   Gambia 2025/26
-     source:  https://rsssf.org/tablesg/gamb2026.html
-     author:  Karel Stokkermans
-     updated: 16 Mar 2026
-    -->
+<!--
+   title:   Gambia 2025/26
+   source:  https://rsssf.org/tablesg/gamb2026.html
+   author:  Karel Stokkermans
+   updated: 16 Mar 2026
+  -->
 
 
 == Gambia 2025/26
-
-
-
-
-
 ==== GFA League First Division 2025/26  ‹§first›
 
 Table:

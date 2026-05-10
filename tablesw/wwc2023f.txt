@@ -1,17 +1,12 @@
-  <!--
-     title:   Women's World Cup 2023 (Australia and New Zealand)
-     source:  https://rsssf.org/tablesw/wwc2023f.html
-     author:  Roberto Di Maggio
-     updated: 20 Aug 2023
-    -->
+<!--
+   title:   Women's World Cup 2023 (Australia and New Zealand)
+   source:  https://rsssf.org/tablesw/wwc2023f.html
+   author:  Roberto Di Maggio
+   updated: 20 Aug 2023
+  -->
 
 
 == Women's World Cup 2023 (Australia and New Zealand)
-
-
-
-
-
 ==== Qualifying
 
 Australia and New Zealand (co-hosts) qualified automatically.
@@ -23,9 +18,6 @@ Australia and New Zealand (co-hosts) qualified automatically.
 ‹CONMEBOL, see page ../tabless/sam-women2022› (3): Brazil, Argentina, Colombia
 ‹CONCACAF, see page wom-gold2022› (4): United States, Canada, Jamaica, Costa Rica
 ‹Inter-Confederation Playoffs, see page wwc2023icpo› (3): Panama, Portugal, Haiti
-
-
-
 
 
 ==== Final Tournament
@@ -236,7 +228,5 @@ Final
 
 20 Aug Spain             1-0 England                         Sydney, Stadium Australia
          [Carmona 29]
-
-
 
 

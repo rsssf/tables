@@ -1,17 +1,12 @@
-  <!--
-     title:   Tajikistan 2026
-     source:  https://rsssf.org/tablest/taji2026.html
-     author:  Theodore Dreiman
-     updated: 2 May 2026
-    -->
+<!--
+   title:   Tajikistan 2026
+   source:  https://rsssf.org/tablest/taji2026.html
+   author:  Theodore Dreiman
+   updated: 2 May 2026
+  -->
 
 
 == Tajikistan 2026
-
-
-
-
-
 ==== Ligai Olī  ‹§lmf›
 
 Table:
@@ -346,10 +341,6 @@ Hosilot      -  Esxata
 Parvoz       -  KMVA
 Istiqlol     -  Istaravshan
 Regar-TadAZ  -  Sardor
-
-
-
-
 
 
 ==== Ligai Yakum  ‹§perv›

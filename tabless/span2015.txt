@@ -1,17 +1,12 @@
-  <!--
-     title:   Spain 2014/15
-     source:  https://rsssf.org/tabless/span2015.html
-     author:  Karel Stokkermans
-     updated: 28 Jan 2021
-    -->
+<!--
+   title:   Spain 2014/15
+   source:  https://rsssf.org/tabless/span2015.html
+   author:  Karel Stokkermans
+   updated: 28 Jan 2021
+  -->
 
 
 == Spain 2014/15
-
-
-
-
-
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
 Final Table:
@@ -654,9 +649,6 @@ NB: after the season, Elche were demoted because of extravagant tax debts; becau
     of this, Eibar remain at the top level
 
 
-
-
-
 ==== Copa del Rey  ‹§coparey›
 
 Round 1 [Sep 3]
@@ -828,10 +820,6 @@ RCD Espanyol              0-2 Athletic Club (Bilbao)
 
 Final [May 30, Barcelona]
 FC Barcelona              3-1 Athletic Club (Bilbao)
-
-
-
-
 
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›

@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 2002 Qualifying
-     source:  https://rsssf.org/tables/2002q.html
-     author:  Karel Stokkermans
-     updated: 27 Nov 2024
-    -->
+<!--
+   title:   World Cup 2002 Qualifying
+   source:  https://rsssf.org/tables/2002q.html
+   author:  Karel Stokkermans
+   updated: 27 Nov 2024
+  -->
 
 
 == World Cup 2002 Qualifying
@@ -906,7 +906,6 @@ CSF/OFC Playoff
                            [Darío Silva 14, Richard Morales 67, 90]
 
 ‹South America Full Stats, see page 2002wcq-sam›
-
 
 
 North and Central America
@@ -2328,7 +2327,5 @@ NB: Guinea were excluded on March 19, 2001, after the Guinean sports minister
 [-] Malawi have protested as following a South African hotel switch, South Africa
     stayed in the same hotel as the Botswanan match officials, contravening FIFA
     rules
-
-
 
 

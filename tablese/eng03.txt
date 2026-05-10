@@ -1,9 +1,9 @@
-  <!--
-     title:   England 2002/03
-     source:  https://rsssf.org/tablese/eng03.html
-     authors: Ian King, Matthew Perry and Markus Soleim
-     updated: 15 Feb 2006
-    -->
+<!--
+   title:   England 2002/03
+   source:  https://rsssf.org/tablese/eng03.html
+   authors: Ian King, Matthew Perry and Markus Soleim
+   updated: 15 Feb 2006
+  -->
 
 
 == England 2002/03
@@ -1671,8 +1671,6 @@ Cambridge Utd               0-3 Bristol City
 Final [Apr 5]
 Bristol City                2-0 Carlisle
    [Peacock 78, Rosenior 89]
-
-
 
 
 Nationwide Football League Division 1
@@ -4818,14 +4816,5 @@ Final [Sat May 10 at Britannia Stadium, Stoke]
 Dag & Red           2-3 Doncaster [aet] [Mark Stein 63, Tarkan Mustafa 78; Paul Green 39, David Morley 55, Francis Tierney GG 110 - 13,092]
 
 Doncaster Rovers promoted to Fourth Level
-
-
-
-
-
-
-
-
-
 
 

@@ -1,19 +1,13 @@
-  <!--
-     title:   USA 2024
-     source:  https://rsssf.org/tablesu/usa2024.html
-     author:  Karel Stokkermans
-     updated: 7 Dec 2025
-    -->
+<!--
+   title:   USA 2024
+   source:  https://rsssf.org/tablesu/usa2024.html
+   author:  Karel Stokkermans
+   updated: 7 Dec 2025
+  -->
 
 
 == USA 2024
-
-
-
-
-
 ==== Major League Soccer  ‹§mls›
-
 
 ===== Regular Season  ‹§reg›
 
@@ -691,7 +685,6 @@ Western Conference
 14.San Jose Earthquakes       34   6  3 25  41-78  21
 
 ===== Championship Playoff  ‹§chplay›
-
 ====== Conference Wild Card Round  ‹§cwc›
 
 Eastern Conference [Oct 22]
@@ -770,10 +763,6 @@ Los Angeles Galaxy     1-0 Seattle Sounders
 
 MLS Cup [Dec 7, Carson]
 Los Angeles Galaxy     2-1 New York Red Bulls
-
-
-
-
 
 
 ==== US Open Cup  ‹§open›

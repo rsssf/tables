@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1958 Qualifying
-     source:  https://rsssf.org/tables/58q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 9 Aug 2023
-    -->
+<!--
+   title:   World Cup 1958 Qualifying
+   source:  https://rsssf.org/tables/58q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 9 Aug 2023
+  -->
 
 
 == World Cup 1958 Qualifying
@@ -173,11 +173,5 @@ in a European group. Wales obtained the right to play off against Israel
 by the drawing of lots.
 15.01.58  Ramat Gan       Israel           0-2 Wales
 05.02.58  Cardiff         Wales            2-0 Israel
-
-
-
-
-
-
 
 

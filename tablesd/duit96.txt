@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1995/96
-     source:  https://rsssf.org/tablesd/duit96.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1995/96
+   source:  https://rsssf.org/tablesd/duit96.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1995/96
-
 
 Final Table
 
@@ -723,23 +722,5 @@ Borussia Dortmund 1995/96
           Rene TRETSCHOK     20  ( 967) + 2
        Carsten WOLTERS       11  ( 494) + 1
        Michael ZORC          30  (2376) +15
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

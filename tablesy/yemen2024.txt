@@ -1,23 +1,15 @@
-  <!--
-     title:   Yemen 2023/24
-     source:  https://rsssf.org/tablesy/yemen2024.html
-     authors: Davide Angelini, Hans Schöggl and Karel Stokkermans
-     updated: 11 Dec 2025
-    -->
+<!--
+   title:   Yemen 2023/24
+   source:  https://rsssf.org/tablesy/yemen2024.html
+   authors: Davide Angelini, Hans Schöggl and Karel Stokkermans
+   updated: 11 Dec 2025
+  -->
 
 
 == Yemen 2023/24
-
-
-
-
-
 ==== Yemen League Division One 2023/24  ‹§div1›
 
-
 ===== Group Stage  ‹§grp›
-
-
 ====== Group 1  ‹§gp1›
 
 Final Table:
@@ -315,10 +307,6 @@ Final [Feb 11, Wahda Stadium, Sanaa]
 Ahli Sanaa       2-0 Tadamun Mukalla
 
 
-
-
-
-
 ==== Sanaa League 2023  ‹§sanaa›
 
 Final Table:
@@ -381,10 +369,6 @@ Final Table:
 
 Championship Playoff [Sep 14]
 Ahli Sanaa       0-2 Wahda Sanaa
-
-
-
-
 
 
 ==== Aden Premier League 2023/24  ‹§aden›
@@ -599,10 +583,6 @@ Al-Nasr   18 2  3 13 14-45 9
 3)Adam Majed (Al-Jalaa) + Abdelabbas Qasim (Al-Tilal) 7 goals
 
 
-
-
-
-
 ==== Other Regional Leagues 2023/24  ‹§regio›
 
 NB: described as "third division" leagues
@@ -657,9 +637,6 @@ Source: https://www.saba.ye/es/news3393076.htm
 Champions: Radfan Club [Socotra]
 
 
-
-
-
 ==== Aden Capital Cup 2023  ‹§acc23›
 
 First Round
@@ -690,9 +667,6 @@ Al-Wahda 1-0 Al-Mansoura
 Final [Feb 25 2023]
 
 Al-Wahda 0-0 4-3ap Al-Tilal
-
-
-
 
 
 ==== Aden Capital Cup 2024  ‹§acc24›
@@ -726,9 +700,6 @@ Al-Tilal 0-0 4-3ap Shamsan
 Final [Sep 20 2024]
 
 Al-Tilal 2-1 Al-Shoula [Karim Hamdi 77, Ahmed Maher 90+1pen - Manaf Saeed 41]
-
-
-
 
 
 ==== Ali Mohsen Al-Muraisi Cup 2023  ‹§amam23›
@@ -788,12 +759,7 @@ Final [Apr 16 2023]
 Al-Shoula 1-1 4-3ap Al-Wahda [Munif Jassar(67) - Abdullah Hamid(85)]
 
 
-
-
-
-
 ==== Ali Mohsen Al-Muraisi Cup 2024  ‹§amam24›
-
 
 First Round
 
@@ -851,9 +817,6 @@ Al-Shoula 3-1 Al-Shabab (Abyan)
 Final [Apr 2 2024]
 
 Al-Ahli 1-0 Al-Shoula [Ahmed Jalal 45+6]
-
-
-
 
 
 ==== Hadhramaut Cup 2024  ‹§hadramaut›

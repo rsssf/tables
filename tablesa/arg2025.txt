@@ -1,17 +1,12 @@
-  <!--
-     title:   Argentina 2025
-     source:  https://rsssf.org/tablesa/arg2025.html
-     author:  Osvaldo José Gorgazzi
-     updated: 7 Mar 2026
-    -->
+<!--
+   title:   Argentina 2025
+   source:  https://rsssf.org/tablesa/arg2025.html
+   author:  Osvaldo José Gorgazzi
+   updated: 7 Mar 2026
+  -->
 
 
 == Argentina 2025
-
-
-
-
-
 === Torneo Apertura de la LPF de AFA 2025  ‹§1apertura›
 
 [2025 AFA LPF Opening Tournament]
@@ -454,9 +449,6 @@ CA San Lorenzo de Almagro              0- 1      CA Platense                    
 Final:
 [Jun 1, Sun]
 CA Huracán                             0- 1      CA Platense                        Único Madre de Ciudades, Santiago del Estero, G
-
-
-
 
 
 === Torneo Clausura de la LPF de AFA 2025  ‹§1clausura›
@@ -905,10 +897,6 @@ Final
 Racing Club                        [4] 1- 1  [5] Club Estudiantes de La Plata      aet, pso, Único Madre de Ciudades, Santiago del Estero, G
 
 
-
-
-
-
 Triennal General Table of Averages
  #.Short name                          MP   W  D  L  Gf: Ga  Ps Aver.
  1.CA River Plate                     114  58 34 22 179: 91 208 1.8245
@@ -941,10 +929,6 @@ Triennal General Table of Averages
 28.CA Aldosivi                         32   9  6 17  31: 46  33 1.0312
 29.CA Sarmiento (Junín)               114  24 44 46  82:117 116 1.0175
 30.CA San Martín (San Juan)            32   6 10 16  18: 34  28 0.8750 (First relegation)
-
-
-
-
 
 
 === Tabla Anual de Posiciones 2025 - Final Standing (Opening and Closing phases of groups)  ‹§1first›
@@ -982,18 +966,12 @@ Triennal General Table of Averages
 30.CA San Martín (San Juan)          32   6 10 16  18- 34  28 (Relegation by average)
 
 
-
-
-
 === LPF Champions trophy - Trofeo de Campeones 2025  ‹§1champtroph›
 
 Cup played between the champions of 2025 LPF Opening (CA Platense) and 2025 LPF Closing championships (Club Estudiantes de La Plata).
 
 [Dec 20, Sat]
 Club Estudiantes de La Plata           2- 1      CA Platense                        Estadio San Nicolás, San Nicolás de los Arroyos, B
-
-
-
 
 
 === AFA national cup: Copa Argentina 2025  ‹§nationalcup›
@@ -1184,10 +1162,6 @@ CS Independiente Rivadavia         [4] 0- 0  [3] CA River Plate                 
 Final:
 [Nov 5, Wed]
 CS Independiente Rivadavia         [5] 2- 2  [3] AA Argentinos Juniors             pso, Juan Domingo Perón, Córdoba, X
-
-
-
-
 
 
 === AFA Second level: Campeonato de Primera Nacional 2025  ‹§second›
@@ -2283,9 +2257,6 @@ CSD Madryn                             1- 1      AA Estudiantes                 
 Note: AA Estudiantes promoted to first level.
 
 
-
-
-
 === AFA Third level: Campeonato de Primera "B" 2025  ‹§third›
 
 Champion and first promotion
@@ -3026,9 +2997,6 @@ Final:
 CA Acassuso                            1- 0      Deportivo Armenio                  La Quema, Boulogne, B
 [Dec 21, Sun]
 Deportivo Armenio                      1- 1      CA Acassuso                        República de Armenia, Ingeniero Maschwitz, B
-
-
-
 
 
 === AFA Fourth level: Campeonato de Primera División "C" 2025  ‹§fourth›
@@ -3806,9 +3774,6 @@ Club Deportivo Español             [3] 0- 0  [5] CA Claypole                   
  14.CA Lugano                          2   0  0  2   1-  5   0
 
 
-
-
-
 === AFA Fifth level: Torneo Promocional Amateur 2025  ‹§fifth›
 
 Unofficial standing with all matches
@@ -3965,9 +3930,6 @@ Table
   #.Short name MP   W  D  L  Gf- Ga   P (Position of…)
   1.CD Metalúrgico                     1   1  0  0   1-  0   3 (Champion and Reclassification with last fourth level team)
   2.FC Ezeiza                          1   0  0  1   0-  1   0
-
-
-
 
 
 === CFFA Third level: Torneo Federal "A" 2025  ‹§federal›
@@ -5210,9 +5172,6 @@ Tie on points and goal difference: decided by PSO.
   2.CS General San Martín              2   0  0  2   0-  2   0
 
 
-
-
-
 === Copa País de Selecciones de Liga 2025 - 2025 CFFA Copa País Regional League Combineds  ‹§copapais›
 
 Non official and full table (All stages and all regions)
@@ -5834,9 +5793,6 @@ LR de Fútbol de Río Cuarto             1- 2      Liga Cañadense de Fútbol   
 Final:
 [Nov 2, Sun]
 Liga Tandilense de Fútbol          [4] 0- 0  [3] Liga Cañadense de Fútbol          pso, Miguel Morales, Pergamino, B
-
-
-
 
 
 === National Teams  ‹§national›

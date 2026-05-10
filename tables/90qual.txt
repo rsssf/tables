@@ -1,31 +1,11 @@
-  <!--
-     title:   World Cup 1990 qualifications
-     source:  https://rsssf.org/tables/90qual.html
-
-    -->
+<!--
+   title:   World Cup 1990 qualifications
+   source:  https://rsssf.org/tables/90qual.html
+  -->
 
 
 = World Cup 1990 qualifications
-
-
-‹Group 1, see §gr1›
-‹Group 2, see §gr2›
-‹Group 3, see §gr3›
-‹Group 4, see §gr4›
-‹Group 5, see §gr5›
-‹Group 6, see §gr6›
-‹Group 7, see §gr7›
-‹Group 8, see §gr8›
-‹Group 9, see §gr9›
-‹Group 10, see §gr10›
-‹Group 11, see §gr11›
-‹Group 12, see §gr12›
-‹Group 13, see §gr13›
-‹Group 14, see §gr14›
-
-
 == Europe
-
 
 33 teams entered, including ITA (hosts). Winners and runners-up of four
 groups of five teams and winners of three groups of four teams progress

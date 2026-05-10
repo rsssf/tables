@@ -1,9 +1,9 @@
-  <!--
-     title:   England 2003/04
-     source:  https://rsssf.org/tablese/eng04.html
-     authors: Ian King and Matthew Perry
-     updated: 15 Feb 2006
-    -->
+<!--
+   title:   England 2003/04
+   source:  https://rsssf.org/tablese/eng04.html
+   authors: Ian King and Matthew Perry
+   updated: 15 Feb 2006
+  -->
 
 
 == England 2003/04
@@ -1650,7 +1650,6 @@ Blackpool            2-0 Southend
   [Murphy 2, Cold 55]
 
 
-
 Second Level 2003/04
 
 Nationwide Football League Division 1
@@ -2457,7 +2456,6 @@ Final
 [Sat May 29 - at Millennium Stadium, Cardiff]
 Crystal Palace 1-0 West Ham [Shipperley 62 - 72,523]
 Crystal Palace promoted to Premiership
-
 
 
 Third Level 2003/04
@@ -3861,7 +3859,6 @@ Brighton & Hove Albion  1-2 Swindown Town            [aet, 4-3 pen]
 Final [May 30, Cardiff]
 Bristol City            0-1 Brighton & Hove Albion
   [Leon Knight 84pen]
-
 
 
 Fourth Level 2003/04
@@ -6584,14 +6581,5 @@ Ryan Price           (Tamworth for Margate)                      1
 Chris Mackenzie      (Telford for Farnborough)                   1
 Scott Eustace        (Telford for Barnet)                        1
 Chris Sharpling      (Woking for Margate)                        1
-
-
-
-
-
-
-
-
-
 
 

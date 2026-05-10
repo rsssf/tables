@@ -1,19 +1,13 @@
-  <!--
-     title:   USA 2019
-     source:  https://rsssf.org/tablesu/usa2019.html
-     author:  Karel Stokkermans
-     updated: 12 Mar 2020
-    -->
+<!--
+   title:   USA 2019
+   source:  https://rsssf.org/tablesu/usa2019.html
+   author:  Karel Stokkermans
+   updated: 12 Mar 2020
+  -->
 
 
 == USA 2019
-
-
-
-
-
 ==== Major League Soccer  ‹§mls›
-
 
 ===== Regular Season  ‹§reg›
 
@@ -642,7 +636,6 @@ Western Conference
 
 
 ===== Championship Playoff  ‹§play›
-
 ====== Conference Quarterfinals  ‹§cqf›
 
 Eastern Conference
@@ -684,10 +677,6 @@ Atlanta United FC      1-2 Toronto FC
 
 MLS Cup [Nov 10, CenturyLink Field, Seattle]
 Seattle Sounders       3-1 Toronto FC
-
-
-
-
 
 
 ==== US Open Cup  ‹§open›

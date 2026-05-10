@@ -1,17 +1,12 @@
-  <!--
-     title:   Brazil 2010
-     source:  https://rsssf.org/tablesb/braz2010.html
-     author:  RSSSF Brazil
-     updated: 25 Mar 2024
-    -->
+<!--
+   title:   Brazil 2010
+   source:  https://rsssf.org/tablesb/braz2010.html
+   author:  RSSSF Brazil
+   updated: 25 Mar 2024
+  -->
 
 
 == Brazil 2010
-
-
-
-
-
 ==== Série A  ‹§sa›
 
 Participants
@@ -966,11 +961,6 @@ Topscorer: Jonas (Grêmio), 23 goals.
       Neymar (Santos), 17 goals.
 
 
-
-
-
-
-
 ==== Copa do Brasil  ‹§cb›
 
 Participants:
@@ -1318,9 +1308,6 @@ FINAL
 SANTOS Champions of Copa do Brasil 2010 and classified to Copa Libertadores 2011.
 
 Topscorer: Neymar (Santos), 11 goals.
-
-
-
 
 
 ==== Série B  ‹§sb›
@@ -1922,10 +1909,6 @@ Topscorer: Alessandro (Ipatinga), 21 goals.
       Fábio Júnior (América-MG), 19 goals.
 
 
-
-
-
-
 ==== Série C  ‹§sc›
 
 Participants
@@ -2387,9 +2370,6 @@ Topscorer: Bruno Rangel (Paysandu), 8 goals.
       Cascata (ABC) and Felipe Mamão (Águia), 5 goals.
 
 
-
-
-
 ==== Série D  ‹§sd›
 
 Participants
@@ -2489,7 +2469,6 @@ SE River Plate - Sergipe 2010.
 
 TOCANTINS (1 berth)
 Araguaína FR - Tocantins 2009.
-
 
 
 FIRST STAGE:
@@ -2886,7 +2865,6 @@ Table:
 4.Marcílio Dias     6  0  3  3   2- 9   3
 
 
-
 SECOND STAGE:
 
 First leg:
@@ -2988,7 +2966,6 @@ NOTA: Após o termino do campeonato , o STJD condenou o América-AM, por infraç
 de seis pontos, além dos pontos obtidos nas partidas contra o Joinville pela Quarta Fase. O clube manauara foi desclassificado e a vaga na Série C
 2011 foi repassada ao Joinville em 10 de dezembro de 2010. Como não havia tempo hábil para realização de novos jogos, a CBF reformulou a
 Classificação Geral. As Semifinais e Finais tiveram seus resultados mantidos.
-
 
 
 Final standings:

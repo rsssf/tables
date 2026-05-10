@@ -1,19 +1,13 @@
-  <!--
-     title:   Austria 2020/21
-     source:  https://rsssf.org/tableso/oost2021.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 7 Mar 2023
-    -->
+<!--
+   title:   Austria 2020/21
+   source:  https://rsssf.org/tableso/oost2021.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 7 Mar 2023
+  -->
 
 
 == Austria 2020/21
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -274,8 +268,6 @@ Final Table:
 12.FC Admira Wacker Mödling     22   3  5 14  22-50  14       ‹Relegation Playoff, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:
@@ -463,10 +455,6 @@ Sankt Pölten     0-1 Austria K
 NB: SK Austria Klagenfurt promoted, SKN Sankt Pölten relegated
 
 
-
-
-
-
 ==== ÖFB Cup  ‹§cup›
 
 Round 1
@@ -566,9 +554,6 @@ SK Sturm Graz                       0-4 FC Red Bull Salzburg
 Final [May 1, Klagenfurt]
 LASK Linz                           0-3 FC Red Bull Salzburg
   [Berisha 45, Aaronson 66, Mwepu 88]
-
-
-
 
 
 ==== 2. Liga (Second Level)  ‹§1liga›
@@ -1016,10 +1001,6 @@ NB: as only clubs finishing first or second at the second level are entitled to
 
 NB: due to the cancellation of the third level leagues, no clubs will be
     relegated at the end of the season
-
-
-
-
 
 
 ==== Woche Cup 2020/21  ‹§steicup›

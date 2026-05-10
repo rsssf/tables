@@ -1,17 +1,12 @@
-  <!--
-     title:   Nepal 2025
-     source:  https://rsssf.org/tablesn/nepal2025.html
-     author:  Karel Stokkermans
-     updated: 27 Apr 2025
-    -->
+<!--
+   title:   Nepal 2025
+   source:  https://rsssf.org/tablesn/nepal2025.html
+   author:  Karel Stokkermans
+   updated: 27 Apr 2025
+  -->
 
 
 == Nepal 2025
-
-
-
-
-
 ==== Nepal Super League 2025  ‹§nsl›
 
 NB: third ever edition

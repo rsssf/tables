@@ -1,17 +1,12 @@
-  <!--
-     title:   Congo (Brazzaville) 2025
-     source:  https://rsssf.org/tablesk/kong2025.html
-     author:  Karel Stokkermans
-     updated: 8 Apr 2025
-    -->
+<!--
+   title:   Congo (Brazzaville) 2025
+   source:  https://rsssf.org/tablesk/kong2025.html
+   author:  Karel Stokkermans
+   updated: 8 Apr 2025
+  -->
 
 
 == Congo (Brazzaville) 2025
-
-
-
-
-
 ==== Championnat National Ligue 1  ‹§lig1›
 
 NB: tournament organised by the commission ad hoc installed by the
@@ -21,8 +16,6 @@ NB: tournament organised by the commission ad hoc installed by the
 ‹Group Stage, see §grp› | ‹Final Stage, see §fin›
 
 ===== Group Stage  ‹§grp›
-
-
 ====== Zone A (Brazzaville, Owando)  ‹§za›
 
 NB: Red Star, Racing Club de Brazzaville and Etoile Junior (all from Zone A
@@ -348,5 +341,4 @@ Final Table:
 [*] missing goals draw round 8
 
 ===== Final Stage  ‹§fin›
-
 

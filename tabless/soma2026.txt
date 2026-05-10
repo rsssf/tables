@@ -1,17 +1,12 @@
-  <!--
-     title:   Somalia 2025/26
-     source:  https://rsssf.org/tabless/soma2026.html
-     author:  Karel Stokkermans
-     updated: 16 Feb 2026
-    -->
+<!--
+   title:   Somalia 2025/26
+   source:  https://rsssf.org/tabless/soma2026.html
+   author:  Karel Stokkermans
+   updated: 16 Feb 2026
+  -->
 
 
 == Somalia 2025/26
-
-
-
-
-
 ==== Somali Premier League 2025/26  ‹§first›
 
 Table:
@@ -59,9 +54,6 @@ Table:
 ---------------------------------------------------
 11.Gantaalaha Afgooye        1   0  0  1   0- 5   0  [P]
 12.Jubba FC                  1   0  0  1   0- 6   0  [P]
-
-
-
 
 
 ==== General Da'ud Cup 2026  ‹§daud›

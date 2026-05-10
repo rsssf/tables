@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 2000/01
-     source:  https://rsssf.org/tableso/oost01.html
-     authors: Karel Stokkermans, Gerhard Öhlinger and Andreas Exenberger
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 2000/01
+   source:  https://rsssf.org/tableso/oost01.html
+   authors: Karel Stokkermans, Gerhard Öhlinger and Andreas Exenberger
+   updated: 15 Jun 2022
+  -->
 
 
 == Austria 2000/01
@@ -731,7 +731,6 @@ Tirol             0-0 Kärnten               [aet, 9-10 pen]
      Jezek
    Kärnten: Goriupp - Vorderegger, Vukovic, Kolvidsson, Höller - Rohseano,
      Hota, Stary, Schoppitsch - Ambrosius (73 Zahirovic), Bubalo (80 Steiner)]
-
 
 
 Austria 2000/01 Second Level (1. Division)
@@ -5897,7 +5896,6 @@ Finals in Haiming:
   U14:  ISK/FC Tirol - FC Tirol/ISK .............. 4-1
 
 
-
 VORARLBERG
 **********
 
@@ -5989,6 +5987,5 @@ New Teams in 2001/02:  BW Feldkirch 1b,  FC Nenzing 1b, Viktoria
 
 A Ninth Level  (4.Landesklasse)  will be introduced  in 2001/02
 containing reserve teams (1b) of Vorarlbergliga-teams.
-
 
 

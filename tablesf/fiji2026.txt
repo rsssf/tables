@@ -1,17 +1,12 @@
-  <!--
-     title:   Fiji 2026
-     source:  https://rsssf.org/tablesf/fiji2026.html
-     author:  Karel Stokkermans
-     updated: 12 Apr 2026
-    -->
+<!--
+   title:   Fiji 2026
+   source:  https://rsssf.org/tablesf/fiji2026.html
+   author:  Karel Stokkermans
+   updated: 12 Apr 2026
+  -->
 
 
 == Fiji 2026
-
-
-
-
-
 ==== Premier League  ‹§nfl›
 
 NB: for district representations

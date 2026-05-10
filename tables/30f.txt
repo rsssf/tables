@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1930
-     source:  https://rsssf.org/tables/30f.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 25 Jun 2025
-    -->
+<!--
+   title:   World Cup 1930
+   source:  https://rsssf.org/tables/30f.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 25 Jun 2025
+  -->
 
 
 == World Cup 1930 (Uruguay, July 13-30)
@@ -67,10 +67,5 @@ Scorers: 12' Dorado 1-0; 20' Peucelle 1-1; 38' Stábile 1-2; 58' Cea 2-2;
          68' Iriarte 3-2; 89' Castro 4-2.
 
 Topscorer: Stábile (Argentina) 8 goals.
-
-
-
-
-
 
 

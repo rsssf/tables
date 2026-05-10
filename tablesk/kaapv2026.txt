@@ -1,17 +1,12 @@
-  <!--
-     title:   Cape Verde Islands 2025/26
-     source:  https://rsssf.org/tablesk/kaapv2026.html
-     author:  José Batalha
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Cape Verde Islands 2025/26
+   source:  https://rsssf.org/tablesk/kaapv2026.html
+   author:  José Batalha
+   updated: 5 May 2026
+  -->
 
 
 == Cape Verde Islands 2025/26
-
-
-
-
-
 === Campeonato Nacional  ‹§nacional›
 
 Championship played out in a tournament between the champions of the nine
@@ -97,10 +92,6 @@ Second leg [Jun 27]
 Final [Jul 4, Estádio Municipal João Serra, Ponta do Sol]
 
 
-
-
-
-
 === Taça Nacional  ‹§taca›
 
 Cup played out in a tournament between the winners of the nine
@@ -147,10 +138,6 @@ Sal-Rei                   1-3 Grémio de Nhagar
 Final [May 2]
 CS Mindelense       2-0 Grémio de Nhagar
   [Bis 19, owngoal 45]
-
-
-
-
 
 
 ==== Boa Vista  ‹§boavista›
@@ -417,10 +404,6 @@ Final [Mar 28, Estádio Municipal Arsénio Ramos, Sal-Rei]
 Sal-Rei      0-0 Académica      [5-4 pen]
 
 
-
-
-
-
 ==== Brava  ‹§brava›
 
 Other teams: Sport Clube Juventude Portuária da Furna (Furna),
@@ -559,10 +542,6 @@ CD Benfica    1-0 Nô Pintcha
 
 Final [Mar 15, Estádio Municipal Aquiles d'Oliveira, Nova Sintra]
 CD Benfica      0-0 Morabeza   [1-0 aet]
-
-
-
-
 
 
 ==== Fogo  ‹§fogo›
@@ -926,10 +905,6 @@ Final [Mar 21, Campo de São Lourenço]
 Curral Grande   3-1 Botafogo
 
 
-
-
-
-
 ==== Maio  ‹§maio›
 
 Supertaça Djarmai
@@ -1002,10 +977,6 @@ CD Onze Unidos   2-0 SC Morrerense
 Final [Apr 11, Estádio Municipal Dau d'Segunda, Porto Inglês]
 CD Onze Unidos   1-0 Cruzeiro SC
  [Marcelo 28']
-
-
-
-
 
 
 ==== Sal  ‹§sal›
@@ -1387,10 +1358,6 @@ GD Palmeira: Macroid, Mestre, Emanuel, Leo Diniz, Titan, Leo Silva, Dery Brandã
 
 FC Fonte Riba: Cau, Ju, Tcheps, Djuninh, Bruninh, Wilson, Denil, Nitó, Notcha,
                Cristian and Dalton. Coach: Flávio Lima.
-
-
-
-
 
 
 ==== Santiago  ‹§santiago›
@@ -2356,12 +2323,7 @@ Desportivo   2-0 Sporting
  [Kenny, Rachid]
 
 
-
-
-
-
 ==== Santo Antão  ‹§santoantao›
-
 
 Zona Norte  ‹§antnorte›
 
@@ -2695,10 +2657,6 @@ Final [Apr 11, Estádio Municipal, Porto Novo]
 Sanjoanenses   0-0 Inter   [aet; 4-2 pen]
 
 
-
-
-
-
 ==== São Nicolau  ‹§saonicolau›
 
 NB: Futebol Clube Talho (Talho-Ribeira Brava) and Associação Cultural, Recreativa,
@@ -2872,10 +2830,6 @@ SC Atlético         3-2 FC Ultramarina
 Final [Mar 21, Estádio Municipal Di Deus, Ribeira Brava]
 FC Belo Horizonte     2-0 SC Atlético
  [Cladiston Kady 16, Sálvio 48]
-
-
-
-
 
 
 ==== São Vicente  ‹§saovicente›

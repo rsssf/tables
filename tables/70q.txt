@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1970 Qualifying
-     source:  https://rsssf.org/tables/70q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 13 Nov 2006
-    -->
+<!--
+   title:   World Cup 1970 Qualifying
+   source:  https://rsssf.org/tables/70q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 13 Nov 2006
+  -->
 
 
 == World Cup 1970 Qualifying
@@ -265,10 +265,5 @@ North Korea withdrew.
 3rd round
 04.12.69  Ramat Gan         Israel           1-0 Australia
 14.12.69  Sydney            Australia        1-1 Israel
-
-
-
-
-
 
 

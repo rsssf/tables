@@ -1,26 +1,12 @@
-  <!--
-     title:   Central American Club Competitions 2025/26
-     source:  https://rsssf.org/tablesc/cacups2026.html
-     author:  Erik Francisco Lugo
-     updated: 23 Apr 2026
-    -->
+<!--
+   title:   Central American Club Competitions 2025/26
+   source:  https://rsssf.org/tablesc/cacups2026.html
+   author:  Erik Francisco Lugo
+   updated: 23 Apr 2026
+  -->
 
 
 == Central American Club Competitions 2025/26
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 === Copa Centroamericana 2025  ‹§copacen›
 
 Qualified teams:
@@ -238,9 +224,6 @@ LD Alajuelense qualified to Round of 16 ‹CONCACAF Champions Cup 2026, see §cc
 Xelajú MC, Olimpia and Real España qualified to Round 1 ‹CONCACAF Champions Cup 2026, see §cc›
 
 
-
-
-
 === CONCACAF Champions Cup 2026  ‹§cc›
 
 North American zone:
@@ -392,6 +375,5 @@ Los Angeles FC           USA  Toluca                   Mex    -    -    -
 
 Final
 (May 30)
-
 
 

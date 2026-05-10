@@ -1,23 +1,15 @@
-  <!--
-     title:   Libya 2024/25
-     source:  https://rsssf.org/tablesl/lib2025.html
-     author:  Karel Stokkermans
-     updated: 17 Dec 2025
-    -->
+<!--
+   title:   Libya 2024/25
+   source:  https://rsssf.org/tablesl/lib2025.html
+   author:  Karel Stokkermans
+   updated: 17 Dec 2025
+  -->
 
 
 == Libya 2024/25
-
-
-
-
-
 ==== Premier League  ‹§div1›
 
-
 ===== Group Stage  ‹§grp›
-
-
 ====== Group 1  ‹§gp1›
 
 Final Table:
@@ -743,8 +735,6 @@ Final Table:
 NB: Al-Watan 1 point deducted
 
 ===== Final Stage  ‹§fin›
-
-
 ====== Group 1  ‹§qgp1›
 
 Final Table:
@@ -964,8 +954,6 @@ Final Table:
  6.Al-Swihli SC (Misrata)       5   0  1  4   5-12   1
 
 ===== Relegation Playoff  ‹§relpo›
-
-
 ====== Group 1  ‹§rgp1›
 
 Final Table:

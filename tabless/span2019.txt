@@ -1,17 +1,12 @@
-  <!--
-     title:   Spain 2018/19
-     source:  https://rsssf.org/tabless/span2019.html
-     author:  Karel Stokkermans
-     updated: 28 Jan 2021
-    -->
+<!--
+   title:   Spain 2018/19
+   source:  https://rsssf.org/tabless/span2019.html
+   author:  Karel Stokkermans
+   updated: 28 Jan 2021
+  -->
 
 
 == Spain 2018/19
-
-
-
-
-
 ==== Primera División  ‹§laliga›
 
 Final Table:
@@ -671,9 +666,6 @@ Final Table:
 20.Rayo Vallecano                38   8  8 22  41-70  32  [P]  Relegated
 
 
-
-
-
 ==== Copa del Rey  ‹§coparey›
 
 Round 1 [Sep 5]
@@ -850,9 +842,6 @@ Valencia CF               1-0 Real Betis Balompié
 
 Final [May 25, Sevilla]
 FC Barcelona              1-2 Valencia CF
-
-
-
 
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›

@@ -1,17 +1,12 @@
-  <!--
-     title:   England 2020/21
-     source:  https://rsssf.org/tablese/eng2021.html
-     author:  Ian King
-     updated: 15 Jun 2025
-    -->
+<!--
+   title:   England 2020/21
+   source:  https://rsssf.org/tablese/eng2021.html
+   author:  Ian King
+   updated: 15 Jun 2025
+  -->
 
 
 == England 2020/21
-
-
-
-
-
 ==== Premier League  ‹§premier›
 
 Final Table:
@@ -672,12 +667,7 @@ Final Table:
 20.Sheffield United        38   7  2 29  20-63  23       Relegated
 
 
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== FA Cup  ‹§facup›
 
 Round 1
@@ -846,13 +836,7 @@ Final [May 15, London]
 Chelsea                 0-1 Leicester City
 
 
-
-
-
-
 ==== Championship  ‹§champ›
-
-
 ===== Regular Stage  ‹§2reg›
 
 Final Table:
@@ -906,13 +890,7 @@ Brentford     2-0 Swansea
   [Toney 10pen, Marcondes 20]
 
 
-
-
-
-
 ==== Division 1  ‹§first›
-
-
 ===== Regular Stage  ‹§3reg›
 
 Final Table:
@@ -965,13 +943,7 @@ Final [May 30]
 Blackpool     2-1 Lincoln
 
 
-
-
-
-
 ==== Division 2  ‹§second›
-
-
 ===== Regular Stage  ‹§4reg›
 
 Final Table:
@@ -1027,13 +999,7 @@ Morecambe     1-0 Newport       [aet]
   [Mendes Gomes 107pen]
 
 
-
-
-
-
 ==== National League  ‹§conf›
-
-
 ===== Regular Stage  ‹§5reg›
 
 Final Table:
@@ -1091,6 +1057,5 @@ Torquay       4-2 Notts County  [aet]
 Final [Jun 20, Ashton Gate, Bristol; att: 6,606]
 Torquay       1-1 Hartlepool    [aet, 4-5 pen]
   [Covolan Cauagnari 90+5; Armstrong 35]
-
 
 

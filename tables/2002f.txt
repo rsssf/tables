@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 2002
-     source:  https://rsssf.org/tables/2002f.html
-     author:  Karel Stokkermans
-     updated: 5 Jul 2018
-    -->
+<!--
+   title:   World Cup 2002
+   source:  https://rsssf.org/tables/2002f.html
+   author:  Karel Stokkermans
+   updated: 5 Jul 2018
+  -->
 
 
 == World Cup 2002 (South Korea and Japan, 31 May-30 June 2002)
@@ -179,14 +179,5 @@ Attendance: 69,029.
 Scorers: 67' Ronaldo 1-0; 79' Ronaldo 2-0.
 
 Topscorer: Ronaldo (Brazil) 8 goals.
-
-
-
-
-
-
-
-
-
 
 

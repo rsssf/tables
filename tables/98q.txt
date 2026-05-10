@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1998 Qualifying
-     source:  https://rsssf.org/tables/98q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 12 Dec 2002
-    -->
+<!--
+   title:   World Cup 1998 Qualifying
+   source:  https://rsssf.org/tables/98q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 12 Dec 2002
+  -->
 
 
 == World Cup 1998 Qualifying
@@ -880,11 +880,5 @@ Group 5 [Morocco]
 17.08.97  Obuasi          Ghana              0-2 Sierra Leone
 26.10.97  Libreville      Gabon              n/p Sierra Leone    [declared void after repeated travel
                                                                   problems of Sierra Leone]
-
-
-
-
-
-
 
 

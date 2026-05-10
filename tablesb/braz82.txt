@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1982
-     source:  https://rsssf.org/tablesb/braz82.html
-     author:  Ricardo Pontes
-     updated: 18 Jan 2000
-    -->
+<!--
+   title:   Brazil 1982
+   source:  https://rsssf.org/tablesb/braz82.html
+   author:  Ricardo Pontes
+   updated: 18 Jan 2000
+  -->
 
 
 == Brazil 1982
@@ -1726,10 +1726,5 @@ Campo Grande      3-0  CSA
 
 Campo Grande AC (Rio De Janeiro-RJ) Were The 1982 Taça De Prata Champions.
 Campo Grande Promoted To 1983 Taça De Ouro.
-
-
-
-
-
 
 

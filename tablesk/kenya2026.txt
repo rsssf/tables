@@ -1,17 +1,12 @@
-  <!--
-     title:   Kenya 2025/26
-     source:  https://rsssf.org/tablesk/kenya2026.html
-     author:  Karel Stokkermans
-     updated: 2 Apr 2026
-    -->
+<!--
+   title:   Kenya 2025/26
+   source:  https://rsssf.org/tablesk/kenya2026.html
+   author:  Karel Stokkermans
+   updated: 2 Apr 2026
+  -->
 
 
 == Kenya 2025/26
-
-
-
-
-
 ==== Kenya Premier League 2025/26  ‹§kpl›
 
 Table:

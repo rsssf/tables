@@ -1,17 +1,12 @@
-  <!--
-     title:   Germany 2015/16
-     source:  https://rsssf.org/tablesd/duit2016.html
-     author:  Karel Stokkermans
-     updated: 9 May 2019
-    -->
+<!--
+   title:   Germany 2015/16
+   source:  https://rsssf.org/tablesd/duit2016.html
+   author:  Karel Stokkermans
+   updated: 9 May 2019
+  -->
 
 
 == Germany 2015/16
-
-
-
-
-
 ==== 1. Bundesliga  ‹§1bl›
 
 Final Table:
@@ -561,9 +556,6 @@ Nürnberg        0-1 Frankfurt
 NB: both remain at former level
 
 
-
-
-
 ==== DFB Pokal  ‹§dfbpokal›
 
 Round 1
@@ -654,9 +646,6 @@ Final [May 21, Berlin]
 Bayern München         0-0 Borussia Dortmund      [aet, 4-3 pen]
 
 
-
-
-
 ==== 2. Bundesliga  ‹§2bl›
 
 Final Table:
@@ -695,9 +684,6 @@ Second Leg [May 24]
 Duisburg        1-2 Würzburg
 
 NB: MSV Duisburg relegated, FC Würzburger Kickers promoted
-
-
-
 
 
 ==== 3. Liga  ‹§3bl›

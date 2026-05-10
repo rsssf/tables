@@ -1,17 +1,12 @@
-  <!--
-     title:   Swaziland (Eswatini) 2025/26
-     source:  https://rsssf.org/tabless/swaz2026.html
-     author:  Karel Stokkermans
-     updated: 2 Apr 2026
-    -->
+<!--
+   title:   Swaziland (Eswatini) 2025/26
+   source:  https://rsssf.org/tabless/swaz2026.html
+   author:  Karel Stokkermans
+   updated: 2 Apr 2026
+  -->
 
 
 == Swaziland (Eswatini) 2025/26
-
-
-
-
-
 ==== MTN Premier League  ‹§premier›
 
 Table:

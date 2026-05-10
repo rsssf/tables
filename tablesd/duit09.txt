@@ -1,9 +1,9 @@
-  <!--
-     title:   Germany 2008/09
-     source:  https://rsssf.org/tablesd/duit09.html
-     authors: Karel Stokkermans and Marcel Haisma
-     updated: 2 Aug 2018
-    -->
+<!--
+   title:   Germany 2008/09
+   source:  https://rsssf.org/tablesd/duit09.html
+   authors: Karel Stokkermans and Marcel Haisma
+   updated: 2 Aug 2018
+  -->
 
 
 == Germany 2008/09
@@ -534,7 +534,6 @@ Nürnberg       2-0 Energie
 NB: Nürnberg promoted, Energie relegated
 
 
-
 DFB Pokal 2008/09
 
 Round 1
@@ -623,8 +622,6 @@ Hamburger SV             1-1 Werder Bremen            [aet, 1-3 pen]
 
 Final [May 30, Berlin]
 Bayer Leverkusen         0-1 Werder Bremen
-
-
 
 
 Second Level 2008/09
@@ -2256,7 +2253,6 @@ Kumbela          8   Paderborn
 Zillner          8   Untrhaching
 
 
-
 Fourth Level 2008/09
 
 Regionalliga Nord
@@ -2340,26 +2336,5 @@ Final Table:
 
 [*] Viktoria Aschaffenburg renounced on its place in the Regionalliga
     2009/10; due to this Karlsruher SC II are not relegated
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

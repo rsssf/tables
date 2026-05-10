@@ -1,24 +1,12 @@
-  <!--
-     title:   African Nations Cup 2025/26
-     source:  https://rsssf.org/tables/2025a.html
-     author:  Roberto Di Maggio
-     updated: 19 Mar 2026
-    -->
+<!--
+   title:   African Nations Cup 2025/26
+   source:  https://rsssf.org/tables/2025a.html
+   author:  Roberto Di Maggio
+   updated: 19 Mar 2026
+  -->
 
 
 == African Nations Cup 2025/26
-
-
-
-
-
-
-
-
-
-
-
-
 ==== Qualifying Tournament  ‹§qual›
 
 NB: Morocco qualified as hosts; despite of this, they decided to participate
@@ -272,10 +260,6 @@ Group L
  2.BURKINA FASO       6  3  1  2 10- 7 10
  3.Burundi            6  1  1  4  4-11  4
  4.Malawi             6  1  1  4  6-11  4
-
-
-
-
 
 
 ==== Final Tournament  ‹§fin›

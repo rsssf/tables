@@ -1,17 +1,12 @@
-  <!--
-     title:   Armenia 2025/26
-     source:  https://rsssf.org/tablesa/arme2026.html
-     author:  Theodore Dreiman
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Armenia 2025/26
+   source:  https://rsssf.org/tablesa/arme2026.html
+   author:  Theodore Dreiman
+   updated: 5 May 2026
+  -->
 
 
 == Armenia 2025/26
-
-
-
-
-
 ==== Armenian Premier League  ‹§prem›
 
 Table:
@@ -452,10 +447,6 @@ Ararat-Ar  -  Gandzasar
 Urartu     -  Noah
 
 
-
-
-
-
 ==== Hayastani Gavat (Cup of Armenia) 2025/26  ‹§cup›
 
 Preliminary Round
@@ -526,10 +517,6 @@ Ararat-Arm (Yerevan)  0-1 0-0  NOAH (Yerevan)    [agg 0-1]
 Final [May 14, Yerevan]
 
 Urartu (Yerevan)  -  Noah (Yerevan)
-
-
-
-
 
 
 ==== Arrajin Khumb (First League)  ‹§first›
@@ -1223,10 +1210,6 @@ Ararat-Ar-2  -  Hayq
 Mika         -  Noah-2
 
 
-
-
-
-
 ==== Siroghakan A Liga (Amateur League A, Third Level)  ‹§ama›
 
 Final Tables:
@@ -1439,10 +1422,6 @@ Top scorers:
 7.Serzh Balabekyan (Ijevan)           5
   Davit Ghandilyan (EcoVille)         5
   Vardan Vardanyan (Ejmiacin)         5
-
-
-
-
 
 
 ==== Siroghakan B Liga (Amateur League B, Third Level)  ‹§amb›

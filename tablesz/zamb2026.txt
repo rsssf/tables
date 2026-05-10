@@ -1,17 +1,12 @@
-  <!--
-     title:   Zambia 2025/26
-     source:  https://rsssf.org/tablesz/zamb2026.html
-     author:  Kalumiana Kalumiana
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Zambia 2025/26
+   source:  https://rsssf.org/tablesz/zamb2026.html
+   author:  Kalumiana Kalumiana
+   updated: 5 May 2026
+  -->
 
 
 == Zambia 2025/26
-
-
-
-
-
 ==== Super League  ‹§premier›
 
 Table:
@@ -717,13 +712,7 @@ Table:
 [*] Prison Leopards were renamed FC Leopards
 
 
-
-
-
-
 ==== Cups  ‹§cups›
-
-
 ===== ABSA Cup 2026  ‹§absa›
 
 Preliminary Round
@@ -777,10 +766,6 @@ Red Arrows              2-0 Chirundu United
 
 Final [May 10, Levy Mwanawasa Stadium, Ndola]
 Power Dynamos            -  Red Arrows
-
-
-
-
 
 
 ==== National Division One  ‹§natdiv1›

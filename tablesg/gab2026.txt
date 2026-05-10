@@ -1,17 +1,12 @@
-  <!--
-     title:   Gabon 2026
-     source:  https://rsssf.org/tablesg/gab2026.html
-     author:  Karel Stokkermans
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Gabon 2026
+   source:  https://rsssf.org/tablesg/gab2026.html
+   author:  Karel Stokkermans
+   updated: 5 May 2026
+  -->
 
 
 == Gabon 2026
-
-
-
-
-
 ==== LINAF National Foot 1  ‹§div1›
 
 Table:

@@ -1,22 +1,15 @@
-  <!--
-     title:   Saint Kitts and Nevis 2025/26
-     source:  https://rsssf.org/tabless/stkitts2026.html
-     author:  Karel Stokkermans
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Saint Kitts and Nevis 2025/26
+   source:  https://rsssf.org/tabless/stkitts2026.html
+   author:  Karel Stokkermans
+   updated: 7 May 2026
+  -->
 
 
 == Saint Kitts and Nevis 2025/26
-
-
-
-
-
 ==== Saint Kitts  ‹§kitts›
 
 ===== SKNFA Digicel Super League 2025/26  ‹§sknsuper›
-
-
 ====== Regular Phase  ‹§reg›
 
 Final Table:

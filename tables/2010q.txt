@@ -1,22 +1,12 @@
-  <!--
-     title:   World Cup 2010 Qualifying
-     source:  https://rsssf.org/tables/2010q.html
-     authors: Ian King, Erik Francisco Lugo, Karel Stokkermans and Andre Zlotkowski
-     updated: 12 Sep 2013
-    -->
+<!--
+   title:   World Cup 2010 Qualifying
+   source:  https://rsssf.org/tables/2010q.html
+   authors: Ian King, Erik Francisco Lugo, Karel Stokkermans and Andre Zlotkowski
+   updated: 12 Sep 2013
+  -->
 
 
 == World Cup 2010 Qualifying
-
-
-  
-
-
-
-
-
-
-
 ==== Europe  ‹§eur›
 
 <!-- start pre -->‹Match Details, see page 2010q-det.html#eur›
@@ -406,12 +396,7 @@ Playoff
   [Dedic 44]
 
 
-
-
-
-
 ==== South America  ‹§sam›
-
 
  1.BRAZIL       18  9  7  2 33-11 34
  2.CHILE        18 10  3  5 32-22 33
@@ -610,11 +595,7 @@ CONCACAF/CONMEBOL Playoff
 ‹Match Details, see page 2010q-det.html#sam›
 
 
-
-
-
 ==== Africa  ‹§afr›
-
 
 CAF has 5 automatic places (not including South Africa)
 
@@ -1096,11 +1077,7 @@ Group E
 ‹Match Details, see page 2010q-det.html#afr›
 
 
-
-
-
 ==== Asia  ‹§asi›
-
 
 Laos, Bhutan, Brunei and the Philippines did not enter.
 
@@ -1466,11 +1443,7 @@ AFC/OFC Playoff
 ‹Match Details, see page 2010q-det.html#asi›
 
 
-
-
-
 ==== North and Central America  ‹§nca›
-
 
 First Stage
 
@@ -1759,11 +1732,7 @@ CONCACAF/CONMEBOL Playoff
 ‹Match Details, see page 2010q-det.html#nca›
 
 
-
-
-
 ==== Oceania  ‹§oce›
-
 
 The top three teams from the ‹2007 South Pacific Games, see page ../tabless/southpac07.html#men› (New Caledonia, Fiji, and Vanuatu)
 joined New Zealand in a four-team pool. The top team will play a home and away matches
@@ -1809,7 +1778,5 @@ AFC/OFC Playoff
 10-10-09 Manama          Bahrain       0-0 New Zealand
 14-11-09 Wellington      New Zealand   1-0 Bahrain
   [Fallon 45]
-
-
 
 

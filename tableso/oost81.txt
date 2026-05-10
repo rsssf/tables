@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1980/81
-     source:  https://rsssf.org/tableso/oost81.html
-     author:  Ambrosius Kutschera
-     updated: 10 Oct 2004
-    -->
+<!--
+   title:   Austria 1980/81
+   source:  https://rsssf.org/tableso/oost81.html
+   author:  Ambrosius Kutschera
+   updated: 10 Oct 2004
+  -->
 
 
 == Austria 1980/81
@@ -375,13 +375,5 @@ Promoted to the 2.Division:
 Flavia Solva Wagna (Mitte)
 Favoritner AC (Ost)
 ASK Salzburg (West)
-
-
-
-
-
-
-
-
 
 

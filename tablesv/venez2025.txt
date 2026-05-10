@@ -1,23 +1,15 @@
-  <!--
-     title:   Venezuela 2025
-     source:  https://rsssf.org/tablesv/venez2025.html
-     author:  Karel Stokkermans
-     updated: 7 Dec 2025
-    -->
+<!--
+   title:   Venezuela 2025
+   source:  https://rsssf.org/tablesv/venez2025.html
+   author:  Karel Stokkermans
+   updated: 7 Dec 2025
+  -->
 
 
 == Venezuela 2025
-
-
-
-
-
 ==== Primera División  ‹§primera›
 
-
 ===== Torneo Apertura 2025  ‹§1aper›
-
-
 ====== Regular Stage  ‹§aperreg›
 
 Final Table:

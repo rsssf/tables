@@ -1,17 +1,12 @@
-  <!--
-     title:   CONCACAF Nations League 2024-25
-     source:  https://rsssf.org/tables/2025concanl.html
-     author:  Erik Francisco Lugo
-     updated: 1 Apr 2025
-    -->
+<!--
+   title:   CONCACAF Nations League 2024-25
+   source:  https://rsssf.org/tables/2025concanl.html
+   author:  Erik Francisco Lugo
+   updated: 1 Apr 2025
+  -->
 
 
 == CONCACAF Nations League 2024-25
-
-
-
-
-
 ==== League A (2024)  ‹§leaguea›
 
 NB: Played under "Swiss style" league system.
@@ -87,10 +82,6 @@ Managua        Nicaragua              3-2 French Guiana
  4.Trinidad and Tobago  4   1  2  1   5- 7   5 (Gold Cup 2025 Pr.)
  5.Cuba                 4   0  3  1   4- 6   3 (relegated; ‹play in, see §pin› for GC Prel.)
  6.French Guiana   4   0  1  3   4- 7   1 (relegated; ‹play in, see §pin› for GC Prel.)
-
-
-
-
 
 
 ==== League B (2024)  ‹§leagueb›
@@ -254,10 +245,6 @@ Santiago Cab.  Dominican Republic     6-1 Bermuda
  4.Antigua & Barbuda   6   0  1  5   2-15   1 (relegated)
 
 
-
-
-
-
 ==== League C (2024)  ‹§leaguec›
 
 Group A
@@ -338,10 +325,6 @@ Basseterre      St. Kitts & Nevis      1-1 Cayman Islands
  3.British Virgin Isl.  4   0  0  4   1- 7   0
 
 
-
-
-
-
 ==== Play-in (2024)  ‹§pin›
 
 First Legs
@@ -369,9 +352,6 @@ Paramaribo      French Guiana          2-2 Belize
 Leonora         Guyana                 5-3 Barbados
                   [Osaze de Rosario 27, 41, 45+2, Omari Glasgow 57, Isaiah Jones 90+5; Thierry Gale 49, 67,
                    Niall Reid-Stephen 63]
-
-
-
 
 
 ==== Final Stage (2024-25)  ‹§fin›
@@ -423,6 +403,5 @@ Final
 [Mar 23]
 Panama                 1-2 Mexico
   [Raúl Jiménez 8, 90+2pen; Adalberto Carrasquilla 45+2pen]
-
 
 

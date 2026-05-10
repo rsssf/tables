@@ -1,27 +1,10 @@
-  <!--
-     title:   World Cup 1938 finals
-     source:  https://rsssf.org/tables/38full.html
-
-    -->
+<!--
+   title:   World Cup 1938 finals
+   source:  https://rsssf.org/tables/38full.html
+  -->
 
 
 = World Cup 1938 finals
-
-
-‹Results, see §results›
-
-‹Eightfinals, see §8fin›
-‹Quarterfinals, see §4fin›
-‹Semifinals, see §2fin›
-‹Third place match, see §3place›
-‹Final, see §final›
-
-
-‹Scorers' list, see §scorers›
-‹Coaches, assistants, reserve players, see §coaches›
-‹Oldest and youngest, see §records›
-
-
 
 France, 4-19 Jun 1938 (Antibes, Bordeaux, Le Havre, Lille, Marseille,
 Paris, Reims, Strasbourg, Toulouse). Decided at FIFA Congress in Berlin
@@ -68,9 +51,6 @@ Lehner, Stroh, Sczepan (c), Hahnemann, Neumer
 NOTE: Some sources award Lörtscher's own goal to Lehner
 
 
-
-
-
 05.06.38  (17.00) Toulouse, Stade Chapou
 
 (+6000) Scarpi ITA, Valprede FRA, Mercx FRA
@@ -101,9 +81,6 @@ Bogdan, Moldoveanu, Baratki, Prassler, Dobai
 0:1 Dobay 39, 1:1 Socorro 51, 2:1 Fernández 53
 
 
-
-
-
 05.06.38  (18.30) Le Havre, Stade de la Cavée Verte
 
 Leclerc FRA, Olive FRA, Sdez FRA
@@ -118,17 +95,11 @@ Wels, Van der Veen, Smit, Vente, de Harder
 1:0 Koštálek 93, 2:0 Zeman 111, 3:0 Nejedlý 118
 
 
-
-
-
 05.06.38  (?) Lyon
 
 SWE - AUT
 
 Match cancelled because of the Austrian Anschluß in March 1938.
-
-
-
 
 
 05.06.38  (17.00) Paris, Stade Olympique de Colombes
@@ -143,9 +114,6 @@ BEL: Badjou - Paverick, Seys - van Alphen, Stijnen (c), De Winter - van
 de Wouwer, Voorhoof, Isemborghs, Braine, Buyle
 
 1:0 Veinante 1 (35 sec), 2:0 Nicolas 16, 2:1 Isemborghs 38, 3:1 Nicolas 69
-
-
-
 
 
 05.06.38  (17.00) Reims, Stade Velodrome Municipal
@@ -163,9 +131,6 @@ Soedarmadji, Zomers, Pattiwael, Taihitu
 78, 6:0 Sárosi 89
 
 
-
-
-
 05.06.38  (17.00) Marseille, Stade Velodrome
 
 ITA - NOR 2:1 (1:0, 1:1, 2:1)
@@ -179,9 +144,6 @@ NOR: Johansen - Johannesen, Holmsen - Henriksen, Eriksen (c), Holmberg -
 Frantzen, Kvammen, Brynildsen, Isaksen, Brustad
 
 1:0 Ferraris 2, 1:1 Brustad 83, 2:1 Piola 94
-
-
-
 
 
 05.06.38  (17.30) Strasbourg, Stade de la Meinau
@@ -215,9 +177,6 @@ Aston, Heisserer, Nicolas, Delfour, Veinante
 1:0 Colaussi 9, 1:1 Heisserer 10, 2:1 Piola 51 h, 3:1 Piola 72
 
 
-
-
-
 12.06.38  (17.00) Antibes, Stade du Fort Carré
 
 SWE - CUB 8:0 (4:0)
@@ -234,9 +193,6 @@ Ferrer, Fernández, Socorro, Tunas, Alonzo
 (42 Abrahamsson saved a penalty by Fernández)
 
 
-
-
-
 12.06.38  (17.00) Lille, Stade Victor Boucquey
 
 HUN - SUI 2:0 (1:0)
@@ -250,9 +206,6 @@ SUI: Huber - Stelzer, Lehmann (c) - Springer, Vernati, Lörtscher - Amadó,
 Walaschek, Bickel, Abegglen III, Grassi
 
 1:0 Sárosi 40 h, 2:0 Zsengeller 90
-
-
-
 
 
 12.06.38  (17.00) Bordeaux, Parc de Lescure
@@ -302,9 +255,6 @@ Wetterström, Keller (c), H.Andersson, Jonasson, Nyberg
 4:1 Sárosi 61, 5:1 Zsengellér 78
 
 NOTE: Some sources give Jakobson's own goal as Zsengellér's
-
-
-
 
 
 16.06.38  (18.00) Marseille, Stade Velodrome

@@ -1,19 +1,13 @@
-  <!--
-     title:   Greece 2024/25
-     source:  https://rsssf.org/tablesg/grk2025.html
-     author:  Karel Stokkermans
-     updated: 26 May 2025
-    -->
+<!--
+   title:   Greece 2024/25
+   source:  https://rsssf.org/tablesg/grk2025.html
+   author:  Karel Stokkermans
+   updated: 26 May 2025
+  -->
 
 
 == Greece 2024/25
-
-
-
-
-
 ==== Super League  ‹§alpha›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -376,8 +370,6 @@ Final Table:
 14.PAS Lamia               26   3  6 17  14-44  15                        ‹Relegation Playoff, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:

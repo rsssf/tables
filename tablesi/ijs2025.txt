@@ -1,19 +1,13 @@
-  <!--
-     title:   Iceland 2025
-     source:  https://rsssf.org/tablesi/ijs2025.html
-     author:  Denis Polsinelli
-     updated: 2 Apr 2026
-    -->
+<!--
+   title:   Iceland 2025
+   source:  https://rsssf.org/tablesi/ijs2025.html
+   author:  Denis Polsinelli
+   updated: 2 Apr 2026
+  -->
 
 
 == Iceland 2025
-
-
-
-
-
 ==== Urvalsdeild  ‹§urvals›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -499,8 +493,6 @@ Topscorers:
 10 Orvar Eggertsson (Stjarnan)
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:
@@ -677,12 +669,7 @@ Topscorers (overall):
 13 Eidur Gauti Saebjornsson (KR)
 
 
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== Cup 2025  ‹§cup›
 
 Round 1
@@ -1500,17 +1487,10 @@ Topscorers (overall):
 4 Jonatan Ingi Jonsson (Valur)
 
 
-
-
-
-
 ==== Super Cup 2025/26  ‹§sup›
 
 [Mar 29, 2026]
 Víkingur R.     4-0 Vestri
-
-
-
 
 
 ==== 1. deild  ‹§1dd›
@@ -2031,10 +2011,6 @@ Topscorers overall:
 12 Dominik Radic (Njarðvík)
 
 
-
-
-
-
 ==== 2. deild  ‹§2dd›
 
 Final Table:
@@ -2507,9 +2483,6 @@ Topscorers:
 11 Bjarki Runar Joninuson (Ægir)
 10 Fannar Oli Fridleifsson (Haukar)
 10 Marteinn Mar Sverrisson (KFA)
-
-
-
 
 
 ==== 3. deild  ‹§3dd›
@@ -3040,9 +3013,6 @@ Topscorers:
 15 Svetislav Milosevic (Tindastólll)
 
 
-
-
-
 ==== 4. deild  ‹§4dd›
 
 Final Table:
@@ -3428,14 +3398,8 @@ Topscorers:
 14 Haukur Asberg Hilmarsson (KH)
 
 
-
-
-
 ==== 5. deild  ‹§5dd›
-
-
 ===== Group Stage  ‹§5grp›
-
 
 ====== Group A  ‹§5ga›
 

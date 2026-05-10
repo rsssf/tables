@@ -1,17 +1,12 @@
-  <!--
-     title:   Grenada 2025
-     source:  https://rsssf.org/tablesg/grenada2025.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 5 Feb 2026
-    -->
+<!--
+   title:   Grenada 2025
+   source:  https://rsssf.org/tablesg/grenada2025.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 5 Feb 2026
+  -->
 
 
 == Grenada 2025
-
-
-
-
-
 ==== Premier Division  ‹§prem›
 
 Table (includes disputed result Dec 14):
@@ -235,9 +230,6 @@ Table (includes disputed result Dec 14):
 NB: remaining matches apparently cancelled due to irrelevance
 
 
-
-
-
 ==== Waggy T Super Knockout 2024  ‹§waggy›
 
 NB: 15th edition; 24 participating teams
@@ -292,9 +284,6 @@ Final [Dec 6]
 St. John's Sports     3-4 Hurricanes            [aet]
 
 
-
-
-
 ==== Division I  ‹§div1›
 
 Table:
@@ -315,9 +304,6 @@ Table:
 12.Springs                       22   2  1 19  20-62   7       Relegated
 
 NB: remaining matches apparently cancelled due to irrelevance
-
-
-
 
 
 ==== Division II  ‹§div2›

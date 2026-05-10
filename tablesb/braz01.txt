@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 2001
-     source:  https://rsssf.org/tablesb/braz01.html
-     author:  RSSSF Brazil
-     updated: 15 Aug 2002
-    -->
+<!--
+   title:   Brazil 2001
+   source:  https://rsssf.org/tablesb/braz01.html
+   author:  RSSSF Brazil
+   updated: 15 Aug 2002
+  -->
 
 
 == Brazil 2001
@@ -1040,13 +1040,5 @@ MAGRÃO - Giuliano Tadeu Aranda         ALEX MINEIRO - A.Pereira Cardoso
 Coach: JAIR PICERNI                    Coach: GENINHO
 
 Clube Atlético Paranaense are the 2001 Brazilian champions
-
-
-
-
-
-
-
-
 
 

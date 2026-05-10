@@ -1,17 +1,12 @@
-  <!--
-     title:   Isle of Wight 2024/25
-     source:  https://rsssf.org/tablese/engiow2025.html
-     author:  Hans Schöggl
-     updated: 31 Jul 2025
-    -->
+<!--
+   title:   Isle of Wight 2024/25
+   source:  https://rsssf.org/tablese/engiow2025.html
+   author:  Hans Schöggl
+   updated: 31 Jul 2025
+  -->
 
 
 == Isle of Wight 2024/25
-
-
-
-
-
 ==== Division One  ‹§div1›
 
 Final Table:
@@ -30,11 +25,7 @@ Final Table:
  -.AFC Wootton                     apparently withdrew
 
 
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
 ===== Challenge Cup  ‹§chall›
 
 Semifinals
@@ -60,9 +51,6 @@ W&B Sports                3-1 Cowes Sports Res.
 
 Final [Jan 4]
 Ventnor FC                3-3 W&B Sports                [4-3 pen]
-
-
-
 
 
 ==== Division Two  ‹§div2›

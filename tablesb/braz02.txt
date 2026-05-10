@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 2002
-     source:  https://rsssf.org/tablesb/braz02.html
-     author:  RSSSF Brazil
-     updated: 19 Apr 2003
-    -->
+<!--
+   title:   Brazil 2002
+   source:  https://rsssf.org/tablesb/braz02.html
+   author:  RSSSF Brazil
+   updated: 19 Apr 2003
+  -->
 
 
 == Brazil 2002
@@ -928,15 +928,5 @@ GUILHERME Cássio Alves                 ROBINHO - Robson de Souza
 (LEANDRO Lessa Azevedo 73')            WILLIAM Júnior Salles de Lima Souza
 GILberto Ribeiro Gonçalves             (ALEXANDRE de Oliveira da Silva 73')
 Coach: CARLOS ALBERTO PARREIRA         Coach: Émerson LEÃO
-
-
-
-
-
-
-
-
-
-
 
 

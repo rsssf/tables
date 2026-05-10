@@ -1,19 +1,13 @@
-  <!--
-     title:   Austria 2019/20
-     source:  https://rsssf.org/tableso/oost2020.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 7 Mar 2023
-    -->
+<!--
+   title:   Austria 2019/20
+   source:  https://rsssf.org/tableso/oost2020.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 7 Mar 2023
+  -->
 
 
 == Austria 2019/20
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -276,8 +270,6 @@ Final Table:
 [*] WSG Wattens were renamed WSG Tirol and play home matches in Innsbruck
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:
@@ -472,9 +464,6 @@ NB: on Aug 5, Mattersburg renounced on its Bundesliga license for financial
     Mattersburger Sportverein 2020
 
 
-
-
-
 ==== ÖFB Cup  ‹§cup›
 
 Round 1
@@ -566,10 +555,6 @@ FC Red Bull Salzburg            5-0 SC Austria Lustenau
   [Szoboszlai 10, Stumberger 21og, Okafor 30, Ashimeru 65, Koita 79]
 
 
-
-
-
-
 ==== 2. Liga (Second Level)  ‹§1liga›
 
 Final Table:
@@ -598,10 +583,6 @@ NB: no relegation to third level or promotion from third level; the 16th
     and Juniors Oberösterreich (LASK)).
 
 
-
-
-
-
 ==== SFV (Salzburg) Cup 2019/20  ‹§salzcup›
 
 1/8 Finals
@@ -627,9 +608,6 @@ FC Zell/See                   n/p SV Austria Salzburg
 Semifinals [Apr 22 - cancelled]
 
 Final [May 21 - cancelled]
-
-
-
 
 
 ==== Woche Cup 2019/20  ‹§steicup›

@@ -1,17 +1,12 @@
-  <!--
-     title:   Spain 2013/14
-     source:  https://rsssf.org/tabless/span2014.html
-     author:  Karel Stokkermans
-     updated: 29 Sep 2020
-    -->
+<!--
+   title:   Spain 2013/14
+   source:  https://rsssf.org/tabless/span2014.html
+   author:  Karel Stokkermans
+   updated: 29 Sep 2020
+  -->
 
 
 == Spain 2013/14
-
-
-
-
-
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
 Final Table:
@@ -654,10 +649,6 @@ Final Table:
 20.Real Betis Balompié (Sevilla) 38   6  7 25  36-78  25  Relegated
 
 
-
-
-
-
 ==== Copa del Rey  ‹§coparey›
 
 Round 1 [Sep 4]
@@ -827,11 +818,6 @@ Real Sociedad             1-1 FC Barcelona
 
 Final [Apr 16, Valencia]
 FC Barcelona              1-2 Real Madrid CF
-
-
-
-
-
 
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›

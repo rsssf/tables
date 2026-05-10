@@ -1,17 +1,12 @@
-  <!--
-     title:   Afghanistan 2024/25
-     source:  https://rsssf.org/tablesa/afgh2025.html
-     author:  Karel Stokkermans
-     updated: 16 Sep 2025
-    -->
+<!--
+   title:   Afghanistan 2024/25
+   source:  https://rsssf.org/tablesa/afgh2025.html
+   author:  Karel Stokkermans
+   updated: 16 Sep 2025
+  -->
 
 
 == Afghanistan 2024/25
-
-
-
-
-
 ==== Afghanistan Champions League 2024/25  ‹§afgh›
 
 NB: fourth edition
@@ -177,10 +172,6 @@ Final Table:
    record at exclusion:         9   0  4  5   8-20   4
 
 NB: annulled results against MGM Khadim between square brackets
-
-
-
-
 
 
 ==== Promotion Playoff  ‹§prom›

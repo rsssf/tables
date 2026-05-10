@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1934 Qualifying
-     source:  https://rsssf.org/tables/34q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 4 Nov 2021
-    -->
+<!--
+   title:   World Cup 1934 Qualifying
+   source:  https://rsssf.org/tables/34q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 4 Nov 2021
+  -->
 
 
 == World Cup 1934 Qualifying
@@ -73,10 +73,5 @@ Group 12 [Egypt]
 Turkey withdrew
 16.03.34  Cairo           Egypt            7-1 Palestina
 06.04.34  Tel-Aviv        Palestina        1-4 Egypt
-
-
-
-
-
 
 

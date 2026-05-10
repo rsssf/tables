@@ -1,17 +1,12 @@
-  <!--
-     title:   East Timor 2025
-     source:  https://rsssf.org/tableso/oosttim2025.html
-     author:  Karel Stokkermans
-     updated: 3 Mar 2026
-    -->
+<!--
+   title:   East Timor 2025
+   source:  https://rsssf.org/tableso/oosttim2025.html
+   author:  Karel Stokkermans
+   updated: 3 Mar 2026
+  -->
 
 
 == East Timor 2025
-
-
-
-
-
 ==== Liga Futebol de Timor Leste - Primeira Divisaun  ‹§lfa›
 
 Final Table:
@@ -132,10 +127,6 @@ Final Table:
 10.AS Ponta Leste                           9   2  3  4   7-11   9  [2 0 0 2 1-5 0]  Relegated
 
 [*] Atlético Ultramar/Coração FC were renamed Coração FC
-
-
-
-
 
 
 ==== Segunda Divisaun  ‹§2d›

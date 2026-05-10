@@ -1,19 +1,13 @@
-  <!--
-     title:   Wales 2024/25
-     source:  https://rsssf.org/tablesw/wal2025.html
-     author:  Karel Stokkermans
-     updated: 12 Jun 2025
-    -->
+<!--
+   title:   Wales 2024/25
+   source:  https://rsssf.org/tablesw/wal2025.html
+   author:  Karel Stokkermans
+   updated: 12 Jun 2025
+  -->
 
 
 == Wales 2024/25
-
-
-
-
-
 ==== Uwch Gynghrair Cymru (Cymru Premier)  ‹§low›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -451,13 +445,7 @@ Final Table:
 12.Aberystwyth Town                32   6  3 23  28-71  21       Relegated
 
 
-
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== Welsh Cup 2024/25  ‹§welsh›
 
 1/8 Finals

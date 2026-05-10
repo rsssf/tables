@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1990/91
-     source:  https://rsssf.org/tableso/oost91.html
-     author:  Ambrosius Kutschera
-     updated: 18 May 2003
-    -->
+<!--
+   title:   Austria 1990/91
+   source:  https://rsssf.org/tableso/oost91.html
+   author:  Ambrosius Kutschera
+   updated: 18 May 2003
+  -->
 
 
 == Austria 1990/91
@@ -408,7 +408,6 @@ Topscorers:
    Christian Keglevits (Rapid)        11
 
 
-
 Fall season
 ===========
 
@@ -465,15 +464,5 @@ After the season, SK VOEST Linz changed name to FC Stahl Linz.
 
 Cup Final: SV Stockerau 2-1 Rapid
            [8' Reiter 0-1, 30' Wenzel 1-1, 52' Pospisil 2-1]
-
-
-
-
-
-
-
-
-
-
 
 

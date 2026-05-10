@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 2014/15
-     source:  https://rsssf.org/tablesi/ital2015.html
-     author:  Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   Italy 2014/15
+   source:  https://rsssf.org/tablesi/ital2015.html
+   author:  Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
 
 == Italy 2014/15
-
-
-
-
-
 ==== Serie A  ‹§seriea›
 
 Final Table:
@@ -652,10 +647,6 @@ Final Table:
 NB: Parma 7 points deducted for financial reasons
 
 
-
-
-
-
 ==== Coppa Italia  ‹§coppa›
 
 Round 1 [Aug 10]
@@ -869,13 +860,7 @@ Juventus: Storari, Barzagli, Bonucci, Chiellini, Evra, Lichtsteiner
   (Matri 84). Tr.: Allegri
 
 
-
-
-
-
 ==== Serie B  ‹§serieb›
-
-
 ===== Regular Season  ‹§2reg›
 
 Final Table:

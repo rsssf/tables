@@ -1,16 +1,12 @@
-  <!--
-     title:   USA 2007
-     source:  https://rsssf.org/tablesu/usa07.html
-     author:  David A. Litterer
-     updated: 11 Sep 2019
-    -->
+<!--
+   title:   USA 2007
+   source:  https://rsssf.org/tablesu/usa07.html
+   author:  David A. Litterer
+   updated: 11 Sep 2019
+  -->
 
 
 == USA 2007
-
-
-
-
 
 Major League Soccer
 
@@ -461,7 +457,6 @@ NE Revolution   1-2 Houston Dynamo
   [Taylor Twellman 20; Joseph Ngwenya 61, Dwayne DeRosario 74]
 
 
-
 US Open Cup 2007
 
 First Round
@@ -732,6 +727,5 @@ Sacramento Knights          14   7   2   5            26
 Santa Cruz Breakers         14   7   4   3            24
 Salinas Valley Samba        14   3   7   4            13
 Real San Jose               14   1   9   4             7
-
 
 

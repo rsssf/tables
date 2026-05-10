@@ -1,19 +1,13 @@
-  <!--
-     title:   Paraguay 2026
-     source:  https://rsssf.org/tablesp/para2026.html
-     author:  Tim Venables
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Paraguay 2026
+   source:  https://rsssf.org/tablesp/para2026.html
+   author:  Tim Venables
+   updated: 7 May 2026
+  -->
 
 
 == Paraguay 2026
-
-
-
-
-
 ==== Primera División  ‹§prim›
-
 
 ===== Torneo Apertura 2026  ‹§1aper›
 
@@ -391,5 +385,4 @@ Table:
 NB: Olimpia certain of title due to superior head-to-head record w.r.t. Cerro Porteño
 
 ===== Torneo Clausura 2025  ‹§1clau›
-
 

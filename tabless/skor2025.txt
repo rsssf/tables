@@ -1,19 +1,13 @@
-  <!--
-     title:   South Korea 2025
-     source:  https://rsssf.org/tabless/skor2025.html
-     author:  Karel Stokkermans
-     updated: 23 Dec 2025
-    -->
+<!--
+   title:   South Korea 2025
+   source:  https://rsssf.org/tabless/skor2025.html
+   author:  Karel Stokkermans
+   updated: 23 Dec 2025
+  -->
 
 
 == South Korea 2025
-
-
-
-
-
 ==== K League 1  ‹§k1›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -76,9 +70,6 @@ Suwon FC         2-3 Bucheon
 NB: Bucheon FC promoted, Suwon FC relegated
 
 
-
-
-
 ==== Korea FA Cup  ‹§kfacup›
 
 1/8 Finals [May 14]
@@ -109,10 +100,6 @@ Gangwon FC              1-2 Jeonbuk Hyundai Motors
 
 Final [Dec 6]
 Gwangju FC              1-2 Jeonbuk Hyundai Motors
-
-
-
-
 
 
 ==== K League 2  ‹§k2›

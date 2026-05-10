@@ -1,17 +1,12 @@
-  <!--
-     title:   Sint Maarten 2024/25
-     source:  https://rsssf.org/tabless/stmaarten2025.html
-     author:  Karel Stokkermans
-     updated: 8 Apr 2025
-    -->
+<!--
+   title:   Sint Maarten 2024/25
+   source:  https://rsssf.org/tabless/stmaarten2025.html
+   author:  Karel Stokkermans
+   updated: 8 Apr 2025
+  -->
 
 
 == Sint Maarten 2024/25
-
-
-
-
-
 ==== Sint Maarten Premier League  ‹§senior›
 
 Final Table:

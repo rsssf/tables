@@ -1,17 +1,12 @@
-  <!--
-     title:   Rodrigues 2024/25
-     source:  https://rsssf.org/tablesr/rodri2025.html
-     author:  Hans Schöggl
-     updated: 16 Oct 2025
-    -->
+<!--
+   title:   Rodrigues 2024/25
+   source:  https://rsssf.org/tablesr/rodri2025.html
+   author:  Hans Schöggl
+   updated: 16 Oct 2025
+  -->
 
 
 == Rodrigues 2024/25
-
-
-
-
-
 ==== Super League 2024/25  ‹§super›
 
 Final Table:
@@ -21,10 +16,6 @@ Final Table:
  3.Baladirou SC                 8   4  1  3  14-16  13
  4.L'Oiseau de l'Est            8   1  0  7   3-17   3
  5.Port Sud-Est Dragons         8   1  0  7   3-27   3
-
-
-
-
 
 
 ==== Rodrigues Day Cup 2024  ‹§rodcup›
@@ -145,10 +136,6 @@ Final [Mar 12]
 Sharks Baladirou             1-1 Rivière Coco Rising SC       [4-5 pen]
 
 
-
-
-
-
 ==== RRFA Division 1 2024/25  ‹§div1›
 
 Final Table:
@@ -158,10 +145,6 @@ Final Table:
  3.Roseaux FC                   8   3  0  5  12-20   9
  4.La Ferme Hearts              8   2  1  5   8-17   7
  5.U-20                         8   1  2  5  11-19   5
-
-
-
-
 
 
 ==== RRFA Division 2 2024/25  ‹§div2›

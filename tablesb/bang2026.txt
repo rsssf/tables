@@ -1,17 +1,12 @@
-  <!--
-     title:   Bangladesh 2025/26
-     source:  https://rsssf.org/tablesb/bang2026.html
-     author:  Karel Stokkermans
-     updated: 23 Dec 2025
-    -->
+<!--
+   title:   Bangladesh 2025/26
+   source:  https://rsssf.org/tablesb/bang2026.html
+   author:  Karel Stokkermans
+   updated: 23 Dec 2025
+  -->
 
 
 == Bangladesh 2025/26
-
-
-
-
-
 ==== Bangladesh Premier League 2025/26  ‹§nat›
 
 NB: eighteenth edition

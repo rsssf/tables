@@ -1,17 +1,12 @@
-  <!--
-     title:   Ethiopia 2025/26
-     source:  https://rsssf.org/tablese/ethi2026.html
-     author:  Karel Stokkermans
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Ethiopia 2025/26
+   source:  https://rsssf.org/tablese/ethi2026.html
+   author:  Karel Stokkermans
+   updated: 7 May 2026
+  -->
 
 
 == Ethiopia 2025/26
-
-
-
-
-
 ==== Ethiopia Premier League  ‹§epl›
 
 Table:

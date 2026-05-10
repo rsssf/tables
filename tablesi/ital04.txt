@@ -1,9 +1,9 @@
-  <!--
-     title:   Italy 2003/04
-     source:  https://rsssf.org/tablesi/ital04.html
-     authors: Andrea Ferrigno and Giacomo Giusti
-     updated: 19 Aug 2005
-    -->
+<!--
+   title:   Italy 2003/04
+   source:  https://rsssf.org/tablesi/ital04.html
+   authors: Andrea Ferrigno and Giacomo Giusti
+   updated: 19 Aug 2005
+  -->
 
 
 == Italy 2003/04
@@ -3046,8 +3046,6 @@ Final Table:
 18.L'Aquila                        34  2  7 25 26-52 13   Relegated
 
 
-
-
 Promotion Playoff
 
 Semifinals                                                        1st leg    2nd leg   Qualified team
@@ -3080,7 +3078,6 @@ Paternò                         - Vis Pesaro 1898                 0-0        1-
 
 In playoff tie if both teams are at the same level of goals the tie breaker is the final
 position in regular season
-
 
 
 Goal scorers (regular season):
@@ -3549,8 +3546,6 @@ Daniel Ola             (Teramo for Sora)              1
 Gianluca Zanetti       (Teramo for Martina)           1
 Ibrahiman Scandroglio  (Teramo for Catanzaro)         1
 Mauro Facci            (Teramo for Giulianova)        1
-
-
 
 
 Fourth Level 2003/04
@@ -4763,7 +4758,6 @@ Final Table:
 18.Rutigliano                   34  6 12 16 30-49 30  Relegated
 
 
-
 Promotion Playoff
 
 Semifinals                                  1st leg    2nd leg   Qualified team
@@ -4807,21 +4801,5 @@ Castel di Sangro     - Ragusa               0-1        3-2       Ragusa
 
 In playoff tie if both teams are at the same level of goals the tie breaker is the final
 position in regular season
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

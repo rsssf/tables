@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 2018/19
-     source:  https://rsssf.org/tablesi/ital2019.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   Italy 2018/19
+   source:  https://rsssf.org/tablesi/ital2019.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
 
 == Italy 2018/19
-
-
-
-
-
 ==== Serie A  ‹§seriea›
 
 Final Table:
@@ -666,10 +661,6 @@ NB: Chievo 3 points deducted for financial irregularities;
       but this was revoked on appeal
 
 
-
-
-
-
 ==== Coppa Italia  ‹§coppa›
 
 Round 1
@@ -874,14 +865,7 @@ Atalanta: Gollini, Palomino, Djimsiti, Masiello, Hateboer, de Roon (Pasalic 84),
   (Gosens 84), Ilicic, Gomez, Zapata (Barrow 84). Tr.: Gasperini.
 
 
-
-
-
-
-
 ==== Serie B  ‹§serieb›
-
-
 ===== Regular Season  ‹§2reg›
 
 Final Table:

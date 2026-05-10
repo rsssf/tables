@@ -1,17 +1,12 @@
-  <!--
-     title:   Turkmenistan 2025
-     source:  https://rsssf.org/tablest/turkm2025.html
-     author:  Theodore Dreiman
-     updated: 2 Apr 2026
-    -->
+<!--
+   title:   Turkmenistan 2025
+   source:  https://rsssf.org/tablest/turkm2025.html
+   author:  Theodore Dreiman
+   updated: 2 Apr 2026
+  -->
 
 
 == Turkmenistan 2025
-
-
-
-
-
 ==== Türkmenistan 1. Toparlar (Ýokary Liga)  ‹§yokary›
 
 Final Table:
@@ -410,9 +405,6 @@ Top scorers:
   Selim Nurmyradow (Altyn Asyr)      7  [Turkmenistan/Russia]
 
 
-
-
-
 ==== Turkmenistan Cup  ‹§cup›
 
 Quarterfinals
@@ -450,10 +442,6 @@ Final [Dec 27, Arkadag Stadiony, Arkadag]
 
 FC ARKADAG  2-1  Ahal (Änew)
   [Şamämmet Hydyrow 67 pen, 77; Ýakupmuhammet Gowşudow 24]
-
-
-
-
 
 
 ==== TFF-niň Kubogy  ‹§fedcup›

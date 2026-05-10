@@ -1,17 +1,12 @@
-  <!--
-     title:   Germany 2017/18
-     source:  https://rsssf.org/tablesd/duit2018.html
-     author:  Karel Stokkermans
-     updated: 9 May 2019
-    -->
+<!--
+   title:   Germany 2017/18
+   source:  https://rsssf.org/tablesd/duit2018.html
+   author:  Karel Stokkermans
+   updated: 9 May 2019
+  -->
 
 
 == Germany 2017/18
-
-
-
-
-
 ==== 1. Bundesliga  ‹§1bl›
 
 Final Table:
@@ -566,9 +561,6 @@ Kiel            0-1 Wolfsburg
 NB: both remain at former level
 
 
-
-
-
 ==== DFB Pokal  ‹§dfbpokal›
 
 Round 1
@@ -659,9 +651,6 @@ Final [May 19, Berlin]
 Eintracht Frankfurt    3-1 Bayern München
 
 
-
-
-
 ==== 2. Bundesliga  ‹§2bl›
 
 Final Table:
@@ -698,10 +687,6 @@ Second Leg [May 22]
 Aue             3-1 Karlsruhe
 
 NB: both remain at former level
-
-
-
-
 
 
 ==== 3. Liga  ‹§3bl›

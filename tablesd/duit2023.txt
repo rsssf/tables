@@ -1,17 +1,12 @@
-  <!--
-     title:   Germany 2022/23
-     source:  https://rsssf.org/tablesd/duit2023.html
-     author:  Karel Stokkermans
-     updated: 21 Nov 2023
-    -->
+<!--
+   title:   Germany 2022/23
+   source:  https://rsssf.org/tablesd/duit2023.html
+   author:  Karel Stokkermans
+   updated: 21 Nov 2023
+  -->
 
 
 == Germany 2022/23
-
-
-
-
-
 ==== 1. Bundesliga  ‹§1bl›
 
 Final Table:
@@ -564,9 +559,6 @@ Hamburg         1-3 Stuttgart
 NB: both remain at former level
 
 
-
-
-
 ==== 2. Bundesliga  ‹§2bl›
 
 Final Table:
@@ -603,9 +595,6 @@ Second Leg [Jun 6]
 Bielefeld       1-2 Wehen Wiesbaden
 
 NB: SV Wehen Wiesbaden promoted, Arminia Bielefeld relegated
-
-
-
 
 
 ==== 3. Liga  ‹§3bl›

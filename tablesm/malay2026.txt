@@ -1,17 +1,12 @@
-  <!--
-     title:   Malaysia 2025/26
-     source:  https://rsssf.org/tablesm/malay2026.html
-     author:  Karel Stokkermans
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Malaysia 2025/26
+   source:  https://rsssf.org/tablesm/malay2026.html
+   author:  Karel Stokkermans
+   updated: 7 May 2026
+  -->
 
 
 == Malaysia 2025/26
-
-
-
-
-
 ==== Liga Super 2025/26  ‹§super›
 
 Table:
@@ -396,13 +391,7 @@ NB: Kedah Darul Aman FC and Perak FC expelled due to financial problems;
     Sri Pahang FC withdrew
 
 
-
-
-
-
 ==== Cup Tournaments 2025/26  ‹§cups›
-
-
 ===== Piala Malaysia 2025/26  ‹§piala›
 
 1/8 Finals

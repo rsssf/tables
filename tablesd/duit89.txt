@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1988/89
-     source:  https://rsssf.org/tablesd/duit89.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1988/89
+   source:  https://rsssf.org/tablesd/duit89.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1988/89
-
 
 Final Table
 

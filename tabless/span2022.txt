@@ -1,17 +1,12 @@
-  <!--
-     title:   Spain 2021/22
-     source:  https://rsssf.org/tabless/span2022.html
-     author:  Karel Stokkermans
-     updated: 28 Jun 2023
-    -->
+<!--
+   title:   Spain 2021/22
+   source:  https://rsssf.org/tabless/span2022.html
+   author:  Karel Stokkermans
+   updated: 28 Jun 2023
+  -->
 
 
 == Spain 2021/22
-
-
-
-
-
 ==== Primera División  ‹§laliga›
 
 Final Table:
@@ -658,10 +653,6 @@ Final Table:
 20.Deportivo Alavés (Vitoria)    38   8  7 23  31-65  31       Relegated
 
 
-
-
-
-
 ==== Segunda División  ‹§segunda›
 
 Final Table:
@@ -717,13 +708,7 @@ Second Leg [Jun 19]
 Tenerife                  1-3 Girona
 
 
-
-
-
-
 ==== Primera RFEF  ‹§1rfef›
-
-
 ===== Grupo 1  ‹§3g1›
 
 Final Table:

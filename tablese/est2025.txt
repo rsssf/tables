@@ -1,17 +1,12 @@
-  <!--
-     title:   Estonia 2025
-     source:  https://rsssf.org/tablese/est2025.html
-     author:  Karel Stokkermans
-     updated: 14 Dec 2025
-    -->
+<!--
+   title:   Estonia 2025
+   source:  https://rsssf.org/tablese/est2025.html
+   author:  Karel Stokkermans
+   updated: 14 Dec 2025
+  -->
 
 
 == Estonia 2025
-
-
-
-
-
 ==== Premium liiga 2025  ‹§meistri›
 
 Final Table:
@@ -38,9 +33,6 @@ Second Leg [Nov 29]
 Kuressaare            2-0 Viimsi
 
 NB: both remain at former level
-
-
-
 
 
 ==== Evald Tipneri Karikas 2024/25  ‹§karikas›
@@ -76,10 +68,6 @@ Final [May 24, Lilleküla Stadium, Tallinn]
 Kalju Nõmme           3-3 Tallinna Levadia      [aet, 4-1 pen]
 
 
-
-
-
-
 ==== Esiliiga 2025  ‹§esi›
 
 Final Table:
@@ -110,9 +98,6 @@ Tallinn               1-0 Phoenix
 NB: both remain at former level
 
 
-
-
-
 ==== Esiliiga B 2025  ‹§esb›
 
 Final Table:
@@ -141,9 +126,6 @@ Second Leg [Nov 22]
 Paide U-21            3-2 Tulevik
 
 NB: Viljandi JK Tulevik promoted, Paide linnameeskond U-21 relegated
-
-
-
 
 
 ==== Teine liiga 2025  ‹§teine›

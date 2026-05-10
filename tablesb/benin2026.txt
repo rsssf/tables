@@ -1,17 +1,12 @@
-  <!--
-     title:   Benin 2025/26
-     source:  https://rsssf.org/tablesb/benin2026.html
-     author:  Karel Stokkermans
-     updated: 2 Apr 2026
-    -->
+<!--
+   title:   Benin 2025/26
+   source:  https://rsssf.org/tablesb/benin2026.html
+   author:  Karel Stokkermans
+   updated: 2 Apr 2026
+  -->
 
 
 == Benin 2025/26
-
-
-
-
-
 ==== Ligue de Football Pro du Bénin  ‹§lig1›
 
 Table:

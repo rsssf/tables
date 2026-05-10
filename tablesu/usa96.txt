@@ -1,9 +1,9 @@
-  <!--
-     title:   USA 1996
-     source:  https://rsssf.org/tablesu/usa96.html
-     author:  Dave Litterer
-     updated: 7 Aug 2004
-    -->
+<!--
+   title:   USA 1996
+   source:  https://rsssf.org/tablesu/usa96.html
+   author:  Dave Litterer
+   updated: 7 Aug 2004
+  -->
 
 
 == USA 1996
@@ -686,7 +686,6 @@ DC United   3-2 Los Angeles (aet) (34,643)
    Hurtado (Cienfuegos) 5, Armas 56]
 
 
-
                              A-LEAGUE (2nd Division)
 
                            GP   W   L  SW   GF  GA  Pts
@@ -1063,15 +1062,5 @@ DC United 3-0 Rochester Raging Rhinos
         1-0     Diaz Arce            45'
         2-0     Pope                 63'
         3-0     Moreno               90'
-
-
-
-
-
-
-
-
-
-
 
 

@@ -1,22 +1,15 @@
-  <!--
-     title:   Mexico 2011/12
-     source:  https://rsssf.org/tablesm/mex2012.html
-     authors: Erik Francisco Lugo and Juan Pablo Andrés
-     updated: 18 Feb 2021
-    -->
+<!--
+   title:   Mexico 2011/12
+   source:  https://rsssf.org/tablesm/mex2012.html
+   authors: Erik Francisco Lugo and Juan Pablo Andrés
+   updated: 18 Feb 2021
+  -->
 
 
 == Mexico 2011/12
-
-
-
-
-
 ==== Primera División Nacional  ‹§pdn›
 
-
 ===== Apertura 2011  ‹§1aper›
-
 
 Regular Stage  ‹§apreg›
 
@@ -551,7 +544,6 @@ Tigres            3-1 Santos
   [Héctor Raúl Mancilla 51, Danilo Verón 63, Alan Pulido 86; Oribe Peralta 30]
 
 
-
 Tigres UANL roster team
 
 Enrique Palos      GK
@@ -573,7 +565,6 @@ Alan Pulido      FWD
 Coach: Ricardo Ferreti (BRA)
 
 
-
 Copa Libertadores 2012 qualification
 
 NB: top-3 of Apertura 2011 Final Table qualify
@@ -592,7 +583,6 @@ NB: Guadalajara and Cruz Azul qualified to Group Phase,
 
 
 ===== Clausura 2012  ‹§1clau›
-
 
 Regular Stage  ‹§clreg›
 
@@ -1035,7 +1025,6 @@ Table:
 18.Estudiantes UAG                     17   2  6  9  12-28   12 (relegated)
 
 
-
 Relegation Table
 
 Team         Average
@@ -1162,17 +1151,8 @@ Carlos Ochoa      FWD
 Coach: Benjamín Galindo
 
 
-
-
-
-
-
-
 ==== Liga de Ascenso  ‹§ascenso›
-
-
 ===== Apertura 2011  ‹§2aper›
-
 
 Changes before season:
 - Alacranes de Durango and Albinegros de Orizaba decline to take part.
@@ -1499,13 +1479,11 @@ La Piedad         0-1 Correcaminos UAT
 
 ===== Clausura 2012  ‹§2clau›
 
-
 Change before season:
 
 - Indios (Ciudad Juárez) withdrew
 
 ====== Regular Stage  ‹§2claureg›
-
 
 Table:
 
@@ -1753,7 +1731,6 @@ NB: winners qualify to semifinals;
 
 ====== Playoff Stage  ‹§2clauplay›
 
-
 León bye to Semifinals
 
 Quarterfinals
@@ -1797,7 +1774,6 @@ León              4-0 Lobos BUAP
 León Clausura champions
 
 ===== Promotion Playoff  ‹§2prom›
-
 
 Championship Final
 

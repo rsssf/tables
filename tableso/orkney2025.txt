@@ -1,17 +1,12 @@
-  <!--
-     title:   Orkney 2025
-     source:  https://rsssf.org/tableso/orkney2025.html
-     author:  Hans Schöggl
-     updated: 29 Jan 2026
-    -->
+<!--
+   title:   Orkney 2025
+   source:  https://rsssf.org/tableso/orkney2025.html
+   author:  Hans Schöggl
+   updated: 29 Jan 2026
+  -->
 
 
 == Orkney 2025
-
-
-
-
-
 ==== A-League  ‹§aleague›
 
 Final Table:
@@ -85,13 +80,7 @@ Final Table:
  6.Hotspurs          10   2  1  7  11-16   7  Relegated
 
 
-
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== Parish Cup  ‹§parish›
 
 Round 1
@@ -275,9 +264,6 @@ Dounby                1-1 Thorfinn              [4-2 pen]
 
 Final [Sep 2]
 Rovers                0-3 Dounby
-
-
-
 
 
 ==== B-League  ‹§bleague›

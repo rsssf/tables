@@ -1,19 +1,13 @@
-  <!--
-     title:   Cook Islands 2025
-     source:  https://rsssf.org/tablesc/cook2025.html
-     author:  Karel Stokkermans
-     updated: 25 Nov 2025
-    -->
+<!--
+   title:   Cook Islands 2025
+   source:  https://rsssf.org/tablesc/cook2025.html
+   author:  Karel Stokkermans
+   updated: 25 Nov 2025
+  -->
 
 
 == Cook Islands 2025
-
-
-
-
-
 ==== Rarotonga  ‹§rarotonga›
-
 
 ===== Round Cup 2025  ‹§raroround›
 

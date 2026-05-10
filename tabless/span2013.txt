@@ -1,17 +1,12 @@
-  <!--
-     title:   Spain 2012/13
-     source:  https://rsssf.org/tabless/span2013.html
-     author:  Karel Stokkermans
-     updated: 13 Sep 2018
-    -->
+<!--
+   title:   Spain 2012/13
+   source:  https://rsssf.org/tabless/span2013.html
+   author:  Karel Stokkermans
+   updated: 13 Sep 2018
+  -->
 
 
 == Spain 2012/13
-
-
-
-
-
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
 Final Table:
@@ -643,9 +638,6 @@ Final Table:
 20.Real Zaragoza                 38   9  7 22  37-62  34  Relegated
 
 
-
-
-
 ==== Copa del Rey  ‹§coparey›
 
 Round 1
@@ -820,10 +812,6 @@ Sevilla FC                2-2 Atlético de Madrid
 
 Final [May 17, Madrid]
 Real Madrid CF            1-2 Atlético de Madrid        [aet]
-
-
-
-
 
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›

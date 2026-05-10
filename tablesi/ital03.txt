@@ -1,13 +1,12 @@
-  <!--
-     title:   Italy 2002/03
-     source:  https://rsssf.org/tablesi/ital03.html
-     authors: Giacomo Giusti, Francesco Gullo and Dario Desio
-     updated: 31 Aug 2003
-    -->
+<!--
+   title:   Italy 2002/03
+   source:  https://rsssf.org/tablesi/ital03.html
+   authors: Giacomo Giusti, Francesco Gullo and Dario Desio
+   updated: 31 Aug 2003
+  -->
 
 
 == Italy 2002/03
-
 
 First Level (Serie A)
 
@@ -3623,17 +3622,5 @@ Group B   Sassuolo     Imolese       1-2   1-2
    Fano        Castel di Sangro    0-0   2-0
 Group C   Tivoli 1919  Gela Juve Terranova 0-0   2-0
    Lodigiani    Olbia       1-2   0-3
-
-
-
-
-
-
-
-
-
-
-
-
 
 

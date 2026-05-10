@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1991/92
-     source:  https://rsssf.org/tableso/oost92.html
-     author:  Ambrosius Kutschera
-     updated: 16 Apr 2003
-    -->
+<!--
+   title:   Austria 1991/92
+   source:  https://rsssf.org/tableso/oost92.html
+   author:  Ambrosius Kutschera
+   updated: 16 Apr 2003
+  -->
 
 
 == Austria 1991/92
@@ -469,14 +469,5 @@ LUV Graz
 After the season, DSV Alpine were renamed DSV Leoben.
 
 Cup winners: Austria Wien
-
-
-
-
-
-
-
-
-
 
 

@@ -1,17 +1,12 @@
-  <!--
-     title:   Croatia 2024/25
-     source:  https://rsssf.org/tablesk/kroa2025.html
-     author:  Brunislav Matasović
-     updated: 31 Jul 2025
-    -->
+<!--
+   title:   Croatia 2024/25
+   source:  https://rsssf.org/tablesk/kroa2025.html
+   author:  Brunislav Matasović
+   updated: 31 Jul 2025
+  -->
 
 
 == Croatia 2024/25
-
-
-
-
-
 ==== Croatian League  ‹§0hnl›
 
 NB: Only teams placed 9th or better, that have valid licence for the  Croatian league,
@@ -427,9 +422,6 @@ NB: due to not having a valid license for the First league, Šibenik are demoted
     the third league (group South)
 
 
-
-
-
 ==== Kup HNS-a  ‹§kup›
 
 Preliminary round (28. 8. 2024.):
@@ -496,10 +488,6 @@ Rijeka - Istra Pula                                        1:0
 Final (14. 5. 2025. and 29. 5. 2025.):
 ======================================
 Slaven Belupo Koprivnica - Rijeka                          1:1 0:1
-
-
-
-
 
 
 ==== 1. HNL  ‹§1hnl›
@@ -733,10 +721,6 @@ Rnd  Date         Home Team                    Away Team                    F  A
  33    1.6.2025.  Jarun Zagreb                 Orijent Rijeka               1  4
  33    1.6.2025.  Rudeš Zagreb                 Sesvete                      1  3
  33    1.6.2025.  Vukovar 1991                 Opatija                      1  0
-
-
-
-
 
 
 ==== 2. HNL  ‹§2hnl›
@@ -1008,10 +992,6 @@ Rnd  Date         Home Team                    Away Team                    F  A
  30   31.5.2025.  Karlovac 1919                Kustošija Zagreb             1  0
  30   31.5.2025.  Trnje Zagreb                 Radnik Križevci              4  5
  30   31.5.2025.  Uljanik Pula                 Dugo Selo                    1  1
-
-
-
-
 
 
 ==== Fourth Level  ‹§3hnl›
@@ -2342,10 +2322,6 @@ Rnd  Date         Home Team                 Away Team                 F  A
  30   31.5.2025.  Zmaj Makarska             Kamen Ivanbegovina        1  3
 
 Promotion play-off was not held since all teams that earned the place in promotion play-off has been promoted directly.
-
-
-
-
 
 
 ==== Fifth Level  ‹§4hnl›
@@ -4317,10 +4293,6 @@ Rnd  Date         Home Team          Away Team          F  A
  27   31.5.2025.  Umag               Lokomotiva Rijeka  3  1
  27   31.5.2025.  Zamet Rijeka       Mladost Fažana     2  1
  27   31.5.2025.  Žminj              Ližnjan            0  2
-
-
-
-
 
 
 ==== Sixth Level (1st County Leagues)  ‹§5hnl›
@@ -8501,10 +8473,6 @@ Rnd  Date         Home Team               Away Team               F   A
  26    1.6.2025.  Podgorje                Đurađ                    7   1
  26    1.6.2025.  Slavonija Sladojevci    Orešac                  10   0
  26    1.6.2025.  Standard Nova Šarovka   DOŠK Dolci               1   2
-
-
-
-
 
 
 ==== Seventh Level  ‹§6hnl›
@@ -13256,10 +13224,6 @@ Rnd  Date         Home Team            Away Team            F   A
  21   24.5.2025.  Kladare              Graničar Okrugljača   3   3
  21   24.5.2025.  Stara Brezovica      Gradina               5   8
  21   24.5.2025.  Turnašica            Plavi Jugovo Polje   10   0
-
-
-
-
 
 
 ==== Eighth Level  ‹§7hnl›

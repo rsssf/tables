@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1987/88
-     source:  https://rsssf.org/tablesd/duit88.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1987/88
+   source:  https://rsssf.org/tablesd/duit88.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1987/88
-
 
 Final Table
 
@@ -649,6 +648,5 @@ Werder Bremen 1987/88
         Thomas SCHAAF        29  (2332) + 1
       Miroslav VOTAVA CZE    32  (2862) + 2
         Thomas WOLTER        16  (1098)
-
 
 

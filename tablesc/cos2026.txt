@@ -1,23 +1,15 @@
-  <!--
-     title:   Costa Rica 2025/26
-     source:  https://rsssf.org/tablesc/cos2026.html
-     author:  Karel Stokkermans
-     updated: 23 Dec 2025
-    -->
+<!--
+   title:   Costa Rica 2025/26
+   source:  https://rsssf.org/tablesc/cos2026.html
+   author:  Karel Stokkermans
+   updated: 23 Dec 2025
+  -->
 
 
 == Costa Rica 2025/26
-
-
-
-
-
 ==== Primera División  ‹§primera›
 
-
 ===== Campeonato Apertura 2025  ‹§1aper›
-
-
 ====== Regular Stage  ‹§1aperreg›
 
 Final Table:
@@ -261,12 +253,9 @@ NB: Alajuelense qualified for ‹Final, see §1aperfin›
 NB: cancelled as Alajuelense won both the ‹Regular Stage, see §1aperreg› and the ‹Playoff Stage, see §1aperplayoff›
 
 ===== Campeonato Clausura 2026  ‹§1clau›
-
-
 ====== Regular Stage  ‹§1claureg›
 
 ====== Playoff Stage  ‹§1clauplayoff›
-
 ====== Final  ‹§1claufin›
 
 NB: between winners ‹Regular Stage, see §1claureg› and winners ‹Playoff Stage, see §1clauplayoff›

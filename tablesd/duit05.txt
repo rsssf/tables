@@ -1,9 +1,9 @@
-  <!--
-     title:   Germany 2004/05
-     source:  https://rsssf.org/tablesd/duit05.html
-     authors: Lars Kubusch, Daniel Dalence, Roberto Di Maggio and Anthony Zea
-     updated: 17 Aug 2005
-    -->
+<!--
+   title:   Germany 2004/05
+   source:  https://rsssf.org/tablesd/duit05.html
+   authors: Lars Kubusch, Daniel Dalence, Roberto Di Maggio and Anthony Zea
+   updated: 17 Aug 2005
+  -->
 
 
 == Germany 2004/05
@@ -1064,7 +1064,6 @@ Topscorers:
    Roque Santa Cruz   (FC Bayern München)      3
 
 
-
 Second Level 2004/05
 
 
@@ -1871,7 +1870,6 @@ Hrvoje Vukovic      (Wacker for Erfurt)          1
 Martin Forkel       (Wacker for Alemannia)       1
 Nico Herzig         (Wacker for Oberhausen)      1
 Ronald Schmidt      (Wacker for Essen)           1
-
 
 
 Third Level 2004/05
@@ -3537,26 +3535,5 @@ MSV Neuruppin         0-2  Carl Zeiss Jena
 Carl Zeiss Jena         2-1  MSV Neuruppin
 
 Carl Zeiss Jena promoted to Regionalliga.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

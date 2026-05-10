@@ -1,17 +1,12 @@
-  <!--
-     title:   Morocco 2024/25
-     source:  https://rsssf.org/tablesm/maro2025.html
-     author:  Karel Stokkermans
-     updated: 31 Oct 2025
-    -->
+<!--
+   title:   Morocco 2024/25
+   source:  https://rsssf.org/tablesm/maro2025.html
+   author:  Karel Stokkermans
+   updated: 31 Oct 2025
+  -->
 
 
 == Morocco 2024/25
-
-
-
-
-
 ==== GNF I  ‹§gnf1›
 
 Final Table:
@@ -482,9 +477,6 @@ JS Soualem         0-3 Olympique Dcheira
 HUS Agadir         1-0 Raja Béni Mellal
 
 NB: Olympique Dcheira promoted, JS Soualem relegated
-
-
-
 
 
 ==== GNF II  ‹§gnf2›

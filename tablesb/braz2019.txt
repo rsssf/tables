@@ -1,17 +1,12 @@
-  <!--
-     title:   Brazil 2019
-     source:  https://rsssf.org/tablesb/braz2019.html
-     author:  RSSSF Brazil
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2019
+   source:  https://rsssf.org/tablesb/braz2019.html
+   author:  RSSSF Brazil
+   updated: 8 Dec 2025
+  -->
 
 
 == Brazil 2019
-
-
-
-
-
 ==== Série A  ‹§sa›
 
 Final Table:
@@ -641,9 +636,6 @@ Final Table:
 Promoted: Bragantino, Sport Recife, Coritiba, Atlético Goianiense
 
 
-
-
-
 ==== Copa do Brasil  ‹§cb›
 
 Participants
@@ -1066,20 +1058,12 @@ Internacional/RS      1-2  Athletico/PR
   [Nico López 30; Léo Cittadini 23, Rony 90+6]
 
 
-
-
-
-
 ==== Supercopa do Brasil 2020  ‹§supcb›
 
 NB: between 2019 champions and cup winners
 
 [Feb 16, 2020, Brasília]
 Flamengo/RJ           3-0  Athletico/PR
-
-
-
-
 
 
 ==== Série B  ‹§sb›

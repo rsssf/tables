@@ -1,17 +1,12 @@
-  <!--
-     title:   Brazil 2024
-     source:  https://rsssf.org/tablesb/braz2024.html
-     author:  Karel Stokkermans
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2024
+   source:  https://rsssf.org/tablesb/braz2024.html
+   author:  Karel Stokkermans
+   updated: 8 Dec 2025
+  -->
 
 
 == Brazil 2024
-
-
-
-
-
 ==== Série A  ‹§sa›
 
 Final Table:
@@ -632,10 +627,6 @@ Final Table:
 20.Cuiabá                38   6 12 20  29-49  30       Relegated
 
 
-
-
-
-
 ==== Copa do Brasil 2024  ‹§cb›
 
 1/8 Finals
@@ -705,10 +696,6 @@ Second Leg [Nov 10]
 Atlético/MG     0-1 Flamengo
 
 
-
-
-
-
 ==== Série B  ‹§sb›
 
 Final Table:
@@ -735,10 +722,6 @@ Final Table:
 18.Ituano                38  11  4 23  43-63  37       Relegated
 19.Brusque               38   8 12 18  24-44  36  [P]  Relegated
 20.Guarani               38   8  9 21  33-53  33       Relegated
-
-
-
-
 
 
 ==== Série C  ‹§sc›

@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1985/86
-     source:  https://rsssf.org/tablesd/duit86.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1985/86
+   source:  https://rsssf.org/tablesd/duit86.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1985/86
-
 
 Final Table
 

@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1988/89
-     source:  https://rsssf.org/tableso/oost89.html
-     author:  Ambrosius Kutschera
-     updated: 6 Jul 2003
-    -->
+<!--
+   title:   Austria 1988/89
+   source:  https://rsssf.org/tableso/oost89.html
+   author:  Ambrosius Kutschera
+   updated: 6 Jul 2003
+  -->
 
 
 == Austria 1988/89
@@ -482,15 +482,5 @@ Promoted to the 2.Bundesliga:
 LUV Graz (Mitte)
 ASV Austria Vösendorf (Ost)
 WSG Wattens (West)
-
-
-
-
-
-
-
-
-
-
 
 

@@ -1,9 +1,9 @@
-  <!--
-     title:   England 1994/95
-     source:  https://rsssf.org/tablese/eng95.html
-     authors: Michael Heneghan, James Ross, Stephen Mulrine and Rob Monger
-     updated: 4 Nov 2011
-    -->
+<!--
+   title:   England 1994/95
+   source:  https://rsssf.org/tablese/eng95.html
+   authors: Michael Heneghan, James Ross, Stephen Mulrine and Rob Monger
+   updated: 4 Nov 2011
+  -->
 
 
 == England 1994/95
@@ -1279,8 +1279,6 @@ Paatelainen 105                  Quinn 120
 after extra time                 (Lovell missed penalty 34)
 
 
-
-
 England Third Division 1994/95 ("Division Two")
 
     Division Two              P  W  D  L   F   A  W  D  L   F   A Pts  (Gls)
@@ -1335,7 +1333,6 @@ Final 28th May at Wembley
 
 Bristol Rovers            (1) 1  Huddersfield Town         (1) 2  59175
 Stewart 45                       Booth 44.5  Billy 81
-
 
 
 England Fourth Division 1994/95 ("Division Three")
@@ -1393,7 +1390,6 @@ Final 27th May at Wembley
 
 Chesterfield              (2) 2  Bury                      (0) 0  22814
 Robinson 23 41
-
 
 
 England Fifth Division 1994/95 ("Vauxhall Conference")
@@ -1611,7 +1607,6 @@ Aveley                 42   4   5  12  24  41   5   0  16  24  54   32  -47
 Malden Vale            42   3   5  13  28  50   2   4  15  18  58   24  -62
 
 
-
                              DIVISION THREE
                              ==============
                                   HOME                AWAY
@@ -1638,7 +1633,6 @@ Feltham & Hounslow     40   6   3  11  33  41   7   1  12  31  46   43  -23
 Flackwell Heath        40   6   2  12  28  43   2   2  16  22  56   28  -49
 Lewes                  40   4   3  13  18  48   2   2  16  16  56   23  -70
 Cove                   40   3   3  14  21  38   0   2  18  16  56   14  -57
-
 
 
                     PROMOTION AND RELEGATION ISSUES
@@ -1674,7 +1668,6 @@ Relegated:      - Aveley
 Resigned:       - Malden Vale
 
 
-
 DIVISION THREE
 ==============
 
@@ -1682,6 +1675,5 @@ Champions:      - Collier Row
 Also promoted:  - Canvey Island
                   Bedford Town
 Resigned:       - Feltham & Houslow
-
 
 

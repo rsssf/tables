@@ -1,19 +1,13 @@
-  <!--
-     title:   Puerto Rico 2025/26 (Clausura 2026)
-     source:  https://rsssf.org/tablesp/p-rico2026a.html
-     author:  Karel Stokkermans
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Puerto Rico 2025/26 (Clausura 2026)
+   source:  https://rsssf.org/tablesp/p-rico2026a.html
+   author:  Karel Stokkermans
+   updated: 5 May 2026
+  -->
 
 
 == Puerto Rico 2025/26 (Clausura 2026)
-
-
-
-
-
 ==== Liga Puerto Rico Pro  ‹§lpr›
-
 
 ====== Regular Stage  ‹§apreg›
 
@@ -222,5 +216,4 @@ Table:
 11.Mayagüez FC                          15   0  0 15   6-151  0
 
 ====== Playoff Stage  ‹§appo›
-
 

@@ -1,17 +1,12 @@
-  <!--
-     title:   Austria 2009/10
-     source:  https://rsssf.org/tableso/oost2010.html
-     authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
-     updated: 7 Mar 2023
-    -->
+<!--
+   title:   Austria 2009/10
+   source:  https://rsssf.org/tableso/oost2010.html
+   authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
+   updated: 7 Mar 2023
+  -->
 
 
 == Austria 2009/10
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
 
 Final Table:
@@ -385,11 +380,7 @@ Final Table:
 [*] FC Magna were renamed SC Wiener Neustadt
 
 
-
-
-
 ==== ÖFB Cup  ‹§cup›
-
 
 Round 1
 [Aug 14]
@@ -477,9 +468,6 @@ Ried            0-1 Sturm
 
 Final [May 16, Klagenfurt]
 Wiener Neustadt 0-1 Sturm
-
-
-
 
 
 ==== 1. Liga (Second Level)  ‹§1liga›
@@ -846,10 +834,6 @@ Final Table:
     reserve sides will be barred from the second level 2010/11
 
 
-
-
-
-
 ==== Promotion/Relegation 2nd/3rd level  ‹§prorel›
 
 First Leg [Jun 8]
@@ -865,13 +849,7 @@ NB: as Austria Kärnten did not obtain a license, the playoff between
     at the 2nd level
 
 
-
-
-
-
 ==== Regionalliga  ‹§regliga›
-
-
 ===== Regionalliga West  ‹§regwest›
 
 Final Table:
@@ -944,10 +922,6 @@ Final Table:
     FC Admira (A) are not eligible for promotion
 
 
-
-
-
-
 ==== SFV (Salzburg) Cup 2009/10  ‹§salzcup›
 
 1/8 Finals
@@ -976,9 +950,6 @@ SC Leogang                    0-1 TSV Neumarkt
 
 Final [Jun 9]
 TSV Neumarkt                  1-2 USK Anif                      [aet]
-
-
-
 
 
 ==== Woche Steirer Cup 2009/10  ‹§steicup›

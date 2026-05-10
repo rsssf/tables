@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 2012/13
-     source:  https://rsssf.org/tablesi/ital2013.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   Italy 2012/13
+   source:  https://rsssf.org/tablesi/ital2013.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
 
 == Italy 2012/13
-
-
-
-
-
 ==== Serie A  ‹§seriea›
 
 Final Table:
@@ -610,10 +605,6 @@ Final Table:
 20.Delfino Pescara     38   6  4 28  27-84  22  Relegated
 
 
-
-
-
-
 ==== Coppa Italia  ‹§coppa›
 
 First Round
@@ -828,12 +819,7 @@ Lazio: Marchetti, Konko, Biava, Cana, Radu, Ledesma
  (92 Ciani), Lulic, Klose. Tr.: Petkovic
 
 
-
-
-
 ==== Serie B  ‹§serieb›
-
-
 ===== Regular Season  ‹§2reg›
 
 Final Table:

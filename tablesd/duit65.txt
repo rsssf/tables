@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1964/65
-     source:  https://rsssf.org/tablesd/duit65.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1964/65
+   source:  https://rsssf.org/tablesd/duit65.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1964/65
-
 
 Final Table
 
@@ -490,7 +489,5 @@ Werder Bremen 1964/65
         Heinz STEINMANN      26  (2340)
        Dieter THUN            2  ( 180)
       Gerhard ZEBROWSKI      28  (2520)  +11
-
-
 
 

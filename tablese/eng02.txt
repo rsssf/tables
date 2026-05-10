@@ -1,9 +1,9 @@
-  <!--
-     title:   England 2001/02
-     source:  https://rsssf.org/tablese/eng02.html
-     authors: Ian King, Daniel Dalence Garcia and Matthew Perry
-     updated: 15 Feb 2006
-    -->
+<!--
+   title:   England 2001/02
+   source:  https://rsssf.org/tablese/eng02.html
+   authors: Ian King, Daniel Dalence Garcia and Matthew Perry
+   updated: 15 Feb 2006
+  -->
 
 
 == England 2001/02
@@ -1402,7 +1402,6 @@ Blackburn        2-1 Tottenham
   [Jansen 25, Cole 69; Ziege 33]
 
 
-
 First Division
 
 Final Table:
@@ -2272,7 +2271,6 @@ Birmingham City  1-1 Norwich City           [aet, 4-2 pen]
   [Horsfield 102; Roberts 91]
 
 Birmingham City promoted.
-
 
 
 Nationwide Football League Division 2
@@ -3148,7 +3146,6 @@ Cheltenham Town      3-1  Rushden and Diamonds
   [Martin Devaney 27, Julian Alsop 49, John Finnigan 80; Paul Hall 28]
 
 
-
 Fifth Level
 
 Football Conference
@@ -3289,13 +3286,5 @@ Promoted to Conference: Gravesend & Northfleet
 Relegated to Division One South: Croydon
 Promoted from Division One: Ford United, Bishop's Stortford and
                             Aylesbury United
-
-
-
-
-
-
-
-
 
 

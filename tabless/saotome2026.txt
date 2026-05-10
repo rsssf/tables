@@ -1,16 +1,12 @@
-  <!--
-     title:   São Tomé e Príncipe 2026
-     source:  https://rsssf.org/tabless/saotome2026.html
-     author:  José Batalha
-     updated: 7 May 2026
-    -->
+<!--
+   title:   São Tomé e Príncipe 2026
+   source:  https://rsssf.org/tabless/saotome2026.html
+   author:  José Batalha
+   updated: 7 May 2026
+  -->
 
 
 == São Tomé e Príncipe 2026
-
-
-
-
 
 NB: there are two separate championships, one of the island
     of São Tomé and one for the island of Príncipe.
@@ -19,22 +15,13 @@ NB: there are two separate championships, one of the island
 ‹Cup Tournaments, see §tacas›
 
 
-
-
-
 ==== Campeonato Nacional  ‹§camp›
 
 Champions ‹São Tomé, see §saotome›:
 Champions ‹Príncipe, see §principe›
 
 
-
-
-
-
 ==== São Tomé Championship  ‹§saotome›
-
-
 ===== First Level  ‹§saotome1›
 
 NB: Vitória Riboque only club never to have been relegated.
@@ -280,10 +267,6 @@ Table:
 10.Benfica Porto Alegre   3   0  0  3   4- 9   0
 
 
-
-
-
-
 ==== Príncipe Championship  ‹§principe›
 
 Participants (6):
@@ -335,12 +318,7 @@ Table:
  6.UDAPB                  1   0  0  1   0- 6   0
 
 
-
-
-
-
 ==== Cup Tournaments  ‹§tacas›
-
 ===== Taça Nacional  ‹§tacanac›
 
 São Tomé Island

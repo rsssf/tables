@@ -1,21 +1,12 @@
-  <!--
-     title:   World Cup 2022 Qualifying
-     source:  https://rsssf.org/tables/2022q.html
-     author:  Roberto Di Maggio
-     updated: 19 Feb 2024
-    -->
+<!--
+   title:   World Cup 2022 Qualifying
+   source:  https://rsssf.org/tables/2022q.html
+   author:  Roberto Di Maggio
+   updated: 19 Feb 2024
+  -->
 
 
 == World Cup 2022 Qualifying
-
-
-  
-
-
-
-
-
-
 ==== Europe  ‹§eur›
 
 Group A
@@ -396,9 +387,6 @@ Final
 NB: Wales, Poland and Portugal qualified
 
 
-
-
-
 ==== South America  ‹§sam›
 
 NB: 5th placed team qualify for playoff against AFC 5th placed team (Australia)
@@ -511,9 +499,6 @@ AFC/CONMEBOL Playoff
 13- 6-22 Al-Rayyan       Australia     0-0 Peru          [aet, 5-4 pen.]
 
 NB: Australia qualified
-
-
-
 
 
 ==== Africa  ‹§afr›
@@ -771,10 +756,6 @@ Second Legs
 29- 3-22 Tunis           Tunisia       0-0 Mali
 
 NB: Senegal, Cameroon, Ghana, Morocco and Tunisia qualified
-
-
-
-
 
 
 ==== Asia  ‹§asi›
@@ -1138,11 +1119,7 @@ AFC/CONMEBOL Playoff
 NB: Australia qualified
 
 
-
-
-
 ==== North and Central America  ‹§nca›
-
 
 Mexico, United States, Costa Rica, Jamaica and Honduras byes to third round.
 
@@ -1345,12 +1322,7 @@ OFC/CONCACAF Playoff
 NB: Costa Rica qualified
 
 
-
-
-
-
 ==== Oceania  ‹§oce›
-
 
 Preliminary Round
 
@@ -1400,7 +1372,5 @@ OFC/CONCACAF Playoff
 14- 6-22 Al-Rayyan       Costa Rica    1-0 New Zealand
 
 NB: Costa Rica qualified
-
-
 
 

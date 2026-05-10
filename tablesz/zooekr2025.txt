@@ -1,17 +1,12 @@
-  <!--
-     title:   Crimea and South Eastern Ukraine 2025
-     source:  https://rsssf.org/tablesz/zooekr2025.html
-     author:  Theodore Dreiman
-     updated: 24 Mar 2026
-    -->
+<!--
+   title:   Crimea and South Eastern Ukraine 2025
+   source:  https://rsssf.org/tablesz/zooekr2025.html
+   author:  Theodore Dreiman
+   updated: 24 Mar 2026
+  -->
 
 
 == Crimea and South Eastern Ukraine 2025
-
-
-
-
-
 ==== Commonwealth United Championship 2025  ‹§bezetoekr›
 
 Final Table:
@@ -346,9 +341,6 @@ Top scorers:
   Nikoláj Vereténnikov (Zaporóžje RS)   8
 
 
-
-
-
 ==== Commonwealth United Cup 2025  ‹§bezetoekrc›
 
 PRELIMINARY STAGE
@@ -500,10 +492,6 @@ Top scorers:
   Jarosláv Júdin (Černomórec)      4
 
 
-
-
-
-
 ==== Commonwealth Winter Cup 2025  ‹§bezetoekrwc›
 
 Group Stage
@@ -554,12 +542,7 @@ Final [Mar 8]
 Šahtjór (Donéck)  0-2  Rubín (Yálta)
 
 
-
-
-
-
 ==== Crimea 2025  ‹§krim›
-
 ===== CFU Premier League 2025  ‹§krimpl›
 
 Final Table:
@@ -1533,12 +1516,7 @@ Final Table:
 CYPTC = Children and Youth Physical Training Club
 
 
-
-
-
-
 ==== Donetsk PR 2025  ‹§dpr›
-
 ===== Winter League 2024/25  ‹§dwchamp›
 
 Round 1

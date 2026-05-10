@@ -1,19 +1,13 @@
-  <!--
-     title:   Kuwait 2024/25
-     source:  https://rsssf.org/tablesk/kuw2025.html
-     author:  Karel Stokkermans
-     updated: 14 May 2025
-    -->
+<!--
+   title:   Kuwait 2024/25
+   source:  https://rsssf.org/tablesk/kuw2025.html
+   author:  Karel Stokkermans
+   updated: 14 May 2025
+  -->
 
 
 == Kuwait 2024/25
-
-
-
-
-
 ==== Premier League  ‹§prem›
-
 
 ===== Regular Stage  ‹§reg›
 

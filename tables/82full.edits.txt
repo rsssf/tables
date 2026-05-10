@@ -1,2 +1,20 @@
 -- removed 23 remaining nav html element(s):
 <UL> <LI> <UL> <LI> <LI> <LI> <LI> <LI> <LI> <LI> <LI> <LI> <LI> <LI> <LI> <LI> </UL> </UL> <UL> <LI> <LI> <LI> </UL>
+-- removing 17 leading nav line(s) in section 2:
+‹Results, see §results›
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Group E, see §gre›
+‹Group F, see §grf›
+‹Group 1, see §gr1›
+‹Group 2, see §gr2›
+‹Group 3, see §gr3›
+‹Group 4, see §gr4›
+‹Semifinals, see §2fin›
+‹Third place match, see §3place›
+‹Final, see §final›
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›

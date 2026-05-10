@@ -1,19 +1,13 @@
-  <!--
-     title:   Albania 2024/25
-     source:  https://rsssf.org/tablesa/alba2025.html
-     author:  Karel Stokkermans
-     updated: 17 Nov 2025
-    -->
+<!--
+   title:   Albania 2024/25
+   source:  https://rsssf.org/tablesa/alba2025.html
+   author:  Karel Stokkermans
+   updated: 17 Nov 2025
+  -->
 
 
 == Albania 2024/25
-
-
-
-
-
 ==== Kategoria Superiore  ‹§super›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -411,9 +405,6 @@ Tirana        1-0 Pogradeci
 NB: both remain at former level
 
 
-
-
-
 ==== Kupa e Shqipërisë  ‹§kupa›
 
 Prelimninary Round [Sep 25]
@@ -494,9 +485,6 @@ Final [May 1, Elbasan]
 Egnatia       2-2 Dinamo        [aet, 4-5 pen]
 
 
-
-
-
 ==== Liga e parë  ‹§pare›
 
 Final Table:
@@ -541,12 +529,7 @@ Kastrioti     1-0 Luzi 2008
 NB: all clubs remain at former level
 
 
-
-
-
 ==== Liga e dytë  ‹§dyte›
-
-
 ===== Group A  ‹§g2a›
 
 Final Table:
@@ -624,12 +607,7 @@ Turbina       0-3 Partizani B
 NB: Partizani B promoted, Turbina relegated
 
 
-
-
-
 ==== Liga e tretë  ‹§trete›
-
-
 ===== Group A  ‹§g3a›
 
 Final Table:

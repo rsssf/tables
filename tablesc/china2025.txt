@@ -1,17 +1,12 @@
-  <!--
-     title:   China 2025
-     source:  https://rsssf.org/tablesc/china2025.html
-     author:  Karel Stokkermans
-     updated: 7 Dec 2025
-    -->
+<!--
+   title:   China 2025
+   source:  https://rsssf.org/tablesc/china2025.html
+   author:  Karel Stokkermans
+   updated: 7 Dec 2025
+  -->
 
 
 == China 2025
-
-
-
-
-
 ==== China Super League  ‹§csl›
 
 Final Table:
@@ -33,10 +28,6 @@ Final Table:
 --------------------------------------------------------------
 15.Meizhou Hakka                       30   5  6 19  36-71  21       Relegated
 16.Changchun Yatai                     30   4  7 19  26-52  19       Relegated
-
-
-
-
 
 
 ==== FA Cup  ‹§cup›
@@ -70,10 +61,6 @@ Beijing Guoan             7-0 Yunnan Yukun
 
 Final [Dec 6, Suzhou]
 Beijing Guoan             3-0 Henan FC
-
-
-
-
 
 
 ==== China League One  ‹§cl1›

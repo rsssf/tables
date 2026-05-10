@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1989/90
-     source:  https://rsssf.org/tablesd/duit90.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1989/90
+   source:  https://rsssf.org/tablesd/duit90.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1989/90
-
 
 Final Table
 
@@ -627,7 +626,5 @@ FC Bayern München 1989/90
         Thomas STRUNZ        20  (1472) + 5
           Olaf THON          20  (1566) + 8
         Roland WOHLFAHRT     24  (1944) +13
-
-
 
 

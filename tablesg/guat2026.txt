@@ -1,23 +1,15 @@
-  <!--
-     title:   Guatemala 2025/26
-     source:  https://rsssf.org/tablesg/guat2026.html
-     author:  Karel Stokkermans
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Guatemala 2025/26
+   source:  https://rsssf.org/tablesg/guat2026.html
+   author:  Karel Stokkermans
+   updated: 5 May 2026
+  -->
 
 
 == Guatemala 2025/26
-
-
-
-
-
 ==== Liga Nacional  ‹§nacional›
 
-
 ===== Campeonato Apertura 2025  ‹§1aper›
-
-
 ====== Regular Stage  ‹§1aperreg›
 
 Final Table:
@@ -326,8 +318,6 @@ Second Leg [Dec 27]
 Municipal             1-0 Antigua
 
 ===== Campeonato Clausura 2026  ‹§1clau›
-
-
 ====== Regular Stage  ‹§1claureg›
 
 Final Table:

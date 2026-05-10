@@ -1,19 +1,13 @@
-  <!--
-     title:   Lebanon 2024/25
-     source:  https://rsssf.org/tablesl/leb2025.html
-     author:  Karel Stokkermans
-     updated: 14 Jul 2025
-    -->
+<!--
+   title:   Lebanon 2024/25
+   source:  https://rsssf.org/tablesl/leb2025.html
+   author:  Karel Stokkermans
+   updated: 14 Jul 2025
+  -->
 
 
 == Lebanon 2024/25
-
-
-
-
-
 ==== First Division  ‹§first›
-
 
 ===== Regular Stage  ‹§reg›
 

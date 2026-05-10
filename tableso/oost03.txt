@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 2002/03
-     source:  https://rsssf.org/tableso/oost03.html
-     authors: Andreas Exenberger and Karel Stokkermans
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 2002/03
+   source:  https://rsssf.org/tableso/oost03.html
+   authors: Andreas Exenberger and Karel Stokkermans
+   updated: 15 Jun 2022
+  -->
 
 
 == Austria 2002/03
@@ -1315,7 +1315,6 @@ No Relegation from Regionalliga West.
 Promoted from Landesliga: Admira Dornbirn, FC Sulzberg
 
 
-
 TIROL
 
 TIROLER LIGA  ‹§tirol›
@@ -1451,7 +1450,6 @@ KÄRNTNER LIGA
 
 Relegated from Regionalliga: SAK Klagenfurt, FC St.Veit
 Promoted from Unterliga: BW Sachsenburg, SV Griffen
-
 
 
 FEEDERS OF REGIONALLIGA OST
@@ -1779,7 +1777,5 @@ Relegated from 1.Klasse to new 2.Klasse Mitte: SV Weerberg
 
 New Team in new 2.Klasse Mitte: FC Achensee, SC Schwaz II, WSG Wattens II,
    SV Mieders, SV Telfs II
-
-
 
 

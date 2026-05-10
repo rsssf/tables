@@ -1,22 +1,12 @@
-  <!--
-     title:   African Club Competitions 2022/23
-     source:  https://rsssf.org/tablesa/afcup2023.html
-     author:  Karel Stokkermans
-     updated: 19 Sep 2023
-    -->
+<!--
+   title:   African Club Competitions 2022/23
+   source:  https://rsssf.org/tablesa/afcup2023.html
+   author:  Karel Stokkermans
+   updated: 19 Sep 2023
+  -->
 
 
 == African Club Competitions 2022/23
-
-
-
-
-
-
-
-
-
-
 == Champions' League 2022/23  ‹§cc›
 
 First Round
@@ -184,10 +174,6 @@ WAC Casablanca           Mor  Mamelodi Sundowns        SAf   0-0  2-2 *2-2
 
 Final (Jun 4 and 11)
 Al-Ahly (Cairo)          Egy  WAC Casablanca           Mor   2-1  1-1  3-2
-
-
-
-
 
 
 == Confederation Cup 2022/23  ‹§confed›
@@ -372,10 +358,6 @@ Young Africans           Tan  Marumo Gallants          SAf   2-0  2-1  4-1
 
 Final (May 28 and Jun 3)
 Young Africans           Tan  USM Alger                Alg   1-2  1-0  2-2*
-
-
-
-
 
 
 == Super Cup 2023  ‹§sc›

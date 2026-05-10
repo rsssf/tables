@@ -1,17 +1,12 @@
-  <!--
-     title:   European Championship 2024
-     source:  https://rsssf.org/tables/2024e.html
-     author:  Roberto Di Maggio
-     updated: 28 Oct 2024
-    -->
+<!--
+   title:   European Championship 2024
+   source:  https://rsssf.org/tables/2024e.html
+   author:  Roberto Di Maggio
+   updated: 28 Oct 2024
+  -->
 
 
 == European Championship 2024
-
-
-
-
-
 === Qualifying Stage
 
 ==== Group A  ‹§grpa›
@@ -347,10 +342,6 @@
  6.Liechtenstein      10  0  0 10   1-28   0
 
 
-
-
-
-
 ==== UEFA Nations League Playoffs  ‹§nlpo›
 
 ‹League A, see page 2023uefanl.html#lga› Playoff Qualifiers:
@@ -445,10 +436,6 @@ Further Ranking:
       5: Andorra
       6: San Marino
       7: Liechtenstein
-
-
-
-
 
 
 === Final Tournament (in Germany)  ‹§fin›
@@ -619,6 +606,5 @@ Semifinals
 Final
 14- 7-24 Berlin         Spain              2-1 England
                          [Williams 47, Oyarzabal 86; Palmer 73]
-
 
 

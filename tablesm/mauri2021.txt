@@ -1,17 +1,12 @@
-  <!--
-     title:   Mauritius 2020/21
-     source:  https://rsssf.org/tablesm/mauri2021.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 27 Oct 2022
-    -->
+<!--
+   title:   Mauritius 2020/21
+   source:  https://rsssf.org/tablesm/mauri2021.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 27 Oct 2022
+  -->
 
 
 == Mauritius 2020/21
-
-
-
-
-
 ==== Premier League 2020/21  ‹§prem›
 
 Table at abandonment:
@@ -183,13 +178,7 @@ Table at abandonment:
 10.La Cure Sylvester SC                   12   2  2  8   7-20   8
 
 
-
-
-
-
 ==== Cup Tournaments 2020/21  ‹§coupes›
-
-
 ===== MFA Cup  ‹§mfa›
 
 Round 1
@@ -266,10 +255,6 @@ Savanne                       -  GRSE Wanderers
 NB: tournament abandoned and declared null and void on Jul 15
 
 
-
-
-
-
 ==== National Division 1  ‹§div1›
 
 Table (Mar 8):
@@ -287,10 +272,6 @@ Table (Mar 8):
  9.Chebel Citizens SC                     12   2  4  6   9-23  10
 
 NB: tournament abandoned and declared null and void on Jul 15
-
-
-
-
 
 
 ==== National Division 2  ‹§div2›

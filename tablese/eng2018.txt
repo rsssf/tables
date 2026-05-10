@@ -1,19 +1,13 @@
-  <!--
-     title:   England 2017/18
-     source:  https://rsssf.org/tablese/eng2018.html
-     authors: Karel Stokkermans and Roberto Di Maggio
-     updated: 18 Jul 2019
-    -->
+<!--
+   title:   England 2017/18
+   source:  https://rsssf.org/tablese/eng2018.html
+   authors: Karel Stokkermans and Roberto Di Maggio
+   updated: 18 Jul 2019
+  -->
 
 
 == England 2017/18
-
-
-
-
-
 ==== Premier League  ‹§premier›
-
 
 Final Table:
 
@@ -628,12 +622,7 @@ Final Table:
 ‹Premier League 2017/18 Match Details, see page eng2018det›
 
 
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== FA Cup  ‹§facup›
 
 Round 1
@@ -978,13 +967,7 @@ Final [Feb 25, London]
 Manchester City         3-0 Arsenal
 
 
-
-
-
-
 ==== Championship  ‹§champ›
-
-
 ===== Regular Stage  ‹§2reg›
 
 Final Table:
@@ -1037,13 +1020,7 @@ Final [May 26]
 Fulham        1-0 Aston Villa
 
 
-
-
-
-
 ==== Division 1  ‹§first›
-
-
 ===== Regular Stage  ‹§3reg›
 
 Final Table:
@@ -1096,13 +1073,7 @@ Final [May 27]
 Shrewsbury    1-2 Rotherham     [aet]
 
 
-
-
-
-
 ==== Division 2  ‹§second›
-
-
 ===== Regular Stage  ‹§4reg›
 
 Final Table:
@@ -1153,13 +1124,7 @@ Final [May 28]
 Exeter        1-3 Coventry
 
 
-
-
-
-
 ==== National League  ‹§conf›
-
-
 ===== Regular Stage  ‹§5reg›
 
 Final Table:

@@ -1,17 +1,12 @@
-  <!--
-     title:   Germany 2011/12
-     source:  https://rsssf.org/tablesd/duit2012.html
-     author:  Karel Stokkermans
-     updated: 23 Sep 2021
-    -->
+<!--
+   title:   Germany 2011/12
+   source:  https://rsssf.org/tablesd/duit2012.html
+   author:  Karel Stokkermans
+   updated: 23 Sep 2021
+  -->
 
 
 == Germany 2011/12
-
-
-
-
-
 ==== 1. Bundesliga  ‹§1bl›
 
 Final Table:
@@ -48,11 +43,7 @@ Düsseldorf      2-2 Hertha
 NB: Fortuna Düsseldorf promoted, Hertha BSC relegated
 
 
-
-
-
 ==== DFB Pokal  ‹§dfbpokal›
-
 
 Round 1
 [Jul 29]
@@ -142,12 +133,7 @@ Final [May 12, Berlin]
 Borussia Dortmund      5-2 Bayern München
 
 
-
-
-
-
 ==== 2. Bundesliga  ‹§2bl›
-
 
 Final Table:
 
@@ -185,10 +171,6 @@ Karlsruhe       2-2 Regensburg
 NB: Jahn Regensburg promoted, Karlsruher SC relegated
 
 
-
-
-
-
 ==== 3. Liga  ‹§3bl›
 
 Final Table:
@@ -216,6 +198,5 @@ Final Table:
 18.FC Carl Zeiss Jena           38   9 12 17  39-59  39  Relegated
 19.Rot-Weiss Oberhausen         38   8 14 16  33-47  38  Relegated
 20.SV Werder Bremen II          38   4 10 24  29-70  22  Relegated
-
 
 

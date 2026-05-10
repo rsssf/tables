@@ -1,17 +1,12 @@
-  <!--
-     title:   Central African Republic 2023/24
-     source:  https://rsssf.org/tablesc/cafr2024.html
-     author:  Karel Stokkermans
-     updated: 4 Dec 2024
-    -->
+<!--
+   title:   Central African Republic 2023/24
+   source:  https://rsssf.org/tablesc/cafr2024.html
+   author:  Karel Stokkermans
+   updated: 4 Dec 2024
+  -->
 
 
 == Central African Republic 2023/24
-
-
-
-
-
 ==== Championnat National 2024  ‹§chnat›
 
 NB: fourth ever edition; played in Bambari
@@ -69,13 +64,7 @@ Topscorer:
  9 Loïc Kaya (Tempête Mocaf)
 
 
-
-
-
-
 ==== Ligue de Bangui 2023/24  ‹§bangui›
-
-
 ====== Première Division 2023/24  ‹§prem›
 
 NB: ASOPT   = Association Sportive des Postes Telecommunications

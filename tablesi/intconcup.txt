@@ -1,16 +1,12 @@
-  <!--
-     title:   Intercontinental Championship and FIFA Confederations Cup
-     source:  https://rsssf.org/tablesi/intconcup.html
-     authors: Marcelo Leme de Arruda, Atsushi Fujioka and Takashi Koyama
-     updated: 9 Jun 2022
-    -->
+<!--
+   title:   Intercontinental Championship and FIFA Confederations Cup
+   source:  https://rsssf.org/tablesi/intconcup.html
+   authors: Marcelo Leme de Arruda, Atsushi Fujioka and Takashi Koyama
+   updated: 9 Jun 2022
+  -->
 
 
 == Intercontinental Championship and FIFA Confederations Cup
-
-
-
-
 
 The first two editions, called "King Fahd Cup" or
 "Intercontinental Championship", were not official at the time.
@@ -20,9 +16,6 @@ Later, FIFA included the 1992 and 1995 editions among the official ones.
 The "‹Artemio Franchi Trophy, see page ../tablesa/artfranfin›",
 contested twice in 1985 and 1993 and revived as "Finalissima" in 2022,
 can be considered a precursor.
-
-
-
 
 
 ==== Palmares
@@ -56,11 +49,7 @@ can be considered a precursor.
 [*] unofficial at the time but later recognised by FIFA
 
 
-
-
-
 ==== Intercontinental Championship 1992  ‹§92›
-
 
 Participants:
    Saudi Arabia    winners of "1988 Asian Cup"
@@ -81,11 +70,7 @@ Final
 Argentina    3-1 Saudi Arabia
 
 
-
-
-
 ==== Intercontinental Championship 1995  ‹§95›
-
 
 Participants:
    Saudi Arabia    organisers
@@ -126,11 +111,7 @@ Final
 Denmark      2-0 Argentina
 
 
-
-
-
 ==== FIFA Confederations Cup 1997  ‹§97›
-
 
 Participants:
    Saudi Arabia    organisers and winners of "1996 Asian Cup"
@@ -181,11 +162,7 @@ Final
 21/12/97 Brazil       6-0 Australia
 
 
-
-
-
 ==== FIFA Confederations Cup 1999  ‹§99›
-
 
 Participants:
    Mexico          organisers and winners of "1998 CONCACAF Gold Cup"
@@ -247,11 +224,7 @@ Final (in Ciudad de México)
  4/ 8/99 Mexico       4-3 Brazil
 
 
-
-
-
 ==== FIFA Confederations Cup 2001  ‹§01›
-
 
 Participants:
    Japan           co-organisers
@@ -307,11 +280,7 @@ Final
 10/ 6/01 Yokohama Japan        0-1 France
 
 
-
-
-
 ==== FIFA Confederations Cup 2003  ‹§03›
-
 
 Participants:
    France          organisers, winners of "2000 European Championship", holders
@@ -370,11 +339,7 @@ Final
 29/ 6/03 St.Denis   France       1-0 Cameroon       [asdet]
 
 
-
-
-
 ==== FIFA Confederations Cup 2005  ‹§05›
-
 
 Participants:
    Germany         organisers
@@ -427,11 +392,7 @@ Final
 29/ 6/05 Frankfurt  Brazil       4-1 Argentina
 
 
-
-
-
 ==== FIFA Confederations Cup 2009  ‹§09›
-
 
 Participants:
    South Africa    organisers
@@ -480,12 +441,7 @@ Final
 28/ 6/09 Johannesburg Brazil       3-2 USA
 
 
-
-
-
-
 ==== FIFA Confederations Cup 2013  ‹§13›
-
 
 Participants:
    Brazil          organisers
@@ -534,12 +490,7 @@ Final
 30/ 6/13 Rio de Janeiro       Brazil       3-0 Spain
 
 
-
-
-
-
 ==== FIFA Confederations Cup 2017  ‹§17›
-
 
 Participants:
    Russia          organisers

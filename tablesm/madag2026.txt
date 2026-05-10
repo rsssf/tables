@@ -1,19 +1,13 @@
-  <!--
-     title:   Madagascar 2025/26
-     source:  https://rsssf.org/tablesm/madag2026.html
-     author:  Karel Stokkermans
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Madagascar 2025/26
+   source:  https://rsssf.org/tablesm/madag2026.html
+   author:  Karel Stokkermans
+   updated: 7 May 2026
+  -->
 
 
 == Madagascar 2025/26
-
-
-
-
-
 ==== Pro League 2025/26  ‹§pro›
-
 
 ===== Group Stage  ‹§grp›
 

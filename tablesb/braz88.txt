@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1988
-     source:  https://rsssf.org/tablesb/braz88.html
-     authors: Ricardo Pontes and Marcelo Leme de Arruda
-     updated: 2 Apr 2005
-    -->
+<!--
+   title:   Brazil 1988
+   source:  https://rsssf.org/tablesb/braz88.html
+   authors: Ricardo Pontes and Marcelo Leme de Arruda
+   updated: 2 Apr 2005
+  -->
 
 
 == Brazil 1988
@@ -861,7 +861,6 @@ Final Table
 In parenthesis, the number of draws not decided by penalties shootouts
 
 
-
 Second Level 1988
 
 Participants
@@ -1468,7 +1467,6 @@ Luís Fernando, Nivaldo e Aroldo(Muller); Newton, Marcão(Erasmo) e Augusto.
 AA Internacional de Limeira were 1988 Brazilian 2nd Level Champions
 
 
-
 Third Level 1988
 
 Matches ended in draws were decided in penalties shootouts.
@@ -1956,9 +1954,5 @@ União São João won due to better season record
 NOTE: In 1989 CBF declared that the 3rd level was a deficitary tournament and decided to
 extinguish.  So CBF decided that the 1989 2nd level would be disputed by 96 (ninety-six)
 clubs.
-
-
-
-
 
 

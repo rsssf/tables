@@ -1,19 +1,13 @@
-  <!--
-     title:   England 2018/19
-     source:  https://rsssf.org/tablese/eng2019.html
-     authors: Karel Stokkermans and Roberto Di Maggio
-     updated: 7 Jul 2022
-    -->
+<!--
+   title:   England 2018/19
+   source:  https://rsssf.org/tablese/eng2019.html
+   authors: Karel Stokkermans and Roberto Di Maggio
+   updated: 7 Jul 2022
+  -->
 
 
 == England 2018/19
-
-
-
-
-
 ==== Premier League  ‹§premier›
-
 
 Final Table:
 
@@ -655,12 +649,7 @@ Final Table:
 ‹Premier League 2018/19 Match Details, see page eng2019det›
 
 
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== FA Cup  ‹§facup›
 
 Round 1
@@ -1001,13 +990,7 @@ Final [Feb 24, London]
 Manchester City         0-0 Chelsea                 [aet, 4-3 pen]
 
 
-
-
-
-
 ==== Championship  ‹§champ›
-
-
 ===== Regular Stage  ‹§2reg›
 
 Final Table:
@@ -1060,13 +1043,7 @@ Final [May 27]
 Aston Villa   2-1 Derby
 
 
-
-
-
-
 ==== Division 1  ‹§first›
-
-
 ===== Regular Stage  ‹§3reg›
 
 Final Table:
@@ -1119,13 +1096,7 @@ Final [May 26]
 Charlton      2-1 Sunderland
 
 
-
-
-
-
 ==== Division 2  ‹§second›
-
-
 ===== Regular Stage  ‹§4reg›
 
 Final Table:
@@ -1178,13 +1149,7 @@ Final [May 25]
 Newport       0-1 Tranmere      [aet]
 
 
-
-
-
-
 ==== National League  ‹§conf›
-
-
 ===== Regular Stage  ‹§5reg›
 
 Final Table:

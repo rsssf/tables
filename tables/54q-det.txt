@@ -1,13 +1,12 @@
-  <!--
-     title:   World Cup 1954 - Qualifying
-     source:  https://rsssf.org/tables/54q-det.html
-     author:  Barrie Courtney
-     updated: 27 Mar 2015
-    -->
+<!--
+   title:   World Cup 1954 - Qualifying
+   source:  https://rsssf.org/tables/54q-det.html
+   author:  Barrie Courtney
+   updated: 27 Mar 2015
+  -->
 
 
 == World Cup 1954 - Qualifying
-
 
 EUROPE
 
@@ -1353,8 +1352,5 @@ Japan:                               South Korea:
 Coaches:
 TAKAKOSHI, Shigemaru                 KIM, Yong-Shik
 Referee: HARAN, John [ENGLAND]
-
-
-
 
 

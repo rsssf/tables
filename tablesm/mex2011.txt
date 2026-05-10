@@ -1,22 +1,15 @@
-  <!--
-     title:   Mexico 2010/11
-     source:  https://rsssf.org/tablesm/mex2011.html
-     authors: Erik Francisco Lugo and Juan Pablo Andrés
-     updated: 28 Dec 2023
-    -->
+<!--
+   title:   Mexico 2010/11
+   source:  https://rsssf.org/tablesm/mex2011.html
+   authors: Erik Francisco Lugo and Juan Pablo Andrés
+   updated: 28 Dec 2023
+  -->
 
 
 == Mexico 2010/11
-
-
-
-
-
 ==== Primera División Nacional  ‹§pdn›
 
-
 ===== Apertura 2010  ‹§1aper›
-
 
 Regular Stage  ‹§apreg›
 
@@ -570,7 +563,6 @@ Monterrey         3-0 Santos
 
 ===== Clausura 2011  ‹§1clau›
 
-
 Regular Stage  ‹§clreg›
 
 Final Tables:
@@ -1104,13 +1096,7 @@ Pumas             2-1 Morelia
   [Juan Francisco Palencia 14pen, Javier Cortés 76; Jaime Lozano 25pen]
 
 
-
-
-
-
 ==== Liga de Ascenso  ‹§ascenso›
-
-
 ===== Apertura 2010  ‹§2aper›
 
  Changes before season:
@@ -1494,7 +1480,6 @@ Veracruz: Tomás Adriano, Hiber Ruiz, Oscar Mascorro, Leonel Olmedo,
 Tijuana Apertura campions
 
 ===== Clausura 2011  ‹§2clau›
-
 
 Changes before season:
 
@@ -1906,7 +1891,6 @@ Yellow Cards: Ayala, Galindo (T); Cruz, Valdes, Vega (I)
 Tijuana promoted.
 
 
-
 ===== Relegation Table  ‹§2releg›
 
 Relegation Table:
@@ -1932,15 +1916,7 @@ Leones Negro UG            96    31      26      32       89 0,9271
 Guerreros de Hermosillo    80    30      20       0       50 0,6250 Withdrew and Relegated
 
 
-
-
-
-
-
-
 ==== Liga Premier de Ascenso and Liga de Ascenso de Nuevos Talentos  ‹§ascenso2›
-
-
 ===== Liga Premier de Ascenso  ‹§premiera›
 
 Independencia 2010 (Apertura)
@@ -2204,8 +2180,6 @@ Celaya FC promoted to Liga de Ascenso (Second Level)
 Aguilas Reales Zacatecas and Irapuato relegated.
 
 
-
-
 ===== Liga de Ascenso de Nuevos Talentos  ‹§asctalent›
 
 Independencia 2010 (Apertura)
@@ -2369,11 +2343,6 @@ Cachorros León              4-1 Cachorros UANL
 Cachorros León promoted.
 
 FICUMDEP de Xalapa AC relegated.
-
-
-
-
-
 
 
 ==== Tercera Division Profesional  ‹§tercera›
@@ -2896,6 +2865,5 @@ Cruz Azul Dublán                4-0  1-1 Xoloitzcuintles de Caliente
 
 Cruz Azul Dublán champions.
 "Filiales" cannot promote to Third Level
-
 
 

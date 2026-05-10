@@ -1,17 +1,12 @@
-  <!--
-     title:   Isle of Man 2024/25
-     source:  https://rsssf.org/tablesm/manx2025.html
-     author:  Colin Moore
-     updated: 12 Feb 2026
-    -->
+<!--
+   title:   Isle of Man 2024/25
+   source:  https://rsssf.org/tablesm/manx2025.html
+   author:  Colin Moore
+   updated: 12 Feb 2026
+  -->
 
 
 == Isle of Man 2024/25
-
-
-
-
-
 ==== Premier League  ‹§premier›
 
 Final Table:
@@ -32,11 +27,7 @@ Final Table:
 13.Marown                      24   1  1 22  21-95   4       Relegated
 
 
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
 ===== Association Cup   ‹§facup›
 
 Preliminary Round [Jan 4]
@@ -184,10 +175,6 @@ Douglas Royal      0-2 R.Y.C.&O.B.
 
 Final [Apr 18]
 Braddan            2-1 R.Y.C.&O.B.
-
-
-
-
 
 
 ==== Division Two  ‹§div2›

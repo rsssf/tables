@@ -1,9 +1,9 @@
-  <!--
-     title:   Mexico 2006/07
-     source:  https://rsssf.org/tablesm/mex07.html
-     authors: Juan Pablo Andrés, Erik Francisco Lugo and José de Jesus Mora Rivera
-     updated: 22 Jan 2009
-    -->
+<!--
+   title:   Mexico 2006/07
+   source:  https://rsssf.org/tablesm/mex07.html
+   authors: Juan Pablo Andrés, Erik Francisco Lugo and José de Jesus Mora Rivera
+   updated: 22 Jan 2009
+  -->
 
 
 == Mexico 2006/07
@@ -551,8 +551,6 @@ Toluca      1-2 Guadalajara
 Guadalajara champions Apertura 2006
 
 
-
-
 Libertadores 2007 Playoff
 
 [Sep 20]
@@ -628,7 +626,6 @@ América     0-0 Tigres               [aet, 4-2 pen]
 
 Necaxa (Mexico 2) and América (Mexico 3) qualified for
 Copa Libertadores 2007
-
 
 
 Clausura 2007
@@ -1166,7 +1163,6 @@ Topscorers
    Hugo Droguett         Tecos           Chile        7
    Christian Gimenez     Pachuca         Argentina    7
    Emmanuel Villa        Tecos           Argentina    7
-
 
 
 Second Level 2006/07
@@ -2099,7 +2095,6 @@ red cards: Ramírez (71), Pinto (76); Reyes (71), Fierros (76)]
 Dorados Clausura Champions
 
 
-
 Championship Playoff
 
 First Leg [May 23, Banorte, Culiacán, ref: Hugo León]
@@ -2148,7 +2143,6 @@ Pablo Granoche (URU)    Tiburones R.    12
 Pablo Torres (ARG)      Cruz Azul H.    10
 Everaldo Begines        Petroleros       9
 Valtencir Gomes (BRA)   Tijuana          8
-
 
 
 Third Level 2006/07
@@ -2283,7 +2277,6 @@ on penalty kicks get extra point
 
 Top-3 of each group and the best 4th place qualify to Liguilla de Ascenso.
 The best 8 Filiales Teams qualify to Liguilla de Filiales.
-
 
 
 Liguilla de Ascenso
@@ -2457,7 +2450,6 @@ Top-3 of each group and the best 4th place qualify to Liguilla de Ascenso.
 The best 8 Filiales Teams qualify to Liguilla de Filiales.
 
 
-
 Liguilla de Ascenso
 
 First Round
@@ -2530,7 +2522,6 @@ America Coapa champion Clausura 2007
 Topscorers
 Gabriel Velasco Astros  Cuernavaca       15
 Javier Orozco           Cruz Azul Jasso  15
-
 
 
 Fourth Level 2006/07
@@ -2954,13 +2945,5 @@ Vencedores de Delicias          2-1  1-2 Gallos de Pelea de Canal 5 [6-7pen]
 
 Gallos de Pelea de Canal 5 champion Clausura 2007
 "Grupo Promocional - Estado Chihuahua" cannot promote to Third Level
-
-
-
-
-
-
-
-
 
 

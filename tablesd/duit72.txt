@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1971/72
-     source:  https://rsssf.org/tablesd/duit72.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1971/72
+   source:  https://rsssf.org/tablesd/duit72.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1971/72
-
 
 Final Table
 
@@ -636,7 +635,5 @@ FC Bayern München 1971/72
         Edgar SCHNEIDER      23  (1550) + 2
      Wolfgang SÜHNHOLZ       25  (1889) + 4
        Rainer ZOBEL          32  (2820)
-
-
 
 

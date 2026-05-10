@@ -1,17 +1,12 @@
-  <!--
-     title:   Crimea and South Eastern Ukraine 2026
-     source:  https://rsssf.org/tablesz/zooekr2026.html
-     author:  Theodore Dreiman
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Crimea and South Eastern Ukraine 2026
+   source:  https://rsssf.org/tablesz/zooekr2026.html
+   author:  Theodore Dreiman
+   updated: 5 May 2026
+  -->
 
 
 == Crimea and South Eastern Ukraine 2026
-
-
-
-
-
 ==== Commonwealth United Championship 2026  ‹§bezetoekr›
 
 Departed: Gvardéjec (Donéck)
@@ -170,12 +165,7 @@ Frigate        -  Donbass Power
 Avantgarde     -  Cernomorec
 
 
-
-
-
-
 ==== Crimea 2026  ‹§krim›
-
 ===== CFU Premier League 2026  ‹§krimpl›
 
 Table:
@@ -481,12 +471,7 @@ Temp         -  Saq
 NK-Stroj     -  ARS Gazelle
 
 
-
-
-
-
 ==== Donetsk PR 2026  ‹§dpr›
-
 ===== Winter Championship 2025/26  ‹§dwchamp›
 
 FIRST STAGE
@@ -688,6 +673,5 @@ Round 7 [Jun 13]
 Sahtjor-2  -  MBA
 Mariupol   -  Metallurg
 Donbass P  -  Gvardejec
-
 
 

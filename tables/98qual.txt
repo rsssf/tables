@@ -1,31 +1,13 @@
-  <!--
-     title:   World Cup 1998 qualifications
-     source:  https://rsssf.org/tables/98qual.html
-
-    -->
+<!--
+   title:   World Cup 1998 qualifications
+   source:  https://rsssf.org/tables/98qual.html
+  -->
 
 
 = World Cup 1998 qualifications
 
-
-‹Europe, see §europe›
-
-‹Group 1, see §gr1›
-‹Group 2, see §gr2›
-‹Group 3, see §gr3›
-‹Group 4, see §gr4›
-‹Group 5, see §gr5›
-‹Group 6, see §gr6›
-‹Group 7, see §gr7›
-‹Group 8, see §gr8›
-‹Group 9, see §gr9›
-
-‹South America, see §sam›
-‹North and Central America, see §ncam›
-‹Asia, see §asia›
 ‹Oceania, see §oceania› - ‹Oceania - Line-Ups, see page 98-qual-det.html#oc›
 ‹Africa, see §africa› - ‹Africa - Line-Ups, see page 98-qual-det.html#afr›
-
 
 
 == Europe  ‹§europe›
@@ -873,9 +855,6 @@ a two-legged play-off, of which the loser plays against the winner of
 Oceania zone for the fourth place.
 
 == 1st round
-
-
-
 == Group 1 - ARS BAN MAL TAI
 
 16.03. Kuala Lumpur    TAI-ARS 0:2 (0:2) Al-Shahrani 38, Al-Dossary 45
@@ -1131,9 +1110,6 @@ Oceania zone for the fourth place.
 4.PHI   3   0  0  0  3   0-10
 
 == 2nd round
-
-
-
 == Group A - ARS CHN IRN KUW QAT
 
 13.09. Dalian          CHN-IRN 2:4 (1:0) Fan Zhiyi 43p, Li Ming 54 - Bagheri
@@ -1240,9 +1216,6 @@ the final are to play off against the fourth team from Asia for qualification
 to France.
 
 == 1st round (1996)
-
-
-
 == Melanesian Group - PAP SOL VAN
 
 16.09. Lae             PAP-SOL 1:1 (1:0) Richard 15 - Rukumana 71 (Brazzale AUS)
@@ -1273,9 +1246,6 @@ to France.
                                          Seni 61,63,74, Kiriau 66 (Raveino THI)
 
 == 2nd round
-
-
-
 == Group 1 - AUS SOL THI
 
 11.06. Sydney          AUS-SOL13:0 (4:0) Mori 2,15,37,55,82, Aloisi 34,54,83,
@@ -1405,9 +1375,6 @@ progressed to Group 5
 byes: CAM, EGY, MAR, NIG
 
 == 2nd round (1996-97)
-
-
-
 == Group 1 - BFA GUI KEN NIG
 
 09.11. Lagos           NGA-BFA 2:0 (0:0) Amokachi 46,86 (Yengo CON)

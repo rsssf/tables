@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1934
-     source:  https://rsssf.org/tables/34f.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 20 Jun 2002
-    -->
+<!--
+   title:   World Cup 1934
+   source:  https://rsssf.org/tables/34f.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 20 Jun 2002
+  -->
 
 
 == World Cup 1934 (Italy, May 27-June 10)
@@ -62,12 +62,5 @@ Attendance: 40,000.
 Scorers: 71' Puc 0-1; 81' Orsi 1-1; 95' Schiavio 2-1.
 
 Topscorer: Nejedlý (Czechoslovakia) 5 goals.
-
-
-
-
-
-
-
 
 

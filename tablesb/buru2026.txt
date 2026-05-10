@@ -1,17 +1,12 @@
-  <!--
-     title:   Burundi 2025/26
-     source:  https://rsssf.org/tablesb/buru2026.html
-     author:  Karel Stokkermans
-     updated: 2 Apr 2026
-    -->
+<!--
+   title:   Burundi 2025/26
+   source:  https://rsssf.org/tablesb/buru2026.html
+   author:  Karel Stokkermans
+   updated: 2 Apr 2026
+  -->
 
 
 == Burundi 2025/26
-
-
-
-
-
 ==== Ligue A  ‹§liguea›
 
 Table:

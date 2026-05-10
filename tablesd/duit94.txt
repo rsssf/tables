@@ -1,14 +1,12 @@
-  <!--
-     title:   Germany 1993/94
-     source:  https://rsssf.org/tablesd/duit94.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1993/94
+   source:  https://rsssf.org/tablesd/duit94.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1993/94
-
-
 
 Final Table
 
@@ -717,7 +715,5 @@ FC Bayern München 1993/94
            Jan WOUTERS HOL   16  (1418) + 1
      Christian ZIEGE         29  (2398) + 3
      Alexander ZICKLER        8  ( 429) + 1
-
-
 
 

@@ -1,13 +1,12 @@
-  <!--
-     title:   World Cup 1950
-     source:  https://rsssf.org/tables/50f.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 5 Jul 2017
-    -->
+<!--
+   title:   World Cup 1950
+   source:  https://rsssf.org/tables/50f.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 5 Jul 2017
+  -->
 
 
 == World Cup 1950 (Brazil, June 24-July 16)
-
 
 FIRST PHASE
 
@@ -67,11 +66,5 @@ Topscorer: Ademir (Brazil) 9 goals.
 NB: FIFA credited Ademir with 2 goals (1-0 and 5-0) on July 13 vs Spain
     which in the past were often listed as own goal by Parra (1-0) and
     goal by Jair (5-0)
-
-
-
-
-
-
 
 

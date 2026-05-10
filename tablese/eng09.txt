@@ -1,9 +1,9 @@
-  <!--
-     title:   England 2008/09
-     source:  https://rsssf.org/tablese/eng09.html
-     author:  Ian King
-     updated: 8 May 2014
-    -->
+<!--
+   title:   England 2008/09
+   source:  https://rsssf.org/tablese/eng09.html
+   author:  Ian King
+   updated: 8 May 2014
+  -->
 
 
 == England 2008/09
@@ -929,9 +929,7 @@ Final Table:
 20.West Bromwich Albion    38   8  8 22  36-67  32  Relegated
 
 
-
 FA Cup 2008/09
-
 
 
 First Round
@@ -1320,8 +1318,6 @@ Everton: Howard, Hibbert (Jacobsen 46), Yobo, Lescott, Baines,
   (Vaughan 77).
 
 
-
-
 League Cup 2008/09 (Carling Cup)
 
 First Round
@@ -1527,9 +1523,7 @@ Ronaldo (scored)      3-1      Bentley (missed)      3-1
 Anderson (scored)     4-1
 
 
-
 Johnstone's Paint Trophy 2008/09
-
 
 
 Northern Section
@@ -1603,7 +1597,6 @@ Scunthorpe United       2-0 Rotherham United
 Second Leg [Feb 17]
 Rotherham United        0-1 Scunthorpe United
   [Hooper 74]
-
 
 
 Southern Section
@@ -1684,8 +1677,6 @@ Luton Town              3-2 Scunthorpe United     [aet]
      Hooper, Hayes; unused subs: Lillis, May;
    ref: Phil Crossley (Kent);
    yellow cards: Luton: Nicholls, Martin; Scunthorpe: Wright]
-
-
 
 
 Second Level 2008/09
@@ -2667,7 +2658,6 @@ Sheffield U   0-1 Burnley
 NB: Burnley promoted
 
 
-
 Third Level 2008/09
 
 
@@ -3495,7 +3485,6 @@ Millwall      2-3 Scunthorpe
   [Alexander 37, 39; Sparrow 6, 70, Woolford 85]
 
 NB: Scunthorpe United promoted
-
 
 
 Fourth Level 2008/09
@@ -5216,7 +5205,6 @@ Cambridge     0-2 Torquay
 NB: Torquay United promoted
 
 
-
 Sixth Level 2008/09
 
 
@@ -5310,7 +5298,6 @@ Hampton & R.  0-0 Chelmsford
 
 Final [May 7]
 Hampton & R.  2-3 Hayes & Y.
-
 
 
 Seventh and Eighth Level 2008/09
@@ -5646,15 +5633,5 @@ Windsor&Eton  0-2 Didcot
 
 Final [May 2]
 AFC Totton    1-2 Didcot        [aet]
-
-
-
-
-
-
-
-
-
-
 
 

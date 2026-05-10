@@ -1,17 +1,12 @@
-  <!--
-     title:   South Africa 2024/25
-     source:  https://rsssf.org/tablesz/zaf2025.html
-     author:  Karel Stokkermans
-     updated: 7 Jul 2025
-    -->
+<!--
+   title:   South Africa 2024/25
+   source:  https://rsssf.org/tablesz/zaf2025.html
+   author:  Karel Stokkermans
+   updated: 7 Jul 2025
+  -->
 
 
 == South Africa 2024/25
-
-
-
-
-
 ==== Premiership  ‹§nsl›
 
 Final Table:
@@ -501,13 +496,7 @@ Final Table:
    Cape Town City                    4   0  3  1   2- 3   3       Relegated
 
 
-
-
-
-
 ==== Cup Tournaments 2024/25  ‹§cups›
-
-
 ===== Nedbank FA Cup 2024/25  ‹§facup›
 
 1/16 Finals
@@ -624,10 +613,6 @@ Marumo Gallants          0-2 Mamelodi Sundowns
 
 Final [Nov 23, Free State Stadium, Bloemfontein]
 Magesi                   2-1 Mamelodi Sundowns
-
-
-
-
 
 
 ==== National First Division  ‹§nfd›

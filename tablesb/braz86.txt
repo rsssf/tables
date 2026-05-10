@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1986
-     source:  https://rsssf.org/tablesb/braz86.html
-     authors: Ricardo Pontes and Marcelo Leme de Arruda
-     updated: 2 Apr 2005
-    -->
+<!--
+   title:   Brazil 1986
+   source:  https://rsssf.org/tablesb/braz86.html
+   authors: Ricardo Pontes and Marcelo Leme de Arruda
+   updated: 2 Apr 2005
+  -->
 
 
 == Brazil 1986
@@ -999,7 +999,6 @@ Table
  9-Cascavel           8  0  4  4   6-12   4
 
 
-
 Second Phase
 
 [Oct 12]
@@ -1972,9 +1971,5 @@ Final Table
 79-Operário-MT       10  1  1  8   4-24   3
 80-Uberlândia         7  0  3  4   2- 7   3
 * - Teams that supposedly would compose the 1987 1st level according to CBF
-
-
-
-
 
 

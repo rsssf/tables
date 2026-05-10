@@ -1,34 +1,10 @@
-  <!--
-     title:   World Cup 1982 finals
-     source:  https://rsssf.org/tables/82full.html
-
-    -->
+<!--
+   title:   World Cup 1982 finals
+   source:  https://rsssf.org/tables/82full.html
+  -->
 
 
 = World Cup 1982 finals
-
-
-‹Results, see §results›
-
-‹Group A, see §gra›
-‹Group B, see §grb›
-‹Group C, see §grc›
-‹Group D, see §grd›
-‹Group E, see §gre›
-‹Group F, see §grf›
-‹Group 1, see §gr1›
-‹Group 2, see §gr2›
-‹Group 3, see §gr3›
-‹Group 4, see §gr4›
-‹Semifinals, see §2fin›
-‹Third place match, see §3place›
-‹Final, see §final›
-
-
-‹Scorers' list, see §scorers›
-‹Coaches, assistants, reserve players, see §coaches›
-‹Oldest and youngest, see §records›
-
 
 Spain, 13 June - 11 July 1982 (Alicante, Bilbao, Barcelona, Elche, Gijón,
 La Coruña, Madrid, Oviedo, Sevilla, Valladolid, Valencia, Zaragoza).
@@ -54,9 +30,6 @@ POL: Młynarczyk - Janas, Jałocha, Żmuda (c), Majewski - Matysik, Iwan
 booked: Marini, Scirea / Boniek
 
 
-
-
-
 15.06.82  (17.15) La Coruña, Estadio Riazor
 
 CAM - PER 0:0
@@ -69,9 +42,6 @@ PER: Quiroga - Duarte, Ruben Díaz (c), Salguero, Olaechea -  Cueto,
 Velásquez, Cubillas (57 La Rosa) - Leguía (57 Barbadillo), Oblitas, Uribe
 
 booked: N'Kono
-
-
-
 
 
 18.06.82  (17.15) Vigo, Estadio Balaidos
@@ -90,9 +60,6 @@ PER: Quiroga - Duarte, Ruben Díaz (c), Salguero, Olaechea - Barbadillo
 booked: Tardelli / Duarte
 
 
-
-
-
 19.06.82  (17.15) La Coruña, Estadio Riazor
 
 CAM - POL 0:0
@@ -105,9 +72,6 @@ POL: Młynarczyk - Janas, Jałocha, Żmuda (c), Majewski - Buncol, Iwan (27
 Szarmach), Pałasz (67 Kusto) - Lato, Boniek, Smolarek
 
 booked: Aoudou, Milla / Pałasz
-
-
-
 
 
 22.06.82  (17.15) La Coruña, Estadio Riazor
@@ -125,9 +89,6 @@ Velásquez, Cubillas (50 Uribe) - Oblitas (50 Barbadillo), Leguía
 5:1 La Rosa 83
 
 booked: Oleachea
-
-
-
 
 
 23.06.82  (17.15) Vigo, Estadio Balaidos
@@ -168,9 +129,6 @@ Magath (83 Fischer) - Littbarski, Hrubesch, Rummenigge (c)
 booked: Madjer / Hrubesch
 
 
-
-
-
 17.06.82  (17.15) Oviedo, Estadio Carlos Tartiere
 
 AUT - CHI 1:0 (1:0)
@@ -185,9 +143,6 @@ Neira (72 Rojas), Bonvallet - Caszely, Moscoso (69 Gamboa)
 1:0 Schachner 21 h (26 Caszely missed penalty)
 
 booked: Degeorgi, Hettenberger / Garrido
-
-
-
 
 
 20.06.82  (17.15) Gijon, Estadio El Molinón
@@ -208,9 +163,6 @@ Bonvallet, Soto (46 Letelier) - Moscoso, Gamboa (66 Neira)
 booked: Dubó, Gamboa
 
 
-
-
-
 21.06.82  Oviedo, Estadio Carlos Tartiere
 
 AUT - ALG 2:0 (0:0)
@@ -227,9 +179,6 @@ Fergani (c) Belloumi (66 Bensaoula) - Madjer, Zidane, Assad
 booked: Mansouri
 
 
-
-
-
 24.06.82  (17.15) Oviedo, Estadio Carlos Tartiere
 
 ALG - CHI 3:2 (3:0)
@@ -244,9 +193,6 @@ Yanez, Bonvallet (37 Soto), Caszely (58 Letelier) - Moscoso, Neira
 1:0 Assad 7, 2:0 Assad 31, 3:0 Benssoula 35, 3:1 Neira 59 p, 3:2 Letelier 73
 
 booked: Letelier
-
-
-
 
 
 25.06.82  Vigo, Estadio Balaidos
@@ -289,9 +235,6 @@ booked: Millecamps / Bertoni
 NOTE: Match preceded by WC opening ceremony
 
 
-
-
-
 15.06.82  (21.00) Elche, Nuevo Estadio
 
 HUN - SAL 10:1 (3:0)
@@ -310,9 +253,6 @@ Huezo (c), Rugamas (Ramirez Zapata), Ventura, Rivas - Hernández, González
 booked: Fazekas, Nyilasi
 
 
-
-
-
 18.06.82  (21.00) Alicante, June 18th - Estadio José Rico Pérez
 
 ARG - HUN 4:1 (2:0)
@@ -326,9 +266,6 @@ Nyilasi (c), Sallai, Varga - L.Kiss (62 Szentes), Pölöskei
 
 1:0 Bertoni 26, 2:0 Maradona 28 h, 3:0 Maradona 57, 4:0 Ardiles 60, 4:1
 Pölöskei 76
-
-
-
 
 
 19.06.82 (21.00) Elche, Nuevo Estadio
@@ -348,9 +285,6 @@ Fagoaga, Ramirez Zapata, Ventura - Rivas, Huezo, Gonzalez
 booked: Osorto, Fagoaga
 
 
-
-
-
 22.06.82  (21.00) Elche, Nuevo Estadio
 
 BEL - HUN 1:1 (0:1)
@@ -366,9 +300,6 @@ Sallai), Nyilasi (c), Tórócsik, Varga - L.Kiss (70 Csongrádi), Pölöskei
 0:1 Varga 27, 1:1 Czerniatynski 76
 
 booked: Pfaff, Meeuws
-
-
-
 
 
 23.06.82  (21.00) Alicante, Estadio José Rico Perez
@@ -409,9 +340,6 @@ Giresse, Rocheteau (71 Six) - Platini (c), Soler
 booked: Butcher
 
 
-
-
-
 17.06.82  (17.15) Valladolid, Nueva Estadio José Zorilla
 
 CZE - KUW 1:1 (1:0)
@@ -424,9 +352,6 @@ KUW: Al Tarabulsi - Naeem Saed, Ma'Yoof, Mubarak, Jasem - Al Buloushi,
 Al Houti (c), Ahmed Karam (57 Marzouq), Al Anbari - Yaqoub, Al Dakheel
 
 1:0 Panenka 21 p, 1:1 Al Dakheel 27
-
-
-
 
 
 20.06.82  (17.15) Bilbao, Estadio San Mamés
@@ -443,9 +368,6 @@ Berger, Vojáček, Janečka (77 Masný) - Nehoda (c), Vizek
 1:0 Francis 62, 2:0 Barmoš 66 o
 
 booked: Chaloupka
-
-
-
 
 
 21.06.82  (17.15) Valladolid, Nuevo Estadio José Zorilla
@@ -466,9 +388,6 @@ Al Dakheel
 booked: Amoros / Marzouq, Al Anbari
 
 
-
-
-
 24.06.82  (17.15) Valladolid, Nuevo Estadio José Zorilla
 
 CZE - FRA 1:1 (0:0)
@@ -484,9 +403,6 @@ Platini (c) - Lacombe (70 Couriol), Soler (89 Girard)
 
 booked: Amoros / Panenka
 sent off: Vizek (82)
-
-
-
 
 
 25.06.82  (17.15) Bilbao, Estadio San Mamés
@@ -527,9 +443,6 @@ Ufarte
 1:0 Zelaya 7, 1:1 López Ufarte 66 p
 
 
-
-
-
 17.06.82  (21.00) Zaragoza, Estadio La Romereda
 
 NIR - JUG 0:0
@@ -542,9 +455,6 @@ JUG: Pantelić - Zajec, Jovanović, Stojković, Hrstić - Šljivo, Gudelj,
 Šurjak (c), Petrović - Zl.Vujović, Sušić
 
 booked: Whiteside
-
-
-
 
 
 20.06.82  (21.00) Valencia, Estadio Luis Casanova
@@ -564,9 +474,6 @@ which was repeated)
 booked: Zamora, Gordillo / Stojković, Silvo
 
 
-
-
-
 21.06.82  (21.00) Zaragoza, Estadio La Romereda
 
 HON - NIR 1:1 (0:1)
@@ -580,9 +487,6 @@ M.O'Neill (c - 76 Healy), McCreery, Armstrong - Hamilton, Whiteside
 (86 Brotherston)
 
 0:1 Armstrong 9 h, 1:1 Laing 60 h
-
-
-
 
 
 24.06.98  (21.00) Zaragoza, Estadio La Romereda
@@ -600,9 +504,6 @@ Maradiaga (c), Yearwood, Zelaya, Bulnes - Betancourt, R.Figueroa
 
 booked: Krmpotić / Marandiaga
 sent off: Yearwood (87)
-
-
-
 
 
 25.06.82  (21.00) Valencia, Estadio Luis Casanova
@@ -643,9 +544,6 @@ Gavrilov (74 Susloparov), Bal, Daraselia - Shengelia (88 Andreyev), Blokhin
 0:1 Bal 34, 1:1 Socrates 75, 2:1 Eder 88
 
 
-
-
-
 15.06.82  (21.00) Malaga, Estadio La Rosaleda
 
 SCO - NZL 5:2 (3:0)
@@ -659,9 +557,6 @@ Sumner (c), McKay, Cresswell, Boath - Rufer, Wooddin
 
 1:0 Dalglish 18, 2:0 Wark 29, 3:0 Wark 32 h, 3:1 Sumner 54, 3:2 Woodin 64,
 4:2 Robertson 73 f, 5:2 Archibald 79
-
-
-
 
 
 18.06.82  (21.00) Seville, Estadio Benito Villamarin
@@ -678,9 +573,6 @@ Strachan (62 Dalglish), Narey - Wark, Archibald, Robertson
 0:1 Narey 18, 1:1 Zico 33 f, 2:1 Oscar 46 h, 3:1 Eder 63, 4:1 Falção 87
 
 
-
-
-
 19.06.82  (21.00) Malaga, Estadio La Rosaleda
 
 ZSR - NZL 3:0 (1:0)
@@ -693,9 +585,6 @@ NZL: van Hattum - Dods, Cole, Elrick, Herbert - Sumner (c), McKay, Cresswell,
 Boath - Rufer, Wooddin
 
 1:0 Gavrilov 24, 2:0 Blokhin 48, 3:0 Baltacha 68
-
-
-
 
 
 22.06.82  (21.00) Malaga, Estadio La Rosaleda
@@ -712,9 +601,6 @@ Gavrilov, Bal, Borovsky - Shengelia (88 Andreyev), Blokhin
 1:0 Jordan 15, 1:1 Chivadze 59, 1:2 Shengelia 84, 2:2 Souness 86
 
 booked: Souness
-
-
-
 
 
 23.06.82  (21.00) Seville, Estadio Benito Villamarin
@@ -736,7 +622,6 @@ NZL: van Hattum - Dods, Almond, Elrick, Herbert - Sumner (c), McKay, Cresswell
 4. NZL          3  0 0 3  0  2-12
 
 = Second phase
-
 == Group 1 - BEL POL ZSR  ‹§gr1›
 
 28.06.82  (21.00) Barcelona, Estadio Nou Camp
@@ -756,9 +641,6 @@ Czerniatynski
 booked: Smolarek
 
 
-
-
-
 01.07.82  (21.00) Barcelona, Estadio Nou Camp
 
 ZSR - BEL 1:0 (0:0)
@@ -772,9 +654,6 @@ M.Millecamps) - Verheyen, van der Smissen (58 Czerniatynski), Coeck, Vercauteren
 Ceulemans, van den Bergh
 
 1:0 Oganesian 46
-
-
-
 
 
 04.07.82  (21.00) Barcelona, Estadio Nou Camp
@@ -812,9 +691,6 @@ Rummenigge (c)
 booked: Stielike
 
 
-
-
-
 02.07.82  (21.00) Madrid, Estadio Santiago Bernabeu
 
 GER - ESP 2:1 (0:0)
@@ -829,9 +705,6 @@ Alonso, Zamora, Juanito (46 López Ufarte) - Quini (65 Sánchez), Santillana.
 1:0 Littbarski 60, 2:0 Fischer 75, 2:1 Zamora 82 h
 
 booked: Fischer, Briegel / Alesanco, Sánchez, Camacho
-
-
-
 
 
 05.07.82  (21.00) Madrid, Estadio Santiago Bernabeu
@@ -870,9 +743,6 @@ booked: Rossi, Gentile / Ardiles, Kempes, Maradona
 sent off: Gallego (84)
 
 
-
-
-
 02.07.82  (17.15) Barcelona, Estadio Sarria
 
 BRA - ARG 3:1 (1:0)
@@ -888,9 +758,6 @@ Maradona, Bertoni (64 Santamaria) - Calderón, Kempes (46 Diaz)
 
 booked: Valdir Perez, Falção / Passarella
 sent off: Maradona (82)
-
-
-
 
 
 05.07.82  (17.15) Barcelona, Estadio Sarria
@@ -930,9 +797,6 @@ Prohaska, Hintermaier, Hattenberger, Schachner - Jara (46 Welzl), Krankl
 booked: Obermayer
 
 
-
-
-
 01.07.82  (17.15) Madrid, Estadio Vicente Calderon
 
 AUT - NIR 2:2 (0:1)
@@ -947,9 +811,6 @@ Armstrong, Hamilton - Whiteside (69 Brotherston), McCreery
 0:1 Hamilton 27 h, 1:1 Pezzey 50, 2:1 Hintermayer 68 f, 2:2 Hamilton 75 h
 
 booked: Pichler
-
-
-
 
 
 04.07.82  (17.15) Madrid, Estadio Vicente Calderon
@@ -988,9 +849,6 @@ Buncol, Lato - Ciołek (46 Pałasz), Smolarek (79 Kusto)
 1:0 Rossi 22, 2:0 Rossi 73 h
 
 booked: Collovati / Majewski, Smolarek, Żmuda
-
-
-
 
 
 08.07.82  (21.00) Seville, Estadio Sanchez Pizjuan

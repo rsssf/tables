@@ -1,17 +1,12 @@
-  <!--
-     title:   Scilly Islands 2024/25
-     source:  https://rsssf.org/tabless/scilly2025.html
-     author:  Hans Schöggl
-     updated: 8 Apr 2025
-    -->
+<!--
+   title:   Scilly Islands 2024/25
+   source:  https://rsssf.org/tabless/scilly2025.html
+   author:  Hans Schöggl
+   updated: 8 Apr 2025
+  -->
 
 
 == Scilly Islands 2024/25
-
-
-
-
-
 ==== League  ‹§league›
 
 NB: all matches at Garrison Field, St Mary's, Isles of Scilly.
@@ -56,9 +51,6 @@ Table:
 
 NB: on average, 8 goals were scored per match; apart from match 8 (in which
     Gunners scored only once) both scored at least twice in every match
-
-
-
 
 
 ==== Other Competitions  ‹§other›

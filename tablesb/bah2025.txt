@@ -1,17 +1,12 @@
-  <!--
-     title:   Bahrain 2024/25
-     source:  https://rsssf.org/tablesb/bah2025.html
-     author:  Karel Stokkermans
-     updated: 27 May 2025
-    -->
+<!--
+   title:   Bahrain 2024/25
+   source:  https://rsssf.org/tablesb/bah2025.html
+   author:  Karel Stokkermans
+   updated: 27 May 2025
+  -->
 
 
 == Bahrain 2024/25
-
-
-
-
-
 ==== Premier League  ‹§premier›
 
 Final Table:

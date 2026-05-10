@@ -1,17 +1,12 @@
-  <!--
-     title:   England 2013/14
-     source:  https://rsssf.org/tablese/eng2014.html
-     authors: Ian King and Karel Stokkermans
-     updated: 23 Dec 2020
-    -->
+<!--
+   title:   England 2013/14
+   source:  https://rsssf.org/tablese/eng2014.html
+   authors: Ian King and Karel Stokkermans
+   updated: 23 Dec 2020
+  -->
 
 
 == England 2013/14
-
-
-
-
-
 ==== Premier League  ‹§premier›
 
 Final Table:
@@ -613,13 +608,7 @@ Final Table:
 20.Cardiff City            38   7  9 22  32-74  30  Relegated
 
 
-
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== FA Cup  ‹§facup›
 
 Round 1
@@ -965,12 +954,7 @@ Manchester City         3-1 Sunderland
   [Yaya Touré 55, Nasri 56, Jesús Navas 90; Borini 10]
 
 
-
-
-
 ==== Championship  ‹§champ›
-
-
 ===== Regular Stage  ‹§2reg›
 
 Final Table:
@@ -1023,13 +1007,7 @@ Final [May 24]
 Derby         0-1 QPR
 
 
-
-
-
-
 ==== Division 1  ‹§first›
-
-
 ===== Regular Stage  ‹§3reg›
 
 Final Table:
@@ -1080,13 +1058,7 @@ Final [May 25]
 Leyton        2-2 Rotherham     [aet, 3-4 pen]
 
 
-
-
-
-
 ==== Division 2  ‹§second›
-
-
 ===== Regular Stage  ‹§4reg›
 
 Final Table:
@@ -1139,14 +1111,7 @@ Final [May 26]
 Fleetwood     1-0 Burton
 
 
-
-
-
-
 ==== Conference  ‹§conf›
-
-
-
 ===== Regular Stage  ‹§5reg›
 
 Final Table:

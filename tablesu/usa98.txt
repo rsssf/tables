@@ -1,15 +1,12 @@
-  <!--
-     title:   USA 1998
-     source:  https://rsssf.org/tablesu/usa98.html
-     author:  Dave Litterer
-     updated: 25 Oct 2003
-    -->
+<!--
+   title:   USA 1998
+   source:  https://rsssf.org/tablesu/usa98.html
+   author:  Dave Litterer
+   updated: 25 Oct 2003
+  -->
 
 
 == USA 1998
-
-
-
 
                          MAJOR LEAGUE SOCCER (1st Division)
 
@@ -341,7 +338,6 @@ Brazil                                         0   4
 CHAMPIONSHIP: Dallas defeated Sacramento, 6-2.
 
 
-
                       EASTERN INDOOR SOCCER LEAGUE
 
                            GP   W SOW SOL   L   GF   GA Pts
@@ -447,15 +443,5 @@ Aug  4: Chicago Fire (MLS) 3-2 Dallas Burn (MLS)              [Metairie, La.]
 Final (October 30)
 ------------------
 Oct 30: Chicago Fire (MLS) 2-1 Columbus Crew (MLS)            [Virginia Beach]
-
-
-
-
-
-
-
-
-
-
 
 

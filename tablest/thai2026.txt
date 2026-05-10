@@ -1,17 +1,12 @@
-  <!--
-     title:   Thailand 2025/26
-     source:  https://rsssf.org/tablest/thai2026.html
-     author:  Karel Stokkermans
-     updated: 16 Apr 2026
-    -->
+<!--
+   title:   Thailand 2025/26
+   source:  https://rsssf.org/tablest/thai2026.html
+   author:  Karel Stokkermans
+   updated: 16 Apr 2026
+  -->
 
 
 == Thailand 2025/26
-
-
-
-
-
 ==== Thai League 1 2025/26  ‹§tl1›
 
 Table:

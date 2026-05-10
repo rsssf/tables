@@ -1,16 +1,12 @@
-  <!--
-     title:   USA 2006
-     source:  https://rsssf.org/tablesu/usa06.html
-     author:  David A. Litterer
-     updated: 11 Sep 2019
-    -->
+<!--
+   title:   USA 2006
+   source:  https://rsssf.org/tablesu/usa06.html
+   author:  David A. Litterer
+   updated: 11 Sep 2019
+  -->
 
 
 == USA 2006
-
-
-
-
 
 Major League Soccer
 
@@ -391,9 +387,6 @@ MLS Cup 2006 [Nov 12, Pizza Hut Park, Frisco, Texas]
 NE Revolution   1-1 Houston Dynamo        [aet, 3-4 pen]
 
 
-
-
-
 USL - 1ST DIVISION (2nd Division)
 
                             GP   W   L   D   GF  GA  Pts
@@ -424,7 +417,6 @@ NB: based on the head-to-head results of the Canadian USL 1st Division members
 Montreal Impact              4   1   0   3    3   2    6
 Toronto Lynx                 4   1   1   2    3   4    5
 Vancouver Whitecaps          4   1   2   1    4   4    4
-
 
 
 USL - 2ND DIVISION (3rd Division)
@@ -578,6 +570,5 @@ Minnesota NSC United         9   2   7   0             6
 Grand Rapids Alliance       10   1   8   1             4
 
 CHAMPIONSHIP:  Sacramento defeated Princeton 2-0
-
 
 

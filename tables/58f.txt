@@ -1,13 +1,12 @@
-  <!--
-     title:   World Cup 1958
-     source:  https://rsssf.org/tables/58f.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 22 Oct 1999
-    -->
+<!--
+   title:   World Cup 1958
+   source:  https://rsssf.org/tables/58f.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 22 Oct 1999
+  -->
 
 
 == World Cup 1958 (Sweden, June 8-29)
-
 
 FIRST PHASE
 
@@ -85,12 +84,5 @@ Scorers: 4' Liedholm 0-1; 9' Vavá 1-1; 32' Vavá 2-1; 55' Pelé 3-1;
          68' Zagalo 4-1; 80' Simonsson 4-2; 90' Pelé 5-2.
 
 Topscorer: Fontaine (France) 13 goals.
-
-
-
-
-
-
-
 
 

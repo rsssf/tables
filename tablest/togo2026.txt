@@ -1,17 +1,12 @@
-  <!--
-     title:   Togo 2025/26
-     source:  https://rsssf.org/tablest/togo2026.html
-     author:  Karel Stokkermans
-     updated: 2 Apr 2026
-    -->
+<!--
+   title:   Togo 2025/26
+   source:  https://rsssf.org/tablest/togo2026.html
+   author:  Karel Stokkermans
+   updated: 2 Apr 2026
+  -->
 
 
 == Togo 2025/26
-
-
-
-
-
 ==== Championnat National de 1ère Division  ‹§premier›
 
 Table:

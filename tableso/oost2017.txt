@@ -1,17 +1,12 @@
-  <!--
-     title:   Austria 2016/17
-     source:  https://rsssf.org/tableso/oost2017.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 7 Mar 2023
-    -->
+<!--
+   title:   Austria 2016/17
+   source:  https://rsssf.org/tableso/oost2017.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 7 Mar 2023
+  -->
 
 
 == Austria 2016/17
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
 
 Final Table:
@@ -377,10 +372,6 @@ Final Table:
 10.SV Ried                      36  10  5 21  33-56  35       Relegated
 
 
-
-
-
-
 ==== ÖFB Cup  ‹§cup›
 
 Round 1
@@ -476,10 +467,6 @@ FC Red Bull Salzburg        2-1 SK Rapid Wien
   [Hwang 51, Lazaro 84; Joelinton 56]
 
 
-
-
-
-
 ==== 1. Liga (Second Level)  ‹§1liga›
 
 Final Table:
@@ -503,13 +490,7 @@ NB: no promotion/relegation matches as only one third level club (TSV Hartberg) 
     eligible for promotion
 
 
-
-
-
-
 ==== Regionalliga  ‹§regliga›
-
-
 ===== Regionalliga West  ‹§regwest›
 
 Final Table:
@@ -594,10 +575,6 @@ Mattersburg Amateure        0-3 St. Pölten Juniors
 NB: both remain at former level
 
 
-
-
-
-
 ==== SFV (Salzburg) Cup 2016/17  ‹§salzcup›
 
 1/8 Finals
@@ -626,9 +603,6 @@ SAK 1914                      0-2 TSV St. Johann
 
 Final [May 17]
 TSV St. Johann                1-4 SV Grödig
-
-
-
 
 
 ==== Woche Cup 2016/17  ‹§steicup›

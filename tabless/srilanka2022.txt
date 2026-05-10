@@ -1,17 +1,12 @@
-  <!--
-     title:   Sri Lanka 2021/22
-     source:  https://rsssf.org/tabless/srilanka2022.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 19 Mar 2025
-    -->
+<!--
+   title:   Sri Lanka 2021/22
+   source:  https://rsssf.org/tabless/srilanka2022.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 19 Mar 2025
+  -->
 
 
 == Sri Lanka 2021/22
-
-
-
-
-
 ==== Super League 2021/22  ‹§super›
 
 NB: start was announced for Apr 2020 but postponed to Nov 2020
@@ -144,10 +139,6 @@ Topscorers:
  6 Waseem Razeek (Upcountry Lions)
 
 
-
-
-
-
 ==== Champions League 2022  ‹§champ›
 
 NB: served as second level competition
@@ -168,10 +159,6 @@ Final Table:
 12.SL Police SC                   13   3  2  8  18-24  11
 13.New Star SC (Colombo)          13   2  5  6  15-22  11
 14.Solid SC (Anuradhapura)        13   0  4  9  13-46   4
-
-
-
-
 
 
 ==== Independence Trophy 2022 (Ceylon Provincial League 2022)  ‹§indep›
@@ -270,10 +257,6 @@ Eastern                   0-0 Northern
 
 Final [Mar 5]
 Northern                  3-1 Southern
-
-
-
-
 
 
 ==== Silver Cup 2022  ‹§silver›

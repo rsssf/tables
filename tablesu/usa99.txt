@@ -1,9 +1,9 @@
-  <!--
-     title:   USA 1999
-     source:  https://rsssf.org/tablesu/usa99.html
-     author:  Dave Litterer
-     updated: 11 Jan 2003
-    -->
+<!--
+   title:   USA 1999
+   source:  https://rsssf.org/tablesu/usa99.html
+   author:  Dave Litterer
+   updated: 11 Jan 2003
+  -->
 
 
 == USA 1999
@@ -474,7 +474,6 @@ DC United     2-0 Los Angeles G
   [Jamie Moreno 19, Ben Olsen 45+]
 
 
-
                             THE A-LEAGUE (2nd Division)
 
 Worcester moved to Boston.
@@ -775,15 +774,5 @@ Mexico                      7   0   7   .000        21   68
 Semifinals:    Dallas defeated Monterrey 4-3 (SO)
                Sacramento defeated Utah 6-1
 CHAMPIONSHIP:  Sacramento defeated Dallas 7-6
-
-
-
-
-
-
-
-
-
-
 
 

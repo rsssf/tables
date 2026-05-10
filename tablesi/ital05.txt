@@ -1,13 +1,12 @@
-  <!--
-     title:   Italy 2004/05
-     source:  https://rsssf.org/tablesi/ital05.html
-     authors: Andrea Ferrigno and Antonio Zea
-     updated: 26 Jul 2006
-    -->
+<!--
+   title:   Italy 2004/05
+   source:  https://rsssf.org/tablesi/ital05.html
+   authors: Andrea Ferrigno and Antonio Zea
+   updated: 26 Jul 2006
+  -->
 
 
 == Italy 2004/05
-
 
 First Level (Serie A)
 
@@ -1307,20 +1306,5 @@ Yellow Cards: Inter: Sinisa Mihajlovic 18, Dejan Stankovic 28;
               Leandro Cufrè 47, 65, Simone Perrotta 61;
 Red Card: Leandro Cufrè (2 yellow)
 Att: 72,034
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

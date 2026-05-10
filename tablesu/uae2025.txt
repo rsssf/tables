@@ -1,17 +1,12 @@
-  <!--
-     title:   United Arab Emirates 2024/25
-     source:  https://rsssf.org/tablesu/uae2025.html
-     author:  Karel Stokkermans
-     updated: 27 May 2025
-    -->
+<!--
+   title:   United Arab Emirates 2024/25
+   source:  https://rsssf.org/tablesu/uae2025.html
+   author:  Karel Stokkermans
+   updated: 27 May 2025
+  -->
 
 
 == United Arab Emirates 2024/25
-
-
-
-
-
 ==== Professional League  ‹§leagp›
 
 Final Table:

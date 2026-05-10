@@ -1,17 +1,12 @@
-  <!--
-     title:   Spain 2017/18
-     source:  https://rsssf.org/tabless/span2018.html
-     author:  Karel Stokkermans
-     updated: 29 Sep 2020
-    -->
+<!--
+   title:   Spain 2017/18
+   source:  https://rsssf.org/tabless/span2018.html
+   author:  Karel Stokkermans
+   updated: 29 Sep 2020
+  -->
 
 
 == Spain 2017/18
-
-
-
-
-
 ==== Primera División  ‹§laliga›
 
 Final Table:
@@ -656,9 +651,6 @@ Final Table:
 20.Málaga CF                     38   5  5 28  24-61  20       Relegated
 
 
-
-
-
 ==== Copa del Rey  ‹§coparey›
 
 Round 1
@@ -835,9 +827,6 @@ Valencia CF               0-2 FC Barcelona
 
 Final [Apr 21, Madrid]
 Sevilla FC                0-5 FC Barcelona
-
-
-
 
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›

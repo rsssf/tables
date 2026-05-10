@@ -1,17 +1,12 @@
-  <!--
-     title:   Uganda 2025/26
-     source:  https://rsssf.org/tableso/oeg2026.html
-     author:  Karel Stokkermans
-     updated: 16 Mar 2026
-    -->
+<!--
+   title:   Uganda 2025/26
+   source:  https://rsssf.org/tableso/oeg2026.html
+   author:  Karel Stokkermans
+   updated: 16 Mar 2026
+  -->
 
 
 == Uganda 2025/26
-
-
-
-
-
 ==== StarTimes Uganda Premier League  ‹§fsl›
 
 Table:

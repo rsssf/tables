@@ -1,17 +1,12 @@
-  <!--
-     title:   Nepal 2023
-     source:  https://rsssf.org/tablesn/nepal2023.html
-     author:  Karel Stokkermans
-     updated: 14 Nov 2025
-    -->
+<!--
+   title:   Nepal 2023
+   source:  https://rsssf.org/tablesn/nepal2023.html
+   author:  Karel Stokkermans
+   updated: 14 Nov 2025
+  -->
 
 
 == Nepal 2023
-
-
-
-
-
 ==== A Division League '2079/80'  ‹§adiv›
 
 Final Table:
@@ -386,9 +381,6 @@ Final Table:
 
 NB: Church Boys United won the title at the ‹third, second and first level, see page ../miscellaneous/eedd.html#321› in consecutive
     seasons, thereby emulating the feat of Manang Marshyangdi 37 years earlier.
-
-
-
 
 
 ==== Nepal Super League 2023  ‹§nsl›

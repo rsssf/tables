@@ -1,17 +1,12 @@
-  <!--
-     title:   Tonga 2023
-     source:  https://rsssf.org/tablest/tonga2023.html
-     author:  Karel Stokkermans
-     updated: 6 Nov 2023
-    -->
+<!--
+   title:   Tonga 2023
+   source:  https://rsssf.org/tablest/tonga2023.html
+   author:  Karel Stokkermans
+   updated: 6 Nov 2023
+  -->
 
 
 == Tonga 2023
-
-
-
-
-
 ==== TFA Major League  ‹§major›
 
 Regular Stage
@@ -38,6 +33,5 @@ Nukuhetulu         10-2 Folaha
 
 Final [Nov 4]
 Navutoka            1-3 Veitongo
-
 
 

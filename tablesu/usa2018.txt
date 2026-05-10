@@ -1,19 +1,13 @@
-  <!--
-     title:   USA 2018
-     source:  https://rsssf.org/tablesu/usa2018.html
-     author:  Karel Stokkermans
-     updated: 10 Jan 2020
-    -->
+<!--
+   title:   USA 2018
+   source:  https://rsssf.org/tablesu/usa2018.html
+   author:  Karel Stokkermans
+   updated: 10 Jan 2020
+  -->
 
 
 == USA 2018
-
-
-
-
-
 ==== Major League Soccer  ‹§mls›
-
 
 ===== Regular Season  ‹§reg›
 
@@ -666,10 +660,6 @@ Sporting Kansas City   2-3 Portland Timbers
 MLS Cup [Dec 8, Mercedes-Benz Stadium, Atlanta]
 Atlanta United FC      2-0 Portland Timbers
   [Josef Martínez 39, Franco Escobar 54]
-
-
-
-
 
 
 ==== US Open Cup  ‹§open›

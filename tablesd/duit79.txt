@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1978/79
-     source:  https://rsssf.org/tablesd/duit79.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1978/79
+   source:  https://rsssf.org/tablesd/duit79.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1978/79
-
 
 Final Table
 
@@ -638,7 +637,5 @@ Hamburger SV 1978/79
         Willi REIMANN        26  (1913) + 5
   Hans-Jürgen RIPP            8  ( 463)
         Bernd WEHMEYER       19  (1046) + 2
-
-
 
 

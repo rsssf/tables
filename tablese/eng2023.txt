@@ -1,17 +1,12 @@
-  <!--
-     title:   England 2022/23
-     source:  https://rsssf.org/tablese/eng2023.html
-     author:  Karel Stokkermans
-     updated: 15 Jun 2025
-    -->
+<!--
+   title:   England 2022/23
+   source:  https://rsssf.org/tablese/eng2023.html
+   author:  Karel Stokkermans
+   updated: 15 Jun 2025
+  -->
 
 
 == England 2022/23
-
-
-
-
-
 ==== Premier League  ‹§premier›
 
 Final Table:
@@ -638,13 +633,7 @@ Final Table:
 20.Southampton             38   6  7 25  36-73  25            Relegated
 
 
-
-
-
-
 ==== Championship  ‹§champ›
-
-
 ===== Regular Stage  ‹§2reg›
 
 Final Table:
@@ -697,13 +686,7 @@ Middlesbrough 0-1 Coventry
 Luton         1-1 Coventry      [aet, 6-5 pen]
 
 
-
-
-
-
 ==== Division 1  ‹§first›
-
-
 ===== Regular Stage  ‹§3reg›
 
 Final Table:
@@ -756,13 +739,7 @@ Final [May 29]
 Sheffield W   1-0 Barnsley      [aet]
 
 
-
-
-
-
 ==== Division 2  ‹§second›
-
-
 ===== Regular Stage  ‹§4reg›
 
 Final Table:
@@ -813,13 +790,7 @@ Final [May 28]
 Stockport     1-1 Carlisle      [aet, 4-5 pen]
 
 
-
-
-
-
 ==== National League  ‹§conf›
-
-
 ===== Regular Stage  ‹§5reg›
 
 Final Table:

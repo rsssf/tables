@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1962 Qualifying
-     source:  https://rsssf.org/tables/62q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 28 May 2020
-    -->
+<!--
+   title:   World Cup 1962 Qualifying
+   source:  https://rsssf.org/tables/62q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 28 May 2020
+  -->
 
 
 == World Cup 1962 Qualifying
@@ -186,11 +186,5 @@ Indonesia withdrew
 06.11.60  Seoul         South Korea      2-1 Japan
 11.06.61  Tokyo         Japan            0-2 South Korea
 South Korea required to play off with the winner of Europe Group 10 (see above).
-
-
-
-
-
-
 
 

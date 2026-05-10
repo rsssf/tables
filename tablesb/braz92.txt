@@ -1,13 +1,12 @@
-  <!--
-     title:   Brazil 1992
-     source:  https://rsssf.org/tablesb/braz92.html
-     authors: Marcelo Leme de Arruda, Julio Bovi Diogo and Ricardo Pontes
-     updated: 18 Feb 2000
-    -->
+<!--
+   title:   Brazil 1992
+   source:  https://rsssf.org/tablesb/braz92.html
+   authors: Marcelo Leme de Arruda, Julio Bovi Diogo and Ricardo Pontes
+   updated: 18 Feb 2000
+  -->
 
 
 == Brazil 1992
-
 
 FIRST LEVEL
 
@@ -1369,7 +1368,6 @@ CAMPEONATO BRASILEIRO DE 1992
 SÉRIE C (3RD LEVEL)
 
 
-
 1st Phase
 
 (from 22/03 to 22/04)
@@ -1650,9 +1648,5 @@ FINALS
 10/12 - 13/12 Fluminense        2-1  0-1   Internacional
 
 SC Internacional were the 1992 Copa do Brasil winners
-
-
-
-
 
 

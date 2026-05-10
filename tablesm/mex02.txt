@@ -1,9 +1,9 @@
-  <!--
-     title:   Mexico 2001/02
-     source:  https://rsssf.org/tablesm/mex02.html
-     authors: Erik Francisco Lugo, José de Jesus Mora Rivera and Daniel Dalence Garcia
-     updated: 11 Jul 2022
-    -->
+<!--
+   title:   Mexico 2001/02
+   source:  https://rsssf.org/tablesm/mex02.html
+   authors: Erik Francisco Lugo, José de Jesus Mora Rivera and Daniel Dalence Garcia
+   updated: 11 Jul 2022
+  -->
 
 
 == Mexico 2001/02
@@ -1431,7 +1431,6 @@ León        0-0 Veracruz
 León relegated, Veracruz promoted
 
 
-
 Primera División "A" (Second Level)
 
 Invierno 2001
@@ -2383,6 +2382,5 @@ Tampico-Madero moved to La Piedad
 Gallos Aguascalientes moved to Guadalajara (Tapatío)
 
 Bachilleres moved to Orizaba (Albinegros)
-
 
 

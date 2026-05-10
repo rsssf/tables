@@ -1,17 +1,12 @@
-  <!--
-     title:   Mauritius 2017/18
-     source:  https://rsssf.org/tablesm/mauri2018.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 5 Jul 2024
-    -->
+<!--
+   title:   Mauritius 2017/18
+   source:  https://rsssf.org/tablesm/mauri2018.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 5 Jul 2024
+  -->
 
 
 == Mauritius 2017/18
-
-
-
-
-
 ==== Premier League 2017/18  ‹§prem›
 
 Final Table:
@@ -270,13 +265,7 @@ Final Table:
 10.Chebel Citizens SC                     27   1  7 19  20-55  10  [P]                   Relegated
 
 
-
-
-
-
 ==== Cup Tournaments 2017/18  ‹§coupes›
-
-
 ===== MFA Cup  ‹§mfa›
 
 1/32 Finals
@@ -360,10 +349,6 @@ Final [Mar 11]
 Bolton City                  2-1 Petite Rivière Noire
 
 
-
-
-
-
 ==== National Division 1  ‹§div1›
 
 Final Table:
@@ -380,10 +365,6 @@ Final Table:
  8.Chamarel SC                            14   2  1 11  10-33   7       Relegated
 
 
-
-
-
-
 ==== National Division 2  ‹§div2›
 
 Final Table:
@@ -398,10 +379,6 @@ Final Table:
 -----------------------------------------------------------------
  7.Grande Rivière Noire West Coast FC     14   5  2  7  22-23  17  [P]  Relegated
  8.CS Jeanne d'Arc                        14   2  4  8  12-23  10       Relegated
-
-
-
-
 
 
 ==== Regional Leagues  ‹§reg›

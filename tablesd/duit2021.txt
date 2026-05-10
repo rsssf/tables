@@ -1,17 +1,12 @@
-  <!--
-     title:   Germany 2020/21
-     source:  https://rsssf.org/tablesd/duit2021.html
-     author:  Karel Stokkermans
-     updated: 3 Feb 2022
-    -->
+<!--
+   title:   Germany 2020/21
+   source:  https://rsssf.org/tablesd/duit2021.html
+   author:  Karel Stokkermans
+   updated: 3 Feb 2022
+  -->
 
 
 == Germany 2020/21
-
-
-
-
-
 ==== 1. Bundesliga  ‹§1bl›
 
 Final Table:
@@ -568,9 +563,6 @@ Kiel            1-5 Köln
 NB: both remain at former level
 
 
-
-
-
 ==== DFB Pokal  ‹§dfbpokal›
 
 Round 1
@@ -666,10 +658,6 @@ Final [May 13, Olympiastadion, Berlin]
 RB Leipzig             1-4 Borussia Dortmund
 
 
-
-
-
-
 ==== 2. Bundesliga  ‹§2bl›
 
 Final Table:
@@ -706,9 +694,6 @@ Second Leg [May 30]
 Osnabrück       3-1 Ingolstadt
 
 NB: FC Ingolstadt 04 promoted, VfL Osnabrück relegated
-
-
-
 
 
 ==== 3. Liga  ‹§3bl›

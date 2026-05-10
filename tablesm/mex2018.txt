@@ -1,23 +1,15 @@
-  <!--
-     title:   Mexico 2017/18
-     source:  https://rsssf.org/tablesm/mex2018.html
-     author:  Erik Francisco Lugo
-     updated: 18 Feb 2021
-    -->
+<!--
+   title:   Mexico 2017/18
+   source:  https://rsssf.org/tablesm/mex2018.html
+   author:  Erik Francisco Lugo
+   updated: 18 Feb 2021
+  -->
 
 
 == Mexico 2017/18
-
-
-
-
-
 ==== Liga MX  ‹§pdn›
 
-
-
 ===== Apertura 2017  ‹§1aper›
-
 
 Regular Stage  ‹§apreg›
 
@@ -561,16 +553,13 @@ Ismael Sosa        FWD (Argentina)
 Coach: Ricardo Ferreti (BRA)
 
 
-
 Copa Libertadores 2018 qualification
 
 NB: For second year in a row Mexican teams refused to enter due to
     disagreements with CONMEBOL about the fixture of the competition.
 
 
-
 ===== Clausura 2018  ‹§1clau›
-
 
 Regular Stage  ‹§clreg›
 
@@ -1143,13 +1132,7 @@ Cris Martínez          FWD (Paraguay)
 Coach: Robert Dante Siboldi (URU)
 
 
-
-
-
-
-
 ==== Copa MX Apertura 2017  ‹§copa›
-
 
 NB: the Cup Tournament is played by 17 teams from the Liga MX (first level) and
     10 teams from the Ascenso MX (second level);
@@ -1533,14 +1516,7 @@ Jorge Benítez                   FWD (Paraguay)
 Coach: Antonio Mohamed (ARG)
 
 
-
-
-
-
-
-
 ==== Copa MX Clausura 2018  ‹§copac›
-
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     13 teams from the Ascenso MX (second level);
@@ -1921,10 +1897,6 @@ Bryan de Jesús       FWD (Ecuador)
 Coach: Ignacio Ambriz
 
 
-
-
-
-
 ==== Campeón de Campeones  ‹§campcamp›
 
 Between winners of Liga MX Apertura 2017 (Tigres) and winners of Liga MX
@@ -1937,10 +1909,6 @@ One single leg played [Jul 15]
 Stub Hub Center, Carson, California, USA
 Tigres           4-0 Santos
   [Guido Pizarro 41, Javier Aquino 44, Lucas Zelarayán 67, André-Pierre Gignac 73]
-
-
-
-
 
 
 ==== Supercopa MX  ‹§supcopa›
@@ -1956,14 +1924,7 @@ Monterrey        0-1 Necaxa
   [Francisco Córdova 25]
 
 
-
-
-
-
-
 ==== Ascenso MX  ‹§ascenso›
-
-
 ===== Apertura 2017  ‹§2aper›
 
 Changes before season:
@@ -2280,10 +2241,7 @@ Estadio Olímpico Benito Juárez
 FC Juárez            2-1 Alebrijes            [aet; 2-4pen]
 
 
-
 ===== Clausura 2018  ‹§2clau›
-
-
 ====== Regular Stage  ‹§2claureg›
 
 Participants:

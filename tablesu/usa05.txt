@@ -1,16 +1,12 @@
-  <!--
-     title:   USA 2005
-     source:  https://rsssf.org/tablesu/usa05.html
-     authors: David A. Litterer and Antonio Zea
-     updated: 11 Sep 2019
-    -->
+<!--
+   title:   USA 2005
+   source:  https://rsssf.org/tablesu/usa05.html
+   authors: David A. Litterer and Antonio Zea
+   updated: 11 Sep 2019
+  -->
 
 
 == USA 2005
-
-
-
-
 
 Major League Soccer
 
@@ -642,8 +638,6 @@ NE Revolution        0-1 LA Galaxy            [aet]
    attendance: 21,193]
 
 
-
-
 ALL STARS GAME
 [Jul 30]
 In Columbus Crew Stadium, (Columbus, Ohio)
@@ -665,8 +659,6 @@ FFC: Moritz Volz 39
 Referee: Ricardo Valenzuela (USA)
 Attendance: 23,309
 Honda Most Valuable Player MVP: Taylor Twellman (New England Revolution)
-
-
 
 
 USL - 1ST DIVISION (2nd Division)
@@ -839,6 +831,5 @@ St. Paul Twin Stars         10   2   7   1   14  36    7
 Grand Rapids Alliance       10   1   9   0   10  36    3
 
 FINAL:   Detroit defeated Sonoma 1-0
-
 
 

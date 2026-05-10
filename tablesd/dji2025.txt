@@ -1,17 +1,12 @@
-  <!--
-     title:   Djibouti 2024/25
-     source:  https://rsssf.org/tablesd/dji2025.html
-     author:  Karel Stokkermans
-     updated: 4 Jun 2025
-    -->
+<!--
+   title:   Djibouti 2024/25
+   source:  https://rsssf.org/tablesd/dji2025.html
+   author:  Karel Stokkermans
+   updated: 4 Jun 2025
+  -->
 
 
 == Djibouti 2024/25
-
-
-
-
-
 ==== Championnat national de la 1ère division  ‹§div1›
 
 Final Table:

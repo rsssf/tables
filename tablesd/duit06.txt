@@ -1,9 +1,9 @@
-  <!--
-     title:   Germany 2005/06
-     source:  https://rsssf.org/tablesd/duit06.html
-     authors: Lars Kubusch, Daniel Dalence and Anthony Zea
-     updated: 4 Oct 2006
-    -->
+<!--
+   title:   Germany 2005/06
+   source:  https://rsssf.org/tablesd/duit06.html
+   authors: Lars Kubusch, Daniel Dalence and Anthony Zea
+   updated: 4 Oct 2006
+  -->
 
 
 == Germany 2005/06
@@ -877,7 +877,6 @@ Topscorers:
 10 Kevin Kuranyi                   FC Schalke 04
 10 Stefan Kiessling                FC Nürnberg
 10 Søren Larsen                    FC Schalke 04
-
 
 
 DFB Pokal
@@ -1968,7 +1967,6 @@ Topscorers:
 10 Kevin McKenna           FC Energie Cottbus
 
 
-
 Third Level 2005/06
 
 REGIONALLIGA (Third Level)
@@ -2222,7 +2220,6 @@ Bayern
 16.FC Kempten         34  8  9 17  51:61 33 Relegated
 17.1.FC Passau        34  6  5 23  26:69 23 Relegated
 18.SG Quelle/1860 Fürth  34  4  9 21  28:79 21 Relegated
-
 
 
 Fifth Level 2005/06 (Verbandsligen/Landesligen)
@@ -2808,7 +2805,6 @@ Bayern Süd
 In April 6 the 1. FC 1901 Bamberg change name to 1. FC Eintracht Bamberg.
 
 
-
 Sixth Level 2005/06 (Bezirksligen, partial)
 
 
@@ -3046,26 +3042,5 @@ Hamburg West
 14.Borstel 1.         30   9  6 15  44- 67  33 Relegated
 15.Hasloh 1.         30   7  5 18  47- 64  26 Relegated
 16.Gencler Birligi 1.      30   5  8 17  38- 78  23 Relegated
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

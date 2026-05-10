@@ -1,22 +1,15 @@
-  <!--
-     title:   Mexico 2009/10
-     source:  https://rsssf.org/tablesm/mex2-2010.html
-     authors: Erik Francisco Lugo and Juan Pablo Andrés
-     updated: 28 Dec 2023
-    -->
+<!--
+   title:   Mexico 2009/10
+   source:  https://rsssf.org/tablesm/mex2-2010.html
+   authors: Erik Francisco Lugo and Juan Pablo Andrés
+   updated: 28 Dec 2023
+  -->
 
 
 == Mexico 2009/10
-
-
-
-
-
 ==== Primera División Nacional  ‹§pdn›
 
-
 ===== Apertura 2009  ‹§1aper›
-
 
 Regular Stage  ‹§apreg›
 
@@ -1098,7 +1091,6 @@ Second Leg [May 23]
 Toluca            0-0 Santos            [aet, 4-3 pen]
 
 
-
 ===== Tabla Anual 2009/10  ‹§1agg›
 
  1.Monterrey                           34  19  9  6  57-31  66
@@ -1119,10 +1111,6 @@ Toluca            0-0 Santos            [aet, 4-3 pen]
 16.Jaguares                            34   9 11 14  39-46  38
 17.San Luis                            34   8 11 15  39-53  35
 18.Indios                              34   4  8 21  17-55  21
-
-
-
-
 
 
 ==== Torneo Interliga 2010  ‹§inter›
@@ -1194,13 +1182,7 @@ Puebla            2-3 Estudiantes
 NB: winners semifinals qualify for Copa Libertadores 2010
 
 
-
-
-
-
 ==== Liga de Ascenso  ‹§ascenso›
-
-
 ===== Apertura 2009  ‹§2aper›
 
 Changes before season:
@@ -1590,10 +1572,7 @@ Bosco Frontán (URU) La Piedad     8
 Nelson Maz (URU)    Necaxa        8
 
 
-
 ===== Clausura 2010  ‹§2clau›
-
-
 ====== Regular Stage  ‹§2claureg›
 
 Final Table:
@@ -1955,7 +1934,6 @@ yellow cards: Polo, Ceja, Caniza, Corona (L);
 Necaxa win both Apertura and Clausura tournament and are promoted.
 
 
-
 ===== Relegation Table  ‹§2releg›
 
                         Games 2007-08 2008-09 2009-10    Pts Avg
@@ -1981,13 +1959,7 @@ Guerreros de Hermosillo    98    39      30      20       89 0,9082 Relegated
 NB: Guerreros de Hermosillo eventually allowed to remain at 2nd level
 
 
-
-
-
-
 ==== Liga Premier de Ascenso and Liga de Ascenso de Nuevos Talentos  ‹§ascenso2›
-
-
 ===== Liga Premier de Ascenso  ‹§premiera›
 
 NB: At the beginning of the season America Coapa (promoted from Liga de
@@ -2319,12 +2291,7 @@ Alto Rendimiento Tuzo FC Excelsior relegated to Fourth Level,
 later revoked by Mexican FA
 
 
-
-
-
-
 ==== Tercera Division Profesional  ‹§tercera›
-
 
 Group 1
  1 Chetumal FC                               30 21  5  4  79-28 71 (3) Qualified to Liguilla de Ascenso
@@ -2833,6 +2800,5 @@ Estudiantes Tecos         2-4  2-0 Guadalajara               [1-1 et, 2-4 pen]
 
 Guadalajara champions.
 "Filiales" cannot promote to Third Level
-
 
 

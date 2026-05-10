@@ -1,17 +1,12 @@
-  <!--
-     title:   Niger 2025/26
-     source:  https://rsssf.org/tablesn/niger2026.html
-     author:  Karel Stokkermans
-     updated: 29 Jan 2026
-    -->
+<!--
+   title:   Niger 2025/26
+   source:  https://rsssf.org/tablesn/niger2026.html
+   author:  Karel Stokkermans
+   updated: 29 Jan 2026
+  -->
 
 
 == Niger 2025/26
-
-
-
-
-
 ==== Superligue  ‹§l1›
 
 Table:

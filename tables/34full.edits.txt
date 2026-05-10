@@ -1,2 +1,12 @@
 -- removed 16 remaining nav html element(s):
 <UL> <LI> <UL> <LI> <LI> <LI> <LI> <LI> </UL> </UL> <UL> <LI> <LI> <LI> </UL> </UL>
+-- removing 9 leading nav line(s) in section 2:
+‹Results, see §results›
+‹Eightfinals, see §8fin›
+‹Quarterfinals, see §4fin›
+‹Semifinals, see §2fin›
+‹Third place match, see §3place›
+‹Final, see §final›
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›

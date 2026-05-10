@@ -1,17 +1,12 @@
-  <!--
-     title:   Mauritania 2025/26
-     source:  https://rsssf.org/tablesm/maur2026.html
-     author:  Karel Stokkermans
-     updated: 2 Apr 2026
-    -->
+<!--
+   title:   Mauritania 2025/26
+   source:  https://rsssf.org/tablesm/maur2026.html
+   author:  Karel Stokkermans
+   updated: 2 Apr 2026
+  -->
 
 
 == Mauritania 2025/26
-
-
-
-
-
 ==== Championnat National de Première Division  ‹§prem›
 
 Table:

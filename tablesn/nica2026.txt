@@ -1,22 +1,15 @@
-  <!--
-     title:   Nicaragua 2025/26
-     source:  https://rsssf.org/tablesn/nica2026.html
-     author:  Karel Stokkermans
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Nicaragua 2025/26
+   source:  https://rsssf.org/tablesn/nica2026.html
+   author:  Karel Stokkermans
+   updated: 7 May 2026
+  -->
 
 
 == Nicaragua 2025/26
-
-
-
-
-
 ==== Liga Nicaragüense de Fútbol  ‹§primera›
 
-
 ===== Torneo Apertura  ‹§1aper›
-
 
 Regular Stage  ‹§1aperreg›
 
@@ -247,7 +240,6 @@ Second Leg [Dec 20]
 Diriangén       1-0 Managua FC
 
 ===== Torneo Clausura  ‹§1clau›
-
 
 Regular Stage  ‹§1claureg›
 

@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 2003
-     source:  https://rsssf.org/tablesb/braz03.html
-     author:  RSSSF Brazil
-     updated: 25 Apr 2004
-    -->
+<!--
+   title:   Brazil 2003
+   source:  https://rsssf.org/tablesb/braz03.html
+   author:  RSSSF Brazil
+   updated: 25 Apr 2004
+  -->
 
 
 == Brazil 2003
@@ -1869,13 +1869,5 @@ Ageu            (Paraná for Ponte Preta)                        1
 Pereira         (Santos for Goiás)                              1
 Aderaldo        (Vitória for Grêmio)                            1
 Alecsandro      (Vitória for Criciúma)                          1
-
-
-
-
-
-
-
-
 
 

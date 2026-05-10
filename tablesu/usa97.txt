@@ -1,14 +1,12 @@
-  <!--
-     title:   USA 1997
-     source:  https://rsssf.org/tablesu/usa97.html
-     author:  Dave Litterer
-     updated: 25 Oct 2003
-    -->
+<!--
+   title:   USA 1997
+   source:  https://rsssf.org/tablesu/usa97.html
+   author:  Dave Litterer
+   updated: 25 Oct 2003
+  -->
 
 
 == USA 1997
-
-
 
                          MAJOR LEAGUE SOCCER (1st Division)
 
@@ -411,15 +409,5 @@ DC United 2 - 1 San Francisco Bay Seals
 FINAL
 Wednesday, October 29
 Dallas Burn 0 - 0 DC United (5-3)
-
-
-
-
-
-
-
-
-
-
 
 

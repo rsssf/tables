@@ -1,34 +1,10 @@
-  <!--
-     title:   World Cup 1998 finals
-     source:  https://rsssf.org/tables/98full.html
-
-    -->
+<!--
+   title:   World Cup 1998 finals
+   source:  https://rsssf.org/tables/98full.html
+  -->
 
 
 = World Cup 1998
-
-
-‹Results, see §results›
-
-‹Group A, see §gra›
-‹Group B, see §grb›
-‹Group C, see §grc›
-‹Group D, see §grd›
-‹Group E, see §gre›
-‹Group F, see §grf›
-‹Group G, see §grg›
-‹Group H, see §grh›
-‹Eightfinals, see §8fin›
-‹Quarterfinals, see §4fin›
-‹Semifinals, see §2fin›
-‹Finals, see §final›
-
-
-‹Squads, see §squads›
-‹Scorers' list, see §scorers›
-‹Coaches, assistants, reserve players, see §coaches›
-‹Oldest and youngest, see §records›
-
 
 France, 10 June - 12 July 1998 (Bordeaux, Lens, Lyon, Marseilles, Montpellier,
 Nantes, Paris, St.Denis, St.Etienne, Toulouse). Decided by FIFA Executive
@@ -38,8 +14,6 @@ in Paris. European play-offs drawn 13 Oct 1997 in Zürich. Finals drawn
 4 Dec 1997 in Marseilles.
 
 == Group Stage
-
-
 == Group A - BRA MAR NOR SCO  ‹§gra›
 
 10.06.98  (16.30) St.Denis, Stade de France
@@ -58,9 +32,6 @@ T.McKinlay), Lambert, Collins, Durie - Jackson (79 B.McKinlay), Gallacher
 booked: Aldair, César Sampaio / Jackson
 
 
-
-
-
 10.06.98  (20.00) Montpellier, Stade de la Mosson
 
 NOR - MAR 2:2 (1:1)
@@ -77,9 +48,6 @@ Chiba, Hadda (87 El Khattabi), Saber, Bassir - Hadji, El Khalej (90+ Azzouzi)
 booked: Chiba
 
 
-
-
-
 16.06.98  (16.30) Bordeaux, Stade Lescure
 
 SCO - NOR 1:1 (0:0)
@@ -94,9 +62,6 @@ Rekdal, H. Flo (60 Jakobsen), Solbakken - T.A.Flo, Riseth (71 Ostenstad)
 0:1 H.Flo 46, 1:1 Burley 66
 
 booked: Durie, Jackson / Rekdal, Berg
-
-
-
 
 
 16.06.96  (20.00) Nantes, Stade Atlantique
@@ -116,9 +81,6 @@ Anzine), Hadda (88 El Khattabi), Saber (76 Abrami), Bassir - Hadji, El Khalej
 booked: César Sampaio, Junior Baiano / Hadda, Chiba
 
 
-
-
-
 23.06.98  (21.00) Marseilles, Stade Vélodrome
 
 NOR - BRA 2:1 (0:0)
@@ -133,9 +95,6 @@ Leonardo, Denilson, Rivaldo - Bebeto, Ronaldo
 0:1 Bebeto 79, 1:1 T.A.Flo 83, 2:1 Rekdal 89 p
 
 booked: Leonhardsen, Mykland
-
-
-
 
 
 23.06.98  (21.00) St.Etienne, Stade G.Guichard
@@ -179,9 +138,6 @@ Salas
 booked: Chiesa, Di Livio, Cannavaro / Rojas, Acuña, Parraguez
 
 
-
-
-
 11.06.98  (20.00) Toulouse, Stade Municipal
 
 AUT - CAM 1:1 (0:0)
@@ -199,9 +155,6 @@ Angibeaud, Ndo, Ipoua (66 Job), Omam Biyik (c - 85 Tchami)
 booked: Pfeffer / Ipoua
 
 
-
-
-
 17.06.98  (16.30) St. Etienne, Stade G.Guichard
 
 AUT - CHI 1:1 (0:0)
@@ -217,9 +170,6 @@ Acuña, Parragues, Estay (57 Sierra) - Zamorano (c), Salas
 0:1 Salas 70, 1:1 Vastic 90+
 
 booked: Schöttel / Villaroel, Salas, Estay, Zamorano
-
-
-
 
 
 17.06.98  (20.00) Montpellier, Stade de la Mosson
@@ -240,9 +190,6 @@ booked: Costacurta, Di Biagio / Song, Njanka, Wome, Angibeaud
 sent-off: Kalla (43)
 
 
-
-
-
 23.06.98  (15.00) St.Denis, Stade de France
 
 ITA - AUT 2:1 (0:0)
@@ -258,9 +205,6 @@ AUT: Konsel - Schöttel, Feiersinger, Pfeffer - Wetl, Mählich, Pfeifenberger
 1:0 Vieri 49 h, 2:0 R.Baggio 90, 2:1 Herzog 90+ p
 
 booked: Maldini / Feiersinger, Vastic, Schöttel
-
-
-
 
 
 23.06.98  (15.00) Nantes, Stade Atlantique
@@ -304,9 +248,6 @@ Ouwairan (79 O.Al Dosari), Al Mowalad
 booked: Wieghorst, Rieper, A.Nielsen / Al Mowalad
 
 
-
-
-
 12.06.98  (20.00) Marseilles, Stade Vélodrome
 
 FRA - SAF 3:0 (1:0)
@@ -341,9 +282,6 @@ booked: Schmeichel, Høgh, Schjönberg / Issa, Nyathi, Radebe, Phiri
 sent off: Molnar (67), Wieghorst (85) / Phiri (70)
 
 
-
-
-
 18.06.98  (20.00) St.Denis, Stade de France
 
 FRA - ARS 4:0 (1:0)
@@ -363,9 +301,6 @@ booked: Blanc, Lizarazu / Al Jahani, Al Jaber
 sent off: Zidane (71) / Al Khlaiwi (19)
 
 
-
-
-
 24.06.98  (15.00) Lens, Stade Felix Bollaert
 
 FRA - DAN 2:1 (1:1)
@@ -382,9 +317,6 @@ B.Laudrup (75 Tøfting)
 1:0 Djorkaeff 23 p, 1:1 M.Laudrup 42 p, 2:1 Petit 56
 
 booked: Vieira, Dioméde / Colding, Tøfting
-
-
-
 
 
 24.06.98  (15.00) Bordeaux, Stade Lescure
@@ -423,9 +355,6 @@ booked: Nankov, Stoichkov, Ivanov, Nankov (2) / Benitez
 sent off: Nankov (89)
 
 
-
-
-
 13.06.98  (13.30) Nantes, Stade Atlantique
 
 NGA - ESP 3:2 (1:1)
@@ -445,9 +374,6 @@ booked: Okechukwu / Amor, Nadal, Ivan Campo
 NOTE: Some sources award Lawal's goal to Zubizarreta's own goal.
 
 
-
-
-
 19.06.98  (16.30) Paris, Parc des Princes
 
 NGA - BUL 1:0 (1:0)
@@ -465,9 +391,6 @@ Kostadinov
 booked: Adepoju, Ochechukwu, Okocha, Ipkeba / Illev, Kischischev
 
 
-
-
-
 19.06.98  (20.00) St. Etienne, Stade G.Guichard
 
 ESP - PAR 0:0
@@ -481,9 +404,6 @@ PAR: Chilavert (c) - Arce, Ayala, Gamarra, Sarabia, Caniza -  Acuna
 (73 Yegros), Benitez, Enciso - Campos (46 Paredes), A.Rojas (83 Ramirez)
 
 booked: Sergi, Kiko / Ayala, Arce
-
-
-
 
 
 24.06.98  (20.00) Lens, Stade Felix Bollaert
@@ -505,9 +425,6 @@ Borimirov, Gintchev, Jordanov, Balakov (60 Khristov), Batchev - Stoichkov
 booked: Aguilera, J.Guerrero / Penev, Batchev
 
 NOTE: Some sources award the last goal to Batchev's own goal.
-
-
-
 
 
 24.06.98  (20.00) Toulouse, Stade Muncipal
@@ -567,9 +484,6 @@ booked: Staelens, Deflandre
 sent off: Kluivert (79)
 
 
-
-
-
 20.06.98  (16.30) Bordeaux, Stade Lescure
 
 BEL - MEX 2:2 (1:0)
@@ -586,9 +500,6 @@ Garcia Aspe (c - 68 Lara), Ordiales (58 Villa), Ramirez - Blanco, Hernández
 
 booked: Vidovic / Ramirez, Blanco (after first half)
 sent off: Verheyen (55) / Pardo (29)
-
-
-
 
 
 20.06.98  (20.00) Marseilles, Stade Vélodrome
@@ -611,9 +522,6 @@ R.de Boer 83
 booked; Choi Yong-soo, Ko Jong-soo
 
 
-
-
-
 25.06.98  (15.00) St.Etienne
 
 HOL - MEX 2:2 (2:0)
@@ -630,9 +538,6 @@ Garcia Aspe (c), Luna (46 Arellano), Ramirez - Blanco, Hernández
 
 booked: Stam, Numan / Villa, Hernández, Carmona, Pelaez
 sent off: Ramirez (89)
-
-
-
 
 
 25.06.98  (15.00) Paris, Parc des Princes
@@ -676,9 +581,6 @@ Pashazadeh, Minavand, Daei - Bagheri, Azizi
 booked: Petrović, Stojković
 
 
-
-
-
 15.06.98  (20.00) Paris, Parc des Princes
 
 GER - USA 2:0 (1:0)
@@ -693,9 +595,6 @@ Deering (70 Ramos), Maisonneuve, Stewart, Reyna - Wynalda (65 Wegerle)
 1:0 Möller 8 h, 2:0 Klinsmann 65
 
 booked: Jeremies, Hamann, Heinrich / Hejduk, Pope
-
-
-
 
 
 21.06.98  (13.30) Lens, Stade Felix Bollaert
@@ -718,9 +617,6 @@ NOTE: Some sources award the first goal to Stojković and the
 third goal to Tarnat.
 
 
-
-
-
 21.06.98  (20.00) Lyon, Stade Garland
 
 IRN - USA 2:1 (1:0)
@@ -738,9 +634,6 @@ Wegerle (57 Radosavljevic), Moore, Ramos (57 Stewart), Jones - McBride, Reyna
 booked: Minavand, Zanricheh / Regis
 
 
-
-
-
 25.06.98  (20.00) Montpellier, Stade de la Mosson
 
 GER - IRN 2:0 (0:0)
@@ -755,9 +648,6 @@ Mohammadi) - Pashzadeh, Khani, Minnavand, Daei - Azizi, Bagheri
 1:0 Bierhoff 50 h, 2:0 Klinsmann 57
 
 booked: Klinsmann, Häßler / Daei
-
-
-
 
 
 25.06.98  (20.00) Nantes, Stade Atlantique
@@ -817,9 +707,6 @@ Valderrama (c), Rincon, Aristizabal (46 Valencia) - Asprilla (85 Preciado).
 booked: Filipescu, Petrescu, Manteanu / Santa
 
 
-
-
-
 22.06.98  (16.30) Montpellier, Stade de la Mosson
 
 COL - TUN 1:0 (0:0)
@@ -836,9 +723,6 @@ Ghodbane) - Chihi, Baya (73 Ben Ahmed), Souayah, Bouazizi - Sellimi
 1:0 Preciado 83
 
 booked: Santa / Clayton, Bouazizi
-
-
-
 
 
 22.06.98  (20.00) Toulouse, Stade Municipal
@@ -858,9 +742,6 @@ Batty, Le Saux, Scholes - Shearer (c), Sheringham (72 Owen)
 booked: Hagi, Gh.Popescu, Ciobotariu, Filipescu
 
 
-
-
-
 26.06.98  (20.00) St.Denis, Stade de France
 
 ROM - TUN 1:1 (0:1)
@@ -877,9 +758,6 @@ Thabet) - Bouazizi, Souayah (90 Ben Younes), Beya, Chichi - Ben Slimane
 0:1 Souayah 10 p, 1:1 Moldovan 72
 
 booked: Beya, Souayah
-
-
-
 
 
 26.06.98  (20.00) Lens, Stade Felix Bollaert
@@ -921,9 +799,6 @@ Nanami, Yamaguchi, Soma (85 Hirano) -- Jo, Nakayama (67 Lopes)
 booked: Ihara, Nakanishi, Nanami
 
 
-
-
-
 14.06.98  (20.00) Lens, Stade Felix Bollaert
 
 CRO - JAM 3:1 (1:1)
@@ -938,9 +813,6 @@ Earle (74 Williams), Gardner, Lowe, Sinclair - Burton, Hall (81 Boyd)
 1:0 Stanić 27, 1:1 Earle 45, 2:1 Prosinečki 53, 3:1 Šuker 69
 
 booked: Soldo, Šimić / Burton
-
-
-
 
 
 20.06.98  (13.30) Nantes, Stade Atlantique
@@ -958,9 +830,6 @@ Morishima) - Nakata, Nanami (84 Lopes), Yamaguchi, Soma - Jo, Nakayama
 1:0 Šuker 77
 
 booked: Prosinečki, Stanić / Nanami, Nakamishi, Akita
-
-
-
 
 
 21.06.98  (16.30) Paris, Parc des Princes
@@ -981,9 +850,6 @@ booked; Chamot / Powell, Cargill
 sent off: Powell (45)
 
 
-
-
-
 26.06.98  (16.00) Bordeaux, Stade Lescure
 
 ARG - CRO 1:0 (1:0)
@@ -998,9 +864,6 @@ CRO: Ladić - Soldo, Bilić, Šimić - Marić (46 Vlaović), Prosinečki (68
 1:0 Pineda 34
 
 booked: Ortega, Ayala, Vivas / Soldo, Jarni, Boban, Bilić
-
-
-
 
 
 26.06.98  (15.00) Lyon, Stade Garland
@@ -1042,9 +905,6 @@ Leonhardsen (13 Strand, 40 Solbakken), Rekdal, Riseth - Mykland, T.A.Flo
 booked: Maldini, Di Biagio, Moriero / H.Flo, Rekdal, Mykland
 
 
-
-
-
 27.06.98  (20.00) Paris, Parc des Princes
 
 BRA - CHI 4:1 (3:0)
@@ -1060,9 +920,6 @@ Ramirez (46 Estay), Sierra (46 Vega), Aros - Salas, Zamorano (c)
 4:1 Ronaldo 69
 
 booked: Leonardo, Cafú / Fuentes, Tapia
-
-
-
 
 
 28.06.98  (15.30)  Lens, Stade Felix Bollaert
@@ -1082,9 +939,6 @@ A.Rojas), Paredes (74 Caniza), Enciso - Campos (55 Yegros), Benitez
 booked: Chilavert, Benitez, Arce, A.Rojas, Enciso
 
 
-
-
-
 28.06.98  (20.00) St.Denis, Stade de France
 
 DAN - NGA 4:1 (2:0)
@@ -1102,9 +956,6 @@ Babangida), Oliseh, Finidi - Kanu (65 Yekini), Ipkeba, Okocha
 booked: Rieper / Okocha
 
 
-
-
-
 29.06.98  (15.30) Montpellier, Stade de la Mosson
 
 GER - MEX 2:1 (0:0)
@@ -1119,9 +970,6 @@ Bernal (46 Carmona), Garcia Aspe (c - 86 Pelaez), Villa - Hernández, Blanco
 0:1 Hernández 47, 1:1 Klinsmann 75, 2:1 Bierhoff 86 h
 
 booked: Tarnat, Hamann, Matthäus, Babbel / Davino, Blanco
-
-
-
 
 
 29.06.98  (20.00) Toulouse, Stade Municipal
@@ -1142,9 +990,6 @@ penalty)
 booked: Stojković, Mirković, Djorović
 
 
-
-
-
 30.06.98  (15.30) Bordeaux, Stande Lescure
 
 CRO - ROM 1:0 (1:0)
@@ -1160,9 +1005,6 @@ Munteanu - A.Ilie, Moldovan.
 1:0 Šuker 45 p (penalty was repeated)
 
 booked: Boban, Bilić / Gh.Popescu, Petrescu, A.Ilie
-
-
-
 
 
 30.06.98  (20.00) St.Etienne, Stade G.Guichard
@@ -1206,9 +1048,6 @@ Vieri, 4:3 Blanc, (4:3) Di Biaggio (out)
 booked: Deschamps, Guivarc'h / Costacurta, Bergomi, Del Piero
 
 
-
-
-
 03.07.98  (20.00) Nantes, Stade Atlantique
 
 BRA - DAN 3:2 (2:1)
@@ -1228,9 +1067,6 @@ B.Laudrup
 booked: Cafú, Aldair, Roberto Carlos / Helveg, Colding, Tøfting
 
 
-
-
-
 04.07.98  (20.00) Marseilles, Stade Vélodrome
 
 HOL - ARG 2:1 (1:0)
@@ -1246,9 +1082,6 @@ Pineda), Simeone (c), Veron, Ortega - López, Batistuta
 
 booked: Stam, Numan / Chamot, Sensini
 sent off: Numan (76) / Ortega (87)
-
-
-
 
 
 04.07.98  (20.00) Lyon, Stade Garland
@@ -1288,9 +1121,6 @@ Penalties: 1:0 Ronaldo, 1:1 F.de Boer, 2:1 Rivaldo, 2:2 Bergkamp, 3:2 Emerson,
 (3:2) Cocu (save Taffarel), 4:2 Dunga, (4:2) R.de Boer (save Taffarel)
 
 booked: César Sampaio, Zé Carlos / Reiziger, Davids, Seedorf, van Hooijdonk
-
-
-
 
 
 08.07.98  (20.00) St.Denis, Stade de France

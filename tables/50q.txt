@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1950 Qualifying
-     source:  https://rsssf.org/tables/50q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 5 Jul 2017
-    -->
+<!--
+   title:   World Cup 1950 Qualifying
+   source:  https://rsssf.org/tables/50q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 5 Jul 2017
+  -->
 
 
 == World Cup 1950 Qualifying
@@ -80,11 +80,5 @@ Burma withdrew, India had a walkover.
 Philippines and Indonesia withdrew.
 2nd round
 India had a walkover, qualified, but withdrew.
-
-
-
-
-
-
 
 

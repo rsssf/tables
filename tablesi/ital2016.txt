@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 2015/16
-     source:  https://rsssf.org/tablesi/ital2016.html
-     author:  Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   Italy 2015/16
+   source:  https://rsssf.org/tablesi/ital2016.html
+   author:  Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
 
 == Italy 2015/16
-
-
-
-
-
 ==== Serie A  ‹§seriea›
 
 Final Table:
@@ -616,10 +611,6 @@ Final Table:
 20.Hellas Verona FC    38   5 13 20  34-63  28  Relegated
 
 
-
-
-
-
 ==== Coppa Italia  ‹§coppa›
 
 Round 1 [Aug 2]
@@ -825,13 +816,7 @@ Juventus: Neto, Rugani, Barzagli, Chiellini, Lichtsteiner (Cuadrado 75),
   Mandzukic. Tr.: Allegri
 
 
-
-
-
-
 ==== Serie B  ‹§serieb›
-
-
 ===== Regular Season  ‹§2reg›
 
 Final Table:

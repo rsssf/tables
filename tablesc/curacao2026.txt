@@ -1,19 +1,13 @@
-  <!--
-     title:   Curaçao 2025/26
-     source:  https://rsssf.org/tablesc/curacao2026.html
-     author:  Karel Stokkermans
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Curaçao 2025/26
+   source:  https://rsssf.org/tablesc/curacao2026.html
+   author:  Karel Stokkermans
+   updated: 5 May 2026
+  -->
 
 
 == Curaçao 2025/26
-
-
-
-
-
 ==== Promé Divishon  ‹§curpaga›
-
 
 Regular Season  ‹§reg›
 

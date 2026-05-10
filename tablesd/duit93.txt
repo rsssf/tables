@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1992/93
-     source:  https://rsssf.org/tablesd/duit93.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1992/93
+   source:  https://rsssf.org/tablesd/duit93.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1992/93
-
 
 Final Table
 
@@ -680,6 +679,5 @@ Werder Bremen 1992/93
           Arie VAN LENT       2  (  30)
       Miroslav VOTAVA CZE    33  (2950) + 3
         Thomas WOLTER        31  (2580) + 2
-
 
 

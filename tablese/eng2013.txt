@@ -1,17 +1,12 @@
-  <!--
-     title:   England 2012/13
-     source:  https://rsssf.org/tablese/eng2013.html
-     author:  Karel Stokkermans
-     updated: 5 Feb 2015
-    -->
+<!--
+   title:   England 2012/13
+   source:  https://rsssf.org/tablese/eng2013.html
+   author:  Karel Stokkermans
+   updated: 5 Feb 2015
+  -->
 
 
 == England 2012/13
-
-
-
-
-
 ==== Premiership  ‹§premier›
 
 Final Table:
@@ -620,12 +615,7 @@ Final Table:
 20.Queens Park Rangers     38   4 13 21  30-60  25  Relegated
 
 
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== FA Cup  ‹§facup›
 
 Round 1
@@ -982,12 +972,7 @@ Final [Feb 24, London]
 Bradford City           0-5 Swansea City
 
 
-
-
-
 ==== Championship  ‹§champ›
-
-
 ===== Regular Stage  ‹§2reg›
 
 Final Table:
@@ -1042,12 +1027,7 @@ C Palace      1-0 Watford       [aet]
 NB: Crystal Palace promoted
 
 
-
-
-
 ==== Division 1  ‹§first›
-
-
 ===== Regular Stage  ‹§3reg›
 
 Final Table:
@@ -1100,12 +1080,7 @@ Brentford     1-2 Yeovil
 NB: Yeovil Town promoted
 
 
-
-
-
 ==== Division 2  ‹§second›
-
-
 ===== Regular Stage  ‹§4reg›
 
 Final Table:
@@ -1156,13 +1131,7 @@ Bradford      3-0 Northampton
 NB: Bradford City promoted
 
 
-
-
-
 ==== Conference  ‹§conf›
-
-
-
 ===== Regular Stage  ‹§5reg›
 
 Final Table:
@@ -1215,7 +1184,5 @@ Final [May 5]
 Wrexham       0-2 Newport
 
 NB: Newport County promoted
-
-
 
 

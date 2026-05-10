@@ -1,17 +1,12 @@
-  <!--
-     title:   Alaska 2025
-     source:  https://rsssf.org/tablesa/alaska2025.html
-     author:  Martin Arenlind
-     updated: 23 Dec 2025
-    -->
+<!--
+   title:   Alaska 2025
+   source:  https://rsssf.org/tablesa/alaska2025.html
+   author:  Martin Arenlind
+   updated: 23 Dec 2025
+  -->
 
 
 == Alaska 2025
-
-
-
-
-
 ==== UPSL A League Alaska  ‹§upsl›
 
 Final Table:
@@ -86,6 +81,5 @@ Final Table:
  4.Alaska Arctic Rush (Anchorage)   9  4  1  4  13-11  13
  5.Fairbanks SC (Fairbanks)        10  1  2  7  10-26   5
  6.Icemen FC (Fairbanks)           10  1  1  8   8-26  -2  [-6]
-
 
 

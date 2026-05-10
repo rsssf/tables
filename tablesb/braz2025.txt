@@ -1,17 +1,12 @@
-  <!--
-     title:   Brazil 2025
-     source:  https://rsssf.org/tablesb/braz2025.html
-     author:  Karel Stokkermans
-     updated: 23 Dec 2025
-    -->
+<!--
+   title:   Brazil 2025
+   source:  https://rsssf.org/tablesb/braz2025.html
+   author:  Karel Stokkermans
+   updated: 23 Dec 2025
+  -->
 
 
 == Brazil 2025
-
-
-
-
-
 ==== Série A  ‹§sa›
 
 Final Table:
@@ -37,10 +32,6 @@ Final Table:
 18.Fortaleza             38  11 10 17  43-58  43       Relegated
 19.Juventude             38   9  8 21  35-69  35       Relegated
 20.Sport Recife          38   2 11 25  28-75  17  [P]  Relegated
-
-
-
-
 
 
 ==== Copa do Brasil 2025  ‹§cb›
@@ -84,9 +75,6 @@ Second Leg [Dec 21]
 Vasco da Gama   1-2 Corinthians
 
 
-
-
-
 ==== Série B  ‹§sb›
 
 Final Table:
@@ -113,10 +101,6 @@ Final Table:
 18.Amazonas              38   8 12 18  38-55  36       Relegated
 19.Volta Redonda         38   8 12 18  26-43  36  [P]  Relegated
 20.Paysandu              38   5 13 20  36-52  28       Relegated
-
-
-
-
 
 
 ==== Série C  ‹§sc›

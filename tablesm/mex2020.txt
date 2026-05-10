@@ -1,22 +1,15 @@
-  <!--
-     title:   Mexico 2019/20
-     source:  https://rsssf.org/tablesm/mex2020.html
-     author:  Erik Francisco Lugo
-     updated: 18 Feb 2021
-    -->
+<!--
+   title:   Mexico 2019/20
+   source:  https://rsssf.org/tablesm/mex2020.html
+   author:  Erik Francisco Lugo
+   updated: 18 Feb 2021
+  -->
 
 
 == Mexico 2019/20
-
-
-
-
-
 ==== Liga MX  ‹§pdn›
 
-
 ===== Apertura 2019  ‹§1aper›
-
 
 Regular Stage  ‹§apreg›
 
@@ -657,7 +650,6 @@ Coach: Antonio Mohamed (ARG)
 
 ===== Clausura 2020  ‹§1clau›
 
-
 Regular Stage  ‹§clreg›
 
 Table at abandonment:
@@ -1008,12 +1000,7 @@ or if each team wish, may be voluntarily relegated.
 On June 2, Monarcas Morelia sold its license to Mazatlán FC.
 
 
-
-
-
-
 ==== Copa MX 2019/20  ‹§copa›
-
 
 NB: Since 2019-20 season the Cup tournament become annual.
     The Cup Tournament is played by 15 teams from the Liga MX (first level) and
@@ -1470,37 +1457,18 @@ José Alvarado      FWD
 Coach: Antonio Mohamed (ARG)
 
 
-
-
-
-
 ==== Campeón de Campeones  ‹§campcamp›
-
 
 Cancelled due to Covid-19 pandemic.
 
 
-
-
-
-
 ==== Supercopa MX  ‹§supcopa›
-
-
 
 Not held; since the Cup became annual this trophy was discontinued.
 
 
-
-
-
-
-
 ==== Ascenso MX  ‹§ascenso›
-
-
 ===== Apertura 2019  ‹§2aper›
-
 
 ====== Regular Stage  ‹§2aperreg›
 
@@ -1801,10 +1769,7 @@ Estadio Instituto Tecnológico de Oaxaca, Oaxaca
 Alebrijes            2-2 CA Zacatepec
 
 
-
 ===== Clausura 2020  ‹§2clau›
-
-
 ====== Regular Stage  ‹§2claureg›
 
 Changes before season:
@@ -1993,6 +1958,5 @@ NB: between top-7 of regular season; cancelled due to Covid-19 pandemic
 ===== Promotion Playoff  ‹§2prom›
 
 NB: not held
-
 
 

@@ -1,9 +1,9 @@
-  <!--
-     title:   England 2006/07
-     source:  https://rsssf.org/tablese/eng07.html
-     author:  Ian King
-     updated: 22 Aug 2008
-    -->
+<!--
+   title:   England 2006/07
+   source:  https://rsssf.org/tablese/eng07.html
+   author:  Ian King
+   updated: 22 Aug 2008
+  -->
 
 
 == England 2006/07
@@ -793,7 +793,6 @@ Final Table:
 20.Watford                 38   5 13 20  29-59  28  Relegated
 
 
-
 FA Cup 2006/07
 
 
@@ -1132,7 +1131,6 @@ Manchester United          0-1 Chelsea           [aet]
   [Drogba 116]
 
 
-
 Community Shield 2007 [Aug 5, Wembley]
 Chelsea                    1-1 Manchester United [0-3 pen]
   [Malouda 45; Giggs 35]
@@ -1366,7 +1364,6 @@ Arsenal                 1-2 Chelsea
   [Walcott 12; Drogba 20, 84]
 
 
-
 Associate Members Cup (Johnstone's Paint Trophy)
 
 
@@ -1510,7 +1507,6 @@ Bristol Rovers          1-0 Bristol City
 
 Overall Final [Apr 1]
 Doncaster Rovers        3-2 Bristol Rovers       [aet]
-
 
 
 Second Level 2006/07
@@ -4094,7 +4090,6 @@ Final [May 26]
 Bristol Rovers          3-1 Shrewsbury Town
 
 
-
 Fifth Level 2006/07
 
 
@@ -4247,15 +4242,5 @@ Braintree Town          1-1 Havant & W            [aet, 4-2 pen]
 
 Final [May 13]
 Salisbury City          1-0 Braintree Town
-
-
-
-
-
-
-
-
-
-
 
 

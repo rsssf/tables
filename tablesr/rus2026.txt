@@ -1,17 +1,12 @@
-  <!--
-     title:   Russia 2025/26
-     source:  https://rsssf.org/tablesr/rus2026.html
-     author:  Theodore Dreiman
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Russia 2025/26
+   source:  https://rsssf.org/tablesr/rus2026.html
+   author:  Theodore Dreiman
+   updated: 5 May 2026
+  -->
 
 
 == Russia 2025/26
-
-
-
-
-
 ==== Russian Premier League  ‹§1l›
 
 MIR RUSSIAN PREMIER LEAGUE 2025/26
@@ -781,9 +776,6 @@ Rubin      -  Pari NN
 Baltika    -  Dinamo Ms
 Dinamo Mh  -  Spartak
 Soci       -  Ahmat
-
-
-
 
 
 ==== Premier League - Details  ‹§1ldet›
@@ -3653,11 +3645,6 @@ Referee: Sergéj Cyganók (Vladivostók)
 03.05.26. Olympic Stadium Fišt, Sóči. Att: 3,170. +11°C, light rain.
 
 
-
-
-
-
-
 ==== Russian Cup 2025/26  ‹§kubok›
 
 D1 = Russian Premier League (RPL)
@@ -4517,10 +4504,6 @@ L.Olaza 17, M.Musájev (head coach) 19, A.Čérnikov 28, V.Páĺcev 44.
 Red card: A.Čérnikov 90 (slap in the face).
 Referee: Iván Abrósimov (Sankt-Peterbúrg)
 08.04.26. VTB Arena, Moskvá. Att: 22,694. +3°C, light rain.
-
-
-
-
 
 
 ==== First League  ‹§2l›
@@ -5431,12 +5414,7 @@ Celjabinsk  -  Sinnik
 Cernomorec  -  Ural
 
 
-
-
-
-
 ==== Second League - Division A  ‹§3la›
-
 
 Golden Group  ‹§3gg›
 

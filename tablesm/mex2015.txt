@@ -1,23 +1,15 @@
-  <!--
-     title:   Mexico 2014/15
-     source:  https://rsssf.org/tablesm/mex2015.html
-     author:  Erik Francisco Lugo
-     updated: 18 Feb 2021
-    -->
+<!--
+   title:   Mexico 2014/15
+   source:  https://rsssf.org/tablesm/mex2015.html
+   author:  Erik Francisco Lugo
+   updated: 18 Feb 2021
+  -->
 
 
 == Mexico 2014/15
-
-
-
-
-
 ==== Liga MX  ‹§pdn›
 
-
-
 ===== Apertura 2014  ‹§1aper›
-
 
 Regular Stage  ‹§apreg›
 
@@ -572,7 +564,6 @@ NB: Tigres and Atlas qualified to Group Phase,
 
 
 ===== Clausura 2015  ‹§1clau›
-
 
 Regular Stage  ‹§clreg›
 
@@ -1138,12 +1129,7 @@ Jorge Djaniny Tabares   FWD (Cape Verde Islands)
 Coach: Pedro Faria Caixinha (POR)
 
 
-
-
-
-
 ==== Copa MX Apertura 2014  ‹§copa›
-
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     14 teams from the Ascenso MX (second level);
@@ -1505,7 +1491,6 @@ Santos            2-2 Puebla            [4-2 pen]
 Santos Laguna Cup champions
 
 
-
 Topscorers
 Player         Team      Goals
 Andrés Rentería      Santos       6
@@ -1519,7 +1504,6 @@ Martín Barragán      Atlas       3
 Fausto Ruiz      Atl. San Luis    3
 Isaac Alejandro Díaz   Jaguares    3
 Diego Hernández      Coras       3
-
 
 
 Santos Laguna roster team
@@ -1548,13 +1532,7 @@ Peterson Silvino   FWD (Brazil)
 Coach: Pedro Caixinha [POR]
 
 
-
-
-
-
-
 ==== Copa MX Clausura 2015  ‹§copac›
-
 
 NB: the Cup Tournament is played by 11 teams from the Liga MX (first level) and
     13 teams from the Ascenso MX (second level);
@@ -1797,7 +1775,6 @@ Jaguares          3-1 Pumas              [agg 6-1; Jaguares won a extra point]
   [Isaac Alejandro Díaz 13, Silvio Romero 53pen, Franco Arizala 57; Eduardo Herrera 2]
 
 
-
 Tables:
 
 Group 1
@@ -1880,7 +1857,6 @@ Puebla            4-2 Guadalajara
 Puebla Cup champions
 
 
-
 Topscorers
 Player         Team      Goals
 Isaac Alejandro Díaz   Jaguares    5
@@ -1893,8 +1869,6 @@ Andrés Andrade      Jaguares    3
 Miguel Alejandro Nuño   Coras        3
 Erick Torres      Guadalajara    3
 Othoniel Arce      Lobos BUAP    3
-
-
 
 
 Puebla roster team
@@ -1931,11 +1905,6 @@ Wilberto Cosme      FWD (Colombia)
 Coach: José Guadalupe Cruz [MEX]
 
 
-
-
-
-
-
 ==== Campeón de Campeones  ‹§campcamp›
 
 Between winners of Liga MX Apertura 2014 (América) and winners of Liga MX Clausura 2015 (Santos)
@@ -1946,10 +1915,6 @@ One single leg played [Jul 20]
 Toyota Stadium, Frisco, Texas, USA
 América           0-1 Santos
   [Néstor Calderón 17pen]
-
-
-
-
 
 
 ==== Supercopa MX  ‹§supcopa›
@@ -1968,13 +1933,7 @@ Morelia           0-1 Puebla
 Puebla qualified to Preliminary Round of Copa Libertadores 2016
 
 
-
-
-
-
 ==== Ascenso MX  ‹§ascenso›
-
-
 ===== Apertura 2014  ‹§2aper›
 
 Changes before season:
@@ -2239,8 +2198,6 @@ Coras             4-4 Necaxa         [aet; 4-5 pen]
 
 
 ===== Clausura 2015  ‹§2clau›
-
-
 ====== Regular Stage  ‹§2claureg›
 
 Participants:

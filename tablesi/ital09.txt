@@ -1,9 +1,9 @@
-  <!--
-     title:   Italy 2008/09
-     source:  https://rsssf.org/tablesi/ital09.html
-     author:  Andrea Ferrigno
-     updated: 12 Aug 2009
-    -->
+<!--
+   title:   Italy 2008/09
+   source:  https://rsssf.org/tablesi/ital09.html
+   author:  Andrea Ferrigno
+   updated: 12 Aug 2009
+  -->
 
 
 == Italy 2008/09
@@ -1042,22 +1042,5 @@ Final Table:
 18.Torino FC           38  8 10 20  37-61  34  Relegated
 19.Reggina Calcio      38  6 13 19  30-62  31  Relegated
 20.US Lecce            38  5 15 18  37-67  30  Relegated
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

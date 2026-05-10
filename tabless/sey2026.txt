@@ -1,17 +1,12 @@
-  <!--
-     title:   Seychelles 2025/26
-     source:  https://rsssf.org/tabless/sey2026.html
-     author:  Karel Stokkermans
-     updated: 26 Mar 2026
-    -->
+<!--
+   title:   Seychelles 2025/26
+   source:  https://rsssf.org/tabless/sey2026.html
+   author:  Karel Stokkermans
+   updated: 26 Mar 2026
+  -->
 
 
 == Seychelles 2025/26
-
-
-
-
-
 ==== Premier League  ‹§prem›
 
 Table:
@@ -242,10 +237,6 @@ St Michel           -  Revengers
 [May 23]
 Lightstars          -  St Louis
 Foresters           -  Côte d'Or
-
-
-
-
 
 
 ==== Premier League Tournament  ‹§plt›

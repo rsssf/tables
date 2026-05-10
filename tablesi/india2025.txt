@@ -1,19 +1,13 @@
-  <!--
-     title:   India 2024/25
-     source:  https://rsssf.org/tablesi/india2025.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 14 Jan 2026
-    -->
+<!--
+   title:   India 2024/25
+   source:  https://rsssf.org/tablesi/india2025.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 14 Jan 2026
+  -->
 
 
 == India 2024/25
-
-
-
-
-
 ==== ISL 2024/25  ‹§circus›
-
 
 ===== Regular Stage  ‹§circreg›
 
@@ -373,10 +367,6 @@ Final [Apr 12]
 Mohun Bagan         2-1 Bengaluru FC        [aet]
 
 
-
-
-
-
 ==== 78th Santosh Trophy 2024  ‹§santosh›
 
 Group Stage
@@ -625,10 +615,6 @@ West Bengal         1-0 Kerala
   [Robi Hansda 90+4]
 
 
-
-
-
-
 ==== Durand Cup 2024  ‹§durand›
 
 Group Stage
@@ -691,10 +677,6 @@ Final [Aug 31]
 Mohun Bagan         2-2 NorthEast United FC [3-4 pen]
 
 
-
-
-
-
 ==== Governor's Gold Cup (Sikkim) 2024  ‹§sikkimgov›
 
 NB: played in Gangtok, Sikkim
@@ -727,6 +709,5 @@ Gangtok Himalayan   2-1 Chennaiyin FC
 
 Final [Nov 24]
 NorthEast United FC 0-0 Gangtok Himalayan   [4-3 pen]
-
 
 

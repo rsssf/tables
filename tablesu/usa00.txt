@@ -1,9 +1,9 @@
-  <!--
-     title:   USA 2000
-     source:  https://rsssf.org/tablesu/usa00.html
-     author:  Dave Litterer
-     updated: 11 Jan 2003
-    -->
+<!--
+   title:   USA 2000
+   source:  https://rsssf.org/tablesu/usa00.html
+   author:  Dave Litterer
+   updated: 11 Jan 2003
+  -->
 
 
 == USA 2000
@@ -459,7 +459,6 @@ Kansas City 1-0 Chicago
   [Miklos Molnar 11]
 
 
-
 THE A-LEAGUE (2nd Division)
 
                             GP   W   L   D   GF  GA  BP Pts
@@ -749,16 +748,5 @@ Quarterfinals:          Utah defeated Arizona 9-3
 Semifinals:             Monterrey defeated St. Louis 7-3
                         Dallas defeated Utah 7-4
 CHAMPIONSHIP:           Monterrey defeated Dallas 6-5 (SO)
-
-
-
-
-
-
-
-
-
-
-
 
 

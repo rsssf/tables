@@ -1,23 +1,15 @@
-  <!--
-     title:   El Salvador 2025/26
-     source:  https://rsssf.org/tablese/elsal2026.html
-     author:  Karel Stokkermans
-     updated: 5 May 2026
-    -->
+<!--
+   title:   El Salvador 2025/26
+   source:  https://rsssf.org/tablese/elsal2026.html
+   author:  Karel Stokkermans
+   updated: 5 May 2026
+  -->
 
 
 == El Salvador 2025/26
-
-
-
-
-
 ==== Primera División  ‹§primera›
 
-
 ===== Campeonato Apertura 2025  ‹§1aper›
-
-
 ====== Regular Stage  ‹§1aperreg›
 
 Final Table:
@@ -310,8 +302,6 @@ Final [Dec 20]
 LA Firpo         0-0 Alianza          [aet, 5-4 pen]
 
 ===== Campeonato Clausura 2026  ‹§1clau›
-
-
 ====== Regular Stage  ‹§1claureg›
 
 Final Table:

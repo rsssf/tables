@@ -1,16 +1,12 @@
-  <!--
-     title:   USA 2008
-     source:  https://rsssf.org/tablesu/usa08.html
-     author:  David A. Litterer
-     updated: 7 May 2010
-    -->
+<!--
+   title:   USA 2008
+   source:  https://rsssf.org/tablesu/usa08.html
+   author:  David A. Litterer
+   updated: 7 May 2010
+  -->
 
 
 == USA 2008
-
-
-
-
 
 Major League Soccer
 
@@ -484,7 +480,6 @@ MLS Cup [Nov 23]
 Columbus Crew           3-1 New York Red Bulls
 
 
-
 USL - 1ST DIVISION (2nd Division)
 
 Final Table:
@@ -560,7 +555,6 @@ Charlotte Eagles         2-1 Crystal Palace Baltimore
 
 Final [Aug 23]
 Charlotte Eagles         1-2 Cleveland City Stars
-
 
 
 US Open Cup 2008
@@ -782,15 +776,5 @@ Divisional Playoffs:  Sonoma County defeated San Diego United 3-1
 Semi-Finals:          Pennsylvania defeated Sonoma County
                       St. Paul defeated Long Island Academy (4-2 PK)
 FINAL:                Pennsylvania defeated St. Paul 3-0.
-
-
-
-
-
-
-
-
-
-
 
 

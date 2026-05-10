@@ -1,17 +1,12 @@
-  <!--
-     title:   Spain 2010/11
-     source:  https://rsssf.org/tabless/span2011.html
-     author:  Anthony Zea
-     updated: 25 Mar 2024
-    -->
+<!--
+   title:   Spain 2010/11
+   source:  https://rsssf.org/tabless/span2011.html
+   author:  Anthony Zea
+   updated: 25 Mar 2024
+  -->
 
 
 == Spain 2010/11
-
-
-
-
-
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
 Final Table:
@@ -1114,12 +1109,7 @@ Topscorers
 18 David Villa                           - Barcelona
 
 
-
-
-
-
 ==== Copa del Rey  ‹§coparey›
-
 
 Round 1
 [Aug 21]
@@ -1440,10 +1430,6 @@ Madrid                    1-0 Barcelona                 [aet]
    red card: Di María (M) 120 (2 yellow);
    ref: Alberto Undiano Mallenco;
    att: 50,000]
-
-
-
-
 
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
@@ -2761,13 +2747,7 @@ Elche                     1-1 Granada
 NB: Granada CF promoted
 
 
-
-
-
-
 ==== Segunda División B  ‹§segundb›
-
-
 ===== Grupo I  ‹§2b1›
 
 Final Table:

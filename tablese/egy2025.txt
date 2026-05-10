@@ -1,19 +1,13 @@
-  <!--
-     title:   Egypt 2024/25
-     source:  https://rsssf.org/tablese/egy2025.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 10 Aug 2025
-    -->
+<!--
+   title:   Egypt 2024/25
+   source:  https://rsssf.org/tablese/egy2025.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 10 Aug 2025
+  -->
 
 
 == Egypt 2024/25
-
-
-
-
-
 ==== First Level  ‹§1l›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -305,8 +299,6 @@ Final Table:
 18.Modern Sport FC (Cairo)      17   1  6 10   9-24   9       ‹Relegation Playoff, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:
@@ -531,12 +523,7 @@ Final Table:
 18.Ghazl Al-Mehalla             25   6  5 14  20-36  23  [P]  Relegated
 
 
-
-
-
-
 ==== Egypt Cup 2024/25  ‹§cup›
-
 
 1/16 Finals
 [Jan 2]
@@ -591,9 +578,6 @@ Final [Jun 5]
 Zamalek       1-1 Pyramids      [aet, 8-7 pen]
 
 
-
-
-
 ==== League Cup  ‹§lc›
 
 Quarterfinals
@@ -630,10 +614,6 @@ Ismaily       2-0 ENNPI
 
 Final [Jun 12]
 Ceramica Cl   2-0 National Bank
-
-
-
-
 
 
 ==== Second Division A  ‹§2l›

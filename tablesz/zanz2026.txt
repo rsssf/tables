@@ -1,17 +1,12 @@
-  <!--
-     title:   Zanzibar 2025/26
-     source:  https://rsssf.org/tablesz/zanz2026.html
-     author:  Karel Stokkermans
-     updated: 5 Apr 2026
-    -->
+<!--
+   title:   Zanzibar 2025/26
+   source:  https://rsssf.org/tablesz/zanz2026.html
+   author:  Karel Stokkermans
+   updated: 5 Apr 2026
+  -->
 
 
 == Zanzibar 2025/26
-
-
-
-
-
 ==== PBZ Premier League 2025/26  ‹§zpl›
 
 Table:

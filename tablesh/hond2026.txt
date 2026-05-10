@@ -1,23 +1,15 @@
-  <!--
-     title:   Honduras 2025/26
-     source:  https://rsssf.org/tablesh/hond2026.html
-     author:  Karel Stokkermans
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Honduras 2025/26
+   source:  https://rsssf.org/tablesh/hond2026.html
+   author:  Karel Stokkermans
+   updated: 7 May 2026
+  -->
 
 
 == Honduras 2025/26
-
-
-
-
-
 ==== Primera División  ‹§primera›
 
-
 ===== Campeonato Apertura 2025  ‹§1aper›
-
-
 ====== Regular Stage  ‹§1aperreg›
 
 Final Table:
@@ -351,8 +343,6 @@ Second Leg [Jan 7]
 Olimpia       1-0 Marathón
 
 ===== Campeonato Clausura 2026  ‹§1clau›
-
-
 ====== Regular Stage  ‹§1claureg›
 
 Final Table:
@@ -667,5 +657,4 @@ Grupo B
 [s] seeded team, ranked ahead in case of tie on points
 
 ====== Final  ‹§1claufinal›
-
 

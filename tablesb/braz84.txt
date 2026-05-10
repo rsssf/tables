@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1984 (Taça de Ouro and Taça de Prata)
-     source:  https://rsssf.org/tablesb/braz84.html
-     authors: Ricardo Pontes Julio Bovi Diogo and Marcelo Leme de Arruda
-     updated: 2 Apr 2005
-    -->
+<!--
+   title:   Brazil 1984 (Taça de Ouro and Taça de Prata)
+   source:  https://rsssf.org/tablesb/braz84.html
+   authors: Ricardo Pontes Julio Bovi Diogo and Marcelo Leme de Arruda
+   updated: 2 Apr 2005
+  -->
 
 
 == Brazil 1984 (Taça de Ouro and Taça de Prata)
@@ -1512,9 +1512,5 @@ Uberlândia           1-0   0-0   Remo
 
 Uberlândia are Champions of 1984 Brazilian 2nd Level (Taça CBF), qualified to the third phase of the 1984 1st Level (Copa Brasil).
 Uberlândia and Remo Qualify To The 1985 Taça De Ouro
-
-
-
-
 
 

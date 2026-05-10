@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1977/78
-     source:  https://rsssf.org/tableso/oost78.html
-     author:  Ambrosius Kutschera
-     updated: 23 Apr 2009
-    -->
+<!--
+   title:   Austria 1977/78
+   source:  https://rsssf.org/tableso/oost78.html
+   author:  Ambrosius Kutschera
+   updated: 23 Apr 2009
+  -->
 
 
 == Austria 1977/78
@@ -403,13 +403,5 @@ Promoted to the 2.Division:
 Wolfsberger AC (Mitte)
 Favoritner AC (Ost)
 USV Anif (West)
-
-
-
-
-
-
-
-
 
 

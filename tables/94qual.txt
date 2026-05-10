@@ -1,29 +1,11 @@
-  <!--
-     title:   World Cup 1994 qualifications
-     source:  https://rsssf.org/tables/94qual.html
-
-    -->
+<!--
+   title:   World Cup 1994 qualifications
+   source:  https://rsssf.org/tables/94qual.html
+  -->
 
 
 = World Cup 1994 qualifications
-
-
-‹Group 1, see §gr1›
-‹Group 2, see §gr2›
-‹Group 3, see §gr3›
-‹Group 4, see §gr4›
-‹Group 5, see §gr5›
-‹Group 6, see §gr6›
-‹Group 7, see §gr7›
-‹Group 8, see §gr8›
-‹Group 9, see §gr9›
-‹Group 10, see §gr10›
-‹Group 11, see §gr11›
-‹Group 12, see §gr12›
-
-
 == Europe
-
 
 39 teams entered, including GER (champions) and ISR. LIE withdrew before
 seeding. JUG expulsed due to UN sanctions after seeding. Winners and

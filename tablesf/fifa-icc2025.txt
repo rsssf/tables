@@ -1,16 +1,12 @@
-  <!--
-     title:   FIFA Intercontinental Cup 2025
-     source:  https://rsssf.org/tablesf/fifa-icc2025.html
-     author:  Roberto Di Maggio
-     updated: 8 Jan 2026
-    -->
+<!--
+   title:   FIFA Intercontinental Cup 2025
+   source:  https://rsssf.org/tablesf/fifa-icc2025.html
+   author:  Roberto Di Maggio
+   updated: 8 Jan 2026
+  -->
 
 
 == FIFA Intercontinental Cup 2025
-
-
-
-
 
 Participants
 
@@ -36,8 +32,5 @@ Final Qualifier
 Final
 17-12-25  Match 5.  Paris Saint-Germain   1-1 Flamengo            [aet; 2-1 pen]  Al Rayyan
                      [Kvaratskhelia 38; Jorginho 62pen]
-
-
-
 
 

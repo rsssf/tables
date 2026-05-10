@@ -1,19 +1,13 @@
-  <!--
-     title:   USA 2021
-     source:  https://rsssf.org/tablesu/usa2021.html
-     author:  Karel Stokkermans
-     updated: 30 Jun 2022
-    -->
+<!--
+   title:   USA 2021
+   source:  https://rsssf.org/tablesu/usa2021.html
+   author:  Karel Stokkermans
+   updated: 30 Jun 2022
+  -->
 
 
 == USA 2021
-
-
-
-
-
 ==== Major League Soccer  ‹§mls›
-
 
 ===== Regular Season  ‹§reg›
 
@@ -757,7 +751,6 @@ Western Conference
 13.Houston Dynamo             34   6 12 16  36-54  30
 
 ===== Championship Playoff  ‹§chplay›
-
 ====== Conference Quarterfinals  ‹§cqf›
 
 Eastern Conference

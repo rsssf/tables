@@ -1,17 +1,12 @@
-  <!--
-     title:   Austria 2017/18
-     source:  https://rsssf.org/tableso/oost2018.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 7 Mar 2023
-    -->
+<!--
+   title:   Austria 2017/18
+   source:  https://rsssf.org/tableso/oost2018.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 7 Mar 2023
+  -->
 
 
 == Austria 2017/18
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
 
 Final Table:
@@ -391,9 +386,6 @@ Sankt Pölten     1-1 Wiener Neustadt
 NB: both remain at former level
 
 
-
-
-
 ==== ÖFB Cup  ‹§cup›
 
 Round 1
@@ -486,10 +478,6 @@ SK Sturm Graz               1-0 FC Red Bull Salzburg        [aet]
   [Hierländer 112]
 
 
-
-
-
-
 ==== 1. Liga (Second Level)  ‹§1liga›
 
 Final Table:
@@ -512,13 +500,7 @@ Final Table:
 NB: no relegation as second level is extended to 16 clubs for 2018/19.
 
 
-
-
-
-
 ==== Regionalliga  ‹§regliga›
-
-
 ===== Regionalliga West  ‹§regwest›
 
 Final Table:
@@ -601,9 +583,6 @@ NB: Horn, Amstetten and Austria II are the only teams to have expressed an inter
     promotion and obtained a license for the second level
 
 
-
-
-
 ==== SFV (Salzburg) Cup 2017/18  ‹§salzcup›
 
 1/8 Finals
@@ -634,9 +613,6 @@ SV Straßwalchen               2-1 SV Grödig
 
 Final [May 23]
 SV Straßwalchen               1-0 FC Pinzgau Saalfelden
-
-
-
 
 
 ==== Woche Cup 2017/18  ‹§steicup›

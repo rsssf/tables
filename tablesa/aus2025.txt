@@ -1,19 +1,13 @@
-  <!--
-     title:   Australia 2024/25
-     source:  https://rsssf.org/tablesa/aus2025.html
-     authors: Adri van Veen and Karel Stokkermans
-     updated: 19 Dec 2025
-    -->
+<!--
+   title:   Australia 2024/25
+   source:  https://rsssf.org/tablesa/aus2025.html
+   authors: Adri van Veen and Karel Stokkermans
+   updated: 19 Dec 2025
+  -->
 
 
 == Australia 2024/25
-
-
-
-
-
 ==== A-League  ‹§aleague›
-
 
 ===== Preliminary Stage  ‹§prel›
 
@@ -433,10 +427,6 @@ Final [May 31]
 Melbourne City            1-0 Melbourne Victory
 
 
-
-
-
-
 ==== Australian Championship 2025  ‹§ozchamp›
 
 NB: ianugural edition; replaced the National Premier Leagues final round
@@ -511,16 +501,7 @@ Final
 Marconi Stallions         0-2 South Melbourne
 
 
-
-
-
 ==== State Leagues 2025  ‹§states›
-
-
-
-
-
-
 ===== Australian Capital Territory 2025  ‹§act›
 
 National Premier League

@@ -1,17 +1,12 @@
-  <!--
-     title:   Latvia 2026
-     source:  https://rsssf.org/tablesl/let2026.html
-     author:  Theodore Dreiman
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Latvia 2026
+   source:  https://rsssf.org/tablesl/let2026.html
+   author:  Theodore Dreiman
+   updated: 5 May 2026
+  -->
 
 
 == Latvia 2026
-
-
-
-
-
 ==== Virslīga  ‹§virs›
 
 Table:
@@ -464,10 +459,6 @@ Grobina     -  Liepaja
 Riga        -  RFS
 
 
-
-
-
-
 ==== 1. Līga  ‹§first›
 
 Table:
@@ -862,13 +853,7 @@ JDFS Alberts   -  Ventspils
 Riga Mariners  -  Leevon PPK
 
 
-
-
-
-
 ==== 2. Līga  ‹§second›
-
-
 ====== A Grupa  ‹§2a›
 
 Table:

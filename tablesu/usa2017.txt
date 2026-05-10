@@ -1,19 +1,13 @@
-  <!--
-     title:   USA 2017
-     source:  https://rsssf.org/tablesu/usa2017.html
-     author:  Karel Stokkermans
-     updated: 10 Jan 2020
-    -->
+<!--
+   title:   USA 2017
+   source:  https://rsssf.org/tablesu/usa2017.html
+   author:  Karel Stokkermans
+   updated: 10 Jan 2020
+  -->
 
 
 == USA 2017
-
-
-
-
-
 ==== Major League Soccer  ‹§mls›
-
 
 ===== Regular Season  ‹§reg›
 
@@ -646,10 +640,6 @@ Seattle Sounders       3-0 Houston Dynamo
 
 MLS Cup [Dec 9, BMO Field, Toronto]
 Toronto FC             2-0 Seattle Sounders
-
-
-
-
 
 
 ==== US Open Cup  ‹§open›

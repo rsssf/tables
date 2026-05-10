@@ -1,19 +1,13 @@
-  <!--
-     title:   Northern Ireland 2024/25
-     source:  https://rsssf.org/tablesn/nil2025.html
-     author:  Karel Stokkermans
-     updated: 3 May 2025
-    -->
+<!--
+   title:   Northern Ireland 2024/25
+   source:  https://rsssf.org/tablesn/nil2025.html
+   author:  Karel Stokkermans
+   updated: 3 May 2025
+  -->
 
 
 == Northern Ireland 2024/25
-
-
-
-
-
 ==== IFA Premiership  ‹§premier›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -396,8 +390,6 @@ Final Table:
 12.Loughgall             33   4  6 23  29-71  18       ‹Section B, see §secb›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Section A  ‹§seca›
 
 Final Table:

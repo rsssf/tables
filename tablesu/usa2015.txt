@@ -1,19 +1,13 @@
-  <!--
-     title:   USA 2015
-     source:  https://rsssf.org/tablesu/usa2015.html
-     authors: Ian King and Karel Stokkermans
-     updated: 10 Mar 2016
-    -->
+<!--
+   title:   USA 2015
+   source:  https://rsssf.org/tablesu/usa2015.html
+   authors: Ian King and Karel Stokkermans
+   updated: 10 Mar 2016
+  -->
 
 
 == USA 2015
-
-
-
-
-
 ==== Major League Soccer  ‹§mls›
-
 
 ===== Regular Season  ‹§reg›
 
@@ -620,10 +614,6 @@ New York Red Bulls     1-0 Columbus Crew
 
 MLS Cup [Dec 6]
 Columbus Crew          1-2 Portland Timbers
-
-
-
-
 
 
 ==== US Open Cup  ‹§open›

@@ -1,17 +1,12 @@
-  <!--
-     title:   Ghana 2025/26
-     source:  https://rsssf.org/tablesg/gha2026.html
-     author:  Karel Stokkermans
-     updated: 2 Apr 2026
-    -->
+<!--
+   title:   Ghana 2025/26
+   source:  https://rsssf.org/tablesg/gha2026.html
+   author:  Karel Stokkermans
+   updated: 2 Apr 2026
+  -->
 
 
 == Ghana 2025/26
-
-
-
-
-
 ==== Ghana Premier League  ‹§gpl›
 
 Table:

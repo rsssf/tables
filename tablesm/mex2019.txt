@@ -1,22 +1,15 @@
-  <!--
-     title:   Mexico 2018/19
-     source:  https://rsssf.org/tablesm/mex2019.html
-     author:  Erik Francisco Lugo
-     updated: 18 Feb 2021
-    -->
+<!--
+   title:   Mexico 2018/19
+   source:  https://rsssf.org/tablesm/mex2019.html
+   author:  Erik Francisco Lugo
+   updated: 18 Feb 2021
+  -->
 
 
 == Mexico 2018/19
-
-
-
-
-
 ==== Liga MX  ‹§pdn›
 
-
 ===== Apertura 2018  ‹§1aper›
-
 
 Regular Stage  ‹§apreg›
 
@@ -580,7 +573,6 @@ Jéremy Ménez           FWD (France)
 Coach: Miguel Herrera
 
 ===== Clausura 2019  ‹§1clau›
-
 
 Regular Stage  ‹§clreg›
 
@@ -1174,12 +1166,7 @@ Enner Valencia            FWD (Ecuador)
 Coach: Ricardo "Tuca" Ferreti (BRA)
 
 
-
-
-
-
 ==== Copa MX Apertura 2018  ‹§copa›
-
 
 NB: the Cup Tournament is played by 16 teams from the Liga MX (first level) and
     11 teams from the Ascenso MX (second level);
@@ -1573,13 +1560,7 @@ Martín Zúñiga         FWD
 Coach: Pedro Caixinha (POR)
 
 
-
-
-
-
-
 ==== Copa MX Clausura 2019  ‹§copac›
-
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     13 teams from the Ascenso MX (second level);
@@ -1950,12 +1931,7 @@ Oribe Peralta        FWD
 Coach: Miguel Herrera
 
 
-
-
-
-
 ==== Campeón de Campeones  ‹§campcamp›
-
 
 Between winners of Liga MX Apertura 2018 (América) and winners of Liga MX
 Clausura 2019 (Tigres), winners qualified to "Campeones Cup" against MLS Cup 2018
@@ -1968,12 +1944,7 @@ Dignity Health Sports Park, Carson, California USA
 América         0-0 Tigres      [6-5pen]
 
 
-
-
-
-
 ==== Supercopa MX  ‹§supcopa›
-
 
 Between winners of Copa MX Apertura 2018 (Cruz Azul) and winners of Copa MX
 Clausura 2019 (América); Necaxa replaced América as América qualified to
@@ -1987,15 +1958,8 @@ Cruz Azul       4-0 Necaxa
   [Milton Caraglio 19, Elías Hernández 43, Edgar Méndez 46, Juan Escobar 86]
 
 
-
-
-
-
 ==== Ascenso MX  ‹§ascenso›
-
-
 ===== Apertura 2018  ‹§2aper›
-
 
 ====== Regular Stage  ‹§2aperreg›
 
@@ -2311,8 +2275,6 @@ Atlético de San Luis 4-2 Dorados              [aet]
 
 
 ===== Clausura 2019  ‹§2clau›
-
-
 ====== Regular Stage  ‹§2claureg›
 
 Participants:

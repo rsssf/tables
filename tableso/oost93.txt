@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1992/93
-     source:  https://rsssf.org/tableso/oost93.html
-     authors: Ambrosius Kutschera and Karel Stokkermans
-     updated: 31 Oct 2004
-    -->
+<!--
+   title:   Austria 1992/93
+   source:  https://rsssf.org/tableso/oost93.html
+   authors: Ambrosius Kutschera and Karel Stokkermans
+   updated: 31 Oct 2004
+  -->
 
 
 == Austria 1992/93
@@ -386,7 +386,6 @@ Innsbruck     2-4 Admira/Wacker
 Sportclub     1-1 Vorwärts
 
 
-
 Table:
 
  1.FK Austria Wien           36  22  6  8  81-35   36  (14-22)
@@ -748,14 +747,5 @@ Wiener Liga
 16.Interc. Strassl           30   4  6 20  42-102  14 Relegated
 
 Promoted to the Wiener Liga: Wienerberg/Inzersdorf, Feuerwehr/BSC.
-
-
-
-
-
-
-
-
-
 
 

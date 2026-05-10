@@ -1,17 +1,12 @@
-  <!--
-     title:   France 2024/25
-     source:  https://rsssf.org/tablesf/fran2025.html
-     author:  Karel Stokkermans
-     updated: 23 Dec 2025
-    -->
+<!--
+   title:   France 2024/25
+   source:  https://rsssf.org/tablesf/fran2025.html
+   author:  Karel Stokkermans
+   updated: 23 Dec 2025
+  -->
 
 
 == France 2024/25
-
-
-
-
-
 ==== Ligue 1  ‹§l1›
 
 Final Table:

@@ -1,13 +1,12 @@
-  <!--
-     title:   World Cup 1994
-     source:  https://rsssf.org/tables/94f.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 5 Jul 2018
-    -->
+<!--
+   title:   World Cup 1994
+   source:  https://rsssf.org/tables/94f.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 5 Jul 2018
+  -->
 
 
 == World Cup 1994 (United States of America, June 17-July 17)
-
 
 FIRST PHASE
 
@@ -118,11 +117,5 @@ Penalty kicks: Baresi (over), Marcio Santos (stopped), Albertini 1-0,
                Dunga 2-3, R. Baggio (over).
 
 Topscorers: Salenko (Russia), Stoitchkov (Bulgaria) 6 goals.
-
-
-
-
-
-
 
 

@@ -1,17 +1,12 @@
-  <!--
-     title:   French Polynesia 2024/25
-     source:  https://rsssf.org/tablest/tahiti2025.html
-     author:  Karel Stokkermans
-     updated: 6 Oct 2025
-    -->
+<!--
+   title:   French Polynesia 2024/25
+   source:  https://rsssf.org/tablest/tahiti2025.html
+   author:  Karel Stokkermans
+   updated: 6 Oct 2025
+  -->
 
 
 == French Polynesia 2024/25
-
-
-
-
-
 ==== Division 1  ‹§div1›
 
 Final Table:
@@ -314,10 +309,6 @@ Final Table:
 10.AS Manu Ura         27   0  1 26  27-201 27  [-1]  [P]  Relegated
 
 
-
-
-
-
 ==== Division 2  ‹§div2›
 
 Final Table:
@@ -331,10 +322,6 @@ Final Table:
  6.AS Vénus 2          18   3  3 12  20-58  29  [-1]
  7.AS Excelsior        18   2  5 11  27-55  28  [-1]
  -.AS Taiarapu FC 2    withdrew
-
-
-
-
 
 
 ==== Division 2 - Mooréa  ‹§moorea›
@@ -369,10 +356,6 @@ NB: Tiare Tahiti 2 bonus points for winning first stage;
     teams obtained administrative bonus points at the end of the competition
 
 
-
-
-
-
 ==== Huahine  ‹§huahine›
 
 Final Table:
@@ -381,9 +364,6 @@ Final Table:
  2.AS Fauna Nui         6   3  0  3  21-30  15
  3.AS A Rohi No Te Tama 6   2  0  4  22-59  12
  4.AS Maroe             6   1  0  5  13-51   8  [-1]
-
-
-
 
 
 ==== Raiatea  ‹§raiatea›
@@ -396,13 +376,7 @@ Final Table:
  -.AS Tapu FC           excluded; all results annulled
 
 
-
-
-
-
 ==== Marquesas Islands  ‹§marq›
-
-
 ===== Championnat Marquises Nord  ‹§mnord›
 
 Final Table:
@@ -424,13 +398,7 @@ Final Table:
  5.AS Mahitoa           4   0  0  4   4-19   4
 
 
-
-
-
-
 ==== Cup Tournaments  ‹§coupes›
-
-
 ===== Coupe du Polynésie 2025  ‹§coupepoly›
 
 Barrages Iles-sous-le-Vent

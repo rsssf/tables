@@ -1,17 +1,12 @@
-  <!--
-     title:   Kurdistan 2024/25
-     source:  https://rsssf.org/tablesi/iraq-kurd2025.html
-     author:  Karel Stokkermans
-     updated: 28 Apr 2026
-    -->
+<!--
+   title:   Kurdistan 2024/25
+   source:  https://rsssf.org/tablesi/iraq-kurd2025.html
+   author:  Karel Stokkermans
+   updated: 28 Apr 2026
+  -->
 
 
 == Kurdistan 2024/25
-
-
-
-
-
 ==== Excellence Division  ‹§kurd›
 
 Final Table:
@@ -440,9 +435,6 @@ NB: Said Sadiq withdrew or were excluded at the halfway stage and have all
     remaining matches awarded 0-3 losses against them
 
 
-
-
-
 ==== Kurdistan Regional Cup 2024/25  ‹§kcup›
 
 Semifinals
@@ -453,9 +445,6 @@ Handren      1-0 Akre
 
 Final [May 12]
 Handren      2-0 Zakho
-
-
-
 
 
 ==== First Division  ‹§1st›
@@ -482,10 +471,6 @@ Final Table:
  -.Slemani                   withdrew or excluded
 
 NB: remaining match (Koya vs Rwandz from round 1) apparently declared void
-
-
-
-
 
 
 ==== Second Division  ‹§2nd›

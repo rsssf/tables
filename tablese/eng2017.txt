@@ -1,19 +1,13 @@
-  <!--
-     title:   England 2016/17
-     source:  https://rsssf.org/tablese/eng2017.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   England 2016/17
+   source:  https://rsssf.org/tablese/eng2017.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
 
 == England 2016/17
-
-
-
-
-
 ==== Premier League  ‹§premier›
-
 
 Final Table:
 
@@ -651,12 +645,7 @@ Final Table:
 ‹Premier League 2016/17 Match Details, see page eng2017det›
 
 
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== FA Cup  ‹§facup›
 
 Round 1
@@ -1003,12 +992,7 @@ Final [Feb 26, London]
 Manchester United       3-2 Southampton
 
 
-
-
-
 ==== Championship  ‹§champ›
-
-
 ===== Regular Stage  ‹§2reg›
 
 Final Table:
@@ -1061,13 +1045,7 @@ Final [May 29]
 Reading       0-0 Huddersfield  [aet, 3-4 pen]
 
 
-
-
-
-
 ==== Division 1  ‹§first›
-
-
 ===== Regular Stage  ‹§3reg›
 
 Final Table:
@@ -1116,13 +1094,7 @@ Final [May 20]
 Bradford      0-1 Millwall
 
 
-
-
-
-
 ==== Division 2  ‹§second›
-
-
 ===== Regular Stage  ‹§4reg›
 
 Final Table:
@@ -1171,13 +1143,7 @@ Final [May 28]
 Exeter        1-2 Blackpool
 
 
-
-
-
-
 ==== Conference  ‹§conf›
-
-
 ===== Regular Stage  ‹§5reg›
 
 Final Table:

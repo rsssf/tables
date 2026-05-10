@@ -1,17 +1,12 @@
-  <!--
-     title:   Guinea Bissau 2025/26
-     source:  https://rsssf.org/tablesg/gbis2026.html
-     author:  José Batalha
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Guinea Bissau 2025/26
+   source:  https://rsssf.org/tablesg/gbis2026.html
+   author:  José Batalha
+   updated: 5 May 2026
+  -->
 
 
 == Guinea Bissau 2025/26
-
-
-
-
-
 ==== I Divisão  ‹§1div›
 
 NB: Sporting Clube da Guiné-Bissau only club to have never been relegated.
@@ -330,10 +325,6 @@ Table:
 16.Flamengo de Pefine       17   3  4 10  14-26  13
 
 
-
-
-
-
 ==== Taça Nacional da Guiné-Bissau  ‹§taca›
 
 NB: top level teams enter in round 2
@@ -351,10 +342,6 @@ CDR Farim              0-0 Sporting Bafatá        [5-4 pen]
 ADR Mansabá            2-1 Acad. Ingoré
 Nuno Tristão FC        1-3 Binar FC
 Vitória Cacheu         awd Atlético Bissorã       [3-0 awarded; Atlético Bissorã dns]
-
-
-
-
 
 
 ==== Campeonato Nacional da 2.ª Divisão  ‹§2div›

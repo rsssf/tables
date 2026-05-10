@@ -1,17 +1,12 @@
-  <!--
-     title:   Poland 2024/25
-     source:  https://rsssf.org/tablesp/pol2025.html
-     author:  Karel Stokkermans
-     updated: 26 May 2025
-    -->
+<!--
+   title:   Poland 2024/25
+   source:  https://rsssf.org/tablesp/pol2025.html
+   author:  Karel Stokkermans
+   updated: 26 May 2025
+  -->
 
 
 == Poland 2024/25
-
-
-
-
-
 ==== Ekstraklasa  ‹§ekstra›
 
 Final Table:

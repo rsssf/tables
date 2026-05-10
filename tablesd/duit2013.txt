@@ -1,17 +1,12 @@
-  <!--
-     title:   Germany 2012/13
-     source:  https://rsssf.org/tablesd/duit2013.html
-     author:  Karel Stokkermans
-     updated: 2 Aug 2018
-    -->
+<!--
+   title:   Germany 2012/13
+   source:  https://rsssf.org/tablesd/duit2013.html
+   author:  Karel Stokkermans
+   updated: 2 Aug 2018
+  -->
 
 
 == Germany 2012/13
-
-
-
-
-
 ==== 1. Bundesliga  ‹§1bl›
 
 Final Table:
@@ -537,9 +532,6 @@ Kaiserslautern  1-2 Hoffenheim
 NB: both remain at former level
 
 
-
-
-
 ==== DFB Pokal  ‹§dfbpokal›
 
 Round 1
@@ -628,9 +620,6 @@ Stuttgart              2-1 Freiburg
 
 Final [Jun 1, Berlin]
 Bayern München         3-2 Stuttgart
-
-
-
 
 
 ==== 2. Bundesliga  ‹§2bl›
@@ -1197,9 +1186,6 @@ Second Leg [May 28]
 Dresden         2-0 Osnabrück
 
 NB: both remain at former level
-
-
-
 
 
 ==== 3. Liga  ‹§3bl›

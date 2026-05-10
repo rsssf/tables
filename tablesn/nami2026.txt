@@ -1,17 +1,12 @@
-  <!--
-     title:   Namibia 2025/26
-     source:  https://rsssf.org/tablesn/nami2026.html
-     author:  Karel Stokkermans
-     updated: 23 Apr 2026
-    -->
+<!--
+   title:   Namibia 2025/26
+   source:  https://rsssf.org/tablesn/nami2026.html
+   author:  Karel Stokkermans
+   updated: 23 Apr 2026
+  -->
 
 
 == Namibia 2025/26
-
-
-
-
-
 ==== Namibia Premiership  ‹§npl›
 
 Final Table:

@@ -1,13 +1,12 @@
-  <!--
-     title:   Saint-Pierre et Miquelon 2025
-     source:  https://rsssf.org/tabless/stpierre2025.html
-     author:  Karel Stokkermans
-     updated: 9 Oct 2025
-    -->
+<!--
+   title:   Saint-Pierre et Miquelon 2025
+   source:  https://rsssf.org/tabless/stpierre2025.html
+   author:  Karel Stokkermans
+   updated: 9 Oct 2025
+  -->
 
 
 == Saint-Pierre et Miquelon 2025
-
 ===== Overall Championship  ‹§chp›
 
 Final Table:
@@ -71,7 +70,5 @@ NB: ASSP qualified for the third round of the 2025/26 Coupe de France
 
 Round 3 [Sep 13]
 Arsac Pian Médoc 2-1 ASSP
-
-
 
 

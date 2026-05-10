@@ -1,32 +1,20 @@
-  <!--
-     title:   UEFA Nations League 2024/25
-     source:  https://rsssf.org/tables/2025uefanl.html
-     author:  Roberto Di Maggio
-     updated: 12 Apr 2026
-    -->
+<!--
+   title:   UEFA Nations League 2024/25
+   source:  https://rsssf.org/tables/2025uefanl.html
+   author:  Roberto Di Maggio
+   updated: 12 Apr 2026
+  -->
 
 
 == UEFA Nations League 2024/25
 
-
-
-
-
 Fourth edition.
-
-
-
-
 
 
 ‹League A, see §lga› | ‹Final Stage, see §f8›
 ‹League B, see §lgb›
 ‹League C, see §lgc›
 ‹League D, see §lgd›
-
-
-
-
 
 
 ==== League A  ‹§lga›
@@ -126,9 +114,6 @@ Hungary and Scotland relegated to League B;
 All the other teams remained in their respective leagues.
 
 
-
-
-
 ==== Final Stage  ‹§f8›
 
 Quarterfinals
@@ -156,9 +141,6 @@ Third Place Match
 
 Final
  8- 6-25 München        Portugal           2-2 Spain              [aet, 5-3 pen]
-
-
-
 
 
 ==== League B  ‹§lgb›
@@ -257,9 +239,6 @@ Kosovo promoted to League B, Iceland relegated to league C;
 All the other teams remained in their respective leagues.
 
 
-
-
-
 ==== League C  ‹§lgc›
 
 Group 1
@@ -347,9 +326,6 @@ Promotion/Relegation Playoff League C-D  ‹§crpo›
 31- 3-26 Luxembourg     Luxembourg         3-0 Malta
 
 All teams remained in their respective leagues.
-
-
-
 
 
 ==== League D  ‹§lgd›

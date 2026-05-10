@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1981/82
-     source:  https://rsssf.org/tablesd/duit82.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1981/82
+   source:  https://rsssf.org/tablesd/duit82.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1981/82
-
 
 Final Table
 
@@ -661,8 +660,5 @@ Hamburger SV 1981/82
       Michael SCHRÖDER        1  (  16)
        Thomas VON HEESEN     19  (1351) + 7
         Bernd WEHMEYER       34  (2882) + 1
-
-
-
 
 

@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1981/82
-     source:  https://rsssf.org/tableso/oost82.html
-     author:  Ambrosius Kutschera
-     updated: 10 Oct 2004
-    -->
+<!--
+   title:   Austria 1981/82
+   source:  https://rsssf.org/tableso/oost82.html
+   author:  Ambrosius Kutschera
+   updated: 10 Oct 2004
+  -->
 
 
 == Austria 1981/82
@@ -388,13 +388,5 @@ Badener AC (Ost)
 UFC Purbach (Ost)
 Bregenz/Dornbirn (West)
 SK Zell/See (West)
-
-
-
-
-
-
-
-
 
 

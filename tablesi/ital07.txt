@@ -1,9 +1,9 @@
-  <!--
-     title:   Italy 2006/07
-     source:  https://rsssf.org/tablesi/ital07.html
-     author:  Andrea Ferrigno
-     updated: 7 Sep 2007
-    -->
+<!--
+   title:   Italy 2006/07
+   source:  https://rsssf.org/tablesi/ital07.html
+   author:  Andrea Ferrigno
+   updated: 7 Sep 2007
+  -->
 
 
 == Italy 2006/07
@@ -1014,28 +1014,5 @@ NB: Siena had 1 point deducted on Oct 19 due to late payment of
     social security;
     all other point deductions due to bribery scandal 2004/05
     and 2005/06
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

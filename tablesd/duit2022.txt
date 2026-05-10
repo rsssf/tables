@@ -1,17 +1,12 @@
-  <!--
-     title:   Germany 2021/22
-     source:  https://rsssf.org/tablesd/duit2022.html
-     author:  Karel Stokkermans
-     updated: 25 Sep 2022
-    -->
+<!--
+   title:   Germany 2021/22
+   source:  https://rsssf.org/tablesd/duit2022.html
+   author:  Karel Stokkermans
+   updated: 25 Sep 2022
+  -->
 
 
 == Germany 2021/22
-
-
-
-
-
 ==== 1. Bundesliga  ‹§1bl›
 
 Final Table:
@@ -565,9 +560,6 @@ Hamburg         0-2 Hertha
 NB: both remain at former level
 
 
-
-
-
 ==== 2. Bundesliga  ‹§2bl›
 
 Final Table:
@@ -604,9 +596,6 @@ Second Leg [May 24]
 Dresden         0-2 Kaiserslautern
 
 NB: Kaiserslautern promoted, Dynamo Dresden relegated
-
-
-
 
 
 ==== 3. Liga  ‹§3bl›

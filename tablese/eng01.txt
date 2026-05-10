@@ -1,9 +1,9 @@
-  <!--
-     title:   England 2000/01
-     source:  https://rsssf.org/tablese/eng01.html
-     authors: Ian King and Stephen Mulrine
-     updated: 15 Feb 2006
-    -->
+<!--
+   title:   England 2000/01
+   source:  https://rsssf.org/tablese/eng01.html
+   authors: Ian King and Stephen Mulrine
+   updated: 15 Feb 2006
+  -->
 
 
 == England 2000/01
@@ -2472,13 +2472,5 @@ Final Table:
 23.Spennymoor United       44  4  5 35  32-108 16  [*]  Relegated
 
 [*] Spennymoor United 1 point deducted
-
-
-
-
-
-
-
-
 
 

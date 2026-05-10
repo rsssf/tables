@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 2023/24
-     source:  https://rsssf.org/tablesi/ital2024.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 11 Oct 2024
-    -->
+<!--
+   title:   Italy 2023/24
+   source:  https://rsssf.org/tablesi/ital2024.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 11 Oct 2024
+  -->
 
 
 == Italy 2023/24
-
-
-
-
-
 ==== Serie A  ‹§seriea›
 
 Final Table:
@@ -679,10 +674,6 @@ Final Table:
 20.US Salernitana      38   2 11 25  32-81  17             Relegated
 
 
-
-
-
-
 ==== Coppa Italia  ‹§coppa›
 
 Preliminary Round
@@ -826,13 +817,7 @@ Atalanta: Carnesecchi, De Roon (65 Toloi), Hien (59 Scalvini), Djimsiti,
   De Ketelaere (46 Touré), Lookman. Tr.: Gasperini
 
 
-
-
-
-
 ==== Serie B  ‹§serieb›
-
-
 ===== Regular Season  ‹§2reg›
 
 Final Table:

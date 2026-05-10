@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1989
-     source:  https://rsssf.org/tablesb/braz89.html
-     author:  RSSSF Brazil
-     updated: 2 Apr 2005
-    -->
+<!--
+   title:   Brazil 1989
+   source:  https://rsssf.org/tablesb/braz89.html
+   author:  RSSSF Brazil
+   updated: 2 Apr 2005
+  -->
 
 
 == Brazil 1989
@@ -1781,9 +1781,5 @@ FINALS (Aug/26 and Sep/2)
 Sport            0-0   1-2   Grêmio
 
 Grêmio FBPA were the 1989 winners of the Copa do Brasil.
-
-
-
-
 
 

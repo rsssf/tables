@@ -1,17 +1,12 @@
-  <!--
-     title:   TR Northern Cyprus 2024/25
-     source:  https://rsssf.org/tablesn/ncyp2025.html
-     author:  Şener Yelkenci
-     updated: 31 May 2025
-    -->
+<!--
+   title:   TR Northern Cyprus 2024/25
+   source:  https://rsssf.org/tablesn/ncyp2025.html
+   author:  Şener Yelkenci
+   updated: 31 May 2025
+  -->
 
 
 == TR Northern Cyprus 2024/25
-
-
-
-
-
 ==== KKTC Süper Ligi  ‹§birinci›
 
 Final Table:
@@ -512,9 +507,6 @@ Final Table:
 NB: bonus points regular season (halved, rounded upwards) between square brackets
 
 
-
-
-
 ==== Kıbrıs Kupası  ‹§kupasi›
 
 1/16 Finals
@@ -573,10 +565,6 @@ Mesarya         2-3 Lefke
 
 Final [May 9]
 Mağusa TG       1-3 Lefke
-
-
-
-
 
 
 ==== 1. Ligi  ‹§ikinci›

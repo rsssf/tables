@@ -1,9 +1,9 @@
-  <!--
-     title:   Mexico 2008/09
-     source:  https://rsssf.org/tablesm/mex09.html
-     authors: Erik Francisco Lugo and Juan Pablo Andrés
-     updated: 11 Jun 2010
-    -->
+<!--
+   title:   Mexico 2008/09
+   source:  https://rsssf.org/tablesm/mex09.html
+   authors: Erik Francisco Lugo and Juan Pablo Andrés
+   updated: 11 Jun 2010
+  -->
 
 
 == Mexico 2008/09
@@ -538,7 +538,6 @@ Toluca       0-2 Cruz Azul    [7-6 pen]
   [Manuel Alejandro Vela 49, Julio César Domínguez 77]
 
 NB: Toluca champions Apertura 2008/09
-
 
 
 Torneo Interliga 2009
@@ -1697,7 +1696,6 @@ Bosco Frontán (URU) Tampico   10
 José Gutierrez      Indios     9
 
 
-
 Clausura 2009
 
 Change before season:
@@ -2248,10 +2246,7 @@ Santos Laguna            100    39    27    33    99    0.99
 Jaguares de Chiapas       66     0    28    24    52    0.79  Relegated
 
 
-
-
 Third Level 2008/09
-
 
 
 NB: divided in two championships "Liga Premier de Ascenso" with
@@ -2338,7 +2333,6 @@ Final [Dec 17-20]
 Mérida FC                         0-1  2-1 Loros de la Universidad de Colima   [3-2 pen]
 
 Mérida FC Apertura champions
-
 
 
 Liga de Nuevos Talentos
@@ -2431,8 +2425,6 @@ Final [Dec 10-13]
 Santos Laguna (Gómez Palacio)     1-1  0-1 Atlas FC (Zapopán)
 
 Atlas FC Apertura champions
-
-
 
 
 Clausura 2009
@@ -2647,7 +2639,6 @@ CD Guadalajara          0-2  3-1 Santos Laguna      (4-2pen)
 
 CD Guadalajara Clausura champions
 "Filiales" cannot promote to Second Level.
-
 
 
 Fourth Level 2008/09
@@ -3117,13 +3108,5 @@ Monarcas Morelia                   1-3  4-2 Toluca FC                          (
 
 Monarcas Morelia champions.
 "Filiales" cannot promote to Third Level
-
-
-
-
-
-
-
-
 
 

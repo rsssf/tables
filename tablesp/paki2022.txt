@@ -1,17 +1,12 @@
-  <!--
-     title:   Pakistan 2021/22
-     source:  https://rsssf.org/tablesp/paki2022.html
-     author:  Karel Stokkermans
-     updated: 23 May 2023
-    -->
+<!--
+   title:   Pakistan 2021/22
+   source:  https://rsssf.org/tablesp/paki2022.html
+   author:  Karel Stokkermans
+   updated: 23 May 2023
+  -->
 
 
 == Pakistan 2021/22 (National Tournaments)
-
-
-
-
-
 ==== Pakistan Premier League 2021/22  ‹§nat›
 
 NB: league apparently abandoned

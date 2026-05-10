@@ -1,17 +1,12 @@
-  <!--
-     title:   Azerbaijan 2025/26
-     source:  https://rsssf.org/tablesa/azer2026.html
-     author:  Theodore Dreiman
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Azerbaijan 2025/26
+   source:  https://rsssf.org/tablesa/azer2026.html
+   author:  Theodore Dreiman
+   updated: 5 May 2026
+  -->
 
 
 == Azerbaijan 2025/26
-
-
-
-
-
 ==== Misli Premyer Liqası  ‹§premyer›
 
 Table:
@@ -632,10 +627,6 @@ Sumqayit  -  Qarabag
 Araz      -  Zira
 
 
-
-
-
-
 ==== Bizon Azärbaycan Kuboku  ‹§kuboku›
 
 First Qualifying Round
@@ -738,9 +729,6 @@ Qarabağ (Ağdam)  2-2 1-2  SABAH (Bakı)     [agg 3-4]
 Final [May 13]
 
 FC Zirä  -  Sabah (Bakı)
-
-
-
 
 
 ==== Azärbaycan Liqa 1  ‹§liqa1›
@@ -1190,10 +1178,6 @@ Mingacevir  -  Sabail
 Promotion/Relegation Playoff Liqa 1/Liqa 2 [May 27]
 
 Promotion/Relegation Playoff Premyer Liqa/Liqa 1 [May 28]
-
-
-
-
 
 
 ==== Azärbaycan Liqa 2  ‹§liqa2›

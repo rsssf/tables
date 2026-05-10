@@ -1,17 +1,12 @@
-  <!--
-     title:   Kazakhstan 2026
-     source:  https://rsssf.org/tablesk/kaz2026.html
-     author:  Theodore Dreiman
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Kazakhstan 2026
+   source:  https://rsssf.org/tablesk/kaz2026.html
+   author:  Theodore Dreiman
+   updated: 5 May 2026
+  -->
 
 
 == Kazakhstan 2026
-
-
-
-
-
 ==== QFL Olimpbet Premier League  ‹§premier›
 
 Table:
@@ -460,10 +455,6 @@ Jenis     -  Qaisar
 Jetisu    -  Astana
 
 
-
-
-
-
 ==== Olimpbet QFL Qazaqstan Kubogy  ‹§kubok›
 
 First Round [Total Att: 28,500; Average: 1,900]
@@ -538,10 +529,6 @@ Ordabasy (Şymkent)    -  Jetısu (Taldyqorğan)
 FK Aqtöbe             -  Altai (Öskemen)
 Qaisar (Qyzylorda)    -  Tobyl (Qostanai)
 Jeñıs (Astana)        -  Qyzyljar (Petropavl)
-
-
-
-
 
 
 ==== Bırınşı Liga (Second Level)  ‹§first›
@@ -871,10 +858,6 @@ Elimai-2    -  Tobyl-2
 Ontustik A  -  Turan
 Sahtor      -  Qairat-2
 Jaiyq       -  Arys
-
-
-
-
 
 
 ==== Ekinsi Lïgaşı  ‹§second›

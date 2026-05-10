@@ -1,25 +1,18 @@
-  <!--
-     title:   Palestina 2023/24
-     source:  https://rsssf.org/tablesp/pales2024.html
-     author:  Karel Stokkermans
-     updated: 12 Oct 2024
-    -->
+<!--
+   title:   Palestina 2023/24
+   source:  https://rsssf.org/tablesp/pales2024.html
+   author:  Karel Stokkermans
+   updated: 12 Oct 2024
+  -->
 
 
 == Palestina 2023/24
-
-
-
-
 
 West Bank
 ‹West Bank League, see §prof›
 ‹Yassir Arafat Cup, see §arafat›
 Gaza Strip
 ‹Gaza Strip League, see §gaza›
-
-
-
 
 
 ==== West Bank League  ‹§prof›
@@ -105,10 +98,6 @@ Table at abandonment:
 12.Al-Sawahreh                3   0  1  2   1-11   1  [P]
 
 
-
-
-
-
 ==== Yassir Arafat Cup 2023  ‹§arafat›
 
 Group Stage
@@ -141,10 +130,6 @@ Hilal Al-Quds        1-1 Shabab Al-Khalil     [2-4 pen]
 
 Final [Aug 14]
 Shabab Al-Khalil     1-1 Jabal Mukabar        [5-6 pen]
-
-
-
-
 
 
 ==== Gaza Strip League  ‹§gaza›

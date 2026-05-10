@@ -1,17 +1,12 @@
-  <!--
-     title:   England 2023/24
-     source:  https://rsssf.org/tablese/eng2024.html
-     author:  Karel Stokkermans
-     updated: 11 Oct 2024
-    -->
+<!--
+   title:   England 2023/24
+   source:  https://rsssf.org/tablese/eng2024.html
+   author:  Karel Stokkermans
+   updated: 11 Oct 2024
+  -->
 
 
 == England 2023/24
-
-
-
-
-
 ==== Premier League  ‹§premier›
 
 Final Table:
@@ -645,13 +640,7 @@ NB: Everton 8 points deducted for financial reasons;
     Nottingham Forest 4 points deducted for financial reasons
 
 
-
-
-
-
 ==== Championship  ‹§champ›
-
-
 ===== Regular Stage  ‹§2reg›
 
 Final Table:
@@ -702,13 +691,7 @@ Final [May 26]
 Leeds         0-1 Southampton
 
 
-
-
-
-
 ==== Division 1  ‹§first›
-
-
 ===== Regular Stage  ‹§3reg›
 
 Final Table:
@@ -764,13 +747,7 @@ Final [May 18]
 Bolton        0-2 Oxford
 
 
-
-
-
-
 ==== Division 2  ‹§second›
-
-
 ===== Regular Stage  ‹§4reg›
 
 Final Table:
@@ -823,13 +800,7 @@ Final [May 19]
 Crawley       2-0 Crewe
 
 
-
-
-
-
 ==== National League  ‹§conf›
-
-
 ===== Regular Stage  ‹§5reg›
 
 Final Table:

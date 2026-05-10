@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1999/2000
-     source:  https://rsssf.org/tableso/oost00.html
-     authors: Andreas Exenberger, Karel Stokkermans and Gerhard Öhlinger
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 1999/2000
+   source:  https://rsssf.org/tableso/oost00.html
+   authors: Andreas Exenberger, Karel Stokkermans and Gerhard Öhlinger
+   updated: 15 Jun 2022
+  -->
 
 
 == Austria 1999/2000
@@ -3709,7 +3709,6 @@ Numbers of titles:
  1  SC Kufstein (1984), ISK/Rum (1985), Imst (1986), Vils (1987),
     St.Johann (1988), Rietz (1989), FC Kufstein Amateure (1990),
     Axams (1992), Umhausen (1996)
-
 
 
 TYROLEAN CHAMPIONSHIPS 1999/2000

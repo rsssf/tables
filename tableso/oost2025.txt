@@ -1,19 +1,13 @@
-  <!--
-     title:   Austria 2024/25
-     source:  https://rsssf.org/tableso/oost2025.html
-     author:  Hans Schöggl
-     updated: 7 Jul 2025
-    -->
+<!--
+   title:   Austria 2024/25
+   source:  https://rsssf.org/tableso/oost2025.html
+   author:  Hans Schöggl
+   updated: 7 Jul 2025
+  -->
 
 
 == Austria 2024/25
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -272,8 +266,6 @@ Final Table:
 12.SC Rheindorf Altach          22   3  7 12  20-35  16       [2 0 1 1 2-3 1]  ‹Relegation Playoff, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:
@@ -460,10 +452,6 @@ NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
 
-
-
-
-
 ==== ÖFB Cup  ‹§cup›
 
 Round 1
@@ -553,9 +541,6 @@ FK Austria Wien                     0-1 TSV Hartberg
 Final [May 1, Wörthersee Stadion, Klagenfurt; att: 20,500]
 Wolfsberger AC                      1-0 TSV Hartberg
   [Gattermayer 77]
-
-
-
 
 
 ==== 2. Liga (Second Level)  ‹§1liga›
@@ -1007,13 +992,7 @@ Final Table:
 16.SV Lafnitz                   30   3  7 20  40-81  16       Relegated
 
 
-
-
-
-
 ==== Regionalliga  ‹§regliga›
-
-
 ===== Regionalliga West  ‹§regwest›
 
 Final Table:
@@ -1090,9 +1069,6 @@ Final Table:
 
 [*] Kremser SC formed Spielgemeinschaft with SV Rehberg; KM presumably denotes Kampfmannschaft
 [!] Donaufeld did not apply for license second level
-
-
-
 
 
 ==== Cup Tournaments Bundesländer  ‹§bundcup›

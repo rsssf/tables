@@ -1,17 +1,12 @@
-  <!--
-     title:   Mauritius 2023/24
-     source:  https://rsssf.org/tablesm/mauri2024.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 12 Jun 2025
-    -->
+<!--
+   title:   Mauritius 2023/24
+   source:  https://rsssf.org/tablesm/mauri2024.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 12 Jun 2025
+  -->
 
 
 == Mauritius 2023/24
-
-
-
-
-
 ==== Premier League 2024  ‹§prem›
 
 Final Table:
@@ -212,13 +207,7 @@ Final Table:
 10.Savanne SC                             18   3  4 11  28-57  13       Relegated
 
 
-
-
-
-
 ==== Cup Tournaments 2024  ‹§coupes›
-
-
 ===== MFA Cup  ‹§mfa›
 
 Quarterfinals
@@ -272,10 +261,6 @@ Final [Jul 27]
 Cercle de Joachim            1-0 AS Rivière du Rempart
 
 
-
-
-
-
 ==== National Division 1  ‹§div1›
 
 Final Table:
@@ -292,9 +277,6 @@ Final Table:
 -----------------------------------------------------------------
  9.Port-Louis Black Horns                 18   3  5 10  21-41  14       Relegated
 10.La Cure Sylvester SC                   18   1  5 12  16-54   8  [R]  Relegated
-
-
-
 
 
 ==== National Division 2  ‹§div2›

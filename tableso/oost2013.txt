@@ -1,17 +1,12 @@
-  <!--
-     title:   Austria 2012/13
-     source:  https://rsssf.org/tableso/oost2013.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 7 Mar 2023
-    -->
+<!--
+   title:   Austria 2012/13
+   source:  https://rsssf.org/tableso/oost2013.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 7 Mar 2023
+  -->
 
 
 == Austria 2012/13
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
 
 Final Table:
@@ -371,9 +366,6 @@ Final Table:
 NB: promoted side Wolfsberger AC/SK St. Andrä were renamed Wolfsberger AC
 
 
-
-
-
 ==== ÖFB Cup  ‹§cup›
 
 Round 1
@@ -467,9 +459,6 @@ FC Pasching              1-0 FK Austria Wien
 NB: FC Pasching play in the Regionalliga Mitte and are the first ‹third level club, see page ../miscellaneous/ruchii›
     to win the Austrian cup; in the last three rounds, they eliminated the national
     top-3 of Rapid, Salzburg and Austria, all away from home.
-
-
-
 
 
 ==== 1. Liga (Second Level)  ‹§1liga›
@@ -804,10 +793,6 @@ Promoted: Liefering and Parndorf
 Relegated: BW Linz
 
 
-
-
-
-
 ==== SFV (Salzburg) Cup 2012/13  ‹§salzcup›
 
 1/8 Finals
@@ -838,9 +823,6 @@ USC Eugendorf                 0-4 SV Austria Salzburg
 
 Final [May 29]
 SV Austria Salzburg           4-0 TSV St. Johann
-
-
-
 
 
 ==== Woche Murauer Cup  ‹§steicup›

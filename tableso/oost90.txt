@@ -1,13 +1,12 @@
-  <!--
-     title:   Austria 1989/90
-     source:  https://rsssf.org/tableso/oost90.html
-     author:  Ambrosius Kutschera
-     updated: 5 Jul 2003
-    -->
+<!--
+   title:   Austria 1989/90
+   source:  https://rsssf.org/tableso/oost90.html
+   author:  Ambrosius Kutschera
+   updated: 5 Jul 2003
+  -->
 
 
 == Austria 1989/90
-
 
 Fall Season
 ===========
@@ -463,15 +462,5 @@ Promoted to the 2.Bundesliga:
 Wolfsberger AC (Mitte)
 SR Donaufeld (Ost)
 FC Salzburg (West)
-
-
-
-
-
-
-
-
-
-
 
 

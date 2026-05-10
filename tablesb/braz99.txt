@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1999 Championship
-     source:  https://rsssf.org/tablesb/braz99.html
-     author:  Miguel Alvim Gonzalez
-     updated: 31 Jul 2000
-    -->
+<!--
+   title:   Brazil 1999 Championship
+   source:  https://rsssf.org/tablesb/braz99.html
+   author:  Miguel Alvim Gonzalez
+   updated: 31 Jul 2000
+  -->
 
 
 == Brazil 1999 Championship
@@ -576,14 +576,5 @@ Second Leg [Dec 22]
 Cruzeiro      2-1 Atlético/PR
 
 Atlético/PR qualified.
-
-
-
-
-
-
-
-
-
 
 

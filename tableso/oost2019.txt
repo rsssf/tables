@@ -1,19 +1,13 @@
-  <!--
-     title:   Austria 2018/19
-     source:  https://rsssf.org/tableso/oost2019.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 7 Mar 2023
-    -->
+<!--
+   title:   Austria 2018/19
+   source:  https://rsssf.org/tableso/oost2019.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 7 Mar 2023
+  -->
 
 
 == Austria 2018/19
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -268,8 +262,6 @@ Final Table:
 12.FC Wacker Innsbruck          22   4  5 13  17-34  17  [P]  ‹Relegation Playoff, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:
@@ -440,10 +432,6 @@ NB: teams carry over half their points from the regular stage (listed between sq
     rounded downwards (marked by * where applicable)
 
 
-
-
-
-
 ==== ÖFB Cup  ‹§cup›
 
 Round 1
@@ -536,10 +524,6 @@ FC Red Bull Salzburg            2-0 SK Rapid Wien
   [Patrick Farkas 37, Munas Dabbur 39]
 
 
-
-
-
-
 ==== 2. Liga (Second Level)  ‹§1liga›
 
 Final Table:
@@ -575,13 +559,7 @@ NB: as Wiener Neustadt were denied a license, Wacker II were relegated
 Promoted: GAK, FC Dornbirn
 
 
-
-
-
-
 ==== Regionalliga  ‹§regliga›
-
-
 ===== Regionalliga West  ‹§regwest›
 
 Final Table:
@@ -659,17 +637,10 @@ Final Table:
 NB: no club eligible for promotion
 
 
-
-
-
 ==== SFV (Salzburg) Cup 2018/19  ‹§salzcup›
 
 Final [Jun 4]
 FC Zell/See                   1-2 USK Anif
-
-
-
-
 
 
 ==== Woche Cup 2018/19  ‹§steicup›

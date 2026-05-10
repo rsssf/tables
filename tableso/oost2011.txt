@@ -1,17 +1,12 @@
-  <!--
-     title:   Austria 2010/11
-     source:  https://rsssf.org/tableso/oost2011.html
-     authors: Hans Schöggl, Jan Schoenmakers and Karel Stokkermans
-     updated: 7 Mar 2023
-    -->
+<!--
+   title:   Austria 2010/11
+   source:  https://rsssf.org/tableso/oost2011.html
+   authors: Hans Schöggl, Jan Schoenmakers and Karel Stokkermans
+   updated: 7 Mar 2023
+  -->
 
 
 == Austria 2010/11
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
 
 Final Table:
@@ -52,9 +47,6 @@ Austria Wien         2-2  2-0  1-0  5-0  0-1  1-0  2-4       0-1  4-0
 Rapid Wien           0-2  2-0  3-3  0-0  0-0  2-0  1-2  0-3       4-1
 Wiener Neustadt      1-2  1-1  2-2  0-0  2-1  0-2  1-0  4-2  2-0
 Rapid Wien-Austria Wien originally 0-2, awarded 0-3
-
-
-
 
 
 ==== ÖFB Cup  ‹§cup›
@@ -194,10 +186,6 @@ SV Ried                     2-0 Austria Lustenau
   [Hammerer 41, 67]
 
 
-
-
-
-
 ==== 1. Liga (Second Level)  ‹§1liga›
 
 Final Table:
@@ -243,10 +231,6 @@ Admira               1-1  7-3  1-1  3-1  3-0  5-3  5-1  0-1       1-3
 First Vienna         1-1  3-1  0-0  1-4  1-1  3-0  2-0  0-4  0-0
 
 
-
-
-
-
 ==== Promotion/Relegation 2nd/3rd level  ‹§prorel›
 
 First Legs
@@ -260,10 +244,6 @@ Wattens          0-1 BW Linz          [aet, 3-4 pen]
 Parndorf         1-2 Vienna
 
 NB: FC Blau-Weiß Linz promoted
-
-
-
-
 
 
 ==== SFV (Salzburg) Cup 2010/11  ‹§salzcup›
@@ -297,9 +277,6 @@ USV Fuschl                    0-5 FC Red Bull Amateure
 
 Final [May 31]
 FC Red Bull Amateure          6-3 SV Grödig 1b
-
-
-
 
 
 ==== Woche Steirer Cup 2010/11  ‹§steicup›

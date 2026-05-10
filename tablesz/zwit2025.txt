@@ -1,19 +1,13 @@
-  <!--
-     title:   Switzerland 2024/25
-     source:  https://rsssf.org/tablesz/zwit2025.html
-     author:  Erik Garin
-     updated: 3 Mar 2026
-    -->
+<!--
+   title:   Switzerland 2024/25
+   source:  https://rsssf.org/tablesz/zwit2025.html
+   author:  Erik Garin
+   updated: 3 Mar 2026
+  -->
 
 
 == Switzerland 2024/25
-
-
-
-
-
 ==== Super League  ‹§super›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -604,8 +598,6 @@ Scorers :
    Anto Grgic                  7  Lugano
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:
@@ -844,10 +836,6 @@ GCZ   : Justin Hammel, Ayumu Seko, Maksim Pastoski, Amir Abrashi (60 Saulo
         Trainer : Tomas Oral.
 
 
-
-
-
-
 ==== Schweizer Cup  ‹§cup›
 
 1/32 finals
@@ -1070,11 +1058,6 @@ Biel-Bienne: Raphael Radtke, Damian Kelvin, Lois Ndema Mbongué, Anthony De Frei
              Unused subs: Benjamin Roth, Evan Stadelmann, Mahir Rizvanovic,
                           Yll Avdyli.
              Trainer : Samir Chaibeddra Tani.
-
-
-
-
-
 
 
 ==== Challenge League  ‹§challenge›
@@ -1648,9 +1631,6 @@ Scorers:
    Vincent Rüfli               8  Etoile Carouge
 
 
-
-
-
 ==== Promotion League  ‹§1prom›
 
 Final Table:
@@ -1693,13 +1673,7 @@ Topscorers :
    Yannis Ryter           12  FC Lugano
 
 
-
-
-
-
-
 ==== First League - Classic  ‹§1class›
-
 
 Group 1
 

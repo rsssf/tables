@@ -1,17 +1,12 @@
-  <!--
-     title:   Norway 2025
-     source:  https://rsssf.org/tablesn/noo2025.html
-     author:  Lars Aarhus
-     updated: 14 Dec 2025
-    -->
+<!--
+   title:   Norway 2025
+   source:  https://rsssf.org/tablesn/noo2025.html
+   author:  Lars Aarhus
+   updated: 14 Dec 2025
+  -->
 
 
 == Norway 2025
-
-
-
-
-
 ==== Eliteserien  ‹§premier›
 
 Final Table:
@@ -55,9 +50,6 @@ Second Leg [Dec 11]
 Aalesund          0-1 Bryne
 
 NB: Aalesunds FK promoted, Bryne FK relegated
-
-
-
 
 
 ==== Cup  ‹§cup›
@@ -215,10 +207,6 @@ Final [Dec 6]
 Lillestrøm        3-1 Sarpsborg 08
 
 
-
-
-
-
 ==== 1. ligaen  ‹§ligaen›
 
 Final Table:
@@ -265,9 +253,6 @@ Second Leg [Nov 29]
 Brattvåg          2-1 Moss              [aet, 2-4 pen]
 
 NB: all clubs remain at former level
-
-
-
 
 
 ==== 2. ligaen  ‹§2ligaen›

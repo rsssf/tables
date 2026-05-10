@@ -1,17 +1,12 @@
-  <!--
-     title:   Brazil 2017
-     source:  https://rsssf.org/tablesb/braz2017.html
-     author:  RSSSF Brazil
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2017
+   source:  https://rsssf.org/tablesb/braz2017.html
+   author:  RSSSF Brazil
+   updated: 8 Dec 2025
+  -->
 
 
 == Brazil 2017
-
-
-
-
-
 ==== Série A  ‹§sa›
 
 Final Table:
@@ -648,9 +643,6 @@ Final Table:
 Promoted: América/MG, Internacional, Ceará, Paraná
 
 
-
-
-
 ==== Copa do Brasil  ‹§cb›
 
 Participants:
@@ -1061,10 +1053,6 @@ FINAL
 CRUZEIRO champions of Copa do Brasil 2017 and classified to Copa Libertadores 2018.
 
 Topscorers: LÉO GAMALHO (Goiás), LUCAS BARRIOS (Grêmio) and RAFAEL SÓBIS (Cruzeiro), 5 goals
-
-
-
-
 
 
 ==== Série B  ‹§sb›

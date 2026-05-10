@@ -1,13 +1,12 @@
-  <!--
-     title:   England 1992/93
-     source:  https://rsssf.org/tablese/eng93.html
-     author:  Michael Heneghan
-     updated: 7 Jul 2004
-    -->
+<!--
+   title:   England 1992/93
+   source:  https://rsssf.org/tablese/eng93.html
+   author:  Michael Heneghan
+   updated: 7 Jul 2004
+  -->
 
 
 == England 1992/93
-
 
 Premiership
 
@@ -1217,14 +1216,5 @@ Pos Team                  P   W   D   L   F   A  GD Pts
  20 Crystal Palace       42  11  16  15  48  61 -13  49
  21 Middlesbrough        42  11  11  20  54  75 -21  44
  22 Nottingham Forest    42  10  10  22  41  62 -21  40
-
-
-
-
-
-
-
-
-
 
 

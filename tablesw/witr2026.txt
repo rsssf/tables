@@ -1,17 +1,12 @@
-  <!--
-     title:   Belarus 2026
-     source:  https://rsssf.org/tablesw/witr2026.html
-     author:  Theodore Dreiman
-     updated: 2 May 2026
-    -->
+<!--
+   title:   Belarus 2026
+   source:  https://rsssf.org/tablesw/witr2026.html
+   author:  Theodore Dreiman
+   updated: 2 May 2026
+  -->
 
 
 == Belarus 2026
-
-
-
-
-
 ==== Vyšejšaja Liha 2026  ‹§visshaya›
 
 Table:
@@ -466,11 +461,6 @@ Nioman       -  Homiel
 [Dec 2, 5]
 
 
-
-
-
-
-
 ==== Cup 2025/26  ‹§kubok›
 
 First Round
@@ -644,11 +634,6 @@ Slávija (Mazýr)            0-1 0-2  BATE (Barýsaŭ)         [agg 0-3]
 Final [May 16, Minsk]
 
 Dynáma (Minsk)  -  BATE (Barýsaŭ)
-
-
-
-
-
 
 
 ==== Pieršaja Liha 2026  ‹§pershaya›
@@ -1178,10 +1163,6 @@ Asipovicy    -  Slonim-2017
 Lida         -  Astraviec
 Niva         -  Dynama-2 Mn
 SKA-1938     -  Sluck-2024
-
-
-
-
 
 
 ==== Druhaja Liha 2026  ‹§druhaya›

@@ -1,19 +1,13 @@
-  <!--
-     title:   San Marino 2024/25
-     source:  https://rsssf.org/tabless/sanm2025.html
-     author:  Karel Stokkermans
-     updated: 23 Feb 2026
-    -->
+<!--
+   title:   San Marino 2024/25
+   source:  https://rsssf.org/tabless/sanm2025.html
+   author:  Karel Stokkermans
+   updated: 23 Feb 2026
+  -->
 
 
 == San Marino 2024/25
-
-
-
-
-
 ==== Campionato Dilettanti 2024/25  ‹§campionato›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -496,10 +490,6 @@ Cosmos           4-2 San Giovanni
 
 Second Place Match [May 17]
 La Fiorita       1-0 Tre Fiori
-
-
-
-
 
 
 ==== Supercoppa 2025  ‹§super›

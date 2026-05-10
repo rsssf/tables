@@ -1,17 +1,12 @@
-  <!--
-     title:   Anguilla 2025
-     source:  https://rsssf.org/tablesa/anguilla2025.html
-     author:  Karel Stokkermans
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Anguilla 2025
+   source:  https://rsssf.org/tablesa/anguilla2025.html
+   author:  Karel Stokkermans
+   updated: 5 May 2026
+  -->
 
 
 == Anguilla 2025
-
-
-
-
-
 ==== AFA Football League 2025  ‹§prem›
 
 Final Table:

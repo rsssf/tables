@@ -1,17 +1,12 @@
-  <!--
-     title:   Brazil 2016
-     source:  https://rsssf.org/tablesb/braz2016.html
-     author:  RSSSF Brazil
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2016
+   source:  https://rsssf.org/tablesb/braz2016.html
+   author:  RSSSF Brazil
+   updated: 8 Dec 2025
+  -->
 
 
 == Brazil 2016
-
-
-
-
-
 ==== Série A  ‹§sa›
 
 Final Table:
@@ -617,9 +612,6 @@ Final Table:
 20.América/MG            38   7  7 24  23-58  28  [P]  Relegated
 
 
-
-
-
 ==== Copa do Brasil  ‹§cb›
 
 <!-- start pre -->articipants:
@@ -1071,10 +1063,6 @@ FINAL
 GRÊMIO champions of Copa do Brasil 2016 and classified to Copa Libertadores 2017.
 
 Topscorer: MARINHO (Vitória), 6 goals
-
-
-
-
 
 
 ==== Série B  ‹§sb›

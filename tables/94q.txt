@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1994 Qualifying
-     source:  https://rsssf.org/tables/94q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 30 Dec 2019
-    -->
+<!--
+   title:   World Cup 1994 Qualifying
+   source:  https://rsssf.org/tables/94q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 30 Dec 2019
+  -->
 
 
 == World Cup 1994 Qualifying
@@ -648,9 +648,5 @@ Australia required to play off with runner up of North and Central America.
 31.07.93  Edmonton        Canada           2-1 Australia
 15.08.93  Sydney          Australia        2-1 Canada          (aet; Australia wins 4-1 on penalties)
 Australia required to play off with second of South America Group 1 (see above).
-
-
-
-
 
 

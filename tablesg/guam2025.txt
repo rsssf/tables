@@ -1,19 +1,13 @@
-  <!--
-     title:   Guam 2025
-     source:  https://rsssf.org/tablesg/guam2025.html
-     author:  Karel Stokkermans
-     updated: 12 Oct 2025
-    -->
+<!--
+   title:   Guam 2025
+   source:  https://rsssf.org/tablesg/guam2025.html
+   author:  Karel Stokkermans
+   updated: 12 Oct 2025
+  -->
 
 
 == Guam 2025
-
-
-
-
-
 ==== G-League Haya  ‹§div1›
-
 
 ===== Group Stage  ‹§gps›
 
@@ -222,10 +216,6 @@ Sidekick                3-3 BOG Strykers            [1-4 pen]
 
 Final [Oct 12]
 Rovers                  5-4 Wings
-
-
-
-
 
 
 ==== G-League Lagu  ‹§div2›

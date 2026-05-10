@@ -1,17 +1,12 @@
-  <!--
-     title:   Bosnia-Hercegovina 2024/25
-     source:  https://rsssf.org/tablesb/bih2025.html
-     author:  Karel Stokkermans
-     updated: 8 Jan 2026
-    -->
+<!--
+   title:   Bosnia-Hercegovina 2024/25
+   source:  https://rsssf.org/tablesb/bih2025.html
+   author:  Karel Stokkermans
+   updated: 8 Jan 2026
+  -->
 
 
 == Bosnia-Hercegovina 2024/25
-
-
-
-
-
 ==== Premijer Liga 2024/25  ‹§premijer›
 
 Final Table:
@@ -417,12 +412,7 @@ Final Table:
 NB: Sloboda 3 points deducted for walking off in round 28
 
 
-
-
-
 ==== Cup Tournaments 2024/25  ‹§kup›
-
-
 ===== BiH Kup  ‹§bhkup›
 
 Round 1
@@ -500,12 +490,7 @@ Second Leg [May 14]
 Široki Brijeg     1-1 Sarajevo
 
 
-
-
-
 ==== Prva Liga  ‹§prva›
-
-
 ===== Prva Liga FBiH  ‹§prvabih›
 
 Final Table:

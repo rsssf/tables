@@ -1,17 +1,12 @@
-  <!--
-     title:   Uzbekistan 2026
-     source:  https://rsssf.org/tableso/oez2026.html
-     author:  Theodore Dreiman
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Uzbekistan 2026
+   source:  https://rsssf.org/tableso/oez2026.html
+   author:  Theodore Dreiman
+   updated: 5 May 2026
+  -->
 
 
 == Uzbekistan 2026
-
-
-
-
-
 ==== Super Liga  ‹§oliy›
 
 Table:
@@ -519,10 +514,6 @@ OKMK         -  Andijon
 Paxtakor     -  So'g'diyona
 
 
-
-
-
-
 ==== O'zbekiston Kubogi  ‹§cup›
 
 First Qualifying Round
@@ -672,10 +663,6 @@ Group G
 2.FC Andijon                    0   0  0  0  0-0   0
 3.Nasaf (Qarshi)                0   0  0  0  0-0   0
 4.Havokand (Qo'qon)             0   0  0  0  0-0   0
-
-
-
-
 
 
 ==== Pro Liga  ‹§pro›
@@ -1056,12 +1043,5 @@ Paxtakor Farm  -  Kattaqo'rg'on
 Jayxun         -  Olympic MobiU
 Sho'rtan       -  BuxDU
 G'azalkent     -  Respublika FA
-
-
-
-
-
-
-
 
 

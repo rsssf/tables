@@ -1,17 +1,12 @@
-  <!--
-     title:   Germany 2009/10
-     source:  https://rsssf.org/tablesd/duit2010.html
-     authors: Karel Stokkermans and Marcel Haisma
-     updated: 2 Aug 2018
-    -->
+<!--
+   title:   Germany 2009/10
+   source:  https://rsssf.org/tablesd/duit2010.html
+   authors: Karel Stokkermans and Marcel Haisma
+   updated: 2 Aug 2018
+  -->
 
 
 == Germany 2009/10
-
-
-
-
-
 ==== 1. Bundesliga  ‹§1bl›
 
 Final Table:
@@ -535,10 +530,6 @@ Augsburg        0-2 Nürnberg
 NB: Nürnberg remain in 1. Bundesliga, Augsburg in 2. Bundesliga
 
 
-
-
-
-
 ==== DFB Pokal  ‹§dfbpokal›
 
 Round 1
@@ -627,10 +618,6 @@ Schalke                0-1 Bayern München         [aet]
 
 Final [May 15, Berlin]
 Werder Bremen          0-4 Bayern München
-
-
-
-
 
 
 ==== 2. Bundesliga  ‹§2bl›
@@ -1202,10 +1189,6 @@ Second Leg [May 17]
 Rostock         0-2 Ingolstadt
 
 NB: Ingolstadt promoted, Hansa Rostock relegated
-
-
-
-
 
 
 ==== 3. Liga  ‹§3bl›

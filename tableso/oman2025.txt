@@ -1,17 +1,12 @@
-  <!--
-     title:   Oman 2024/25
-     source:  https://rsssf.org/tableso/oman2025.html
-     author:  Karel Stokkermans
-     updated: 8 Aug 2025
-    -->
+<!--
+   title:   Oman 2024/25
+   source:  https://rsssf.org/tableso/oman2025.html
+   author:  Karel Stokkermans
+   updated: 8 Aug 2025
+  -->
 
 
 == Oman 2024/25
-
-
-
-
-
 ==== OFA Oman Mobile League  ‹§oml›
 
 Final Table:
@@ -294,10 +289,6 @@ Final Table:
 11.Ibri             22   5  5 12  14-28  20
 -------------------------------------------
 12.Sur              22   4  6 12  12-27  18       Relegated
-
-
-
-
 
 
 ==== First Division  ‹§om1st›

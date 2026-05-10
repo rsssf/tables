@@ -1,9 +1,9 @@
-  <!--
-     title:   Mexico 2005/06
-     source:  https://rsssf.org/tablesm/mex06.html
-     authors: Juan Pablo Andrés, Erik Francisco Lugo and José de Jesus Mora Rivera
-     updated: 22 Jan 2009
-    -->
+<!--
+   title:   Mexico 2005/06
+   source:  https://rsssf.org/tablesm/mex06.html
+   authors: Juan Pablo Andrés, Erik Francisco Lugo and José de Jesus Mora Rivera
+   updated: 22 Jan 2009
+  -->
 
 
 == Mexico 2005/06
@@ -557,7 +557,6 @@ Relegation Average (end of Apertura)
 17.Dorados          1.176 ( 60/51)
 -----------------------------------------------
 18.San Luis         0.941 ( 16/17)
-
 
 
 Torneo Pre-Libertadores 2006
@@ -1172,7 +1171,6 @@ Topscorers:
    Nelson Cuevas          Pachuca     Paraguay     7
 
 
-
 Campeón de Campeones 2005-06 (Super Cup)
 
 First Leg [Jul 23]
@@ -1182,8 +1180,6 @@ Toluca        1-0 Pachuca
 Second Leg [Jul 30]
 Pachuca       0-1 Toluca
   [Bruno Marioni 49]
-
-
 
 
 Second Level 2005/06
@@ -1926,10 +1922,7 @@ Topscorers:
  5.Izaias Ramos       Durango        10
 
 
-
-
 Third Level 2005/06
-
 
 
 Segunda División Profesional
@@ -2113,8 +2106,6 @@ Pumas Prepa - Atlas FC                                            1-1  0-1
 Atlas FC champion Apertura 2005
 
 
-
-
 Torneo Clausura 2006
 
 Zona Sur (South)
@@ -2287,14 +2278,5 @@ Santos Laguna "B" - Atlas FC                                      0-0  2-1
 
 Santos Laguna "B" champion Clausura 2006
 "Filiales" cannot promote to Primera A (Second Level)
-
-
-
-
-
-
-
-
-
 
 

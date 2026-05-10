@@ -1,17 +1,12 @@
-  <!--
-     title:   Austria 2014/15
-     source:  https://rsssf.org/tableso/oost2015.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 7 Mar 2023
-    -->
+<!--
+   title:   Austria 2014/15
+   source:  https://rsssf.org/tableso/oost2015.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 7 Mar 2023
+  -->
 
 
 == Austria 2014/15
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
 
 Final Table:
@@ -371,10 +366,6 @@ Final Table:
 10.SC Wiener Neustadt           36   7  8 21  37-79  29  Relegated
 
 
-
-
-
-
 ==== ÖFB Cup  ‹§cup›
 
 Round 1
@@ -467,10 +458,6 @@ FC Red Bull Salzburg        2-0 FK Austria Wien             [aet]
   [Soriano 95, Pires 108]
 
 
-
-
-
-
 ==== 1. Liga (Second Level)  ‹§1liga›
 
 Final Table:
@@ -506,13 +493,7 @@ Austria K        4-1 Parndorf         [aet]
 NB: SK Austria Klagenfurt promoted
 
 
-
-
-
-
 ==== Regionalliga  ‹§regliga›
-
-
 ===== Regionalliga West  ‹§regwest›
 
 Final Table:
@@ -595,10 +576,6 @@ Promoted: SV Oberwart (Burgenland)
           FC Stadlau (Wien)
 
 
-
-
-
-
 ==== SFV (Salzburg) Cup 2014/15  ‹§salzcup›
 
 1/8 Finals
@@ -628,9 +605,6 @@ ASV Salzburg                  1-3 USC Eugendorf
 
 Final [Jun 26]
 SC Golling                    1-7 USC Eugendorf
-
-
-
 
 
 ==== Woche Murauer Cup 2014/15  ‹§steicup›

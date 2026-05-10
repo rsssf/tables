@@ -1,17 +1,12 @@
-  <!--
-     title:   Mauritius 2019/20
-     source:  https://rsssf.org/tablesm/mauri2020.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 18 Feb 2021
-    -->
+<!--
+   title:   Mauritius 2019/20
+   source:  https://rsssf.org/tablesm/mauri2020.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 18 Feb 2021
+  -->
 
 
 == Mauritius 2019/20
-
-
-
-
-
 ==== Premier League 2019/20  ‹§prem›
 
 Table at abandonment:
@@ -171,13 +166,7 @@ Table at abandonment:
 10.Savanne SC                             13   2  3  8  21-39   9
 
 
-
-
-
-
 ==== Cup Tournaments 2019/20  ‹§coupes›
-
-
 ===== MFA Cup  ‹§mfa›
 
 Preliminary Round
@@ -239,10 +228,6 @@ Petite Rivière Noire         3-0 RB Bolton City YC
 
 Final [Mar 15]
 Pamplemousses                4-2 Petite Rivière Noire
-
-
-
-
 
 
 ==== Regional Leagues  ‹§reg›

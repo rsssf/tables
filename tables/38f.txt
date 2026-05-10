@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1938
-     source:  https://rsssf.org/tables/38f.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 6 Mar 2026
-    -->
+<!--
+   title:   World Cup 1938
+   source:  https://rsssf.org/tables/38f.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 6 Mar 2026
+  -->
 
 
 == World Cup 1938 (France, June 4-19)
@@ -72,12 +72,5 @@ Scorers: 6' Colaussi 1-0; 8' Titkos 1-1; 16' Piola 2-1; 35' Colaussi 3-1;
          70' Sárosi 3-2; 82' Piola 4-2.
 
 Topscorer: Leônidas (Brazil) 7 goals.
-
-
-
-
-
-
-
 
 

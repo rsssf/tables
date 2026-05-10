@@ -1,17 +1,12 @@
-  <!--
-     title:   Rwanda 2025/26
-     source:  https://rsssf.org/tablesr/rwan2026.html
-     author:  Karel Stokkermans
-     updated: 2 Apr 2026
-    -->
+<!--
+   title:   Rwanda 2025/26
+   source:  https://rsssf.org/tablesr/rwan2026.html
+   author:  Karel Stokkermans
+   updated: 2 Apr 2026
+  -->
 
 
 == Rwanda 2025/26
-
-
-
-
-
 ==== Rwanda Premier League  ‹§premiere›
 
 Table:

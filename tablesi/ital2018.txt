@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 2017/18
-     source:  https://rsssf.org/tablesi/ital2018.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   Italy 2017/18
+   source:  https://rsssf.org/tablesi/ital2018.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
 
 == Italy 2017/18
-
-
-
-
-
 ==== Serie A  ‹§seriea›
 
 Final Table:
@@ -611,10 +606,6 @@ Final Table:
 20.Benevento Calcio    38   6  3 29  33-84  21  [P]  Relegated
 
 
-
-
-
-
 ==== Coppa Italia  ‹§coppa›
 
 Round 1
@@ -819,13 +810,7 @@ Milan: G. Donnarumma, Calabria, Bonucci, Romagnoli, Rodriguez, Kessie, Locatelli
   Bonaventura, Suso (Borini 68), Cutrone (Kalinic 62), Calhanoglu. Tr.: Gattuso.
 
 
-
-
-
-
 ==== Serie B  ‹§serieb›
-
-
 ===== Regular Season  ‹§2reg›
 
 Final Table:

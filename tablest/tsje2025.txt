@@ -1,19 +1,13 @@
-  <!--
-     title:   Czech Republic 2024/25
-     source:  https://rsssf.org/tablest/tsje2025.html
-     author:  Karel Stokkermans
-     updated: 28 May 2025
-    -->
+<!--
+   title:   Czech Republic 2024/25
+   source:  https://rsssf.org/tablest/tsje2025.html
+   author:  Karel Stokkermans
+   updated: 28 May 2025
+  -->
 
 
 == Czech Republic 2024/25
-
-
-
-
-
 ==== Chance liga  ‹§1gamb›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -449,8 +443,6 @@ Final Table:
 16.SK Dynamo České Budějovice 30   0  5 25  14-78   5                   ‹Skupina o Záchranu, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Skupina o Titul  ‹§champ›
 
 Final Table:

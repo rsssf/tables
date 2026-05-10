@@ -1,9 +1,9 @@
-  <!--
-     title:   Copa América 2024
-     source:  https://rsssf.org/tables/2024sa.html
-     author:  Roberto Di Maggio
-     updated: 24 Jul 2024
-    -->
+<!--
+   title:   Copa América 2024
+   source:  https://rsssf.org/tables/2024sa.html
+   author:  Roberto Di Maggio
+   updated: 24 Jul 2024
+  -->
 
 
 == Copa América 2024
@@ -108,7 +108,5 @@ Jul 13 Canada          2-2 Uruguay               [3-4p] Charlotte, NC
 Final
 Jul 14 Argentina       1-0 Colombia               [aet] Miami Gardens, FL
         [Lautaro Martinez 112]
-
-
 
 

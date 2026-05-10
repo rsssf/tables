@@ -1,17 +1,12 @@
-  <!--
-     title:   Germany 2019/20
-     source:  https://rsssf.org/tablesd/duit2020.html
-     author:  Karel Stokkermans
-     updated: 8 Oct 2020
-    -->
+<!--
+   title:   Germany 2019/20
+   source:  https://rsssf.org/tablesd/duit2020.html
+   author:  Karel Stokkermans
+   updated: 8 Oct 2020
+  -->
 
 
 == Germany 2019/20
-
-
-
-
-
 ==== 1. Bundesliga  ‹§1bl›
 
 Final Table:
@@ -568,9 +563,6 @@ Heidenheim      2-2 Bremen
 NB: both remain at former level
 
 
-
-
-
 ==== DFB Pokal  ‹§dfbpokal›
 
 Round 1
@@ -667,10 +659,6 @@ Final [Jul 4, Berlin]
 Bayern München         4-2 Bayer Leverkusen
 
 
-
-
-
-
 ==== 2. Bundesliga  ‹§2bl›
 
 Final Table:
@@ -707,9 +695,6 @@ Second Leg [Jul 11]
 Ingolstadt      3-1 Nürnberg
 
 NB: both remain at former level
-
-
-
 
 
 ==== 3. Liga  ‹§3bl›

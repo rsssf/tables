@@ -1,36 +1,16 @@
-  <!--
-     title:   World Cup 1930 finals
-     source:  https://rsssf.org/tables/30full.html
-
-    -->
+<!--
+   title:   World Cup 1930 finals
+   source:  https://rsssf.org/tables/30full.html
+  -->
 
 
 = World Cup 1930
-
-
-‹Results, see §results›
-
-‹Group A, see §gra›
-‹Group B, see §grb›
-‹Group C, see §grc›
-‹Group D, see §grd›
-‹Semifinals, see §semi›
-‹Final, see §final›
-
-
-‹Scorers' list, see §scorers›
-‹Coaches, assistants, reserve players, see §coaches›
-‹Oldest and youngest, see §records›
-
 
 Uruguay, July 13-30. All games played in Montevideo. Decided in Amsterdam 28 May
 1928. Entries deadline 19 Jan 1930, moved to late May (all 13 teams that entered
 were qualified). Groups drawn 7 Jul 1930. Semifinals drawn 22 Jul 1930.
 
 == First Phase
-
-
-
 == Group A - ARG CHI FRA MEX  ‹§gra›
 
 13.07.30 (15.00) Montevideo, Estadio Pocitos
@@ -50,9 +30,6 @@ F.Rosas - López, Ruiz, Mejia, Carreño, Pérez
 NOTE: Laurent's goal is the first in World Cup history
 
 
-
-
-
 15.07.30  (16.00) Montevideo, Parque Central
 
 ARG - FRA 1:0 (0:0)
@@ -65,9 +42,6 @@ FRA: Thépot - Capelle, Mattles - Chantrel, Pinel, Villaplane
 (c) - Libérati, Delfour, Maschinot, Laurent, Langiller
 
 1:0 Monti 81 f
-
-
-
 
 
 16.07.30  (14.45) Montevideo, Parque Central
@@ -84,9 +58,6 @@ F.Rosas - López, Gayón, Ruiz, Carreño, Pérez
 1:0 Vidal 3, 2:0 M. Rosas 52 o, 3:0 Vidal 65
 
 
-
-
-
 19.07.30  (12.50) Montevideo, Centenario
 
 CHI - FRA 1:0 (0:0)
@@ -99,9 +70,6 @@ FRA: Thépot - Capelle, Mattles - Chantrel, Delmer, Villaplane  (c) -
 Libérati, Delfour, Pinel, Veinante, Langiller
 
 1:0 Subiabre 67 h (30 Thépot saved a penalty by Saavedra)
-
-
-
 
 
 19.07.30  (15.00) Montevideo, Centenario
@@ -120,9 +88,6 @@ Rodriguez, F.Garza Gutiérrez, F.Rosas - López, Gayón, Carreño
 6:3 Stábile 80
 (23 Bonfiglio saved penalty from Paternoster, 65 Bossio held penalty
 from M.Rosas who however scored from the rebound)
-
-
-
 
 
 22.07.30  (14.45) Montevideo, Centenario
@@ -159,9 +124,6 @@ Poly, Nilo, Arakén, Preguinho (c), Pereira
 1:0 Tirnanić 21, 2:0 Bek 30, 2:1 Preguinho 62
 
 
-
-
-
 17.07.30  (12.45) Montevideo, Parque Central
 
 JUG - BOL 4:0 (0:0)
@@ -174,9 +136,6 @@ BOL: Bermùdes - Durandal, Chavarria - Argote, Lara,
 Balderrama - Gómez, Bustamante, Mendéz (c), Alborta, Férnandez
 
 1:0 Bek 60, 2:0 Marjanović 65, 3:0 Bek 67, 4:0 Vujadinović 86
-
-
-
 
 
 20.07.30  (13.00) Montevideo, Centenario
@@ -214,9 +173,6 @@ Flores, Villanueva, Denegri, Neira, Souza-Ferreira
 sent off: Galindo (56)
 
 
-
-
-
 18.07.30  (14.30) Montevideo, Centenario
 
 URU - PER 1:0 (0:0)
@@ -231,9 +187,6 @@ Flores, Villanueva, Lavalle, Neira, Souza-Ferreira
 1:0 Castro 65
 
 NOTE: Match preceded by stadium opening ceremony
-
-
-
 
 
 21.07.30  (14.50) Montevideo, Centenario
@@ -269,9 +222,6 @@ BEL: Badjou - Nouwens, Hoydonckx - De Clerq, Hellemans, F.Braine
 1:0 McGhee 40, 2:0 McGhee 43, 3:0 Patenaude 89 h
 
 
-
-
-
 17.07.30  (14.45) Montevideo, Parque Central
 
 USA - PAR 3:0 (2:0)
@@ -288,9 +238,6 @@ Dominguez, González, Benitez Cáceres, Vargas Peña (c)
 NOTE: FIFA officially recognised the second goal as scored by Patenaude
 on November 10, 2006 (!), making him the ‹first World Cup hat-trick, see page 30f-hattrick›
 scorer; it was earlier listed as own goal by González or as goal by Florie
-
-
-
 
 
 20.07.30  (15.00) Montevideo, Centenario
@@ -325,9 +272,6 @@ Brown, Florie (c), Patenaude, Gonsalves, McGhee
 
 1:0 Monti 20, 2:0 Scopelli 56, 3:0 Stábile 69, 4:0 Peucelle 80, 5:0
 Peucelle 85, 6:0 Stábile 87, 6:1 Brown 89
-
-
-
 
 
 27.07.30  (14.45) Montevideo, Centenario

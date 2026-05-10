@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1974/75
-     source:  https://rsssf.org/tableso/oost75.html
-     author:  Ambrosius Kutschera
-     updated: 12 Jul 2005
-    -->
+<!--
+   title:   Austria 1974/75
+   source:  https://rsssf.org/tableso/oost75.html
+   author:  Ambrosius Kutschera
+   updated: 12 Jul 2005
+  -->
 
 
 == Austria 1974/75
@@ -380,13 +380,5 @@ Promoted to the 2.Division:
 SV Sankt Veit (Mitte)
 SC Tulln (Ost)
 Salzburger AK (West)
-
-
-
-
-
-
-
-
 
 

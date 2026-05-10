@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1976/77
-     source:  https://rsssf.org/tablesd/duit77.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1976/77
+   source:  https://rsssf.org/tablesd/duit77.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1976/77
-
 
 Final Table
 
@@ -648,7 +647,5 @@ Borussia Mönchengladbach 1976/77
       Herbert WIMMER         31  (2488) + 2
   Hans-Jürgen WITTKAMP       33  (2970) + 5
         Horst WOHLERS        27  (2314) + 2
-
-
 
 

@@ -1,19 +1,13 @@
-  <!--
-     title:   Austria 2021/22
-     source:  https://rsssf.org/tableso/oost2022.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 5 Apr 2023
-    -->
+<!--
+   title:   Austria 2021/22
+   source:  https://rsssf.org/tableso/oost2022.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 5 Apr 2023
+  -->
 
 
 == Austria 2021/22
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -274,8 +268,6 @@ Final Table:
 12.SC Rheindorf Altach          22   3  4 15  10-38  13       ‹Relegation Playoff, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:
@@ -453,10 +445,6 @@ NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
 
-
-
-
-
 ==== ÖFB Cup  ‹§cup›
 
 Round 1
@@ -552,9 +540,6 @@ Wolfsberger AC                      1-1 FC Red Bull Salzburg                [aet
 Final [May 1, Wörthersee-Stadion, Klagenfurt; att: 7,800]
 SV Ried                             0-3 FC Red Bull Salzburg
   [Sucic 27, Wöber 52, Sesko 88]
-
-
-
 
 
 ==== 2. Liga (Second Level)  ‹§1liga›
@@ -1018,13 +1003,7 @@ NB: FC Juniors Oberösterreich withdrew from the league after the season;
     as no club from the western region is promoted, no other clubs are relegated
 
 
-
-
-
-
 ==== Regionalliga  ‹§regliga›
-
-
 ===== Regionalliga West  ‹§regwest›
 
 Final Table:
@@ -1086,10 +1065,6 @@ NB: as the league was extended to 16 clubs, 1.MAV Wiener-Neustadt (renamed
     1.Wiener Neustädter SC) and ASV Draßburg were reprieved from relegation
 
 
-
-
-
-
 ==== SFV (Salzburg) Cup 2021/22  ‹§salzcup›
 
 1/8 Finals
@@ -1119,10 +1094,6 @@ SK Bischofshofen              3-0 SV Wals-Grünau
 
 Final [May 25]
 SV Kuchl                      3-2 SK Bischofshofen
-
-
-
-
 
 
 ==== Steirer Cup 2021/22  ‹§steicup›
@@ -1155,6 +1126,5 @@ SV Frauental                  7-0 TSV Neumarkt
 
 Final [Jun 6]
 SV Klöch                      0-2 SV Frauental
-
 
 

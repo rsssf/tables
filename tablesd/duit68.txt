@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1967/68
-     source:  https://rsssf.org/tablesd/duit68.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1967/68
+   source:  https://rsssf.org/tablesd/duit68.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1967/68
-
 
 Final Table
 
@@ -600,7 +599,5 @@ Topscorers: Hannes LÖHR (Köln) - 27, Franz BRUNGS (Nürnberg) -
         Heinz STREHL         33  (2881)  +18
         Georg VOLKERT        33  (2951)  + 9
     Ferdinand WENAUER        35  (3060)
-
-
 
 

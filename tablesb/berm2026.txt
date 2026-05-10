@@ -1,17 +1,12 @@
-  <!--
-     title:   Bermuda 2025/26
-     source:  https://rsssf.org/tablesb/berm2026.html
-     author:  Karel Stokkermans
-     updated: 16 Apr 2026
-    -->
+<!--
+   title:   Bermuda 2025/26
+   source:  https://rsssf.org/tablesb/berm2026.html
+   author:  Karel Stokkermans
+   updated: 16 Apr 2026
+  -->
 
 
 == Bermuda 2025/26
-
-
-
-
-
 ==== Premier Division  ‹§premier›
 
 Final Table:
@@ -217,13 +212,7 @@ Final Table:
 10.Boulevard Blazers      18   2  3 13  20-59   9  [P]  Relegated
 
 
-
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== FA Challenge Cup 2025/26  ‹§facup›
 
 Preliminary Round
@@ -365,10 +354,6 @@ Somerset Trojans         0-0 Robin Hood               [aet, 1-4 pen]
 
 Final [Jan 1]
 Somerset Eagles          2-2 Robin Hood               [aet, 5-4 pen]
-
-
-
-
 
 
 ==== First Division  ‹§first›

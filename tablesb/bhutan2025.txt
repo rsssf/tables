@@ -1,17 +1,12 @@
-  <!--
-     title:   Bhutan 2025
-     source:  https://rsssf.org/tablesb/bhutan2025.html
-     author:  Karel Stokkermans
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Bhutan 2025
+   source:  https://rsssf.org/tablesb/bhutan2025.html
+   author:  Karel Stokkermans
+   updated: 7 May 2026
+  -->
 
 
 == Bhutan 2025
-
-
-
-
-
 ==== Premier League 2025  ‹§nat›
 
 Final Table:
@@ -278,9 +273,6 @@ Final Table:
 
 NB: originally the bottom-4 were to requalify for the 2026 season, but eventually
     Tensung and Tsirang remained in the Premier League without having to do so
-
-
-
 
 
 ==== Premier League Qualifiers 2025  ‹§plq›

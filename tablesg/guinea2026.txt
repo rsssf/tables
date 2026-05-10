@@ -1,17 +1,12 @@
-  <!--
-     title:   Guinea 2025/26
-     source:  https://rsssf.org/tablesg/guinea2026.html
-     author:  Karel Stokkermans
-     updated: 23 Apr 2026
-    -->
+<!--
+   title:   Guinea 2025/26
+   source:  https://rsssf.org/tablesg/guinea2026.html
+   author:  Karel Stokkermans
+   updated: 23 Apr 2026
+  -->
 
 
 == Guinea 2025/26
-
-
-
-
-
 ==== Ligue 1  ‹§ligue1›
 
 Final Table:

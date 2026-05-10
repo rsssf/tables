@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 2005
-     source:  https://rsssf.org/tablesb/braz05.html
-     author:  RSSSF Brazil
-     updated: 29 Apr 2006
-    -->
+<!--
+   title:   Brazil 2005
+   source:  https://rsssf.org/tablesb/braz05.html
+   author:  RSSSF Brazil
+   updated: 29 Apr 2006
+  -->
 
 
 == Brazil 2005
@@ -1635,14 +1635,5 @@ Neto            (São Caetano for São Paulo)            1 [Levino Floriano Horn
 Thiago          (São Caetano for Atlético-PR)          1
 Fabão           (São Paulo for Ponte Preta)            1
 Renan           (São Paulo for Santos)                 1
-
-
-
-
-
-
-
-
-
 
 

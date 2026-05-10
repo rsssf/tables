@@ -1,19 +1,13 @@
-  <!--
-     title:   Channel Islands 2024/25
-     source:  https://rsssf.org/tablesc/chisl2025.html
-     author:  John Treleven
-     updated: 26 Jun 2025
-    -->
+<!--
+   title:   Channel Islands 2024/25
+   source:  https://rsssf.org/tablesc/chisl2025.html
+   author:  John Treleven
+   updated: 26 Jun 2025
+  -->
 
 
 == Channel Islands 2024/25
-
-
-
-
-
 ==== Inter-Island Club Competitions  ‹§interisland›
-
 
 ===== Upton Park Cup  ‹§upton›
 
@@ -66,13 +60,7 @@ St. Clement           3-1 Rovers
 Grouville             6-3 Rovers
 
 
-
-
-
-
 ==== Guernsey  ‹§guernsey›
-
-
 ===== Premiership (Priaulx)  ‹§gprem›
 
 Final Table:
@@ -105,13 +93,7 @@ Final [May 24]
 Northerners              3-2 Rovers
 
 
-
-
-
-
 ==== Jersey  ‹§jersey›
-
-
 ===== Premiership  ‹§jprem›
 
 Final Table:
@@ -126,7 +108,6 @@ Final Table:
  8.Saint Peter             14   2  2 10  24-55   8
 
 ===== Various Cup Tournaments  ‹§cups›
-
 
 Charity Cup  ‹§charity›
 

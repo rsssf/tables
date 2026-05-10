@@ -1,23 +1,15 @@
-  <!--
-     title:   Mexico 2016/17
-     source:  https://rsssf.org/tablesm/mex2017.html
-     author:  Erik Francisco Lugo
-     updated: 6 Jun 2023
-    -->
+<!--
+   title:   Mexico 2016/17
+   source:  https://rsssf.org/tablesm/mex2017.html
+   author:  Erik Francisco Lugo
+   updated: 6 Jun 2023
+  -->
 
 
 == Mexico 2016/17
-
-
-
-
-
 ==== Liga MX  ‹§pdn›
 
-
-
 ===== Apertura 2016  ‹§1aper›
-
 
 Regular Stage  ‹§apreg›
 
@@ -584,7 +576,6 @@ NB: Tijuana, América (Group Phase) and Guadalajara (Preliminary Round) had qual
 
 
 ===== Clausura 2017  ‹§1clau›
-
 
 Regular Stage  ‹§clreg›
 
@@ -1164,11 +1155,7 @@ Edson Torres      FWD
 Coach: Matías Almeyda (ARG)
 
 
-
-
-
 ==== Copa MX Apertura 2016  ‹§copa›
-
 
 NB: the Cup Tournament is played by 12 teams from the Liga MX (first level) and
     12 teams from the Ascenso MX (second level);
@@ -1524,14 +1511,7 @@ Emanuel Villa         FWD (Argentina)
 Coach: Víctor Manuel Vucetich
 
 
-
-
-
-
-
-
 ==== Copa MX Clausura 2017  ‹§copac›
-
 
 NB: the Cup Tournament is played by 15 teams from the Liga MX (first level) and
     12 teams from the Ascenso MX (second level);
@@ -1934,10 +1914,6 @@ Edson Torres      FWD
 Coach: Matías Almeyda (ARG)
 
 
-
-
-
-
 ==== Campeón de Campeones  ‹§campcamp›
 
 Between winners of Liga MX Apertura 2016 (Tigres) and winners of Liga MX Clausura 2017 (Guadalajara)
@@ -1947,10 +1923,6 @@ One single leg played [Jul 16]
 Stub Hub Center, Carson, California, USA
 Tigres           1-0 Guadalajara
   [Eduardo Jesús Vargas 61]
-
-
-
-
 
 
 ==== Supercopa MX  ‹§supcopa›
@@ -1967,13 +1939,7 @@ Querétaro        2-0 América
   [Emanuel Villa 12pen, Hiram Mier 62]
 
 
-
-
-
-
 ==== Ascenso MX  ‹§ascenso›
-
-
 ===== Apertura 2016  ‹§2aper›
 
 Changes before season:
@@ -2333,8 +2299,6 @@ Second Leg [Dec 3]
 Dorados           1-0 Atlante
 
 ===== Clausura 2017  ‹§2clau›
-
-
 ====== Regular Stage  ‹§2claureg›
 
 Participants:

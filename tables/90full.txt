@@ -1,33 +1,10 @@
-  <!--
-     title:   World Cup 1990 finals
-     source:  https://rsssf.org/tables/90full.html
-
-    -->
+<!--
+   title:   World Cup 1990 finals
+   source:  https://rsssf.org/tables/90full.html
+  -->
 
 
 = World Cup 1990
-
-
-‹Results, see §results›
-
-‹Group A, see §gra›
-‹Group B, see §grb›
-‹Group C, see §grc›
-‹Group D, see §grd›
-‹Group E, see §gre›
-‹Group F, see §grf›
-‹Eightfinals, see §8fin›
-‹Quarterfinals, see §4fin›
-‹Semifinals, see §2fin›
-‹Finals, see §final›
-
-
-‹Squads, see §squads›
-‹Scorers' list, see §scorers›
-‹Coaches, assistants, reserve players, see §coaches›
-‹Oldest and youngest, see §records›
-
-
 
 Italy, 8 June - 8 July 1990 (Bari, Bologna, Cagliari, Florentia, Genoa,
 Milano, Napoli, Palermo, Roma, Torino, Udine, Verona). Decided by FIFA
@@ -55,9 +32,6 @@ AUT: Lindenberger - Russ, Pecl, Aigner, Streiter - Schöttel, Linzmaier
 booked: Herzog
 
 
-
-
-
 10.06.90  (17.00) Florence, Stadio Communale
 
 CZE - USA 5:1 (2:0)
@@ -76,9 +50,6 @@ booked: Kubik, Kadlec / Meola, Trittschuh
 sent off: Wynalda (52)
 
 
-
-
-
 14.06.90  (21.00) Roma, Stadio Olimpico
 
 ITA - USA 1:0 (1:0)
@@ -93,9 +64,6 @@ Balboa, Caligiuri, Ramos, Harkes - Murray (83 Sullivan), Vermes
 1:0 Giannini 11 (20 Vialli missed penalty)
 
 booked: Ferri / Banks
-
-
-
 
 
 15.06.94  (17.00) Florence, Stadio Communale
@@ -114,9 +82,6 @@ AUT: Lindenberger - Pfeffer, Pecl, Aigner, Russ (46 Streiter) - Schöttel
 booked: Moravčik, Kubik / Pecl, Zsak, Streiter, Pfeiffer
 
 
-
-
-
 19.06.90  (21.00) Roma, Stadio Olimpico
 
 ITA - CZE 2:0 (1:0)
@@ -131,9 +96,6 @@ CZE: Stejskal - Kadlec, Kinier, Hašek (c), Bilek - Chovanec, Moravčik, Nemeče
 1:0 Schillaci 9 h, 2:0 R.Baggio 78
 
 booked: R.Baggio, Berti / Chovanec, Skuhravý
-
-
-
 
 
 19.06.90  (21.00) Florence, Stadio Communale
@@ -179,9 +141,6 @@ sent off: Kana Biyik (61), Massing (87)
 NOTE: Match preceded by WC opening ceremony
 
 
-
-
-
 09.06.90  (17.00) Bari, Stadio San Nicola
 
 ROM - ZSR 2:0 (0:0)
@@ -197,9 +156,6 @@ Rats, Aleinikov, Litovchenko (64 Yaremchuk), Zavarov - Protasov, Dobrovolsky
 1:0 Lăcătuş 42, 2:0 Lăcătuş 57 p
 
 booked: Lăcătuş / Khidjatullin
-
-
-
 
 
 13.06.90  (21.00) Napoli, Stadio San Paolo
@@ -221,9 +177,6 @@ booked: Batista, Serrizuela, Caniggia, Maradona, Olarticoechea / Zygmantovich
 sent off: Bessonov (46)
 
 
-
-
-
 14.06.90  (17.00) Bari, Stadio San Nicola
 
 CAM - ROM 2:1 (0:0)
@@ -238,9 +191,6 @@ D.Timofte, Hagi (56 Dumitrescu) - Lăcătuş, Răducioiu (64 Balint)
 1:0 Milla 76, 2:0 Milla 86, 2:1 Balint 88
 
 booked: Onana, N'Kono / Klein
-
-
-
 
 
 18.06.90  (21.00) Bari, Stadio San Nicola
@@ -258,9 +208,6 @@ Makanaky (57 Pagal), M'Fede - Kana-Biyik, Omam-Biyik
 1:0 Protasov 20, 2:0 Zygmantovich 29, 3:0 Zavarov 59, 4:0 Dobrovolski 63 h
 
 booked: Khidiatullin, Prostasov / Kana Biyik, Milla
-
-
-
 
 
 18.06.90  (21.00) Napoli, Stadio San Paolo
@@ -302,9 +249,6 @@ Ingesson, Limpar, J.Nilsson, Thern - Brolin, Magnusson (46 Pettersson)
 booked: Mozer, Branco, Dunga / J.Nilsson
 
 
-
-
-
 11.06.90  (17.00) Genoa, Stadio Luigi Ferraris
 
 COS - SCO 1:0 (0:0)
@@ -317,9 +261,6 @@ SCO: Leighton - Gough (46 McKimmie), McLeish, McPherson, Malpas - Aitken (c),
 McStay, Bett (74 McCoist), McCall - Johnston, McInally
 
 1:0 Cayasso 49
-
-
-
 
 
 16.06.90  (17.00) Turin, Stadio Delle Alpi
@@ -339,9 +280,6 @@ Gómez, Cayasso (78 Guimaráes) - Marchena, C.Jara (71 Myers)
 booked: Jorginho, Mozer / C.Jara, Gómez
 
 
-
-
-
 16.06.90  (21.00) Genoa, Stadio Luigi Ferraris
 
 SCO - SWE 2:1 (1:0)
@@ -358,9 +296,6 @@ Ingesson, Limpar, J.Nilsson, Thern - Brolin, Pettersson (53 Ekström)
 booked: McPherson / Thern
 
 
-
-
-
 20.06.90  (21.00) Genoa, Stadio Luigi Ferraris
 
 COS - SWE 2:1 (0:1)
@@ -375,9 +310,6 @@ SWE: Ravelli - R.Nilsson, Larsson, Hysen (c) - Schwarz, Strömberg
 0:1 Ekström 32, 1:1 Flores 75 h, 2:1 Medford 88
 
 booked: Gómez, Marchena / Strömberg, Schwarz
-
-
-
 
 
 20.06.90  (21.00) Turin, Stadio Delle Alpi
@@ -419,9 +351,6 @@ Al Talyani
 booked: N.K.Mubarak, Mohammed, I.M.Abdulrahman
 
 
-
-
-
 10.06.90  (21.00) Milano, Stadio Giuseppe Meazza (San Siro)
 
 GER - JUG 4:1 (2:0)
@@ -437,9 +366,6 @@ Baljić, Stojković, Katanec, Zl.Vujović, Savičević (56 D.Brnović)
 4:1 Völler 71
 
 booked: Brehme
-
-
-
 
 
 14.06.90  (17.00) Bologna, Stadio Renato Dall'Ara
@@ -460,9 +386,6 @@ Gómez Jaramillo, Valderrama (c), Redin (81 Estrada) - Iguaran, Rincón
 booked: Stojković
 
 
-
-
-
 15.06.90  (21.00) Milano, Stadio Giuseppe Meazza (San Siro)
 
 GER - EMI 5:1 (2:0)
@@ -481,9 +404,6 @@ Bein 59, 5:1 Völler 75 h
 booked: Brehme / Mohammed, Abbas
 
 
-
-
-
 19.06.90  (17.00) Milano, Stadio Giuseppe Meazza (San Siro)
 
 COL - GER 1:1 (0:0)
@@ -499,9 +419,6 @@ Hässler (88 Thon), Matthäus (c), Bein (46 Littbarski) - Völler, Klinsmann
 +
 
 booked: Herrera, Gómez Jaramillo, Alvarez / Berthold
-
-
-
 
 
 19.06.90  (17.00) Bologna, Stadio Renato Dall'Ara
@@ -546,9 +463,6 @@ Lee Young-jin (46 Cho Min-kook) - Hwang Seon-hong, Choi Soon-ho
 booked: Choi Soon-ho
 
 
-
-
-
 13.06.90  (17.00) Udine, Stadio Friuli
 
 ESP - URU 0:0
@@ -567,9 +481,6 @@ Sosa
 booked: Jimenez, Villaroya / Perdomo, Francescoli
 
 
-
-
-
 17.06.90  (21.00) Udine, Stadio Friuli
 
 ESP - KOR 3:1 (1:1)
@@ -585,9 +496,6 @@ Kim Joo-sung, Hwang Bo-kwan - Byun Byung-joo, Choi Soon-ho
 1:0 Michel 22, 1:1 Hwang Bo-kwan 42, 2:1 Michel 61 f, 3:1 Michel 81
 
 booked: Chung Hae-won, Yoon Deuk-yeo, Hwang Bo-kwan
-
-
-
 
 
 17.06.90  (21.00) Verona, Stadio Marc Antonio Bentegodi
@@ -608,9 +516,6 @@ booked: Gerets / Sosa
 sent off: Gerets (41)
 
 
-
-
-
 21.06.90  (17.00) Verona, Stadio Marc Antonio Bentegodi
 
 ESP - BEL 2:1 (2:1)
@@ -626,9 +531,6 @@ Ceulemans (c)
 
 1:0 Michel 20 p, 1:1 Vervoort 28 f, 2:1 Gorriz 37 h (59 Scifo missed
 penalty)
-
-
-
 
 
 21.06.90 (17.00) Udine, Stadio Friuli
@@ -671,9 +573,6 @@ Townsend, Aldridge (65 McLoughlin) - Cascarino, Sheedy
 booked: McMahon
 
 
-
-
-
 12.06.90  (21.00) Palermo, Stadio Della Favorita
 
 EGY - HOL 1:1 (0:0)
@@ -691,9 +590,6 @@ Gullit (c)
 booked: A.Ramzy / Kieft
 
 
-
-
-
 16.06.90  (17..00) Cagliari, Stadio Sant' Elia
 
 ENG - HOL 0:0
@@ -704,9 +600,6 @@ ENG: Shilton - Parker, Pearce, Walker, Butcher - Wright, Robson (c - 71 Platt),
 Waddle (65 Bull), Gascoigne - Barnes, Lineker
 HOL: Van Breukelen - Van Aerle, Rijkaard, R.Koeman, Van Tiggelen - Wouters,
 Ri.Witschge, van't Schip (81 Kieft), Gillhaus - Van Basten, Gullit (c)
-
-
-
 
 
 17.06.90  Palermo, Stadio Della Favorita
@@ -723,9 +616,6 @@ Townsend, Aldridge (65 McLoughlin) - Cascarino (85 Quinn), Sheedy
 booked: Shobeir / Morris
 
 
-
-
-
 21.06.90  (21.00) Cagliari, Stadio Sant' Elia
 
 ENG - EGY 1:0 (0:0)
@@ -740,9 +630,6 @@ Abdelghani, H.Hassan - El Kass (78 Soliman), Abdelhamid (c - 78 Abdelrahman)
 1:0 Wright 59 h
 
 booked: Beardsley / Abdelghani, I.Hassan
-
-
-
 
 
 21.06.90  (21.00) Palermo, Stadio Della Favorita
@@ -786,9 +673,6 @@ COL: Higuita - A.Herrera, Perea, Escobar, Gómez Monsalve - Gómez Jaramillo
 booked: Kana Byik, N'Dip, M'Bouh, Onana / Perea, Gómez Monsalve
 
 
-
-
-
 23.06.90  (21.00) Bari, Stadio San Nicola
 
 CZE - COS 4:1 (1:0)
@@ -806,9 +690,6 @@ Chavarria (66 Guimaráes), Marchena, Cayasso -  Ramirez,  C.Jara
 booked: Kocian, Straka, Hašek / González, Marchena
 
 
-
-
-
 24.06.90  (17.00) Turin, Stadio Delle Alpi
 
 ARG - BRA 1:0 (0:0)
@@ -824,9 +705,6 @@ Rocha, Jorginho - Valdo, Dunga, Alemão (85 Silas), Branco - Careca, Müller
 
 booked: Monzón, Giusti, Goycoechea / Ricardo Rocha, Mauro Galvão
 sent off: Ricardo Rocha (85)
-
-
-
 
 
 24.06.90  (21.00) Milano, Stadio Giuseppe Meazza (San Siro)
@@ -847,9 +725,6 @@ booked: Völler, Matthäus / Wouters, Van Basten, Rijkaard
 sent off: Völler (22), Rijkaard (22)
 
 
-
-
-
 25.06.90  (17.00) Genoa, Stadio Luigi Ferraris
 
 (-32000) Wright BRA, Maciel PAR, Mandi SRI
@@ -868,9 +743,6 @@ O'Leary
 booked: Aldridge, McGrath / Hagi, Lupu
 
 
-
-
-
 25.06.90  (21.00) Roma, Stadio Olimpico
 
 ITA - URU 2:0 (0:0)
@@ -885,9 +757,6 @@ URU: Alvez - Gutiérrez, de Leon, Dominguez, Pintos - Perdomo, Ostolaza
 1:0 Schillaci 65, 2:0 Serena 85 h
 
 booked: Berti / Aguilera, Alvez, Perdomo, Gutiérrez
-
-
-
 
 
 26.06.90  (17.00) Verona, Stadio Marc Antonio Bentegodi
@@ -906,9 +775,6 @@ Sanchis, Roberto, Vázquez, Butragueño (c - 80 Paz) - Michel, Salinas
 booked: Katanec, Vujović, Vulić / Roberto, Chendo
 
 
-
-
-
 26.06.90  (21.00) Bologna, Stadio Renato Dall'Ara
 
 ENG - BEL 1:0 (0:0, 0:0, 0:0)
@@ -923,9 +789,6 @@ Elst, Scifo, Versavel (118 Vervoort) - Degryse (66 Claesen), Ceulemans (c)
 1:0 Platt 119
 
 booked: Gascoigne
-
-
-
 
 
 == Quarterfinals  ‹§4fin›
@@ -950,9 +813,6 @@ booked: Serrizuela, Olartichoecea, Simon / Šabadžanović
 sent off: Šabadzanović (31)
 
 
-
-
-
 30.06.90  (21.00) Roma, Stadio Olimpico
 
 ITA - IRL 1:0 (1:0)
@@ -967,9 +827,6 @@ Townsend, Aldridge (78 Sheridan) - Sheedy, Quinn (54 Cascarino)
 1:0 Schillaci 38
 
 booked: de Agostini / Moran
-
-
-
 
 
 01.07.90  (17.00) Milano, Stadio Giuseppe Meazza (San Siro)
@@ -987,9 +844,6 @@ Kubik (81 Griga), Moravčik, Straka - Skuhravý, Knofliček
 
 booked: Klinsmann / Bilek, Straka, Knofliček
 sent off: Moravčik (70)
-
-
-
 
 
 01.07.90  (21.00) Napoli, Stadio San Paolo
@@ -1030,9 +884,6 @@ Agostini, 3:3 Olarticoechea, (3:3) Donadoni (save Goycoechea), 4:3 Maradona,
 
 booked: Giannini / Batista, Olarticoechea, Caniggia, Ruggeri
 sent off: Giusti (103)
-
-
-
 
 
 04.07.90  (20.00) Turin, Stadio Delle Alpi

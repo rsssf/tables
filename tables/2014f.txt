@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 2014
-     source:  https://rsssf.org/tables/2014f.html
-     author:  Karel Stokkermans
-     updated: 20 Dec 2022
-    -->
+<!--
+   title:   World Cup 2014
+   source:  https://rsssf.org/tables/2014f.html
+   author:  Karel Stokkermans
+   updated: 20 Dec 2022
+  -->
 
 
 == World Cup 2014 (Brazil, June 12 - July 13, 2014)
@@ -182,13 +182,5 @@ Attendance: 74,738.
 Scorer: 113' Götze 1-0.
 
 Topscorer: Rodríguez (Colombia) 6 goals.
-
-
-
-
-
-
-
-
 
 

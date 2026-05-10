@@ -1,19 +1,13 @@
-  <!--
-     title:   World Cup 2010 Qualifying - Match Details
-     source:  https://rsssf.org/tables/2010q-det.html
-     authors: Erik Francisco Lugo and Hamdan Saaid
-     updated: 11 Dec 2009
-    -->
+<!--
+   title:   World Cup 2010 Qualifying - Match Details
+   source:  https://rsssf.org/tables/2010q-det.html
+   authors: Erik Francisco Lugo and Hamdan Saaid
+   updated: 11 Dec 2009
+  -->
 
 
 == World Cup 2010 Qualifying - Match Details
-
-
-
-
-
 ==== Europe  ‹§eur›
-
 
 GROUP 1
 
@@ -1959,11 +1953,7 @@ LEADING GOALSCORERS:
 -----------------------------------------------------------------------
 
 
-
-
-
 ==== South America  ‹§sam›
-
 
 ROUND 1
 
@@ -3004,8 +2994,6 @@ LEADING GOALSCORERS:
     (Paraguay), Robinho (Brazil), Lionel Messi (Argentina).
 
 
-
-
 PLAYOFF CONCACAF - CONMEBOL
 
 14.11.09: San José, COSTA RICA; Estadio Ricardo Saprissa (A: 19500)
@@ -3030,10 +3018,6 @@ CRC: 1-Keilor Navas - 3-Luis Marín, (69: 9-Álvaro Saborío), 4-Michael Umaña,
 13-Roy Miller, 14-Cristian Bolaños, 15-Junior Díaz, 16-Víctor Núñez, (64: 7-Rolando Fonseca), 17-Pablo Herrera. Booked: Bolaños 16', Miller 17'
 TD: René SIMOES (BRA)
 R: Massimo BUSACCA (SUI)
-
-
-
-
 
 
 ==== Africa  ‹§afr›
@@ -3094,9 +3078,6 @@ In Moroni
    Comoros - Madagascar
 In Bissau
    Guinea-Bissau - Sierra Leone
-
-
-
 
 
 ==== Asia  ‹§asi›
@@ -3481,9 +3462,6 @@ In Doha
    Qatar - Sri Lanka
 In Shah Alam
    Malaysia - Bahrain
-
-
-
 
 
 ==== North and Central America  ‹§nca›
@@ -4957,7 +4935,6 @@ TD: René Simoes (BRA)
 R: Benito Armando ARCHUNDIA (MEX)
 
 
-
 PLAYOFF CONCACAF - CONMEBOL
 
 14.11.09: San José, COSTA RICA; Estadio Ricardo Saprissa (A: 19500)
@@ -4982,10 +4959,6 @@ CRC: 1-Keilor Navas - 3-Luis Marín, (69: 9-Álvaro Saborío), 4-Michael Umaña,
 13-Roy Miller, 14-Cristian Bolaños, 15-Junior Díaz, 16-Víctor Núñez, (64: 7-Rolando Fonseca), 17-Pablo Herrera. Booked: Bolaños 16', Miller 17'
 TD: René SIMOES (BRA)
 R: Massimo BUSACCA (SUI)
-
-
-
-
 
 
 ==== Oceania  ‹§oce›
@@ -5528,7 +5501,5 @@ Vanuatu - New Zealand
 [Nov 21]
 New Zealand - Vanuatu
 New Caledonia - Fiji
-
-
 
 

@@ -1,17 +1,12 @@
-  <!--
-     title:   England 2009/10
-     source:  https://rsssf.org/tablese/eng2010.html
-     author:  Ian King
-     updated: 23 Dec 2020
-    -->
+<!--
+   title:   England 2009/10
+   source:  https://rsssf.org/tablese/eng2010.html
+   author:  Ian King
+   updated: 23 Dec 2020
+  -->
 
 
 == England 2009/10
-
-
-
-
-
 ==== Premiership  ‹§premier›
 
 Final Table:
@@ -755,12 +750,7 @@ Final Table:
 NB: Portsmouth 9 points deducted for financial reasons
 
 
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== FA Cup  ‹§facup›
 
 Fourth Qualifying Round
@@ -1326,12 +1316,7 @@ Overall Final [Mar 28, Wembley]
 Carlisle      1-4 Southampton
 
 
-
-
-
 ==== Championship  ‹§champ›
-
-
 ===== Regular Stage  ‹§2reg›
 
 Final Table:
@@ -2164,12 +2149,7 @@ Blackpool     3-2 Cardiff
 NB: Blackpool promoted
 
 
-
-
-
 ==== Division 1  ‹§first›
-
-
 ===== Regular Stage  ‹§3reg›
 
 Final Table:
@@ -2993,12 +2973,7 @@ Millwall      1-0 Swindon
 NB: Millwall promoted
 
 
-
-
-
 ==== Division 2  ‹§second›
-
-
 ===== Regular Stage  ‹§4reg›
 
 Final Table:
@@ -3806,12 +3781,7 @@ Rotherham     2-3 Dagenham & R
 NB: Dagenham & Redbridge promoted
 
 
-
-
-
 ==== Conference  ‹§conf›
-
-
 ===== Regular Stage  ‹§5reg›
 
 Final Table:

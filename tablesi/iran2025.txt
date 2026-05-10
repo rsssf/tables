@@ -1,17 +1,12 @@
-  <!--
-     title:   Iran 2024/25
-     source:  https://rsssf.org/tablesi/iran2025.html
-     author:  Karel Stokkermans
-     updated: 2 Jun 2025
-    -->
+<!--
+   title:   Iran 2024/25
+   source:  https://rsssf.org/tablesi/iran2025.html
+   author:  Karel Stokkermans
+   updated: 2 Jun 2025
+  -->
 
 
 == Iran 2024/25
-
-
-
-
-
 ==== Iran Pro League  ‹§ipl›
 
 Final Table:
@@ -455,10 +450,6 @@ Final Table:
 -------------------------------------------------------------
 15.Nassaji (Mazandaran)               30   3 14 13  15-28  23       Relegated
 16.Havadar (Eslamshahr)               30   4 10 16  17-48  22       Relegated
-
-
-
-
 
 
 ==== Jaam Hazfi 2024/25  ‹§hazfi›

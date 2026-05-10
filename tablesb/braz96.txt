@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1996
-     source:  https://rsssf.org/tablesb/braz96.html
-     authors: Marcelo Leme de Arruda and Julio Bovi Diogo
-     updated: 18 Feb 2000
-    -->
+<!--
+   title:   Brazil 1996
+   source:  https://rsssf.org/tablesb/braz96.html
+   authors: Marcelo Leme de Arruda and Julio Bovi Diogo
+   updated: 18 Feb 2000
+  -->
 
 
 == Brazil 1996
@@ -431,7 +431,6 @@ Edmundo (Vas)            9
 Agnaldo (Vit)            9
 
 
-
 Brazil 1996 Cup
 
 Preliminary Round
@@ -486,7 +485,6 @@ Palmeiras    3-1 1-2 Grêmio
 
 Final [June 14; 19]
 Cruzeiro     1-1 2-1 Palmeiras
-
 
 
 Brazil Second Level 1996
@@ -728,7 +726,6 @@ Final Phase
 
 * With these results, União São João Esporte Clube from Araras
   are Série B champions 1996; América(RN) are also promoted.
-
 
 
 Brazil Third Level 1996
@@ -1174,10 +1171,5 @@ Final
 
 * With these results, Vila Nova Futebol Clube from Goiânia
   are Série C champions 1996; Botafogo(SP) are also promoted.
-
-
-
-
-
 
 

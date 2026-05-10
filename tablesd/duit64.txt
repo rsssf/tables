@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1963/64
-     source:  https://rsssf.org/tablesd/duit64.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1963/64
+   source:  https://rsssf.org/tablesd/duit64.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1963/64
-
 
 Final Table
 
@@ -496,7 +495,5 @@ Topscorers: Uwe SEELER (Hamburger SV) - 30, Timo KONIETZKA
    Karl-Heinz THIELEN        25  (2250)  +16
      Wolfgang WEBER          17  (1530)  + 3
           Leo WILDEN         29  (2610)  + 1
-
-
 
 

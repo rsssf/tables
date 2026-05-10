@@ -1,15 +1,12 @@
-  <!--
-     title:   Eritrea 2025
-     source:  https://rsssf.org/tablese/erit2025.html
-     author:  Cauã Lopes Ferreira
-     updated: 25 Jul 2025
-    -->
+<!--
+   title:   Eritrea 2025
+   source:  https://rsssf.org/tablese/erit2025.html
+   author:  Cauã Lopes Ferreira
+   updated: 25 Jul 2025
+  -->
 
 
 == Eritrea 2025
-
-
-
 ==== Eritrean Club Championship 2025  ‹§ecc›
 
 Played Apr 27 and May 18 in Asmara and Keren between 9 participating teams

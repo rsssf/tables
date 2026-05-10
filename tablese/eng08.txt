@@ -1,9 +1,9 @@
-  <!--
-     title:   England 2007/08
-     source:  https://rsssf.org/tablese/eng08.html
-     author:  Ian King
-     updated: 21 May 2009
-    -->
+<!--
+   title:   England 2007/08
+   source:  https://rsssf.org/tablese/eng08.html
+   author:  Ian King
+   updated: 21 May 2009
+  -->
 
 
 == England 2007/08
@@ -611,7 +611,6 @@ Final Table:
 20.Derby County            38   1  8 29  20-89  11  Relegated
 
 
-
 FA Cup 2007/08
 
 
@@ -895,7 +894,6 @@ Portsmouth: James, Johnson, Campbell, Distin, Hreidarsson (Lauren 79),
             (Utaka 60), Crouch, Defoe; subs not used: Ashdown, Sahar,
             Cranie, Traore; nooked: Distin;
 ref: Peter Walton (Northamptonshire)]
-
 
 
 League Cup 2007/08
@@ -1266,7 +1264,6 @@ Milton Keynes Dons      0-1 Swansea City         [5-4 pen]
 Overall Final [Mar 30, Wembley Stadium]
 Grimsby Town            0-2 Milton Keynes Dons
   [Andrews 74pen, O'Hanlon 81]
-
 
 
 Second Level 2007/08
@@ -2902,7 +2899,6 @@ Final [May 25]
 Doncaster Rovers       1-0 Leeds United
 
 
-
 Fourth Level 2007/08
 
 
@@ -3714,7 +3710,6 @@ Stockport County     1-0 Wycombe Wanderers
 
 Final [May 26]
 Stockport County     3-2 Rochdale
-
 
 
 Fifth Level 2007/08
@@ -4605,7 +4600,6 @@ Cambridge United       0-1 Exeter City
 NB: Exeter City promoted
 
 
-
 Sixth Level 2007/08
 
 
@@ -4720,15 +4714,5 @@ Final [May 8, Broadhall Way, Stevenage]
 Eastbourne Borough      2-0 Hampton & Richmond Borough
 
 NB: Eastbourne Borough promoted to fifth level
-
-
-
-
-
-
-
-
-
-
 
 

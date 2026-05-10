@@ -1,17 +1,12 @@
-  <!--
-     title:   Rodrigues 2022/23
-     source:  https://rsssf.org/tablesr/rodri2023.html
-     author:  Hans Schöggl
-     updated: 26 Jun 2024
-    -->
+<!--
+   title:   Rodrigues 2022/23
+   source:  https://rsssf.org/tablesr/rodri2023.html
+   author:  Hans Schöggl
+   updated: 26 Jun 2024
+  -->
 
 
 == Rodrigues 2022/23
-
-
-
-
-
 ==== RRFA First Division 2022/23  ‹§prem›
 
 Final Table:
@@ -267,7 +262,6 @@ RFTC U-20                 -  Comandos
 Roseaux                  0-0 Barbados                 [4-3 pen]
 
 
-
 ==== RRFA Second Division 2022/23  ‹§div2›
 
 [Jun 17]
@@ -313,9 +307,5 @@ Reported Table:
  6.Vangard SC                   4   1  1  2   2- 6   4
  7.Santos FC                    4   0  1  3   2-10   1
 NB: total goal difference +6
-
-
-
-
 
 

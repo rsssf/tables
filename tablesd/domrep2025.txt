@@ -1,19 +1,13 @@
-  <!--
-     title:   Dominican Republic 2025/26
-     source:  https://rsssf.org/tablesd/domrep2025.html
-     author:  Karel Stokkermans
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Dominican Republic 2025/26
+   source:  https://rsssf.org/tablesd/domrep2025.html
+   author:  Karel Stokkermans
+   updated: 5 May 2026
+  -->
 
 
 == Dominican Republic 2025/26
-
-
-
-
-
 ==== Liga Dominicana de Fútbol 2025  ‹§mayor›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -381,10 +375,6 @@ Second Legs
 Delfines del Este         -  Salcedo FC
 [May 10]
 Cibao FC                  -  Atlético Pantoja
-
-
-
-
 
 
 ==== Copa Liga Dominicana de Fútbol 2025  ‹§cldf›

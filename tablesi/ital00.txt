@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 1999/2000
-     source:  https://rsssf.org/tablesi/ital00.html
-     authors: Davide Rota, Ken Butler and Misha Miladinovich
-     updated: 12 Dec 2011
-    -->
+<!--
+   title:   Italy 1999/2000
+   source:  https://rsssf.org/tablesi/ital00.html
+   authors: Davide Rota, Ken Butler and Misha Miladinovich
+   updated: 12 Dec 2011
+  -->
 
 
 == Italy 1999/2000
-
-
-
-
-
 
 First Level (Serie A)
 
@@ -1696,7 +1691,6 @@ Cesena        1-0   Pistoiese
 Cesena relegated
 
 
-
 Serie C1 Girone A
 
 Sep  5
@@ -2551,7 +2545,6 @@ Fid. Andria   3-1   Gualdo
 Juve Stabia   1-0   Atletico Catania
 
 Gualdo and Juve Stabia relegated
-
 
 
 Serie C2 Girone A
@@ -4080,16 +4073,5 @@ Group D
  8. Dietenheim/Aufhofen      18   5  4  9  27-35  19
  9. Sexten                   18   6  1 11  30-42  19
 10. Antholzertal             18   1  0 17   4-83   3
-
-
-
-
-
-
-
-
-
-
-
 
 

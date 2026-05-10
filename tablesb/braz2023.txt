@@ -1,17 +1,12 @@
-  <!--
-     title:   Brazil 2023
-     source:  https://rsssf.org/tablesb/braz2023.html
-     author:  RSSSF Brazil
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2023
+   source:  https://rsssf.org/tablesb/braz2023.html
+   author:  RSSSF Brazil
+   updated: 8 Dec 2025
+  -->
 
 
 == Brazil 2023
-
-
-
-
-
 ==== Série A  ‹§sa›
 
 Final Table:
@@ -732,10 +727,6 @@ Final Table:
 20.América/MG            38   5  9 24  42-81  24       Relegated
 
 
-
-
-
-
 ==== Copa do Brasil 2023  ‹§cb›
 
 1/8 Finals
@@ -802,10 +793,6 @@ Second Leg [Sep 24]
 São Paulo       1-1 Flamengo
 
 
-
-
-
-
 ==== Série B  ‹§sb›
 
 Final Table:
@@ -832,10 +819,6 @@ Final Table:
 18.Tombense              38   9 10 19  37-50  37       Relegated
 19.Londrina              38   7 10 21  31-58  31       Relegated
 20.ABC                   38   5 13 20  28-51  28  [P]  Relegated
-
-
-
-
 
 
 ==== Série C  ‹§sc›

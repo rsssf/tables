@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1987/88
-     source:  https://rsssf.org/tableso/oost88.html
-     author:  Ambrosius Kutschera
-     updated: 31 Aug 2003
-    -->
+<!--
+   title:   Austria 1987/88
+   source:  https://rsssf.org/tableso/oost88.html
+   author:  Ambrosius Kutschera
+   updated: 31 Aug 2003
+  -->
 
 
 == Austria 1987/88
@@ -468,15 +468,5 @@ SV Stockerau (Ost)
 FC Dornbirn (West)
 
 USV Salzburg renamed FC Salzburg after the season.
-
-
-
-
-
-
-
-
-
-
 
 

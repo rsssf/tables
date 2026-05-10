@@ -1,17 +1,12 @@
-  <!--
-     title:   Gozo 2024/25
-     source:  https://rsssf.org/tablesg/gozo2025.html
-     author:  Karel Stokkermans
-     updated: 9 Oct 2025
-    -->
+<!--
+   title:   Gozo 2024/25
+   source:  https://rsssf.org/tablesg/gozo2025.html
+   author:  Karel Stokkermans
+   updated: 9 Oct 2025
+  -->
 
 
 == Gozo 2024/25
-
-
-
-
-
 ==== L-Ewwel Diviżjoni  ‹§first›
 
 Final Table:
@@ -217,9 +212,6 @@ Għajnsielem   4-1 Sannat L.
 NB: both remain at former level
 
 
-
-
-
 ==== GFA Cup  ‹§gfa›
 
 Preliminary Round
@@ -251,10 +243,6 @@ Victoria W.   1-1 Kerċem A.     [aet, 7-8 pen]
 
 Final [Apr 27]
 Nadur Y.      3-0 Kerċem A.
-
-
-
-
 
 
 ==== It-Tieni Diviżjoni  ‹§second›

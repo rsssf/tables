@@ -1,17 +1,12 @@
-  <!--
-     title:   Mauritius 2015/16
-     source:  https://rsssf.org/tablesm/mauri2016.html
-     author:  Karel Stokkermans
-     updated: 25 Nov 2021
-    -->
+<!--
+   title:   Mauritius 2015/16
+   source:  https://rsssf.org/tablesm/mauri2016.html
+   author:  Karel Stokkermans
+   updated: 25 Nov 2021
+  -->
 
 
 == Mauritius 2015/16
-
-
-
-
-
 ==== Premier League 2015/16  ‹§prem›
 
 Final Table:
@@ -328,13 +323,7 @@ NB: Rivière du Rempart 1 point deducted
 Promoted: Roche-Bois Bolton City, Savanne SC
 
 
-
-
-
-
 ==== Cup Tournaments 2016  ‹§coupes›
-
-
 ===== MFA Cup 2016  ‹§mfa›
 
 Quarterfinals [May 25]
@@ -373,10 +362,6 @@ ASPL 2000                    bt  Pamplemousses
 Final [Mar ?]
 Cercle de Joachim            1-0 ASPL 2000
   [Adjel Adjetey 76]
-
-
-
-
 
 
 ==== Regional Leagues  ‹§reg›

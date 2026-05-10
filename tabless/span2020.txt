@@ -1,17 +1,12 @@
-  <!--
-     title:   Spain 2019/20
-     source:  https://rsssf.org/tabless/span2020.html
-     author:  Karel Stokkermans
-     updated: 8 Apr 2021
-    -->
+<!--
+   title:   Spain 2019/20
+   source:  https://rsssf.org/tabless/span2020.html
+   author:  Karel Stokkermans
+   updated: 8 Apr 2021
+  -->
 
 
 == Spain 2019/20
-
-
-
-
-
 ==== Primera División  ‹§laliga›
 
 Final Table:
@@ -657,10 +652,6 @@ Final Table:
 20.RCD Espanyol (Barcelona)      38   5 10 23  27-58  25       Relegated
 
 
-
-
-
-
 ==== Copa del Rey  ‹§coparey›
 
 Preliminary Round [Nov 13]
@@ -828,10 +819,6 @@ Granada CF                2-1 Athletic Club (Bilbao)
 
 Final [Apr 3, 2021, Estadio La Cartuja, Sevilla]
 Athletic Club (Bilbao)    0-1 Real Sociedad
-
-
-
-
 
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›

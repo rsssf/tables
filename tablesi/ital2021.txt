@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 2020/21
-     source:  https://rsssf.org/tablesi/ital2021.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 9 Jun 2022
-    -->
+<!--
+   title:   Italy 2020/21
+   source:  https://rsssf.org/tablesi/ital2021.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 9 Jun 2022
+  -->
 
 
 == Italy 2020/21
-
-
-
-
-
 ==== Serie A  ‹§seriea›
 
 Final Table:
@@ -629,10 +624,6 @@ Final Table:
 20.Parma Calcio        38   3 11 24  39-83  20                        Relegated
 
 
-
-
-
-
 ==== Coppa Italia  ‹§coppa›
 
 Round 1
@@ -830,13 +821,7 @@ Juventus: Buffon, Cuadrado, De Ligt, Chiellini, Danilo, McKennie, Bentancur, Rab
   Kulusevski (83 Bonucci), Cristiano Ronaldo. Tr.: Pirlo
 
 
-
-
-
-
 ==== Serie B  ‹§serieb›
-
-
 ===== Regular Season  ‹§2reg›
 
 Final Table:

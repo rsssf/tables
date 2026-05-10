@@ -1,17 +1,12 @@
-  <!--
-     title:   Singapore 2025/26
-     source:  https://rsssf.org/tabless/sing2026.html
-     author:  Karel Stokkermans
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Singapore 2025/26
+   source:  https://rsssf.org/tabless/sing2026.html
+   author:  Karel Stokkermans
+   updated: 5 May 2026
+  -->
 
 
 == Singapore 2025/26
-
-
-
-
-
 ==== S-League  ‹§sleague›
 
 Table:

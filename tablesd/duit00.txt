@@ -1,9 +1,9 @@
-  <!--
-     title:   Germany 1999/2000
-     source:  https://rsssf.org/tablesd/duit00.html
-     authors: Ken Butler and Karel Stokkermans
-     updated: 21 Feb 2002
-    -->
+<!--
+   title:   Germany 1999/2000
+   source:  https://rsssf.org/tablesd/duit00.html
+   authors: Ken Butler and Karel Stokkermans
+   updated: 21 Feb 2002
+  -->
 
 
 == Germany 1999/2000
@@ -1532,7 +1532,6 @@ LR Ahlen                    2-1   Union Berlin
  3.SC Pfullendorf                2  0  1  1   2- 4   1
 
 
-
 Regionalliga's (third level)
 
 Regionalliga Nord
@@ -1697,28 +1696,5 @@ VfB Hüls                    3-0   Borussia Neunkirchen     [in Köln]
  2.VfB Hüls                      3  2  0  1   5- 2   6
  3.Wuppertaler SV                3  1  0  2   7- 4   3
  4.Borussia VfB Neunkirchen      3  0  0  3   0-11   0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

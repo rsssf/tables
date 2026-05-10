@@ -1,19 +1,13 @@
-  <!--
-     title:   USA 2020
-     source:  https://rsssf.org/tablesu/usa2020.html
-     author:  Karel Stokkermans
-     updated: 12 May 2021
-    -->
+<!--
+   title:   USA 2020
+   source:  https://rsssf.org/tablesu/usa2020.html
+   author:  Karel Stokkermans
+   updated: 12 May 2021
+  -->
 
 
 == USA 2020
-
-
-
-
-
 ==== Major League Soccer  ‹§mls›
-
 
 ===== Regular Season  ‹§reg›
 

@@ -1,14 +1,12 @@
-  <!--
-     title:   Germany 1994/95
-     source:  https://rsssf.org/tablesd/duit95.html
-     author:  Gwidon Naskrent
-     updated: 15 May 2014
-    -->
+<!--
+   title:   Germany 1994/95
+   source:  https://rsssf.org/tablesd/duit95.html
+   author:  Gwidon Naskrent
+   updated: 15 May 2014
+  -->
 
 
 == Germany 1994/95
-
-
 
 Final Table
 
@@ -727,6 +725,5 @@ Borussia Dortmund 1994/95
           Rene TRETSCHOK     15  ( 751) + 3
      Nedijelko ZELIC NZE      4  ( 207)
        Michael ZORC          33  (2932) +15
-
 
 

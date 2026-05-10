@@ -1,17 +1,12 @@
-  <!--
-     title:   Mozambique 2025
-     source:  https://rsssf.org/tablesm/moz2025.html
-     author:  José Batalha
-     updated: 21 Mar 2026
-    -->
+<!--
+   title:   Mozambique 2025
+   source:  https://rsssf.org/tablesm/moz2025.html
+   author:  José Batalha
+   updated: 21 Mar 2026
+  -->
 
 
 == Mozambique 2025
-
-
-
-
-
 ==== Moçambola  ‹§mocambola›
 
 Teams:                                          City:           Province:
@@ -431,9 +426,6 @@ Top scorers:
 3. Alcides (UD Songo)          11
 
 
-
-
-
 ==== Taça Nacional  ‹§taca›
 
 Provincial stage
@@ -800,10 +792,6 @@ Black Bulls: Teixeira, Danilo, Chamboco, Hammed, Clésio, Martinho, Stephen, Kad
              Diallo, Cremildo and Candinho. Coach: Hélder Duarte.
 
 
-
-
-
-
 ==== Supertaça Nacional [aka Supertaça "Mário Esteves Coluna"] 2025  ‹§suptaca›
 
 [Mar 21, 2026, Lalgy Arena, Tchumene]
@@ -818,10 +806,6 @@ UD Songo: Ebrima Jaiteh, Fernando Macaime, Infren Matola, Dias Fumo, Alcides Dav
 
 Black Bulls: Teixeira, Kadre, Danilo Muze, Ndula Eze, Hammed, Ângelo Cantolo, Martinho
          Thauzene, Stephen, Rume, Mouctar Ndiaye and Cândido.
-
-
-
-
 
 
 ==== Second Level  ‹§second›
@@ -1188,13 +1172,7 @@ Maxaquene      2-1 Estrela Vermelha Maputo  [4-2 agg]
 NB: Clube de Desportos da Maxaquene (Maputo) promoted.
 
 
-
-
-
-
 ==== Provincial Championships and Tournaments  ‹§prov›
-
-
 ===== Cabo Delgado  ‹§pcabodelgado›
 
 Teams:

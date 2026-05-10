@@ -1,19 +1,13 @@
-  <!--
-     title:   Central African Republic 2024/25
-     source:  https://rsssf.org/tablesc/cafr2025.html
-     author:  Karel Stokkermans
-     updated: 17 Feb 2025
-    -->
+<!--
+   title:   Central African Republic 2024/25
+   source:  https://rsssf.org/tablesc/cafr2025.html
+   author:  Karel Stokkermans
+   updated: 17 Feb 2025
+  -->
 
 
 == Central African Republic 2024/25
-
-
-
-
-
 ==== Ligue de Bangui 2024/25  ‹§bangui›
-
 
 ====== Première Division 2024/25  ‹§prem›
 

@@ -1,14 +1,12 @@
-  <!--
-     title:   Germany 1966/67
-     source:  https://rsssf.org/tablesd/duit67.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1966/67
+   source:  https://rsssf.org/tablesd/duit67.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1966/67
-
-
 
 Final Table
 
@@ -577,7 +575,5 @@ Eintracht Braunschweig 1966/67
          Gerd SABOROWSKI     33  (2970)  + 8
        Walter SCHMIDT        33  (2970)
        Lothar ULSASS         32  (2880)  +14
-
-
 
 

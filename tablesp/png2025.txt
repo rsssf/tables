@@ -1,23 +1,15 @@
-  <!--
-     title:   Papua New Guinea 2025
-     source:  https://rsssf.org/tablesp/png2025.html
-     author:  Karel Stokkermans
-     updated: 14 Dec 2025
-    -->
+<!--
+   title:   Papua New Guinea 2025
+   source:  https://rsssf.org/tablesp/png2025.html
+   author:  Karel Stokkermans
+   updated: 14 Dec 2025
+  -->
 
 
 == Papua New Guinea 2025
-
-
-
-
-
 === National Competitions 2025  ‹§natc›
 
-
 ==== Premier Soccer League 2025  ‹§psl›
-
-
 ===== Regular Stage  ‹§reg›
 
 Final Table:

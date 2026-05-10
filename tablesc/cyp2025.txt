@@ -1,19 +1,13 @@
-  <!--
-     title:   Cyprus 2024/25
-     source:  https://rsssf.org/tablesc/cyp2025.html
-     author:  Karel Stokkermans
-     updated: 26 May 2025
-    -->
+<!--
+   title:   Cyprus 2024/25
+   source:  https://rsssf.org/tablesc/cyp2025.html
+   author:  Karel Stokkermans
+   updated: 26 May 2025
+  -->
 
 
 == Cyprus 2024/25
-
-
-
-
-
 ==== 2024/25 Cypriot First Division  ‹§first›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -389,8 +383,6 @@ Final Table:
 14.ALS Omonia 29th May          26   3  5 18  19-46  14  [P]  ‹Relegation Playoff, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:
@@ -549,7 +541,5 @@ Final Table:
 12.Karmiotissa Pano Polemidion  33   9  7 17  30-57  34       Relegated
 13.Nea Salamina Ammakhostou     33   6  8 19  31-62  26       Relegated
 14.ALS Omonia 29th May          33   3  5 25  23-65  14  [P]  Relegated
-
-
 
 

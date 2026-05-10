@@ -1,9 +1,9 @@
-  <!--
-     title:   African Nations Championship 2024/25
-     source:  https://rsssf.org/tables/2024anch.html
-     author:  Roberto Di Maggio
-     updated: 4 Sep 2025
-    -->
+<!--
+   title:   African Nations Championship 2024/25
+   source:  https://rsssf.org/tables/2024anch.html
+   author:  Roberto Di Maggio
+   updated: 4 Sep 2025
+  -->
 
 
 == African Nations Championship 2024/25
@@ -77,7 +77,6 @@ Second Round
              [Sodiq 19, Junior 22, Saviour 25; Amankuna 73]
 
 Niger, Burkina Faso and Nigeria qualified
-
 
 
 Central Zone
@@ -344,7 +343,5 @@ Third Place Match
 Final
 30 Aug 2025 Madagascar            2-3 Morocco
              [Manohantsoa 9, Rakotondraibe 68; Mehri 27, Lamlioui 44, 80]
-
-
 
 

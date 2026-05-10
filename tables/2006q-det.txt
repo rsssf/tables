@@ -1,17 +1,12 @@
-  <!--
-     title:   World Cup 2006 Qualifying - Match Details
-     source:  https://rsssf.org/tables/2006q-det.html
-     authors: Hamdan Saaid and Andre Zlotkowski
-     updated: 5 Apr 2005
-    -->
+<!--
+   title:   World Cup 2006 Qualifying - Match Details
+   source:  https://rsssf.org/tables/2006q-det.html
+   authors: Hamdan Saaid and Andre Zlotkowski
+   updated: 5 Apr 2005
+  -->
 
 
 == World Cup 2006 Qualifying - Match Details
-
-
-
-
-
 ==== Europe  ‹§eur›
 
 GROUP 1
@@ -2340,7 +2335,6 @@ BUL: 27-Dimitar Ivankov; 3-Rossen Kirilov, 4-Ivaylo Petkov, 22-Ilian
      6.Malta              5   0   1   4   1  16   1
 
 
-
 LEADING GOALSCORERS:
 6 - Pedro Pauleta (Portugal);
 5 - Robert Vittek (Slovakia), Maris Verpakovskis (Latvia), Fatih Tekke
@@ -2352,10 +2346,6 @@ LEADING GOALSCORERS:
     (Ukraine), Henrik Larsson (Sweden), Jacek Krzynowek (Poland), Jan
     Koller (Czech Republic), Miroslav Karhan (Slovakia), Zlatan
     Ibrahimovic (Sweden).
-
-
-
-
 
 
 ==== South America  ‹§sam›
@@ -3402,9 +3392,6 @@ LEADING GOALSCORERS:
 4 - Nolberto Solano (Peru), Jefferson Farfan (Peru).
 
 
-
-
-
 ==== Africa  ‹§afr›
 
 GROUP 1
@@ -3661,10 +3648,6 @@ BOT: 16-Modiri Marumo; 2-Ndiapo Letsholathebe, 3-Khumo Motlhabane
      4.Guinea             0   0   0   0   0   0    0
      4.Kenya              0   0   0   0   0   0    0
      6.Botswana           1   0   0   1   1   4    0
-
-
-
-
 
 
 ==== Asia  ‹§asi›
@@ -4505,7 +4488,6 @@ SRI: 1-Sugath Thilakaratne; 3-Samantha Mudiyanselage, 5-Nalin Geegange,
      4.Sri Lanka          3   0   0   3   0   4    0
 
 
-
 LEADING GOALSCORERS:
 6 - Begench Kuliev (Turkmenistan);
 5 - Alaa Hubail (Bahrain);
@@ -4514,9 +4496,6 @@ LEADING GOALSCORERS:
     (China), Ali Daei (Iran), Chen Jui-te (Taiwan), Roberto Beshe
     (Palestine), Ibrahim Al-Shahrani (Saudi Arabia), Redjep Agabaev
     (Turkmenistan).
-
-
-
 
 
 ==== North and Central America  ‹§nca›
@@ -5169,10 +5148,6 @@ LEADING GOALSCORERS:
  6 - Lester More (Cuba), Marlon King (Jamaica), Stern John (Trinidad &
      Tobago), Paulo Wanchope (Costa Rica), Roberto Brown (Panama);
  5 - David Suazo (Honduras).
-
-
-
-
 
 
 ==== Oceania  ‹§oce›
@@ -5834,8 +5809,5 @@ Final Table:
 4.Fiji             5  1  1  3  3-10  4
 5.Tahiti           5  1  1  3  2-24  4
 6.Vanuatu          5  1  0  4  5- 9  3
-
-
-
 
 

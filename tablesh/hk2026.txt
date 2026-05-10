@@ -1,19 +1,13 @@
-  <!--
-     title:   Hongkong 2025/26
-     source:  https://rsssf.org/tablesh/hk2026.html
-     author:  Karel Stokkermans
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Hongkong 2025/26
+   source:  https://rsssf.org/tablesh/hk2026.html
+   author:  Karel Stokkermans
+   updated: 7 May 2026
+  -->
 
 
 == Hongkong 2025/26
-
-
-
-
-
 ==== Hong Kong Premier League  ‹§first›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -229,8 +223,6 @@ Final Table:
 10.Hong Kong Football Club 18   1  1 16  12-53   4       ‹Challenge Group, see §chall›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Champions Group  ‹§champ›
 
 Table:
@@ -328,13 +320,7 @@ Table:
 10.Hong Kong Football Club 20   2  1 17  15-58   7
 
 
-
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== Senior Shield  ‹§shield›
 
 Preliminary Round
@@ -381,6 +367,5 @@ Semifinals
 Wofoo Tai Po      -  BC Rangers
 [May 24]
 Eastern District  -  North District
-
 
 

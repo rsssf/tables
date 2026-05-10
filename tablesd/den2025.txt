@@ -1,19 +1,13 @@
-  <!--
-     title:   Denmark 2024/25
-     source:  https://rsssf.org/tablesd/den2025.html
-     author:  Karel Stokkermans
-     updated: 26 May 2025
-    -->
+<!--
+   title:   Denmark 2024/25
+   source:  https://rsssf.org/tablesd/den2025.html
+   author:  Karel Stokkermans
+   updated: 26 May 2025
+  -->
 
 
 == Denmark 2024/25
-
-
-
-
-
 ==== Superligaen  ‹§ligaen›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -292,8 +286,6 @@ Final Table:
 12.Vejle Boldklub            22   3  4 15  24-50  13       ‹Relegation Playoff, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:

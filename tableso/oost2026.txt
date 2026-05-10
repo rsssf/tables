@@ -1,19 +1,13 @@
-  <!--
-     title:   Austria 2025/26
-     source:  https://rsssf.org/tableso/oost2026.html
-     author:  Hans Schöggl
-     updated: 2 May 2026
-    -->
+<!--
+   title:   Austria 2025/26
+   source:  https://rsssf.org/tableso/oost2026.html
+   author:  Hans Schöggl
+   updated: 2 May 2026
+  -->
 
 
 == Austria 2025/26
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -269,8 +263,6 @@ Final Table:
 12.FC Blau-Weiß Linz            22   4  3 15  20-36  15                   ‹Relegation Playoff, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Table:
@@ -348,10 +340,6 @@ Table:
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
-
-
-
-
 
 
 ==== ÖFB Cup  ‹§cup›

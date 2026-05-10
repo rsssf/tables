@@ -1,17 +1,12 @@
-  <!--
-     title:   Bougainville 2025
-     source:  https://rsssf.org/tablesp/png-bgv2025.html
-     author:  Karel Stokkermans
-     updated: 28 Apr 2026
-    -->
+<!--
+   title:   Bougainville 2025
+   source:  https://rsssf.org/tablesp/png-bgv2025.html
+   author:  Karel Stokkermans
+   updated: 28 Apr 2026
+  -->
 
 
 == Bougainville 2025
-
-
-
-
-
 ==== Arawa FA B-League 2025  ‹§arawa›
 
 ===== Regular Stage  ‹§reg›

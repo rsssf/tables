@@ -1,17 +1,12 @@
-  <!--
-     title:   Austria 2013/14
-     source:  https://rsssf.org/tableso/oost2014.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 7 Mar 2023
-    -->
+<!--
+   title:   Austria 2013/14
+   source:  https://rsssf.org/tableso/oost2014.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 7 Mar 2023
+  -->
 
 
 == Austria 2013/14
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
 
 Final Table:
@@ -378,9 +373,6 @@ NB: Admira Wacker 5 points deducted for license infringements (after an earlier
 NB: Admira Wacker were refused a license for 2014/15 but successfully appealed
 
 
-
-
-
 ==== ÖFB Cup  ‹§cup›
 
 Round 1
@@ -472,9 +464,6 @@ FC Red Bull Salzburg        4-2 SKN St. Pölten
   [Klein 35, Kampl 41, Soriano 63, 67; Jano 39, Noel 70]
 
 
-
-
-
 ==== 1. Liga (Second Level)  ‹§1liga›
 
 Final Table:
@@ -516,12 +505,7 @@ Linzer ASK       1-1 Parndorf
 NB: Parndorf relegated, LASK and FAC promoted
 
 
-
-
-
 ==== Regionalliga  ‹§regliga›
-
-
 ===== Regionalliga West  ‹§regwest›
 
 Final Table:
@@ -598,9 +582,6 @@ Final Table:
 Promoted: SC Neusiedl/See (Burgenland), SKN St. Pölten Juniors (Niederösterreich), Donaufeld (Wien)
 
 
-
-
-
 ==== SFV (Salzburg) Cup 2013/14  ‹§salzcup›
 
 1/8 Finals
@@ -631,9 +612,6 @@ TSV St. Johann                2-1 SV Seekirchen
 
 Final [May 20]
 TSV St. Johann                2-6 SV Austria Salzburg
-
-
-
 
 
 ==== Woche Murauer Cup 2013/14  ‹§steicup›

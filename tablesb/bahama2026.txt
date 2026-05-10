@@ -1,17 +1,12 @@
-  <!--
-     title:   Bahamas 2025/26
-     source:  https://rsssf.org/tablesb/bahama2026.html
-     author:  Karel Stokkermans
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Bahamas 2025/26
+   source:  https://rsssf.org/tablesb/bahama2026.html
+   author:  Karel Stokkermans
+   updated: 7 May 2026
+  -->
 
 
 == Bahamas 2025/26
-
-
-
-
-
 ==== BFA Senior League 2025/26  ‹§senior›
 
 Final Table:
@@ -193,12 +188,7 @@ Final Table:
    results rounds 10-16 annulled   8   2  2  4  10-14   8
 
 
-
-
-
-
 ==== Knockout Cup 2026  ‹§cup›
-
 
 Quarterfinals [Apr 26]
 WW Titans        4-4 Dynamos          [5-6 pen]

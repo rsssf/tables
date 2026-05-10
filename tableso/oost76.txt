@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1975/76
-     source:  https://rsssf.org/tableso/oost76.html
-     author:  Ambrosius Kutschera
-     updated: 12 Jul 2005
-    -->
+<!--
+   title:   Austria 1975/76
+   source:  https://rsssf.org/tableso/oost76.html
+   author:  Ambrosius Kutschera
+   updated: 12 Jul 2005
+  -->
 
 
 == Austria 1975/76
@@ -391,13 +391,5 @@ Promoted to the 2.Division:
 SCA Sankt Veit (Mitte)
 Kremser SC (Ost)
 Schwarz-Weiß Bregenz (West)
-
-
-
-
-
-
-
-
 
 

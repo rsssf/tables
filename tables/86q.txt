@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1986 Qualifying
-     source:  https://rsssf.org/tables/86q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 3 Jan 2000
-    -->
+<!--
+   title:   World Cup 1986 Qualifying
+   source:  https://rsssf.org/tables/86q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 3 Jan 2000
+  -->
 
 
 == World Cup 1986 Qualifying
@@ -489,10 +489,5 @@ Oceania Group 15 [none]
 10.11.85  Ramat Gan                Israel           3-0 New Zealand
 Note: Taiwan yielded home advantage and played twice at opponents home ground.
 Australia required to play off with second of Europe Group 7 (see above).
-
-
-
-
-
 
 

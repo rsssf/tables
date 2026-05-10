@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 2007
-     source:  https://rsssf.org/tablesb/braz07.html
-     author:  RSSSF Brazil
-     updated: 16 May 2008
-    -->
+<!--
+   title:   Brazil 2007
+   source:  https://rsssf.org/tablesb/braz07.html
+   author:  RSSSF Brazil
+   updated: 16 May 2008
+  -->
 
 
 == Brazil 2007
@@ -977,14 +977,5 @@ Final Table:
 (+) - Teams promoted from 2006 Série B (2nd level)
 Top 4 (excluding Fluminense) qualify to 2008 Libertadores
 Champions, teams placed 5-11 (excluding Fluminense) qualify to 2008 Sudamericana
-
-
-
-
-
-
-
-
-
 
 

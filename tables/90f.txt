@@ -1,13 +1,12 @@
-  <!--
-     title:   World Cup 1990
-     source:  https://rsssf.org/tables/90f.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 5 Jul 2018
-    -->
+<!--
+   title:   World Cup 1990
+   source:  https://rsssf.org/tables/90f.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 5 Jul 2018
+  -->
 
 
 == World Cup 1990 (Italy, June 8-July 8)
-
 
 FIRST PHASE
 
@@ -118,12 +117,5 @@ Scorer: 85' Brehme (p) 1-0.
 Red cards: Monzón (65', direct red), Dezotti (87', direct red).
 
 Topscorer: Schillaci (Italy) 6 goals.
-
-
-
-
-
-
-
 
 

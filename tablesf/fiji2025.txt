@@ -1,17 +1,12 @@
-  <!--
-     title:   Fiji 2025
-     source:  https://rsssf.org/tablesf/fiji2025.html
-     author:  Karel Stokkermans
-     updated: 22 Mar 2026
-    -->
+<!--
+   title:   Fiji 2025
+   source:  https://rsssf.org/tablesf/fiji2025.html
+   author:  Karel Stokkermans
+   updated: 22 Mar 2026
+  -->
 
 
 == Fiji 2025
-
-
-
-
-
 ==== Premier League  ‹§nfl›
 
 NB: for district representations
@@ -218,13 +213,7 @@ Final Table:
 10.Tavua             18   0  3 15  12-51   3  [P]  Relegated
 
 
-
-
-
-
 ==== Senior League  ‹§pdfl›
-
-
 ===== Viti Levu Zone  ‹§viti›
 
 Final Table:
@@ -256,10 +245,6 @@ Second Leg [Sep 14, Subrail Park, Labasa]
 Seaqaqa            0-1 Tailevu Naitasiri
 
 NB: Tailevu Naitasiri promoted
-
-
-
-
 
 
 ==== Interdistrict Championship  ‹§idc›
@@ -371,10 +356,6 @@ Final [Oct 12]
 Lami               2-6 Rakiraki           [aet]
 
 
-
-
-
-
 ==== FACT 2025  ‹§fact›
 
 NB: all matches at HFC Bank Stadium, Suva
@@ -433,10 +414,6 @@ Suva               0-1 Rewa
 
 Final [Jun 8]
 Labasa             1-1 Rewa               [aet, 3-1 pen]
-
-
-
-
 
 
 ==== Battle of the Giants 2025  ‹§bog›
@@ -500,9 +477,6 @@ Labasa             2-1 Rewa
   [Rusiate Doidoi 17, Simione Ragoneturaga 64; Josaia Sela 34]
 
 
-
-
-
 ==== Champion vs Champion 2025/26  ‹§cvc›
 
 First Leg [Feb 8, 2026; Ratu Cakobau Park, Nausori]
@@ -510,9 +484,6 @@ Rewa               1-0 Labasa
 
 Second Leg [Feb 14, 2026; Subrail Park, Labasa]
 Labasa             0-0 Rewa
-
-
-
 
 
 ==== National Club Championship 2025  ‹§ncc›

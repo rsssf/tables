@@ -1,17 +1,12 @@
-  <!--
-     title:   US Virgin Islands 2025
-     source:  https://rsssf.org/tablesu/usamaagd2025.html
-     author:  Karel Stokkermans
-     updated: 14 Oct 2025
-    -->
+<!--
+   title:   US Virgin Islands 2025
+   source:  https://rsssf.org/tablesu/usamaagd2025.html
+   author:  Karel Stokkermans
+   updated: 14 Oct 2025
+  -->
 
 
 == US Virgin Islands 2025
-
-
-
-
-
 ==== Premier League Championship 2025  ‹§acc›
 
 NB: national championship playoff between top-2 of ‹Saint Croix, see §croix› and ‹Saint Thomas, see §thomas› leagues
@@ -29,10 +24,6 @@ New Vibes           2-4 CAPA
 
 Final [Oct 12, Bethlehem Soccer Complex]
 Raymix              2-9 Helenites
-
-
-
-
 
 
 ==== Saint Croix  ‹§croix›
@@ -94,10 +85,6 @@ Final Table:
 [*] CAPA = Champion Athletic Performance Academy
 
 
-
-
-
-
 ==== Saint Thomas  ‹§thomas›
 
 Saint Thomas League
@@ -155,10 +142,6 @@ Final Table:
  3.LRVI FC (Charlotte Amalie)                6   1  1  4  13-21   4  [*]
  4.Massey Soccer Academy                     6   1  1  4  10-24   4
 [*] LRVI = LaRaza Virgin Islands; club aka Castaways Soccer Club
-
-
-
-
 
 
 ==== President Cup 2025  ‹§pres›

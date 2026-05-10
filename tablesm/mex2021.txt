@@ -1,22 +1,15 @@
-  <!--
-     title:   Mexico 2020/21
-     source:  https://rsssf.org/tablesm/mex2021.html
-     author:  Erik Francisco Lugo
-     updated: 27 Jul 2021
-    -->
+<!--
+   title:   Mexico 2020/21
+   source:  https://rsssf.org/tablesm/mex2021.html
+   author:  Erik Francisco Lugo
+   updated: 27 Jul 2021
+  -->
 
 
 == Mexico 2020/21
-
-
-
-
-
 ==== Liga MX  ‹§pdn›
 
-
 ===== Apertura 2020 (Torneo Guardianes)  ‹§1aper›
-
 
 Regular Stage  ‹§apreg›
 
@@ -604,7 +597,6 @@ TD: Ignacio Ambriz
 
 
 ===== Clausura 2021 (Torneo Guard1anes)  ‹§1clau›
-
 
 Regular Stage  ‹§clreg›
 
@@ -1244,9 +1236,6 @@ Pedro Pacheco             FW
 Coach: Juan Máximo Reynoso (PER)
 
 
-
-
-
 ==== Campeón de Campeones  ‹§campcamp›
 
 Between León (winners Apertura 2020) and Cruz Azul (winners Clausura 2021),
@@ -1260,15 +1249,8 @@ León            1-2 Cruz Azul
   [Santiago Ormeño 81; Jonathan Rodríguez 59, 66]
 
 
-
-
-
-
 ==== Liga Expansión MX  ‹§ascenso›
-
-
 ===== Apertura 2020 (Torneo Guard1anes)  ‹§2aper›
-
 
 ====== Regular Stage  ‹§2aperreg›
 
@@ -1635,8 +1617,6 @@ Atlante              2-3 Tampico Madero   [aet]
 
 
 ===== Clausura 2021 (Torneo Guard1anes)  ‹§2clau›
-
-
 ====== Regular Stage  ‹§2claureg›
 
 Participants:

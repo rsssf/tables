@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1996/97
-     source:  https://rsssf.org/tableso/oost97.html
-     author:  RSSSF
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 1996/97
+   source:  https://rsssf.org/tableso/oost97.html
+   author:  RSSSF
+   updated: 15 Jun 2022
+  -->
 
 
 == Austria 1996/97
@@ -2060,7 +2060,6 @@ Table:
  and Seekirchen (Salzburg)]
 
 
-
 Landesliga's (Fourth Level)
 
 Feeders for Regionalliga Ost
@@ -2513,7 +2512,6 @@ Promoted: FC Höchst and FC Nenzing.
 Note: SC Austria Lustenau (Amateure) may also be added in 1997/98.
 
 
-
 Fifth Level and Lower.
 
 All Länder except for Niederösterreich available.
@@ -2857,7 +2855,6 @@ Relegation:
 
 Huben  4:2 (0:2)  Nötsch  -  Gesamtscore 4:3, Hinspiel 0:1
 Oberglan  4:2 (1:1)  Maria Rojach  -  Gesamtscore 4:4 (AT), Hinspiel 0:2
-
 
 
 2. Klasse A:
@@ -4492,6 +4489,5 @@ Unterliga B
 New clubs for 1997/98: D & K Team 93, FC Brauchbar, FC Gummibärli,
                        FC Cairo, FK Slavija, Inter Leopoldstadt,
                        Türkgücü Sakarya.
-
 
 

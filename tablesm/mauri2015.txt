@@ -1,17 +1,12 @@
-  <!--
-     title:   Mauritius 2014/15
-     source:  https://rsssf.org/tablesm/mauri2015.html
-     author:  Karel Stokkermans
-     updated: 15 Oct 2015
-    -->
+<!--
+   title:   Mauritius 2014/15
+   source:  https://rsssf.org/tablesm/mauri2015.html
+   author:  Karel Stokkermans
+   updated: 15 Oct 2015
+  -->
 
 
 == Mauritius 2014/15
-
-
-
-
-
 ==== Premier League 2014/15  ‹§prem›
 
 Final Table:
@@ -349,13 +344,7 @@ Final Table:
 NB: all clubs remain at former level
 
 
-
-
-
-
 ==== Cup Tournaments 2015  ‹§coupes›
-
-
 ===== MFA Cup 2015  ‹§mfa›
 
 Preliminary Round [Jun 22]
@@ -422,10 +411,6 @@ La Cure Sylvester            1-1 Pamplemousses SC             [5-4 pen]
 La Cure Sylvester SC         0-1 Petite Rivière Noire FC
 
 
-
-
-
-
 ==== National Division 1  ‹§div1›
 
 Table (May 14):
@@ -458,10 +443,6 @@ Plaisance Spoutnik           3-2 Rivière du Rempart Star Knitwear
 Plaisance Spoutnik           1-0 Grand-Bel-Air Rovers
 
 NB: Plaisance Spoutnik promoted, Rivière du Rempart Star Knitwear relegated
-
-
-
-
 
 
 ==== National Division 2  ‹§div2›

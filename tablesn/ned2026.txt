@@ -1,19 +1,13 @@
-  <!--
-     title:   Netherlands 2025/26
-     source:  https://rsssf.org/tablesn/ned2026.html
-     author:  Karel Stokkermans
-     updated: 7 Apr 2026
-    -->
+<!--
+   title:   Netherlands 2025/26
+   source:  https://rsssf.org/tablesn/ned2026.html
+   author:  Karel Stokkermans
+   updated: 7 Apr 2026
+  -->
 
 
 == Netherlands 2025/26
-
-
-
-
-
 ==== Eredivisie  ‹§ere›
-
 
 ===== Regular Season  ‹§1reg›
 
@@ -477,7 +471,5 @@ Table:
 18.Heracles Almelo              29   5  4 20  34-74  19
 
 ===== Conference League Playoff  ‹§1eur›
-
 ===== Nacompetitie  ‹§2nac›
-
 

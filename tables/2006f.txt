@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 2006
-     source:  https://rsssf.org/tables/2006f.html
-     author:  Karel Stokkermans
-     updated: 5 Jul 2018
-    -->
+<!--
+   title:   World Cup 2006
+   source:  https://rsssf.org/tables/2006f.html
+   author:  Karel Stokkermans
+   updated: 5 Jul 2018
+  -->
 
 
 == World Cup 2006 (Germany, June 9 - July 9, 2006)
@@ -186,12 +186,5 @@ Penalty kicks: Pirlo 1-0, Wiltord 1-1, Materazzi 2-1, Trezeguet (bar),
 Red card: Zidane (110', direct red).
 
 Topscorer: Klose (Germany) 5 goals.
-
-
-
-
-
-
-
 
 

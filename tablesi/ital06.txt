@@ -1,9 +1,9 @@
-  <!--
-     title:   Italy 2005/06
-     source:  https://rsssf.org/tablesi/ital06.html
-     author:  Andrea Ferrigno
-     updated: 6 Oct 2006
-    -->
+<!--
+   title:   Italy 2005/06
+   source:  https://rsssf.org/tablesi/ital06.html
+   author:  Andrea Ferrigno
+   updated: 6 Oct 2006
+  -->
 
 
 == Italy 2005/06
@@ -1025,25 +1025,5 @@ NB: after the match-fixing scandal the following verdicts were reached
     Fiorentina have 30 points deducted for 2005/06 and start 2006/07 with -19;
     Lazio have 30 points deducted for 2005/06 and start 2006/07 with -11;
     Reggina will start 2006/07 with -15.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

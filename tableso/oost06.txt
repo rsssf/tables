@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 2005/06
-     source:  https://rsssf.org/tableso/oost06.html
-     authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 2005/06
+   source:  https://rsssf.org/tableso/oost06.html
+   authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
+   updated: 15 Jun 2022
+  -->
 
 
 == Austria 2005/06
@@ -544,7 +544,6 @@ Topscorers:
    Pichlmann (Pasching)
    Rushfeldt (Austria W)
    Zickler (Salzburg)
-
 
 
 ÖFB-Stiegl-Cup 2005/06

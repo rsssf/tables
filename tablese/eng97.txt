@@ -1,13 +1,12 @@
-  <!--
-     title:   England 1996/97
-     source:  https://rsssf.org/tablese/eng97.html
-     authors: Malcolm Hodgson and Roberto Di Maggio
-     updated: 15 Sep 2016
-    -->
+<!--
+   title:   England 1996/97
+   source:  https://rsssf.org/tablese/eng97.html
+   authors: Malcolm Hodgson and Roberto Di Maggio
+   updated: 15 Sep 2016
+  -->
 
 
 == England 1996/97
-
 
 Premiership
 
@@ -598,7 +597,6 @@ Mar 19
 Chelsea         1 Southampton      0    Zola 22   26,235
 
 
-
 Leicester C     1 Tottenham H      1    Claridge 74 - Sheringham 90   20,593
 Middlesbro      2 Blackburn R      1    Juninho 44, Ravanelli 61 - Sutton 68
                                         29,891
@@ -795,7 +793,6 @@ Topscorers:
      (Blackburn) Ekoku (Wimbledon)
 
 ‹Red card overview 1996/97, see page ../players/eng-prem-red-card.html#1997›.
-
 
 
 FA Cup 1996/97
@@ -1128,7 +1125,6 @@ Replay [Sheffield, Apr 16]
 Leicester City          1-0 Middlesbrough            [aet]
 
 
-
 Second Level (Division One)
 
  1.Bolton Wanderers        46  28 14  4 100-53  98
@@ -1355,13 +1351,5 @@ Bamber Bridge...............44 11  7 26  59:99  40
 Alfreton Town...............44  8 13 23  45:83  37
 Witton Albion...............44  5 14 25  41:91  29
 Buxton......................44  5 12 27  33:86  27
-
-
-
-
-
-
-
-
 
 

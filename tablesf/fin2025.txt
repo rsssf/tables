@@ -1,19 +1,13 @@
-  <!--
-     title:   Finland 2025
-     source:  https://rsssf.org/tablesf/fin2025.html
-     author:  Karel Stokkermans
-     updated: 8 Jan 2026
-    -->
+<!--
+   title:   Finland 2025
+   source:  https://rsssf.org/tablesf/fin2025.html
+   author:  Karel Stokkermans
+   updated: 8 Jan 2026
+  -->
 
 
 == Finland 2025
-
-
-
-
-
 ==== Premier Division (Veikkausliiga)  ‹§veik›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -34,8 +28,6 @@ Final Table:
 12.FC KTP (Kotka)                22   3  5 14  24-55  14  [P]  ‹Relegation Playoff, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:
@@ -71,9 +63,6 @@ KTP             2-3 TPS
 NB: TPS promoted, KTP relegated
 
 
-
-
-
 ==== Suomen Cup 2025  ‹§suomen›
 
 Round 6
@@ -102,10 +91,6 @@ KuPS            2-0 Jaro
 
 Final [Sep 20, Tampere]
 HJK             1-0 KuPS
-
-
-
-
 
 
 ==== Ykkösliiga  ‹§yks›
@@ -140,12 +125,7 @@ KäPa            4-2 OLS
 NB: both remain at former level
 
 
-
-
-
 ==== Ykkönen  ‹§ykko›
-
-
 ===== Runkosarja (Regular Stage)  ‹§3reg›
 
 Final Table:
@@ -168,8 +148,6 @@ NB: Atlantis FC 2 points deducted for failing to fulfil licensing criteria;
     FC Jazz 3 points deducted for failing to fulfil licensing criteria
 
 ===== Jatkosarja (Playoff Stage)  ‹§3play›
-
-
 ====== Ylempi jatkosarja (Promotion Playoff)  ‹§3prom›
 
 Final Table:

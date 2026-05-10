@@ -1,17 +1,12 @@
-  <!--
-     title:   Comoros 2024/25
-     source:  https://rsssf.org/tablesc/como2025.html
-     author:  Karel Stokkermans
-     updated: 28 Jun 2025
-    -->
+<!--
+   title:   Comoros 2024/25
+   source:  https://rsssf.org/tablesc/como2025.html
+   author:  Karel Stokkermans
+   updated: 28 Jun 2025
+  -->
 
 
 == Comoros 2024/25
-
-
-
-
-
 ==== Championnat des Comores 2025  ‹§champ›
 
 Participants:
@@ -35,10 +30,6 @@ Final Table:
  3.Fomboni FC                            2   0  1  1   2- 4   1
 
 
-
-
-
-
 ==== Coupe des Comores 2025  ‹§coupe›
 
 NB: 40th edition
@@ -46,8 +37,6 @@ NB: 40th edition
 ‹Regional Stage, see §cpreg› | ‹National Stage, see §cpnat›
 
 ===== Regional Stage  ‹§cpreg›
-
-
 ===== Mwali  ‹§cmwali›
 
 Round 1
@@ -280,12 +269,7 @@ Final [Jun 18]
 Fomboni FC                  0-1 Djabal FC (Iconi)
 
 
-
-
-
-
 ==== Regional Leagues 2024/25  ‹§regional›
-
 
 Mwali (Mohéli)  ‹§mwali›
 

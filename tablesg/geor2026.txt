@@ -1,17 +1,12 @@
-  <!--
-     title:   Georgia 2026
-     source:  https://rsssf.org/tablesg/geor2026.html
-     author:  Theodore Dreiman
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Georgia 2026
+   source:  https://rsssf.org/tablesg/geor2026.html
+   author:  Theodore Dreiman
+   updated: 5 May 2026
+  -->
 
 
 == Georgia 2026
-
-
-
-
-
 ==== Crystalbet Erovnuli Liga  ‹§umaglesi›
 
 Table:
@@ -389,10 +384,6 @@ Dila         -  Spaeri
 Dinamo Tb    -  Samgurali
 
 
-
-
-
-
 ==== Davit Qipiani Tasi  ‹§kipiani›
 
 Preliminary Round
@@ -419,9 +410,6 @@ Sulori (Vani)         0-1  TORPEDO-2 (Kutaisi)
 Dinamo-2 (Batumi)     1-3  WEST GEORGIA (Batumi)
 Nor.Dinamo (Tbilisi)  1-7  SAMCXE (Axalcixe)
 UG 35 (Tbilisi)       3-4  ARAGVI-2 (Dusheti)     [aet]
-
-
-
 
 
 ==== Crystalbet Erovnuli Liga 2  ‹§erovnuli2›
@@ -782,10 +770,6 @@ Gareji 1960  -  Shturmi
 Merani Mart  -  Samtredia
 Telavi       -  Odishi 1919
 Kolxeti Pht  -  Gori
-
-
-
-
 
 
 ==== Liga 3  ‹§liga3›
@@ -1226,10 +1210,6 @@ Iberia-2       -  Iberia 2010
 Lokomotivi     -  Iveria Xash
 
 
-
-
-
-
 ==== Liga 4  ‹§liga4›
 
 Table:
@@ -1610,10 +1590,6 @@ Aragvelebi     -  Samgurali-2
 Baxmaro        -  Samcxe
 Borjomi        -  West Georgia
 Lokomotivi-2   -  Aragvi-2
-
-
-
-
 
 
 ==== Regionuli Liga  ‹§liga5›

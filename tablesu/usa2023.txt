@@ -1,19 +1,13 @@
-  <!--
-     title:   USA 2023
-     source:  https://rsssf.org/tablesu/usa2023.html
-     author:  Karel Stokkermans
-     updated: 6 Dec 2024
-    -->
+<!--
+   title:   USA 2023
+   source:  https://rsssf.org/tablesu/usa2023.html
+   author:  Karel Stokkermans
+   updated: 6 Dec 2024
+  -->
 
 
 == USA 2023
-
-
-
-
-
 ==== Major League Soccer  ‹§mls›
-
 
 ===== Regular Season  ‹§reg›
 
@@ -703,7 +697,6 @@ Western Conference
 14.Colorado Rapids            34   5 12 17  26-54  27
 
 ===== Championship Playoff  ‹§chplay›
-
 ====== Conference Wild Card Round  ‹§cwc›
 
 Eastern Conference [Oct 25]
@@ -786,10 +779,6 @@ Los Angeles FC         2-0 Houston Dynamo
 
 MLS Cup [Dec 9]
 Columbus Crew          2-1 Los Angeles FC
-
-
-
-
 
 
 ==== US Open Cup  ‹§open›

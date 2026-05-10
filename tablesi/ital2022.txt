@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 2021/22
-     source:  https://rsssf.org/tablesi/ital2022.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 25 Sep 2022
-    -->
+<!--
+   title:   Italy 2021/22
+   source:  https://rsssf.org/tablesi/ital2022.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 25 Sep 2022
+  -->
 
 
 == Italy 2021/22
-
-
-
-
-
 ==== Serie A  ‹§seriea›
 
 Final Table:
@@ -638,10 +633,6 @@ Final Table:
 20.Venezia FC          38   6  9 23  34-69  27  [P]  Relegated
 
 
-
-
-
-
 ==== Coppa Italia  ‹§coppa›
 
 Preliminary Round
@@ -781,13 +772,7 @@ Inter: Handanovic, Skriniar, De Vrij, D'Ambrosio (63 Dimarco), Darmian (63 Dumfr
   Brozovic, Calhanoglu (90 Vidal), Perisic, Lautaro (90 Sanchez), Dzeko (63 Correa). Tr.: Inzaghi S.
 
 
-
-
-
-
 ==== Serie B  ‹§serieb›
-
-
 ===== Regular Season  ‹§2reg›
 
 Final Table:

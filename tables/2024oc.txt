@@ -1,9 +1,9 @@
-  <!--
-     title:   Oceanian Nations Cup 2024
-     source:  https://rsssf.org/tables/2024oc.html
-     author:  Roberto Di Maggio
-     updated: 9 Jul 2024
-    -->
+<!--
+   title:   Oceanian Nations Cup 2024
+   source:  https://rsssf.org/tables/2024oc.html
+   author:  Roberto Di Maggio
+   updated: 9 Jul 2024
+  -->
 
 
 == Oceanian Nations Cup 2024
@@ -73,7 +73,5 @@ Third Place Match (at Port Vila)
 Final (at Port Vila)
 30- 6-24 New Zealand         3-0 Vanuatu
           [Howieson 2, Randall 83, Mata 90+1]
-
-
 
 

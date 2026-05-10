@@ -1,19 +1,13 @@
-  <!--
-     title:   Surinam 2025/26
-     source:  https://rsssf.org/tabless/suri2026.html
-     author:  Karel Stokkermans
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Surinam 2025/26
+   source:  https://rsssf.org/tabless/suri2026.html
+   author:  Karel Stokkermans
+   updated: 7 May 2026
+  -->
 
 
 == Surinam 2025/26
-
-
-
-
-
 ==== Suriname Major League 2025/26  ‹§first›
-
 
 ===== Regular Stage  ‹§reg›
 

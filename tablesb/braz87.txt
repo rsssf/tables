@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1987
-     source:  https://rsssf.org/tablesb/braz87.html
-     authors: Ricardo Pontes and Marcelo Leme de Arruda
-     updated: 2 Apr 2005
-    -->
+<!--
+   title:   Brazil 1987
+   source:  https://rsssf.org/tablesb/braz87.html
+   authors: Ricardo Pontes and Marcelo Leme de Arruda
+   updated: 2 Apr 2005
+  -->
 
 
 == Brazil 1987
@@ -290,7 +290,6 @@ TEAM              Pts   P   W   D   L   GF   GA   DIF
 6-SÃO PAULO        6    8   2   2   4    7    7     0
 7-CORITIBA         6    8   2   2   4    6   10    -4
 8-SANTOS           6    8   1   4   3    3    9    -6
-
 
 
 SECOND STAGE
@@ -609,7 +608,6 @@ TEAM              Pts   P   W   D   L   GF   GA   DIF
 14-SANTA CRUZ     11   15   3   5   7   10   20   -10
 15-SANTOS         11   15   2   7   6    7   17   -10
 16-CORINTHIANS    10   15   2   6   7    9   16    -7
-
 
 
 Taça Roberto Gomes Pedrosa/Yellow Module
@@ -1313,9 +1311,5 @@ Juventude 0x2 Uberlândia
 3. Juventude      1
 
 Americano is promoted to the 2nd level.
-
-
-
-
 
 

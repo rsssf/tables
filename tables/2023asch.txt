@@ -1,15 +1,12 @@
-  <!--
-     title:   Asian Nations Cup 2024
-     source:  https://rsssf.org/tables/2023asch.html
-     author:  Roberto Di Maggio
-     updated: 19 Feb 2024
-    -->
+<!--
+   title:   Asian Nations Cup 2024
+   source:  https://rsssf.org/tables/2023asch.html
+   author:  Roberto Di Maggio
+   updated: 19 Feb 2024
+  -->
 
 
 == Asian Nations Cup 2024
-
-
-
 ==== Qualifying Tournament
 
 NB: all countries which reached the third stage of the ‹Asian section, see page 2022q.html#asi› of the
@@ -125,10 +122,6 @@ Group F
  2.KYRGYZSTAN        3  2  1  0  4- 1  7
  3.Singapore         3  1  0  2  7- 5  3
  4.Myanmar           3  0  0  3  2-12  0
-
-
-
-
 
 
 ==== Final Tournament

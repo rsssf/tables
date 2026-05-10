@@ -1,19 +1,13 @@
-  <!--
-     title:   USA 2016
-     source:  https://rsssf.org/tablesu/usa2016.html
-     author:  Karel Stokkermans
-     updated: 10 Jan 2020
-    -->
+<!--
+   title:   USA 2016
+   source:  https://rsssf.org/tablesu/usa2016.html
+   author:  Karel Stokkermans
+   updated: 10 Jan 2020
+  -->
 
 
 == USA 2016
-
-
-
-
-
 ==== Major League Soccer  ‹§mls›
-
 
 ===== Regular Season  ‹§reg›
 
@@ -599,10 +593,6 @@ Toronto FC             5-2 Montreal Impact        [aet]
 
 MLS Cup [Dec 10, BMO Field, Toronto]
 Toronto FC             0-0 Seattle Sounders       [aet, 4-5 pen]
-
-
-
-
 
 
 ==== US Open Cup  ‹§open›

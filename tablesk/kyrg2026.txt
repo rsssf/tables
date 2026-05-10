@@ -1,17 +1,12 @@
-  <!--
-     title:   Kyrgyzstan 2026
-     source:  https://rsssf.org/tablesk/kyrg2026.html
-     author:  Theodore Dreiman
-     updated: 2 May 2026
-    -->
+<!--
+   title:   Kyrgyzstan 2026
+   source:  https://rsssf.org/tablesk/kyrg2026.html
+   author:  Theodore Dreiman
+   updated: 2 May 2026
+  -->
 
 
 == Kyrgyzstan 2026
-
-
-
-
-
 ==== Jogorku Lıga  ‹§prem›
 
 Table:
@@ -334,10 +329,6 @@ Neftci        -  OsMU
 Alga          -  Dordoy
 Asia Talas    -  Abdis-Ata
 Bishkek City  -  Muras United
-
-
-
-
 
 
 ==== Cup 2026  ‹§cup›

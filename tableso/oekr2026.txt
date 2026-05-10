@@ -1,17 +1,12 @@
-  <!--
-     title:   Ukraine 2025/26
-     source:  https://rsssf.org/tableso/oekr2026.html
-     author:  Theodore Dreiman
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Ukraine 2025/26
+   source:  https://rsssf.org/tableso/oekr2026.html
+   author:  Theodore Dreiman
+   updated: 5 May 2026
+  -->
 
 
 == Ukraine 2025/26
-
-
-
-
-
 ==== VBet Premier League 2025/26  ‹§upl›
 
 Table:
@@ -737,9 +732,6 @@ Obolon       -  LNZ
 Olexandrija  -  Kryvbas
 
 
-
-
-
 ==== Vbet Ukrainian Cup 2025/26  ‹§kubok›
 
 D1 = Ukrainian Premier League (UPL)
@@ -931,10 +923,6 @@ FINAL
 [May 20, Ĺviv]
 
 Dynámo (Kýjiv) [D1]  -  FC Černíhiv [D2]
-
-
-
-
 
 
 ==== Ukrainian First League (Persha Liha) 2025/26  ‹§persha›
@@ -1617,10 +1605,6 @@ Inhulec       -  Livyj Bereh
 Ahrobiznes    -  Cernihiv
 Probij        -  Prykarpattja
 Phoenix       -  Viktorija
-
-
-
-
 
 
 ==== Ukrainian Second League (Druha Liha) 2025/26  ‹§druga›

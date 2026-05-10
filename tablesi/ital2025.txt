@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 2024/25
-     source:  https://rsssf.org/tablesi/ital2025.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 10 Jun 2025
-    -->
+<!--
+   title:   Italy 2024/25
+   source:  https://rsssf.org/tablesi/ital2025.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 10 Jun 2025
+  -->
 
 
 == Italy 2024/25
-
-
-
-
-
 ==== Serie A  ‹§seriea›
 
 Final Table:
@@ -653,10 +648,6 @@ Final Table:
 18.Empoli FC           38   6 13 19  33-59  31       Relegated
 19.Venezia FC          38   5 14 19  32-56  29  [P]  Relegated
 20.AC Monza            38   3  9 26  28-69  18       Relegated
-
-
-
-
 
 
 ==== Coppa Italia  ‹§coppa›

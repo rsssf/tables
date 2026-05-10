@@ -1,17 +1,12 @@
-  <!--
-     title:   French Guyana 2024/25
-     source:  https://rsssf.org/tablesf/frguy2025.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 4 Jul 2025
-    -->
+<!--
+   title:   French Guyana 2024/25
+   source:  https://rsssf.org/tablesf/frguy2025.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 4 Jul 2025
+  -->
 
 
 == French Guyana 2024/25
-
-
-
-
-
 ==== Régional 1  ‹§honneur›
 
 Final Table:
@@ -46,12 +41,7 @@ SC Kouroucien          0-2 Cosma Foot
 NB: Cosma Foot promoted, SC Kouroucien relegated
 
 
-
-
-
 ==== Cup Tournaments 2024/25  ‹§cups›
-
-
 ===== Coupe de Guyane 2024/25  ‹§guyane›
 
 1/8 Finals
@@ -146,12 +136,7 @@ Final [Nov 23]
 AS Etoile Matoury      awd Aigle d'Or Mana        [awarded 3-0]
 
 
-
-
-
 ==== Régional 2  ‹§prom›
-
-
 ===== Poule Centre/Est  ‹§est›
 
 Final Table:
@@ -200,13 +185,7 @@ Dynamo de Soula        1-2 Cosma Foot
 NB: Cosma Foot qualified for ‹promotion/relegation playoff, see §prorel›
 
 
-
-
-
-
 ==== Régional 3  ‹§reg3›
-
-
 ===== Poule A  ‹§3a›
 
 Final Table:

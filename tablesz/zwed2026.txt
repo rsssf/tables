@@ -1,17 +1,12 @@
-  <!--
-     title:   Sweden 2026
-     source:  https://rsssf.org/tablesz/zwed2026.html
-     author:  Martin Arenlind
-     updated: 23 Feb 2026
-    -->
+<!--
+   title:   Sweden 2026
+   source:  https://rsssf.org/tablesz/zwed2026.html
+   author:  Martin Arenlind
+   updated: 23 Feb 2026
+  -->
 
 
 == Sweden 2026
-
-
-
-
-
 ==== Allsvenskan  ‹§allsvenskan›
 
 Current Table:
@@ -75,10 +70,6 @@ First Leg [Nov]
 Second Leg [Nov]
 
 
-
-
-
-
 ==== Svenska Cupen 2026/27  ‹§cupen›
 
 Group Stage
@@ -100,10 +91,6 @@ Group 6
 Group 7
 
 Group 8
-
-
-
-
 
 
 ==== Superettan  ‹§superettan›
@@ -137,10 +124,6 @@ Current Table:
 First Legs [Nov]
 
 Second Legs [Nov]
-
-
-
-
 
 
 ==== Ettan  ‹§d1›
@@ -210,10 +193,6 @@ Final Round - First Legs
 
 Final Round - Second Legs
 [Nov]
-
-
-
-
 
 
 ==== Tvåan  ‹§d2›

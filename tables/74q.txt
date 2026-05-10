@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1974 Qualifying
-     source:  https://rsssf.org/tables/74q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 17 Mar 2016
-    -->
+<!--
+   title:   World Cup 1974 Qualifying
+   source:  https://rsssf.org/tables/74q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 17 Mar 2016
+  -->
 
 
 == World Cup 1974 Qualifying
@@ -344,10 +344,5 @@ Final
 10.11.73  Seoul           South Korea      2-2 Australia
 Playoff:
 13.11.73  Hong Kong       Australia        1-0 South Korea
-
-
-
-
-
 
 

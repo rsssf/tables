@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1968/69
-     source:  https://rsssf.org/tablesd/duit69.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1968/69
+   source:  https://rsssf.org/tablesd/duit69.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1968/69
-
 
 Final Table
 
@@ -602,7 +601,5 @@ FC Bayern München 1968/69
         Gustl STAREK         34  (3027)  + 4
        Helmut SCHMIDT        21  (1666)  + 2
         Georg SCHWARZENBECK  34  (3060)
-
-
 
 

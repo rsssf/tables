@@ -1,19 +1,13 @@
-  <!--
-     title:   Austria 2023/24
-     source:  https://rsssf.org/tableso/oost2024.html
-     author:  Hans Schöggl
-     updated: 10 Jun 2025
-    -->
+<!--
+   title:   Austria 2023/24
+   source:  https://rsssf.org/tableso/oost2024.html
+   author:  Hans Schöggl
+   updated: 10 Jun 2025
+  -->
 
 
 == Austria 2023/24
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -288,8 +282,6 @@ Final Table:
 12.SC Austria Lustenau          22   2  4 16  13-49  10                        ‹Relegation Playoff, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:
@@ -475,10 +467,6 @@ NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
 
-
-
-
-
 ==== ÖFB Cup  ‹§cup›
 
 Round 1
@@ -574,10 +562,6 @@ RB Salzburg                         3-4 SK Sturm Graz
 Final [May 1, Wörthersee-Stadion, Klagenfurt; att: 30,000]
 SK Rapid Wien                       1-2 SK Sturm Graz
   [Seidl 43; Querfeld 50og, Horvat 81]
-
-
-
-
 
 
 ==== 2. Liga (Second Level)  ‹§1liga›
@@ -1016,13 +1000,7 @@ NB: SW Bregenz 3 points deducted for fielding 3 Brazilian players who did not ha
       as well, and therefore no clubs are relegated
 
 
-
-
-
-
 ==== Regionalliga  ‹§regliga›
-
-
 ===== Regionalliga West  ‹§regwest›
 
 Final Table:
@@ -1095,10 +1073,6 @@ Final Table:
 14.FC Mauerwerk                 30   6 11 13  28-58  29
 15.SG Ardagger/Viehdorf         30   6 10 14  22-37  28  [P]  Relegated
 16.ASV Draßburg                 30   7  6 17  38-60  27       Relegated
-
-
-
-
 
 
 ==== Cup Tournaments Bundesländer  ‹§bundcup›

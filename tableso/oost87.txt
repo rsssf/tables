@@ -1,13 +1,12 @@
-  <!--
-     title:   Austria 1986/87
-     source:  https://rsssf.org/tableso/oost87.html
-     author:  Ambrosius Kutschera
-     updated: 31 Aug 2003
-    -->
+<!--
+   title:   Austria 1986/87
+   source:  https://rsssf.org/tableso/oost87.html
+   author:  Ambrosius Kutschera
+   updated: 31 Aug 2003
+  -->
 
 
 == Austria 1986/87
-
 
 Fall season
 ===========
@@ -463,15 +462,5 @@ Promoted to the 2.Bundesliga:
 Kapfenberger SV (Mitte)
 VSE Sankt Pölten (Ost)
 USV Salzburg (West)
-
-
-
-
-
-
-
-
-
-
 
 

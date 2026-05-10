@@ -1,17 +1,12 @@
-  <!--
-     title:   Shetland Islands 2025
-     source:  https://rsssf.org/tabless/shetl2025.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 8 Jan 2026
-    -->
+<!--
+   title:   Shetland Islands 2025
+   source:  https://rsssf.org/tabless/shetl2025.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 8 Jan 2026
+  -->
 
 
 == Shetland Islands 2025
-
-
-
-
-
 ==== Ocean Kinetics Premier League  ‹§prem›
 
 Final Table:
@@ -133,12 +128,7 @@ Final Table:
 Whitedale      2-4 Spurs
 
 
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== Highland Fuels Cup  ‹§fuel›
 
 Quarterfinals
@@ -277,9 +267,6 @@ Final [Aug 30]
 Celtic         2-3 Ness
 
 
-
-
-
 ==== DITT Reserve League  ‹§leagueb›
 
 Final Table:
@@ -294,9 +281,6 @@ Final Table:
  8.Scalloway B       14   1  0 13  17-41   3
 
 
-
-
-
 ==== Jewsons Championship  ‹§jewson›
 
 Final Table:
@@ -307,9 +291,6 @@ Final Table:
  4.Southside Impact  10   3  1  6  23-33  10
  5.Wastside Rebels   10   3  1  6  22-33  10
  6.Banks             10   0  2  8   9-56   2
-
-
-
 
 
 ==== Championship League Cup  ‹§chlc›

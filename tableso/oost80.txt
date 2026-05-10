@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1979/80
-     source:  https://rsssf.org/tableso/oost80.html
-     author:  Ambrosius Kutschera
-     updated: 10 Oct 2004
-    -->
+<!--
+   title:   Austria 1979/80
+   source:  https://rsssf.org/tableso/oost80.html
+   author:  Ambrosius Kutschera
+   updated: 10 Oct 2004
+  -->
 
 
 == Austria 1979/80
@@ -402,13 +402,5 @@ Promoted to the 2.Division:
 Union Wels (Mitte)
 SC Neusiedl (Ost)
 Salzburger AK (West)
-
-
-
-
-
-
-
-
 
 

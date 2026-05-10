@@ -1,17 +1,12 @@
-  <!--
-     title:   Dominica 2025
-     source:  https://rsssf.org/tablesd/domi2025.html
-     author:  Karel Stokkermans
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Dominica 2025
+   source:  https://rsssf.org/tablesd/domi2025.html
+   author:  Karel Stokkermans
+   updated: 5 May 2026
+  -->
 
 
 == Dominica 2025
-
-
-
-
-
 ==== Premier League 2025  ‹§prem›
 
 Final Table:
@@ -239,9 +234,6 @@ East Central     1-4 Bath Estate
 NB: Bath Estate promoted, East Central relegated
 
 
-
-
-
 ==== President's Cup 2025  ‹§pres›
 
 Quarterfinals
@@ -260,9 +252,6 @@ WE United        2-1 South East
 
 Final [Nov 22]
 Dublanc          4-1 WE United
-
-
-
 
 
 ==== First Division 2025  ‹§div1›

@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 2022
-     source:  https://rsssf.org/tables/2022f.html
-     author:  Roberto Di Maggio
-     updated: 20 Dec 2022
-    -->
+<!--
+   title:   World Cup 2022
+   source:  https://rsssf.org/tables/2022f.html
+   author:  Roberto Di Maggio
+   updated: 20 Dec 2022
+  -->
 
 
 == World Cup 2022 (Qatar, November 20 - December 18, 2022)
@@ -188,8 +188,5 @@ Penalty kicks: Mbappé 0-1, Messi 1-1, Coman (stopped), Dybala 2-1,
                Tchouaméni (wide), Paredes 3-1, Kolo Muani 3-2, Montiel 4-2.
 
 Topscorer: Mbappé (France) 8 goals.
-
-
-
 
 

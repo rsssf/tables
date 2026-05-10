@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1969/70
-     source:  https://rsssf.org/tablesd/duit70.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1969/70
+   source:  https://rsssf.org/tablesd/duit70.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1969/70
-
 
 Final Table
 
@@ -651,7 +650,5 @@ Borussia Mönchengladbach 1969/70
   Hans-Hubert VOGTS          34  (3060) + 5
       Herbert WIMMER         30  (2545) + 6
          Gerd ZIMMERMANN      6  ( 479)
-
-
 
 

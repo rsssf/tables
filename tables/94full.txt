@@ -1,33 +1,10 @@
-  <!--
-     title:   World Cup 1994 finals
-     source:  https://rsssf.org/tables/94full.html
-
-    -->
+<!--
+   title:   World Cup 1994 finals
+   source:  https://rsssf.org/tables/94full.html
+  -->
 
 
 = World Cup 1994
-
-
-‹Results, see §results›
-
-‹Group A, see §gra›
-‹Group B, see §grb›
-‹Group C, see §grc›
-‹Group D, see §grd›
-‹Group E, see §gre›
-‹Group F, see §grf›
-‹Eightfinals, see §8fin›
-‹Quarterfinals, see §4fin›
-‹Semifinals, see §semi›
-‹Finals, see §final›
-
-
-‹Squads, see §squads›
-‹Scorers' list, see §scorers›
-‹Coaches, assistants, reserve players, see §coaches›
-‹Oldest and youngest, see §records›
-
-
 
 USA, 17 Jun - 17 Jul 1994 (Boston, Chicago, Dallas, Los Angeles (Pasadena), New York,
 Orlando, Pontiac (indoors), Stanford, Washington). Decided at
@@ -57,9 +34,6 @@ booked: Harkes / Herr, Subiat
 NOTE: First WC match played completely indoors
 
 
-
-
-
 18.06.94  (16.35) Los Angeles, Rose Bowl
 
 ROM - COL 3:1 (2:1)
@@ -74,9 +48,6 @@ Valderrama (c), G.J.Gómez, Rincón - Valencia, Asprilla
 1:0 Răducioiu 16, 2:0 Hagi 34, 2:1 Valencia 43 h, 3:1 Răducioiu 88
 
 booked: Răducioiu / Herrera, Valderrama, Alvarez
-
-
-
 
 
 22.06.94  (16.05) Detroit, Pontiac Silverdome
@@ -96,9 +67,6 @@ booked: Mihali, Lupescu, Belodedici
 sent off: Vladoiu (74)
 
 
-
-
-
 22.06.94  (16.35) Los Angeles, Rose Bowl
 
 USA - COL 2:1 (1:0)
@@ -116,9 +84,6 @@ Valenciano)
 booked: Lalas / de Avila
 
 
-
-
-
 26.06.94  (13.05) San Francisco, Stanford Stadium
 
 COL - SUI 2:0 (1:0)
@@ -134,9 +99,6 @@ SUI: Pascolo - Hottiger, Herr, Geiger, Quentin - Ohrel, Sforza, Brégy (c), Knup
 1:0 Gaviria 44 h, 2:0 Lozano 90
 
 booked: Gaviria, Valderrama, Alvarez / Knup, Brégy
-
-
-
 
 
 26.06.94  (13.05) Los Angeles, Rose Bowl
@@ -177,9 +139,6 @@ CAM: Bell - Tataw (c), Song, Kalla, Agbo - Mbouh, Libiih, Foe, Mfede
 booked: Dahlin / M'Bouh
 
 
-
-
-
 20.06.94  (13.05) San Francisco, Stanford Stadium
 
 BRA - RUS 2:0 (1:0)
@@ -195,9 +154,6 @@ Nikiforov, Khlestov, Karpine, Piatnitski - Radchenko (72 Borodiuk), Yuran
 1:0 Romário 27, 2:0 Rai 53 p
 
 booked: Nikiforov, Khlestov, Kuznetsov
-
-
-
 
 
 24.06.94  (13.05) San Francisco, Stanford Stadium
@@ -217,9 +173,6 @@ booked: Mauro Silva / Tataw, Kalla
 sent off: Song (84)
 
 
-
-
-
 24.06.94  (19.35) Detroit, Pontiac Silverdome
 
 SWE - RUS 3:1 (1:1)
@@ -235,9 +188,6 @@ Nikiforov, Khlestov, Radchenko, Borodiuk (51 Galiamine) - Mostovoi, Salenko
 
 booked: K.Andersson, Schwarz, Dahlin / Gorlukovich (2), Kharine
 sent off: Gorlukovich (49)
-
-
-
 
 
 28.06.94  (13.05) San Francisco, Stanford Stadium
@@ -256,9 +206,6 @@ Foe, Mfede (46 Milla) - Embe (49 Tchami), Omam-Biyik
 72, 5:1 Salenko 75, 6:1 Radchenko 82
 
 booked: Karpin, Khlestov, Nikiforov / Songo'o, Kana Biyik
-
-
-
 
 
 28.06.94  (16.05) Detroit, Pontiac Silverdome
@@ -298,9 +245,6 @@ booked: Kohler, Möller / Borja, Baldivieso, Soria
 sent off: Etcheverry (84)
 
 
-
-
-
 17.06.94  (18.35) Dallas, Cotton Bowl
 
 KOR - ESP 2:2 (0:0)
@@ -319,9 +263,6 @@ booked: Choi Young-il, Kim Joo-song / Luis Enrique, Caminero
 sent off: Nadal (26)
 
 
-
-
-
 21.06.94  (15.05) Chicago, Soldier Field
 
 GER -  ESP 1:1 (0:1)
@@ -336,9 +277,6 @@ Sergi, Hierro, Luis Enrique, Goikoetxea (65 Bakero) - Julio Salinas, Caminero
 0:1 Goikoetxea 14, 1:1 Klinsmann 48 h
 
 booked: Effenberg / Abelardo, Hierro, Julio Salinas
-
-
-
 
 
 23.06.94  (19.35) Boston, Foxboro Stadium
@@ -358,9 +296,6 @@ Ko Jeong-woon
 sent off: Cristaldo (83)
 
 
-
-
-
 27.06.94  (15.05) Chicago, Soldier Field
 
 ESP - BOL 3:1 (1:0)
@@ -373,9 +308,6 @@ BOL: Trucco - Borja, Rimba, Sandy, J.Peña, Soria (63 Castillo),
 Melgar (c), Socuro, E.Sanchez - Ramos (46 Moreno), Ramallo
 
 1:0 Guardiola 19 p, 2:0 Caminero 65, 2:1 Sánchez 67, 3:1 Caminero 71
-
-
-
 
 
 27.06.94  (16.05) Dallas, Cotton Bowl
@@ -419,9 +351,6 @@ Tsalouhidis, Nioplias, Tsiantakis (46 Marangos) - Saravakos (c), Machlas
 booked: Caceres / Tsalouchidis, Manolas
 
 
-
-
-
 21.06.94  (18.35) Dallas, Cotton Bowl
 
 NGA - BUL 3:0 (2:0)
@@ -436,9 +365,6 @@ Letchkov (58 Sirakov), Borimirov (72 Yordanov) - Balakov, Stoichkov, Kostadinov
 1:0 Yekini 21, 2:0 Amokachi 43, 3:0 Amunike 55 h
 
 booked: Amunike / Letchkov
-
-
-
 
 
 25.06.94  (16.05) Boston, Foxboro Stadium
@@ -460,9 +386,6 @@ NOTE: Maradona expulsed from the tournament after failing anti-dope
 testing
 
 
-
-
-
 26.06.94  (11.35) Chicago, Soldier Field
 
 BUL - GRE 4:0 (1:0)
@@ -480,9 +403,6 @@ Kofidis, Hantzidis (47 Mitropoulos), Nioplias, Marangos - Alexoudis
 
 booked: Houbtchev, Ivanov, Yankov, Borimirov / Alexoudis, Chantzidis,
 Karagiannis, Mitropoulos
-
-
-
 
 
 30.06.94  Boston, Foxboro Stadium
@@ -503,9 +423,6 @@ booked: Oliseh, Keshi / Mitropoulos, Kalitzakis
 
 NOTE: Together with the BUL-ARG match, the 499th (or 500th) game
 of the World Cup
-
-
-
 
 
 30.06.94  (18.35) Dallas, Cotton Bowl
@@ -554,9 +471,6 @@ Donadoni, Evani (46 Massaro) - R.Baggio, Signori (84 Berti)
 booked: Irwin, Phelan, Coyne
 
 
-
-
-
 19.06.94  (16.05) Washington DC, RFK Memorial Stadium
 
 NOR - MEX 1:0 (0:0)
@@ -572,9 +486,6 @@ Alves Zague
 1:0 Rekdal 85
 
 booked: Håland, Leonhardasen / Suárez
-
-
-
 
 
 23.06.94  (16.05) New York, Giants Stadium
@@ -593,9 +504,6 @@ NOR: Thorstvedt - Håland, Bratseth (c), Berg, Bjørnebye - Flo, Mykland
 
 booked: Casiraghi / Bjørnebye, Håland
 sent off: Pagliuca (21)
-
-
-
 
 
 24.06.94  (12.35) Orlando, Citrus Bowl
@@ -617,9 +525,6 @@ NOTE: The Irish coach banned from taking place on the bench for
 one match
 
 
-
-
-
 28.06.94  (12.35) New York, Giants Stadium
 
 IRL - NOR 0:0
@@ -634,9 +539,6 @@ Flo, Mykland, Rekdal - Leonhardsen (68 Bohinen), Sørloth
 booked: Keane, Houghton, G.Kelly / Sorloth, Johnsen
 
 NOTE: The Irish coach not present on the bench due to a ban
-
-
-
 
 
 28.06.94  (12.35) Washington DC, RFK Memorial Stadium
@@ -680,9 +582,6 @@ MAR: Azmi (88 Alaoui) - Nacer, El Hadrioui, Triki, Naybet - El Hadaoui
 booked: Grun, Weber / Naybet, Azzouzi, Daoudi
 
 
-
-
-
 20.06.94  (12.35) Washington DC, RFK Memorial Stadium
 
 HOL - ARS 2:1 (0:1)
@@ -700,9 +599,6 @@ booked: Van Gobbel, F.de Boer / Al Jawad, Amin,
 Al Dosari
 
 
-
-
-
 25.06.94  (12.35) Orlando, Citrus Bowl
 
 BEL - HOL 1:0 (0:0)
@@ -717,9 +613,6 @@ Roy - R.de Boer (46 Rob Witschge), Taument (63 Overmars)
 1:0 Albert 65
 
 booked: Borkelmans / Wouters, Jonk, Witschge, Rijkaard, Bergkamp
-
-
-
 
 
 25.06.94  (12.35) New York, Giants Stadium
@@ -751,9 +644,6 @@ MAR: Alaoui - El Kahlej (c), El Hadrioui, Triki, Samadi - Neqrouz, Bouyboud
 1:0 Bergkamp 43, 1:1 Nader 47, 2:1 Roy 78
 
 booked: Wouters, R.Koeman / Nader, El Khalej, Boyboud, Hababi, Samadi
-
-
-
 
 
 29.06.94  (12.35) Washington DC, RFK Memorial Stadium
@@ -797,9 +687,6 @@ van der Elst, Scifo, Emmers - Nilis (77 Czerniatynski), Weber
 booked: Helmer, Wagner / Albert
 
 
-
-
-
 02.07.94  (16.35) Washington, RFK Memorial Stadium
 
 ESP - SUI 3:0 (1:0)
@@ -817,9 +704,6 @@ Brégy (c), Sforza, Bickel - Knup, Chapuisat
 booked: Goikoetxea, Ferrer, Camarasa, Otero / Studer, Subiat, Pascolo, Hottiger
 
 
-
-
-
 03.07.94  (12.05) Dallas, Cotton Bowl
 
 SWE - ARS 3:1 (1:0)
@@ -834,9 +718,6 @@ Amin, Saleh, Al Bishi (63 Al Muwallid), Owairan - Al Jaber, Falatah
 1:0 Dahlin 5 h, 2:0 K.Andersson 50, 2:1 Al Gheshayan 85, 3:1 K.Andersson 87
 
 booked: Ljung, Thern / Al-Muwallid
-
-
-
 
 
 03.07.94  (16.35) Los Angeles, Rose Bowl
@@ -856,9 +737,6 @@ Balbo 74
 booked: Popescu, Selymes, Dumitrescu / Ruggeri, Redondo, Chamot, Caceres
 
 
-
-
-
 04.07.94  (12.05) Orlando, Citrus Bowl
 
 HOL - IRL 2:0 (2:0)
@@ -873,9 +751,6 @@ Sheridan - Staunton (63 McAteer), Coyne (74 Cascarino)
 1:0 Bergkamp 11, 2:0 Jonk 41
 
 booked: R.Koeman
-
-
-
 
 
 04.07.94  (16.35) San Francisco, Stanford Stadium
@@ -895,9 +770,6 @@ booked: Mazinho, Jorginho / Clavijo (2), Dooley, Caligiuri, Ramos
 sent off: Leonardo (44) / Clavijo (87)
 
 
-
-
-
 05.07.94  (12.05) Boston, Foxboro Stadium
 
 ITA - NGA 2:1 (0:1, 1:1, 2:1)
@@ -914,9 +786,6 @@ Okocha, Amokachi (34 Adepoju) - Yekini, Amunike (57 Oliha)
 booked: Massaro, Costacurta, D.Baggio, Signori, Maldini / Emenalo, Adepoju,
 Oliseh, Nwanu
 sent off: Zola (76)
-
-
-
 
 
 05.07.94  (16.35)  New York, Giants Stadium
@@ -963,9 +832,6 @@ NOTE: Tassotti was banned for two WC matches for fouling Luis Enrique.
 This was decided thanks to the video record
 
 
-
-
-
 09.07.94  (14.35) Dallas, Cotton Bowl
 
 BRA - HOL 3:2 (0:0)
@@ -983,9 +849,6 @@ Branco 81 f
 booked: Dunga / Wouters, Winter
 
 
-
-
-
 10.07.94  (12.05) New York, Giants Stadium
 
 BUL - GER 2:1 (0:0)
@@ -1000,9 +863,6 @@ Buchwald, Möller, Wagner (58 Strunz) - Völler, Klinsmann
 0:1 Matthäus 48 p, 1:1 Stoichkov 76 f, 2:1 Letchkov 78 h
 
 booked: Ivanov, Stoichkov, Mihailov / Völler, Helmer, Wagner, Klinsmann, Häßler
-
-
-
 
 
 10.07.94  (16.35) San Francisco, Stanford Stadium
@@ -1042,9 +902,6 @@ Ivanov, Tzvetanov - Kostadinov (72 Yordanov), Stoichkov (79 Guentchev)
 1:0 R.Baggio 20, 2:0 R.Baggio 25, 2:1 Stoichkov 42 p
 
 booked: Costacurta, Albertini / Letchkov, Kostadinov, Yankov
-
-
-
 
 
 13.07.94  (16.35) Los Angeles, Rose Bowl

@@ -1,17 +1,12 @@
-  <!--
-     title:   England 2019/20
-     source:  https://rsssf.org/tablese/eng2020.html
-     author:  Karel Stokkermans
-     updated: 12 Jun 2025
-    -->
+<!--
+   title:   England 2019/20
+   source:  https://rsssf.org/tablese/eng2020.html
+   author:  Karel Stokkermans
+   updated: 12 Jun 2025
+  -->
 
 
 == England 2019/20
-
-
-
-
-
 ==== Premier League  ‹§premier›
 
 Final Table:
@@ -633,13 +628,7 @@ Final Table:
 20.Norwich City            38   5  6 27  26-75  21       [P]  Relegated
 
 
-
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== FA Cup  ‹§facup›
 
 Round 1
@@ -987,13 +976,7 @@ Final [Mar 1, London]
 Aston Villa             1-2 Manchester City
 
 
-
-
-
-
 ==== Championship  ‹§champ›
-
-
 ===== Regular Stage  ‹§2reg›
 
 Final Table:
@@ -1048,13 +1031,7 @@ Final [Aug 4]
 Brentford     1-2 Fulham        [aet]
 
 
-
-
-
-
 ==== Division 1  ‹§first›
-
-
 ===== Regular Stage  ‹§3reg›
 
 Final Table:
@@ -1108,13 +1085,7 @@ Final [Jul 13]
 Oxford        1-2 Wycombe
 
 
-
-
-
-
 ==== Division 2  ‹§second›
-
-
 ===== Regular Stage  ‹§4reg›
 
 Final Table:
@@ -1169,13 +1140,7 @@ Final [Jun 29]
 Exeter        0-4 Northampton
 
 
-
-
-
-
 ==== National League  ‹§conf›
-
-
 ===== Regular Stage  ‹§5reg›
 
 Final Table:

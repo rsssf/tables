@@ -1,9 +1,9 @@
-  <!--
-     title:   Mexico 2002/03
-     source:  https://rsssf.org/tablesm/mex03.html
-     authors: Daniel Dalence Garcia, Sergei Makarov and José de Jesus Mora Rivera
-     updated: 12 May 2022
-    -->
+<!--
+   title:   Mexico 2002/03
+   source:  https://rsssf.org/tablesm/mex03.html
+   authors: Daniel Dalence Garcia, Sergei Makarov and José de Jesus Mora Rivera
+   updated: 12 May 2022
+  -->
 
 
 == Mexico 2002/03
@@ -69,7 +69,6 @@ Table:
  4.Toluca             2  0  0  2  5- 9  0
 
 NB: Cruz Azul and Pumas (UNAM) qualify for Copa Libertadores 2003
-
 
 
 Primera División Nacional
@@ -1376,12 +1375,9 @@ Morelia     0-0 Monterrey
 Monterrey Clausura 2002/03 champions
 
 
-
 Campeón de Campeones (Super Cup) [Nov 16, Estadio Azteca]
 Toluca      1-1 Monterrey     [4-2pen]
   [Josué Castillejos 53; Alex Fernándes 44]
-
-
 
 
 Primera División A (Second Level)
@@ -2090,13 +2086,5 @@ Tapachula     4-1 Tepic
    Rafael Marquez 82; Ricardo Castro 40]
 
 Tapachula remain in Primera A
-
-
-
-
-
-
-
-
 
 

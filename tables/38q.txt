@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1938 Qualifying
-     source:  https://rsssf.org/tables/38q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 6 Mar 2026
-    -->
+<!--
+   title:   World Cup 1938 Qualifying
+   source:  https://rsssf.org/tables/38q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 6 Mar 2026
+  -->
 
 
 == World Cup 1938 Qualifying
@@ -141,10 +141,5 @@ Argentina in Bordeaux on 29 May 1938 was also cancelled after the renewed
 withdrawal of Argentina (see group 10).
 
 29.05.38  Bordeaux    Cuba             w/o Argentina
-
-
-
-
-
 
 

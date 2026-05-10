@@ -1,9 +1,9 @@
-  <!--
-     title:   Italy 2007/08
-     source:  https://rsssf.org/tablesi/ital08.html
-     author:  Andrea Ferrigno
-     updated: 12 Aug 2009
-    -->
+<!--
+   title:   Italy 2007/08
+   source:  https://rsssf.org/tablesi/ital08.html
+   author:  Andrea Ferrigno
+   updated: 12 Aug 2009
+  -->
 
 
 == Italy 2007/08
@@ -1027,24 +1027,5 @@ Final Table:
 
 NB: Cagliari had 3 points deducted for having started a juridical procedure
     against a former player; this penalty was revoked on appeal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

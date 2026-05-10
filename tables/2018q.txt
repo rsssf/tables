@@ -1,21 +1,12 @@
-  <!--
-     title:   World Cup 2018 Qualifying
-     source:  https://rsssf.org/tables/2018q.html
-     authors: Ian King and Karel Stokkermans
-     updated: 5 Jul 2018
-    -->
+<!--
+   title:   World Cup 2018 Qualifying
+   source:  https://rsssf.org/tables/2018q.html
+   authors: Ian King and Karel Stokkermans
+   updated: 5 Jul 2018
+  -->
 
 
 == World Cup 2018 Qualifying
-
-
-  
-
-
-
-
-
-
 ==== Europe  ‹§eur›
 
 Group A
@@ -413,9 +404,6 @@ Second Legs
 NB: Switzerland, Croatia, Sweden and Denmark qualified.
 
 
-
-
-
 ==== South America  ‹§sam›
 
 NB: 5th placed team qualify for playoff against Oceania winners (New Zealand)
@@ -530,11 +518,7 @@ CONMEBOL/OFC Playoff
 NB: Peru qualified.
 
 
-
-
-
 ==== Africa  ‹§afr›
-
 
 First Stage
 
@@ -718,12 +702,7 @@ Group E
 12-11-17 Cape Coast      Ghana         1-1 Egypt
 
 
-
-
-
-
 ==== Asia  ‹§asi›
-
 
 First Stage
 
@@ -1111,11 +1090,7 @@ AFC/CONCACAF Playoff
 NB: Australia qualified.
 
 
-
-
-
 ==== North and Central America  ‹§nca›
-
 
 First Stage
 
@@ -1293,9 +1268,6 @@ AFC/CONCACAF Playoff
 NB: Australia qualified.
 
 
-
-
-
 ==== Oceania  ‹§oce›
 
 First Round
@@ -1395,7 +1367,5 @@ CONMEBOL/OFC Playoff
 15-11-17 Lima            Peru          2-0 New Zealand
 
 NB: Peru qualified.
-
-
 
 

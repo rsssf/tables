@@ -1,19 +1,13 @@
-  <!--
-     title:   Cambodia 2025/26
-     source:  https://rsssf.org/tablesc/cambod2026.html
-     author:  Karel Stokkermans
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Cambodia 2025/26
+   source:  https://rsssf.org/tablesc/cambod2026.html
+   author:  Karel Stokkermans
+   updated: 7 May 2026
+  -->
 
 
 == Cambodia 2025/26
-
-
-
-
-
 ==== Cambodia Premier League 2025/26  ‹§cpl›
-
 
 ===== Regular Stage  ‹§reg›
 

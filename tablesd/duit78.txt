@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1977/78
-     source:  https://rsssf.org/tablesd/duit78.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1977/78
+   source:  https://rsssf.org/tablesd/duit78.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1977/78
-
 
 Final Table
 
@@ -613,7 +612,5 @@ FISCHER (Schalke) - 20
         Roger VAN GOOL HOL   32  (2855) +12
        Holger WILLMER        11  ( 399) + 1
       Herbert ZIMMERMANN     32  (2801) + 2
-
-
 
 

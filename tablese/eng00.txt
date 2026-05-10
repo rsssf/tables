@@ -1,13 +1,12 @@
-  <!--
-     title:   England 1999/2000
-     source:  https://rsssf.org/tablese/eng00.html
-     authors: Ken Butler, Stephen Mulrine and Andreas Exenberger
-     updated: 15 Apr 2001
-    -->
+<!--
+   title:   England 1999/2000
+   source:  https://rsssf.org/tablese/eng00.html
+   authors: Ken Butler, Stephen Mulrine and Andreas Exenberger
+   updated: 15 Apr 2001
+  -->
 
 
 == England 1999/2000
-
 
 Premiership
 
@@ -5061,13 +5060,5 @@ Final Table:
 ----------------------------------------------------
 22.Guiseley                  44   8 17 19  52-72  41  Relegated
 23.Winsford United           44   3  7 34  40-116 16  Relegated
-
-
-
-
-
-
-
-
 
 

@@ -1,13 +1,12 @@
-  <!--
-     title:   England 1997/98
-     source:  https://rsssf.org/tablese/eng98.html
-     author:  RSSSF
-     updated: 26 Jan 2007
-    -->
+<!--
+   title:   England 1997/98
+   source:  https://rsssf.org/tablese/eng98.html
+   author:  RSSSF
+   updated: 26 Jan 2007
+  -->
 
 
 == England 1997/98
-
 
 Premiership
 
@@ -955,13 +954,5 @@ Premier Division
 ------------------------------------------------------
 21  Radcliffe Borough           42  6 12 24  39-70  30
 22  Alfreton Town               42  3 13 26  32-86  22
-
-
-
-
-
-
-
-
 
 

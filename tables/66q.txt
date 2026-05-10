@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1966 Qualifying
-     source:  https://rsssf.org/tables/66q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 31 Dec 2005
-    -->
+<!--
+   title:   World Cup 1966 Qualifying
+   source:  https://rsssf.org/tables/66q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 31 Dec 2005
+  -->
 
 
 == World Cup 1966 Qualifying
@@ -239,10 +239,5 @@ winners Asia and 3 second round winners Africa
 
 21.11.65  Phnom Penh      North Korea      6-1 Australia
 24.11.65  Phnom Penh      Australia        1-3 North Korea
-
-
-
-
-
 
 

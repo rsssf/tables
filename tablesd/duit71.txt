@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1970/71
-     source:  https://rsssf.org/tablesd/duit71.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1970/71
+   source:  https://rsssf.org/tablesd/duit71.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1970/71
-
 
 Final Table
 
@@ -599,8 +598,5 @@ Borussia Mönchengladbach 1970/71
       Herbert WIMMER         26  (2167) + 3
         Heinz WITTMANN       20  (1732)
   Hans-Jürgen WLOKA          11  ( 469)
-
-
-
 
 

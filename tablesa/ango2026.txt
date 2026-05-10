@@ -1,17 +1,12 @@
-  <!--
-     title:   Angola 2025/26
-     source:  https://rsssf.org/tablesa/ango2026.html
-     author:  José Batalha
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Angola 2025/26
+   source:  https://rsssf.org/tablesa/ango2026.html
+   author:  José Batalha
+   updated: 7 May 2026
+  -->
 
 
 == Angola 2025/26
-
-
-
-
-
 ==== XLVIII Girabola  ‹§girabola›
 
 NB: 1º de Agosto are the only team to have played in all championships.
@@ -460,10 +455,6 @@ Table:
 NB: Petro de Luanda certain of title due to superior head-to-head record w.r.t. Wiliete
 
 
-
-
-
-
 ==== Taça  ‹§taca›
 
 Provincial stage
@@ -723,10 +714,6 @@ Desportivo da Huíla      -  Kabuscorp SC
 Petro de Luanda         -  Wiliete SC
 
 Final [May 31]
-
-
-
-
 
 
 ==== Campeonato Nacional da 2ª Divisão  ‹§segundona›
@@ -1077,13 +1064,7 @@ Grupo B
  9.GD 17 de Maio de Benguela   11   0  1 10   5-24   1
 
 
-
-
-
-
 ==== Provincial Leagues  ‹§province›
-
-
 ===== Bengo Province  ‹§pbengo›
 
 Provincial supercup [aka Abreu Leal - Flecha de Caxito]
@@ -2723,6 +2704,5 @@ Table (based on known results):
  5.Candengues Habilidosos   3   0  1  2   1- 4   1 [A]
  6.Ngola Luiji              2   0  0  2   1- 7   0 [A]
  7.Academia P. Buila        4   0  0  4   3-16   0 [A]
-
 
 

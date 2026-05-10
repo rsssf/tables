@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1993/94
-     source:  https://rsssf.org/tableso/oost94.html
-     authors: Ambrosius Kutschera and Karel Stokkermans
-     updated: 31 Oct 2004
-    -->
+<!--
+   title:   Austria 1993/94
+   source:  https://rsssf.org/tableso/oost94.html
+   authors: Ambrosius Kutschera and Karel Stokkermans
+   updated: 31 Oct 2004
+  -->
 
 
 == Austria 1993/94
@@ -660,8 +660,6 @@ Relegated after spring season: FC Nenzing.
 Promoted to Vorarlberger Liga: FC Wolfurt.
 
 
-
-
 ÖFB Snickers Cup 1993/94
 =========================
 
@@ -763,15 +761,5 @@ June 11
 
 Austria Wien          4-0 FC Linz               Att: 6,000
 36.Zsak (p) 1-0  74.Prosenik 2-0  ?.Narbekovas 3-0  90.Stöger 4-0.
-
-
-
-
-
-
-
-
-
-
 
 

@@ -1,17 +1,12 @@
-  <!--
-     title:   Saint Vincent and the Grenadines 2024/25
-     source:  https://rsssf.org/tabless/stvin2025.html
-     author:  Karel Stokkermans
-     updated: 14 Aug 2025
-    -->
+<!--
+   title:   Saint Vincent and the Grenadines 2024/25
+   source:  https://rsssf.org/tabless/stvin2025.html
+   author:  Karel Stokkermans
+   updated: 14 Aug 2025
+  -->
 
 
 == Saint Vincent and the Grenadines 2024/25
-
-
-
-
-
 ==== Premier Division 2024/25  ‹§prem›
 
 Final Table:
@@ -238,10 +233,6 @@ Final Table:
 10.SV United                 18   3  4 11  22-35  13  [P]  Relegated
 
 
-
-
-
-
 ==== Tier II 2024/25  ‹§tier2›
 
 NB: played in two groups, top-4 of both qualifying for knockout stage
@@ -304,12 +295,7 @@ System 3                2-1 Bequia United
 NB: both finalists promoted
 
 
-
-
-
 ==== Regional Competitions 2024  ‹§reg24›
-
-
 ===== Arnos Vale  ‹§arnos24›
 
 Start: Aug 11; 8 participants:

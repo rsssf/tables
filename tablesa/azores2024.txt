@@ -1,17 +1,12 @@
-  <!--
-     title:   Azores 2023/24
-     source:  https://rsssf.org/tablesa/azores2024.html
-     author:  José Batalha
-     updated: 9 May 2024
-    -->
+<!--
+   title:   Azores 2023/24
+   source:  https://rsssf.org/tablesa/azores2024.html
+   author:  José Batalha
+   updated: 9 May 2024
+  -->
 
 
 == Azores 2023/24
-
-
-
-
-
 ==== Campeonato de Futebol dos Açores 2023/24  ‹§meo›
 
 Participants:
@@ -209,10 +204,6 @@ Final Table:
  8.União Micaelense            18   6  2 10  24-25  20  Relegated
  9.FC Urzelinense              18   1  2 15  15-58   5  Relegated  [2 1 1 0 3-2 4]
 10.Benfica Águia Sport         18   0  5 13  15-42   5  Relegated  [2 0 1 1 2-3 1]
-
-
-
-
 
 
 ==== Cup Tournaments 2023/24  ‹§cups›

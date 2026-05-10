@@ -1,17 +1,12 @@
-  <!--
-     title:   Faroe Islands 2026
-     source:  https://rsssf.org/tablesf/far2026.html
-     author:  Denis Polsinelli
-     updated: 19 Mar 2026
-    -->
+<!--
+   title:   Faroe Islands 2026
+   source:  https://rsssf.org/tablesf/far2026.html
+   author:  Denis Polsinelli
+   updated: 19 Mar 2026
+  -->
 
 
 == Faroe Islands 2026
-
-
-
-
-
 ==== Betrideildin  ‹§voda›
 
 Table:
@@ -102,9 +97,6 @@ B68            -  HB
 NSÍ            -  EB/Streymur
 Skála          -  Víkingur
 07 Vestur      -  B36
-
-
-
 
 
 ==== 1. deild  ‹§1d›
@@ -205,10 +197,6 @@ EB/Str'mur II  -  FC Suðuroy
 HB II          -  B71
 ÍF             -  NSÍ II
 TB             -  Víkingur II
-
-
-
-
 
 
 ==== 2. deild  ‹§2d›

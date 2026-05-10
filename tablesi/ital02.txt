@@ -1,13 +1,12 @@
-  <!--
-     title:   Italy 2001/02
-     source:  https://rsssf.org/tablesi/ital02.html
-     authors: Misha Miladinovich, Giacomo Giusti and Alberto Novello
-     updated: 11 Jan 2003
-    -->
+<!--
+   title:   Italy 2001/02
+   source:  https://rsssf.org/tablesi/ital02.html
+   authors: Misha Miladinovich, Giacomo Giusti and Alberto Novello
+   updated: 11 Jan 2003
+  -->
 
 
 == Italy 2001/02
-
 
 First Level (Serie A)
 
@@ -921,7 +920,6 @@ Second Leg [May 10]
 Parma          1-0 Juventus
   [Júnior 4]
   [Parma win on away goal]
-
 
 
 Second Level 2001/02 (Serie B)
@@ -2362,7 +2360,6 @@ Benevento         0-1 Nocerina
 Nocerina and Castel di Sangro relegated.
 
 
-
 Fourth Level 2001/02
 
 Serie C2
@@ -3720,16 +3717,5 @@ Cavese            2-0 Nardò
 Puteolana         0-0 Tricase
 
 Nardò and Tricase relegated.
-
-
-
-
-
-
-
-
-
-
-
 
 

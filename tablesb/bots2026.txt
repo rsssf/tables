@@ -1,17 +1,12 @@
-  <!--
-     title:   Botswana 2025/26
-     source:  https://rsssf.org/tablesb/bots2026.html
-     author:  Karel Stokkermans
-     updated: 27 Apr 2026
-    -->
+<!--
+   title:   Botswana 2025/26
+   source:  https://rsssf.org/tablesb/bots2026.html
+   author:  Karel Stokkermans
+   updated: 27 Apr 2026
+  -->
 
 
 == Botswana 2025/26
-
-
-
-
-
 ==== FNB Premiership  ‹§premier›
 
 Table:

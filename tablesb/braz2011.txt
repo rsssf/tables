@@ -1,17 +1,12 @@
-  <!--
-     title:   Brazil 2011
-     source:  https://rsssf.org/tablesb/braz2011.html
-     author:  RSSSF Brazil
-     updated: 20 Feb 2024
-    -->
+<!--
+   title:   Brazil 2011
+   source:  https://rsssf.org/tablesb/braz2011.html
+   author:  RSSSF Brazil
+   updated: 20 Feb 2024
+  -->
 
 
 == Brazil 2011
-
-
-
-
-
 ==== Série A  ‹§sa›
 
 Participants
@@ -977,10 +972,6 @@ and Vasco da Gama already qualified as 2011 Copa do Brasil champions).
 Teams placed 6-13 (except Santos) qualified to 2012 Sudamericana.
 
 
-
-
-
-
 ==== Copa do Brasil  ‹§cb›
 
 Participants:
@@ -1322,9 +1313,6 @@ VASCO Champions of Copa do Brasil 2011 and classified to Copa Libertadores 2012.
 
 Topscorers: Rafael Coelho (Avaí), William (Avaí), Adriano (Palmeiras) and
             Kléber (Palmeiras), 5 goals.
-
-
-
 
 
 ==== Série B  ‹§sb›
@@ -1945,10 +1933,6 @@ Topscorer: Kiesa (Náutico), 21 goals.
 (+) - Teams promoted from 2010 Série C (3rd level)
 
 
-
-
-
-
 ==== Série C  ‹§sc›
 
 Participants
@@ -1979,7 +1963,6 @@ Esporte Clube SANTO ANDRÉ (Santo André-SP)
 
 [2] Plays home matches in Taguatinga-DF.
 [2] Manda seus jogos em Taguatinga-DF.
-
 
 
 FIRST STAGE:
@@ -2359,7 +2342,6 @@ Table:
 4.Brasiliense     6  1  1  4   9-16   4
 
 
-
 FINALS:
 
 [Nov 26]
@@ -2369,9 +2351,6 @@ CRB            1-3 Joinville
 Joinville      4-0 CRB
 
 *** JOINVILLE are Brazil 2011 3rd level (Série C) champions ***
-
-
-
 
 
 ==== Série D  ‹§sd›
@@ -2478,7 +2457,6 @@ Tocantinópolis EC - Tocantins 2010 - replacing Gurupi EC.
 [1] Former Sendas EC
 
 
-
 FIRST STAGE:
 (Top 2 from each group qualify)
 (Os 2 primeiros de cada grupo se classificam)
@@ -2554,7 +2532,6 @@ Table:
 3.Plácido de Castro      8  3  3  2  16- 9  12
 4.Nacional         8  2  1  5   9-14   7
 5.Vila Aurora       8  1  3  4   7-18   6
-
 
 
 Group A2
@@ -2633,8 +2610,6 @@ Table:
 5.Comercial         8  2  1  5   6-15   7
 
 
-
-
 Group A3
 
 Alecrim FC (Natal-RN) [5]
@@ -2699,8 +2674,6 @@ Table:
 3.Guarani        8  3  2  3   7- 4  11
 4.Alecrim        8  3  0  5   7-12   9
 5.Porto        8  1  2  5   6-11   5
-
-
 
 
 Group A4
@@ -2768,7 +2741,6 @@ Table:
 3.Bahia de Feira     8  4  0  4  12- 9  12
 4.River Plate        8  2  2  3  10-12   8
 5.V. da Conquista     8  2  1  5   6-12   7
-
 
 
 Group A5
@@ -2855,8 +2827,6 @@ Table:
 5.Tocantinópolis     8  2  1  5  10-18   7
 
 
-
-
 Group A6
 
 Bosque Formosa EC (Bosque Formosa-GO)*
@@ -2930,7 +2900,6 @@ Table:
 5.São Mateus        8  0  3  5   7-19   3
 
 
-
 Group A7
 
 CENE (Campo Grande-MS)
@@ -2993,7 +2962,6 @@ Oeste       3-1  CENE
 [9] Disputado em Catanduva-SP.
 
 
-
 Table:
 1.Oeste        8  4  2  2  12- 8  14  Qualified
 2.Mirassol        8  4  2  2   6- 7  14  Qualified
@@ -3001,7 +2969,6 @@ Table:
 3.CENE        8  4  1  3  15-13  13
 4.Operário Ferroviário   8  3  1  4   7- 9  10
 5.Cerâmica        8  1  2  5   6- 9   8
-
 
 
 Group A8
@@ -3072,7 +3039,6 @@ Table:
 SECOND STAGE:
 
 
-
 First leg:
 
 [Sep 25]
@@ -3124,7 +3090,6 @@ Mirassol   3-1  Oeste          (pk: 3-4)
 Santa Cruz      0-0  Treze
 [Oct 30]
 Anapolina       2-2  Tupi
-
 
 
 SEMIFINALS:

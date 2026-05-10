@@ -1,26 +1,13 @@
-  <!--
-     title:   World Cup 2002 - Match Details
-     source:  https://rsssf.org/tables/2002full.html
-     author:  Erlan Manaschev
-     updated: 3 Jul 2008
-    -->
+<!--
+   title:   World Cup 2002 - Match Details
+   source:  https://rsssf.org/tables/2002full.html
+   author:  Erlan Manaschev
+   updated: 3 Jul 2008
+  -->
 
 
 == World Cup 2002 - Match Details
-
-
-
-
-
-
-
-
-
-
-
-
 ==== Group A  ‹§gra›
-
 
 31/05/2002, Seoul (South Korea), Seoul World Cup Stadium, 62561
 World Cup
@@ -140,9 +127,6 @@ Table:
  2.SENEGAL          3  1  2  0   5- 4  5
  3.Uruguay          3  0  2  1   4- 5  2
  4.France           3  0  1  2   0- 3  1
-
-
-
 
 
 ==== Group B  ‹§grb›
@@ -266,9 +250,6 @@ Table:
  4.Slovenia         3  0  0  3   2- 7  0
 
 
-
-
-
 ==== Group C  ‹§grc›
 
 03/06/2002, Ulsan (South Korea), Munsu Football Stadium, 33842
@@ -377,9 +358,6 @@ Table:
  2.TURKEY           3  1  1  1   5- 3  4
  3.Costa Rica       3  1  1  1   5- 6  4
  4.China            3  0  0  3   0- 9  0
-
-
-
 
 
 ==== Group D  ‹§grd›
@@ -498,9 +476,6 @@ Table:
  2.USA              3  1  1  1   5- 6  4
  3.Portugal         3  1  0  2   6- 4  3
  4.Poland           3  1  0  2   3- 7  3
-
-
-
 
 
 ==== Group E  ‹§gre›
@@ -624,9 +599,6 @@ Table:
  4.Saudi Arabia     3  0  0  3   0-12  0
 
 
-
-
-
 ==== Group F  ‹§grf›
 
 02/06/2002, Saitama (Japan), Saitama Stadium 2002, 52721
@@ -741,9 +713,6 @@ Table:
  2.ENGLAND          3  1  2  0   2- 1  5
  3.Argentina        3  1  1  1   2- 2  4
  4.Nigeria          3  0  1  2   1- 3  1
-
-
-
 
 
 ==== Group G  ‹§grg›
@@ -869,9 +838,6 @@ Table:
  4.Ecuador          3  1  0  2   2- 4  3
 
 
-
-
-
 ==== Group H  ‹§grh›
 
 04/06/2002, Saitama, Saitama Stadium 2002, 55256
@@ -991,9 +957,6 @@ Table:
  2.BELGIUM          3  1  2  0   6- 5  5
  3.Russia           3  1  0  2   4- 4  3
  4.Tunisia          3  0  1  2   1- 5  1
-
-
-
 
 
 ==== 1/8 Finals  ‹§8f›
@@ -1153,9 +1116,6 @@ Cards:              South Korea: Kim Tae-Young [Y 17'], Song Jong-Gook [Y 80'],
 Note:               Gianluigi Buffon saved a penalty by Ahn Jung-Hwan at 4'.
 
 
-
-
-
 ==== Quarterfinals  ‹§qf›
 
 21/06/2002, Shizuoka (Japan), Shizuoka Stadium ECOPA, 47436
@@ -1233,9 +1193,6 @@ Cards:              Senegal: Omar Daf [Y 12'], Aliou Cissé [Y 63'].
                     Turkey: Emre Belözoğlu [Y 22'], İlhan Mansız [Y 87'].
 
 
-
-
-
 ==== Semifinals  ‹§sf›
 
 25/06/2002, Seoul, Seoul World Cup Stadium, 65256
@@ -1274,9 +1231,6 @@ Cards:              Brazil: Gilberto Silva [Y 41'].
                     Turkey: Tugay Kerimoğlu [Y 59'], Hasan Şaş [Y 90'].
 
 
-
-
-
 ==== Third Place Match  ‹§3m›
 
 29/06/2002, Daegu, Daegu World Cup Stadium, 63483
@@ -1296,9 +1250,6 @@ Coaches:            South Korea: Guus Hiddink (Netherlands).
                     Turkey: Şenol Güneş.
 Cards:              South Korea: Lee Eul-Yong [Y 23'].
                     Turkey: Tugay Kerimoğlu [Y 50'], Rüştü Reçber [Y 83'].
-
-
-
 
 
 ==== Final  ‹§fin›
@@ -1321,12 +1272,7 @@ Cards:              Germany: Miroslav Klose [Y 9'].
                     Brazil: Roque Júnior [Y 6'].
 
 
-
-
-
 == Squads  ‹§squads›
-
-
 
 ARGENTINA  ‹§arg›
 
@@ -2194,10 +2140,6 @@ Eddie Pope
 Coach: Bruce Arena (USA).
 
 
-
-
-
-
 == Oldest and youngest  ‹§records›
 
                Youngest                        Oldest
@@ -2210,10 +2152,6 @@ medalist       Kaká, BRA         20 y  69 d    Bierhoff, GER     34 y  60 d
 captain        Márquez, MEX      23 y 110 d    Heintze, DEN      38 y 293 d
 coach          Katanec, SLO      38 y 321 d    Maldini, PAR      70 y 110 d
 referee        Shield, AUS       28 y 281 d    Sánchez, ARG      45 y 103 d
-
-
-
-
 
 
 == Awards  ‹§awards›
@@ -2230,6 +2168,5 @@ Gillette Best Young Player - Landon Donovan (United States)
 Most Entertaining Team - South Korea
 Lev Yashin (Best Goalkeeper) - Oliver Kahn (Germany)
 FIFA Fair Play Trophy - Belgium
-
 
 

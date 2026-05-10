@@ -1,17 +1,12 @@
-  <!--
-     title:   French Antilles 2024/25
-     source:  https://rsssf.org/tablesf/frant2025.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 2 Dec 2025
-    -->
+<!--
+   title:   French Antilles 2024/25
+   source:  https://rsssf.org/tablesf/frant2025.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 2 Dec 2025
+  -->
 
 
 == French Antilles 2024/25
-
-
-
-
-
 === Ligue des Antilles 2025  ‹§ligant›
 
 NB: also known as Coupe VYV; 22nd edition (6th as Coupe VYV)
@@ -102,11 +97,7 @@ AS Gosier              0-1 Golden Lion
 ‹list of winners, see page ../tablesm/martinguadchamp›
 
 
-
-
-
 === Guadeloupe  ‹§guad›
-
 
 Note that the point system in Guadeloupe is 4/win, 2/draw, 1/loss.
 
@@ -133,8 +124,6 @@ Final Table:
 NB: CERFA exempt from relegation
 
 ==== Cup Tournaments 2024/25  ‹§guadcups›
-
-
 ===== Coupe de Guadeloupe 2025  ‹§guadcoupeguad›
 
 1/8 Finals
@@ -240,8 +229,6 @@ Final [Nov 10]
 Jeunesse Evolution     0-0 CS Moulien             [7-6 pen]
 
 ==== Régional 2 2024/25  ‹§guadreg2›
-
-
 ===== Poule A  ‹§guad2a›
 
 Reported Final Table:
@@ -292,11 +279,7 @@ Club Amical Marquisat  3-3 UNAR                   [aet, 4-3 pen]
 NB: Club Amical Marquisat promoted
 
 
-
-
-
 === Martinique  ‹§mart›
-
 
 Note that the point system in Martinique is 4/win, 2/draw, 1/loss.
 
@@ -323,8 +306,6 @@ Final Table:
 Promoted: Inter de Sainte-Anne, US Robert, AS Morne-des-Esses
 
 ==== Cup Tournaments 2024/25  ‹§martcups›
-
-
 ===== Coupe de Martinique 2025  ‹§martcoupem›
 
 1/8 Finals
@@ -441,8 +422,6 @@ Final [Nov 16]
 RC St.-Joseph          2-1 Samaritaine
 
 ==== Régional 2 2024/25  ‹§martreg2›
-
-
 ===== Poule A  ‹§mart2a›
 
 Final Table:
@@ -505,8 +484,6 @@ US Marinoise           4-2 Silver Star
 NB: Silver Star relegated
 
 ==== Régional 3 2024/25  ‹§martreg3›
-
-
 ===== Poule A  ‹§mart3a›
 
 Final Table:
@@ -538,12 +515,7 @@ Final Table:
  -.Solidarité                                 excluded or withdrew
 
 
-
-
-
 === Saint-Barthélemy  ‹§stbarth›
-
-
 ===== Ligue 2025  ‹§stmstbl›
 
 Round 1
@@ -606,12 +578,7 @@ Final [May 10]
 Arawak                 5-2 Diables Rouges
 
 
-
-
-
-
 === Saint-Martin  ‹§stmartin›
-
 
 Note that the point system in Saint-Martin is 4/win, 2/draw, 1/loss.
 

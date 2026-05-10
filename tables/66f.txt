@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1966
-     source:  https://rsssf.org/tables/66f.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 22 Oct 1999
-    -->
+<!--
+   title:   World Cup 1966
+   source:  https://rsssf.org/tables/66f.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 22 Oct 1999
+  -->
 
 
 == World Cup 1966 (England, July 11-30)
@@ -78,12 +78,5 @@ Scorers: 12' Haller 0-1; 18' Hurst 1-1; 78' Peters 2-1; 90' Weber 2-2;
          101' Hurst 3-2; 120' Hurst 4-2.
 
 Topscorer: Eusébio (Portugal) 9 goals.
-
-
-
-
-
-
-
 
 

@@ -1,17 +1,12 @@
-  <!--
-     title:   Vietnam 2025/26
-     source:  https://rsssf.org/tablesv/viet2026.html
-     author:  Karel Stokkermans
-     updated: 23 Dec 2025
-    -->
+<!--
+   title:   Vietnam 2025/26
+   source:  https://rsssf.org/tablesv/viet2026.html
+   author:  Karel Stokkermans
+   updated: 23 Dec 2025
+  -->
 
 
 == Vietnam 2025/26
-
-
-
-
-
 ==== V-League 2025/26  ‹§vleague›
 
 Table:

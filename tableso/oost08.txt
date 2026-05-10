@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 2007/08
-     source:  https://rsssf.org/tableso/oost08.html
-     authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 2007/08
+   source:  https://rsssf.org/tableso/oost08.html
+   authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
+   updated: 15 Jun 2022
+  -->
 
 
 == Austria 2007/08
@@ -383,7 +383,6 @@ Final Table:
 [*2] Pasching moved to Klagenfurt and changed name to Austria Kärnten
 
 
-
 Second Level (1. Liga)
 
 Final Table:
@@ -750,8 +749,6 @@ Final Table:
      FC Magna will play in Wiener Neustadt 2009/10, after the
      stadium there has been renovated; during 2008/09 the club
      will play in the Südstadt stadium in Maria Enzersdorf
-
-
 
 
 Third Level (Regionalliga)

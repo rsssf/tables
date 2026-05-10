@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 2008
-     source:  https://rsssf.org/tablesb/braz08.html
-     author:  RSSSF Brazil
-     updated: 21 May 2009
-    -->
+<!--
+   title:   Brazil 2008
+   source:  https://rsssf.org/tablesb/braz08.html
+   author:  RSSSF Brazil
+   updated: 21 May 2009
+  -->
 
 
 == Brazil 2008
@@ -926,14 +926,5 @@ Final Table:
 20.Ipatinga          38  9  8 21  37-67  35  Relegated  (+)
 
 (+) - Teams promoted from 2007 Série B (2nd level)
-
-
-
-
-
-
-
-
-
 
 

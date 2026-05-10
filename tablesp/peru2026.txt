@@ -1,19 +1,13 @@
-  <!--
-     title:   Peru 2026
-     source:  https://rsssf.org/tablesp/peru2026.html
-     author:  Carlos Manuel Nieto Tarazona
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Peru 2026
+   source:  https://rsssf.org/tablesp/peru2026.html
+   author:  Carlos Manuel Nieto Tarazona
+   updated: 5 May 2026
+  -->
 
 
 == Peru 2026
-
-
-
-
-
 ==== Primera División  ‹§primera›
-
 
 ===== Apertura Tournament  ‹§aper›
 
@@ -397,19 +391,12 @@ Dep. Los Chankas    -  U.T.C.
 Sport Boys       -  Comerciantes Unidos
 
 ===== Clausura Tournament  ‹§clau›
-
 ===== Championship Playoff  ‹§1fin›
 
 NB: between winners ‹Apertura, see §aper› and ‹Clausura, see §clau›
 
 
-
-
-
-
 ==== Segunda División  ‹§segunda›
-
-
 ===== First Stage  ‹§2reg›
 
 Tables:
@@ -716,12 +703,7 @@ Carlos A. Mannucci   bye
 Comerciantes FC      bye
 
 ===== Second Stage  ‹§2sec›
-
 ===== Playoff  ‹§2poff›
-
-
-
-
 
 ==== Liga Distrital de Arequipa (Cercado)  ‹§areq›
 

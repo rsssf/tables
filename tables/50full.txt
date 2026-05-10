@@ -1,27 +1,10 @@
-  <!--
-     title:   World Cup 1950 finals
-     source:  https://rsssf.org/tables/50full.html
-
-    -->
+<!--
+   title:   World Cup 1950 finals
+   source:  https://rsssf.org/tables/50full.html
+  -->
 
 
 = World Cup 1950
-
-
-‹Results, see §results›
-
-‹Group A, see §gra›
-‹Group B, see §grb›
-‹Group C, see §grc›
-‹Group D, see §grd›
-‹Final pool, see §final›
-
-
-‹Scorers' list, see §scorers›
-‹Coaches, assistants, reserve players, see §coaches›
-‹Oldest and youngest, see §records›
-
-
 
 Brasil, 24 June - 16 July 1950 (Belo Horizonte, Curitiba, Pórto Alegre,
 Rio de Janeiro, São Paulo). Decided at FIFA Congress in Luxemburg
@@ -49,9 +32,6 @@ Casarin, Peréz, Velasquez
 NOTE: Match preceded by WC opening ceremony
 
 
-
-
-
 25.06.50  (18.00) Belo Horizonte, Estadio Sete de Setembro
 
 JUG - SUI 3:0 (2:0)
@@ -66,9 +46,6 @@ Antenen, Tamini, Bader, Fatton
 1:0 Mitić 60, 2:0 Tomašević 70 h, 3:0 Ognjanov 76
 
 
-
-
-
 28.06.50  (15.00) São Paulo, Estadio Pacaembu
 
 BRA - SUI 2:2 (2:1)
@@ -81,9 +58,6 @@ SUI: Stuber - Neury, Bocquet, Lusenti - Eggimann, Quinche - Bickel (c),
 Friedländer, Tamini, Bader, Fatton
 
 1:0 Alfredo 3, 1:1 Patton 17, 2:1 Baltazar 43 h, 2:2 Patton 88
-
-
-
 
 
 29.06.50  (18.15) Porto Alegre, Estádio dos Eucaliptos
@@ -102,9 +76,6 @@ Ortiz
  89 p
 
 
-
-
-
 01.07.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
 BRA - JUG 2:0 (1:0)
@@ -117,9 +88,6 @@ JUG: Mrkušić - I.Horvat, B.Stanković, Zl.Čajkovski (c) - M.Jovanović, Djaji
 Vukas, Mitić, K.Tomašević, Bobek, Ž.Čajkovski
 
 1:0 Ademir 4 h, 2:0 Zizinho 89
-
-
-
 
 
 02.07.50  (15.40) Porto Alegre, Estádio dos Eucaliptos
@@ -160,9 +128,6 @@ Mayanes, Cremaschi, Robledo, Muñoz, Diaz
 1:0 Mortensen 27 h, 2:0 Mannion 51
 
 
-
-
-
 25.06.50  (15.30) Curitiba, Estadio Brito
 
 ESP - USA 3:1 (0:1)
@@ -175,9 +140,6 @@ USA: Borghi - Keough (c), Maca, McIlvenny - Colombo, Bahr - Craddock, J.Souza,
 Gaetjens, Pariani, Valentini
 
 0:1 J.Souza 17, 1:1 Igoa 54, 2:1 Basora 56, 3:1 Zarra 63
-
-
-
 
 
 29.06.50  (15.00) Rio de Janeiro, Estadio Maracaná
@@ -194,9 +156,6 @@ Cremaschi, Robledo, Muñoz, Diaz
 1:0 Basora 17, 2:0 Zarra 30
 
 
-
-
-
 29.06.50  (18.00) Belo Horizonte, Estadio Mineiro
 
 USA - ENG 1:0 (1:0)
@@ -211,9 +170,6 @@ Mortensen, Bentley, Mannion, Mullen
 1:0 Gaetjens 38 h
 
 
-
-
-
 02.07.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
 ESP - ENG 1:0 (0:0)
@@ -226,9 +182,6 @@ ENG: Williams - Ramsey, Eckersley, Wright (c) - Hughes, Dickinson - Finney,
 Mortensen, Matthews, Baily, Milburn
 
 1:0 Zarra 49
-
-
-
 
 
 02.07.50  (18.00) Recife, Estadio Ilha do Retiro
@@ -269,9 +222,6 @@ Boniperti, Cappello, Campatelli, Carapellese (c)
 Muccinelli 78
 
 
-
-
-
 29.06.50  (15.30) Curitiba, Estadio Brito
 
 SWE - PAR 2:2 (2:1)
@@ -284,9 +234,6 @@ PAR: Vargas - Gonzalito, Cespedes, Gavilan - Lequizamon, Cantero -
 Avalos, A.López, Jara, López Fretes (c), Unzain.
 
 1:0 Sundqvist 17, 2:0 Palmer 25, 2:1 López Fretes 34, 2:2 López 74
-
-
-
 
 
 02.07.50  (15.00) São Paulo, Estadio Pacaembu
@@ -343,9 +290,6 @@ Andersson 57 p,
  6:1 Maneca 65, 7:1 Chico 87
 
 
-
-
-
 09.07.50  (15.00) São Paulo, Estadio Pacaembu
 
 ESP - URU 2:2 (2:1)
@@ -358,9 +302,6 @@ URU: Máspoli - M.Gonzáles, Tejera, J.C. Gonzáles - Varela (c), Andrade -
 Ghiggia, Peréz, Miguez, Schiaffino, Vidal
 
 0:1 Ghiggia 29, 1:1 Basora 39, 2:1 Basora 41, 2:2 Varela 72
-
-
-
 
 
 13.07.50  (15.00) Rio de Janeiro, Estadio Maracaná
@@ -381,9 +322,6 @@ NB: the 1st goal was long listed as own goal by Parra, the 5th as goal by
     Jair; recently FIFA established Ademir as scorer of both goals.
 
 
-
-
-
 13.07.50  (15.00) São Paulo, Estadio Pacaembu
 
 URU - SWE 3:2 (1:2)
@@ -396,9 +334,6 @@ SWE: Svensson - Samuelsson, E.Nilsson (c), Andersson - Johansson, Gärd -
 Sundqvist, Palmer, Jeppson, Mellberg, Jönsson
 
 0:1 Palmer 4, 1:1 Ghiggia 39, 1:2 Sandqvist 40, 2:2 Miguez 77, 3:2 Miguez 84
-
-
-
 
 
 16.07.50  (15.00) São Paulo, Estadio Pacaembu
@@ -415,9 +350,6 @@ Hernandez, Zarra (c), Panizo, Juncosa
 1:0 Sundqvist 15, 2:0 Mellberg 34, 3:0 Palmer 79, 3:1 Zarra 82
 
 NOTE: Some sources award Sundqvist's goal to Jonsson
-
-
-
 
 
 16.07.50  (15.00) Rio de Janeiro, Estadio Maracaná

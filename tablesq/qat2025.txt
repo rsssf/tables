@@ -1,17 +1,12 @@
-  <!--
-     title:   Qatar 2024/25
-     source:  https://rsssf.org/tablesq/qat2025.html
-     author:  Karel Stokkermans
-     updated: 21 Apr 2025
-    -->
+<!--
+   title:   Qatar 2024/25
+   source:  https://rsssf.org/tablesq/qat2025.html
+   author:  Karel Stokkermans
+   updated: 21 Apr 2025
+  -->
 
 
 == Qatar 2024/25
-
-
-
-
-
 ==== Qatar Stars League  ‹§qsl›
 
 Final Table:

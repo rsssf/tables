@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1982/83
-     source:  https://rsssf.org/tablesd/duit83.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1982/83
+   source:  https://rsssf.org/tablesd/duit83.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1982/83
-
 
 Final Table
 
@@ -654,7 +653,5 @@ Hamburger SV 1982/83
       Michael SCHRÖDER        2  ( 127)
        Thomas VON HEESEN     20  ( 995) + 6
         Bernd WEHMEYER       34  (2988) + 2
-
-
 
 

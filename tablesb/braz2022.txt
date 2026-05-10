@@ -1,17 +1,12 @@
-  <!--
-     title:   Brazil 2022
-     source:  https://rsssf.org/tablesb/braz2022.html
-     author:  RSSSF Brazil
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2022
+   source:  https://rsssf.org/tablesb/braz2022.html
+   author:  RSSSF Brazil
+   updated: 8 Dec 2025
+  -->
 
 
 == Brazil 2022
-
-
-
-
-
 ==== Série A  ‹§sa›
 
 Final Table:
@@ -656,10 +651,6 @@ Final Table:
 20.Juventude             38   3 13 22  29-69  22       Relegated
 
 
-
-
-
-
 ==== Copa do Brasil 2022  ‹§cb›
 
 1/8 Finals
@@ -729,10 +720,6 @@ Second Leg [Oct 19]
 Flamengo        1-1 Corinthians     [6-5 pen]
 
 
-
-
-
-
 ==== Série B  ‹§sb›
 
 Final Table:
@@ -759,10 +746,6 @@ Final Table:
 18.Brusque               38   8 10 20  21-38  34       Relegated
 19.Operário Ferroviário  38   7 13 18  31-53  34       Relegated
 20.Náutico            38   8  6 24  32-65  30       Relegated
-
-
-
-
 
 
 ==== Série C  ‹§sc›

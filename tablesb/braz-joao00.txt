@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 2000 - Copa João Havelange
-     source:  https://rsssf.org/tablesb/braz-joao00.html
-     authors: Guillermo Rivera, Antônio Message Jr. and Miguel Alvim Gonzalez
-     updated: 15 Aug 2001
-    -->
+<!--
+   title:   Brazil 2000 - Copa João Havelange
+   source:  https://rsssf.org/tablesb/braz-joao00.html
+   authors: Guillermo Rivera, Antônio Message Jr. and Miguel Alvim Gonzalez
+   updated: 15 Aug 2001
+  -->
 
 
 == Brazil 2000 - Copa João Havelange
@@ -2048,13 +2048,5 @@ Topscorers:
 20 Dill (Goiás)
    Magno Alves (Fluminense)
    Romário (Vasco da Gama)
-
-
-
-
-
-
-
-
 
 

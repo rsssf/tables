@@ -1,17 +1,12 @@
-  <!--
-     title:   Hungary 2024/25
-     source:  https://rsssf.org/tablesh/hong2025.html
-     author:  Karel Stokkermans
-     updated: 26 May 2025
-    -->
+<!--
+   title:   Hungary 2024/25
+   source:  https://rsssf.org/tablesh/hong2025.html
+   author:  Karel Stokkermans
+   updated: 26 May 2025
+  -->
 
 
 == Hungary 2024/25
-
-
-
-
-
 ==== NB I  ‹§nb1›
 
 Final Table:

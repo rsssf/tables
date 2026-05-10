@@ -1,19 +1,13 @@
-  <!--
-     title:   Somaliland 2023/24
-     source:  https://rsssf.org/tabless/somalil2024.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 6 Nov 2025
-    -->
+<!--
+   title:   Somaliland 2023/24
+   source:  https://rsssf.org/tabless/somalil2024.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 6 Nov 2025
+  -->
 
 
 == Somaliland 2023/24
-
-
-
-
-
 ==== Horyaalka Horyaalada Somaliland (Somaliland Champions League) 2024  ‹§scl›
-
 
 NB: all matches at Cabdalle Stadium, Berbera
 
@@ -171,13 +165,7 @@ Final [Mar 5]
 Asluubta (Hargeysa)           0-3 Dawladda Hoose (Burco)
 
 
-
-
-
-
 ==== Regional Leagues 2023/24  ‹§reg›
-
-
 ===== Hargeysa 2023/24  ‹§harg›
 
 Horyaalka Heerka 1-aad (First Division)
@@ -458,10 +446,6 @@ Table:
 Winners: Biyaha FC (cannot be promoted as first team already at first level)
 
 
-
-
-
-
 ==== Cup Tournaments 2023/24  ‹§cups›
 
 XKC Cup 2023/24
@@ -549,9 +533,5 @@ Gaashaan                      1-2 Dawlaada Hoose
 
 Final [Jan 13, 2024]
 Maaliyada                     0-1 Dawlaada Hoose
-
-
-
-
 
 

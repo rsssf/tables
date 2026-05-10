@@ -1,17 +1,12 @@
-  <!--
-     title:   Mauritius 2016/17
-     source:  https://rsssf.org/tablesm/mauri2017.html
-     authors: Martin Arenlind, Hans Schöggl and Karel Stokkermans
-     updated: 5 Jul 2024
-    -->
+<!--
+   title:   Mauritius 2016/17
+   source:  https://rsssf.org/tablesm/mauri2017.html
+   authors: Martin Arenlind, Hans Schöggl and Karel Stokkermans
+   updated: 5 Jul 2024
+  -->
 
 
 == Mauritius 2016/17
-
-
-
-
-
 ==== Premier League 2016/17  ‹§prem›
 
 Final Table:
@@ -362,12 +357,7 @@ Final Table:
 Promoted: Chebel Citizens, Entente Boulet Rouge-Riche Mare Rovers
 
 
-
-
-
 ==== Cup Tournaments 2017  ‹§coupes›
-
-
 ===== MFA Cup 2017  ‹§mfa›
 
 Preliminary Round
@@ -453,9 +443,6 @@ Final [Mar 5]
 Pamplemousses                4-2 GRSE Wanderers SC
 
 
-
-
-
 ==== National Division 1  ‹§div1›
 
 Round 14 [Mar ?]
@@ -473,10 +460,6 @@ Final Standings:
  8.Black Horns                            14   0  4 10  12-42   4  Relegated
 
 
-
-
-
-
 ==== National Division 2  ‹§div2›
 
 Final Table:
@@ -491,9 +474,6 @@ Final Table:
  8.Faucon Flacq                           14   1  2 11  12-41   5  Relegated
 
 Promoted: Grande Rivière Noire West Coast FC, WBA Barkly
-
-
-
 
 
 ==== Regional Leagues  ‹§reg›

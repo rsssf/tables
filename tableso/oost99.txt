@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1998/99
-     source:  https://rsssf.org/tableso/oost99.html
-     author:  RSSSF
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 1998/99
+   source:  https://rsssf.org/tableso/oost99.html
+   author:  RSSSF
+   updated: 15 Jun 2022
+  -->
 
 
 == Austria 1998/99
@@ -2350,7 +2350,6 @@ Kundls second win (1995,1999) in the Tiroler Cup, "replaying" last years
 quarter-final on neutral ground.
 
 
-
 Fourth Level
 ============
 
@@ -2923,6 +2922,5 @@ Eighth Level
 12.Young Boys Vienna            26  7  3 16 46-81  24
 13.D&K Team 93                  26  4  5 17 39-93  17
 14.Young Guns                   26  2  3 21 40-149  9
-
 
 

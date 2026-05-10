@@ -1,17 +1,12 @@
-  <!--
-     title:   Saint Helena 2025
-     source:  https://rsssf.org/tabless/sthelena2025.html
-     author:  Karel Stokkermans
-     updated: 23 Dec 2025
-    -->
+<!--
+   title:   Saint Helena 2025
+   source:  https://rsssf.org/tabless/sthelena2025.html
+   author:  Karel Stokkermans
+   updated: 23 Dec 2025
+  -->
 
 
 == Saint Helena 2025
-
-
-
-
-
 ==== SHFA League  ‹§shfa›
 
 Final Table:
@@ -144,10 +139,6 @@ Topscorers:
 25 Rico Benjamin (Rovers)
 
 
-
-
-
-
 ==== Knock-out Competition  ‹§shko›
 
 Round 1 [Nov 23]
@@ -161,9 +152,6 @@ Rovers              12-1 Wirebirds
 
 Final [Dec 13]
 Rovers               bt  Bellboys
-
-
-
 
 
 ==== SHFA District League  ‹§dist›

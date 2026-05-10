@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1979/80
-     source:  https://rsssf.org/tablesd/duit80.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1979/80
+   source:  https://rsssf.org/tablesd/duit80.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1979/80
-
 
 Final Table
 
@@ -627,8 +626,5 @@ FC Bayern München 1979/80
    Karl-Heinz RUMMENIGGE     34  (2995) +26
         Georg SCHWARZENBECK   2  ( 180)
          Hans WEINER         34  (3060) + 1
-
-
-
 
 

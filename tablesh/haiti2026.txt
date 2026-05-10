@@ -1,17 +1,12 @@
-  <!--
-     title:   Haiti 2025/26
-     source:  https://rsssf.org/tablesh/haiti2026.html
-     author:  Karel Stokkermans
-     updated: 17 Feb 2026
-    -->
+<!--
+   title:   Haiti 2025/26
+   source:  https://rsssf.org/tablesh/haiti2026.html
+   author:  Karel Stokkermans
+   updated: 17 Feb 2026
+  -->
 
 
 == Haiti 2025/26
-
-
-
-
-
 ==== Ligue Haïtienne de Football - Série d'Ouverture 2025/26  ‹§ouv›
 
 NB: compared to last season, Cosmopolites SC and Racing FC (Gonaïves) entered
@@ -20,8 +15,6 @@ NB: compared to last season, Cosmopolites SC and Racing FC (Gonaïves) entered
 ‹Phase des Groups, see §grp› | ‹Championship Playoff, see §play›
 
 ===== Phase des Groups  ‹§grp›
-
-
 ====== Groupe A (Grand Nord)  ‹§grnord›
 
 Final Table:
@@ -156,8 +149,6 @@ Final Table:
  6.América FC (Cayes)                      5   0  3  2   3- 6   3
 
 ===== Championship Playoff  ‹§play›
-
-
 ====== Groupe A (Grand Nord)  ‹§plnord›
 
 Final Table:

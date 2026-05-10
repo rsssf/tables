@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1997/98
-     source:  https://rsssf.org/tableso/oost98.html
-     author:  RSSSF
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 1997/98
+   source:  https://rsssf.org/tableso/oost98.html
+   author:  RSSSF
+   updated: 15 Jun 2022
+  -->
 
 
 == Austria 1997/98

@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1991/92
-     source:  https://rsssf.org/tablesd/duit92.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1991/92
+   source:  https://rsssf.org/tablesd/duit92.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1991/92
-
 
 Final Table
 

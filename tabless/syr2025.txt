@@ -1,19 +1,13 @@
-  <!--
-     title:   Syria 2024/25
-     source:  https://rsssf.org/tabless/syr2025.html
-     author:  Karel Stokkermans
-     updated: 14 Jul 2025
-    -->
+<!--
+   title:   Syria 2024/25
+   source:  https://rsssf.org/tabless/syr2025.html
+   author:  Karel Stokkermans
+   updated: 14 Jul 2025
+  -->
 
 
 == Syria 2024/25
-
-
-
-
-
 ==== First Division  ‹§first›
-
 
 ===== Regular Stage  ‹§reg›
 

@@ -1,13 +1,12 @@
-  <!--
-     title:   Italy 2000/01
-     source:  https://rsssf.org/tablesi/ital01.html
-     authors: Alberto Novello and Daniel Dalence
-     updated: 1 Sep 2005
-    -->
+<!--
+   title:   Italy 2000/01
+   source:  https://rsssf.org/tablesi/ital01.html
+   authors: Alberto Novello and Daniel Dalence
+   updated: 1 Sep 2005
+  -->
 
 
 == Italy 2000/01
-
 
 First Level (Serie A)
 
@@ -3201,16 +3200,5 @@ Group C
 17.Cavese      34 34  7 13 14 26-40 Relegation Playoff
 --------------------------------------
 18.Castrovillari  27 34  7  6 21 29-51 Relegated
-
-
-
-
-
-
-
-
-
-
-
 
 

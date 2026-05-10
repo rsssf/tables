@@ -1,30 +1,10 @@
-  <!--
-     title:   World Cup 1970 finals
-     source:  https://rsssf.org/tables/70full.html
-
-    -->
+<!--
+   title:   World Cup 1970 finals
+   source:  https://rsssf.org/tables/70full.html
+  -->
 
 
 = World Cup 1970
-
-
-‹Results, see §results›
-
-‹Group A, see §gra›
-‹Group B, see §grb›
-‹Group C, see §grc›
-‹Group D, see §grd›
-‹Quarterfinals, see §4fin›
-‹Semifinals, see §2fin›
-‹Third place match, see §3place›
-‹Final, see §final›
-
-
-‹Scorers' list, see §scorers›
-‹Coaches, assistants, reserve players, see §coaches›
-‹Oldest and youngest, see §records›
-
-
 
 Mexico, 31 May to 21 June 1970 (Guadalajara, León, Mexico City, Puebla,
 Toluca). Decided at FIFA Congress in Tokio, 8 Oct 1964. Entries deadline
@@ -52,9 +32,6 @@ booked: Peña / Lovchev, Logofet, Asatiani, Nodija
 NOTE: Match preceded by WC opening ceremony
 
 
-
-
-
 03.06.70  (16.00) Mexico City, Estadio Azteca
 
 BEL - SAL 3:0 (1:0)
@@ -67,9 +44,6 @@ SAL: Magaña - Rivas, Mariona (c), Osorio, Manzano (66 Cortés) -
 Quintanilla, Vásquez, Cabezas, Rodriguez (80 Sermeño) Martinez, Aparicio
 
 1:0 van Moer 13, 2:0 van Moer 55, 3:0 Lambert 80 p
-
-
-
 
 
 06.06.70  (16.00) Mexico City, Estadio Aztéca
@@ -88,9 +62,6 @@ Jeck, van Himst (c) - Lambert, Puis
 4:1 Lambert 86
 
 
-
-
-
 07.06.70  (12.00) Mexico City, Estadio Azteca
 
 MEX - SAL 4:0 (1:0)
@@ -105,9 +76,6 @@ Quintanilla, Vásquez, Cabezas, Rodriguez - Martinez, Aparicio (59 Mendez)
 1:0 Valdivia 45, 2:0 Valdivia 46, 3:0 Fragoso 58, 4:0 Basaguren 83
 
 booked: Cabezas, Mariona, Mendez, Magaña
-
-
-
 
 
 10.06.70  (16.00) Mexico City, Estadio Azteca
@@ -125,9 +93,6 @@ Vásquez, Cabezas (82 Aparicio) - Rodriguez (86 Sermeño), Mendez
 1:0 Bischovets 51, 2:0 Bischovets 74 h
 
 booked: Khmelnitski
-
-
-
 
 
 11.06.70  (16.00) Mexico City, Estadio Azteca
@@ -169,9 +134,6 @@ Shum, Spiegler, Spiegel (c) - Faygenbaum, Rom (46 Vollach)
 1:0 Maneiro 23, 2:0 Mujica 81
 
 
-
-
-
 03.06.70  (16.00) Toluca, Estadio La Bombonera
 
 ITA - SWE 1:0 (1:0)
@@ -186,9 +148,6 @@ SWE: Hellström - Nordqvist (c), Grip, Svensson, Axelsson - B.Larsson
 1:0 Domenghini 11
 
 booked: Cronqvist
-
-
-
 
 
 06.06.70  (16.00) Puebla, Estadio Cuauhtemoc
@@ -218,9 +177,6 @@ Turesson, Kindvall - Persson (78 Pálsson), Olsson
 booked: Bar, Primo / Persson
 
 
-
-
-
 10.06.70  (16.00) Puebla, Estadio Cuauhtemoc
 
 SWE - URU 1:0 (0:0)
@@ -233,9 +189,6 @@ SWE: G.Larsson - Selander, Grip, Svensson, Axelsson - B.Larsson, Nordqvist (c),
 Eriksson, Kindvall (60 Turesson) - Persson, Nicklasson (84 Grahn)
 
 1:0 Grahn 90 h
-
-
-
 
 
 11.06.70  (16.00) Toluca, Estadio, La Bomboneras
@@ -270,9 +223,6 @@ Dembrovschi, G.Tătaru (74 Neagu) - Dumitrache, Lucescu (c)
 1:0 Hurst 65
 
 
-
-
-
 03.06.70  (16.00) Guadalajara, Estadio Jalisco
 
 BRA - CZE 4:1 (1:1)
@@ -288,9 +238,6 @@ Kvašňák), Kuna, F.Veselý (75 B.Veselý), Petráš - Adamec, Jokl
 83
 
 booked: Gérson, Tostão / Horváth
-
-
-
 
 
 06.06.70  (16.00) Guadalajara, Estadio Jalisco
@@ -309,9 +256,6 @@ Petráš, Jurkanin (46 Adamec), Jokl (67 F.Veselý)
 booked: Nunweiller / Kvašňák
 
 
-
-
-
 07.06.70  (12.00) Guadalajara, Estadio Jalisco
 
 BRA - ENG 1:0 (0:0)
@@ -326,9 +270,6 @@ Ball, R.Charlton (64 Bell) - Hurst, Peters
 1:0 Jairzinho 60
 
 booked: Lee
-
-
-
 
 
 10.06.70  (16.00) Guadalajara, Estadio Jalisco
@@ -347,9 +288,6 @@ Lucescu (c)
 Dembrovschi 83 h
 
 booked: Mocanu, Dimitru
-
-
-
 
 
 11.06.70  (16.00) Guadalajara, Estadio Jalisco
@@ -389,9 +327,6 @@ BUL: Simeonov, Shalamanov, Dimitrov (c), Davidov, Aladzhov - Bonev
 3:2 Cubillas 73
 
 
-
-
-
 03.06.70  (16.00) León, Estadio Guanajuato
 
 GER - MAR 2:1 (0:1)
@@ -406,9 +341,6 @@ MAR: Kassou - Lamrani, Benkrief, Khanoussi (c), Slimani - Marroufi, Bamous
 0:1 Houmane 21, 1:1 Seeler 56, 2:1 Müller 80 h
 
 
-
-
-
 06.06.70  (16.00) León, Estadio Guanajuato
 
 PER - MAR 3:0 (0:0)
@@ -421,9 +353,6 @@ MAR: Kassou - Lamrani, Benkhrif (66 Fadili), Khanoussi (c), Slimani -
 Maaroufi, Bamous, El Filali, Said (81 Alaoui) - Ghazouani, Houmane
 
 1:0 Cubillas 65, 2:0 Challe 68, 3:0 Cubillas 75
-
-
-
 
 
 07.06.70  (12.00) León, Estadio Guanajuato
@@ -441,9 +370,6 @@ Nikodimov, Kolev, Dzhermendiev (46 Mitkov) - Asparoukhov, Maraschliev
 69, 5:1 Müller 87 h, 5:2 Kolev 88
 
 
-
-
-
 10.06.70  (16.00) León, Estadio Guanajuato
 
 GER - PER 3:1 (3:1)
@@ -456,9 +382,6 @@ PER: Rubiños - P.González, de la Torre, Chumpitaz (c), Fuentes -
 Mifflin, Challe (71 Cruzado)- Sotil, León (75 Ramírez), Gallardo, Cubillas
 
 1:0 Müller 20, 2:0 Müller 26, 3:0 Müller 39 h, 3:1 Cubillas 44 f
-
-
-
 
 
 11.06.70  (16.00) León, Estadio Guanajuato
@@ -502,9 +425,6 @@ cross which led to the goal the ball was out of field. The protest was
 rejected.
 
 
-
-
-
 14.06.70  (12.00) Toluca, Estadio, La Bombonera
 
 ITA - MEX 4:1 (1:1)
@@ -522,9 +442,6 @@ Borja), Pulido, Munguia, Valdivia (60 Velarde) - Fragoso, Padilla
 booked: Rivera
 
 
-
-
-
 14.06.70  (12.00) Guadalajara, Estadio Jalisco
 
 BRA - PER 4:2 (2:1)
@@ -539,9 +456,6 @@ Challe - Baylón (54 Sotil), León (61 Reyes), Cubillas, Gallardo
 
 1:0 Rivelino 11, 2:0 Tostão 18, 2:1 Gallardo 28, 3:1 Tostão 52,
 3:2 Cubillas 69, 4:2 Jairzinho 76
-
-
-
 
 
 14.06.70  (12.00) León, Estadio Guanajuato
@@ -576,9 +490,6 @@ Espárrago), Cortés, Montero-Castillo, Cubilla - Fontes, Morales
 0:1 Cubilla 19, 1:1 Clodoaldo 45, 2:1 Jairzinho 76, 3:1 Rivelino 90
 
 booked: Carlos Alberto / Fontes, Maneiro, Mujica
-
-
-
 
 
 17.06.70  (16.00) Mexico City, Estadio Azteca

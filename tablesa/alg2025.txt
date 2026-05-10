@@ -1,17 +1,12 @@
-  <!--
-     title:   Algeria 2024/25
-     source:  https://rsssf.org/tablesa/alg2025.html
-     author:  Michel Menard
-     updated: 2 Feb 2026
-    -->
+<!--
+   title:   Algeria 2024/25
+   source:  https://rsssf.org/tablesa/alg2025.html
+   author:  Michel Menard
+   updated: 2 Feb 2026
+  -->
 
 
 == Algeria 2024/25
-
-
-
-
-
 ==== Ligue 1  ‹§premiere›
 
 Final Table:
@@ -481,10 +476,6 @@ Final Table:
 16.US Biskra              30   3 11 16  12-31  20       Relegated
 
 
-
-
-
-
 ==== Coupe Nationale d'Algerie  ‹§coupe›
 
 Regional stage (Last Round)
@@ -703,9 +694,6 @@ USM Alger          2-0 CR Belouizdad
   [Benayad 9, Khaldi 13]
 
 
-
-
-
 ==== Supercoupe Nationale d'Algerie  ‹§supcoupe›
 
 [Jan 17, Stade Nelson Mandela, Alger]
@@ -724,13 +712,7 @@ Yellow cards : Benhoua (58), Abdellaoui (65), Messoussa (90), Guendouz (93) (MC 
           Draoui (70), Merili (92) (USM Alger)
 
 
-
-
-
-
 ==== Ligue 2  ‹§deuxieme›
-
-
 ===== Groupe Centre-Est  ‹§2ce›
 
 Final Table:
@@ -1522,12 +1504,7 @@ Final Table:
 16.SC Méchria        30   3  3 24   19-66  10 [-2]   Relegated
 
 
-
-
-
-
 ==== Ligues Inter-Régions  ‹§troisieme›
-
 
 Final Tables:
 
@@ -3671,10 +3648,6 @@ IB Laghouat         2-0 IRB Zaouia
 CSSW Illizi         0-2 NRB Touggourt
 TR Tigdidine         2-0 Olympique El-Oued
 IRB Robbah         0-0 USB Hassi R'mel
-
-
-
-
 
 
 ==== Ligues Régionales de Football (4th Level)  ‹§reg›

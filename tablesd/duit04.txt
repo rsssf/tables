@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 2003/04
-     source:  https://rsssf.org/tablesd/duit04.html
-     author:  Lars Kubusch
-     updated: 8 Aug 2004
-    -->
+<!--
+   title:   Germany 2003/04
+   source:  https://rsssf.org/tablesd/duit04.html
+   author:  Lars Kubusch
+   updated: 8 Aug 2004
+  -->
 
 
 == Germany 2003/04
-
 
 1.Bundesliga
 
@@ -840,7 +839,6 @@ Topscorers:
 3.Max      (Rostock)      20
 
 
-
 DFB Pokal 2003/04
 
 Round 1
@@ -1029,7 +1027,6 @@ Topscorers:
   ZANDI  Ferydoon      ( Lübeck )      3
   RISCHE  Jürgen      ( Braunschweig )   3
   AHANFOUF  Abdelaziz      ( Duisburg )      3
-
 
 
 2.Bundesliga
@@ -1949,7 +1946,6 @@ Top Scorers:   1.MINTAL Marek         (Nürnberg)   18
       8.THURK Michael         (Mainz)      13
         FEINBIER Marcus      (Fürth)      13
         BAUMGART Steffen      (Berlin)   13
-
 
 
 Third Level 2003/04
@@ -3749,7 +3745,6 @@ Müller (RW Erfurt)   17
 Rogosic (Aalen)      17
 
 
-
 Fourth Level (Oberligen) 2003/04
 
     Bayern
@@ -4031,26 +4026,5 @@ VFC Plauen      2-4   Hertha BSC Berlin Amateure
 
 Second Leg [Jun 6]
 Hertha BSC Berlin   2-3   VFC Plauen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

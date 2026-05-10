@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 2004/05
-     source:  https://rsssf.org/tableso/oost05.html
-     authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 2004/05
+   source:  https://rsssf.org/tableso/oost05.html
+   authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
+   updated: 15 Jun 2022
+  -->
 
 
 == Austria 2004/05
@@ -1436,7 +1436,6 @@ Relegated from Regionalliga (Ost): SV Rohrbach bei Mattersburg
 Promoted to Burgenland-Liga: FC Deutschkreutz, SC Trausdorf, ASV Deutsch Tschantschendorf
 
 
-
 SFV (Salzburg) Cup 2004/05  ‹§salzcup›
 
 1/8 Finals
@@ -1622,6 +1621,5 @@ Kolsass/Weer       1-4    Kufstein I
 
 Final
 Kufstein I       0-2   Axams/Götzens I
-
 
 

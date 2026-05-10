@@ -1,17 +1,12 @@
-  <!--
-     title:   Micronesia 2022
-     source:  https://rsssf.org/tablesm/micro2022.html
-     authors: Carlos Santos and Hans Schöggl
-     updated: 11 Jul 2023
-    -->
+<!--
+   title:   Micronesia 2022
+   source:  https://rsssf.org/tablesm/micro2022.html
+   authors: Carlos Santos and Hans Schöggl
+   updated: 11 Jul 2023
+  -->
 
 
 == Micronesia 2022
-
-
-
-
-
 ==== Pohnpei  ‹§pohnpei›
 
 Pohnpei State League 2022
@@ -94,12 +89,7 @@ Final [Sep 9]
 Sokehs              bt  Kitti
 
 
-
-
-
-
 ==== Yap  ‹§yap›
-
 ===== Yap Games 2022  ‹§yapg›
 
 Start: Jun 24

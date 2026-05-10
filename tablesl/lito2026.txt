@@ -1,17 +1,12 @@
-  <!--
-     title:   Lithuania 2026
-     source:  https://rsssf.org/tablesl/lito2026.html
-     author:  Theodore Dreiman
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Lithuania 2026
+   source:  https://rsssf.org/tablesl/lito2026.html
+   author:  Theodore Dreiman
+   updated: 5 May 2026
+  -->
 
 
 == Lithuania 2026
-
-
-
-
-
 ==== Toplyga 2026  ‹§alyga›
 
 Table:
@@ -299,10 +294,6 @@ Banga        -  Zalgiris Vl
 Dziugas      -  Suduva
 
 
-
-
-
-
 ==== LFF Taurė 2026  ‹§taure›
 
 Preliminary Round [Apr 1]
@@ -425,10 +416,6 @@ Riteriai (Vilnius)        -  Žalgiris (Kaunas)
 Baltijos FA (Vilnius)     -  FK Garliava
 Pempininkai (Klaipėda)    -  Minija (Kretinga)
 TransInvest (Galinė)      -  Hegelmann (Žemaitkiemis)
-
-
-
-
 
 
 ==== I Lyga  ‹§1lyga›
@@ -738,10 +725,6 @@ Siauliai B     -  Babrungas
 Zalgiris B Kn  -  Baltijos FA
 
 
-
-
-
-
 ==== LFF II Lyga A Divizionas  ‹§2lyga›
 
 Table:
@@ -1033,10 +1016,6 @@ Dainava B    -  Riteriai B
 [Jun 28]
 Sirvena      -  Sveikata
 Viltis       -  Banga B
-
-
-
-
 
 
 ==== LFF II Lyga B Divizionas  ‹§2lygb›

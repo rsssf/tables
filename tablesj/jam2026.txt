@@ -1,19 +1,13 @@
-  <!--
-     title:   Jamaica 2025/26
-     source:  https://rsssf.org/tablesj/jam2026.html
-     author:  Karel Stokkermans
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Jamaica 2025/26
+   source:  https://rsssf.org/tablesj/jam2026.html
+   author:  Karel Stokkermans
+   updated: 7 May 2026
+  -->
 
 
 == Jamaica 2025/26
-
-
-
-
-
 ==== Jamaica Premier League  ‹§1st›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -491,5 +485,4 @@ Final Table:
 14.Spanish Town Police       39   7  5 27  25-111 26  [P]  Relegated
 
 ===== Playoff Stage  ‹§play›
-
 

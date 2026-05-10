@@ -1,13 +1,12 @@
-  <!--
-     title:   Germany 1975/76
-     source:  https://rsssf.org/tablesd/duit76.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1975/76
+   source:  https://rsssf.org/tablesd/duit76.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 == Germany 1975/76
-
 
 Final Table
 
@@ -628,8 +627,5 @@ Borussia Mönchengladbach 1975/76
       Herbert WIMMER         34  (2937) + 3
   Hans-Jürgen WITTKAMP       34  (3039) + 5
         Horst WOHLERS         2  (  30)
-
-
-
 
 

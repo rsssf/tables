@@ -1,17 +1,12 @@
-  <!--
-     title:   Guyana 2025
-     source:  https://rsssf.org/tablesg/guyana2025.html
-     author:  Karel Stokkermans
-     updated: 12 Jan 2026
-    -->
+<!--
+   title:   Guyana 2025
+   source:  https://rsssf.org/tablesg/guyana2025.html
+   author:  Karel Stokkermans
+   updated: 12 Jan 2026
+  -->
 
 
 == Guyana 2025
-
-
-
-
-
 ==== Elite League 2025  ‹§nfl›
 
 NB: seventh edition
@@ -230,10 +225,6 @@ Final Table:
  9.Fruta Conquerors           18   3  3 12  16-54  12       Relegation Playoff
 -----------------------------------------------------
 10.Mainstay Goldstar FC       18   0  0 18  10-205  0  [P]  Relegated
-
-
-
-
 
 
 ==== GFF Super 16 Cup 2025/26  ‹§sup16›

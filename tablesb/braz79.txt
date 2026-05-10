@@ -1,9 +1,9 @@
-  <!--
-     title:   V COPA BRASIL - 1979 [Brazilian Championship]
-     source:  https://rsssf.org/tablesb/braz79.html
-     author:  Ricardo Pontes
-     updated: 2 Apr 2005
-    -->
+<!--
+   title:   V COPA BRASIL - 1979 [Brazilian Championship]
+   source:  https://rsssf.org/tablesb/braz79.html
+   author:  Ricardo Pontes
+   updated: 2 Apr 2005
+  -->
 
 
 == V COPA BRASIL - 1979 [Brazilian Championship]
@@ -1988,10 +1988,5 @@ Table
 92-Sport              9  1  2  6   5-18   4
 93-Chapecoense        9  0  3  6   6-16   3
 94-Guará              8  0  2  6   2-14   2
-
-
-
-
-
 
 

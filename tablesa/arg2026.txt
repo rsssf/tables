@@ -1,17 +1,12 @@
-  <!--
-     title:   Argentina 2026
-     source:  https://rsssf.org/tablesa/arg2026.html
-     author:  Osvaldo José Gorgazzi
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Argentina 2026
+   source:  https://rsssf.org/tablesa/arg2026.html
+   author:  Osvaldo José Gorgazzi
+   updated: 7 May 2026
+  -->
 
 
 == Argentina 2026
-
-
-
-
-
 === Torneo Apertura de la LPF de AFA 2026  ‹§1apertura›
 
 [2026 AFA LPF Opening Tournament]
@@ -446,9 +441,6 @@ Final:
 TBD                                     -        TBD                                TBD
 
 
-
-
-
 === Torneo Clausura de la LPF de AFA 2026  ‹§1clausura›
 
 [2026 AFA LPF Closing Tournament]
@@ -831,10 +823,6 @@ Final:
 TBD                                     -        TBD                                TBD
 
 
-
-
-
-
 === ‹Primer Descenso - First Relegation›
 
 Triennal General Table of Averages
@@ -874,9 +862,6 @@ Tiebreaker matches (if needed to determine relegation).
 28.CA Sarmiento                        89  20 29 40  64:103  89 1.0000
 29.CA Aldosivi                         48   9 14 25  37: 65  41 0.8541
 30.AA Estudiantes                      16   1  2 13   5: 24   5 0.3125 (First relegation)
-
-
-
 
 
 === Tabla Anual de Posiciones 2026 - Final Standing (Opening and Closing phases of groups)  ‹§1first›
@@ -919,10 +904,6 @@ Tiebreaker matches in case of having to determine relegation.
 28.Deportivo Riestra AFBC            16   1  8  7   5- 12  11
 29.CA Aldosivi                       16   0  8  8   6- 19   8 (Second relegation)
 30.AA Estudiantes                    16   1  2 13   5- 24   5 (Relegation by average)
-
-
-
-
 
 
 === AFA national cup: Copa Argentina 2026  ‹§nationalcup›
@@ -1094,10 +1075,6 @@ TBD                                     -        TBD                            
 Final:
 [TBD]
 TBD                                     -        TBD                                TBD
-
-
-
-
 
 
 === National teams  ‹§national›

@@ -1,17 +1,12 @@
-  <!--
-     title:   Ireland 2025
-     source:  https://rsssf.org/tablesi/ier2025.html
-     author:  Karel Stokkermans
-     updated: 14 Nov 2025
-    -->
+<!--
+   title:   Ireland 2025
+   source:  https://rsssf.org/tablesi/ier2025.html
+   author:  Karel Stokkermans
+   updated: 14 Nov 2025
+  -->
 
 
 == Ireland 2025
-
-
-
-
-
 ==== SSE Airtricity League  ‹§premier›
 
 Final Table:
@@ -35,9 +30,6 @@ Final Table:
 Bray            1-2 Waterford
 
 NB: both remain at former level
-
-
-
 
 
 ==== FAI Cup  ‹§faicup›
@@ -111,9 +103,6 @@ Shamrock                    6-1 Kerry
 
 Final [Nov 9]
 Shamrock                    2-0 Cork
-
-
-
 
 
 ==== First Division  ‹§first›

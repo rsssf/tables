@@ -1,17 +1,12 @@
-  <!--
-     title:   Ivory Coast 2025/26
-     source:  https://rsssf.org/tablesi/ivo2026.html
-     author:  Karel Stokkermans
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Ivory Coast 2025/26
+   source:  https://rsssf.org/tablesi/ivo2026.html
+   author:  Karel Stokkermans
+   updated: 5 May 2026
+  -->
 
 
 == Ivory Coast 2025/26
-
-
-
-
-
 ==== Ligue 1 MTN  ‹§ligue1›
 
 Table:

@@ -1,30 +1,10 @@
-  <!--
-     title:   World Cup 1974 finals
-     source:  https://rsssf.org/tables/74full.html
-
-    -->
+<!--
+   title:   World Cup 1974 finals
+   source:  https://rsssf.org/tables/74full.html
+  -->
 
 
 = World Cup 1974 finals
-
-
-‹Results, see §results›
-
-‹Group A, see §gra›
-‹Group B, see §grb›
-‹Group C, see §grc›
-‹Group D, see §grd›
-‹Group 1, see §gr1›
-‹Group 2, see §gr2›
-‹Third place match, see §3place›
-‹Final, see §final›
-
-
-‹Scorers' list, see §scorers›
-‹Coaches, assistants, reserve players, see §coaches›
-‹Oldest and youngest, see §records›
-
-
 
 Germany, 13 Jun to 7 Jul 1974 (West Berlin, Düsseldorf, Dortmund, Frankfurt,
 Gelsenkirchen, Hamburg, Hannover, München, Stuttgart). Decided at FIFA
@@ -52,9 +32,6 @@ booked: Garcia, Caszely, Rainoso
 sent-off: Caszely (67)
 
 
-
-
-
 14.06.94  (19.30) Hamburg, Volksparkstadion
 
 DDR - AUS 2:0 (0:0)
@@ -69,9 +46,6 @@ Rooney, Mackay - Warren, Alston, Buljevic
 1:0 Curran 58 o, 2:0 Streich 72
 
 booked: Kische, Wätzlich, Vogel
-
-
-
 
 
 18.06.74  (16.00) Hamburg, Volksparkstadion
@@ -90,9 +64,6 @@ Mackay - Campbell (46 Abonyi), Alston, Buljevic (61 Ollerton)
 booked: Mackay
 
 
-
-
-
 18.06.74  (19.30) Berlin, Olympiastadion
 
 DDR - CHI 1:1 (0:0)
@@ -109,9 +80,6 @@ Valdéz (c - 46 Yavár), Ahumada - Veliz, Reinoso, Paéz
 booked: Kische / Paéz, Velis
 
 
-
-
-
 22.06.74  (16.00)  Berlin, Olympiastadion
 
 AUS - CHI 0:0
@@ -125,9 +93,6 @@ CHI: Vallejos -  Garcia, Quintano, Arias, Figueroa -  Caszely, Valdéz
 
 booked: Richards
 sent-off: Richards (83)
-
-
-
 
 
 22.06.74  (19.30) Hamburg, Volksparkstadion
@@ -166,9 +131,6 @@ Oblak, Aćimović, Petković - Šurjak, Džajić (c)
 Booked: Aćimović, Oblak
 
 
-
-
-
 14.06.74  (19.30) Dortmund, Westfalenstadion
 
 SCO - ZAI 2:0 (2:0)
@@ -185,9 +147,6 @@ Mana, N'daye - Kidumu (c - 78 Kibonge), Kakoko
 booked: Holton / Kidumu
 
 
-
-
-
 18.06.74  (19.30) Frankfurt, Waldstadion
 
 BRA - SCO 0:0
@@ -201,9 +160,6 @@ SCO: Harvey - Jardine, McGrain, Bremner (c), Holton - Buchan, Dalglish,
 Hay, Lorimer - Jordan, Morgan.
 
 booked: Rivelino, F.Marinho, M.Marinho
-
-
-
 
 
 18.06.74  (19.30) Gelsenkirchen, Parkstadion
@@ -224,9 +180,6 @@ booked: E.Hadžiabdić
 sent off: N'daye (23)
 
 
-
-
-
 22.06.74  (18.00) Frankfurt, Waldstadion
 
 SCO - JUG 1:1 (0:0)
@@ -241,9 +194,6 @@ JUG: Marić - Buljan, Katalinski, Bogićević, E.Hadžiabdić - Bajević
 0:1 Karasi 82 h, 1:1 Jordan 89
 
 booked: Jordan, Hay / Katalinski, Oblak, Bajević
-
-
-
 
 
 22.06.74  (18.00) Gelsenkirchen, Parkstadion
@@ -286,9 +236,6 @@ booked; Mantegazza, Forlán, Masnik
 sent off: Morena (89)
 
 
-
-
-
 15.06.74  (16.00) Düsseldorf, Rheinstadion
 
 BUL - SWE 0:0
@@ -299,9 +246,6 @@ BUL: Goranov - Z.Vassilev, Ivkov, Velitchkov, Kolev - Penev, Voinov
 (72 Mikhailov), Bonev (c) - Denev, Panov (75 M.Vassilev) - Nikodimov,
 SWE: Hellström - Olsson, Karlsson, Larsson (c), Andersson - Kindvall
 (72 Magnusson), Tapper, Grahn, Torstensson - Sandberg, Edström
-
-
-
 
 
 19.06.74  (19.30) Dortmund, Westfalenstadion
@@ -316,9 +260,6 @@ SWE: Hellström - Olsson (76 Grip), Karlsson, Larsson, Andersson - Nordqvist (c)
 Tapper (61 Persson), Grahn, Ejderstedt - Sandberg, Edström
 
 booked: Rep / Grahn, Nordqvist, Persson, Andersson
-
-
-
 
 
 19.06.74  (19.30) Hannover, Niedersachsenstadion
@@ -337,9 +278,6 @@ Rocha, Garisto (72 Masnik) - Morena, Mantegazza (83 Cardaccio), Corbo
 booked: Z.Vasilliev / Espárrago
 
 
-
-
-
 23.06.74  (16.00) Dortmund, Westfalenstadion
 
 HOL - BUL 4:1 (2:0)
@@ -354,9 +292,6 @@ Panov (46 Borisov), Stoyanov (57 Mikhailov) - Z.Vassilev, Ivkov.
 1:0 Neeskens 8 p, 2:0 Neeskens 45 p, 3:0 Rep 71, 3:1 Krol 78 o, 4:1 de Jong 88
 
 booked: Jansen, Van Hanegem, Cruijff / Denev
-
-
-
 
 
 23.06.74  (16.00) Düsseldorf, Rheinstadion
@@ -400,9 +335,6 @@ NOTE: antidope control tested positive for Jean-Joseph, who has been
 expulsed from the tournament
 
 
-
-
-
 15.06.74  (18.00) Stuttgart, Neckarstadion
 
 POL - ARG 3:2 (2:0)
@@ -419,9 +351,6 @@ Babington, Brindisi (46 Houseman) - Kempes, Ayala, Balbuena.
 booked: Babington, Perfumo
 
 
-
-
-
 19.06.74  (19.30) Stuttgart, Neckarstadion
 
 ARG - ITA 1:1 (1:1)
@@ -436,9 +365,6 @@ Mazzola, Capello, Rivera (87 Causio) - Benetti, Anastasi, Riva
 1:0 Houseman 19, 1:1 Perfumo 36 o
 
 booked: Babington / Benetti
-
-
-
 
 
 19.06.74  (19.30) München, Olympiastadion
@@ -458,9 +384,6 @@ Antoine, Désir, Vorbe, François - Saint-Vil (46 Racine), Sanon
 booked: Bayonne
 
 
-
-
-
 23.06.74  (16.00) München, Olympiastadion
 
 ARG - HAI 4:1 (2:0)
@@ -475,9 +398,6 @@ Désir, Vorbe, Louis, Saint-Vil (54 F.Leandre) - Racine, Sanon
 1:0 Yazalde 15, 2:0 Houseman 18, 3:0 Ayala 55, 3:1 Sanon 63, 4:1 Yazalde 67
 
 booked: Babington, Heredia / F.Leandre
-
-
-
 
 
 23.06.74  (16.00) Stuttgart, Neckarstadion
@@ -501,7 +421,6 @@ booked: Musiał, Kasperczak / Boninsegna
 4. HAI          3  0 0 3  0   2-14
 
 = Second Phase
-
 == Group 1 - ARG BRA DDR HOL  ‹§gr1›
 
 26.06.74  (19.30) Hannover, Niedersachsenstadion
@@ -520,9 +439,6 @@ Löwe), Sparwasser, Hamann (46 Irmscher) - Kische, Hoffmann
 booked: Jairzinho, Dirceu, Cesar Carpegiani / Streich, Hamann
 
 
-
-
-
 22.06.74  (19.30) Gelsenkirchen, Parkstadion
 
 HOL - ARG 4:0 (2:0)
@@ -539,9 +455,6 @@ Squeo, Houseman (65 Kempes), Yazalde - Ayala, Balbuena
 booked: Neeskens, Suurbier / Perfumo
 
 
-
-
-
 30.06.74  (16.00) Gelsenkirchen, Parkstadion
 
 HOL - DDR 2:0 (1:0)
@@ -554,9 +467,6 @@ DDR: Croy - Kurbjuweit, Bransch (c), Weise, Schnuphase - Pommerenke,
 Lauck (81 Kreische), Sparwasser, Löwe (66 Ducke) - Kische, Hoffmann
 
 1:0 Neeskens 8, 2:0 Rensenbrink 59
-
-
-
 
 
 30.06.74  (16.00 Hannover, Niedersachsenstadion
@@ -575,9 +485,6 @@ Babington, Brindisi (c) - Ayala, Balbuena, Kempes (46 Houseman)
 booked: Houseman
 
 
-
-
-
 03.07.74  (19.30) Dortmund, Westfalenstadion
 
 HOL - BRA 2:0 (0:0)
@@ -594,9 +501,6 @@ Carpegiani, Rivelino, Dirceu, Valdomiro - Jairzinho, Paulo Cesar Lima
 
 booked: Rep / Zé Maria, Pereira
 sent off: Pereira (84)
-
-
-
 
 
 03.07.74  (19.30) Gelsenkirchen, Parkstadion
@@ -635,9 +539,6 @@ Tapper (82 Ahlström), Larsson, Torstensson - Sandberg, Edström
 booked: Gorgoń, Szarmach
 
 
-
-
-
 26.06.74  (18.00) Düsseldorf, Rheinstadion
 
 GER - JUG 2:0 (1:0)
@@ -654,9 +555,6 @@ Popivoda, Aćimović, Šurjak - Karasi, Džajić (c - 84 Petković)
 booked: Overath, Vogts / Buljan, E.Hadžiabdić
 
 
-
-
-
 30.06.74  (18.00) Frankfurt, Waldstadion
 
 POL - JUG 2:1 (1:1)
@@ -670,9 +568,6 @@ Jerković),
  Bajević, Aćimović (c), Šurjak - Karasi, Petković (81 V.Petrović)
 
 1:0 Deyna 27 p, 1:1 Karasi 43, 2:1 Lato 63 h
-
-
-
 
 
 30.06.74  (19.30) Düsseldorf, Rheinstadion
@@ -692,9 +587,6 @@ Tapper, Larsson (31 Ejderstedt) - Torstensson, Sandberg, Edström
 booked: Grahn
 
 
-
-
-
 03.07.74  (19.30) Düsseldorf, Rheinstadion
 
 SWE - JUG 2:1 (1:1)
@@ -709,9 +601,6 @@ JUG: Marić, Buljan, E.Hadžiabdić, Bogićević, Katalinski - Pavlović
 0:1 Šurjak 27, 1:1 Edström 30, 2:1 Torstensson 85
 
 booked: Katalinski, Karasi
-
-
-
 
 
 03.07.74  (16.30) Frankfurt, Waldstadion

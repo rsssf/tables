@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 2008/09
-     source:  https://rsssf.org/tableso/oost09.html
-     authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
-     updated: 15 Jul 2022
-    -->
+<!--
+   title:   Austria 2008/09
+   source:  https://rsssf.org/tableso/oost09.html
+   authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
+   updated: 15 Jul 2022
+  -->
 
 
 == Austria 2008/09
@@ -388,7 +388,6 @@ Final Table:
 10.SC Rheindorf Altach          36  8  6 22 56-90  30  Relegated
 
 
-
 ÖFB-Stiegl-Cup 2008/09
 
 Preliminary Round
@@ -516,8 +515,6 @@ FC Wiener Neustadt        0-1 FK Austria Wien
 
 Final [May 24, Mattersburg]
 FK Austria Wien           3-1 FC Admira                [aet]
-
-
 
 
 Second Level (1. Liga)

@@ -1,13 +1,12 @@
-  <!--
-     title:   World Cup 1974
-     source:  https://rsssf.org/tables/74f.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 22 Oct 1999
-    -->
+<!--
+   title:   World Cup 1974
+   source:  https://rsssf.org/tables/74f.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 22 Oct 1999
+  -->
 
 
 == World Cup 1974 (West Germany, June 13-July 7)
-
 
 FIRST PHASE
 
@@ -81,12 +80,5 @@ Attendance: 80,000.
 Scorers: 2' Neeskens (p) 0-1; 25' Breitner (p) 1-1; 43' Müller 2-1.
 
 Topscorer: Lato (Poland) 7 goals.
-
-
-
-
-
-
-
 
 

@@ -1,9 +1,9 @@
-  <!--
-     title:   Kiribati 2024/25
-     source:  https://rsssf.org/tablesk/kiri2025.html
-     author:  Hans Schöggl
-     updated: 14 Jan 2026
-    -->
+<!--
+   title:   Kiribati 2024/25
+   source:  https://rsssf.org/tablesk/kiri2025.html
+   author:  Hans Schöggl
+   updated: 14 Jan 2026
+  -->
 
 
 == Kiribati 2024/25

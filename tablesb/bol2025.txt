@@ -1,17 +1,12 @@
-  <!--
-     title:   Bolivia 2025
-     source:  https://rsssf.org/tablesb/bol2025.html
-     author:  Tim Venables
-     updated: 21 Mar 2026
-    -->
+<!--
+   title:   Bolivia 2025
+   source:  https://rsssf.org/tablesb/bol2025.html
+   author:  Tim Venables
+   updated: 21 Mar 2026
+  -->
 
 
 == Bolivia 2025
-
-
-
-
-
 ==== División Profesional  ‹§prim›
 
 Final Table:
@@ -705,9 +700,6 @@ Second Leg [Dec 23]
 ABB               2-0 IN San Juan       [5-3 pen]
 
 NB: both remain at former level
-
-
-
 
 
 ==== Copa Paceña  ‹§copa›

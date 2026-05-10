@@ -1,17 +1,12 @@
-  <!--
-     title:   Trinidad and Tobago 2025/26
-     source:  https://rsssf.org/tablest/trin2026.html
-     author:  Karel Stokkermans
-     updated: 12 Apr 2026
-    -->
+<!--
+   title:   Trinidad and Tobago 2025/26
+   source:  https://rsssf.org/tablest/trin2026.html
+   author:  Karel Stokkermans
+   updated: 12 Apr 2026
+  -->
 
 
 == Trinidad and Tobago 2025/26
-
-
-
-
-
 ==== Professional League  ‹§prof›
 
 Final Table:

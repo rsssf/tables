@@ -1,13 +1,12 @@
-  <!--
-     title:   World Cup 1982
-     source:  https://rsssf.org/tables/82f.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 5 Jul 2018
-    -->
+<!--
+   title:   World Cup 1982
+   source:  https://rsssf.org/tables/82f.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 5 Jul 2018
+  -->
 
 
 == World Cup 1982 (Spain, June 13-July 11)
-
 
 FIRST PHASE
 
@@ -109,11 +108,5 @@ Scorers: 57' Rossi 1-0; 69' Tardelli 2-0; 81' Altobelli 3-0;
          83' Breitner 3-1.
 
 Topscorer: Rossi (Italy) 6 goals.
-
-
-
-
-
-
 
 

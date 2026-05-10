@@ -1,17 +1,12 @@
-  <!--
-     title:   Mauritius 2024/25
-     source:  https://rsssf.org/tablesm/mauri2025.html
-     author:  Karel Stokkermans
-     updated: 14 Dec 2025
-    -->
+<!--
+   title:   Mauritius 2024/25
+   source:  https://rsssf.org/tablesm/mauri2025.html
+   author:  Karel Stokkermans
+   updated: 14 Dec 2025
+  -->
 
 
 == Mauritius 2024/25
-
-
-
-
-
 ==== Premier League 2024/25  ‹§prem›
 
 Final Table:
@@ -220,12 +215,7 @@ Final Table:
 10.Grande Rivière Sud Est Wanderers SC    18   1  5 12  20-50   8       Relegated
 
 
-
-
-
 ==== Cup Tournaments 2025  ‹§coupes›
-
-
 ===== MFA Cup  ‹§mfa›
 
 Round 1
@@ -320,9 +310,6 @@ Final [Jun 22]
 La Cure Waves                3-0 Chebel Citizens              [aet]
 
 
-
-
-
 ==== National Division 1  ‹§div1›
 
 Final Table:
@@ -339,9 +326,6 @@ Final Table:
 -----------------------------------------------------------------
  9.US Trou-aux-Biches                     18   2  4 12  20-46  10       Relegated
 10.Savanne SC                             18   2  1 15  15-52   7  [R]  Relegated
-
-
-
 
 
 ==== National Division 2  ‹§div2›

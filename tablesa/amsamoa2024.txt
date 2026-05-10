@@ -1,17 +1,12 @@
-  <!--
-     title:   American Samoa 2024
-     source:  https://rsssf.org/tablesa/amsamoa2024.html
-     author:  Karel Stokkermans
-     updated: 8 Jan 2025
-    -->
+<!--
+   title:   American Samoa 2024
+   source:  https://rsssf.org/tablesa/amsamoa2024.html
+   author:  Karel Stokkermans
+   updated: 8 Jan 2025
+  -->
 
 
 == American Samoa 2024
-
-
-
-
-
 ==== FFAS National League 2024  ‹§ffas›
 
 Final Table:

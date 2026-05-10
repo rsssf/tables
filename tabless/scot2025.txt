@@ -1,19 +1,13 @@
-  <!--
-     title:   Scotland 2024/25
-     source:  https://rsssf.org/tabless/scot2025.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 8 Sep 2025
-    -->
+<!--
+   title:   Scotland 2024/25
+   source:  https://rsssf.org/tabless/scot2025.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 8 Sep 2025
+  -->
 
 
 == Scotland 2024/25
-
-
-
-
-
 ==== Premiership  ‹§premier›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -473,10 +467,6 @@ Final Table:
 11.Ross County          38   9 10 19  37-65  37       Relegation Playoff
 -----------------------------------------------
 12.Saint Johnstone      38   9  5 24  38-68  32       Relegated
-
-
-
-
 
 
 ==== Highland Amateur Cup 2025  ‹§hama›

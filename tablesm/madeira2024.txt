@@ -1,17 +1,12 @@
-  <!--
-     title:   Madeira 2023/24
-     source:  https://rsssf.org/tablesm/madeira2024.html
-     author:  José Batalha
-     updated: 13 May 2024
-    -->
+<!--
+   title:   Madeira 2023/24
+   source:  https://rsssf.org/tablesm/madeira2024.html
+   author:  José Batalha
+   updated: 13 May 2024
+  -->
 
 
 == Madeira 2023/24
-
-
-
-
-
 ==== Divisão Honra  ‹§hon›
 
 Participants:
@@ -277,10 +272,6 @@ Final Table:
 12.CS Juventude de Gaula    22   1  5 16  25-49   8                        Relegated
 
 
-
-
-
-
 ==== Taça da Madeira  ‹§taca›
 
 Round 1 [Dec 9]
@@ -313,10 +304,6 @@ Os Xavelhas            1-1 1º Maio Funchal        [5-3 pen]
 
 Final [May 12]
 Juventude de Gaula     2-2 Os Xavelhas            [aet, 3-2 pen]
-
-
-
-
 
 
 ==== 1ª Divisão  ‹§1div›
@@ -511,9 +498,5 @@ Final Table:
  8.CD Ribeira Brava (B)     18   3  7  8  25-32  16
  9.CF Carvalheiro           18   4  3 11  24-38  15
 10.UD Santana               18   2  1 15  10-56   7
-
-
-
-
 
 

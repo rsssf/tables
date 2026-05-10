@@ -1,22 +1,15 @@
-  <!--
-     title:   Belize 2025/26
-     source:  https://rsssf.org/tablesb/belize2026.html
-     author:  Karel Stokkermans
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Belize 2025/26
+   source:  https://rsssf.org/tablesb/belize2026.html
+   author:  Karel Stokkermans
+   updated: 5 May 2026
+  -->
 
 
 == Belize 2025/26
-
-
-
-
-
 ==== Premier League of Belize 2025/26  ‹§plb›
 
-
 ===== Opening Season 2025  ‹§fall›
-
 
 Final Table:
 
@@ -182,8 +175,6 @@ Second Leg [Dec 13]
 Verdes                    1-0 Progresso
 
 ===== Closing Season 2026  ‹§spring›
-
-
 ====== Regular Stage  ‹§sreg›
 
 Final Table:

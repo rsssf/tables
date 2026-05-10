@@ -1,17 +1,12 @@
-  <!--
-     title:   Maldives 2025/26
-     source:  https://rsssf.org/tablesm/maled2026.html
-     author:  Karel Stokkermans
-     updated: 27 Mar 2026
-    -->
+<!--
+   title:   Maldives 2025/26
+   source:  https://rsssf.org/tablesm/maled2026.html
+   author:  Karel Stokkermans
+   updated: 27 Mar 2026
+  -->
 
 
 == Maldives 2025/26
-
-
-
-
-
 ==== Dhivehi Premier League 2025/26  ‹§dhivehi›
 
 NB: first league championship since 2023; played Sep 18, 2025 to Feb 6, 2026;

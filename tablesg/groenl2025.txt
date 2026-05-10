@@ -1,22 +1,15 @@
-  <!--
-     title:   Greenland 2025
-     source:  https://rsssf.org/tablesg/groenl2025.html
-     author:  Lorenzo Bigo
-     updated: 30 Aug 2025
-    -->
+<!--
+   title:   Greenland 2025
+   source:  https://rsssf.org/tablesg/groenl2025.html
+   author:  Lorenzo Bigo
+   updated: 30 Aug 2025
+  -->
 
 
 == Greenland 2025
-
-
-
-
-
 ==== Angutit Inersimasut Isikkamik arsarluni NP 2025  ‹§gm›
 
-
 ===== Qualifying Stage  ‹§qual›
-
 
 Nordgrønland and Diskobugten  ‹§north›
 
@@ -158,9 +151,6 @@ Niels Erik Eriksen           (G-44)
 Søren Kreutzmann             (B-67)       [player of the Year]
 
 
-
-
-
 ==== Nan Cup 2025  ‹§nan›
 
 NB: played in Nanortalik, Jun 29-Jul 4
@@ -200,9 +190,6 @@ Final [Jul 4]
 Arssak-50         4-2 Siuteroq-43
 
 
-
-
-
 ==== Qeqertalik Cup 2025  ‹§qeqer›
 
 Played in Niaqornaarsuk over the Easter holidays on a snowcovered pitch
@@ -237,9 +224,6 @@ Aqisseq Oldboys   bt  Sarfaq-62 I
 
 Final [Apr 21]
 Aqisseq Oldboys   3-0 A-69
-
-
-
 
 
 ==== Upernavik District Cup 2025  ‹§upd›
@@ -305,9 +289,6 @@ Final Match [Aug 20]
 UB-83             2-0 N-71
 
 
-
-
-
 ==== Avani Cup 2025  ‹§avani›
 
 NB: played in Uummannaq; started Aug 25
@@ -329,9 +310,6 @@ Final Table:
 
 Final [Aug 29]
 Eqaluk-56         6-5 Amaroq
-
-
-
 
 
 ==== Friendly Match  ‹§friend›

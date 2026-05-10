@@ -1,17 +1,12 @@
-  <!--
-     title:   Spain 2016/17
-     source:  https://rsssf.org/tabless/span2017.html
-     author:  Karel Stokkermans
-     updated: 18 Jul 2019
-    -->
+<!--
+   title:   Spain 2016/17
+   source:  https://rsssf.org/tabless/span2017.html
+   author:  Karel Stokkermans
+   updated: 18 Jul 2019
+  -->
 
 
 == Spain 2016/17
-
-
-
-
-
 ==== Primera División  ‹§laliga›
 
 Final Table:
@@ -656,9 +651,6 @@ Final Table:
 20.Granada CF                    38   4  8 26  30-82  20                   Relegated
 
 
-
-
-
 ==== Copa del Rey  ‹§coparey›
 
 Round 1 [Aug 31]
@@ -833,9 +825,6 @@ Deportivo Alavés          1-0 RC Celta de Vigo
 
 Final [May 27, Madrid]
 FC Barcelona              3-1 Deportivo Alavés
-
-
-
 
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›

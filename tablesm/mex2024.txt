@@ -1,22 +1,15 @@
-  <!--
-     title:   Mexico 2023/24
-     source:  https://rsssf.org/tablesm/mex2024.html
-     author:  Erik Francisco Lugo
-     updated: 2 Dec 2024
-    -->
+<!--
+   title:   Mexico 2023/24
+   source:  https://rsssf.org/tablesm/mex2024.html
+   author:  Erik Francisco Lugo
+   updated: 2 Dec 2024
+  -->
 
 
 == Mexico 2023/24
-
-
-
-
-
 ==== Liga MX  ‹§pdn›
 
-
 ===== Apertura 2023  ‹§1aper›
-
 
 Regular Stage  ‹§apreg›
 
@@ -624,7 +617,6 @@ Patricio Salas                          FW
 Coach: Andre Jardine
 
 ===== Clausura 2024  ‹§1clau›
-
 
 Regular Stage  ‹§clreg›
 
@@ -1243,17 +1235,9 @@ Julián Quiñones                         FW (Colombia/Mexico)
 Javairo Dilrosun                        FW (Netherlands)
 
 
-
-
-
-
 ==== Campeón de Campeones  ‹§campcamp›
 
 Not held; América automatically won the trophy as winners of ‹Apertura 2023, see §1aper› and ‹Clausura 2024, see §1clau›.
-
-
-
-
 
 
 ==== Supercopa de la Liga MX (SuperCopa LMX)  ‹§supcopa›
@@ -1266,16 +1250,8 @@ América              2-1 Tigres
   [Javairo Dilrosun 23, Henry Josué Martín 34; Juan Brunetta 6]
 
 
-
-
-
-
-
 ==== Liga Expansión MX  ‹§ascenso›
-
-
 ===== Apertura 2023  ‹§2aper›
-
 
 ====== Regular Stage  ‹§2aperreg›
 
@@ -1634,8 +1610,6 @@ Cancún FC        3-0 Atlante
 
 
 ===== Clausura 2024  ‹§2clau›
-
-
 ====== Regular Stage  ‹§2claureg›
 
 Participants:
@@ -2019,6 +1993,5 @@ Cancún FC        1-1 Atlante
 Second leg [May 22]
 Estadio de la Ciudad de los Deportes (Azulgrana), Ciudad de México
 Atlante          0-0 Cancún FC        [aet; 1-3pen]
-
 
 

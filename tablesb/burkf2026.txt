@@ -1,17 +1,12 @@
-  <!--
-     title:   Burkina Faso 2025/26
-     source:  https://rsssf.org/tablesb/burkf2026.html
-     author:  Karel Stokkermans
-     updated: 16 Apr 2026
-    -->
+<!--
+   title:   Burkina Faso 2025/26
+   source:  https://rsssf.org/tablesb/burkf2026.html
+   author:  Karel Stokkermans
+   updated: 16 Apr 2026
+  -->
 
 
 == Burkina Faso 2025/26
-
-
-
-
-
 ==== Ligue 1  ‹§premiere›
 
 Table:

@@ -1,17 +1,12 @@
-  <!--
-     title:   Mauritius 2025/26
-     source:  https://rsssf.org/tablesm/mauri2026.html
-     author:  Karel Stokkermans
-     updated: 23 Apr 2026
-    -->
+<!--
+   title:   Mauritius 2025/26
+   source:  https://rsssf.org/tablesm/mauri2026.html
+   author:  Karel Stokkermans
+   updated: 23 Apr 2026
+  -->
 
 
 == Mauritius 2025/26
-
-
-
-
-
 ==== Premier League 2025/26  ‹§prem›
 
 Table:

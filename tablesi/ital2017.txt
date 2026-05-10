@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 2016/17
-     source:  https://rsssf.org/tablesi/ital2017.html
-     author:  Karel Stokkermans
-     updated: 31 Aug 2017
-    -->
+<!--
+   title:   Italy 2016/17
+   source:  https://rsssf.org/tablesi/ital2017.html
+   author:  Karel Stokkermans
+   updated: 31 Aug 2017
+  -->
 
 
 == Italy 2016/17
-
-
-
-
-
 ==== Serie A  ‹§seriea›
 
 Final Table:
@@ -619,10 +614,6 @@ Final Table:
 20.Delfino Pescara     38   3  9 26  37-81  18        [P]  Relegated
 
 
-
-
-
-
 ==== Coppa Italia  ‹§coppa›
 
 Round 1
@@ -835,13 +826,7 @@ Juventus: Neto, Barzagli, Bonucci, Chiellini, Dani Alves,
   Higuain. Tr.: Allegri
 
 
-
-
-
-
 ==== Serie B  ‹§serieb›
-
-
 ===== Regular Season  ‹§2reg›
 
 Final Table:

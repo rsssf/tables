@@ -1,17 +1,12 @@
-  <!--
-     title:   Liberia 2025/26
-     source:  https://rsssf.org/tablesl/liber2026.html
-     author:  Karel Stokkermans
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Liberia 2025/26
+   source:  https://rsssf.org/tablesl/liber2026.html
+   author:  Karel Stokkermans
+   updated: 5 May 2026
+  -->
 
 
 == Liberia 2025/26
-
-
-
-
-
 ==== First Division 2025/26  ‹§first›
 
 Table:

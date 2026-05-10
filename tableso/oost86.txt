@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1985/86
-     source:  https://rsssf.org/tableso/oost86.html
-     author:  Ambrosius Kutschera
-     updated: 31 Aug 2003
-    -->
+<!--
+   title:   Austria 1985/86
+   source:  https://rsssf.org/tableso/oost86.html
+   author:  Ambrosius Kutschera
+   updated: 31 Aug 2003
+  -->
 
 
 == Austria 1985/86
@@ -456,15 +456,5 @@ Promoted to the 2.Bundesliga:
 Union Vöcklamarkt (Mitte)
 VfB Mödling (Ost)
 SK Kufstein (West)
-
-
-
-
-
-
-
-
-
-
 
 

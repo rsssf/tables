@@ -1,9 +1,9 @@
-  <!--
-     title:   Mexico 1999/2000
-     source:  https://rsssf.org/tablesm/mex00.html
-     authors: José de Jesus Mora Rivera, Erik Francisco Lugo and Roberto Lahsen
-     updated: 12 May 2022
-    -->
+<!--
+   title:   Mexico 1999/2000
+   source:  https://rsssf.org/tablesm/mex00.html
+   authors: José de Jesus Mora Rivera, Erik Francisco Lugo and Roberto Lahsen
+   updated: 12 May 2022
+  -->
 
 
 == Mexico 1999/2000
@@ -1229,7 +1229,6 @@ Promoted: Irapuato
 Relegated: Toros Neza
 
 
-
 Mexico 1999/2000 Primera División A (Second Level)
 
 Invierno 1999
@@ -2141,6 +2140,5 @@ Promoted from third level: Potros Marte
 Relegates to third level: Halcones Querétaro
 
 Halcones Querétaro bought the license of Jaguares Colima and remains in second level.
-
 
 

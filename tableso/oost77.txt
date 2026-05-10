@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1976/77
-     source:  https://rsssf.org/tableso/oost77.html
-     author:  Ambrosius Kutschera
-     updated: 10 Oct 2004
-    -->
+<!--
+   title:   Austria 1976/77
+   source:  https://rsssf.org/tableso/oost77.html
+   author:  Ambrosius Kutschera
+   updated: 10 Oct 2004
+  -->
 
 
 == Austria 1976/77
@@ -393,13 +393,5 @@ Promoted to the 2.Division:
 Kapfenberger SV (Mitte)
 ASV Kittsee (Ost)
 ASK Salzburg (West)
-
-
-
-
-
-
-
-
 
 

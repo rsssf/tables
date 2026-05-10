@@ -1,9 +1,9 @@
-  <!--
-     title:   Austria 1995/96
-     source:  https://rsssf.org/tableso/oost96.html
-     authors: Ambrosius Kutschera and Karel Stokkermans
-     updated: 31 Oct 2004
-    -->
+<!--
+   title:   Austria 1995/96
+   source:  https://rsssf.org/tableso/oost96.html
+   authors: Ambrosius Kutschera and Karel Stokkermans
+   updated: 31 Oct 2004
+  -->
 
 
 == Austria 1995/96
@@ -379,7 +379,6 @@ Gerasdorf        0-6 Admira/Wacker
 Admira/Wacker remains in first division.
 
 
-
 Austria, OeFB ("Magnofit") Cup 1995/96
 
 Round 1 (Aug 2 - Aug 22)
@@ -537,7 +536,6 @@ Admira/Wacker: Knaller; Müller (54'I.Ogris), H.Kogler, Graf; Binder, Gager,
 Morous, Rosenegger, Panis (71'Scharrer); Rodax, Mayrleb (63'Klausz).
 
 Referee: Plautz, att: 8800.
-
 
 
 2.Bundesliga
@@ -2422,14 +2420,5 @@ Eighth Level
 14.Kickers 94             30  6  2 22  58-124 20
 15.Dynamo Veloce          30  6  0 24  61-143 18
 16.Suryoyo                30  5  2 23  27-99  17
-
-
-
-
-
-
-
-
-
 
 

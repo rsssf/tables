@@ -1,17 +1,12 @@
-  <!--
-     title:   Spain 2011/12
-     source:  https://rsssf.org/tabless/span2012.html
-     author:  Karel Stokkermans
-     updated: 28 Jan 2021
-    -->
+<!--
+   title:   Spain 2011/12
+   source:  https://rsssf.org/tabless/span2012.html
+   author:  Karel Stokkermans
+   updated: 28 Jan 2021
+  -->
 
 
 == Spain 2011/12
-
-
-
-
-
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
 Final Table:
@@ -37,9 +32,6 @@ Final Table:
 18.Villarreal CF                 38   9 14 15  39-53  41  Relegated
 19.Sporting de Gijón             38  10  7 21  42-69  37  Relegated
 20.Racing de Santander           38   4 15 19  28-63  27  Relegated
-
-
-
 
 
 ==== Copa del Rey  ‹§coparey›
@@ -213,10 +205,6 @@ FC Barcelona              2-0 Valencia CF
 
 Final [May 25, Madrid]
 Athletic Club (Bilbao)    0-3 FC Barcelona
-
-
-
-
 
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›

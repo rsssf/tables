@@ -1,9 +1,9 @@
-  <!--
-     title:   World Cup 1982 Qualifying
-     source:  https://rsssf.org/tables/82q.html
-     authors: Karel Stokkermans and Sergio Henrique Jarreta
-     updated: 3 Jan 2000
-    -->
+<!--
+   title:   World Cup 1982 Qualifying
+   source:  https://rsssf.org/tables/82q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 3 Jan 2000
+  -->
 
 
 == World Cup 1982 Qualifying
@@ -431,10 +431,5 @@ Final
 19.12.81  Riyadh          Saudi Arabia     0-5 New Zealand
 Playoff for second place:
 10.01.82  Singapore       New Zealand      2-1 China
-
-
-
-
-
 
 

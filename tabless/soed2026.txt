@@ -1,17 +1,12 @@
-  <!--
-     title:   Sudan 2026
-     source:  https://rsssf.org/tabless/soed2026.html
-     author:  Karel Stokkermans
-     updated: 16 Feb 2026
-    -->
+<!--
+   title:   Sudan 2026
+   source:  https://rsssf.org/tabless/soed2026.html
+   author:  Karel Stokkermans
+   updated: 16 Feb 2026
+  -->
 
 
 == Sudan 206
-
-
-
-
-
 ==== Sudan Premier League  ‹§sfcl›
 
 NB: Al-Hilal and Al-Merreikh enter their reserve sides, as their first teams
@@ -20,8 +15,6 @@ NB: Al-Hilal and Al-Merreikh enter their reserve sides, as their first teams
 ‹Group Stage, see §grp› | ‹Final Stage (Elite League), see §fin›
 
 ===== Group Stage  ‹§grp›
-
-
 ====== Group 1 (East)  ‹§gp1›
 
 Final Table:

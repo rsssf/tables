@@ -1,17 +1,12 @@
-  <!--
-     title:   Brazil 2018
-     source:  https://rsssf.org/tablesb/braz2018.html
-     author:  RSSSF Brazil
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2018
+   source:  https://rsssf.org/tablesb/braz2018.html
+   author:  RSSSF Brazil
+   updated: 8 Dec 2025
+  -->
 
 
 == Brazil 2018
-
-
-
-
-
 ==== Série A  ‹§sa›
 
 Final Table:
@@ -632,10 +627,6 @@ Final Table:
 Promoted: Fortaleza, CSA, Avaí, Goiás
 
 
-
-
-
-
 ==== Copa do Brasil  ‹§cb›
 
 Participants:
@@ -1008,7 +999,6 @@ Fourth Round
                                                 [Paulo Renê 31, Itaqui 46 ; Paulinho 15og]
 
 
-
 Quarterfinals
 
 84 Santos - Cruzeiro                            0-1 (01/08)     2-1 (15/08)     [0-3pen]
@@ -1040,10 +1030,6 @@ FINAL
 CRUZEIRO champions of Copa do Brasil 2018 and classified to Copa Libertadores 2019.
 
 Topscorers: GABRIEL (Santos), NEÍLTON (Vitória) and RÔMULO (Avaí), 4 goals
-
-
-
-
 
 
 ==== Série B  ‹§sb›

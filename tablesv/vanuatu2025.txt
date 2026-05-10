@@ -1,19 +1,13 @@
-  <!--
-     title:   Vanuatu 2024/25
-     source:  https://rsssf.org/tablesv/vanuatu2025.html
-     author:  Karel Stokkermans
-     updated: 16 Oct 2025
-    -->
+<!--
+   title:   Vanuatu 2024/25
+   source:  https://rsssf.org/tablesv/vanuatu2025.html
+   author:  Karel Stokkermans
+   updated: 16 Oct 2025
+  -->
 
 
 == Vanuatu 2024/25
-
-
-
-
-
 ==== VFF Champions League 2025  ‹§nsl›
-
 
 NB: all matches at VFF Freshwater Stadium, Port Vila
 
@@ -74,9 +68,6 @@ Waterfall             3-0 Police
 Final [Jun 21]
 Galaxy                2-1 M3 United             [aet]
   [Bong Kalo 27pen, 2-1; Kerry Iawak 90]
-
-
-
 
 
 ==== PVFA Lik - Super League 2024/25  ‹§pvfasuper›
@@ -190,9 +181,6 @@ Naka                  2-1 Erakor Golden Star    [aet]
 NB: both remain at former level
 
 
-
-
-
 ==== PVFA Lik - Premia Divisen 2024/25  ‹§pvfapremier›
 
 Final Table:
@@ -303,10 +291,6 @@ Second Leg [Jun 7]
 Lakotau               1-4 Pango Green Bird
 
 NB: both remain at former level
-
-
-
-
 
 
 ==== PVFA Lik - Champions Cup 2025  ‹§chamcup›

@@ -1,17 +1,12 @@
-  <!--
-     title:   Portugal 2024/25
-     source:  https://rsssf.org/tablesp/port2025.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 17 May 2025
-    -->
+<!--
+   title:   Portugal 2024/25
+   source:  https://rsssf.org/tablesp/port2025.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 17 May 2025
+  -->
 
 
 == Portugal 2024/25
-
-
-
-
-
 ==== Liga Portugal  ‹§liga1›
 
 Final Table:
@@ -581,10 +576,6 @@ Final Table:
 -------------------------------------------------------
 17.SC Farense                   34   6  9 19  25-46  27        [2 0 1 1 0-1 1]  Relegated
 18.Boavista FC                  34   6  6 22  24-59  24                         Relegated
-
-
-
-
 
 
 ==== League Cup  ‹§leaguecup›

@@ -1,9 +1,9 @@
-  <!--
-     title:   England 1995/96
-     source:  https://rsssf.org/tablese/eng96.html
-     authors: Michael Heneghan, Ken Fox, Stephen Mulrine and Rob Monger
-     updated: 7 Jul 2004
-    -->
+<!--
+   title:   England 1995/96
+   source:  https://rsssf.org/tablese/eng96.html
+   authors: Michael Heneghan, Ken Fox, Stephen Mulrine and Rob Monger
+   updated: 7 Jul 2004
+  -->
 
 
 == England 1995/96
@@ -1037,7 +1037,6 @@ U=UEFA Cup 1996/97
 2=Qualified for Cup Winners Cup
 
 
-
 England FA Cup 1995/96
 
 Fourth Qualifying Round
@@ -1282,7 +1281,6 @@ Manchester United          1  Liverpool                  0 [at Wembley]
 85' Cantona 1-0
 
 
-
 England League Cup 1995/96
 
 Third Round (1/16 Finals)
@@ -1351,7 +1349,6 @@ Final, March 24
 Aston Villa                3  Leeds United               0
 
 
-
 England 1995/96 First Division (Second Level)
 
 FINAL TABLE
@@ -1400,7 +1397,6 @@ Date: 27th May  Endsleigh League Division One Playoff Final  Season 1995/96
                                         Claridge 120       Att: 73573
 
 Leicester City are promoted to the FA Carling Premiership.
-
 
 
 England 1995/96 Second Division (Third Level)
@@ -1453,7 +1449,6 @@ Date: 26th May  Endsleigh League Division Two Playoff Final  Season 1995/96
 Bradford City are promoted to Division One.
 
 
-
 England 1995/96 Third Division (Fourth Level)
 
                                     HOME             AWAY
@@ -1499,7 +1494,6 @@ Final: (Saturday May 25th)
 Plymouth Argyle   1-0 Darlington
 
 
-
 England Fifth Level (Conference)
 
                                     HOME             AWAY
@@ -1530,7 +1524,6 @@ England Fifth Level (Conference)
  22 Dagenham and Redbridge    42  5  7  9  31  34  2  5 14  13  40 -30  0  33
 
 Stevenage are not eligible for the Football League, so they won't go up.
-
 
 
 England 1995/96 Sixth Level (Conference Feeder Leagues)
@@ -3526,14 +3519,5 @@ Walton & Hersham............42  9  7 26  42:79  34 R
 Worthing....................42  4  7 31  42:106 19 R
 
 R - relegated
-
-
-
-
-
-
-
-
-
 
 

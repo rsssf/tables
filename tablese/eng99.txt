@@ -1,13 +1,12 @@
-  <!--
-     title:   England 1998/99
-     source:  https://rsssf.org/tablese/eng99.html
-     author:  RSSSF
-     updated: 20 Dec 1999
-    -->
+<!--
+   title:   England 1998/99
+   source:  https://rsssf.org/tablese/eng99.html
+   author:  RSSSF
+   updated: 20 Dec 1999
+  -->
 
 
 == England 1998/99
-
 
 Premiership
 
@@ -1104,13 +1103,5 @@ Lancaster City..............42 11 13 18  50:62  46
 Bishop Auckland.............42 10 15 17  49:67  45
 Chorley.....................42  8 15 19  45:68  39
 Accrington Stanley..........42  9  9 24  47:77  36
-
-
-
-
-
-
-
-
 
 

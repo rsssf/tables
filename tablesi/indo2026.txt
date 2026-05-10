@@ -1,17 +1,12 @@
-  <!--
-     title:   Indonesia 2025/26
-     source:  https://rsssf.org/tablesi/indo2026.html
-     author:  Karel Stokkermans
-     updated: 5 Apr 2026
-    -->
+<!--
+   title:   Indonesia 2025/26
+   source:  https://rsssf.org/tablesi/indo2026.html
+   author:  Karel Stokkermans
+   updated: 5 Apr 2026
+  -->
 
 
 == Indonesia 2025/26
-
-
-
-
-
 ==== Liga 1  ‹§liga1›
 
 Table:
@@ -468,9 +463,6 @@ Table:
 18.PSBS (Biak Numfor)                 25   4  6 15  27-53  18
 
 [*] Dewa United were renamed Dewa United Banten and relocated from Tangerang to Serang
-
-
-
 
 
 ==== Piala Presiden 2025  ‹§ppr›

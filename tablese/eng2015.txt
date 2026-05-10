@@ -1,17 +1,12 @@
-  <!--
-     title:   England 2014/15
-     source:  https://rsssf.org/tablese/eng2015.html
-     authors: Ian King and Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   England 2014/15
+   source:  https://rsssf.org/tablese/eng2015.html
+   authors: Ian King and Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
 
 == England 2014/15
-
-
-
-
-
 ==== Premier League  ‹§premier›
 
 Final Table:
@@ -612,13 +607,7 @@ Final Table:
 20.Queens Park Rangers     38   8  6 24  42-73  30  Relegated
 
 
-
-
-
-
 ==== Cup Tournaments  ‹§cups›
-
-
 ===== FA Cup  ‹§facup›
 
 Round 1
@@ -967,13 +956,7 @@ Final [Mar 1, London]
 Chelsea                 2-0 Tottenham Hotspur
 
 
-
-
-
-
 ==== Championship  ‹§champ›
-
-
 ===== Regular Stage  ‹§2reg›
 
 Final Table:
@@ -1026,13 +1009,7 @@ Final [May 25]
 Norwich       2-0 Middlesbrough
 
 
-
-
-
-
 ==== Division 1  ‹§first›
-
-
 ===== Regular Stage  ‹§3reg›
 
 Final Table:
@@ -1083,13 +1060,7 @@ Final [May 24]
 Preston       4-0 Swindon
 
 
-
-
-
-
 ==== Division 2  ‹§second›
-
-
 ===== Regular Stage  ‹§4reg›
 
 Final Table:
@@ -1140,13 +1111,7 @@ Final [May 23]
 Wycombe       1-1 Southend      [aet, 6-7 pen]
 
 
-
-
-
-
 ==== Conference  ‹§conf›
-
-
 ===== Regular Stage  ‹§5reg›
 
 Final Table:

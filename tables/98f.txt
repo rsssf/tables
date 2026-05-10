@@ -1,13 +1,12 @@
-  <!--
-     title:   World Cup 1998
-     source:  https://rsssf.org/tables/98f.html
-     author:  Karel Stokkermans
-     updated: 5 Jul 2018
-    -->
+<!--
+   title:   World Cup 1998
+   source:  https://rsssf.org/tables/98f.html
+   author:  Karel Stokkermans
+   updated: 5 Jul 2018
+  -->
 
 
 == World Cup 1998 (France, June 10-July 12)
-
 
 FIRST PHASE
 
@@ -133,12 +132,5 @@ Scorers: 27' Zidane 1-0; 45' Zidane 2-0; 90' Petit 3-0.
 Red card: Desailly (68', second yellow).
 
 Topscorer: Suker (Croatia) 6 goals.
-
-
-
-
-
-
-
 
 

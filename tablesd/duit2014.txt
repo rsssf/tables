@@ -1,17 +1,12 @@
-  <!--
-     title:   Germany 2013/14
-     source:  https://rsssf.org/tablesd/duit2014.html
-     author:  Karel Stokkermans
-     updated: 2 Aug 2018
-    -->
+<!--
+   title:   Germany 2013/14
+   source:  https://rsssf.org/tablesd/duit2014.html
+   author:  Karel Stokkermans
+   updated: 2 Aug 2018
+  -->
 
 
 == Germany 2013/14
-
-
-
-
-
 ==== 1. Bundesliga  ‹§1bl›
 
 Final Table:
@@ -539,9 +534,6 @@ Greuther Fürth  1-1 Hamburg
 NB: both remain at former level
 
 
-
-
-
 ==== DFB Pokal  ‹§dfbpokal›
 
 Round 1
@@ -632,9 +624,6 @@ Final [May 17, Berlin]
 Borussia Dortmund      0-2 Bayern München         [aet]
 
 
-
-
-
 ==== 2. Bundesliga  ‹§2bl›
 
 Final Table:
@@ -671,9 +660,6 @@ Second Leg [May 19]
 Bielefeld       2-4 Darmstadt       [aet]
 
 NB: Darmstadt promoted, Bielefeld relegated
-
-
-
 
 
 ==== 3. Liga  ‹§3bl›

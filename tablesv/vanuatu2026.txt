@@ -1,17 +1,12 @@
-  <!--
-     title:   Vanuatu 2025/26
-     source:  https://rsssf.org/tablesv/vanuatu2026.html
-     author:  Karel Stokkermans
-     updated: 16 Apr 2026
-    -->
+<!--
+   title:   Vanuatu 2025/26
+   source:  https://rsssf.org/tablesv/vanuatu2026.html
+   author:  Karel Stokkermans
+   updated: 16 Apr 2026
+  -->
 
 
 == Vanuatu 2025/26
-
-
-
-
-
 ==== PVFA Lik - Super League 2025/26  ‹§pvfasuper›
 
 Final Table:
@@ -108,9 +103,6 @@ Final Table:
 Erakor Golden Star    2-4 Naka
 
 NB: both remain at former level
-
-
-
 
 
 ==== PVFA Lik - Premia Divisen 2025/26  ‹§pvfapremier›
@@ -217,9 +209,6 @@ Mauwia                3-2 United Malampa
 NB: Mauwia promoted, United Malampa relegated
 
 
-
-
-
 ==== PVFA Lik - League 1 2025/26  ‹§pvfalig1›
 
 Tables (Mar 27):
@@ -276,9 +265,6 @@ NB: Shalom relegated, AS Tewalu to ‹promotion/relegation playoff, see §34pror
 AS Tewalu             2-1 Mala
 
 NB: both remain at former level
-
-
-
 
 
 ==== PVFA Lik - League 2 2025/26  ‹§pvfalig2›

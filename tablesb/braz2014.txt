@@ -1,17 +1,12 @@
-  <!--
-     title:   Brazil 2014
-     source:  https://rsssf.org/tablesb/braz2014.html
-     author:  RSSSF Brazil
-     updated: 13 May 2015
-    -->
+<!--
+   title:   Brazil 2014
+   source:  https://rsssf.org/tablesb/braz2014.html
+   author:  RSSSF Brazil
+   updated: 13 May 2015
+  -->
 
 
 == Brazil 2014
-
-
-
-
-
 ==== Série A  ‹§sa›
 
 Final Table:
@@ -623,9 +618,6 @@ Final Table:
 20.Criciúma              38   7 11 20  28-56  32  Relegated
 
 Promoted: Joinville, Ponte Preta, Vasco da Gama, Avaí
-
-
-
 
 
 ==== Copa do Brasil  ‹§cb›

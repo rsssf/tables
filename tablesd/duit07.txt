@@ -1,9 +1,9 @@
-  <!--
-     title:   Germany 2006/07
-     source:  https://rsssf.org/tablesd/duit07.html
-     authors: Lars Kubusch, Daniel Dalence and Anthony Zea
-     updated: 8 May 2008
-    -->
+<!--
+   title:   Germany 2006/07
+   source:  https://rsssf.org/tablesd/duit07.html
+   authors: Lars Kubusch, Daniel Dalence and Anthony Zea
+   updated: 8 May 2008
+  -->
 
 
 == Germany 2006/07
@@ -708,7 +708,6 @@ Final Table:
 18.Borussia Mönchengladbach     34  6  8 20  23-44  26  Relegated
 
 
-
 Cup 2006/07
 
 
@@ -873,7 +872,6 @@ VfL Wolfsburg          0-1 VfB Stuttgart
 
 Final [May 26, Berlin]
 1.FC Nürnberg          3-2 VfB Stuttgart           [aet]
-
 
 
 Second Level 2006/07
@@ -1824,7 +1822,6 @@ Westfalen
 18.VfB Hüls          34  8  6 20 30:63 30 Relegated
 
 
-
 Fifth Level 2006/07
 
 
@@ -2461,7 +2458,6 @@ WÜRTTEMBERG
 16.Spfr Dorfmerkingen       30  4  4 22 36:78 16 Relegated
 
 
-
 Sixth Level 2006/07
 
 BREMEN
@@ -2692,26 +2688,5 @@ Leipzig
 14.SV Eintr. Sermuth       30  6  7 17  27:59 25
 15.Fortuna Leipzig       30  4  6 20  32:83 18 Relegated
 16.FSV Beilrode       30  5  3 22  30:94 18 Relegated
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

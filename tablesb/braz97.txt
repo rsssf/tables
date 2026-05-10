@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1997
-     source:  https://rsssf.org/tablesb/braz97.html
-     authors: Marcelo Leme de Arruda, Miguel Alvim Gonzalez and Julio Bovi Diogo
-     updated: 18 Feb 2000
-    -->
+<!--
+   title:   Brazil 1997
+   source:  https://rsssf.org/tablesb/braz97.html
+   authors: Marcelo Leme de Arruda, Miguel Alvim Gonzalez and Julio Bovi Diogo
+   updated: 18 Feb 2000
+  -->
 
 
 == Brazil 1997
@@ -1691,10 +1691,5 @@ Table:
 ----------------------------------------------------
  3. Francana(SP)      6   2   1   3   6   8   7
  4. Tupi(MG)               6   2   0   4   5  10   6
-
-
-
-
-
 
 

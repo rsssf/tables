@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 2013/14
-     source:  https://rsssf.org/tablesi/ital2014.html
-     author:  Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   Italy 2013/14
+   source:  https://rsssf.org/tablesi/ital2014.html
+   author:  Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
 
 == Italy 2013/14
-
-
-
-
-
 ==== Serie A  ‹§seriea›
 
 Final Table:
@@ -619,10 +614,6 @@ Final Table:
 20.AS Livorno          38   6  7 25  39-77  25  Relegated
 
 
-
-
-
-
 ==== Coppa Italia  ‹§coppa›
 
 First Round
@@ -833,13 +824,7 @@ Fiorentina: Neto, Gonzalo Rodriguez, Savic, Pasqual (56 Mati
  Vargas, Joaquin (72 Rossi G.), Ilicic. Tr.: Montella
 
 
-
-
-
-
 ==== Serie B  ‹§serieb›
-
-
 ===== Regular Season  ‹§2reg›
 
 Final Table:

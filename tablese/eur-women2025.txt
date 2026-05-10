@@ -1,15 +1,12 @@
-  <!--
-     title:   European Women Championship 2025
-     source:  https://rsssf.org/tablese/eur-women2025.html
-     author:  Roberto Di Maggio
-     updated: 8 Aug 2025
-    -->
+<!--
+   title:   European Women Championship 2025
+   source:  https://rsssf.org/tablese/eur-women2025.html
+   author:  Roberto Di Maggio
+   updated: 8 Aug 2025
+  -->
 
 
 == European Women Championship 2025
-
-
-
 ==== Qualifying Tournament
 
 NB: Switzerland qualified as hosts of ‹Final Tournament, see §final›.
@@ -17,19 +14,11 @@ NB: Switzerland qualified as hosts of ‹Final Tournament, see §final›.
     ‹Women Nations League, see page ../tablesu/uefawnl› following the results of the ‹2023-24 edition, see page ../tables/2024wuefanl›.
 
 
-
-
-
-
 ‹League A, see §lga›
 ‹League B, see §lgb›
 ‹League C, see §lgc›
 ‹Playoffs, see §play›
 ‹Final Tournament, see §final›
-
-
-
-
 
 
 ==== League A  ‹§lga›
@@ -115,9 +104,6 @@ NB: top-2 of each group qualified to the Final Tournament;
     each group relegated to League B for the 2025 Women's Nations League edition.
 
 
-
-
-
 ==== League B  ‹§lgb›
 
 Group 1
@@ -201,9 +187,6 @@ NB: Group winners promoted to League A for the 2025 Women's Nations League editi
     qualified) advanced to Playoff round.
     Last team of each group and the worst third placed team relegated to League C
     for the 2025 Women's Nations League edition.
-
-
-
 
 
 ==== League C  ‹§lgc›
@@ -300,9 +283,6 @@ NB: Group winners promoted to League B for the 2025 Women's Nations League editi
     Group winners and the best three runners-up teams advanced to Playoff round.
 
 
-
-
-
 ==== Playoffs  ‹§play›
 
 First Round
@@ -373,9 +353,6 @@ Second Round
  3-12-24 Stockholm     Sweden              6-0 Serbia
 
 NB: second round winners qualified for ‹Final Tournament, see §final›
-
-
-
 
 
 ==== Final Tournament  ‹§final›

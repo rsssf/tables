@@ -1,9 +1,9 @@
-  <!--
-     title:   USA 2001
-     source:  https://rsssf.org/tablesu/usa01.html
-     author:  Dave Litterer
-     updated: 11 Jan 2003
-    -->
+<!--
+   title:   USA 2001
+   source:  https://rsssf.org/tablesu/usa01.html
+   author:  Dave Litterer
+   updated: 11 Jan 2003
+  -->
 
 
 == USA 2001
@@ -361,7 +361,6 @@ MLS Cup Final [Oct 21, Columbus, Ohio]
 Los Angeles Galaxy   1-2 San Jose Earthquakes    [aet]
 
 
-
                                THE A-LEAGUE (2nd Division)
 
                             GP   W   D   L   GF  GA  BP Pts
@@ -627,16 +626,5 @@ Utah Freezz                24  10  14   .417  113  121
 Semifinals:       San Diego defeated St. Louis 7-5, 1-0, 4-0
                   Dallas defeated Sacramento 2-1, 5-4
 CHAMPIONSHIP:     Dallas defeated San Diego 6-3, ___
-
-
-
-
-
-
-
-
-
-
-
 
 

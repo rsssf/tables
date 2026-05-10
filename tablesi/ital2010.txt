@@ -1,17 +1,12 @@
-  <!--
-     title:   Italy 2009/10
-     source:  https://rsssf.org/tablesi/ital2010.html
-     authors: Giacomo Giusti and Andrea Ferrigno
-     updated: 7 Feb 2013
-    -->
+<!--
+   title:   Italy 2009/10
+   source:  https://rsssf.org/tablesi/ital2010.html
+   authors: Giacomo Giusti and Andrea Ferrigno
+   updated: 7 Feb 2013
+  -->
 
 
 == Italy 2009/10
-
-
-
-
-
 ==== Serie A  ‹§seriea›
 
 Final Table:
@@ -1062,12 +1057,7 @@ Final Table:
 20.AS Livorno Calcio   38  7  8 23  27-61  29  Relegated
 
 
-
-
-
-
 ==== Coppa Italia  ‹§coppa›
-
 
 Round 1
 [Aug 2]
@@ -1290,13 +1280,7 @@ Inter: Julio Cesar, Cordoba (39 Samuel), Maicon, Materazzi, Chivu,
 ref: Rizzoli
 
 
-
-
-
-
-
 ==== Super Cup 2010  ‹§supcoppa›
-
 
 [Aug 21, stadio San Siro, Milan]
 Inter                 3-1 Roma
@@ -1311,13 +1295,7 @@ Inter: Julio Cesar, Maicon, Lucio, Samuel, Chivu, Zanetti (46 Stankovic),
 ref: Bergonzi
 
 
-
-
-
-
 ==== Serie B  ‹§serieb›
-
-
 ===== Regular Season  ‹§2reg›
 
 Final Table:
@@ -2259,14 +2237,7 @@ Calcio Padova s.p.a.                   - Unione Sportiva Triestina Calcio s.p.a.
 In playoff tie if both teams are at the same level of goals the tie breaker is the final position in regular season
 
 
-
-
-
-
-
 ==== Prima Divisione  ‹§prima›
-
-
 ===== Gruppo A  ‹§3a›
 
 Final Table:
@@ -3108,13 +3079,7 @@ C. Portogruaro Summaga S.R.L.          - Novara Calcio S.P.A.                   
 Novara Calcio S.P.A. wins the Prima Divisione Lega Pro Supercup 2009-2010
 
 
-
-
-
-
 ==== Seconda Divisione  ‹§seconda›
-
-
 ===== Gruppo A  ‹§4a›
 
 Final Table:
@@ -4387,14 +4352,7 @@ Round 3
 A.S. Lucchese Libertas 1905 S.R.L. 4-2 S.S. Juve Stabia S.P.A.
 
 
-
-
-
-
-
 ==== Serie D  ‹§seried›
-
-
 ===== Gruppo A  ‹§5a›
 
 Final Table:

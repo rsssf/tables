@@ -1,23 +1,15 @@
-  <!--
-     title:   Malta 2024/25
-     source:  https://rsssf.org/tablesm/malt2025.html
-     author:  Karel Stokkermans
-     updated: 9 Oct 2025
-    -->
+<!--
+   title:   Malta 2024/25
+   source:  https://rsssf.org/tablesm/malt2025.html
+   author:  Karel Stokkermans
+   updated: 9 Oct 2025
+  -->
 
 
 == Malta 2024/25
-
-
-
-
-
 ==== Premier League  ‹§premier›
 
-
 ===== Opening Round  ‹§op›
-
-
 ====== Regular Stage  ‹§opreg›
 
 Final Table:
@@ -171,7 +163,6 @@ Final Table:
 
 ====== Playoff Stage  ‹§opplay›
 
-
 Top-6 Playoff  ‹§optop›
 
 Final Table:
@@ -279,8 +270,6 @@ Final Table:
 12.Naxxar Lions             16   2  6  8  13-28  12       ‹Relegation Playoff, see §relfin4›
 
 ===== Closing Round  ‹§cl›
-
-
 ====== Regular Stage  ‹§clreg›
 
 Final Table:
@@ -435,7 +424,6 @@ Final Table:
 
 ====== Playoff Stage  ‹§opplay›
 
-
 Top-6 Playoff  ‹§cltop›
 
 Final Table:
@@ -589,9 +577,6 @@ Naxxar L.     1-0 Melita
 NB: Melita relegated
 
 
-
-
-
 ==== FA Trophy  ‹§trophy›
 
 NB: Gozo clubs in italics
@@ -625,13 +610,7 @@ Final [May 18]
 Birkirkara    1-2 Hibernians
 
 
-
-
-
-
 ==== Challenge League  ‹§first›
-
-
 ===== Regular Stage  ‹§2reg›
 
 Final Table:
@@ -655,8 +634,6 @@ Final Table:
 16.Mtarfa                   15   2  1 12  10-30   7  [P]  ‹Relegation Playoff, see §2relpo›
 
 ===== Playoff Stage  ‹§2play›
-
-
 ====== Promotion Playoff  ‹§2prpo›
 
 Final Table:
@@ -686,13 +663,7 @@ Final Table:
 16.Senglea Athletic         22   3  5 14  20-38  14       Relegated
 
 
-
-
-
-
 ==== National Amateur League I  ‹§second›
-
-
 ===== Regular Stage  ‹§3reg›
 
 Final Table:
@@ -716,8 +687,6 @@ Final Table:
 16.Msida St. Joseph         15   0  4 11  13-39   4  [R]  ‹Relegation Playoff, see §3relpo›
 
 ===== Playoff Stage  ‹§3play›
-
-
 ====== Promotion Playoff  ‹§3prpo›
 
 Final Table:
@@ -752,13 +721,7 @@ Final Table:
 16.Msida St. Joseph         24   0  5 19  18-65   5  [R]  Relegated
 
 
-
-
-
-
 ==== National Amateur League II  ‹§third›
-
-
 ===== Regular Stage  ‹§4reg›
 
 Final Table:

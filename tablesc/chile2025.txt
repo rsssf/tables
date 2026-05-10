@@ -1,17 +1,12 @@
-  <!--
-     title:   Chile 2025
-     source:  https://rsssf.org/tablesc/chile2025.html
-     author:  Karel Stokkermans
-     updated: 19 Dec 2025
-    -->
+<!--
+   title:   Chile 2025
+   source:  https://rsssf.org/tablesc/chile2025.html
+   author:  Karel Stokkermans
+   updated: 19 Dec 2025
+  -->
 
 
 == Chile 2025
-
-
-
-
-
 ==== Primera División 2025  ‹§primera›
 
 Final Table:
@@ -33,10 +28,6 @@ Final Table:
 --------------------------------------------------------------
 15.Deportes Iquique                    30   6  6 18  34-60  24       Relegated
 16.Unión Española (Santiago)           30   6  3 21  33-58  21       Relegated
-
-
-
-
 
 
 ==== Copa Chile 2025  ‹§copa›
@@ -107,10 +98,6 @@ La Serena            1-6 Limache
 
 Final [Dec 10]
 Huachipato           1-1 Limache              [4-3 pen]
-
-
-
-
 
 
 ==== Primera B  ‹§segunda›

@@ -1,17 +1,12 @@
-  <!--
-     title:   Montenegro 2024/25
-     source:  https://rsssf.org/tablesm/monteg2025.html
-     author:  Karel Stokkermans
-     updated: 9 Oct 2025
-    -->
+<!--
+   title:   Montenegro 2024/25
+   source:  https://rsssf.org/tablesm/monteg2025.html
+   author:  Karel Stokkermans
+   updated: 9 Oct 2025
+  -->
 
 
 == Montenegro 2024/25
-
-
-
-
-
 ==== Prva Crnogorska Fudbal Liga  ‹§1cfl›
 
 Table:
@@ -348,9 +343,6 @@ Rudar           0-1 Jezero
 NB: all remain at former level
 
 
-
-
-
 ==== Kup Crne Gore  ‹§kcg›
 
 Round 1
@@ -388,9 +380,6 @@ Final [May 29]
 Mornar          0-1 Dečić
 
 
-
-
-
 ==== Druga Liga  ‹§druga›
 
 Final Table:
@@ -419,12 +408,7 @@ Kom             3-1 Sloga
 NB: Ibar relegated, Internacional Podgorica promoted
 
 
-
-
-
-
 ==== Treća Liga  ‹§treca›
-
 ====== Baraža za Drugu Ligu  ‹§drubar›
 
 NB: promotion playoff between three regional league winners; draws are followed

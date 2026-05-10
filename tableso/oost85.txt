@@ -1,13 +1,12 @@
-  <!--
-     title:   Austria 1984/85
-     source:  https://rsssf.org/tableso/oost85.html
-     author:  Ambrosius Kutschera
-     updated: 14 Nov 2003
-    -->
+<!--
+   title:   Austria 1984/85
+   source:  https://rsssf.org/tableso/oost85.html
+   author:  Ambrosius Kutschera
+   updated: 14 Nov 2003
+  -->
 
 
 == Austria 1984/85
-
 
 1.Division
 ----------
@@ -475,13 +474,5 @@ Villacher SV (Mitte)
 1. Schwechater SC (Ost)
 Bregenz/Dornbirn (West) [second team of the "Spielgemeinschaft" of
                          Schwarz-Weiß Bregenz and FC Dornbirn]
-
-
-
-
-
-
-
-
 
 

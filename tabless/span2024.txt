@@ -1,17 +1,12 @@
-  <!--
-     title:   Spain 2023/24
-     source:  https://rsssf.org/tabless/span2024.html
-     author:  Karel Stokkermans
-     updated: 11 Oct 2024
-    -->
+<!--
+   title:   Spain 2023/24
+   source:  https://rsssf.org/tabless/span2024.html
+   author:  Karel Stokkermans
+   updated: 11 Oct 2024
+  -->
 
 
 == Spain 2023/24
-
-
-
-
-
 ==== Primera División  ‹§laliga›
 
 Final Table:
@@ -687,10 +682,6 @@ Final Table:
 20.Granada CF                    38   4  9 25  38-79  21  [P]  [2 0 2 0 4-4 2]  Relegated
 
 
-
-
-
-
 ==== Segunda División  ‹§segunda›
 
 Final Table:
@@ -746,13 +737,7 @@ Second Leg [Jun 23]
 Espanyol                  2-0 Oviedo
 
 
-
-
-
-
 ==== Primera RFEF  ‹§1rfef›
-
-
 ===== Grupo 1  ‹§3g1›
 
 Final Table:

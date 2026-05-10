@@ -1,19 +1,13 @@
-  <!--
-     title:   Serbia 2024/25
-     source:  https://rsssf.org/tabless/serv2025.html
-     author:  Karel Stokkermans
-     updated: 27 May 2025
-    -->
+<!--
+   title:   Serbia 2024/25
+   source:  https://rsssf.org/tabless/serv2025.html
+   author:  Karel Stokkermans
+   updated: 27 May 2025
+  -->
 
 
 == Serbia 2024/25
-
-
-
-
-
 ==== Superliga  ‹§super›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -459,8 +453,6 @@ Final Table:
 16.Jedinstvo (Ub)              30   4  4 22  22-60  16  [P]  ‹Relegation Playoff, see §releg›
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:

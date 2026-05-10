@@ -1,17 +1,12 @@
-  <!--
-     title:   Brazil 2021
-     source:  https://rsssf.org/tablesb/braz2021.html
-     author:  RSSSF Brazil
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2021
+   source:  https://rsssf.org/tablesb/braz2021.html
+   author:  RSSSF Brazil
+   updated: 8 Dec 2025
+  -->
 
 
 == Brazil 2021
-
-
-
-
-
 ==== Série A  ‹§sa›
 
 Final Table:
@@ -638,10 +633,6 @@ Final Table:
 20.Chapecoense           38   1 12 25  27-67  15  [P]  Relegated
 
 
-
-
-
-
 ==== Copa do Brasil 2021  ‹§cb›
 
 1/8 Finals
@@ -710,18 +701,10 @@ Second Leg [Dec 15]
 Athletico/PR    1-2 Atlético/MG
 
 
-
-
-
-
 ==== Supercopa do Brasil 2022  ‹§supcb›
 
 [Feb 20, 2022, Cuiabá]
 Atlético/MG     2-2 Flamengo        [8-7 pen(no extra time)]
-
-
-
-
 
 
 ==== Série B  ‹§sb›
@@ -750,10 +733,6 @@ Final Table:
 18.Vitória               38   8 16 14  31-32  40       Relegated
 19.Confiança             38   9 10 19  35-48  37       Relegated
 20.Brasil de Pelotas     38   4 11 23  23-52  23       Relegated
-
-
-
-
 
 
 ==== Série C  ‹§sc›

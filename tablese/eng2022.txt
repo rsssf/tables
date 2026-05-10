@@ -1,17 +1,12 @@
-  <!--
-     title:   England 2021/22
-     source:  https://rsssf.org/tablese/eng2022.html
-     author:  Ian King
-     updated: 14 Jun 2023
-    -->
+<!--
+   title:   England 2021/22
+   source:  https://rsssf.org/tablese/eng2022.html
+   author:  Ian King
+   updated: 14 Jun 2023
+  -->
 
 
 == England 2021/22
-
-
-
-
-
 ==== Premier League  ‹§premier›
 
 Final Table:
@@ -663,13 +658,7 @@ Final Table:
 20.Norwich City            38   5  7 26  23-84  22  [P]  Relegated
 
 
-
-
-
-
 ==== Championship  ‹§champ›
-
-
 ===== Regular Stage  ‹§2reg›
 
 Final Table:
@@ -721,13 +710,7 @@ Nottingham    1-2 Sheffield U   [aet, 3-2 pen]
 Huddersfield  0-1 Nottingham
 
 
-
-
-
-
 ==== Division 1  ‹§first›
-
-
 ===== Regular Stage  ‹§3reg›
 
 Final Table:
@@ -780,13 +763,7 @@ Final [May 21]
 Wycombe       0-2 Sunderland
 
 
-
-
-
-
 ==== Division 2  ‹§second›
-
-
 ===== Regular Stage  ‹§4reg›
 
 Final Table:
@@ -839,13 +816,7 @@ Final [May 28]
 Mansfield     0-3 Port Vale
 
 
-
-
-
-
 ==== National League  ‹§conf›
-
-
 ===== Regular Stage  ‹§5reg›
 
 Final Table:

@@ -1,17 +1,12 @@
-  <!--
-     title:   Nigeria 2025/26
-     source:  https://rsssf.org/tablesn/nig2026.html
-     author:  Karel Stokkermans
-     updated: 2 Apr 2026
-    -->
+<!--
+   title:   Nigeria 2025/26
+   source:  https://rsssf.org/tablesn/nig2026.html
+   author:  Karel Stokkermans
+   updated: 2 Apr 2026
+  -->
 
 
 == Nigeria 2025/26
-
-
-
-
-
 ==== NPFL 2025/26  ‹§nfl›
 
 Table:

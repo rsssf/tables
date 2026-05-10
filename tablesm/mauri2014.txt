@@ -1,17 +1,12 @@
-  <!--
-     title:   Mauritius 2013/14
-     source:  https://rsssf.org/tablesm/mauri2014.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 1 Apr 2015
-    -->
+<!--
+   title:   Mauritius 2013/14
+   source:  https://rsssf.org/tablesm/mauri2014.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 1 Apr 2015
+  -->
 
 
 == Mauritius 2013/14
-
-
-
-
-
 ==== Premier League 2013/14  ‹§prem›
 
 Final Table:
@@ -217,12 +212,7 @@ Final Table:
 Promoted: La Cure Sylvester, AS Quatre-Bornes
 
 
-
-
-
 ==== Cup Tournaments 2014  ‹§coupes›
-
-
 ===== MFA Cup 2014  ‹§mfa›
 
 1/8 Finals [Jun 8]

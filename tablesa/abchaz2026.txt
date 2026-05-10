@@ -1,17 +1,12 @@
-  <!--
-     title:   Abkhazia 2026
-     source:  https://rsssf.org/tablesa/abchaz2026.html
-     author:  Theodore Dreiman
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Abkhazia 2026
+   source:  https://rsssf.org/tablesa/abchaz2026.html
+   author:  Theodore Dreiman
+   updated: 5 May 2026
+  -->
 
 
 == Abkhazia 2026
-
-
-
-
-
 ==== Aphsny Super Liga  ‹§leag›
 
 NB: 33rd season
@@ -146,10 +141,6 @@ Top scorers:
   Leon Sabwa (Gagra)           3
 
 
-
-
-
-
 ==== Aphsny Cup  ‹§cup›
 
 First Round [Apr 11]
@@ -191,10 +182,6 @@ FC Bzyph           0-6  -   FC Afon Tšhyc
 [Apr 28, May 5]
 Sadz (Candryphšj)  2-3  -   Ritca (Gŭdowtha)
   [1. Georgi Topolyan 37, 58 - Marat Agrba 68, 87; Danil Thania 90+4]
-
-
-
-
 
 
 ==== National Aphsny Football League  ‹§anfl›

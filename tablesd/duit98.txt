@@ -1,9 +1,9 @@
-  <!--
-     title:   Germany 1997/98
-     source:  https://rsssf.org/tablesd/duit98.html
-     authors: Gwidon Naskrent and Daniel Dalence
-     updated: 7 Jun 2005
-    -->
+<!--
+   title:   Germany 1997/98
+   source:  https://rsssf.org/tablesd/duit98.html
+   authors: Gwidon Naskrent and Daniel Dalence
+   updated: 7 Jun 2005
+  -->
 
 
 == Germany 1997/98
@@ -730,7 +730,6 @@ Michael PREETZ (Hertha) - 14
         Martin WAGNER        30  (2223) + 4
 
 
-
 DFB-Pokal
 
 Round 1
@@ -952,23 +951,5 @@ Tennis Borussia Berlin      2-0  Sportfreunde Siegen
  1.Tennis Borussia Berlin    2  2  0  0   4:  1  6 Promoted
  2.Sportfreunde Siegen        2  1  0  1   4:  2  3
  3.Kickers Offenbach       2  0  0  1   1:  6  0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

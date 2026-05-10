@@ -1,17 +1,12 @@
-  <!--
-     title:   Moldova 2025/26
-     source:  https://rsssf.org/tablesm/mold2026.html
-     author:  Theodore Dreiman
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Moldova 2025/26
+   source:  https://rsssf.org/tablesm/mold2026.html
+   author:  Theodore Dreiman
+   updated: 5 May 2026
+  -->
 
 
 == Moldova 2025/26
-
-
-
-
-
 ==== Superliga 2025/26  ‹§nat›
 
 NB: 35th edition
@@ -569,9 +564,6 @@ Spartanii S  -  Iskra
 Real         -  Stauceni
 
 
-
-
-
 ==== Cupa Orange 2025/26  ‹§cupa›
 
 First Preliminary Round [Sep 3. Total Att: 750; Average: 125]
@@ -691,10 +683,6 @@ Semifinals [May 6, 13]
 
 Zimbru (Chișinău)        -   -   Milsami (Orhei)
 Sheriff (Tiraspol)       -   -   Petrocub (Hîncești)
-
-
-
-
 
 
 ==== Liga 1 2025/26  ‹§diva›
@@ -1178,13 +1166,7 @@ Top scorers Liga 1:
   Devonte Marlon Richards (Sp.Sportul)   9  [Barbados]
 
 
-
-
-
-
 ==== Liga 2 2024/25  ‹§divb›
-
-
 ===== Seria Nord  ‹§2nord›
 
 Table:

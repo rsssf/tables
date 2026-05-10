@@ -1,19 +1,13 @@
-  <!--
-     title:   Uruguay 2026
-     source:  https://rsssf.org/tablesu/uru2026.html
-     author:  Francisco Fernández
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Uruguay 2026
+   source:  https://rsssf.org/tablesu/uru2026.html
+   author:  Francisco Fernández
+   updated: 5 May 2026
+  -->
 
 
 == Uruguay 2026
-
-
-
-
-
 ==== Primera División Profesional  ‹§pdp›
-
 
 ===== Torneo Apertura 2026  ‹§aper›
 
@@ -385,7 +379,6 @@ NB: played as single round robin in two groups:
     Group B: 2nd, 3rd, 6th, 7th, 10th, 11th, 14th and 15th teams Apertura
 
 ===== Torneo Clausura 2026  ‹§clau›
-
 ===== Championship Playoff  ‹§play›
 
 Semifinal   ‹§semi›
@@ -395,10 +388,6 @@ NB: over 1 leg; between Racing (winners ‹Apertura, see §aper›) and winners 
 Final  ‹§ovfin›
 
 NB: over 2 legs; between winners Tabla Anual and winners ‹semifinal, see §semi›
-
-
-
-
 
 
 ==== Copa de la Liga AUF Uruguaya 2026  ‹§copaliga›
@@ -453,13 +442,7 @@ Boston River       1-2 Progreso
   [Franco Marcelo Pérez Portillo 51; Facundo De León Raviales 20, Diego Sánchez Richieri 55]
 
 
-
-
-
-
 ==== Segunda División Profesional  ‹§sdp›
-
-
 ===== Competencia  ‹§2comp›
 
 NB: winners qualify for ‹Promotion Playoff, see §tercp›
@@ -677,18 +660,9 @@ Table:
 14.Tacuarembó FC (Tacuarembó)     6   0  3  3   5- 9   3
 
 ===== Promotion Playoff  ‹§tercp›
-
-
-
-
-
-
 ==== Tercera Divisional de AUF  ‹§sgb›
 
-
 ===== Torneo Inicial  ‹§3pri›
-
-
 ====== Group Stage  ‹§31g›
 
 NB: played as single round robin;

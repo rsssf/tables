@@ -1,17 +1,12 @@
-  <!--
-     title:   Tunisia 2024/25
-     source:  https://rsssf.org/tablest/tun2025.html
-     author:  Karel Stokkermans
-     updated: 5 Jun 2025
-    -->
+<!--
+   title:   Tunisia 2024/25
+   source:  https://rsssf.org/tablest/tun2025.html
+   author:  Karel Stokkermans
+   updated: 5 Jun 2025
+  -->
 
 
 == Tunisia 2024/25
-
-
-
-
-
 ==== Ligue Professionnelle 1  ‹§lfp1›
 
 Final Table:
@@ -428,10 +423,6 @@ Final Table:
 16.US Tataouine                    30   5  4 21  19-53  19       Relegated
 
 
-
-
-
-
 ==== Coupe de Tunisie  ‹§coupe›
 
 1/16 Finals
@@ -486,9 +477,6 @@ US Ben Guerdane           0-3 Espérance de Tunis
 Final [Jun 1]
 Espérance de Tunis        1-0 Stade Tunisien
   [Onuche Ogbelu 64]
-
-
-
 
 
 ==== Ligue Professionnelle 2  ‹§lfp2›

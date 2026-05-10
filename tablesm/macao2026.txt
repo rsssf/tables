@@ -1,19 +1,13 @@
-  <!--
-     title:   Macao 2026
-     source:  https://rsssf.org/tablesm/macao2026.html
-     author:  Karel Stokkermans
-     updated: 23 Apr 2026
-    -->
+<!--
+   title:   Macao 2026
+   source:  https://rsssf.org/tablesm/macao2026.html
+   author:  Karel Stokkermans
+   updated: 23 Apr 2026
+  -->
 
 
 == Macao 2026
-
-
-
-
-
 ==== 1a Divisão  ‹§primeira›
-
 
 ===== Regular Stage  ‹§1reg›
 
@@ -136,10 +130,7 @@ Table:
 10.Universidade de Macau               8   0  0  8   6-39   0
 
 ===== Playoff Stage  ‹§1po›
-
-
 ====== Championship Playoff  ‹§1champ›
 
 ====== Relegation Playoff  ‹§1rel›
-
 

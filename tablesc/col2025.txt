@@ -1,23 +1,15 @@
-  <!--
-     title:   Colombia 2025
-     source:  https://rsssf.org/tablesc/col2025.html
-     author:  Karel Stokkermans
-     updated: 29 Dec 2025
-    -->
+<!--
+   title:   Colombia 2025
+   source:  https://rsssf.org/tablesc/col2025.html
+   author:  Karel Stokkermans
+   updated: 29 Dec 2025
+  -->
 
 
 == Colombia 2025
-
-
-
-
-
 ==== Primera División A 2025  ‹§mustang›
 
-
 ===== Torneo Apertura 2025  ‹§1aper›
-
-
 ====== Regular Stage  ‹§1aperreg›
 
 Final Table:
@@ -45,7 +37,6 @@ Final Table:
 20.CD La Equidad (Bogotá)               20   2  4 14  13-35  10
 
 ====== Playoff  ‹§1apercuad›
-
 
 Group Stage  ‹§1apergrp›
 
@@ -76,8 +67,6 @@ Second Leg [Jun 29]
 Medellín           1-2 Santa Fe
 
 ===== Torneo Finalización 2025  ‹§1clau›
-
-
 ====== Regular Stage  ‹§1claureg›
 
 Final Table:
@@ -105,7 +94,6 @@ Final Table:
 20.CD La Equidad (Bogotá)               20   3  5 12  14-29  14
 
 ====== Playoff  ‹§1claucuad›
-
 
 Group Stage  ‹§1claugrp›
 
@@ -162,9 +150,6 @@ NB: decided over points average over last three seasons (2023-2025)
 20.Unión Magdalena (Santa Marta)        0.80  [P]  Relegated
 
 Promoted: Jaguares de Córdoba, Cúcuta Deportivo
-
-
-
 
 
 ==== Copa Colombia 2025  ‹§copa›

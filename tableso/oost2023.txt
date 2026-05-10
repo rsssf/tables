@@ -1,19 +1,13 @@
-  <!--
-     title:   Austria 2022/23
-     source:  https://rsssf.org/tableso/oost2023.html
-     author:  Hans Schöggl
-     updated: 14 Jun 2024
-    -->
+<!--
+   title:   Austria 2022/23
+   source:  https://rsssf.org/tableso/oost2023.html
+   author:  Hans Schöggl
+   updated: 14 Jun 2024
+  -->
 
 
 == Austria 2022/23
-
-
-
-
-
 ==== Bundesliga  ‹§bund›
-
 
 ===== Regular Stage  ‹§reg›
 
@@ -274,8 +268,6 @@ Final Table:
 NB: Austria Wien 3 points deducted
 
 ===== Playoff Stage  ‹§play›
-
-
 ====== Championship Playoff  ‹§champ›
 
 Final Table:
@@ -481,10 +473,6 @@ Topscorers:
    Adamu (Red Bull Salzburg)
 
 
-
-
-
-
 ==== ÖFB Cup  ‹§cup›
 
 Round 1
@@ -580,9 +568,6 @@ SK Sturm Graz                       1-0 LASK
 Final [Apr 30, 28 Black Arena, Klagenfurt; att: 30,000]
 SK Rapid Wien                       0-2 SK Sturm Graz
   [Sarkaria 65, 84]
-
-
-
 
 
 ==== 2. Liga (Second Level)  ‹§1liga›
@@ -1036,13 +1021,7 @@ Final Table:
 16.Young Violets Austria Wien   30   7  8 15  34-61  29       Relegated
 
 
-
-
-
-
 ==== Regionalliga  ‹§regliga›
-
-
 ===== Regionalliga West  ‹§regwest›
 
 Final Table:
@@ -1104,10 +1083,6 @@ Final Table:
 16.ASK-BSC Bruck/Leitha         30   3  3 24  19-80  12       Relegated
 
 [*] FC Marchfeld/Mannsdorf-Großenzersdorf were renamed FC Marchfeld Donauauen
-
-
-
-
 
 
 ==== Cup Tournaments Bundesländer  ‹§bundcup›
