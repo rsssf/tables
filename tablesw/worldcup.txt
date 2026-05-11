@@ -1,0 +1,214 @@
+<!--
+   title:   World Cup
+   source:  https://rsssf.org/tablesw/worldcup.html
+   author:  Karel Stokkermans
+   updated: 24 Dec 2022
+  -->
+
+
+== World Cup 1930-2022
+
+The most important trophy in the world of football, instigated by then
+FIFA president Jules Rimet in the late twenties in the wake of the
+great success of the football tournaments at the Olympics in Paris (1924)
+and Amsterdam (1928), both won by Uruguay.  Until 1978, 16 teams were
+admitted to the final tournament (in 1930 and 1950 this number of
+participants was not reached however), from 1982 up to the 1994 finals,
+24 countries earned the right to play there, while from 1998 onwards 32
+are represented.
+
+The original trophy, the Coupe Jules Rimet, was won outright by Brazil
+after their third win in 1970.  It has since been stolen there and never
+found.
+
+The name of the current trophy is FIFA World Cup.  Argentina and (West)
+Germany have won it three times, Brazil, France and Italy all twice,
+and Spain once.
+
+From the ‹final overview, see §finals› below, you will find links to all
+scores of all qualifying and final tournaments.
+
+From the ‹goal scorers overview, see §goalscorers› (under construction) you
+find tournamentwise lists of all goal scorers (qualifying and final
+tournaments).
+
+From the ‹qualifying tournament overview, see §qualifying› (under construction) you
+find tournamentwise links to match details of the qualifying tournaments.
+
+‹Full details on all matches in final and qualifying tournaments up to and including 1998, see page wcf-full-intro› are now available as well.
+Those of the final tournament (up to and including 2014)
+are also linked from the ‹palmares, see §palmares› section.
+
+
+=== Palmares  ‹§palmares›
+
+‹1930, see page ../tables/30full› Uruguay
+‹1934, see page ../tables/34full› Italy
+‹1938, see page ../tables/38full› Italy
+1942   not held
+1946   not held
+‹1950, see page ../tables/50full› Uruguay
+‹1954, see page ../tables/54full› West Germany
+‹1958, see page ../tables/58full› Brazil
+‹1962, see page ../tables/62full› Brazil
+‹1966, see page ../tables/66full› England
+‹1970, see page ../tables/70full› Brazil
+‹1974, see page ../tables/74full› West Germany
+‹1978, see page ../tables/78full› Argentina
+‹1982, see page ../tables/82full› Italy
+‹1986, see page ../tables/86full› Argentina
+‹1990, see page ../tables/90full› West Germany
+‹1994, see page ../tables/94full› Brazil
+‹1998, see page ../tables/98full› France
+‹2002, see page ../tables/2002full› Brazil
+‹2006, see page ../tables/2006full› Italy
+‹2010, see page ../tables/2010full› Spain
+‹2014, see page ../tables/2014full› Germany
+‹2018, see page ../tables/2018full› France
+‹2022, see page ../tables/2022f› Argentina
+
+=== Countrywise list of winners  ‹§wins›
+
+Brazil                    5
+
+(West) Germany            4
+Italy                     4
+
+Argentina                 3
+
+France                    2
+Uruguay                   2
+
+England                   1
+Spain                     1
+
+
+=== Finals  ‹§finals›
+
+1930    Uruguay             4-2 Argentina
+        [‹Final tournament in Uruguay, see page ../tables/30f›]
+1934    Italy               2-1 Czechoslovakia             AET
+        [‹Final tournament in Italy, see page ../tables/34f›] [‹Qualifying, see page ../tables/34q›]
+1938    Italy               4-2 Hungary
+        [‹Final tournament in France, see page ../tables/38f›] [‹Qualifying, see page ../tables/38q›]
+1950    Uruguay             2-1 Brazil
+        [‹Final tournament in Brazil, see page ../tables/50f›] [‹Qualifying, see page ../tables/50q›]
+1954    West Germany        3-2 Hungary
+        [‹Final tournament in Switzerland, see page ../tables/54f›] [‹Qualifying, see page ../tables/54q›]
+1958    Brazil              5-2 Sweden
+        [‹Final tournament in Sweden, see page ../tables/58f›] [‹Qualifying, see page ../tables/58q›]
+1962    Brazil              3-1 Czechoslovakia
+        [‹Final tournament in Chile, see page ../tables/62f›] [‹Qualifying, see page ../tables/62q›]
+1966    England             4-2 West Germany               AET
+        [‹Final tournament in England, see page ../tables/66f›] [‹Qualifying, see page ../tables/66q›]
+1970    Brazil              4-1 Italy
+        [‹Final tournament in Mexico, see page ../tables/70f›] [‹Qualifying, see page ../tables/70q›]
+1974    West Germany        2-1 Netherlands
+        [‹Final tournament in West Germany, see page ../tables/74f›] [‹Qualifying, see page ../tables/74q›]
+1978    Argentina           3-1 Netherlands                AET
+        [‹Final tournament in Argentina, see page ../tables/78f›] [‹Qualifying, see page ../tables/78q›]
+1982    Italy               3-1 West Germany
+        [‹Final tournament in Spain, see page ../tables/82f›] [‹Qualifying, see page ../tables/82q›]
+1986    Argentina           3-2 West Germany
+        [‹Final tournament in Mexico, see page ../tables/86f›] [‹Qualifying, see page ../tables/86q›]
+1990    West Germany        1-0 Argentina
+        [‹Final tournament in Italy, see page ../tables/90f›] [‹Qualifying, see page ../tables/90q›]
+1994    Brazil              0-0 Italy                      AET, 3-2 pen
+        [‹Final tournament in the USA, see page ../tables/94f›] [‹Qualifying, see page ../tables/94q›]
+1998    France              3-0 Brazil
+        [‹Final tournament in France, see page ../tables/98f›] [‹Qualifying, see page ../tables/98q›]
+2002    Brazil              2-0 Germany
+        [‹Final tournament in South Korea and Japan, see page ../tables/2002f›] [‹Qualifying, see page ../tables/2002q›]
+2006    Italy               1-1 France                     AET, 5-3 pen
+        [‹Final tournament in Germany, see page ../tables/2006f›] [‹Qualifying, see page ../tables/2006q›]
+2010    Spain               1-0 Netherlands                AET
+        [‹Final tournament in South Africa, see page ../tables/2010f›] [‹Qualifying, see page ../tables/2010q›]
+2014    Germany             1-0 Argentina                  AET
+        [‹Final tournament in Brazil, see page ../tables/2014f›] [‹Qualifying, see page ../tables/2014q›]
+2018    France              4-2 Croatia
+        [‹Final tournament in Russia, see page ../tables/2018f›] [‹Qualifying, see page ../tables/2018q›]
+2022    Argentina           3-3 France                     AET, 4-2 pen
+        [‹Final tournament in Qatar, see page ../tables/2022f›] [‹Qualifying, see page ../tables/2022q›]
+
+=== Quarterfinals and Beyond  ‹§quarters›
+
+               winners   finalists   semifinals quarterfinals
+Brazil            5          7           11           19
+(West) Germany    4          8           13           17
+Italy             4          6            8           10
+Argentina         3          6            6           11
+France            2          4            7            9
+Uruguay           2          2            5            7
+England           1          1            3           12
+Spain             1          1            2            6
+Netherlands                  3            5            7
+Hungary                      2            2            5
+Czechoslovakia               2            2            4
+Sweden                       1            4            7
+Croatia                      1            3            3
+Yugoslavia                                2            7
+Austria                                   2            4
+Belgium                                   2            3
+Poland                                    2            3
+Portugal                                  2            3
+Soviet Union                              1            5
+Chile                                     1            2
+USA                                       1            2
+Bulgaria                                  1            1
+Morocco                                   1            1
+South Korea                               1            1
+Turkey                                    1            1
+Switzerland                                            3
+Mexico                                                 2
+Paraguay                                               2
+Peru                                                   2
+Romania                                                2
+Bolivia                                                1
+Cameroon                                               1
+Colombia                                               1
+Costa Rica                                             1
+Cuba                                                   1
+Denmark                                                1
+East Germany                                           1
+Ghana                                                  1
+Ireland                                                1
+Northern Ireland                                       1
+North Korea                                            1
+Russia                                                 1
+Senegal                                                1
+Ukraine                                                1
+Wales                                                  1
+                 22         44           88          176
+
+[NB: for 1930 and 1950, runners-up in the first round groups have been
+     counted as quarterfinalists; in 1982 runners-up in the second
+     group stage were also included; for 1950 that implies Bolivia
+     are counted as quarterfinalists in spite of losing their only
+     match 0-8; see the ‹World Cup all-time rankings, see page ../tables/3002f.html#22tt› for an alternative
+     count (not including quarterfinalists for 1930, 1950 and 1982).]
+
+
+=== Goal Scorers  ‹§goalscorers›
+
+‹1930, see page ../tables/30f-scor› all scorers final tournament
+‹1934, see page ../tables/34qf-scor› all scorers qualifying and final tournament
+‹1938, see page ../tables/38qf-scor› all scorers qualifying and final tournament
+‹1950, see page ../tables/50qf-scor› all scorers qualifying and final tournament
+‹1954, see page ../tables/54qf-scor› all scorers qualifying and final tournament
+‹1958, see page ../tables/58qf-scor› all scorers qualifying and final tournament
+‹1962, see page ../tables/62qf-scor› all scorers qualifying and final tournament
+1966-1998 under construction
+‹2002, see page ../tables/2002q-scor› all scorers qualifying and final tournament
+‹2006, see page ../tables/2006q-scor› all scorers qualifying tournament
+
+‹all, see page ../tables/30all-scor› top-100 goal scorers final tournaments
+
+
+=== Qualifying Tournament Details  ‹§qualifying›
+
+‹1934, see page ../tables/34qual› 1938 qualifying tournament details
+‹1938, see page ../tables/38qual› 1938 qualifying tournament details
+‹1950, see page ../tables/50q-det› 1950 qualifying tournament details
+‹1954, see page ../tables/54q-det› 1954 qualifying tournament details
+
+

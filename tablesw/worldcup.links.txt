@@ -1,0 +1,88 @@
+tablesw/wcf-full-intro          :  Full details on all matches in final and qualifying tournaments up to and including 1998
+tables/30full                   :  1930
+tables/34full                   :  1934
+tables/38full                   :  1938
+tables/50full                   :  1950
+tables/54full                   :  1954
+tables/58full                   :  1958
+tables/62full                   :  1962
+tables/66full                   :  1966
+tables/70full                   :  1970
+tables/74full                   :  1974
+tables/78full                   :  1978
+tables/82full                   :  1982
+tables/86full                   :  1986
+tables/90full                   :  1990
+tables/94full                   :  1994
+tables/98full                   :  1998
+tables/2002full                 :  2002
+tables/2006full                 :  2006
+tables/2010full                 :  2010
+tables/2014full                 :  2014
+tables/2018full                 :  2018
+tables/2022f                    :  2022
+tables/30f                      :  Final tournament in Uruguay
+tables/34f                      :  Final tournament in Italy
+tables/34q                      :  Qualifying
+tables/38f                      :  Final tournament in France
+tables/38q                      :  Qualifying
+tables/50f                      :  Final tournament in Brazil
+tables/50q                      :  Qualifying
+tables/54f                      :  Final tournament in Switzerland
+tables/54q                      :  Qualifying
+tables/58f                      :  Final tournament in Sweden
+tables/58q                      :  Qualifying
+tables/62f                      :  Final tournament in Chile
+tables/62q                      :  Qualifying
+tables/66f                      :  Final tournament in England
+tables/66q                      :  Qualifying
+tables/70f                      :  Final tournament in Mexico
+tables/70q                      :  Qualifying
+tables/74f                      :  Final tournament in West Germany
+tables/74q                      :  Qualifying
+tables/78f                      :  Final tournament in Argentina
+tables/78q                      :  Qualifying
+tables/82f                      :  Final tournament in Spain
+tables/82q                      :  Qualifying
+tables/86f                      :  Final tournament in Mexico
+tables/86q                      :  Qualifying
+tables/90f                      :  Final tournament in Italy
+tables/90q                      :  Qualifying
+tables/94f                      :  Final tournament in the USA
+tables/94q                      :  Qualifying
+tables/98f                      :  Final tournament in France
+tables/98q                      :  Qualifying
+tables/2002f                    :  Final tournament in South Korea and Japan
+tables/2002q                    :  Qualifying
+tables/2006f                    :  Final tournament in Germany
+tables/2006q                    :  Qualifying
+tables/2010f                    :  Final tournament in South Africa
+tables/2010q                    :  Qualifying
+tables/2014f                    :  Final tournament in Brazil
+tables/2014q                    :  Qualifying
+tables/2018f                    :  Final tournament in Russia
+tables/2018q                    :  Qualifying
+tables/2022f                    :  Final tournament in Qatar
+tables/2022q                    :  Qualifying
+tables/3002f§22tt               :  World Cup all-time rankings
+tables/30f-scor                 :  1930
+tables/34qf-scor                :  1934
+tables/38qf-scor                :  1938
+tables/50qf-scor                :  1950
+tables/54qf-scor                :  1954
+tables/58qf-scor                :  1958
+tables/62qf-scor                :  1962
+tables/2002q-scor               :  2002
+tables/2006q-scor               :  2006
+tables/30all-scor               :  all
+tables/34qual                   :  1934
+tables/38qual                   :  1938
+tables/50q-det                  :  1950
+tables/54q-det                  :  1954
+players/3098f-coaches           :  Info on Coaches 1930-2022
+tables/3002f                    :  All-Time Ranking Final Tournaments 1930-2022
+tablesw/wcq-records             :  All-Time Ranking Qualifying and Final Tournaments
+tablesw/wc-confed-hth           :  World Cup inter-confederational stats 1930-2022
+miscellaneous/wcwinners         :  World Cup Champions' Squads 1930-2022
+players/wk-playercoach          :  Participating as Player and as Coach
+players/wk-family               :  Fathers, Sons and Brothers in World Cups

@@ -1,0 +1,177 @@
+<!--
+   title:   The World Cup Archive
+   source:  https://rsssf.org/tablesw/wcf-full-intro.html
+   author:  Gwidon S. Naskrent
+   updated: 17 Jul 2014
+  -->
+
+
+== The World Cup Archive
+
+Welcome to the football World Cup archive, which started out in summer
+1998 as a contribution to ‹RSSSF, see page ../nersssf›, a non-profit
+organization for collecting football statistics
+from all over the world. Below you find the intro
+file I wrote explaining the contents of the archive. And here
+are the ‹possible errors, see page ../tablesd/differs.txt› that came up during
+the verification phase.
+
+You can view the archive online, with details for finals of
+‹1930, see page ../tables/30full› |
+‹1934, see page ../tables/34full› |
+‹1938, see page ../tables/38full› |
+‹1950, see page ../tables/50full› |
+‹1954, see page ../tables/54full› |
+‹1958, see page ../tables/58full› |
+‹1962, see page ../tables/62full› |
+‹1966, see page ../tables/66full› |
+‹1970, see page ../tables/70full› |
+‹1974, see page ../tables/74full› |
+‹1978, see page ../tables/78full› |
+‹1982, see page ../tables/82full› |
+‹1986, see page ../tables/86full› |
+‹1990, see page ../tables/90full› |
+‹1994, see page ../tables/94full› |
+‹1998, see page ../tables/98full› |
+‹2002, see page ../tables/2002full› |
+‹2006, see page ../tables/2006full› |
+‹2010, see page ../tables/2010full› and
+‹2014, see page ../tables/2014full›
+
+You can also view full qualifying data here:
+‹1934, see page ../tables/34qual› |
+‹1938, see page ../tables/38qual› |
+‹1950, see page ../tables/50qual› |
+‹1954, see page ../tables/54qual› |
+‹1958, see page ../tables/58qual› |
+‹1962, see page ../tables/62qual› |
+‹1966, see page ../tables/66qual› |
+‹1970, see page ../tables/70qual› |
+‹1974, see page ../tables/74qual› |
+‹1978, see page ../tables/78qual› |
+‹1982, see page ../tables/82qual› |
+‹1986, see page ../tables/86qual› |
+‹1990, see page ../tables/90qual› |
+‹1994, see page ../tables/94qual› and
+‹1998, see page ../tables/98qual›
+
+These pages are prepared using a mixed encoding of ISO 8859-1 and
+ISO 8859-2 (for example Høgh and Výtlaèil). If you see here junk
+instead of o-slash, y-acute and c-caron, your browser is either badly
+configured or just plain stupid (Netscape 4.x happens to be the latter,
+unfortunately).
+
+
+I have prepared the full documentation of the World Cup since 1930,
+including the recent France '98 tournament, with the kind assistance
+of Karel Stokkermans, Misha Miladinovich, Søren Elbech, Jean Michel
+Cazal and other people who provided important corrections and details.
+
+As a source I used the pages about WC history found at
+‹http://www.geocities.com/Colosseum/Sideline/8601/›, which helped me a lot.
+This was checked against "Encyklopedia Pilkarska [Football Encyclopedia]
+FUJI", volumes 8, 11 and 9 (with respect to player names). ep FUJI is a series
+of volumes issued by the GiA printhouse from Katowice, Poland, which also
+produces excellent yearbooks. Unfortunately they don't have a web page or
+even an e-mail :(
+
+I cannot assure that the data is 100% correct, so standard disclaimer applies.
+Particularly Brazillian and Iberoamerican names may differ sometimes from
+other sources, because in those countries names and surnames are handled
+differently than most Europeans are used to. Ditto for Arabian-speaking
+countries. Korean names are traditionally a nuisance to Europeans.
+
+LEGAL NOTICE: The statistical information found in this archive is PUBLIC
+DOMAIN, as regulated by article 4 p. 4 of the Polish intellectual property
+law from 2nd Feb 1994. Other non-statistical information is subject to
+fair use as regulated by article 29 p. 1 of same.
+
+The data format is as follows:
+
+(date)  (hour) (city, stadium)
+
+(result)
+
+(attendance) (referees)
+
+(line-ups with substitutions)
+
+(goals in order of scoring)
+
+(bookings & sent offs)
+
+(additional notes)
+
+Some explanatory remarks:
+
+Date: in dd/mm/yy format, year is two digits (this will not create problems
+until 2030).
+
+Hour: local time when the match was scheduled to start (ie. for delayed
+matches see additional notes). European countries use generally GMT+1,
+with the exception of England and Spain (GMT). South American countries
+use GMT-5 or GMT-6, Mexico uses GMT-8 and USA uses GMT-5 to GMT-8 depending
+on place. Add/substract as needed to obtain the hour at which the match
+started in your country. You need to take DST into account as well, which
+makes converting older (pre-1960) times doubtful.
+
+City, Stadium name: in local language if possible. However for Switzerland
+the versions generally accepted in English have been adopted.
+
+Result: teams, result, half-result with additional data on extra-time (ie.
+the first result in parentheses is the one after 45 min, the second after
+90 min, the third after 105 min). This could be simplified with the
+introduction of the golden goal rule. Also the result of penalty shootout
+if one occured (the British practice is to sum up goals from game and
+shootout when giving result, which is NOT encouraged).
+
+Attendance: in many cases approximate. Various sources make different guesses,
+and reliable data just isn't available sometimes. Attendance has more than
+often been calculated on the basis of tickets sold, not by counting spectators.
+
+The + sign before the number means "more than", - means "less than" and ~
+means "around, approximately, more or less".
+
+Referees: the first one is the main referee, the two following are linesmen.
+I have not included the technical referees who appeared at France '98,
+despite FIFA treating them as part of the traditional trio when presenting
+WC 98 stats on ‹www.fifa.com›.
+
+Line ups: Captains are marked with (c). It was assumed that pre-war teams played
+1-2-3-5, in the 50s this was changed to 1-3-2-5 (WM system), later to 1-2-4-4
+(Brasil in 1962), 1-3-3-4, 1-4-3-3 and finally 1-4-4-2. Of course where there
+was evidence that a team used a different style that the one widely adopted at
+the time, this has been taken into account.
+
+Goals: some sources may report the scorers differently, especially with
+respect to own goals. Minutes are +/- 1 due to the way some sources count
+them (ie. whether the first minute starts at kick-off or after 60 secs).
+The letters after minutes mean: p - penalty kick goal, f - free kick goal,
+h - header goal, o - own goal, c - corner goal. Penalties which were missed
+are also noted. "Out" in this context means also a crossbar or goalpost.
+
+Bookings: list of names from both teams, separated by a / (slash). The list
+is ordered randomly and does not reflect actual booking order.
+
+Additional notes: info on extraordinary occurances like a serious match delay,
+match called off (SWE-AUT in 1938), jubilee (centenary) matches and some
+other ‹trivia, see page ../tablest/trivia›. Also the method of calculating table positions was explained
+whenever it differed from the one now accepted at WC.
+
+I've also included a list of all scorers in a given tournament, ordered
+alphabetically by ‹country codes, see page ../tablesc/ccodes.txt› and then by player names. Own goals are
+listed separately. Below that is found a summary.
+
+The list of coaches includes team coaches, assistants, managers, directors,
+selection commission members and similar (except for 1994 and 1998, where
+only main team coaches are given). The first person on the list is always
+the main coach. Reserve players are listed alphabetically. Note that
+until 1962 (?) there was no fixed 22-men limit on squads.
+
+Youngest and oldest includes: players (with goalkeepers), goalkeepers,
+scorers, champions (from 1st team), finalists (from 1st-2nd team), medalists
+(from 1st-4th team), coaches (the main coaches, not the helping persons
+listed after them above) and referees. Due to problems with determining the
+dates of birth in the more exotic countries some data may be inexact or
+approximate.
+

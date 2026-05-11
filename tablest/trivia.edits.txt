@@ -1,0 +1,11 @@
+-- removed 10 remaining nav html element(s):
+<UL> <LI> <LI> <LI> <LI> <LI> <LI> <LI> <LI> </UL>
+-- removing 8 leading nav line(s) in section 1:
+‹Most games in World Cup, see §games›
+‹Most goals in World Cup, see §goals›
+‹World Cup matches - summary, see §matchtable›
+‹World Cup goals - summary, see §goaltable›
+‹Hat-tricks, see §hattricks›
+‹Jubilee WC goals, see §jubilee›
+‹More on WC goals, see §moregoals›
+‹Sendings-off, see §sendings›
