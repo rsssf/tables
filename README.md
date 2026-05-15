@@ -4,8 +4,8 @@ football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) tables (cache / playg
 
 tables pages converted to (plain) text  e.g.
 
-- [rsssf.org/tables/30f.html](https://rsssf.org/tables/30f.html)       => [./tables/30f.txt](tables/30f.txt)        (=> wiki-style @  [rsssf.github.io/tables/30f](https://rsssf.github.io/tables/30f))
-- [rsssf.org/tables/86full.html](https://rsssf.org/tables/86full.html) => [./tables/86full.txt](tables/86full.txt)  (=> wiki-style @  [rsssf.github.io/tables/86full](https://rsssf.github.io/tables/86full))
+- [rsssf.org/tables/30f.html](https://rsssf.org/tables/30f.html)       => [./tables/30f.txt](tables/30f.txt)        (wiki-style @  [rsssf.github.io/tables/30f](https://rsssf.github.io/tables/30f))
+- [rsssf.org/tables/86full.html](https://rsssf.org/tables/86full.html) => [./tables/86full.txt](tables/86full.txt)  (wiki-style @  [rsssf.github.io/tables/86full](https://rsssf.github.io/tables/86full))
 
 and many more, see the [.html tables a-z index page »](https://rsssf.github.io/tables/)
 
