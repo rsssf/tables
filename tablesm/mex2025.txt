@@ -449,7 +449,7 @@ Final Table:
 18.Santos Laguna                       17   2  4 11  12-30  10
 
 Topscorers
-Player          Team      Goals
+Player                   Team           Goals
 Joao Paulo Dias          Toluca         13
 Ángel Sepúlveda          Cruz Azul       9
 Henry Martín             América         8
@@ -1047,7 +1047,7 @@ Final Table:
 18.Santos Laguna                       17   2  1 14  15-36   7
 
 Topscorers
-Player            Team      Goals
+Player                     Team         Goals
 Uros Durdevic              Atlas           12
 José Zúñiga                Tijuana         12
 Joao Paulo Dias "Paulinho" Toluca          12
@@ -1067,7 +1067,7 @@ Juan Brunetta              Tigres           6
 
 Relegation Table
 
-Team         Average
+Team                    Average
 América                 2.0392
 Monterrey               1.9510
 Toluca                  1.8039
@@ -1814,23 +1814,23 @@ Jesús Ocejo           Leones Negros       13
 
 Relegation Table
 
-Team         Average
-Atlante                  1.9000
-Leones Negros            1.8333
-Club Celaya               1.8000
-Venados FC               1.6000
-Tapatío        1.5222
-Jaiba Brava               1.5000
-Mineros                  1.4333
-Atlético Morelia       1.3667
-Cancún FC              1.3333
-Tepatitlán FC             1.2667
-Correcaminos UAT         1.1556
+Team                    Average
+Atlante                 1.9000
+Leones Negros           1.8333
+Club Celaya             1.8000
+Venados FC              1.6000
+Tapatío                 1.5222
+Jaiba Brava             1.5000
+Mineros                 1.4333
+Atlético Morelia        1.3667
+Cancún FC               1.3333
+Tepatitlán FC           1.2667
+Correcaminos UAT        1.1556
 La Paz                  1.1333
 ------------------------------
-Dorados Sinaloa          0.9889 (*)
-Alebrijes                0.9778 (*)
-Tlaxcala FC               0.9778 (*)
+Dorados Sinaloa         0.9889 (*)
+Alebrijes               0.9778 (*)
+Tlaxcala FC             0.9778 (*)
 
 (*) Due to suspension of Promotion and Relegation the last 3 teams of the relegation table were fined with:
 

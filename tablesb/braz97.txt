@@ -1186,7 +1186,7 @@ Ji Paraná(RO) 3-1 Roraima(RR)
 
  1. São Raimundo(AM)       6   4   1   1  10   6  13
  2. Ji Paraná(RO)          6   3   1   2   8   5  10
- 3. Roraima(RR)              6   2   1   3   7   8   7
+ 3. Roraima(RR)            6   2   1   3   7   8   7
  4. Baré(RR)               6   1   1   4   7  13   4
 
 Group 2
@@ -1213,10 +1213,10 @@ Santa Rosa(PA) 2-1 IV de Julho(PI)
 Sampaio Corrêa(MA) 4-0 Santa Rosa(PA)
 IV de Julho(PI) 2-1 River(PI)
 
- 1. Sampaio Corrêa(MA)      6   5   1   0  12   3  16
- 2. Santa Rosa(PA)      6   3   1   2  11  10  10
- 3. IV de Julho(PI)      6   2   1   3  11  12   7
- 4. River(PI)         6   0   1   5   7  16   1
+ 1. Sampaio Corrêa(MA)       6   5   1   0  12   3  16
+ 2. Santa Rosa(PA)         6   3   1   2  11  10  10
+ 3. IV de Julho(PI)        6   2   1   3  11  12   7
+ 4. River(PI)              6   0   1   5   7  16   1
 
 Group 3
 
@@ -1243,8 +1243,8 @@ Picos(PI) 0-0 Quixadá(CE)
 
  1. Quixadá(CE)            6   3   3   0   8   3  12
  2. Ferroviário(CE)        6   3   2   1   8   3  11
- 3. Picos(PI)         6   1   2   3   3   7   5
- 4. Potiguar(RN)      6   1   1   4   6  12   4
+ 3. Picos(PI)              6   1   2   3   3   7   5
+ 4. Potiguar(RN)           6   1   1   4   6  12   4
 
 Group 4
 
@@ -1269,10 +1269,10 @@ Vitória(PE) 2-2 Porto(PE)
 Porto(PE) 2-0 Fortaleza(CE)
 C.S.A.(AL) 3-0 Vitória(PE)
 
- 1. C.S.A.(AL)         6   3   2   1   9   4  11
- 2. Porto(PE)         6   1   5   0   8   6   8
+ 1. C.S.A.(AL)             6   3   2   1   9   4  11
+ 2. Porto(PE)              6   1   5   0   8   6   8
  3. Vitória(PE)            6   1   3   2   5   8   6
- 4. Fortaleza(CE)      6   1   2   3   4   8   5
+ 4. Fortaleza(CE)          6   1   2   3   4   8   5
 
 Group 5
 
@@ -1296,10 +1296,10 @@ Limoeirense(PE) 0-0 Flamengo(PE)
 Flamengo(PE) 0-1 A.S.A.(AL)
 Juazeiro(BA) 1-0 Limoeirense(PE)
 
- 1. A.S.A.(AL)         6   5   1   0  10   1  16
- 2. Juazeiro(BA)      6   2   0   4   7   7   6
- 3. Limoeirense(PE)      6   1   3   2   2   5   6
- 4. Flamengo(PE)      6   1   2   3   5  11   5
+ 1. A.S.A.(AL)             6   5   1   0  10   1  16
+ 2. Juazeiro(BA)           6   2   0   4   7   7   6
+ 3. Limoeirense(PE)        6   1   3   2   2   5   6
+ 4. Flamengo(PE)           6   1   2   3   5  11   5
 
 Group 6
 
@@ -1324,8 +1324,8 @@ Confiança(SE) 1-1 Galícia(BA)
 Catuense(BA) 1-2 Itabaiana(SE)
 
  1. Confiança(SE)          6   3   3   0  11   6  12
- 2. Itabaiana(SE)      6   3   1   2  12   9  10
- 3. Catuense(BA)      6   1   4   1   8   8   7
+ 2. Itabaiana(SE)          6   3   1   2  12   9  10
+ 3. Catuense(BA)           6   1   4   1   8   8   7
  4. Galícia(BA)            6   0   2   4   7  15   2
 
 Group 7
@@ -1380,10 +1380,10 @@ Brasília(DF) 0-0 Tocantinópolis(TO)
 Tocantinópolis(TO) 0-2 Palmas(TO)
 Ceilandense(DF) 1-1 Brasília(DF)
 
- 1. Palmas(TO)         6   3   0   3   5   6   9
+ 1. Palmas(TO)             6   3   0   3   5   6   9
  2. Brasília(DF)           6   2   3   1  11   6   9
  3. Tocantinópolis(TO)     6   2   2   2   5   6   8
- 4. Ceilandense(DF)      6   2   1   3   5   8   7
+ 4. Ceilandense(DF)        6   2   1   3   5   8   7
 
 Group 9
 
@@ -1438,10 +1438,10 @@ Rio Branco(SP) 0-2 Juventus(SP)
 21. 9.97
 Sorocaba(SP) 4-2 Portuguesa(SP)
 
- 1. Juventus(SP)      6   4   2   0  12   6  14
- 2. Sorocaba(SP)      6   4   1   1  10   6  13
- 3. Portuguesa(SP)      6   2   0   4   8  12   6
- 4. Rio Branco(SP)      6   0   1   5   3   9   1
+ 1. Juventus(SP)           6   4   2   0  12   6  14
+ 2. Sorocaba(SP)           6   4   1   1  10   6  13
+ 3. Portuguesa(SP)         6   2   0   4   8  12   6
+ 4. Rio Branco(SP)         6   0   1   5   3   9   1
 
 Group 11
 
@@ -1469,7 +1469,7 @@ Itumbiara(GO) 0-1 Uberlândia(MG)
  1. Uberlândia(MG)         6   5   1   0  16   2  16
  2. Montes Claros(MG)      6   3   1   2   5   7  10
  3. Anápolis(GO)           6   1   2   3   6   9   5
- 4. Itumbiara(GO)      6   0   2   4   2  11   2
+ 4. Itumbiara(GO)          6   0   2   4   2  11   2
 
 Group 12
 
@@ -1496,9 +1496,9 @@ Internacional(SP) 2-1 São José(SP)
 Social(MG) 4-0 Villa Nova(MG)
 
  1. Internacional(SP)      6   4   0   2  11  10  12
- 2. Social(MG)         6   3   1   2  10   6  10
+ 2. Social(MG)             6   3   1   2  10   6  10
  3. São José(SP)           6   3   1   2  11   8  10
- 4. Villa Nova(MG)      6   1   0   5   5  13   3
+ 4. Villa Nova(MG)         6   1   0   5   5  13   3
 
 Group 13
 
@@ -1523,7 +1523,7 @@ Francana(SP) 3-0 União Bandeirante(PR)
 União Bandeirante(PR) 0-2 Maringá(PR)
 América(SP) 3-0 Francana(SP)
 
- 1. Francana(SP)      6   4   0   2   7   5  12
+ 1. Francana(SP)           6   4   0   2   7   5  12
  2. União Bandeirante(PR)  6   3   0   3   7   8   9
  3. América(SP)            6   2   2   2   4   4   8
  4. Maringá(PR)            6   1   2   3   3   4   5
@@ -1550,10 +1550,10 @@ Ponta Grossa(PR) 2-1 XV de Novembro(RS)
 Chapecoense(SC) 0-1 Ponta Grossa(PR)
 XV de Novembro(RS) 1-1 Internacional(RS)
 
- 1. Ponta Grossa(PR)      6   4   0   2   5   3  12
+ 1. Ponta Grossa(PR)       6   4   0   2   5   3  12
  2. Internacional(RS)      6   3   1   2   6   5  10
- 3. Chapecoense(SC)      6   2   1   3   3   4   7
- 4. XV de Novembro(RS)      6   1   2   3   4   6   5
+ 3. Chapecoense(SC)        6   2   1   3   3   4   7
+ 4. XV de Novembro(RS)     6   1   2   3   4   6   5
 
 Group 15
 
@@ -1577,10 +1577,10 @@ Caxias(RS) 3-1 Paulista(SP)
 Avaí(SC) 0-1 Caxias(RS)
 Paulista(SP) 3-0 Blumenau(SC)
 
- 1. Caxias(RS)         6   3   3   0  10   5  12
+ 1. Caxias(RS)             6   3   3   0  10   5  12
  2. Avaí(SC)               6   2   1   3   7   7   7
- 3. Paulista(SP)      6   2   1   3  10  11   7
- 4. Blumenau(SC)      6   2   1   3   4   8   7
+ 3. Paulista(SP)           6   2   1   3  10  11   7
+ 4. Blumenau(SC)           6   2   1   3   4   8   7
 
 Group 16
 
@@ -1607,9 +1607,9 @@ Figueirense(SC) 1-0 Brasil(RS)
 Brasil(RS) 2-0 São José(RS)
 Tubarão(SC) 2-4 Figueirense(SC)
 
- 1. Figueirense(SC)      6   4   1   1  14  11  13
+ 1. Figueirense(SC)        6   4   1   1  14  11  13
  2. São José(RS)           6   3   1   2  11   9  10
- 3. Brasil(RS)         6   2   1   3   5   7   7
+ 3. Brasil(RS)             6   2   1   3   5   7   7
  4. Tubarão(SC)            6   1   1   4  10  13   4
 
 
@@ -1657,7 +1657,7 @@ Table:
  1. Sampaio Corrêa(MA)     6   3   3   0  11   5  12  Promoted, Champions
  2. Juventus(SP)           6   2   2   2   9   8   8  Promoted
 ----------------------------------------------------
- 3. Francana(SP)      6   2   1   3   6   8   7
+ 3. Francana(SP)           6   2   1   3   6   8   7
  4. Tupi(MG)               6   2   0   4   5  10   6
 
 Round 1 [Nov 9]
@@ -1689,7 +1689,7 @@ Table:
  1. Sampaio Corrêa(MA)     6   3   3   0  11   5  12  Promoted, Champions
  2. Juventus(SP)           6   2   2   2   9   8   8  Promoted
 ----------------------------------------------------
- 3. Francana(SP)      6   2   1   3   6   8   7
+ 3. Francana(SP)           6   2   1   3   6   8   7
  4. Tupi(MG)               6   2   0   4   5  10   6
 
 

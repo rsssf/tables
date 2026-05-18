@@ -398,16 +398,16 @@ Table:
  8.VOEST Linz                36  11  7 18  46-73   29
 
 Topscorers:
- 1.Anton Polster (Austria)      39
- 2.Peter Pacult (Tirol)         21
- 3.Hans Krankl (Sportclub)      20
- 4.Zlatko Kranjcar (Rapid)      18
-   Alfred Roscher (Tirol)      18
- 6.Jürgen Werner (VOEST)      16
- 7.Peter Hrstic (Rapid)         15
-   Alfred Drabits (Austria)        15
-   Walter Knaller (Admira/Wacker)   15
-10.Zoran Stojadinovic (Admira/Wacker)    14
+ 1.Anton Polster (Austria)              39
+ 2.Peter Pacult (Tirol)                 21
+ 3.Hans Krankl (Sportclub)              20
+ 4.Zlatko Kranjcar (Rapid)              18
+   Alfred Roscher (Tirol)               18
+ 6.Jürgen Werner (VOEST)                16
+ 7.Peter Hrstic (Rapid)                 15
+   Alfred Drabits (Austria)             15
+   Walter Knaller (Admira/Wacker)       15
+10.Zoran Stojadinovic (Admira/Wacker)   14
 
 Fall season
 ===========

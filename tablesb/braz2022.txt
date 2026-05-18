@@ -735,7 +735,7 @@ Final Table:
  8.Criciúma              38  14 14 10  43-31  56  [P]
  9.Londrina              38  14 11 13  36-37  53
 10.Guarani               38  13 12 13  33-36  51
-11.CRB               38  13 11 14  35-43  50
+11.CRB                   38  13 11 14  35-43  50
 12.Ponte Preta           38  12 13 13  34-36  49
 13.Vila Nova             38   9 20  9  28-31  47
 14.Chapecoense           38  11 12 15  37-39  45  [R]
@@ -745,7 +745,7 @@ Final Table:
 17.CSA                   38   9 15 14  29-37  42       Relegated
 18.Brusque               38   8 10 20  21-38  34       Relegated
 19.Operário Ferroviário  38   7 13 18  31-53  34       Relegated
-20.Náutico            38   8  6 24  32-65  30       Relegated
+20.Náutico               38   8  6 24  32-65  30       Relegated
 
 
 ==== Série C  ‹§sc›

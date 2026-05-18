@@ -1083,7 +1083,7 @@ Final Table:
     standings over the last three seasons
 
 Topscorers
-Player          Team      Goals
+Player                   Team           Goals
 Henry Josué Martín       América        14
 Julián Quiñones          Atlas          12
 Rogelio Funes Mori       Monterrey      12
@@ -1096,7 +1096,7 @@ André-Pierre Gignac      Tigres          7
 
 Relegation Table
 
-Team         Average
+Team                    Average
 América                 1.9902
 Monterrey               1.7647
 León                    1.6471
@@ -1598,7 +1598,7 @@ NB: Teams 1st to 4th qualify to quarterfinals;
     clubs finishing 5th to 12th qualify to Reclasificación.
 
 Topscorer:
-Player         Team      Goals
+Player                  Team            Goals
 Diego Rafael Jiménez    Cimarrones       12
 
 ====== Playoff Stage  ‹§2aperplay›
@@ -2012,25 +2012,25 @@ Ricardo Marín         Celaya            10
 
 Relegation Table
 
-Team         Average
-Club Celaya               1.9167
-Atlante                  1.7500
-Atlético Morelia       1.7083
-Cimarrones               1.5938
-Tapatío        1.3750
-Tepatitlán FC             1.3646
-Leones Negros            1.3542
-Mineros                  1.3542
-Dorados Sinaloa          1.2917
-Venados FC               1.2813
-Alebrijes                1.2604
-Tlaxcala FC               1.2396
+Team                    Average
+Club Celaya             1.9167
+Atlante                 1.7500
+Atlético Morelia        1.7083
+Cimarrones              1.5938
+Tapatío                 1.3750
+Tepatitlán FC           1.3646
+Leones Negros           1.3542
+Mineros                 1.3542
+Dorados Sinaloa         1.2917
+Venados FC              1.2813
+Alebrijes               1.2604
+Tlaxcala FC             1.2396
 Raya2 Expansión         1.2353
-Cancún FC              1.1875
-La Paz              1.1458
+Cancún FC               1.1875
+La Paz                  1.1458
 ------------------------------
-Durango         1.1176 (*)
-Correcaminos UAT         1.0833 (*)
+Durango                 1.1176 (*)
+Correcaminos UAT        1.0833 (*)
 Pumas Tabasco           1.0152 (*)
 
 (*) Due to suspension of Promotion and Relegation the last 3 teams of the relegation table were fined with:

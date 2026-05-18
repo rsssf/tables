@@ -42,11 +42,11 @@ Paramaribo     Suriname               5-1 Guyana
                   Jalen Jones 13]
 
  1.Costa Rica           4   2  2  0   7- 1   8 (‹qualified, see §fin›)
- 2.Suriname      4   2  1  1   9- 4   7 (‹qualified, see §fin›)
- 3.Guatemala      4   2  1  1   6- 5   7 (Gold Cup 2025 Pr.)
+ 2.Suriname             4   2  1  1   9- 4   7 (‹qualified, see §fin›)
+ 3.Guatemala            4   2  1  1   6- 5   7 (Gold Cup 2025 Pr.)
  4.Martinique           4   1  2  1   4- 5   5 (Gold Cup 2025 Pr.)
- 5.Guadeloupe      4   1  1  2   1- 4   4 (relegated; ‹play in, see §pin› for GC Prel.)
- 6.Guyana             4   0  1  3   5-13   1 (relegated; ‹play in, see §pin› for GC Prel.)
+ 5.Guadeloupe           4   1  1  2   1- 4   4 (relegated; ‹play in, see §pin› for GC Prel.)
+ 6.Guyana               4   0  1  3   5-13   1 (relegated; ‹play in, see §pin› for GC Prel.)
 
 Group B
 
@@ -78,10 +78,10 @@ Managua        Nicaragua              3-2 French Guiana
 
  1.Jamaica              4   2  2  0   4- 1   8 (‹qualified, see §fin›)
  2.Honduras             4   2  1  1   8- 4   7 (‹qualified, see §fin›)
- 3.Nicaragua      4   2  1  1   5- 5   7 (Gold Cup 2025 Pr.)
+ 3.Nicaragua            4   2  1  1   5- 5   7 (Gold Cup 2025 Pr.)
  4.Trinidad and Tobago  4   1  2  1   5- 7   5 (Gold Cup 2025 Pr.)
  5.Cuba                 4   0  3  1   4- 6   3 (relegated; ‹play in, see §pin› for GC Prel.)
- 6.French Guiana   4   0  1  3   4- 7   1 (relegated; ‹play in, see §pin› for GC Prel.)
+ 6.French Guiana        4   0  1  3   4- 7   1 (relegated; ‹play in, see §pin› for GC Prel.)
 
 
 ==== League B (2024)  ‹§leagueb›
@@ -122,8 +122,8 @@ San Salvador   El Salvador            1-0 Montserrat
 
  1.El Salvador          6   5  0  1  12- 6  15 (promoted; Gold Cup 2025)
  2.St. Vincent & The Gr 6   4  1  1  12- 7  13 (Gold Cup 2025 Pr.)
- 3.Bonaire        6   1  1  4   4- 8   4
- 4.Montserrat       6   1  0  5   3-10   3 (relegated)
+ 3.Bonaire              6   1  1  4   4- 8   4
+ 4.Montserrat           6   1  0  5   3-10   3 (relegated)
 
 Group B
 
@@ -157,10 +157,10 @@ Willemstad     Grenada                0-3 Saint Martin
 Willemstad     Curaçao                4-1 St. Lucia
                  [Gervane Kastaneer 27, 30, Juninho Bacuna 73, 79; Ryan Charles 29]
 
- 1.Curaçao               6   4  1  1  15- 3  13 (promoted; Gold Cup 2025)
- 2.St. Lucia         6   3  0  3   7-15   9
+ 1.Curaçao              6   4  1  1  15- 3  13 (promoted; Gold Cup 2025)
+ 2.St. Lucia            6   3  0  3   7-15   9
  3.Grenada              6   2  1  3   7- 6   7
- 4.Saint Martin        6   2  0  4   8-13   6 (relegated)
+ 4.Saint Martin         6   2  0  4   8-13   6 (relegated)
 
 Group C
 
@@ -199,10 +199,10 @@ Mayaguez       Aruba                  0-1 Sint Maarten
 Mayaguez       Haiti                  3-0 Puerto Rico
                  [Attys Christopher 29, Don Louicius 53, Frantzdy Pierrot 70]
 
- 1.Haiti      6   6  0  0  29- 5  18 (promoted; Gold Cup 2025)
- 2.Puerto Rico       6   3  0  3  11-12   9
- 3.Sint Maarten      6   3  0  3   7-18   9
- 4.Aruba           6   0  0  6   5-17   0 (relegated)
+ 1.Haiti                6   6  0  0  29- 5  18 (promoted; Gold Cup 2025)
+ 2.Puerto Rico          6   3  0  3  11-12   9
+ 3.Sint Maarten         6   3  0  3   7-18   9
+ 4.Aruba                6   0  0  6   5-17   0 (relegated)
 
 Group D
 
@@ -240,9 +240,9 @@ Santiago Cab.  Dominican Republic     6-1 Bermuda
 
 
  1.Dominican Republic   6   6  0  0  27- 4  18 (promoted; Gold Cup 2025)
- 2.Bermuda             6   4  0  2  15-13  12 (Gold Cup 2025 Pr.)
- 3.Dominica         6   1  1  4   6-18   4
- 4.Antigua & Barbuda   6   0  1  5   2-15   1 (relegated)
+ 2.Bermuda              6   4  0  2  15-13  12 (Gold Cup 2025 Pr.)
+ 3.Dominica             6   1  1  4   6-18   4
+ 4.Antigua & Barbuda    6   0  1  5   2-15   1 (relegated)
 
 
 ==== League C (2024)  ‹§leaguec›
@@ -270,9 +270,9 @@ Bridgetown       Barbados              6-2 Bahamas
                    [Andre Applewhite 8, 52, Niall Reid-Stephen 14pen, Sheran Hoyte 26, 64, Omani Leacock 47;
                     Brandon Adderley 6, Nicoli Brathwaite 43og]
 
- 1.Barbados          4   4  0  0  17- 4  12 (promoted; ‹play in, see §pin› for GC Prel.)
+ 1.Barbados             4   4  0  0  17- 4  12 (promoted; ‹play in, see §pin› for GC Prel.)
  2.Bahamas              4   1  1  2  10-13   4
- 3.US Virgin Islands   4   0  1  3   4-14   1
+ 3.US Virgin Islands    4   0  1  3   4-14   1
 
 Group B
 
@@ -295,9 +295,9 @@ Belmopán        Turks & Caicos Islands 2-1 Anguilla
 Belmopán        Belize                 3-0 Turks & Caicos Islands
                   [Jordy Polanco 28, Moisés Hernández 40, Krisean López 57]
 
- 1.Belize                 4   4  0  0   9- 0  12 (promoted; ‹play in, see §pin› for GC Prel.)
- 2.Anguilla          4   1  0  3   3- 4   3
- 3.Turks & Caicos Isl.   4   1  0  3   2-10   3
+ 1.Belize               4   4  0  0   9- 0  12 (promoted; ‹play in, see §pin› for GC Prel.)
+ 2.Anguilla             4   1  0  3   3- 4   3
+ 3.Turks & Caicos Isl.  4   1  0  3   2-10   3
 
 Group C
 
@@ -320,8 +320,8 @@ Basseterre      Cayman Islands         1-0 British Virgin Islands
 Basseterre      St. Kitts & Nevis      1-1 Cayman Islands
                   [Joshwa Campbell 90+9og; Zachary Scott 61]
 
- 1.St. Kitts & Nevis   4   3  1  0  10- 3  10 (promoted; ‹play in, see §pin› for GC Prel.)
- 2.Cayman Islands   4   2  1  1   4- 5   7 (promoted; ‹play in, see §pin› for GC Prel.)
+ 1.St. Kitts & Nevis    4   3  1  0  10- 3  10 (promoted; ‹play in, see §pin› for GC Prel.)
+ 2.Cayman Islands       4   2  1  1   4- 5   7 (promoted; ‹play in, see §pin› for GC Prel.)
  3.British Virgin Isl.  4   0  0  4   1- 7   0
 
 

@@ -1030,7 +1030,7 @@ NB: Veracruz were deducted 6 points (of which 2 in the Apertura season as they
     on Apr 15, 2019
 
 Topscorers
-Player          Team      Goals
+Player                   Team           Goals
 Ángel Mena               León           14
 Brian Fernández          Necaxa         12
 Milton Caraglio          Cruz Azul      11
@@ -1048,7 +1048,7 @@ Pedro Canelo             Toluca          6
 
 Relegation Table
 
-Team         Average
+Team                    Average
 Tigres                  1.7745
 Monterrey               1.7451
 América                 1.6961
@@ -1139,7 +1139,7 @@ León               0-0 Tigres
 
 Tigres UANL roster team
 
-Nahuel Guzmán        GK  (Argentina)
+Nahuel Guzmán             GK  (Argentina)
 Eduardo Fernández         GK
 Israel Jiménez            DEF
 Carlos Salcedo            DEF
@@ -1512,7 +1512,7 @@ Monterrey          0-2 Cruz Azul
 Cruz Azul cup champions
 
 Topscorers
-Player         Team      Goals
+Player                  Team            Goals
 Martín Cauteruccio     Cruz Azul      6
 Franco Jara            Pachuca        5
 Cecilio Domínguez      América        4
@@ -2539,23 +2539,23 @@ Nicolás Ibáñez        A. de San Luis    11
 
 Relegation Table
 
-Team         Average
-Mineros                  1.8804
-Dorados Sinaloa          1.5870
-Atlético de San Luis     1.5862
-Alebrijes                1.5652
-FC Juárez                1.5326
-Cimarrones               1.4891
-Celaya FC                1.4239
-Atlético Zacatepec       1.4239
-Atlante                  1.4022
-Potros UAEM              1.2500
-Leones Negros            1.2283
-Correcaminos UAT         1.1739
-Cafetaleros              1.1630
-Venados FC               1.1522
+Team                    Average
+Mineros                 1.8804
+Dorados Sinaloa         1.5870
+Atlético de San Luis    1.5862
+Alebrijes               1.5652
+FC Juárez               1.5326
+Cimarrones              1.4891
+Celaya FC               1.4239
+Atlético Zacatepec      1.4239
+Atlante                 1.4022
+Potros UAEM             1.2500
+Leones Negros           1.2283
+Correcaminos UAT        1.1739
+Cafetaleros             1.1630
+Venados FC              1.1522
 ----------------------------
-Tampico Madero           1.0761 (relegated)
+Tampico Madero          1.0761 (relegated)
 
 NB: Tampico Madero remain at second level after paying USD $800,000
 

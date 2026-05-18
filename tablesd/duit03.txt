@@ -1051,7 +1051,7 @@ Mannheim       2-1 Lübeck
 
 Round 18
 [Jan 24]
-Köln          3-0 Karlsruhe
+Köln           3-0 Karlsruhe
 St Pauli       1-1 Frankfurt
 Mannheim       1-1 Braunschweig
 [Jan 26]
@@ -1075,7 +1075,7 @@ Ahlen          3-2 St Pauli
 Trier          2-1 Mainz
 [Feb 05]
 Duisburg       2-2 Köln
-Aachen          0-0 Fürth
+Aachen         0-0 Fürth
 Braunschweig   2-1 Oberhausen
 
 Round 20
@@ -1319,49 +1319,49 @@ Third Level 2002/03
 
 Regionalliga Nord
 
- 1.FC Erzgebirge Aue       34  20  6  8   59- 34  66  Promoted
- 2.VfL Osnabrück von 1899   34  19  8  7   56- 29  65  Promoted
+ 1.FC Erzgebirge Aue            34  20  6  8   59- 34  66  Promoted
+ 2.VfL Osnabrück von 1899       34  19  8  7   56- 29  65  Promoted
 ----------------------------------------------------------
- 3.SC Rot-Weiß Essen        34  16 12  6   56- 33  60
- 4.SG Wattenscheid 09      34  16  8 10   66- 49  56
- 5.BV Borussia 09 Dortmund Am.   34  13 12  9   57- 51  51
- 6.SV Werder Bremen 1899 Amat.   34  13 11 10   59- 53  50
- 7.1.FC Dynamo Dresden      34  13 11 10   34- 34  50
- 8.SC Paderborn 07         34  13  8 13   58- 49  47
- 9.1.FC Köln 01/07 Amat.      34  12  9 13   52- 55  45
-10.Krefelder FC Uerdingen 05     34  13  6 15   43- 51  45
-11.Chemnitzer FC           34  12  8 14   47- 55  44
-12.SC Preußen 06 Münster   34  12  7 15   45- 55  43
-13.Kieler SVgg Holstein v. 1900   34  10 12 12   54- 54  42
-14.Hamburger SV Amat.        34  10 11 13   44- 52  41
+ 3.SC Rot-Weiß Essen            34  16 12  6   56- 33  60
+ 4.SG Wattenscheid 09           34  16  8 10   66- 49  56
+ 5.BV Borussia 09 Dortmund Am.  34  13 12  9   57- 51  51
+ 6.SV Werder Bremen 1899 Amat.  34  13 11 10   59- 53  50
+ 7.1.FC Dynamo Dresden          34  13 11 10   34- 34  50
+ 8.SC Paderborn 07              34  13  8 13   58- 49  47
+ 9.1.FC Köln 01/07 Amat.        34  12  9 13   52- 55  45
+10.Krefelder FC Uerdingen 05    34  13  6 15   43- 51  45
+11.Chemnitzer FC                34  12  8 14   47- 55  44
+12.SC Preußen 06 Münster        34  12  7 15   45- 55  43
+13.Kieler SVgg Holstein v. 1900 34  10 12 12   54- 54  42
+14.Hamburger SV Amat.           34  10 11 13   44- 52  41
 ----------------------------------------------------------
-15.SC Verl von 1924           34  12  4 18   47- 65  40  Relegated
-16.SV Babelsberg 03           34   9  7 18   54- 73  34  Relegated
-17.Bayer 04 Leverkusen Amat.   34   9  6 19   46- 59  33  Relegated
-18.Dresdner SC Fußball 1898   34   7  8 19   32- 58  29  Relegated
+15.SC Verl von 1924             34  12  4 18   47- 65  40  Relegated
+16.SV Babelsberg 03             34   9  7 18   54- 73  34  Relegated
+17.Bayer 04 Leverkusen Amat.    34   9  6 19   46- 59  33  Relegated
+18.Dresdner SC Fußball 1898     34   7  8 19   32- 58  29  Relegated
 
 Regionalliga Süd
 
  1.SpVgg Unterhaching 1925      36  22  7  7   75- 34  73  Promoted
- 2.SSV Jahn 2000 Regensburg   36  22  7  7   66- 25  73  Promoted
+ 2.SSV Jahn 2000 Regensburg     36  22  7  7   66- 25  73  Promoted
 ----------------------------------------------------------
- 3.FC 1907 Augsburg            36  17  8 11   55- 39  59
- 4.FC Bayern München Amat.     36  16  9 11   51- 35  57
- 5.TSG 1899 Hoffenheim     36  15 10 11   60- 44  55
- 6.1.FC Saarbrücken         36  15 12  9   43- 38  53
- 7.SV Wehen 1926 Taunusstein   36  13 11 12   52- 47  50
- 8.Offenbacher FC Kickers 1901   36  11 17  8   42- 38  50
- 9.FC Rot-Weiß Erfurt      36  12 14 10   44- 44  50
-10.VfR 1921 Aalen          36  14  6 16   48- 55  47
-11.SC Pfullendorf          36  13  8 15   51- 61  47
-12.1.FC Schweinfurt 1905   36  13  6 17   56- 54  45
-13.1.FC Kaiserslautern Amat.   36  11 12 13   43- 47  45
-14.SVgg 1907 Elversberg    36  13  6 17   38- 51  45
+ 3.FC 1907 Augsburg             36  17  8 11   55- 39  59
+ 4.FC Bayern München Amat.      36  16  9 11   51- 35  57
+ 5.TSG 1899 Hoffenheim          36  15 10 11   60- 44  55
+ 6.1.FC Saarbrücken             36  15 12  9   43- 38  53
+ 7.SV Wehen 1926 Taunusstein    36  13 11 12   52- 47  50
+ 8.Offenbacher FC Kickers 1901  36  11 17  8   42- 38  50
+ 9.FC Rot-Weiß Erfurt           36  12 14 10   44- 44  50
+10.VfR 1921 Aalen               36  14  6 16   48- 55  47
+11.SC Pfullendorf               36  13  8 15   51- 61  47
+12.1.FC Schweinfurt 1905        36  13  6 17   56- 54  45
+13.1.FC Kaiserslautern Amat.    36  11 12 13   43- 47  45
+14.SVgg 1907 Elversberg         36  13  6 17   38- 51  45
 ----------------------------------------------------------
-15.SV Stuttgarter Kickers   36  11 12 13   40- 54  45  Relegated
-16.Sportfreunde Siegen 1899      36  11 10 15   47- 55  43  Relegated
-17.SV Darmstadt 1898       36  11  9 16   42- 53  42  Relegated
-18.Eintracht Frankfurt Amat.   36   7 11 18   36- 64  32  Relegated
+15.SV Stuttgarter Kickers       36  11 12 13   40- 54  45  Relegated
+16.Sportfreunde Siegen 1899     36  11 10 15   47- 55  43  Relegated
+17.SV Darmstadt 1898            36  11  9 16   42- 53  42  Relegated
+18.Eintracht Frankfurt Amat.    36   7 11 18   36- 64  32  Relegated
 19.Borussia 1905 VfB Neunkirchen36   3  9 24   23- 74  18  Relegated
 
 NB: the relegation of Stuttgarter Kickers will not be effective due
@@ -1377,26 +1377,26 @@ Oberliga Hamburg/Schleswig-Holstein
 
 Final Table:
 
- 1.FC St. Pauli 1910 Amat.   32  24  4  4   82-31  76  [1]
+ 1.FC St. Pauli 1910 Amat.      32  24  4  4   82-31  76  [1]
 --------------------------------------------------------
- 2.VfR 1910 Neumünster      32  19  9  4   75-40  66  Promotion Play-Off
- 3.SC Concordia von 1907    32  19  7  6   68-34  64
- 4.ASV Bergedorf-Lohbrügge 1885   32  19  5  8   72-41  62
- 5.SV Lurup von 1923 Hamburg   32  16  6 10   65-40  54
- 6.Meiendorfer SV 1949      32  15  6 11   64-53  51
- 7.FTSV Rasensport Elmshorn   32  14  5 13   40-55  47
- 8.Altonaer FC von 1893       32  13  7 12   66-50  46
- 9.VfL 1945 Pinneberg      32  13  6 13   64-55  45
-10.Husumer Sportvereinigung    32  13  6 13   41-47  45
-11.Flensburger SpVgg 08      32  13  4 15   50-68  43
-12.TSV Altenholz von 1948      32  12  5 15   51-73  41  Withdrew after saison, Relegated
-13.Heider SV 1925              32   8 10 14   41-53  34
-14.SC Vorwärts-Wacker 04       32  10  2 20   51-76  32
-15.Kieler SVgg Holstein [2]   32   7  8 17   49-66  29
+ 2.VfR 1910 Neumünster          32  19  9  4   75-40  66  Promotion Play-Off
+ 3.SC Concordia von 1907        32  19  7  6   68-34  64
+ 4.ASV Bergedorf-Lohbrügge 1885 32  19  5  8   72-41  62
+ 5.SV Lurup von 1923 Hamburg    32  16  6 10   65-40  54
+ 6.Meiendorfer SV 1949          32  15  6 11   64-53  51
+ 7.FTSV Rasensport Elmshorn     32  14  5 13   40-55  47
+ 8.Altonaer FC von 1893         32  13  7 12   66-50  46
+ 9.VfL 1945 Pinneberg           32  13  6 13   64-55  45
+10.Husumer Sportvereinigung     32  13  6 13   41-47  45
+11.Flensburger SpVgg 08         32  13  4 15   50-68  43
+12.TSV Altenholz von 1948       32  12  5 15   51-73  41  Withdrew after saison, Relegated
+13.Heider SV 1925               32   8 10 14   41-53  34
+14.SC Vorwärts-Wacker 04        32  10  2 20   51-76  32
+15.Kieler SVgg Holstein [2]     32   7  8 17   49-66  29
 ---------------------------------------------------------
 16.Eimsbütteler TV Hamburg      32   5  4 23   39-84  19  Relegated
-17.TSB 1865 Flensburg      32   4  2 26   41-93  14  Relegated
-18.1.SC Norderstedt         0   0  0  0    0- 0   0  Withdrew, Relegated
+17.TSB 1865 Flensburg           32   4  2 26   41-93  14  Relegated
+18.1.SC Norderstedt              0   0  0  0    0- 0   0  Withdrew, Relegated
 
 [1] FC St.Pauli 1910 Amt. can not take part in the Promotion Play-Off, because the first team FC St.Pauli was relegated
     to the 3rd level.
@@ -1405,26 +1405,26 @@ Oberliga Niedersachsen/Bremen
 
 Final Table:
 
- 1.BSV Kickers 1946 Emden      34  22  5  7   83- 43   71  Promotion Play-Off
+ 1.BSV Kickers 1946 Emden       34  22  5  7   83- 43   71  Promotion Play-Off
 ----------------------------------------------------------
  2.SV Wilhelmshaven             34  20  9  5   70- 40   69
  3.VfL 1945 Wolfsburg Amat.     34  19 11  4   69- 31   68
- 4.SV Eintracht 1945 Nordhorn     34  18 11  5   80- 48   65
- 5.BV 1919 Cloppenburg      34  17 10  7   59- 28   61
- 6.VfB von 1897 Oldenburg      34  17  8  9   65- 36   59
- 7.SV Arminia 1910 Hannover      34  16  8 10   69- 50   56
- 8.SV Meppen 1912              34  14 12  8   51- 37   54
- 9.Braunschweiger TSV E. Amat.   34  14 12  8   61- 49   54
+ 4.SV Eintracht 1945 Nordhorn   34  18 11  5   80- 48   65
+ 5.BV 1919 Cloppenburg          34  17 10  7   59- 28   61
+ 6.VfB von 1897 Oldenburg       34  17  8  9   65- 36   59
+ 7.SV Arminia 1910 Hannover     34  16  8 10   69- 50   56
+ 8.SV Meppen 1912               34  14 12  8   51- 37   54
+ 9.Braunschweiger TSV E. Amat.  34  14 12  8   61- 49   54
 10.FC Oberneuland von 1948      34  12  8 14   53- 59   44
-11.SC 1945 Langenhagen      34  11  9 14   40- 43   42
-12.VfV 1907 Hildesheim      34  10  5 19   45- 71   35
-13.Rotenburger SV 1977      34   6 12 16   45- 64   30
-14.SV Concordia Ihrhove 1945     34   8  6 20   37- 58   30
+11.SC 1945 Langenhagen          34  11  9 14   40- 43   42
+12.VfV 1907 Hildesheim          34  10  5 19   45- 71   35
+13.Rotenburger SV 1977          34   6 12 16   45- 64   30
+14.SV Concordia Ihrhove 1945    34   8  6 20   37- 58   30
 15.Lüneburger Sport-Klub 1901   34   8  6 20   37- 70   30
 ----------------------------------------------------------
 16.1.SC Göttingen von 1905      34   5 11 18   27- 59   26  Relegated
 17.FC Schüttorf 09              34   6  6 22   36- 79   24  Relegated
-18.FC Bremerhaven 1899      34   6  5 23   40-102   23  Relegated
+18.FC Bremerhaven 1899          34   6  5 23   40-102   23  Relegated
 
 Promotion Play-Off:
 Neumünster - Emden       1:2
@@ -1438,23 +1438,23 @@ Final Table:
  1.FC Schönberg 95              36  29  4  3  122- 29   91  Promotion Play-Off
 ----------------------------------------------------------
  2.Hertha BSC Berlin Amat.      36  29  2  5  121- 22   89
- 3.FC Hansa Rostock Amat.      36  28  5  3   93- 24   89
+ 3.FC Hansa Rostock Amat.       36  28  5  3   93- 24   89
  4.Berliner TC Borussia 02      36  20  7  9   63- 39   67
- 5.Eisenhüttenstädter FC Stahl   36  18  7 11   62- 50   61
- 6.VfB Lichterfelde 1892      36  17  6 13   53- 42   57
- 7.Märkischer SV Neuruppin   36  17  1 18   55- 60   52
+ 5.Eisenhüttenstädter FC Stahl  36  18  7 11   62- 50   61
+ 6.VfB Lichterfelde 1892        36  17  6 13   53- 42   57
+ 7.Märkischer SV Neuruppin      36  17  1 18   55- 60   52
  8.Brandenburger SC Süd 05      36  13 10 13   49- 50   49
- 9.SV Lichtenberg 47       36  14  7 15   49- 51   49
-10.FV Motor Eberswalde      36  14  6 16   44- 66   48
-11.BTSV Reinickendorfer Füchse   36  13  7 16   60- 56   46
-12.Berliner FC Türkiyemspor   36  12  8 16   54- 71   44
-13.TSG Neustrelitz           36  12  6 18   44- 67   42
-14.FSV Optik Rathenow      36  11  9 16   41- 64   42
-15.Berliner Athletik Klub 1907   36  11  8 17   46- 61   41
+ 9.SV Lichtenberg 47            36  14  7 15   49- 51   49
+10.FV Motor Eberswalde          36  14  6 16   44- 66   48
+11.BTSV Reinickendorfer Füchse  36  13  7 16   60- 56   46
+12.Berliner FC Türkiyemspor     36  12  8 16   54- 71   44
+13.TSG Neustrelitz              36  12  6 18   44- 67   42
+14.FSV Optik Rathenow           36  11  9 16   41- 64   42
+15.Berliner Athletik Klub 1907  36  11  8 17   46- 61   41
 ----------------------------------------------------------
-16.1.FC Lokomotive 2002 Stendal   36  12  4 20   51- 81   40  Relegated
-17.FC Eintracht Schwerin      36   8  8 20   35- 77   32  Relegated
-18.Köpenicker SC            36   6  3 27   31- 78   21  Relegated
+16.1.FC Lokomotive 2002 Stendal 36  12  4 20   51- 81   40  Relegated
+17.FC Eintracht Schwerin        36   8  8 20   35- 77   32  Relegated
+18.Köpenicker SC                36   6  3 27   31- 78   21  Relegated
 19.SG Eintracht Oranienburg     36   2  4 30   25-110   10  Relegated
 
 Oberliga Nordost-Süd
@@ -1463,24 +1463,24 @@ Final Table:
 
  1.FC Sachsen Leipzig 1990      34  26  5  3   76-19  83  Promotion Play-Off
 --------------------------------------------------------
- 2.FC Carl Zeiss Jena      34  26  4  4   87-22  82
- 3.Vogtländischer FC Plauen   34  23  4  7   76-23  73
- 4.VfB Leipzig                34  20  7  7   57-23  67
- 5.Hallescher FC              34  15 14  5   49-29  59
- 6.FSV Zwickau             34  16  6 12   59-41  54
- 7.FV Dresden-Nord          34  12 14  8   49-36  50
- 8.FC Energie Cottbus Amat.      34  14  4 16   56-58  46
- 9.SV 1919 Grimma          34  12  7 15   39-44  43
-10.1.FC Magdeburg          34  12  6 16   36-47  42
+ 2.FC Carl Zeiss Jena           34  26  4  4   87-22  82
+ 3.Vogtländischer FC Plauen     34  23  4  7   76-23  73
+ 4.VfB Leipzig                  34  20  7  7   57-23  67
+ 5.Hallescher FC                34  15 14  5   49-29  59
+ 6.FSV Zwickau                  34  16  6 12   59-41  54
+ 7.FV Dresden-Nord              34  12 14  8   49-36  50
+ 8.FC Energie Cottbus Amat.     34  14  4 16   56-58  46
+ 9.SV 1919 Grimma               34  12  7 15   39-44  43
+10.1.FC Magdeburg               34  12  6 16   36-47  42
 11.Oberlausitzer Neugersdorf    34  11  8 15   52-50  41
 12.FV Dresden 06 Laubegast      34  11  4 19   46-65  37
-13.VfB 09 Pößneck          34   9  9 16   44-65  36
+13.VfB 09 Pößneck               34   9  9 16   44-65  36
 14.BSV Eintracht Sondershausen  34  10  5 19   40-75  35
-15.FC Anhalt Dessau            34  10  6 18   40-68  32
+15.FC Anhalt Dessau             34  10  6 18   40-68  32
 --------------------------------------------------------
-16.SV Wacker 07 Gotha      34   8  4 22   25-58  28  Relegated
-17.VfB Chemnitz                34   7  6 21   25-61  27  Relegated
-18.FC Lausitz Hoyerswerda      34   6  3 25   21-93  21  Relegated
+16.SV Wacker 07 Gotha           34   8  4 22   25-58  28  Relegated
+17.VfB Chemnitz                 34   7  6 21   25-61  27  Relegated
+18.FC Lausitz Hoyerswerda       34   6  3 25   21-93  21  Relegated
 
 Promotion Play-Off:
 Schönberg - Leipzig   0:2
@@ -1491,136 +1491,136 @@ Oberliga Westfalen
 
 Final Table:
 
- 1.FC Schalke 04 Amat.       34  28  2  4  102-35   86  Promoted
+ 1.FC Schalke 04 Amat.          34  28  2  4  102-35   86  Promoted
 ---------------------------------------------------------
- 2.VfL Bochum 1848 Amat.      34  24  5  5   79-35   77
- 3.FC Gütersloh 2000       34  21  6  7   77-39   69
- 4.SpV Lippstadt 1908      34  19  9  6   74-46   66
- 5.FC Eintracht Rheine      34  15  6 13   63-60   51
- 6.SG Wattenscheid 09 [2]      34  14  6 14   53-59   48
- 7.VfB 1948/64 Hüls        34  12 10 12   55-48   46
- 8.SuS 1919/20 Stadtlohn      34  12  8 14   37-47   44
- 9.VfB Fichte Bielefeld 1919      34  11 10 13   49-48   43
-10.Sportfreunde Siegen 1899 [2]   34  12  7 15   49-61   43
-11.SC Buer-Hassel 1919      34  11  8 15   36-55   41
-12.SpVgg Emsdetten 05      34  11  6 17   45-56   39
-13.Lüner SV Fußball 1945      34  10  8 16   55-65   38
-14.DSC Arminia Bielefeld Amat.   34   9 10 15   41-63   37
-15.TSG 1881 Sprockhövel      34  10  5 19   46-72   35
+ 2.VfL Bochum 1848 Amat.        34  24  5  5   79-35   77
+ 3.FC Gütersloh 2000            34  21  6  7   77-39   69
+ 4.SpV Lippstadt 1908           34  19  9  6   74-46   66
+ 5.FC Eintracht Rheine          34  15  6 13   63-60   51
+ 6.SG Wattenscheid 09 [2]       34  14  6 14   53-59   48
+ 7.VfB 1948/64 Hüls             34  12 10 12   55-48   46
+ 8.SuS 1919/20 Stadtlohn        34  12  8 14   37-47   44
+ 9.VfB Fichte Bielefeld 1919    34  11 10 13   49-48   43
+10.Sportfreunde Siegen 1899 [2] 34  12  7 15   49-61   43
+11.SC Buer-Hassel 1919          34  11  8 15   36-55   41
+12.SpVgg Emsdetten 05           34  11  6 17   45-56   39
+13.Lüner SV Fußball 1945        34  10  8 16   55-65   38
+14.DSC Arminia Bielefeld Amat.  34   9 10 15   41-63   37
+15.TSG 1881 Sprockhövel         34  10  5 19   46-72   35
 ---------------------------------------------------------
-16.DJK TuS Hordel 1911      34   8  9 17   52-62   33  Relegated
+16.DJK TuS Hordel 1911          34   8  9 17   52-62   33  Relegated
 17.SC Westfalia 1904 Herne      34   5 13 16   39-61   28  Relegated
-18.TSG 1919 Dülmen               34   7  6 21   40-80   27  Relegated
+18.TSG 1919 Dülmen              34   7  6 21   40-80   27  Relegated
 
 Oberliga Nordrhein
 
 Final Table:
 
- 1.Wuppertaler SV            32  23  6  3   77-22   75  Promoted
+ 1.Wuppertaler SV               32  23  6  3   77-22   75  Promoted
 ----------------------------------------------------------
- 2.Borussia Mönchengladbach Am.   32  19  6  7   64-22   63
- 3.SSVg Velbert 02            32  17  7  8   60-35   58
+ 2.Borussia Mönchengladbach Am. 32  19  6  7   64-22   63
+ 3.SSVg Velbert 02              32  17  7  8   60-35   58
  4.SV Adler Osterfeld 1922      32  18  4 10   58-43   58
- 5.SV Borussia Wuppertal     32  16  7  9   70-50   55
- 6.ETB Schwarz-Weiß Essen 1881    32  14  7 11   41-35   49
- 7.1.FC Bocholt 1900       32  15  3 14   49-55   48
- 8.Düsseldorfer TSV Fortuna   32  12 10 10   47-49   46
- 9.Gürzenicher FC 1909 Düren     32   9 11 12   45-49   38
-10.SC Fortuna Köln            32  10  8 14   35-46   38
-11.SC Brück Viktoria Köln 1994   32  10  6 16   36-57   36
-12.Bonner SC 1901/04       32  10  5 17   39-54   35
-13.Ratinger SpVgg Germania    32   8 11 13   43-63   35
+ 5.SV Borussia Wuppertal        32  16  7  9   70-50   55
+ 6.ETB Schwarz-Weiß Essen 1881  32  14  7 11   41-35   49
+ 7.1.FC Bocholt 1900            32  15  3 14   49-55   48
+ 8.Düsseldorfer TSV Fortuna     32  12 10 10   47-49   46
+ 9.Gürzenicher FC 1909 Düren    32   9 11 12   45-49   38
+10.SC Fortuna Köln              32  10  8 14   35-46   38
+11.SC Brück Viktoria Köln 1994  32  10  6 16   36-57   36
+12.Bonner SC 1901/04            32  10  5 17   39-54   35
+13.Ratinger SpVgg Germania      32   8 11 13   43-63   35
 14.1.FC Union Solingen 1990     32   7 11 14   31-48   32
-15.SC Borussia Freialdenhoven    32   8  8 16   40-62   32
+15.SC Borussia Freialdenhoven   32   8  8 16   40-62   32
 ----------------------------------------------------------
-16.Aachener TSV Alemannia Amat.   32   8  5 19   43-68   29  Relegated
-17.MSV 02 Duisburg Amat.      32   7  7 18   38-58   28  Relegated
-18.Rheydter Spielverein 1905    0   0  0  0    0- 0    0  Withdew, Relegated
+16.Aachener TSV Alemannia Amat. 32   8  5 19   43-68   29  Relegated
+17.MSV 02 Duisburg Amat.        32   7  7 18   38-58   28  Relegated
+18.Rheydter Spielverein 1905     0   0  0  0    0- 0    0  Withdew, Relegated
 
 Oberliga Südwest
 
 Final Table:
 
- 1.1.FSV Mainz 05 Amat.      36  21 10  5   70-23   73  Promoted
+ 1.1.FSV Mainz 05 Amat.         36  21 10  5   70-23   73  Promoted
 ---------------------------------------------------------
- 2.SC 1919 Hauenstein      36  20  6 10   73-45   66
+ 2.SC 1919 Hauenstein           36  20  6 10   73-45   66
  3.VfR Wormatia 1908 Worms      36  19  8  9   71-47   65
- 4.SC 07 Idar-Oberstein      36  17 10  9   70-49   61
- 5.FSV Salmrohr 1921       36  18  6 12   62-49   60
- 6.TuS 1886/1914 Mayen      36  15 11 10   60-50   56
- 7.SV 1946 Weingarten      36  16  8 12   51-46   56
- 8.Eintracht Glas Chemie Wirges   36  16  6 14   63-53   54
- 9.SpVgg 1903 Ingelheim      36  14  7 15   45-52   49
-10.SG Eintracht Bad Kreuznach    36  13 10 13   38-46   49
-11.TuS 1911 Koblenz            36  12 12 12   50-42   48
-12.FC 08 Homburg/Saar      36  12 12 12   48-51   48
-13.FK 1903 Pirmasens       36  12 12 12   46-53   48
-14.1.FC Saarbrücken [2]    36  13  9 14   53-61   48
-15.FV 1907 Engers             36  11 10 15   45-57   43
+ 4.SC 07 Idar-Oberstein         36  17 10  9   70-49   61
+ 5.FSV Salmrohr 1921            36  18  6 12   62-49   60
+ 6.TuS 1886/1914 Mayen          36  15 11 10   60-50   56
+ 7.SV 1946 Weingarten           36  16  8 12   51-46   56
+ 8.Eintracht Glas Chemie Wirges 36  16  6 14   63-53   54
+ 9.SpVgg 1903 Ingelheim         36  14  7 15   45-52   49
+10.SG Eintracht Bad Kreuznach   36  13 10 13   38-46   49
+11.TuS 1911 Koblenz             36  12 12 12   50-42   48
+12.FC 08 Homburg/Saar           36  12 12 12   48-51   48
+13.FK 1903 Pirmasens            36  12 12 12   46-53   48
+14.1.FC Saarbrücken [2]         36  13  9 14   53-61   48
+15.FV 1907 Engers               36  11 10 15   45-57   43
 ----------------------------------------------------------
-16.VfL 1883 Hamm/Sieg      36  11  7 18   38-53   40  Relegated
-17.SV Röchling Völklingen 06   36   8  9 19   41-66   33  Relegated
-18.SC Halberg Brebach      36   6  7 23   31-64   25  Relegated
-19.Sportfreunde 1919 Eisbachtal   36   5  6 25   34-82   21  Relegated
+16.VfL 1883 Hamm/Sieg           36  11  7 18   38-53   40  Relegated
+17.SV Röchling Völklingen 06    36   8  9 19   41-66   33  Relegated
+18.SC Halberg Brebach           36   6  7 23   31-64   25  Relegated
+19.Sportfreunde 1919 Eisbachtal 36   5  6 25   34-82   21  Relegated
 
 Oberliga Hessen
 
 Final Table:
 
- 1.1.FC 1930 Eschborn      34  24  7  3   78-38   79  Promoted
+ 1.1.FC 1930 Eschborn           34  24  7  3   78-38   79  Promoted
 ---------------------------------------------------------
- 2.KSV Hessen Kassel       34  23  5  6   76-32   74
- 3.FSV Frankfurt 1899      34  22  7  5   90-36   73
- 4.SC Borussia 04 Fulda      34  16  6 12   55-47   54
- 5.SV Ein. 1956 Wald-Michelbach   34  16  6 12   56-54   54
- 6.KSV 1964 Baunatal       33  15  5 13   68-58   50
- 7.VfB 1905 Marburg        34  14  7 13   62-56   49
- 8.SVgg Erzhausen von 1913     34  12  8 14   50-43   44
+ 2.KSV Hessen Kassel            34  23  5  6   76-32   74
+ 3.FSV Frankfurt 1899           34  22  7  5   90-36   73
+ 4.SC Borussia 04 Fulda         34  16  6 12   55-47   54
+ 5.SV Ein. 1956 Wald-Michelbach 34  16  6 12   56-54   54
+ 6.KSV 1964 Baunatal            33  15  5 13   68-58   50
+ 7.VfB 1905 Marburg             34  14  7 13   62-56   49
+ 8.SVgg Erzhausen von 1913      34  12  8 14   50-43   44
  9.SV 1919 Bernbach             34  12  9 13   46-45   44
 10.KSV 1920/45 Klein-Karben     34  12  7 15   54-49   43
-11.SC Neukirchen 1899      34  12  7 15   61-82   43  Withdrew after saison, Relegated
-12.FV 1919 Bad Vilbe       34  11  9 14   49-54   42
-13.SpV 1912 Buchonia Flieden   34  12  5 17   41-68   41
-14.TSG 1887 Wörsdorf       33  11  6 16   48-50   39
+11.SC Neukirchen 1899           34  12  7 15   61-82   43  Withdrew after saison, Relegated
+12.FV 1919 Bad Vilbe            34  11  9 14   49-54   42
+13.SpV 1912 Buchonia Flieden    34  12  5 17   41-68   41
+14.TSG 1887 Wörsdorf            33  11  6 16   48-50   39
 ---------------------------------------------------------
-15.OSC 1897 Vellmar               34   9  7 18   33-59   34  Play-Out
+15.OSC 1897 Vellmar             34   9  7 18   33-59   34  Play-Out
 ---------------------------------------------------------
-16.SV Viktoria Aschaffenburg   34   8 10 16   57-84   34  Withdrew after saison, Relegated
-17.FSC 1924 Lohfelden      34   9  3 22   35-79   30  Relegated
-18.SC 1929 Waldgirmes      34   7  6 21   35-60   26  Relegated
+16.SV Viktoria Aschaffenburg    34   8 10 16   57-84   34  Withdrew after saison, Relegated
+17.FSC 1924 Lohfelden           34   9  3 22   35-79   30  Relegated
+18.SC 1929 Waldgirmes           34   7  6 21   35-60   26  Relegated
 
 Play-Out
-1.FC Germania Ober-Roden    10-5  6
+1.FC Germania Ober-Roden        10-5  6
 ---------------------------------------
 2.TSV Eintracht Stadtallendorf   5-4  6
-3.OSC Vellmar           4-8  3
-4.SVA Bad Hersfeld        4-6  3
+3.OSC Vellmar                    4-8  3
+4.SVA Bad Hersfeld               4-6  3
 FC Germania Ober-Roden promoted
 
 Oberliga Baden-Württemberg
 
 Final Table:
 
- 1.VfB Stuttgart 1893 Amat.   34  24  6  4   72-24   78  Promoted
+ 1.VfB Stuttgart 1893 Amat.     34  24  6  4   72-24   78  Promoted
 ---------------------------------------------------------
- 2.SSV Ulm 1846               34  21  6  7   71-44   69
- 3.SC Freiburg 1904 Amat.    34  18 11  5   52-23   65
- 4.SV 1916 Sandhausen      34  16  8 10   59-46   56
- 5.SVgg 1907 Ludwigsburg   34  13 11 10   57-49   50
- 6.FV 1913 Lauda              34  14  7 13   42-40   49
+ 2.SSV Ulm 1846                 34  21  6  7   71-44   69
+ 3.SC Freiburg 1904 Amat.       34  18 11  5   52-23   65
+ 4.SV 1916 Sandhausen           34  16  8 10   59-46   56
+ 5.SVgg 1907 Ludwigsburg        34  13 11 10   57-49   50
+ 6.FV 1913 Lauda                34  14  7 13   42-40   49
  7.SV Stuttgarter Kickers [2]   34  14  7 13   37-41   49
- 8.FC Nöttingen 1967       34  14  5 15   50-47   47
- 9.SV Bonlanden              34  13  8 13   49-46   47
-10.SV Waldhof 07 Mannheim Amat.   34  12  7 15   44-49   43  Relegated [1]
-11.SGV Freiberg am Neckar   34  10 11 13   51-57   41
-12.1.FC 1896 Pforzheim     34  12  5 17   52-69   41
-13.SpVgg 1928 Au/Iller     34  10  9 15   44-44   39
-14.Bahlinger SC 1929          34  11  6 17   41-57   39
-15.Karlsruher SC Amat.           34  10  8 16   49-56   38
+ 8.FC Nöttingen 1967            34  14  5 15   50-47   47
+ 9.SV Bonlanden                 34  13  8 13   49-46   47
+10.SV Waldhof 07 Mannheim Amat. 34  12  7 15   44-49   43  Relegated [1]
+11.SGV Freiberg am Neckar       34  10 11 13   51-57   41
+12.1.FC 1896 Pforzheim          34  12  5 17   52-69   41
+13.SpVgg 1928 Au/Iller          34  10  9 15   44-44   39
+14.Bahlinger SC 1929            34  11  6 17   41-57   39
+15.Karlsruher SC Amat.          34  10  8 16   49-56   38
 ---------------------------------------------------------
-16.FC 1929 Teningen           34  10  5 19   43-69   35  Relegated
-17.FC 1908 Villingen          34   8  9 17   36-68   33  Relegated
-18.SF 1922 Dorfmerkingen   34   6 11 17   37-57   29  Relegated
+16.FC 1929 Teningen             34  10  5 19   43-69   35  Relegated
+17.FC 1908 Villingen            34   8  9 17   36-68   33  Relegated
+18.SF 1922 Dorfmerkingen        34   6 11 17   37-57   29  Relegated
 
 [1] SV Waldhof Mannheim Amat. was relegated because of the relegation of the first team SV Waldhof Mannheim
 
@@ -1628,27 +1628,27 @@ Oberliga Bayern
 
 Final Table:
 
- 1.1.SC Feucht                 34  26  6  2  107-37   84  Promoted
+ 1.1.SC Feucht                  34  26  6  2  107-37   84  Promoted
 ---------------------------------------------------------
- 2.TSV München 1860 Amat.    34  22  5  7   83-35   71
- 3.FC Ismaning               34  20  6  8   77-42   66
- 4.SpVgg 1921 Bayreuth     34  19  5 10   55-46   62
- 5.SC Fürstenfeldbruck von 1919   34  19  3 12   63-43   60
+ 2.TSV München 1860 Amat.       34  22  5  7   83-35   71
+ 3.FC Ismaning                  34  20  6  8   77-42   66
+ 4.SpVgg 1921 Bayreuth          34  19  5 10   55-46   62
+ 5.SC Fürstenfeldbruck von 1919 34  19  3 12   63-43   60
  6.1.FC Nürnberg VfL Amat.      34  17  8  9   70-51   59
- 7.TSV 1946 Aindling       34  16  5 13   58-59   53
- 8.SpVgg Unterhaching 1925 [2]   34  15  5 14   56-56   50
+ 7.TSV 1946 Aindling            34  16  5 13   58-59   53
+ 8.SpVgg Unterhaching 1925 [2]  34  15  5 14   56-56   50
  9.SpVgg Greuther Fürth Amat.   34  14  6 14   66-69   48
-10.SpVgg Weiden                34  12  6 16   43-53   42
-11.SSV Jahn 2000 Regensburg [2]   34  12  5 17   58-63   41
-12.FC Bayern Hof 1910      34  13  2 19   52-69   41
+10.SpVgg Weiden                 34  12  6 16   43-53   42
+11.SSV Jahn 2000 Regensburg [2] 34  12  5 17   58-63   41
+12.FC Bayern Hof 1910           34  13  2 19   52-69   41
 13.SpVgg Ansbach 09             34  10 10 14   54-57   40
-14.SC 1904 Schwabach          34   9  9 16   43-58   36
+14.SC 1904 Schwabach            34   9  9 16   43-58   36
 ---------------------------------------------------------
 15.SG Quelle im TV Fürth 1860   34  10  5 19   49-67   35  Play-Out
-16.TSV Schwaben Augsburg   34   9  8 17   36-67   35  Play-Out
+16.TSV Schwaben Augsburg        34   9  8 17   36-67   35  Play-Out
 ---------------------------------------------------------
-17.FC Falke Markt Schwaben 1930   34   6  6 22   37-81   24  Relegated
-18.TSV Gerbrunn Fußball    34   4  6 24   32-86   18  Withdrew after saison, Relegated
+17.FC Falke Markt Schwaben 1930 34   6  6 22   37-81   24  Relegated
+18.TSV Gerbrunn Fußball         34   4  6 24   32-86   18  Withdrew after saison, Relegated
 
 Play-Out
 Round 1
@@ -1656,7 +1656,7 @@ Quelle Fürth - Schwaben Augsburg  4:0
 
 Round 2
 TSV Großbardorf - SVG Burgkirchen 2:1
-1.FC Passau   - Quelle Fürth    1:1 5:3 after penalties
+1.FC Passau     - Quelle Fürth    1:1 5:3 after penalties
 
 Round 3
 TSV Großbardorf - 1.FC Passau     1:3
@@ -1666,595 +1666,595 @@ Großbardorf and Passau promoted, because no club was relegated to the Oberliga 
 Fifth Level 2002/03
 Group Schleswig-Holstein
 
- 1.FT Eider Büdelsdorf           30  23  2  5   93- 35  71 Promoted
+ 1.FT Eider Büdelsdorf          30  23  2  5   93- 35  71 Promoted
 ----------------------------------------------------------
- 2.TSV 1946 Kropp           30  17  9  4   70- 35  60 Play-Off
+ 2.TSV 1946 Kropp               30  17  9  4   70- 35  60 Play-Off
 ----------------------------------------------------------
- 3.VfB Lübeck von 1919 [2]   30  17  6  7   58- 23  57
- 4.Oldenburger SV 1865           30  16  8  6   54- 34  56
- 5.Nien.-Timmendorfer SV Strand   30  16  5  9   64- 46  53
- 6.Itzehoer SV 1909            30  15  5 10   64- 35  50
- 7.Polizei SV Union Neumünster   30  13  6 11   58- 57  45
- 8.FC Kilia 1902 Kiel      30  13  5 12   61- 60  44
- 9.SV 1963 Henstedt/Rhen      30  11  9 10   52- 34  42
+ 3.VfB Lübeck von 1919 [2]      30  17  6  7   58- 23  57
+ 4.Oldenburger SV 1865          30  16  8  6   54- 34  56
+ 5.Nien.-Timmendorfer SV Strand 30  16  5  9   64- 46  53
+ 6.Itzehoer SV 1909             30  15  5 10   64- 35  50
+ 7.Polizei SV Union Neumünster  30  13  6 11   58- 57  45
+ 8.FC Kilia 1902 Kiel           30  13  5 12   61- 60  44
+ 9.SV 1963 Henstedt/Rhen        30  11  9 10   52- 34  42
 10.VfR Schleswig 1919           30  10  6 14   44- 61  36
-11.SpVgg Rot-Weiß 1911 Moisling   30   9  8 13   52- 73  35
-12.Rendsburger TSV 1859    30  10  4 16   39- 69  34
+11.SpVgg Rot-Weiß 1911 Moisling 30   9  8 13   52- 73  35
+12.Rendsburger TSV 1859         30  10  4 16   39- 69  34
 ----------------------------------------------------------
-13.TSV 1920 Pansdorf         30   8  7 15   34- 52  31 Play-Out
+13.TSV 1920 Pansdorf            30   8  7 15   34- 52  31 Play-Out
 ----------------------------------------------------------
-14.BSC 1967 Brunsbüttel    30   7  5 18   35- 58  26 Relegated
-15.FSV Borussia Lübeck 1991      30   5  7 18   27- 57  22 Relegated
-16.TSV 1913 Heiligenstedten      30   3  2 25   26-102  11 Relegated
+14.BSC 1967 Brunsbüttel         30   7  5 18   35- 58  26 Relegated
+15.FSV Borussia Lübeck 1991     30   5  7 18   27- 57  22 Relegated
+16.TSV 1913 Heiligenstedten     30   3  2 25   26-102  11 Relegated
 
 Group Hamburg
 
- 1.Harburger Turnerbund 1865   30  21  4  5   76- 32  67 Promoted
+ 1.Harburger Turnerbund 1865    30  21  4  5   76- 32  67 Promoted
 ----------------------------------------------------------
- 2.SC Victoria 1895 Hamburg   30  20  5  5   65- 22  65 Play-Off
+ 2.SC Victoria 1895 Hamburg     30  20  5  5   65- 22  65 Play-Off
 ----------------------------------------------------------
  3.TSV Sasel 1925               30  15  7  8   70- 38  52
- 4.Wedeler TSV 1863            30  15  6  9   69- 51  51
- 5.Uhlenhorster SC Paloma 1909   30  14  6 10   52- 44  48
- 6.SC Condor 1956 Hamburg   30  13  5 12   57- 51  44
- 7.VfL Hamburg von 1893    30  12  6 12   50- 59  42
- 8.SV Halstenbek-Rellingen   30  12  5 13   45- 45  41
- 9.VfL Lohbrügge 1892        30  11  6 13   50- 51  39
-10.TuS Holstein Quickborn 1914   30  12  3 15   48- 55  39
-11.TuS Germania Schnelsen    30  10  8 12   54- 51  38
-12.HSV Barmbek-Uhlenhorst 1923   30  10  5 15   28- 50  35
+ 4.Wedeler TSV 1863             30  15  6  9   69- 51  51
+ 5.Uhlenhorster SC Paloma 1909  30  14  6 10   52- 44  48
+ 6.SC Condor 1956 Hamburg       30  13  5 12   57- 51  44
+ 7.VfL Hamburg von 1893         30  12  6 12   50- 59  42
+ 8.SV Halstenbek-Rellingen      30  12  5 13   45- 45  41
+ 9.VfL Lohbrügge 1892           30  11  6 13   50- 51  39
+10.TuS Holstein Quickborn 1914  30  12  3 15   48- 55  39
+11.TuS Germania Schnelsen       30  10  8 12   54- 51  38
+12.HSV Barmbek-Uhlenhorst 1923  30  10  5 15   28- 50  35
 13.TuS Dassendorf 1948          30   9  7 14   39- 63  34
 ----------------------------------------------------------
-14.TSV Uetersen 1898           30   7 12 11   34- 41  33 Relegated
-15.TSV Wandsetal von 1890      30   9  6 15   41- 65  33 Relegated
-16.SV Örnek/Türkspor       30   2  5 23   28- 88  11 Relegated
+14.TSV Uetersen 1898            30   7 12 11   34- 41  33 Relegated
+15.TSV Wandsetal von 1890       30   9  6 15   41- 65  33 Relegated
+16.SV Örnek/Türkspor            30   2  5 23   28- 88  11 Relegated
 
 Group Bremen
 
- 1.SC 1913 Weyhe           30  20  7  3   88- 32  67 Promoted
+ 1.SC 1913 Weyhe                30  20  7  3   88- 32  67 Promoted
 ----------------------------------------------------------
- 2.KSV Vatan Sport Bremen   30  21  4  5   66- 27  67
- 3.Bremer SV 06            30  15  4 11   68- 54  49
- 4.SV Werder Bremen 1899 [Am.2]   30  14  6 10   56- 44  48
+ 2.KSV Vatan Sport Bremen       30  21  4  5   66- 27  67
+ 3.Bremer SV 06                 30  15  4 11   68- 54  49
+ 4.SV Werder Bremen 1899 [Am.2] 30  14  6 10   56- 44  48
  5.Olympischer SC Bremerhaven   30  14  6 10   54- 46  48
- 6.TuRa Bremen             30  14  6 10   50- 45  48
- 7.SG Aumund-Vegesack          30  13  5 12   45- 39  44
- 8.Habenhauser FV             30  12  7 11   66- 49  43
- 9.TSV Osterholz-Tenever Bremen   30  11  7 12   54- 49  40
-10.SV Türkspor Bremen          30   8 12 10   34- 48  36
-11.TS 1890 Woltmershausen   30   8  9 13   35- 44  33
-12.SC Vahr Bremen          30   8  9 13   60- 71  33
+ 6.TuRa Bremen                  30  14  6 10   50- 45  48
+ 7.SG Aumund-Vegesack           30  13  5 12   45- 39  44
+ 8.Habenhauser FV               30  12  7 11   66- 49  43
+ 9.TSV Osterholz-Tenever Bremen 30  11  7 12   54- 49  40
+10.SV Türkspor Bremen           30   8 12 10   34- 48  36
+11.TS 1890 Woltmershausen       30   8  9 13   35- 44  33
+12.SC Vahr Bremen               30   8  9 13   60- 71  33
 ----------------------------------------------------------
-13.Bremer TS 1859 Neustadt   30   9  6 15   39- 63  33 Play-Out
-14.TSV Lesum-Burgdamm       30   9  5 16   29- 48  32 Play-Out
+13.Bremer TS 1859 Neustadt      30   9  6 15   39- 63  33 Play-Out
+14.TSV Lesum-Burgdamm           30   9  5 16   29- 48  32 Play-Out
 ----------------------------------------------------------
-15.Lüssumer TV 1898            30  10  2 18   43- 69  32 Relegated
+15.Lüssumer TV 1898             30  10  2 18   43- 69  32 Relegated
 16.SC Sparta 1901 Bremerhaven   30   4  5 21   33- 92  17 Relegated
 
 Group Niedersachsen West
 
- 1.SV Hannover 1896 Amat.   30  22  4  4   70- 24  70 Promoted
+ 1.SV Hannover 1896 Amat.       30  22  4  4   70- 24  70 Promoted
 ----------------------------------------------------------
- 2.TuS 1910 Lingen             30  15  7  8   60- 38  52
+ 2.TuS 1910 Lingen              30  15  7  8   60- 38  52
  3.VfL Osnabrück von 1899 [2]   30  14 10  6   52- 33  52
- 4.SV Ramlingen-Ehlershausen   30  15  5 10   69- 44  50
- 5.TuS Blau-Weiß 1894 Lohne   30  13  7 10   63- 60  46
- 6.BSV Schwarz-Weiß Rehden 1954   30  12  8 10   52- 46  44
- 7.TSV 1947 Isernhagen       30  11  8 11   46- 52  41
- 8.TSV F.Sachsenr.1891 Hannover   30  10 10 10   36- 37  40
- 9.SV 1931 Holthausen/Biene   30  10  9 11   50- 52  39
-10.Sportvereinigung 1911 Aurich   30  11  6 13   46- 54  39
-11.TuS 1863 Pewsum          30   9 11 10   46- 49  38
-12.SC 1946 Spelle-Venhaus   30  10  7 13   48- 51  37
-13.VfL 1912 Bückeburg         30   9  9 12   44- 57  36
+ 4.SV Ramlingen-Ehlershausen    30  15  5 10   69- 44  50
+ 5.TuS Blau-Weiß 1894 Lohne     30  13  7 10   63- 60  46
+ 6.BSV Schwarz-Weiß Rehden 1954 30  12  8 10   52- 46  44
+ 7.TSV 1947 Isernhagen          30  11  8 11   46- 52  41
+ 8.TSV F.Sachsenr.1891 Hannover 30  10 10 10   36- 37  40
+ 9.SV 1931 Holthausen/Biene     30  10  9 11   50- 52  39
+10.Sportvereinigung 1911 Aurich 30  11  6 13   46- 54  39
+11.TuS 1863 Pewsum              30   9 11 10   46- 49  38
+12.SC 1946 Spelle-Venhaus       30  10  7 13   48- 51  37
+13.VfL 1912 Bückeburg           30   9  9 12   44- 57  36
 ----------------------------------------------------------
-14.1.FC 1919 Wunstorf          30   9  7 14   44- 50  34 Relegated
-15.TuS 1861 Esens            30   7  5 18   33- 67  26 Relegated
-16.TuS 1895 Bersenbrück      30   4  5 21   25- 70  17 Relegated
+14.1.FC 1919 Wunstorf           30   9  7 14   44- 50  34 Relegated
+15.TuS 1861 Esens               30   7  5 18   33- 67  26 Relegated
+16.TuS 1895 Bersenbrück         30   4  5 21   25- 70  17 Relegated
 
 Group Niedersachsen Ost
 
  1.SSV 1921 Vorsfelde           32  23  5  4   64- 14  74 Promoted
 ----------------------------------------------------------
- 2.Freie Turners. Braunschweig   32  18  8  6   67- 38  62
- 3.SV Südharz Walkenried/Wieda   32  18  7  7   61- 28  61
- 4.TuS 1906 Heeslingen         32  16  5 11   76- 55  53
- 5.MTV 1861 Gifhorn            32  15  7 10   56- 42  52
- 6.TSV 1921 Neuenkirchen   32  14  8 10   50- 41  50
- 7.MTV Wolfenbüttel        32  13 10  9   36- 35  49
+ 2.Freie Turners. Braunschweig  32  18  8  6   67- 38  62
+ 3.SV Südharz Walkenried/Wieda  32  18  7  7   61- 28  61
+ 4.TuS 1906 Heeslingen          32  16  5 11   76- 55  53
+ 5.MTV 1861 Gifhorn             32  15  7 10   56- 42  52
+ 6.TSV 1921 Neuenkirchen        32  14  8 10   50- 41  50
+ 7.MTV Wolfenbüttel             32  13 10  9   36- 35  49
  8.TuSpo Lasf./Petershütte/K.   32  15  3 14   78- 54  48
  9.SVG Einbeck                  32  13  9 10   58- 45  48
 10.VfL von 1850 Stade           32  14  5 13   54- 48  47
-11.Braunschweiger SV Ölper 2000   32  13  6 13   42- 46  45
-12.Goslarer SC 1908          32  12  7 13   59- 68  43
-13.FC Eintracht Northeim   32  13  4 15   58- 74  43
+11.Braunschweiger SV Ölper 2000 32  13  6 13   42- 46  45
+12.Goslarer SC 1908             32  12  7 13   59- 68  43
+13.FC Eintracht Northeim        32  13  4 15   58- 74  43
 ----------------------------------------------------------
-14.SV Teutonia Uelzen von 1912   32  11  4 17   41- 49  37 Relegated
-15.SV Grün-Weiß 1897 Vallstedt   32   8  4 20   40- 68  28 Relegated
-16.Lüneburger Sport-Klub [2]   32   4  3 25   33- 96  15 Relegated
-17.TuS Celle FC            32   4  1 27   37-109  13 Relegated
+14.SV Teutonia Uelzen von 1912  32  11  4 17   41- 49  37 Relegated
+15.SV Grün-Weiß 1897 Vallstedt  32   8  4 20   40- 68  28 Relegated
+16.Lüneburger Sport-Klub [2]    32   4  3 25   33- 96  15 Relegated
+17.TuS Celle FC                 32   4  1 27   37-109  13 Relegated
 
 Group Mecklenburg-Vorpommern
 
- 1.Sievershäger SV 1950    30  19  6  5   62- 26  63 Promoted
+ 1.Sievershäger SV 1950         30  19  6  5   62- 26  63 Promoted
 ----------------------------------------------------------
  2.FC Tollense Neubrandenburg   30  19  6  5   76- 43  63
- 3.FC Anker Wismar von 1997   30  17  8  5   51- 29  59
- 4.Torgelower SV Greif     30  16  7  7   73- 45  55
- 5.SV Waren 09             30  15  6  9   54- 37  51
- 6.SpVgg Hafen 1961 Rostock   30  15  6  9   45- 31  51
- 7.SG Warnow Papendorf     30  15  5 10   64- 47  50
- 8.Greifswalder SC 1926    30  13  7 10   62- 44  46
- 9.FC Pommern Stralsund    30  10  5 15   53- 62  35
-10.FC Schönberg 95 [2]     30  10  4 16   49- 78  34
-11.Rostocker FC von 1895   30   9  6 15   48- 71  33
-12.SV Blau-Weiß Polz         30   7 10 13   45- 63  31
-13.Malchower SV 90           30   7  9 14   40- 52  30
+ 3.FC Anker Wismar von 1997     30  17  8  5   51- 29  59
+ 4.Torgelower SV Greif          30  16  7  7   73- 45  55
+ 5.SV Waren 09                  30  15  6  9   54- 37  51
+ 6.SpVgg Hafen 1961 Rostock     30  15  6  9   45- 31  51
+ 7.SG Warnow Papendorf          30  15  5 10   64- 47  50
+ 8.Greifswalder SC 1926         30  13  7 10   62- 44  46
+ 9.FC Pommern Stralsund         30  10  5 15   53- 62  35
+10.FC Schönberg 95 [2]          30  10  4 16   49- 78  34
+11.Rostocker FC von 1895        30   9  6 15   48- 71  33
+12.SV Blau-Weiß Polz            30   7 10 13   45- 63  31
+13.Malchower SV 90              30   7  9 14   40- 52  30
 ----------------------------------------------------------
-14.SV EMCO Strasburg          30   8  6 16   34- 47  30 Play-Out
+14.SV EMCO Strasburg            30   8  6 16   34- 47  30 Play-Out
 ----------------------------------------------------------
-15.FSV von 1919 Malchin    30   7  5 18   46- 70  26 Relegated
+15.FSV von 1919 Malchin         30   7  5 18   46- 70  26 Relegated
 16.SV Warnemünde 1949 Fußball   30   3  4 23   32- 89  13 Relegated
 
 Group Berlin
 
- 1.Yesilyurt Spor Klübü Berlin   34  25  8  1   88- 22  83 Promoted
+ 1.Yesilyurt Spor Klübü Berlin  34  25  8  1   88- 22  83 Promoted
 ----------------------------------------------------------
- 2.SV Tasmania Gropiusstadt      34  23  5  6   93- 53  74
- 3.Berliner FC Dynamo 1999   34  21  6  7   63- 28  69
- 4.FC Hertha 03 Zehlendorf   34  18  3 13   71- 57  57
- 5.Berliner FC Preussen 1894   34  16  8 10   64- 50  56
+ 2.SV Tasmania Gropiusstadt     34  23  5  6   93- 53  74
+ 3.Berliner FC Dynamo 1999      34  21  6  7   63- 28  69
+ 4.FC Hertha 03 Zehlendorf      34  18  3 13   71- 57  57
+ 5.Berliner FC Preussen 1894    34  16  8 10   64- 50  56
  6.SV Sparta Lichtenberg 1911   34  14  7 13   52- 62  49
- 7.FC Alemannia 90-Wacker Berl.   34  12 12 10   66- 60  48
- 8.SC Charlottenburg 1902 Berl.   34  12  9 13   57- 61  45
- 9.VfB Hermsdorf 1916      34  12  9 13   63- 70  45
-10.TSV Rudow 1888          34  11  8 15   49- 49  41
-11.Mariendorfer SV 06      34  11  8 15   53- 58  41
-12.Berliner SC 1895 (Grunewald)   34  10 10 14   42- 51  40
-13.SV Nord Wedding 1893     34  10 10 14   41- 53  40
-14.Berliner TC Borussia 02 [2]   34  10  9 15   53- 61  39
+ 7.FC Alemannia 90-Wacker Berl. 34  12 12 10   66- 60  48
+ 8.SC Charlottenburg 1902 Berl. 34  12  9 13   57- 61  45
+ 9.VfB Hermsdorf 1916           34  12  9 13   63- 70  45
+10.TSV Rudow 1888               34  11  8 15   49- 49  41
+11.Mariendorfer SV 06           34  11  8 15   53- 58  41
+12.Berliner SC 1895 (Grunewald) 34  10 10 14   42- 51  40
+13.SV Nord Wedding 1893         34  10 10 14   41- 53  40
+14.Berliner TC Borussia 02 [2]  34  10  9 15   53- 61  39
 ----------------------------------------------------------
-15.Sp. Drustvo Croatia Berlin     34   9 11 14   43- 54  38 Play-Out
+15.Sp. Drustvo Croatia Berlin   34   9 11 14   43- 54  38 Play-Out
 ----------------------------------------------------------
-16.1.FC Union Berlin Amat.   34  10  6 18   54- 51  36 Relegated
-17.FSV Fortuna Pankow 1946   34   7  6 21   34- 95  27 Relegated
-18.Steglitzer FC Stern Berlin     34   5  5 24   27- 78  20 Relegated
+16.1.FC Union Berlin Amat.      34  10  6 18   54- 51  36 Relegated
+17.FSV Fortuna Pankow 1946      34   7  6 21   34- 95  27 Relegated
+18.Steglitzer FC Stern Berlin   34   5  5 24   27- 78  20 Relegated
 
 Group Brandenburg
 
- 1.FFC Viktoria Frankfurt/Oder   30  19  7  4   71- 25  64 Promoted
+ 1.FFC Viktoria Frankfurt/Oder  30  19  7  4   71- 25  64 Promoted
 ----------------------------------------------------------
  2.SV Schwarz-Rot Neustadt/D.   30  18  8  4   60- 29  62
- 3.SV Falkensee-Finkenkrug 1913   30  17 10  3   78- 27  61
- 4.Ludwigsfelder FC 1996   30  18  3  9   61- 33  57
- 5.SV Altlüdersdorf          30  16  4 10   68- 41  52
- 6.SV Germania 90 Schöneiche   30  15  6  9   72- 56  51
- 7.FSV 63 Luckenwalde        30  12  4 14   49- 58  40
- 8.FC 98 Hennigsdorf          30  11  6 13   58- 53  39
- 9.SC Oberhavel Velten         30  10  8 12   35- 51  38
-10.SV Babelsberg 03 [2]    30   8 12 10   53- 58  36
-11.Breesener SV Guben-Nord   30  10  5 15   49- 61  35
-12.FSV Wacker Fürstenwalde   30  10  5 15   38- 50  35
-13.MSV Hanse Frankfurt/Oder   30   9  7 14   43- 73  34
+ 3.SV Falkensee-Finkenkrug 1913 30  17 10  3   78- 27  61
+ 4.Ludwigsfelder FC 1996        30  18  3  9   61- 33  57
+ 5.SV Altlüdersdorf             30  16  4 10   68- 41  52
+ 6.SV Germania 90 Schöneiche    30  15  6  9   72- 56  51
+ 7.FSV 63 Luckenwalde           30  12  4 14   49- 58  40
+ 8.FC 98 Hennigsdorf            30  11  6 13   58- 53  39
+ 9.SC Oberhavel Velten          30  10  8 12   35- 51  38
+10.SV Babelsberg 03 [2]         30   8 12 10   53- 58  36
+11.Breesener SV Guben-Nord      30  10  5 15   49- 61  35
+12.FSV Wacker Fürstenwalde      30  10  5 15   38- 50  35
+13.MSV Hanse Frankfurt/Oder     30   9  7 14   43- 73  34
 ----------------------------------------------------------
-14.FC Stahl 1998 Brandenburg   30   7  8 15   43- 64  29 Play-Off
+14.FC Stahl 1998 Brandenburg    30   7  8 15   43- 64  29 Play-Off
 ----------------------------------------------------------
 15.FSV GA Brieske-Senftenberg   30   6  8 16   27- 63  26 Relegated
-16.SV Kloster Lehnin          30   2  3 25   23- 86   9 Relegated
+16.SV Kloster Lehnin            30   2  3 25   23- 86   9 Relegated
 
 Group Sachsen-Anhalt
 
  1.VfB Germania 1900 Halberstadt32  21 10  1   83- 27  73 Promoted
 ----------------------------------------------------------
- 2.TSV Völpke                     32  19  8  5   73- 35  65
- 3.SV Dessau 05              32  15 11  6   61- 25  56
- 4.Magdeburger SV 90 Preußen   32  15 11  6   55- 35  56
- 5.VfB 1906 Sangerhausen   32  14 11  7   56- 35  53
- 6.SV Braunsbedra           32  13 13  6   54- 33  52
- 7.FC Grün-Weiß Wolfen     32  14 10  8   50- 31  52
- 8.SG Union Sandersdorf    32  13 11  8   45- 31  50
- 9.SV GW Wittenberg-Piesteritz   32  13  5 14   49- 49  44
-10.TSG Calbe/Saale          32  11  7 14   43- 58  40
-11.VfB IMO Merseburg         32   9 12 11   42- 40  39
-12.1.FC Romonta Amsdorf 1921   32  10  7 15   49- 65  37
-13.VfL Halle 1896           32   9  8 15   42- 58  35
-14.TuS Schwarz-Weiß Bismark   32   8 10 14   50- 56  34
+ 2.TSV Völpke                   32  19  8  5   73- 35  65
+ 3.SV Dessau 05                 32  15 11  6   61- 25  56
+ 4.Magdeburger SV 90 Preußen    32  15 11  6   55- 35  56
+ 5.VfB 1906 Sangerhausen        32  14 11  7   56- 35  53
+ 6.SV Braunsbedra               32  13 13  6   54- 33  52
+ 7.FC Grün-Weiß Wolfen          32  14 10  8   50- 31  52
+ 8.SG Union Sandersdorf         32  13 11  8   45- 31  50
+ 9.SV GW Wittenberg-Piesteritz  32  13  5 14   49- 49  44
+10.TSG Calbe/Saale              32  11  7 14   43- 58  40
+11.VfB IMO Merseburg            32   9 12 11   42- 40  39
+12.1.FC Romonta Amsdorf 1921    32  10  7 15   49- 65  37
+13.VfL Halle 1896               32   9  8 15   42- 58  35
+14.TuS Schwarz-Weiß Bismark     32   8 10 14   50- 56  34
 ----------------------------------------------------------
-15.Haldenslebener SC         32   6  9 17   38- 61  27 Relegated
-16.SV Blau-Weiß Empor Wanzleben   32   7  3 22   32- 77  24 Relegated
-17.Mansfelder SV Eisleben   32   1  2 29   15-121   5 Relegated
+15.Haldenslebener SC            32   6  9 17   38- 61  27 Relegated
+16.SV Blau-Weiß Empor Wanzleben 32   7  3 22   32- 77  24 Relegated
+17.Mansfelder SV Eisleben       32   1  2 29   15-121   5 Relegated
 
 Group Sachsen
 
  1.VfB Auerbach/Vogtland 1906   30  19  6  5   73- 38  63 Promoted
 ----------------------------------------------------------
- 2.VfL Pirna-Copitz 07           30  18  4  8   48- 39  58
- 3.Mörtitzer FC Eilenburg   30  16  8  6   48- 27  56
- 4.VfB Zittau                30  16  7  7   52- 32  55
- 5.FSV Budissa Bautzen       30  15  8  7   54- 34  53
- 6.FC Erzgebirge Aue [2]   30  15  7  8   59- 34  52
- 7.Nieders.FV Gelb-Weiß Görlitz   30  13  5 12   33- 36  44
- 8.SSV Markranstädt          30  11  9 10   43- 35  42
- 9.1.FC Dynamo Dresden [2]   30  11  7 12   52- 47  40
-10.Kickers 94 Markkleeberg   30   9 10 11   45- 49  37
-11.FC Sachsen Leipzig 1990 [2]   30   8 12 10   34- 35  36
-12.FC Concordia Schneeberg   30   9  4 17   34- 54  31
+ 2.VfL Pirna-Copitz 07          30  18  4  8   48- 39  58
+ 3.Mörtitzer FC Eilenburg       30  16  8  6   48- 27  56
+ 4.VfB Zittau                   30  16  7  7   52- 32  55
+ 5.FSV Budissa Bautzen          30  15  8  7   54- 34  53
+ 6.FC Erzgebirge Aue [2]        30  15  7  8   59- 34  52
+ 7.Nieders.FV Gelb-Weiß Görlitz 30  13  5 12   33- 36  44
+ 8.SSV Markranstädt             30  11  9 10   43- 35  42
+ 9.1.FC Dynamo Dresden [2]      30  11  7 12   52- 47  40
+10.Kickers 94 Markkleeberg      30   9 10 11   45- 49  37
+11.FC Sachsen Leipzig 1990 [2]  30   8 12 10   34- 35  36
+12.FC Concordia Schneeberg      30   9  4 17   34- 54  31
 ----------------------------------------------------------
-13.VfB Leipzig [2]           30   7  9 14   34- 53  30 Play-Out
+13.VfB Leipzig [2]              30   7  9 14   34- 53  30 Play-Out
 ----------------------------------------------------------
-14.BSC Rapid Chemnitz-Kappel   30   7  7 16   37- 65  28 Relegated
-15.Bischofswerdaer FV 08   30   5  8 17   27- 40  23 Relegated
+14.BSC Rapid Chemnitz-Kappel    30   7  7 16   37- 65  28 Relegated
+15.Bischofswerdaer FV 08        30   5  8 17   27- 40  23 Relegated
 16.FC Stahl Riesa 1998          30   3  5 22   17- 72  14 Relegated
 
 Group Thüringen
 
- 1.SSV Erfurt-Nord           30  19  6  5   66- 30  63 Promoted
+ 1.SSV Erfurt-Nord              30  19  6  5   66- 30  63 Promoted
 ----------------------------------------------------------
  2.Zipsendorfer FC Meuselwitz   30  16  7  7   54- 32  55
- 3.SV 08 Steinach          30  16  7  7   62- 41  55
- 4.FC Carl Zeiss Jena [2]   30  16  5  9   54- 36  53
- 5.FC Thüringen Weid          30  15  7  8   51- 41  52
- 6.1. Suhler SV 06          30  13  8  9   49- 34  47
- 7.SC 1903 Weimar          30  13  8  9   46- 41  47
- 8.FC Rot-Weiß Erfurt [2]   30  12  7 11   55- 48  43
- 9.FC Einheit Rudolstadt   30   9 12  9   37- 41  39
+ 3.SV 08 Steinach               30  16  7  7   62- 41  55
+ 4.FC Carl Zeiss Jena [2]       30  16  5  9   54- 36  53
+ 5.FC Thüringen Weid            30  15  7  8   51- 41  52
+ 6.1. Suhler SV 06              30  13  8  9   49- 34  47
+ 7.SC 1903 Weimar               30  13  8  9   46- 41  47
+ 8.FC Rot-Weiß Erfurt [2]       30  12  7 11   55- 48  43
+ 9.FC Einheit Rudolstadt        30   9 12  9   37- 41  39
 10.SSV 1907 Schlotheim          30  11  6 13   41- 57  39
-11.SV Schott Jenaer Glas   30  10  6 14   34- 49  36
-12.1.SV Gera                     30   7  9 14   38- 42  30
-13.FSV Schmalkalden 04     30   8  6 16   44- 52  30
+11.SV Schott Jenaer Glas        30  10  6 14   34- 49  36
+12.1.SV Gera                    30   7  9 14   38- 42  30
+13.FSV Schmalkalden 04          30   8  6 16   44- 52  30
 ----------------------------------------------------------
-14.1. Sonneberger SC 04    30   9  6 15   43- 59  29 Play-Out
+14.1. Sonneberger SC 04         30   9  6 15   43- 59  29 Play-Out
 ----------------------------------------------------------
-15.1.SC 1911 Heiligenstadt   30   6  5 19   27- 64  23 Relegated
-16.FC Union Mühlhausen        30   3  9 18   31- 65  18 Relegated
+15.1.SC 1911 Heiligenstadt      30   6  5 19   27- 64  23 Relegated
+16.FC Union Mühlhausen          30   3  9 18   31- 65  18 Relegated
 
 Group Westfalen 1
 
- 1.LR Ahlen Amat.          28  21  2  5   84- 32  65 Promoted
+ 1.LR Ahlen Amat.               28  21  2  5   84- 32  65 Promoted
 ----------------------------------------------------------
- 2.SV Enger-Westerenger    28  18  5  5   51- 24  59 Play-Off
+ 2.SV Enger-Westerenger         28  18  5  5   51- 24  59 Play-Off
 ----------------------------------------------------------
- 3.SC Wiedenbrück 2000       28  17  3  8   62- 28  54
- 4.SV Borussia Emsdetten   28  15  6  7   47- 36  51
- 5.VfL Sportfreunde Lotte 1929   28  14  4 10   63- 32  46
- 6.SpVgg Vreden 21          28  12  7  9   57- 57  43
- 7.Hövelhofer SV            28  11  8  9   48- 42  41
- 8.SC Paderborn 07 [2]           28  10  8 10   43- 49  38
+ 3.SC Wiedenbrück 2000          28  17  3  8   62- 28  54
+ 4.SV Borussia Emsdetten        28  15  6  7   47- 36  51
+ 5.VfL Sportfreunde Lotte 1929  28  14  4 10   63- 32  46
+ 6.SpVgg Vreden 21              28  12  7  9   57- 57  43
+ 7.Hövelhofer SV                28  11  8  9   48- 42  41
+ 8.SC Paderborn 07 [2]          28  10  8 10   43- 49  38
  9.SV Davaria 1949 Davensberg   28   9  8 11   42- 45  35
-10.Delbrücker SC              28   8  8 12   36- 49  32
-11.SC 1972 Herford          28   7 10 11   45- 54  31
-12.Hammer SpVgg 1903/04    28   6  9 13   36- 53  27
-13.SC Preußen 1906 Lengerich   28   5  7 16   27- 50  22
+10.Delbrücker SC                28   8  8 12   36- 49  32
+11.SC 1972 Herford              28   7 10 11   45- 54  31
+12.Hammer SpVgg 1903/04         28   6  9 13   36- 53  27
+13.SC Preußen 1906 Lengerich    28   5  7 16   27- 50  22
 ----------------------------------------------------------
-14.TuS Jöllenbeck          28   5  5 18   39- 81  20 Relegated
-15.SpVgg 20 Brakel           28   4  6 18   29- 77  18 Relegated
+14.TuS Jöllenbeck               28   5  5 18   39- 81  20 Relegated
+15.SpVgg 20 Brakel              28   4  6 18   29- 77  18 Relegated
 
 Group Westfalen 2
 
- 1.SV Schermbeck 1912            28  18  6  4   70- 30  60 Promoted
+ 1.SV Schermbeck 1912           28  18  6  4   70- 30  60 Promoted
 ----------------------------------------------------------
- 2.SV Vorwärts Kornharpen 1929   28  16  5  7   56- 42  53 Play-Off
+ 2.SV Vorwärts Kornharpen 1929  28  16  5  7   56- 42  53 Play-Off
 ----------------------------------------------------------
- 3.SG Herten-Langenbochum   28  14  6  8   57- 31  48
- 4.SC Rot-Weiß 1971 Lüdenscheid   28  14  4 10   61- 30  46
- 5.SV Hohenlimburg 1910    28  12  9  7   41- 27  45
- 6.SpVgg. 1916 Erkenschwick   28  11  8  9   43- 41  41
- 7.SF Oestrich-Iserlohn 1949   28  10  9  9   50- 46  39
- 8.STV Horst-Emscher Husaren   28  11  6 11   43- 49  39
- 9.SpVgg Marl 1912/22          28  11  6 11   42- 55  39
-10.TuS 1895 Erndtebrück    28  11  5 12   52- 52  38
+ 3.SG Herten-Langenbochum       28  14  6  8   57- 31  48
+ 4.SC Rot-Weiß 1971 Lüdenscheid 28  14  4 10   61- 30  46
+ 5.SV Hohenlimburg 1910         28  12  9  7   41- 27  45
+ 6.SpVgg. 1916 Erkenschwick     28  11  8  9   43- 41  41
+ 7.SF Oestrich-Iserlohn 1949    28  10  9  9   50- 46  39
+ 8.STV Horst-Emscher Husaren    28  11  6 11   43- 49  39
+ 9.SpVgg Marl 1912/22           28  11  6 11   42- 55  39
+10.TuS 1895 Erndtebrück         28  11  5 12   52- 52  38
 11.TuS 1886 Sundern/Sauerland   28  12  1 15   49- 67  37
-12.VfL Schwerte 1919/21    28   9  8 11   42- 49  35
-13.TuS Iserlohn 1846          28   7  5 16   43- 60  26
+12.VfL Schwerte 1919/21         28   9  8 11   42- 49  35
+13.TuS Iserlohn 1846            28   7  5 16   43- 60  26
 ----------------------------------------------------------
-14.SV 1912 Herne-Sodingen   28   7  5 16   39- 58  26 Relegated
-15.DSC 1969 Wanne-Eickel   28   3  5 20   21- 72  14 Relegated
+14.SV 1912 Herne-Sodingen       28   7  5 16   39- 58  26 Relegated
+15.DSC 1969 Wanne-Eickel        28   3  5 20   21- 72  14 Relegated
 
 Group Niederrhein
 
- 1.1.FC Kleve 1863/1903    28  17  6  5   53- 21  57 Promoted
+ 1.1.FC Kleve 1863/1903         28  17  6  5   53- 21  57 Promoted
 ----------------------------------------------------------
- 2.SV Viktoria Goch          28  17  3  8   48- 28  54 Play-Off
+ 2.SV Viktoria Goch             28  17  3  8   48- 28  54 Play-Off
 ----------------------------------------------------------
- 3.SV 1919 Straelen         28  15  5  8   52- 39  50
- 4.VfB Speldorf Mülheim    28  14  7  7   71- 36  49
- 5.VfB Homberg Duisburg    28  13  8  7   43- 31  47
- 6.SV Hilden-Nord 1964     28  13  4 11   48- 58  43
- 7.TuS Union 09 Mülheim    28  13  3 12   51- 52  42
- 8.Düsseldorfer TSV Fort.95 [2]   28  11  5 12   51- 42  38
- 9.TuSpo Richrath 1869     28  10  6 12   51- 54  36
-10.Sportfreunde Hamborn 07   28   9  7 12   47- 53  34
-11.SC Union Nettetal       28   9  6 13   33- 41  33
-12.SV 1911 Bottrop          28   9  6 13   43- 61  33
+ 3.SV 1919 Straelen             28  15  5  8   52- 39  50
+ 4.VfB Speldorf Mülheim         28  14  7  7   71- 36  49
+ 5.VfB Homberg Duisburg         28  13  8  7   43- 31  47
+ 6.SV Hilden-Nord 1964          28  13  4 11   48- 58  43
+ 7.TuS Union 09 Mülheim         28  13  3 12   51- 52  42
+ 8.Düsseldorfer TSV Fort.95 [2] 28  11  5 12   51- 42  38
+ 9.TuSpo Richrath 1869          28  10  6 12   51- 54  36
+10.Sportfreunde Hamborn 07      28   9  7 12   47- 53  34
+11.SC Union Nettetal            28   9  6 13   33- 41  33
+12.SV 1911 Bottrop              28   9  6 13   43- 61  33
 ----------------------------------------------------------
-13.FC Kray 09/31              28   8  6 14   31- 39  30 Play-Out
+13.FC Kray 09/31                28   8  6 14   31- 39  30 Play-Out
 ----------------------------------------------------------
-14.VfL Rhede 1920          28   6  7 15   36- 58  25 Relegated
-15.FC Remscheid               28   3  7 18   21- 66  16 Relegated
-16.Hülser SV                0   0  0  0    0-  0   0 Withdrew, Relegated
+14.VfL Rhede 1920               28   6  7 15   36- 58  25 Relegated
+15.FC Remscheid                 28   3  7 18   21- 66  16 Relegated
+16.Hülser SV                     0   0  0  0    0-  0   0 Withdrew, Relegated
 
 Group Mittelrhein
 
  1.PSI Köln Yurdumspor          30  22  2  6   71- 25  68 Promoted
 ----------------------------------------------------------
- 2.SSG 09 Bergisch Gladbach   30  17  6  7   57- 37  57 Play-Off
+ 2.SSG 09 Bergisch Gladbach     30  17  6  7   57- 37  57 Play-Off
 ----------------------------------------------------------
- 3.FC Junkersdorf 1946         30  16  8  6   68- 46  56
- 4.FC Germania Dattenfeld 1916   30  16  7  7   52- 36  55
+ 3.FC Junkersdorf 1946          30  16  8  6   68- 46  56
+ 4.FC Germania Dattenfeld 1916  30  16  7  7   52- 36  55
  5.SC Renault Brühl             30  16  4 10   74- 57  52
- 6.VfL 1913 Rheinbach         30  14  9  7   57- 27  51
- 7.Euskirchener TSC 48/13   30  12  8 10   50- 42  44
- 8.Bad Honnefer FV 1919    30  11 10  9   48- 40  43
- 9.FC Germania Lich-Steinstraß   30  11  6 13   46- 54  39
-10.FSV Geilenkirchen-Hünshoven   30  11  6 13   44- 62  39
-11.VfB Borussia Brand 08 Aachen   30  10  6 14   45- 71  36
-12.SV Rhenania Alsdorf 1910   30   7  9 14   39- 52  30
+ 6.VfL 1913 Rheinbach           30  14  9  7   57- 27  51
+ 7.Euskirchener TSC 48/13       30  12  8 10   50- 42  44
+ 8.Bad Honnefer FV 1919         30  11 10  9   48- 40  43
+ 9.FC Germania Lich-Steinstraß  30  11  6 13   46- 54  39
+10.FSV Geilenkirchen-Hünshoven  30  11  6 13   44- 62  39
+11.VfB Borussia Brand 08 Aachen 30  10  6 14   45- 71  36
+12.SV Rhenania Alsdorf 1910     30   7  9 14   39- 52  30
 ----------------------------------------------------------
-13.FC Blau-Weiß 1949 Brühl   30   8  6 16   38- 57  30 Play-Out
+13.FC Blau-Weiß 1949 Brühl      30   8  6 16   38- 57  30 Play-Out
 ----------------------------------------------------------
-14.FC Germania 1910 Teveren   30   7  6 17   40- 56  27 Relegated
-15.TuS Schmidt 1911           30   5 10 15   35- 59  25 Relegated
-16.FC Eintracht Italia Köln   30   4  3 23   31- 74  15 Relegated
+14.FC Germania 1910 Teveren     30   7  6 17   40- 56  27 Relegated
+15.TuS Schmidt 1911             30   5 10 15   35- 59  25 Relegated
+16.FC Eintracht Italia Köln     30   4  3 23   31- 74  15 Relegated
 
 Group Rheinland
 
- 1.SV Klausen                  30  19  7  4   56- 23  64 Promoted
+ 1.SV Klausen                   30  19  7  4   56- 23  64 Promoted
 ----------------------------------------------------------
- 2.SV Eintracht Trier 05 Amat.   30  19  5  6   76- 28  62 Play-Off
+ 2.SV Eintracht Trier 05 Amat.  30  19  5  6   76- 28  62 Play-Off
 ----------------------------------------------------------
- 3.FSV Salmrohr 1921 [2]   30  16  6  8   63- 49  54
- 4.SG 1906 Betzdorf         30  15  7  8   56- 36  52
+ 3.FSV Salmrohr 1921 [2]        30  16  6  8   63- 49  54
+ 4.SG 1906 Betzdorf             30  15  7  8   56- 36  52
  5.Roßbach/Verscheid-Breitscheid30  13  8  9   46- 34  47
- 6.TSV Emmelshausen         30  12 11  7   51- 42  47
- 7.TuS Rolandseck Oberwinter   30  11 11  8   41- 34  44
- 8.TuS Jahn 05 Argenthal   30  10 13  7   45- 38  43
- 9.SG Dreis/Dörbach         30  11  9 10   34- 35  42
-10.SG Langenhahn/Rothenbach   30   9 12  9   48- 36  39
-11.SV Leiwen-Köwerich 2000   30   7 12 11   46- 49  33
-12.Spvgg Eintracht GC Wirges[2]   30   8  9 13   36- 50  33
-13.SG Neuwied/Irlich/Hüllenberg   30  10  2 18   28- 48  32
+ 6.TSV Emmelshausen             30  12 11  7   51- 42  47
+ 7.TuS Rolandseck Oberwinter    30  11 11  8   41- 34  44
+ 8.TuS Jahn 05 Argenthal        30  10 13  7   45- 38  43
+ 9.SG Dreis/Dörbach             30  11  9 10   34- 35  42
+10.SG Langenhahn/Rothenbach     30   9 12  9   48- 36  39
+11.SV Leiwen-Köwerich 2000      30   7 12 11   46- 49  33
+12.Spvgg Eintracht GC Wirges[2] 30   8  9 13   36- 50  33
+13.SG Neuwied/Irlich/Hüllenberg 30  10  2 18   28- 48  32
 ----------------------------------------------------------
-14.SV Tälchen Krettnach    30   6  5 19   34- 69  23 Play-Out
+14.SV Tälchen Krettnach         30   6  5 19   34- 69  23 Play-Out
 ----------------------------------------------------------
-15.TuS 1846/1912 Montabaur   30   6  5 19   40- 87  23 Relegated
-16.FC Germania 1912 Metternich   30   5  4 21   27- 69  19 Relegated
+15.TuS 1846/1912 Montabaur      30   6  5 19   40- 87  23 Relegated
+16.FC Germania 1912 Metternich  30   5  4 21   27- 69  19 Relegated
 
 Group Südwest
 
- 1.Binger FVgg Hassia 1910   30  22  7  1   63- 18  73 Promoted
+ 1.Binger FVgg Hassia 1910      30  22  7  1   63- 18  73 Promoted
 ----------------------------------------------------------
- 2.VfR 1919 Grünstadt          30  20  6  4   52- 27  66 Play-Off
+ 2.VfR 1919 Grünstadt           30  20  6  4   52- 27  66 Play-Off
 ----------------------------------------------------------
- 3.SV 1929 Niederauerbach   30  16  8  6   63- 29  56
- 4.TuS 1914 Mechtersheim   30  15  7  8   82- 49  52
- 5.SV Südwest 1882 Ludwigshafen   30  14  6 10   54- 35  48
- 6.1.FC Haßloch 1908          30  13  9  8   49- 39  48
- 7.Turnerbund Jahn 1896 Zeiskam   30  11  8 11   50- 37  41
+ 3.SV 1929 Niederauerbach       30  16  8  6   63- 29  56
+ 4.TuS 1914 Mechtersheim        30  15  7  8   82- 49  52
+ 5.SV Südwest 1882 Ludwigshafen 30  14  6 10   54- 35  48
+ 6.1.FC Haßloch 1908            30  13  9  8   49- 39  48
+ 7.Turnerbund Jahn 1896 Zeiskam 30  11  8 11   50- 37  41
  8.TuS 1904 Hohenecken          30  11  7 12   39- 43  40
- 9.SV Viktoria 1913 Herxheim   30  11  6 13   53- 55  39
-10.TuS 1894 Neuhausen Worms   30  12  3 15   48- 68  39
-11.SV 1931 Hermersberg           30   9 10 11   50- 50  37
-12.FV 1919 Speyer           30   8  7 15   47- 54  31
+ 9.SV Viktoria 1913 Herxheim    30  11  6 13   53- 55  39
+10.TuS 1894 Neuhausen Worms     30  12  3 15   48- 68  39
+11.SV 1931 Hermersberg          30   9 10 11   50- 50  37
+12.FV 1919 Speyer               30   8  7 15   47- 54  31
 ----------------------------------------------------------
-13.TSG 1892 Mainz-Hechtsheim   30   7  6 17   31- 67  27 Play-Out
-14.FK 1919 Clausen         30   6  6 18   35- 69  24 Play-Out
+13.TSG 1892 Mainz-Hechtsheim    30   7  6 17   31- 67  27 Play-Out
+14.FK 1919 Clausen              30   6  6 18   35- 69  24 Play-Out
 ----------------------------------------------------------
-15.SV 1920 Horchheim         30   5  8 17   29- 59  23 Relegated
-16.SG Rot-Weiß/Olympia Alzey   30   5  6 19   27- 73  21 Relegated
+15.SV 1920 Horchheim            30   5  8 17   29- 59  23 Relegated
+16.SG Rot-Weiß/Olympia Alzey    30   5  6 19   27- 73  21 Relegated
 
 Group Saarland
 
  1.FV Sportfreunde Köllerbach   34  22  6  6   85- 41  72 Promoted
 ----------------------------------------------------------
- 2.SG SV Holz/FC Kutzhof   34  21  8  5   77- 31  71 Play-Off
+ 2.SG SV Holz/FC Kutzhof        34  21  8  5   77- 31  71 Play-Off
 ----------------------------------------------------------
- 3.1.FC Reimsbach          34  19  8  7   90- 49  65
- 4.1.FC Riegelsberg           34  18  7  9   74- 48  61
+ 3.1.FC Reimsbach               34  19  8  7   90- 49  65
+ 4.1.FC Riegelsberg             34  18  7  9   74- 48  61
  5.SV RW 1920 Hasborn/Dautweiler34  16 13  5   58- 35  61
- 6.SV 1919 Auersmacher     34  14  9 11   59- 56  51
- 7.SC 1930 Gresaubach        34  13 10 11   63- 57  49
- 8.VfB Alkonia Hüttigweiler   34  13  9 12   70- 79  48
- 9.SV 1920 Mettlach         34  12 11 11   55- 57  47
-10.FV 1910 Eppelborn         34  12  8 14   56- 54  44
-11.FC Palatia Limbach       34  11  9 14   52- 70  42
-12.SV Reiskirchen 1910         34  11  8 15   60- 69  41
-13.VfB 1919 Theley            34   8 16 10   50- 47  40
-14.SV Saar 05 Saarbrücken   34  10 10 14   52- 53  40
-15.SG Perl/Besch            34  10  7 17   42- 58  37
+ 6.SV 1919 Auersmacher          34  14  9 11   59- 56  51
+ 7.SC 1930 Gresaubach           34  13 10 11   63- 57  49
+ 8.VfB Alkonia Hüttigweiler     34  13  9 12   70- 79  48
+ 9.SV 1920 Mettlach             34  12 11 11   55- 57  47
+10.FV 1910 Eppelborn            34  12  8 14   56- 54  44
+11.FC Palatia Limbach           34  11  9 14   52- 70  42
+12.SV Reiskirchen 1910          34  11  8 15   60- 69  41
+13.VfB 1919 Theley              34   8 16 10   50- 47  40
+14.SV Saar 05 Saarbrücken       34  10 10 14   52- 53  40
+15.SG Perl/Besch                34  10  7 17   42- 58  37
 ----------------------------------------------------------
-16.SC Viktoria 1912 Hühnerfeld   34   9  7 18   47- 78  34 Play-Out
+16.SC Viktoria 1912 Hühnerfeld  34   9  7 18   47- 78  34 Play-Out
 ----------------------------------------------------------
-17.SSV Eintracht Überherrn   34   5  5 24   42- 89  20 Relegated
-18.FV Siersburg             34   3  7 24   42-103  16 Relegated
+17.SSV Eintracht Überherrn      34   5  5 24   42- 89  20 Relegated
+18.FV Siersburg                 34   3  7 24   42-103  16 Relegated
 
 Group Hessen-Nord
 
- 1.Hünfelder SV 1919          30  20  9  1   87- 24  69 Promoted
+ 1.Hünfelder SV 1919            30  20  9  1   87- 24  69 Promoted
 ----------------------------------------------------------
- 2.SV 1928 Asbach Bad Hersfeld   30  20  6  4   78- 35  66 Play-Off
+ 2.SV 1928 Asbach Bad Hersfeld  30  20  6  4   78- 35  66 Play-Off
 ----------------------------------------------------------
- 3.TuSpo 1886 Ziegenhain   30  19  5  6   69- 33  62
- 4.TSV 1965 Lehnerz        30  16  6  8   67- 45  54
- 5.VfL 1886 Kassel         30  14  8  8   46- 36  50
- 6.Ski-Club Upland Willingen   30  13  5 12   56- 50  43
- 7.SG Korbach 09            30  12  6 12   47- 44  42
- 8.TSG Germania Wattenbach   30  10  7 13   49- 55  37
- 9.SpV Adler 1919 Weidenhausen   30   9  9 12   49- 54  36
+ 3.TuSpo 1886 Ziegenhain        30  19  5  6   69- 33  62
+ 4.TSV 1965 Lehnerz             30  16  6  8   67- 45  54
+ 5.VfL 1886 Kassel              30  14  8  8   46- 36  50
+ 6.Ski-Club Upland Willingen    30  13  5 12   56- 50  43
+ 7.SG Korbach 09                30  12  6 12   47- 44  42
+ 8.TSG Germania Wattenbach      30  10  7 13   49- 55  37
+ 9.SpV Adler 1919 Weidenhausen  30   9  9 12   49- 54  36
 10.SC Borussia 1904 Fulda [2]   30  10  6 14   45- 57  36
-11.1.FSV Dörnberg             30  10  5 15   47- 78  35
-12.TSG Lütter                     30   9  7 14   36- 61  34
+11.1.FSV Dörnberg               30  10  5 15   47- 78  35
+12.TSG Lütter                   30   9  7 14   36- 61  34
 ----------------------------------------------------------
-13.TSV 1920 Altenlotheim   30   9  6 15   52- 69  33 Play-Out
+13.TSV 1920 Altenlotheim        30   9  6 15   52- 69  33 Play-Out
 ----------------------------------------------------------
-14.RSV 1919 Petersberg         30   7  9 14   52- 66  30 Relegated
-15.SV Steinbach 1920           30   7  5 18   49- 74  26 Relegated
-16.Melsunger FV 08         30   2  7 21   32- 80  13 Relegated
+14.RSV 1919 Petersberg          30   7  9 14   52- 66  30 Relegated
+15.SV Steinbach 1920            30   7  5 18   49- 74  26 Relegated
+16.Melsunger FV 08              30   2  7 21   32- 80  13 Relegated
 
 Group Hessen-Mitte
 
- 1.FSV 1918 Braunfels          30  19  8  3   64- 29  65 Promoted
+ 1.FSV 1918 Braunfels           30  19  8  3   64- 29  65 Promoted
 ----------------------------------------------------------
- 2.SG Eintracht Wetzlar 05   30  18  6  6   57- 26  60 Play-Off
+ 2.SG Eintracht Wetzlar 05      30  18  6  6   57- 26  60 Play-Off
 ----------------------------------------------------------
- 3.TSV Eintr. Stadtallendorf   30  17  8  5   65- 28  59
+ 3.TSV Eintr. Stadtallendorf    30  17  8  5   65- 28  59
  4.FC Ederbergland Battenberg   30  17  5  8   71- 33  56
- 5.SV Wehen Taunusstein [2]   30  15  3 12   57- 44  48
- 6.RSV 1920 Würges            30  13  5 12   57- 41  44
- 7.FC Eddersheim              30  13  5 12   59- 48  44
- 8.VfB 1912 Unterliederbach   30  11  8 11   59- 58  41
- 9.TSV 03/30 Michelbach    30  11  7 12   50- 56  40
-10.VfB 1924 Aßlar              30  11  5 14   50- 59  38
-11.SV 1919 Zeilsheim       30  11  4 15   66- 63  37
-12.SG 1932 Walluf          30   9  8 13   52- 61  35
+ 5.SV Wehen Taunusstein [2]     30  15  3 12   57- 44  48
+ 6.RSV 1920 Würges              30  13  5 12   57- 41  44
+ 7.FC Eddersheim                30  13  5 12   59- 48  44
+ 8.VfB 1912 Unterliederbach     30  11  8 11   59- 58  41
+ 9.TSV 03/30 Michelbach         30  11  7 12   50- 56  40
+10.VfB 1924 Aßlar               30  11  5 14   50- 59  38
+11.SV 1919 Zeilsheim            30  11  4 15   66- 63  37
+12.SG 1932 Walluf               30   9  8 13   52- 61  35
 ----------------------------------------------------------
-13.SG Oberes Dietzhölztal   30  10  5 15   47- 66  34 Play-Out
+13.SG Oberes Dietzhölztal       30  10  5 15   47- 66  34 Play-Out
 ----------------------------------------------------------
-14.FC 1920 Burgsolms        30   8  6 16   48- 67  30 Relegated
-15.VfB 09 Wetter           30   7  9 14   32- 66  30 Relegated
-16.1.SC Gießen-Sachsenhausen   30   2  4 24   26-115  10 Relegated
+14.FC 1920 Burgsolms            30   8  6 16   48- 67  30 Relegated
+15.VfB 09 Wetter                30   7  9 14   32- 66  30 Relegated
+16.1.SC Gießen-Sachsenhausen    30   2  4 24   26-115  10 Relegated
 
 Group Nordbaden
 
- 1.TSG 1862/1909 Weinheim   28  20  5  3   71- 26  65 Promoted
+ 1.TSG 1862/1909 Weinheim       28  20  5  3   71- 26  65 Promoted
 ----------------------------------------------------------
- 2.TSG 1899 Hoffenheim [2]   28  17  8  3   61- 18  59 Play-Off
+ 2.TSG 1899 Hoffenheim [2]      28  17  8  3   61- 18  59 Play-Off
 ----------------------------------------------------------
- 3.FC Astoria Walldorf     28  16  6  6   59- 43  54
+ 3.FC Astoria Walldorf          28  16  6  6   59- 43  54
  4.ASV 1902 Durlach Karlsruhe   28  16  5  7   46- 21  53
- 5.SpVgg Oberhausen        28  13  7  8   46- 45  46
- 6.SV 1920 Spielberg        28  12  8  8   59- 41  44
- 7.SG Kirchheim Heidelberg   28  13  3 12   58- 50  42
- 8.TV 1895 Hardheim         28  10  6 12   36- 36  36
- 9.VfB 1914 Leimen          28   9  6 13   43- 54  33
-10.FC 1908 Neureut         28   6 12 10   30- 31  30
+ 5.SpVgg Oberhausen             28  13  7  8   46- 45  46
+ 6.SV 1920 Spielberg            28  12  8  8   59- 41  44
+ 7.SG Kirchheim Heidelberg      28  13  3 12   58- 50  42
+ 8.TV 1895 Hardheim             28  10  6 12   36- 36  36
+ 9.VfB 1914 Leimen              28   9  6 13   43- 54  33
+10.FC 1908 Neureut              28   6 12 10   30- 31  30
 11.FC Victoria 1910 Bammental   28   6 12 10   31- 47  30
-12.SV 1910 Sinsheim          28   8  5 15   31- 57  29
+12.SV 1910 Sinsheim             28   8  5 15   31- 57  29
 ----------------------------------------------------------
-13.FC Germania 1909 Forst   28   7  6 15   34- 56  27 Play-Out
+13.FC Germania 1909 Forst       28   7  6 15   34- 56  27 Play-Out
 ----------------------------------------------------------
-14.SV Schollbrunn           28   5  2 21   33- 77  17 Relegated
-15.SV 98 Schwetzingen          28   3  7 18   21- 57  16 Relegated
-16.SV Laudenbach            0   0  0  0    0-  0   0 Withdrew, Relegated
+14.SV Schollbrunn               28   5  2 21   33- 77  17 Relegated
+15.SV 98 Schwetzingen           28   3  7 18   21- 57  16 Relegated
+16.SV Laudenbach                 0   0  0  0    0-  0   0 Withdrew, Relegated
 
 Group Südbaden
 
- 1.SV 1949 Linx             30  22  4  4   74- 19  70 Promoted
+ 1.SV 1949 Linx                 30  22  4  4   74- 19  70 Promoted
 ----------------------------------------------------------
- 2.FC Emmendingen 1903         30  19  4  7   75- 41  61 Play-Off
+ 2.FC Emmendingen 1903          30  19  4  7   75- 41  61 Play-Off
 ----------------------------------------------------------
- 3.FC Rastatt 1904          30  17  9  4   60- 28  60
+ 3.FC Rastatt 1904              30  17  9  4   60- 28  60
  4.Offenburger FV 1907          30  18  6  6   60- 36  60
- 5.FC Steinen-Höllstein 1912   30  14 10  6   64- 44  52
- 6.Freiburger FC 1897         30  12  6 12   68- 52  42
- 7.FC 1928 Denzlingen       30  12  5 13   52- 45  41
- 8.SV 1923 Rust                30  12  5 13   49- 54  41
- 9.FV 1919 Herbolzheim     30  12  4 14   56- 76  40
-10.FC 1900 Konstanz          30  11  5 14   56- 59  38
-11.FV Donaueschingen          30   8 12 10   53- 58  36
-12.SV 08 Laufenburg           30   8 10 12   39- 46  34
+ 5.FC Steinen-Höllstein 1912    30  14 10  6   64- 44  52
+ 6.Freiburger FC 1897           30  12  6 12   68- 52  42
+ 7.FC 1928 Denzlingen           30  12  5 13   52- 45  41
+ 8.SV 1923 Rust                 30  12  5 13   49- 54  41
+ 9.FV 1919 Herbolzheim          30  12  4 14   56- 76  40
+10.FC 1900 Konstanz             30  11  5 14   56- 59  38
+11.FV Donaueschingen            30   8 12 10   53- 58  36
+12.SV 08 Laufenburg             30   8 10 12   39- 46  34
 ----------------------------------------------------------
 13.SV Kirchzarten 1922          30   6 10 14   29- 55  28 Play-Out
 ----------------------------------------------------------
-14.FC Singen 04              30   6  6 18   44- 71  24 Relegated
-15.FC 1911 Neustadt/Schwarzwald   30   5  5 20   27- 84  20 Relegated
-16.FC Bötzingen 1949        30   3  9 18   41- 79  18 Relegated
+14.FC Singen 04                 30   6  6 18   44- 71  24 Relegated
+15.FC 1911 Neustadt/Schwarzwald 30   5  5 20   27- 84  20 Relegated
+16.FC Bötzingen 1949            30   3  9 18   41- 79  18 Relegated
 
 Group Württemberg
 
- 1.TSV 1846 Crailsheim        28  21  1  6   68- 23  64 Promoted
+ 1.TSV 1846 Crailsheim          28  21  1  6   68- 23  64 Promoted
 ----------------------------------------------------------
- 2.Heidenheimer SB 1846    28  17  7  4   60- 27  58 Play-Off
+ 2.Heidenheimer SB 1846         28  17  7  4   60- 27  58 Play-Off
 ----------------------------------------------------------
- 3.VfL 1946 Kirchheim/Teck   28  16  2 10   48- 28  50
- 4.TSF 1893 Ditzingen       28  14  6  8   41- 29  48
- 5.1.FC Normannia Gmünd    28  12  6 10   46- 44  42
- 6.SSV Reutlingen 05 Amat.   28  12  6 10   36- 36  42
- 7.SpVgg Böblingen           28  11  7 10   45- 34  40
- 8.SG Sonnenhof/Großaspach   28  12  3 13   40- 48  39
- 9.TSV 1905 Schönaich       28  10  4 14   45- 55  34
-10.TuS 1936 Metzingen         28   9  7 12   41- 59  34
-11.VfR 1896 Heilbronn          28   9  4 15   34- 48  31
-12.TSG Balingen             28   9  4 15   34- 50  31
+ 3.VfL 1946 Kirchheim/Teck      28  16  2 10   48- 28  50
+ 4.TSF 1893 Ditzingen           28  14  6  8   41- 29  48
+ 5.1.FC Normannia Gmünd         28  12  6 10   46- 44  42
+ 6.SSV Reutlingen 05 Amat.      28  12  6 10   36- 36  42
+ 7.SpVgg Böblingen              28  11  7 10   45- 34  40
+ 8.SG Sonnenhof/Großaspach      28  12  3 13   40- 48  39
+ 9.TSV 1905 Schönaich           28  10  4 14   45- 55  34
+10.TuS 1936 Metzingen           28   9  7 12   41- 59  34
+11.VfR 1896 Heilbronn           28   9  4 15   34- 48  31
+12.TSG Balingen                 28   9  4 15   34- 50  31
 ----------------------------------------------------------
-13.VfB Friedrichshafen      28  10  1 17   44- 61  31 Relegated
-14.FV 08 Rottweil           28   8  6 14   31- 39  30 Relegated
-15.FV 1893 Ravensburg         28   6  4 18   27- 59  22 Relegated
-16.FV 1970 Biberach/Riß            0   0  0  0    0-  0   0 Relegated
+13.VfB Friedrichshafen          28  10  1 17   44- 61  31 Relegated
+14.FV 08 Rottweil               28   8  6 14   31- 39  30 Relegated
+15.FV 1893 Ravensburg           28   6  4 18   27- 59  22 Relegated
+16.FV 1970 Biberach/Riß          0   0  0  0    0-  0   0 Relegated
 
 Group Bayern Nord
 
- 1.Würzburger FV             36  29  3  4  103- 31  90 Promoted
+ 1.Würzburger FV                36  29  3  4  103- 31  90 Promoted
 ----------------------------------------------------------
- 2.TSV 1923 Großbardorf    36  24  7  5  103- 53  79 Play-Off
+ 2.TSV 1923 Großbardorf         36  24  7  5  103- 53  79 Play-Off
 ----------------------------------------------------------
- 3.VfL 1919 Frohnlach       36  23  7  6   87- 35  76
- 4.1.FC 1901 Bamberg       36  18 10  8   95- 55  64
- 5.SV Mitterteich            36  16  8 12   56- 45  56
- 6.SV Alemannia Haibach    36  15 11 10   54- 56  56
- 7.Tgd. Höchberg von Fußball   36  14 10 12   68- 59  52
- 8.DJK Viktoria/VfB Coburg   36  15  6 15   77- 70  51
- 9.1.FC 1920 Sand am Main   36  13 10 13   64- 59  49
-10.FC Viktoria Kahl          36  12 13 11   47- 51  49
-11.1.FC Haßfurt 1917         36  14  6 16   60- 56  48
-12.SV Memmelsdorf/Oberfranken    36  13  9 14   37- 40  48
-13.TSV Sulzfeld am Main    36  12 10 14   56- 63  46
-14.TSV Aubstadt            36  11  8 17   53- 82  41
+ 3.VfL 1919 Frohnlach           36  23  7  6   87- 35  76
+ 4.1.FC 1901 Bamberg            36  18 10  8   95- 55  64
+ 5.SV Mitterteich               36  16  8 12   56- 45  56
+ 6.SV Alemannia Haibach         36  15 11 10   54- 56  56
+ 7.Tgd. Höchberg von Fußball    36  14 10 12   68- 59  52
+ 8.DJK Viktoria/VfB Coburg      36  15  6 15   77- 70  51
+ 9.1.FC 1920 Sand am Main       36  13 10 13   64- 59  49
+10.FC Viktoria Kahl             36  12 13 11   47- 51  49
+11.1.FC Haßfurt 1917            36  14  6 16   60- 56  48
+12.SV Memmelsdorf/Oberfranken   36  13  9 14   37- 40  48
+13.TSV Sulzfeld am Main         36  12 10 14   56- 63  46
+14.TSV Aubstadt                 36  11  8 17   53- 82  41
 ----------------------------------------------------------
-15.TSV Thiersheim 1857       36   9 12 15   55- 71  39 Play-Out
+15.TSV Thiersheim 1857          36   9 12 15   55- 71  39 Play-Out
 ----------------------------------------------------------
-16.SpVgg Stegaurach         36   9  8 19   59- 82  35 Relegated
-17.SV 1919 Erlenbach/Main   36   7 10 19   44- 76  31 Relegated
-18.FVgg Bayern Kitzingen   36   5  7 24   40- 93  22 Relegated
-19.TSV Scheuerfeld          36   5  1 30   40-121  16 Relegated
+16.SpVgg Stegaurach             36   9  8 19   59- 82  35 Relegated
+17.SV 1919 Erlenbach/Main       36   7 10 19   44- 76  31 Relegated
+18.FVgg Bayern Kitzingen        36   5  7 24   40- 93  22 Relegated
+19.TSV Scheuerfeld              36   5  1 30   40-121  16 Relegated
 
 Group Bayern Mitte
 
- 1.SpVgg 1919 Landshut           34  23  6  5   79- 28  75 Promoted
+ 1.SpVgg 1919 Landshut          34  23  6  5   79- 28  75 Promoted
 ----------------------------------------------------------
- 2.1.FC Passau             34  21  4  9   57- 29  67 Play-Off
+ 2.1.FC Passau                  34  21  4  9   57- 29  67 Play-Off
 ----------------------------------------------------------
- 3.ASV 1860 Neumarkt         34  17 11  6   50- 30  62
- 4.ASV Vach (Nürnberg)        34  16  9  9   58- 46  57
- 5.1.FC Kötzting           34  12 13  9   55- 46  49
- 6.ASV Zirndorf                34  12 12 10   47- 48  48
- 7.SpVgg Hankofen-Hailing   34  13  8 13   72- 60  47
- 8.SC 1926 Eltersdorf       34  13  8 13   65- 60  47
- 9.ASV 1863 Cham            34  12 10 12   46- 43  46
-10.FV Wendelstein            34  13  7 14   66- 64  46
-11.SV Schalding-Heining    34  13  7 14   47- 55  46
+ 3.ASV 1860 Neumarkt            34  17 11  6   50- 30  62
+ 4.ASV Vach (Nürnberg)          34  16  9  9   58- 46  57
+ 5.1.FC Kötzting                34  12 13  9   55- 46  49
+ 6.ASV Zirndorf                 34  12 12 10   47- 48  48
+ 7.SpVgg Hankofen-Hailing       34  13  8 13   72- 60  47
+ 8.SC 1926 Eltersdorf           34  13  8 13   65- 60  47
+ 9.ASV 1863 Cham                34  12 10 12   46- 43  46
+10.FV Wendelstein               34  13  7 14   66- 64  46
+11.SV Schalding-Heining         34  13  7 14   47- 55  46
 12.Freier TuS 1911 Regensburg   34  12  7 15   54- 63  43
-13.TSV 1861/1908 Neustadt/Aisch   34  10  9 15   42- 61  39
-14.DJK Vilzing                34   9 11 14   45- 56  38
+13.TSV 1861/1908 Neustadt/Aisch 34  10  9 15   42- 61  39
+14.DJK Vilzing                  34   9 11 14   45- 56  38
 ----------------------------------------------------------
 15.SV Neusorg                   34  10  8 16   36- 55  38 Play-Out
 ----------------------------------------------------------
-16.1.FC Beilngries         34   9  8 17   52- 68  35 Relegated
-17.SV 1927 Hutthurm        34   8  8 18   39- 67  32 Relegated
-18.SV Perlesreut           34   6  8 20   27- 58  26 Relegated
+16.1.FC Beilngries              34   9  8 17   52- 68  35 Relegated
+17.SV 1927 Hutthurm             34   8  8 18   39- 67  32 Relegated
+18.SV Perlesreut                34   6  8 20   27- 58  26 Relegated
 
 Group Bayern Süd
 
- 1.FC 1907 Memmingen         34  22  7  5   65- 28  73 Promoted
+ 1.FC 1907 Memmingen            34  22  7  5   65- 28  73 Promoted
 ----------------------------------------------------------
- 2.SV Gendorf Burgkirchen   34  19 11  4   67- 26  68 Play-Off
+ 2.SV Gendorf Burgkirchen       34  19 11  4   67- 26  68 Play-Off
 ----------------------------------------------------------
- 3.MTV 1881 Ingolstadt     34  18  8  8   52- 34  62
- 4.FC Kempten/Allgäu        34  17  7 10   73- 52  58
- 5.BC Farchet Wolfratshausen   34  16  8 10   73- 50  56
- 6.SC Eintracht Freising   34  16  7 11   66- 50  55
- 7.TSV 1896 Rain am Lech   34  14 12  8   55- 36  54
- 8.TSV Eching bei München   34  14  7 13   56- 59  49
- 9.FC 1967 Pipinsried          34  13  9 12   58- 52  48
+ 3.MTV 1881 Ingolstadt          34  18  8  8   52- 34  62
+ 4.FC Kempten/Allgäu            34  17  7 10   73- 52  58
+ 5.BC Farchet Wolfratshausen    34  16  8 10   73- 50  56
+ 6.SC Eintracht Freising        34  16  7 11   66- 50  55
+ 7.TSV 1896 Rain am Lech        34  14 12  8   55- 36  54
+ 8.TSV Eching bei München       34  14  7 13   56- 59  49
+ 9.FC 1967 Pipinsried           34  13  9 12   58- 52  48
 10.SV Wacker Burghausen Amat.   34  10 15  9   48- 45  45
-11.TSV 1860 Rosenheim            34  12  9 13   58- 61  45
-12.TSV Neusäß              34  11 11 12   52- 43  44
-13.FC Königsbrunn           34  12  4 18   48- 62  40
-14.SC 1967 Bubesheim           34   9  9 16   45- 61  36
+11.TSV 1860 Rosenheim           34  12  9 13   58- 61  45
+12.TSV Neusäß                   34  11 11 12   52- 43  44
+13.FC Königsbrunn               34  12  4 18   48- 62  40
+14.SC 1967 Bubesheim            34   9  9 16   45- 61  36
 ----------------------------------------------------------
-15.TSV 1874 Kottern-St. Mang   34  10  5 19   41- 81  35 Play-Out
+15.TSV 1874 Kottern-St. Mang    34  10  5 19   41- 81  35 Play-Out
 ----------------------------------------------------------
-16.SV Raisting              34   5 12 17   40- 68  27 Relegated
+16.SV Raisting                  34   5 12 17   40- 68  27 Relegated
 17.FC 1920 Gundelfingen/Donau   34   6  8 20   27- 67  26 Relegated
-18.TSG 1890 Thannhausen    34   4  7 23   38- 87  19 Relegated
+18.TSG 1890 Thannhausen         34   4  7 23   38- 87  19 Relegated
 
 

@@ -454,19 +454,19 @@ Final Table:
 18.Morelia                             17   2  4 11  16-34  10
 
 Topscorers
-Player         Team      Goals
-Mauro Boselli      León      12
-Camilo Sanvezzo      Querétaro   12
-Dorlan Pabón      Monterrey   11
-Ariel Nahuelpan      Pachuca       9
-Darío Benedetto      Tijuana       9
-Oribe Peralta      América       8
-Pablo César Velázquez   Toluca       8
-Eduardo Herrera      Pumas       8
-Miguel Layún      América       6
-Emiliano Armenteros   Jaguares    6
-Andrés Rentería      Santos       6
-Javier Orozco      Santos       6
+Player                  Team            Goals
+Mauro Boselli           León            12
+Camilo Sanvezzo         Querétaro       12
+Dorlan Pabón            Monterrey       11
+Ariel Nahuelpan         Pachuca          9
+Darío Benedetto         Tijuana          9
+Oribe Peralta           América          8
+Pablo César Velázquez   Toluca           8
+Eduardo Herrera         Pumas            8
+Miguel Layún            América          6
+Emiliano Armenteros     Jaguares         6
+Andrés Rentería         Santos           6
+Javier Orozco           Santos           6
 
 Playoffs  ‹§applay›
 
@@ -525,28 +525,28 @@ América            3-0 Tigres
 
 
 Club América Roster team
-Moisés Muñoz      GK
-Hugo González      GK
-Juan Carlos Valenzuela   DEF
-Osmar Mares      DEF
-Ventura Alvarado   DEF
-Paul Nicolás Aguilar   DEF
-Pablo César Aguilar   DEF (Paraguay)
-Paolo Goltz      DEF (Argentina)
-Miguel Layún      DEF
-Jesús Antonio Molina   MDF
-Erik Pimentel      MDF
-Luis Ángel Mendoza   MDF
-Oswaldo David Martínez   MDF (Paraguay)
-Moisés Velasco      MDF
-Rubens Sambueza      MDF (Argentina)
-José Daniel Guerrero   MDF
-Gonzalo Díaz      MDF (Argentina)
-Luis Gabriel REy   FWD (Colombia/Mexico)
-Oribe Peralta      FWD
-Martín Zúñiga      FWD
-Michael Arroyo      FWD (Ecuador)
-Raúl Alonso Jiménez   FWD
+Moisés Muñoz            GK
+Hugo González           GK
+Juan Carlos Valenzuela  DEF
+Osmar Mares             DEF
+Ventura Alvarado        DEF
+Paul Nicolás Aguilar    DEF
+Pablo César Aguilar     DEF (Paraguay)
+Paolo Goltz             DEF (Argentina)
+Miguel Layún            DEF
+Jesús Antonio Molina    MDF
+Erik Pimentel           MDF
+Luis Ángel Mendoza      MDF
+Oswaldo David Martínez  MDF (Paraguay)
+Moisés Velasco          MDF
+Rubens Sambueza         MDF (Argentina)
+José Daniel Guerrero    MDF
+Gonzalo Díaz            MDF (Argentina)
+Luis Gabriel REy        FWD (Colombia/Mexico)
+Oribe Peralta           FWD
+Martín Zúñiga           FWD
+Michael Arroyo          FWD (Ecuador)
+Raúl Alonso Jiménez     FWD
 
 Coach: Antonio Mohamed (ARG)
 
@@ -1007,7 +1007,7 @@ Final Table:
 
 
 Topscorers:
-Player         Team      Goals
+Player                  Team            Goals
 Dorlan Pabón            Monterrey       10
 Julio César Furch       Veracruz         9
 Gustavo Matías Alustiza Puebla           9
@@ -1018,31 +1018,31 @@ Avilés Hurtado          Jaguares         7
 Edwin Andrés Cardona    Monterrey        6
 Néstor Calderón         Santos           6
 Juan Arango             Tijuana          6
-Fidel Martínez      Leones Negros    6
+Fidel Martínez          Leones Negros    6
 Leiton Jiménez          Veracruz         6
 
 Relegation Table
 
-Team         Average
-América         1.8137
-Cruz Azul      1.6275
-Toluca         1.6078
-Tigres         1.5882
-Santos         1.5490
-Tijuana         1.4216
-Monterrey      1.3725
-León         1.3725
-Atlas         1.3333
-Pumas         1.3137
-Querétaro      1.3039
-Pachuca         1.2941
-Morelia         1.2549
-Jaguares      1.2451
-Veracruz      1.1618
-Guadalajara      1.1176
-Puebla         1.0294
+Team                    Average
+América                 1.8137
+Cruz Azul               1.6275
+Toluca                  1.6078
+Tigres                  1.5882
+Santos                  1.5490
+Tijuana                 1.4216
+Monterrey               1.3725
+León                    1.3725
+Atlas                   1.3333
+Pumas                   1.3137
+Querétaro               1.3039
+Pachuca                 1.2941
+Morelia                 1.2549
+Jaguares                1.2451
+Veracruz                1.1618
+Guadalajara             1.1176
+Puebla                  1.0294
 ------------------------------
-Leones Negros      1.0294 relegated
+Leones Negros           1.0294 relegated
 
 NB: Puebla         -5 goal difference
     Leones Negros -12 goal difference
@@ -1104,26 +1104,26 @@ Querétaro          3-0 Santos
 
 
 Club Santos Laguna Roster team
-Agustín Marchesín   GK  (Argentina)
-Christian López      GK
-Adrián Aldrete      DEF
-Carlos Izquierdoz   DEF (Argentina)
-Héctor Acosta      DEF
-José Javier Abella   DEF
-Néstor Araujo       DEF
-Oswaldo Alanís      DEF
-Rafael Figueroa      DEF
-Sergio Ceballos      DEF
-Carlos Orrantia      MDF
+Agustín Marchesín       GK  (Argentina)
+Christian López         GK
+Adrián Aldrete          DEF
+Carlos Izquierdoz       DEF (Argentina)
+Héctor Acosta           DEF
+José Javier Abella      DEF
+Néstor Araujo           DEF
+Oswaldo Alanís          DEF
+Rafael Figueroa         DEF
+Sergio Ceballos         DEF
+Carlos Orrantia         MDF
 Diego Hernán González   MDF (Argentina)
 Jesús Alonso Escoboza   MDF
-Jesús Eduardo Molina   MDF
-Luis Ángel Mendoza   MDF
-Néstor Calderón      MDF
-Rodolfo Salinas      MDF
-Andrés Rentería      FWD (Colombia)
-Edson Rivera      FWD
-Javier Orozco      FWD
+Jesús Eduardo Molina    MDF
+Luis Ángel Mendoza      MDF
+Néstor Calderón         MDF
+Rodolfo Salinas         MDF
+Andrés Rentería         FWD (Colombia)
+Edson Rivera            FWD
+Javier Orozco           FWD
 Jorge Djaniny Tabares   FWD (Cape Verde Islands)
 
 Coach: Pedro Faria Caixinha (POR)
@@ -1492,42 +1492,42 @@ Santos Laguna Cup champions
 
 
 Topscorers
-Player         Team      Goals
-Andrés Rentería      Santos       6
-Danny Manuel Santoya   Alebrijes    5
-Jorge Djaniny Tabares   Santos       5
-Dorlan Pabón      Monterrey    4
-Ricardo Da Silva   Querétaro    4
-Edgar Benítez      Toluca       4
-Eduardo Herrera      Pumas       4
-Martín Barragán      Atlas       3
-Fausto Ruiz      Atl. San Luis    3
-Isaac Alejandro Díaz   Jaguares    3
-Diego Hernández      Coras       3
+Player                  Team            Goals
+Andrés Rentería         Santos           6
+Danny Manuel Santoya    Alebrijes        5
+Jorge Djaniny Tabares   Santos           5
+Dorlan Pabón            Monterrey        4
+Ricardo Da Silva        Querétaro        4
+Edgar Benítez           Toluca           4
+Eduardo Herrera         Pumas            4
+Martín Barragán         Atlas            3
+Fausto Ruiz             Atl. San Luis    3
+Isaac Alejandro Díaz    Jaguares         3
+Diego Hernández         Coras            3
 
 
 Santos Laguna roster team
-Oswaldo Sánchez      GK
-Julio José González   GK
-Carlos Izquierdoz   DEF (Argentina)
-Rafael Figueroa      DEF
-Adrián Aldrete      DEF
-Oswaldo Alanís      DEF
-Néstor Araujo      DEF
-César Ibáñez      DEF
-José Javier Abella   DEF
-Sergio Ceballos      DEF
-Juan Pablo Rodríguez   MDF
-Mauro Cejas      MDF (Argentina/Mexico)
-Néstor Calderón      MDF
-Rodolfo Salinas      MDF
-Ribair Rodríguez   MDF (Uruguay)
+Oswaldo Sánchez         GK
+Julio José González     GK
+Carlos Izquierdoz       DEF (Argentina)
+Rafael Figueroa         DEF
+Adrián Aldrete          DEF
+Oswaldo Alanís          DEF
+Néstor Araujo           DEF
+César Ibáñez            DEF
+José Javier Abella      DEF
+Sergio Ceballos         DEF
+Juan Pablo Rodríguez    MDF
+Mauro Cejas             MDF (Argentina/Mexico)
+Néstor Calderón         MDF
+Rodolfo Salinas         MDF
+Ribair Rodríguez        MDF (Uruguay)
 Jesús Alonso Escoboza   MDF
 Jorge Djaniny Tabares   FWD (Cape Verde Islands)
-Andrés Rentería      FWD (Colombia)
-Javier Orozco      FWD
-Carlos Darwin Quintero   FWD (Colombia)
-Peterson Silvino   FWD (Brazil)
+Andrés Rentería         FWD (Colombia)
+Javier Orozco           FWD
+Carlos Darwin Quintero  FWD (Colombia)
+Peterson Silvino        FWD (Brazil)
 
 Coach: Pedro Caixinha [POR]
 
@@ -1858,49 +1858,49 @@ Puebla Cup champions
 
 
 Topscorers
-Player         Team      Goals
-Isaac Alejandro Díaz   Jaguares    5
-Aldo De Nigris      Guadalajara    5
-Hérculez Gómez      Puebla        5
-Raúl Enríquez      Dorados        5
-Henry Martín      Tijuana       4
-Ricardo Michel Vázquez   Veracruz    4
-Andrés Andrade      Jaguares    3
-Miguel Alejandro Nuño   Coras        3
-Erick Torres      Guadalajara    3
-Othoniel Arce      Lobos BUAP    3
+Player                  Team            Goals
+Isaac Alejandro Díaz    Jaguares         5
+Aldo De Nigris          Guadalajara      5
+Hérculez Gómez          Puebla           5
+Raúl Enríquez           Dorados          5
+Henry Martín            Tijuana          4
+Ricardo Michel Vázquez  Veracruz         4
+Andrés Andrade          Jaguares         3
+Miguel Alejandro Nuño   Coras            3
+Erick Torres            Guadalajara      3
+Othoniel Arce           Lobos BUAP       3
 
 
 Puebla roster team
-Rodolfo Cota      GK
-Fabián Villaseñor   GK
-Héctor Estrada      GK
-Efraín Cortés      DEF (Colombia)
-Facundo Erpen      DEF (Argentina)
-Mario De Luna      DEF
-Oscar Rojas      DEF
-Michael Orozco      DEF (USA)
-Sergio Pérez      DEF
-Mauricio Romero      DEF (Argentina)
-Juan de la Barrera   DEF
-Luis Robles      MDF
-Luis Miguel Noriega   MDF
-Gerardo Espinoza   MDF
-Alfonso Tamay      MDF
-Francisco Acuña      MDF
-Saúl Villalobos      MDF
-Luis Esqueda      MDF
-Flavio Jesús Santos   MDF
-Eisner Loboa      MDF (Colombia)
-Jhon Freddy Pajoy   MDF (Colombia)
-Alberto Acosta      MDF
-Francisco Torres   MDF
-Cuauhtémoc Blanco   MDF
-Hérculez Gómez      FWD (USA)
+Rodolfo Cota            GK
+Fabián Villaseñor       GK
+Héctor Estrada          GK
+Efraín Cortés           DEF (Colombia)
+Facundo Erpen           DEF (Argentina)
+Mario De Luna           DEF
+Oscar Rojas             DEF
+Michael Orozco          DEF (USA)
+Sergio Pérez            DEF
+Mauricio Romero         DEF (Argentina)
+Juan de la Barrera      DEF
+Luis Robles             MDF
+Luis Miguel Noriega     MDF
+Gerardo Espinoza        MDF
+Alfonso Tamay           MDF
+Francisco Acuña         MDF
+Saúl Villalobos         MDF
+Luis Esqueda            MDF
+Flavio Jesús Santos     MDF
+Eisner Loboa            MDF (Colombia)
+Jhon Freddy Pajoy       MDF (Colombia)
+Alberto Acosta          MDF
+Francisco Torres        MDF
+Cuauhtémoc Blanco       MDF
+Hérculez Gómez          FWD (USA)
 Gustavo Matías Alustiza FWD (Argentina)
 Luis Guadalupe Loroña   FWD
-Luis Gabriel Rey   FWD (Colombia/Mexico)
-Wilberto Cosme      FWD (Colombia)
+Luis Gabriel Rey        FWD (Colombia/Mexico)
+Wilberto Cosme          FWD (Colombia)
 
 Coach: José Guadalupe Cruz [MEX]
 

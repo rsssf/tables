@@ -957,7 +957,7 @@ Ariel Nahuelpan        Querétaro     5
 
 Relegation table (at the moment to the cancelation)
 
-Team         Average
+Team                    Average
 Tigres                  1.7789
 América                 1.7474
 León                    1.6842
@@ -1400,59 +1400,59 @@ Monterrey Cup Champions
 
 
 Topscorers
-Player         Team      Goals
+Player                  Team            Goals
 
-Kevin Castañeda      Toluca      7
-Vincent Janssen      Monterrey   7
-Raúl Rivero      Santos      5
-Eduardo Aguirre      Santos      4
-Michael Estrada      Toluca      4
-Camilo Sanvezzo      Tijuana      4
+Kevin Castañeda         Toluca          7
+Vincent Janssen         Monterrey       7
+Raúl Rivero             Santos          5
+Eduardo Aguirre         Santos          4
+Michael Estrada         Toluca          4
+Camilo Sanvezzo         Tijuana         4
 
 
 Monterrey squad
-Luis Cárdenas      GK
-Hugo González      GK
-Marcelo Barovero   GK
-Edson Rezéndez      GK
-César Montes      DEF
-José María Basanta   DEF
-Axel Grijalva      DEF
-William Mejía      DEF
-Nicolás Sánchez      DEF
-Johan Vázquez      DEF
-Edson Gutiérrez      DEF
-Jesús Gallardo      DEF
-Miguel Layún      DEF
-Sergio Villarreal   DEF
-Luis Sánchez      DEF
-Leonel Vangioni      DEF
-Sebastián VEgas      DEF
-Daniel Parra      DEF
-Setefan Medina      DEF
-Juan Portales      DEF
-Edson Gutiérrez      DEF
-Matías Kranevitter    MDF
-Michell Rodríguez   MDF
-Maximiliano Meza   MDF
-Celso Ortiz      MDF
-Arturo Alfonso González   MDF
-Jonathan González   MDF
-Carlos Rodríguez   MDF
-Eric Cantú      MDF
-Ángel Zapata      MDF
-Jaziel Martínez      MDF
-Rogelio Funes Mori   FWD
-Dorlan Pabón      FWD
-Vincent Janssen      FWD
-Ake Loba      FWD
-Avilés Hurtado      FWD
-Shayr Mohamed      FWD
-Jonathan Urretaviscaya   FWD
-Ángel Zaldívar      FWD
-Juan Machado      FWD
-Eduardo Banda      FWD
-José Alvarado      FWD
+Luis Cárdenas           GK
+Hugo González           GK
+Marcelo Barovero        GK
+Edson Rezéndez          GK
+César Montes            DEF
+José María Basanta      DEF
+Axel Grijalva           DEF
+William Mejía           DEF
+Nicolás Sánchez         DEF
+Johan Vázquez           DEF
+Edson Gutiérrez         DEF
+Jesús Gallardo          DEF
+Miguel Layún            DEF
+Sergio Villarreal       DEF
+Luis Sánchez            DEF
+Leonel Vangioni         DEF
+Sebastián VEgas         DEF
+Daniel Parra            DEF
+Setefan Medina          DEF
+Juan Portales           DEF
+Edson Gutiérrez         DEF
+Matías Kranevitter      MDF
+Michell Rodríguez       MDF
+Maximiliano Meza        MDF
+Celso Ortiz             MDF
+Arturo Alfonso González MDF
+Jonathan González       MDF
+Carlos Rodríguez        MDF
+Eric Cantú              MDF
+Ángel Zapata            MDF
+Jaziel Martínez         MDF
+Rogelio Funes Mori      FWD
+Dorlan Pabón            FWD
+Vincent Janssen         FWD
+Ake Loba                FWD
+Avilés Hurtado          FWD
+Shayr Mohamed           FWD
+Jonathan Urretaviscaya  FWD
+Ángel Zaldívar          FWD
+Juan Machado            FWD
+Eduardo Banda           FWD
+José Alvarado           FWD
 
 Coach: Antonio Mohamed (ARG)
 
@@ -1936,7 +1936,7 @@ Roberto Nurse         Mineros           7
 
 Relegation table
 
-Team         Average
+Team                    Average
 Mineros                 1.8442
 TM FC                   1.5263
 Atlético Zacatepec      1.4935

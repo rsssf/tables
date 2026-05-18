@@ -451,7 +451,7 @@ Final Table:
 18.Jaguares                            17   2  3 12   9-30   9
 
 Topscorers
-Player         Team      Goals
+Player                  Team            Goals
 Dayro Moreno           Tijuana        11  [Colombia]
 Raúl Ruidiaz           Morelia        11  [Peru]
 Silvio Romero          América        10  [Argentina]
@@ -535,27 +535,27 @@ Guido Pizarro                   Javier Gí¼émez (M)
 
 Tigres UANL roster team
 
-Nahuel Guzmán      GK (Argentina)
-Enrique Palos      GK
+Nahuel Guzmán           GK (Argentina)
+Enrique Palos           GK
 Anselmo Vendrechovski   DEF (Brazil)
-Hugo Ayala      DEF
-Israel Jiménez      DEF
-Jorge Torres Nilo   DEF
-Jorge Estrada      DEF
-José Arturo Rivas   DEF
-Guido Pizarro      MDF (Argentina)
+Hugo Ayala              DEF
+Israel Jiménez          DEF
+Jorge Torres Nilo       DEF
+Jorge Estrada           DEF
+José Arturo Rivas       DEF
+Guido Pizarro           MDF (Argentina)
 Alberto Acosta          MDF
-Javier Aquino      MDF
-Jesús Alberto Dueñas   MDF
-Luis Rodríguez      MDF
-Jí¼rgen Damm      MDF
-Jorge Espericueta   MDF
-Manuel Viniegra      MDF
+Javier Aquino           MDF
+Jesús Alberto Dueñas    MDF
+Luis Rodríguez          MDF
+Jí¼rgen Damm            MDF
+Jorge Espericueta       MDF
+Manuel Viniegra         MDF
 Damián Ariel Álvarez   MDF (Argentina/Mexico)
-André-Pierre Gignac   FWD (France)
-Ismael Sosa      FWD (Argentina)
-Andy Delort      FWD (France)
-Julián Quiñónes      FWD (Colombia)
+André-Pierre Gignac     FWD (France)
+Ismael Sosa             FWD (Argentina)
+Andy Delort             FWD (France)
+Julián Quiñónes         FWD (Colombia)
 
 Coach: Ricardo Ferreti (BRA)
 
@@ -1026,23 +1026,23 @@ Final Table:
 18.Puebla                              17   4  4  9  18-25  16
 
 Topscorers
-Player         Team      Goals
-Raúl Ruidiaz      Morelia      9
-Oribe Peralta      América      8
-Gustavo M. Alustiza   Atlas      8
-André-Pierre Gignac   Tigres      8
-Avilés Hurtado      Tijuana      8
-Nicolás Castillo   Pumas      8
-Mauro Boselli      León      7
-Edwin Andrés Cardona   Monterrey   6
-Dorlan Pabón      Monterrey   6
-Edson Puch      Necaxa      6
-Camilo Sanvezzo      Querétaro   6
-Jonathan Rodríguez   Santos      6
+Player                  Team            Goals
+Raúl Ruidiaz            Morelia         9
+Oribe Peralta           América         8
+Gustavo M. Alustiza     Atlas           8
+André-Pierre Gignac     Tigres          8
+Avilés Hurtado          Tijuana         8
+Nicolás Castillo        Pumas           8
+Mauro Boselli           León            7
+Edwin Andrés Cardona    Monterrey       6
+Dorlan Pabón            Monterrey       6
+Edson Puch              Necaxa          6
+Camilo Sanvezzo         Querétaro       6
+Jonathan Rodríguez      Santos          6
 
 Relegation Table
 
-Team         Average
+Team                    Average
 América                1.6569
 Tigres                 1.6373
 Monterrey              1.5980
@@ -1125,32 +1125,32 @@ Guadalajara        2-1 Tigres
   [Alan Pulido 16, José Juan Vázquez 70; Ismael Sosa 88]
 
 CD Guadalajara Roster team
-Rodolfo Cota      GK
-Miguel Ángel Jiménez   GK
-Oswaldo Alanís      DEF
-Carlos Salcido      DEF
-Jair Pereira      DEF
-Edwin Hernández      DEF
-Hedgardo Marín      DEF
-Miguel Ángel Ponce   DEF
-Jesús Sánchez      DEF
-Miguel Basulto      DEF
-Orbelín Pineda      MDF
-Néstor Calderón      MDF
-Isaac Brizuela      MDF
-Rodolfo Pizarro      MDF
-José Juan Vázquez   MDF
-Carlos Cisneros      MDF
-Alan Cervantes      MDF
-Alejandro Zendejas   MDF
-Michael Pérez      MDF
-Michelle Benítez   MDF
-Alan Pulido      FWD
-Javier Eduardo López   FWD
-Ángel Zaldívar      FWD
-Carlos Fierro      FWD
-Guillermo Martínez   FWD
-Edson Torres      FWD
+Rodolfo Cota            GK
+Miguel Ángel Jiménez    GK
+Oswaldo Alanís          DEF
+Carlos Salcido          DEF
+Jair Pereira            DEF
+Edwin Hernández         DEF
+Hedgardo Marín          DEF
+Miguel Ángel Ponce      DEF
+Jesús Sánchez           DEF
+Miguel Basulto          DEF
+Orbelín Pineda          MDF
+Néstor Calderón         MDF
+Isaac Brizuela          MDF
+Rodolfo Pizarro         MDF
+José Juan Vázquez       MDF
+Carlos Cisneros         MDF
+Alan Cervantes          MDF
+Alejandro Zendejas      MDF
+Michael Pérez           MDF
+Michelle Benítez        MDF
+Alan Pulido             FWD
+Javier Eduardo López    FWD
+Ángel Zaldívar          FWD
+Carlos Fierro           FWD
+Guillermo Martínez      FWD
+Edson Torres            FWD
 
 Coach: Matías Almeyda (ARG)
 
@@ -1469,44 +1469,44 @@ Luis Miguel Noriega             Orbelín Pineda
 Querétaro Cup champions
 
 Topscorers
-Player         Team      Goals
-Fernando Uribe           Toluca        6
-Camilo Sanvezzo      Querétaro     5
-Leandro Carrijo      FC Juárez     4
-Carlos Cauich      Atlante        4
-Joao Robin Rojas   Cruz Azul     4
-Michael Arroyo      América        3
-Jonatan Cristaldo   Cruz Azul     3
-Raúl Enríquez      FC Juárez     3
-Julio César Furch   Veracruz     3
-Joffre Guerrón      Cruz Azul     3
-Miguel Gutiérrez   Mineros        3
-Miguel Ángel Sansores   Morelia        3
-Martín Eduardo Zúñiga   Jaguares     3
+Player                  Team            Goals
+Fernando Uribe          Toluca            6
+Camilo Sanvezzo         Querétaro         5
+Leandro Carrijo         FC Juárez         4
+Carlos Cauich           Atlante           4
+Joao Robin Rojas        Cruz Azul         4
+Michael Arroyo          América           3
+Jonatan Cristaldo       Cruz Azul         3
+Raúl Enríquez           FC Juárez         3
+Julio César Furch       Veracruz          3
+Joffre Guerrón          Cruz Azul         3
+Miguel Gutiérrez        Mineros           3
+Miguel Ángel Sansores  Morelia           3
+Martín Eduardo Zúñiga   Jaguares          3
 
 
 Querétaro roster team
 
 Tiago Volpi                     GK (Brazil)
-Edgar Hernández         GK
-Dionicio Escalante      DEF
-George Corral         DEF
-Jonathan Bornstein      DEF (USA)
-Juan Forlín         DEF (Argentina)
-Miguel Ángel Martínez      DEF (Argentina)
-Nery Domínguez         DEF (Argentina)
-Armando Zamorano      MDF
-Jaime Gómez         MDF
-Luis Gil         MDF (USA/Mexico)
-Luis Miguel Noriega      MDF
-Marco Antonio Jiménez      MDF
-Mario Osuna         MDF
-Neri Raúl Cardozo      MDF (Argentina)
-Yerson Candelo         MDF (Colombia)
-Andrés Rentería         FWD (Colombia)
-íngel Sepúlveda         FWD
-Edgar Benítez         FWD (Paraguay)
-Emanuel Villa         FWD (Argentina)
+Edgar Hernández                 GK
+Dionicio Escalante              DEF
+George Corral                   DEF
+Jonathan Bornstein              DEF (USA)
+Juan Forlín                     DEF (Argentina)
+Miguel Ángel Martínez          DEF (Argentina)
+Nery Domínguez                  DEF (Argentina)
+Armando Zamorano                MDF
+Jaime Gómez                     MDF
+Luis Gil                        MDF (USA/Mexico)
+Luis Miguel Noriega             MDF
+Marco Antonio Jiménez           MDF
+Mario Osuna                     MDF
+Neri Raúl Cardozo               MDF (Argentina)
+Yerson Candelo                  MDF (Colombia)
+Andrés Rentería                 FWD (Colombia)
+íngel Sepúlveda                        FWD
+Edgar Benítez                   FWD (Paraguay)
+Emanuel Villa                   FWD (Argentina)
 
 Coach: Víctor Manuel Vucetich
 
@@ -1867,49 +1867,49 @@ Orbelín Pineda                  Luis Gabriel Rey (M)
 Guadalajara Cup champions
 
 Topscorers
-Player         Team      Goals
-Rogelio Funes Mori   Monterrey   7
-Martín Cauteruccio   Cruz Azul   4
-Yimmi Chará      Monterrey   4
-Félix Minolta      Jaguares   4
-Cristian Penilla   Morelia      4
-Edwin Andrés Cardona   Monterrey   3
-Lucas Da Silva      FC Juárez   3
-Julio César Furch   Santos      3
-Javier Eduardo López   Guadalajara   3
-Diego Riolfo      Necaxa      3
-Silvio Romero      América      3
-Enrique Triverio   Toluca      3
+Player                  Team            Goals
+Rogelio Funes Mori      Monterrey       7
+Martín Cauteruccio      Cruz Azul       4
+Yimmi Chará             Monterrey       4
+Félix Minolta           Jaguares        4
+Cristian Penilla        Morelia         4
+Edwin Andrés Cardona    Monterrey       3
+Lucas Da Silva          FC Juárez       3
+Julio César Furch       Santos          3
+Javier Eduardo López    Guadalajara     3
+Diego Riolfo            Necaxa          3
+Silvio Romero           América         3
+Enrique Triverio        Toluca          3
 
 
 CD Guadalajara Roster team
 
-Rodolfo Cota      GK
-Miguel Ángel Jiménez   GK
-Oswaldo Alanís      DEF
-Carlos Salcido      DEF
-Jair Pereira      DEF
-Edwin Hernández      DEF
-Hedgardo Marín      DEF
-Miguel Ángel Ponce   DEF
-Jesús Sánchez      DEF
-Miguel Basulto      DEF
-Orbelín Pineda      MDF
-Néstor Calderón      MDF
-Isaac Brizuela      MDF
-Rodolfo Pizarro      MDF
-José Juan Vázquez   MDF
-Carlos Cisneros      MDF
-Alan Cervantes      MDF
-Alejandro Zendejas   MDF
-Michael Pérez      MDF
-Michelle Benítez   MDF
-Alan Pulido      FWD
-Javier Eduardo López   FWD
-Ángel Zaldívar      FWD
-Carlos Fierro      FWD
-Guillermo Martínez   FWD
-Edson Torres      FWD
+Rodolfo Cota            GK
+Miguel Ángel Jiménez    GK
+Oswaldo Alanís          DEF
+Carlos Salcido          DEF
+Jair Pereira            DEF
+Edwin Hernández         DEF
+Hedgardo Marín          DEF
+Miguel Ángel Ponce      DEF
+Jesús Sánchez           DEF
+Miguel Basulto          DEF
+Orbelín Pineda          MDF
+Néstor Calderón         MDF
+Isaac Brizuela          MDF
+Rodolfo Pizarro         MDF
+José Juan Vázquez       MDF
+Carlos Cisneros         MDF
+Alan Cervantes          MDF
+Alejandro Zendejas      MDF
+Michael Pérez           MDF
+Michelle Benítez        MDF
+Alan Pulido             FWD
+Javier Eduardo López    FWD
+Ángel Zaldívar          FWD
+Carlos Fierro           FWD
+Guillermo Martínez      FWD
+Edson Torres            FWD
 
 Coach: Matías Almeyda (ARG)
 
@@ -2599,29 +2599,29 @@ Final Table:
 18.Murciélagos FC                      17   3  5  9  13-23   14
 
 Topscorer
-Player         Team      Goals
-Diego Rafael Jiménez   Lobos BUAP   10
+Player                  Team            Goals
+Diego Rafael Jiménez    Lobos BUAP      10
 
 Relegation Table
 
-Team         Average
-Mineros         1.7111
-Dorados         1.7059
-Potros UAEM      1.6765
-FC Juárez      1.5469
-Alebrijes      1.5222
-Lobos BUAP      1.4889
-Coras         1.4667
-Atlante         1.4444
-Leones Negros      1.4062
-Cafetaleros      1.3444
-Celaya         1.2889
-Correcaminos UAT   1.2778
-Zacatepec      1.2556
-Cimarrones      1.1250
-Venados         1.1222
-Murciélagos      1.1222
-Tampico Madero      0.9706
+Team                    Average
+Mineros                 1.7111
+Dorados                 1.7059
+Potros UAEM             1.6765
+FC Juárez               1.5469
+Alebrijes               1.5222
+Lobos BUAP              1.4889
+Coras                   1.4667
+Atlante                 1.4444
+Leones Negros           1.4062
+Cafetaleros             1.3444
+Celaya                  1.2889
+Correcaminos UAT        1.2778
+Zacatepec               1.2556
+Cimarrones              1.1250
+Venados                 1.1222
+Murciélagos             1.1222
+Tampico Madero          0.9706
 -----------------------------
 Loros                  0.8235 (relegated)
 

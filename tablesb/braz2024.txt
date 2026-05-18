@@ -716,7 +716,7 @@ Final Table:
 13.Paysandu              38  12 14 12  41-43  50  [P]
 14.Botafogo/SP           38  11 12 15  36-51  45
 15.Chapecoense           38  11 11 16  34-45  44
-16.CRB               38  11 10 17  38-45  43
+16.CRB                   38  11 10 17  38-45  43
 ------------------------------------------------
 17.Ponte Preta           38  10  8 20  37-55  38       Relegated
 18.Ituano                38  11  4 23  43-63  37       Relegated
@@ -739,7 +739,7 @@ Final Table:
  7.Londrina              19   7  8  4  24-21  29  [R]  Qualified
  8.Remo                  19   8  2  9  21-23  26       Qualified
  - - - - - - - - - - - - - - - - - - - - - - - -
- 9.Náutico            19   6  7  6  34-25  25
+ 9.Náutico               19   6  7  6  34-25  25
 10.CSA                   19   6  7  6  22-26  25
 11.Figueirense           19   6  6  7  19-21  24
 12.Tombense              19   5  8  6  22-21  23  [R]

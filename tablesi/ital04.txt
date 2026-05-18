@@ -2620,12 +2620,12 @@ Varese                          3-2 Pistoiese
 
 Final Table:
 
- 1.Arezzo                          34 20  7  7 51-27 67   Promoted
+ 1.Arezzo                          34 20  7  7 51-27 67 Promoted
 -------------------------------------------------------
- 2.Lumezzane                       34 17  8  9 42-33 59   Promotion Playoff
- 3.Cesena                          34 15 13  6 47-34 58   Promotion Playoff
- 4.Rimini                          34 14 11  9 42-33 53   Promotion Playoff
- 5.Lucchese Libertas               34 14 10 10 39-34 52   Promotion Playoff
+ 2.Lumezzane                       34 17  8  9 42-33 59 Promotion Playoff
+ 3.Cesena                          34 15 13  6 47-34 58 Promotion Playoff
+ 4.Rimini                          34 14 11  9 42-33 53 Promotion Playoff
+ 5.Lucchese Libertas               34 14 10 10 39-34 52 Promotion Playoff
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  6.Spezia 1906                     34 13 12  9 35-33 51
  7.Padova                          34 12 12 10 36-27 48
@@ -2636,12 +2636,12 @@ Final Table:
 12.Novara                          34  9 13 12 37-41 40
 13.Sassari Torres                  34  9 11 14 21-28 38
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-14.Pro Patria Gallaratese Bustocca 34  9 11 14 28-38 38   Relegation Playoff
-15.Reggiana                        34  9 10 15 32-45 37   Relegation Playoff
-16.Varese                          34  8 11 15 29-43 35   Relegation Playoff
-17.Prato                           34  8 10 16 33-46 34   Relegation Playoff
+14.Pro Patria Gallaratese Bustocca 34  9 11 14 28-38 38 Relegation Playoff
+15.Reggiana                        34  9 10 15 32-45 37 Relegation Playoff
+16.Varese                          34  8 11 15 29-43 35 Relegation Playoff
+17.Prato                           34  8 10 16 33-46 34 Relegation Playoff
 -------------------------------------------------------
-18.Pavia                           34  8  8 18 29-47 32   Relegated
+18.Pavia                           34  8  8 18 29-47 32 Relegated
 
 
 Group B
@@ -3022,12 +3022,12 @@ Vis Pesaro 1898                 4-2 Taranto
 
 Final Table:
 
- 1.Catanzaro 1929                  34 19 10  5 44-25 67   Promoted
+ 1.Catanzaro 1929                  34 19 10  5 44-25 67 Promoted
 -------------------------------------------------------
- 2.Crotone                         34 19  8  7 57-33 65   Promotion Playoff
- 3.Viterbese '90                   34 16 13  5 45-29 61   Promotion Playoff
- 4.Acireale                        34 16 12  6 40-26 60   Promotion Playoff
- 5.Sporting Benevento              34 14 14  6 41-28 56   Promotion Playoff
+ 2.Crotone                         34 19  8  7 57-33 65 Promotion Playoff
+ 3.Viterbese '90                   34 16 13  5 45-29 61 Promotion Playoff
+ 4.Acireale                        34 16 12  6 40-26 60 Promotion Playoff
+ 5.Sporting Benevento              34 14 14  6 41-28 56 Promotion Playoff
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  6.Lanciano                        34 15  8 11 34-31 53
  7.Sambenedettese                  34 13 13  8 50-40 52
@@ -3038,12 +3038,12 @@ Final Table:
 12.Martina                         34 11  9 14 45-50 41
 13.Sora                            34 10 11 13 27-35 41
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-14.Fermana                         34  9 13 12 34-46 40   Relegation Playoff
-15.Vis Pesaro 1898                 34  9  9 16 31-48 36   Relegation Playoff
-16.Paternò                         34  8  8 18 32-47 32   Relegation Playoff
-17.Taranto                         34  7  9 18 31-46 30   Relegation Playoff
+14.Fermana                         34  9 13 12 34-46 40 Relegation Playoff
+15.Vis Pesaro 1898                 34  9  9 16 31-48 36 Relegation Playoff
+16.Paternò                         34  8  8 18 32-47 32 Relegation Playoff
+17.Taranto                         34  7  9 18 31-46 30 Relegation Playoff
 -------------------------------------------------------
-18.L'Aquila                        34  2  7 25 26-52 13   Relegated
+18.L'Aquila                        34  2  7 25 26-52 13 Relegated
 
 
 Promotion Playoff

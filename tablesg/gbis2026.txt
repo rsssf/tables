@@ -384,151 +384,151 @@ First stage
 Tables:
 
 Série A
- 1.Estrela Negra Bissau      7   6  0  1  15- 3  18
+ 1.Estrela Negra Bissau    7   6  0  1  15- 3  18
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Academia MEPA      7   5  2  0  10- 3  17
- 3.GDR Quelelé         7   3  3  1   6- 3  12
- 4.Ajuda Sport Clube      7   2  2  3   8- 8   8
- 5.FC Safim           6   1  4  1   4- 5   7
- 6.Bijagós FC         6   1  2  3   3- 7   5
- 7.FB/Ténis Clube      7   1  2  4   6-11   5
- 8.UDR Ondame         7   0  1  6   4-16   1
+ 2.Academia MEPA           7   5  2  0  10- 3  17
+ 3.GDR Quelelé             7   3  3  1   6- 3  12
+ 4.Ajuda Sport Clube       7   2  2  3   8- 8   8
+ 5.FC Safim                6   1  4  1   4- 5   7
+ 6.Bijagós FC              6   1  2  3   3- 7   5
+ 7.FB/Ténis Clube          7   1  2  4   6-11   5
+ 8.UDR Ondame              7   0  1  6   4-16   1
 
 Série B
- 1.CDR Farim         7   4  2  1   9- 5  14
+ 1.CDR Farim               7   4  2  1   9- 5  14
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.ADR Mansabá         7   4  2  1   8- 6  14
- 3.SC Pitche         7   3  1  3   5- 5  10
- 4.Vitória FC Cacheu      7   2  3  2   8- 6   9 [A]
+ 2.ADR Mansabá             7   4  2  1   8- 6  14
+ 3.SC Pitche               7   3  1  3   5- 5  10
+ 4.Vitória FC Cacheu       7   2  3  2   8- 6   9 [A]
  5.Nuno Tristão FC         7   2  3  2   6- 5   9 [R]
- 6.Binar FC         7   2  2  3   7- 7   8
- 7.Académico Ingoré FC      7   1  3  3   6-11   6
- 8.Atlético de Bissorã      7   1  2  4   5- 9   5
+ 6.Binar FC                7   2  2  3   7- 7   8
+ 7.Académico Ingoré FC     7   1  3  3   6-11   6
+ 8.Atlético de Bissorã     7   1  2  4   5- 9   5
 
 Série C
  1.Sporting de Bafatá      7   6  1  0  19- 5  19
 - - - - - - - - - - - - - - - - - - - - - - - - -
  2.Djata FC Fulacunda      7   4  1  2  11-10  13
- 3.FC Tombali         7   3  2  2   8- 5  11
+ 3.FC Tombali              7   3  2  2   8- 5  11
  4.Futebol Clube Buba      7   2  2  3   6- 6   8
- 5.Estrela Cantanhêz FC      7   2  2  3   7-13   8
- 6.FC Quinara         7   1  3  3   7- 9   6
- 7.FC Os Lagartos      7   2  0  5   9-13   6
+ 5.Estrela Cantanhêz FC    7   2  2  3   7-13   8
+ 6.FC Quinara              7   1  3  3   7- 9   6
+ 7.FC Os Lagartos          7   2  0  5   9-13   6
  8.Estrela Negra Bolama    7   1  3  3   6-12   6
 
 Round 1
 Série A
 [Mar 22]
-FC Safim    0-2 EN Bissau
-Ajuda Sport    1-3 GDR Quelelé
-FB/Ténis Clube    3-2 UDR Ondame
+FC Safim         0-2 EN Bissau
+Ajuda Sport      1-3 GDR Quelelé
+FB/Ténis Clube   3-2 UDR Ondame
 [Mar 23]
 Academia MEPA    1-0 Bijagós FC
 Série B [Mar 22]
-Binar FC         1-2 CDR Farim         [at Bissau]
+Binar FC         1-2 CDR Farim                  [at Bissau]
 Nuno Tristão FC  0-0 Acad. Ingoré
-ADR Mansabá    0-0 Atlético Bissorã
-Vitória Cacheu    1-1 SC Pitche
+ADR Mansabá      0-0 Atlético Bissorã
+Vitória Cacheu   1-1 SC Pitche
 Série C [Mar 22]
-EN Bolama    0-1 FC Tombali
+EN Bolama        0-1 FC Tombali
 FC Buba          0-1 Sporting Bafatá
 Djata Fulacunda  1-2 Est. Cantanhêz
-Os Lagartos    1-0 FC Quinara
+Os Lagartos      1-0 FC Quinara
 
 Round 2
 Série A
 [Mar 27]
-GDR Quelelé    0-0 FB/Ténis Clube
-EN Bissau    5-0 UDR Ondame
+GDR Quelelé      0-0 FB/Ténis Clube
+EN Bissau        5-0 UDR Ondame
 [Mar 28]
-Bijagós FC    0-0 Ajuda Sport
-FC Safim    1-1 Academia MEPA
+Bijagós FC       0-0 Ajuda Sport
+FC Safim         1-1 Academia MEPA
 Série B
 [Mar 28]
-CDR Farim    1-0 SC Pitche
-Acad. Ingoré    2-2 ADR Mansabá
+CDR Farim        1-0 SC Pitche
+Acad. Ingoré     2-2 ADR Mansabá
 Atlético Bissorã 0-1 Vitória Cacheu
 [Mar 29]
-Binar FC         1-0 Nuno Tristão FC        [at Bissau]
+Binar FC         1-0 Nuno Tristão FC            [at Bissau]
 Série C [Mar 28]
 FC Tombali       0-0 FC Quinara
 Est. Cantanhêz   0-4 Os Lagartos
 Sporting Bafatá  5-1 Djata Fulacunda
-EN Bolama    0-0 FC Buba
+EN Bolama        0-0 FC Buba
 
 Round 3
 Série A
 [Apr 1]
-FB/Ténis Clube    0-1 Bijagós FC
+FB/Ténis Clube   0-1 Bijagós FC
 [Apr 3]
-UDR Ondame    0-1 GDR Quelelé       [at Bissau]
-Ajuda Sport    1-1 FC Safim
+UDR Ondame       0-1 GDR Quelelé                [at Bissau]
+Ajuda Sport      1-1 FC Safim
 Academia MEPA    2-0 EN Bissau
 Série B [Apr 3]
 Nuno Tristão FC  0-0 CDR Farim
-SC Pitche    2-1 Atlético Bissorã
-Vitória Cacheu    4-1 Acad. Ingoré
-ADR Mansabá    1-0 Binar FC
+SC Pitche        2-1 Atlético Bissorã
+Vitória Cacheu   4-1 Acad. Ingoré
+ADR Mansabá      1-0 Binar FC
 Série C [Apr 3]
 FC Buba          1-2 FC Tombali
 Djata Fulacunda  2-0 EN Bolama
-Os Lagartos    0-1 Sporting Bafatá
-FC Quinara    1-0 Est. Cantanhêz
+Os Lagartos      0-1 Sporting Bafatá
+FC Quinara       1-0 Est. Cantanhêz
 
 Round 4
 Série A
 [Apr 10]
-EN Bissau    1-0 GDR Quelelé
+EN Bissau        1-0 GDR Quelelé
 [Apr 11]
-Bijagós FC    1-1 UDR Ondame
-FC Safim    0-0 FB/Ténis Clube
+Bijagós FC       1-1 UDR Ondame
+FC Safim         0-0 FB/Ténis Clube
 Academia MEPA    2-1 Ajuda Sport
 Série B [Apr 11]
-Binar FC         1-1 Vitória Cacheu       [at Bissau]
-Acad. Ingoré    0-1 SC Pitche
+Binar FC         1-1 Vitória Cacheu             [at Bissau]
+Acad. Ingoré     0-1 SC Pitche
 Nuno Tristão FC  3-1 ADR Mansabá
-CDR Farim    1-1 Atlético Bissorã
+CDR Farim        1-1 Atlético Bissorã
 Série C [Apr 11]
 FC Tombali       0-1 Est. Cantanhêz
 FC Buba          0-1 Djata Fulacunda
 Sporting Bafatá  3-2 FC Quinara
-EN Bolama    3-2 Os Lagartos
+EN Bolama        3-2 Os Lagartos
 
 Round 5
 Série A
 [Apr 15]
-UDR Ondame    1-2 FC Safim          [at Bissau]
-Ajuda Sport    0-1 EN Bissau
-FB/Ténis Clube    1-2 Academia MEPA
+UDR Ondame       1-2 FC Safim                   [at Bissau]
+Ajuda Sport      0-1 EN Bissau
+FB/Ténis Clube   1-2 Academia MEPA
 [May 1]
-GDR Quelelé    2-1 Bijagós FC
+GDR Quelelé      2-1 Bijagós FC
 Série B [Apr 15]
-ADR Mansabá    2-1 CDR Farim
-Vitória Cacheu    1-1 Nuno Tristão FC
-SC Pitche    1-0 Binar FC
+ADR Mansabá      2-1 CDR Farim
+Vitória Cacheu   1-1 Nuno Tristão FC
+SC Pitche        1-0 Binar FC
 Atlético Bissorã 0-1 Acad. Ingoré
 Série C [Apr 15]
 Sporting Bafatá  5-2 Est. Cantanhêz
 Djata Fulacunda  2-1 FC Tombali
-Os Lagartos    0-2 FC Buba
-FC Quinara    2-2 EN Bolama
+Os Lagartos      0-2 FC Buba
+FC Quinara       2-2 EN Bolama
 
 Round 6
 Série A
 [Apr 25]
-Ajuda Sport    3-1 FB/Ténis Clube
-FC Safim    0-0 GDR Quelelé
+Ajuda Sport      3-1 FB/Ténis Clube
+FC Safim         0-0 GDR Quelelé
 Academia MEPA    2-0 UDR Ondame
 [Apr 27]
-EN Bissau    3-0 Bijagós FC
+EN Bissau        3-0 Bijagós FC
 Série B
 [Apr 23]
 Nuno Tristão FC  1-0 SC Pitche
 [Apr 24]
-Binar FC         3-1 Atlético Bissorã       [at Bissau]
+Binar FC         3-1 Atlético Bissorã           [at Bissau]
 [Apr 25]
-ADR Mansabá    1-0 Vitória Cacheu
-CDR Farim    3-1 Acad. Ingoré
+ADR Mansabá      1-0 Vitória Cacheu
+CDR Farim        3-1 Acad. Ingoré
 Série C [Apr 25]
 FC Tombali       0-0 Sporting Bafatá
 FC Buba          2-1 FC Quinara
@@ -538,22 +538,22 @@ Est. Cantanhêz   1-1 EN Bolama
 Round 7
 Série A
 [Apr 30]
-UDR Ondame    0-2 Ajuda Sport       [at Bissau]
+UDR Ondame       0-2 Ajuda Sport                [at Bissau]
 [May 2]
-FB/Ténis Clube    1-3 EN Bissau
+FB/Ténis Clube   1-3 EN Bissau
 [May 3]
-GDR Quelelé    0-0 Academia MEPA       [at Bissau]
+GDR Quelelé      0-0 Academia MEPA              [at Bissau]
 [May 9]
-Bijagós FC     -  FC Safim
+Bijagós FC        -  FC Safim
 Série B [Apr 30]
-Vitória Cacheu    0-1 CDR Farim
-SC Pitche    0-1 ADR Mansabá
+Vitória Cacheu   0-1 CDR Farim
+SC Pitche        0-1 ADR Mansabá
 Atlético Bissorã 2-1 Nuno Tristão FC
-Acad. Ingoré    1-1 Binar FC
+Acad. Ingoré     1-1 Binar FC
 Série C
 [Apr 30]
-Os Lagartos    1-4 FC Tombali
-FC Quinara    1-1 Djata Fulacunda
+Os Lagartos      1-4 FC Tombali
+FC Quinara       1-1 Djata Fulacunda
 Est. Cantanhêz   1-1 FC Buba
 [May 4]
 Sporting Bafatá  4-0 EN Bolama
@@ -561,53 +561,53 @@ Sporting Bafatá  4-0 EN Bolama
 Tables:
 
 Série A
- 1.Estrela Negra Bissau      7   6  0  1  15- 3  18
+ 1.Estrela Negra Bissau    7   6  0  1  15- 3  18
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Academia MEPA      7   5  2  0  10- 3  17
- 3.GDR Quelelé         7   3  3  1   6- 3  12
- 4.Ajuda Sport Clube      7   2  2  3   8- 8   8
- 5.FC Safim           6   1  4  1   4- 5   7
- 6.Bijagós FC         6   1  2  3   3- 7   5
- 7.FB/Ténis Clube      7   1  2  4   6-11   5
- 8.UDR Ondame         7   0  1  6   4-16   1
+ 2.Academia MEPA           7   5  2  0  10- 3  17
+ 3.GDR Quelelé             7   3  3  1   6- 3  12
+ 4.Ajuda Sport Clube       7   2  2  3   8- 8   8
+ 5.FC Safim                6   1  4  1   4- 5   7
+ 6.Bijagós FC              6   1  2  3   3- 7   5
+ 7.FB/Ténis Clube          7   1  2  4   6-11   5
+ 8.UDR Ondame              7   0  1  6   4-16   1
 
 Série B
- 1.CDR Farim         7   4  2  1   9- 5  14
+ 1.CDR Farim               7   4  2  1   9- 5  14
 - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.ADR Mansabá         7   4  2  1   8- 6  14
- 3.SC Pitche         7   3  1  3   5- 5  10
- 4.Vitória FC Cacheu      7   2  3  2   8- 6   9 [A]
+ 2.ADR Mansabá             7   4  2  1   8- 6  14
+ 3.SC Pitche               7   3  1  3   5- 5  10
+ 4.Vitória FC Cacheu       7   2  3  2   8- 6   9 [A]
  5.Nuno Tristão FC         7   2  3  2   6- 5   9 [R]
- 6.Binar FC         7   2  2  3   7- 7   8
- 7.Académico Ingoré FC      7   1  3  3   6-11   6
- 8.Atlético de Bissorã      7   1  2  4   5- 9   5
+ 6.Binar FC                7   2  2  3   7- 7   8
+ 7.Académico Ingoré FC     7   1  3  3   6-11   6
+ 8.Atlético de Bissorã     7   1  2  4   5- 9   5
 
 Série C
  1.Sporting de Bafatá      7   6  1  0  19- 5  19
 - - - - - - - - - - - - - - - - - - - - - - - - -
  2.Djata FC Fulacunda      7   4  1  2  11-10  13
- 3.FC Tombali         7   3  2  2   8- 5  11
+ 3.FC Tombali              7   3  2  2   8- 5  11
  4.Futebol Clube Buba      7   2  2  3   6- 6   8
- 5.Estrela Cantanhêz FC      7   2  2  3   7-13   8
- 6.FC Quinara         7   1  3  3   7- 9   6
- 7.FC Os Lagartos      7   2  0  5   9-13   6
+ 5.Estrela Cantanhêz FC    7   2  2  3   7-13   8
+ 6.FC Quinara              7   1  3  3   7- 9   6
+ 7.FC Os Lagartos          7   2  0  5   9-13   6
  8.Estrela Negra Bolama    7   1  3  3   6-12   6
 
 Round 8
 Série A
-EN Bissau     -  FC Safim
-GDR Quelelé     -  Ajuda Sport
-UDR Ondame     -  FB/Ténis Clube
-Bijagós FC     -  Academia MEPA
+EN Bissau         -  FC Safim
+GDR Quelelé       -  Ajuda Sport
+UDR Ondame        -  FB/Ténis Clube
+Bijagós FC        -  Academia MEPA
 Série B
-CDR Farim     -  Binar FC
-Acad. Ingoré     -  Nuno Tristão FC
+CDR Farim         -  Binar FC
+Acad. Ingoré      -  Nuno Tristão FC
 Atlético Bissorã  -  ADR Mansabá
-SC Pitche     -  Vitória Cacheu
+SC Pitche         -  Vitória Cacheu
 Série C
-FC Tombali     -  EN Bolama
+FC Tombali        -  EN Bolama
 Sporting Bafatá   -  FC Buba
 Est. Cantanhêz    -  Djata Fulacunda
-FC Quinara     -  Os Lagartos
+FC Quinara        -  Os Lagartos
 
 

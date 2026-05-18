@@ -634,7 +634,7 @@ Portsmouth        0-2 Chelsea
 Sheffield United  1-1 Everton
 Watford           2-2 Charlton Athletic
 [Mar 4]
-Bolton Wanderers  1-2 Blackburn   Rovers
+Bolton Wanderers  1-2 Blackburn Rovers
 West Ham United   3-4 Tottenham Hotspur
 
 Round 30
@@ -1887,7 +1887,7 @@ Round 19
 [Nov 24]
 Wolverhampton Wanderers    1-1 Sunderland
 [Nov 25]
-Queens Park Rangers        0-1 Coventry   City
+Queens Park Rangers        0-1 Coventry City
 Preston North End          0-0 Crystal Palace
 Plymouth Argyle            1-2 Leeds United
 Norwich City               1-1 Hull City

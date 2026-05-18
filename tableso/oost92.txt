@@ -31,213 +31,213 @@ Table:
 12.DSV Alpine                22   1  6 15  11-48    8
 
 Round 1 [Jul 24]
-Admira/Wacker     3-0 St. Pölten
-Tirol        4-0 Alpine
-Rapid        2-0 Vorwärts
-Krems        2-2 Vienna
-Linz        2-1 Austria Wien
+Admira/Wacker    3-0 St. Pölten
+Tirol            4-0 Alpine
+Rapid            2-0 Vorwärts
+Krems            2-2 Vienna
+Linz             2-1 Austria Wien
 Austria Salzburg 1-0 Sturm
 
 Round 2 [Jul 27]
-Alpine        1-1 Linz
+Alpine           1-1 Linz
 Austria Wien     3-2 Austria Salzburg
-Sturm        0-1 Rapid
-Vienna        0-0 Admira/Wacker
-Vorwärts     0-1 Krems
-St. Pölten     2-1 Tirol
+Sturm            0-1 Rapid
+Vienna           0-0 Admira/Wacker
+Vorwärts         0-1 Krems
+St. Pölten       2-1 Tirol
 
 Round 3
 [Jul 30]
-Admira/Wacker     0-0 Tirol
-Vienna        1-0 Vorwärts
+Admira/Wacker    0-0 Tirol
+Vienna           1-0 Vorwärts
 [Jul 31]
-Rapid        1-1 Austria Wien
-Krems        1-3 Sturm
-Linz        2-0 St. Pölten
+Rapid            1-1 Austria Wien
+Krems            1-3 Sturm
+Linz             2-0 St. Pölten
 Austria Salzburg 1-0 Alpine
 
 Round 4
 [Aug 3]
-Alpine        2-5 Rapid
+Alpine           2-5 Rapid
 Austria Wien     2-1 Krems
-Tirol        4-3 Linz
-Sturm        2-1 Vienna
-St. Pölten     1-2 Austria Salzburg
+Tirol            4-3 Linz
+Sturm            2-1 Vienna
+St. Pölten       1-2 Austria Salzburg
 [Aug 4]
-Vorwärts     4-1 Admira/Wacker
+Vorwärts         4-1 Admira/Wacker
 
 Round 5
 [Aug 9]
-Admira/Wacker     0-0 Linz
-Vorwärts     3-1 Sturm
+Admira/Wacker    0-0 Linz
+Vorwärts         3-1 Sturm
 [Aug 10]
-Rapid        4-1 St. Pölten    [in Krems (double-header with
-Krems        3-1 Alpine              Krems vs Alpine); Rapid's
+Rapid            4-1 St. Pölten         [in Krems (double-header with
+Krems            3-1 Alpine              Krems vs Alpine); Rapid's
 Austria Salzburg 2-1 Tirol               stadium suspended for 1 match]
-Vienna        1-2 Austria Wien
+Vienna           1-2 Austria Wien
 
 Round 6
 [Aug 16]
 Austria Wien     2-0 Vorwärts
-St. Pölten     4-0 Krems
+St. Pölten       4-0 Krems
 [Aug 17]
-Tirol        0-0 Rapid
-Linz        0-0 Austria Salzburg
-Sturm        2-1 Admira/Wacker
+Tirol            0-0 Rapid
+Linz             0-0 Austria Salzburg
+Sturm            2-1 Admira/Wacker
 [Aug 18]
-Alpine        0-0 Vienna
+Alpine           0-0 Vienna
 
 Round 7 [Aug 24]
-Admira/Wacker     2-0 Austria Salzburg
-Rapid        0-1 Linz
-Krems        1-2 Tirol
-Sturm        0-0 Austria Wien
-Vienna        3-2 St. Pölten
-Vorwärts     3-0 Alpine
+Admira/Wacker    2-0 Austria Salzburg
+Rapid            0-1 Linz
+Krems            1-2 Tirol
+Sturm            0-0 Austria Wien
+Vienna           3-2 St. Pölten
+Vorwärts         3-0 Alpine
 
 Round 8
 [Aug 27]
 Austria Salzburg 3-2 Rapid
 [Aug 28]
-Alpine        1-0 Sturm
+Alpine           1-0 Sturm
 Austria Wien     1-0 Admira/Wacker
-Tirol        5-1 Vienna
-Linz        4-1 Krems
-St. Pölten     0-0 Vorwärts
+Tirol            5-1 Vienna
+Linz             4-1 Krems
+St. Pölten       0-0 Vorwärts
 
 Round 9
 [Aug 31]
-Admira/Wacker     2-0 Rapid
+Admira/Wacker    2-0 Rapid
 Austria Wien     8-1 Alpine
-Krems         0-1 Austria Salzburg
-Sturm        1-0 St. Pölten
-Vorwärts     2-4 Tirol
+Krems            0-1 Austria Salzburg
+Sturm            1-0 St. Pölten
+Vorwärts         2-4 Tirol
 [Sep 1]
-Vienna        0-0 Linz
+Vienna           0-0 Linz
 
 Round 10
 [Sep 6]
 Austria Salzburg 5-0 Vienna
 [Sep 7]
-Alpine        1-2 Admira/Wacker
-Tirol        3-2 Sturm
-Rapid        0-1 Krems
-Linz        1-0 Vorwärts
-St. Pölten     0-0 Austria Wien
+Alpine           1-2 Admira/Wacker
+Tirol            3-2 Sturm
+Rapid            0-1 Krems
+Linz             1-0 Vorwärts
+St. Pölten       0-0 Austria Wien
 
 Round 11
 [Sep 10]
-Krems        0-0 Admira/Wacker
-Vienna        0-4 Rapid
-Vorwärts     2-1 Austria Salzburg
+Krems            0-0 Admira/Wacker
+Vienna           0-4 Rapid
+Vorwärts         2-1 Austria Salzburg
 [Sep 11]
-Alpine        0-2 St. Pölten
+Alpine           0-2 St. Pölten
 Austria Wien     2-2 Tirol
-Sturm        2-1 Linz
+Sturm            2-1 Linz
 
 Round 12
 [Sep 13]
-Admira/Wacker     2-1 Krems
+Admira/Wacker    2-1 Krems
 Austria Salzburg 2-0 Vorwärts
 [Sep 14]
-Tirol        3-4 Austria Wien
-Rapid        3-0 Vienna
-Linz       2-1 Sturm
-St. Pölten     0-0 Alpine
+Tirol            3-4 Austria Wien
+Rapid            3-0 Vienna
+Linz             2-1 Sturm
+St. Pölten       0-0 Alpine
 
 Round 13
 [Sep 20]
-St. Pölten     1-1 Admira/Wacker
+St. Pölten       1-1 Admira/Wacker
 [Sep 21]
-Alpine        0-0 Tirol
-Sturm        0-2 Austria Salzburg
-Vienna        2-1 Krems
-Vorwärts     1-1 Rapid
+Alpine           0-0 Tirol
+Sturm            0-2 Austria Salzburg
+Vienna           2-1 Krems
+Vorwärts         1-1 Rapid
 Austria Wien     5-0 Linz
 
 Round 14
 [Sep 27]
-Admira/Wacker     3-2 Vienna
-Tirol        4-2 St. Pölten
-Krems        0-0 Vorwärts
-Linz        2-0 Alpine
+Admira/Wacker    3-2 Vienna
+Tirol            4-2 St. Pölten
+Krems            0-0 Vorwärts
+Linz             2-0 Alpine
 [Sep 28]
-Rapid        2-2 Sturm
+Rapid            2-2 Sturm
 Austria Salzburg 1-0 Austria Wien
 
 Round 15
 [Oct 4]
-St. Pölten     2-0 Linz
+St. Pölten       2-0 Linz
 [Oct 5]
-Alpine        0-4 Austria Salzburg
+Alpine           0-4 Austria Salzburg
 Austria Wien     5-1 Rapid
-Tirol        3-2 Admira/Wacker
-Sturm        0-1 Krems
-Vorwärts     1-2 Vienna
+Tirol            3-2 Admira/Wacker
+Sturm            0-1 Krems
+Vorwärts         1-2 Vienna
 
 Round 16
 [Oct 18]
 Austria Salzburg 3-0 St. Pölten
-Vienna        1-1 Sturm
+Vienna           1-1 Sturm
 [Oct 19]
-Admira/Wacker     2-1 Vorwärts
-Rapid        3-0 Alpine
-Krems        2-2 Austria Wien
-Linz        2-0 Tirol
+Admira/Wacker    2-1 Vorwärts
+Rapid            3-0 Alpine
+Krems            2-2 Austria Wien
+Linz             2-0 Tirol
 
 Round 17
 [Oct 25]
 Austria Wien     3-0 Vienna
-Linz        2-2 Admira/Wacker
+Linz             2-2 Admira/Wacker
 [Oct 26]
-Alpine        2-2 Krems
-Tirol        2-2 Austria Salzburg
-Sturm        0-2 Vorwärts
-St. Pölten     2-2 Rapid
+Alpine           2-2 Krems
+Tirol            2-2 Austria Salzburg
+Sturm            0-2 Vorwärts
+St. Pölten       2-2 Rapid
 
 Round 18
 [Nov 2]
-Rapid        2-1 Tirol
-Krems        1-1 St. Pölten
+Rapid            2-1 Tirol
+Krems            1-1 St. Pölten
 Austria Salzburg 2-1 Linz
-Vorwärts     1-2 Austria Wien
+Vorwärts         1-2 Austria Wien
 [Nov 3]
-Admira/Wacker     3-1 Sturm
-Vienna        0-0 Alpine
+Admira/Wacker    3-1 Sturm
+Vienna           0-0 Alpine
 
 Round 19 [Nov 9]
-Alpine        1-2 Vorwärts
+Alpine           1-2 Vorwärts
 Austria Wien     5-0 Sturm
-Tirol        3-2 Krems
-Linz        1-1 Rapid
+Tirol            3-2 Krems
+Linz             1-1 Rapid
 Austria Salzburg 1-0 Admira/Wacker
-St. Pölten     2-1 Vienna
+St. Pölten       2-1 Vienna
 
 Round 20
 [Nov 16]
-Admira/Wacker     3-0 Austria Wien
-Rapid         1-0 Austria Salzburg
-Krems        0-6 Linz
-Vorwärts     4-0 St. Pölten
+Admira/Wacker    3-0 Austria Wien
+Rapid            1-0 Austria Salzburg
+Krems            0-6 Linz
+Vorwärts         4-0 St. Pölten
 [Nov 17]
-Sturm        1-0 Alpine
-Vienna        1-2 Tirol
+Sturm            1-0 Alpine
+Vienna           1-2 Tirol
 
 Round 21 [Nov 23]
-Alpine        0-2 Austria Wien
-Tirol        2-1 Vorwärts
-Rapid        1-1 Admira/Wacker
-Linz        2-1 Vienna
+Alpine           0-2 Austria Wien
+Tirol            2-1 Vorwärts
+Rapid            1-1 Admira/Wacker
+Linz             2-1 Vienna
 Austria Salzburg 5-2 Krems
-St. Pölten     3-1 Sturm
+St. Pölten       3-1 Sturm
 
 Round 22 [Nov 30]
-Admira/Wacker     3-1 Alpine
+Admira/Wacker    3-1 Alpine
 Austria Wien     1-0 St. Pölten
-Krems        0-1 Rapid
-Sturm        1-2 Tirol
-Vienna        1-3 Austria Salzburg
-Vorwärts     1-3 Linz
+Krems            0-1 Rapid
+Sturm            1-2 Tirol
+Vienna           1-3 Austria Salzburg
+Vorwärts         1-3 Linz
 
 1.Bundesliga
 ------------

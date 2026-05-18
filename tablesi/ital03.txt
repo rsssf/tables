@@ -2362,17 +2362,17 @@ Final Table:
 
 Promotion Playoff
 
-Semifinals           1stleg 2ndleg
+Semifinals                        1stleg 2ndleg
 
-Group A Padova         Albinoleffe 1-2    1-0 (Albinoleffe qualified for the best place in regular season)
-   Pisa         Cesena      1-0    1-1
+Group A Padova        Albinoleffe 1-2    1-0 (Albinoleffe qualified for the best place in regular season)
+        Pisa          Cesena      1-0    1-1
 Group B Sambendettese Pescara     1-0    0-2
-   Teramo         Martina     1-0    0-1 (Martina qualified for the best place in regular season)
+        Teramo        Martina     1-0    0-1 (Martina qualified for the best place in regular season)
 
 Finals                            1stleg 2ndleg
 
-Group A Pisa         Albinoleffe 2-1    2-4 aet
-Group B Martina         Pescara     0-0    0-2
+Group A Pisa          Albinoleffe 2-1    2-4 aet
+Group B Martina       Pescara     0-0    0-2
 
 Promoted: Albinoleffe and Pescara
 
@@ -2381,9 +2381,9 @@ Relegation Playout
                                                1stleg 2ndleg
 
 Group A Alzano 1909 Virescit Lucchese Libertas 1-2    1-1
-   Carrarese        Varese          1-1    1-1 (Carrarese relegated for the worst place in regular season)
-Group B L'Aquila        Paternò          1-0    0-0
-   Sora           Giulianova          0-0    0-0 (Sora relegated for the worst place in regular season)
+        Carrarese            Varese            1-1    1-1 (Carrarese relegated for the worst place in regular season)
+Group B L'Aquila             Paternò           1-0    0-0
+        Sora                 Giulianova        0-0    0-0 (Sora relegated for the worst place in regular season)
 
 
 Fourth Level (Serie C2) 2002/03
@@ -3594,19 +3594,19 @@ Final Table:
 
 Promotion playoff
 
-Semifinals                             1stleg 2ndleg
+Semifinals                                    1stleg 2ndleg
 
-Group A Pro Sesto           Novara         0-0    1-1 (Novara qualified for the best place in regular season)
-   Mantova                   Südtirol      2-1    0-2
-Group B Grosseto           Rimini         0-0    0-0 (Rimini qualified for the best place in regular season)
-   Castelnuovo Garfagnana  Gubbio 1910   2-2    0-3
-Group C Acireale           Brindisi      1-0    3-3
-   Catanzaro 1929           Nocerina 1910 0-0    1-0
+Group A Pro Sesto               Novara        0-0    1-1 (Novara qualified for the best place in regular season)
+        Mantova                 Südtirol      2-1    0-2
+Group B Grosseto                Rimini        0-0    0-0 (Rimini qualified for the best place in regular season)
+        Castelnuovo Garfagnana  Gubbio 1910   2-2    0-3
+Group C Acireale                Brindisi      1-0    3-3
+        Catanzaro 1929          Nocerina 1910 0-0    1-0
 
-Finals                                      1stleg 2ndleg
+Finals                                         1stleg 2ndleg
 
-Group A Südtirol           Novara          0-0    0-0 aet (Novara promoted for the best place in regular season)
-Group B   Gubbio 1910           Rimini         0-1    0-0
+Group A Südtirol                Novara         0-0    0-0 aet (Novara promoted for the best place in regular season)
+Group B Gubbio 1910             Rimini         0-1    0-0
 Group C Acireale                Catanzaro 1929 0-0    2-0
 
 Promoted: Novara, Rimini and Acireale
@@ -3614,13 +3614,13 @@ Promoted: Novara, Rimini and Acireale
 
 Relegation playout
 
-                1stleg 2ndleg
+                                         1stleg 2ndleg
 
-Group A   Pro Vercelli Mestre Sportiva    1-0    1-0
-   Meda 1913    Nuovo Calcio Trento 1-1   4-2
-Group B   Sassuolo     Imolese       1-2   1-2
-   Fano        Castel di Sangro    0-0   2-0
-Group C   Tivoli 1919  Gela Juve Terranova 0-0   2-0
-   Lodigiani    Olbia       1-2   0-3
+Group A Pro Vercelli Mestre Sportiva     1-0    1-0
+        Meda 1913    Nuovo Calcio Trento 1-1    4-2
+Group B Sassuolo     Imolese             1-2    1-2
+        Fano         Castel di Sangro    0-0    2-0
+Group C Tivoli 1919  Gela Juve Terranova 0-0    2-0
+        Lodigiani    Olbia               1-2    0-3
 
 

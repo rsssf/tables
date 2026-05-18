@@ -231,7 +231,7 @@ Tijuana            1-1 América
 Cruz Azul          2-1 Santos
   [Felipe Mora 54, Christian Giménez 69; Julio César Furch 12]
 Monterrey          2-1 Atlas
-  [Avilés Hurtado 23, Rogelio Funes Mori 85; Brayan Garnica    28]
+  [Avilés Hurtado 23, Rogelio Funes Mori 85; Brayan Garnica     28]
 León               3-1 Pachuca
   [Mauro Boselli 3, Luis Arturo Montes 24, Andrés Andrade 27; Ángelo Sagal 52]
 Necaxa             1-1 Puebla
@@ -452,19 +452,19 @@ Final Table:
 18.Pumas                               17   3  4 10  14-25  13
 
 Topscorers
-Player         Team      Goals
-Avilés Hurtado      Monterrey   11
-Mauro Boselli      León      11
-Julián Quiñónes      Lobos BUAP    9
-Raúl Ruidiaz      Morelia       9
-Julio César Furch   Santos       9
-Enner Valencia      Tigres       9
-Felipe Mora      Cruz Azul    8
-Víctor Guzmán      Pachuca       8
-Camilo Sanvezzo      Querétaro    8
-Fernando Uribe      Toluca       8
-Milton Caraglio      Atlas       7
-Gustavo Bou      Tijuana       7
+Player                  Team            Goals
+Avilés Hurtado          Monterrey       11
+Mauro Boselli           León            11
+Julián Quiñónes         Lobos BUAP       9
+Raúl Ruidiaz            Morelia          9
+Julio César Furch       Santos           9
+Enner Valencia          Tigres           9
+Felipe Mora             Cruz Azul        8
+Víctor Guzmán           Pachuca          8
+Camilo Sanvezzo         Querétaro        8
+Fernando Uribe          Toluca           8
+Milton Caraglio         Atlas            7
+Gustavo Bou             Tijuana          7
 
 Playoffs  ‹§applay›
 
@@ -527,28 +527,28 @@ Monterrey          1-2 Tigres
 
 Tigres UANL roster team
 
-Nahuel Guzmán        GK  (Argentina)
-Enrique Palos        GK
+Nahuel Guzmán             GK  (Argentina)
+Enrique Palos             GK
 Anselmo Vendrechovski     DEF (Brazil)
-Hugo Ayala        DEF
-Israel Jiménez        DEF
-Jorge Torres Nilo     DEF
+Hugo Ayala                DEF
+Israel Jiménez            DEF
+Jorge Torres Nilo         DEF
 Timothée Kolodziedjczak  DEF (France)
-Francisco Meza        DEF (Colombia)
-Jorge Estrada        DEF
-Luis Rodríguez        DEF
+Francisco Meza            DEF (Colombia)
+Jorge Estrada             DEF
+Luis Rodríguez            DEF
 Alberto Acosta            DEF
-Rafael De Souza        MDF (Brazil)
-Javier Aquino        MDF
-Jesús Alberto Dueñas     MDF
-Jürgen Damm        MDF
+Rafael De Souza           MDF (Brazil)
+Javier Aquino             MDF
+Jesús Alberto Dueñas      MDF
+Jürgen Damm               MDF
 Damián Ariel Álvarez     MDF (Argentina/Mexico)
-André-Pierre Gignac     FWD (France)
-Enner Valencia         FWD (Ecuador)
-Lucas Zelarayán        FWD (Argentina)
-Eduardo Vargas        FWD (Chile)
-Larry Vázquez        FWD (Colombia)
-Ismael Sosa        FWD (Argentina)
+André-Pierre Gignac       FWD (France)
+Enner Valencia            FWD (Ecuador)
+Lucas Zelarayán           FWD (Argentina)
+Eduardo Vargas            FWD (Chile)
+Larry Vázquez             FWD (Colombia)
+Ismael Sosa               FWD (Argentina)
 
 Coach: Ricardo Ferreti (BRA)
 
@@ -1003,7 +1003,7 @@ Final Table:
 18.Lobos BUAP                          17   2  3 12  18-33   9
 
 Topscorers
-Player          Team      Goals
+Player                   Team           Goals
 Jorge Djaniny Tabares   Santos Laguna  14
 Nicolás Castillo        Pumas          11
 André-Pierre Gignac     Tigres          9
@@ -1018,7 +1018,7 @@ Keisuke Honda           Pachuca         7
 
 Relegation Table
 
-Team         Average
+Team                    Average
 Monterrey              1.7451
 Toluca                 1.6667
 América                1.6471
@@ -1474,7 +1474,7 @@ Monterrey          1-0 Pachuca
 Monterrey Cup champions
 
 Topscorers
-Player         Team      Goals
+Player                  Team            Goals
 Carlos Sánchez         Monterrey        4
 Silvio Romero          América          3
 Pablo César Aguilar    América          3
@@ -1853,7 +1853,7 @@ Necaxa             1-0 Toluca
 Necaxa cup champions
 
 Topscorers
-Player         Team      Goals
+Player                  Team            Goals
 Pedro Canelo           Toluca         7
 Mauro Boselli          León           6
 Eduardo Pérez          Cafetaleros    5
@@ -2191,8 +2191,8 @@ Final Table:
 16.Atlante                             15   3  2 10  11-25   11
 
 Topscorer
-Player         Team      Goals
-Luis Madrigal      Alebrijes   12
+Player                  Team            Goals
+Luis Madrigal           Alebrijes       12
 
 ====== Playoff Stage  ‹§2aperplay›
 
@@ -2504,7 +2504,7 @@ Guillermo Martínez    Mineros           11
 
 Relegation Table
 
-Team         Average
+Team                    Average
 Mineros               1.7234
 Dorados Sinaloa       1.6250
 Celaya FC             1.6064

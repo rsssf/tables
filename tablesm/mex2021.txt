@@ -566,32 +566,32 @@ León                 2-0 Pumas
 
 León squad
 
-Rodolfo Cota            GK
-Alfonso Blanco            GK
-Guillermo Pozos            GK
-Gil Burón            DEF
-Andrés Mosquera            DEF   Colombia
-Fernando Navarro         DEF
-William Tesillo            DEF   Colombia
-Jaine Stiven Barreiro         DEF   Colombia
-Osvaldo Rodríguez         DEF
-Juan Ignacio González         DEF
-José Iván Rodríguez         MDF
-Luis Arturo Montes         MDF
-Yairo Moreno            MDF   Colombia
-Ángel Mena            MDF   Ecuador
-Jean Meneses            MDF   Chile
-Pedro Aquino            MDF   Peru
-José David Ramírez         MDF
-Jesse Zamudio            MDF
-Fidel Ambriz            MDF
-Saúl Zamora            MDF
-Iván Ochoa            MDF
-Joel Campbell            FWD   Costa Rica
-José de Jesús Godínez         FWD
-Nicolás Sosa            FWD   Uruguay
-Emmanuel Gigliotti         FWD   Argentina
-Armando León            FWD
+Rodolfo Cota                            GK
+Alfonso Blanco                          GK
+Guillermo Pozos                         GK
+Gil Burón                               DEF
+Andrés Mosquera                         DEF     Colombia
+Fernando Navarro                        DEF
+William Tesillo                         DEF     Colombia
+Jaine Stiven Barreiro                   DEF     Colombia
+Osvaldo Rodríguez                       DEF
+Juan Ignacio González                   DEF
+José Iván Rodríguez                     MDF
+Luis Arturo Montes                      MDF
+Yairo Moreno                            MDF     Colombia
+Ángel Mena                              MDF     Ecuador
+Jean Meneses                            MDF     Chile
+Pedro Aquino                            MDF     Peru
+José David Ramírez                      MDF
+Jesse Zamudio                           MDF
+Fidel Ambriz                            MDF
+Saúl Zamora                             MDF
+Iván Ochoa                              MDF
+Joel Campbell                           FWD     Costa Rica
+José de Jesús Godínez                   FWD
+Nicolás Sosa                            FWD     Uruguay
+Emmanuel Gigliotti                      FWD     Argentina
+Armando León                            FWD
 
 TD: Ignacio Ambriz
 
@@ -1072,7 +1072,7 @@ Final Table:
 18.Necaxa                              17   2  5 10  14-29  11
 
 Topscorers
-Player          Team      Goals
+Player                   Team           Goals
 Pedro Alexis Canelo      Toluca         11
 Nicolás Ibáñez           A. de San Luis 10
 Jonathan Rodríguez       Cruz Azul       9
@@ -1090,7 +1090,7 @@ Michael Estrada          Toluca          6
 
 Relegation Table
 
-Team         Average
+Team                    Average
 América                 1.9126
 Cruz Azul               1.8835
 León                    1.8155
@@ -1552,11 +1552,11 @@ NB: winners qualify to semifinals;
     clubs finishing 3th to 12th qualify to Reclasificación.
 
 Topscorer:
-Player         Team      Goals
-Guillermo Martínez   Celaya        7
-Lizandro Echeverría   Atlante        7
-Gustavo Ramírez      Atlético Morelia  7
-Jesús Alvarado      Correcaminos UAT  7
+Player                  Team            Goals
+Guillermo Martínez      Celaya            7
+Lizandro Echeverría     Atlante           7
+Gustavo Ramírez         Atlético Morelia  7
+Jesús Alvarado          Correcaminos UAT  7
 
 
 ====== Playoff Stage  ‹§2aperplay›
@@ -1914,23 +1914,23 @@ Julio César Cruz      Alebrijes         10
 
 Relegation Table
 
-Team         Average
-Mineros                  1.7922
-Atlante                  1.6623
-Cimarrones               1.6104
-Atlético Morelia       1.5844
-Tepatitlán FC             1.5000
-Tapatío        1.4333
-Club Celaya               1.4026
-Tampico Madero           1.3878
-Alebrijes                1.2987
-Tlaxcala FC               1.2333
-Dorados Sinaloa          1.2078
-Cancún FC              1.1429
-Leones Negros            1.1299
+Team                    Average
+Mineros                 1.7922
+Atlante                 1.6623
+Cimarrones              1.6104
+Atlético Morelia        1.5844
+Tepatitlán FC           1.5000
+Tapatío                 1.4333
+Club Celaya             1.4026
+Tampico Madero          1.3878
+Alebrijes               1.2987
+Tlaxcala FC             1.2333
+Dorados Sinaloa         1.2078
+Cancún FC               1.1429
+Leones Negros           1.1299
 ------------------------------
-Correcaminos UAT         1.0909
-Venados FC               1.0779
+Correcaminos UAT        1.0909
+Venados FC              1.0779
 Pumas Tabasco           0.9667 (*)
 
 (*) Due to suspension of Promotion and Relegation the last 3 teams of the relegation table were fined with:

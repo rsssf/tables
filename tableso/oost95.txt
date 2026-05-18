@@ -29,7 +29,7 @@ Table:
 
 Round 1
 [Aug 2]
-Mödling       1-1 Austria Wien
+Mödling          1-1 Austria Wien
 [Aug 3]
 Tirol            3-0 Linz
 LASK             0-0 Austria Salzburg
@@ -38,311 +38,311 @@ Sturm            1-1 Vorwärts
 
 Round 2
 [Aug 5]
-Admira/Wacker     1-2 Sturm
-Vorwärts    2-0 Mödling
+Admira/Wacker    1-2 Sturm
+Vorwärts         2-0 Mödling
 [Aug 6]
-Austria Wien    0-0 Tirol
-Linz        1-1 LASK
+Austria Wien     0-0 Tirol
+Linz             1-1 LASK
 Austria Salzburg 3-0 Rapid
 
 Round 3
 (Aug 12]
-Tirol        0-1 Vorwärts
+Tirol            0-1 Vorwärts
 [Aug 13]
-Admira/Wacker     1-1 Austria Salzburg
-LASK        1-1 Austria Wien
-Rapid        0-0 Linz
-Sturm        3-0 Mödling
+Admira/Wacker    1-1 Austria Salzburg
+LASK             1-1 Austria Wien
+Rapid            0-0 Linz
+Sturm            3-0 Mödling
 
 Round 4
 [Aug 19]
-Linz        2-1 Admira/Wacker
+Linz             2-1 Admira/Wacker
 [Aug 20]
 Austria Wien     1-1 Rapid
 Austria Salzburg 1-1 Sturm
-Vorwärts     0-3 LASK
+Vorwärts         0-3 LASK
 (Aug 21]
-Mödling     2-3 Tirol
+Mödling          2-3 Tirol
 
 Round 5 [Aug 27]
-Admira/Wacker     0-0 Austria Wien
-LASK        2-2 Mödling
-Rapid        3-1 Vorwärts
-Sturm        0-0 Tirol
+Admira/Wacker    0-0 Austria Wien
+LASK             2-2 Mödling
+Rapid            3-1 Vorwärts
+Sturm            0-0 Tirol
 Austria Salzburg 4-1 Linz
 
 Round 6
 [Aug 30]
-Mödling     1-2 Rapid
-Vorwärts     2-2 Admira/Wacker
+Mödling          1-2 Rapid
+Vorwärts         2-2 Admira/Wacker
 [Aug 31]
 Austria Wien     3-1 Austria Salzburg
-Linz        1-1 Sturm
-Tirol        1-0 LASK
+Linz             1-1 Sturm
+Tirol            1-0 LASK
 
 Round 7 [Sep 3]
-Admira/Wacker     3-1 Mödling
-Linz        2-2 Austria Wien
-Rapid        3-1 Tirol
-Sturm        1-0 LASK
+Admira/Wacker    3-1 Mödling
+Linz             2-2 Austria Wien
+Rapid            3-1 Tirol
+Sturm            1-0 LASK
 Austria Salzburg 2-2 Vorwärts
 
 Round 8
 [Sep 16]
-Vorwärts     3-0 Linz
+Vorwärts         3-0 Linz
 [Sep 17]
-Tirol        5-1 Admira/Wacker
-LASK        1-3 Rapid
-Mödling     0-0 Austria Salzburg
+Tirol            5-1 Admira/Wacker
+LASK             1-3 Rapid
+Mödling          0-0 Austria Salzburg
 [Sep 18]
 Austria Wien     3-2 Sturm
 
 Round 9 [Sep 21]
-Admira/Wacker     1-1 LASK
+Admira/Wacker    1-1 LASK
 Austria Wien     1-0 Vorwärts
-Linz        3-1 Mödling
-Rapid        2-3 Sturm
+Linz             3-1 Mödling
+Rapid            2-3 Sturm
 Austria Salzburg 1-1 Tirol
 
 Round 10
 [Sep 23]
-Mödling     3-1 Linz
+Mödling          3-1 Linz
 [Sep 24]
-Tirol        0-0 Austria Salzburg
-LASK        2-0 Admira/Wacker
-Sturm        2-0 Rapid
-Vorwärts     1-1 Austria Wien
+Tirol            0-0 Austria Salzburg
+LASK             2-0 Admira/Wacker
+Sturm            2-0 Rapid
+Vorwärts         1-1 Austria Wien
 
 Round 11
 [Sep 30]
-Vorwärts     2-1 Sturm
+Vorwärts         2-1 Sturm
 [Oct 1]
-Admira/Wacker     3-0 Rapid
-Linz        1-3 Tirol
+Admira/Wacker    3-0 Rapid
+Linz             1-3 Tirol
 Austria Salzburg 1-2 LASK
 [Oct 2]
 Austria Wien     2-0 Mödling
 
 Round 12
 [Oct 5]
-Tirol        2-0 Austria Wien
-LASK        0-2 Linz
-Rapid        1-1 Austria Salzburg
-Sturm        0-1 Admira/Wacker
+Tirol            2-0 Austria Wien
+LASK             0-2 Linz
+Rapid            1-1 Austria Salzburg
+Sturm            0-1 Admira/Wacker
 [Oct 6]
-Mödling     1-2 Vorwärts
+Mödling          1-2 Vorwärts
 
 Round 13
 [Oct 14]
-Linz        1-1 Rapid
-Mödling     1-2 Sturm
+Linz             1-1 Rapid
+Mödling          1-2 Sturm
 [Oct 15]
 Austria Wien     1-0 LASK
 Austria Salzburg 4-2 Admira/Wacker
-Vorwärts     5-0 Tirol
+Vorwärts         5-0 Tirol
 
 Round 14
 [Oct 22]
-Admira/Wacker     1-2 Linz
-Tirol        3-1 Mödling
-LASK        1-1 Vorwärts
-Sturm        0-1 Austria Salzburg
+Admira/Wacker    1-2 Linz
+Tirol            3-1 Mödling
+LASK             1-1 Vorwärts
+Sturm            0-1 Austria Salzburg
 [Oct 23]
-Rapid        3-1 Austria Wien
+Rapid            3-1 Austria Wien
 
 Round 15
 [Oct 28]
-Mödling     1-2 LASK
+Mödling          1-2 LASK
 [Oct 29]
 Austria Wien     5-0 Admira/Wacker
-Linz        1-1 Austria Salzburg
-Tirol        5-0 Sturm
-Vorwärts     1-2 Rapid
+Linz             1-1 Austria Salzburg
+Tirol            5-0 Sturm
+Vorwärts         1-2 Rapid
 
 Round 16
 [Nov 5]
-Admira/Wacker     4-2 Vorwärts
-LASK        1-1 Tirol
-Rapid        2-1 Mödling
-Sturm        2-2 Linz
+Admira/Wacker    4-2 Vorwärts
+LASK             1-1 Tirol
+Rapid            2-1 Mödling
+Sturm            2-2 Linz
 [Nov 6]
 Austria Salzburg 1-0 Austria Wien
 
 Round 17 [Nov 19]
 Austria Wien     4-0 Linz
-Tirol        2-3 Rapid
-LASK        3-0 Sturm
-Mödling     2-1 Admira/Wacker
-Vorwärts     0-0 Austria Salzburg
+Tirol            2-3 Rapid
+LASK             3-0 Sturm
+Mödling          2-1 Admira/Wacker
+Vorwärts         0-0 Austria Salzburg
 
 Round 18
 [Nov 26]
-Linz        3-1 Vorwärts
-Rapid        1-2 LASK
-Sturm        1-4 Austria Wien
+Linz             3-1 Vorwärts
+Rapid            1-2 LASK
+Sturm            1-4 Austria Wien
 Austria Salzburg 2-0 Mödling
 [Nov 27]
-Admira/Wacker     3-1 Tirol
+Admira/Wacker    3-1 Tirol
 
 Round 19
 [Mar 4]
 Austria Wien     1-1 Vorwärts
-Linz        2-3 Rapid
+Linz             2-3 Rapid
 [Mar 5]
-Admira/Wacker     2-0 Tirol
-Sturm        1-0 Mödling
+Admira/Wacker    2-0 Tirol
+Sturm            1-0 Mödling
 [Mar 14]
 Austria Salzburg 0-0 LASK
 
 Round 20
 [Mar 10]
-LASK        1-2 Sturm
+LASK             1-2 Sturm
 [Mar 11]
-Tirol        1-2 Austria Wien
-Rapid        0-2 Austria Salzburg
-Mödling     0-0 Admira/Wacker
-Vorwärts     1-0 Linz
+Tirol            1-2 Austria Wien
+Rapid            0-2 Austria Salzburg
+Mödling          0-0 Admira/Wacker
+Vorwärts         1-0 Linz
 
 Round 21
 [Mar 17]
-Linz        0-3 Austria Salzburg
+Linz             0-3 Austria Salzburg
 [Mar 18]
-Admira/Wacker     1-1 LASK
+Admira/Wacker    1-1 LASK
 Austria Wien     2-1 Mödling
-Sturm        2-0 Rapid
-Vorwärts     2-3 Tirol
+Sturm            2-0 Rapid
+Vorwärts         2-3 Tirol
 
 Round 22
 [Mar 21]
-Rapid        3-2 Admira/Wacker
+Rapid            3-2 Admira/Wacker
 [Mar 22]
-Tirol        3-0 Linz
-LASK        1-0 Austria Wien
-Mödling     1-0 Vorwärts
+Tirol            3-0 Linz
+LASK             1-0 Austria Wien
+Mödling          1-0 Vorwärts
 [Apr 4]
 Austria Salzburg 1-1 Sturm
 
 Round 23
 [Mar 24]
-Admira/Wacker     0-1 Austria Salzburg
+Admira/Wacker    0-1 Austria Salzburg
 [Mar 25]
 Austria Wien     1-1 Rapid
-Linz        0-2 Sturm
-Tirol        1-0 Mödling
-Vorwärts     2-2 LASK
+Linz             0-2 Sturm
+Tirol            1-0 Mödling
+Vorwärts         2-2 LASK
 
 Round 24
 [Apr 1]
-LASK        2-0 Tirol
-Rapid        3-1 Vorwärts
-Sturm        2-2 Admira/Wacker
-Mödling       1-1 Linz
+LASK             2-0 Tirol
+Rapid            3-1 Vorwärts
+Sturm            2-2 Admira/Wacker
+Mödling          1-1 Linz
 [Apr 2]
 Austria Salzburg 3-0 Austria Wien
 
 Round 25
 [Apr 7]
 Austria Wien     0-0 Sturm
-Linz        2-2 Admira/Wacker
+Linz             2-2 Admira/Wacker
 [Apr 8]
-Tirol        2-3 Rapid
-Mödling     0-1 LASK
-Vorwärts     1-1 Austria Salzburg
+Tirol            2-3 Rapid
+Mödling          0-1 LASK
+Vorwärts         1-1 Austria Salzburg
 
 Round 26
 [Apr 11]
-Admira/Wacker     2-1 Austria Wien
+Admira/Wacker    2-1 Austria Wien
 [Apr 12]
-LASK        3-1 Linz
-Rapid        2-1 Mödling
-Sturm        1-0 Vorwärts
+LASK             3-1 Linz
+Rapid            2-1 Mödling
+Sturm            1-0 Vorwärts
 Austria Salzburg 1-1 Tirol
 
 Round 27
 [Apr 21]
 Austria Wien     4-1 Linz
 [Apr 22]
-Tirol        0-1 Sturm
-LASK        1-2 Rapid
-Mödling     0-0 Austria Salzburg
-Vorwärts     1-0 Admira/Wacker
+Tirol            0-1 Sturm
+LASK             1-2 Rapid
+Mödling          0-0 Austria Salzburg
+Vorwärts         1-0 Admira/Wacker
 
 Round 28
 [Apr 28]
-Sturm       3-0 Tirol
+Sturm            3-0 Tirol
 [Apr 29]
 Admira/Wacker    1-0 Vorwärts
-Linz        1-7 Austria Wien
-Rapid       3-0 LASK
+Linz             1-7 Austria Wien
+Rapid            3-0 LASK
 Austria Salzburg 2-0 Mödling
 
 Round 29
 [May 5]
-LASK        2-0 Austria Salzburg
+LASK             2-0 Austria Salzburg
 [May 6]
-Tirol        1-1 Admira/Wacker
-Rapid        4-1 Linz
-Mödling     0-0 Sturm
-Vorwärts      0-3 Austria Wien
+Tirol            1-1 Admira/Wacker
+Rapid            4-1 Linz
+Mödling          0-0 Sturm
+Vorwärts         0-3 Austria Wien
 
 Round 30 [May 9]
-Admira/Wacker     0-2 Rapid
+Admira/Wacker    0-2 Rapid
 Austria Wien     2-0 LASK
-Linz        0-1 Tirol
-Sturm        2-2 Austria Salzburg
-Vorwärts     1-0 Mödling
+Linz             0-1 Tirol
+Sturm            2-2 Austria Salzburg
+Vorwärts         1-0 Mödling
 
 Round 31
 [May 12]
-Admira/Wacker     1-1 Mödling
-Linz        0-0 Vorwärts
+Admira/Wacker    1-1 Mödling
+Linz             0-0 Vorwärts
 [May 13]
 Austria Wien     0-0 Tirol
-Sturm        3-3 LASK
+Sturm            3-3 LASK
 Austria Salzburg 0-0 Rapid
 
 Round 32
 [May 19]
 Austria Salzburg 3-0 Linz
 [May 20]
-Tirol        1-1 Vorwärts
-LASK        1-2 Admira/Wacker
-Rapid        1-3 Sturm
-Mödling     0-1 Austria Wien
+Tirol            1-1 Vorwärts
+LASK             1-2 Admira/Wacker
+Rapid            1-3 Sturm
+Mödling          0-1 Austria Wien
 
 Round 33
 [May 26]
 Austria Salzburg 2-0 Admira/Wacker
 [May 27]
-LASK        2-1 Vorwärts
-Sturm        3-1 Linz
-Mödling     1-6 Tirol
+LASK             2-1 Vorwärts
+Sturm            3-1 Linz
+Mödling          1-6 Tirol
 [May 28]
-Rapid        1-3 Austria Wien
+Rapid            1-3 Austria Wien
 
 Round 34
 [Jun 2]
-Vorwärts     0-1 Rapid
+Vorwärts         0-1 Rapid
 [Jun 3]
-Admira/Wacker     1-2 Sturm
-Linz        0-3 Mödling
-Tirol        6-1 LASK
+Admira/Wacker    1-2 Sturm
+Linz             0-3 Mödling
+Tirol            6-1 LASK
 [Jun 4]
 Austria Wien     0-1 Austria Salzburg
 
 Round 35 [Jun 14]
-Admira/Wacker     2-0 Linz
-LASK        4-1 Mödling
-Rapid        2-2 Tirol
-Sturm        6-0 Austria Wien
+Admira/Wacker    2-0 Linz
+LASK             4-1 Mödling
+Rapid            2-2 Tirol
+Sturm            6-0 Austria Wien
 Austria Salzburg 2-0 Vorwärts
 
 Round 36 [Jun 17]
 Austria Wien     1-2 Admira/Wacker
-Linz        0-4 LASK
-Tirol        2-0 Austria Salzburg
-Mödling     0-3 Rapid
-Vorwärts     1-2 Sturm
+Linz             0-4 LASK
+Tirol            2-0 Austria Salzburg
+Mödling          0-3 Rapid
+Vorwärts         1-2 Sturm
 
 Table:
 

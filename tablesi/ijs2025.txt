@@ -1785,7 +1785,7 @@ HK              1-0 Leiknir R.
   [Dusan Brkovic 24og]
 ÍR              2-2 Njarðvík
   [Odinn Bjarkason 56, Sigurjon Mar Markusson 63og;
-   David Helgi Aronsson 37, Oumar Diouck 89]   .
+   David Helgi Aronsson 37, Oumar Diouck 89]    .
 Keflavík        2-2 Þor A.
   [Asgeir Pall Gudmundsson 21, Marin Brigic 68; Christian Jakobsen 36,
    Sigfus Fannar Gunnarsson 58]
@@ -2272,7 +2272,7 @@ Kormákur/Hvöt   5-1 KFA
 Ægir            6-3 KFG
   [Dimitrije Cokic 12, 61, Atli Rafn GudJartsson 21, Jordan Adeyemo 26,
    Bjarki Runar Joninuson 78, Stefan Dabetic 82; Jon Arnar Barddal 3, 86,
-      Stefan Dabetic 59og]
+           Stefan Dabetic 59og]
 Haukar          2-2 Dalvík/Reynir
   [Oliver Thorkelsson 24, Fannar Oli Fridleifsson 90+4;
    Miguel Joao De Freitas Goncalves 15, Saevar Thor Fylkisson 84]

@@ -480,7 +480,7 @@ Final Table:
 18.Necaxa                              17   3  6  8  18-27  15
 
 Topscorers
-Player          Team      Goals
+Player                   Team           Goals
 Harold Preciado          Santos         11
 Guillermo Martínez       Puebla         10
 Andre-pierre Gignac      Tigres          9
@@ -1073,7 +1073,7 @@ Final Table:
 18.Puebla                              17   1  2 14  18-43   5
 
 Topscorers
-Player          Team      Goals
+Player                   Team           Goals
 Diber Cambindo           Necaxa           8
 Federico Viñas           León             8
 Uriel Antuna             Cruz Azul        8
@@ -1093,7 +1093,7 @@ Guillermo Martínez       Pumas            6
 
 Relegation Table
 
-Team         Average
+Team                    Average
 América                 2.0392
 Monterrey               1.8431
 Tigres                  1.7353
@@ -1898,23 +1898,23 @@ Gabriel Rodríguez     Cancún FC           9
 
 Relegation Table
 
-Team         Average
-Atlante                  1.7872
-Club Celaya               1.7660
-Leones Negros            1.7234
-Venados FC               1.5213
-Atlético Morelia       1.4894
-Cimarrones               1.4681
-Mineros                  1.3404
-Tapatío        1.3298
-Alebrijes                1.2872
-Cancún FC              1.2660
-Tepatitlán FC             1.2447
-Dorados Sinaloa          1.2234
+Team                    Average
+Atlante                 1.7872
+Club Celaya             1.7660
+Leones Negros           1.7234
+Venados FC              1.5213
+Atlético Morelia        1.4894
+Cimarrones              1.4681
+Mineros                 1.3404
+Tapatío                 1.3298
+Alebrijes               1.2872
+Cancún FC               1.2660
+Tepatitlán FC           1.2447
+Dorados Sinaloa         1.2234
 ------------------------------
-Correcaminos UAT         1.2128 (*)
+Correcaminos UAT        1.2128 (*)
 La Paz                  1.2021 (*)
-Tlaxcala FC               1.0745 (*)
+Tlaxcala FC             1.0745 (*)
 ------------------------------
 
 (*) Due to suspension of Promotion and Relegation the last 3 teams of the relegation table were fined with:

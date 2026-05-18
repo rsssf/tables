@@ -11,14 +11,14 @@
                          MAJOR LEAGUE SOCCER (1st Division)
 
                            GP   W  WS  LS   L   GF  GA   Pts
-   Eastern Conference
+        Eastern Conference
 DC United                  32  17   4   4   7   70  53   55
 Tampa Bay Mutiny           32  14   3   2  13   55  60   45
 Columbus Crew              32  12   3   4  13   42  41   39
 New England Revolution     32  11   4   4  13   40  53   37
 NY/NJ MetroStars           32  11   2   2  17   43  53   35
 
-   Western Conference
+        Western Conference
 Kansas City Wizards        32  14   7   2   9   57  51   49
 Los Angeles Galaxy         32  14   2   4  12   55  44   44
 Dallas Burn                32  13   3   2  14   55  49   42
@@ -89,7 +89,7 @@ CHAMPIONSHIP:         Milwaukee defeated Carolina 2-1(SO)
                      D3PRO LEAGUE (3rd Division)
 
                            GP   W   SW  SL  L   GF  GA  Pts
-    Northeast Division
+        Northeast Division
 North Jersey Imperials     18  10   1   0   7   39  23   31
 Rhode Island Stingrays     18  10   1   1   6   32  25   31
 Phantoms of New Hampshire  18   9   2   2   5   36  27   29
@@ -98,7 +98,7 @@ Vermont Wanderers          18   6   1   1  10   21  39   19
 N.Y.Capital Dist. Alleycats18   6   0   1  11   25  38   18
 Cape Cod Crusaders         18   4   1   0  13   19  32   13
 
-   Mid-Atlantic Division
+        Mid-Atlantic Division
 Reading Rage               18  13   1   0   4   46  22   40
 Philadelphia Freedom       18  10   1   0   7   29  32   31
 Baltimore Bays             18   8   0   2   8   30  34   24
@@ -106,7 +106,7 @@ New Jersey Stallions       18   7   2   1   8   25  26   23
 Delaware Wizards           18   7   0   2   9   23  32   21
 South Jersey Barons        18   4   1   3  10   22  28   13
 
-   South Atlantic Division
+        South Atlantic Division
 Myrtle Beach Seadawgs      18  14   1   0   3   40  19   43
 South Carolina Shamrocks   18  11   2   0   5   37  27   35
 Charlotte Eagles           18  10   2   1   5   38  21   32
@@ -115,13 +115,13 @@ Wilmington Hammerheads     18   8   1   1   8   37  24   25
 Mobile Revelers            18   4   0   0  14   25  54   12
 Daytona Tigers             18   3   0   1  14   14  61    9
 
-   North Central Division
+        North Central Division
 Chicago Stingers           18  12   1   0   5   32  19   37
 Indiana Blast              18   7   1   1   9   28  31   22
 Cleveland Caps             18   6   3   0   9   28  32   21
 Rockford Raptors           18   6   2   2   8   32  33   20
 
-   South Central Division
+        South Central Division
 Albuquerque Geckos*        18  13   2   1   2   51  15   41
 Austin Lone Stars          18  11   1   0   6   38  28   34
 Houston Hurricanes         18   9   0   2   7   35  30   27
@@ -131,7 +131,7 @@ Dallas Toros               18   2   0   0  16   22  53    6
 
 *Albuquerque gets a bye to the national semifinal as hosts.
 
-   West Division
+        West Division
 San Francisco Bay Seals    18  13   2   0   3   41  16   41
 Sacramento Scorpions       18  11   0   0   7   39  36   33
 Chico Rooks                18   9   3   3   3   38  28   30
@@ -170,28 +170,28 @@ CHAMPIONSHIP:           Albuquerque defeated Charlotte, 4-1
              PREMIER DEVELOPMENT SOCCER LEAGUE ("4TH Division")
 
                             GP   W   SW  SL  L   GF  GA  Pts
-   Mid-South Division
+        Mid-South Division
 Cincinnati Riverhawks       15  10   0   0   5   48  28   30
 Jackson Chargers            16  10   1   0   6   50  25   28
 Lexington Bluegrass Bandits 16  10   2   3   6   45  22   26
 Alabama Saints              16   5   0   1  11   31  34   15
 Chattanooga Express         16   5   1   1  11   18  54   13
 
-   Southeast Division
+        Southeast Division
 Cocoa Expos                 16  12   1   2   4   46  23   34
 South Florida Future        16  11   1   0   5   42  22   31
 West Florida Fury           16  10   2   1   6   32  23   26
 Miami Breakers              16   8   0   1   8   41  24   24
 Southwest Florida Manatees  16   0   0   0  16    9  74    0
 
-   North Central Division
+        North Central Division
 Mid-Michigan Bucks          16  12   0   1   4   41  24   36
 Detroit Dynamite            16  10   1   2   6   41  20   28
 Kalamazoo Kingdom           16  10   2   1   6   32  25   26
 Grand Rapids Explosion      16   8   1   1   8   35  27   22
 Michigan Madness            16   1   1   0  15   11  66    1
 
-   Central Division
+        Central Division
 Lincoln Brigade             16  12   2   0   4   34  23   32
 Omaha Flames                16   9   0   1   7   39  28   27
 Sioux City Breeze           16   8   0   0   8   26  38   24
@@ -199,13 +199,13 @@ Des Moines Menace           16   7   1   0   9   29  27   19
 Colorado Springs Stampede   16   6   0   1  10   23  33   18
 Twin Cities Tornado         16   5   2   1  11   29  39   11
 
-   Southwest Division
+        Southwest Division
 San Gabriel Val. Highlanders16  12   0   0   4   43  20   36
 Central Coast Roadrunners*  16  11   1   2   5   34  17   31
 Tucson Amigos               16   6   1   0   9   18  41   16
 Southern California Chivas  16   4   1   0  16   16  32   10
 
-   Northwest Division
+        Northwest Division
 Spokane Shadow              16  14   0   0   2   37  16   42
 Yakima Reds                 16   7   0   1   9   31  31   21
 Cascade Surge               16   8   2   1   8   28  23   20
@@ -240,7 +240,7 @@ CHAMPIONSHIP:           Central Coast defeated Cocoa, 2-1
                          CONTINENTAL INDOOR SOCCER LEAGUE
 
                           GP   W   L  Pct.  GF  GA  GB
-   Eastern Division
+        Eastern Division
 Monterrey La Raza         28  20   8  .714 190 166  ---
 Indiana Twisters          28  17  11  .607 194 177  3.0
 Houston Hotshots          28  17  11  .607 199 157  3.0
@@ -248,7 +248,7 @@ Dallas Sidekicks          28  13  15  .464 165 160  7.0
 Washington Warthogs       28  12  16  .429 170 178  8.0
 Detroit Safari            28   3  25  .107 134 217 17.0
 
-   Western Division
+        Western Division
 Seattle SeaDogs           28  21   7  .750 170 128  ---
 Anaheim Splash            28  16  12  .571 165 134  5.0
 Sacramento Knights        28  14  14  .500 146 148  7.0

@@ -57,37 +57,37 @@ Invierno 2000
 
 FINAL TABLES
 
-Group 1                  M      W      T      L     GF     GC     DIF    PTS
-  1. Cruz Azul          17     10      3      4     34     21     +13     33 (playoffs) [Ciudad de México]
-  2. Toluca             17      9      3      5     32     26      +6     30 (playoffs)
+Group 1                  M       W       T       L      GF      GC      DIF     PTS
+  1. Cruz Azul          17      10       3       4      34      21      +13     33 (playoffs) [Ciudad de México]
+  2. Toluca             17       9       3       5      32      26       +6     30 (playoffs)
 ----------------------------------------------------------------------------------
-  3. Morelia            17      7      6      4     29     24      +5     27 (repechaje)
+  3. Morelia            17       7       6       4      29      24       +5     27 (repechaje)
 ----------------------------------------------------------------------------------
-  4. León               17      4      6      7     27     33      -6     18
-  5. Atlante            17      3      8      6     24     28      -4     17 [Ciudad de México]
+  4. León               17       4       6       7      27      33       -6     18
+  5. Atlante            17       3       8       6      24      28       -4     17 [Ciudad de México]
 
-Group 2                  M      W      T      L     GF     GC     DIF    PTS
-  1. Atlas              17      6      7      4     35     29      +6     25 (playoffs) [Guadalajara]
+Group 2                  M       W       T       L      GF      GC      DIF     PTS
+  1. Atlas              17       6       7       4      35      29       +6     25 (playoffs) [Guadalajara]
 ----------------------------------------------------------------------------------
-  2. Irapuato           17      6      7      4     28     26      +2     25 (repechaje)
+  2. Irapuato           17       6       7       4      28      26       +2     25 (repechaje)
 ----------------------------------------------------------------------------------
-  3. Tigres U.A.N.L.    17      6      6      5     23     23       0     24 [Monterrey]
-  4. U.N.A.M.           17      5      4      8     24     29      -5     19 [Ciudad de México]
-  5. Atlético Celaya    17      3      4     10     21     27      -6     13
+  3. Tigres U.A.N.L.    17       6       6       5      23      23        0     24 [Monterrey]
+  4. U.N.A.M.           17       5       4       8      24      29       -5     19 [Ciudad de México]
+  5. Atlético Celaya    17       3       4      10      21      27       -6     13
 
-Group 3                  M      W      T      L     GF     GC     DIF    PTS
-  1. Necaxa             17      8      4      5     29     22      +7     28 (playoffs) [Ciudad de México]
-  2. Santos Laguna      17      7      5      5     32     29      +3     26 (playoffs) [Torreón]
+Group 3                  M       W       T       L      GF      GC      DIF     PTS
+  1. Necaxa             17       8       4       5      29      22       +7     28 (playoffs) [Ciudad de México]
+  2. Santos Laguna      17       7       5       5      32      29       +3     26 (playoffs) [Torreón]
 ----------------------------------------------------------------------------------
-  3. Monterrey          17      5      5      7     23     30      -7     20
-  4. Puebla             17      4      4      9     18     29     -11     16
+  3. Monterrey          17       5       5       7      23      30       -7     20
+  4. Puebla             17       4       4       9      18      29      -11     16
 
-Group 4                  M      W      T      L     GF     GC     DIF    PTS
-  1. Pachuca            17      8      4      5     24     18      +6     28 (playoffs)
-  2. América            17      7      5      5     26     24      +2     26 (playoffs) [Ciudad de México]
+Group 4                  M       W       T       L      GF      GC      DIF     PTS
+  1. Pachuca            17       8       4       5      24      18       +6     28 (playoffs)
+  2. América            17       7       5       5      26      24       +2     26 (playoffs) [Ciudad de México]
 ----------------------------------------------------------------------------------
-  3. U.A.G.             17      7      4      6     33     36      -3     25 [Zapopan]
-  4. Guadalajara        17      3      5      9     18     27      -9     14
+  3. U.A.G.             17       7       4       6      33      36       -3     25 [Zapopan]
+  4. Guadalajara        17       3       5       9      18      27       -9     14
 
 Regular season
 
@@ -481,37 +481,37 @@ Toluca      4-3 Leon
 
 FINAL TABLES
 
-Group 1                  M      W      T      L     GF     GC     DIF    PTS
-  1. Cruz Azul          17     10      3      4     34     21     +13     33 (playoffs) [Ciudad de México]
-  2. Toluca             17      9      3      5     32     26      +6     30 (playoffs)
+Group 1                  M       W       T       L      GF      GC      DIF     PTS
+  1. Cruz Azul          17      10       3       4      34      21      +13     33 (playoffs) [Ciudad de México]
+  2. Toluca             17       9       3       5      32      26       +6     30 (playoffs)
 ----------------------------------------------------------------------------------
-  3. Morelia            17      7      6      4     29     24      +5     27 (repechaje)
+  3. Morelia            17       7       6       4      29      24       +5     27 (repechaje)
 ----------------------------------------------------------------------------------
-  4. León               17      4      6      7     27     33      -6     18
-  5. Atlante            17      3      8      6     24     28      -4     17 [Ciudad de México]
+  4. León               17       4       6       7      27      33       -6     18
+  5. Atlante            17       3       8       6      24      28       -4     17 [Ciudad de México]
 
-Group 2                  M      W      T      L     GF     GC     DIF    PTS
-  1. Atlas              17      6      7      4     35     29      +6     25 (playoffs) [Guadalajara]
+Group 2                  M       W       T       L      GF      GC      DIF     PTS
+  1. Atlas              17       6       7       4      35      29       +6     25 (playoffs) [Guadalajara]
 ----------------------------------------------------------------------------------
-  2. Irapuato           17      6      7      4     28     26      +2     25 (repechaje)
+  2. Irapuato           17       6       7       4      28      26       +2     25 (repechaje)
 ----------------------------------------------------------------------------------
-  3. Tigres U.A.N.L.    17      6      6      5     23     23       0     24 [Monterrey]
-  4. U.N.A.M.           17      5      4      8     24     29      -5     19 [Ciudad de México]
-  5. Atlético Celaya    17      3      4     10     21     27      -6     13
+  3. Tigres U.A.N.L.    17       6       6       5      23      23        0     24 [Monterrey]
+  4. U.N.A.M.           17       5       4       8      24      29       -5     19 [Ciudad de México]
+  5. Atlético Celaya    17       3       4      10      21      27       -6     13
 
-Group 3                  M      W      T      L     GF     GC     DIF    PTS
-  1. Necaxa             17      8      4      5     29     22      +7     28 (playoffs) [Ciudad de México]
-  2. Santos Laguna      17      7      5      5     32     29      +3     26 (playoffs) [Torreón]
+Group 3                  M       W       T       L      GF      GC      DIF     PTS
+  1. Necaxa             17       8       4       5      29      22       +7     28 (playoffs) [Ciudad de México]
+  2. Santos Laguna      17       7       5       5      32      29       +3     26 (playoffs) [Torreón]
 ----------------------------------------------------------------------------------
-  3. Monterrey          17      5      5      7     23     30      -7     20
-  4. Puebla             17      4      4      9     18     29     -11     16
+  3. Monterrey          17       5       5       7      23      30       -7     20
+  4. Puebla             17       4       4       9      18      29      -11     16
 
-Group 4                  M      W      T      L     GF     GC     DIF    PTS
-  1. Pachuca            17      8      4      5     24     18      +6     28 (playoffs)
-  2. América            17      7      5      5     26     24      +2     26 (playoffs) [Ciudad de México]
+Group 4                  M       W       T       L      GF      GC      DIF     PTS
+  1. Pachuca            17       8       4       5      24      18       +6     28 (playoffs)
+  2. América            17       7       5       5      26      24       +2     26 (playoffs) [Ciudad de México]
 ----------------------------------------------------------------------------------
-  3. U.A.G.             17      7      4      6     33     36      -3     25 [Zapopan]
-  4. Guadalajara        17      3      5      9     18     27      -9     14
+  3. U.A.G.             17       7       4       6      33      36       -3     25 [Zapopan]
+  4. Guadalajara        17       3       5       9      18      27       -9     14
 
 
 Topscorers:
@@ -658,43 +658,43 @@ Verano 2001
 
 FINAL TABLES
 
-Group 1                  M      W      T      L     GF     GC     DIF    PTS
-  1. Atlante            17      6      5      6     16     16       0     23 (relegation/promotion playoffs) [Ciudad de México]
+Group 1                  M       W       T       L      GF      GC      DIF     PTS
+  1. Atlante            17       6       5       6      16      16        0     23 (relegation/promotion playoffs) [Ciudad de México]
 ----------------------------------------------------------------------------------
-  2. León               17      6      5      6     17     22      -5     23 (playoffs)
+  2. León               17       6       5       6      17      22       -5     23 (playoffs)
 ----------------------------------------------------------------------------------
-  3. Morelia            17      6      5      6     21     27      -6     23 (repechaje)
+  3. Morelia            17       6       5       6      21      27       -6     23 (repechaje)
 ----------------------------------------------------------------------------------
-  4. Cruz Azul          17      6      4      7     25     27      -2     22 [Ciudad de México]
-  5. Toluca             17      3      8      6     28     33      -5     17
+  4. Cruz Azul          17       6       4       7      25      27       -2     22 [Ciudad de México]
+  5. Toluca             17       3       8       6      28      33       -5     17
 
 
-Group 2                  M      W      T      L     GF     GC     DIF    PTS
-  1. Tigres U.A.N.L.    17      7      6      4     23     13     +10     27 (playoffs) [Monterrey]
+Group 2                  M       W       T       L      GF      GC      DIF     PTS
+  1. Tigres U.A.N.L.    17       7       6       4      23      13      +10     27 (playoffs) [Monterrey]
 ----------------------------------------------------------------------------------
-  2. Atlas              17      6      4      7     32     33      -1     22 (repechaje) [Guadalajara]
+  2. Atlas              17       6       4       7      32      33       -1     22 (repechaje) [Guadalajara]
 ----------------------------------------------------------------------------------
-  3. U.N.A.M.           17      5      7      5     21     24      -3     22 [Ciudad de México]
-  4. Atlético Celaya    17      5      3      9     25     27      -2     18
-  5. Irapuato           17      3      4     10     27     38     -11     13
+  3. U.N.A.M.           17       5       7       5      21      24       -3     22 [Ciudad de México]
+  4. Atlético Celaya    17       5       3       9      25      27       -2     18
+  5. Irapuato           17       3       4      10      27      38      -11     13
 
 
-Group 3                  M      W      T      L     GF     GC     DIF    PTS
-  1. Santos Laguna      17      8      4      5     35     27      +8     28 (playoffs) [Torreón]
-  2. Monterrey          17      7      7      3     25     18      +7     28 (playoffs)
+Group 3                  M       W       T       L      GF      GC      DIF     PTS
+  1. Santos Laguna      17       8       4       5      35      27       +8     28 (playoffs) [Torreón]
+  2. Monterrey          17       7       7       3      25      18       +7     28 (playoffs)
 ----------------------------------------------------------------------------------
-  3. Puebla             17      7      6      4     21     17      +4     27 (repechaje)
+  3. Puebla             17       7       6       4      21      17       +4     27 (repechaje)
 ----------------------------------------------------------------------------------
-  4. Necaxa             17      5      4      8     20     25      -5     19 [Ciudad de México]
+  4. Necaxa             17       5       4       8      20      25       -5     19 [Ciudad de México]
 
 
-Group 4                  M      W      T      L     GF     GC     DIF    PTS
-  1. América            17      7      7      3     26     16     +10     28 (playoffs) [Ciudad de México]
-  2. Pachuca            17      7      4      6     22     22       0     25 (playoffs)
+Group 4                  M       W       T       L      GF      GC      DIF     PTS
+  1. América            17       7       7       3      26      16      +10     28 (playoffs) [Ciudad de México]
+  2. Pachuca            17       7       4       6      22      22        0     25 (playoffs)
 ----------------------------------------------------------------------------------
-  3. U.A.G.             17      7      4      6     24     27      -3     25 (repechaje) [Zapopan]
+  3. U.A.G.             17       7       4       6      24      27       -3     25 (repechaje) [Zapopan]
 ----------------------------------------------------------------------------------
-  4. Guadalajara        17      5      7      5     21     17      +4     22
+  4. Guadalajara        17       5       7       5      21      17       +4     22
 
 NB: as Atlante enter the relegation playoff, they cannot play the championship playoffs.
 
@@ -1093,43 +1093,43 @@ León        2-0 Toluca
 
 FINAL TABLES
 
-Group 1                  M      W      T      L     GF     GC     DIF    PTS
-  1. Atlante            17      6      5      6     16     16       0     23 (relegation/promotion playoffs) [Ciudad de México]
+Group 1                  M       W       T       L      GF      GC      DIF     PTS
+  1. Atlante            17       6       5       6      16      16        0     23 (relegation/promotion playoffs) [Ciudad de México]
 ----------------------------------------------------------------------------------
-  2. León               17      6      5      6     17     22      -5     23 (playoffs)
+  2. León               17       6       5       6      17      22       -5     23 (playoffs)
 ----------------------------------------------------------------------------------
-  3. Morelia            17      6      5      6     21     27      -6     23 (repechaje)
+  3. Morelia            17       6       5       6      21      27       -6     23 (repechaje)
 ----------------------------------------------------------------------------------
-  4. Cruz Azul          17      6      4      7     25     27      -2     22 [Ciudad de México]
-  5. Toluca             17      3      8      6     28     33      -5     17
+  4. Cruz Azul          17       6       4       7      25      27       -2     22 [Ciudad de México]
+  5. Toluca             17       3       8       6      28      33       -5     17
 
 
-Group 2                  M      W      T      L     GF     GC     DIF    PTS
-  1. Tigres U.A.N.L.    17      7      6      4     23     13     +10     27 (playoffs) [Monterrey]
+Group 2                  M       W       T       L      GF      GC      DIF     PTS
+  1. Tigres U.A.N.L.    17       7       6       4      23      13      +10     27 (playoffs) [Monterrey]
 ----------------------------------------------------------------------------------
-  2. Atlas              17      6      4      7     32     33      -1     22 (repechaje) [Guadalajara]
+  2. Atlas              17       6       4       7      32      33       -1     22 (repechaje) [Guadalajara]
 ----------------------------------------------------------------------------------
-  3. U.N.A.M.           17      5      7      5     21     24      -3     22 [Ciudad de México]
-  4. Atlético Celaya    17      5      3      9     25     27      -2     18
-  5. Irapuato           17      3      4     10     27     38     -11     13
+  3. U.N.A.M.           17       5       7       5      21      24       -3     22 [Ciudad de México]
+  4. Atlético Celaya    17       5       3       9      25      27       -2     18
+  5. Irapuato           17       3       4      10      27      38      -11     13
 
 
-Group 3                  M      W      T      L     GF     GC     DIF    PTS
-  1. Santos Laguna      17      8      4      5     35     27      +8     28 (playoffs) [Torreón]
-  2. Monterrey          17      7      7      3     25     18      +7     28 (playoffs)
+Group 3                  M       W       T       L      GF      GC      DIF     PTS
+  1. Santos Laguna      17       8       4       5      35      27       +8     28 (playoffs) [Torreón]
+  2. Monterrey          17       7       7       3      25      18       +7     28 (playoffs)
 ----------------------------------------------------------------------------------
-  3. Puebla             17      7      6      4     21     17      +4     27 (repechaje)
+  3. Puebla             17       7       6       4      21      17       +4     27 (repechaje)
 ----------------------------------------------------------------------------------
-  4. Necaxa             17      5      4      8     20     25      -5     19 [Ciudad de México]
+  4. Necaxa             17       5       4       8      20      25       -5     19 [Ciudad de México]
 
 
-Group 4                  M      W      T      L     GF     GC     DIF    PTS
-  1. América            17      7      7      3     26     16     +10     28 (playoffs) [Ciudad de México]
-  2. Pachuca            17      7      4      6     22     22       0     25 (playoffs)
+Group 4                  M       W       T       L      GF      GC      DIF     PTS
+  1. América            17       7       7       3      26      16      +10     28 (playoffs) [Ciudad de México]
+  2. Pachuca            17       7       4       6      22      22        0     25 (playoffs)
 ----------------------------------------------------------------------------------
-  3. U.A.G.             17      7      4      6     24     27      -3     25 (repechaje) [Zapopan]
+  3. U.A.G.             17       7       4       6      24      27       -3     25 (repechaje) [Zapopan]
 ----------------------------------------------------------------------------------
-  4. Guadalajara        17      5      7      5     21     17      +4     22
+  4. Guadalajara        17       5       7       5      21      17       +4     22
 
 NB: as Atlante enter the relegation playoff, they cannot play the championship playoffs.
 
@@ -1321,42 +1321,42 @@ Invierno 2000
 FINAL TABLES
 
 Group 1
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. Veracruz      19   10   7   2   35   24   37   1.4583 (playoffs)
- 2. Toros Neza      19    8   8   3   31   21   32   1.4762 (playoffs) [Nezahualcoyotl]
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. Veracruz            19      10      7       2       35      24      37      1.4583 (playoffs)
+ 2. Toros Neza          19       8      8       3       31      21      32      1.4762 (playoffs) [Nezahualcoyotl]
 ----------------------------------------------------------------------------------
- 3. Bachilleres      19    8   5   6   33   28   29   0.1786 [Guadalajara]
- 4. Halcones Querétaro   19    4   4   11   14   27   16   0.5185
- 5. Atl. Mexiquense   19    4   3   12   18   32   15   0.5625 [Toluca]
+ 3. Bachilleres         19       8      5       6       33      28      29      0.1786 [Guadalajara]
+ 4. Halcones Querétaro  19       4      4       11      14      27      16      0.5185
+ 5. Atl. Mexiquense     19       4      3       12      18      32      15      0.5625 [Toluca]
 
 Group 2
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. La Piedad      19   13   3   3   41   18   42   2.2778 (playoffs)
- 2. Real Sociedad   19   11   4   4   29   22   37   1.3182 (playoffs) [Zacatecas]
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. La Piedad           19      13      3       3       41      18      42      2.2778 (playoffs)
+ 2. Real Sociedad       19      11      4       4       29      22      37      1.3182 (playoffs) [Zacatecas]
 ----------------------------------------------------------------------------------
- 3. Nacional Tijuana   19    8   6   5   26   19   30   1.3684 (repesca)
+ 3. Nacional Tijuana    19       8      6       5       26      19      30      1.3684 (repesca)
 ----------------------------------------------------------------------------------
- 4. Saltillo Soccer   19    7   6   6   27   26   27   1.0385
- 5. San Luis      19    5   6   8   23   27   21   0.8519 [San Luis Potosí]
+ 4. Saltillo Soccer     19       7      6       6       27      26      27      1.0385
+ 5. San Luis            19       5      6       8       23      27      21      0.8519 [San Luis Potosí]
 
 Group 3
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. Aguascalientes   19    9   4   6   35   28   31   1.2500 (playoffs)
- 2. Yucatán      19    8   7   4   29   24   31   1.2083 (playoffs) [Mérida]
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. Aguascalientes      19       9      4       6       35      28      31      1.2500 (playoffs)
+ 2. Yucatán             19       8      7       4       29      24      31      1.2083 (playoffs) [Mérida]
 ----------------------------------------------------------------------------------
- 3. Tigres Juárez   19    7   2   10   31   37   23   0.8378 [Ciudad Juárez]
- 4. U.A.Tamaulipas   19    6   3   10   30   36   21   0.8333 [Ciudad Victoria]
- 5. Ángeles      19    3   1   15   21   41   10   0.5122 [Puebla]
+ 3. Tigres Juárez       19       7      2       10      31      37      23      0.8378 [Ciudad Juárez]
+ 4. U.A.Tamaulipas      19       6      3       10      30      36      21      0.8333 [Ciudad Victoria]
+ 5. Ángeles             19       3      1       15      21      41      10      0.5122 [Puebla]
 
 Group 4
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. Potros Marte   19   10   6   3   42   26   36   1.6154 (playoffs) [Cuernavaca]
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. Potros Marte        19      10      6       3       42      26      36      1.6154 (playoffs) [Cuernavaca]
 ----------------------------------------------------------------------------------
- 2. Cruz Azul Hidalgo   19    6   6   7   22   27   24   0.8148 (repesca) [Ciudad Cooperativa]
+ 2. Cruz Azul Hidalgo   19       6      6       7       22      27      24      0.8148 (repesca) [Ciudad Cooperativa]
 ----------------------------------------------------------------------------------
- 3. Zacatepec      19    4   8   7   32   32   20   1.0000
- 4. Lobos U.A.P.   19    4   7   8   20   28   19   0.7143 [Puebla]
- 5. Durango      19    5   4   10   28   44   19   0.6364
+ 3. Zacatepec           19       4      8       7       32      32      20      1.0000
+ 4. Lobos U.A.P.        19       4      7       8       20      28      19      0.7143 [Puebla]
+ 5. Durango             19       5      4       10      28      44      19      0.6364
 
 Regular season
 
@@ -1641,42 +1641,42 @@ La Piedad           4-0 Correcaminos U.A.T.
 FINAL TABLES
 
 Group 1
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. Veracruz      19   10   7   2   35   24   37   1.4583 (playoffs)
- 2. Toros Neza      19    8   8   3   31   21   32   1.4762 (playoffs) [Nezahualcoyotl]
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. Veracruz            19      10      7       2       35      24      37      1.4583 (playoffs)
+ 2. Toros Neza          19       8      8       3       31      21      32      1.4762 (playoffs) [Nezahualcoyotl]
 ----------------------------------------------------------------------------------
- 3. Bachilleres      19    8   5   6   33   28   29   0.1786 [Guadalajara]
- 4. Halcones Querétaro   19    4   4   11   14   27   16   0.5185
- 5. Atl. Mexiquense   19    4   3   12   18   32   15   0.5625 [Toluca]
+ 3. Bachilleres         19       8      5       6       33      28      29      0.1786 [Guadalajara]
+ 4. Halcones Querétaro  19       4      4       11      14      27      16      0.5185
+ 5. Atl. Mexiquense     19       4      3       12      18      32      15      0.5625 [Toluca]
 
 Group 2
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. La Piedad      19   13   3   3   41   18   42   2.2778 (playoffs)
- 2. Real Sociedad   19   11   4   4   29   22   37   1.3182 (playoffs) [Zacatecas]
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. La Piedad           19      13      3       3       41      18      42      2.2778 (playoffs)
+ 2. Real Sociedad       19      11      4       4       29      22      37      1.3182 (playoffs) [Zacatecas]
 ----------------------------------------------------------------------------------
- 3. Nacional Tijuana   19    8   6   5   26   19   30   1.3684 (repesca)
+ 3. Nacional Tijuana    19       8      6       5       26      19      30      1.3684 (repesca)
 ----------------------------------------------------------------------------------
- 4. Saltillo Soccer   19    7   6   6   27   26   27   1.0385
- 5. San Luis      19    5   6   8   23   27   21   0.8519 [San Luis Potosí]
+ 4. Saltillo Soccer     19       7      6       6       27      26      27      1.0385
+ 5. San Luis            19       5      6       8       23      27      21      0.8519 [San Luis Potosí]
 
 Group 3
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. Aguascalientes   19    9   4   6   35   28   31   1.2500 (playoffs)
- 2. Yucatán      19    8   7   4   29   24   31   1.2083 (playoffs) [Mérida]
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. Aguascalientes      19       9      4       6       35      28      31      1.2500 (playoffs)
+ 2. Yucatán             19       8      7       4       29      24      31      1.2083 (playoffs) [Mérida]
 ----------------------------------------------------------------------------------
- 3. Tigres Juárez   19    7   2   10   31   37   23   0.8378 [Ciudad Juárez]
- 4. U.A.Tamaulipas   19    6   3   10   30   36   21   0.8333 [Ciudad Victoria]
- 5. Ángeles      19    3   1   15   21   41   10   0.5122 [Puebla]
+ 3. Tigres Juárez       19       7      2       10      31      37      23      0.8378 [Ciudad Juárez]
+ 4. U.A.Tamaulipas      19       6      3       10      30      36      21      0.8333 [Ciudad Victoria]
+ 5. Ángeles             19       3      1       15      21      41      10      0.5122 [Puebla]
 
 Group 4
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. Potros Marte   19   10   6   3   42   26   36   1.6154 (playoffs) [Cuernavaca]
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. Potros Marte        19      10      6       3       42      26      36      1.6154 (playoffs) [Cuernavaca]
 ----------------------------------------------------------------------------------
- 2. Cruz Azul Hidalgo   19    6   6   7   22   27   24   0.8148 (repesca) [Ciudad Cooperativa]
+ 2. Cruz Azul Hidalgo   19       6      6       7       22      27      24      0.8148 (repesca) [Ciudad Cooperativa]
 ----------------------------------------------------------------------------------
- 3. Zacatepec      19    4   8   7   32   32   20   1.0000
- 4. Lobos U.A.P.   19    4   7   8   20   28   19   0.7143 [Puebla]
- 5. Durango      19    5   4   10   28   44   19   0.6364
+ 3. Zacatepec           19       4      8       7       32      32      20      1.0000
+ 4. Lobos U.A.P.        19       4      7       8       20      28      19      0.7143 [Puebla]
+ 5. Durango             19       5      4       10      28      44      19      0.6364
 
 Topscorer:
 
@@ -1760,45 +1760,45 @@ FINAL TABLES
 Verano 2001
 
 Group 1
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. Veracruz      19   11   4   4   31   15   37   2.0667 (playoffs)
- 2. Atl. Mexiquense   19    8   8   3   29   20   32   1.4500 (playoffs) [Toluca]
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. Veracruz            19      11      4       4       31      15      37      2.0667 (playoffs)
+ 2. Atl. Mexiquense     19       8      8       3       29      20      32      1.4500 (playoffs) [Toluca]
 ----------------------------------------------------------------------------------
- 3. Toros Neza      19    8   6   5   31   27   30   1.1481 (repesca) [Nezahualcoyotl]
+ 3. Toros Neza          19       8      6       5       31      27      30      1.1481 (repesca) [Nezahualcoyotl]
 ----------------------------------------------------------------------------------
- 4. Bachilleres      19    3   10   6   18   20   19   0.9000 [Guadalajara]
+ 4. Bachilleres         19       3      10      6       18      20      19      0.9000 [Guadalajara]
 ----------------------------------------------------------------------------------
- 5. Halcones Querétaro   19    4   5   10   21   32   17   0.6563 (relegation playoff)
+ 5. Halcones Querétaro  19       4      5       10      21      32      17      0.6563 (relegation playoff)
 
 Group 2
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. La Piedad      19   12   4   3   49   25   40   1.9600 (playoffs)
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. La Piedad           19      12      4       3       49      25      40      1.9600 (playoffs)
 ----------------------------------------------------------------------------------
- 2. San Luis      19    7   5   7   25   26   26   0.9615 (repesca) [San Luis Potosí]
+ 2. San Luis            19       7      5       7       25      26      26      0.9615 (repesca) [San Luis Potosí]
 ----------------------------------------------------------------------------------
- 3. Saltillo Soccer   19    7   3   9   20   27   24   0.7407
- 4. Nacional Tijuana   19    6   5   8   22   26   23   0.8462
- 5. Real Sociedad   19    5   6   8   30   43   21   0.6977 [Zacatecas]
+ 3. Saltillo Soccer     19       7      3       9       20      27      24      0.7407
+ 4. Nacional Tijuana    19       6      5       8       22      26      23      0.8462
+ 5. Real Sociedad       19       5      6       8       30      43      21      0.6977 [Zacatecas]
 
 Group 3
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. Tigres Juárez   19   10   4   5   34   22   34   1.5455 (playoffs) [Ciudad Juárez]
- 2. Aguascalientes   19    8   6   5   35   26   30   1.3462 (playoffs)
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. Tigres Juárez       19      10      4       5       34      22      34      1.5455 (playoffs) [Ciudad Juárez]
+ 2. Aguascalientes      19       8      6       5       35      26      30      1.3462 (playoffs)
 ----------------------------------------------------------------------------------
- 3. U.A.Tamaulipas   19    7   7   5   30   27   28   1.1111 (repesca) [Ciudad Victoria]
+ 3. U.A.Tamaulipas      19       7      7       5       30      27      28      1.1111 (repesca) [Ciudad Victoria]
 ----------------------------------------------------------------------------------
- 4. Yucatán      19    6   6   7   21   21   24   1.0000 [Mérida]
- 5. San Sebastián UC   19    4   7   8   26   35   19   0.7429 [Puebla]
+ 4. Yucatán             19       6      6       7       21      21      24      1.0000 [Mérida]
+ 5. San Sebastián UC    19       4      7       8       26      35      19      0.7429 [Puebla]
 
 Group 4
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. Potros Marte   19    7   6   6   36   37   27   0.9730 (playoffs) [Cuernavaca]
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. Potros Marte        19       7      6       6       36      37      27      0.9730 (playoffs) [Cuernavaca]
 ----------------------------------------------------------------------------------
- 2. Cruz Azul Hidalgo   19    7   5   7   29   27   26   1.0741 (repesca) [Ciudad Cooperativa]
+ 2. Cruz Azul Hidalgo   19       7      5       7       29      27      26      1.0741 (repesca) [Ciudad Cooperativa]
 ----------------------------------------------------------------------------------
- 3. Durango      19    4   11   4   25   27   23   0.9259
- 4. Lobos U.A.P.   19    3   7   9   18   32   16   0.5625 [Puebla]
- 5. Zacatepec      19    4   3   12   21   36   15   0.5833
+ 3. Durango             19       4      11      4       25      27      23      0.9259
+ 4. Lobos U.A.P.        19       3      7       9       18      32      16      0.5625 [Puebla]
+ 5. Zacatepec           19       4      3       12      21      36      15      0.5833
 
 Regular season
 
@@ -2081,45 +2081,45 @@ FINAL TABLES
 Verano 2001
 
 Group 1
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. Veracruz      19   11   4   4   31   15   37   2.0667 (playoffs)
- 2. Atl. Mexiquense   19    8   8   3   29   20   32   1.4500 (playoffs) [Toluca]
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. Veracruz            19      11      4       4       31      15      37      2.0667 (playoffs)
+ 2. Atl. Mexiquense     19       8      8       3       29      20      32      1.4500 (playoffs) [Toluca]
 ----------------------------------------------------------------------------------
- 3. Toros Neza      19    8   6   5   31   27   30   1.1481 (repesca) [Nezahualcoyotl]
+ 3. Toros Neza          19       8      6       5       31      27      30      1.1481 (repesca) [Nezahualcoyotl]
 ----------------------------------------------------------------------------------
- 4. Bachilleres      19    3   10   6   18   20   19   0.9000 [Guadalajara]
+ 4. Bachilleres         19       3      10      6       18      20      19      0.9000 [Guadalajara]
 ----------------------------------------------------------------------------------
- 5. Halcones Querétaro   19    4   5   10   21   32   17   0.6563 (relegation playoff)
+ 5. Halcones Querétaro  19       4      5       10      21      32      17      0.6563 (relegation playoff)
 
 Group 2
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. La Piedad      19   12   4   3   49   25   40   1.9600 (playoffs)
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. La Piedad           19      12      4       3       49      25      40      1.9600 (playoffs)
 ----------------------------------------------------------------------------------
- 2. San Luis      19    7   5   7   25   26   26   0.9615 (repesca) [San Luis Potosí]
+ 2. San Luis            19       7      5       7       25      26      26      0.9615 (repesca) [San Luis Potosí]
 ----------------------------------------------------------------------------------
- 3. Saltillo Soccer   19    7   3   9   20   27   24   0.7407
- 4. Nacional Tijuana   19    6   5   8   22   26   23   0.8462
- 5. Real Sociedad   19    5   6   8   30   43   21   0.6977 [Zacatecas]
+ 3. Saltillo Soccer     19       7      3       9       20      27      24      0.7407
+ 4. Nacional Tijuana    19       6      5       8       22      26      23      0.8462
+ 5. Real Sociedad       19       5      6       8       30      43      21      0.6977 [Zacatecas]
 
 Group 3
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. Tigres Juárez   19   10   4   5   34   22   34   1.5455 (playoffs) [Ciudad Juárez]
- 2. Aguascalientes   19    8   6   5   35   26   30   1.3462 (playoffs)
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. Tigres Juárez       19      10      4       5       34      22      34      1.5455 (playoffs) [Ciudad Juárez]
+ 2. Aguascalientes      19       8      6       5       35      26      30      1.3462 (playoffs)
 ----------------------------------------------------------------------------------
- 3. U.A.Tamaulipas   19    7   7   5   30   27   28   1.1111 (repesca) [Ciudad Victoria]
+ 3. U.A.Tamaulipas      19       7      7       5       30      27      28      1.1111 (repesca) [Ciudad Victoria]
 ----------------------------------------------------------------------------------
- 4. Yucatán      19    6   6   7   21   21   24   1.0000 [Mérida]
- 5. San Sebastián UC   19    4   7   8   26   35   19   0.7429 [Puebla]
+ 4. Yucatán             19       6      6       7       21      21      24      1.0000 [Mérida]
+ 5. San Sebastián UC    19       4      7       8       26      35      19      0.7429 [Puebla]
 
 Group 4
-         M    W   T   L   GF   GA   PTS   AVGE
- 1. Potros Marte   19    7   6   6   36   37   27   0.9730 (playoffs) [Cuernavaca]
+                        M        W      T       L       GF      GA      PTS     AVGE
+ 1. Potros Marte        19       7      6       6       36      37      27      0.9730 (playoffs) [Cuernavaca]
 ----------------------------------------------------------------------------------
- 2. Cruz Azul Hidalgo   19    7   5   7   29   27   26   1.0741 (repesca) [Ciudad Cooperativa]
+ 2. Cruz Azul Hidalgo   19       7      5       7       29      27      26      1.0741 (repesca) [Ciudad Cooperativa]
 ----------------------------------------------------------------------------------
- 3. Durango      19    4   11   4   25   27   23   0.9259
- 4. Lobos U.A.P.   19    3   7   9   18   32   16   0.5625 [Puebla]
- 5. Zacatepec      19    4   3   12   21   36   15   0.5833
+ 3. Durango             19       4      11      4       25      27      23      0.9259
+ 4. Lobos U.A.P.        19       3      7       9       18      32      16      0.5625 [Puebla]
+ 5. Zacatepec           19       4      3       12      21      36      15      0.5833
 
 Topscorers:
 

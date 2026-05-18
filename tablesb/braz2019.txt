@@ -1076,8 +1076,8 @@ Final Table:
  4.Atlético/GO           38  15 17  6  44-29  62       Promoted
 ------------------------------------------------
  5.América/MG            38  17 10 11  42-34  61  [R]
- 6.Paraná            38  14 14 10  34-33  56  [R]
- 7.CRB               38  15 10 13  44-43  55
+ 6.Paraná                38  14 14 10  34-33  56  [R]
+ 7.CRB                   38  15 10 13  44-43  55
  8.Cuiabá                38  13 13 12  43-40  52  [P]
  9.Botafogo/SP           38  13 11 14  38-38  50  [P]
 10.Operário Ferroviário  38  13 11 14  32-41  50  [P]
@@ -1085,12 +1085,12 @@ Final Table:
 12.Vitória               38  11 12 15  42-48  45  [R]
 13.Guarani               38  12  8 18  27-37  44
 14.Brasil de Pelotas     38  11 11 16  31-47  44
-15.Oeste            38   8 17 13  41-49  41
+15.Oeste                 38   8 17 13  41-49  41
 16.Figueirense           38   7 20 11  31-38  41
 ------------------------------------------------
 17.Londrina              38  11  6 21  37-53  39       Relegated
 18.São Bento             38  10  9 19  46-54  39       Relegated
-19.Criciúma            38   8 15 15  30-38  39       Relegated
+19.Criciúma              38   8 15 15  30-38  39       Relegated
 20.Vila Nova             38   7 18 13  27-40  39       Relegated
 
 Promoted: Náutico, Sampaio Corrêa, Confiança, Juventude (Caxias)
