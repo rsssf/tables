@@ -1,0 +1,30 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="apertura">Torneo Apertura 2024</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="clausura">Torneo Clausura 2024</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="agg">Aggregate Table</a><
+-- removing nav(igation) section:
+
+‹Liga Panameña de Fútbol, see §lpf›
+‹Liga Indígena de Fútbol de Panamá, see §indi›
+
+
+-- removing nav(igation) section:
+
+‹2023., see page panama2023›
+
+‹2025., see page panama2025›
+
+‹list of champions., see page panamachamp›
+
+‹list of 2nd level champions., see page panama2champ›
+
+‹list of topscorers., see page panamatops›
+
+
+-- removing 1 leading nav line(s) in section 3:
+‹Torneo Apertura 2024, see §apertura› | ‹Torneo Clausura 2024, see §clausura› | ‹Aggregate Table, see §agg›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Group Stage, see §apergroup› | ‹Playoff Stage, see §aperplay›
+
+-- removing 1 leading nav line(s) in section 5:
+‹Group Stage, see §claugroup› | ‹Playoff Stage, see §clauplay›

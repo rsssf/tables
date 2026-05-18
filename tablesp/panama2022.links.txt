@@ -1,0 +1,5 @@
+tablesp/panama2021              :  2021.
+tablesp/panama2023              :  2023.
+tablesp/panamachamp             :  list of champions.
+tablesp/panama2champ            :  list of 2nd level champions.
+tablesp/panamatops              :  list of topscorers.
