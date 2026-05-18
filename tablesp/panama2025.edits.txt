@@ -1,0 +1,30 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="apertura">Torneo Apertura 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="clausura">Torneo Clausura 2025</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="agg">Aggregate Table</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="prorel">Superfinal de Liga Prom 2025</a><
+-- found u-enclosed line >First Tournament< - heading?
+-- found u-enclosed line >Second Tournament< - heading?
+-- removing nav(igation) section:
+
+‹Liga Panameña de Fútbol, see §lpf›
+‹Liga Indígena de Fútbol de Panamá 2025, see §indi›
+
+
+-- removing nav(igation) section:
+
+‹2024., see page panama2024›
+
+‹2026., see page panama2026›
+
+‹list of champions., see page panamachamp›
+
+‹list of 2nd level champions., see page panama2champ›
+
+‹list of topscorers., see page panamatops›
+
+
+-- removing 1 leading nav line(s) in section 3:
+‹Torneo Apertura 2025, see §apertura› | ‹Torneo Clausura 2025, see §clausura› | ‹Aggregate Table, see §agg›
+
+-- removing 1 leading nav line(s) in section 4:
+‹Group Stage, see §apergroup› | ‹Playoff Stage, see §aperplay›

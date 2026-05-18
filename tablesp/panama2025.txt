@@ -1,4 +1,667 @@
 <!--
    title:   Panama 2025
    source:  https://rsssf.org/tablesp/panama2025.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 7 May 2026
   -->
+
+
+== Panama 2025
+==== Liga Panameña de Fútbol  ‹§lpf›
+
+===== Torneo Apertura 2025  ‹§apertura›
+
+Group Stage  ‹§apergroup›
+
+Final Tables:
+
+Conferencia Este
+ 1.CD Plaza Amador         16   9  4  3  23-16  31  ‹Qualified, see §aperplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.Sporting San Miguelito  16   7  4  5  16-15  25  ‹Qualified, see §aperplay›
+ 3.Tauro FC                16   5  5  6  24-19  20  ‹Qualified, see §aperplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.CD Árabe Unido          16   5  4  7  17-17  19
+ 5.Alianza FC              16   4  6  6  18-23  18
+ 6.Potros del Este         16   3  7  6  17-24  16
+
+Conferencia Oeste
+ 1.CD Universitario        16   7  7  2  21-14  28  ‹Qualified, see §aperplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.C.A.I. FC               16   6  6  4  21-16  24  ‹Qualified, see §aperplay›
+ 3.San Francisco FC        16   6  5  5  18-13  23  ‹Qualified, see §aperplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Veraguas United         16   5  4  7  17-28  19
+ 5.Umecit FC               16   4  6  6  16-19  18
+ 6.Herrera FC              16   3  6  7  16-20  15
+
+Round 1
+[Jan 17]
+C.A.I.           2-1 Umecit
+[Jan 18]
+Plaza Amador     0-1 Sporting SM
+Universitario    1-1 San Francisco
+[Jan 19]
+Tauro            2-2 Potros del Este
+Árabe Unido      2-2 Alianza
+Veraguas United  2-1 Herrera
+
+Round 2
+[Jan 25]
+Sporting SM      0-0 Potros del Este
+Plaza Amador     2-1 Árabe Unido
+C.A.I.           1-0 San Francisco
+[Jan 26]
+Herrera          0-0 Universitario
+Umecit           0-0 Veraguas United
+[Jan 27]
+Tauro            1-2 Alianza
+
+Round 3
+[Jan 31]
+Potros del Este  2-2 Plaza Amador
+[Feb 1]
+Árabe Unido      1-0 Tauro
+Universitario    4-0 Veraguas United
+[Feb 2]
+Herrera          3-2 C.A.I.
+[Feb 3]
+San Francisco    0-2 Umecit
+[Feb 20]
+Alianza          1-2 Sporting SM
+
+Round 4
+[Feb 7]
+Universitario    2-2 Umecit
+[Feb 8]
+Árabe Unido      2-1 Sporting SM
+Tauro            4-0 Plaza Amador
+[Feb 9]
+Potros del Este  1-1 Alianza
+Herrera          0-1 San Francisco
+[Feb 10]
+Veraguas United  0-1 C.A.I.
+
+Round 5
+[Feb 14]
+Sporting SM      1-0 Tauro
+[Feb 15]
+Potros del Este  1-1 Árabe Unido
+C.A.I.           0-0 Universitario
+[Feb 16]
+Alianza          0-2 Plaza Amador
+Umecit           2-1 Herrera
+[Feb 17]
+Veraguas United  0-0 San Francisco
+
+Round 6
+[Feb 21]
+San Francisco    1-1 Tauro
+[Feb 22]
+Universitario    0-0 Árabe Unido
+Plaza Amador     3-1 Veraguas United
+[Feb 23]
+Sporting SM      2-0 Herrera
+Potros del Este  2-1 C.A.I.
+[Feb 24]
+Alianza          0-0 Umecit
+
+Round 7
+[Feb 26]
+San Francisco    0-1 Plaza Amador
+Universitario    2-1 Tauro
+Sporting SM      2-2 Veraguas United
+[Feb 27]
+Umecit           2-1 Potros del Este
+Alianza          1-1 C.A.I.
+Árabe Unido      0-0 Herrera
+
+Round 8
+[Mar 7]
+Veraguas United  2-0 Alianza
+[Mar 8]
+Tauro            0-0 Herrera
+Plaza Amador     3-1 Universitario
+[Mar 9]
+C.A.I.           4-0 Sporting SM
+Umecit           0-1 Árabe Unido
+[Mar 10]
+Potros del Este  0-1 San Francisco
+
+Round 9
+[Mar 14]
+Sporting SM      0-1 San Francisco
+[Mar 15]
+C.A.I.           1-1 Tauro
+Plaza Amador     1-1 Umecit
+[Mar 16]
+Herrera          0-1 Potros del Este
+Veraguas United  0-2 Árabe Unido
+[Mar 17]
+Alianza          0-1 Universitario
+
+Round 10
+[Mar 21]
+Veraguas United  1-0 Potros del Este
+[Mar 22]
+Universitario    1-0 Sporting SM
+Árabe Unido      1-3 San Francisco
+[Mar 23]
+Herrera          2-2 Alianza
+Tauro            4-2 Umecit
+[Mar 24]
+C.A.I.           0-0 Plaza Amador
+
+Round 11
+[Mar 28]
+San Francisco    1-2 Alianza
+[Mar 29]
+Veraguas United  2-4 Tauro
+Árabe Unido      0-1 C.A.I.
+[Mar 30]
+Herrera          0-2 Plaza Amador
+Umecit           0-0 Sporting SM
+[Mar 31]
+Potros del Este  1-3 Universitario
+
+Round 12
+[Apr 4]
+San Francisco    4-0 Veraguas United
+[Apr 5]
+Universitario    1-0 C.A.I.
+Plaza Amador     3-3 Alianza
+[Apr 6]
+Herrera          2-1 Umecit
+Tauro            0-1 Sporting SM
+[Apr 7]
+Árabe Unido      3-0 Potros del Este
+
+Round 13
+[Apr 11]
+San Francisco    1-1 Herrera
+[Apr 12]
+C.A.I.           2-3 Veraguas United
+Plaza Amador     0-2 Tauro
+[Apr 13]
+Alianza          0-1 Potros del Este
+Sporting SM      1-0 Árabe Unido
+[Apr 14]
+Umecit           0-2 Universitario
+
+Round 14
+[Apr 25]
+San Francisco    1-1 C.A.I.
+[Apr 26]
+Universitario    1-1 Herrera
+Árabe Unido      0-1 Plaza Amador
+[Apr 27]
+Alianza          1-0 Tauro
+Veraguas United  2-0 Umecit
+[Apr 28]
+Potros del Este  3-3 Sporting SM
+
+Round 15 [May 3]
+C.A.I.           3-2 Herrera
+Umecit           2-0 San Francisco
+Veraguas United  2-2 Universitario
+Tauro            2-1 Árabe Unido
+Plaza Amador     2-0 Potros del Este
+Sporting SM      2-0 Alianza
+
+Round 16 [May 10]
+Herrera          3-0 Veraguas United
+San Francisco    3-0 Universitario
+Umecit           1-1 C.A.I.
+Sporting SM      0-1 Plaza Amador
+Potros del Este  2-2 Tauro
+Alianza          3-2 Árabe Unido
+
+Final Tables:
+
+Conferencia Este
+ 1.CD Plaza Amador         16   9  4  3  23-16  31  ‹Qualified, see §aperplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.Sporting San Miguelito  16   7  4  5  16-15  25  ‹Qualified, see §aperplay›
+ 3.Tauro FC                16   5  5  6  24-19  20  ‹Qualified, see §aperplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.CD Árabe Unido          16   5  4  7  17-17  19
+ 5.Alianza FC              16   4  6  6  18-23  18
+ 6.Potros del Este         16   3  7  6  17-24  16
+
+Conferencia Oeste
+ 1.CD Universitario        16   7  7  2  21-14  28  ‹Qualified, see §aperplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.C.A.I. FC               16   6  6  4  21-16  24  ‹Qualified, see §aperplay›
+ 3.San Francisco FC        16   6  5  5  18-13  23  ‹Qualified, see §aperplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Veraguas United         16   5  4  7  17-28  19
+ 5.Umecit FC               16   4  6  6  16-19  18
+ 6.Herrera FC              16   3  6  7  16-20  15
+
+Playoff Stage  ‹§aperplay›
+
+Repechaje
+[May 13]
+Sporting SM      1-2 San Francisco
+[May 14]
+C.A.I.           0-0 Tauro            [aet, 2-4 pen]
+
+Semifinals
+
+First Legs
+[May 17]
+San Francisco    1-1 Universitario
+[May 18]
+Tauro            1-2 Plaza Amador
+
+Second Legs
+[May 23]
+Plaza Amador     3-3 Tauro
+[May 24]
+Universitario    1-2 San Francisco
+
+Final [May 31]
+Plaza Amador     6-0 San Francisco
+
+===== Torneo Clausura 2025  ‹§clausura›
+
+NB: on Jun 13, the license of Potros del Este was revoked; SD Atlético Nacional
+    were invited (as winners of the Torneo Apertura at the second level) to replace
+    them and entered in the Conferencia Oeste, whereas Umecit were moved from the
+    Conferencia Oeste to the Conferencia Este
+
+‹Group Stage, see §claugroup› | ‹Playoff Stage, see §clauplay›
+
+Group Stage  ‹§claugroup›
+
+Final Tables:
+
+Conferencia Este
+ 1.CD Plaza Amador         16  11  3  2  37-17  36  ‹Qualified, see §clauplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.Alianza FC              16   8  4  4  25-19  28  ‹Qualified, see §clauplay›
+ 3.Sporting San Miguelito  16   6  7  3  17-12  25  ‹Qualified, see §clauplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.CD Árabe Unido          16   6  6  4  18-13  24
+ 5.Umecit FC               16   6  5  5  16-18  23
+ 6.Tauro FC                16   3  4  9  17-28  13
+
+Conferencia Oeste
+ 1.San Francisco FC        16   6  7  3  21-16  25  ‹Qualified, see §clauplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.C.A.I. FC               16   6  5  5  24-17  23  ‹Qualified, see §clauplay›
+ 3.CD Universitario        16   4  7  5  14-17  19  ‹Qualified, see §clauplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Veraguas United         16   5  3  8  19-25  18
+ 5.SD Atlético Nacional    16   4  5  7  22-31  17  [*]
+ 6.Herrera FC              16   1  4 11  10-27   7
+
+[*] Atlético Nacional replaced Potros del Este
+
+Round 1
+[Jul 18]
+Veraguas United  4-1 Herrera
+[Jul 19]
+Universitario    3-2 C.A.I.
+Árabe Unido      1-4 Plaza Amador
+[Jul 20]
+Atl. Nacional    1-3 San Francisco
+Tauro            2-1 Alianza
+[Jul 21]
+Sporting SM      0-1 Umecit
+
+Round 2
+[Jul 25]
+San Francisco    1-2 Universitario
+[Jul 26]
+C.A.I.           3-0 Herrera
+Plaza Amador     3-1 Tauro
+[Jul 27]
+Atl. Nacional    0-2 Veraguas United
+Alianza          2-1 Sporting SM
+[Jul 28]
+Umecit           1-0 Árabe Unido
+
+Round 3
+[Aug 1]
+San Francisco    3-2 C.A.I.
+[Aug 2]
+Universitario    1-1 Veraguas United
+Árabe Unido      1-1 Alianza
+[Aug 3]
+Atl. Nacional    1-1 Herrera
+Sporting SM      2-0 Tauro
+[Aug 4]
+Umecit           0-2 Plaza Amador
+
+Round 4
+[Aug 8]
+Alianza          2-3 Plaza Amador
+[Aug 9]
+Universitario    2-2 Atl. Nacional
+Tauro            1-1 Umecit
+[Aug 10]
+Herrera          0-1 San Francisco
+Árabe Unido      0-0 Sporting SM
+[Aug 11]
+Veraguas United  awd C.A.I.           [awarded 0-3; originally 1-0]
+
+Round 5
+[Aug 15]
+Tauro            1-1 Árabe Unido
+[Aug 16]
+Veraguas United  2-3 San Francisco
+Plaza Amador     2-0 Sporting SM
+[Aug 17]
+Herrera          0-0 Universitario
+C.A.I.           3-3 Atl. Nacional
+[Aug 18]
+Alianza          2-0 Umecit
+
+Round 6
+[Aug 29]
+Tauro            1-0 Universitario
+[Aug 30]
+C.A.I.           2-2 Alianza
+Plaza Amador     2-2 San Francisco
+[Aug 31]
+Herrera          2-1 Árabe Unido
+Umecit           2-0 Atl. Nacional
+[Sep 1]
+Veraguas United  0-0 Sporting SM
+
+Round 7
+[Sep 5]
+Universitario    1-3 Plaza Amador
+[Sep 6]
+Alianza          1-0 Veraguas United
+San Francisco    0-0 Umecit
+Árabe Unido      2-0 Atl. Nacional
+[Sep 7]
+Herrera          1-2 Tauro
+Sporting SM      2-0 C.A.I.
+
+Round 8
+[Sep 12]
+Tauro            1-3 Veraguas United
+[Sep 13]
+Universitario    2-0 Umecit
+Plaza Amador     2-2 Herrera
+[Sep 14]
+C.A.I.           0-0 Árabe Unido
+Sporting SM      1-1 Atl. Nacional
+[Sep 15]
+Alianza          1-1 San Francisco
+
+Round 9
+[Sep 19]
+San Francisco    0-1 Sporting SM
+[Sep 20]
+Universitario    0-0 Alianza
+Árabe Unido      1-0 Veraguas United
+[Sep 21]
+Atl. Nacional    2-5 Plaza Amador
+Tauro            0-0 C.A.I.
+[Sep 22]
+Umecit           1-0 Herrera
+
+Round 10
+[Sep 26]
+San Francisco    0-2 Árabe Unido
+[Sep 27]
+Alianza          2-1 Herrera
+Plaza Amador     3-0 C.A.I.
+[Sep 28]
+Atl. Nacional    2-1 Tauro
+Sporting SM      0-0 Universitario
+[Sep 29]
+Umecit           1-1 Veraguas United
+
+Round 11
+[Oct 3]
+Tauro            1-1 San Francisco
+[Oct 4]
+C.A.I.           0-1 Umecit
+Árabe Unido      0-1 Universitario
+[Oct 5]
+Herrera          1-3 Sporting SM
+Veraguas United  0-3 Plaza Amador
+[Oct 6]
+Atl. Nacional    2-3 Alianza
+
+Round 12
+[Oct 11]
+Alianza          2-1 Tauro
+C.A.I.           2-0 Universitario
+Plaza Amador     0-2 Árabe Unido
+[Oct 12]
+Herrera          0-2 Veraguas United
+San Francisco    2-2 Atl. Nacional
+[Oct 13]
+Umecit           3-3 Sporting SM
+
+Round 13
+[Oct 17]
+Tauro            2-3 Plaza Amador
+[Oct 18]
+Herrera          0-2 C.A.I.
+Universitario    0-0 San Francisco
+Árabe Unido      1-1 Umecit
+[Oct 19]
+Sporting SM      2-1 Alianza
+[Oct 20]
+Veraguas United  2-3 Atl. Nacional
+
+Round 14
+[Oct 24]
+San Francisco    1-0 Herrera
+[Oct 25]
+Sporting SM      0-0 Árabe Unido
+Plaza Amador     0-1 Alianza
+[Oct 26]
+Atl. Nacional    2-0 Universitario
+C.A.I.           3-0 Veraguas United
+[Oct 27]
+Umecit           3-2 Tauro
+
+Round 15
+[Oct 31]
+C.A.I.           0-0 San Francisco
+Veraguas United  2-1 Universitario
+Herrera          0-1 Atl. Nacional
+[Nov 1]
+Tauro            0-1 Sporting SM
+Plaza Amador     1-0 Umecit
+Alianza          1-2 Árabe Unido
+
+Round 16
+[Nov 7]
+Universitario    1-1 Herrera
+San Francisco    3-0 Veraguas United
+Atl. Nacional    0-2 C.A.I.
+[Nov 8]
+Sporting SM      1-1 Plaza Amador
+Umecit           1-3 Alianza
+Árabe Unido      4-1 Tauro
+
+Final Tables:
+
+Conferencia Este
+ 1.CD Plaza Amador         16  11  3  2  37-17  36  ‹Qualified, see §clauplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.Alianza FC              16   8  4  4  25-19  28  ‹Qualified, see §clauplay›
+ 3.Sporting San Miguelito  16   6  7  3  17-12  25  ‹Qualified, see §clauplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.CD Árabe Unido          16   6  6  4  18-13  24
+ 5.Umecit FC               16   6  5  5  16-18  23
+ 6.Tauro FC                16   3  4  9  17-28  13
+
+Conferencia Oeste
+ 1.San Francisco FC        16   6  7  3  21-16  25  ‹Qualified, see §clauplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.C.A.I. FC               16   6  5  5  24-17  23  ‹Qualified, see §clauplay›
+ 3.CD Universitario        16   4  7  5  14-17  19  ‹Qualified, see §clauplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Veraguas United         16   5  3  8  19-25  18
+ 5.SD Atlético Nacional    16   4  5  7  22-31  17  [*]
+ 6.Herrera FC              16   1  4 11  10-27   7
+
+[*] Atlético Nacional replaced Potros del Este
+
+Playoff Stage  ‹§clauplay›
+
+Repechaje
+[Nov 11]
+C.A.I.           2-1 Sporting SM      [aet]
+[Nov 12]
+Alianza          2-2 Universitario    [aet, 3-2 pen]
+
+Semifinals
+
+First Legs
+[Nov 15]
+C.A.I.           2-2 Plaza Amador
+[Nov 16]
+Alianza          1-1 San Francisco
+
+Second Legs
+[Nov 21]
+San Francisco    1-2 Alianza
+[Nov 22]
+Plaza Amador     4-0 C.A.I.
+
+Final [Nov 29]
+Plaza Amador     2-0 Alianza
+
+===== Aggregate Table  ‹§agg›
+
+ 1.CD Plaza Amador         32  20  7  5  60-33  67
+ 2.Sporting San Miguelito  32  13 11  8  33-27  50
+ 3.San Francisco FC        32  12 12  8  39-29  48
+ 4.C.A.I. FC               32  12 11  9  45-33  47
+ 5.CD Universitario        32  11 14  7  35-31  47
+ 6.Alianza FC              32  12 10 10  43-42  46
+ 7.CD Árabe Unido          32  11 10 11  35-30  43
+ 8.Umecit FC               32  10 11 11  32-37  41
+ 9.Veraguas United         32  10  7 15  36-53  37
+10.Tauro FC                32   8  9 15  41-47  33
+11.Herrera FC              32   4 10 18  26-47  22
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+12.SD Atlético Nacional    16   4  5  7  22-31  17  [*]  ‹Superfinal Liga Prom, see §prorel›
+13.Potros del Este         16   3  7  6  17-24  16  [*]
+
+[*] Atlético Nacional replaced Potros del Este after the Apertura season
+
+===== Superfinal de Liga Prom 2025  ‹§prorel›
+
+NB: played between the winners of the Torneo Apertura (Atlético Nacional) and the
+    Torneo Clausura (Unión Coclé) of the 2025 second level
+
+[Nov 26]
+Unión Coclé      1-0 Atl. Nacional
+
+NB: SD Atlético Nacional relegated, Unión Coclé FC promoted
+
+
+==== Liga Indígena de Fútbol de Panamá 2025  ‹§indi›
+
+First Tournament
+
+Knockout Stage
+
+1/8 Finals [Apr 8]
+Known results:
+FCS Mulatupu        lt  Kalu Moguir Yala
+Tubuala FC          lt  Fesokingbu
+Ukupseni FC         bt  Carti Sugdub
+Kuna Nega FC        lt  Atlético Nabikeys FC
+
+Quarterfinals [Apr 27]
+Herbandad FC        lt  Kalu Moguir Yala
+Booyala             lt  Atletico Nabikeys FC
+Ind Unidos          lt  Ukupseni FC
+Deportivo Centella  bt  Grupo Fesokingbu
+
+Semifinals [May 11]
+Ukupseni FC         lt  Atletico Nabikeys FC
+Deportivo Centella  lt  Kalu Moguir Yala
+
+Third Place Match [May 25]
+Deportivo Centella   -  Ukupseni FC
+
+Final [May 25]
+Kalu Moguir Yala    2-1 Atletico Nabikeys FC
+
+Second Tournament
+
+Group Stage
+
+Reported Tables:
+
+Zona 1 - Grupo A
+ 1.Orkwague                 6   6  0  0  29- 7  18  Qualified
+ 2.Gardi Sugdup FC          6   3  1  2  15- 6  10  Qualified
+ 3.Deportivo Miller         6   3  1  2  12-10  10  Qualified
+ 4.Kalu Moguir Yala         5   3  0  2   9-10   9  Qualified
+ 5.Tigre FC                 5   2  0  3  15-10   6
+ 6.Nergalawagan             5   2  0  3  12- 8   6
+ 7.Bisira                   4   0  0  4   2-28   0
+NB: 3 more wins than losses; odd number of matches; total goal difference +15
+
+Zona 1 - Grupo B
+ 1.Herbandad FC             6   5  1  0  28- 3  16  Qualified
+ 2.Booyala FC               6   4  1  1  14- 4  13  Qualified
+ 3.Atlético Nabikeys FC     6   3  2  1   9- 2  11  Qualified
+ 4.Independiente Loma Coba  6   2  2  2   7- 8   8  Qualified
+ 5.Angel's                  6   2  0  4   8-15   6
+ 6.Uraba                    6   2  0  4   7-16   6
+ 7.Coetupu                  4   0  0  4   3-16   0  [?!]
+NB: 2 more wins than losses; total goal difference +12
+
+Zona 2 - Grupo A
+ 1.Kuna Nega FC             6   5  1  0  13- 4  16  Qualified
+ 2.Ibeorgun CD              5   4  0  1  13- 4  13  Qualified
+ 3.Ukupseni FC              5   3  0  2  19-19   9  Qualified
+ 4.Tubuala FC               5   2  1  2   8- 7   7  Qualified
+ 5.Aeku                     6   2  1  3   7- 9   7
+ 6.Gannirdup                6   1  0  5   6-20   3
+ 7.Loma Coba J.             6   1  0  5   2-20   3
+NB: total goal difference -15
+
+Zona 2 - Grupo B
+ 1.Koskuna Juvenil          6   6  0  0  38- 4  18  Qualified
+ 2.Deportivo Centella       6   3  2  1  16- 5  11  Qualified
+ 3.Santa Ana FC             6   3  2  1   8-10  11  Qualified
+ 4.FCS Mulatupu             6   2  2  2   5-10   8  Qualified
+ 5.Independiente Unido FC   6   2  1  3  10-14   7
+ 6.Piria                    6   1  1  4   6-23   4
+ 7.Koskuna FC               6   0  0  6          ß  [withdrew]
+
+Knockout Stage
+
+1/8 Finals [Nov 2]
+Koskuna Juvenil     bt  Independiente Loma Coba
+Herbandad FC        bt  FCS Mulatupu
+Kalu Moguir Yala    bt  Santa Ana FC
+Gardi Sugdup FC     lt  Ibeorgun CD
+Ukupseni FC         bt  Booyala FC
+Orkwague            lt  Tubuala FC
+Deportivo Centella  lt  Atletico Nabikeys
+Kuna Nega FC        bt  Dportivo Miller
+
+Quarterfinals [Nov 9]
+Ukupseni FC         bt  Tubuala FC
+Kuna Nega FC        lt  Atletico Nabikeys
+Ibeorgun CD         bt  Koskuna Juvenil
+Herbandad FC        lt  Kalu Moguir Yala
+
+Semifinals [Nov 23]
+Atletico Nabikeys   2-0 Ukupseni FC
+Kalu Moguir Yala    bt  Ibeorgun CD
+
+Third Place Match [Dec 8]
+Ukupseni FC         2-0 Ibeorgun CD
+
+Final [Dec 8?]
+Kalu Moguir Yala    drw Atletico Nabikeys   [Kalu Moguir Yala on pen]
+
