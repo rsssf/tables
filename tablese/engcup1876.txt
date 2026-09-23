@@ -1,0 +1,55 @@
+<!--
+   title:   England - FA Challenge Cup 1875-1876
+   source:  https://rsssf.org/tablese/engcup1876.html
+  -->
+
+
+== England FA Challenge Cup 1875-76
+
+<!-- start pre -->        1st Round
+Oct 23  Maidenhead             2  Ramblers               0
+Oct 23  Upton Park             1  Southall               0
+Oct 23  Wanderers              5  1st Surrey Rifles      0
+Oct 30  Barnes                 0  Reigate Priory         1
+Nov 03  Swifts                 2  Great Marlow           0
+Nov 06  105th Regiment         0  Crystal Palace         0
+Nov 06  Hertfordshire Rangers  4  Rochester              0
+Nov 06  Oxford University      6  Forest School          0
+Nov 06  Panthers               1  Woodford Wells         0
+Nov 09  Old Etonians           4  Pilgrims               1
+Nov 10  Royal Engineers       15  High Wycombe           0
+        Cambridge University   W  Civil Service          0
+        Clapham Rovers         W  Hitchin                0
+        Leyton                 W  Harrow Chequers        0
+        Sheffield              W  Shropshire Wanderers   0
+        South Norwood          W  Clydesdale             0
+
+        Replay
+Nov 20  Crystal Palace         3  105th Regiment         0  played at Kennington Oval
+
+        2nd Round
+Dec 11  Old Etonians           8  Maidenhead             0
+Dec 11  Reigate Priory         0  Cambridge University   8
+Dec 11  Swifts                 5  South Norwood          0
+Dec 11  Wanderers              3  Crystal Palace         0
+Dec 18  Clapham Rovers        12  Leyton                 0
+Dec 18  Hertfordshire Rangers  2  Oxford University      8
+        Royal Engineers        W  Panthers               0
+        Sheffield              W  Upton Park             0
+
+        Quarter-finals
+Jan 29  Old Etonians           1  Clapham Rovers         0
+Jan 29  Royal Engineers        1  Swifts                 3
+Jan 29  Wanderers              2  Sheffield              0
+Jan 31  Cambridge University   0  Oxford University      4
+
+        Semi-finals
+Feb 19  Old Etonians           1  Oxford University      0  played at Kennington Oval
+Feb 26  Wanderers              2  Swifts                 1  played at Kennington Oval
+
+        Final
+Mar 11  Old Etonians           1  Wanderers              1  played at Kennington Oval
+
+        Replay
+Mar 18  Wanderers              3  Old Etonians           0  played at Kennington Oval
+

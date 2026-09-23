@@ -2,7 +2,7 @@
    title:   Argentina 2026
    source:  https://rsssf.org/tablesa/arg2026.html
    author:  Osvaldo José Gorgazzi
-   updated: 7 May 2026
+   updated: 21 Sep 2026
   -->
 
 
@@ -12,22 +12,28 @@
 [2026 AFA LPF Opening Tournament]
 Non official table
  #.Full name                                               MP   W  D  L  Gf- Ga   P  (Headquarters on)
- 1.Club Sportivo Independiente Rivadavia                   16  10  4  2  29- 15  34  (Mendoza, M)
- 2.Club Estudiantes de La Plata                            16   9  4  3  19-  7  31  (La Plata, B)
- 3.Club Atlético Boca Juniors Asociación Civil             16   8  6  2  22-  9  30  (La Boca, C)
- 4.Club Atlético River Plate Asoc. Civil                   16   9  2  5  22- 12  29  (Belgrano, C)
- 5.Asociación Atlética Argentinos Juniors                  16   8  5  3  17- 13  29  (La Paternal, C)
- 6.Club Atlético Vélez Sarsfield Asociación Civil          16   7  7  2  18- 12  28  (Liniers, C)
- 7.Club Atlético Rosario Central                           16   8  4  4  20- 16  28  (Rosario, S)
- 8.Club Atlético Talleres                                  16   7  5  4  17- 13  26  (Córdoba, X)
- 9.Club Atlético Belgrano                                  16   7  5  4  17- 13  26  (Córdoba, X)
-10.Club de Gimnasia y Esgrima La Plata                     16   8  2  6  19- 19  26  (La Plata, B)
-11.Club Atlético Independiente                             16   6  6  4  24- 20  24  (Avellaneda, B)
-12.Club Atlético Lanús                                     16   6  6  4  18- 15  24  (Lanús Este, B)
-13.Club Atlético Huracán                                   16   5  7  4  17- 13  22  (Parque de los Patricios, C)
-14.Club Atlético San Lorenzo de Almagro                    16   5  7  4  14- 14  22  (Flores, C)
-15.Club Atlético Unión                                     16   5  6  5  24- 20  21  (Santa Fe, S)
-16.Racing Club Asociación Civil                            16   5  6  5  17- 15  21  (Avellaneda, B)
+Champion:
+ 1.Club Atlético Belgrano                                  20  10  6  4  24- 16  36  (Córdoba, X)
+Runner-up:
+ 2.Club Atlético River Plate Asoc. Civil                   20  11  3  6  29- 17  36  (Belgrano, C)
+Teams eliminated in semi-finals:
+ 3.Asociación Atlética Argentinos Juniors                  19  10  6  3  21- 14  36  (La Paternal, C)
+ 4.Club Atlético Rosario Central                           19  10  4  5  25- 19  34  (Rosario, S)
+Teams eliminated in quarter-finals:
+ 5.Club de Gimnasia y Esgrima La Plata                     18   9  2  7  20- 21  29  (La Plata, B)
+ 6.Club Atlético Huracán                                   18   6  7  5  20- 16  25  (Parque de los Patricios, C)
+ 7.Club Atlético Unión                                     18   6  6  6  26- 23  24  (Santa Fe, S)
+ 8.Racing Club Asociación Civil                            18   6  6  6  19- 17  24  (Avellaneda, B)
+Teams eliminated in the round of 16:
+ 9.Club Sportivo Independiente Rivadavia                   17  10  4  3  30- 17  34  (Mendoza, M)
+10.Club Estudiantes de La Plata                            17   9  4  4  19-  8  31  (La Plata, B)
+11.Club Atlético Boca Juniors Asociación Civil             17   8  6  3  24- 12  30  (La Boca, C)
+12.Club Atlético Vélez Sarsfield Asociación Civil          17   7  7  3  18- 13  28  (Liniers, C)
+13.Club Atlético Talleres                                  17   7  5  5  17- 14  26  (Córdoba, X)
+14.Club Atlético Independiente                             17   6  6  5  25- 23  24  (Avellaneda, B)
+15.Club Atlético Lanús                                     17   6  6  5  18- 17  24  (Lanús Este, B)
+16.Club Atlético San Lorenzo de Almagro                    17   5  8  4  16- 16  23  (Flores, C)
+Teams eliminated in the group stage:
 17.Instituto Atlético Central Córdoba                      16   6  3  7  17- 17  21  (Córdoba, X)
 18.Club Atlético Barracas Central                          16   5  6  5  15- 15  21  (Barracas, C)
 19.Club Atlético Tigre Sociedad Civil                      16   4  8  4  18- 15  20  (Victoria, B)
@@ -417,28 +423,31 @@ Table Group B
 
 Round of 16 - Octavos de Final:
 [May 9, Sat]
-AA Argentinos Juniors                   -        CA Lanús                           Diego Armando Maradona, Villa General Mitre, C
-CA Boca Juniors                         -        CA Huracán                         Alberto J. Armando, La Boca, C
-CA Talleres                             -        CA Belgrano                        Mario Alberto Kempes, Córdoba, X
-CS Independiente Rivadavia              -        CA Unión                           Bautista Gargantini, Mendoza, M
+AA Argentinos Juniors                  2- 0      CA Lanús                           Diego Armando Maradona, Villa General Mitre, C
+CA Boca Juniors                        2- 3      CA Huracán                        aet, Alberto J. Armando, La Boca, C
+CA Talleres                            0- 1      CA Belgrano                        Mario Alberto Kempes, Córdoba, X
+CS Independiente Rivadavia             1- 2      CA Unión                           Bautista Gargantini, Mendoza, M
 [May 10, Sun]
-CA River Plate                          -        CA San Lorenzo de Almagro          Mâs Monumental, Belgrano, C
-CA Rosario Central                      -        CA Independiente                   Gigante de Arroyito, Rosario, S
-CA Vélez Sarsfield                      -        Club de Gimnasia y Esgrima LP      José Amalfitani, Liniers, C
-Club Estudiantes de La Plata            -        Racing Club                        UNO Dr. Jorge Luis Hirschi, La Plata, B
+CA River Plate                     [4] 2- 2  [3] CA San Lorenzo de Almagro         aet, pso, Mâs Monumental, Belgrano, C
+CA Rosario Central                     3- 1      CA Independiente                   Gigante de Arroyito, Rosario, S
+CA Vélez Sarsfield                     0- 1      Club de Gimnasia y Esgrima LP      José Amalfitani, Liniers, C
+Club Estudiantes de La Plata           0- 1      Racing Club                        UNO Dr. Jorge Luis Hirschi, La Plata, B
 Quarter finals - Cuartos de final:
+[May 12, Tue]
+AA Argentinos Juniors                  1- 0      CA Huracán                        aet, Diego Armando Maradona, Villa General Mitre, C
+CA Belgrano                            2- 0      CA Unión                           Julio César Villagra, Córdoba X
 [May 13, Wed]
-TBD                                     -        TBD                                TBD
-TBD                                     -        TBD                                TBD
-TBD                                     -        TBD                                TBD
-TBD                                     -        TBD                                TBD
+CA River Plate                         2- 0      Club de Gimnasia y Esgrima LP      Mâs Monumental, Belgrano, C
+CA Rosario Central                     2- 1      Racing Club                       aet, Gigante de Arroyito, Rosario, S
 Semi finals - Semifinales:
+[May 16, Sat]
+CA River Plate                         1- 0      CA Rosario Central                 Mâs Monumental, Belgrano, C
 [May 17, Sun]
-TBD                                     -        TBD                                TBD
-TBD                                     -        TBD                                TBD
+AA Argentinos Juniors              [3] 1- 1  [4] CA Belgrano                       aet, pso, Diego Armando Maradona, Villa General Mitre, C
 Final:
 [May 24, Sun]
-TBD                                     -        TBD                                TBD
+CA River Plate                         2- 3      CA Belgrano                        Mario Alberto Kempes, Córdoba, X (neutral)
+NB: Despite being played in Córdoba, the team with the best position in the standings (CA River Plate) was entitled to the home team's activities.
 
 
 === Torneo Clausura de la LPF de AFA 2026  ‹§1clausura›
@@ -446,191 +455,219 @@ TBD                                     -        TBD                            
 [2026 AFA LPF Closing Tournament]
 Non official table
  #.Full name                                               MP   W  D  L  Gf- Ga   P  (Headquarters on)
- 1.Club Atlético Rosario Central                            0   0  0  0   0-  0   0  (Rosario, S)
- 2.Club Atlético Boca Juniors Asociación Civil              0   0  0  0   0-  0   0  (La Boca, C)
- 3.Asociación Atlética Argentinos Juniors                   0   0  0  0   0-  0   0  (La Paternal, C)
- 4.Club Atlético River Plate Asoc. Civil                    0   0  0  0   0-  0   0  (Belgrano, C)
- 5.Racing Club Asociación Civil                             0   0  0  0   0-  0   0  (Avellaneda, B)
- 6.Deportivo Riestra Asociación de Fomento Barrio Colón     0   0  0  0   0-  0   0  (Nueva Pompeya, C)
- 7.Club Atlético San Lorenzo de Almagro                     0   0  0  0   0-  0   0  (Flores, C)
- 8.Club Atlético Lanús                                      0   0  0  0   0-  0   0  (Lanús Este, B)
- 9.Club Atlético Tigre Sociedad Civil                       0   0  0  0   0-  0   0  (Victoria, B)
-10.Club Atlético Barracas Central                           0   0  0  0   0-  0   0  (Barracas, C)
-11.Club Atlético Independiente                              0   0  0  0   0-  0   0  (Avellaneda, B)
-12.Club Atlético Huracán                                    0   0  0  0   0-  0   0  (Parque de los Patricios, C)
-13.Club Sportivo Independiente Rivadavia                    0   0  0  0   0-  0   0  (Mendoza, M)
-14.Club Atlético Central Córdoba Soc. Civil                 0   0  0  0   0-  0   0  (Santiago del Estero, G)
-15.Club Estudiantes de La Plata                             0   0  0  0   0-  0   0  (La Plata, B)
-16.Club Atlético Vélez Sarsfield Asociación Civil           0   0  0  0   0-  0   0  (Liniers, C)
-17.Club Atlético Unión                                      0   0  0  0   0-  0   0  (Santa Fe, S)
-18.Club Social y Deportivo Defensa y Justicia               0   0  0  0   0-  0   0  (Florencio Varela, B)
-19.Club de Gimnasia y Esgrima La Plata                      0   0  0  0   0-  0   0  (La Plata, B)
-20.Club Atlético Belgrano                                   0   0  0  0   0-  0   0  (Córdoba, X)
-21.Club Atlético Banfield Sociedad Civil                    0   0  0  0   0-  0   0  (Banfield, B)
-22.Club Atlético Platense Asociación Civil                  0   0  0  0   0-  0   0  (Florida, B)
-23.Club Atlético Sarmiento                                  0   0  0  0   0-  0   0  (Junín, B)
-24.Club Atlético Talleres                                   0   0  0  0   0-  0   0  (Córdoba, X)
-25.Club Atlético Tucumán Soc. Civil                         0   0  0  0   0-  0   0  (San Miguel de Tucumán, T)
-26.Instituto Atlético Central Córdoba                       0   0  0  0   0-  0   0  (Córdoba, X)
-27.Club Atlético Newell's Old Boys                          0   0  0  0   0-  0   0  (Rosario, S)
-28.Club Atlético Aldosivi                                   0   0  0  0   0-  0   0  (Mar del Plata, B)
-29.Club Atlético Gimnasia y Esgrima                         0   0  0  0   0-  0   0  (Mendoza, M)
-30.Asociación Atlética Estudiantes                          0   0  0  0   0-  0   0  (Río Cuarto, X)
+ 1.Instituto Atlético Central Córdoba                       9   6  1  2  10-  6  19  (Córdoba, X)
+ 2.Asociación Atlética Argentinos Juniors                   9   5  3  1  13-  8  18  (La Paternal, C)
+ 3.Club Atlético Vélez Sarsfield Asociación Civil           9   4  5  0  12-  7  17  (Liniers, C)
+ 4.Club Social y Deportivo Defensa y Justicia               9   5  2  2  11-  9  17  (Florencio Varela, B)
+ 5.Club Atlético Gimnasia y Esgrima                         9   5  1  3  14-  9  16  (Mendoza, M)
+ 6.Club Atlético Sarmiento                                  9   5  1  3  16- 13  16  (Junín, B)
+ 7.Club de Gimnasia y Esgrima La Plata                      9   5  1  3  13- 13  16  (La Plata, B)
+ 8.Club Atlético Rosario Central                            9   4  3  2  10-  8  15  (Rosario, S)
+ 9.Club Atlético Boca Juniors Asociación Civil              9   3  5  1  12- 11  14  (La Boca, C)
+10.Club Atlético Independiente                              9   4  2  3   8-  7  14  (Avellaneda, B)
+11.Club Sportivo Independiente Rivadavia                    9   4  2  3  13- 13  14  (Mendoza, M)
+12.Club Atlético Lanús                                      9   4  1  4  11-  8  13  (Lanús Este, B)
+13.Club Atlético Belgrano                                   9   3  4  2   9-  6  13  (Córdoba, X)
+14.Club Atlético Unión                                      9   4  1  4  16- 14  13  (Santa Fe, S)
+15.Club Atlético River Plate Asoc. Civil                    9   4  1  4  12- 10  13  (Belgrano, C)
+16.Club Atlético Newell's Old Boys                          9   3  4  2  10-  8  13  (Rosario, S)
+17.Club Atlético Tucumán Soc. Civil                         9   3  4  2   7-  5  13  (San Miguel de Tucumán, T)
+18.Club Atlético Huracán                                    9   3  4  2   8-  7  13  (Parque de los Patricios, C)
+19.Club Atlético Tigre Sociedad Civil                       9   3  3  3   7-  6  12  (Victoria, B)
+20.Club Atlético Barracas Central                           9   3  3  3   5-  6  12  (Barracas, C)
+21.Club Atlético San Lorenzo de Almagro                     9   3  2  4   4-  6  11  (Flores, C)
+22.Club Estudiantes de La Plata                             9   3  1  5   9-  9  10  (La Plata, B)
+23.Deportivo Riestra Asociación de Fomento Barrio Colón     9   2  3  4   8- 10   9  (Nueva Pompeya, C)
+24.Club Atlético Platense Asociación Civil                  9   2  3  4   9- 14   9  (Florida, B)
+25.Club Atlético Talleres                                   9   2  2  5  10- 14   8  (Córdoba, X)
+26.Club Atlético Banfield Sociedad Civil                    9   2  2  5   9- 14   8  (Banfield, B)
+27.Club Atlético Central Córdoba Soc. Civil                 9   2  1  6   5- 11   7  (Santiago del Estero, G)
+28.Asociación Atlética Estudiantes                          9   1  3  5   4- 11   6  (Río Cuarto, X)
+29.Club Atlético Aldosivi                                   9   1  2  6  11- 16   5  (Mar del Plata, B)
+30.Racing Club Asociación Civil                             9   1  2  6   8- 15   5  (Avellaneda, B)
 
 Primera fase de zonas - Phase of groups
 Round 1:
+[Jul 23, Thu]
+CA Belgrano                            2- 1      CA Rosario Central                 Julio César Villagra, Córdoba X
+CA Sarmiento                           2- 3      AA Argentinos Juniors              Eva Perón, Junín, B
+CSD Defensa y Justicia                 1- 1      CA Aldosivi                        Norberto "Tito" Tomaghello, Gobernador Costa, B
+[Jul 24, Fri]
+CA Gimnasia y Esgrima                  1- 0      CA Central Córdoba                 Víctor Antonio Legrotaglie, Mendoza, M
+CA Huracán                             1- 0      CA Banfield                        Tomás Adolfo Ducó, Parque Patricios, C
+CA Platense                            2- 2      CA Unión                           Ciudad de Vicente López, Florida, B
+CA Vélez Sarsfield                     1- 0      Instituto ACC                      José Amalfitani, Liniers, C
+Racing Club                            2- 1      Club de Gimnasia y Esgrima LP      Presidente Perón, Avellaneda, B
+[Jul 25, Sat]
+AA Estudiantes                         1- 0      CA Tigre                           Ciudad de Río Cuarto - Antonio Candini, Río Cuarto, X
+CA Lanús                               1- 0      CA San Lorenzo de Almagro          Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada, B
+CA Newell's Old Boys                   1- 0      CA Talleres                        Marcelo A. Bielsa, Rosario, S
+CA River Plate                         0- 1      CA Barracas Central                Mâs Monumental, Belgrano, C
 [Jul 26, Sun]
-CSD Defensa y Justicia                  -        CA Aldosivi                        Norberto "Tito" Tomaghello, Gobernador Costa, B
-CA Huracán                              -        CA Banfield                        Tomás Adolfo Ducó, Parque Patricios, C
-CA Gimnasia y Esgrima                   -        CA Central Córdoba                 Víctor Antonio Legrotaglie, Mendoza, M
-CA Platense                             -        CA Unión                           Ciudad de Vicente López, Florida, B
-CA Vélez Sarsfield                      -        Instituto ACC                      José Amalfitani, Liniers, C
-Club Estudiantes de La Plata            -        CA Independiente                   UNO Dr. Jorge Luis Hirschi, La Plata, B
-CA Lanús                                -        CA San Lorenzo de Almagro          Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada, B
-CA Newell's Old Boys                    -        CA Talleres                        Marcelo A. Bielsa, Rosario, S
-Club Atlético Tucumán                   -        CS Independiente Rivadavia         José Fierro, San Miguel de Tucumán, T
-CA River Plate                          -        CA Barracas Central                Mâs Monumental, Belgrano, C
-CA Belgrano                             -        CA Rosario Central                 Julio César Villagra, Córdoba X
-Racing Club                             -        Club de Gimnasia y Esgrima LP      Presidente Perón, Avellaneda, B
-CA Sarmiento                            -        AA Argentinos Juniors              Eva Perón, Junín, B
-Deportivo Riestra AFBC                  -        CA Boca Juniors                    Guillermo Laza, Villa Soldati, C
-AA Estudiantes                          -        CA Tigre                           Ciudad de Río Cuarto - Antonio Candini, Río Cuarto, X
+Club Atlético Tucumán                  0- 0      CS Independiente Rivadavia         José Fierro, San Miguel de Tucumán, T
+Club Estudiantes de La Plata           0- 2      CA Independiente                   UNO Dr. Jorge Luis Hirschi, La Plata, B
+Deportivo Riestra AFBC                 3- 0      CA Boca Juniors                    Guillermo Laza, Villa Soldati, C
 Round 2:
+[Jul 28, Tue]
+AA Argentinos Juniors                  3- 0      AA Estudiantes                     Diego Armando Maradona, Villa General Mitre, C
+CA Banfield                            3- 2      CA Sarmiento                       Florencio Sola, Banfield, B
+CA Rosario Central                     0- 0      Racing Club                        Gigante de Arroyito, Rosario, S
+CA San Lorenzo de Almagro              1- 0      CA Gimnasia y Esgrima              Pedro Bidegain, Flores, C
 [Jul 29, Wed]
-Instituto ACC                           -        CA Platense                        Juan Domingo Perón, Córdoba, X
-CA San Lorenzo de Almagro               -        CA Gimnasia y Esgrima              Pedro Bidegain, Flores, C
-CS Independiente Rivadavia              -        CA Huracán                         Bautista Gargantini, Mendoza, M
-CA Independiente                        -        CA Newell's Old Boys               Libertadores de América - Ricardo Enrique Bochini, Avellaneda, B
-CA Talleres                             -        CA Vélez Sarsfield                 Francisco Cabasés, Córdoba, X
-CA Central Córdoba                      -        Club Atlético Tucumán              Alfredo Terrera, Santiago del Estero, G
-CA Barracas Central                     -        CA Aldosivi                        Claudio "Chiqui" Tapia, Barracas, C
-Club de Gimnasia y Esgrima LP           -        CA River Plate                     Juan Carmelo Zerillo, La Plata, B
-CA Boca Juniors                         -        Club Estudiantes de La Plata       Alberto J. Armando, La Boca, C
-CA Rosario Central                      -        Racing Club                        Gigante de Arroyito, Rosario, S
-AA Argentinos Juniors                   -        AA Estudiantes                     Diego Armando Maradona, Villa General Mitre, C
-CA Tigre                                -        CA Belgrano                        José Dellagiovanna, Victoria, B
-CA Unión                                -        CA Lanús                           15 de Abril, Santa Fe, S
-CA Banfield                             -        CA Sarmiento                       Florencio Sola, Banfield, B
-CSD Defensa y Justicia                  -        Deportivo Riestra AFBC             Norberto "Tito" Tomaghello, Gobernador Costa, B
+CA Barracas Central                    1- 0      CA Aldosivi                        Claudio "Chiqui" Tapia, Barracas, C
+Club de Gimnasia y Esgrima LP          1- 0      CA River Plate                     Juan Carmelo Zerillo, La Plata, B
+CSD Defensa y Justicia                 2- 1      Deportivo Riestra AFBC             Norberto "Tito" Tomaghello, Gobernador Costa, B
+Instituto ACC                          2- 1      CA Platense                        Juan Domingo Perón, Córdoba, X
+[Jul 30, Thu]
+CA Central Córdoba                     0- 2      Club Atlético Tucumán              Único Madre de Ciudades, Santiago del Estero, G
+CA Independiente                       1- 0      CA Newell's Old Boys               Libertadores de América - Ricardo Enrique Bochini, Avellaneda, B
+CA Talleres                            1- 3      CA Vélez Sarsfield                 Mario Alberto Kempes, Córdoba, X
+CS Independiente Rivadavia             2- 1      CA Huracán                         Bautista Gargantini, Mendoza, M
+[Aug 5, Wed]
+CA Boca Juniors                        1- 0      Club Estudiantes de La Plata       Tomás Adolfo Ducó, Parque Patricios, C
+CA Tigre                               0- 0      CA Belgrano                        José Dellagiovanna, Victoria, B
+[Aug 6, Thu]
+CA Unión                               2- 1      CA Lanús                           15 de Abril, Santa Fe, S
 Round 3:
+[Aug 1, Sat]
+AA Estudiantes                         0- 0      CA Banfield                        Ciudad de Río Cuarto - Antonio Candini, Río Cuarto, X
+CA Belgrano                            0- 1      AA Argentinos Juniors              Julio César Villagra, Córdoba X
+CA Gimnasia y Esgrima                  2- 0      CA Unión                           Víctor Antonio Legrotaglie, Mendoza, M
+Club Estudiantes de La Plata           3- 0      CSD Defensa y Justicia             UNO Dr. Jorge Luis Hirschi, La Plata, B
+Racing Club                            1- 3      CA Tigre                           Presidente Perón, Avellaneda, B
 [Aug 2, Sun]
-CA Belgrano                             -        AA Argentinos Juniors              Julio César Villagra, Córdoba X
-AA Estudiantes                          -        CA Banfield                        Ciudad de Río Cuarto - Antonio Candini, Río Cuarto, X
-Deportivo Riestra AFBC                  -        CA Barracas Central                Guillermo Laza, Villa Soldati, C
-CA Newell's Old Boys                    -        CA Boca Juniors                    Marcelo A. Bielsa, Rosario, S
-CA Vélez Sarsfield                      -        CA Independiente                   José Amalfitani, Liniers, C
-CA River Plate                          -        CA Rosario Central                 Mâs Monumental, Belgrano, C
-CA Central Córdoba                      -        CA San Lorenzo de Almagro          Alfredo Terrera, Santiago del Estero, G
-CA Platense                             -        CA Talleres                        Ciudad de Vicente López, Florida, B
-Racing Club                             -        CA Tigre                           Presidente Perón, Avellaneda, B
-CA Gimnasia y Esgrima                   -        CA Unión                           Víctor Antonio Legrotaglie, Mendoza, M
-CA Huracán                              -        Club Atlético Tucumán              Tomás Adolfo Ducó, Parque Patricios, C
-CA Aldosivi                             -        Club de Gimnasia y Esgrima LP      José María Minella, Mar del Plata, B
-CA Sarmiento                            -        CS Independiente Rivadavia         Eva Perón, Junín, B
-Club Estudiantes de La Plata            -        CSD Defensa y Justicia             UNO Dr. Jorge Luis Hirschi, La Plata, B
-CA Lanús                                -        Instituto ACC                      Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada, B
+CA Aldosivi                            1- 2      Club de Gimnasia y Esgrima LP      José María Minella, Mar del Plata, B
+CA Lanús                               0- 1      Instituto ACC                      Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada, B
+CA Newell's Old Boys                   2- 2      CA Boca Juniors                    Marcelo A. Bielsa, Rosario, S
+CA River Plate                         0- 1      CA Rosario Central                 Mâs Monumental, Belgrano, C
+Deportivo Riestra AFBC                 0- 1      CA Barracas Central                Guillermo Laza, Villa Soldati, C
+[Aug 3, Mon]
+CA Central Córdoba                     1- 0      CA San Lorenzo de Almagro          Único Madre de Ciudades, Santiago del Estero, G
+CA Huracán                             0- 0      Club Atlético Tucumán              Tomás Adolfo Ducó, Parque Patricios, C
+CA Platense                            0- 4      CA Talleres                        Ciudad de Vicente López, Florida, B
+CA Sarmiento                           2- 1      CS Independiente Rivadavia         Eva Perón, Junín, B
+CA Vélez Sarsfield                     1- 0      CA Independiente                   José Amalfitani, Liniers, C
 Round 4:
+[Aug 7, Fri]
+CA Rosario Central                     2- 1      CA Aldosivi                        Gigante de Arroyito, Rosario, S
+CS Independiente Rivadavia             2- 1      AA Estudiantes                     Bautista Gargantini, Mendoza, M
+[Aug 8, Sat]
+CA Boca Juniors                        1- 1      CA Vélez Sarsfield                 Tomás Adolfo Ducó, Parque Patricios, C
+CA Independiente                       0- 1      CA Platense                        Libertadores de América - Ricardo Enrique Bochini, Avellaneda, B
+CA Tigre                               1- 0      CA River Plate                     José Dellagiovanna, Victoria, B
+Club Atlético Tucumán                  1- 2      CA Sarmiento                       José Fierro, San Miguel de Tucumán, T
+Deportivo Riestra AFBC                 2- 0      Club Estudiantes de La Plata       Guillermo Laza, Villa Soldati, C
+Instituto ACC                          1- 0      CA Gimnasia y Esgrima              Juan Domingo Perón, Córdoba, X
 [Aug 9, Sun]
-CS Independiente Rivadavia              -        AA Estudiantes                     Bautista Gargantini, Mendoza, M
-CA Rosario Central                      -        CA Aldosivi                        Gigante de Arroyito, Rosario, S
-Club de Gimnasia y Esgrima LP           -        CA Barracas Central                Juan Carmelo Zerillo, La Plata, B
-CA Banfield                             -        CA Belgrano                        Florencio Sola, Banfield, B
-CA Unión                                -        CA Central Córdoba                 15 de Abril, Santa Fe, S
-Instituto ACC                           -        CA Gimnasia y Esgrima              Juan Domingo Perón, Córdoba, X
-CA San Lorenzo de Almagro               -        CA Huracán                         Pedro Bidegain, Flores, C
-CA Talleres                             -        CA Lanús                           Francisco Cabasés, Córdoba, X
-CSD Defensa y Justicia                  -        CA Newell's Old Boys               Norberto "Tito" Tomaghello, Gobernador Costa, B
-CA Independiente                        -        CA Platense                        Libertadores de América - Ricardo Enrique Bochini, Avellaneda, B
-CA Tigre                                -        CA River Plate                     José Dellagiovanna, Victoria, B
-Club Atlético Tucumán                   -        CA Sarmiento                       José Fierro, San Miguel de Tucumán, T
-CA Boca Juniors                         -        CA Vélez Sarsfield                 Alberto J. Armando, La Boca, C
-Deportivo Riestra AFBC                  -        Club Estudiantes de La Plata       Guillermo Laza, Villa Soldati, C
-AA Argentinos Juniors                   -        Racing Club                        Diego Armando Maradona, Villa General Mitre, C
+AA Argentinos Juniors                  2- 1      Racing Club                        Diego Armando Maradona, Villa General Mitre, C
+CA San Lorenzo de Almagro              0- 2      CA Huracán                         Pedro Bidegain, Flores, C
+Club de Gimnasia y Esgrima LP          2- 0      CA Barracas Central                Juan Carmelo Zerillo, La Plata, B
+CSD Defensa y Justicia                 2- 1      CA Newell's Old Boys               Norberto "Tito" Tomaghello, Gobernador Costa, B
+[Aug 10, Mon]
+CA Banfield                            0- 2      CA Belgrano                        Florencio Sola, Banfield, B
+CA Unión                               1- 2      CA Central Córdoba                 15 de Abril, Santa Fe, S
+[Aug 11, Tue]
+CA Talleres                            0- 3      CA Lanús                           Mario Alberto Kempes, Córdoba, X
 Round 5:
+[Aug 14, Fri]
+Racing Club                            0- 1      CA Banfield                        Presidente Perón, Avellaneda, B
+[Aug 15, Sat]
+CA Aldosivi                            0- 0      CA Tigre                           José María Minella, Mar del Plata, B
+CA Belgrano                            2- 0      CS Independiente Rivadavia         Julio César Villagra, Córdoba X
+CA Newell's Old Boys                   2- 0      Deportivo Riestra AFBC             Marcelo A. Bielsa, Rosario, S
+CA Platense                            1- 1      CA Boca Juniors                    Ciudad de Vicente López, Florida, B
+CA San Lorenzo de Almagro              1- 0      CA Unión                           Pedro Bidegain, Flores, C
+Club Estudiantes de La Plata           4- 0      Club de Gimnasia y Esgrima LP      UNO Dr. Jorge Luis Hirschi, La Plata, B
 [Aug 16, Sun]
-CA River Plate                          -        AA Argentinos Juniors              Mâs Monumental, Belgrano, C
-Racing Club                             -        CA Banfield                        Presidente Perón, Avellaneda, B
-CA Platense                             -        CA Boca Juniors                    Ciudad de Vicente López, Florida, B
-CA Sarmiento                            -        CA Huracán                         Eva Perón, Junín, B
-CA Lanús                                -        CA Independiente                   Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada, B
-CA Barracas Central                     -        CA Rosario Central                 Claudio "Chiqui" Tapia, Barracas, C
-CA Gimnasia y Esgrima                   -        CA Talleres                        Víctor Antonio Legrotaglie, Mendoza, M
-CA Aldosivi                             -        CA Tigre                           José María Minella, Mar del Plata, B
-CA San Lorenzo de Almagro               -        CA Unión                           Pedro Bidegain, Flores, C
-AA Estudiantes                          -        Club Atlético Tucumán              Ciudad de Río Cuarto - Antonio Candini, Río Cuarto, X
-Club Estudiantes de La Plata            -        Club de Gimnasia y Esgrima LP      UNO Dr. Jorge Luis Hirschi, La Plata, B
-CA Belgrano                             -        CS Independiente Rivadavia         Julio César Villagra, Córdoba X
-CA Vélez Sarsfield                      -        CSD Defensa y Justicia             José Amalfitani, Liniers, C
-CA Newell's Old Boys                    -        Deportivo Riestra AFBC             Marcelo A. Bielsa, Rosario, S
-CA Central Córdoba                      -        Instituto ACC                      Alfredo Terrera, Santiago del Estero, G
+CA Barracas Central                    0- 1      CA Rosario Central                 Claudio "Chiqui" Tapia, Barracas, C
+CA Central Córdoba                     0- 1      Instituto ACC                      Único Madre de Ciudades, Santiago del Estero, G
+CA River Plate                         2- 0      AA Argentinos Juniors              Mâs Monumental, Belgrano, C
+CA Sarmiento                           2- 0      CA Huracán                         Eva Perón, Junín, B
+[Aug 17, Mon]
+AA Estudiantes                         0- 1      Club Atlético Tucumán              Ciudad de Río Cuarto - Antonio Candini, Río Cuarto, X
+CA Gimnasia y Esgrima                  3- 1      CA Talleres                        Víctor Antonio Legrotaglie, Mendoza, M
+CA Lanús                               1- 3      CA Independiente                   Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada, B
+CA Vélez Sarsfield                     1- 1      CSD Defensa y Justicia             José Amalfitani, Liniers, C
 Round 6:
+[Aug 21, Fri]
+AA Estudiantes                         0- 0      CA San Lorenzo de Almagro          Ciudad de Río Cuarto - Antonio Candini, Río Cuarto, X
+CA Aldosivi                            1- 3      CA Unión                           José María Minella, Mar del Plata, B
+[Aug 22, Sat]
+CA Huracán                             0- 0      Deportivo Riestra AFBC             Tomás Adolfo Ducó, Parque Patricios, C
+CA Independiente                       0- 0      CS Independiente Rivadavia         Libertadores de América - Ricardo Enrique Bochini, Avellaneda, B
+CA Newell's Old Boys                   2- 1      CA Banfield                        Marcelo A. Bielsa, Rosario, S
+Club Atlético Tucumán                  0- 0      Instituto ACC                      José Fierro, San Miguel de Tucumán, T
+Club de Gimnasia y Esgrima LP          2- 3      CA Gimnasia y Esgrima              Juan Carmelo Zerillo, La Plata, B
 [Aug 23, Sun]
-CA Lanús                                -        AA Argentinos Juniors              Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada, B
-CA Newell's Old Boys                    -        CA Banfield                        Marcelo A. Bielsa, Rosario, S
-Racing Club                             -        CA Boca Juniors                    Presidente Perón, Avellaneda, B
-CA Tigre                                -        CA Central Córdoba                 José Dellagiovanna, Victoria, B
-Club de Gimnasia y Esgrima LP           -        CA Gimnasia y Esgrima              Juan Carmelo Zerillo, La Plata, B
-CA Barracas Central                     -        CA Platense                        Claudio "Chiqui" Tapia, Barracas, C
-CA Talleres                             -        CA Rosario Central                 Francisco Cabasés, Córdoba, X
-AA Estudiantes                          -        CA San Lorenzo de Almagro          Ciudad de Río Cuarto - Antonio Candini, Río Cuarto, X
-CA Aldosivi                             -        CA Unión                           José María Minella, Mar del Plata, B
-CA River Plate                          -        CA Vélez Sarsfield                 Mâs Monumental, Belgrano, C
-CA Sarmiento                            -        Club Estudiantes de La Plata       Eva Perón, Junín, B
-CA Independiente                        -        CS Independiente Rivadavia         Libertadores de América - Ricardo Enrique Bochini, Avellaneda, B
-CA Belgrano                             -        CSD Defensa y Justicia             Julio César Villagra, Córdoba X
-CA Huracán                              -        Deportivo Riestra AFBC             Tomás Adolfo Ducó, Parque Patricios, C
-Club Atlético Tucumán                   -        Instituto ACC                      José Fierro, San Miguel de Tucumán, T
+CA Barracas Central                    1- 2      CA Platense                        Claudio "Chiqui" Tapia, Barracas, C
+CA Belgrano                            1- 2      CSD Defensa y Justicia             Julio César Villagra, Córdoba X
+CA River Plate                         2- 2      CA Vélez Sarsfield                 Mâs Monumental, Belgrano, C
+CA Sarmiento                           2- 0      Club Estudiantes de La Plata       Eva Perón, Junín, B
+Racing Club                            1- 1      CA Boca Juniors                    Presidente Perón, Avellaneda, B
+[Aug 24, Mon]
+CA Lanús                               1- 1      AA Argentinos Juniors              Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada, B
+CA Talleres                            2- 2      CA Rosario Central                 Mario Alberto Kempes, Córdoba, X
+CA Tigre                               2- 1      CA Central Córdoba                 José Dellagiovanna, Victoria, B
 Round 7:
+[Aug 28, Fri]
+CA Boca Juniors                        1- 0      CA Lanús                           Alberto J. Armando, La Boca, C
+CA Unión                               4- 1      CA Sarmiento                       15 de Abril, Santa Fe, S
+[Aug 29, Sat]
+CA Huracán                             1- 1      AA Estudiantes                     Tomás Adolfo Ducó, Parque Patricios, C
+CA Rosario Central                     1- 2      Club de Gimnasia y Esgrima LP      Gigante de Arroyito, Rosario, S
+CA Talleres                            0- 0      CA Central Córdoba                 Mario Alberto Kempes, Córdoba, X
+Club Atlético Tucumán                  0- 0      CA Belgrano                        José Fierro, San Miguel de Tucumán, T
+Deportivo Riestra AFBC                 1- 1      CA Vélez Sarsfield                 Guillermo Laza, Villa Soldati, C
 [Aug 30, Sun]
-CA Huracán                              -        AA Estudiantes                     Tomás Adolfo Ducó, Parque Patricios, C
-AA Argentinos Juniors                   -        CA Aldosivi                        Diego Armando Maradona, Villa General Mitre, C
-CA Tigre                                -        CA Barracas Central                José Dellagiovanna, Victoria, B
-Club Atlético Tucumán                   -        CA Belgrano                        José Fierro, San Miguel de Tucumán, T
-CA Talleres                             -        CA Central Córdoba                 Francisco Cabasés, Córdoba, X
-CA Independiente                        -        CA Gimnasia y Esgrima              Libertadores de América - Ricardo Enrique Bochini, Avellaneda, B
-CA Boca Juniors                         -        CA Lanús                           Alberto J. Armando, La Boca, C
-Club Estudiantes de La Plata            -        CA Newell's Old Boys               UNO Dr. Jorge Luis Hirschi, La Plata, B
-CSD Defensa y Justicia                  -        CA Platense                        Norberto "Tito" Tomaghello, Gobernador Costa, B
-CA Banfield                             -        CA River Plate                     Florencio Sola, Banfield, B
-Instituto ACC                           -        CA San Lorenzo de Almagro          Juan Domingo Perón, Córdoba, X
-CA Unión                                -        CA Sarmiento                       15 de Abril, Santa Fe, S
-Deportivo Riestra AFBC                  -        CA Vélez Sarsfield                 Guillermo Laza, Villa Soldati, C
-CA Rosario Central                      -        Club de Gimnasia y Esgrima LP      Gigante de Arroyito, Rosario, S
-CS Independiente Rivadavia              -        Racing Club                        Bautista Gargantini, Mendoza, M
+AA Argentinos Juniors                  2- 1      CA Aldosivi                        Diego Armando Maradona, Villa General Mitre, C
+CA Banfield                            2- 3      CA River Plate                     Florencio Sola, Banfield, B
+CA Independiente                       0- 3      CA Gimnasia y Esgrima              Libertadores de América - Ricardo Enrique Bochini, Avellaneda, B
+CS Independiente Rivadavia             3- 1      Racing Club                        Bautista Gargantini, Mendoza, M
+[Aug 31, Mon]
+CA Tigre                               0- 0      CA Barracas Central                José Dellagiovanna, Victoria, B
+Club Estudiantes de La Plata           0- 0      CA Newell's Old Boys               UNO Dr. Jorge Luis Hirschi, La Plata, B
+CSD Defensa y Justicia                 1- 0      CA Platense                        Norberto "Tito" Tomaghello, Gobernador Costa, B
+Instituto ACC                          1- 0      CA San Lorenzo de Almagro          Juan Domingo Perón, Córdoba, X
 Round 8:
+[Sep 4, Fri]
+AA Estudiantes                         0- 2      CA Sarmiento                       Ciudad de Río Cuarto - Antonio Candini, Río Cuarto, X
+CA Belgrano                            1- 1      CA Huracán                         Julio César Villagra, Córdoba X
+CA Platense                            1- 1      Deportivo Riestra AFBC             Ciudad de Vicente López, Florida, B
+[Sep 5, Sat]
+CA Aldosivi                            3- 1      CA Banfield                        José María Minella, Mar del Plata, B
+CA Gimnasia y Esgrima                  2- 2      CA Boca Juniors                    Víctor Antonio Legrotaglie, Mendoza, M
+CA San Lorenzo de Almagro              1- 0      CA Talleres                        Pedro Bidegain, Flores, C
+CA Vélez Sarsfield                     1- 0      Club Estudiantes de La Plata       José Amalfitani, Liniers, C
+Club de Gimnasia y Esgrima LP          2- 1      CA Tigre                           Juan Carmelo Zerillo, La Plata, B
 [Sep 6, Sun]
-CA Barracas Central                     -        AA Argentinos Juniors              Claudio "Chiqui" Tapia, Barracas, C
-CA Aldosivi                             -        CA Banfield                        José María Minella, Mar del Plata, B
-CA Gimnasia y Esgrima                   -        CA Boca Juniors                    Víctor Antonio Legrotaglie, Mendoza, M
-CA Belgrano                             -        CA Huracán                         Julio César Villagra, Córdoba X
-CA Central Córdoba                      -        CA Independiente                   Alfredo Terrera, Santiago del Estero, G
-CA Rosario Central                      -        CA Newell's Old Boys               Gigante de Arroyito, Rosario, S
-AA Estudiantes                          -        CA Sarmiento                       Ciudad de Río Cuarto - Antonio Candini, Río Cuarto, X
-CA San Lorenzo de Almagro               -        CA Talleres                        Pedro Bidegain, Flores, C
-Club de Gimnasia y Esgrima LP           -        CA Tigre                           Juan Carmelo Zerillo, La Plata, B
-Racing Club                             -        Club Atlético Tucumán              Presidente Perón, Avellaneda, B
-CA Vélez Sarsfield                      -        Club Estudiantes de La Plata       José Amalfitani, Liniers, C
-CA River Plate                          -        CS Independiente Rivadavia         Mâs Monumental, Belgrano, C
-CA Lanús                                -        CSD Defensa y Justicia             Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada, B
-CA Platense                             -        Deportivo Riestra AFBC             Ciudad de Vicente López, Florida, B
-CA Unión                                -        Instituto ACC                      15 de Abril, Santa Fe, S
+CA Central Córdoba                     0- 1      CA Independiente                   Único Madre de Ciudades, Santiago del Estero, G
+CA Lanús                               1- 0      CSD Defensa y Justicia             Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada, B
+CA River Plate                         3- 1      CS Independiente Rivadavia         Mâs Monumental, Belgrano, C
+CA Rosario Central                     1- 1      CA Newell's Old Boys               Gigante de Arroyito, Rosario, S
+Racing Club                            1- 2      Club Atlético Tucumán              Presidente Perón, Avellaneda, B
+[Sep 7, Mon]
+CA Barracas Central                    0- 0      AA Argentinos Juniors              Claudio "Chiqui" Tapia, Barracas, C
+CA Unión                               3- 2      Instituto ACC                      15 de Abril, Santa Fe, S
 Round 9:
+[Sep 11, Fri]
+CA Boca Juniors                        3- 1      CA Central Córdoba                 Alberto J. Armando, La Boca, C
+CSD Defensa y Justicia                 2- 0      CA Gimnasia y Esgrima              Norberto "Tito" Tomaghello, Gobernador Costa, B
+CA Newell's Old Boys                   1- 1      CA Vélez Sarsfield                 Marcelo A. Bielsa, Rosario, S
+[Sep 12, Sat]
+CA Talleres                            2- 1      CA Unión                           Mario Alberto Kempes, Córdoba, X
+Club Estudiantes de La Plata           2- 1      CA Platense                        UNO Dr. Jorge Luis Hirschi, La Plata, B
+Club Atlético Tucumán                  1- 2      CA River Plate                     José Fierro, San Miguel de Tucumán, T
+CS Independiente Rivadavia             4- 3      CA Aldosivi                        Bautista Gargantini, Mendoza, M
 [Sep 13, Sun]
-CS Independiente Rivadavia              -        CA Aldosivi                        Bautista Gargantini, Mendoza, M
-CA Banfield                             -        CA Barracas Central                Florencio Sola, Banfield, B
-CA Sarmiento                            -        CA Belgrano                        Eva Perón, Junín, B
-CA Boca Juniors                         -        CA Central Córdoba                 Alberto J. Armando, La Boca, C
-CSD Defensa y Justicia                  -        CA Gimnasia y Esgrima              Norberto "Tito" Tomaghello, Gobernador Costa, B
-Deportivo Riestra AFBC                  -        CA Lanús                           Guillermo Laza, Villa Soldati, C
-Club Estudiantes de La Plata            -        CA Platense                        UNO Dr. Jorge Luis Hirschi, La Plata, B
-Club Atlético Tucumán                   -        CA River Plate                     José Fierro, San Miguel de Tucumán, T
-CA Tigre                                -        CA Rosario Central                 José Dellagiovanna, Victoria, B
-CA Independiente                        -        CA San Lorenzo de Almagro          Libertadores de América - Ricardo Enrique Bochini, Avellaneda, B
-CA Talleres                             -        CA Unión                           Francisco Cabasés, Córdoba, X
-CA Newell's Old Boys                    -        CA Vélez Sarsfield                 Marcelo A. Bielsa, Rosario, S
-AA Argentinos Juniors                   -        Club de Gimnasia y Esgrima LP      Diego Armando Maradona, Villa General Mitre, C
-CA Huracán                              -        Racing Club                        Tomás Adolfo Ducó, Parque Patricios, C
-Instituto ACC                           -        AA Estudiantes                     Juan Domingo Perón, Córdoba, X
+CA Independiente                       1- 1      CA San Lorenzo de Almagro          Libertadores de América - Ricardo Enrique Bochini, Avellaneda, B
+CA Sarmiento                           1- 1      CA Belgrano                        Eva Perón, Junín, B
+CA Huracán                             2- 1      Racing Club                        Tomás Adolfo Ducó, Parque Patricios, C
+AA Argentinos Juniors                  1- 1      Club de Gimnasia y Esgrima LP      Diego Armando Maradona, Villa General Mitre, C
+CA Tigre                               0- 1      CA Rosario Central                 José Dellagiovanna, Victoria, B
+[Sep 14, Mon]
+Deportivo Riestra AFBC                 0- 3      CA Lanús                           Guillermo Laza, Villa Soldati, C
+CA Banfield                            1- 1      CA Barracas Central                Florencio Sola, Banfield, B
+Instituto ACC                          2- 1      AA Estudiantes                     Juan Domingo Perón, Córdoba, X
 Round 10:
 [Sep 20, Sun]
 CA Rosario Central                      -        AA Argentinos Juniors              Gigante de Arroyito, Rosario, S
@@ -764,39 +801,39 @@ do not qualify for the final rounds.
 
 Table Group A
  #.Short name                          MP   W  D  L  Gf- Ga   P  (Position of)
- 1.Instituto ACC                        0   0  0  0   0-  0   0  (Round of 16)
- 2.CA Newell's Old Boys                 0   0  0  0   0-  0   0  (Round of 16)
- 3.Club Estudiantes de La Plata         0   0  0  0   0-  0   0  (Round of 16)
- 4.CA San Lorenzo de Almagro            0   0  0  0   0-  0   0  (Round of 16)
- 5.CA Vélez Sarsfield                   0   0  0  0   0-  0   0  (Round of 16)
- 6.Deportivo Riestra AFBC               0   0  0  0   0-  0   0  (Round of 16)
- 7.CA Boca Juniors                      0   0  0  0   0-  0   0  (Round of 16)
- 8.CA Lanús                             0   0  0  0   0-  0   0  (Round of 16)
- 9.CA Independiente                     0   0  0  0   0-  0   0
-10.CA Talleres                          0   0  0  0   0-  0   0
-11.CSD Defensa y Justicia               0   0  0  0   0-  0   0
-12.CA Platense                          0   0  0  0   0-  0   0
-13.CA Gimnasia y Esgrima                0   0  0  0   0-  0   0
-14.CA Unión                             0   0  0  0   0-  0   0
-15.CA Central Córdoba                   0   0  0  0   0-  0   0
+ 1.Instituto ACC                        9   6  1  2  10-  6  19  (Round of 16)
+ 2.CA Vélez Sarsfield                   9   4  5  0  12-  7  17  (Round of 16)
+ 3.CSD Defensa y Justicia               9   5  2  2  11-  9  17  (Round of 16)
+ 4.CA Gimnasia y Esgrima                9   5  1  3  14-  9  16  (Round of 16)
+ 5.CA Boca Juniors                      9   3  5  1  12- 11  14  (Round of 16)
+ 6.CA Independiente                     9   4  2  3   8-  7  14  (Round of 16)
+ 7.CA Lanús                             9   4  1  4  11-  8  13  (Round of 16)
+ 8.CA Unión                             9   4  1  4  16- 14  13  (Round of 16)
+ 9.CA Newell's Old Boys                 9   3  4  2  10-  8  13
+10.CA San Lorenzo de Almagro            9   3  2  4   4-  6  11
+11.Club Estudiantes de La Plata         9   3  1  5   9-  9  10
+12.Deportivo Riestra AFBC               9   2  3  4   8- 10   9
+13.CA Platense                          9   2  3  4   9- 14   9
+14.CA Talleres                          9   2  2  5  10- 14   8
+15.CA Central Córdoba                   9   2  1  6   5- 11   7
 
 Table Group B
  #.Short name                          MP   W  D  L  Gf- Ga   P  (Position of)
- 1.CA Sarmiento                         0   0  0  0   0-  0   0  (Round of 16)
- 2.CA Rosario Central                   0   0  0  0   0-  0   0  (Round of 16)
- 3.CA Banfield                          0   0  0  0   0-  0   0  (Round of 16)
- 4.Club Atlético Tucumán                0   0  0  0   0-  0   0  (Round of 16)
- 5.AA Estudiantes                       0   0  0  0   0-  0   0  (Round of 16)
- 6.CA Aldosivi                          0   0  0  0   0-  0   0  (Round of 16)
- 7.Racing Club                          0   0  0  0   0-  0   0  (Round of 16)
- 8.Club de Gimnasia y Esgrima LP        0   0  0  0   0-  0   0  (Round of 16)
- 9.CA Tigre                             0   0  0  0   0-  0   0
-10.CS Independiente Rivadavia           0   0  0  0   0-  0   0
-11.CA Barracas Central                  0   0  0  0   0-  0   0
-12.CA Belgrano                          0   0  0  0   0-  0   0
-13.CA River Plate                       0   0  0  0   0-  0   0
-14.CA Huracán                           0   0  0  0   0-  0   0
-15.AA Argentinos Juniors                0   0  0  0   0-  0   0
+ 1.AA Argentinos Juniors                9   5  3  1  13-  8  18  (Round of 16)
+ 2.CA Sarmiento                         9   5  1  3  16- 13  16  (Round of 16)
+ 3.Club de Gimnasia y Esgrima LP        9   5  1  3  13- 13  16  (Round of 16)
+ 4.CA Rosario Central                   9   4  3  2  10-  8  15  (Round of 16)
+ 5.CS Independiente Rivadavia           9   4  2  3  13- 13  14  (Round of 16)
+ 6.CA Belgrano                          9   3  4  2   9-  6  13  (Round of 16)
+ 7.CA River Plate                       9   4  1  4  12- 10  13  (Round of 16)
+ 8.Club Atlético Tucumán                9   3  4  2   7-  5  13  (Round of 16)
+ 9.CA Huracán                           9   3  4  2   8-  7  13
+10.CA Tigre                             9   3  3  3   7-  6  12
+11.CA Barracas Central                  9   3  3  3   5-  6  12
+12.CA Banfield                          9   2  2  5   9- 14   8
+13.AA Estudiantes                       9   1  3  5   4- 11   6
+14.CA Aldosivi                          9   1  2  6  11- 16   5
+15.Racing Club                          9   1  2  6   8- 15   5
 
 Round of 16 - Octavos de Final:
 [Nov 22, Sun]
@@ -820,7 +857,7 @@ TBD                                     -        TBD                            
 TBD                                     -        TBD                                TBD
 Final:
 [Dec 13, Sun]
-TBD                                     -        TBD                                TBD
+TBD                                     -        TBD                                TBD (neutral)
 
 
 === ‹Primer Descenso - First Relegation›
@@ -832,36 +869,36 @@ Tiebreaker matches (if needed to determine relegation).
 - Second relegated team: excluding the previously relegated club, the team with the fewest points in the Annual General Table.
 
  #.Short name                          MP   W  D  L  Gf: Ga  Ps Aver.
- 1.CA Boca Juniors                     89  44 27 18 124: 67 159 1.7865
- 2.CA River Plate                      89  41 29 19 127: 67 152 1.7078
- 3.Racing Club                         89  42 18 29 125: 85 144 1.6179
- 4.CA Vélez Sarsfield                  89  39 27 23  96: 75 144 1.6179
- 5.AA Argentinos Juniors               89  39 25 25 106: 77 142 1.5955
- 6.CA Rosario Central                  89  38 27 24  97: 80 141 1.5842
- 7.Club Estudiantes de La Plata        89  36 28 25 109: 87 136 1.5280
- 8.CA Independiente                    89  33 35 21 100: 72 134 1.5056
- 9.CA Lanús                            89  34 31 24  99: 84 133 1.4943
-10.CA Talleres                         89  33 33 23  95: 83 132 1.4831
-11.CA Huracán                          89  33 32 24  86: 70 131 1.4719
-12.CS Independiente Rivadavia          89  32 27 30  99: 99 123 1.3820
-13.CA Unión                            89  30 30 29  98: 90 120 1.3483
-14.CA Barracas Central                 89  28 35 26  89: 98 119 1.3370
-15.CA San Lorenzo de Almagro           89  28 34 27  71: 75 118 1.3258
-16.CSD Defensa y Justicia              89  28 31 30  94:108 115 1.2921
-17.CA Belgrano                         89  25 37 27  95:100 112 1.2584
-18.Club de Gimnasia y Esgrima LP       89  32 16 41  81: 99 112 1.2584
-19.Deportivo Riestra AFBC              89  25 36 28  71: 74 111 1.2471
-20.Instituto ACC                       89  29 21 39  92:102 108 1.2134
-21.CA Tigre                            89  26 30 33  84: 95 108 1.2134
-22.CA Platense                         89  25 33 31  65: 83 108 1.2134
-23.CA Gimnasia y Esgrima               16   5  4  7  14: 22  19 1.1875
-24.CA Central Córdoba                  89  24 28 37  88:110 100 1.1235
-25.Club Atlético Tucumán               89  25 23 41  85:113  98 1.1011
-26.CA Newell's Old Boys                89  24 25 40  75:115  97 1.0898
-27.CA Banfield                         89  23 25 41  82:110  94 1.0561
-28.CA Sarmiento                        89  20 29 40  64:103  89 1.0000
-29.CA Aldosivi                         48   9 14 25  37: 65  41 0.8541
-30.AA Estudiantes                      16   1  2 13   5: 24   5 0.3125 (First relegation)
+ 1.CA Boca Juniors                     98  47 32 19 136: 78 173 1.7653
+ 2.CA River Plate                      98  45 30 23 139: 77 165 1.6836
+ 3.CA Vélez Sarsfield                  98  43 32 23 108: 82 161 1.6428
+ 4.AA Argentinos Juniors               98  44 28 26 119: 85 160 1.6326
+ 5.CA Rosario Central                  98  42 30 26 107: 88 156 1.5918
+ 6.Racing Club                         98  43 20 35 133:100 149 1.5204
+ 7.CA Independiente                    98  37 37 24 108: 79 148 1.5102
+ 8.Club Estudiantes de La Plata        98  39 29 30 118: 96 146 1.4897
+ 9.CA Lanús                            98  38 32 28 110: 92 146 1.4897
+10.CA Huracán                          98  36 36 26  94: 77 144 1.4693
+11.CA Talleres                         98  35 35 28 105: 97 140 1.4285
+12.CA Gimnasia y Esgrima               25  10  5 10  28: 31  35 1.4000
+13.CS Independiente Rivadavia          98  36 29 33 112:112 137 1.3979
+14.CA Unión                            98  34 31 33 114:104 133 1.3571
+15.CSD Defensa y Justicia              98  33 33 32 105:117 132 1.3469
+16.CA Barracas Central                 98  31 38 29  94:104 131 1.3367
+17.CA San Lorenzo de Almagro           98  31 36 31  75: 81 129 1.3163
+18.Club de Gimnasia y Esgrima LP       98  37 17 44  94:112 128 1.3061
+19.Instituto ACC                       98  35 22 41 102:108 127 1.2959
+20.CA Belgrano                         98  28 41 29 104:106 125 1.2755
+21.Deportivo Riestra AFBC              98  27 39 32  79: 84 120 1.2244
+22.CA Tigre                            98  29 33 36  91:101 120 1.2244
+23.CA Platense                         98  27 36 35  74: 97 117 1.1938
+24.Club Atlético Tucumán               98  28 27 43  92:118 111 1.1326
+25.CA Newell's Old Boys                98  27 29 42  85:123 110 1.1224
+26.CA Central Córdoba                  98  26 29 43  93:121 107 1.0918
+27.CA Sarmiento                        98  25 30 43  80:116 105 1.0714
+28.CA Banfield                         98  25 27 46  91:124 102 1.0408
+29.CA Aldosivi                         57  10 16 31  48: 81  46 0.8070
+30.AA Estudiantes                      25   2  5 18   9: 35  11 0.4400 (First relegation)
 
 
 === Tabla Anual de Posiciones 2026 - Final Standing (Opening and Closing phases of groups)  ‹§1first›
@@ -874,36 +911,36 @@ Rules to define the champion:
 5. Lot.
 Tiebreaker matches in case of having to determine relegation.
  #.Short name                        MP   W  D  L  Gf- Ga   P (Position of…)
- 1.CS Independiente Rivadavia        16  10  4  2  29- 15  34 (Annual Champion and Libertadores 2027 as best team in the Final Standing)
- 2.Club Estudiantes de La Plata      16   9  4  3  19-  7  31 (Libertadores 2027 as second best team in the Final Standing)
- 3.CA Boca Juniors                   16   8  6  2  22-  9  30 (Libertadores 2027 as third best team in the Final Standing)
- 4.CA River Plate                    16   9  2  5  22- 12  29 (2027 Copa Sudamericana)
- 5.AA Argentinos Juniors             16   8  5  3  17- 13  29 (2027 Copa Sudamericana)
- 6.CA Vélez Sarsfield                16   7  7  2  18- 12  28 (2027 Copa Sudamericana)
- 7.CA Rosario Central                16   8  4  4  20- 16  28 (2027 Copa Sudamericana)
- 8.CA Talleres                       16   7  5  4  17- 13  26 (2027 Copa Sudamericana)
- 9.CA Belgrano                       16   7  5  4  17- 13  26 (2027 Copa Sudamericana)
-10.Club de Gimnasia y Esgrima LP     16   8  2  6  19- 19  26
-11.CA Independiente                  16   6  6  4  24- 20  24
-12.CA Lanús                          16   6  6  4  18- 15  24
-13.CA Huracán                        16   5  7  4  17- 13  22
-14.CA San Lorenzo de Almagro         16   5  7  4  14- 14  22
-15.CA Unión                          16   5  6  5  24- 20  21
-16.Racing Club                       16   5  6  5  17- 15  21
-17.Instituto ACC                     16   6  3  7  17- 17  21
-18.CA Barracas Central               16   5  6  5  15- 15  21
-19.CA Tigre                          16   4  8  4  18- 15  20
-20.CSD Defensa y Justicia            16   4  7  5  18- 21  19
-21.CA Sarmiento                      16   6  1  9  13- 20  19
-22.CA Gimnasia y Esgrima             16   5  4  7  14- 22  19
-23.CA Banfield                       16   5  3  8  17- 19  18
-24.CA Platense                       16   3  7  6  10- 15  16
-25.CA Central Córdoba                16   4  4  8  11- 21  16
-26.CA Newell's Old Boys              16   3  6  7  15- 27  15
-27.Club Atlético Tucumán             16   3  5  8  15- 20  14
-28.Deportivo Riestra AFBC            16   1  8  7   5- 12  11
-29.CA Aldosivi                       16   0  8  8   6- 19   8 (Second relegation)
-30.AA Estudiantes                    16   1  2 13   5- 24   5 (Relegation by average)
+ 1.CS Independiente Rivadavia        25  14  6  5  42- 28  48 (Annual champion and 2027 Libertadores as best team in the final standing)
+ 2.AA Argentinos Juniors             25  13  8  4  30- 21  47 (2027 Libertadores as second best team in the Final Standing)
+ 3.CA Vélez Sarsfield                25  11 12  2  30- 19  45 (2027 Libertadores as third best team in the Final Standing)
+ 4.CA Boca Juniors                   25  11 11  3  34- 20  44 (2027 Copa Sudamericana)
+ 5.CA Rosario Central                25  12  7  6  30- 24  43 (2027 Copa Sudamericana)
+ 6.CA River Plate                    25  13  3  9  34- 22  42 (2027 Copa Sudamericana)
+ 7.Club de Gimnasia y Esgrima LP     25  13  3  9  32- 32  42 (2027 Copa Sudamericana)
+ 8.Club Estudiantes de La Plata      25  12  5  8  28- 16  41 (2027 Copa Sudamericana)
+ 9.Instituto ACC                     25  12  4  9  27- 23  40 (2027 Copa Sudamericana)
+10.CA Belgrano                       25  10  9  6  26- 19  39 (2027 Libertadores as Apertura Champion)(2027 Libertadores as Apertura Champion)
+11.CA Independiente                  25  10  8  7  32- 27  38
+12.CA Lanús                          25  10  7  8  29- 23  37
+13.CSD Defensa y Justicia            25   9  9  7  29- 30  36
+14.CA Huracán                        25   8 11  6  25- 20  35
+15.CA Gimnasia y Esgrima             25  10  5 10  28- 31  35
+16.CA Sarmiento                      25  11  2 12  29- 33  35
+17.CA Unión                          25   9  7  9  40- 34  34
+18.CA Talleres                       25   9  7  9  27- 27  34
+19.CA Barracas Central               25   8  9  8  20- 21  33
+20.CA San Lorenzo de Almagro         25   8  9  8  18- 20  33
+21.CA Tigre                          25   7 11  7  25- 21  32
+22.CA Newell's Old Boys              25   6 10  9  25- 35  28
+23.Club Atlético Tucumán             25   6  9 10  22- 25  27
+24.Racing Club                       25   6  8 11  25- 30  26
+25.CA Banfield                       25   7  5 13  26- 33  26
+26.CA Platense                       25   5 10 10  19- 29  25
+27.CA Central Córdoba                25   6  5 14  16- 32  23
+28.Deportivo Riestra AFBC            25   3 11 11  13- 22  20
+29.CA Aldosivi                       25   1 10 14  17- 35  13 (Second relegation)
+30.AA Estudiantes                    25   2  5 18   9- 35  11 (Relegation by average)
 
 
 === AFA national cup: Copa Argentina 2026  ‹§nationalcup›
@@ -912,41 +949,41 @@ Table ordered by:
 a) Round reached in the Argentine Cup.
 b) Standings of the First level, Opening and Closing championships combined.
   #.Name                                                          MP   W  D  L  Gf- Ga  Ps Round
-  1.Club Atlético Vélez Sarsfield Asociación Civil                 2   2  0  0   6-  1   6     2 (Liniers, C)
-  2.Club de Gimnasia y Esgrima La Plata                            2   2  0  0   7-  1   6     3 (La Plata, B)
-  3.Club Atlético Ferrocarril Midland                              2   1  1  0   3-  2   4     3 (Libertad, B)
-  4.Club Sportivo Independiente Rivadavia                          1   1  0  0   2-  0   3     2 (Mendoza, M)
-  5.Club Estudiantes de La Plata                                   1   1  0  0   4-  0   3     2 (La Plata, B)
-  6.Club Atlético Boca Juniors Asociación Civil                    1   1  0  0   2-  0   3     2 (La Boca, C)
-  7.Club Atlético River Plate Asoc. Civil                          1   1  0  0   1-  0   3     2 (Belgrano, C)
-  8.Club Atlético Rosario Central                                  1   1  0  0   2-  0   3     2 (Rosario, S)
-  9.Club Atlético Talleres                                         1   1  0  0   2-  0   3     2 (Córdoba, X)
- 10.Club Atlético Belgrano                                         1   1  0  0   3-  0   3     2 (Córdoba, X)
- 11.Club Atlético Independiente                                    1   1  0  0   4-  2   3     2 (Avellaneda, B)
- 12.Club Atlético Lanús                                            1   1  0  0   4-  1   3     2 (Lanús Este, B)
- 13.Club Atlético Huracán                                          1   1  0  0   2-  1   3     2 (Parque de los Patricios, C)
- 14.Club Atlético San Lorenzo de Almagro                           1   1  0  0   5-  0   3     2 (Flores, C)
- 15.Club Atlético Unión                                            1   1  0  0   2-  0   3     2 (Santa Fe, S)
- 16.Racing Club Asociación Civil                                   1   1  0  0   1-  0   3     2 (Avellaneda, B)
- 17.Instituto Atlético Central Córdoba                             1   1  0  0   2-  0   3     2 (Córdoba, X)
- 18.Club Atlético Barracas Central                                 1   0  1  0   2-  2   1     2 (Barracas, C)
- 19.Club Atlético Tigre Sociedad Civil                             1   1  0  0   2-  0   3     2 (Victoria, B)
- 20.Club Social y Deportivo Defensa y Justicia                     1   1  0  0   2-  1   3     2 (Florencio Varela, B)
- 21.Club Atlético Banfield Sociedad Civil                          1   1  0  0   3-  0   3     2 (Banfield, B)
- 22.Club Atlético Platense Asociación Civil                        1   1  0  0   1-  0   3     2 (Florida, B)
- 23.Club Atlético Tucumán Soc. Civil                               1   1  0  0   2-  1   3     2 (San Miguel de Tucumán, T)
- 24.Deportivo Riestra Asociación de Fomento Barrio Colón           1   1  0  0   1-  0   3     2 (Nueva Pompeya, C)
- 25.Club Atlético Aldosivi                                         1   1  0  0   3-  0   3     2 (Mar del Plata, B)
- 26.Club Atlético San Martín                                       1   1  0  0   2-  0   3     2 (San Juan, J)
- 27.Club Atlético Sarmiento                                        1   1  0  0   1-  0   3     2 (Junín, B)
- 28.Club Deportivo Morón Asociación Civil                          2   1  0  1   2-  2   3     2 (Morón, B)
- 29.Club Atlético Acassuso                                         2   1  0  1   2-  3   3     2 (San Isidro, B)
- 30.Club Atlético Gimnasia y Esgrima                               1   0  1  0   2-  2   1     2 (San Salvador de Jujuy, Y)
- 31.Club Atlético San Martín S. Civil                              1   0  1  0   0-  0   1     2 (San Miguel de Tucumán, T)
+  1.Club Atlético Banfield Sociedad Civil                          4   1  3  0   7-  4   6     5 (Banfield, B)
+  2.Club Sportivo Independiente Rivadavia                          3   3  0  0   5-  0   9     4 (Mendoza, M)
+  3.Club Atlético Boca Juniors Asociación Civil                    3   2  1  0   4-  0   7     4 (La Boca, C)
+  4.Club Estudiantes de La Plata                                   3   3  0  0  10-  1   9     4 (La Plata, B)
+  5.Club Atlético Tucumán Soc. Civil                               3   3  0  0   9-  1   9     4 (San Miguel de Tucumán, T)
+  6.Racing Club Asociación Civil                                   3   3  0  0   6-  1   9     4 (Avellaneda, B)
+  7.Club Atlético Platense Asociación Civil                        3   1  2  0   2-  1   5     4 (Florida, B)
+  8.Deportivo Riestra Asociación de Fomento Barrio Colón           4   1  3  0   4-  3   6     4 (Nueva Pompeya, C)
+  9.Club Atlético Vélez Sarsfield Asociación Civil                 3   2  1  0   6-  1   7     3 (Liniers, C)
+ 10.Club de Gimnasia y Esgrima La Plata                            3   2  1  0   8-  2   7     3 (La Plata, B)
+ 11.Instituto Atlético Central Córdoba                             3   2  1  0   5-  2   7     3 (Córdoba, X)
+ 12.Club Atlético Belgrano                                         3   1  1  1   5-  3   4     3 (Córdoba, X)
+ 13.Club Atlético Independiente                                    3   2  0  1   6-  6   6     3 (Avellaneda, B)
+ 14.Club Atlético Barracas Central                                 3   1  1  1   4-  5   4     3 (Barracas, C)
+ 15.Club Atlético Aldosivi                                         3   2  0  1   6-  3   6     3 (Mar del Plata, B)
+ 16.Club Atlético Ferrocarril Midland                              3   1  2  0   5-  4   5     3 (Libertad, B)
+ 17.Club Atlético Rosario Central                                  2   1  0  1   2-  3   3     2 (Rosario, S)
+ 18.Club Atlético River Plate Asoc. Civil                          2   1  0  1   2-  3   3     2 (Belgrano, C)
+ 19.Club Atlético Lanús                                            2   1  0  1   5-  3   3     2 (Lanús Este, B)
+ 20.Club Social y Deportivo Defensa y Justicia                     2   1  0  1   3-  5   3     2 (Florencio Varela, B)
+ 21.Club Atlético Huracán                                          2   1  0  1   2-  2   3     2 (Parque de los Patricios, C)
+ 22.Club Atlético Unión                                            2   1  0  1   2-  2   3     2 (Santa Fe, S)
+ 23.Club Atlético Talleres                                         2   1  0  1   2-  3   3     2 (Córdoba, X)
+ 24.Club Atlético San Lorenzo de Almagro                           2   1  1  0   6-  1   4     2 (Flores, C)
+ 25.Club Atlético Tigre Sociedad Civil                             2   1  0  1   2-  1   3     2 (Victoria, B)
+ 26.Club Atlético San Martín                                       2   1  1  0   2-  0   4     2 (San Juan, J)
+ 27.Club Deportivo Morón Asociación Civil                          2   1  0  1   2-  2   3     2 (Morón, B)
+ 28.Club Atlético Acassuso                                         2   1  0  1   2-  3   3     2 (San Isidro, B)
+ 29.Club Atlético Sarmiento                                        2   1  0  1   1-  2   3     2 (Junín, B)
+ 30.Club Atlético Gimnasia y Esgrima                               2   0  2  0   4-  4   2     2 (San Salvador de Jujuy, Y)
+ 31.Club Atlético San Martín S. Civil                              2   0  2  0   1-  1   2     2 (San Miguel de Tucumán, T)
  32.Club de Gimnasia y Tiro Asociación Civil                       2   0  1  1   0-  2   1     2 (Salta, A)
  33.Asociación Atlética Argentinos Juniors                         1   0  1  0   1-  1   1     1 (La Paternal, C)
- 34.Club Atlético Central Córdoba Soc. Civil                       1   0  1  0   2-  2   1     1 (Santiago del Estero, G)
- 35.Club Atlético Newell's Old Boys                                1   0  0  1   0-  2   0     1 (Rosario, S)
+ 34.Club Atlético Newell's Old Boys                                1   0  0  1   0-  2   0     1 (Rosario, S)
+ 35.Club Atlético Central Córdoba Soc. Civil                       1   0  1  0   2-  2   1     1 (Santiago del Estero, G)
  36.Asociación Atlética Estudiantes                                1   0  1  0   0-  0   1     1 (Río Cuarto, X)
  37.Club Atlético Temperley                                        1   0  1  0   2-  2   1     1 (Turdera, B)
  38.Club Atlético Gimnasia y Esgrima                               1   0  1  0   0-  0   1     1 (Mendoza, M)
@@ -1037,40 +1074,55 @@ CD Morón                               1- 2      CA Ferrocarril Midland        
 [Apr 30, Thu]
 CA Vélez Sarsfield                     2- 0      Club de Gimnasia y Tiro            Ciudad de Caseros, Caseros, B
 [May 8, Fri]
-CA Banfield                             -        CA San Martín (SM de Tucumán)      Padre Ernesto Martearena, Salta, A
+CA Banfield                        [5] 1- 1  [4] CA San Martín (SM de Tucumán)     pso, Padre Ernesto Martearena, Salta, A
 [May 13, Wed]
-CA Platense                             -        CA San Martín (San Juan)           TBD
-[TBD]
-CA Barracas Central                     -        CA Huracán                         TBD
-CA Belgrano                             -        CA Gimnasia y Esgrima (SS Jujuy)   TBD
-CA River Plate                          -        CA Aldosivi                        TBD
-CA San Lorenzo de Almagro               -        Deportivo Riestra AFBC             TBD
-CA Sarmiento (Junín)                    -        CA Boca Juniors                    TBD
-CA Talleres                             -        Club Atlético Tucumán              TBD
-CA Unión                                -        CA Independiente                   TBD
-Club Estudiantes de La Plata            -        CA Rosario Central                 TBD
-CS Independiente Rivadavia              -        CA Tigre                           TBD
-Instituto ACC                           -        CA Lanús                           TBD
-Racing Club                             -        CSD Defensa y Justicia             TBD
+CA Platense                        [4] 0- 0  [3] CA San Martín (San Juan)          pso, Alfredo Martín Beranger, Turdera, B
+[May 20, Wed]
+CA Talleres                            0- 3      Club Atlético Tucumán              Marcelo A. Bielsa, Rosario, S
+[May 22, Fri]
+CA Unión                               0- 2      CA Independiente                   Marcelo A. Bielsa, Rosario, S
+[May 30, Sat]
+CA Gimnasia y Esgrima (SS Jujuy)   [2] 2- 2  [4] CA Belgrano                       pso, Único Madre de Ciudades, Santiago del Estero, G
+Instituto ACC                          2- 1      CA Lanús                           Marcelo A. Bielsa, Rosario, S
+[May 31, Sun]
+Club Estudiantes de La Plata           3- 0      CA Rosario Central                 Mario Alberto Kempes, Córdoba, X
+[Jun 2, Tue]
+CA Barracas Central                    1- 0      CA Huracán                         Julio Humberto Grondona, Sarandí, B
+[Jul 12, Sun]
+CS Independiente Rivadavia             1- 0      CA Tigre                           Julio César Villagra, Córdoba X
+[Jul 16, Thu]
+CA Sarmiento (Junín)                   0- 2      CA Boca Juniors                    Marcelo A. Bielsa, Rosario, S
+Racing Club                            4- 1      CSD Defensa y Justicia             Centenario Ciudad de Quilmes, Quilmes, B
+[Jul 17, Fri]
+CA River Plate                         1- 3      CA Aldosivi                        Padre Ernesto Martearena, Salta, A
+CA San Lorenzo de Almagro          [4] 1- 1  [5] Deportivo Riestra AFBC            pso, Nuevo Francisco Urbano, Morón, B
 Round of 16 - Octavos de Final:
-[TBD]
-CA Vélez Sarsfield                      -        TBD                                TBD
-TBD                                     -        CA Ferrocarril Midland             TBD
-TBD                                     -        Club de Gimnasia y Esgrima LP      TBD
-TBD                                     -        TBD                                TBD
-TBD                                     -        TBD                                TBD
-TBD                                     -        TBD                                TBD
-TBD                                     -        TBD                                TBD
-TBD                                     -        TBD                                TBD
+[Aug 12, Wed]
+Club Atlético Tucumán                  4- 0      CA Independiente                   Marcelo A. Bielsa, Rosario, S
+[Aug 18, Tue]
+CA Banfield                        [4] 2- 2  [3] CA Ferrocarril Midland            pso, Nuevo Francisco Urbano, Morón, B
+Deportivo Riestra AFBC             [4] 1- 1  [2] Club de Gimnasia y Esgrima LP     pso, Norberto "Tito" Tomaghello, Gobernador Costa, B
+[Aug 19, Wed]
+Racing Club                            1- 0      CA Belgrano                        Estadio Único del Parque La Pedrera, Villa Mercedes, D
+[Aug 26, Wed]
+CA Aldosivi                            0- 2      CS Independiente Rivadavia         Florencio Sola, Banfield, B
+[Aug 27, Thu]
+CA Platense                        [3] 1- 1  [1] Instituto ACC                     pso, Marcelo A. Bielsa, Rosario, S
+Club Estudiantes de La Plata           3- 1      CA Barracas Central                Norberto "Tito" Tomaghello, Gobernador Costa, B
+[Sep 2, Wed]
+CA Vélez Sarsfield                 [3] 0- 0  [4] CA Boca Juniors                   pso, Mario Alberto Kempes, Córdoba, X
 Quarterfinals - Cuartos de final:
-[TBD]
-TBD                                     -        TBD                                TBD
-TBD                                     -        TBD                                TBD
-TBD                                     -        TBD                                TBD
-TBD                                     -        TBD                                TBD
+[Sep 9, Wed]
+Deportivo Riestra AFBC             [6] 1- 1  [7] CA Banfield                       pso, Alfredo Martín Beranger, Turdera, B
+[Sep 16, Wed]
+CS Independiente Rivadavia              -        Club Atlético Tucumán              Eduardo Gallardón, Lomas de Zamora, B
+[Sep 27, Sun]
+Racing Club                             -        CA Boca Juniors                    TBD
+[Oct 1, Thu]
+CA Platense                             -        Club Estudiantes de La Plata       TBD
 Semifinals - Semifinales:
 [TBD]
-TBD                                     -        TBD                                TBD
+CA Banfield                             -        TBD                                TBD
 TBD                                     -        TBD                                TBD
 Final:
 [TBD]
@@ -1086,21 +1138,55 @@ Argentina                              2- 1      Mauritania                     
 [Mar 31, Tue]
 Argentina                              5- 0      Zambia                             Alberto José Armando, Buenos Aires, ARG
 [Jun 6, Sat]
-Argentina                               -        Honduras                           Kyle Field, College Station TX, USA
+Argentina                              2- 0      Honduras                           Kyle Field, College Station TX, USA
 [Jun 9, Tue]
-Argentina                               -        Iceland                            Pat Dye Field at Jordan-Hare, Auburn AL, USA
+Argentina                              3- 0      Iceland                            Pat Dye Field at Jordan-Hare, Auburn AL, USA
 2026 FIFA World Cup
 XXIII Copa Mundial de Fútbol 2026
 [Jun 16, Tue]
-Argentina                               -        Algeria                            GEHA Field at Arrowhead, Kansas City MO, USA
+Argentina                              3- 0      Algeria                            GEHA Field at Arrowhead, Kansas City MO, USA
 [Jun 22, Mon]
-Argentina                               -        Austria                            AT&T Stadium, Arlington TX, USA
+Argentina                              2- 0      Austria                            AT&T Stadium, Arlington TX, USA
 [Jun 27, Sat]
-Jordan                                  -        Argentina                          AT&T Stadium, Arlington TX, USA
+Jordan                                 1- 3      Argentina                          AT&T Stadium, Arlington TX, USA
+[Jul 3, Fri]
+Argentina                              3- 2      Cape Verde                        aet, Hard Rock Stadium, Miami Gardens FL, USA
+[Jul 7, Tue]
+Argentina                              3- 2      Egypt                              Mercedes-Benz Stadium, Atlanta GA, USA
+[Jul 11, Sat]
+Argentina                              3- 1      Switzerland                       aet, Arrowhead Stadium, Kansas City MO, USA
+[Jul 15, Wed]
+England                                1- 2      Argentina                          Mercedes-Benz Stadium, Atlanta GA, USA
+[Jul 19, Sun]
+Spain                                  1- 0      Argentina                         aet, MetLife Stadium, East Rutherford NJ, USA
+Friendlies
+[Sep 30, Wed]
+Argentina                               -        Bolivia                           Mario Alberto Kempes, Córdoba, ARG
+[Oct 3, Sat]
+Argentina                               -        Burkina Faso                      Monumental, Buenos Aires, ARG
+[Oct 6, Tue]
+Argentina                               -        Benin                             Monumental, Buenos Aires, ARG
+
 U-20
 Friendly
 [Mar 27, Fri]
 Argentina                              0- 3      USA                                Predio Lionel Messi, Aeropuerto Ezeiza, ARG
+
+U-20 Promotion
+Copa San Luis 2026
+[Jul 24, Fri]
+Argentine Combined                     3- 1      Liga Sanluiseña de Fútbol          Provincial Juan Gilberto Funes, La Punta, D
+[Jul 25, Sat]
+Argentine Combined                     5- 1      Liga Mendocina de Fútbol           Provincial Juan Gilberto Funes, La Punta, D
+U-19
+2026 South American Games
+[Sep 17, Thu]
+Paraguay                                -        Argentina                          Marcelo A. Bielsa, Rosario, ARG
+[Sep 19, Sat]
+Argentina                               -        Uruguay                            Marcelo A. Bielsa, Rosario, ARG
+[Sep 21, Mon]
+Venezuela                               -        Argentina                          Marcelo A. Bielsa, Rosario, ARG
+
 U-17
 Torneo Internacional Jóvenes Promesas by Hudl Wyscout
 International Young Promises Tournament by Hudl Wyscout
@@ -1148,6 +1234,12 @@ Argentina                              1- 1      Paraguay                       
 Panama                                 0- 1      Argentina                          Nacional Rommel Fernández Gutiétrez, Panamá, PAN
 [Apr 19, Sun]
 Paraguay                               1- 0      Argentina                          Nacional Rommel Fernández Gutiétrez, Panamá, PAN
+Friendlies
+[Jul 28, Tue]
+Argentina                              2- 1      Ecuador                            Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada, B
+[Jul 30, Thu]
+Argentina                              1- 1      Ecuador                            León Kolbowski, Villa Crespo, C
+
 U-16
 Vertex Cup
 [Apr 16, Thu]
@@ -1156,5 +1248,29 @@ Argentina                              2- 3      Mexico                         
 England                                2- 1      Argentina                          Beyond Bancard Field, Davie FL, USA
 [Apr 22, Wed]
 USA                                    3- 5      Argentina                          FIU Soccer Stadium, Miami FL, USA
+U-16 International Dream Cup
+[Jun 3, Wed]
+France                                 0- 3      Argentina                          National Training Center J-Village, Hirono & Naraha, JPN
+[Jun 5, Fri]
+Argentina                              4- 0      Côte d'Ivoire                      National Training Center J-Village, Hirono & Naraha, JPN
+[Jun 7, Sun]
+Japan                                  4- 1      Argentina                          National Training Center J-Village, Hirono & Naraha, JPN
+
+U-15
+Friendlies
+[Aug 26, Wed]
+Argentina FA                           4- 1      Liga Santafesina de Fútbol         Brigadier General Estanislao López, Santa Fe, S
+[Aug 28, Fri]
+Argentina FA                           2- 1      Liga Departamental de San Martín   Parque 23 de Junio, San Jorge, S
+Conmebol Liga Evolución Sub 15
+U-15 Conmebol Evolution League
+[Sep 8, Tue]
+Argentina                              1- 0      Uruguay                            Parque Guasú Metropolitano, Asunción, PAR
+[Sep 10, Thu]
+Argentina                              0- 2      Paraguay                           Parque Guasú Metropolitano, Asunción, PAR
+[Sep 12, Sat]
+Bolivia                                0- 2      Argentina                          Parque Guasú Metropolitano, Asunción, PAR
+[Sep 16, Wed]
+Chile                                   -        Argentina                          Parque Guasú Metropolitano, Asunción, PAR
 
 

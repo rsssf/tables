@@ -1,0 +1,45 @@
+<!--
+   title:   England - FA Challenge Cup 1871-72
+   source:  https://rsssf.org/tablese/engcup1872.html
+  -->
+
+
+== England FA Challenge Cup 1871-72
+
+<!-- start pre -->        1st Round
+Nov 11  Barnes              2  Civil Service       0
+Nov 11  Crystal Palace      0  Hitchin             0  Both Qualified
+Nov 11  Maidenhead          2  Great Marlow        0
+Nov 11  Upton Park          0  Clapham Rovers      3
+        Royal Engineers     W  Reigate Priory      0
+        Wanderers           W  Harrow Chequers     0
+Byes:   Donington School
+        Hampstead Heathens
+        Queen's Park
+
+        2nd Round
+Dec 16  Clapham Rovers      1  Wanderers           3
+Dec 16  Crystal Palace      3  Maidenhead          0
+Dec 23  Barnes              1  Hampstead Heathens  1
+Jan 10  Hitchin             0  Royal Engineers     5
+        Queen's Park        W  Donington School    0
+
+        Replay
+Jan 06  Hampstead Heathens  1  Barnes              0
+
+        Quarter-finals
+Jan 20  Wanderers           0  Crystal Palace      0  Both Qualified
+Jan 27  Royal Engineers     2  Hampstead Heathens  0
+Bye:    Queen's Park
+
+        Semi-finals
+Feb 17  Crystal Palace      0  Royal Engineers     0  played at Kennington Oval
+Mar 05  Wanderers           0  Queen's Park        0  played at Kennington Oval
+
+        Replays
+Mar 09  Royal Engineers     3  Crystal Palace      0  played at Kennington Oval
+        Wanderers           W  Queen's Park        0
+
+        Final
+Mar 16  Wanderers           1  Royal Engineers     0  played at Kennington Oval
+

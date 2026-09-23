@@ -2,13 +2,15 @@
 
 == About this document  ‹§about›
 
+Thanks to Martin Arenlind
+
 Prepared and maintained by Hans Schöggl for the
 ‹Rec.Sport.Soccer Statistics Foundation›
 
 
 Author: Hans Schöggl
 
-Last updated: 2 May 2026
+Last updated: 29 Jul 2026
 
 
 (C) Copyright Hans Schöggl and RSSSF 2025/26

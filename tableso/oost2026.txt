@@ -2,7 +2,7 @@
    title:   Austria 2025/26
    source:  https://rsssf.org/tableso/oost2026.html
    author:  Hans Schöggl
-   updated: 2 May 2026
+   updated: 29 Jul 2026
   -->
 
 
@@ -265,14 +265,14 @@ Final Table:
 ===== Playoff Stage  ‹§play›
 ====== Championship Playoff  ‹§champ›
 
-Table:
+Final Table:
 
- 1.SK Sturm Graz                24  13  3  8  39-29  23  [19]  [C]
- 2.SK Rapid Wien                24  11  6  7  31-27  22  [16*]
- 3.FK Austria Wien              24  12  3  9  37-35  21  [18]
- 4.RB Salzburg                  24  10  8  6  43-28  19  [18*]
- 5.LASK Linz                    24  11  5  8  34-34  19  [18*]
- 6.TSV Hartberg                 24   8 10  6  29-25  17  [16*]
+ 1.LASK Linz                    32  17  7  8  56-42  39  [18*]      Champions
+ 2.SK Sturm Graz                32  16  8  8  51-35  37  [19]  [C]
+ 3.RB Salzburg                  32  13  9 10  56-41  29  [18*]
+ 4.FK Austria Wien              32  14  5 13  45-50  29  [18]
+ 5.SK Rapid Wien                32  12  8 12  36-41  27  [16*]      ‹Conference League Playoff, see §conf›
+ 6.TSV Hartberg                 32  10 12 10  40-40  25  [16*]
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -291,29 +291,89 @@ Sturm            1-1 Salzburg
 Hartberg         0-1 Austria W
 Rapid            4-2 LASK
 
-Table:
+Round 25 [Apr 5]
+LASK             4-1 Austria W
+Hartberg         1-2 Salzburg
+Rapid            0-2 Sturm
 
- 1.SK Sturm Graz                24  13  3  8  39-29  23  [19]  [C]
- 2.SK Rapid Wien                24  11  6  7  31-27  22  [16*]
- 3.FK Austria Wien              24  12  3  9  37-35  21  [18]
- 4.RB Salzburg                  24  10  8  6  43-28  19  [18*]
- 5.LASK Linz                    24  11  5  8  34-34  19  [18*]
- 6.TSV Hartberg                 24   8 10  6  29-25  17  [16*]
+Round 26
+[Apr 10]
+Salzburg         2-3 LASK
+[Apr 12]
+Sturm            0-0 Hartberg
+Austria W        1-1 Rapid
+
+Round 27 [Apr 19]
+Austria W        1-3 Salzburg
+Hartberg         2-2 Rapid
+LASK             1-1 Sturm
+
+Round 28 [Apr 22]
+Rapid            0-2 Hartberg
+Salzburg         3-1 Austria W
+Sturm            1-1 LASK
+
+Round 29 [Apr 26]
+Rapid            1-0 Salzburg
+Hartberg         1-5 LASK
+Sturm            1-1 Austria W
+
+Round 30
+[May 3]
+Austria W        1-0 Hartberg
+Salzburg         1-1 Sturm
+[May 4]
+LASK             3-1 Rapid
+
+Round 31 [May 10]
+LASK             2-1 Salzburg
+Rapid            0-2 Austria W
+Hartberg         2-4 Sturm
+
+Round 32 [May 17]
+Austria W        0-3 LASK
+Salzburg         1-3 Hartberg
+Sturm            2-0 Rapid
+
+Final Table:
+
+ 1.LASK Linz                    32  17  7  8  56-42  39  [18*]      Champions
+ 2.SK Sturm Graz                32  16  8  8  51-35  37  [19]  [C]
+ 3.RB Salzburg                  32  13  9 10  56-41  29  [18*]
+ 4.FK Austria Wien              32  14  5 13  45-50  29  [18]
+ 5.SK Rapid Wien                32  12  8 12  36-41  27  [16*]      ‹Conference League Playoff, see §conf›
+ 6.TSV Hartberg                 32  10 12 10  40-40  25  [16*]
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
+===== Conference League Playoff  ‹§conf›
+
+NB: between fifth placed club from the championship playoff and the
+    top-2 of the relegation playoff
+
+Semifinal [May 19]
+Ried             2-1 Wolfsberg
+
+Final
+
+First Leg [May 22]
+Ried             2-1 Rapid
+
+Second Leg [May 25]
+Rapid            3-0 Ried
+
 ====== Relegation Playoff  ‹§releg›
 
-Table:
+Final Table:
 
- 7.SC Rheindorf Altach          24   8  9  7  26-25  18  [14*]
- 8.SV Ried                      24   9  4 11  30-34  17  [14]  [P]
- 9.GAK 1902                     24   6  8 10  29-37  16  [10]
-10.Wattener SG Tirol            24   8  7  9  33-37  15  [15*]
-11.Wolfsberger AC               24   7  6 11  32-35  14  [13]
+ 7.SV Ried                      32  12  6 14  38-42  28  [14]  [P]  ‹Conference League Playoff, see §conf›  [4 2 1 1 3-2 7]
+ 8.Wolfsberger AC               32  11  8 13  41-42  28  [13]       ‹Conference League Playoff, see §conf›  [4 1 1 2 2-3 4]
+ 9.SC Rheindorf Altach          32  10 12 10  36-39  27  [14*]
+10.GAK 1902                     32   9 10 13  42-45  27  [10]
+11.Wattener SG Tirol            32  10 10 12  40-52  24  [15*]
 -------------------------------------------------------
-12.FC Blau-Weiß Linz            24   5  3 16  24-41  10  [ 7*]
+12.FC Blau-Weiß Linz            32   8  5 19  37-49  21  [ 7*]      Relegated
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -328,15 +388,63 @@ BW Linz          3-2 Ried
 Wolfsberg        1-1 Altach
 Wattens          1-5 GAK
 
-Table:
+Round 25
+[Apr 3]
+Ried             3-2 Altach
+[Apr 4]
+GAK              2-1 BW Linz
+Wattens          3-1 Wolfsberg
 
- 7.SC Rheindorf Altach          24   8  9  7  26-25  18  [14*]
- 8.SV Ried                      24   9  4 11  30-34  17  [14]  [P]
- 9.GAK 1902                     24   6  8 10  29-37  16  [10]
-10.Wattener SG Tirol            24   8  7  9  33-37  15  [15*]
-11.Wolfsberger AC               24   7  6 11  32-35  14  [13]
+Round 26 [Apr 11]
+Wolfsberg        0-0 Ried
+Altach           1-0 GAK
+BW Linz          5-0 Wattens
+
+Round 27
+[Apr 17]
+GAK              1-1 Ried
+[Apr 18]
+Wolfsberg        0-0 BW Linz
+Wattens          2-2 Altach
+
+Round 28 [Apr 21]
+BW Linz          3-0 Wolfsberg
+Altach           0-0 Wattens
+Ried             2-1 GAK
+
+Round 29
+[Apr 24]
+BW Linz          3-0 Altach
+[Apr 25]
+Wolfsberg        1-0 GAK
+Wattens          1-0 Ried
+
+Round 30
+[May 2]
+GAK              4-0 Wattens
+Ried             2-0 BW Linz
+[May 4]
+Altach           1-4 Wolfsberg
+
+Round 31 [May 9]
+GAK              2-2 Altach
+Ried             0-1 Wolfsberg
+Wattens          1-1 BW Linz
+
+Round 32 [May 16]
+BW Linz          0-3 GAK
+Wolfsberg        2-0 Wattens
+Altach           2-0 Ried
+
+Final Table:
+
+ 7.SV Ried                      32  12  6 14  38-42  28  [14]  [P]  ‹Conference League Playoff, see §conf›  [4 2 1 1 3-2 7]
+ 8.Wolfsberger AC               32  11  8 13  41-42  28  [13]       ‹Conference League Playoff, see §conf›  [4 1 1 2 2-3 4]
+ 9.SC Rheindorf Altach          32  10 12 10  36-39  27  [14*]
+10.GAK 1902                     32   9 10 13  42-45  27  [10]
+11.Wattener SG Tirol            32  10 10 12  40-52  24  [15*]
 -------------------------------------------------------
-12.FC Blau-Weiß Linz            24   5  3 16  24-41  10  [ 7*]
+12.FC Blau-Weiß Linz            32   8  5 19  37-49  21  [ 7*]      Relegated
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -434,4 +542,114 @@ SV Ried                             1-2 LASK                                [aet
 Final [May 1, Klagenfurt; att: 22,000]
 SCR Altach                          2-4 LASK                                [aet]
   [Greil 5, Demaku 30; Usor 10, Adeniran 66, 103, Bello 101]
+
+
+==== 2. Liga (Second Level)  ‹§1liga›
+
+Final Table:
+
+ 1.SC Austria Lustenau          28  16  6  6  40-26  54             Promoted
+-------------------------------------------------------
+ 2.SKN Sankt Pölten             28  16  5  7  44-26  53
+ 3.FC Admira Wacker Mödling     28  12 12  4  50-29  48  [2 1 1 0 2-1 4]
+ 4.Floridsdorfer AC             28  14  6  8  42-18  48  [2 0 1 1 1-2 1]
+ 5.FC Liefering                 28  13  8  7  47-41  47
+ 6.SK Union Amstetten           28  11 11  6  41-34  44
+ 7.First Vienna FC 1894         28  11  7 10  30-25  40
+ 8.Young Violets Austria Wien   28  11  6 11  33-40  39  [P]
+ 9.SV Austria Salzburg          28   9 10  9  36-37  37  [P]
+10.FC Hertha Wels               28   9  6 13  36-37  33  [P]
+11.SK Rapid Wien II             28   9  5 14  33-45  32
+12.SK Austria Klagenfurt        28   9  6 13  33-44  30  [R]  [-3]  Demoted
+13.Kapfenberger SV              28   8  4 16  31-53  28
+-------------------------------------------------------
+14.SK Sturm Graz II             28   5  6 17  25-45  21
+15.SC Schwarz-Weiß Bregenz      28   3 10 15  36-57  19
+ -.SV Stripfing/Weiden          withdrew in Nov 2025; all results annulled;
+   record at withdrawal:        13   2  4  7  16-26  10
+NB: Austria Klagenfurt forcibly demoted in Feb 2026 for financial reasons
+
+NB: Sturm Graz II reprieved from relegation due to demotion Austria Klagenfurt;
+    Schwarz-Weiß Bregenz reprieved from relegation as no club from the RL Ost
+    is eligible for promotion
+
+
+==== Regionalliga  ‹§regliga›
+===== Regionalliga West  ‹§regwest›
+
+Final Table:
+
+ 1.FC Wacker Innsbruck          32  28  2  2  88-18  86  [P]  Promoted
+-------------------------------------------------------
+ 2.SV Kuchl                     32  21  2  9  61-43  65
+ 3.SC Imst                      32  19  7  6  71-38  64
+ 4:SV Seekirchen                32  19  4  9  83-51  61  [P]
+ 5.FC Dornbirn 1913             32  16  4 12  62-46  52
+ 6.SK Bischofshofen             32  16  3 13  61-49  51       Demoted
+ 7.VfB Hohenems                 32  12 11  9  60-52  47
+ 8.FC Kitzbühel                 32  14  4 14  46-44  46
+ 9.SVG Reichenau                32  14  3 15  44-55  45
+10.SC Schwaz                    32  13  5 14  57-56  44
+11.SV Wals-Grünau               32  11  8 13  56-65  41
+12.FC Lustenau 07               32   9  7 16  49-78  34  [P]
+13.TSV St. Johann/Pongau        32   9  5 18  45-58  32
+14.FC Pinzgau Saalfelden        32   7  6 19  26-60  27
+15.SCR Altach Juniors           32   7  6 19  35-75  27
+16.SK Kufstein                  32   5 10 17  33-55  25
+-------------------------------------------------------
+17.FC Lauterach                 32   6  5 21  46-80  23       Relegated
+
+NB: SK Bischofshofen demoted due to losing their ground to local rivals
+    SC (Skiclub) Bischofshofen
+
+===== Regionalliga Mitte  ‹§regmitte›
+
+Final Table:
+
+ 1.ASK Voitsberg                30  26  2  2 113-21  80  [R]  Promoted
+-------------------------------------------------------
+ 2.Union Gurten                 30  20  4  6  59-28  64
+ 3.ASKÖ Oedt                    30  15 10  5  62-32  55
+ 4.LASK Amateure OÖ             30  15  6  9  66-44  51
+ 5.Deutschlandsberger SC        30  14  9  7  60-52  51
+ 6.SC Kalsdorf                  30  15  4 11  59-53  49  [P]
+ 7.ATUS Velden                  30  13  7 10  50-47  46  [P]
+ 8.SV Lafnitz                   30  12  6 12  55-60  42  [R]
+ 9.SPG Wallern/St.Marienkirchen 30  12  4 14  44-51  40
+10.SC Weiz                      30  10  9 11  61-66  39
+11.Wolfsberger AC Amateure      30   9  7 14  45-46  34
+12.Union Dietach                30   9  5 16  33-57  32  [P]
+13.FC Gleisdorf 09              30   7  9 14  43-72  30
+-------------------------------------------------------
+14.Junge Wikinger Ried          30   7  4 19  41-72  25       Relegated
+15.SK Treibach                  30   7  3 20  35-71  24       Relegated
+16.USV Sankt Anna/Aigen         30   2  5 23  22-76  11       Relegated
+
+===== Regionalliga Ost  ‹§regost›
+
+Final Table:
+
+ 1.SV Gloggnitz                 32  18  8  6  58-45  62
+-------------------------------------------------------
+ 2.SC/ESV Parndorf              32  18  8  6  58-34  62  [P]
+ 3.SG Kremser SC/Rehberg KM I   32  17  7  8  61-33  58
+ 4.SV Leobendorf                32  18  3 11  48-34  57
+ 5.SV Oberwart                  32  17  5 10  73-42  56
+ 6.SV Horn                      32  14  9  9  57-35  51  [R]
+ 7.FCM Traiskirchen             32  14  8 10  70-52  50
+ 8.FC Marchfeld Donauauen       32  13 10  9  55-37  49
+ 9.SR Donaufeld Wien            32  13  8 11  51-44  47
+10.Wiener Sport-Club            32  13  7 12  54-52  46
+11.SC Wiener Viktoria           32  13  6 13  50-51  45
+12.SV Donau Wien                32  12  8 12  50-57  44  [P]
+13.Favoritner AC                32  12  3 17  44-52  39
+-------------------------------------------------------
+14.Sportunion Mauer Wien        32  10  7 15  32-47  37       Relegated
+15.SV Neusiedl/See              32   8  5 19  46-72  29       Relegated
+16.SC Retz                      32   4  8 20  25-64  20  [P]  Relegated
+17.TWL Elektra                  32   2  2 28  21-102  8       Relegated
+
+NB: no promotion to second level as neither of the two clubs (Horn and Oberwart)
+    which applied for a second level license finished among the top-two
+
 

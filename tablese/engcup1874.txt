@@ -1,0 +1,57 @@
+<!--
+   title:   England - FA Challenge Cup 1873-1874
+   source:  https://rsssf.org/tablese/engcup1874.html
+  -->
+
+
+== England FA Challenge Cup 1873-74
+
+<!-- start pre -->        1st Round
+Oct 09  Pilgrims              1  Great Marlow          0
+Oct 11  Royal Engineers       5  Brondesbury           0
+Oct 11  Woodford Wells        3  Reigate Priory        2
+Oct 18  Swifts                1  Crystal Palace        0
+Oct 25  1st Surrey Rifles     0  Barnes                0
+Oct 25  Cambridge University  1  South Norwood         0
+Oct 28  Uxbridge              3  Gitanos               0
+Oct 29  Oxford University     4  Upton Park            0
+Oct 30  Sheffield             0  Shropshire            0
+        Clapham Rovers        W  Athletic Club         0
+        High Wycombe          W  Old Etonians          0
+        Maidenhead            W  Civil Service         0
+        Trojans               W  Farningham            0
+        Wanderers             W  Southall              0
+
+        Replays
+Nov 08  Barnes                1  1st Surrey Rifles     0
+Nov 17  Shropshire            0  Sheffield             0  Sheffield qualified on ‹§toss›coin toss
+
+        2nd Round
+Nov 15  Clapham Rovers        1  Cambridge University  1
+Nov 22  Maidenhead            1  High Wycombe          0
+Nov 22  Oxford University     2  Barnes                0
+Nov 22  Sheffield             1  Pilgrims              0
+Nov 22  Swifts                2  Woodford Wells        1
+Nov 26  Royal Engineers       2  Uxbridge              1
+        Wanderers             W  Trojans               0
+
+        Replays
+Nov 29  Cambridge University  1  Clapham Rovers        1
+Dec 20  Clapham Rovers        4  Cambridge University  1  played at Clapham
+
+        Quarter-finals
+Dec 06  Wanderers             1  Oxford University     1
+Dec 10  Royal Engineers       7  Maidenhead            0
+Jan 17  Clapham Rovers        2  Sheffield             1
+Bye:    Swifts
+
+        Replay
+Jan 31  Oxford University     1  Wanderers             0
+
+        Semi-finals
+Jan 28  Royal Engineers       2  Swifts                0  played at Kennington Oval
+Feb 28  Oxford University     1  Clapham Rovers        0  played at Kennington Oval
+
+        Final
+Mar 14  Oxford University     2  Royal Engineers       0  played at Kennington Oval
+

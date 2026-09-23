@@ -1,0 +1,76 @@
+<!--
+   title:   England - FA Challenge Cup 1878-1879
+   source:  https://rsssf.org/tablese/engcup1879.html
+  -->
+
+
+== England FA Challenge Cup 1878-79
+
+<!-- start pre -->        1st Round
+Oct 19  Barnes                1  Maidenhead            1
+Oct 28  Sheffield             1  Grantham              1
+Oct 30  Upton Park            5  Saffron Waldon        0
+Nov 02  Forest School         4  Rochester             2
+Nov 02  Old Harrovians        8  Southall              0
+Nov 02  Oxford University     7  Wednesbury Town       0
+Nov 02  Romford               3  Ramblers              1
+Nov 09  Brentford             1  Pilgrims              3
+Nov 09  Cambridge University  2  Hertfordshire Rangers 0
+Nov 09  Grey Friars           2  Great Marlow          1
+Nov 09  Reading               1  Hendon                0
+Nov 09  Royal Engineers       3  Old Foresters         0
+Nov 09  Swifts                2  Hawks                 1
+Nov 09  Wanderers             2  Old Etonians          7
+Nov 16  Notts County          1  Nottingham Forest     3
+        Clapham Rovers        W  Finchley              0
+        Darwen                W  Birch Manchester      0
+        Minerva               W  105th Regiment        0
+        Panthers              W  Runnymede             0
+        Remnants              W  Unity                 0
+        South Norwood         W  Leyton                0
+Bye:    Eagley
+
+        Replays
+Nov 09  Maidenhead            0  Barnes                4
+Nov 18  Grantham              1  Sheffield             3
+
+        2nd Round
+Dec 04  Cambridge University  3  South Norwood         0
+Dec 07  Clapham Rovers       10  Forest School         1
+Dec 07  Eagley                0  Darwen                0
+Dec 07  Grey Friars           O  Minerva               3
+Dec 10  Royal Engineers       0  Oxford University     4
+Dec 18  Reading               0  Old Etonians          1
+Dec 21  Nottingham Forest     2  Sheffield             0
+Dec 21  Old Harrovians        3  Panthers              0
+Dec 21  Remnants              6  Pilgrims              2
+Dec 21  Swifts                3  Romford               1
+Jan 04  Barnes                3  Upton Park            2
+
+        Replay
+Dec 21  Darwen                4  Eagley                1
+
+        3rd Round
+Jan 11  Old Etonians          5  Minerva               2
+Jan 28  Old Harrovians        0  Nottingham Forest     2
+Jan 30  Remnants              2  Darwen                3
+Feb 01  Clapham Rovers        1  Cambridge University  0
+Feb 01  Oxford University     2  Barnes                1
+Bye:    Swifts
+
+        Quarter-finals
+Feb 13  Old Etonians          5  Darwen                5
+Feb 25  Nottingham Forest     2  Oxford University     1
+Mar 08  Clapham Rovers        8  Swifts                1
+
+        Replays
+Mar 08  Darwen                2  Old Etonians          2
+Mar 15  Old Etonians          6  Darwen                2
+
+        Semi-final
+Mar 22  Old Etonians          2  Nottingham Forest     1  played at Kennington Oval
+Bye:    Clapham Rovers
+
+        Final
+Mar 29  Old Etonians          1  Clapham Rovers        0  played at Kennington Oval
+

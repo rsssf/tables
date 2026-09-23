@@ -9,19 +9,29 @@
 -- found u-enclosed line >Table Group A< - heading?
 -- found u-enclosed line >Table Group B< - heading?
 -- found u-enclosed line >Triennal General Table of Averages< - heading?
--- found u-enclosed line ><b>Full</b>< - heading?
+-- found u-enclosed line ><b>Full</b></u>< - heading?
 -- found u-enclosed line >Friendlies< - heading?
--- found b-enclosed line >2026 FIFA World Cup< - heading?
+-- found u-enclosed line >2026 FIFA World Cup< - heading?
+-- found u-enclosed line >Friendlies< - heading?
 -- found u-enclosed line ><b>U-20</b></u>< - heading?
 -- found u-enclosed line >Friendly< - heading?
+-- found u-enclosed line ><b>U-20 Promotion</b></u>< - heading?
+-- found u-enclosed line >Copa San Luis 2026< - heading?
+-- found u-enclosed line ><b>U-19</b></u>< - heading?
+-- found u-enclosed line >2026 South American Games< - heading?
 -- found u-enclosed line ><b>U-17</b>< - heading?
 -- found u-enclosed line >Torneo Internacional Jóvenes Promesas by Hudl Wyscout< - heading?
 -- found u-enclosed line >Friendlies< - heading?
 -- found u-enclosed line >Triangular Internacional< - heading?
--- found b-enclosed line >XXI Campeonato Sudamericano de Fútbol Sub-17 2026< - heading?
+-- found u-enclosed line >XXI Campeonato Sudamericano de Fútbol Sub-17 2026< - heading?
 -- found u-enclosed line >IV Juegos Suramericanos de la Juventud 2026< - heading?
+-- found u-enclosed line >Friendlies< - heading?
 -- found u-enclosed line ><b>U-16</b>< - heading?
--- found b-enclosed line >Vertex Cup< - heading?
+-- found u-enclosed line >Vertex Cup< - heading?
+-- found u-enclosed line >U-16 International Dream Cup< - heading?
+-- found u-enclosed line ><b>U-15</b>< - heading?
+-- found u-enclosed line >Friendlies< - heading?
+-- found u-enclosed line >Conmebol Liga Evolución Sub 15< - heading?
 -- removing nav(igation) section:
 
 ‹LPF Opening Tournament - Torneo Apertura de la LPF de AFA 2026, see §1apertura›

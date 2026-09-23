@@ -2,7 +2,7 @@
    title:   Mexico 2025/26
    source:  https://rsssf.org/tablesm/mex2026.html
    author:  Erik Francisco Lugo
-   updated: 19 Dec 2025
+   updated: 11 Jun 2026
   -->
 
 
@@ -92,6 +92,71 @@ Toluca               2-1 Tigres               [aet, 9-8 pen]
 
 Regular Stage  ‹§clreg›
 
+Final Table:
+
+ 1.Pumas                               17  10  6  1  34-17  36  ‹Quarterfinals, see §clplay›
+ 2.Guadalajara                         17  11  3  3  33-17  36  ‹Quarterfinals, see §clplay›
+ 3.Cruz Azul                           17   9  6  2  31-18  33  ‹Quarterfinals, see §clplay›
+ 4.Pachuca                             17   9  4  4  25-19  31  ‹Quarterfinals, see §clplay›
+ 5.Toluca                              17   8  6  3  28-16  30  ‹Quarterfinals, see §clplay›
+ 6.Atlas                               17   7  5  5  16-18  26  ‹Quarterfinals, see §clplay›
+ 7.Tigres                              17   7  4  6  28-18  25  ‹Quarterfinals, see §clplay›
+ 8.América                             17   7  4  6  20-17  25  ‹Quarterfinals, see §clplay›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Tijuana                             17   5  8  4  19-17  23
+10.León                                17   7  1  9  22-32  22
+11.Querétaro                           17   4  8  5  17-21  20
+12.FC Juárez                           17   5  4  8  26-32  19
+13.Monterrey                           17   5  3  9  22-24  18
+14.Atlético de San Luis                17   5  3  9  24-27  18
+15.Necaxa                              17   5  3  9  19-25  18
+16.Mazatlán                            17   4  3 10  22-37  15
+17.Puebla                              17   3  4 10  13-26  13
+18.Santos Laguna                       17   3  3 11  20-38  12
+
 Playoffs (Liguilla)  ‹§clplay›
 
+Quarterfinals
+
+First Legs
+[May 2]
+Tigres               3-1 Guadalajara
+Atlas                2-3 Cruz Azul
+[May 3]
+América              3-3 Pumas
+Toluca               0-1 Pachuca
+
+Second Legs
+[May 9]
+Guadalajara          2-0 Tigres
+Cruz Azul            1-0 Atlas
+[May 10]
+Pachuca              2-0 Toluca
+Pumas                3-3 América
+
+NB: Guadalajara and Pumas qualified on better record regular season
+
+Semifinals
+
+First Legs
+[May 13]
+Cruz Azul            2-2 Guadalajara
+[May 14]
+Pachuca              1-0 Pumas
+
+Second Legs
+[May 16]
+Guadalajara          1-2 Cruz Azul
+[May 17]
+Pumas                1-0 Pachuca
+
+NB: Pumas qualified on better record regular season
+
+Final
+
+First Leg [May 21]
+Cruz Azul            0-0 Pumas
+
+Second Leg [May 24]
+Pumas                1-2 Cruz Azul
 

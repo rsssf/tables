@@ -1,0 +1,45 @@
+<!--
+   title:   England - FA Challenge Cup 1872-1873
+   source:  https://rsssf.org/tablese/engcup1873.html
+  -->
+
+
+== England FA Challenge Cup 1872-73
+
+<!-- start pre -->        1st Round
+Oct 19  Barnes             0  South Norwood      1
+Oct 26  1st Surrey Rifles  2  Upton Park         0
+Oct 26  Maidenhead         1  Marlow             0
+Oct 26  Oxford University  3  Crystal Palace     2
+Oct 26  Royal Engineers    3  Civil Service      0
+Oct 26  Windsor Home Park  4  Reigate Priory     2
+        Clapham Rovers     W  Hitchin            0
+Byes:   Queen's Park
+        Wanderers
+
+        2nd Round
+Nov 23  Clapham Rovers     0  Oxford University  3
+Nov 23  Maidenhead         3  1st Surrey Rifles  0
+Dec 07  Windsor Home Park  3  South Norwood      0
+Byes:   Queen's Park
+        Royal Engineers
+        Wanderers
+
+        3rd Round
+Dec 09  Oxford University  1  Royal Engineers    0
+Dec 21  Windsor Home Park  0  Maidenhead         1
+Byes:   Queen's Park
+        Wanderers
+
+        Quarter-finals
+Feb 03  Oxford University  4  Maidenhead         0
+Byes:   Queen's Park
+        Wanderers
+
+        Semi-final
+        Oxford University  W  Queen's Park       0
+Bye:    Wanderers
+
+        Final
+Mar 29  Wanderers          2  Oxford University  0  played at Lillie Bridge
+

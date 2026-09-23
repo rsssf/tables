@@ -1,0 +1,107 @@
+<!--
+   title:   England - FA Challenge Cup 1880-1881
+   source:  https://rsssf.org/tablese/engcup1881.html
+  -->
+
+
+== England FA Challenge Cup 1880-81
+
+<!-- start pre -->        1st Round
+Oct 16  Turton                 5  Briggs Britannia       0
+Oct 23  Old Carthusians        7  Saffron Walden         0
+Oct 30  Astley Bridge          4  Eagley                 0
+Oct 30  Aston Villa            5  Wednesbury Strollers   3
+Oct 30  Blackburn Rovers       6  Sheffield Providence   2
+Oct 30  Great Marlow           6  Clarence               0
+Oct 30  Sheffield              5  Blackburn Olympic      4
+Nov 04  Notts County           4  Derbyshire             4
+Nov 06  Brentwood              0  Old Etonians          10
+Nov 06  Hertfordshire Rangers  6  Barnes                 0
+Nov 06  Spilsby                0  Stafford Road Works    7
+Nov 06  St Peters              1  Hendon                 8
+Nov 06  Swifts                 1  Old Foresters          1
+Nov 06  West End               1  Hanover                0
+Nov 11  Calthorpe              1  Grantham               2
+Nov 13  Acton                  1  Kildare                1
+Nov 13  Clapham Rovers        15  Finchley               0
+Nov 13  Darwen                 8  Brigg                  0
+Nov 13  Grey Friars            0  Windsor Home Park      0
+Nov 13  Maidenhead             1  Old Harrovians         1
+Nov 13  Mosquitoes             1  Upton Park             8
+Nov 13  Reading                5  Hotspur                1
+Nov 13  Reading Abbey          1  St Albans              0
+Nov 13  Rochester              1  Dreadnought            2
+Nov 13  Romford                1  Reading Minster        1
+Nov 13  Royal Engineers        0  Remnants               0
+Nov 13  Weybridge              3  Henley                 0
+        Nottingham Forest      W  Caius College          0
+        Pilgrims               W  Old Philberdians       0
+        Rangers                W  Wanderers              0
+        The Wednesday          W  Queen's Park           0
+
+        Replays
+Nov 20  Kildare                0  Acton                  5
+Nov 20  Old Foresters          1  Swifts                 2
+Nov 20  Old Harrovians         0  Maidenhead             1
+Nov 20  Remnants               0  Royal Engineers        1
+Nov 20  Windsor Home Park      1  Grey Friars            3
+Nov 27  Derbyshire             2  Notts County           4
+        Romford                W  Reading Minster        0
+
+        2nd Round
+Dec 04  Nottingham Forest      1  Aston Villa            2
+Dec 04  Old Etonians           2  Hendon                 0
+Dec 09  Royal Engineers        1  Pilgrims               0
+Dec 11  Grantham               1  Stafford Road Works    1
+Dec 11  Great Marlow           4  West End               0
+Dec 11  Grey Friars            1  Maidenhead             0
+Dec 11  Old Carthusians        5  Dreadnought            1
+Dec 11  Reading Abbey          2  Acton                  1
+Dec 18  Astley Bridge          0  Turton                 3
+Dec 18  Blackburn Rovers       0  The Wednesday          4
+Dec 18  Reading                0  Swifts                 1
+Dec 18  Sheffield              1  Darwen                 5
+Dec 18  Weybridge              0  Upton Park             3
+Byes:   Clapham Rovers
+        Hertfordshire Rangers
+        Notts County
+        Rangers
+        Romford
+
+        Replay
+Dec 16  Stafford Road Works    7  Grantham               1
+
+        3rd Round
+Jan 08  Clapham Rovers         2  Swifts                 1
+Jan 08  Turton                 0  The Wednesday          2
+Feb 05  Old Etonians           3  Hertfordshire Rangers  0
+Feb 09  Royal Engineers        6  Rangers                0
+Feb 12  Notts County           1  Aston Villa            3
+Feb 12  Romford                2  Reading Abbey          0
+Byes:   Darwen
+        Great Marlow
+        Grey Friars
+        Old Carthusians
+        Stafford Road Works
+        Upton Park
+
+        4th Round
+Feb 05  Darwen                 5  The Wednesday          2
+Feb 12  Clapham Rovers         5  Upton Park             4
+Feb 19  Aston Villa            2  Stafford Road Works    3
+Feb 19  Grey Friars            0  Old Etonians           4
+Feb 19  Old Carthusians        2  Royal Engineers        1
+Feb 19  Romford                2  Great Marlow           1
+
+        Quarter-finals
+Mar 05  Darwen                15  Romford                0
+Mar 19  Old Carthusians        3  Clapham Rovers         1
+Mar 19  Stafford Road Works    1  Old Etonians           2
+
+        Semi-finals
+Mar 26  Old Carthusians        4  Darwen                 1  played at Kennington Oval
+Bye:    Old Etonians
+
+        Final
+Apr 09  Old Carthusians        3  Old Etonians           0  played at Kennington Oval
+

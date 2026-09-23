@@ -1,0 +1,77 @@
+<!--
+   title:   England - FA Challenge Cup 1877-1878
+   source:  https://rsssf.org/tablese/engcup1878.html
+  -->
+
+
+== England FA Challenge Cup 1877-78
+
+<!-- start pre -->        1st Round
+Oct 27  Grantham               0  Clapham Rovers         2
+Oct 27  High Wycombe           4  Woodgrange             0
+Oct 27  Maidenhead            10  Reading Hornets        0
+Nov 02  Cambridge University   3  Southall               1
+Nov 03  Hawks                  5  Minerva                2
+Nov 03  Hendon                 0  Great Marlow           2
+Nov 03  Notts County           1  Sheffield              1
+Nov 03  Oxford University      5  Hertfordshire Rangers  2
+Nov 03  Pilgrims               0  Ramblers               0
+Nov 07  Darwen                 3  Manchester             0
+Nov 07  Reading                2  South Norwood          0
+Nov 10  103rd Light Inf        0  Old Harrovians         2
+Nov 10  1st Surrey Rifles      1  Forest School          0
+Nov 10  Panthers               1  Wanderers              9
+Nov 10  Remnants               4  St Stephens            0
+Nov 10  Swifts                 3  Leyton                 2
+Nov 10  Upton Park             3  Rochester              0
+Nov 12  Shropshire Wanderers   0  Druids                 1
+        Barnes                 W  St Marks               0
+        Old Foresters          W  Old Wykehamists        0
+        Royal Engineers        W  Highbury Union         0
+
+        Replays
+Nov 09  Ramblers               0  Pilgrims               1
+Dec 01  Sheffield              3  Notts County           0
+
+        2nd Round
+Dec 08  Cambridge University   4  Maidenhead             2
+Dec 08  Reading                0  Upton Park             1
+Dec O8  Royal Engineers        6  Pilgrims               0
+Dec 15  Barnes                 3  Great Marlow           1
+Dec 15  High Wycombe           0  Wanderers              9
+Dec 15  Oxford University      1  Old Foresters          0
+Dec 22  1st Surrey Rifles      0  Old Harrovians         6
+Dec 22  Clapham Rovers         4  Swifts                 0
+Dec 22  Remnants               2  Hawks                  0
+Dec 29  Darwen                 0  Sheffield              1
+Bye:    Druids
+
+        3rd Round
+Jan 12  Wanderers              1  Barnes                 1
+Jan 19  Upton Park             3  Remnants               0
+Jan 30  Royal Engineers        8  Druids                 0
+Feb 02  Old Harrovians         2  Cambridge University   2
+Feb 02  Oxford University      3  Clapham Rovers         2
+Bye:    Sheffield
+
+        Replays
+Jan 26  Barnes                 1  Wanderers              4
+Feb 09  Cambridge University   2  Old Harrovians         2
+Feb 16  Old Harrovians         2  Cambridge University   0  played at Kennington Oval
+
+        Quarter-finals
+Feb 15  Royal Engineers        3  Oxford University      3
+Feb 16  Wanderers              3  Sheffield              0
+Mar 09  Old Harrovians         3  Upton Park             1
+
+        Replays
+Feb 27  Oxford University      2  Royal Engineers        2
+Mar 12  Royal Engineers        4  Oxford University      2  played at Royal Engineers
+
+        Semi-finals
+Mar 16  Royal Engineers        2  Old Harrovians         1  played at Kennington Oval
+Bye:    Wanderers
+
+        Final
+Mar 23  Wanderers              3  Royal Engineers        1  played at Kennington Oval
+

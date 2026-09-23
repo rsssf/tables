@@ -1,0 +1,3 @@
+tablese/engcup1877              :  1876-77
+tablese/engcup1879              :  1878-79
+tablese/engcuphist              :  list of cup finals

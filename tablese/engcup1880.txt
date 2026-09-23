@@ -1,0 +1,100 @@
+<!--
+   title:   England - FA Challenge Cup 1879-1880
+   source:  https://rsssf.org/tablese/engcup1880.html
+  -->
+
+
+== England FA Challenge Cup 1879-80
+
+<!-- start pre -->        1st Round
+Oct 25  Maidenhead             3  Calthorpe              1
+Nov 01  Blackburn Rovers       5  Tyne Association       1
+Nov 01  Eagley                 0  Darwen                 1
+Nov 01  Gresham                3  Kildare                0
+Nov 01  Mosquitoes             3  St Peters Institute    1
+Nov 01  Pilgrims               5  Clarence               2
+Nov 01  South Norwood          4  Brentwood              2
+Nov 01  Turton                 7  Brigg                  0
+Nov 06  Great Marlow           1  Oxford University      1
+Nov 08  Acton                  0  Old Carthusians        4
+Nov 08  Clapham Rovers         7  Romford                0
+Nov 08  Finchley               0  Old Harrovians         2
+Nov 08  Grey Friars            2  Hanover                1
+Nov 08  Hendon                 1  Old Foresters          1
+Nov 08  Hotspur                1  Argonauts              1
+Nov 08  Nottingham Forest      4  Notts County           0
+Nov 08  Stafford Road Works    2  Wednesbury Town        0
+Nov 13  Royal Engineers        2  Cambridge University   0
+Nov 15  Hertfordshire Rangers  2  Minerva                1
+Nov 15  Remnants               1  Upton Park             1
+Nov 15  Rochester              0  Wanderers              6
+        Birmingham             W  Panthers               0
+        Henley                 W  Reading                0
+        Old Etonians           W  Barnes                 0
+        Sheffield              W  Queen's Park           0
+        West End               W  Swifts                 0
+Byes:   Aston Villa
+        Providence
+
+        Replays
+Nov 10  Oxford University      1  Great Marlow           0
+Nov 15  Argonauts              0  Hotspur                1
+Nov 15  Old Foresters          2  Hendon                 2
+Nov 22  Hendon                 3  Old Foresters          1
+Nov 25  Upton Park             5  Remnants               2
+
+        2nd Round
+Nov 29  Henley                 1  Maidenhead             3
+Dec 06  Blackburn Rovers       3  Darwen                 1
+Dec 13  Stafford Road Works    1  Aston Villa            1
+Dec 13  Turton                 0  Nottingham Forest      6
+Dec 13  West End               1  Hotspur                0
+Dec 15  Sheffield              3  Sheffield Providence   3
+Dec 20  Clapham Rovers         4  South Norwood          0
+Dec 20  Gresham                0  Grey Friars            9
+Dec 20  Mosquitoes             1  Hendon                 7
+Dec 23  Royal Engineers        4  Upton Park             1
+Jan 10  Wanderers              1  Old Carthusians        0
+Jan 19  Oxford University      6  Birmingham             0
+        Pilgrims               W  Hertfordshire Rangers  0
+Byes:   Old Etonians
+        Old Harrovians
+
+        Replays
+Dec 29  Sheffield              3  Sheffield Providence   0  played at Sheffield
+Jan 24  Aston Villa            3  Stafford Road Works    1
+
+        3rd Round
+Jan 17  Pilgrims               0  Clapham Rovers         7
+Jan 24  Old Etonians           3  Wanderers              1
+Jan 31  Nottingham Forest      6  Blackburn Rovers       0
+Feb 04  Royal Engineers        2  Old Harrovians         0
+        Oxford University      W  Aston Villa            0
+Byes:   Grey Friars
+        Hendon
+        Maidenhead
+        Sheffield
+        West End
+
+        4th Round
+Feb 07  Old Etonians           5  West End               1
+Feb 14  Clapham Rovers         2  Hendon                 0
+Feb 14  Oxford University      1  Maidenhead             0
+Feb 18  Royal Engineers        1  Grey Friars            0
+Feb 19  Nottingham Forest      2  Sheffield              2  Sheffield disqualified
+
+        Quarter-finals
+Feb 21  Old Etonians           0  Clapham Rovers         1
+Mar 05  Oxford University      1  Royal Engineers        1  played at Kennington Oval
+Bye:    Nottingham Forest
+
+        Replay
+Mar 15  Oxford University      1  Royal Engineers        0  played at Kennington Oval
+
+        Semi-finals
+Mar 27  Oxford University      1  Nottingham Forest      0  played at Kennington Oval
+Bye:    Clapham Rovers
+
+        Final
+Apr 10  Clapham Rovers         1  Oxford University      0  played at Kennington Oval
+

@@ -1,0 +1,63 @@
+<!--
+   title:   England - FA Challenge Cup 1874-1875
+   source:  https://rsssf.org/tablese/engcup1875.html
+  -->
+
+
+== England FA Challenge Cup 1874-75
+
+<!-- start pre -->        1st Round
+Oct 10  Pilgrims              3  South Norwood         1
+Oct 24  Upton Park            0  Barnes                3
+Oct 31  Oxford University     6  Brondesbury           0
+Oct 31  Wanderers            16  Farningham            0
+Oct 31  Woodford Wells        1  High Wycombe          0
+Nov 05  Old Etonians          0  Swifts                0
+Nov 07  Clapham Rovers        3  Panthers              0
+Nov 07  Royal Engineers       3  Great Marlow          0
+Nov 14  Cambridge University  0  Crystal Palace        0
+Nov 14  Hitchin               0  Maidenhead            1
+Nov 14  Southall              0  Leyton                0
+        Civil Service         W  Harrow Chequers       0
+        Shropshire Wanderers  W  Sheffield             0
+        Windsor Home Park     W  Uxbridge              0
+Bye:    Reigate Priory
+
+        Replays
+Nov 14  Swifts                1  Old Etonians          1
+Nov 21  Crystal Palace        1  Cambridge University  2
+Nov 26  Old Etonians          3  Swifts                0  played at Old Etonians
+Nov 28  Leyton                0  Southall              5
+
+        2nd Round
+Nov 14  Shropshire Wanderers  1  Civil Service         0
+Nov 21  Wanderers             5  Barnes                0
+Dec 05  Clapham Rovers        2  Pilgrims              0
+Dec 05  Maidenhead            2  Reigate Priory        1
+Dec 05  Royal Engineers       5  Cambridge University  0
+Dec 05  Woodford Wells        3  Southall              0
+        Oxford University     W  Windsor Home Park     0
+Bye:    Old Etonians
+
+        Quarter-finals
+Jan 23  Old Etonians          1  Maidenhead            0
+Jan 23  Shropshire Wanderers  1  Woodford Wells        1
+Jan 30  Royal Engineers       3  Clapham Rovers        2
+Jan 30  Wanderers             1  Oxford University     2
+
+        Replay
+Feb 06  Woodford Wells        0  Shropshire Wanderers  2
+
+        Semi-finals
+Feb 27  Oxford University     1  Royal Engineers       1  played at Kennington Oval
+Feb 27  Old Etonians          1  Shropshire Wanderers  0  played at Kennington Oval
+
+        Replay
+Mar 05  Royal Engineers       1  Oxford University     0  played at Kennington Oval
+
+        Final
+Mar 13  Old Etonians          1  Royal Engineers       1  played at Kennington Oval
+
+        Replay
+Mar 16  Royal Engineers       2  Old Etonians          0  played at Kennington Oval
+

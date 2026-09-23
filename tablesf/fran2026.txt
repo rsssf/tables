@@ -1,0 +1,175 @@
+<!--
+   title:   France 2025/26
+   source:  https://rsssf.org/tablesf/fran2026.html
+   author:  Karel Stokkermans
+   updated: 18 Jun 2026
+  -->
+
+
+== France 2025/26
+==== Ligue 1  ‹§l1›
+
+Final Table:
+
+ 1.Paris-Saint-Germain FC    34  24  4  6  74-29  76  [C]  Champions
+ 2.RC Lens                   34  22  4  8  66-35  70
+ 3.Lille OSC                 34  18  7  9  52-37  61
+ 4.Olympique Lyonnais        34  18  6 10  53-40  60
+ 5.Olympique de Marseille    34  18  5 11  63-45  59
+ 6.Stade Rennais FC          34  17  8  9  59-50  59
+ 7.AS Monaco                 34  16  6 12  60-54  54
+ 8.RC Strasbourg Alsace      34  15  8 11  58-47  53
+ 9.Toulouse FC               34  12  9 13  47-46  45
+10.FC Lorient                34  11 12 11  48-51  45  [P]
+11.Paris FC                  34  11 11 12  47-50  44  [P]
+12.Stade Brestois            34  10  9 15  43-55  39
+13.Angers SCO                34   9  9 16  29-48  36
+14.Le Havre AC               34   7 14 13  32-44  35
+15.AJ Auxerre                34   8 10 16  34-44  34
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+16.OGC Nice                  34   7 11 16  37-60  32       ‹Relegation Playoff, see §1prorel›
+----------------------------------------------------
+17.FC Nantes                 34   5  9 20  29-52  24       Relegated
+18.FC Metz                   34   3  8 23  32-76  17  [P]  Relegated
+
+===== Promotion/Relegation Playoff 1st/2nd Level  ‹§1prorel›
+
+Round 1 [May 12]
+Red Star      2-3 Rodez
+
+Round 2 [May 15]
+Saint-Etienne 0-0 Rodez         [aet, 7-6 pen]
+
+Final
+
+First Leg [May 26]
+Saint-Etienne 0-0 Nice
+
+Second Leg [May 29]
+Nice          4-1 Saint-Etienne
+
+NB: all remain at former level
+
+
+==== Coupe de la France  ‹§coupefrance›
+
+1/16 Finals
+[Jan 10]
+Angers                    1-1 Toulouse                  [aet, 5-6 pen]
+Montreuil                 2-4 Amiens
+Bastia                    0-2 Troyes
+Orléans                   1-3 Monaco
+Avranches                 0-6 Strasbourg
+Istres                    0-2 Laval
+Hauts Lyonnais            1-3 Lorient
+Le Puy                    0-0 Reims                     [aet, 0-3 pen]
+[Jan 11]
+Sochaux                   0-3 Lens
+Metz                      0-4 Montpellier
+Nantes                    1-1 Nice                      [aet, 3-5 pen]
+Le Mans                   0-0 Nancy                     [aet, 4-1 pen]
+Chantilly                 1-3 Rennes
+Lille                     1-2 Lyon
+[Jan 12]
+Paris-Saint-Germain       0-1 Paris FC
+[Jan 13]
+Bayeux                    0-9 Marseille
+
+1/8 Finals
+[Feb 3]
+Reims                     3-0 Le Mans
+Marseille                 3-0 Rennes
+[Feb 4]
+Lorient                   2-0 Paris FC
+Nice                      3-2 Montpellier
+Lyon                      2-0 Laval
+Toulouse                  1-0 Amiens
+Troyes                    2-4 Lens
+[Feb 5]
+Strasbourg                3-1 Monaco
+
+Quarterfinals
+[Mar 3]
+Strasbourg                2-1 Reims
+[Mar 4]
+Lorient                   0-0 Nice                      [aet, 5-6 pen]
+Marseille                 2-2 Toulouse                  [aet, 3-4 pen]
+[Mar 5]
+Lyon                      2-2 Lens                      [aet, 4-5 pen]
+
+Semifinals
+[Apr 21]
+Lens                      4-1 Toulouse
+[Apr 22]
+Strasbourg                0-2 Nice
+
+Final [May 22]
+Lens                      3-1 Nice
+
+
+==== Ligue 2  ‹§l2›
+
+Final Table:
+
+ 1.ES Troyes AC              34  20  7  7  60-33  67       Promoted
+ 2.Le Mans FC                34  16 14  4  50-31  62  [P]  Promoted
+----------------------------------------------------
+ 3.AS Saint-Etienne          34  18  6 10  59-38  60  [R]  ‹Promotion Playoff, see §1prorel›
+ 4.Red Star FC 93            34  16 10  8  45-37  58       ‹Promotion Playoff, see §1prorel›
+ 5.Rodez Aveyron Football    34  15 13  6  45-39  58       ‹Promotion Playoff, see §1prorel›
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 6.Stade de Reims            34  14 14  6  53-35  56  [R]
+ 7.FC Annecy                 34  15  7 12  49-39  52
+ 8.Montpellier-Hérault SC    34  14  9 11  41-31  51  [R]
+ 9.Pau FC                    34  12  9 13  48-62  45
+10.USL Dunkerque             34  11 10 13  53-45  43
+11.En Avant Guingamp         34  10 10 14  42-49  40
+12.Grenoble Foot 38          34   8 15 11  33-39  39
+13.Clermont Foot Auvergne 63 34   9 10 15  38-44  37
+14.AS Nancy Lorraine         34   9 10 15  35-52  37  [P]
+15.US Boulogne-sur-mer CO    34   9  9 16  34-49  36  [P]
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+16.Stade Lavallois FC        34   6 14 14  30-48  32       ‹Relegation Playoff, see §2prorel›
+----------------------------------------------------
+17.SC Bastia                 34   5 13 16  23-39  28       Relegated
+18.Amiens SC                 34   6  6 22  37-65  24       Relegated
+
+===== Promotion/Relegation Playoff 2nd/3rd Level  ‹§2prorel›
+
+First Leg [May 19]
+Rouen         1-1 Laval
+
+Second Leg [May 24]
+Laval         1-0 Rouen
+
+NB: both remain at former level
+
+
+==== National  ‹§nat›
+
+Final Table:
+
+ 1.Dijon FCO                 32  18 11  3  52-25  65       Promoted
+ 2.FC Sochaux-Montbéliard    32  16 10  6  51-26  58       Promoted
+----------------------------------------------------
+ 3.FC de Rouen 1899          32  14 13  5  43-29  55       ‹Promotion Playoff, see §2prorel›
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.FC Fleury 91              32  15  9  8  47-30  54  [P]
+ 5.Versailles 78             32  15  8  9  46-34  53
+ 6.US Orléans Loiret         32  14  9  9  42-42  51
+ 7.Le Puy Foot 43 Auvergne   32  12 11  9  45-38  47  [P]
+ 8.SM Caen                   32   8 16  8  39-34  40  [R]
+ 9.US Concarneau             32   8 14 10  32-37  38
+10.Valenciennes FC           32  10  8 14  35-44  37  [-1]
+11.Aubagne FC                32   9 10 13  38-46  37
+12.FC Villefranche B'jolais  32  10  7 15  34-45  37
+13.US Quevilly-Rouen Métro   32   8  9 15  34-45  33
+14.Paris 13 Atlético         32   7 11 14  26-41  32
+15.Bourg-en-Bresse Péronnas  32   8  7 17  25-44  31
+----------------------------------------------------
+16.LB Châteauroux            32   6 13 13  35-49  30  [-1] Relegated
+17.Stade Briochin            32   5 12 15  35-50  27  [P]  Relegated
+ -.AC Ajaccio                excluded
+
+Promoted: VFC La Roche-sur-Yon, US Thionville Lusitanos, AS Cannes
+

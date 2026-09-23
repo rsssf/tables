@@ -1,0 +1,30 @@
+-- make heading (hb) out of b-enclosed a name in line ><a name="1prorel">Promotion/Relegation Playoff 1st/2nd Level</a><
+-- make heading (hb) out of b-enclosed a name in line ><a name="2prorel">Promotion/Relegation Playoff 2nd/3rd Level</a><
+-- removing nav(igation) section:
+
+‹Ligue 1, see §l1›
+‹Coupe de la France, see §coupefrance›
+‹Ligue 2, see §l2›
+‹National, see §nat›
+
+
+-- removing nav(igation) section:
+
+‹2024/25, see page fran2025›.
+
+‹list of champions, see page franchamp›.
+
+‹list of final tables, see page franfullhist›.
+
+‹list of 2nd level final tables, see page fran2hist›.
+
+‹list of 3rd level final tables, see page fran3hist›.
+
+‹list of topscorers, see page frantops›.
+
+‹list of 2nd level topscorers, see page fran2tops›.
+
+‹list of cup winners, see page francuphist›.
+
+‹list of league cup finals, see page franleagcuphist›.
+

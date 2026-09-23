@@ -1,4 +1,5 @@
 tableso/oost2025                :  2024/25
+tableso/oost2027                :  2026/27
 tableso/oosthist                :  list of final tables
 tableso/oostchamp               :  list of champions
 tableso/oostcuphist             :  list of cup finals

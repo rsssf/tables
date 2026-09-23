@@ -1,0 +1,223 @@
+<!--
+   title:   Germany 2025/26
+   source:  https://rsssf.org/tablesd/duit2026.html
+   author:  Karel Stokkermans
+   updated: 18 Jun 2026
+  -->
+
+
+== Germany 2025/26
+==== 1. Bundesliga  ‹§1bl›
+
+Final Table:
+
+ 1.FC Bayern München            34  28  5  1 122-36  89  [C]  Champions
+ 2.Borussia Dortmund            34  22  7  5  70-34  73
+ 3.RB Leipzig                   34  20  5  9  66-47  65
+ 4.VfB Stuttgart                34  18  8  8  71-49  62
+ 5.TSG 1899 Hoffenheim          34  18  7  9  65-52  61
+ 6.Bayer 04 Leverkusen          34  17  8  9  68-47  59
+ 7.SC Freiburg                  34  13  8 13  51-57  47
+ 8.Eintracht Frankfurt          34  11 11 12  61-65  44
+ 9.FC Augsburg                  34  12  7 15  45-61  43
+10.1.FSV Mainz 05               34  10 10 14  44-53  40
+11.1.FC Union Berlin            34  10  9 15  44-58  39
+12.Borussia Mönchengladbach     34   9 11 14  42-53  38
+13.Hamburger SV                 34   9 11 14  40-54  38  [P]
+14.1.FC Köln                    34   7 11 16  49-63  32  [P]
+15.SV Werder Bremen             34   8  8 18  37-60  32
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+16.VfL Wolfsburg                34   7  8 19  45-69  29       ‹Relegation Playoff, see §1prorel›
+-------------------------------------------------------
+17.1.FC Heidenheim              34   6  8 20  41-72  26       Relegated
+18.FC Sankt Pauli               34   6  8 20  29-60  26       Relegated
+
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+
+First Leg [May 21]
+Wolfsburg       0-0 Paderborn
+
+Second Leg [May 25]
+Paderborn       2-1 Wolfsburg       [aet]
+
+NB: SC Paderborn promoted, VfL Wolfsburg relegated
+
+
+==== DFB Pokal  ‹§dfbpokal›
+
+Round 1
+[Aug 15]
+Saarbrücken            1-3 Magdeburg
+FC Gütersloh 2000      0-5 Union Berlin
+Sonnenhof Großaspach   0-4 Bayer Leverkusen
+Arminia Bielefeld      1-0 Werder Bremen
+[Aug 16]
+BFC Dynamo (Berlin)    1-3 Bochum                 [aet]
+FK Pirmasens           1-2 Hamburg                [aet]
+Bahlinger SC           0-5 Heidenheim
+Eintracht Norderstedt  0-0 Sankt Pauli            [aet, 2-3 pen]
+FV Illertissen         3-3 Nürnberg               [aet, 6-5 pen]
+Hansa Rostock          0-4 Hoffenheim
+SV Hemelingen          0-9 Wolfsburg
+Sandhausen             2-4 RB Leipzig
+Energie Cottbus        1-0 Hannover
+Sportfreunde Lotte     0-2 Freiburg
+VfB Lübeck             1-2 Darmstadt 98
+[Aug 17]
+Viktoria Köln          1-3 Paderborn
+Engers                 0-5 Eintracht Frankfurt
+Lok Leipzig            0-1 Schalke 04             [aet]
+Atlas Delmenhorst      2-3 Borussia M'gladbach
+Blau-Weiß Lohne        0-2 SpVgg Greuther Fürth
+Eintracht 1949 Potsdam 0-7 Kaiserslautern
+Jahn Regensburg        1-2 Köln
+ZFC Meuselwitz         0-5 Karlsruhe
+FC 08 Homburg          0-2 Holstein Kiel
+Hallescher FC          0-2 Augsburg
+Ulm 1846               0-1 Elversberg
+[Aug 18]
+Schweinfurt            2-4 Fortuna Düsseldorf
+Dynamo Dresden         0-1 Mainz
+Preußen Münster        0-0 Hertha BSC             [aet, 3-5 pen]
+Rot-Weiss Essen        0-1 Borussia Dortmund
+[Aug 26]
+Eintracht Braunschweig 4-4 Stuttgart              [aet, 7-8 pen]
+[Aug 27]
+Wehen Wiesbaden        2-3 Bayern München
+
+Round 2
+[Oct 28]
+Heidenheim             0-1 Hamburg
+Eintracht Frankfurt    1-1 Borussia Dortmund      [aet, 2-4 pen]
+Hertha BSC             3-0 Elversberg
+Wolfsburg              0-1 Holstein Kiel
+Borussia M'gladbach    3-1 Karlsruhe
+Energie Cottbus        1-4 RB Leipzig
+Augsburg               0-1 Bochum
+Sankt Pauli            2-2 Hoffenheim             [aet, 8-7 pen]
+[Oct 29]
+Mainz                  0-2 Stuttgart
+FV Illertissen         0-3 Magdeburg
+Paderborn              2-4 Bayer Leverkusen       [aet]
+SpVgg Greuther Fürth   0-1 Kaiserslautern
+Köln                   1-4 Bayern München
+Union Berlin           2-1 Arminia Bielefeld      [aet]
+Fortuna Düsseldorf     1-3 Freiburg
+Darmstadt 98           4-0 Schalke 04
+
+1/8 Finals
+[Dec 2]
+Borussia M'gladbach    1-2 Sankt Pauli
+Hertha BSC             6-1 Kaiserslautern
+Borussia Dortmund      0-1 Bayer Leverkusen
+RB Leipzig             3-1 Magdeburg
+[Dec 3]
+Freiburg               2-0 Darmstadt 98
+Bochum                 0-2 Stuttgart
+Union Berlin           2-3 Bayern München
+Hamburg                1-1 Holstein Kiel          [aet, 2-4 pen]
+
+Quarterfinals
+[Feb 3]
+Bayer Leverkusen       3-0 Sankt Pauli
+[Feb 4]
+Holstein Kiel          0-3 Stuttgart
+[Feb 10]
+Hertha BSC             1-1 Freiburg               [aet, 4-5 pen]
+[Feb 11]
+Bayern München         2-0 RB Leipzig
+
+Semifinals
+[Apr 22]
+Bayer Leverkusen       0-2 Bayern München
+[Apr 23]
+Stuttgart              2-1 Freiburg               [aet]
+
+Final [May 23]
+Bayern München         3-0 Stuttgart
+
+
+==== 2. Bundesliga  ‹§2bl›
+
+Final Table:
+
+ 1.FC Schalke 04 Gelsenkirchen  34  21  7  6  50-31  70       Promoted
+ 2.SV 07 Elversberg             34  18  8  8  64-39  62       Promoted
+-------------------------------------------------------
+ 3.SC Paderborn 07              34  18  8  8  59-45  62       ‹Promotion Playoff, see §1prorel›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.Hannover 96                  34  16 12  6  60-44  60
+ 5.SV Darmstadt 98              34  13 13  8  57-45  52
+ 6.1.FC Kaiserslautern          34  16  4 14  52-47  52
+ 7.Hertha BSC Berlin            34  14  9 11  47-44  51
+ 8.1.FC Nürnberg                34  12 10 12  47-45  46
+ 9.VfL Bochum                   34  11 11 12  49-47  44  [R]
+10.Karlsruher SC                34  12  8 14  53-64  44
+11.Dynamo Dresden               34  11  8 15  54-53  41  [P]
+12.Holstein Kiel                34  11  8 15  44-48  41  [R]
+13.DSC Arminia Bielefeld        34  10  9 15  53-51  39  [P]
+14.1.FC Magdeburg               34  12  3 19  52-58  39
+15.Eintracht Braunschweig       34  10  7 17  36-54  37
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+16.SpVgg Greuther Fürth         34  10  7 17  49-68  37       ‹Relegation Playoff, see §2prorel›
+-------------------------------------------------------
+17.Fortuna Düsseldorf           34  11  4 19  33-53  37       Relegated
+18.Preußen Münster              34   6 12 16  38-61  30       Relegated
+
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+
+First Leg [May 22]
+RW Essen        1-0 Greuther Fürth
+
+Second Leg [May 26]
+Greuther Fürth  2-0 RW Essen
+
+NB: both remain at former level
+
+
+==== 3. Liga  ‹§3bl›
+
+Final Table:
+
+ 1.VfL Osnabrück                38  24  8  6  66-34  80       Promoted
+ 2.Energie Cottbus              38  21  9  8  72-51  72       Promoted
+-------------------------------------------------------
+ 3.Rot-Weiss Essen              38  20 10  8  78-66  70       ‹Promotion Playoff, see §2prorel›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.MSV Duisburg                 38  19 11  8  66-49  68  [P]
+ 5.FC Hansa Rostock             38  18 13  7  74-49  67
+ 6.SC Verl                      38  18 10 10  82-48  64
+ 7.Alemannia Aachen             38  19  7 12  76-57  64
+ 8.TSV 1860 München             38  15 11 12  54-53  56       Denied License
+ 9.SV Wehen Wiesbaden           38  15  8 15  54-52  53
+10.SV Waldhof Mannheim          38  15  7 16  59-72  52
+11.FC Viktoria Köln             38  15  6 17  51-53  51
+12.FC Ingolstadt 04             38  13 10 15  65-56  49
+13.SSV Jahn Regensburg          38  14  7 17  54-58  49  [R]
+14.VfB Stuttgart II             38  13  7 18  57-69  46
+15.1.FC Saarbrücken             38  10 14 14  51-57  44
+16.TSG Hoffenheim II            38  12  7 19  65-71  43  [P]
+-------------------------------------------------------
+17.TSV Havelse                  38   9  8 21  57-89  35  [P]
+18.FC Erzgebirge Aue            38   7 13 18  51-70  34       Relegated
+19.SSV Ulm 1846                 38   9  6 23  49-78  33  [R]  Relegated
+20.1.FC Schweinfurt 05          38   5  6 27  38-87  21  [P]  Relegated
+
+NB: TSV Havelse reprieved from relegation due to license denial TSV 1860 München
+
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+
+NB: only the winners of the RL Bayern (FC Würzburger Kickers; runners-up
+    behind 1.FC Nürnberg II, who did not apply for a third level license)
+    and the RL Nordost (1.FC Lokomotive Leipzig) enter the playoff; the
+    winners of the RL Nord (SV Meppen), the RL West (SC Fortuna Köln) and
+    the RL Südwest (SG Sonnenhof Großaspach) are promoted directly
+
+First Leg [May 28]
+Lok Leipzig     0-1 Würzburg
+
+Second Leg [Jun 1]
+Würzburg        2-1 Lok Leipzig
+
+NB: FC Würzburger Kickers promoted
+

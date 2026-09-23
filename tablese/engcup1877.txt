@@ -1,0 +1,66 @@
+<!--
+   title:   England - FA Challenge Cup 1876-1877
+   source:  https://rsssf.org/tablese/engcup1877.html
+  -->
+
+
+== England FA Challenge Cup 1876-77
+
+<!-- start pre -->        1st Round
+Oct 14  Pilgrims              4  Ramblers              1
+Oct 28  Upton Park            7  Leyton                0
+Nov 04  Forest School         4  Gresham               1
+Nov 04  Great Marlow          2  Hertfordshire Rangers 1
+Nov 04  Rochester             5  Highbury Union        0
+Nov 04  Royal Engineers       2  Old Harrovians        1
+Nov 04  South Norwood         4  Saxons                1
+Nov 04  Swifts                2  Reading               0
+Nov 08  Panthers              3  Woodgrange            0
+Nov 11  105th Regiment        3  1st Surrey Rifles     0
+Nov 11  Clapham Rovers        5  Reigate Priory        0
+        Barnes                W  Old Etonians          0
+        Cambridge University  W  High Wycombe          0
+        Oxford University     W  Old Salopians         0
+        Sheffield             W  Trojans               0
+        Shropshire Wanderers  W  Druids                0
+        Southall              W  Old Wykehamists       0
+        Wanderers             W  Saffron Walden        0
+Bye:    Queen's Park
+
+        2nd Round
+Nov 29  Great Marlow          1  Forest School         0
+Dec 02  South Norwood         0  Sheffield             7
+Dec 09  Barnes                0  Upton Park            1
+Dec 09  Panthers              0  Pilgrims              1
+Dec 09  Royal Engineers       3  Shropshire Wanderers  0
+Dec 14  Oxford University     6  105th Regiment        1
+Dec 16  Cambridge University  2  Clapham Rovers        1
+Dec 16  Rochester             1  Swifts                0
+Dec 16  Southall              0  Wanderers             6
+Bye:    Queen's Park
+
+        3rd Round
+Jan 20  Royal Engineers       1  Sheffield             0
+Jan 20  Wanderers             3  Pilgrims              0
+Jan 24  Upton Park            2  Great Marlow          2
+Feb 03  Cambridge University  4  Rochester             0
+        Oxford University     W  Queen's Park          0
+
+        Replay
+Jan 27  Great Marlow          0  Upton Park            1
+
+        Quarter-finals
+Feb 17  Cambridge University  1  Royal Engineers       0
+Feb 24  Oxford University     0  Upton Park            0
+Bye:    Wanderers
+
+        Replay
+Mar 10  Upton Park            0  Oxford University     1
+
+        Semi-finals
+Mar 20  Wanderers             1  Cambridge University  0  played at Kennington Oval
+Bye:    Oxford University
+
+        Final
+Mar 24  Wanderers             2  Oxford University     1  played at Kennington Oval
+
